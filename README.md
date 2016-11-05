@@ -22,9 +22,13 @@ Through the ages, genres fall and rised, music has greatly evolved. However, the
 
 
 ##Data Description
+###List of concert places
 
 A first approach will be to use existing event websites to grab informations about the musical scene in Switzerland. We plan to get a list of all locations were we can attend a concert. Using the plateform Resident Advisor, we can a good list of clubs and concerts hall in Switzerland. The website contains all line-ups of the concerts that have been announced through RA since 2006, giving us approximately 10 years of data. As the plateform is mainly electronic music oriented, the data will be mostly related to Techno scenes and Electro clubs.
 
+###Line-ups of Festivals / Concerts
+###Genres Analysis
+###Artists Analysis
 
 ##Feasability and Risks
 
