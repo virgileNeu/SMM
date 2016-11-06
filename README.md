@@ -45,10 +45,10 @@ Using the list of artist, we can also perform an analysis of the "foreign" rate 
 ##Feasability and Risks
 
 We already know that some data exists for some location, for instance with the new Montreux Jazz Museum in Art Lab we have access to all the artists that performed in the Montreux Jazz Festival for the last 50 years. We should be able to scrap enough data to at least cover the Vaud canton. The risks are the lack of other data or the time it will take to scrap it all the from various festival and concert room websites.
-We will focus on the tools learned in the first labs, foc and homeworks using on Python and using numpy and Panda's dataframes and using folium for the maps like in the third homework.
+We will focus on the tools learned in the first labs, foc and homeworks using Python,numpy and Panda's dataframes, and using folium for interactive maps like in the third homework.
 We also plan to use the Tweeter database or the Facebook API to grab some more data, tweets or comments on musical events to have more inputs in case we don't find as much information as required to have a precise and accurate representation.
-We can also try to contact only tickets sellers (like ticketcorner or fnac) to see if they agree to give us some data. This would be a last attempt if we are desparatly in lack of data.
-The major goal is to obtain the data, and we will use all the tools we can to have it, and this is the major challenge, as well as uniformying the raw data into Panda's DataFrame.
+We can also try to contact online tickets sellers (like ticketcorner or fnac) to see if they agree to give us some data. This would be a last attempt if we are desparatly in lack of data.
+The major goal is to obtain the a big set of data, and we will use all the tools we can to have it. We will to merge the data from different website and plateform in a unique, comparable dataset on which we will perform our analysis. Data Scrapping and Vizualisations will be the two main aspect we will focus on during this project.
 
 ##Deliverables
 
