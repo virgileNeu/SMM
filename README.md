@@ -11,7 +11,7 @@ Simon Narduzzi ( @Narduzzi ), IN
 ##Abstract
 > Music is an art form and cultural activity whose medium is sound and silence, which exist in time. - Wikipedia  
 
-Music is a way to express and share. It brings people together around a common focus. In ancient Greece, among all of the Arts, Music is the most beautiful, and respected. Along with a science, it is the object of high philosophical speculation. The Greeks are indeed the first people who have established real concerts, which contributed to the developpement of a socially conscious public actively participating in the hearing.
+Music is a way to express and share. It brings people together around a common focus. In ancient Greece, Music is the most beautiful, and respected of all Art forms. Along with Science, it is the object of high philosophical speculation. The Greeks are indeed the first people who have established real concerts, which contributed to the developpement of a socially conscious public actively participating in the hearing.
 
 Through the ages, Music has greatly evolved, some styles of music fell into disuse, while other genres emerged. However, the manner we celebrate and listen to music has remained the same : Concerts. <br>
 
