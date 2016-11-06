@@ -51,12 +51,15 @@ We already know that some data exists for some location, for instance with the n
 The project with be released with vizualisations using Folium or Javascript. We will create multiple interactive maps that will contain the following informations.
 
 ###Attendance Map
-The attendance map is a heat-map containing the medium attendance of concert place for each year. The idea is to display the evolution and popularity of festivals in Switzerland (Montreux Jazz, Paléo, Frauenfeld..), as well as the evolution of concert places : number of public institutions per city, size, etc.
+The attendance map is a heat-map containing the medium attendance of concert place for each year. The idea is to display the evolution of genre and popularity of festivals in Switzerland (Montreux Jazz, Paléo, Frauenfeld..), as well as the evolution of concert places : number of public institutions per city, size, etc.
 
 ###Genre evolution
 We can use attendance map to display the number of events of a certain genre in Switzerland. A heat map of colors symbolizing the genre of music will be displayed, and a slider under the map will allow the user to observe the evolution of music in Switzerland across time. Some side options will be available : select only one genre to display (observing the evolution of only one genre), compare two genres, and a "play" button to automatically observe the dynamic of the genres.
 
-###Artist popularity
+###Artist popularity/genre evolution
+Using data from the line-up, wikipedia or even twitter, we will be able to observe the popularity of a certain artiste. A search bar will be available to the user to perform search on the artist he/she wants. Using the interactive map, we can observe the evolution of an artiste across the time, if he/she came to Switzerland several times in a year, etc.
+
+More ideas can be explored, such as displaying an pieplot of genres of an artist.
 
 ##Timeplan
 
