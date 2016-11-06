@@ -3,7 +3,7 @@
 EPFL, November 2016
 
 ##Team
-Virgile Neu ( @virgileNeu ), IN  
+Virgile Neu ( @ virgileNeu ), IN  
 Alexandre Connat ( @AlexConnat ), SC  
 Simon Narduzzi ( @Narduzzi ), IN
 
@@ -64,6 +64,10 @@ The resulting map should look like this :
 
 ###Genre evolution
 We can use attendance map to display the number of events of a certain genre in Switzerland. A heat map of colors symbolizing the genre of music will be displayed, and a slider under the map will allow the user to observe the evolution of music in Switzerland across time. Some side options will be available : select only one genre to display (observing the evolution of only one genre), compare two genres, and a "play" button to automatically observe the dynamic of the genres.
+
+This map should look like the following picture, each color representing a genre. We can observe the evolution of popularity of a genre in each region. 
+
+[IPv4 usage observed using ICMP ping requests, source : Carna Botnet](http://internetcensus2012.bitbucket.org/images/geovideo.gif)
 
 ###Artist popularity/genre evolution
 Using data from the line-up, wikipedia or even twitter, we will be able to observe the popularity of a certain artiste. A search bar will be available to the user to perform search on the artist he/she wants. Using the interactive map, we can observe the evolution of an artiste across the time, if he/she came to Switzerland several times in a year, etc.
