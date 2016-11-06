@@ -1,17 +1,18 @@
+<img src="http://ada.epfl.ch/images/ADA-logo.png" width="400">
 # Swiss Music Map Project
 > Project of the course Applied Data Analysis, taught by Michele Catasta
 EPFL, November 2016
 
 ##Team
-Virgile Neu ( @ virgileNeu ), IN  
-Alexandre Connat ( @AlexConnat ), SC  
-Simon Narduzzi ( @Narduzzi ), IN
+Virgile Neu (@virgileNeu), IN  
+Alexandre Connat (@AlexConnat), SC  
+Simon Narduzzi (@Narduzzi), IN
 
 
 ##Abstract
 > Music is an art form and cultural activity whose medium is sound and silence, which exist in time. - Wikipedia  
 
-Music is a way to express and share. It brings people together around a common focus. In ancient Greece, Music is the most beautiful, and respected of all Art forms. Along with Science, it is the object of high philosophical speculation. The Greeks are indeed the first people who have established real concerts, which contributed to the developpement of a socially conscious public actively participating in the hearing.
+Music is a way to express and share. It brings people together around a common focus. In ancient Greece, among all of the Arts, Music is the most beautiful, and respected. Along with a science, it is the object of high philosophical speculation. The Greeks are indeed the first people who have established real concerts, which contributed to the developpement of a socially conscious public actively participating in the hearing.
 
 Through the ages, Music has greatly evolved, some styles of music fell into disuse, while other genres emerged. However, the manner we celebrate and listen to music has remained the same : Concerts. <br>
 
@@ -81,14 +82,14 @@ The next step will be to focus on the visualization (maps). That point shouldn't
 
 This project is consequent and a planning is difficult to predict, as we are not very aware of the data that are available at the moment. Maybe we will discover interesting informations constructing our dataframe, and discovering more possible comparison. But displaying the result can take a lot of time, that's why we will first develop the two points mentionned above before trying techniques such as Machine Learning on our data to discover new features.
 
-- Week 1 (7.11.2016) : Data Search / Data Scrapping for RA  
-- Week 2 (14.11.2016) : Data Search / Data Scrapping for other plateform  
-- Week 3 (21.11.2016) : Data Search / Data Scrapping for other plateform  
-- Week 4 (28.11.2016) : Data Search / Data Scrapping for other plateform (Tweeter, Facebook)  
-- Week 5 (5.11.2016) : Wikipedia artist extractor development / Data Analysis  
-- Week 6 (12.11.2016) : Wikipedia artist extractor development / Data Analysis  
-- Week 7 (19.11.2016) : Wikipedia artist extractor development  
-- Week 8 (26.11.2016) : Vizualisation developpement  
-- Week 9 (2.11.2016) : Vizualisation developpement  
-- Week 10 (9.11.2016) : Vizualisation developpement  
-- Week 10 (16.11.2016) : Vizualisation developpement  
+Week 1 (7.11.2016) : Data Search / Data Scrapping for RA  
+Week 2 (14.11.2016) : Data Search / Data Scrapping for other plateform  
+Week 3 (21.11.2016) : Data Search / Data Scrapping for other plateform  
+Week 4 (28.11.2016) : Data Search / Data Scrapping for other plateform (Tweeter, Facebook)  
+Week 5 (5.11.2016) : Wikipedia artist extractor development / Data Analysis  
+Week 6 (12.11.2016) : Wikipedia artist extractor development / Data Analysis  
+Week 7 (19.11.2016) : Wikipedia artist extractor development  
+Week 8 (26.11.2016) : Vizualisation developpement  
+Week 9 (2.11.2016) : Vizualisation developpement  
+Week 10 (9.11.2016) : Vizualisation developpement  
+Week 10 (16.11.2016) : Vizualisation developpement  
