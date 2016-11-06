@@ -45,21 +45,22 @@ Using the list of artist, we can also perform an analysis of the "foreign" rate 
 ##Feasability and Risks
 
 We already know that some data exists for some location, for instance with the new Montreux Jazz Museum in Art Lab we have access to all the artists that performed in the Montreux Jazz Festival for the last 50 years. We should be able to scrap enough data to at least cover the Vaud canton. The risks are the lack of other data or the time it will take to scrap it all the from various festival and concert room websites.
+We will focus on the tools learned in the first labs, foc and homeworks using on Python and using numpy and Panda's dataframes and using folium for the maps like in the third homework.
+We also plan to use the Tweeter database or the Facebook API to grab some more data, tweets or comments on musical events to have more inputs in case we don't find as much information as required to have a precise and accurate representation.
+We can also try to contact only tickets sellers (like ticketcorner or fnac) to see if they agree to give us some data. This would be a last attempt if we are desparatly in lack of data.
+The major goal is to obtain the data, and we will use all the tools we can to have it, and this is the major challenge, as well as uniformying the raw data into Panda's DataFrame.
 
 ##Deliverables
 
 The project with be released with vizualisations using Folium or Javascript. We will create multiple interactive maps that will contain the following informations.
 
 ###Attendance Map
-The attendance map is a heat-map containing the medium attendance of concert place for each year. The idea is to display the evolution of genre and popularity of festivals in Switzerland (Montreux Jazz, Paléo, Frauenfeld..), as well as the evolution of concert places : number of public institutions per city, size, etc.
+The attendance map is a heat-map containing the medium attendance of concert place for each year. The idea is to display the evolution and popularity of festivals in Switzerland (Montreux Jazz, Paléo, Frauenfeld..), as well as the evolution of concert places : number of public institutions per city, size, etc.
 
 ###Genre evolution
 We can use attendance map to display the number of events of a certain genre in Switzerland. A heat map of colors symbolizing the genre of music will be displayed, and a slider under the map will allow the user to observe the evolution of music in Switzerland across time. Some side options will be available : select only one genre to display (observing the evolution of only one genre), compare two genres, and a "play" button to automatically observe the dynamic of the genres.
 
-###Artist popularity/genre evolution
-Using data from the line-up, wikipedia or even twitter, we will be able to observe the popularity of a certain artiste. A search bar will be available to the user to perform search on the artist he/she wants. Using the interactive map, we can observe the evolution of an artiste across the time, if he/she came to Switzerland several times in a year, etc.
-
-More ideas can be explored, such as displaying an pieplot of genres of an artist.
+###Artist popularity
 
 ##Timeplan
 
