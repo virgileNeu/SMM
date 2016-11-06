@@ -67,7 +67,7 @@ This map should look like the following picture, each color representing a genre
 ![](http://www.zw3b.fr/var/contents/links/59/imgs/internet-census-2012.gif)
 >IPv4 usage observed using ICMP ping requests, source : Carna Botnet
 
-###Artist popularity / Genre evolution
+###Artist popularity / Artist genre evolution
 Using data from the line-up, wikipedia or even twitter, we will be able to observe the popularity of a certain artiste. A search bar will be available to the user to perform search on the artist he/she wants. Using the interactive map, we can observe the evolution of an artiste across the time, if he/she came to Switzerland several times in a year, etc.
 
 More ideas can be explored, such as displaying an piechart of genres of an artist.
