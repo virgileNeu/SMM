@@ -44,6 +44,12 @@ Using the list of artist, we can also perform an analysis of the "foreign" rate 
 
 ##Feasability and Risks
 
+We already know that some data exists for some location, for instance with the new Montreux Jazz Museum in Art Lab we have access to all the artists that perform in the Montreux Jazz Festival for the last 50 years. We should be able to scrap enough data to at least cover the Vaud canton. The risks are the lack of other data or the time it will take to scrap all the from various festival and concert room websites.
+
 ##Deliverables
 
+We will propose a map interface with several data visualisation, showing the genres or the nationality of the artists, the number of seats or other kind of stuff.
+
 ##Timeplan
+
+We hope to achieve the end of scraping by the checkpoint mid december or at most by the end of december, then focusing on the visualisation and if we have some spare time we will try to grab more data or offer more detailed visualisation or more different views on the maps.
