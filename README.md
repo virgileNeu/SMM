@@ -16,7 +16,7 @@ Music is a way to express and share. It brings people together around a common f
 
 Through the ages, Music has greatly evolved, some styles of music fell into disuse, while other genres emerged. However, the manner we celebrate and listen to music has remained the same : Concerts. <br>
 
-The goal of this project is to study the dynamics of music in Switzerland in recent decades, by studying the evolution of genres and audience population in concerts and major musical events.
+The goal of this project is to study the dynamics of music in Switzerland in recent decades, by analysing the evolution of genres and audience population in concerts and major musical events.
 
 
 ##Data Description
