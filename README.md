@@ -1,9 +1,9 @@
 # Swiss Music Map Project
 > Project of the course Applied Data Analysis, by Michele Catasta
 ***
-Virgile Neu, IN  
-Alexandre Connat, SC  
-Simon Narduzzi, IN
+Virgile Neu (@virgileNeu), IN  
+Alexandre Connat (@AlexConnat), SC  
+Simon Narduzzi (@Narduzzi), IN
 
 EPFL, November 2016
 
@@ -73,3 +73,15 @@ By the end of december we should have got all data from RA, festivals and wikipe
 The next step will be to focus on the visualization (maps). That point shouldn't take more than two weeks. We will try to spare time in order to grab more data or offer more detailed visualisation or more different views on the maps. 
 
 This project is consequent and a planning is difficult to predict, as we are not very aware of the data that are available at the moment. Maybe we will discover interesting informations constructing our dataframe, and discovering more possible comparison. But displaying the result can take a lot of time, that's why we will first develop the two points mentionned above before trying techniques such as Machine Learning on our data to discover new features.
+
+Week 1 (7.11.2016) : Data Search / Data Scrapping for RA
+Week 2 (14.11.2016) : Data Search / Data Scrapping for other plateform
+Week 3 (21.11.2016) : Data Search / Data Scrapping for other plateform
+Week 4 (28.11.2016) : Data Search / Data Scrapping for other plateform (Tweeter, Facebook)
+Week 5 (5.11.2016) : Wikipedia artist extractor development / Data Analysis
+Week 6 (12.11.2016) : Wikipedia artist extractor development / Data Analysis
+Week 7 (19.11.2016) : Wikipedia artist extractor development
+Week 8 (26.11.2016) : Vizualisation developpement
+Week 9 (2.11.2016) : Vizualisation developpement
+Week 10 (9.11.2016) : Vizualisation developpement
+Week 10 (16.11.2016) : Vizualisation developpement
