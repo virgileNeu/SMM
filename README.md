@@ -43,11 +43,10 @@ An other question being : What is the success of Swiss artists abroad ?
 
 ##Feasability and Risks
 
-We already know that some data exists for some location, for instance with the new Montreux Jazz Museum in Art Lab we have access to all the artists that performed in the Montreux Jazz Festival for the last 50 years. We should be able to scrap enough data to at least cover the Vaud canton. The risks are the lack of other data or the time it will take to scrap it all the from various festival and concert room websites.
-We will focus on the tools learned in the first labs and homeworks using Python, numpy and Panda's dataframes, and maybe using folium for interactive maps like in the third homework.
+We already know that some data exists for some location, for instance with the new Montreux Jazz Museum in Art Lab we have access to all the artists that performed in the Montreux Jazz Festival for the last 50 years. We should be able to scrap enough data to at least cover the Vaud canton. The risks are the lack of other data or the time it will take to scrap it all the from various festival and concert room websites.  
 We also plan to use the Twitter database or the Facebook API to grab some more data, tweets or comments on musical events to have more inputs in case we don't find as much information as required to have a precise and accurate representation.
-We can also try to contact online tickets sellers (like ticketcorner or fnac) to see if they agree to give us some data. This would be a last attempt if we are desparatly in lack of data.
-The major goal is to obtain a big set of data, and we will use all the tools we can to have it. We will to merge the data from different website and plateform in a unique, comparable dataset on which we will perform our analysis. Data Scrapping and Vizualisations will be the two main aspect we will focus on during this project.
+We can also try to contact online tickets sellers (like ticketcorner or fnac) to see if they agree to give us some data. This would be a last attempt if we are desparatly in lack of data.  
+We will focus on the tools learned in the first labs and homeworks using Python, numpy and Panda's dataframes, and using Javascript for visualizing data on interactive maps. The major goal is to obtain a big set of data, and we will use all the tools we can to have it. We will to merge the data from different website and plateform in a unique, comparable dataset on which we will perform our analysis. Data Scrapping and Vizualisations will be the two main aspect we will focus on during this project.
 
 ##Deliverables
 
@@ -68,7 +67,7 @@ This map should look like the following picture, each color representing a genre
 ![](http://www.zw3b.fr/var/contents/links/59/imgs/internet-census-2012.gif)
 >IPv4 usage observed using ICMP ping requests, source : Carna Botnet
 
-###Artist popularity/genre evolution
+###Artist popularity / Genre evolution
 Using data from the line-up, wikipedia or even twitter, we will be able to observe the popularity of a certain artiste. A search bar will be available to the user to perform search on the artist he/she wants. Using the interactive map, we can observe the evolution of an artiste across the time, if he/she came to Switzerland several times in a year, etc.
 
 More ideas can be explored, such as displaying an piechart of genres of an artist.
