@@ -1,5 +1,5 @@
 # Swiss Music Map Project
-> Project of the course Applied Data Analysis, by Michele Catasta
+> Project of the course Applied Data Analysis, taught by Michele Catasta
 EPFL, November 2016
 
 ##Team
@@ -11,15 +11,11 @@ Simon Narduzzi ( @Narduzzi ), IN
 ##Abstract
 > Music is an art form and cultural activity whose medium is sound and silence, which exist in time. - Wikipedia  
 
-Music is a way to express and share. It brings people together around a common focus. In ancient Greece, 
-music is the most beautifl of the arts. Along with a science, it is the object of high philosophical speculation. The Greeks
-are indeed the first people who have established real concerts, which contributed to the developpement of a socially 
-conscious public actively participating in the hearing.
+Music is a way to express and share. It brings people together around a common focus. In ancient Greece, among all of the Arts, Music is the most beautiful, and respected. Along with a science, it is the object of high philosophical speculation. The Greeks are indeed the first people who have established real concerts, which contributed to the developpement of a socially conscious public actively participating in the hearing.
 
-Through the ages, genres fall and rised, music has greatly evolved. However, the manner of celebrating and listening to music
- remained the same : the concerts.
- The goal of this project is to study the dynamics of music in Switzerland in recent decades, by studying the evolution of genres
- and number of auditors in concerts and major musical events.
+Through the ages, Music has greatly evolved, some styles of music fell into disuse, while other genres emerged. However, the manner we celebrate and listen to music has remained the same : Concerts. <br>
+
+The goal of this project is to study the dynamics of music in Switzerland in recent decades, by studying the evolution of genres and audience population in concerts and major musical events.
 
 
 ##Data Description
@@ -29,31 +25,32 @@ A first approach will be to use existing event websites to grab informations abo
 
 ###Line-ups of Festivals / Concerts
 
-We need to find several website of festival in Switzerland. We will build a dataset of all festival since 1980, and try to get the line-up for each of them. Of course, it will not be possible to get data for 36 years, as some festival just got created 10 or even 5 years ago. But we will try to get as much data as we can in order to perform analysis on genre and attendances of the festival. We will grab the line-up from official websites of festivals, and maybe other plateform, such as Facebook public events.
+We need to find several website of festival in Switzerland. We will build a dataset of all festival since 1980 *(Montreux Jazz, Verbier Festival, Paleo Festival, ...)*, and try to get the line-up for each of them. Of course, it will not be possible to get data for 36 years, as some festival just got created 10 or even 5 years ago. But we will try to get as much data as we can in order to perform analysis on genre and attendance of the festival. We will grab the line-up from official websites of festivals, and maybe other plateform, such as Facebook public events.
 
 ###Genres Analysis
 
-Once we have the line-up of the concerts and festival, we can link the name of the artist to genre of music. There is a lot of genre possible, we need to select "main genres" that we can link to the data. We will perform a "merge" of subgenres, i.e : Hard Techno and Hardstyle = Electronic Music. If we have the time, we will try to divide our analysis in subgenre, but we will maybe not have enough data to have a viable statistical basis. The goal is to be able to detect rise and fall of music genre in Switzerland across the years.
+Once we have the line-up of the concerts and festival, we can link the name of the artist to genre of music. There is a lot of genre possible, we need to select "main genres" that we can link to the data. We will perform a "merge" of subgenres, *i.e : Hard Techno and Hardstyle = Electronic Music*. If we have the time, we will try to divide our analysis in subgenres, but we will maybe not have enough data to have a viable statistical basis. The goal is to be able to detect rise and fall of music genre in Switzerland across the years.
 
-We will mainly use a Wikipedia bot that will extract genre from artist name. The main challenge will be to try to get the genre of an artist if it does not have a Wikipedia biography.
+We will mainly use a Wikipedia bot that will extract genre from artist name. The main challenge will be to try to get the genre of an artist if it does not have a Wikipedia biography. We might want to take a look on the Million Song dataset to extract missing information.
 
 ###Artists Analysis
 
 Using Wikipedia (and other biography pages), we can get the "profile" of an artiste. We can analyse its discography to observe genre change, and try to compare the popularity of an artist with the "trend" at that time in Swtizerland (hit parade, artist reputation).
 
-Using the list of artist, we can also perform an analysis of the "foreign" rate of music : Do Switzerland always invited foreign musicians ? Do we observe a rise of local artists in big festivals ? What is the success of swiss artists abroad ?
+Using the list of artist, we can also perform an analysis of the "foreign" rate of music : Has Switzerland always invited foreign musicians ? Do we observe a rise of local artists in big festivals ? <br>
+An other question being : What is the success of Swiss artists abroad ?
 
 ##Feasability and Risks
 
 We already know that some data exists for some location, for instance with the new Montreux Jazz Museum in Art Lab we have access to all the artists that performed in the Montreux Jazz Festival for the last 50 years. We should be able to scrap enough data to at least cover the Vaud canton. The risks are the lack of other data or the time it will take to scrap it all the from various festival and concert room websites.
-We will focus on the tools learned in the first labs, foc and homeworks using Python,numpy and Panda's dataframes, and using folium for interactive maps like in the third homework.
-We also plan to use the Tweeter database or the Facebook API to grab some more data, tweets or comments on musical events to have more inputs in case we don't find as much information as required to have a precise and accurate representation.
+We will focus on the tools learned in the first labs and homeworks using Python, numpy and Panda's dataframes, and maybe using folium for interactive maps like in the third homework.
+We also plan to use the Twitter database or the Facebook API to grab some more data, tweets or comments on musical events to have more inputs in case we don't find as much information as required to have a precise and accurate representation.
 We can also try to contact online tickets sellers (like ticketcorner or fnac) to see if they agree to give us some data. This would be a last attempt if we are desparatly in lack of data.
-The major goal is to obtain the a big set of data, and we will use all the tools we can to have it. We will to merge the data from different website and plateform in a unique, comparable dataset on which we will perform our analysis. Data Scrapping and Vizualisations will be the two main aspect we will focus on during this project.
+The major goal is to obtain a big set of data, and we will use all the tools we can to have it. We will to merge the data from different website and plateform in a unique, comparable dataset on which we will perform our analysis. Data Scrapping and Vizualisations will be the two main aspect we will focus on during this project.
 
 ##Deliverables
 
-The project with be released with vizualisations using Folium or Javascript. We will create multiple interactive maps that will contain the following informations.
+The project with be released with vizualisations using Javascript Vizualisation libraries like Bokeh or D3JS. We will create multiple interactive maps that will contain the following information :
 
 ###Attendance Map
 The attendance map is a heat-map containing the medium attendance of concert place for each year. The idea is to display the evolution of genre and popularity of festivals in Switzerland (Montreux Jazz, Paléo, Frauenfeld..), as well as the evolution of concert places : number of public institutions per city, size, etc.
@@ -68,7 +65,7 @@ We can use attendance map to display the number of events of a certain genre in 
 ###Artist popularity/genre evolution
 Using data from the line-up, wikipedia or even twitter, we will be able to observe the popularity of a certain artiste. A search bar will be available to the user to perform search on the artist he/she wants. Using the interactive map, we can observe the evolution of an artiste across the time, if he/she came to Switzerland several times in a year, etc.
 
-More ideas can be explored, such as displaying an pieplot of genres of an artist.
+More ideas can be explored, such as displaying an piechart of genres of an artist.
 
 ##Timeplan
 
