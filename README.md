@@ -44,7 +44,7 @@ Using the list of artist, we can also perform an analysis of the "foreign" rate 
 
 ##Feasability and Risks
 
-We already know that some data exists for some location, for instance with the new Montreux Jazz Museum in Art Lab we have access to all the artists that perform in the Montreux Jazz Festival for the last 50 years. We should be able to scrap enough data to at least cover the Vaud canton. The risks are the lack of other data or the time it will take to scrap all the from various festival and concert room websites.
+We already know that some data exists for some location, for instance with the new Montreux Jazz Museum in Art Lab we have access to all the artists that performed in the Montreux Jazz Festival for the last 50 years. We should be able to scrap enough data to at least cover the Vaud canton. The risks are the lack of other data or the time it will take to scrap it all the from various festival and concert room websites.
 
 ##Deliverables
 
