@@ -59,6 +59,7 @@ The project with be released with vizualisations using Folium or Javascript. We 
 The attendance map is a heat-map containing the medium attendance of concert place for each year. The idea is to display the evolution of genre and popularity of festivals in Switzerland (Montreux Jazz, Paléo, Frauenfeld..), as well as the evolution of concert places : number of public institutions per city, size, etc.
 
 The resulting map should look like this :
+
 ![Image of Crime Data form Alastaira](https://alastaira.files.wordpress.com/2011/02/image24.png)
 
 ###Genre evolution
