@@ -67,4 +67,9 @@ More ideas can be explored, such as displaying an pieplot of genres of an artist
 
 ##Timeplan
 
-We hope to achieve the end of scraping by the checkpoint mid december or at most by the end of december, then focusing on the visualisation and if we have some spare time we will try to grab more data or offer more detailed visualisation or more different views on the maps.
+We hope to achieve the end of scraping by the checkpoint mid december or at most by the end of december. We will first need to get all the website we need, and then create bots that will automatically grab the data for us. Storing all data in CSV or only parsing HTML, we will next create dataframes that will resume all data. 
+By the end of december we should have got all data from RA, festivals and wikipedia artist pages.
+
+The next step will be to focus on the visualization (maps). That point shouldn't take more than two weeks. We will try to spare time in order to grab more data or offer more detailed visualisation or more different views on the maps. 
+
+This project is consequent and a planning is difficult to predict, as we are not very aware of the data that are available at the moment. Maybe we will discover interesting informations constructing our dataframe, and discovering more possible comparison. But displaying the result can take a lot of time, that's why we will first develop the two points mentionned above before trying techniques such as Machine Learning on our data to discover new features.
