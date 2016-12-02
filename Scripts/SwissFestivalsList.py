@@ -13,23 +13,23 @@
 import requests
 import bs4
 import re
+import csv
 
 
-
-LOOKUP_TABLE_MONTHS = {
-    u'Juin\xa016': '06',
-    u'Juin\xa015': '06',
-    u'Juin\xa014': '06',
-    u'Juin\xa013': '06',
-    u'Juin\xa012': '06',
-    u'Juin\xa011': '06',
-    u'Juil.\xa016': '07',
-    u'Juil.\xa015': '07',
-    u'Juil.\xa014': '07',
-    u'Juil.\xa013': '07',
-    u'Juil.\xa012': '07',
-    u'Juil.\xa011': '07',
-}
+# LOOKUP_TABLE_MONTHS = {
+#     u'Juin\xa016': '06',
+#     u'Juin\xa015': '06',
+#     u'Juin\xa014': '06',
+#     u'Juin\xa013': '06',
+#     u'Juin\xa012': '06',
+#     u'Juin\xa011': '06',
+#     u'Juil.\xa016': '07',
+#     u'Juil.\xa015': '07',
+#     u'Juil.\xa014': '07',
+#     u'Juil.\xa013': '07',
+#     u'Juil.\xa012': '07',
+#     u'Juil.\xa011': '07',
+# }
 
 
 
@@ -45,7 +45,6 @@ def getSwissFestivals():
 
     soup = bs4.BeautifulSoup(txt, 'html5lib')
 
-
     for listFest in soup.findAll('li', {'class': 'elemList'}):
         for liTag in listFest.findAll('li'):
             for aTag in liTag.findAll('a', {'class': 'nameList'}):
@@ -60,26 +59,34 @@ def getSwissFestivals():
 
     return SWISS_FESTIVALS
 
+
 def cleanMusicFestivals(swissFestivals):
 
-    swissFestivals.remove('LES CREATIVES')
-    swissFestivals.remove('MONTREUX COMEDY FESTIVAL')
-    swissFestivals.remove('BELLUARD BOLLWERK INTERNATIONAL') # + Music
-    swissFestivals.remove('FESTIVAL DE LA BATIE') # + Music
-    swissFestivals.remove('POESIE EN ARROSOIR')
-    swissFestivals.remove('MORGES SOUS RIRE')
-    swissFestivals.remove('BOUGE TA PLANETE')
-    swissFestivals.remove('LAUSANNE UNDERGROUND FILM & MUSIC FESTIVAL (LUFF)') # + Music
-    swissFestivals.remove('CHAP EN RIRE')
-    swissFestivals.remove('FESTIRIRE')
-    swissFestivals.remove('FESTIVAL DECOUVRIRE')
-    swissFestivals.remove('CULTURESCAPES')
-    swissFestivals.remove('ESPLANADE')
-    swissFestivals.remove('POLYMANGA') # Rock???
+    NON_MUSIC_FESTIVAL = ['LES CREATIVES', 'MONTREUX COMEDY FESTIVAL', '1066']
+
+    for f in swissFestivals:
+        if f['name'] in NON_MUSIC_FESTIVAL:
+            swissFestivals.remove(f)
+
+    # swissFestivals.remove('LES CREATIVES')
+    # swissFestivals.remove('MONTREUX COMEDY FESTIVAL')
+    # swissFestivals.remove('BELLUARD BOLLWERK INTERNATIONAL') # + Music
+    # swissFestivals.remove('FESTIVAL DE LA BATIE') # + Music
+    # swissFestivals.remove('POESIE EN ARROSOIR')
+    # swissFestivals.remove('MORGES SOUS RIRE')
+    # swissFestivals.remove('BOUGE TA PLANETE')
+    # swissFestivals.remove('LAUSANNE UNDERGROUND FILM & MUSIC FESTIVAL (LUFF)') # + Music
+    # swissFestivals.remove('CHAP EN RIRE')
+    # swissFestivals.remove('FESTIRIRE')
+    # swissFestivals.remove('FESTIVAL DECOUVRIRE')
+    # swissFestivals.remove('CULTURESCAPES')
+    # swissFestivals.remove('ESPLANADE')
+    # swissFestivals.remove('POLYMANGA') # Rock???
 
     # ATTENTION : Au Bord de L'eau SIERRE
 
     return swissFestivals
+
 
 def getArchiveDatesForFestival(festival):
 
@@ -117,13 +124,14 @@ def getConcertsForFestivalAtDate(festivalId, year):
         for liTag in ulTag.findAll('li'):
             day = liTag.find('b', {'class': 'jour'}).contents[0]
             month = liTag.find('b', {'class': 'mois'}).contents[0]
-            month = LOOKUP_TABLE_MONTHS[month]
-            hour = liTag.find('b', {'class': 'heure'}).contents[0]
+            month = month.split(u'\xa0')[0]
+            # month = LOOKUP_TABLE_MONTHS[month]
+            # hour = liTag.find('b', {'class': 'heure'}).contents[0]
             artist = liTag.find('a', {'class': 'artiste'}).contents[0]
             place = liTag.findAll('a', {'class': 'lieu'})[1].contents[0]
             event = {}
-            event['date'] = '%s-%s-%s' % ('2016', month, day)
-            event['hour'] = hour
+            event['date'] = '%s-%s-%s' % (year, month, day)
+            # event['hour'] = hour
             event['artist'] = artist
             event['place'] = place
             events.append(event)
@@ -135,32 +143,32 @@ def getConcertsForFestivalAtDate(festivalId, year):
 
 if __name__ == '__main__':
 
-    swissFestivals = getSwissFestivals()
+    csvfile = open('festivals.csv', 'w')
+    fieldnames = ['festival', 'place', 'date', 'artist']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    writer.writeheader()
 
+    swissFestivals = getSwissFestivals()
+    cleanMusicFestivals(swissFestivals)
     swissFestivals = swissFestivals[:5]
 
+    print 'GETTING ARCHIVE DATES ...'
     for f in swissFestivals:
+        print f['name'] + ' : '
         f['archive_dates'] = getArchiveDatesForFestival(f['link'])
+        print f['archive_dates']
+        print '--------'
 
-    # for f in swissFestivals:
-    #     print f['name']
-    #     print f['ID']
-    #     print f['archive_dates']
-    #     print '--------'
+    print 'GOING THROUGH ARCHIVES ...'
+    for f in swissFestivals:
+        print f['name']
+        print f['ID']
+        print f['archive_dates']
+        print '--------'
 
-
-    montreux = swissFestivals[0]
-    # print montreux
-
-    # for year in montreux['archive_dates']:
-        # print getConcertsForFestivalAtDate(montreux['ID'], year)
-
-    concerts2013 = getConcertsForFestivalAtDate(montreux['ID'], '2013')
-
-    for c in concerts2013:
-        print c['artist']
-        print c['date']
-        print '-----'
-
-
-    # TODO: Sometimes, not in archive, but all in one page!!! like THE BEAT FESTIVAL @ genève
+        for year in f['archive_dates']:
+            print '-- ' + year + ':'
+            for concert in getConcertsForFestivalAtDate(festivalId=f['ID'], year=year):
+                print ('---- festival=%s, place=%s, date=%s, artist=%s' % (f['name'], concert['place'], concert['date'], concert['artist'])).encode('utf-8')
+                writer.writerow({'festival': f['name'].encode('utf-8'), 'place': concert['place'].encode('utf-8'), 'date': concert['date'].encode('utf-8'), 'artist': concert['artist'].encode('utf-8')})
+        print '--------'
