@@ -1,0 +1,37 @@
+,location,event,date,artists,genre
+0,Basel,Paroles-de-violes,2013-04-10,"['Lina Manrique ', ' Giovanna Baviera ']",Classic
+1,Obere-Matten,Zermatt,2013-04-10,['Faela '],Faela
+2,Cully,Cully-Jazz-Festival,2013-04-10,['Blitz The Ambassador '],
+3,Basel,Migros-Kulturproduzent-Classics,2013-04-10,"[' Marie-Nicole Lemieux ', ' Thomas Grossenbacher ']",Classic
+4,Zürich,Konzert,2013-04-10,[' Christian Tetzlaff '],Classic
+5,Bern,Unerhört,2013-04-10,"[' Raphael Christen ', ' Thomas Rüedi ', ' Oliver Waespi ']",Classic
+6,Bern,Internationales-Jazzfestival-Bern,2013-04-10,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']",
+7,Stans,Stanser-Musiktage,2013-04-10,"['Emily Loizeau ', ' Emily Loizeau ', ' Olivier Koundouno ', ' Csaba Palotai ', ' François Puyalto ', ' Cyril Aveque ']",Pop
+8,Bern,Metabolism,2013-04-10,"[' Laurent Méteau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Eliyah Reichen ', ' Samuel Huwyler ', ' Jwan Steiner ']",
+9,St.-Jakobshalle,Basel,2013-04-10,['Bushido '],Bushido
+10,Kuppel,Basel,2013-04-10,['Call Me Kat '],
+11,Turgi,Harfe-Violine-Visuelles,2013-04-10,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
+12,null,Roger-Glaus-Trio,2013-04-10,"[' Roger Glaus ', ' Sandro Heule ', ' Mario Söldi ']",
+13,Komplex-457,Zürich,2013-04-10,"['Black Veil Brides ', "" Heaven's Basement ""]",
+14,Zürich,Stenson-Danielsson,2013-04-10,"[' Bobo Stenson ', ' Palle Danielsson ']",
+15,Cully-Jazz-Festival,Cully,2013-04-10,"['Lizz Wright ', ' Meshell Ndegeocello ', ' Kenny Banks ', ' Marvin Sewell ', "" Nicholas D'Amato "", ' Brannen Temple ', ' Michael Jerome ', ' Jebin Bruni ', ' Chris Bruce ']",
+16,Kammgarn,Schaffhausen,2013-04-10,['Carlos Núñez '],
+17,Zürich,Artist-in-Residence-Christoph-Irniger,2013-04-10,"[' Christoph Irniger ', ' Omri Ziegele ', ' Pascal Niggenkemper ', ' Alex Huber ']",
+18,Bern,Erik-Truffaz-Quartet-feat.-Anna-Aaron,2013-04-10,"[' Erik Truffaz ', ' Marcello Guiliani ', ' Marc Erbetta ', ' Benoît Corboz ', ' Anna Aaron ']",
+19,Obere-Matten,Zermatt,2013-04-10,['Die Fantastischen Vier '],
+20,Bern,Chris-Jagger-Acoustic-Roots,2013-04-10,['Chris Jagger Acoustic Roots '],
+21,Basel,Sonic-Calligraphy-feat.-Felix-Utzinger,2013-04-10,"[' Peggy Chew ', ' Felix Utzinger ', ' Adrian Frey ', ' Willy Kotoun ']",
+22,Zürich,The-Loodies,2013-04-10,['The Loodies '],
+23,Zürich,Gurus-of-Now,2013-04-10,"[' Fabian Gödri ', ' Philipp Leibacher ', ' Andres Cevallos ', ' Mathis Eigensatz ', ' Moritz Eigensatz ', ' Peter Baracchi ']",
+24,Cully,Cully-Jazz-Festival,2013-04-10,"[' Gauthier Toux ', ' Blaise Hommage ', ' Axel Lussiez ']",
+25,Cully,Cully-Jazz-Festival,2013-04-10,"[' Marc Sturzenegger ', ' Denis Michel ', ' Pierre Ponnaz ', ' Paul Kapp ', ' Patrick Perrier ', ' Jean-Jaques Chabloz ']",
+26,Grabenhalle,null,2013-04-10,['Jon Ladeau '],
+27,Cully,Cully-Jazz-Festival,2013-04-10,"[' Vincent Millioud ', ' Théo Känzig ', ' Slawek Plizga ', ' Valentin von Fischer ']",
+28,Zürich,Jazz-Baragge-Wednesday-Jam,2013-04-10,"['Claude Meier ', ' Michael Bucher ', ' Andreas Wettstein ']",
+29,Bar-3000,Zürich,2013-04-10,['The Great Park '],
+30,null,Action-Beat,2013-04-10,['Action Beat '],
+31,Basel,Yosvany-Quintero,2013-04-10,"[' Yosvany Descarga ', ' Markus Schmied ', ' Carlo Menger ', ' Michael Anklin ']",
+32,Theater-an-der-Mürg,Stans,2013-04-10,"['Get the Blessing ', ' Jake McMurchie ', ' Pete Judge ', ' Jim Barr ', ' Clive Deamer ']",
+33,Cully,Cully-Jazz-Festival,2013-04-10,"[' Jocelyne Rudasigwa ', ' Mathias Demoulin ', ' Manu Hagmann ', ' Ivor Malherbe ', ' Pierre-François Massy ', ' Jean-Yves Petiot ', ' Fabien Sevilla ']",
+34,Cully,Cully-Jazz-Festival,2013-04-10,['Bahur Ghazi '],
+35,Bern,Internationales-Jazzfestival-Bern,2013-04-10,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']",

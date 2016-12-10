@@ -1,0 +1,41 @@
+,location,event,date,artists,genre
+0,Zürich,Kantaten-Gottesdienst-zum-Reformationssonntag,2015-11-01,['Andreas Jost '],Classic
+1,Zürich,Oh-diese-verflixte-Mücke!,2015-11-01,"['Laida Aliberdi ', ' Ana-Cristina Silvestru ', ' Fabienne Skarpetowski ']",Pop
+2,Basel,Carte-blanche-für-Wilhelm-Bruck,2015-11-01,"[' Wilhelm Bruck ', ' Abril Padilla ', ' Charlotte Torres ', ' Thilo Hirsch ']",Classic
+3,Basel,Matinée-Konzert,2015-11-01,"['Giovanni Fornasini ', ' Stephanie Oestreich ', ' Peter Heer ', ' Klaviertrio: Claude Debussy Premier Trio en Sol; Johannes Brahms Klaviertrio Nr. 1 H-Dur op 8 ']",Classic
+4,Luzern,Die-Schöpfung,2015-11-01,"[' Maria C. Schmid ', ' David Munderloh ', ' Martin Achrainer ']",Classic
+5,Zürich,Brunchkonzert-Wien-um-1900,2015-11-01,"['Maria Goldschmidt ', ' Rita Karin Meier ', ' László Szlávik ', ' Tatjana Pak ', ' works by Strauss ']",Classic
+6,Zürich,Lunchkonzert-Wien-um-1900,2015-11-01,"['Maria Goldschmidt ', ' Rita Karin Meier ', ' László Szlávik ', ' Tatjana Pak ', ' works by Strauss ']",Classic
+7,Luzern,Der-General,2015-11-01,['Stummfilmkomödie '],Classic
+8,Riehen,Konzert-zu-Allerheiligen-Wohin-du-gehst,2015-11-01,"['Tiziana Fanelli ', ' Jan Lurvink ']",Classic
+9,Zürich,Oh-diese-verflixte-Mücke!,2015-11-01,"['Laida Aliberdi ', ' Ana-Cristina Silvestru ', ' Fabienne Skarpetowski ']",Pop
+10,Zürich,Surprise-Brahms-blaublütiger-Schüler,2015-11-01,"['Arata Yumi ', ' Lorenz Küchler ', ' Lora-Evelin Vakova ']",Classic
+11,Basel,Tschechische-Spezialitäten,2015-11-01,['Hana Bartoová Brünn '],Classic
+12,Bern,Patchwork-Classics,2015-11-01,"[' Giovanni Reber ', ' Michael Giertz ']",Pop
+13,Luzern,Polio-Benefizkonzert-Unterwegs,2015-11-01,[' Kristian Bezuidenhout '],Classic
+14,Winterthur,Keine-Stimme-Musik-zu-Paul-Celan,2015-11-01,"[' Urs Walker ', ' Mateusz Szczepkowski ', ' David Schnee ', ' Alec Jellici ', ' Rafael Rütti ', ' Niklaus Kost ']",Classic
+15,Rapperswil,Musik-im-Schloss-Eröffnungskonzert,2015-11-01,"['Raphaela Gromes ', ' Julian Riem ']",Classic
+16,Pieterlen,Yannick-Monot-&-Helt-Oncale,2015-11-01,['Yannick Monot & Helt Oncale '],Pop
+17,Wettingen,Passionsoratorium,2015-11-01,"[' Ruth Achermann ', ' Richard Resch ', ' Tobias König ', ' Patrick Oetterli ', ' Thomas Fluor ']",Classic
+18,Zürich,Sibelius,2015-11-01,[' Lisa Batiashvili '],Classic
+19,null,Sonntags-um-5,2015-11-01,"['Sebastian Gugala ', ' Adrian Gavrilescu ', ' Tomasz Bartoszek ']",Classic
+20,Zürich,Ein-deutsches-Requiem,2015-11-01,"[' Anna-Maria Locher ', ' Andreas Dick ']",Classic
+21,Basel,Dir-entgegen,2015-11-01,"[' Miriam Feuersinger ', ' Kathrin Hottiger ', ' Franz Vitzthum ', ' Gerhard Unternahrer ', ' Serafin Heusser ']",Classic
+22,Basel,Im-Atem-der-Zeit,2015-11-01,"[' Markus Forrer ', ' Stefan Schramm ', ' Hannes Bärtschi ', ' Payam Taghadossi ']",Classic
+23,Basel,Plurality-Israel-Podiumsdiskussion-und-Konzert,2015-11-01,['Matan Chapinzky & Beats and Pieces '],
+24,Basel,La-salsónica,2015-11-01,"[' Roberto Pulido ', ' René Mosele ', ' Bernhard Bamert ', ' Reto Manser ', ' André Buser ', ' Michael Wipf ', ' Sebastién Gagneux ']",
+25,Basel,Ensemble-ö!-Gesichter,2015-11-01,"[' Irina Ungureanu ', ' Raphael Camenisch ']",Classic
+26,Brugg,Bänz-Oester-&-the-Rainmakers,2015-11-01,"[' Ganesh Geymeier ', ' Afrika Mkhize ', ' Ayanda Sikade ', ' Bänz Oester ']",
+27,Zürich,Melody-Gardot,2015-11-01,['Melody Gardot '],
+28,Zürich,Culcha-Candela,2015-11-01,['Culcha Candela '],
+29,Zürich,Christian-Scott-Atunde-Adjuah,2015-11-01,"[' Christian Scott ', ' Braxton Cook ', ' Elena Pinderhughes ', ' Kris Funn ', ' Lawrence Fields ', ' Dominic Minix ']",
+30,Regensdorf,Herbert-Kramis'-Guadalcacin,2015-11-01,"[' Andrea Kirchhofer ', ' Otmar Kramis ', ' Nick Gutersohn ', ' Gregor Müller ', ' Matthias Daneck ', ' Herbert Kramis ']",
+31,Bern,Lebensschule-durch-Musik,2015-11-01,"[' Lok Ping Chau ', ' Lok Ting Chau ']",Classic
+32,Winterthur,Trío-Vagón-Tango,2015-11-01,['Trío Vagón Tango '],
+33,Pratteln,W.A.S.P.,2015-11-01,['W.A.S.P. '],
+34,Zürich,Gerard,2015-11-01,"['Gerard ', ' Lot ']",
+35,Rubigen,Nits,2015-11-01,['Nits '],Pop
+36,Zürich,Max-Frankl-Quartett,2015-11-01,"['Max Frankl Quartett ', ' Max Frankl ', ' Reto Suhner ', ' Lukas Traxel ', ' Lionel Friedli ']",
+37,Zürich,Albert-Hammond,2015-11-01,['Albert Hammond '],Pop
+38,Luzern,Brothers-&-Bones,2015-11-01,['Brothers & Bones '],
+39,Bern,Alsarah-&-The-Nubatones,2015-11-01,['Alsarah & The Nubatones '],

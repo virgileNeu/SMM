@@ -1,0 +1,47 @@
+,location,event,date,artists,genre
+0,Zürich,Prélude,2016-05-13,"['Vera Wahl ', ' Manuela Villiger ', ' Patrycja Pakiela ', ' Barnabas Völgyesi ']",Classic
+1,Basel,Orgelspiel-zum-Feierabend,2016-05-13,['Susanne Doll '],Classic
+2,Lausanne,Festival-Balélec,2016-05-13,"['Fritz Kalkbrenner ', ' Kid Wise ', ' Smokey Joe & the Kid ', ' Me First & The Gimme Gimmes ']",Electronic
+3,Lausanne,Festival-Balélec,2016-05-13,"['Les Skatalites ', ' Chapelier Fou ', ' Iphaze ']",
+4,Lausanne,Festival-Balélec,2016-05-13,[' Gadjo Loco '],
+5,Zürich,Kate-Vogele-&-Tyler-Hilton,2016-05-13,['Kate Vogele & Tyler Hilton '],Pop
+6,Bern,Internationales-Jazzfestival-Bern,2016-05-13,['The Brubeck Brothers '],
+7,Zürich,Wildways,2016-05-13,['Wildways '],
+8,Bern,Mozart-in-Paris,2016-05-13,[' Mirijam Contzen '],Classic
+9,Winterthur,The-Crown,2016-05-13,['The Crown '],
+10,Münchenstein,Conner-Youngblood,2016-05-13,['Conner Youngblood '],
+11,Basel,Espacio-Buenos-Aires-Conciertos-de-tango-argentino,2016-05-13,['Ranas '],
+12,Zürich,Jamalot-Live-Music-at-Europa,2016-05-13,"['Rolf Meier ', ' Lukas Bürge ', ' Jörg Fetz ', ' Hendrik Schulz ', ' Michael Huber ']",
+13,Basel,Nachtstunden,2016-05-13,"[' Ivana Pristaová ', ' Karolina Öhman ', ' Tamriko Kordzaia ']",Classic
+14,Luzern,Rezital-David-Helfgott,2016-05-13,['David Helfgott '],Classic
+15,Bülach,Ken-Peplowski-Trio,2016-05-13,"[' Ken Peplowski ', ' Ehud Asherie ', ' Gregor Beck ']",
+16,Winterthur,Rea-Som,2016-05-13,"[' Rea Hunziker ', ' Martin Schenker ', ' Simon Althaus ', ' Jonas Künzli ', ' Flavio Viazolli ', ' Freddy Benitez ']",
+17,Zürich,Weber-Wick-&-Denzler-Dörner-Gerbal,2016-05-13,"[' Jacob Wick ', ' Christian Weber ', ' Jacob Wick ', ' Bertrand Denzler ', ' Axel Dörner ', ' Antonin Gerbal ']",
+18,Luzern,Grassroot-Ensemble-6,2016-05-13,"[' Giulia Bättig ', ' Mathieu Voisard ', ' Nadia Zobrist ']",
+19,Basel,Robert-Lakatos-Quartet,2016-05-13,"[' Gábor Bolla ', ' Robert Lakatos ', ' György Orbán ', ' David Hodek ']",
+20,Zürich,Scorpion-Jack,2016-05-13,['Scorpion Jack '],
+21,Baden,Erich-Gandet-Quintet,2016-05-13,"[' Erich Gandet ', ' Hans Rothenbühler ', ' Tico Keller ', ' Hannes Hänggli ', ' Bruno Gandet ']",
+22,Zürich,Christian-Wolfarth,2016-05-13,['Christian Wolfarth '],
+23,Romanshorn,Stickerei-Jazz-Trio-&-Friends,2016-05-13,"[' Christoph Seitler ', ' Daniel Staub ', ' Adi Gerlach ']",
+24,Liebefeld,Tellurian,2016-05-13,"[' Rea Dubach ', ' Sebastian Strinning ', ' Nico van Wersch ', ' Shahzad Ismaily ', ' Lukas Rutzen ']",
+25,Zürich,Cæcilie-Norby-&-Lars-Danielsson-Duo,2016-05-13,"[' Cæcilie Norby ', ' Lars Danielsson ']",Pop
+26,Liestal,Martin-Lechner-Band,2016-05-13,"['Martin Lechner Band ', ' Martin Lechner ', ' Dave Feusi ', ' Roland Köppel ', ' Patrick Sommer ', ' Andreas Schnyder ']",
+27,Aarau,Foxtrott,2016-05-13,['Foxtrott '],
+28,Frick,Flavia-Coelho,2016-05-13,['Flavia Coelho '],
+29,Zürich,Trio-Heinz-Herbert,2016-05-13,"[' Dominic Landolt ', ' Ramon Landolt ', ' Mario Hänni ']",
+30,Basel,"Freitagsbar+-""Bassic-Vibes""-CD-Taufe",2016-05-13,"[' Erich Fischer ', ' Thomas Lähns ']",
+31,Rorschach,The-Wright-Thing,2016-05-13,"[' Jason Wright ', ' Ian Fullwood ', ' David Anlauff ', ' Glen Turner ', ' Danny Labana ', ' Rick Washington ']",
+32,Rorschach,Kenny-Wesley,2016-05-13,"['Kenny Wesley ', ' Kenny Wesley ', ' Jean-Pierre Schaller ', ' Cyril Regamey ']",
+33,Aarau,Kalles-Kaviar,2016-05-13,[' Dr. Woggle & the Radio '],
+34,Oberentfelden,Black-Trip-(SWE),2016-05-13,"['Black Trip ', ' Angry Bastard ']",
+35,Solothurn,The-Voodoo-Fix,2016-05-13,['The Voodoo Fix '],
+36,Bern,20-Jahre-RaBe-Fest,2016-05-13,"['Booka Shade ', ' Smash TV ', ' Jeans for Jesus ']",Electronic
+37,Baden,Siberian-Meat-Grinder,2016-05-13,['Siberian Meat Grinder '],
+38,Bern,20-Jahre-RaBe-Fest,2016-05-13,"['Booka Shade ', ' Smash TV ', ' Jeans for Jesus ']",Electronic
+39,Sankt-Gallen,Attwenger,2016-05-13,['Attwenger '],Pop
+40,Bern,Sendemast,2016-05-13,['Sendemast & Galv of the 3 Moonz '],
+41,Lausanne,Manolito-y-su-trabuco,2016-05-13,['Manolito y su trabuco '],
+42,Basel,Yo-Gotti,2016-05-13,['Yo Gotti '],
+43,Zürich,Redfoo-&-the-Party-Rock-Crew,2016-05-13,['Redfoo & the Party Rock Crew '],Pop
+44,Bern,Milenka-Goes-Big,2016-05-13,['Live: Balkanesco '],
+45,Bern,Friday-the-13th-Night,2016-05-13,"[' DJs Jay A.D. ', ' Oomboi Lauw ']",

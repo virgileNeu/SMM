@@ -1,0 +1,37 @@
+,location,event,date,artists,genre
+0,Zürich,Glantaler-Power-Men,2015-01-30,['Glantaler Power Men '],traditional
+1,Basel,Orgelspiel-zum-Feierabend,2015-01-30,['Susanne Doll '],Classic
+2,Solothurn,Caliban,2015-01-30,"['Caliban ', ' Dream On Dreamer ', ' Any Given Day ']",
+3,Luzern,The-Art-of-Solo-Piano,2015-01-30,['Brad Mehldau '],
+4,Laufenburg,Serenade,2015-01-30,"[' Tino Brütsch ', ' Olivier Darbellay ']",Classic
+5,Bern,Antiphona,2015-01-30,"['Alessandra Boër ', ' Christoph Maria Moosmann ']",Classic
+6,null,Klavierissimo,2015-01-30,['Melvyn Tan '],Classic
+7,Zürich,Internationales-Country-Music-Festival,2015-01-30,['Two Tons of Steel '],
+8,Zürich,Konzert,2015-01-30,"['Mikhail Oussov ', ' Artiom Shishkov ']",Classic
+9,Zürich,Acoustic-Friday,2015-01-30,['Bruno Frey Naschimento Quartet '],Pop
+10,Basel,Kaleidoscope-String-Quartett,2015-01-30,"['Simon Heggendorn ', ' Ronny Spiegel ', ' David Schnee ', ' Solme Hong ']",Classic
+11,Basel,Konzert,2015-01-30,"[' Alina Kohut ', ' Thomas-Maria Reck ', ' Joachim Jesse ', ' Sebastian Diezig ']",Classic
+12,Zürich,Drei-Verschluckt-vom-Baum,2015-01-30,"['Valentin Baumgartner ', ' Christian Zemp ', ' Andi Bissig ']",
+13,Zürich,Ensemble-Turicum,2015-01-30,"['Mathias Weibel ', ' Monika Baer ', ' Mario Huter ', ' Rafael Becerra ']",Classic
+14,Basel,Back-2-Back,2015-01-30,"[' Patrick Stadler ', ' Yaron Deutsch ', ' Brian Archinal ', ' Antoine Françoise ']",Classic
+15,Rheinfelden,Daniel-Barda's-New-Orleans-Project,2015-01-30,"[""Daniel Barda's New Orleans Project "", ' Daniel Barda ', ' Jerome Etcheberry ', ' Louis Mazetier ', ' Charles Prevost ']",
+16,Bülach,Woodhouse-Jazzband,2015-01-30,"[' Marie Daniels ', ' Hinderik Leeuwe ', ' Waldemar Kowalski ', ' Host Janssen ', ' Georg Derks ']",
+17,Winterthur,Schneekoenig,2015-01-30,"[' Jürg Schneebeli ', ' Felix Straumann ', ' Kurt Söldi ', ' Peter Leuzinger ', ' Christoph Keller ']",
+18,Baden,Vielsittich,2015-01-30,"[' Efisio Contini ', ' Andreas Kühnrich ', ' Yvonne Baumer ', ' Samuel Messerli ']",Pop
+19,Zürich,Ricci-Sanna-&-Berz-Labhart-Ziegler,2015-01-30,"[' Edoardo Ricci ', ' Eugenio Sanna ', ' Simon Berz ', ' Jonas Labhart ', ' Matthias Ziegler ']",
+20,null,Heldelieder,2015-01-30,"[' Trummer ', ' Nadja Stoller ', ' Samuel Baur ']",Pop
+21,null,Dschané,2015-01-30,"[' Andrea Tsoro Panitz ', ' Ilsi Muna Ferrer ', ' Lucy Novotny ', ' Caspar Fries ', ' Marc Bantelli ', ' Igor Bogoev ']",
+22,Baden,Eric-Lee,2015-01-30,"[' Eric Lee ', ' Pädu Ziswiler ']",
+23,Winterthur,Beehoover,2015-01-30,"['Beehoover ', ' Horn Of The Rhino ']",Electronic
+24,Zürich,Heidi-Happy,2015-01-30,"[' Heidi Happy ', ' Ephrem Lüchinger ', ' Baptiste Germser ', ' Domi Huber ']",Pop
+25,Uster,Suisse-Diagonales-Jazz,2015-01-30,"[' Jonas Ruther ', ' Lucca Fries ', ' Louis Billette ', ' Gaspard Colin ', ' Théo Duboule ', ' Marton Kiss ', ' Clément Meunier ']",
+26,null,Cantique,2015-01-30,[' Estelle Revaz '],Classic
+27,Basel,Mipv,2015-01-30,['Mipv '],
+28,null,Nachtzug,2015-01-30,"[' Gregory Flynn ', ' Marc Fournel ', ' Ernst Brunner ', ' Wolfgang Fritzsche ', ' Stephan Reinthaler ']",Classic
+29,Lyss,Friska-Viljor,2015-01-30,['Friska Viljor '],
+30,Baden,One-of-a-Million,2015-01-30,['Matthew and Me '],
+31,Baden,One-of-a-Million,2015-01-30,['Orenda Fink '],
+32,Bern,Hobbitz,2015-01-30,['Hobbitz '],
+33,Zürich,Latin-Touch,2015-01-30,[' dance animation by Alexander Martinez '],
+34,Zürich,Tonhalle-Late,2015-01-30,[' Leila Josefowicz '],Classic
+35,Zürich,The-Nozez,2015-01-30,"[' Tarek Beswik ', ' Tome Iliev ', ' Tobias Bienz ', ' Adam Jeffrey ', ' Pina Ganzoni ']",traditional
