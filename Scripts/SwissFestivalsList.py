@@ -62,7 +62,9 @@ def getSwissFestivals():
 
 def cleanMusicFestivals(swissFestivals):
 
-    NON_MUSIC_FESTIVAL = ['LES CREATIVES', 'MONTREUX COMEDY FESTIVAL', '1066']
+    NON_MUSIC_FESTIVAL = ['LES CREATIVES', 'MONTREUX COMEDY FESTIVAL', '1066',
+                          'POESIE EN ARROSOIR', 'CHAP EN RIRE', 'FESTIRIRE',
+                          'FESTIVAL DECOUVRIRE', 'MORGES SOUS RIRE']
 
     for f in swissFestivals:
         if f['name'] in NON_MUSIC_FESTIVAL:
@@ -122,19 +124,23 @@ def getConcertsForFestivalAtDate(festivalId, year):
 
     for ulTag in soup.findAll('ul', {'class': 'liste_concerts'}):
         for liTag in ulTag.findAll('li'):
-            day = liTag.find('b', {'class': 'jour'}).contents[0]
-            month = liTag.find('b', {'class': 'mois'}).contents[0]
-            month = month.split(u'\xa0')[0]
-            # month = LOOKUP_TABLE_MONTHS[month]
-            # hour = liTag.find('b', {'class': 'heure'}).contents[0]
-            artist = liTag.find('a', {'class': 'artiste'}).contents[0]
-            place = liTag.findAll('a', {'class': 'lieu'})[1].contents[0]
-            event = {}
-            event['date'] = '%s-%s-%s' % (year, month, day)
-            # event['hour'] = hour
-            event['artist'] = artist
-            event['place'] = place
-            events.append(event)
+            try:
+                day = liTag.find('b', {'class': 'jour'}).contents[0]
+                month = liTag.find('b', {'class': 'mois'}).contents[0]
+                month = month.split(u'\xa0')[0]
+                # month = LOOKUP_TABLE_MONTHS[month]
+                # hour = liTag.find('b', {'class': 'heure'}).contents[0]
+                artist = liTag.find('a', {'class': 'artiste'}).contents[0]
+                place = liTag.findAll('a', {'class': 'lieu'})[1].contents[0]
+                event = {}
+                event['date'] = '%s-%s-%s' % (year, month, day)
+                # event['hour'] = hour
+                event['artist'] = artist
+                event['place'] = place
+                events.append(event)
+            except:
+                print '*** ERROR *** while parsing festival ' + str(festivalId) + ' ('+str(year)+')'
+                print '** AT LINE **' + str(liTag.prettify().encode('utf-8'))
 
     return events
 
@@ -143,32 +149,26 @@ def getConcertsForFestivalAtDate(festivalId, year):
 
 if __name__ == '__main__':
 
-    csvfile = open('festivals.csv', 'w')
-    fieldnames = ['festival', 'place', 'date', 'artist']
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    writer.writeheader()
-
     swissFestivals = getSwissFestivals()
     cleanMusicFestivals(swissFestivals)
-    swissFestivals = swissFestivals[:5]
 
-    print 'GETTING ARCHIVE DATES ...'
     for f in swissFestivals:
+        f['name'] = f['name'].replace('/', '-')
         print f['name'] + ' : '
         f['archive_dates'] = getArchiveDatesForFestival(f['link'])
-        print f['archive_dates']
-        print '--------'
 
-    print 'GOING THROUGH ARCHIVES ...'
-    for f in swissFestivals:
-        print f['name']
-        print f['ID']
-        print f['archive_dates']
-        print '--------'
+        FOLDER_NAME = 'RouteDesFestivalsData'
+        # Open CSV file to write:
+        csvfile = open(FOLDER_NAME+'/'+f['name']+'.csv', 'w')
+        fieldnames = ['festival', 'location', 'date', 'artist']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
 
         for year in f['archive_dates']:
             print '-- ' + year + ':'
             for concert in getConcertsForFestivalAtDate(festivalId=f['ID'], year=year):
-                print ('---- festival=%s, place=%s, date=%s, artist=%s' % (f['name'], concert['place'], concert['date'], concert['artist'])).encode('utf-8')
-                writer.writerow({'festival': f['name'].encode('utf-8'), 'place': concert['place'].encode('utf-8'), 'date': concert['date'].encode('utf-8'), 'artist': concert['artist'].encode('utf-8')})
+                print ('---- festival=%s, location=%s, date=%s, artist=%s' % (f['name'], concert['place'], concert['date'], concert['artist'])).encode('utf-8')
+                writer.writerow({'festival': f['name'].encode('utf-8'), 'location': concert['place'].encode('utf-8'), 'date': concert['date'].encode('utf-8'), 'artist': concert['artist'].encode('utf-8')})
+            print '--------'
+
         print '--------'
