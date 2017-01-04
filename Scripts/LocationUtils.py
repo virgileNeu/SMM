@@ -173,3 +173,20 @@ def loadDictionary(filename):
 		else:
 			print(s)
 	return dic
+
+def populateDictionary(dic):
+    append = {}
+    for (key, val) in dic.items():
+        good = False
+        tmp = ""
+        separators = [' ', ';']
+        for c in separators:
+            if(not good):
+                tmp = key.split(c)
+                if(len(tmp) == 2 and len(tmp[0]) == 4 and int(tmp[0]) >=1000 and int(tmp[0]) <= 9999): #format <NPA>c<CITY> with <NPA> on 4 digits
+                    good=True
+        if(good):
+            (npa, city) = tmp
+            if(not city in dic and not city in append):
+                append.update({city:val})
+    dic.update(append)
