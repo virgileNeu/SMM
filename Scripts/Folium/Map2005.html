@@ -1,0 +1,357 @@
+
+        <!DOCTYPE html>
+        <head>
+            
+        
+            <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster-src.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://raw.githubusercontent.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+        
+        
+        
+            
+            <style>
+
+            html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+                }
+
+            #map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+            
+        
+            
+            <style> #map_79a6ab4e289b4710ba8c886d5c620f4a {
+                position : relative;
+                width : 100.0%;
+                height: 100.0%;
+                left: 0.0%;
+                top: 0.0%;
+                }
+            </style>
+        
+        
+        
+        </head>
+        <body>
+            
+        
+            
+            <div class="folium-map" id="map_79a6ab4e289b4710ba8c886d5c620f4a" ></div>
+        
+        
+        
+        </body>
+        <script>
+            
+        
+            
+
+            var southWest = L.latLng(-90, -180);
+            var northEast = L.latLng(90, 180);
+            var bounds = L.latLngBounds(southWest, northEast);
+
+            var map_79a6ab4e289b4710ba8c886d5c620f4a = L.map('map_79a6ab4e289b4710ba8c886d5c620f4a', {
+                                           center:[46.7,8],
+                                           zoom: 8,
+                                           maxBounds: bounds,
+                                           layers: [],
+                                           crs: L.CRS.EPSG3857
+                                         });
+            
+        
+        
+            
+            var tile_layer_b969f30f13a6464e9d1823d5aa58dd3a = L.tileLayer(
+                'https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png',
+                {
+                    maxZoom: 18,
+                    minZoom: 1,
+                    attribution: '(c) <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors (c) <a href="http://cartodb.com/attributions">CartoDB</a>, CartoDB <a href ="http://cartodb.com/attributions">attributions</a>',
+                    detectRetina: false
+                    }
+                ).addTo(map_79a6ab4e289b4710ba8c886d5c620f4a);
+
+        
+        
+            
+
+            var circle_marker_5f99b37738794ca4b63e4311974f5927 = L.circle(
+                [46.2521873,6.9469598],
+                30,
+                {
+                    color: 'red',
+                    fillColor: 'black',
+                    fillOpacity: 0.6
+                    }
+                )
+                .addTo(map_79a6ab4e289b4710ba8c886d5c620f4a);
+            
+        
+            
+            var popup_0d4af1f8a09548d19eb8f6e8a6329cf4 = L.popup({maxWidth: '300'});
+
+            
+                var html_797a3c758a0645bd837c81a014eaa826 = $('         <div id="html_797a3c758a0645bd837c81a014eaa826"                 style="width: 100.0%; height: 100.0%;">                  Pont Rouge</div>                 ')[0];
+                popup_0d4af1f8a09548d19eb8f6e8a6329cf4.setContent(html_797a3c758a0645bd837c81a014eaa826);
+            
+
+            circle_marker_5f99b37738794ca4b63e4311974f5927.bindPopup(popup_0d4af1f8a09548d19eb8f6e8a6329cf4);
+
+            
+        
+        
+            
+
+            var circle_marker_ab97ec5de4cd4e6794c755e95a3dd9a1 = L.circle(
+                [46.1977922,6.1504399],
+                30,
+                {
+                    color: 'red',
+                    fillColor: 'black',
+                    fillOpacity: 0.6
+                    }
+                )
+                .addTo(map_79a6ab4e289b4710ba8c886d5c620f4a);
+            
+        
+            
+            var popup_a58d3f004ee74e4db88616c2823cd35e = L.popup({maxWidth: '300'});
+
+            
+                var html_28be0e37c8af467e92d9ca7f0d802cc8 = $('         <div id="html_28be0e37c8af467e92d9ca7f0d802cc8"                 style="width: 100.0%; height: 100.0%;">                  Crem</div>                 ')[0];
+                popup_a58d3f004ee74e4db88616c2823cd35e.setContent(html_28be0e37c8af467e92d9ca7f0d802cc8);
+            
+
+            circle_marker_ab97ec5de4cd4e6794c755e95a3dd9a1.bindPopup(popup_a58d3f004ee74e4db88616c2823cd35e);
+
+            
+        
+        
+            
+
+            var circle_marker_088b67f93cf54091b5bc9c57e2f71d51 = L.circle(
+                [47.3596842,7.911872499999998],
+                30,
+                {
+                    color: 'red',
+                    fillColor: 'black',
+                    fillOpacity: 0.6
+                    }
+                )
+                .addTo(map_79a6ab4e289b4710ba8c886d5c620f4a);
+            
+        
+            
+            var popup_638aa58f80d84ca4aaaa8fb3c02ebba8 = L.popup({maxWidth: '300'});
+
+            
+                var html_fb05ba79984146048cdaa7242ab82a10 = $('         <div id="html_fb05ba79984146048cdaa7242ab82a10"                 style="width: 100.0%; height: 100.0%;">                  Varioclub</div>                 ')[0];
+                popup_638aa58f80d84ca4aaaa8fb3c02ebba8.setContent(html_fb05ba79984146048cdaa7242ab82a10);
+            
+
+            circle_marker_088b67f93cf54091b5bc9c57e2f71d51.bindPopup(popup_638aa58f80d84ca4aaaa8fb3c02ebba8);
+
+            
+        
+        
+            
+
+            var circle_marker_da59e417249943e891ccb94e816519f9 = L.circle(
+                [46.10938970000001,7.093364],
+                30,
+                {
+                    color: 'red',
+                    fillColor: 'black',
+                    fillOpacity: 0.6
+                    }
+                )
+                .addTo(map_79a6ab4e289b4710ba8c886d5c620f4a);
+            
+        
+            
+            var popup_73419d9bc54b4285afaf72c55f31c3cc = L.popup({maxWidth: '300'});
+
+            
+                var html_d378ed10fdf44ed2bcfa1657fff7eb62 = $('         <div id="html_d378ed10fdf44ed2bcfa1657fff7eb62"                 style="width: 100.0%; height: 100.0%;">                  V-So Club</div>                 ')[0];
+                popup_73419d9bc54b4285afaf72c55f31c3cc.setContent(html_d378ed10fdf44ed2bcfa1657fff7eb62);
+            
+
+            circle_marker_da59e417249943e891ccb94e816519f9.bindPopup(popup_73419d9bc54b4285afaf72c55f31c3cc);
+
+            
+        
+        
+            
+
+            var circle_marker_ecafdd1a77d84db2a42f479f55c21ea5 = L.circle(
+                [47.34542569999999,9.5883326],
+                30,
+                {
+                    color: 'red',
+                    fillColor: 'black',
+                    fillOpacity: 0.6
+                    }
+                )
+                .addTo(map_79a6ab4e289b4710ba8c886d5c620f4a);
+            
+        
+            
+            var popup_806de997a8be4342b16cf1879dbe4cec = L.popup({maxWidth: '300'});
+
+            
+                var html_7ceaa48d0f91420ab0dd4c094c1938a3 = $('         <div id="html_7ceaa48d0f91420ab0dd4c094c1938a3"                 style="width: 100.0%; height: 100.0%;">                  Platinpalace</div>                 ')[0];
+                popup_806de997a8be4342b16cf1879dbe4cec.setContent(html_7ceaa48d0f91420ab0dd4c094c1938a3);
+            
+
+            circle_marker_ecafdd1a77d84db2a42f479f55c21ea5.bindPopup(popup_806de997a8be4342b16cf1879dbe4cec);
+
+            
+        
+        
+            
+
+            var circle_marker_146c784e41494fc38efb192a25f15fa6 = L.circle(
+                [47.3730507,8.534927399999999],
+                30,
+                {
+                    color: 'red',
+                    fillColor: 'black',
+                    fillOpacity: 0.6
+                    }
+                )
+                .addTo(map_79a6ab4e289b4710ba8c886d5c620f4a);
+            
+        
+            
+            var popup_cc32bf1c62cf4c68bb3bc5a366f9eec7 = L.popup({maxWidth: '300'});
+
+            
+                var html_526feaee839e41fdb8abacdef35a2323 = $('         <div id="html_526feaee839e41fdb8abacdef35a2323"                 style="width: 100.0%; height: 100.0%;">                  Sugarlounge</div>                 ')[0];
+                popup_cc32bf1c62cf4c68bb3bc5a366f9eec7.setContent(html_526feaee839e41fdb8abacdef35a2323);
+            
+
+            circle_marker_146c784e41494fc38efb192a25f15fa6.bindPopup(popup_cc32bf1c62cf4c68bb3bc5a366f9eec7);
+
+            
+        
+        
+            
+
+            var circle_marker_cee04773e93f416280abfcf8c81bd87e = L.circle(
+                [47.16262809999999,9.468334200000001],
+                30,
+                {
+                    color: 'red',
+                    fillColor: 'black',
+                    fillOpacity: 0.6
+                    }
+                )
+                .addTo(map_79a6ab4e289b4710ba8c886d5c620f4a);
+            
+        
+            
+            var popup_84dc0a56ab0a4bb395f18fe61d90add7 = L.popup({maxWidth: '300'});
+
+            
+                var html_87db77c852b844d8a6219ea8ef422325 = $('         <div id="html_87db77c852b844d8a6219ea8ef422325"                 style="width: 100.0%; height: 100.0%;">                  Snails Higherground Club</div>                 ')[0];
+                popup_84dc0a56ab0a4bb395f18fe61d90add7.setContent(html_87db77c852b844d8a6219ea8ef422325);
+            
+
+            circle_marker_cee04773e93f416280abfcf8c81bd87e.bindPopup(popup_84dc0a56ab0a4bb395f18fe61d90add7);
+
+            
+        
+        
+        
+        </script>
+        
