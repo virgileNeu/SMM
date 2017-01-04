@@ -1,0 +1,53 @@
+,location,event,date,artists,genre
+0,Basel,Mittagskonzert,2014-11-27,[' Ana Maria Fonseca '],Classic
+1,Luzern,Lucerne-Festival-am-Piano,2014-11-27,['Sophie Pacini '],Classic
+2,Zürich,Werner-und-Company,2014-11-27,['Werner und Company '],Pop
+3,Basel,Vortragsabend,2014-11-27,[' Elina Gotsouliak '],Classic
+4,Baden,After-Work-Music-Musique-et-proximité,2014-11-27,"['Hanspeter Oggier ', ' Mathieu Rouquié ']",Classic
+5,Zürich,Feierabendwerkschau,2014-11-27,"[' Christoph Gallio ', ' Silvan Jeger ', ' David Meier ']",
+6,Luzern,Lucerne-Festival-am-Piano,2014-11-27,['Chris Hopkins '],
+7,Luzern,Lucerne-Festival-am-Piano,2014-11-27,['Dirk Raufeisen '],
+8,Luzern,Lucerne-Festival-am-Piano,2014-11-27,['Bernd Lhotzky '],
+9,Luzern,Lucerne-Festival-am-Piano,2014-11-27,['Ehud Asherie '],
+10,Luzern,Lucerne-Festival-am-Piano,2014-11-27,['Aaraon Goldberg '],
+11,Zürich,Unerhört,2014-11-27,"[' Co Streiff ', ' Luigi Archetti ', ' Jan Schlegel ']",
+12,Zürich,Konzert,2014-11-27,[' Anja Harteros '],Classic
+13,Bern,Brahms-Vierte,2014-11-27,"[' Sebastian Manz ', ' works by Jean-Luc Darbellay ']",Classic
+14,Zürich,Thursday-Night-Jazz,2014-11-27,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+15,Zürich,My-First-Band,2014-11-27,['My First Band '],
+16,Luzern,Lucerne-Festival-am-Piano,2014-11-27,['Evgeny Kissin '],Classic
+17,Lausanne,Cannibal-Corpse,2014-11-27,"['Cannibal Corpse ', ' Revocation ', ' Aeon ']",
+18,Zürich,Impressionen,2014-11-27,"['Anthony Bernard van Diver ', ' Chihiro Ishii ', ' Vytis Sakuras ']",Classic
+19,Zürich,The-Animals-&-Friends,2014-11-27,['The Animals & Friends '],
+20,Baden,Joey-Gilmore,2014-11-27,['Joey Gilmore '],
+21,Zürich,Chris-Rea,2014-11-27,['Chris Rea '],
+22,null,A-Winged-Victory-For-The-Sullen,2014-11-27,['A Winged Victory For The Sullen '],
+23,Solothurn,Alpentainer,2014-11-27,"[' Marc Trauffer ', ' Monika Schär ', ' Adamo Häller ', ' Patrik Meier ', ' Christian Kyburz ', ' Frank Niklaus ', ' Christian Hugelshofer ']",Pop
+24,null,Yannick-Noah,2014-11-27,['Yannick Noah '],Pop
+25,Luzern,Christy-Doran's-New-Bag,2014-11-27,"[' Sarah Buechi ', ' Vincent Membrez ', ' Lionel Friedli ', ' Christy Doran ']",
+26,Zürich,Klapparat,2014-11-27,"[' Daniel Zumofen ', ' Matthias Wenger ', ' Ivo Prato ', ' Erwin Brünisholz ', ' Michel Duc ', ' Philippe Ducommun ']",Pop
+27,Zürich,Unterwegs-Vo-Züri-gäge-weltwärts-zue,2014-11-27,[' Selina Beyeler '],Pop
+28,Zürich,Unterwegs-Vo-Züri-gäge-weltwärts-zue,2014-11-27,[' Selina Beyeler '],Pop
+29,Basel,Horizont-Schostakowitsch,2014-11-27,"['Ilja Gringolts ', ' Valérie Szlavik ', ' Daniel Haefliger ', ' Serguei Milstein ']",Classic
+30,Winterthur,Danilo-Moccia-Quartet,2014-11-27,"[' Chris Wiesendanger ', ' Danilo Moccia ', ' Christoph Sprenger ', ' Sheldon Sutter ']",
+31,Schaffhausen,Irish-Nights,2014-11-27,"[""Declan O'Rourke "", ' Cara Dillon Band ']",
+32,Basel,Triggerfinger,2014-11-27,['Triggerfinger '],
+33,Zürich,Niels-Frevert,2014-11-27,['Niels Frevert '],Pop
+34,Zürich,Francesco-Diomaiuta-Trio,2014-11-27,"[' Francesco Diomaiuta ', ' Florian Kolb ', ' Clemens Kuratle ']",
+35,Bern,Thanks,2014-11-27,"['Thanks ', ' Amatorski ']",
+36,null,Alphaville,2014-11-27,['Alphaville '],Electronic
+37,Zürich,Der-Entschluss,2014-11-27,[' works by Anna Trauffer '],Classic
+38,Basel,Smiling-Organizm,2014-11-27,"[' Alex Sipiagin ', ' Zhenya Strigalev ', ' Liam Noble ', ' Mike Janisch ', ' Linley Marthe ', ' Eric Harland ']",
+39,Zürich,Courtney-Barnett,2014-11-27,"['Courtney Barnett ', ' Money for Rope ']",Pop
+40,Zürich,Sons-of-Kemet,2014-11-27,"[' Shabaka Hutchings ', ' Oren Marshall Rochford ', ' Seb Rochford ', ' Tom Skinner ']",
+41,Liebefeld,Albin-Brun-Nah-Quartett,2014-11-27,"[' Albin Brun ', ' Andy Gabriel ', ' Marc Unternährer ', ' Andy Aegerter ']",
+42,Zug,Nazareth,2014-11-27,['Nazareth '],
+43,Zürich,Angus-&-Julia-Stone,2014-11-27,['Angus & Julia Stone '],
+44,Winterthur,Guts-Pie-Earshot,2014-11-27,['Guts Pie Earshot '],Electronic
+45,Luzern,Lucerne-Festival-am-Piano,2014-11-27,['Bernd Lhotzky '],
+46,Zürich,The-Blank-Tapes,2014-11-27,['The Blank Tapes '],
+47,Schaffhausen,R.I.P.-Neustadt,2014-11-27,['Give '],
+48,Zürich,Deafkid,2014-11-27,['Deafkid '],Electronic
+49,Düdingen,Bass-Drum-of-Death,2014-11-27,['Bass Drum of Death '],
+50,Bern,Allo'-Darlin,2014-11-27,"[""Allo' Darlin ""]",Pop
+51,Zürich,Pittini-Morton-Monstein,2014-11-27,"[' Alessandro Pittini ', ' Dimitri Monstein ', ' Colin Morton ']",

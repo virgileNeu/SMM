@@ -1,0 +1,46 @@
+,location,event,date,artists,genre
+0,Häggenschwil,Matinée,2015-12-06,"[' Noëlle Grüebler ', ' Jonas Kreienbühl ', ' Andrea Wiesli ', ' Nicolas Senn ']",Classic
+1,Luzern,Adventsmatinee-Folia-Brandenburgensis,2015-12-06,['Maurice Steger '],Classic
+2,Zürich,Liturgische-Feier-zum-2.-Advent,2015-12-06,[' Paul Phoenix '],Classic
+3,Bern,Saturday-Morning-Jazz-Band,2015-12-06,"[' Peter Gerber ', ' Kuno Heer ', ' Markus Schumacher ']",
+4,Zürich,Glantaler-Power-Men,2015-12-06,['Glantaler Power Men '],Pop
+5,null,Elea-Nick-Die-Schweizer-Geigenhoffnung,2015-12-06,"['Elea Nick ', ' Minako Matsuura ']",Classic
+6,Zürich,Brunchkonzert,2015-12-06,"['Hanna Weinmeister ', ' Xiaoming Wang ', ' Valérie Szlávik ', ' Bruno Weinmeister ']",Classic
+7,Zürich,Polnische-Kammermusik-Meisterwerke-1829-und-1929,2015-12-06,"[' Andreas Janke ', ' Elisabeth Bundies ', ' Katja Fuchs ', ' Christian Proske ', ' Yoshiko Iwai ']",Classic
+8,Uster,Joe-Haider-Quintet,2015-12-06,"[' Andy Scherrer ', ' Matthias Spillmann ', ' Joe Haider ', ' Raffaele Bossard ', ' Dominic Egli ']",
+9,Mühlethurnen,Jimmy-Flitz,2015-12-06,"[' Roland Zoss ', ' Mike Bischof ', ' Dajana Wetzel ', ' Toni Tortuga ', ' Tinu Stadelmann ']",Pop
+10,Uster,Adventskonzert,2015-12-06,['Helmut F. Nowak '],traditional
+11,Basel,Bilder-der-Weihnacht,2015-12-06,"['Clemens Bittlinger ', ' David Plüss ']",Pop
+12,Basel,Seltsame-Lieder,2015-12-06,"[' Ivana Pristaová ', ' Petra Ackermann ', ' Karolina Öhman ', ' Tamriko Kordzaia ']",Classic
+13,Zürich,Messias,2015-12-06,"[' Martina Küng ', ' Jan Börner ', ' Michael Mogl ', ' Jean-Luc Waeber ']",Classic
+14,null,Swiss-Tenors-Christmas,2015-12-06,"['Andri Calonder ', ' Enrico Orlandi ', ' Gordon Schultz ', ' Valentin Akcag ']",Classic
+15,Arlesheim,Adventskonzert,2015-12-06,"[' Maria Ferré ', ' Amélie Chemin ']",Classic
+16,Basel,Jubiläumskonzert-50-Jahre-Kantorei-St.-Peter,2015-12-06,"['Gunta Smirnova ', ' Christina Metz ', ' David Munderloh ', ' Ralf Ernst ', ' Stefanie Bischof ']",Classic
+17,Zürich,Chorkonzert,2015-12-06,"[' Maria C. Schmid ', ' Barbara Erni ', ' William Lombardi ', ' Stefan Vock ']",Classic
+18,Winterthur,Liederabend,2015-12-06,"['Sarah Wegener ', ' Götz Payer ']",Classic
+19,Reinach,Von-Liebe-und-Heldentum-Musik-aus-Osteuropa,2015-12-06,[' Matthias Würsch '],Classic
+20,null,3.-Meisterzyklus-Konzert,2015-12-06,"[' Corina Belcea ', ' Axel Schacher ', ' Krzysztof Chorzelski ', ' Antoine Lederlin ']",Classic
+21,Zürich,Denn-wie-Mann-sich-bettet-Ein-kurtweilliger-Liederabend,2015-12-06,"['Christian Jott Jenny ', ' Edward Rushton ', ' Othella Dallas ']",Pop
+22,Basel,Heimat-Familie-Bach-im-Fluss,2015-12-06,"[' Mira Gloor ', ' Frederic Sanchez ', ' Tania Ramos ', ' Lukas Gothszalk ', ' Vladyslava Luchenko ']",Classic
+23,Münchenbuchsee,Lyrica-Quartett,2015-12-06,"['Anouk Theurillat ', ' Sandrine Canova ', ' Julia Malkova ', ' Eva Lüthi ']",Classic
+24,Zürich,Grosse-Chorsinfonik,2015-12-06,"[' Peter Solomon ', ' Luba Orgonásová ', ' Alisa Kolosova ', ' Pavel Cernoch ', ' Peter Mikulás ']",Classic
+25,Zürich,Precollege-Orchestra-Zürich,2015-12-06,['Marcel Üstün '],Classic
+26,Wädenswil,Händels-Teatime-30-Jahre-Theater-Ticino,2015-12-06,"[' Nuria Rial ', ' Katharina Suske ', ' Anais Chen ', ' Balasz Maté ', ' Vital Julian Frey ', ' Jonathan Rubin ']",Classic
+27,Bern,Hedreich-Nichols-&-Nachtfieber-Showband,2015-12-06,"[' Hedreich Nichols ', ' Roman Wyss ', ' André Kunz ', ' Stephen Brunner ', ' Andreas Schnyder ']",
+28,Luzern,22.-Klub-Konzert-Luzern-PianoTango,2015-12-06,['Robert Schmidt '],
+29,Winterthur,Grave,2015-12-06,"['Grave ', ' Malevolent Creation ']",Pop
+30,null,Tiziano-Ferro,2015-12-06,['Tiziano Ferro '],Pop
+31,Zürich,O-magnum-mysterium,2015-12-06,[' Manuel Andrea Leuenberger '],Classic
+32,Zürich,Sahara-Sunday,2015-12-06,"[' Aziza Brahim ', ' Guillem Aguilar Nolis ', ' Ignasi Cusso Ruis ', ' Pep Mendoza ', ' Nicolas Roca Gomez ']",
+33,null,Weihnachtsperlen,2015-12-06,"['Les perles ', ' Cynthia Metzger ', ' Clara Magendi ', ' Elisa Cortinovis ', ' Juliet Lauton ', ' Manon Moser ', ' Léonore Mangold ', ' Felix Graf ']",Pop
+34,Luzern,Don't-Change-Your-Hair-For-Me,2015-12-06,"[' Sandy Patton ', ' Peter Schärli ', ' Antonia Giordano ', ' Thomas Dürst ']",
+35,Pratteln,Doro,2015-12-06,"['Doro ', ' Archer ']",
+36,Zürich,Agent-Fresco,2015-12-06,['Agent Fresco '],Pop
+37,Lyss,The-Subways,2015-12-06,"['The Subways ', ' support: Die Mannequin ']",
+38,Winterthur,Blues-Container,2015-12-06,"[' Beat Iseli ', ' Urs Baserga ', ' Alan Solomon ', ' Oliver Ott ', ' Thomas Kunz ']",
+39,Solothurn,Arch-Enemy,2015-12-06,['Arch Enemy '],
+40,Zürich,DAS-EFX,2015-12-06,['DAS EFX '],
+41,null,Switalo-Jazz-Swiss-italian-jazzproject,2015-12-06,"['Attilio Troiano ', ' Thomas Moeckel ', ' Simone Bollini ', ' Giuseppe Venezia ', ' Lucio Marelli ']",
+42,Zürich,Ohrbooten,2015-12-06,['Ohrbooten '],
+43,Lausanne,The-Internet-annulé,2015-12-06,['The Internet '],
+44,Zürich,Swanky-Mothers-Series,2015-12-06,"['Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",

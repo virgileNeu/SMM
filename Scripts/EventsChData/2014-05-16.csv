@@ -1,0 +1,55 @@
+,location,event,date,artists,genre
+0,Luzern,Piano-Entertainment,2014-05-16,['Herb Miller '],
+1,Zürich,Soirée-classique,2014-05-16,"['Gábor Boldoczki ', ' Gergely Boganyi ']",Classic
+2,Basel,Orgelspiel-zum-Feierabend,2014-05-16,['Helga Varadi '],Classic
+3,Dietikon,Feierabendmusik,2014-05-16,['Bernhard Hörler '],Classic
+4,Zürich,Total-aerofon,2014-05-16,"['Mark Richli ', ' Merit Eichhorn ']",Classic
+5,Zürich,Nocturne,2014-05-16,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
+6,Arbon,Tobias-Preisig-Quartet,2014-05-16,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
+7,null,10.-Tonhallekonzert-Märchenerzählungen,2014-05-16,['Agata Szymczewska '],Classic
+8,Willisau,Bon-Voyage-Eine-musikalische-Reise-um-die-Welt,2014-05-16,"[' Cornelia Leuthold ', ' David Talamante ']",Classic
+9,Riehen,Armida-abbandonata,2014-05-16,[' Alice Borciani '],Classic
+10,Basel,Poème,2014-05-16,"[' Hansheinz Schneeberger ', ' Mátyás Bartha ', ' Roger Pyne ', ' Vahagn Aristakesyan ', ' David Lauri ', ' Imola Bartha ']",Classic
+11,Zürich,Sonate-h-Moll-und-10-Mazurken,2014-05-16,['Grigory Sokolov '],Classic
+12,Luzern,The-Retro-Festival,2014-05-16,['Smokie '],Pop
+13,Bern,Die-Italienische,2014-05-16,[' Sol Gabetta '],Classic
+14,Bern,Shujaat-Husain-Khan,2014-05-16,['Shujaat Husain Khan '],
+15,Zürich,Plasma,2014-05-16,['Plasma '],Pop
+16,Bern,Stolen-Moments,2014-05-16,"[' Nina Kubik ', ' Tom Steiner ']",
+17,Basel,Chick-Corea,2014-05-16,"['Chick Corea ', ' Michael Zisman ']",
+18,Zürich,ZHdK-Masters-of-Jazz,2014-05-16,"[' Andrea Kirchhofer ', ' Sarah Abrigada ', ' Steve Grob ']",
+19,Zürich,Moë-und-der-Schreibgärtner,2014-05-16,"[' Anet Zemp ', ' Marc Scheidegger ']",
+20,Zürich,Schöne-Lieder-III,2014-05-16,"[' Jeannine Hirzel ', ' Robert Koller ', ' works by Johannes Harneit ']",Classic
+21,Oberengstringen,Jean-Paul-Brodbeck-Trio,2014-05-16,"[' Jean-Paul Brodbeck ', ' Dominique Girod ', ' Sheldon Suter ']",
+22,Zürich,Doctor-Kingesi,2014-05-16,"[""Doctor King'esi ""]",Pop
+23,Liestal,Musical-Meets-Movie-Music-II,2014-05-16,"['Thomas Moeckel ', ' Jeanne Pascale ', ' Martin Zangerl ']",Pop
+24,Zug,The-Brasshole-Brush-Out,2014-05-16,"[' Dani Kern ', ' Mats Huwyler ', ' Dionys Jäger ', ' Melissa Heinemann ']",
+25,Zürich,Kelis,2014-05-16,['Kelis '],
+26,Basel,Perlen-aus-Mozarts-Kammermusik,2014-05-16,"['Anne Freitag ', ' Thomas Meraner ', ' Anaïs Chen ', ' Martina Bischoff ', ' Daniel Rosin ']",Classic
+27,Zürich,RM-74-&-Stromschlag,2014-05-16,"[' Reto Mäder ', ' Martin Götte ', ' Eric Ruffing ']",
+28,Winterthur,Jörg-Enz-Organic-Trio,2014-05-16,"[' Jörg Enz ', ' Reinhold Hettich ', ' Jörg Bach ']",
+29,Schaffhausen,Schaffhauser-Jazzfestival,2014-05-16,"[' Beat Hofstetter ', ' Sascha Armbruster ', ' Andrea Formenti ', ' Beat Kappeler ', ' Andreas Schaerer ', ' Wolfgang Zwiauer ']",
+30,Liebefeld,Raw-Vision,2014-05-16,"[' Christoph Grab ', ' Bernhard Bamert ', ' Thomas Lüscher ', ' Frank Möbus ', ' Silvan Jeger ', ' Maxime Paratte ']",
+31,Basel,Triple-Ace,2014-05-16,"[' Oliver Kent ', ' Uli Langthaler ', ' Dusan Novakov ']",
+32,Zürich,Camarones-Orquestra-Guitarrista,2014-05-16,['Camarones Orquestra Guitarrista '],
+33,Dübendorf,Bucher-Sommer-Friedli-Aeby,2014-05-16,"[' Michael Bucher ', ' Patrick Sommer ', ' Tobias Friedli ', ' Stefan Aeby ']",
+34,Bern,Sonaer,2014-05-16,"[' Claudia Mettler ', ' Markus Gneupel ', ' Martin Hilti ', ' Lukas Rosenberger ']",
+35,Romanshorn,10-Jahre-Stickerei,2014-05-16,"[' Christoph Seitler ', ' Daniel Staub ', ' Adi Gerlach ']",
+36,Herisau,Todd-Wolfe-Band,2014-05-16,['Todd Wolfe Band '],
+37,Liestal,Pepperongino,2014-05-16,"[' Edy Riesen ', ' Gino Suter ', ' Eric Vuille-Gautier ', ' Heinz Widmer ', ' M. Zimmermann ']",
+38,null,Anoushka-Shankar,2014-05-16,['Anoushka Shankar '],
+39,Solothurn,Kollektiv-Turmstrasse,2014-05-16,['Kollektiv Turmstrasse '],
+40,Zürich,Reggies-Doo,2014-05-16,['Reggies Doo   '],
+41,Aarburg,Coco-Montoya,2014-05-16,['Coco Montoya '],
+42,null,Kamikaze,2014-05-16,['Kamikaze '],Pop
+43,Bern,Brutal-Metal-Night,2014-05-16,['In Arkida '],
+44,Schaffhausen,Caribbean-Night,2014-05-16,['DJ Dale '],
+45,Schaffhausen,Schaffhauser-Jazzfestival,2014-05-16,"[' Raphael Jost ', ' Raphael Walser ', ' Jonas Ruther ']",
+46,Zürich,FM-Belfast,2014-05-16,"['FM Belfast ', ' Berndsen ']",
+47,Hasliberg-Hohfluh,Pink-Pedrazzi,2014-05-16,"[' Pink Pedrazzi ', ' Oli Hartung ', ' Peter Wagner ', ' Sandra Merk ', ' Andi Hug ']",Pop
+48,Schaffhausen,Schaffhauser-Jazzfestival,2014-05-16,"[' Sarah Buechi ', ' Vincent Membrez ', ' Lionel Friedli ', ' Christy Doran ']",
+49,Bern,Lord-Lhus,2014-05-16,"['Lord Lhus ', ' Sa-Ves ']",
+50,Schaffhausen,Schaffhauser-Jazzfestival,2014-05-16,"[' Stefan Rusconi ', ' Fabian Gisler ', ' Claudio Strüby ']",
+51,Zürich,Sars,2014-05-16,['Sars '],
+52,Basel,In-other-Climes,2014-05-16,['In other Climes '],
+53,Schaffhausen,Schaffhauser-Jazzfestival,2014-05-16,"[' Sha ', ' Urs Müller ', ' Kaspar Rast ', ' Sarah Zaugg ']",

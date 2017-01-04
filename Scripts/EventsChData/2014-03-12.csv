@@ -1,0 +1,34 @@
+,location,event,date,artists,genre
+0,Zürich,Konzert,2014-03-12,"['Nadja S. ', ' Benedict Schönenberger ', ' Pierre Tissonnier ', ' Ronja Oppelt ', ' Philipp Boos ']",Classic
+1,Zürich,Steirersound,2014-03-12,['Steirersound '],traditional
+2,Luzern,Piano-Entertainment,2014-03-12,['Mark Tenger '],
+3,Zürich,Y-Titty,2014-03-12,['Y-Titty '],Pop
+4,Luzern,Konzert,2014-03-12,[' Viktoria Mullova '],Classic
+5,Zürich,Internationales-Country-Music-Festival,2014-03-12,[' Joni & Thomi Pettit '],
+6,Zürich,Konzert-für-Mitglieder-und-Gönner,2014-03-12,[' Gidon Kremer '],Classic
+7,Bern,Klavierkonzert,2014-03-12,['Marc-André Hamelin '],Classic
+8,Palais-des-Congrès,null,2014-03-12,['Bruno Schneider '],Classic
+9,Solothurn,2Raumwohnung,2014-03-12,['2Raumwohnung '],Pop
+10,null,VUM,2014-03-12,['VUM '],Pop
+11,-KuZeB,null,2014-03-12,['Acidez '],
+12,null,Dan-Le-Sac-vs-Scroobius-Pip,2014-03-12,['Dan Le Sac vs Scroobius Pip '],
+13,Näfels,Sinfoniekonzert,2014-03-12,"[' Flurin Cuonz ', ' Ricardo Gatzmann ']",Classic
+14,Bern,Ire,2014-03-12,['Ire '],
+15,Zürich,Jazzbaragge-Wednesday-Jam,2014-03-12,"['Floriano Ignacio Jr. ', ' Dudu Penz ', ' Florain Reichle ']",
+16,Luzern,Jam-Night,2014-03-12,"[' Christian Winiker ', ' Andi Schnellmann ', ' Simon Britschgi ']",
+17,Zürich,John-Mayall,2014-03-12,['John Mayall '],
+18,Winterthur,Well-Brüder,2014-03-12,['Well Brüder '],Pop
+19,Zürich,Marteria,2014-03-12,['Marteria '],
+20,Olten,Konzert,2014-03-12,"[' Mischa Cheung ', ' André Desponds ', ' Benjamin Engeli ', ' Stefan Wirth ']",Classic
+21,Luzern,Will-and-the-People,2014-03-12,['Will and the People '],Pop
+22,Baden,Heather-Nova,2014-03-12,['Heather Nova '],Pop
+23,Zürich,Reto-Suhner-Nonet,2014-03-12,"[' Reto Suhner ', ' Adrian Pflugshaupt ', ' Matthias Tschopp ', ' Lukas Thöni ']",
+24,Zürich,Bukowski-&-The-Straight-and-Narrow,2014-03-12,['The Blue Angel Lounge '],
+25,Bern,Dobet-Gnahoré,2014-03-12,['Dobet Gnahoré '],
+26,Wädenswil,Chamber-Soul,2014-03-12,"[' Brandy Butler ', ' Roman Hosek ', ' René Mosele ']",
+27,Zürich,Les-Gars-d'en-Bas,2014-03-12,"[""Les Gars d'en Bas ""]",traditional
+28,Luzern,Mad-Girl,2014-03-12,"[' Franziska Bruecker ', ' Corinne Huber ', ' Lander Gyselinck ']",Pop
+29,Zürich,Beyond-Insane,2014-03-12,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
+30,Aarburg,King-King,2014-03-12,['King King '],
+31,null,Voix-de-fête,2014-03-12,['Les Innocents '],Pop
+32,Luzern,Geoff-Berner-und-Corb-Lund,2014-03-12,['Geoff Berner und Corb Lund '],

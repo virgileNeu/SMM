@@ -1,0 +1,42 @@
+,location,event,date,artists,genre
+0,Uster,Pam-Festival,2016-11-20,"['Irina Ungureanu ', ' Rafael Rütti ']",Classic
+1,Luzern,Lucerne-Festival-am-Piano,2016-11-20,['Georgy Tchaidze '],Classic
+2,Zürich,Kammermusik,2016-11-20,"['Asa Konishi Jankowska ', ' Silviya Savova-Hartkamp ', ' Frauke Tometten Molino ', ' Albert Hartkamp ', ' Suguru Ito ']",Classic
+3,Zug,Zuger-Bläserquintett,2016-11-20,"['Hans Röllin ', ' Anna Linder ', ' Bruno Linggi ']",Classic
+4,Zürich,Over-the-Ocean-Vers-Paris,2016-11-20,"['Haika Lübcke ', ' Isaac Duarte ', ' Florian Walser ', ' Mônica Kâto Duarte ']",Classic
+5,Zürich,Nuggi-Konzert,2016-11-20,"['Asa Konishi Jankowska ', ' Silviya Savova-Hartkamp ', ' Frauke Tometten Molino ', ' Albert Hartkamp ', ' Suguru Ito ']",Classic
+6,Zürich,Werner-und-Company,2016-11-20,['Werner und Company '],Pop
+7,Luzern,Lucerne-Festival-am-Piano,2016-11-20,['Alexej Gorlatch '],Classic
+8,Fischingen,Les-voyages-de-l'amour,2016-11-20,"[' Dominique Tinguely ', ' Sarah Humphrys ', ' Sabine Stoffer ', ' Tore Eketorp ', ' Christian Kjos ']",Classic
+9,Zürich,Buck-Wolfarth,2016-11-20,"[' Christian Buck ', ' Christian Wolfarth ']",
+10,Zürich,Bella-Ciao,2016-11-20,[' Martin De Vargas '],Classic
+11,Zürich,Jephtha-HWV-70,2016-11-20,"[' Lenneke Ruiten ', ' Anja Schlosser ', ' Maarten Engeltjes ', ' James Elliott ']",Classic
+12,Bern,Goldberg-City-Variations,2016-11-20,['Works by Francesco Tristano '],Classic
+13,Dürnten,La-Folia-spielt,2016-11-20,[' Sabine Poyé Morel '],Classic
+14,null,Russland,2016-11-20,"['Andrej Korobeinikov ', ' Gregory Flynn ']",Classic
+15,Frick,Missa-dei-Patris,2016-11-20,"[' Nuria Rial ', ' Alex Potter ', ' Hans Jörg Mammel ', ' Martin Bruns ']",Classic
+16,Basel,Konzert-zum-70.-Geburtstag-von-Balz-Trümpy,2016-11-20,"['Virginie Raemy ', ' Chisaki Kito ', ' Ioana Ilie ', ' Araksya Sargsyan ']",Classic
+17,Basel,Momens-musicals,2016-11-20,"["" Solenn' Lavanant-Linke "", ' Rani Orenstein ']",Classic
+18,Muttenz,Konzert-des-Philharmonischen-Orchesters-Basel,2016-11-20,['Lukas Raaflaub '],Classic
+19,Winterthur,Salonkonzert,2016-11-20,"[' Nolwenn Bargin ', ' Maria Surnacheva ', ' Sérgio Pires ', ' Daniele Galaverna ']",Classic
+20,Zürich,KOnzert-am-Sonntag,2016-11-20,[' Solist Mario Venuti. Der Orchesterverein Oerlikon '],Classic
+21,Palais-des-Congrès,null,2016-11-20,"[' Miriam Feuerspringer ', ' Barbara Erni ', ' Michael Feyfar ', ' Christian Immler ', ' Dominik Wörner ']",Classic
+22,Basel,Neues-Orchester-Basel,2016-11-20,[' Anna Abbühl '],Classic
+23,Luzern,Lucerne-Festival-am-Piano,2016-11-20,['Nareh Arghamanyan '],Classic
+24,Zürich,Unerhört,2016-11-20,"[' Óskar Guðjónsson ', ' Ómar Guðjónsson ', ' Davíð Þór Jónsson ', ' Magnús Trygvason Eliassen ']",
+25,Zürich,Obituary,2016-11-20,"['Obituary ', ' Exodus ', ' Prong ', ' King Parrot ']",
+26,Winterthur,Balkan-Beat-Box,2016-11-20,['Balkan Beat Box '],
+27,Bern,Zimi's-Hot-Swing-Trio,2016-11-20,"[""Zimi's Hot Swing Trio "", ' Marcel Zimi Zimmermann ', ' Andreas Bugs ', ' Hans Ermel ']",
+28,Zürich,Artist-in-Residence-Nicole-Johänntgen,2016-11-20,"[' Lindsay Ferguson ', ' Peter Finc ', ' Rislane El Harat ', ' Nicole Johänntgen ', ' Severin Graf ', ' Andi Pupato ']",Pop
+29,Luzern,R'n'B-Caravan,2016-11-20,"[' Tom Müller ', ' Kai Strauss ', ' Tommie Harris  ', ' Dave Ruosch ', ' Dani Gugolz ', ' Peter Müller ']",
+30,Zürich,Frightened-Rabbit,2016-11-20,['Frightened Rabbit '],
+31,Zürich,Von-den-Alpen-bis-zum-Kaukasus,2016-11-20,"['Isakadze ', ' Grossenbacher ', ' Kordzadze ', ' Nebieridze ', ' Yumi ', ' Spronk ', ' Tchumburidze ', ' Ramishvili ', ' Magradze ', ' Tsotskhalashvili ', ' Midelashvil ']",Classic
+32,Basel,Requiem-op.9,2016-11-20,"[' Olga Pavlu ', '  Michael Pavlu ', ' Chantal Langlotz ', ' Pascal Reber ']",Classic
+33,Basel,Hommage-à-György-Kurtág,2016-11-20,"[' Céline Wasmer ', ' Susanne Otto ']",Classic
+34,Basel,Adrian-Younge,2016-11-20,['Adrian Younge '],
+35,Solothurn,Coppersky,2016-11-20,['Coppersky '],
+36,Zürich,Sunday-Jazz,2016-11-20,"[' Tobias Pfister ', ' Alessio Cazzetta ', ' Mischa Frey ', ' Marcio De Sousa ']",
+37,Lausanne,Patrice,2016-11-20,['Patrice '],
+38,Zürich,Charles-Bradley-abgesagt,2016-11-20,['Charles Bradley & His Extraordinaires '],Pop
+39,Bern,Heidi-Happy,2016-11-20,"[' Heidi Happy ', ' Ephrem Lüchinger ']",traditional
+40,Zürich,Element-of-Crime,2016-11-20,['Element of Crime '],Pop

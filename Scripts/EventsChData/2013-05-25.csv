@@ -1,0 +1,47 @@
+,location,event,date,artists,genre
+0,Meggen,Masterclass,2013-05-25,"['Chiara Enderle ', ' Anastasia Kobekina ']",Classic
+1,Meggen,Lunchkonzert-III,2013-05-25,"['Stephan Genz ', ' Alexander Melnikov ']",Classic
+2,Basel,Masterrezital,2013-05-25,"['Klasse Daniel Sepec ', ' Priscila Vargas Pellanda ']",Classic
+3,Meggen,Piano-House-II-100-Jahre-Le-sacre-du-printemps,2013-05-25,"['Alexander Melnikov ', ' Alexei Lubimov ', ' Jonathan Levi ']",Classic
+4,Basel,Masterrezital,2013-05-25,"['Klasse Filippo Gamba ', ' Fiore Favaro ']",Classic
+5,Basel,Masterrezital,2013-05-25,[' Kiyeon Cho '],Classic
+6,Basel,Masterrezital,2013-05-25,[' Julia Marion '],Classic
+7,Winterthur,Ein-Haydn-Spass,2013-05-25,"[' Christophe Berruex ', ' Yoshua Fortunato ']",Classic
+8,Basel,Masterrezital,2013-05-25,[' Naomi Tolksdorf '],Classic
+9,Luzern,Easy-Pop-Melodies,2013-05-25,['Christian Mettler '],Pop
+10,Basel,Geistliche-Chormusik-und-Orgelwerke-der-Romantik,2013-05-25,[' Cyrill Schmiedlin '],Classic
+11,Zürich,Meh-Suff,2013-05-25,"['Necrophobic ', ' Zombie Inc. ']",
+12,Luzern,Masterabschluss-Konzerte,2013-05-25,"['Claudio von Arx ', ' Sebastian Strinning ']",
+13,null,Gaia-Kammermusikfestival,2013-05-25,"['Anna Lipkind ', ' Artiom Shishkov ', ' Alexander Sitkovetsky ']",Classic
+14,Zürich,POP-Parade-of-Populars,2013-05-25,"[' Isabelle Schnöller ', ' Martin Jaggi ']",Classic
+15,Zürich,Liederabend,2013-05-25,"['Joyce DiDonato ', ' David Zobe ']",Classic
+16,Basel,Kantorei-St.-Arbogast:-Haydn-Die-Schöpfung,2013-05-25,"[' Patricia Flury ', ' Florian Stern ', ' Fabrice Hayoz ']",Classic
+17,Zürich,A-Space-Odyssey,2013-05-25,[' Nicolas Hodges '],Classic
+18,Basel,Kantorei-St.-Arbogast:-Haydn-Die-Schöpfung,2013-05-25,"[' Maria Bernius ', ' Florian Stern ', ' Fabrice Hayoz ']",Classic
+19,Zürich,Marienvesper,2013-05-25,"[' Lena Kiepenheuer ', ' Lia Andres ', ' Jakob Pilgram ', ' Valentin Johannes Gloor ']",Classic
+20,Luzern,Zaubersee-Lange-Nacht-1,2013-05-25,"['Daniil Trifonov ', ' Alexander Melnikov ', ' Nicholas Angelich ', ' Steven Isserlis ']",Classic
+21,Basel,Finale-Duowettbewerb,2013-05-25,"['Mirka Scepanovic ', ' Elena Petrova ', ' Joonas Pitkänen ', ' Fiore Favaro ', ' Astrig Siranossian ', ' Andriy Dragan ']",Classic
+22,Maur,Harfe-Violine-Visuelles,2013-05-25,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
+23,Köniz,Alphorn-Experience,2013-05-25,['Alphorn Experience '],traditional
+24,null,Streicher-Festival,2013-05-25,[' Donat Nussbaumer '],Classic
+25,Oberengstringen,Häns'che-Weiss-Trio,2013-05-25,"["" Häns'che Weiss "", ' Holzmanno Winterstein ', ' Vali Mayer ']",
+26,Zürich,Final-European-Reggae-Contest,2013-05-25,[' DJs Serum '],
+27,Zürich,Mohammad-Reza-Mortazavi,2013-05-25,['Mohammad Reza Mortazavi '],
+28,Bern,Internationales-Jazzfestival-Bern,2013-05-25,"['Michel Camilo ', ' Michel Camilo ', ' Danilo Perez ']",
+29,Richterswil,Die-Schöpfung-von-Joseph-Haydn,2013-05-25,"[' Sybille Diethelm ', ' Reto Hofstetter ', ' Reinhard Strebel ']",Classic
+30,Otelfingen,Roberto-e-Dimitri,2013-05-25,"[' Clown Dimitri ', ' Roberto Maggini ']",Pop
+31,Basel,Masterrezital,2013-05-25,[' Sarabeth Guerra '],Classic
+32,Schaffhausen,Schaffhauser-Jazzfestival,2013-05-25,"[' Samuel Blaser ', ' Marc Ducret ', ' Peter Bruun ', ' Yves Theiler ', ' Valentin Dietrich ', ' Lukas Mantel ']",
+33,Basel,Scherrer-Evans-Kurmann-Rossy,2013-05-25,"[' Andy Scherrer ', ' William Evans ', ' Stephan Kurmann ', ' Jorge Rossy ']",
+34,Winterthur,Septic-Flesh,2013-05-25,"['Septic Flesh ', ' Fleshgod Apocalypse ', ' Carach Angren ', ' Descending ']",
+35,Luzern,Weak-Fishes,2013-05-25,['Weak Fishes '],
+36,Aarau,Sin-Fang,2013-05-25,"['Sin Fang ', ' Pascal Pinon ']",
+37,Basel,Marenka,2013-05-25,"[' Regina Degado ', ' Olli Taupp ', ' Michael Heise ', ' Tobi Zeller ']",Pop
+38,Basel,Nives-Onori,2013-05-25,['Nives Onori '],Pop
+39,Zürich,Dezmond-Dez,2013-05-25,[' Steezo '],
+40,Schaffhausen,Schaffhauser-Jazzfestival,2013-05-25,"['Sandy Patton ', ' Antonia Giordano ', ' Thomas Dürst ', ' Peter Schärli ']",
+41,Luzern,Zaubersee-Lange-Nacht-2,2013-05-25,[' Histoire du Soldat mit Gérard Depardieu '],Classic
+42,Rorschach,El-bachatazo,2013-05-25,"[""DJ Da'le ""]",
+43,Basel,Bi-Marks,2013-05-25,"['Bi Marks ', ' Riot Brigade ', ' Hysterese ']",
+44,Zürich,Flight-241,2013-05-25,"[' Jan Jossi ', ' Martial In-Albon ', ' Andreas Achermann ', ' Marcel Frautschi ']",Pop
+45,Basel,Random-feat.-Maduk,2013-05-25,"['Random feat. Maduk ', ' DJs Dave Owen ']",Electronic

@@ -1,0 +1,51 @@
+,location,event,date,artists,genre
+0,Zürich,Wenn-Kühe-ihre-Flecken-verlieren,2014-11-22,"['Carmen Armas Pizzani ', ' Fabian Carisch ', ' Monika Colchero-Koller ', ' Lydia Liebi ']",Pop
+1,Zürich,Christkönigssonntag,2014-11-22,"['Emanuel Rütsche ', ' Felix Gubser ']",Classic
+2,Bern,Konzert,2014-11-22,['Denis Evstuhin '],Classic
+3,Thalwil,Stabat-mater,2014-11-22,"[' Maya Boog ', ' Caroline Vitale ', ' Peter Bernhard ', ' Peter Brechbühler ']",Classic
+4,Luzern,Lucerne-Festival-am-Piano,2014-11-22,['Maurizio Pollini '],Classic
+5,Basel,Fragmente,2014-11-22,"[' K. Szamatulski ', ' R. Morat ', ' V. Wahl ', ' V. Hasler ', ' C. Boner ', ' J. Pacheco ', ' conductor: Marcos A. G. Gonzalez ', ' Steffen Link ']",Classic
+6,Chur,Nairs-Benefiz-Konzert,2014-11-22,"[' Co Streiff ', ' perc) Tommy Meier ', ' Peter Schärli ', ' Ben Jeger ', ' Christian Kuntner ']",
+7,null,Konzert,2014-11-22,[' Vladimir Guyanov '],Classic
+8,Binningen,Auf-Engelsschwingen-und-Eselsrücken,2014-11-22,[' works by Thomas Leininger '],Classic
+9,Twann,A-Dream-within-a-Dream,2014-11-22,"['Anne Schmid ', ' Magdalena Oliferko ']",Classic
+10,null,Konzert,2014-11-22,"[' Vilde Frang ', ' Nils Mönkemeyer ']",Classic
+11,Zürich,Konzert,2014-11-22,[' Philipp Neukom '],Classic
+12,Zürich,Epica,2014-11-22,"['Epica ', ' Dagoba ', ' Dragonforce ']",
+13,Stäfa,Konzert,2014-11-22,"[' Leticia Kahraman ', ' Katja Baumann ', ' Rebekka Knüsel ', ' Nino Aurelio Gmünder ']",Classic
+14,Hägglingen,Fiddler-on-the-Roof,2014-11-22,[' David Schnee '],Classic
+15,Zug,Der-Entschluss-Stumme-Lieder-für-Ensemble-und-Performer,2014-11-22,[' Stefano Benini '],Classic
+16,Basel,An-Enlightened-Bassoon,2014-11-22,"['Andrew Burn ', ' Jermaine Sprosse ']",Classic
+17,Basel,Mozart-aus-den-Fugen,2014-11-22,"[' Amelia Scicolone ', ' Christina Daletska ', ' Tino Brütsch ', ' Stefan Zenkl ']",Classic
+18,Zürich,Raphael-Gualazzi,2014-11-22,['Raphael Gualazzi '],
+19,null,Jason-Derülo,2014-11-22,['Jason Derülo '],
+20,Zürich,Uzaktaki-Müzik,2014-11-22,['Uzaktaki Müzik '],
+21,Winterthur,Rudy-Rotta-&-Band,2014-11-22,['Rudy Rotta & Band '],
+22,null,The-Beauty-of-Gemina,2014-11-22,"[' Michael Sele ', ' Mac Vinzens ', ' Marco Gassner ']",
+23,Luzern,Billy-Idol,2014-11-22,['Billy Idol '],
+24,Zürich,Gregory-Porter,2014-11-22,"['Gregory Porter ', ' Gregory Porter ', ' Yosuke Sato ', ' Chip Crawford ', ' Aaron James ', ' Emanuel Harrold ']",
+25,null,Deltron-3030,2014-11-22,['Deltron 3030 '],
+26,Zürich,Protokoll-einer-Disko,2014-11-22,['Anna Mateur & The Beuys '],Pop
+27,Lichtensteig,Netnakisum,2014-11-22,"['Netnakisum ', ' Linda Härtel ', ' Marie-Theres Härtel ', ' Claudia Schwab ']",
+28,Liestal,Misa-Tango-a-Buenos-Aires,2014-11-22,[' Debora Büttner '],Classic
+29,Zürich,Brasil-Afro-Woche,2014-11-22,"['Alfredo Rodriguez ', ' Alfredo Rodriguez ', ' Reinier Elizarde Ruano ', ' Michael Olivera ']",
+30,null,Code-Red-Organisation,2014-11-22,"['Code Red Organisation ', ' Cycle Beating ']",
+31,Basel,Herbie-Tsoaeli-Quintet,2014-11-22,"[' Matthias Spillmann ', ' Ganesh Geymeier ', ' Andreas Tschopp ', ' Herbie Tsoaeli ', ' Ayanda Sikade ']",
+32,Bern,Saint-Ghetto,2014-11-22,"[' Dean Blunt ', ' Anika ']",
+33,Wil,Jojo-Mayer-&-Nerve,2014-11-22,"[' Jojo Mayer ', ' John Davis ', ' Jacob Bergson ', ' Roli Mosiman ']",Pop
+34,null,Sons-of-Kemet,2014-11-22,"['Sons of Kemet ', ' Shabaka Hutchings ', ' Tom Skinner ', ' Seb Rochford ', ' Oren Marshall ']",
+35,null,Cristin-Claas,2014-11-22,['Cristin Claas '],
+36,Zürich,Kimmig-Studer-Zimmerlin-feat.-Gerry-Hemingway,2014-11-22,"[' Harald Kimmig ', ' Daniel Studer ', ' Alfred Zimmerlin ', ' Gerry Hemingway ']",
+37,Feuerthalen,Tim-O'Connor-&-Doc-Rossi,2014-11-22,"[""Tim O'Connor & Doc Rossi ""]",Pop
+38,Lausanne,Lamb,2014-11-22,"['Lamb ', ' The Ramona Flowers ']",Electronic
+39,Baden,Trash-Town-Rockabilly-Day,2014-11-22,[' Rockin Bonnie & The Mighty Ropers '],
+40,Zug,Notte-napolitana,2014-11-22,['La Pankina Krew '],Pop
+41,Aarau,Moop-Mama,2014-11-22,['Moop Mama '],
+42,Aarau,Moop-Mama,2014-11-22,['Moop Mama '],
+43,Bern,Melrose,2014-11-22,['Melrose '],
+44,null,Carla-Brülhart,2014-11-22,"[' Matteo Mengoni ', ' Sabrina Morand ', ' Gérard Premand ', ' Mario Corradini ', ' Carla Brülhart ']",
+45,Basel,Salsa-Latino-Party,2014-11-22,['DJ El Rumbero '],
+46,Basel,Deep-Drone-Fest,2014-11-22,"['Nightslug ', ' The Disgrazia Legend ']",
+47,Zürich,Volplane,2014-11-22,"[' Toby Ferrari ', ' Jonathan Müller ', ' Michael Ritter ', ' Samuel Schwalm ']",Pop
+48,Zürich,Brasil-Afro-Woche,2014-11-22,"[' Rodrigo B. Maio ', ' Cesar Correa ', ' Dudu Penz ', ' Rodrigo Rodriguez ', ' Julio Barreto ']",
+49,Buchs,Winterwecker-mit-Snowland.ch-&-Le-Fly,2014-11-22,['Winterwecker mit Snowland.ch & Le Fly '],
