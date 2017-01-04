@@ -160,12 +160,11 @@ def saveDictionary(dic, filename):
 	for key, value in sorted( dic.items() ):
 		outfile.write( str(key) + '\t' + str(value) + '\n' )
 		
-def loadDictionary(filename):
+def loadDictionary(filename, enc='ISO-8859-1'):
 	'''Load dictionnary'''
-	inp = open('ClubDataGeo/'+filename+'.txt', 'r' )
+	inp = open('ClubDataGeo/'+filename+'.txt', 'r' , encoding=enc)
 	dic = {}
-	for l in inp:
-		line = inp.readline()
+	for line in inp:
 		s = line.split("\t")
 		if(len(s)>1):
 			s[1] = s[1].replace("\n","")
