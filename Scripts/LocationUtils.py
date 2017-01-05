@@ -50,12 +50,13 @@ def getLocation(LocationName,dictionnary =None,SwissSafety=True):
 		if(SwissSafety and lat!=None and lng!=None):
 			if(lng<5.7 or lng>10.73 or lat<45.6 or lat>47.9):
 				#Out of Switzerland
-				print("out of bounds")
+				print("out of bounds: ", LocationName, " : ", lat, ",",lng)
 				(lat,lng) = getLocation(LocationName+", Switzerland")
 			
 		if(dictionnary!=None):
 			dictionnary.update({LocationName : (lat,lng)})
 			return (lat,lng),dictionnary
+	return (lat,lng)
 			
 def computeDictionaryOfLocations(df,debug=False):
 	'''Map each location to a latlng'''
@@ -181,9 +182,12 @@ def populateDictionary(dic):
         separators = [' ', ';']
         for c in separators:
             if(not good):
-                tmp = key.split(c)
-                if(len(tmp) == 2 and len(tmp[0]) == 4 and int(tmp[0]) >=1000 and int(tmp[0]) <= 9999): #format <NPA>c<CITY> with <NPA> on 4 digits
-                    good=True
+                try:
+                    tmp = key.split(c)
+                    if(len(tmp) == 2 and len(tmp[0]) == 4 and int(tmp[0]) >=1000 and int(tmp[0]) <= 9999): #format <NPA>c<CITY> with <NPA> on 4 digits
+                        good=True
+                except:
+                    None
         if(good):
             (npa, city) = tmp
             if(not city in dic and not city in append):
