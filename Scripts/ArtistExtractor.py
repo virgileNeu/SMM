@@ -195,11 +195,11 @@ def getGenresFromWeb(Artist,dictionnary=None):
 	}
 	
 	#Query 
-	content = json.loads(requests.get(SpotifySearchURL, params = args).text)
+	request = requests.get(SpotifySearchURL, params = args)
+	content = json.loads(request.text)
 	genres = []
 	genresSPOT = []
-	
-	if(content['artists']['total']>0):
+	if(content!=None and ('artists' in content.keys()) and content['artists']['total']>0):
 		genresSPOT= genresSPOT + content['artists']['items'][0]['genres']
 
 	genresRA = extractGenresFromRA(Artist,dictionnary)
