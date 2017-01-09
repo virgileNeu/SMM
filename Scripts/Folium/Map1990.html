@@ -110,7 +110,7 @@
             
         
             
-            <style> #map_6e104c8bb5e243cc879d6514cadce6a4 {
+            <style> #map_3062bf419b674a4aab9c702373d0aa14 {
                 position : relative;
                 width : 100.0%;
                 height: 100.0%;
@@ -126,7 +126,7 @@
             
         
             
-            <div class="folium-map" id="map_6e104c8bb5e243cc879d6514cadce6a4" ></div>
+            <div class="folium-map" id="map_3062bf419b674a4aab9c702373d0aa14" ></div>
         
         
         
@@ -140,7 +140,7 @@
             var northEast = L.latLng(90, 180);
             var bounds = L.latLngBounds(southWest, northEast);
 
-            var map_6e104c8bb5e243cc879d6514cadce6a4 = L.map('map_6e104c8bb5e243cc879d6514cadce6a4', {
+            var map_3062bf419b674a4aab9c702373d0aa14 = L.map('map_3062bf419b674a4aab9c702373d0aa14', {
                                            center:[46.7,8],
                                            zoom: 8,
                                            maxBounds: bounds,
@@ -151,7 +151,20 @@
         
         
             
-            var tile_layer_f9c17796710a427a9d397c0d7d1c9819 = L.tileLayer(
+            var tile_layer_5b36c4b46b8c4ac89f30f0df5e492783 = L.tileLayer(
+                'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                {
+                    maxZoom: 18,
+                    minZoom: 1,
+                    attribution: 'Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.',
+                    detectRetina: false
+                    }
+                ).addTo(map_3062bf419b674a4aab9c702373d0aa14);
+
+        
+        
+            
+            var tile_layer_2b6048a669674f65a5c04a48a740b00b = L.tileLayer(
                 'https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png',
                 {
                     maxZoom: 18,
@@ -159,7 +172,7 @@
                     attribution: '(c) <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors (c) <a href="http://cartodb.com/attributions">CartoDB</a>, CartoDB <a href ="http://cartodb.com/attributions">attributions</a>',
                     detectRetina: false
                     }
-                ).addTo(map_6e104c8bb5e243cc879d6514cadce6a4);
+                ).addTo(map_3062bf419b674a4aab9c702373d0aa14);
 
         
         
