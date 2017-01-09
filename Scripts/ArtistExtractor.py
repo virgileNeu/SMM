@@ -209,7 +209,7 @@ def getGenresFromWeb(Artist,dictionnary=None):
 	#print(genres)
 	return genres
 	
-def getGenre(Artist,dictionnary = None, Year=None, debug= False):
+def getGenre(Artist,ReturnAllGenres = False, dictionnary = None, Year=None, debug= False):
 	'''Get the genre of an artist at this period.If period is None, 
 	gets the most representative genre of the artist across time.'''
 	if(dictionnary==None):
@@ -220,7 +220,8 @@ def getGenre(Artist,dictionnary = None, Year=None, debug= False):
 		genres = sanitize(genres)
 	
 	MG = mainGenres(genres,dictionnary, debug)
-	
+	if(ReturnAllGenres == True):
+		return MG
 	#print("Genres : "+str(genres))
 	#print("mainGenres : "+str(MG))
 		
