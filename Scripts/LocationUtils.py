@@ -155,15 +155,15 @@ def getAddress(location,count=1):
     
 	return addressRes
 	
-def saveDictionary(dic, filename):
+def saveDictionary(dic, filename, path = 'ClubDataGeo/'):
 	'''Save dictionnary as filename (txt)'''
-	outfile = open('ClubDataGeo/'+filename+'.txt', 'w' )
+	outfile = open(path + filename+'.txt', 'w' )
 	for key, value in sorted( dic.items() ):
 		outfile.write( str(key) + '\t' + str(value) + '\n' )
 		
-def loadDictionary(filename, enc='ISO-8859-1'):
+def loadDictionary(filename, path = 'ClubDataGeo/', enc='ISO-8859-1'):
 	'''Load dictionnary'''
-	inp = open('ClubDataGeo/'+filename+'.txt', 'r' , encoding=enc)
+	inp = open(path+filename+'.txt', 'r' , encoding=enc)
 	dic = {}
 	for line in inp:
 		s = line.split("\t")
