@@ -138,6 +138,7 @@ def ExportGenres(ClubDataFrame,init,end):
 	LU.saveDictionary(ArtistDicoMain,filenameMain,path = savePath,enc="UTF-8")
 	LU.saveDictionary(ArtistDicoAll,filenameAll,path = savePath,enc="UTF-8")	
 	print("Finished.")
+	mergeDictionnaries()
 
 def mergeDictionnaries():
 	'''Merge temporary dictionaries into one'''
