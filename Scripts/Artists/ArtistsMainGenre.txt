@@ -26,10 +26,10 @@
 0015  0130 Rico Rausch b2b Der Dirigent	None
 0015 Kollektiv Turmstrasse	None
 0030  0200 Darsen	None
+0030  0230 La FÃÂÃÂÃÂÃÂ©e Verte	None
 0030  0230 La FÃÂÃÂ©e Verte	None
 0030  0230 La FÃÂ©e Verte	None
 0030  0230 La FÃ©e Verte	None
-0030  0230 La Fée Verte	None
 0030  0530 SOFA TEE & HERMES	None
 0030  END	None
 0030  END  JEANTOUSSAINT & 2000	None
@@ -37,10 +37,10 @@
 0045 Guy Gerber	None
 00h ENDt	None
 00h00  02h00tDJ Dub	None
+00h00 ÃÂÃÂ  00h45  Bak XIII	None
+00h00 ÃÂÃÂ  00h45  The Atomic Bitchwax	None
 00h00 ÃÂ  00h45  Bak XIII	None
 00h00 ÃÂ  00h45  The Atomic Bitchwax	None
-00h00 Ã  00h45  Bak XIII	None
-00h00 Ã  00h45  The Atomic Bitchwax	None
 00h0002h00 Emmat	None
 00h30  02h30 Dandy & Trony	None
 0100  0200  ARTMAILLE	None
@@ -50,8 +50,8 @@
 0100  0300 Gelivan	None
 0100  0300 Schwarzes Gold	None
 0100  0400 Dr Lektroluv	None
+0100  End KombÃÂÃÂ© & Mafou	None
 0100  End KombÃÂ© & Mafou	None
-0100  End KombÃ© & Mafou	None
 0130  0330 Agonis	None
 0130  0330 Ellen Allien	None
 0130  0430 DJ Rush	None
@@ -61,8 +61,8 @@
 0140 Dandi & Ugo	None
 0145  0330 Sascha Braemer	None
 01h0003h00 Bruno Pronsato	None
+01h25 ÃÂÃÂ  02h55  Miss Duckin	None
 01h25 ÃÂ  02h55  Miss Duckin	None
-01h25 Ã  02h55  Miss Duckin	None
 01h30  Oxensa	None
 0200  0300 Dilly Noises	None
 0200  0330 Gelivan	None
@@ -108,7 +108,7 @@
 0430 Animal Trainer	None
 0430 Len Faki	None
 0500  0630	None
-0500  0630 Felix KrÃ¶cher	None
+0500  0630 Felix KrÃÂ¶cher	None
 0500  0700	None
 0500  Ende Jan B	None
 0500 Darrien	None
@@ -139,8 +139,8 @@
 12 APRILE LE MOON	None
 12 APRILE MODERNITY	None
 12 April 2015  Modernity	None
+1204 GenÃÂÃÂ¨ve	None
 1204 GenÃÂ¨ve	None
-1204 GenÃ¨ve	None
 12h00  13h30 Simon Effect	None
 13 APRILE MODERNITY	None
 1300  1345 Niclas	None
@@ -171,15 +171,15 @@
 1430  1515 Trisha	None
 1430  1600 Stimming	None
 14301500 DJ Mastra	None
+14h00 ÃÂÃÂ  14h45  Danila	None
+14h00 ÃÂÃÂ  14h45  Floyd Beaumont & The Arkadelphians	None
 14h00 ÃÂ  14h45  Danila	None
 14h00 ÃÂ  14h45  Floyd Beaumont & The Arkadelphians	None
-14h00 Ã  14h45  Danila	None
-14h00 Ã  14h45  Floyd Beaumont & The Arkadelphians	None
 15 CHF	None
 1500  1600 Smash FX	None
 1500  1700 Adriatique	None
+1500  1700 Sascha Braemer & NiconÃÂ©	None
 1500  1700 Sascha Braemer & NiconÃ©	None
-1500  1700 Sascha Braemer & Niconé	None
 1500 Johnny Roxx	None
 15001600 Commix	None
 15001600 DJ Andrew	None
@@ -189,10 +189,10 @@
 1530  1700 Yves La Rock	None
 15h00  16h30 Marco da Mata and Matthew LIVE	None
 15h00  17h00tEurokai	None
+15h00 ÃÂÃÂ  15h45  Max der Zinger	None
+15h00 ÃÂÃÂ  15h45  Six Months Of Sun	None
 15h00 ÃÂ  15h45  Max der Zinger	None
 15h00 ÃÂ  15h45  Six Months Of Sun	None
-15h00 Ã  15h45  Max der Zinger	None
-15h00 Ã  15h45  Six Months Of Sun	None
 15h30  16h30tVan Hai	None
 16 Bit Lolitas	house music
 1600  1645 Ida	None
@@ -204,15 +204,15 @@
 16001700 Nader	None
 16001700 Zodiak	None
 1645  1730 Chris Mono	None
+16h00 ÃÂÃÂ  16h45  Hollyhock	None
+16h00 ÃÂÃÂ  16h45  M Fallan	None
 16h00 ÃÂ  16h45  Hollyhock	None
 16h00 ÃÂ  16h45  M Fallan	None
-16h00 Ã  16h45  Hollyhock	None
-16h00 Ã  16h45  M Fallan	None
 16h30  18h00 dAN from Bern & Steffi SoWeso	None
 16h30  18h00tDani Casarano	None
 1700  1800 Marco Berto	None
+1700  1815 Felix KrÃÂÃÂ¶cher	None
 1700  1815 Felix KrÃÂ¶cher	None
-1700  1815 Felix KrÃ¶cher	None
 1700  1830 Kyau & Albert	None
 1700  1900 Adana Twins	None
 1700  1900 Monkey Safari	None
@@ -222,10 +222,10 @@
 1730  1815 Mismo	None
 1730  1830 Ryan Riot	None
 17h00  18h30tHorizontal Vertikal	None
+17h00 ÃÂÃÂ  17h45  The Savonnettes	None
+17h00 ÃÂÃÂ  17h45  Voice Of Ruin	None
 17h00 ÃÂ  17h45  The Savonnettes	None
 17h00 ÃÂ  17h45  Voice Of Ruin	None
-17h00 Ã  17h45  The Savonnettes	None
-17h00 Ã  17h45  Voice Of Ruin	None
 1800  0200  MARTIN GIRALDO aka DJTAL	None
 1800  1900 Le Noir	None
 1800 Adam B	None
@@ -241,10 +241,10 @@
 18h  22h  Seteve	None
 18h00  19h00 Matija	None
 18h00  20h00tAjele	None
+18h00 ÃÂÃÂ  18h45  Colossus Fall	None
+18h00 ÃÂÃÂ  18h45  The Chikitas	None
 18h00 ÃÂ  18h45  Colossus Fall	None
 18h00 ÃÂ  18h45  The Chikitas	None
-18h00 Ã  18h45  Colossus Fall	None
-18h00 Ã  18h45  The Chikitas	None
 18h0022h00 Pascal Viscardi  DEEP HOUSE  RARE GROOVE	None
 18h30  20h00tNils	None
 1900  1930 Swiss Track	None
@@ -265,12 +265,12 @@
 19h  22h  Marlon & Andreas	None
 19h  22h  Rony KN	None
 19h00  21h00 Plastic FM LIVE	None
+19h00 ÃÂÃÂ  19h45  Ca Va Chier	None
+19h00 ÃÂÃÂ  19h45  Wardhill	None
+19h00 ÃÂÃÂ  20h00  Metronome Djs	None
 19h00 ÃÂ  19h45  Ca Va Chier	None
 19h00 ÃÂ  19h45  Wardhill	None
 19h00 ÃÂ  20h00  Metronome Djs	None
-19h00 Ã  19h45  Ca Va Chier	None
-19h00 Ã  19h45  Wardhill	None
-19h00 Ã  20h00  Metronome Djs	None
 1st part 21h  00h	None
 2 FLOORS	None
 2 Many DJs	techno
@@ -294,17 +294,17 @@
 20h  21h30  ABOVE THE CLOUDS	None
 20h00  21h30tAndri	None
 20h00 22hh00tSonja Moonear	None
+20h00 ÃÂÃÂ  20h45  Gaz	None
+20h00 ÃÂÃÂ  20h45  Mumakil	None
+20h00 ÃÂÃÂ  20h45  Tanua	None
+20h00 ÃÂÃÂ  20h45  Vuyvr	None
 20h00 ÃÂ  20h45  Gaz	None
 20h00 ÃÂ  20h45  Mumakil	None
 20h00 ÃÂ  20h45  Tanua	None
 20h00 ÃÂ  20h45  Vuyvr	None
-20h00 Ã  20h45  Gaz	None
-20h00 Ã  20h45  Mumakil	None
-20h00 Ã  20h45  Tanua	None
-20h00 Ã  20h45  Vuyvr	None
 20h30  21h30  SLAKBAR	None
+20h45 ÃÂÃÂ  22h15  Fabian Kozelsky	None
 20h45 ÃÂ  22h15  Fabian Kozelsky	None
-20h45 Ã  22h15  Fabian Kozelsky	None
 2100  2200 DJ Gogo	None
 2100  2200 Marloti	None
 2100  2230 Sebastian Ingrosso	None
@@ -320,10 +320,10 @@
 21302215 TurntableBabes	None
 21302230 Richie Hawtin b2b Magda	None
 21h00  23h00 Don Ramon	None
+21h00 ÃÂÃÂ  21h45  IncrÃÂÃÂ¼st	None
+21h00 ÃÂÃÂ  21h45  KessKhtak	None
 21h00 ÃÂ  21h45  IncrÃÂ¼st	None
 21h00 ÃÂ  21h45  KessKhtak	None
-21h00 Ã  21h45  IncrÃ¼st	None
-21h00 Ã  21h45  KessKhtak	None
 21h30  22h30  VOLCANO THE BEAR	None
 21h30  23h  JONNY SENDER	None
 21h30  23h30tValentino	None
@@ -354,14 +354,14 @@
 22a Music	None
 22h00  00h30 Mia Kaltes	None
 22h00  1h00  Metro Area	None
+22h00 ÃÂÃÂ  22h45  Elizabeth	None
+22h00 ÃÂÃÂ  22h45  Promethee	None
 22h00 ÃÂ  22h45  Elizabeth	None
 22h00 ÃÂ  22h45  Promethee	None
-22h00 Ã  22h45  Elizabeth	None
-22h00 Ã  22h45  Promethee	None
 22h0000h00 Pandallougi	None
 22h0001h00 Felipe Acevedo	None
+22h15 ÃÂÃÂ  23h45  Frother	None
 22h15 ÃÂ  23h45  Frother	None
-22h15 Ã  23h45  Frother	None
 22h2h	None
 22h30  01h  Cobeia	None
 22h30 ENDt	None
@@ -376,14 +376,14 @@
 2300  0100 mastermark	None
 2300  0130 Jamie Shar	None
 2300  0130 Mary C Jane	None
+2300  2400 Danie KÃÂÃÂ¶nig & Tom Novy	None
 2300  2400 Danie KÃÂ¶nig & Tom Novy	None
-2300  2400 Danie KÃ¶nig & Tom Novy	None
 2300 Djerry C	None
 2300 PeeKay	None
 23000100  Pedro Andrade	None
 23002400 Silvercity Bob	None
+2315  2400 Johnny RoxxBildstÃÂÃÂ¶rung	None
 2315  2400 Johnny RoxxBildstÃÂ¶rung	None
-2315  2400 Johnny RoxxBildstÃ¶rung	None
 2315 KlangfabriK	None
 2330  0100 Klangkarussell	None
 2330 Marek Hemmann	None
@@ -392,13 +392,13 @@
 237 Family	None
 23h  01h  Prins Thomas	None
 23h00  PhNeutre	None
+23h00 ÃÂÃÂ  23h45  Faute de Frappe	None
+23h00 ÃÂÃÂ  23h45  SolarFlar VS Rocrar	None
 23h00 ÃÂ  23h45  Faute de Frappe	None
 23h00 ÃÂ  23h45  SolarFlar VS Rocrar	None
-23h00 Ã  23h45  Faute de Frappe	None
-23h00 Ã  23h45  SolarFlar VS Rocrar	None
 23h05h00	None
+23h45 ÃÂÃÂ  01h25  Oxensa	None
 23h45 ÃÂ  01h25  Oxensa	None
-23h45 Ã  01h25  Oxensa	None
 24	bachata
 2400 Romanesko	None
 2409	None
@@ -454,14 +454,14 @@ A Heiniger	disco
 A LiveDJJam reinterpreting some of Dumb Units best pieces from the last 10 years	None
 A Made Up Sound aka 2562	None
 A State of Mind	None
-A cotÃ© de leur rÃ©sidence dans diffÃ©rents clubs genevois	None
+A cotÃÂ© de leur rÃÂ©sidence dans diffÃÂ©rents clubs genevois	None
 A touch of deep	None
 A&F	None
 ABGESAGT	None
 ABRAHAM LICORNE  electroswing  GE	None
 ABROTHERS  Gayle San Rec & Nachtstrom Schallplatten  AUT	None
+ABSÃÂÃÂRDA	None
 ABSÃÂRDA	None
-ABSÃRDA	None
 AC204	None
 ACES A	None
 ACID	indie
@@ -494,7 +494,7 @@ AKN and Ditek	None
 AKSHAN	ambient
 AKUSTIK	None
 AL	soul
-AL NÃRD	None
+AL NÃÂRD	None
 AL SENTO	None
 ALAIN ROY & Dirty Larry	None
 ALAIN SZERDAHELIY	None
@@ -526,17 +526,17 @@ ANDRES HERNANDEZ	None
 ANDREW THE GRAND	None
 ANDRI LIVE	None
 ANDRI LIVE  Cityfox	None
-ANDRI LIVE  Cityfox ZÃ¼rich	None
+ANDRI LIVE  Cityfox ZÃÂ¼rich	None
 ANDRI LIVE  Highgrade	None
+ANDRI Live  Cityfox  Highgrade ZÃÂÃÂ¼rich	None
 ANDRI Live  Cityfox  Highgrade ZÃÂ¼rich	None
-ANDRI Live  Cityfox  Highgrade ZÃ¼rich	None
+ANDRI live Highgrade Records  Cityfox  ZÃÂÃÂ¼rich	None
 ANDRI live Highgrade Records  Cityfox  ZÃÂ¼rich	None
-ANDRI live Highgrade Records  Cityfox  ZÃ¼rich	None
 ANDROMEDA CIRCUS	None
 ANDROO	None
+ANDRÃÂÃÂÃÂÃÂS GARCÃÂÃÂÃÂÃÂA	None
 ANDRÃÂÃÂS GARCÃÂÃÂA	None
 ANDRÃÂS GARCÃÂA	None
-ANDRÃS GARCÃA	None
 ANDY GUHL	None
 ANFS	None
 ANGEL	indie
@@ -545,8 +545,8 @@ ANGY DEE	None
 ANIMAL TRAINER  Pokerflat	None
 ANIMARILYS	None
 ANNA ULLRICH	None
+ANTHONY  TÃÂÃÂTON  NICOLAJ  Mr Silent & She DJ Vany	None
 ANTHONY  TÃÂTON  NICOLAJ  Mr Silent & She DJ Vany	None
-ANTHONY  TÃTON  NICOLAJ  Mr Silent & She DJ Vany	None
 ANTHONY Kavanagh	None
 ANTS	None
 ANswer	None
@@ -564,8 +564,8 @@ ARNIKA	None
 ART MAILLE	None
 ART&WEISE	None
 ARTISAN	None
+ARTMAILLÃÂÃÂ	None
 ARTMAILLÃÂ	None
-ARTMAILLÃ	None
 ASI	spanish pop
 ASM	None
 ASMIAR	None
@@ -592,8 +592,8 @@ AYOu2028	None
 Aaah Club	None
 Aaawesome Colors	None
 Aalbou	None
+Aaron HaÃÂÃÂ»s	None
 Aaron HaÃÂ»s	None
-Aaron HaÃ»s	None
 Aaron Khaleian	None
 Ab & Artig	techno
 Ab 2300  18 Jahren	None
@@ -671,7 +671,7 @@ Adriatique	techno
 Adriatique  Diynamic	None
 Adriatique  Diynamic  Cityfox	None
 Adriatique  Diynamic Music	None
-Adriatique  Diynamic ZÃ¼rich	None
+Adriatique  Diynamic ZÃÂ¼rich	None
 Adrien	None
 Adry	None
 Adryan	None
@@ -708,8 +708,8 @@ Agent	punk
 Agent C	None
 Agent C b2b Chemical Soul	None
 Agent Sascha	None
-AgnÃÂ¨s	indie folk
-AgnÃ¨s	pop
+AgnÃÂÃÂ¨s	indie folk
+AgnÃÂ¨s	pop
 Agonis	None
 Agoria	techno
 Agoria b2b Mirko Loko	None
@@ -827,9 +827,9 @@ Alfonso Forte	techno
 Alfonso Leon	world meditation
 Algorythm Rec  GER	None
 Algorythmik	electro music
+Alice HÃÂÃÂ¤nseberger	None
 Alice HÃÂ¤nseberger	None
-Alice HÃ¤nseberger	None
-Alice HÃ¤nsenberger	None
+Alice HÃÂ¤nsenberger	None
 Alice Russell	downtempo
 All Day I Dream	None
 Alladin K	None
@@ -844,7 +844,7 @@ Alma	None
 Alma Negra	None
 Alma Soul	None
 Aloan	None
-Along With  ZÃ¼rich	None
+Along With  ZÃÂ¼rich	None
 Along with his teammates DJ Spinn and DJ GantMan	None
 Alphahouse	None
 Alphajet	None
@@ -860,7 +860,7 @@ Altius	None
 Aluk Todolo	metal
 Alva Noto	drone
 Alx	reggaeton
-AlÃ¦	house music
+AlÃÂ¦	house music
 Am Khamsaa	None
 Amad vs Mented Wise	None
 Amanda Lepore	electronic rock
@@ -884,8 +884,8 @@ Amine Edge & DANCE	house music
 Amine Heitz	None
 Amirali	disco
 Amnesia Scanner	mandible
-AmnÃÂ©sia	mandible
-AmnÃ©sia	fluxwork
+AmnÃÂÃÂ©sia	mandible
+AmnÃÂ©sia	fluxwork
 Amplidude	None
 Amsel & Dohle	None
 Amsterdam	None
@@ -939,8 +939,8 @@ Andreas Ramos	disco
 Andreas Ramos  Rumlaut  Enzo lo Conte	None
 Andreas Ramos & Schmerol	disco
 Andreas Ramos Baked	None
+Andreas Ramos Baked  ZÃÂÃÂ¼rich	None
 Andreas Ramos Baked  ZÃÂ¼rich	None
-Andreas Ramos Baked  ZÃ¼rich	None
 Andreas Ramos Baked ZH	None
 Andreas Volt	None
 Andrei Stan	None
@@ -956,20 +956,20 @@ Andri  2h Live Set	None
 Andri live	None
 Androgyn	hardcore
 Android muziq	None
+AndrÃÂÃÂ© Hommen	house music
+AndrÃÂÃÂ© Vincenzzo	None
+AndrÃÂÃÂ©s Marcos	None
+AndrÃÂ© Duracell	None
+AndrÃÂ© Galluzzi	None
 AndrÃÂ© Hommen	house music
+AndrÃÂ© Lodemann	techno
+AndrÃÂ© Marvin	None
+AndrÃÂ© Reuse	None
+AndrÃÂ© Uhl	None
 AndrÃÂ© Vincenzzo	None
 AndrÃÂ©s Marcos	None
-AndrÃ© Duracell	None
-AndrÃ© Galluzzi	None
-AndrÃ© Hommen	house music
-AndrÃ© Lodemann	techno
-AndrÃ© Marvin	None
-AndrÃ© Reuse	None
-AndrÃ© Uhl	None
-AndrÃ© Vincenzzo	None
+AndrÃÂ©s aka DJ DEZ	None
 AndrÃ©s Marcos	None
-AndrÃ©s aka DJ DEZ	None
-Andrés Marcos	None
 Andy Baxter	house music
 Andy C	hip hop
 Andy Catana	techno
@@ -998,7 +998,7 @@ Anima	vapor soul
 Anima Dj set	None
 Animal Swing Kids	None
 Animal Trainer	house music
-Animal Trainer  hive audio  zÃ¼rich	None
+Animal Trainer  hive audio  zÃÂ¼rich	None
 Animal Trainer CH	None
 Animal Trainer aka Rx & Adrian Flavor	None
 Animalist	None
@@ -1032,7 +1032,7 @@ Antipop Consortium	hip hop
 Antislash	house music
 Antix	progressive psytrance
 Antja	None
-Antoine Chessex & JÃ©rÃ´me Noetinger	None
+Antoine Chessex & JÃÂ©rÃÂ´me Noetinger	None
 Anton Madera	disco
 Antoni Bios	techno
 Antoni Maiovvi	None
@@ -1049,7 +1049,7 @@ Apolloniau2028	None
 Appleblim	bass music
 Apples & Pears	None
 Apron Records  USA	None
-AprÃ¨s minuit EntrÃ©e 20	None
+AprÃÂ¨s minuit EntrÃÂ©e 20	None
 Apu	None
 Aquarius Heaven	hip hop
 Araabmuzik	vapor twitch
@@ -1104,10 +1104,10 @@ Arthur Verocai	bossa nova
 Artik	russian pop
 Artikal  Black Box  NL	None
 Artimix	None
+ArtmaillÃÂÃÂ©	None
+ArtmaillÃÂÃÂ© b2b Alan Bolumar	None
 ArtmaillÃÂ©	None
 ArtmaillÃÂ© b2b Alan Bolumar	None
-ArtmaillÃ©	None
-ArtmaillÃ© b2b Alan Bolumar	None
 Arttu	None
 ArtundWeise	None
 Arutani	None
@@ -1133,14 +1133,14 @@ Atomita	None
 Attias	None
 Attila	death core
 Attilio	None
-AtÃ¸nal	None
+AtÃÂ¸nal	None
 Au niveau international	None
 Au salon 22h  3h	None
 Aubrey	disco
 Audino	None
 Audino & Barbir	None
+Audino Punkt  ZÃÂÃÂ¼rich	None
 Audino Punkt  ZÃÂ¼rich	None
-Audino Punkt  ZÃ¼rich	None
 Audio Dope	None
 Audio Dope & Zois	None
 Audio Jack	techno
@@ -1181,7 +1181,7 @@ Autonome Essenz	None
 Autostrada A2 direzione Lugano	None
 Autostrada A9 direzione Como Nord	None
 Av Skardi	house music
-Avant minuit EntrÃ©e Gratuite	None
+Avant minuit EntrÃÂ©e Gratuite	None
 Avatism	deep
 Avem	None
 Avenue Shakerz	None
@@ -1198,7 +1198,7 @@ Axiom	hip hop
 Aya Waska	dub
 Ayeko	None
 Ayhasca Ernesto	None
-AytunÃ§ KÃ¶les	None
+AytunÃÂ§ KÃÂ¶les	None
 Azabeats	hip hop
 Azadeeh	None
 Azax	None
@@ -1211,13 +1211,13 @@ Azuni	techno
 Azur	None
 Azymuth	jazz
 Azzuro	None
+AÃÂÃÂÃÂÃÂ¯sha Devi	fluxwork
 AÃÂÃÂ¯sha Devi	fluxwork
-AÃÂ¯sha Devi	fluxwork
-AÃ¯sha Devi	mandible
-AÃ¯sha Devi live	None
+AÃÂ¯sha Devi	mandible
+AÃÂ¯sha Devi live	None
 B E Y O N D	disco
 B Gahan	None
-B Y Z Ã N C E  Deepethnic Music	None
+B Y Z ÃÂ N C E  Deepethnic Music	None
 B2B	None
 BABAJAGA	None
 BABALU DANCERS	None
@@ -1273,7 +1273,7 @@ BILDER vom Club	None
 BIRD	indie
 BISCARDONG	None
 BIZZARE CONTACT	trance music
-BJÃRN LOMAR	None
+BJÃÂRN LOMAR	None
 BK	techno
 BL	None
 BLACK ARTS LAB live	None
@@ -1379,9 +1379,9 @@ Banshee	escape room
 Bar	soul
 Bar 2130 Uhr	None
 Bar 25	None
+Bar 25  ZÃÂÃÂÃÂÃÂ¼rich	None
 Bar 25  ZÃÂÃÂ¼rich	None
 Bar 25  ZÃÂ¼rich	None
-Bar 25  ZÃ¼rich	None
 Bar25	None
 Bar25  Berlin	None
 Bar3000	None
@@ -1390,8 +1390,8 @@ Barac	rap
 Barbir	None
 Barbir & Louh	None
 Barbir & Nicola Kazimir	None
+Barbir Punkt  ZÃÂÃÂ¼rich	None
 Barbir Punkt  ZÃÂ¼rich	None
-Barbir Punkt  ZÃ¼rich	None
 Barcelona	acoustic pop
 Bardia Salour	None
 Bardo	rock
@@ -1419,9 +1419,9 @@ Basko	None
 Baskontrolle	None
 Bass Clef	uk garage
 Bass Warriors	breakbeat
+BassbÃÂÃÂÃÂÃÂ¼ro	None
 BassbÃÂÃÂ¼ro	None
 BassbÃÂ¼ro	None
-BassbÃ¼ro	None
 Basses Terres	None
 Bassforscher	None
 Bassjackers	house music
@@ -1514,7 +1514,7 @@ Beni Jacksen	None
 Beni Jacksen b2b Dan B	None
 Benj Hangar11	None
 Benja	None
-Benja  Hive Audio  ZÃ¼rich	None
+Benja  Hive Audio  ZÃÂ¼rich	None
 Benja & Reto Ardour	None
 Benja & Reto Ardour  Hive Audio	None
 Benjah	hip hop
@@ -1572,8 +1572,8 @@ Big T  Subtl  GE	None
 BigT	None
 Bigeneric Aka Marco Repetto & Mystessystem	None
 BigenericMarco Repetto	None
+BildstÃÂÃÂ¶rung	None
 BildstÃÂ¶rung	None
-BildstÃ¶rung	None
 Bill Brewster	house music
 Bill Kouligas	None
 Bill Patrick	None
@@ -1599,13 +1599,13 @@ BitTuner	None
 BitTuner live	None
 Bitsculpter	techno
 Bjoerng	None
+BjÃÂÃÂ¶rn Arryhl	None
+BjÃÂÃÂ¶rn StÃÂÃÂ¶rig	house music
 BjÃÂ¶rn Arryhl	None
+BjÃÂ¶rn Lomar	None
+BjÃÂ¶rn Nimmich	None
 BjÃÂ¶rn StÃÂ¶rig	house music
-BjÃ¶rn Arryhl	None
-BjÃ¶rn Lomar	None
-BjÃ¶rn Nimmich	None
-BjÃ¶rn StÃ¶rig	house music
-BjÃ¶rn Torwellen	techno
+BjÃÂ¶rn Torwellen	techno
 Black Bunker djs	None
 Black Butter	None
 Black Coffee	house music
@@ -1680,7 +1680,7 @@ Bongalow Family	None
 Bongo Joe Djs	None
 Bongo Kids	None
 Bongo Pete	None
-Bongoklub ZÃ¼ri	None
+Bongoklub ZÃÂ¼ri	None
 Bonjour Ben	None
 Bonnie	rock
 Bonny & CLyde	None
@@ -1717,15 +1717,15 @@ Boris Werner	techno
 Boris Werner b2b Lauhaus	None
 Boris Why	house music
 Born Bjorg	techno
+Born BjÃÂÃÂ¸rg	None
 Born BjÃÂ¸rg	None
-Born BjÃ¸rg	None
 Borussia	techno
 Boston Bun	house music
 Boston Bun B2B Busy P	None
 Bottin	disco
 Boumi B	None
 Bouncerz	None
-Bourse aux vinyls et instruments dÃ¨s 16h00	None
+Bourse aux vinyls et instruments dÃÂ¨s 16h00	None
 Bowmore	None
 Bowser	None
 Bowski	techno
@@ -1772,10 +1772,10 @@ BrokenEnglishManchester	None
 Bronson	hip hop
 Brothers in Arms	None
 Brown S	house music
-Brown S a collaborÃ© avec plusieurs artistes du label Defected Records tel que Simon Dunmore	None
+Brown S a collaborÃÂ© avec plusieurs artistes du label Defected Records tel que Simon Dunmore	None
 Brown S a eu la chance de jouer lors de la WMC	None
-Brown S a jouÃ© pour les plus gros Events de la place comme les Red Zone	None
-Brown S est Ã  la base du succÃ¨s des soirÃ©es Tasty qui se dÃ©roulent Ã  GenÃ¨ve depuis 2011 et qui regroupent 4 Ã  5 fois par annÃ©e 1000 Ã  1500 personnes avec Brown S accompagnÃ© dun artiste international	None
+Brown S a jouÃÂ© pour les plus gros Events de la place comme les Red Zone	None
+Brown S est ÃÂ  la base du succÃÂ¨s des soirÃÂ©es Tasty qui se dÃÂ©roulent ÃÂ  GenÃÂ¨ve depuis 2011 et qui regroupent 4 ÃÂ  5 fois par annÃÂ©e 1000 ÃÂ  1500 personnes avec Brown S accompagnÃÂ© dun artiste international	None
 BrownS	country gospel
 BruderHerz	None
 Bruderherz	None
@@ -1828,9 +1828,9 @@ Butterfly feat Ice MC	None
 Buzz  T	None
 By HyperWerk HGK FHNW	None
 Byzance	None
+BÃÂÃÂ¼rkliplatz	None
+BÃÂ¤m BÃÂ¤m	hip hop
 BÃÂ¼rkliplatz	None
-BÃ¤m BÃ¤m	hip hop
-BÃ¼rkliplatz	None
 C Forza	None
 C Forza b2b Luca Leiser	None
 C2Cu2028	None
@@ -1849,7 +1849,7 @@ CCO	disco
 CCut	None
 CEM	turkish
 CENACLE CREW	None
-CEO MÃ¼ller	None
+CEO MÃÂ¼ller	None
 CEZAR	techno
 CFLOW	None
 CFlow	None
@@ -1926,11 +1926,11 @@ Cadenza  Lausanne	None
 Cadenza Lausanne	None
 Cadenza LausanneBerlin	None
 Cadenza Music	None
+Caduceus Empirical  GenÃÂÃÂÃÂÃÂ¨ve	None
 Caduceus Empirical  GenÃÂÃÂ¨ve	None
 Caduceus Empirical  GenÃÂ¨ve	None
-Caduceus Empirical  GenÃ¨ve	None
 Cafe Singer Dirty Doering	None
-CafÃ© Gold	None
+CafÃÂ© Gold	None
 Caillou	None
 Calado	None
 Caleb Calloway	hip hop
@@ -1997,13 +1997,13 @@ Cem Orlow	house music
 Centaury	None
 Central Rodeo	rap
 Central Rodeo aka Cosmokolor & diSoul	None
+CentreStage  BÃÂÃÂRKLIPLATZ	None
 CentreStage  BÃÂRKLIPLATZ	None
-CentreStage  BÃRKLIPLATZ	None
+Ceo MÃÂÃÂ¼ller	None
 Ceo MÃÂ¼ller	None
-Ceo MÃ¼ller	None
+CepheÃÂÃÂ¬	None
 CepheÃÂ¬	None
 CepheÃ¬	None
-Cepheì	None
 CerealKillers live	None
 Ceri	techno
 Cesar Merveille	techno
@@ -2034,8 +2034,8 @@ Charles Cohen	mandible
 Charles Fenckler	dub
 Charles Meyer	house music
 Charles Meyer  LIMMATBEATZCH	None
+Charles Meyer and JosÃÂÃÂ¨ Parra	None
 Charles Meyer and JosÃÂ¨ Parra	None
-Charles Meyer and JosÃ¨ Parra	None
 Charles Tone	dub
 Charlie Gold	None
 Charlotte de Witte	None
@@ -2045,8 +2045,8 @@ Chaton	None
 Chaton  plak records  geneva  CH	None
 Chaton dj	None
 Cheeky Choice	None
+Cheeky Choice ZÃÂÃÂ¼rich	None
 Cheeky Choice ZÃÂ¼rich	None
-Cheeky Choice ZÃ¼rich	None
 Cheers	rock
 Cheesebeat	None
 Cheibe Balagan	None
@@ -2075,10 +2075,10 @@ Chinny	None
 Chino Flatbeat	None
 Chipe	None
 Chiri Moya	None
+ChloÃÂÃÂÃÂÃÂ©	None
 ChloÃÂÃÂ©	None
 ChloÃÂ©	None
-ChloÃ©	None
-ChlÃ¤r b2b Versatile	None
+ChlÃÂ¤r b2b Versatile	None
 Chocolate	trap
 Chocolatex1f	None
 Chop & Suey	None
@@ -2101,8 +2101,8 @@ Chris Koegler	None
 Chris Lattner	techno
 Chris Lattner Moon Harboour	None
 Chris Leon	None
+Chris LeÃÂÃÂ²n	None
 Chris LeÃÂ²n	None
-Chris LeÃ²n	None
 Chris Liebing	techno
 Chris Liebingu2028	None
 Chris Loud	None
@@ -2113,8 +2113,8 @@ Chris Raphael	techno
 Chris Rockwell	techno
 Chris Rockwell  MinimalFraktion	None
 Chris Rockwell  MinimalFraktion  Eidgenoss	None
+Chris SchwarzwÃÂÃÂ¤lder	None
 Chris SchwarzwÃÂ¤lder	None
-Chris SchwarzwÃ¤lder	None
 Chris Sonaxx	techno
 Chris Tietjen	rap
 Chris Tietjen Cocoon  Frankfurt	None
@@ -2124,12 +2124,12 @@ Chris Vee  Techno Room From 2400 to 200	None
 Chris de Bale	None
 Chris de Luca vs Phono	None
 Chris de Rebel	None
+Chris de Rebel FlÃÂÃÂ¼gstund  ZÃÂÃÂ¼rich	None
 Chris de Rebel FlÃÂ¼gstund  ZÃÂ¼rich	None
-Chris de Rebel FlÃ¼gstund  ZÃ¼rich	None
 Chris di Carlo	None
 Chris the Rebel	None
+Christian & RaphaÃÂ«l	house music
 Christian & RaphaÃ«l	house music
-Christian & Raphaël	house music
 Christian Burkhardt	techno
 Christian Burkhardt live	None
 Christian Durdek	None
@@ -2137,11 +2137,11 @@ Christian Durdek  BLEIMAGNET  AG	None
 Christian Elefante	None
 Christian Gimbel	None
 Christian Knipp	rap
-Christian LÃ¶ffler	house music
+Christian LÃÂ¶ffler	house music
 Christian Prommer	None
 Christian Schiemann	disco
 Christian Tamborrini	None
-Christian&RaphaÃ«l	house music
+Christian&RaphaÃÂ«l	house music
 Christine Live	None
 Christo	house music
 Christoph Woerner	techno
@@ -2153,8 +2153,8 @@ Christopher Rau	house music
 Chriz Haze	None
 Chronic Fingaz	None
 Chronophone	None
+ChrÃÂÃÂ¼si Musique	None
 ChrÃÂ¼si Musique	None
-ChrÃ¼si Musique	None
 Chuck Poland	None
 Chuck Poland  Bernoise  Andy Struzek	None
 Chuckie	house music
@@ -2181,8 +2181,8 @@ City Flow  SLY INK	None
 City Lights	pop
 Cityfox	None
 Cityfox  Zurich	None
+Cityfox  ZÃÂÃÂ¼rich	None
 Cityfox  ZÃÂ¼rich	None
-Cityfox  ZÃ¼rich	None
 Cityfox Ltd	None
 Cityfox Wient	None
 Cityfox showcase with  Markus Lindner	None
@@ -2254,7 +2254,7 @@ Cocktail Garden	None
 Cocktails Bar	None
 Cockwhore & Macho	None
 Cocoon	chanson
-CocoonZÃ¼rich	None
+CocoonZÃÂ¼rich	None
 Cocoonnet	None
 Cocun	None
 Code Club	None
@@ -2279,8 +2279,8 @@ Comfort Fit	idm
 Comfortnoise	None
 Comfortnoise Ploy	None
 Comini	None
+Comini GlÃÂÃÂ¼ckStÃÂÃÂ¼ck ZH	None
 Comini GlÃÂ¼ckStÃÂ¼ck ZH	None
-Comini GlÃ¼ckStÃ¼ck ZH	None
 Cominit	None
 Comitissa	None
 Commix	drum and bass
@@ -2297,7 +2297,7 @@ Conker	None
 Connaiseur	None
 Connaisseur Recordings	None
 Consor	techno
-Constell rassemble et unit dans la diversitÃ©	None
+Constell rassemble et unit dans la diversitÃÂ©	None
 Container	None
 Contexterrior	None
 Conxion	None
@@ -2316,8 +2316,8 @@ Core Rhythm	None
 Corin	None
 Corin Martin  Mountain People  StPlomb  Dollar Mambo	None
 Corpataux	techno
+Corpataux  Roach  Jutzi  Der Dirigent  EilÃÂÃÂ©ma	None
 Corpataux  Roach  Jutzi  Der Dirigent  EilÃÂ©ma	None
-Corpataux  Roach  Jutzi  Der Dirigent  EilÃ©ma	None
 Correspondant	None
 Corso	None
 Cos	canterbury scene
@@ -2416,13 +2416,13 @@ Cwalk	None
 Cyberpunkers	house music
 Cyclic	None
 Cypolit	None
+Cyril LÃÂÃÂÃÂÃÂ©ger	None
 Cyril LÃÂÃÂ©ger	None
 Cyril LÃÂ©ger	None
-Cyril LÃ©ger	None
 Czanne	None
+CÃÂÃÂ©cile	None
 CÃÂ©cile	None
-CÃ©cile	None
-CÃ©sar Merveille	None
+CÃÂ©sar Merveille	None
 D	rock
 D Brun del Re	None
 D Club	None
@@ -2481,10 +2481,10 @@ DEEP CHILLS	house music
 DEIKO	None
 DEJAN	None
 DEJAN  Cityfox	None
-DEJAN  Cityfox  ZÃ¼rich	None
+DEJAN  Cityfox  ZÃÂ¼rich	None
+DEJAN  Cityfox ZÃÂÃÂ¼rich	None
 DEJAN  Cityfox ZÃÂ¼rich	None
-DEJAN  Cityfox ZÃ¼rich	None
-DEJAN cityfox zÃ¼rich	None
+DEJAN cityfox zÃÂ¼rich	None
 DEKO MIR	None
 DEKO by MINIMALFRAKTION	None
 DELANO	pop
@@ -2520,7 +2520,7 @@ DIRTY FLAV	None
 DIRTY HONKERS	electro music
 DIRTYMADSOUND	None
 DISASTERADIO	rock
-DISCO DAVE jackpoint zÃ¼rich	None
+DISCO DAVE jackpoint zÃÂ¼rich	None
 DISCOTECARIO DOCA	None
 DISCOfloor	None
 DIVINE ADVENTURE	None
@@ -2620,7 +2620,7 @@ DJ Focus	None
 DJ Fokus	None
 DJ Food	breakbeat
 DJ Food & DK	rap
-DJ Fred HystÃ¨re	None
+DJ Fred HystÃÂ¨re	None
 DJ Freezer	None
 DJ Fuse	hip hop
 DJ GILB	None
@@ -2745,8 +2745,8 @@ DJ Nissque	None
 DJ Nonames	None
 DJ Nukem	disco
 DJ Nyle	None
+DJ NÃÂÃÂ¼nn	None
 DJ NÃÂ¼nn	None
-DJ NÃ¼nn	None
 DJ OCTAN	None
 DJ OEL & KAMA	None
 DJ ORDOEUVRE	None
@@ -2765,9 +2765,9 @@ DJ PTess	None
 DJ Pasci	None
 DJ Phil	None
 DJ Phil Will	None
+DJ PiÃÂÃÂÃÂÃÂ¨rick	None
 DJ PiÃÂÃÂ¨rick	None
 DJ PiÃÂ¨rick	None
-DJ PiÃ¨rick	None
 DJ Placid	techno
 DJ Pone	turntablism
 DJ Public	None
@@ -2864,8 +2864,8 @@ DJ Tyrone B Nelson	None
 DJ UNIT	None
 DJ Vadim	downtempo
 DJ Vany and more	None
+DJ Vibe started mixing early It was back in 1983 that AntÃÂÃÂ³nio TÃÂÃÂ³ Pereira got his first ever club gig at Lisbons Bataclan spot Today he still dedicates his 30 talented years of music to all of us crowd people	None
 DJ Vibe started mixing early It was back in 1983 that AntÃÂ³nio TÃÂ³ Pereira got his first ever club gig at Lisbons Bataclan spot Today he still dedicates his 30 talented years of music to all of us crowd people	None
-DJ Vibe started mixing early It was back in 1983 that AntÃ³nio TÃ³ Pereira got his first ever club gig at Lisbons Bataclan spot Today he still dedicates his 30 talented years of music to all of us crowd people	None
 DJ Volta	None
 DJ Voltec	house music
 DJ Voltec & DJ Flavius Tadeus	house music
@@ -2882,7 +2882,7 @@ DJ Zebra	mashup
 DJ Zest	None
 DJ Zimmbi	None
 DJ Zippy	None
-DJ ZÃ¶r Gollin	None
+DJ ZÃÂ¶r Gollin	None
 DJ lukJLite	None
 DJ set	None
 DJAHSTA	None
@@ -2902,8 +2902,8 @@ DJack Snyder	house music
 DJamency	rap
 DJs	new jack swing
 DJs  Acts	None
+DJs AndrÃÂÃÂ© Marvin	None
 DJs AndrÃÂ© Marvin	None
-DJs AndrÃ© Marvin	None
 DJs Atol	None
 DJs Atomic Nick	None
 DJs Ben Danger & Wenzel Dashington	None
@@ -2916,7 +2916,7 @@ DJs Duo Meda & Medooza	None
 DJs Eli Verveine	None
 DJs Frits Wentinik	None
 DJs Girl	None
-DJs Green Velvet  DJ Rush  Monika Kruse  Felix KrÃ¶cher  Moonbootica  RaudiveOliver Ho  DIM  Shonky  Xenia Beliayeva  Steve Land aka Randy  Hannah Holland  Dachshund  AgnÃ¨s  Smilla  Phuture Traxx  TurntableBabes  Ulli & Maesoo  Banga  Beda  Sandro KÃ¼hne and others to be confirmed	None
+DJs Green Velvet  DJ Rush  Monika Kruse  Felix KrÃÂ¶cher  Moonbootica  RaudiveOliver Ho  DIM  Shonky  Xenia Beliayeva  Steve Land aka Randy  Hannah Holland  Dachshund  AgnÃÂ¨s  Smilla  Phuture Traxx  TurntableBabes  Ulli & Maesoo  Banga  Beda  Sandro KÃÂ¼hne and others to be confirmed	None
 DJs Green n Brown	None
 DJs Guyus	None
 DJs Housefrauen	None
@@ -2929,7 +2929,7 @@ DJs Mooqee	None
 DJs Nik	None
 DJs OEl & Kama	None
 DJs PBell  Styro 2000  Ida  Rumory  Bang Goes  Playlove	None
-DJs RenÃ© S	None
+DJs RenÃÂ© S	None
 DJs Solid & Wenzel Dashington	None
 DJs Spectron & Jay Sanders	None
 DJs Tape	None
@@ -3029,7 +3029,7 @@ Damian Lazarusu2028	None
 Damiano Pappada	None
 Damiano von Erckert	techno
 Damien  White Lights	None
-DamiÃ¡n Schwartz	None
+DamiÃÂ¡n Schwartz	None
 Damon Irving	None
 Damon Jee	techno
 Damon aka Nikosss	None
@@ -3042,12 +3042,12 @@ Dan Curtin	techno
 Dan Curtin USA	None
 Dan Farserelli	deep
 Dan Ghenacia	techno
+Dan LagardÃÂÃÂ¨re	None
 Dan LagardÃÂ¨re	None
-Dan LagardÃ¨re	None
 Dan Michaels	None
 Dan Noel	house music
+Dan NoÃÂÃÂ«l	None
 Dan NoÃÂ«l	None
-Dan NoÃ«l	None
 Dan Shake	house music
 Dan Welton	house music
 Dan Welton and Edgar Jack	None
@@ -3069,11 +3069,11 @@ Dandy Jack ET LE SERPENT QUI DANSE  ruta5	None
 Dani Casarano	techno
 Dani Castillo algo Mas Duro Barcelone	None
 Dani Greco aka DKI	None
+Dani KÃÂÃÂ¶nig	None
 Dani KÃÂ¶nig	None
-Dani KÃ¶nig	None
 Dani Nydegger	None
+Daniel Avery B2B Roman FlÃÂÃÂ¼gel	None
 Daniel Avery B2B Roman FlÃÂ¼gel	None
-Daniel Avery B2B Roman FlÃ¼gel	None
 Daniel Bell	techno
 Daniel Branco	None
 Daniel Broesecke	None
@@ -3094,8 +3094,8 @@ Danielson	swedish folk pop
 Danielson & Norbertto	None
 Danielson & norbertto	None
 Danielson vs norbertto	None
+DanielÃÂÃÂ¨	None
 DanielÃÂ¨	None
-DanielÃ¨	None
 Danilo Plessow	techno
 Danilo Plessow aka Inverse Cinematics	None
 Danilo Rossini	None
@@ -3159,7 +3159,7 @@ Darrien	hardcore
 Darrien  ZH	None
 Das Balz	None
 Das Balz b2b Adrian Bergmann	None
-Das Balz b2b AmeliÃ©	None
+Das Balz b2b AmeliÃÂ©	None
 Das Blenden	None
 Das Drehmoment	None
 Das Duo	None
@@ -3167,8 +3167,8 @@ Das Fest	None
 Das HOUSE	None
 Das Hutwerk	techno
 Das Hutwerk CH	None
+Das Lineup fÃÂÃÂ¼r den Dancefloor Techno	None
 Das Lineup fÃÂ¼r den Dancefloor Techno	None
-Das Lineup fÃ¼r den Dancefloor Techno	None
 Das Pferd	None
 Das Schiff	None
 Das Volca Massaker Orchester	None
@@ -3219,8 +3219,8 @@ David Durango	techno
 David Eye	house music
 David Faust	house music
 David Fernaux	None
-David FjÃ¶rgenson	None
-David FjÃ¶rgenson Live	None
+David FjÃÂ¶rgenson	None
+David FjÃÂ¶rgenson Live	None
 David Fraka	None
 David Glass	hip hop
 David Gtronic	techno
@@ -3228,8 +3228,8 @@ David Gtronic tINI & the gang	None
 David Guetta	pop
 David Jach	house music
 David Jimenez	None
+David JimÃÂÃÂ©nez	None
 David JimÃÂ©nez	None
-David JimÃ©nez	None
 David K	house music
 David Keno	house music
 David Kiesel	None
@@ -3272,7 +3272,7 @@ De La PorterRoom RecSK RecCube Resident	None
 De La Vega	None
 De Posada	None
 De Suso	None
-De fÃªtes marathon oÃ¹ amour rime avec toujours en afters rocambolesques en passant par le cockpit de la Ruche ou du Hoppetosse nos deux compÃ¨res semploient Ã  distiller leur goÃ»t immodÃ©rÃ© du bon groove	None
+De fÃÂªtes marathon oÃÂ¹ amour rime avec toujours en afters rocambolesques en passant par le cockpit de la Ruche ou du Hoppetosse nos deux compÃÂ¨res semploient ÃÂ  distiller leur goÃÂ»t immodÃÂ©rÃÂ© du bon groove	None
 De la Bass	trap
 De la bonne Deep suivit dun live de minimal cest vendredi prochain au The Spirit Bar  Ca va taper du pied	None
 DeWalta	techno
@@ -3340,7 +3340,7 @@ Dego  2000Black  UK	None
 Dehors  20h30  23h	None
 Dejan	None
 Dejan  Cityfox	None
-Dejan  Cityfox ZÃ¼rich	None
+Dejan  Cityfox ZÃÂ¼rich	None
 Dejan & Patrischa  Cityfox  Naturklang	None
 DekaDance	None
 Dekmantel	None
@@ -3367,7 +3367,7 @@ Demetrio Giannice	house music
 Demir	deep turkish pop
 Demir & Seymen	None
 DemonD	None
-Demotape Clinic  ZÃ¼rich	None
+Demotape Clinic  ZÃÂ¼rich	None
 Den Ishu  Desolat  Supernature	None
 Den Sorte Skole	None
 Dene Anthony	None
@@ -3384,7 +3384,7 @@ Denny	None
 Denostra	None
 Denz	swedish
 Depeche Mode	new
-Der BRONX Bar ShuttleBus befÃ¶rdert unsere GÃ¤ste zwischen 2300 und 0430 Uhr kostenlos und bequem zu uns in die BRONX Bar	None
+Der BRONX Bar ShuttleBus befÃÂ¶rdert unsere GÃÂ¤ste zwischen 2300 und 0430 Uhr kostenlos und bequem zu uns in die BRONX Bar	None
 Der Dirigent	None
 Der Dirigent  anyideas	None
 Der Dritte Raum	techno
@@ -3392,8 +3392,8 @@ Der Effekt	None
 Der Gammler	None
 Der Gekaterte Stiefel	None
 Der Held	None
+Der HollÃÂÃÂ¤nder	None
 Der HollÃÂ¤nder	None
-Der HollÃ¤nder	None
 Der Junge mit der Trompete	None
 Der Kleine Italiener	None
 Der Mega Watt Clan	None
@@ -3403,8 +3403,8 @@ Der Schmeisser	None
 Der Schuft	None
 Der Schuft aka Luca de Grandis	None
 Der Tietz	None
+Der VogelwÃÂÃÂ¤rter	None
 Der VogelwÃÂ¤rter	None
-Der VogelwÃ¤rter	None
 Der Wanderer  Great Stuff	None
 Der Wandervogel	None
 Der Weisse Aya	None
@@ -3446,7 +3446,7 @@ Diego Suarez	disco
 Diego Surarez	None
 Diego Tony	None
 Diego Vendossa	None
-Dieses Mal besucht uns ein Freund aus Berlin  Marco Effe Seine ImpressParty in Berlin spricht fÃ¼r sich Jeweils Mittwochs beschallt er zusammen mit diversen KÃ¼nstlern aus verschiedenen Genres den weltweit bekannten Watergate Club	None
+Dieses Mal besucht uns ein Freund aus Berlin  Marco Effe Seine ImpressParty in Berlin spricht fÃÂ¼r sich Jeweils Mittwochs beschallt er zusammen mit diversen KÃÂ¼nstlern aus verschiedenen Genres den weltweit bekannten Watergate Club	None
 Dietrich & Strolch	techno
 Dietti & Project Acid	None
 Different Drummer	None
@@ -3492,7 +3492,7 @@ Dino Pergola	None
 Dino Pergola & Gusto	None
 Dino White	None
 Dino White aka DinoTon	None
-Dirk SchÃ¶nhÃ¶fer	None
+Dirk SchÃÂ¶nhÃÂ¶fer	None
 Dirt Crew	house music
 Dirty Beat	house music
 Dirty Channels	disco
@@ -3524,7 +3524,7 @@ Disco mit Mute DrumnBass	None
 Disco mit Stil vor Talent	None
 DiscoD	None
 Discod  Banga	None
-DiscÃ¸ ChÃ¥nnel	None
+DiscÃÂ¸ ChÃÂ¥nnel	None
 Disko Dario	None
 Diskomurder	None
 Disprove	None
@@ -3556,7 +3556,7 @@ Dj DFyne	None
 Dj Daparec	None
 Dj DuArT	techno
 Dj Dubstep	None
-Dj EstÃ¨phe	None
+Dj EstÃÂ¨phe	None
 Dj Faith	None
 Dj Falcon	house music
 Dj Fenomen	None
@@ -3623,7 +3623,7 @@ Dj Robr	None
 Dj Rolla	None
 Dj Rotation  Hip Hop Room with Dj Pitch	None
 Dj Rouni	None
-Dj Rumba StÃ©rÃ©o	None
+Dj Rumba StÃÂ©rÃÂ©o	None
 Dj S20	None
 Dj Sam	None
 Dj Sat El Flaco	None
@@ -3668,8 +3668,8 @@ Djazzy	rap
 Djebali	techno
 Djedjotronic	techno
 Djeniz	None
+Djeniz  WaldgeflÃÂÃÂ¼ster	None
 Djeniz  WaldgeflÃÂ¼ster	None
-Djeniz  WaldgeflÃ¼ster	None
 Djerem vs Assym	None
 Djerry C	None
 Djs	new jack swing
@@ -3719,8 +3719,8 @@ Don Malastas B2B DJ Highman	None
 Don Pino	None
 Don Ramon	argentine reggae
 Don Ramon  Cheeky Choice	None
+Don Ramon  Friedas BÃÂÃÂ¼xe	None
 Don Ramon  Friedas BÃÂ¼xe	None
-Don Ramon  Friedas BÃ¼xe	None
 Don Ramon & MA	techno
 Don Ramon & San Marco	techno
 Don Ramon San Marco Pasci joey	None
@@ -3758,8 +3758,8 @@ Doublescore  Renesanz Rec & Italo Business	None
 Doublewave	house music
 DoubtingThomas	rap
 Douglas Andre	None
+Douglas AndrÃÂÃÂ©	None
 Douglas AndrÃÂ©	None
-Douglas AndrÃ©	None
 Douglas Greed feat Nagler & Kuss	None
 Douster	techno
 Douster  Sound Pellegrino	None
@@ -3830,7 +3830,7 @@ Dualism ZH	None
 Dub Dummies	techno
 Dub Tales  Off Mind rec be	None
 DubExMachina	None
-DubExMachina  ZÃ¼rich	None
+DubExMachina  ZÃÂ¼rich	None
 DubNoir	None
 Dubbel Dutch	house music
 Dubculture  BE	None
@@ -3886,20 +3886,20 @@ Dyson C	None
 Dysonc	None
 Dzanin	None
 Dzann	None
+DÃÂÃÂ¤ Kneter	None
+DÃÂÃÂ©bruit	indie jazz
+DÃÂÃÂ¼rerstuben	house music
+DÃÂÃÂlÃÂÃÂrÃÂÃÂs	None
+DÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¸ÃÂÃÂc	None
+DÃÂ¢mFunk & Band	None
 DÃÂ¤ Kneter	None
-DÃÂ©bruit	indie jazz
+DÃÂ¤nemark	None
+DÃÂ©bruit	idm
+DÃÂ©epart	None
 DÃÂ¼rerstuben	house music
 DÃÂlÃÂrÃÂs	None
 DÃÂÃÂÃÂÃÂ¸ÃÂc	None
-DÃ¢mFunk & Band	None
-DÃ¤ Kneter	None
 DÃ¤nemark	None
-DÃ©bruit	idm
-DÃ©epart	None
-DÃ¼rerstuben	house music
-DÑlÑrÑs	None
-DÑÐÑÐ¸Ñc	None
-Dänemark	None
 E	pop
 E Funker	None
 EAGLEEYE CHERRY	None
@@ -3912,11 +3912,11 @@ ED Function	None
 EDDIEKEY	None
 EDMX	video game music
 EFunker	None
+EGÃÂÃÂ & SIMI	None
 EGÃÂ & SIMI	None
-EGÃ & SIMI	None
 EL COLLERA  cumbia digital	None
 EL DEAR	None
-EL NIÃO  TICINO	None
+EL NIÃÂO  TICINO	None
 ELAY	None
 ELC	None
 ELECTRONIC FLOOR	None
@@ -3935,9 +3935,9 @@ EMRE	turkish pop
 EMRE ECE	None
 ENDON	None
 ENTLET	None
-ENTRÃE FLOOR	None
+ENTRÃÂE FLOOR	None
 ENZO LO CONTE	None
-ENÃS	None
+ENÃÂS	None
 ERISU  Artjacking et F&S	None
 ETYPE	None
 EUGENE THE CAT  electroswing live  AUS	None
@@ -3962,7 +3962,7 @@ Echoplex	techno
 Eclectroplasm	None
 Eclektic  Winterthur	None
 Eco	trance music
-Eco  Voisinage  GenÃ¨ve	None
+Eco  Voisinage  GenÃÂ¨ve	None
 Ectocasmic	None
 Ed Function	None
 Ed Luis	None
@@ -4003,15 +4003,15 @@ Egokind	house music
 Egorythmia	trance music
 Egotronic	german
 Egyptrixx	bass music
+EgÃÂÃÂ¼	None
 EgÃÂ¼	None
-EgÃ¼	None
 Ehrlich & Redlich	None
 Eiffel	hi-nrg
 Eigenwijs	house music
-Ein wachsendes Netzwerk in Sachen KÃ¼nstler elektronischer Musik QualitÃ¤t vor QuantitÃ¤t  ein Produkt	None
+Ein wachsendes Netzwerk in Sachen KÃÂ¼nstler elektronischer Musik QualitÃÂ¤t vor QuantitÃÂ¤t  ein Produkt	None
 Einmaleins	None
 Einmusik	techno
-EinstÃ¼rzende Neubauten	experimental
+EinstÃÂ¼rzende Neubauten	experimental
 Eintakt	None
 Eintritt ab 18 Jahren	None
 Eintritt ab 18 Jahren  Open 0500	None
@@ -4078,8 +4078,8 @@ Eli Vervain	None
 Eli Verveine	techno
 Eli Verveine  Tardis Records	None
 Eli Verveine  scandal   switzerland	None
+Elia BÃÂÃÂ¶siger	None
 Elia BÃÂ¶siger	None
-Elia BÃ¶siger	None
 Elia Rediger	None
 Elias 308	None
 Eliazar	techno
@@ -4090,9 +4090,9 @@ Elk  Rhino	None
 Elk  The Grillmaster	None
 Elkee	None
 Elle Reve	None
+Elle RÃÂÃÂÃÂÃÂªve	None
 Elle RÃÂÃÂªve	None
 Elle RÃÂªve	None
-Elle RÃªve	None
 Ellen Allien	techno
 Ellen Allienu2028	None
 Elliot Eastwick	None
@@ -4140,7 +4140,7 @@ Emre Bektas & Denny & Mouseen	None
 Emre Bektas & Jaxon	None
 Emre Bektas & Mouseen & Denny	None
 Emre Bektas b2b Claudio	None
-En dehors de GenÃ¨ve cest au Liquid Club de Berne	None
+En dehors de GenÃÂ¨ve cest au Liquid Club de Berne	None
 Ena Lind	techno
 Enchufada  CH	None
 Endgame	None
@@ -4158,11 +4158,11 @@ Enterbt	None
 Enterbt Recods	None
 Enterbt Records	None
 Entrance by the back on the street	None
-Entre habitudes et nouveautÃ©s la programmation de cette nouvelle semaine annonce la couleur	None
+Entre habitudes et nouveautÃÂ©s la programmation de cette nouvelle semaine annonce la couleur	None
+EntrÃÂÃÂÃÂÃÂ©e 10	None
 EntrÃÂÃÂ©e 10	None
 EntrÃÂ©e 10	None
 EntrÃ©e 10	None
-Entrée 10	None
 Enzo Caprioli	None
 Enzo Lo Conte	None
 Enzo Lo Conte  TerraZza	None
@@ -4187,9 +4187,9 @@ Eramina	None
 Erase	riot grrrl
 Erasmus & Krieger	None
 Erhalder	None
+Eric A  Simple & Sans PrÃÂÃÂÃÂÃÂ©tention  CH  House	None
 Eric A  Simple & Sans PrÃÂÃÂ©tention  CH  House	None
 Eric A  Simple & Sans PrÃÂ©tention  CH  House	None
-Eric A  Simple & Sans PrÃ©tention  CH  House	None
 Eric Borgo	techno
 Eric Fox	None
 Eric Preston	None
@@ -4262,10 +4262,10 @@ Ezikiel	techno
 Ezikiel  Cadenza extended	None
 Ezikiel  DekaDance	None
 Ezikiel  Unite	None
+Ezikiel  Unite ZÃÂÃÂ¼rich	None
 Ezikiel  Unite ZÃÂ¼rich	None
-Ezikiel  Unite ZÃ¼rich	None
 F	classical
-F RaphaÃ«l K	None
+F RaphaÃÂ«l K	None
 FAB	rock
 FABELHAFT	None
 FABI HAAS	None
@@ -4289,8 +4289,8 @@ FD	deep liquid bass
 FELIPE PUERTES	None
 FELIX FOSSIL	None
 FERDINAND WEBER	None
+FERNANDO LEGÃÂÃÂERO	None
 FERNANDO LEGÃÂERO	None
-FERNANDO LEGÃERO	None
 FERROX	None
 FERY	None
 FEUERHAKE	progressive psytrance
@@ -4381,8 +4381,8 @@ Fabri	None
 Fabric London	None
 Fabrizio Maurizi	None
 Fabrizio aka Dee Nelli	None
+FabÃÂÃÂ¸	hip hop
 FabÃÂ¸	hip hop
-FabÃ¸	hip hop
 Face B	None
 Face Design	None
 Facebook  Pascal Visacardi	None
@@ -4442,9 +4442,9 @@ Felipe Valenzuela	techno
 Felix Acaso	None
 Felix Et Chat cest un peu comme Starsky et Hutch mais en mieux	None
 Felix Jaehn	house music
+Felix KrÃÂÃÂ¶cher	schranz
 Felix KrÃÂ¶cher	schranz
-Felix KrÃ¶cher	schranz
-Felix KrÃ¶cher Abstract	None
+Felix KrÃÂ¶cher Abstract	None
 Felix Laband	None
 Felon	house music
 Felxibelle	None
@@ -4470,7 +4470,7 @@ Fichtre visuals	None
 Fictionizer	None
 Fiedel	soundtrack
 Figure	rock
-Figure DÃ¼sseldorf	None
+Figure DÃÂ¼sseldorf	None
 Figure Francfort	None
 Fiji	polynesian pop
 Fiji  electro pop live	None
@@ -4530,7 +4530,7 @@ Floor 2	hi-nrg
 Floor 2  Intec Digital	None
 Floor 2  Miss Flora	None
 Floor 2  Taurus	None
-Floor 2 FÃ¶hn Wind of Music	None
+Floor 2 FÃÂ¶hn Wind of Music	None
 Floor 3  clrnet	None
 Flooting Grooves	didgeridoo
 Floppy Funk	None
@@ -4538,8 +4538,8 @@ Florent  M	None
 Florian Defunes	None
 Florian Hecker	idm
 Florian Kaltstroem	None
+Florian KaltstrÃÂÃÂ¸m & Emil Berliner	None
 Florian KaltstrÃÂ¸m & Emil Berliner	None
-Florian KaltstrÃ¸m & Emil Berliner	None
 Florian Kunicke	None
 Florian Kupfer	house music
 Florian MSK	None
@@ -4639,10 +4639,10 @@ Franz Bianchi	None
 Franz Carl	None
 Franz Filter	None
 Franz White	None
+FranÃÂÃÂ§ois K	house music
+FranÃÂ§ois Antico	None
+FranÃÂ§ois Bayle interpreted by FranÃÂ§ois Bonnet	None
 FranÃÂ§ois K	house music
-FranÃ§ois Antico	None
-FranÃ§ois Bayle interpreted by FranÃ§ois Bonnet	None
-FranÃ§ois K	house music
 Frau Hug & Samsara	None
 Freak Slaughter	uk garage
 FreakBoutiqe	None
@@ -4652,8 +4652,8 @@ Freaky Charly	None
 Freaky Charly & Oscar Niczzo	None
 Fred	christian christmas
 Fred 34	None
+Fred HystÃÂÃÂ¨re	None
 Fred HystÃÂ¨re	None
-Fred HystÃ¨re	None
 Fred Licci	None
 Fred Lilla	big room
 Fred Linger	disco
@@ -4692,10 +4692,10 @@ Freundchen	None
 Fri 2200  0600	None
 Friday	punk christmas
 Friday 270315	None
+Friedas BÃÂÃÂÃÂÃÂ¼xe	None
 Friedas BÃÂÃÂ¼xe	None
 Friedas BÃÂ¼xe	None
 Friedas BÃ¼xe	None
-Friedas Büxe	None
 Friedas Neffe	None
 Friede Freude Freitag	None
 Friede Freude Freitag  FFF Events ZH	None
@@ -4717,8 +4717,8 @@ Fukuro	None
 Full programme of Music	None
 Fulldupblex live	None
 Fulvio Cala	None
+Fulvio CalÃÂÃÂ 	None
 Fulvio CalÃÂ 	None
-Fulvio CalÃ 	None
 Fumiya Tanaka	techno
 Fumuj	dub
 Fun&Floor is a clubnight which takes place every 2nd saturday of the Month in Hacienda Sierre	None
@@ -4726,8 +4726,8 @@ Funk Bastard	hip hop
 Funk Flavour	None
 FunkYaMind	None
 FunkinEven	disco
-FunkstÃÂ¶rung	drum and bass
-FunkstÃ¶rung	idm
+FunkstÃÂÃÂ¶rung	drum and bass
+FunkstÃÂ¶rung	idm
 Funky Chap	None
 Funky Chap & Morris Malone	None
 Funky Chap & Space K	None
@@ -4736,13 +4736,13 @@ Funkyamind	None
 Fur Coat	techno
 Fuse  Berlin	None
 Fuse  Ohm 10	None
+FussgÃÂÃÂ¤nger 9	None
 FussgÃÂ¤nger 9	None
-FussgÃ¤nger 9	None
 Futura	None
 Future Islands	electronic rock
 Future Stage Opernhaus	None
 FutureStage  KONGRESSHAUS	None
-FÃ©line	None
+FÃÂ©line	None
 G Work	None
 GABRIELA  Geneva	None
 GALLO	None
@@ -4789,9 +4789,9 @@ GRISE	None
 GROGGIZZ	None
 GROOVAH  cumbia funk  GE	None
 GROUND CONTROL	idm
-GROUND CONTROL ÃÂÃ¡Â¹ÂÃÂ­ÃÂÃÂÃÂÃÂr	idm
-GROUND CONTROL Ñá¹Ò­ÑÒÒÑr	hip hop
-GRÃNES BLAU	None
+GROUND CONTROL ÃÂÃÂÃÂ¡ÃÂ¹ÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂr	idm
+GROUND CONTROL ÃÂÃ¡Â¹ÂÃÂ­ÃÂÃÂÃÂÃÂr	hip hop
+GRÃÂNES BLAU	None
 GS	None
 GSN BE	None
 GUCCI	rap
@@ -4804,8 +4804,8 @@ GaLaBar	hip hop
 GaLaBar  WF  Toulouse	None
 GaLaBar  WFmusik	None
 Gabidou	None
+GablÃÂÃÂ©	None
 GablÃÂ©	None
-GablÃ©	None
 Gabriel Ananda	techno
 Gabriel Dor & Bordoy	rap
 Gabriel Pellicano aka DJ Pellicano	None
@@ -4836,16 +4836,16 @@ Garlo	None
 Garry Klein	None
 Gary Beck	techno
 Gary Dex	None
+GarÃÂÃÂ§on	None
+GarÃÂÃÂ§on & Agonis	None
+GarÃÂÃÂ§on Sauvage	None
+GarÃÂÃÂ«on	None
 GarÃÂ§on	None
 GarÃÂ§on & Agonis	None
+GarÃÂ§on & Morard	None
 GarÃÂ§on Sauvage	None
 GarÃÂ«on	None
 GarÃ§on	None
-GarÃ§on & Agonis	None
-GarÃ§on & Morard	None
-GarÃ§on Sauvage	None
-GarÒ«on	None
-Garçon	None
 Gaspard	None
 Gaspard de La Montagne	techno
 Gaston	mbalax
@@ -4854,7 +4854,7 @@ Gaty Lopez	disco
 Gavin Russom aka Black Meteoric Star	None
 Gayle San	schranz
 Gazelle Twin	grave wave
-GebrÃ¼der Ritalin	None
+GebrÃÂ¼der Ritalin	None
 Gecko	None
 Gecko  Secret Garden  Fribourg	None
 Gecko Chamber	None
@@ -4870,14 +4870,14 @@ General Rush	None
 General Wolf	None
 Genetic Dysfunction	techno
 Geneva	grave wave
-Geneva Street Food Festival dÃ¨s 18h00	None
+Geneva Street Food Festival dÃÂ¨s 18h00	None
 Genf	None
-GenÃ¨ve	None
+GenÃÂ¨ve	None
 Georg Gatsas	None
 Georg Stuby	None
 Georg Stuby Naturklang	None
+Georg Stuby Naturklang  ZÃÂÃÂ¼rich	None
 Georg Stuby Naturklang  ZÃÂ¼rich	None
-Georg Stuby Naturklang  ZÃ¼rich	None
 George Lamell	None
 George Morel	disco
 Gepe Tuzzo	None
@@ -4942,7 +4942,7 @@ GigoloRomantico	None
 Gil Glaze	None
 Gil Von De & Mica	None
 Gil Von De & Sebastien Dupuis	None
-Gil Von De accompagnÃ© de Francesco Vallance	None
+Gil Von De accompagnÃÂ© de Francesco Vallance	None
 Gil von De & Daniel Branco	None
 Gill & Gill	None
 Gill&Gill	country
@@ -4988,7 +4988,7 @@ Gloria Bulsara	None
 Goa Face	None
 Gobbit	None
 God Made us Funky Records	None
-GodiÃ© EOW LU	None
+GodiÃÂ© EOW LU	None
 Goetzlich	None
 Gogo	jazz
 Golani Bros	None
@@ -5020,9 +5020,9 @@ Graf Olaf & Karl Gustav  Rina Lou  Thom Mayr	None
 Graham Lambkin	None
 Gramatik	downtempo
 Grand Corps Malade	francoton
-Grand passionnÃ© de musique	None
+Grand passionnÃÂ© de musique	None
+Grande ScÃÂÃÂ¨ne	None
 Grande ScÃÂ¨ne	None
-Grande ScÃ¨ne	None
 Grandmaster Flash	hip hop
 Grant Nelson	uk garage
 Gratis  Deep House  ab 1600	None
@@ -5081,8 +5081,8 @@ Guest Simone Liberali	None
 Guest de Berlin	None
 Guests	None
 Gui Boratto	house music
+Guido MÃÂÃÂ¶bius	None
 Guido MÃÂ¶bius	None
-Guido MÃ¶bius	None
 Guido Rami	None
 Guido Schneider	techno
 Guido aka FreeJ Rumi	None
@@ -5113,12 +5113,12 @@ Gwyn Wurst	None
 Gynesh Bakir	None
 Gypsis	None
 Gypstrip	None
+GÃÂÃÂ¡bor LÃÂÃÂ¡zÃÂÃÂ¡r	None
+GÃÂÃÂ¶rlitz	None
 GÃÂ¡bor LÃÂ¡zÃÂ¡r	None
 GÃÂ¶rlitz	None
-GÃ¡bor LÃ¡zÃ¡r	None
-GÃ¶rlitz	None
-GÃ¶teborgSE	None
-GÃ¼nes	deep turkish pop
+GÃÂ¶teborgSE	None
+GÃÂ¼nes	deep turkish pop
 HANZ BEATER tanz	None
 HARKAM	None
 HAUS vol1	None
@@ -5176,8 +5176,8 @@ Hanne & Lore	house music
 Hans Bouffmyhre	techno
 Hans Jung	techno
 Hansaplast live JU	None
+Hansim GlÃÂÃÂ¼ck	None
 Hansim GlÃÂ¼ck	None
-Hansim GlÃ¼ck	None
 Hantise	None
 Hanz Beater	None
 Hanz Beater   Tanz	None
@@ -5231,8 +5231,8 @@ Heiko	coverchill
 Heiko MSO	house music
 Heimat	hip hop
 Heimat Peer Kusiv	None
+Heimlich KnÃÂÃÂ¼ller	None
 Heimlich KnÃÂ¼ller	None
-Heimlich KnÃ¼ller	None
 Heinz Music	None
 Heinz Music  Berlin	None
 Heiser	None
@@ -5255,8 +5255,8 @@ HenriqueMatthew Adamas	None
 Henry Clausen	None
 Henry Pass	None
 Henry Sure	None
+Henry Sure  Friedas BÃÂÃÂ¼xe ZÃÂÃÂ¼rich	None
 Henry Sure  Friedas BÃÂ¼xe ZÃÂ¼rich	None
-Henry Sure  Friedas BÃ¼xe ZÃ¼rich	None
 Henry Wu	fluxwork
 Hepp	None
 Hepp live	None
@@ -5274,11 +5274,11 @@ Herr Johann	None
 Herr Mehr	None
 Herr Meyer & Sentio	None
 Herr Mueller	None
+Herr MÃÂÃÂ¼ller	None
+Herr MÃÂÃÂ¼ller & Secondlife	None
 Herr MÃÂ¼ller	None
 Herr MÃÂ¼ller & Secondlife	None
 Herr MÃ¼ller	None
-Herr MÃ¼ller & Secondlife	None
-Herr Müller	None
 Herr Vogel	None
 Herr liebe	None
 Herrrouine	None
@@ -5322,14 +5322,14 @@ Hive	indie poptimism
 Hive  ZH	None
 Hive Audio	None
 Hive Audio  ag	None
-Hive Audio ZÃ¼rich	None
+Hive Audio ZÃÂ¼rich	None
 Hive Audio showcase with	None
 Hive AudioZurich	None
 Hobbs	christian christmas
 Hobo	None
 Hobo  Mnus	None
+HobÃÂÃÂ© D	None
 HobÃÂ© D	None
-HobÃ© D	None
 Hold Youth Paris	None
 Holger Hecler	techno
 Holic Trax  Berlin	None
@@ -5365,7 +5365,7 @@ House & Tech House	None
 House Floor	None
 House Rockers Electroradio  Cube	None
 House music	None
-House poudrÃ©e et pas chassÃ©s	None
+House poudrÃÂ©e et pas chassÃÂ©s	None
 HouseElectro	None
 Housedelivery	None
 Housemeister	techno
@@ -5397,8 +5397,8 @@ Hyenah	house music
 Hypercolour	None
 Hypnotic	afrobeat
 Hyrez	disco
-HÃ¤rterei 1	None
-HÓ³ÒnÑÐ¯ÑÓ½	None
+HÃÂ¤rterei 1	None
+HÃÂ³ÃÂnÃÂÃÂ¯ÃÂÃÂ½	None
 I	hip hop
 I am Frost	techno
 IDA	None
@@ -5460,14 +5460,14 @@ Iker Muruaga	None
 Ikke	house music
 Ikonika	uk garage
 Ikosa	None
+IlanÃÂÃÂÃÂÃÂ¨	None
 IlanÃÂÃÂ¨	None
 IlanÃÂ¨	None
 IlanÃ¨	None
-Ilanè	None
 Ilario Alicante	techno
 Ilios	None
 Ill Dubio	None
-Ill Dubio  NeuchÃ¢tel	None
+Ill Dubio  NeuchÃÂ¢tel	None
 Ill77	None
 Illan Nicciani	techno
 Illesnoise	house music
@@ -5492,7 +5492,7 @@ Indiana Tones	None
 Infernal Bastard b2b Quad Damage  JurRecords	None
 Infinity	None
 Infinity Ink	house music
-InfinÃ© labelnight  Agoria	None
+InfinÃÂ© labelnight  Agoria	None
 Info Liste Prenotazione Tavoli	None
 Info comming soon	None
 Infos	None
@@ -5508,7 +5508,7 @@ Insane	rap
 Insel	None
 Inside Floor	None
 Inspiration	None
-Instabil  KÃ¶ln DE	None
+Instabil  KÃÂ¶ln DE	None
 Installations	None
 Installations and guided tours through the botanic garden by	None
 Instant Rave	None
@@ -5536,12 +5536,12 @@ Isidore	None
 Isidore  Salidamusic	None
 Ismail & Clive	None
 Isolated Lines	techno
+IsolÃÂÃÂÃÂÃÂ©e	house music
 IsolÃÂÃÂ©e	house music
 IsolÃÂ©e	house music
-IsolÃ©e	house music
 Israel	gospel
+Issa MaÃÂÃÂ¯ga	None
 Issa MaÃÂ¯ga	None
-Issa MaÃ¯ga	None
 Istanbul  Berlin	None
 Ital Tek	uk garage
 Italien	None
@@ -5585,8 +5585,8 @@ JAMIE LEWIS & RESIDENT	None
 JANE FOX	None
 JANK	emo
 JANN BRONNSKI	None
+JANNI SALPINGIDIS  DurstlÃÂÃÂ¶scher	None
 JANNI SALPINGIDIS  DurstlÃÂ¶scher	None
-JANNI SALPINGIDIS  DurstlÃ¶scher	None
 JANSKI BEEEATS  live	None
 JASHARI	None
 JAUSS  CRASH DELAY	None
@@ -5599,7 +5599,7 @@ JCX	None
 JD	new americana
 JD Hakulinen	None
 JEAN BAPTISTE	baroque
-JEANFRANÃOIS LAPORTE	None
+JEANFRANÃÂOIS LAPORTE	None
 JEHROMM	None
 JEREMY ELLIS	breakbeat
 JESSE HACKETT live	None
@@ -5616,17 +5616,17 @@ JNS DJ Team vs Execute DJ Team	None
 JO	scorecore
 JO SINCLAIR	None
 JOE GALEN	None
+JOE VENDETTA  MinimalFraktion  GrÃÂÃÂ¼nwerk Rec	None
 JOE VENDETTA  MinimalFraktion  GrÃÂ¼nwerk Rec	None
-JOE VENDETTA  MinimalFraktion  GrÃ¼nwerk Rec	None
 JOE VENDETTA & MARC NOUVELLE	None
+JOHAN MÃÂÃÂÃÂÃÂVE	None
 JOHAN MÃÂÃÂVE	None
 JOHAN MÃÂVE	None
-JOHAN MÃVE	None
 JOHAN NOVACEK	None
 JOHN CATALANO	None
 JOHN LEMON	techno
 JOHN MAD & NORA	None
-JOHN PLAYER 7b zÃ¼rich	None
+JOHN PLAYER 7b zÃÂ¼rich	None
 JOHN TAALSBERG	None
 JOHNNY B	None
 JOHNNY OSBOURNE  reggae  JAM	None
@@ -5688,8 +5688,8 @@ Jacques Palminger	None
 Jacqui	jazz christmas
 Jacqui  MiniShake Music  Sion	None
 Jacqui  minishake  VD	None
+Jacqui & RÃÂÃÂ©ne Dachner	rap
 Jacqui & RÃÂ©ne Dachner	rap
-Jacqui & RÃ©ne Dachner	rap
 Jacqui AKTIONSHALLE Joakim & the Ectoplasmics	None
 Jacquit	None
 Jade	new jack swing
@@ -5768,8 +5768,8 @@ Jason Lescalleet	lowercase
 Jasper Jules	None
 Jauss	None
 Javi Pena	hip hop
+Javi PeÃÂÃÂ±a	None
 Javi PeÃÂ±a	None
-Javi PeÃ±a	None
 Javier Logares	techno
 Javier Moreno	house music
 Javier Recarey	None
@@ -5789,7 +5789,7 @@ Jay Unique  Silk Events	None
 Jay Veedee	None
 Jay Veedee & Malek	None
 JayJo	None
-Jaybee feat Sandman & Appenzeller SÃ¤ngerFREUNDe	None
+Jaybee feat Sandman & Appenzeller SÃÂ¤ngerFREUNDe	None
 Jayda G	rap
 Jaydan	jump up
 Jayjoe	None
@@ -5798,16 +5798,16 @@ Jaymo & Andy George	techno
 Jazmin Ng	None
 Jazz T	hip hop
 Jazzanova	downtempo
-Je DÃ¢vu	None
+Je DÃÂ¢vu	None
 Jean Baptiste	renaissance
 Jean Charles De Monte Carlo	None
 Jean Charles de Monte Carlo	None
 Jean Charles de Monte Carlo  JCDMC	None
-Jean Clef attache une attention particuliÃ¨re Ã  la selection de ses morceaux Il est capable de commencer un set avec des sonoritÃ©s Soul	None
+Jean Clef attache une attention particuliÃÂ¨re ÃÂ  la selection de ses morceaux Il est capable de commencer un set avec des sonoritÃÂ©s Soul	None
 Jean Meyer	None
 Jean Toussaint	None
+JeanFranÃÂÃÂ§ois Laporte	None
 JeanFranÃÂ§ois Laporte	None
-JeanFranÃ§ois Laporte	None
 Jeans for Jesus	None
 Jecko Kay	None
 Jeckos	None
@@ -5825,8 +5825,8 @@ Jeff Swing  Dan Lagardere  Ken Wan  Little  Big T	None
 Jeff Swing b2b Cosmokolor all night long	None
 Jeff Swings	None
 Jehst	uk garage
+Jelipe JalapeÃÂÃÂ±o	None
 Jelipe JalapeÃÂ±o	None
-Jelipe JalapeÃ±o	None
 Jello Biafra & le Dernier Cri	None
 Jem Haynes	house music
 Jembo62 & Lindon	None
@@ -5932,10 +5932,10 @@ John Hegre	electroacoustic improvisation
 John Khan	None
 John Lemon	techno
 John Lemon & CHRISTIAN  Darkroom	rap
+John Lemon The Darkroom  ZÃÂÃÂ¼rich	None
 John Lemon The Darkroom  ZÃÂ¼rich	None
-John Lemon The Darkroom  ZÃ¼rich	None
 John Lokke	None
-John Mad b2b BjÃ¶rn Lomar	None
+John Mad b2b BjÃÂ¶rn Lomar	None
 John Morales	hip hop
 John Paul Jones	None
 John Player	None
@@ -6005,14 +6005,14 @@ Josh Tree	None
 Josh Wicks	None
 Josh Wink	techno
 Joshua Jesse	None
+JosÃÂÃÂ¨ Parra	flamenco
+JosÃÂÃÂ© Parra	flamenco
 JosÃÂ¨ Parra	flamenco
-JosÃÂ© Parra	flamenco
-JosÃ¨ Parra	flamenco
-JosÃ© Parra	cante flamenco
-JournÃ©e Standard	None
+JosÃÂ© Parra	cante flamenco
+JournÃÂ©e Standard	None
 Joxx	None
 Joyce Muniz	vienna indie
-JoÃ¨l Ruck	None
+JoÃÂ¨l Ruck	None
 Js  Acts	None
 Jstar	hip hop
 Juan Atkins	house music
@@ -6030,7 +6030,7 @@ Juicy Lucy	rock
 Juicy julz	None
 Juke Trax	None
 Jukebox Champions	None
-Jul Nako  NeuchÃ¢tel	None
+Jul Nako  NeuchÃÂ¢tel	None
 Juli Holz	house music
 Juli Lee	None
 Juli N More	None
@@ -6070,7 +6070,7 @@ Just Alae	None
 Just Music  23 febbraio 2013	None
 Just like that	None
 Justice Rivah feat Iyah Ranx	None
-Justin FidÃ¨le	None
+Justin FidÃÂ¨le	None
 Justin Martin	house music
 Justin Nozuka	pop
 Justin Robertson	disco
@@ -6084,17 +6084,17 @@ Jutzi Flinstones b2b Don Tetris	None
 Jutzi b2b Maximilian berg	None
 Juzz	disco
 Jyx	None
+JÃÂÃÂ¼rgen Dobner	None
+JÃÂ¶rn Fleig	None
+JÃÂ¸rg  Jon Donson	None
+JÃÂ¸rg aka Jon Donson	None
 JÃÂ¼rgen Dobner	None
-JÃ¶rn Fleig	None
-JÃ¸rg  Jon Donson	None
-JÃ¸rg aka Jon Donson	None
-JÃ¼rgen Dobner	None
-JÃ¼rgen&Ich  Visuals  KÃ¶ln	None
+JÃÂ¼rgen&Ich  Visuals  KÃÂ¶ln	None
 K Chico	None
 K15	None
 KABAKA PYRAMID & THE BEBBLE ROCKERS	None
 KACKMUSIKK	None
-KAEGÅN	None
+KAEGÃÂN	None
 KAI HILLMANN	None
 KAIN&GABEL	None
 KALEID feat Electrosexual & DORIAN E	None
@@ -6143,16 +6143,16 @@ KUVA  Oscil8DEEPINRECORDS	None
 KW32	None
 Ka & Ge	None
 Ka&Ge	None
+Kaan DÃÂÃÂ¼zarat	None
 Kaan DÃÂ¼zarat	None
 Kaan DÃ¼zarat	None
-Kaan Düzarat	None
 Kabale und Liebe	techno
 Kablam	fluxwork
 Kackmusikk	None
 Kackmusikk b2b Cockboy	None
 Kadebostan	None
 Kadebostan & Laolu	rap
-KaegÅn	None
+KaegÃÂn	None
 Kafka Kaya	None
 Kahn	None
 Kahuna	breakbeat
@@ -6166,7 +6166,7 @@ Kalabrese & Rumpelorchester	house music
 Kalabrese & The Rumpelorchester	house music
 Kalabrese Orchestra live feat Khan	None
 Kalabrese and the Rumpelorchestra	None
-Kalabrese perlon zÃ¼rich	None
+Kalabrese perlon zÃÂ¼rich	None
 Kalamity Jo	None
 Kali	indie
 Kalipo	house music
@@ -6194,8 +6194,8 @@ Karera	None
 Karim Samah	None
 Karl Gustav	None
 Karl Knatter	None
-Karl MÃ¶stl	rap
-Karl TonschÃ¤nder	None
+Karl MÃÂ¶stl	rap
+Karl TonschÃÂ¤nder	None
 Karl Van Hinten	None
 Karla	rock
 Karmina	techno
@@ -6249,8 +6249,8 @@ Ken Wan	house music
 Ken Wan & Jeremy	house music
 Ken live JU	None
 Kenel & Sonne	None
+Kenel & Sonne Arche  ZÃÂÃÂ¼rich	None
 Kenel & Sonne Arche  ZÃÂ¼rich	None
-Kenel & Sonne Arche  ZÃ¼rich	None
 Kengbang und Kelstroem	None
 Kenhobiz	None
 Kenjiro Ultramagnetic	None
@@ -6266,7 +6266,7 @@ Kent Brockmen LIVE	None
 Kent Kaina	None
 Ker	None
 Kerri Chandler	house music
-KerÃ¤nen	None
+KerÃÂ¤nen	None
 Ketchup	None
 Ketev	mandible
 Kettel	idm
@@ -6315,8 +6315,8 @@ Kim Kemi	techno
 Kim Prevedello	hip hop
 Kim Prevedello  Little House Castle Music	None
 Kim Prevedello 22h at 2h	None
+Kim Prevedello est un DJ dorigine cubaine qui allie musique ÃÂÃÂ©lectronique et rythmes traditionnels pour des	None
 Kim Prevedello est un DJ dorigine cubaine qui allie musique ÃÂ©lectronique et rythmes traditionnels pour des	None
-Kim Prevedello est un DJ dorigine cubaine qui allie musique Ã©lectronique et rythmes traditionnels pour des	None
 Kim Prevedelo	None
 Kina Music	None
 Kindimmer	techno
@@ -6338,11 +6338,11 @@ KlangFormer	None
 KlangKuenstler	house music
 Klangdruide	None
 KlangfabriK	techno
+KlanggÃÂÃÂ¤rtner	None
 KlanggÃÂ¤rtner	None
-KlanggÃ¤rtner	None
 Klangkarussell	house music
 Klangkosmetiker	rap
-KlangkÃ¼nstler	None
+KlangkÃÂ¼nstler	None
 Klangwelt  Geneve	None
 Klara Lewis	idm
 Klarsicht	None
@@ -6365,10 +6365,10 @@ Klockwork	electronic rock
 Klute	drum and bass
 Kms	techno
 Knackeboul	hip hop
+KnackigSaftigWohltuned prÃÂÃÂÃÂÃÂ¤sentiert	None
 KnackigSaftigWohltuned prÃÂÃÂ¤sentiert	None
 KnackigSaftigWohltuned prÃÂ¤sentiert	None
 KnackigSaftigWohltuned prÃ¤sentiert	None
-KnackigSaftigWohltuned präsentiert	None
 Knobs	techno
 Knor	None
 Knotweed  CH	None
@@ -6378,8 +6378,8 @@ Knuff&Knuff	None
 Knut	metal
 Knut und dAn from berne B2BSet	None
 Knut2010	None
+KnÃÂÃÂ¤ckebrÃÂÃÂ¶d	None
 KnÃÂ¤ckebrÃÂ¶d	None
-KnÃ¤ckebrÃ¶d	None
 Kobosil	dub
 Kodbar	None
 Kode 9	hip hop
@@ -6393,11 +6393,11 @@ Kollektiv Turmstrasse	techno
 Kolombo	house music
 Koma Dub	None
 Koma dub	None
+KombÃÂÃÂ©	None
 KombÃÂ©	None
 KombÃ©	None
-Kombé	None
 Kompakt	None
-KompaktSÃ£o Paulo	None
+KompaktSÃÂ£o Paulo	None
 Komplex 457	None
 Komplex Klub	None
 Komsomol	None
@@ -6412,14 +6412,14 @@ Konverter	None
 Konvex 1	None
 Konvex 2	None
 Konzert	None
-Kooperative RÃ¶schtigraben	None
+Kooperative RÃÂ¶schtigraben	None
 Kooz	rap
 Kopenhagen	None
 Kopfkino 3D	None
 Korek Percussion	None
 Koreless	uk garage
 Kormac	electro music
-KornÃ©l KovÃ¡cs	house music
+KornÃÂ©l KovÃÂ¡cs	house music
 Korsett	None
 Korsett Kollektiv	None
 Kortex	None
@@ -6458,8 +6458,8 @@ Kroman Celik	techno
 Krono	house music
 Krumelur	None
 Kruse & Nuernberg	disco
+Kruse & NÃÂÃÂ¼rnberg	None
 Kruse & NÃÂ¼rnberg	None
-Kruse & NÃ¼rnberg	None
 Kryder	house music
 Krystal Klear	uk garage
 Kubin	None
@@ -6472,8 +6472,8 @@ Kultig & Cheers	None
 Kumquat	None
 Kun	None
 Kuno	None
+Kunstraum Walcheturm  Kanonengasse 20  8004 ZÃÂÃÂ¼rich	None
 Kunstraum Walcheturm  Kanonengasse 20  8004 ZÃÂ¼rich	None
-Kunstraum Walcheturm  Kanonengasse 20  8004 ZÃ¼rich	None
 Kuppel	None
 Kurilian	None
 Kurilian Kratz	None
@@ -6487,18 +6487,18 @@ Kyodai	techno
 Kyoka	mandible
 Kyrill & Redford	groove room
 Kyros	None
+KÃÂÃÂ¥re Kyl	None
+KÃÂÃÂ¶lsch	house music
+KÃÂÃÂ¶nig Balthasar	None
+KÃÂÃÂ¶nig der Fischer	None
 KÃÂ¥re Kyl	None
+KÃÂ¶ln D	None
+KÃÂ¶lnDE	None
 KÃÂ¶lsch	house music
 KÃÂ¶nig Balthasar	None
 KÃÂ¶nig der Fischer	None
-KÃ¥re Kyl	None
-KÃ¶ln D	None
-KÃ¶lnDE	None
-KÃ¶lsch	house music
+KÃÂ¼hn	broadway
 KÃ¶nig Balthasar	None
-KÃ¶nig der Fischer	None
-KÃ¼hn	broadway
-König Balthasar	None
 LA BAAZ	progressive psytrance
 LA BIONDA	None
 LA LUCIOLE	None
@@ -6518,15 +6518,15 @@ LARS LINDENBERG	None
 LASSMALAURA Katerholzig	None
 LATINO	grupera
 LAWilliams DJAXUPKUMBA RECUSA	None
-LAraignÃ©e au Plafon	None
+LAraignÃÂ©e au Plafon	None
 LCAW	house music
+LCMDF  Le Corps Mince De FranÃÂÃÂ§oise	electrofox
 LCMDF  Le Corps Mince De FranÃÂ§oise	electrofox
-LCMDF  Le Corps Mince De FranÃ§oise	electrofox
 LCP	None
 LDS	None
+LE FRÃÂÃÂÃÂÃÂRE	None
 LE FRÃÂÃÂRE	None
 LE FRÃÂRE	None
-LE FRÃRE	None
 LE HORLA	None
 LE PLAISIR DE VOUS FAIRE PLAISIR	None
 LE ROI	None
@@ -6563,9 +6563,9 @@ LIVE Alessandro Parisi	None
 LIVE Dapayk  Shackleton  Various Production  Robot Koch  Lur  Oliver Schories  Raz Ohara  Rizzoknor  Pilocka Krach  Kaltehand & Natasha Waters  Die Galoppierende Zuversicht  Digger Barnes	None
 LIVE Dollar Mambo	None
 LIVE Einmusik	None
+LIVE KonpiÃÂÃÂÃÂÃÂ¹ta	None
 LIVE KonpiÃÂÃÂ¹ta	None
 LIVE KonpiÃÂ¹ta	None
-LIVE KonpiÃ¹ta	None
 LIVE Marc Houle	None
 LIVE Ryan Hawkin	None
 LIVE VISUAL ART BY PIXELPUNX	None
@@ -6586,8 +6586,8 @@ LSM Productions	None
 LSN	None
 LTJ Bukem feat MC Conrad	None
 LU	cumbia
+LUBÃÂÃÂMIR & CRANG	None
 LUBÃÂMIR & CRANG	None
-LUBÃMIR & CRANG	None
 LUC MASERA	None
 LUCA BERTO	None
 LUCA GEROSA	None
@@ -6610,45 +6610,45 @@ LYCTUM	progressive psytrance
 LYE	rock
 LYNN JORDAN ECR REC LAURENT PHILLETTAZ	None
 La B	None
-La BohÃ¨me	rock
-La BohÃ¨me B2B Chapkmace	None
+La BohÃÂ¨me	rock
+La BohÃÂ¨me B2B Chapkmace	None
 La Bombe	None
 La Cava Stage	None
 La Clandestine	None
 La Duracelle	techno
 La Fleur	techno
 La Foret	techno
+La ForÃÂÃÂÃÂÃÂªt	None
 La ForÃÂÃÂªt	None
+La ForÃÂÃÂªt  TT  TONY DA	None
 La ForÃÂªt	None
 La ForÃÂªt  TT  TONY DA	None
-La ForÃªt	None
-La ForÃªt  TT  TONY DA	None
+La FÃÂÃÂÃÂÃÂ©e Verte	None
 La FÃÂÃÂ©e Verte	None
+La FÃÂÃÂ´ret	None
 La FÃÂ©e Verte	None
 La FÃÂ´ret	None
-La FÃ©e Verte	None
-La FÃ´ret	None
 La Gale	None
 La Luciole	None
-La Mibot et Foufoune dÃ©lectricitÃ©	None
+La Mibot et Foufoune dÃÂ©lectricitÃÂ©	None
 La Mine Express	None
 La NuiT	None
 La Rochelle Band	electro music
 La Ruche	None
 La Ruche  Lausanne	None
-La Ruche PrÃ©sente	None
+La Ruche PrÃÂ©sente	None
 La Ruchet	None
 La Ruchex1f	None
 La Suite	None
 La Vie Cest Facile	None
 La Vitamina	None
 La Vue VJ Collective	None
+La fine ÃÂÃÂ©quipe	None
 La fine ÃÂ©quipe	None
-La fine Ã©quipe	None
 La mine express	None
-La piÃ¨ce	None
+La piÃÂ¨ce	None
+La soirÃÂÃÂ©e aura lieu au parc des Bastions	None
 La soirÃÂ©e aura lieu au parc des Bastions	None
-La soirÃ©e aura lieu au parc des Bastions	None
 Labaaz	techno
 Laboratoire	None
 Labrador City	None
@@ -6713,7 +6713,7 @@ Laurent Garnier	techno
 Lauro	classical guitar
 Lausanne	None
 LausanneBerlin	None
-LausanneZÃ¼rich	None
+LausanneZÃÂ¼rich	None
 Laut & Luise	None
 Lautent Garnier	None
 Lawrence	country
@@ -6727,16 +6727,16 @@ Lazy Mouth	rap
 Lcp	None
 Le Bal 2 vieux	None
 Le Baron	house music
-Le Bleu du Ciel et les Ã©lÃ¨ves de lEcole de Cirque	None
+Le Bleu du Ciel et les ÃÂ©lÃÂ¨ves de lEcole de Cirque	None
+Le BÃÂÃÂ©rger	None
 Le BÃÂ©rger	None
-Le BÃ©rger	None
 Le Centitme Singe	None
 Le ChatMan	None
 Le Chiffre	None
 Le Citadin	None
 Le Clou	None
 Le Freak	None
-Le FrÃ¨re	None
+Le FrÃÂ¨re	None
 Le Horla	None
 Le Noir	soukous
 Le Petit Lutin	None
@@ -6747,9 +6747,9 @@ Le Roi	None
 Le Slap	None
 Le Spectre	tekno
 Le Voleur	None
-Le collectif Oscil8 fait son premier tour de piste Ã  Lausanne	None
-Le collectif genevois CNSTL a Ã©tÃ© crÃ©e en 2011 Il est composÃ© de 4 djs	None
-Le team Brown S a Ã©tÃ© crÃ©Ã©e en 2007 Il regroupe deux amoureux de House Music Ã  savoir Black Martini et Alex Kuem	None
+Le collectif Oscil8 fait son premier tour de piste ÃÂ  Lausanne	None
+Le collectif genevois CNSTL a ÃÂ©tÃÂ© crÃÂ©e en 2011 Il est composÃÂ© de 4 djs	None
+Le team Brown S a ÃÂ©tÃÂ© crÃÂ©ÃÂ©e en 2007 Il regroupe deux amoureux de House Music ÃÂ  savoir Black Martini et Alex Kuem	None
 Le1f	indie r&b
 LeLe	None
 LeZed	None
@@ -6809,16 +6809,16 @@ Leonardo	bolero
 Leonardo Crespi	None
 Leone Music  Suruba X  London UK	None
 LeonxLeon	disco
+LeonÃÂÃÂÃÂÃÂ¡rd Bywa	rap
 LeonÃÂÃÂ¡rd Bywa	rap
 LeonÃÂ¡rd Bywa	rap
-LeonÃ¡rd Bywa	rap
 Lerosa	techno
 Leroy	channel pop
 Les Alligateurs Boulots	None
 Les Chicklettes	None
 Les Diplomates	None
 Les Diplomates aka Mambo Chick & Jean Toussaint	None
-Les FrÃ¨res	kompa
+Les FrÃÂ¨res	kompa
 Les Manchots	None
 Les Mon Treux	None
 Les Points live	None
@@ -6830,7 +6830,7 @@ Les membres	None
 Les petits pilous	techno
 Les voleurs de swing	None
 Lesnicar	None
-LesniÄar	None
+LesniÃÂar	None
 Letabli	None
 LethargyZH	None
 Lettus	None
@@ -6867,8 +6867,8 @@ Lila Hart	techno
 Lilith	spanish punk
 Lilith  NoVus  Amazing Music  Draft	None
 Lilly Palmer	None
+LilÃÂÃÂ´ HÃÂÃÂ´rt	None
 LilÃÂ´ HÃÂ´rt	None
-LilÐ´ HÐ´rt	None
 Lim Giong	None
 Lime	disco
 Limic aka Lio M	None
@@ -6920,15 +6920,15 @@ Little Miss	None
 Little Victor	None
 Littlehouse	None
 Littlehouse rec	None
-Littlehouse showcase  GenÃ¨ve	None
+Littlehouse showcase  GenÃÂ¨ve	None
 Liv Stone	rap
 Live	christian christmas
 Live Act	None
 Live Bands Stage	None
 Live Digitalism  Gus Gus  Lexy & KPaul  The Advent  Dapayk & Padberg  Dusty Kid  Heartthrob  Einzelkind	None
 Live Dread J	None
+Live DÃÂÃÂ¼rerstuben	None
 Live DÃÂ¼rerstuben	None
-Live DÃ¼rerstuben	None
 Live Elekfantz	None
 Live Familie Schweizers Wohnzimmer	None
 Live Gui Boratto	None
@@ -6943,8 +6943,8 @@ Live Suspect One	None
 Live Tape Five	None
 Live The Bullet	None
 Live Umami	None
+Live Visuals by BildstÃÂÃÂ¶rung	None
 Live Visuals by BildstÃÂ¶rung	None
-Live Visuals by BildstÃ¶rung	None
 Live Visuals by Blauton	None
 Live Visuals by DAZZLE	None
 Live areage	None
@@ -6969,8 +6969,8 @@ Local Support	None
 Local support by Audiobox Suspects	None
 Loccomotion	None
 Loccomotion  Argent Sale  CH	None
+Locloise ÃÂÃÂlectro NE	None
 Locloise ÃÂlectro NE	None
-Locloise Ãlectro NE	None
 Loco & Jam	house music
 Loco Dice	techno
 Loco Lita  Basel	None
@@ -7018,12 +7018,12 @@ Lost at	None
 Lou Bellucci	None
 Lou ReedUlrich Krieger	None
 Louh	None
+Louh Punkt  ZÃÂÃÂ¼rich	None
 Louh Punkt  ZÃÂ¼rich	None
-Louh Punkt  ZÃ¼rich	None
 Louie Austen Live	None
 Louie Cut	techno
 Louie Fresco	rock
-Louie LikÃ¶Ã¶r	None
+Louie LikÃÂ¶ÃÂ¶r	None
 Louie Vega	house music
 Louis Brown	None
 Louis De Fumer	None
@@ -7048,7 +7048,7 @@ LowTales	house music
 LowTales & Vanita	house music
 Lowrel & Hardy	None
 Lowris	techno
-LoÃ¯c Sottas	rap
+LoÃÂ¯c Sottas	rap
 Lp	None
 Lu K	None
 Lu K & Dubstep	None
@@ -7056,12 +7056,12 @@ Lu K vsFionom	None
 Lu Siegwart	None
 LuK	estonian pop
 LuLuxpo	disco
-LuLÃºxpo	None
-LuLÃºxpo La ForÃªt	None
+LuLÃÂºxpo	None
+LuLÃÂºxpo La ForÃÂªt	None
+Luc AndrÃÂÃÂÃÂÃÂ©	None
 Luc AndrÃÂÃÂ©	None
 Luc AndrÃÂ©	None
 Luc AndrÃ©	None
-Luc André	None
 Luc G	None
 Luc Gut	None
 Luc Ringeisen	house music
@@ -7094,9 +7094,9 @@ Luca de Grandis	None
 Luca de Grandis aka Der Schuft	None
 Lucalain	None
 Lucas Aliu	techno
+Lucas MonÃÂÃÂÃÂÃÂ¨me	None
 Lucas MonÃÂÃÂ¨me	None
 Lucas MonÃÂ¨me	None
-Lucas MonÃ¨me	None
 Lucas Ramirez	None
 Lucerne	None
 Luciano	operatic pop
@@ -7134,8 +7134,8 @@ Luiz & Winth	None
 Luk	estonian pop
 Luka Torre	None
 Lukas Kleesattel	techno
+Lukas Kleesattel bern zÃÂÃÂ¼ri	None
 Lukas Kleesattel bern zÃÂ¼ri	None
-Lukas Kleesattel bern zÃ¼ri	None
 Lukas Siegwart	None
 Lukas Walker	None
 Lukastel	None
@@ -7172,17 +7172,17 @@ Lydia Sanz	None
 Lynda Phoenix	breakbeat
 Lynx  Hospital  Detail  UK	None
 Lynxbrothers	None
+LÃÂÃÂ© Berger	None
+LÃÂÃÂ©o	None
+LÃÂÃÂ´ & ACDJ	None
+LÃÂUFT	None
 LÃÂ© Berger	None
 LÃÂ©o	None
+LÃÂ©onard de LÃÂ©onard	None
 LÃÂ´ & ACDJ	None
-LÃUFT	None
-LÃ© Berger	None
-LÃ©o	None
+LÃÂ¶wenherz	None
+LÃÂ¼tzenkirchen	techno
 LÃ©onard de LÃ©onard	None
-LÃ´ & ACDJ	None
-LÃ¶wenherz	None
-LÃ¼tzenkirchen	techno
-Léonard de Léonard	None
 MA	trap
 MAD ART	None
 MADE IN SWITZERLAND	None
@@ -7208,7 +7208,7 @@ MANIAK	None
 MANIEZZL	None
 MANNA	None
 MANON	techno
-MANON desolat zÃ¼ri	None
+MANON desolat zÃÂ¼ri	None
 MANS1	None
 MANU	world
 MANUEL VOCK	None
@@ -7245,9 +7245,9 @@ MATT MANIK	None
 MATT SMOOTH	None
 MATT TRIGGS	None
 MATTHEW HALSALL live	None
-MATTHIAS SCHAFFHÃUSER	None
+MATTHIAS SCHAFFHÃÂUSER	None
+MATTIÃÂÃÂ & AVA	None
 MATTIÃÂ & AVA	None
-MATTIÃ & AVA	None
 MAUA	None
 MAUDITE & LE HORLA	None
 MAUREL	house music
@@ -7277,7 +7277,7 @@ MC Fave	None
 MC GQ	None
 MC Honeybrown	None
 MC Jay	None
-MC Ksailev  SekoÃ¯a	None
+MC Ksailev  SekoÃÂ¯a	None
 MC Matt	None
 MC PAPS  Mc  GE	None
 MC Paps	None
@@ -7327,8 +7327,8 @@ MIKE FATAL & NIKA NIKITA	None
 MIKE MUFF	None
 MIKE T	deep pop r&b
 MIKE TEIXIERA	None
+MIKE VÃÂÃÂTH  Gon Records zh	None
 MIKE VÃÂTH  Gon Records zh	None
-MIKE VÃTH  Gon Records zh	None
 MIL WAUKEE	None
 MILK RESIDENTS	None
 MILLIVOLT	None
@@ -7336,8 +7336,8 @@ MINDX meets SNOWMAN  OXA  Harem Records	None
 MINIMAL	None
 MINIMALLOUNGE	techno
 MINITECHHOUSE FLOOR	None
+MIO zÃÂÃÂ¼ri	None
 MIO zÃÂ¼ri	None
-MIO zÃ¼ri	None
 MIRCO CARUSO	hip hop
 MIRCO MENDOSTA	None
 MIRIAM SCHWEIZER	None
@@ -7356,15 +7356,15 @@ MM	banda
 MMM	techno
 MN	None
 MNNSK	None
+MNÃÂÃÂVR	None
 MNÃÂVR	None
-MNÃVR	None
 MOB	hip hop
 MODESTINO	None
 MOHORIZONS	None
 MONEELOVE	None
 MONICA DIAS	None
+MONOTEQUE zÃÂÃÂ¼ri	None
 MONOTEQUE zÃÂ¼ri	None
-MONOTEQUE zÃ¼ri	None
 MONSIEUR JUSTE	None
 MONSIEUR MELANGE b2b KORNY	None
 MONSIEUR P & MADFUNK	None
@@ -7461,11 +7461,11 @@ Main Room	None
 Main Room Ambivalent	None
 Main Stage	None
 Mainfloor	None
+Mainfloor Sven VÃÂÃÂÃÂÃÂ¤th	None
 Mainfloor Sven VÃÂÃÂ¤th	None
 Mainfloor Sven VÃÂ¤th	None
-Mainfloor Sven VÃ¤th	None
 Mainstage	None
-Mainstage BÃ¼rkliplatz presented by Fordt	None
+Mainstage BÃÂ¼rkliplatz presented by Fordt	None
 Maja Ratkje	laboratorio
 Makam	None
 Makau	techno
@@ -7489,7 +7489,7 @@ Maloon TheBoom	None
 Mambo Chick	None
 Man of Tomorrow	None
 Manali Shah	None
-ManarÃ©	techno
+ManarÃÂ©	techno
 Mandar	None
 Mandar aka Lazare Hoche	None
 Mandrax	None
@@ -7509,8 +7509,8 @@ Manojay and many others	None
 Manoletto	None
 Manolo	trap
 Manon	techno
+Manon  Desolat ZÃÂÃÂ¼rich	None
 Manon  Desolat ZÃÂ¼rich	None
-Manon  Desolat ZÃ¼rich	None
 Manon CH	None
 Mantocliff	None
 Mantu	techno
@@ -7572,7 +7572,7 @@ Marcel Warren	None
 Marcel Zeidler	None
 Marcello Carozzi	techno
 Marcellus Pittman	house music
-MarchÃ© sans puces dÃ¨s 16h00	None
+MarchÃÂ© sans puces dÃÂ¨s 16h00	None
 Marcio	None
 Marcism	None
 Marco	tropical
@@ -7764,7 +7764,7 @@ Mathew Square	None
 Mathias & Andreas	None
 Mathias Kaden	techno
 Mathias Mesteno	techno
-Mathias SchaffhÃ¤user	techno
+Mathias SchaffhÃÂ¤user	techno
 Mathieu	None
 Mathieu Barnaby	None
 Mathieu Kubin	None
@@ -7775,8 +7775,8 @@ Matias Aguayo	microhouse
 Matija	None
 Matjia	None
 Matrixxman	house music
+Mats LindstrÃÂÃÂ¶m	None
 Mats LindstrÃÂ¶m	None
-Mats LindstrÃ¶m	None
 Matt Black & Jon More from Coldcut	rap
 Matt Grey	None
 Matt Grey & Cos	None
@@ -7825,7 +7825,7 @@ Mauy	None
 Maverick Renegade	None
 Mavi	None
 Max	pop
-Max AlbÃ n	None
+Max AlbÃÂ n	None
 Max B Grant	hardstyle
 Max Bragantini aka Max B	None
 Max Buchalik	house music
@@ -7898,8 +7898,8 @@ Memnok	techno
 Memoria  Belgium	None
 Mendez & Lombardo	None
 Mendo	house music
+Mensch & MurÃÂÃÂ¤ne	None
 Mensch & MurÃÂ¤ne	None
-Mensch & MurÃ¤ne	None
 Mental Groove	None
 Mental X	None
 MentalX	None
@@ -7931,8 +7931,8 @@ Mexico	cumbia
 MexicoGE	None
 Mi Manos	techno
 MiNa	ye
+MiSÃÂÃÂ¹mo	None
 MiSÃÂ¹mo	None
-MiSÃ¹mo	None
 Mia	electronic rock
 Mia  Tanzkarussell Mulhouse	None
 Mia Kaltes	None
@@ -7940,7 +7940,7 @@ Mia Kaltes  Finefood Records  Switzerland	None
 Mia Kaltes  Finefood rec	None
 Miajica	disco
 Miami Dave	None
-Miami Room Resident Djs Paolo Di MirÃ²	None
+Miami Room Resident Djs Paolo Di MirÃÂ²	None
 Miami Room with Anthony Dandrea	None
 Miau Studio Floor	None
 Mic Drive	None
@@ -7987,7 +7987,7 @@ Mideric	techno
 Midilux	None
 Midnight Operator	hip hop
 Midnight Pulse	disco
-MidÃ©ric	None
+MidÃÂ©ric	None
 Miett	None
 Miguel	pop
 Miguel  Smalltown Collective	None
@@ -8025,9 +8025,9 @@ Mike Teixeira B2B Jan Penarrubia	None
 Mike Teixeira bern	None
 Mike Texeira & Jan Pennarubia	None
 Mike Vamp	None
+Mike VÃÂÃÂ¤th  Audionatica  Dreksler & Haerle  Dub Tales	None
+Mike VÃÂ¤th	None
 Mike VÃÂ¤th  Audionatica  Dreksler & Haerle  Dub Tales	None
-Mike VÃ¤th	None
-Mike VÃ¤th  Audionatica  Dreksler & Haerle  Dub Tales	None
 Mike Wall	disco
 Mike Waulie	None
 Mikee	drum and bass
@@ -8039,7 +8039,7 @@ Milan	None
 Mildred Guy B2B Condor	None
 Milk Klub resident  Geneva	None
 Millivolt	None
-Milo HÃ¤fliger	None
+Milo HÃÂ¤fliger	None
 Milos D	None
 MilosD	None
 Milosz	None
@@ -8084,12 +8084,12 @@ Minton  MinimalFraktion	None
 Minus	screamo
 Minus 8	downtempo
 Mio Martini	disco
-Mio Martini & PepÃ©	rap
+Mio Martini & PepÃÂ©	rap
 Mira	classical
-Mira & Chris SchwarzwÃÂ¤lder	rap
-Mira & Chris SchwarzwÃ¤lder	techno
+Mira & Chris SchwarzwÃÂÃÂ¤lder	rap
+Mira & Chris SchwarzwÃÂ¤lder	techno
 Mira Calix	intelligent dance music
-Mira b2b Chris SchwarzwÃ¤lder	None
+Mira b2b Chris SchwarzwÃÂ¤lder	None
 Mirax	None
 Mirco	house music
 Mirco Caruso	hip hop
@@ -8149,8 +8149,8 @@ Mister Mola	None
 Mister Softy	None
 Mister smoke	None
 Mister smoky	None
+Mit Spezial Acts leider dÃÂÃÂ¼rfen wir die namen noch nicht Publizieren da die Acts auf den Officiellen Streetparade Stages spielen werden und als surprise am abend noch bei uns feiern und auflegen werden	None
 Mit Spezial Acts leider dÃÂ¼rfen wir die namen noch nicht Publizieren da die Acts auf den Officiellen Streetparade Stages spielen werden und als surprise am abend noch bei uns feiern und auflegen werden	None
-Mit Spezial Acts leider dÃ¼rfen wir die namen noch nicht Publizieren da die Acts auf den Officiellen Streetparade Stages spielen werden und als surprise am abend noch bei uns feiern und auflegen werden	None
 Mit dabei sind die talentierten Locals Francesco Parla	None
 Miteinander Musik	None
 Mitika	None
@@ -8178,7 +8178,7 @@ Mobilee	None
 Mobilee  Zurich	None
 Mobilee showcase	None
 Mobylette	None
-Mobylette b2b SoivÃ©	None
+Mobylette b2b SoivÃÂ©	None
 Mode Of Motion	None
 Mode of Motion	None
 Model500 Live	None
@@ -8198,8 +8198,8 @@ Moe&Zard	None
 Moezard	None
 Mohammad	arab pop
 Moinsen	None
+MoirÃÂÃÂ©	None
 MoirÃÂ©	None
-MoirÃ©	None
 Mokic	None
 Mokship	None
 Moldavius	None
@@ -8310,7 +8310,7 @@ Mr Klinger	None
 Mr Mendel	None
 Mr Nilson	None
 Mr Pablo & guests	None
-Mr PeÃ±a	None
+Mr PeÃÂ±a	None
 Mr Pigman	None
 Mr Pigman  Tomorrow is Today  BIENNE	None
 Mr Pnk	None
@@ -8378,24 +8378,24 @@ Myah  CA	None
 Mykki Blanco	fluxwork
 Mylky Way	None
 Mynightlifefm	None
+MÃÂÃÂ¡tyÃÂÃÂ¡s	None
+MÃÂÃÂ¤x Varano	None
+MÃÂÃÂ©diateur Electronics  F	None
+MÃÂÃÂ¶ggli French Kitchen	None
+MÃÂÃÂ¶rk  CH	None
+MÃÂÃÂ¶we	house music
+MÃÂNAGE ÃÂ TROIS	None
 MÃÂ¡tyÃÂ¡s	None
 MÃÂ¤x Varano	None
 MÃÂ©diateur Electronics  F	None
 MÃÂ¶ggli French Kitchen	None
 MÃÂ¶rk  CH	None
 MÃÂ¶we	house music
-MÃNAGE Ã TROIS	None
-MÃ¡tyÃ¡s	None
-MÃ¤x Varano	None
-MÃ©diateur Electronics  F	None
-MÃ¶ggli French Kitchen	None
-MÃ¶rk  CH	None
-MÃ¶we	house music
-MÃ¼nchen	None
+MÃÂ¼nchen	None
 NACA	None
 NADER	techno
+NADER  Party Garantie ZÃÂÃÂ¼rich	None
 NADER  Party Garantie ZÃÂ¼rich	None
-NADER  Party Garantie ZÃ¼rich	None
 NAHSTE ONER  MUSIQ REC	None
 NAHSTER ONER	None
 NAKED PILOTZ LIVE	None
@@ -8432,8 +8432,8 @@ NICOLAS DUVOISIN	disco
 NIGHTSOMMAR	None
 NIK	rock
 NIK & SOULT	None
-NIK BÃÂRTSCH	dark jazz
-NIK BÃRTSCH	fourth world
+NIK BÃÂÃÂRTSCH	dark jazz
+NIK BÃÂRTSCH	fourth world
 NIK FRANKENBER VS JOHN DEPARDY	None
 NIKOLA KOTEVSKI	None
 NILS	modern
@@ -8447,7 +8447,7 @@ NOIR	pop
 NOISE	None
 NOK	hip hop
 NOOMA	None
-NORA DÃSTER	None
+NORA DÃÂSTER	None
 NORBERT DAVENPORT & MGJ	None
 NOVALIMA  afroperuvian	None
 NOX & DADBALLS	None
@@ -8468,7 +8468,7 @@ Naca	None
 Nacha	spanish new wave
 Nachtstrom Schallplatten	None
 Nader	techno
-Nader  Partygarantie ZÃ¼rich	None
+Nader  Partygarantie ZÃÂ¼rich	None
 Nadia aka Becky Slater	None
 Nadja Stoller	None
 Nahoma	None
@@ -8501,8 +8501,8 @@ Nathanael	None
 Nathansbraten	None
 Natis Merio	None
 Naturklang  Zh	None
+Naturklang zurÃÂÃÂ¼ck mitten in der Stadt	None
 Naturklang zurÃÂ¼ck mitten in der Stadt	None
-Naturklang zurÃ¼ck mitten in der Stadt	None
 Naughty Neigbours	None
 Navi Playful	None
 Naxxos	house music
@@ -8542,7 +8542,7 @@ NeoMds	None
 Neon Golden VJ	None
 Neon Indian	electronic rock
 Nervo	house music
-NervÃ¶s	rap
+NervÃÂ¶s	rap
 Nessuno	None
 Neto	regional mexican pop
 Netsky	house music
@@ -8575,15 +8575,15 @@ Nice try records showcase  Zurich	None
 Nici Faerber	hip hop
 Nici Faerber  Miteinander	None
 Nici Faerber & Dani Nydegger	hip hop
+Nici Faerber & Herr MÃÂÃÂ¼ller	hip hop
 Nici Faerber & Herr MÃÂ¼ller	hip hop
-Nici Faerber & Herr MÃ¼ller	hip hop
+Nici Faerber Miteinander Musik  ZÃÂÃÂ¼rich	None
 Nici Faerber Miteinander Musik  ZÃÂ¼rich	None
-Nici Faerber Miteinander Musik  ZÃ¼rich	None
 Nick Curly	house music
 Nick Evans	None
 Nick Frankenberg	None
+Nick HÃÂÃÂ¶ppner	house music
 Nick HÃÂ¶ppner	house music
-Nick HÃ¶ppner	house music
 Nick K	None
 Nick Larson	None
 Nick Nasti	None
@@ -8619,8 +8619,8 @@ Nico Wilde	None
 Nicola Kazimir	disco
 Nicola Kazimir & Audino	rap
 Nicola Kazimir & LOUH  Punkt	rap
+Nicola Kazimir Punkt  ZÃÂÃÂ¼rich	None
 Nicola Kazimir Punkt  ZÃÂ¼rich	None
-Nicola Kazimir Punkt  ZÃ¼rich	None
 Nicola Koch	techno
 Nicola Koch  Amaro  Flavio Calzado  Corpataux  KlangFormer  Pedro Pereira	None
 Nicola Koch b2b Peter Szanto	None
@@ -8631,9 +8631,9 @@ Nicolaj	None
 Nicolas Bernier & Martin Messier	None
 Nicolas Duvoisin	rap
 Nicolas Duvoisin & tsacK	rap
+Nicolas EisbÃÂÃÂÃÂÃÂ¤r	None
 Nicolas EisbÃÂÃÂ¤r	None
 Nicolas EisbÃÂ¤r	None
-Nicolas EisbÃ¤r	None
 Nicolas Haelg	house music
 Nicolas Harver	None
 Nicolas Jehouda	None
@@ -8643,8 +8643,8 @@ Nicolas Ruiz	disco
 Nicole Moudaber	techno
 Nicolike	None
 Nicone	house music
-NiconÃ©	house music
-NiconÃ© & Sascha Braemer	house music
+NiconÃÂ©	house music
+NiconÃÂ© & Sascha Braemer	house music
 Nicos Oldies	None
 Niels	dutch pop
 Niels Hesse	None
@@ -8710,10 +8710,10 @@ Noise	None
 Noisia	drum and bass
 Noiz	dubsteppe
 Nole	None
+NolÃÂÃÂ¨	None
+NolÃÂÃÂ©	None
 NolÃÂ¨	None
 NolÃÂ©	None
-NolÃ¨	None
-NolÃ©	None
 Nomarel	None
 NonSenseCorporation aka Mikall Svender & Alan Lector	None
 Nonchalance	None
@@ -8722,8 +8722,8 @@ Nooncat	None
 Nooncat aka Alex Meshkov	None
 Nora Bora	None
 Norbert Davenport	None
-Norbert MÃÂ¶slang	electroacoustic improvisation
-Norbert MÃ¶slang	lowercase
+Norbert MÃÂÃÂ¶slang	electroacoustic improvisation
+Norbert MÃÂ¶slang	lowercase
 NorbertTo	None
 Norbertto	None
 Nordstern	None
@@ -8740,15 +8740,15 @@ Noromal&Somi	rap
 Norway	rock
 Nos partenaires	None
 Nous	house music
+Nous mettre feu ÃÂÃÂ  Usine On reprend la vieille ÃÂÃÂ©quipe et on rajoute du poivre et du piment dans la vodka Paf  SoirÃÂÃÂ©e bien corsÃÂÃÂ©e en perspective pour les fans de drumnbass avec le rebelle pirate DJ Das	None
 Nous mettre feu ÃÂ  Usine On reprend la vieille ÃÂ©quipe et on rajoute du poivre et du piment dans la vodka Paf  SoirÃÂ©e bien corsÃÂ©e en perspective pour les fans de drumnbass avec le rebelle pirate DJ Das	None
-Nous mettre feu Ã  Usine On reprend la vieille Ã©quipe et on rajoute du poivre et du piment dans la vodka Paf  SoirÃ©e bien corsÃ©e en perspective pour les fans de drumnbass avec le rebelle pirate DJ Das	None
 Nouvelle Vague	downtempo
 Nouwah	None
 Nova Heart live	None
 Nova Materia	None
 Nozinja	None
+NoÃÂÃÂ© Weigl	None
 NoÃÂ© Weigl	None
-NoÃ© Weigl	None
 Nu	kompa
 Nu Audio Collective	None
 Nu Disco ou encore Indie dance	None
@@ -8762,11 +8762,11 @@ Nutek	None
 Nutters	None
 Nuuktal Rec CH	None
 Nybass	None
-NÃÂ´ze	microhouse
-NÃD MIKA	electronic rock
-NÃ TWINS	strut
-NÃ´ze	techno
-Nôze	microhouse
+NÃÂÃÂ´ze	microhouse
+NÃÂD MIKA	electronic rock
+NÃÂ TWINS	strut
+NÃÂ´ze	techno
+NÃ´ze	microhouse
 OASE	None
 OBF Sound System ft Shanti D	None
 OCTAN	None
@@ -8778,11 +8778,11 @@ OHANNA	None
 OHM 10	None
 OLA Rec	None
 OLIVER ADEN & LUIS CRUZ	None
-OLIVER CLICHÃ	None
+OLIVER CLICHÃÂ	None
 OLIVER K	re:techno
 OLIVER M & SMER	None
 OLLIN	None
-OLÎF	techno
+OLÃÂF	techno
 OMAR PERRY  reggae  JAM	None
 ONNO	techno
 ONNO  UponYou	None
@@ -8806,7 +8806,7 @@ Oben Am Berg	None
 Obscene	None
 Obscene  USA	None
 Ockham	None
-Ockham  NeuchÃ¢tel	None
+Ockham  NeuchÃÂ¢tel	None
 Octave	techno
 Octave One	techno
 Octopus  New York	None
@@ -8821,15 +8821,15 @@ Ohm 10	None
 Ohm 10 Biel	None
 Ohm10	None
 Ohrstrom	None
+OjiÃÂÃÂ©	None
 OjiÃÂ©	None
-OjiÃ©	None
 Ok Vancouver Ok	None
 Okain	techno
 Okidor	None
 Okram	None
 Oktay	None
 Oktay  XtraTamed  Lausanne	None
-OkÃ¯n	None
+OkÃÂ¯n	None
 Olafson	techno
 Olafson  MATTHEW SQUARE  Damian Deroma	None
 Olga Kokcharova	None
@@ -8858,10 +8858,10 @@ Oliver van der Miescher	None
 Oliver von Mentlen	None
 Olivier Kolly	disco
 Ollin	None
+OlstrÃÂÃÂ¶m	None
+OlstrÃÂ¯m	None
 OlstrÃÂ¶m	None
-OlstrÃ¯m	None
-OlstrÃ¶m	None
-OlÃ¶f Arnalds	icelandic pop
+OlÃÂ¶f Arnalds	icelandic pop
 Om Unit	uk garage
 Omar	reggaeton
 Omar Souleyman	arab pop
@@ -8884,24 +8884,24 @@ Onory	None
 Onory  Serotonic	None
 Onra	hip hop
 Onur Gokhan Gokcek	None
+Onur ÃÂÃÂzer	techno
+Onur ÃÂÃÂzer COCOON RECORDINGS	None
 Onur ÃÂzer	techno
 Onur ÃÂzer COCOON RECORDINGS	None
-Onur Ãzer	techno
-Onur Ãzer COCOON RECORDINGS	None
-Onur Ãzman	deep
-Onur Ãzur	None
+Onur ÃÂzman	deep
+Onur ÃÂzur	None
 Oo  Plak Records	None
-Openair Sven VÃ¤th	None
+Openair Sven VÃÂ¤th	None
 Opening 2300  0500	None
 Opossumini	None
 Optiv	drum and bass
 Opuswerk	techno
+Opuswerk  techno prÃÂÃÂ©natale	None
 Opuswerk  techno prÃÂ©natale	None
-Opuswerk  techno prÃ©natale	None
 Oracy	house music
 Oram Modular	None
-Oram Modular  12 Club  GenÃ¨ve	None
-Oram Modular  12 Club GenÃ¨ve	None
+Oram Modular  12 Club  GenÃÂ¨ve	None
+Oram Modular  12 Club GenÃÂ¨ve	None
 Oram Modular  Geneve	None
 Orange Dub	None
 OrangeMusic  On The Top	None
@@ -8966,8 +8966,8 @@ PASCAL TOKAR	None
 PASCALLA	None
 PASCI	None
 PASCI  Cheeky Choice	None
+PASCI zÃÂÃÂ¼ri	None
 PASCI zÃÂ¼ri	None
-PASCI zÃ¼ri	None
 PASK	None
 PASSEUR DE DISQUES	None
 PAT A  PROVINZMUSIK	None
@@ -8978,8 +8978,8 @@ PATRIQUE	None
 PAUL BART	rap
 PBecker	None
 PBell	None
+PBell  Christian LÃÂÃÂ¶ffler	None
 PBell  Christian LÃÂ¶ffler	None
-PBell  Christian LÃ¶ffler	None
 PBell & Mitsutek	None
 PBen	None
 PCC	None
@@ -8992,12 +8992,12 @@ PERFORMANCE YUNELLESKA	None
 PERIGOSO & MR PARANOIA	None
 PETER DIGITAL ORCHESTRA live	None
 PETER STOFFEL	None
-PETER STOFFEL GenÃ¨ve	None
+PETER STOFFEL GenÃÂ¨ve	None
 PETER SZANTO  mischkultur	None
 PHIL RISS & ALI C	None
 PHIL ZVIEL & AFTER GRAUER	None
 PHILIP BADER	house music
-PHILLIP INÃBNIT	None
+PHILLIP INÃÂBNIT	None
 PHURPA	None
 PHocto	None
 PIERICK	None
@@ -9061,8 +9061,8 @@ Padded Cell	balearic
 Padrino	None
 Pailette	None
 Painted Palms	indie dream pop
+PajÃÂÃÂ¶rn  2Takt	None
 PajÃÂ¶rn  2Takt	None
-PajÃ¶rn  2Takt	None
 Pakalolo	None
 Pako S	house music
 Palms Out Sounds	None
@@ -9086,7 +9086,7 @@ Panteros666	techno
 Pantha Du Prince	electronic rock
 Pao	techno
 Paolo	pop
-Paolo Di MirÃ²	None
+Paolo Di MirÃÂ²	None
 Paolo Mentonelli	None
 Paolo Montenelli	None
 Paolo Paleologo	disco
@@ -9125,10 +9125,10 @@ Pascal Tokar vs Jerry	None
 Pascal Viscardi	house music
 Pascal Wirz	None
 Pasci	None
+Pasci  Friedas BÃÂÃÂ¼xe extended	None
 Pasci  Friedas BÃÂ¼xe extended	None
-Pasci  Friedas BÃ¼xe extended	None
+Pasci  Sandro KÃÂÃÂ¼hne  Bonny & Clyde  Love Cult	None
 Pasci  Sandro KÃÂ¼hne  Bonny & Clyde  Love Cult	None
-Pasci  Sandro KÃ¼hne  Bonny & Clyde  Love Cult	None
 Pask	None
 Paslesh	None
 Pasquale C Peak	None
@@ -9147,9 +9147,9 @@ Path	screamo
 Patife	None
 Patlac	disco
 Patric la Funk	None
+Patrice BÃÂÃÂÃÂÃÂ¤umel	house music
 Patrice BÃÂÃÂ¤umel	house music
 Patrice BÃÂ¤umel	house music
-Patrice BÃ¤umel	house music
 Patricia Schmusekatze	None
 Patrick	movie tunes
 Patrick Becker	disco
@@ -9189,9 +9189,9 @@ Paul Woolford	house music
 Paula Temple	dub
 Paulette	None
 Paulo	techno
+Paulo CÃÂÃÂ©sar  Strange People	None
+Paulo CÃÂ©sar	brazilian gospel
 Paulo CÃÂ©sar  Strange People	None
-Paulo CÃ©sar	brazilian gospel
-Paulo CÃ©sar  Strange People	None
 Paulo Diaz	None
 Paulo Mota	None
 Paulo Olarte	None
@@ -9230,8 +9230,8 @@ Pentaklon	None
 Pepe Brogna	None
 Pepito Lindo	None
 Pepperpot	techno
-PepÃÂ©	norteno
-PepÃ©	banda
+PepÃÂÃÂ©	norteno
+PepÃÂ©	banda
 Per pagare meno	None
 Perc	techno
 Percussion congas Edwin Sanz	None
@@ -9242,8 +9242,8 @@ Perfos	None
 Peri&Para	None
 Perigoso	None
 Perigoso&MrParanoia  Freakouts Events	None
+Perle der SÃÂÃÂ¼dsee SHEDHALLE Des Wahnsinns Fette Beute	None
 Perle der SÃÂ¼dsee SHEDHALLE Des Wahnsinns Fette Beute	None
-Perle der SÃ¼dsee SHEDHALLE Des Wahnsinns Fette Beute	None
 Perlon	None
 Perlon  Amsterdam	None
 Perlon  Berlin	None
@@ -9325,13 +9325,13 @@ Philipp Rochard	None
 Philipp Strobel	disco
 Philipp Weibel	None
 Philippe	harpsichord
-Philippe Carson interpreted by FranÃ§ois Bonnet	None
+Philippe Carson interpreted by FranÃÂ§ois Bonnet	None
 Philippe Dunst	None
 Philippe Jeanneret	None
 Philippe Petit	techno
 Philippe Petit all night long	None
 Philippe Vilfroy	None
-Phillip InÃ¤bnit	None
+Phillip InÃÂ¤bnit	None
 Phillip Pirreguer	None
 Phillygran	None
 Philosophy	None
@@ -9388,9 +9388,9 @@ Pitch Black	psychill
 Pitch Black  BS	None
 Pixelpunks	None
 Pixelpunx	None
+PiÃÂÃÂ©rick	None
+PiÃÂ¨rick	None
 PiÃÂ©rick	None
-PiÃ¨rick	None
-PiÃ©rick	None
 Placebo GBR	None
 Placid	house music
 Plaid	techno
@@ -9402,7 +9402,7 @@ Plassix	None
 Plastic City Rec	None
 Plastik Funk	house music
 Plastikman	techno
-Plastique de RÃ¨ve	None
+Plastique de RÃÂ¨ve	None
 Platform	None
 Platinum	beats
 Play  Rex Club Paris	None
@@ -9455,8 +9455,8 @@ Portugal	rock
 Posada	classic colombian pop
 Possessedby	None
 Post Scriptum	techno
+Pour celles et ceux qui dÃÂÃÂ©barquent	None
 Pour celles et ceux qui dÃÂ©barquent	None
-Pour celles et ceux qui dÃ©barquent	None
 Pow Low	disco
 PowLow	disco
 Powder & Louder	techno
@@ -9468,7 +9468,7 @@ Praslea	rap
 Praslea arpiar	None
 Praslesh	None
 Praxis Records	None
-Premiere Moby Disc Radio by JÃ¸rg	None
+Premiere Moby Disc Radio by JÃÂ¸rg	None
 Premiesku	house music
 Presales STARTICKET	None
 Press C	None
@@ -9491,9 +9491,9 @@ Prinzessin in Not	None
 Prism	None
 Priss	None
 Private Fiction & Shake It DJTeam	None
+PrivilÃÂÃÂ¨ge Ibiza	None
 PrivilÃÂ¨ge Ibiza	None
-PrivilÃ¨ge Ibiza	None
-PrivÃ©e	None
+PrivÃÂ©e	None
 Procid	None
 Producteur de lombre pour le djs de ibiza	None
 Professor Wouassa	afrobeat
@@ -9524,8 +9524,8 @@ Proudly People	techno
 Proximo	None
 Prurient	industrial music
 Pryus & Psyon	None
+PrÃÂÃÂ©locations sur ÃÂÃÂ  Sounds Records	None
 PrÃÂ©locations sur ÃÂ  Sounds Records	None
-PrÃ©locations sur Ã  Sounds Records	None
 PsYnesS	None
 Psy Jes	None
 PsyPiggy	None
@@ -9561,13 +9561,13 @@ Pushkin Noize	None
 Putah Wild	None
 Pye Corner Audio	house music
 Pyramides de Vidy	None
+PÃÂÃÂ¤ge	house music
+PÃÂÃÂ¤r Grindvik	dub
+PÃÂÃÂºrpura	None
+PÃÂ¤de	musique concrete
 PÃÂ¤ge	house music
 PÃÂ¤r Grindvik	dub
 PÃÂºrpura	None
-PÃ¤de	musique concrete
-PÃ¤ge	house music
-PÃ¤r Grindvik	dub
-PÃºrpura	None
 Q&A with Bruno W	None
 QBig  Elevation Music	None
 QBig & Zenith B	None
@@ -9634,11 +9634,11 @@ RINGO MOON	None
 RINGO MOON  LIMMATBEATZCH	None
 RINO	rap
 RINO  Cityfox	None
+RINO  Cityfox ZÃÂÃÂ¼rich	None
 RINO  Cityfox ZÃÂ¼rich	None
-RINO  Cityfox ZÃ¼rich	None
-RINO cityfox zÃ¼ri	None
+RINO cityfox zÃÂ¼ri	None
+RINO zÃÂÃÂ¼ri	None
 RINO zÃÂ¼ri	None
-RINO zÃ¼ri	None
 RIVE MAGENTA & FRIENDS	None
 RIZZOKNOR live	None
 RJR	None
@@ -9668,9 +9668,9 @@ RUMORY	None
 RZone	None
 Raban	None
 Rabih Beaini	mandible
+RabrÃÂÃÂ©	None
 RabrÃÂ©	None
-RabrÃ©	None
-RabrÃ© & Les Petits Chats	None
+RabrÃÂ© & Les Petits Chats	None
 Racker	None
 Radi & Keith	None
 Radi Tabasco	None
@@ -9700,8 +9700,8 @@ Raijn Reed	None
 Raime	drone
 Rainer	techno
 Rainer Desolat  Barcelone	None
+Rainer TrÃÂÃÂ¼by	None
 Rainer TrÃÂ¼by	None
-Rainer TrÃ¼by	None
 Rainer Weichhold	house music
 Rainer Zufall b2b Streichholz	None
 Raise	None
@@ -9713,7 +9713,7 @@ Ralph Good	techno
 Ralph Sliwinski	techno
 Ramady feat ManuL	None
 Ramin	scorecore
-Ramin  WuzztÃ¤zz	None
+Ramin  WuzztÃÂ¤zz	None
 Ramiro Lopez	techno
 Ramon Lorenzo	None
 Ramon Tapia	house music
@@ -9721,8 +9721,8 @@ Ramon vs Mercury Fall	None
 Rampa	deep
 Rampue	deep
 Ramy Res	None
+RamÃÂÃÂ³n	grupera
 RamÃÂ³n	grupera
-RamÃ³n	grupera
 Ran Salman	techno
 Randall M	None
 Randall M tINI & the gang  Orlando	None
@@ -9736,7 +9736,7 @@ Raphael Dincsoy	techno
 Raphael Prest	None
 Raphael Raban	None
 Raphaello	None
-RaphaÃ«l Belfiore	None
+RaphaÃÂ«l Belfiore	None
 Rapu	None
 Rapu & Nekow	None
 Rapu & Nekow PRISMA Music  Zug	None
@@ -9802,7 +9802,7 @@ Reklok	None
 Reklok live	None
 Reloading	None
 Reloading rec	None
-RelÃ¢che	None
+RelÃÂ¢che	None
 Remady & ManuL	None
 RemarK	None
 Remote Area	None
@@ -9815,15 +9815,15 @@ Rene LaVice	drum and bass
 Rene Lahar	None
 Rene S	None
 Rennie Royma & Kare Kyl	None
+Rennie Royma & KÃÂÃÂ¤re Kyl	None
 Rennie Royma & KÃÂ¤re Kyl	None
-Rennie Royma & KÃ¤re Kyl	None
+Rennie RÃÂÃÂ¸yma	None
+Rennie RÃÂÃÂ¸yma & KÃÂÃÂ¥re Kyl	None
 Rennie RÃÂ¸yma	None
 Rennie RÃÂ¸yma & KÃÂ¥re Kyl	None
-Rennie RÃ¸yma	None
-Rennie RÃ¸yma & KÃ¥re Kyl	None
+RenÃÂÃÂ¨ S	None
+RenÃÂ¨	grupera
 RenÃÂ¨ S	None
-RenÃ¨	grupera
-RenÃ¨ S	None
 Repos & Gabriel Stampfli	None
 Reset Robot	techno
 Resident  De La Porter  Skorpionkinder Records  Cube Resident	None
@@ -9895,11 +9895,11 @@ Rina Lou	None
 Rinaldo Makaj	rap
 Ringo Moon	None
 Rino	rap
+Rino  Cityfox ZÃÂÃÂ¼rich	None
 Rino  Cityfox ZÃÂ¼rich	None
-Rino  Cityfox ZÃ¼rich	None
 Rino  Marco Jefferson  Jon Donson  Baroz  Hanz Beater	None
+Rino Cityfox  ZÃÂÃÂ¼rich	None
 Rino Cityfox  ZÃÂ¼rich	None
-Rino Cityfox  ZÃ¼rich	None
 Rino Jay	None
 Rio Wolta	None
 Riot School	None
@@ -9911,20 +9911,20 @@ Ripperton	soul
 Ripperton b2b Deetron	None
 Riton	house music
 Ritter Butzke  Berlin	None
+River Ist BÃÂÃÂ¶se	None
+River Ist BÃÂÃÂ¶se  Afterhour	None
+River Ist BÃÂÃÂ¶se  Amnesia	None
+River Ist BÃÂÃÂ¶se  Requiem	None
 River Ist BÃÂ¶se	None
 River Ist BÃÂ¶se  Afterhour	None
 River Ist BÃÂ¶se  Amnesia	None
 River Ist BÃÂ¶se  Requiem	None
-River Ist BÃ¶se	None
-River Ist BÃ¶se  Afterhour	None
-River Ist BÃ¶se  Amnesia	None
-River Ist BÃ¶se  Requiem	None
 River Ist Lieb	None
-River ist BÃ¶se	None
-River ist bÃ¶se	None
+River ist BÃÂ¶se	None
+River ist bÃÂ¶se	None
 Rize	bluegrass
-Rize  ChocolaKe  NeuchÃ¢tel	None
-Rize  NeuchÃ¢tel	None
+Rize  ChocolaKe  NeuchÃÂ¢tel	None
+Rize  NeuchÃÂ¢tel	None
 Rizzoknor	None
 Rizzoknor live	None
 Ro	rap
@@ -9976,8 +9976,8 @@ Rodrigo Rivera	disco
 Rodrigo y Gabriela	flamenco
 Rodriguez Jr	techno
 Roger M vs Sytec	None
+Roger MÃÂÃÂ¼ller	None
 Roger MÃÂ¼ller	None
-Roger MÃ¼ller	None
 Roger Sanchez	house music
 Roger Torroni	None
 Roger the Doger	None
@@ -9996,7 +9996,7 @@ Rollin John  Divercity  Zurich	None
 Rom Beads	None
 Romain Play	None
 Roman	None
-Roman FlÃ¼gel	house music
+Roman FlÃÂ¼gel	house music
 Roman Klinger	None
 Roman Klinger b2b Murciano	None
 Roman Leonardi	None
@@ -10071,7 +10071,7 @@ Rumory AKTIONSHALLE Wighnomy Brothers	None
 Rumpeldisco	None
 Rumpistol	electronica
 Rumpltanz	None
-RumÃ¤nien	None
+RumÃÂ¤nien	None
 Running Back	None
 Rusconi	None
 Ruslan Mays TOUCHED PHOBIQ RECORDSKAZANTIP KISS FM	None
@@ -10094,20 +10094,20 @@ Ryan Sullivan	techno
 Rynecologist	techno
 Ryoji Ikeda	idm
 Ryuko	None
+RÃÂÃÂ¦ve	house music
+RÃÂÃÂ¯msN	None
+RÃÂÃÂ¶msN	None
+RÃÂÃÂ¸dhÃÂÃÂ¥d	techno
 RÃÂ¦ve	house music
 RÃÂ¯msN	None
 RÃÂ¶msN	None
 RÃÂ¸dhÃÂ¥d	techno
-RÃ¦ve	house music
-RÃ¯msN	None
-RÃ¶msN	None
-RÃ¸dhÃ¥d	techno
-RÃ¼ssel & Pfeffer	None
-RÃ¼ssel & Pfeffer  WORLD PREMIER	None
+RÃÂ¼ssel & Pfeffer	None
+RÃÂ¼ssel & Pfeffer  WORLD PREMIER	None
 S	pop
 S 233 direzione Malnate	None
+S A M & Malin GÃÂÃÂ©nie	None
 S A M & Malin GÃÂ©nie	None
-S A M & Malin GÃ©nie	None
 S Rubinfeld Live Act & Vinyl only	None
 S S S S	pop
 S S S S  Four S	None
@@ -10122,9 +10122,9 @@ SAM GENIOUS	None
 SAMEDI 14 AVRIL	None
 SANKEYS STAGE Davide Squillace	None
 SANKT	dark jazz
+SASDelÃÂÃÂÃÂÃÂ©montCH	None
 SASDelÃÂÃÂ©montCH	None
 SASDelÃÂ©montCH	None
-SASDelÃ©montCH	None
 SAT 5t	None
 SATINO	None
 SATURDAY NIGHT	None
@@ -10160,7 +10160,7 @@ SEXOMODULAR	None
 SHABBA luzern	None
 SHADED	techno
 SHAKA	banda
-SHAKE & DANCE PARTY  Bronx Bar Ittigen mit den ChartstÃ¼rmer FLAVA&STEVENSON	None
+SHAKE & DANCE PARTY  Bronx Bar Ittigen mit den ChartstÃÂ¼rmer FLAVA&STEVENSON	None
 SHAKE IT MASCHINE & MR PIGMAN	None
 SHAKE YOUR BODY	None
 SHE NIONIKA	None
@@ -10182,7 +10182,7 @@ SK Supreme  Zurich	None
 SKAI	disco
 SKANKIN SOCIETY  GE	None
 SKOR FEAT SNOOPY OVER THE HILLS	None
-SKRYPTÃM  PARIS FR	None
+SKRYPTÃÂM  PARIS FR	None
 SKY JANSSEN anymany zurich	None
 SKay	None
 SLOW BURGER	None
@@ -10231,7 +10231,7 @@ SRANGE	None
 SRubinfeld	None
 SSDSS	None
 SSSS	disco
-ST LÃ	techno
+ST LÃÂ	techno
 STAGGA	uk garage
 STAVA	None
 STEFAN BINIAK	None
@@ -10272,10 +10272,10 @@ SYMBIZ live	None
 SYMPHONIX	techno
 SYNTHETIK CHAOS	None
 Sa	None
+Sa 19 mÃÂÃÂÃÂÃÂ¤rz 2011	None
 Sa 19 mÃÂÃÂ¤rz 2011	None
 Sa 19 mÃÂ¤rz 2011	None
 Sa 19 mÃ¤rz 2011	None
-Sa 19 märz 2011	None
 Sa 2609 1200  100	None
 Saalschutz	german indie
 Sabb	techno
@@ -10298,7 +10298,7 @@ Sakrou200b	None
 Salar	persian pop
 Salento	None
 Salida Basel	None
-Salida ZÃ¼rich	None
+Salida ZÃÂ¼rich	None
 Salidamusic	None
 Salon	rock
 Saltaux	None
@@ -10309,8 +10309,8 @@ Salz & Pfeffer	None
 Salz&Pfeffer	None
 Salzburg	None
 Salzunpepper	None
+SalzuÃÂÃÂnPepper	None
 SalzuÃÂnPepper	None
-SalzuÃnPepper	None
 Sam	country
 Sam Bangura Half Baked	None
 Sam Binga	hip hop
@@ -10371,12 +10371,12 @@ Sandro Falletta  Colludo rec  Salidamusic	None
 Sandro Falletta & Dalibox	techno
 Sandro Kuhne	None
 Sandro Kuhne Official	None
+Sandro KÃÂÃÂÃÂÃÂ¼hne	None
+Sandro KÃÂÃÂÃÂÃÂ¼hne b2b Marco Trinkler	None
 Sandro KÃÂÃÂ¼hne	None
 Sandro KÃÂÃÂ¼hne b2b Marco Trinkler	None
 Sandro KÃÂ¼hne	None
 Sandro KÃÂ¼hne b2b Marco Trinkler	None
-Sandro KÃ¼hne	None
-Sandro KÃ¼hne b2b Marco Trinkler	None
 Sandro Sincero	None
 Sandro Vitalini	None
 Sandro ZH	None
@@ -10396,10 +10396,10 @@ Santoro&Blair	None
 Santoros	rock
 Santos Resiak	techno
 Santosh Khan	disco
+SantÃÂÃÂ¨	deep
+SantÃÂÃÂ©	deep
 SantÃÂ¨	deep
 SantÃÂ©	deep
-SantÃ¨	deep
-SantÃ©	deep
 Sany Sanderson	None
 Sarah	pop
 Sarah Main	house music
@@ -10411,8 +10411,8 @@ Sari	musica para ninos
 Sarna	techno
 Sasch BBC	hip hop
 Sascha Braemer	house music
+Sascha Braemer & NiconÃÂÃÂ©	house music
 Sascha Braemer & NiconÃÂ©	house music
-Sascha Braemer & NiconÃ©	house music
 Sascha Cawa	house music
 Sascha Cigrovski	None
 Sascha Dive	techno
@@ -10470,8 +10470,8 @@ Schlechter Einfluss	None
 Schlepp Geist Live	None
 Schmerol	None
 Schmerol & Andreas Ramos	None
+Schmerol Baked  ZÃÂÃÂ¼rich	None
 Schmerol Baked  ZÃÂ¼rich	None
-Schmerol Baked  ZÃ¼rich	None
 Schmitz	None
 Schmolke7	None
 Schnautzi	None
@@ -10501,8 +10501,8 @@ Scratch Bandits Crew	electro music
 Scream	trap
 Scuba	uk garage
 Scum	horrorcore
+ScÃÂÃÂ¨ne du Casino	None
 ScÃÂ¨ne du Casino	None
-ScÃ¨ne du Casino	None
 Sdanke	None
 Sdanke & Style	None
 Seamus Haji	house music
@@ -10549,7 +10549,7 @@ Sedzed b2b El Alusinante	None
 Seidensticker & Salour	None
 Seiji	orchestral
 Seiji  London	None
-SekoÃ¯a	None
+SekoÃÂ¯a	None
 Selador	None
 Selim & Armin	None
 Selim&Armin	None
@@ -10572,7 +10572,7 @@ Sepp	disco
 Septentrio & Askemwhy	None
 Sequenzheer	None
 Serafin	opera
-Serafin cadenza zÃ¼rich	None
+Serafin cadenza zÃÂ¼rich	None
 Serafino	None
 Seranthony	None
 Sercan Demir aka Seco	None
@@ -10683,7 +10683,7 @@ Signori Misteriosi	None
 Sil B	None
 Silat Beksi	None
 Silencio	rock
-Silencio  GenÃ¨ve	None
+Silencio  GenÃÂ¨ve	None
 Silent Neighbors	None
 Silent Rabbit	None
 Silky Raven	None
@@ -10740,7 +10740,7 @@ Sinneswandel	None
 Sinneswandel  Berlin	None
 Sinneswandel  ZH	None
 Sins	None
-Sins  WF  GenÃ¨ve	None
+Sins  WF  GenÃÂ¨ve	None
 Sins  WFmusik	None
 Sins  wfmusik	None
 Sins & Temiri	rap
@@ -10762,9 +10762,9 @@ Size	drum and bass
 Skail Master M	techno
 Skankin Lion Tribe	None
 Skaos	ska
+SkatebÃÂÃÂÃÂÃÂ¥rd	balearic
 SkatebÃÂÃÂ¥rd	balearic
 SkatebÃÂ¥rd	balearic
-SkatebÃ¥rd	balearic
 Skiing	None
 Skinner	None
 Skinnerbox	ska
@@ -10827,15 +10827,15 @@ Soft Metals	grave wave
 Soft b2b Mister Desolation	None
 Softy	None
 Sofus Forsberg	rap
+SoivÃÂÃÂ©	None
 SoivÃÂ©	None
-SoivÃ©	None
 Solaris	rock
 Solee	techno
 Soleyu	None
 Solid	None
 Soliman	techno
 Soloduo	classical guitar
-Soloduo  WuzztÃ¤zz	None
+Soloduo  WuzztÃÂ¤zz	None
 Solomun	house music
 Solomunu2028	None
 Solothurn	None
@@ -10857,7 +10857,7 @@ Sonica	rock
 Sonidy	None
 Sonik	None
 Sonja Moonear	None
-Sonja Moonear  Perlon  GenÃ¨ve	None
+Sonja Moonear  Perlon  GenÃÂ¨ve	None
 Sonja Moonear  karat  switzerland	None
 Sonja Moonearu2028	None
 Sonntag 08042012	None
@@ -11007,8 +11007,8 @@ Steeve March	disco
 Stefan Biniak	None
 Stefan Goldmann	techno
 Stefan Nolic	None
+Stefan Nolic Naturklang  ZÃÂÃÂ¼rich	None
 Stefan Nolic Naturklang  ZÃÂ¼rich	None
-Stefan Nolic Naturklang  ZÃ¼rich	None
 Stefan Roigk	None
 Stefano	ambient
 Stefano Di Miceli	None
@@ -11035,7 +11035,7 @@ Stephan Bodzin	techno
 Stephan Grieder	None
 Stephane Jusserand Alfonso Reyes	None
 Stephane Lando	house music
-Stephen BeauprÃ©	None
+Stephen BeauprÃÂ©	None
 Stephen Bodzin	None
 Stephen OMalley	None
 Stereo Express	house music
@@ -11087,9 +11087,9 @@ Stimming	techno
 Stimulus	None
 Stino Stallone	None
 Stipe	rap
+StipÃÂÃÂ©	None
 StipÃÂ©	None
 StipÃ©	None
-Stipé	None
 Stockholm  SE	None
 Stof Terrier	None
 Stoga	None
@@ -11100,8 +11100,8 @@ Stony Ahead & Soe	None
 Stony Ahead & SortE	None
 Storlon	None
 Storm	environmental
+Strahlemann & TÃÂÃÂ¶ne	None
 Strahlemann & TÃÂ¶ne	None
-Strahlemann & TÃ¶ne	None
 Strange Loving	None
 Strassenmajor	None
 Stratos	house music
@@ -11133,8 +11133,8 @@ Styro	None
 Styro 2000	None
 Styro2000	None
 Styx Recordings  UK	None
-StÃ©phane Attias	breakbeat
-SuCrÃ© SaLÃ©	None
+StÃÂ©phane Attias	breakbeat
+SuCrÃÂ© SaLÃÂ©	None
 SuMan & Placebo	house music
 Suara	otacore
 Sub Bros	None
@@ -11225,10 +11225,10 @@ Sven Ninneman	None
 Sven Schaller	techno
 Sven Tasnadi	house music
 Sven The Freak	None
+Sven VÃÂÃÂ¤th	techno
 Sven VÃÂ¤th	techno
+Sven VÃÂ¤thu2028	None
 Sven VÃ¤th	techno
-Sven VÃ¤thu2028	None
-Sven Väth	techno
 Sven Wegner	disco
 Sven Weisemann	techno
 Sven Wittekind	schranz
@@ -11275,14 +11275,14 @@ System Of Survival	house music
 System RecSUI	None
 Systematic	grunge pop
 Systematic  PARIS	None
+SÃÂÃÂ¶ren Klanken	None
+SÃÂS Gunver Ryberg	None
+SÃÂ©bastien LÃÂ©ger	None
 SÃÂ¶ren Klanken	None
-SÃS Gunver Ryberg	None
-SÃ©bastien LÃ©ger	None
-SÃ¶ren Klanken	None
 T Raumschmiere	hip hop
+T Raumschmiere  WÃÂÃÂÃÂÃÂKS  HERR LIEBE  BADBEAT	None
 T Raumschmiere  WÃÂÃÂKS  HERR LIEBE  BADBEAT	None
 T Raumschmiere  WÃÂKS  HERR LIEBE  BADBEAT	None
-T Raumschmiere  WÃKS  HERR LIEBE  BADBEAT	None
 T Williams	None
 T0DO	None
 T4L	None
@@ -11352,8 +11352,8 @@ TMSV	uk garage
 TNT	None
 TOASTY	bass music
 TOBI DREIPOL	None
+TOBIAS BIENZ KostÃÂÃÂ¼m & Ausstattung HENRIETTE HERM Musik DJ Ray CITO Video & Visuals BENJAMIN BURGER Kommunikation KAJA EGGENSCHWILER	None
 TOBIAS BIENZ KostÃÂ¼m & Ausstattung HENRIETTE HERM Musik DJ Ray CITO Video & Visuals BENJAMIN BURGER Kommunikation KAJA EGGENSCHWILER	None
-TOBIAS BIENZ KostÃ¼m & Ausstattung HENRIETTE HERM Musik DJ Ray CITO Video & Visuals BENJAMIN BURGER Kommunikation KAJA EGGENSCHWILER	None
 TOILET ACOUSTIC	None
 TOLYA SUHAR NOVOTECHKAZANTIPKISS FMUA	None
 TOM BLAKE	None
@@ -11396,10 +11396,10 @@ Tadeo Doberska bern	None
 Tadeo Toberska	None
 Tagedeep	None
 Tagtra3umer	None
+TagtrÃÂÃÂ¤umerÃÂÃÂ²	None
+TagtrÃÂÃÂ¤umerÃÂÃÂ² BlackFoxMusic  Schallbox Records  Berlin	None
 TagtrÃÂ¤umerÃÂ²	None
 TagtrÃÂ¤umerÃÂ² BlackFoxMusic  Schallbox Records  Berlin	None
-TagtrÃ¤umerÂ²	None
-TagtrÃ¤umerÂ² BlackFoxMusic  Schallbox Records  Berlin	None
 Taiki Nulight	doujin
 Takcom	None
 Take Me Home	None
@@ -11425,10 +11425,10 @@ Tanua Neopren Records  Mexico	None
 Tanz  Tanz	techno
 TanzTanz	techno
 Tanzamt	None
+TanzbÃÂÃÂ¤r	None
+TanzbÃÂÃÂ¤ren	None
 TanzbÃÂ¤r	None
 TanzbÃÂ¤ren	None
-TanzbÃ¤r	None
-TanzbÃ¤ren	None
 Tanzkarussell	None
 Tanzmuster	None
 Tanzstube mit Mad Katz Techno	None
@@ -11443,7 +11443,7 @@ Tarab	lowercase
 Tarco	None
 Tardis Labelnight	None
 Tarik	rap
-Tarotkarten legen mit SeÃ±or Deckshark aka JÃ¡nos	None
+Tarotkarten legen mit SeÃÂ±or Deckshark aka JÃÂ¡nos	None
 Tarpon	None
 Tashi Luis	disco
 Tashi Noir	None
@@ -11547,8 +11547,8 @@ The Chosen Two	house music
 The Chronics	None
 The Circle Corner	None
 The Club	None
+The Club by Point Bar et TFT Events prÃÂÃÂ©sentent	None
 The Club by Point Bar et TFT Events prÃÂ©sentent	None
-The Club by Point Bar et TFT Events prÃ©sentent	None
 The Coup	hip hop
 The Cruzaders	rap
 The Cruzaderss	None
@@ -11755,7 +11755,7 @@ Titonton Duvante	techno
 Titto La Rocka	None
 Titto la Rocka	None
 Tive	house music
-TiÃ«sto	house music
+TiÃÂ«sto	house music
 To Be	None
 ToBe	None
 Toast Terry	None
@@ -11785,7 +11785,7 @@ Tokoloten	None
 Tokyo	electronic rock
 Tokyo JP	None
 Tolga Fidan	techno
-Tolga KÃ©z	None
+Tolga KÃÂ©z	None
 TolisQ	house music
 Tom & Cherry	None
 Tom Alemanno	rap
@@ -11898,13 +11898,13 @@ Traumtief	None
 Tre Rose	None
 Tre Rose Bros	None
 Treatyourdjright	None
-Treffpunkt Parkplatz SchÃ¼tzenmatte	None
+Treffpunkt Parkplatz SchÃÂ¼tzenmatte	None
 Treibstoff	None
 Tremendo	house music
 Tremendo  Glam  Whats House  SO	None
 Tremendo  Mad Attitude	None
 Trentemoller	electronic rock
-TrentemÃ¸ller	electronic rock
+TrentemÃÂ¸ller	electronic rock
 Trenton	None
 Tresor	None
 Tresor foreplay Berlin	None
@@ -11938,8 +11938,8 @@ Troy Pierceu200b	None
 Truce	None
 Truci  Relogical Rec & Define Rec  ITA	None
 True	None
+Truedat & AlÃÂÃÂ¦	None
 Truedat & AlÃÂ¦	None
-Truedat & AlÃ¦	None
 Truncate	techno
 Trunkline	techno
 Truss	dub
@@ -11979,14 +11979,14 @@ Twoets	None
 Tyie  237 Family  Lausanne	None
 Tyrone B Nelson	hip hop
 Tzinah Records	None
+TÃÂÃÂ¼rÃÂÃÂ¶ffnung	None
 TÃÂ¼rÃÂ¶ffnung	None
-TÃ¼rÃ¶ffnung	None
 UA	rap
 UBIK Sound System	None
 UFORIK	None
 UFREQS	None
+UG BÃÂÃÂ¼lach ZH	None
 UG BÃÂ¼lach ZH	None
-UG BÃ¼lach ZH	None
 UK	zapstep
 UKIce	None
 UMUT	None
@@ -11999,8 +11999,8 @@ US	pop
 USA	None
 UVB	dub
 Ubik	idm
+Uebel & GefÃÂÃÂ¤hrlich  Hamburg	None
 Uebel & GefÃÂ¤hrlich  Hamburg	None
-Uebel & GefÃ¤hrlich  Hamburg	None
 Ueno Masaaki	None
 Uffie & Feadz	rap
 Ugly Kids	None
@@ -12008,8 +12008,8 @@ Uglyfunker	None
 Uhuruku	None
 Ulli & Maesoo	None
 Ulrich Schnauss	post-disco
+Ultra PlanÃÂÃÂ¨te	None
 Ultra PlanÃÂ¨te	None
-Ultra PlanÃ¨te	None
 Umami	house music
 Umbe Nalle	None
 Umberto	None
@@ -12130,8 +12130,8 @@ Vakant	None
 Valance Drakes	idm
 Valentin	cumbia
 Valentin Boesch	None
-Valentin BÃ¶sch	None
-Valentin BÃ¶sch & Jan Meier  The Company	None
+Valentin BÃÂ¶sch	None
+Valentin BÃÂ¶sch & Jan Meier  The Company	None
 Valentin Jahn	None
 Valentino	hip hop
 Valentino Kanzyani	techno
@@ -12139,8 +12139,8 @@ Valentino Mora	None
 Valerio Raponi	house music
 Valeron	hip hop
 Valetino	None
+Valgeir SigurÃÂÃÂ°sson  Paul Corley  Nadia Sirota  Liam Byrne	None
 Valgeir SigurÃÂ°sson  Paul Corley  Nadia Sirota  Liam Byrne	None
-Valgeir SigurÃ°sson  Paul Corley  Nadia Sirota  Liam Byrne	None
 Valico autostradale di ChiassoBrogeda	None
 Valo	None
 Vamos Art	house music
@@ -12184,7 +12184,7 @@ Vera	deep australian indie
 Vera Perlon  Berlin	None
 Verliebt in Musik	None
 Veronika D	None
-Versace PrivÃ¨ Locic	None
+Versace PrivÃÂ¨ Locic	None
 Vertoner	None
 Verveine	None
 Vessel	deep indie r&b
@@ -12199,15 +12199,15 @@ Victoria Engel	disco
 Vid aka Egal3	None
 Videsad	None
 Vielfarbig	None
-Viens taper du pied sur des rythmes Ã©lectro et rÃ©galer tes oreilles de sonoritÃ©s nouvelles Entre techno et house	None
+Viens taper du pied sur des rythmes ÃÂ©lectro et rÃÂ©galer tes oreilles de sonoritÃÂ©s nouvelles Entre techno et house	None
 Viera	deep regional mexican
 Vijen Arman	None
 Viken Arman	deep
 Viking Music	None
 Viktor Marek	None
 Villa Bosso	hip hop
+Villa Bosso & Douglas AndrÃÂÃÂ©	hip hop
 Villa Bosso & Douglas AndrÃÂ©	hip hop
-Villa Bosso & Douglas AndrÃ©	hip hop
 Vinc Vega	None
 Vince	christmas
 Vince & DJ Mile	disco
@@ -12271,7 +12271,7 @@ Visuels Rocco S	None
 Visuels et performances	None
 Visuels par FRANZ KARL	None
 Visuels par sophie le meillour	None
-VisÃ¢ge Pale	None
+VisÃÂ¢ge Pale	None
 Vitalic	electronic rock
 Vitek	None
 Vitek  Happy Bday	None
@@ -12365,8 +12365,8 @@ Walter Wolf	None
 Wandervogel	None
 Wandler	techno
 Wandler  Cityfox	None
+Wandler  Cityfox ZÃÂÃÂ¼rich	None
 Wandler  Cityfox ZÃÂ¼rich	None
-Wandler  Cityfox ZÃ¼rich	None
 Wandler  MOTOGUZZI	None
 Wandler & Styro2000	techno
 Wankala	rap
@@ -12384,7 +12384,7 @@ Watergate	bubble trance
 Watergate  Switzerland	None
 Watergate Records	None
 Waterkant Souvenirs	None
-WatermÃ¤t	house music
+WatermÃÂ¤t	house music
 Waveform	ambient
 Wavi	None
 Wax de Molf	None
@@ -12443,12 +12443,12 @@ William Wood	None
 Willie Burns	house music
 Willie Graff	None
 Willow	pop
-Winkel  VintageMÃ¶bel	None
+Winkel  VintageMÃÂ¶bel	None
 Winner DJ Battle	None
 Winter in Deutschland	None
 Wirrwarr	rock
+Wittwe Meier & DÃÂÃÂ¶rte	None
 Wittwe Meier & DÃÂ¶rte	None
-Wittwe Meier & DÃ¶rte	None
 Witwe Meier	None
 Witxes	techno
 Wla Garcia	techno
@@ -12457,13 +12457,13 @@ Wobham LIVE	None
 Wohnzimmer	None
 Wolf  Lamb	hip hop
 Wolf Eyes	experimental
+Wolf MÃÂÃÂ¼ller	None
 Wolf MÃÂ¼ller	None
 Wolf MÃ¼ller	None
-Wolf Müller	None
 WolfLamb	hip hop
+Wolfgang Voigt presents RÃÂÃÂÃÂÃÂ¼ckverzauberung	None
 Wolfgang Voigt presents RÃÂÃÂ¼ckverzauberung	None
 Wolfgang Voigt presents RÃÂ¼ckverzauberung	None
-Wolfgang Voigt presents RÃ¼ckverzauberung	None
 Wolfskind	None
 Wonnow	None
 Woody	blues
@@ -12475,17 +12475,17 @@ World Wide Connects  GE	None
 Wunderbaum	None
 Wunschkinder	None
 Wuzz TazZ Boys	None
+Wuzz TÃÂÃÂÃÂÃÂ¤zz Universal	None
+Wuzz TÃÂÃÂ¤zz Boyz	None
 Wuzz TÃÂÃÂ¤zz Universal	None
+Wuzz TÃÂ¤zz Boys	None
 Wuzz TÃÂ¤zz Boyz	None
 Wuzz TÃÂ¤zz Universal	None
-Wuzz TÃ¤zz Boys	None
-Wuzz TÃ¤zz Boyz	None
 Wuzz TÃ¤zz Universal	None
-Wuzz Täzz Universal	None
 WuzzTazzClan	None
-WuzzTÃ¤zZ Boys	None
+WuzzTÃÂ¤zZ Boys	None
 Wyla	hip hop
-WÃV	None
+WÃÂV	None
 X BADKLAAT	None
 X DUBDAVE	None
 X MRPIGMAN	None
@@ -12501,8 +12501,8 @@ XV Kilist & Rocco	None
 XV Killist & Rocco	None
 XYconstant	house music
 Xander Valley	None
+Xavier QuÃÂÃÂ©rel	None
 Xavier QuÃÂ©rel	None
-Xavier QuÃ©rel	None
 Xela	electronica
 Xenia Beliayeva	None
 Xeno	electronic rock
@@ -12538,11 +12538,11 @@ Yann Kulovsky	None
 Yann Ou	None
 Yann Stricker & Juan Baeza	None
 Yannick Barman	None
+Yannick MÃÂÃÂ¼ller	None
 Yannick MÃÂ¼ller	None
-Yannick MÃ¼ller	None
 Yannick Robyns	None
 Yannik Cserhati	None
-Yannik MÃ¼ller	None
+Yannik MÃÂ¼ller	None
 Yapacc	techno
 Yarah Bravo	None
 Yare	None
@@ -12551,8 +12551,8 @@ Yass	japanese city pop
 Yasunao Tone	lowercase
 Yaya	techno
 Yesin	disco
+Yetti MeiÃÂÃÂner	None
 Yetti MeiÃÂner	None
-Yetti MeiÃner	None
 Yin & Klang	None
 Yoav	None
 Yodelice	chanson
@@ -12575,14 +12575,14 @@ Yuen Chee Wai	None
 Yuksek	house music
 Yuli	None
 Yvan Genkins	techno
+Yves CavaliÃÂÃÂ©	None
 Yves CavaliÃÂ©	None
-Yves CavaliÃ©	None
 Yves Helbling	None
 Yves Helbling  Beyond	None
+YÃÂÃÂ nkov aka yAn	None
+YÃÂ n	None
 YÃÂ nkov aka yAn	None
-YÃ n	None
-YÃ nkov aka yAn	None
-YÃ¶n10	None
+YÃÂ¶n10	None
 ZANO P	None
 ZGroove	None
 ZH	None
@@ -12653,20 +12653,20 @@ Zweitraum	None
 Zwette	house music
 Zwicker decksnfxnvox feat Nina Klingele	None
 Zwillingsmann	None
-ZÃÂÃÂ¸la	vapor pop
+ZÃÂÃÂÃÂÃÂ¸la	vapor pop
+ZÃÂÃÂ¤hler & Nenner	None
+ZÃÂÃÂ¸la	vapor
+ZÃÂÃÂ¼riPistolPete	None
+ZÃÂÃÂ¼rich	None
+ZÃÂRICH	None
 ZÃÂ¤hler & Nenner	None
+ZÃÂ¤hler &Nenner	None
 ZÃÂ¸la	vapor
 ZÃÂ¼riPistolPete	None
+ZÃÂ¼riStage  SÃÂCHSILÃÂÃÂTENWIESE	None
 ZÃÂ¼rich	None
-ZÃRICH	None
-ZÃ¤hler & Nenner	None
-ZÃ¤hler &Nenner	None
-ZÃ¸la	vapor
-ZÃ¼riPistolPete	None
-ZÃ¼riStage  SÃCHSILÃÃTENWIESE	None
-ZÃ¼rich	None
-ZÃ¼rich  DJ	None
-ZÃ¼rich  live act	None
+ZÃÂ¼rich  DJ	None
+ZÃÂ¼rich  live act	None
 a 300 mt uscita autostrada	None
 a microphone & a roland Space Echo re201	None
 adimatique	None
@@ -12675,12 +12675,12 @@ adriano aka adi	None
 aerophobica	None
 africaines	None
 afro disco	None
-afro psychÃ© rock	None
+afro psychÃÂ© rock	None
 aka Seb & GaLaBar	None
 akuarium33	None
 all Night long	None
+alli musikante chÃÂÃÂ¶mit us frÃÂÃÂ¶id und lust am ganze es herzlichs dankeschÃÂÃÂ¶n a alli	None
 alli musikante chÃÂ¶mit us frÃÂ¶id und lust am ganze es herzlichs dankeschÃÂ¶n a alli	None
-alli musikante chÃ¶mit us frÃ¶id und lust am ganze es herzlichs dankeschÃ¶n a alli	None
 alongside MC DRS	None
 analsticks	None
 and Guest	None
@@ -12700,20 +12700,20 @@ and tba	None
 andri	deep
 andri live	None
 anima	vapor soul
+apfall wieder mitnÃÂÃÂ¤ u entsorge	None
 apfall wieder mitnÃÂ¤ u entsorge	None
-apfall wieder mitnÃ¤ u entsorge	None
+aprÃÂÃÂ¨s plusieurs apparitions tÃÂÃÂ©lÃÂÃÂ©visuelles	None
 aprÃÂ¨s plusieurs apparitions tÃÂ©lÃÂ©visuelles	None
-aprÃ¨s plusieurs apparitions tÃ©lÃ©visuelles	None
 arco  dj amnesy	None
 are you electrified	None
 areage	disco
 arnstroem & uglyfunker	None
 aron	acoustic pop
-arÄ	pop
+arÃÂ	pop
 as to the manner born	None
 as well as Rip It Up Additionally	None
 as well as had featured remixes on BBE	None
-au Zoo du Mad Ã  Lausanne	None
+au Zoo du Mad ÃÂ  Lausanne	None
 audiomiditweaker	None
 audiotheque	disco
 avant denchainer sur lelectro	None
@@ -12732,7 +12732,7 @@ bern	None
 berneoptimistallstarz	None
 berner oberland	british brass band
 bertel gee	None
-bescheren das Nachtleben jedoch mit hoch qualitativen Musikproduktionen und legen dazu sehr viel Wert auf solide Soundauswahl fÃ¼r ihre	None
+bescheren das Nachtleben jedoch mit hoch qualitativen Musikproduktionen und legen dazu sehr viel Wert auf solide Soundauswahl fÃÂ¼r ihre	None
 bird	indie
 blacout	None
 blad & beard	None
@@ -12752,7 +12752,7 @@ buraq aka Leke da Loco	None
 but always focused firmly on the dancefloors needs anddesires	None
 but certainly in life and especially in the art of sound the eye and the ear are equal partners Talking about the young and talented KlangKuenstler	None
 bwhat	None
-by Cycle OpÃ©rant	None
+by Cycle OpÃÂ©rant	None
 cadenzaBerlin	None
 cancelled	techno
 cette semaine	None
@@ -12760,26 +12760,26 @@ chat & felix	None
 checkon	None
 chica and the folder  monika enterprise  germany  chile	None
 chicago house Cobeia	None
+chicago house et plus si affinitÃÂÃÂ©s	None
 chicago house et plus si affinitÃÂ©s	None
-chicago house et plus si affinitÃ©s	None
 chillout	None
 chris de rebel	None
 christian tamborrini	None
 chrysalide live	None
+chrÃÂÃÂ¶sch	None
 chrÃÂ¶sch	None
-chrÃ¶sch	None
 cio  spezialmaterial  switzerland	None
 circle	rap
 cityfox	None
-cityfox zÃ¼rich	None
+cityfox zÃÂ¼rich	None
 classics	rock
 club	electronic rock
 cmc & silenta	funky breaks
 comfortnoise	None
+comme cerise sur le pÃÂÃÂ¢tÃÂÃÂ©	None
 comme cerise sur le pÃÂ¢tÃÂ©	None
-comme cerise sur le pÃ¢tÃ©	None
 conflict area	None
-cora amplifiÃ©e	None
+cora amplifiÃÂ©e	None
 cosmos uk & fresh 80s  dj	None
 created his own label	None
 cristina souvenir	None
@@ -12791,13 +12791,13 @@ dan from illinoise	None
 dan vo irgendwo & steffi sowieso	None
 daniele zaccone	None
 danielson & norbertto	None
-dans cette recherche du son juste qui simpose avec Ã©vidence NÃ©tant pas Ã  leur coup dessai et sÃ©tant produits dans la plupart des clubs Ã  GenÃ¨ve	None
+dans cette recherche du son juste qui simpose avec ÃÂ©vidence NÃÂ©tant pas ÃÂ  leur coup dessai et sÃÂ©tant produits dans la plupart des clubs ÃÂ  GenÃÂ¨ve	None
 darkstep	None
 das Batz	None
 das Krause Duo	None
 das Schiff	None
 davidgoessler	None
-de la Deep House Ã  la Techno Mais audelÃ  des mots le meilleurs moyen de le dÃ©couvrir est de venir lÃ©couter	None
+de la Deep House ÃÂ  la Techno Mais audelÃÂ  des mots le meilleurs moyen de le dÃÂ©couvrir est de venir lÃÂ©couter	None
 deco & visuals	None
 deco by didi	None
 deep	emo
@@ -12859,15 +12859,15 @@ duburchin	None
 dxm soundsystem	None
 dylan owl	None
 dzanin	None
+dÃÂÃÂ©barque ÃÂÃÂ  PTR  FormÃÂÃÂ© en 1996	None
 dÃÂ©barque ÃÂ  PTR  FormÃÂ© en 1996	None
-dÃ©barque Ã  PTR  FormÃ© en 1996	None
 eRikm & FM Einheit	None
 eco	trance music
 ecological and sustainable developpement	None
 edison cabrino	None
 edits	house music
+eine vo mine lieblinge vo zÃÂÃÂ¼ri aus special	None
 eine vo mine lieblinge vo zÃÂ¼ri aus special	None
-eine vo mine lieblinge vo zÃ¼ri aus special	None
 eintritt Fr 15	None
 electro	tracestep
 electro live  PERU	None
@@ -12878,20 +12878,20 @@ electrostep floor saal	None
 elex morano & sandro s	None
 elias3O8	None
 elm	video game music
+enregistrent leur premier album  Creature funk  en 2003 Alors que leur second  Creature Shock Radio  obtient un franc succÃÂÃÂ¨s et les ÃÂÃÂ©lÃÂÃÂ¨ve ÃÂÃÂ  un niveau supÃÂÃÂ©rieur	None
 enregistrent leur premier album  Creature funk  en 2003 Alors que leur second  Creature Shock Radio  obtient un franc succÃÂ¨s et les ÃÂ©lÃÂ¨ve ÃÂ  un niveau supÃÂ©rieur	None
-enregistrent leur premier album  Creature funk  en 2003 Alors que leur second  Creature Shock Radio  obtient un franc succÃ¨s et les Ã©lÃ¨ve Ã  un niveau supÃ©rieur	None
 entropi Visuals	None
 entropie	None
 era	None
 era & tweet	None
 eskimo & Lila Hart	None
+et pour cette ÃÂÃÂ©dition	None
 et pour cette ÃÂ©dition	None
-et pour cette Ã©dition	None
 etc	indie
 event canceled	None
 exclusive at Street Parade	None
+exotiques et pointus PassionnÃÂÃÂ© dÃÂÃÂ¨s lenfance par cette musique festive et motivante	None
 exotiques et pointus PassionnÃÂ© dÃÂ¨s lenfance par cette musique festive et motivante	None
-exotiques et pointus PassionnÃ© dÃ¨s lenfance par cette musique festive et motivante	None
 ez raidler	None
 fabien	None
 fatti mettere in lista	None
@@ -12910,8 +12910,8 @@ from  2300 to 130 Dj Codex	None
 from 330 to 500 Sandy C	None
 from New York	None
 funk	None
+fÃÂÃÂ¼rs liecht isch der timowood verantortlich	None
 fÃÂ¼rs liecht isch der timowood verantortlich	None
-fÃ¼rs liecht isch der timowood verantortlich	None
 gabor	soul jazz
 gallo	None
 gallopierende zuversicht  bruckstuecke  switzerland	None
@@ -12921,15 +12921,15 @@ ghetto house	None
 girl	mashup
 glasraum	None
 great impro & avantgarde band  live	None
-great stuff mÃ¼nchen	None
+great stuff mÃÂ¼nchen	None
 greets Baur & Cherry	None
 gs	None
 guest	electronic rock
-guitare Ã©lectrique	None
-gun club mÃ¼nchen	None
+guitare ÃÂ©lectrique	None
+gun club mÃÂ¼nchen	None
 he beginsto record	None
+hebet sorg zur umwÃÂÃÂ¤ut	None
 hebet sorg zur umwÃÂ¤ut	None
-hebet sorg zur umwÃ¤ut	None
 hecht&zander	None
 herr meyer	None
 hes headlined parties such as Londons Night Slugs	None
@@ -12964,15 +12964,15 @@ hypnorex	None
 iDeep	None
 idle	comic
 ieva	None
-iiiÃ¼	None
+iiiÃÂ¼	None
+il a beaucoup travaillÃÂÃÂ© pour arriver ÃÂÃÂ  ce style dÃÂÃÂ©calÃÂÃÂ© qui lui correspond parfaitement Les musiques traditionnelles telles que la salsa	None
 il a beaucoup travaillÃÂ© pour arriver ÃÂ  ce style dÃÂ©calÃÂ© qui lui correspond parfaitement Les musiques traditionnelles telles que la salsa	None
-il a beaucoup travaillÃ© pour arriver Ã  ce style dÃ©calÃ© qui lui correspond parfaitement Les musiques traditionnelles telles que la salsa	None
 il produit sur divers labels internationaux	None
 ill77	None
+ils construisent alors un vaisseau spatial et partent dans le cosmos ÃÂÃÂ  la recherche de signes nouveaux et de valeurs ÃÂÃÂ  transmettre ÃÂÃÂ  lhumanitÃÂÃÂ© AprÃÂÃÂ¨s un long pÃÂÃÂ©riple riche en aventures	None
 ils construisent alors un vaisseau spatial et partent dans le cosmos ÃÂ  la recherche de signes nouveaux et de valeurs ÃÂ  transmettre ÃÂ  lhumanitÃÂ© AprÃÂ¨s un long pÃÂ©riple riche en aventures	None
-ils construisent alors un vaisseau spatial et partent dans le cosmos Ã  la recherche de signes nouveaux et de valeurs Ã  transmettre Ã  lhumanitÃ© AprÃ¨s un long pÃ©riple riche en aventures	None
+ils tentent de bÃÂÃÂ¢tir un nouvel ordre mondial	None
 ils tentent de bÃÂ¢tir un nouvel ordre mondial	None
-ils tentent de bÃ¢tir un nouvel ordre mondial	None
 imaginez un mix entre le Muppet Show et le WuTang Clan Le seul  groupe de jouets  sur Terre	None
 incite	groove metal
 incite liveAV	None
@@ -13006,12 +13006,12 @@ ladybruce und monair	None
 last time Rohstofflager after a Street Parade	None
 le Bypass et pour la Lake Parade	None
 le cerf de la jungle DJ Dser	None
+le cotÃÂÃÂ© obscur de DJ Kenhobiz	None
 le cotÃÂ© obscur de DJ Kenhobiz	None
-le cotÃ© obscur de DJ Kenhobiz	None
-le digital rencontre Le vinyl pour un mÃ©lange explosif	None
+le digital rencontre Le vinyl pour un mÃÂ©lange explosif	None
 le horla	None
+les sonoritÃÂÃÂ©s tribales sont ÃÂÃÂ  la base de ses	None
 les sonoritÃÂ©s tribales sont ÃÂ  la base de ses	None
-les sonoritÃ©s tribales sont Ã  la base de ses	None
 leur nouvel album  Revolve and Step up  sortira le 26 mars prochain  De quoi faire remuer vos corps de grosses marionnettes	None
 lexx  drumpoet  switzerland	None
 liebe detail	None
@@ -13049,9 +13049,9 @@ lounge	None
 lu	vallenato
 luc tonnerre  zurich  CH	None
 luca mosso	None
+lÃÂÃÂÃÂÃÂ©o b2b yosko	None
 lÃÂÃÂ©o b2b yosko	None
 lÃÂ©o b2b yosko	None
-lÃ©o b2b yosko	None
 m50	None
 mOOving	None
 ma	trap
@@ -13070,7 +13070,7 @@ mastra	deep
 mathieu sabotage B2B such a serge	None
 mathis	easy listening
 mauy	None
-mc iyah ranx & echo master rjega zÃ¼rich	None
+mc iyah ranx & echo master rjega zÃÂ¼rich	None
 mc soze	None
 meanderBerlin	None
 meau	None
@@ -13115,14 +13115,14 @@ mtpCH	None
 murphy	rap
 music and related art forms	None
 musik krause	None
-musiques caribÃ©ennes	None
+musiques caribÃÂ©ennes	None
 mynightlifefm	None
 nachtwelt  imploz  geneva  CH	None
 nachtwelt  imploz  switzerland	None
 nat	christmas
 nat  scandal   zurich  CH	None
+nekÃÂÃÂ¯oBo  loungecore	None
 nekÃÂ¯oBo  loungecore	None
-nekÐ¯oBo  loungecore	None
 nemoy	None
 nervmusic	None
 neurofunk floor Foyer	None
@@ -13132,7 +13132,7 @@ nhar  plak records  nantes  F	None
 nick nasty	house music
 nico bodbaiz	None
 nika	spanish pop
-noch nicht bestÃ¤tigt Les Yeux sans Visage	None
+noch nicht bestÃÂ¤tigt Les Yeux sans Visage	None
 noe weigl	None
 nopi aka Alberto Pino	None
 novamute	None
@@ -13150,7 +13150,7 @@ opdisc	None
 organism showcase  Lausanne	None
 other location	None
 oxsa	None
-packende Vibes  BORN & das SupiTeam verwÃ¶hnt seine GÃ¤ste mit Musik der Extraklasse  DER HouseLaden in ZÃ¼rich Nicht umsonst steht im Supermarket eine der besten Soundsysteme  Kv2 Audio rundet das HÃ¶rerlebnis perfekt ab	None
+packende Vibes  BORN & das SupiTeam verwÃÂ¶hnt seine GÃÂ¤ste mit Musik der Extraklasse  DER HouseLaden in ZÃÂ¼rich Nicht umsonst steht im Supermarket eine der besten Soundsysteme  Kv2 Audio rundet das HÃÂ¶rerlebnis perfekt ab	None
 parkcity	None
 parker meets risikogruppe	None
 partoutcc	None
@@ -13168,8 +13168,8 @@ peter wanden	None
 pitch control	None
 place du Tunnel 12	None
 planet mu	None
+plus juste pour toutes les marionnettes et crÃÂÃÂ©atures Malheureusement	None
 plus juste pour toutes les marionnettes et crÃÂ©atures Malheureusement	None
-plus juste pour toutes les marionnettes et crÃ©atures Malheureusement	None
 pmo shock	None
 pompelmossap  plak  switzerland	None
 post dubstep	None
@@ -13192,10 +13192,10 @@ rest  Bern	None
 restomas  switzerland	None
 reverse	emo
 revolvercanada	None
-riQ&liGht  ChocolaKe  NeuchÃ¢tel	None
-riQ&liGht  NeuchÃ¢tel	None
+riQ&liGht  ChocolaKe  NeuchÃÂ¢tel	None
+riQ&liGht  NeuchÃÂ¢tel	None
+rien ne change et les Puppetmastaz tombent en dÃÂÃÂ©pression Avec laide de leur psychanalyste Ziggy Scandalous et lappui financier de Sneakerboots	None
 rien ne change et les Puppetmastaz tombent en dÃÂ©pression Avec laide de leur psychanalyste Ziggy Scandalous et lappui financier de Sneakerboots	None
-rien ne change et les Puppetmastaz tombent en dÃ©pression Avec laide de leur psychanalyste Ziggy Scandalous et lappui financier de Sneakerboots	None
 rino	rap
 roberto  monokrak  geneva  CH	None
 roberto  monokraknet  switzerland	None
@@ -13203,9 +13203,9 @@ ronkanditt	None
 ruben estevez	None
 ruffPack international	None
 sCs	None
+sCs  GenÃÂÃÂÃÂÃÂ¨ve	None
 sCs  GenÃÂÃÂ¨ve	None
 sCs  GenÃÂ¨ve	None
-sCs  GenÃ¨ve	None
 sCs  Studio 41  Montreux Jazz Festival	None
 sammy senior	None
 sandro de marco	None
@@ -13257,7 +13257,7 @@ t t	pop
 tINI	hip hop
 tadeo doberska	house music
 taiken	None
-tant est grand le soin quils apportent Ã  leurs sÃ©lections	None
+tant est grand le soin quils apportent ÃÂ  leurs sÃÂ©lections	None
 tanzsubstanz	None
 tat1	None
 tat2	None
@@ -13278,7 +13278,7 @@ thomonn	None
 tickle out our endorphins and  in the best case  be a joyful escapism from the hectic everyday life Welcome to the world of KlangKuenstler	None
 tictactoe	None
 tolerance and networking in the culture scene	None
-tolga kÃ¶z	None
+tolga kÃÂ¶z	None
 tom tek	None
 tomkay42	None
 trackmaster69	techno
@@ -13307,8 +13307,8 @@ und  trapez  torino  I	None
 und als DJs	None
 undef	None
 undergroundproject	None
+une spÃÂÃÂ©cialitÃÂÃÂ© venant directement de Londres	None
 une spÃÂ©cialitÃÂ© venant directement de Londres	None
-une spÃ©cialitÃ© venant directement de Londres	None
 ursprung	None
 uscita Mendrisio	None
 uvm	None
@@ -13320,11 +13320,11 @@ violinist Elsa	None
 visuals Pixelpunx	None
 visuals by MikaVentura	None
 visuals by Pizz	None
-visuel  ABSÃRDA vjing	None
+visuel  ABSÃÂRDA vjing	None
 visuels by Sophie Le Meillour	None
 vj Camille de Dieu	None
+vo dir und fÃÂÃÂ¼r di	None
 vo dir und fÃÂ¼r di	None
-vo dir und fÃ¼r di	None
 vocalist singer Monika Kiss	None
 voix	harpsichord
 von Allmen	None
@@ -13333,21 +13333,21 @@ vs	pop
 w Plusculaar & Primr aka Temiri	None
 w Temiri	None
 wAFF	house music
+wankÃÂÃÂÃÂÃÂ¤la	None
 wankÃÂÃÂ¤la	None
 wankÃÂ¤la	None
-wankÃ¤la	None
 warm up	None
 warm up by Yan Sebastian	None
 waveIrland	None
 weird disco	None
 wekeed	house music
-welches genau zu beobachten ist Hier tauschen sich KÃ¼nstler untereinander aus und unterstÃ¼tzen sich gegenseitig in Sachen Musikproduktionen und Kooperationen	None
+welches genau zu beobachten ist Hier tauschen sich KÃÂ¼nstler untereinander aus und unterstÃÂ¼tzen sich gegenseitig in Sachen Musikproduktionen und Kooperationen	None
 werk itmisshapecopenhagenDK	None
 wfmusik	None
 what counts is solely to enjoy here and now Music should preserve our feelings	None
 whatever	None
+wo genau dÃÂÃÂ¶rt nÃÂÃÂ¤he sigriswil	None
 wo genau dÃÂ¶rt nÃÂ¤he sigriswil	None
-wo genau dÃ¶rt nÃ¤he sigriswil	None
 wortkarg	None
 wwwmyspacecomdjmanon	None
 wwwmyspacecomdjs2dirty	None
@@ -13377,23 +13377,23 @@ zh	None
 zink	None
 zip  perlon  germany	None
 zouk bass dj set  PERU	None
+zuckerstÃÂÃÂ¼ck	None
 zuckerstÃÂ¼ck	None
-zuckerstÃ¼ck	None
 zweikommasieben	None
-zÃ¼rich	None
-Ãme	None
-Ãme Live	None
-Ãme live	None
+zÃÂ¼rich	None
+ÃÂme	None
 ÃÂme Live	None
 ÃÂme live	None
+ÃÂÃÂme Live	None
+ÃÂÃÂme live	None
+ÃÂÃÂberraschungsgast Berlin	None
+ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ½ÃÂÃÂ¾ÃÂÃÂ¹ ÃÂÃÂ´ÃÂÃÂ¾ÃÂÃÂ·ÃÂÃÂ¾ÃÂÃÂ	None
+ÃÂNSAL KAPTAN sbar luzern	None
 ÃÂberraschungsgast Berlin	None
+ÃÂ  la Majestic Night Montreux ainsi quau Studio du Montreux Jazz Festival quils se sont distinguÃÂ©s	None
+ÃÂ©voluant dans la Techno	None
+ÃÂÃÂÃÂÃÂÃÂ	None
+ÃÂÃÂÃÂ¨ÃÂÃÂÃÂ²ÃÂ¨	None
+ÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂ¯ÃÂsidents	None
 ÃÂÃÂ¾ÃÂÃÂ½ÃÂ¾ÃÂ¹ ÃÂ´ÃÂ¾ÃÂ·ÃÂ¾ÃÂ	None
-ÃNSAL KAPTAN sbar luzern	None
-Ãberraschungsgast Berlin	None
-Ã  la Majestic Night Montreux ainsi quau Studio du Montreux Jazz Festival quils se sont distinguÃ©s	None
-Ã©voluant dans la Techno	None
-ÎÎÎÎÎ	None
-ÐÑÏ¨ÑÐÏ²Ï¨	None
-ÐÐ¸ÑÐÓÓ Ð¯Ñsidents	None
-ÐÐ¾ÑÐ½Ð¾Ð¹ Ð´Ð¾Ð·Ð¾Ñ	None
-ÑÑÐ¸Ð¿  ISL	None
+ÃÂÃÂÃÂ¸ÃÂ¿  ISL	None

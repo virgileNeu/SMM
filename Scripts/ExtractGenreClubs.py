@@ -8,6 +8,10 @@ import os
 import LocationUtils as LU
 import sys
 
+savePath = "Artists/"
+MainGenreDicName = "ArtistsMainGenre"
+AllGenresDicName = "ArtistsAllGenres"
+
 def SplitLineup(st):
 	'''Splits the artists in the line-up'''
 	cleaned = ""
@@ -78,8 +82,8 @@ def ExportGenres(ClubDataFrame,init,end):
 	filenameAll = "ArtistDicoAll-"+str(init)+"-"+str(end)+"-temp"
 
 	try:
-		ArtistDicoMain = LU.loadDictionary(filenameMain,path = "Artists/")
-		ArtistDicoAll = LU.loadDictionary(filenameAll,path = "Artists/")
+		ArtistDicoMain = LU.loadDictionary(filenameMain,path = savePath)
+		ArtistDicoAll = LU.loadDictionary(filenameAll,path = savePath)
 		ArtistsSet = set(ArtistDicoMain.keys())
 	except:
 		print("Cannot find dictionnaries")
@@ -127,13 +131,44 @@ def ExportGenres(ClubDataFrame,init,end):
 		if(i%10==0):
 			print(str(i))
 		if(i%50==0):
-			LU.saveDictionary(ArtistDicoMain,filenameMain,path = "Artists/",enc="UTF-8")
-			LU.saveDictionary(ArtistDicoAll,filenameAll,path = "Artists/",enc="UTF-8")
+			LU.saveDictionary(ArtistDicoMain,filenameMain,path = savePath,enc="UTF-8")
+			LU.saveDictionary(ArtistDicoAll,filenameAll,path = savePath,enc="UTF-8")
 			
 	print("Extraction finished. Saving dictionnaries..")
-	LU.saveDictionary(ArtistDicoMain,filenameMain,path = "Artists/",enc="UTF-8")
-	LU.saveDictionary(ArtistDicoAll,filenameAll,path = "Artists/",enc="UTF-8")	
+	LU.saveDictionary(ArtistDicoMain,filenameMain,path = savePath,enc="UTF-8")
+	LU.saveDictionary(ArtistDicoAll,filenameAll,path = savePath,enc="UTF-8")	
 	print("Finished.")
+
+def mergeDictionnaries():
+	'''Merge temporary dictionaries into one'''
+	print("----Merging generated dictionaries----")
+	files = []
+	files = glob.glob(savePath+"*.txt")
+	print("Nb files : "+str(len(files)))
+	ArtistsMainDic = dict()
+	ArtistsAllDic = dict()
+
+	for file in files :
+		filename = file.replace(".txt","")
+		dictTemp = LU.loadDictionary(filename,path="")
+		
+		if("All" in file):
+			ArtistsAllDic = {**ArtistsAllDic,**dictTemp}
+			
+		if("Main" in file):
+			ArtistsMainDic = {**ArtistsMainDic,**dictTemp}
+			
+	print("Artist dictionaries loaded. Merging...",end="")
+	LU.saveDictionary(ArtistsAllDic,AllGenresDicName,savePath,enc="UTF-8")
+	LU.saveDictionary(ArtistsMainDic,MainGenreDicName,savePath,enc="UTF-8")
+	print("done.")
+	print("Deleting temp files...")
+	for file in files :
+		if("-" in file and "temp" in file):
+			print("Deleting temp file "+file)
+			os.remove(file)
+	print("DONE.")
+	
 	
 if __name__ == "__main__":
     main()
