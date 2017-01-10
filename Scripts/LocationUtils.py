@@ -155,13 +155,13 @@ def getAddress(location,count=1):
     
 	return addressRes
 	
-def saveDictionary(dic, filename, path = 'ClubDataGeo/'):
+def saveDictionary(dic, filename, path = '/',enc='ISO-8859-1'):
 	'''Save dictionnary as filename (txt)'''
-	outfile = open(path + filename+'.txt', 'w' )
+	outfile = open(path + filename+'.txt', 'wb' )
 	for key, value in sorted( dic.items() ):
-		outfile.write( str(key) + '\t' + str(value) + '\n' )
+		outfile.write((str(key) + '\t' + str(value) + '\n').encode(enc))
 		
-def loadDictionary(filename, path = 'ClubDataGeo/', enc='ISO-8859-1'):
+def loadDictionary(filename, path = '/', enc='ISO-8859-1'):
 	'''Load dictionnary'''
 	inp = open(path+filename+'.txt', 'r' , encoding=enc)
 	dic = {}
