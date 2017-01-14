@@ -11,6 +11,8 @@ import sys
 savePath = "Artists/"
 MainGenreDicName = "ArtistsMainGenre"
 AllGenresDicName = "ArtistsAllGenres"
+dictionary = "MusicGenres"
+dictionaryPath = "Artists/"
 
 def SplitLineup(st):
 	'''Splits the artists in the line-up'''
@@ -44,7 +46,7 @@ def main():
 		print("Please provide up to 2 arguments")
 		
 	files = []
-	files = glob.glob("ClubData0/*.csv")+glob.glob("ClubData1/*.csv")+glob.glob("ClubData2/*.csv")+glob.glob("ClubData3/*.csv")
+	files = glob.glob("ClubData/ClubData0/*.csv")+glob.glob("ClubData/ClubData1/*.csv")+glob.glob("ClubData/ClubData2/*.csv")+glob.glob("ClubData/ClubData3/*.csv")
 	print("Files : "+str(len(files)))
 	ClubDataFrame = pd.read_csv(files[0],sep="\t")
 	print("Loading dataframe...")
@@ -81,13 +83,21 @@ def ExportGenres(ClubDataFrame,init,end):
 	filenameMain = "ArtistDicoMain-"+str(init)+"-"+str(end)+"-temp"
 	filenameAll = "ArtistDicoAll-"+str(init)+"-"+str(end)+"-temp"
 
+	#Loading artists dictionaries
 	try:
-		ArtistDicoMain = LU.loadDictionary(filenameMain,path = savePath)
-		ArtistDicoAll = LU.loadDictionary(filenameAll,path = savePath)
+		ArtistDicoMain = LU.loadDictionary(filenameMain,path = savePath,enc="UTF-8")
+		ArtistDicoAll = LU.loadDictionary(filenameAll,path = savePath,enc="UTF-8")
 		ArtistsSet = set(ArtistDicoMain.keys())
 	except:
 		print("Cannot find dictionnaries")
 	
+	##Loading genre Dictionary
+	try:
+		print("Loading genre dictionnary : "+dictionaryPath+dictionary+".txt")
+		LU.loadDictionary(dictionary,dictionaryPath,enc="UTF-8")
+	except:
+		print("Cannot find genre dictionnary : "+dictionaryPath+dictionary+".txt")
+		
 	ClubDataFrame["Genre"] = None
 	ClubDataFrame["All Genres"] = None
 

@@ -4,7 +4,10 @@ import json
 import itertools
 import bs4
 import matplotlib.pyplot as plt
+import LocationUtils as LU
 
+dictionary = "MusicGenres"
+dictionaryPath = "Artists/"
 
 def updateDictionnary(genres,dictionnary,debug = False):
 	'''This method update the dictionary using the genres list'''
@@ -47,65 +50,6 @@ def updateDictionnary(genres,dictionnary,debug = False):
 			dictionnary.update({genre : genre})
 			
 	return dictionnary
-
-def createDictionnary(debug = False):
-	'''Create the dictionnary of genres'''
-	#wikiURL = "https://en.wikipedia.org/wiki/"+str(genre)
-	listGenres = "https://en.wikipedia.org/wiki/List_of_electronic_music_genres"
-	contentWIKI = requests.get(listGenres).text
-	#content = requests.get(listGenres).text
-	soup = bs4.BeautifulSoup(contentWIKI,"html5lib")
-	mainList = []
-	subgenres = []
-	dic = {}
-	main = ""
-	
-	for div in soup.findAll(attrs={"style" : "-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;"}):   
-		if(div.attrs['style'] == "-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;"):
-			if('style' in div.attrs):
-				uls = div.find('ul')
-				if(uls is not None):
-					for groups in uls:
-						for a in groups:
-							b = str(a)
-							soup2 = bs4.BeautifulSoup(b,"html5lib")
-							if(len(soup2.text)>0 and soup2.text.count("\n")<2):
-								mainList.append(soup2.text)
-								main = soup2.text.replace("\n","")
-								dic.update({main.lower() : main.lower()})
-								if(debug):print("MAIN "+str(len(main))+" "+main)
-                                
-							if("ul" in b and len(b)>0):
-								soup2 = bs4.BeautifulSoup(b,"html5lib")
-								if(len(soup2.text)>0):
-									t = soup2.text
-									lines = t.split("\n")
-									for genre in lines:
-										if(len(genre)>0):
-											if(debug):
-												print(genre +"-"+main)
-											if(debug):
-												print("...")
-											dic.update({genre.lower() : main.lower()})
-                                
-       
-	##Manual Add
-	dic.update({"house" : "house music"})
-	dic.update({"tech" : "techno"})
-	dic.update({"funk rock" : "funk"})
-	dic.update({"trap francais" : "rap"})
-	dic.update({"catstep":"drum and bass"})
-	dic.update({"dance pop" : "pop"})
-	dic.update({"complextro" : "uk garage"})
-	dic.update({"hip hop" : "hip hop"})
-	dic.update({"hip" : "hip hop"})
-	dic.update({"hop" : "hip hop"})
-	dic.update({"rock" : "rock"})
-	dic.update({"rap" : "rap"})
-	dic.update({"filthstep" : "uk garage"})
-	
-	return dic
-	
 	
 def sanitize(genres):
 	'''This method remove unwanted features from the list of genres'''
@@ -146,6 +90,79 @@ def getMaxGenre(genres,debug = False):
 	
 	return maxEntry     
 	
+def parseSection(section,level=2):
+	#print(section)
+	#print("#############################")
+	soup = bs4.BeautifulSoup(section,"html5lib")
+	MAIN_GENRE = soup.findAll("span")[0].text.lower()
+	#print(MAIN_GENRE)
+	#print("#############################")
+	
+	level1dic = {}
+	level2dic = {}
+	
+	for div in soup.findAll("li"):
+		level1 = div.text
+		if(level==3): #Spanning 3 level dictionnary
+			if("ul" in str(div)):
+				level1split = level1.split("\n")
+				subgenre1 = level1split[0].lower()
+                
+				if(subgenre1 not in level2dic):
+					#print("\t"+subgenre1)
+					level1dic.update({subgenre1 : MAIN_GENRE})
+					subgenre2 = level1split[1:]
+					for s2 in subgenre2:
+						if(len(s2)>1):
+							#print("\t\t"+str(s2))
+							level2dic.update({s2 : subgenre1})
+			else:
+				level1split = level1.split("\n")
+				subgenre1 = level1split[0].lower()
+				level1dic.update({subgenre1 : MAIN_GENRE})
+				#print(level2dic)
+		if(level==2):
+			level1split = level1.split("\n")
+			subgenre1 = level1split[0].lower()
+			level1dic.update({subgenre1 : MAIN_GENRE})
+			#print(level2dic)
+			
+	if(level==2):
+		return MAIN_GENRE,level1dic
+	
+	return MAIN_GENRE,level1dic,level2dic
+	
+def createDictionnary(level=2,debug=False,returnMains = False):
+	#wikiURL = "https://en.wikipedia.org/wiki/"+str(genre)
+	listGenres = "https://en.wikipedia.org/wiki/List_of_popular_music_genres"
+	contentWIKI = requests.get(listGenres).text
+	#content = requests.get(listGenres).text
+	soup = bs4.BeautifulSoup(contentWIKI,"html5lib")
+	mainList = []
+	subgenres = []
+	subgenres = {}
+	mainGenres = {}
+
+	sections = str(soup).split("<h2>")
+	for i in range(2,18):
+		MAIN_GENRE,level1dic= parseSection(sections[i])
+		mainGenres.update({MAIN_GENRE:MAIN_GENRE})
+		subgenres.update(level1dic)
+		
+	subgenres.update(mainGenres)
+	
+	
+	#Manual adds :
+	subgenres.update({"rap":"hip hop"})
+	subgenres.update({"orchestral":"orchestral"})
+	
+	LU.saveDictionary(subgenres,dictionary,dictionaryPath,enc="UTF-8")
+		
+	if(returnMains):
+		return mainGenres,subgenres
+	return subgenres
+	
+        
 def mainGenres(genres,dictionnary=None, debug = False):
 	'''This function associates a genre with the best match in dictionnary'''
 	dictionnary = updateDictionnary(genres,dictionnary, debug)
