@@ -183,7 +183,7 @@ def mainGenres(genres,dictionnary=None, debug = False):
 				
 	return mainGenreAssociates
 	
-def extractGenresFromRA(Artist,dic=None):
+def getGenresFromRA(Artist,dic=None):
 	#print("Extract from RA"	)
 	artist = Artist.lower().replace(" ","")
 	URL = "https://www.residentadvisor.net/dj/"+artist+"/biography"
@@ -202,9 +202,24 @@ def extractGenresFromRA(Artist,dic=None):
 				listGenre.append(genre)
 	return listGenre
 		
-def getGenresFromWeb(Artist,dictionnary=None):
-	SpotifySearchURL = "https://api.spotify.com/v1/search"
+def getGenresFromWeb(Artist,dictionnary=None,onResidentAdvisor=True, onSpotify = True):
 	
+	genresRA = []
+	if(onResidentAdvisor):
+		genresRA = getGenresFromRA(Artist,dictionnary)
+	
+	genresSPOT = []
+	if(onSpotify):
+		genresSPOT = getGenresFromSpotify(Artist)
+	
+	genres = []
+	genres = genres + genresSPOT +genresRA
+	genres = genres + genresSPOT + genresSPOT #Add More weight to spotify
+	#print(genres)
+	return genres
+	
+def getGenresFromSpotify(Artist):
+	SpotifySearchURL = "https://api.spotify.com/v1/search"
 	#arguments
 	args = {
 	'q' : str(Artist),
@@ -214,17 +229,11 @@ def getGenresFromWeb(Artist,dictionnary=None):
 	#Query 
 	request = requests.get(SpotifySearchURL, params = args)
 	content = json.loads(request.text)
-	genres = []
-	genresSPOT = []
+	genresSpotify = []
 	if(content!=None and ('artists' in content.keys()) and content['artists']['total']>0):
-		genresSPOT= genresSPOT + content['artists']['items'][0]['genres']
-
-	genresRA = extractGenresFromRA(Artist,dictionnary)
-	
-	genres = genres + genresSPOT +genresRA
-	genres = genres + genresSPOT + genresSPOT #Add More weight to spotify
-	#print(genres)
-	return genres
+		genresSpotify = genresSpotify + content['artists']['items'][0]['genres']
+		
+	return genresSpotify
 	
 def getGenre(Artist,ReturnAllGenres = False, dictionnary = None, Year=None, debug= False):
 	'''Get the genre of an artist at this period.If period is None, 
