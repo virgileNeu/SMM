@@ -246,7 +246,7 @@ chillwave	electronic
 chimurenga	african
 chinese indie rock	rock
 chinese rock	rock
-chinese traditional	pop
+chinese traditional	folklore
 chip hop	hip hop
 chiptune	electronic
 chopped and screwed	hip hop
@@ -266,7 +266,7 @@ christian uplift	electronic
 chutney	caribbean and caribbean-influenced
 chutney soca	caribbean and caribbean-influenced
 cinematic dubstep	electronic
-classic	orchestral
+classic	classic
 classic afrobeat	african
 classic colombian pop	pop
 classic country	country
@@ -289,15 +289,15 @@ classic schlager	pop
 classic soundtrack	orchestral
 classic swedish pop	pop
 classic turkish pop	pop
-classical	orchestral
+classical	classic
 classical christmas	orchestral
 classical crossover	pop
-classical flute	orchestral
-classical guitar	orchestral
-classical organ	orchestral
-classical performance	orchestral
-classical period	orchestral
-classical piano	orchestral
+classical flute	classic
+classical guitar	classic
+classical organ	classic
+classical performance	classic
+classical period	classic
+classical piano	classic
 close harmony	country
 coldwave	electronic
 college a cappella	hip hop
@@ -312,7 +312,7 @@ composition d	country
 compositional ambient	electronic
 congolese rumba	african
 conscious hip hop	hip hop
-contemporary classical	orchestral
+contemporary classical	classic
 contemporary country	country
 contemporary folk	folk
 contemporary jazz	jazz
@@ -403,7 +403,7 @@ deep chill	electronic
 deep chill-out	hip hop
 deep chiptune	electronic
 deep christian rock	rock
-deep classical piano	orchestral
+deep classical piano	classic
 deep comedy	comedy
 deep contemporary country	country
 deep cumbia sonidera	latin
@@ -981,7 +981,7 @@ mexican indie	rock
 mexican pop	pop
 mexican rock-and-roll	rock
 mexican son	latin
-mexican traditional	pop
+mexican traditional	folklore
 miami bass	hip hop
 michigan indie	rock
 microhouse	electronic
@@ -999,7 +999,7 @@ minimal wave	electronic
 mod revival	folk
 modal jazz	jazz
 modern blues	blues
-modern classical	orchestral
+modern classical	classic
 modern country rock	rock
 modern free jazz	jazz
 modern southern rock	rock
@@ -1132,7 +1132,7 @@ palm-wine	african
 parody music	comedy
 permanent wave	electronic
 persian pop	pop
-persian traditional	pop
+persian traditional	folklore
 perth indie	rock
 peruvian rock	rock
 piano blues	blues
@@ -1451,7 +1451,7 @@ traditional rock 'n roll	rock
 traditional scottish folk	folk
 traditional ska	rock
 traditional swing	jazz
-traditional:	latin
+traditional	folklore
 trance	electronic
 trance music	electronic
 trap	hip hop

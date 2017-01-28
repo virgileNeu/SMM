@@ -376,26 +376,34 @@ def sanitize(genres):
 				gen.append(genre)
 	return gen
 
+import operator
 def getMaxGenre(genres,top=1,debug = False):
 	'''Get the genre in genres that appears the most'''
+	if(genres==None or genres=="None"):
+		return []
+		
 	dicnum = {}
 	for g in genres :
-		dicnum.update({g : genres.count(g)})
-   
-	maxKey = 0
-	maxEntry = None
+		if(g!=None and g!="None"):
+			dicnum.update({g : genres.count(g)})
 	
+	sorted_dicnum = sorted(dicnum.items(), key=operator.itemgetter(1))
+	sorted_dicnum.reverse()
 	if(debug):
-		print(dicnum)
-		plt.bar(range(len(dicnum)), dicnum.values(), align='center')
-		plt.xticks(range(len(dicnum)), dicnum.keys())
-        
-	for entry in dicnum :
-		if dicnum[entry]>maxKey and entry is not None:
-			maxEntry = entry
-			maxKey = dicnum[entry]
+		print(sorted_dicnum)
 	
-	return maxEntry     
+	#for entry in dicnum :
+	#	if dicnum[entry]>maxKey and entry is not None:
+	#		maxEntry = entry
+	#		maxKey = dicnum[entry]
+	list = sorted_dicnum[0:top]
+	max_genres = []
+	for l in list:
+		max_genres.append(l[0])
+	
+	if(len(max_genres)==0):
+		return None
+	return max_genres     
 	
 def parseSection(section,level=2):
 	#print(section)
@@ -489,7 +497,8 @@ def mainGenres(genres,dictionnary=None, debug = False):
 		#mainGenreAssociates.append(associates[genre])
 		if(debug):
 			print("for "+str(genre)+" found "+dictionnary[genre])
-		mainGenreAssociates.append(dictionnary[genre])
+		if(genre in dictionnary):
+			mainGenreAssociates.append(dictionnary[genre])
 				
 	return mainGenreAssociates
 	
@@ -513,23 +522,53 @@ def getGenresFromRA(Artist,dic=None):
 	return listGenre
 		
 def getGenresFromWikipedia(Artist,dic=None):
-    #print("Extract from RA")
-    artist = str(Artist).replace(" ","_")
-    URL = "https://fr.wikipedia.org/wiki/"+artist
-    content = requests.get(URL).text
-    
-    soup = bs4.BeautifulSoup(content, "html5lib")   
-    #print(content)
-    listGenre = []
-    for art in soup.findAll("a"):
-        text = art.text
-        if(dic==None):
-            dic=createDictionnary()
-            
-        for genre in dic:
-            if(genre in text and genre!= "oi"):
-                listGenre.append(genre)
-    return set(listGenre)
+	#print("Extract from RA")
+	artist = str(Artist).replace(" ","_")
+	listGenre = []
+	
+	URL = "https://fr.wikipedia.org/wiki/"+artist
+	content = requests.get(URL).text
+	
+	soup = bs4.BeautifulSoup(content, "html5lib")   
+	#print(content)
+	
+	for art in soup.findAll("a"):
+		text = art.text
+		if(dic==None):
+			dic=createDictionnary()
+		
+		whitelist = set('abcdefghijklmnopqrstuvwxy ABCDEFGHIJKLMNOPQRSTUVWXYZ')
+		answer = ''.join(filter(whitelist.__contains__, text))
+		words = text.split(" ")
+		for word in words :
+			for genre in dic:
+				if(genre.lower() == word.lower() and genre!= "oi"):
+					listGenre.append(genre)
+	
+	if(len(listGenre<1)):
+		#try with english version
+		
+		URL = "https://en.wikipedia.org/wiki/"+artist
+		content = requests.get(URL).text
+		
+		soup = bs4.BeautifulSoup(content, "html5lib")   
+		#print(content)
+		
+		for art in soup.findAll("a"):
+			text = art.text
+			if(dic==None):
+				dic=createDictionnary()
+				
+			whitelist = set('abcdefghijklmnopqrstuvwxy ABCDEFGHIJKLMNOPQRSTUVWXYZ\'')
+			answer = ''.join(filter(whitelist.__contains__, text))
+			words = text.split(" ")
+			for word in words :
+				for genre in dic:
+					if(genre.lower() == word.lower() and genre!= "oi"):
+						listGenre.append(genre)
+					
+					
+	return list(set(listGenre))
 		
 def getGenresFromWeb(Artist,dictionnary=None,onResidentAdvisor=True, onSpotify = True):
 	
