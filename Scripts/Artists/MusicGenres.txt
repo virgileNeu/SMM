@@ -142,8 +142,10 @@ christian punk	rock
 christian rock	rock
 chutney	caribbean and caribbean-influenced
 chutney soca	caribbean and caribbean-influenced
+classic	orchestral
 classic country	country
 classic female blues	blues
+classical	orchestral
 classical crossover	pop
 close harmony	country
 coldwave	electronic
@@ -666,6 +668,7 @@ speed metal	rock
 speedcore	electronic
 st. louis blues	blues
 st. louis hip hop	hip hop
+step	electronic
 stoner rock	rock
 straight-ahead jazz	jazz
 street punk	rock

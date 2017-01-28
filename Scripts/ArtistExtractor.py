@@ -323,7 +323,7 @@ def updateDictionnary(genres,dictionnary,debug = False):
 						
 				else:
 					for genreDic in actualKeys:
-						if(g in genreDic):
+						if(g in genreDic or genreDic in g):
 							mainGenre = dictionnary.get(genreDic)
 							
 			if(mainGenre!=None):				
@@ -376,7 +376,7 @@ def sanitize(genres):
 				gen.append(genre)
 	return gen
 
-def getMaxGenre(genres,debug = False):
+def getMaxGenre(genres,top=1,debug = False):
 	'''Get the genre in genres that appears the most'''
 	dicnum = {}
 	for g in genres :
@@ -462,6 +462,9 @@ def createDictionnary(level=2,debug=False,returnMains = False):
 	#Manual adds :
 	subgenres.update({"rap":"hip hop"})
 	subgenres.update({"orchestral":"orchestral"})
+	subgenres.update({"classic":"orchestral"})
+	subgenres.update({"classical":"orchestral"})
+	subgenres.update({"step":"electronic"})
 	
 	LU.saveDictionary(subgenres,dictionary,dictionaryPath,enc="UTF-8")
 		
@@ -472,7 +475,7 @@ def createDictionnary(level=2,debug=False,returnMains = False):
         
 def mainGenres(genres,dictionnary=None, debug = False):
 	'''This function associates a genre with the best match in dictionnary'''
-	dictionnary = updateDictionnary(genres,dictionnary, debug)
+	#dictionnary = updateDictionnary(genres,dictionnary, debug)
 		
 	mainGenreAssociates = []
 	if(genres==None):
@@ -508,6 +511,25 @@ def getGenresFromRA(Artist,dic=None):
 			if(genre in text):
 				listGenre.append(genre)
 	return listGenre
+		
+def getGenresFromWikipedia(Artist,dic=None):
+    #print("Extract from RA")
+    artist = str(Artist).replace(" ","_")
+    URL = "https://fr.wikipedia.org/wiki/"+artist
+    content = requests.get(URL).text
+    
+    soup = bs4.BeautifulSoup(content, "html5lib")   
+    #print(content)
+    listGenre = []
+    for art in soup.findAll("a"):
+        text = art.text
+        if(dic==None):
+            dic=createDictionnary()
+            
+        for genre in dic:
+            if(genre in text and genre!= "oi"):
+                listGenre.append(genre)
+    return set(listGenre)
 		
 def getGenresFromWeb(Artist,dictionnary=None,onResidentAdvisor=True, onSpotify = True):
 	
