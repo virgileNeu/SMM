@@ -1,3 +1,4 @@
+import re
 def check_date(date_string):
 	#check if date is in "YYYY-MM-DD" format quickly
 	return (len(date_string.split('-')) == 3)
@@ -10,6 +11,7 @@ def clean_artists(artists):
 			word_list = split_string(s)
 			word_list = remove_parenthesis(word_list)
 			word_list = remove_words(word_list)
+			
 			if(len(word_list) == 1):
 				result.append(word_list[0])
 			if(len(word_list) > 1):
@@ -21,7 +23,8 @@ def split_string(string):
 	ss = string.split(',')
 	for s in ss:
 		tmp = s.strip('-.[\'\", +*?')
-		if(len(tmp) > 3):  #no groups with smaller name
+		
+		if(len(tmp) >= 3):  #no groups with smaller name
 			tmp2 = tmp.split('/')
 			for w in tmp2:
 				if(len(w) > 3):
@@ -57,7 +60,12 @@ def remove_parenthesis(word_list):
 def remove_hours(string):
 	pattern = r'\d{2}h\d{2}|\d{2}:\d{2}( - \d{2}:\d{2})?'
 	t = re.search(pattern, string)
-	res = string.replace(t.group, '')
+	res = string
+	if(t!=None):
+		try:
+			res = string.replace(t.group(), '')
+		except:
+			print("Error on string : "+str(string))
 	return res
 
 def remove_words(word_list):
@@ -68,7 +76,7 @@ def remove_words(word_list):
 		for f in forbidden_words:
 			if f in r:
 				r = r.replace(f, '')
-		if(len(res) > 3):
+		if(len(r) > 3):
 			res.append(r.strip())
 	return res
 
