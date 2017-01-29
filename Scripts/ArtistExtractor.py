@@ -323,7 +323,7 @@ def updateDictionnary(genres,dictionnary,debug = False):
 						
 				else:
 					for genreDic in actualKeys:
-						if(g in genreDic):
+						if(g in genreDic or genreDic in g):
 							mainGenre = dictionnary.get(genreDic)
 							
 			if(mainGenre!=None):				
@@ -376,26 +376,34 @@ def sanitize(genres):
 				gen.append(genre)
 	return gen
 
-def getMaxGenre(genres,debug = False):
+import operator
+def getMaxGenre(genres,top=1,debug = False):
 	'''Get the genre in genres that appears the most'''
+	if(genres==None or genres=="None"):
+		return []
+		
 	dicnum = {}
 	for g in genres :
-		dicnum.update({g : genres.count(g)})
-   
-	maxKey = 0
-	maxEntry = None
+		if(g!=None and g!="None"):
+			dicnum.update({g : genres.count(g)})
 	
+	sorted_dicnum = sorted(dicnum.items(), key=operator.itemgetter(1))
+	sorted_dicnum.reverse()
 	if(debug):
-		print(dicnum)
-		plt.bar(range(len(dicnum)), dicnum.values(), align='center')
-		plt.xticks(range(len(dicnum)), dicnum.keys())
-        
-	for entry in dicnum :
-		if dicnum[entry]>maxKey and entry is not None:
-			maxEntry = entry
-			maxKey = dicnum[entry]
+		print(sorted_dicnum)
 	
-	return maxEntry     
+	#for entry in dicnum :
+	#	if dicnum[entry]>maxKey and entry is not None:
+	#		maxEntry = entry
+	#		maxKey = dicnum[entry]
+	list = sorted_dicnum[0:top]
+	max_genres = []
+	for l in list:
+		max_genres.append(l[0])
+	
+	if(len(max_genres)==0):
+		return None
+	return max_genres     
 	
 def parseSection(section,level=2):
 	#print(section)
@@ -462,6 +470,9 @@ def createDictionnary(level=2,debug=False,returnMains = False):
 	#Manual adds :
 	subgenres.update({"rap":"hip hop"})
 	subgenres.update({"orchestral":"orchestral"})
+	subgenres.update({"classic":"orchestral"})
+	subgenres.update({"classical":"orchestral"})
+	subgenres.update({"step":"electronic"})
 	
 	LU.saveDictionary(subgenres,dictionary,dictionaryPath,enc="UTF-8")
 		
@@ -472,7 +483,7 @@ def createDictionnary(level=2,debug=False,returnMains = False):
         
 def mainGenres(genres,dictionnary=None, debug = False):
 	'''This function associates a genre with the best match in dictionnary'''
-	dictionnary = updateDictionnary(genres,dictionnary, debug)
+	#dictionnary = updateDictionnary(genres,dictionnary, debug)
 		
 	mainGenreAssociates = []
 	if(genres==None):
@@ -486,7 +497,8 @@ def mainGenres(genres,dictionnary=None, debug = False):
 		#mainGenreAssociates.append(associates[genre])
 		if(debug):
 			print("for "+str(genre)+" found "+dictionnary[genre])
-		mainGenreAssociates.append(dictionnary[genre])
+		if(genre in dictionnary):
+			mainGenreAssociates.append(dictionnary[genre])
 				
 	return mainGenreAssociates
 	
@@ -508,6 +520,55 @@ def getGenresFromRA(Artist,dic=None):
 			if(genre in text):
 				listGenre.append(genre)
 	return listGenre
+		
+def getGenresFromWikipedia(Artist,dic=None):
+	#print("Extract from RA")
+	artist = str(Artist).replace(" ","_")
+	listGenre = []
+	
+	URL = "https://fr.wikipedia.org/wiki/"+artist
+	content = requests.get(URL).text
+	
+	soup = bs4.BeautifulSoup(content, "html5lib")   
+	#print(content)
+	
+	for art in soup.findAll("a"):
+		text = art.text
+		if(dic==None):
+			dic=createDictionnary()
+		
+		whitelist = set('abcdefghijklmnopqrstuvwxy ABCDEFGHIJKLMNOPQRSTUVWXYZ')
+		answer = ''.join(filter(whitelist.__contains__, text))
+		words = text.split(" ")
+		for word in words :
+			for genre in dic:
+				if(genre.lower() == word.lower() and genre!= "oi"):
+					listGenre.append(genre)
+	
+	if(len(listGenre<1)):
+		#try with english version
+		
+		URL = "https://en.wikipedia.org/wiki/"+artist
+		content = requests.get(URL).text
+		
+		soup = bs4.BeautifulSoup(content, "html5lib")   
+		#print(content)
+		
+		for art in soup.findAll("a"):
+			text = art.text
+			if(dic==None):
+				dic=createDictionnary()
+				
+			whitelist = set('abcdefghijklmnopqrstuvwxy ABCDEFGHIJKLMNOPQRSTUVWXYZ\'')
+			answer = ''.join(filter(whitelist.__contains__, text))
+			words = text.split(" ")
+			for word in words :
+				for genre in dic:
+					if(genre.lower() == word.lower() and genre!= "oi"):
+						listGenre.append(genre)
+					
+					
+	return list(set(listGenre))
 		
 def getGenresFromWeb(Artist,dictionnary=None,onResidentAdvisor=True, onSpotify = True):
 	
