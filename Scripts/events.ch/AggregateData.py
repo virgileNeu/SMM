@@ -3,7 +3,7 @@ import os
 import pandas as pd
 import numpy as np
 
-
+# small function to merge all the small csv
 if __name__ == "__main__":
     if(len(sys.argv) < 3):
         sys.exit("ERROR : not enough arguments. Require folder and output file")

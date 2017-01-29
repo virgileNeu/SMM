@@ -6,9 +6,12 @@ import numpy as np
 import pandas as pd
 import sys
 
-
+# Main function, return a dataframe for a given date with
+# columns = location, event, date, artists, genre (can be None)
 def getEventsForDate(date, maxPage=None):
     
+    ############PARSER########
+    # Main page Parser
     class MainHTMLParser(HTMLParser):
         def __init__(self, base_url):
             super( MainHTMLParser, self ).__init__()
@@ -37,7 +40,7 @@ def getEventsForDate(date, maxPage=None):
                     print("page failed :",subquerry_url)
         def getData(self):
             return self.data
-        
+    # Subpage Parser
     class EventHTMLParser(HTMLParser):
         def __init__(self):
             super( EventHTMLParser, self ).__init__()
@@ -68,8 +71,11 @@ def getEventsForDate(date, maxPage=None):
         def getData(self):
             self.cleanArtists()
             return (self.artists, self.date)
-
+            
+    ########END OF PARSERS##############
+    
     (year, month, day) = date.split('-')
+    # small date check (1848 = creation of Swiss constitution)
     if(int(year) < 1848 or int(year) > 2020 or int(month) < 0 or int(month) > 12 or int(day) < 0 or int(day) > 31):
         sys.exit("ERROR : incorrect start date")
     data = []
@@ -100,7 +106,7 @@ def getEventsForDate(date, maxPage=None):
     print("max number of pages reach")
     return (data, None)
     
-    
+# Get and save the dataframe as a csv file "YYYY-MM-DD.csv"
 def getCSVForDates(date, maxPage = None):
     (data, retdate) = getEventsForDate(date, maxPage)
     print(retdate)
@@ -109,11 +115,13 @@ def getCSVForDates(date, maxPage = None):
         print("df written for date " + date)
         df.to_csv("EventsChData/"+date + ".csv")
     return retdate
-    
+
+# Return a list of date between a given start_date and a given end_date
 def daterange(start_date, end_date):
     for n in range(int ((end_date - start_date).days)):
         yield start_date + timedelta(n)
 
+# Main function to be called with the terminal
 if __name__ == "__main__":
     if(len(sys.argv) < 2):
         sys.exit("ERROR : not enough arguments. Give at least the start date yyyy-mm-dd")
@@ -146,6 +154,6 @@ if __name__ == "__main__":
                     (nextYear, nextMonth, nextDay) = nextDate.split('-')
                     d = date(int(nextYear), int(nextMonth), int(nextDay))
             except KeyboardInterrupt:
-                raise
+                raise # Enable CTRL+C exit
             except:
                 print("Exception, starting again date ")
