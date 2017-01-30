@@ -99,7 +99,7 @@ def getGeocodeForLocation(location):
     content = json.loads(req.text)
 
     if content['status'] == 'ZERO_RESULTS':
-        print 'Unable to find coordinates for that location'
+        print 'Unable to find coordinates for ' + location
         return
     elif content['status'] == "OK":
         latitude = content['results'][0]['geometry']['location']['lat']
@@ -167,7 +167,7 @@ for df in dfs:
         location = key[1]
         date = item['date'].values[0]
         artists = item['artist'].values
-        artists = ', '.join(artists)
+        artists = ', '.join(str(artist) for artist in artists) # str(v) for v in value_list
         artists = '[' + artists
         artists = artists + ']'
         # genre = item['genre'].values[0]
