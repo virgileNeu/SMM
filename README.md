@@ -1,4 +1,4 @@
-<img src="http://ada.epfl.ch/img/Ada-Lovelace.jpg" width="400">
+<img src="./Logo.png" width="400">
 # Swiss Music Map Project
 > Project of the course Applied Data Analysis, taught by Michele Catasta
 EPFL, November 2016
