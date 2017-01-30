@@ -1547,3 +1547,4 @@ zouk	latin
 zouk riddim	latin
 zouk-lambada	latin
 zydeco	country
+unknown	unknown
