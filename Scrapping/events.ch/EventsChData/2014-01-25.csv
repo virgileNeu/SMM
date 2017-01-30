@@ -1,0 +1,50 @@
+,location,event,date,artists,genre
+0,Winterthur,Innovantiqua,2014-01-25,['Musikalische Kurz-Performances zur Sensibilisierung des Themas Nachhal'],Pop
+1,Winterthur,Schön-wie-es-begann,2014-01-25,"[' Lisa Berg ', ' Curdin Janett ', ' David Ruosch ']",Pop
+2,Basel,Midi-musique-Ein-slawischer-Winter,2014-01-25,"[' Maja Barroso Lisac ', ' Lev Pupis ', ' Christina Wyss ', ' Rahel Kohler ', ' Claudia Vollenweider ', ' Mario Giovannelli ']",Classic
+3,Zürich,Nuggi-Konzert,2014-01-25,"['Vera Schnider ', ' Michael Gebauer ', ' Jana Karsko ', ' Hiroko Takehara ', ' Anna Tyka Nyffenegger ']",Classic
+4,Zürich,Meh-Suff-Winterfestival,2014-01-25,"['Immolation ', ' Tsjuder ', ' Hail Of Bullets ', ' Endstille ', ' Broken Hope ']",
+5,Winterthur,Sequoia-Crosswhite,2014-01-25,"[' Sequoia Crosswhite ', ' Marcello Burgener ']",
+6,Düdingen,Steve-Gunn,2014-01-25,['Steve Gunn '],
+7,Zürich,Slawisches-Konzert,2014-01-25,[' Silvia Trebo '],Classic
+8,Meggen,Close-Encounter,2014-01-25,"['Yvonne Troxler ', ' Michael Leibundgut ']",Classic
+9,Luzern,Piano-Entertainment,2014-01-25,['Fabienne Ambühl '],
+10,Zürich,Royal-Arena-Indoor-Festival,2014-01-25,"['IAM ', ' Evidence & Alchemist ', ' Madchild & Revolution ', ' Reks & Termanology & Deadeye ']",
+11,Basel,Verschollenes-Träumen-De-Zytvogl,2014-01-25,"['Sylvia Nopper ', ' Till Alexander Körber ']",Classic
+12,Basel,Konzert,2014-01-25,"['Hansheinz Schneeberger ', ' Fanny Paccoud ', ' Emilia Gliozzi ', ' Jean-Jacques Dünki ']",Classic
+13,Zürich,Konzert,2014-01-25,"[' Hannes Bärtschi ', ' Francesco Corti ', ' works by Thomas Demenga ']",Classic
+14,Luzern,Grande-Finale-Abschiedskonzert-Franz-Schaffner,2014-01-25,[' Jürg Eichenberger '],Classic
+15,Thun,2.-Sinfoniekonzert,2014-01-25,[' Vital Julian Frey '],Classic
+16,Lenzburg,Slick-Steve-&-The-Gangsters,2014-01-25,"['Slick Steve & The Gangsters ', ' Christopher Paul Stelling ']",
+17,null,BeJazz-Winterfestival,2014-01-25,"[' Bänz Oester & the Rainmakers ', ' Karin Meiers Forest Radio ', ' Beat Hofstetter ', ' Sascha Armbruster ', ' Andrea Formenti ', ' Beat Kappeler ', ' Andreas Schaerer ', ' Wolfgang Zwiauer ', ' Afrika Mkhize ', ' Bänz Oester ', ' Ayanda Sikade ', ' Hannes Bürgi ']",
+18,Oberengstringen,Real-Jazz,2014-01-25,"[' Reto Suhner ', ' Philip Henzi ', ' Silvan Jeger ', ' Dominic Egli ']",
+19,Zürich,Blasnost,2014-01-25,"[' Martin Carl ', ' Roger Nickl ', ' Flavio Rohner ', ' Flavio Spirgi ']",
+20,Zürich,Soifass,2014-01-25,"['Soifass ', ' Die Bonkers ']",
+21,Burgdorf,His-Dog-Bingo-Big-White-Ghost,2014-01-25,"['Stephan Greminger ', ' Oli Hartung ', ' Jüre Schmidhauser ', ' Nadja Stoller ']",Pop
+22,null,Stephen-Malcmus-&-The-Jicks,2014-01-25,"['Stephen Malcmus & The Jicks ', ' The Megaphonic Thrift ']",
+23,Zürich,Sportfreunde-Stiller,2014-01-25,['Sportfreunde Stiller '],Pop
+24,Dübendorf,Konzert,2014-01-25,[' Srdjan Vukasinovic '],Classic
+25,Basel,Galakonzert,2014-01-25,[' Beatrice Harmon '],Classic
+26,Giswil,The-Cyborgs,2014-01-25,['The Cyborgs '],
+27,Zürich,Celebremus,2014-01-25,"[' Gabriele Hierdeis ', ' Ulrike Hofbauer ', ' Jessica Jans ', ' Agnieszka Kowalczyk ']",Classic
+28,Liestal,Zehnder,2014-01-25,"[' John Wolf Brennan ', ' Arkady Shilkloper ', ' Christian Zehnder ']",
+29,Winterthur,Kaltstart,2014-01-25,['The Lucky Punch '],
+30,Chiasso,Stefano-Bollani,2014-01-25,['Stefano Bollani '],
+31,Zürich,Grand-Mother's-Funck,2014-01-25,"[' Rich Fonje ', ' René Mosele ', ' Alex Hendriksen ', ' Andreas Michel ', ' Bernhard Häberlin ']",
+32,Biel,Bernard-Allison-Group,2014-01-25,['Bernard Allison Group '],
+33,null,Rob-Moir,2014-01-25,['Rob Moir '],
+34,Cham,Michael-Wespi,2014-01-25,"[' Michael Wespi ', ' Luzian Graber ', ' Joel D. Allison ']",Pop
+35,Lausanne,MF-Doom,2014-01-25,['MF Doom '],
+36,null,Kafebleu,2014-01-25,"['Kafebleu ', ' Chloé Sapin ', ' Carla Brülhart ', ' Patrick Badoud ', ' Florian Gandubert ']",
+37,Mels,Andy-Egert-Blues-Band-feat.-Dallas-Hodge,2014-01-25,"['Andy Egert Blues Band feat. Dallas Hodge ', ' Dallas Hodge ', ' Andy Egert ', ' Markus de Pretto ', ' Hani Ali ']",
+38,null,Swift-Guad,2014-01-25,"['Swift Guad ', ' Sake Zakariens ', ' Vîrus ']",
+39,Solothurn,Insane-Festival,2014-01-25,"['DJs Laserkraft 3d ', ' Fukkk Offf ', ' Dumme Jungs ', ' Beef Theatre ']",Electronic
+40,Chur,Heavy-Hat,2014-01-25,"[' Luca Sisera ', ' Michael Jaeger ', ' Silvio Cadotsch ', ' Yves Theiler ', ' Michi Stulz ']",
+41,Schaffhausen,Fanfare-Ciocarlia,2014-01-25,['Fanfare Ciocarlia '],
+42,Frick,Makako-Jump,2014-01-25,['Makako Jump '],
+43,Schaffhausen,Riverboat-Gamblers,2014-01-25,"['Riverboat Gamblers ', ' Facing the Swarm Thought ']",
+44,Oberentfelden,Tide,2014-01-25,['Tide '],
+45,Rorschach,El-Bachatazo-Latin-Night,2014-01-25,"['DJs Tommy ', ' Dale ']",
+46,Basel,Rejjie-Snow,2014-01-25,['Rejjie Snow '],
+47,Lausanne,2Manydjs,2014-01-25,"['2Manydjs ', ' Yuksek ']",Electronic
+48,Liebefeld,Karin-Meiers-Forest-Radio,2014-01-25,"[' Karin Meier ', ' Hannes Bürgi ', ' Claude Meier ', ' Christoph Steiner ']",

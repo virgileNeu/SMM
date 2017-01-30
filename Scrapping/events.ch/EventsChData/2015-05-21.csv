@@ -1,0 +1,40 @@
+,location,event,date,artists,genre
+0,Zürich,Lunchkonzert,2015-05-21,"['Simon Fuchs ', ' Peter McGuire ', ' Alexander Neustroev ', ' Dmitri Demiashkin ', ' Klaus Schwärzler ']",Classic
+1,Baden,Cilia-Hunch,2015-05-21,"[' Cilia Hunch ', ' Claude Stucki ']",
+2,Luzern,Piano-Entertainment,2015-05-21,['Jozsef Sarkozy '],Classic
+3,Weggis,Anthony-Caputo,2015-05-21,['Anthony Caputo '],
+4,Zürich,Liederabend,2015-05-21,"['Anja Harteros ', ' Wolfram Rieger ']",Classic
+5,Winterthur,So-klingt-die-Welt,2015-05-21,"[' Pär Näsbom ', ' Torbjörn Näsbom ', ' Stefan Hoffmann ']",Classic
+6,Zürich,Hotclub-de-Berne,2015-05-21,"[' Vincent Millioud ', ' Theo Känzig ', ' Dimitri Howald ', ' Valentin von Fischer ']",
+7,Bern,Konzert,2015-05-21,[' Heidrun Wirth-Metzler '],Classic
+8,null,10.-Tonhallekonzert,2015-05-21,['Paul Lewis '],Classic
+9,Basel,Volkssinfoniekonzerte,2015-05-21,[' Karoly Mocsari '],Classic
+10,Zürich,ZHDK-Masters-of-Jazz,2015-05-21,"[' Joscha Schraff ', ' Flo Zimmermann ']",
+11,Winterthur,Link-to-America,2015-05-21,"[' Marita Seeger ', ' Delaja Mösinger ', ' Cristina Janett ']",Classic
+12,Bern,Gregor-Meyle,2015-05-21,['Gregor Meyle '],Pop
+13,Zürich,Singers'-Night,2015-05-21,"[' Stefan Stahel ', ' Janos Knobel ']",Pop
+14,Zürich,Ball-Park-Music,2015-05-21,['Ball Park Music '],
+15,Zug,Mudhoney,2015-05-21,"['Mudhoney ', ' White Hills ', ' Barton Carroll ']",
+16,null,Comet-Control,2015-05-21,['Comet Control '],
+17,Zürich,The-Brand-New-Heavies,2015-05-21,"['The Brand New Heavies ', ' Dawn Joseph ', ' Dan Carpenter ', ' Jim Hunt ', ' Simon Bartholomew ', ' Matt Steele ', ' Andrew Levy ']",
+18,Winterthur,Talib-Kweli,2015-05-21,['Talib Kweli '],
+19,Aarau,Spidergawd,2015-05-21,['Spidergawd '],
+20,Bern,The-Adicts,2015-05-21,['The Adicts '],
+21,Zürich,Chris-de-Burgh,2015-05-21,['Chris de Burgh '],Pop
+22,Zug,Mudhoney,2015-05-21,"['Mudhoney ', ' support: White Hills ', ' Barton Carroll ']",
+23,Luzern,Electric-Force,2015-05-21,"[' Timo Wild ', ' Benjamin Kieser ', ' Alex Merz ']",Electronic
+24,Winterthur,Luiz-Simas-feat.-Rodrigo-Botter-Maio,2015-05-21,"[' Luiz Simas ', ' Rodrigo Botter Maio ']",
+25,Basel,Rock-Funk-&-jazzy-Stuff,2015-05-21,"[' Eva Flury ', ' Jörg Dittmann ', ' David Cogliatti ', ' Andreas Krüsmann ', ' Peter Koerfgen ', ' Claudio Salsi ']",
+26,Luzern,Alumni-Concert,2015-05-21,"['Ingo Hipp ', ' Sam Comerford ', ' Laurent Méteau ', ' Peedu Kass ', ' Matthew Jacobson ']",
+27,Liebefeld,Blaser-Favre,2015-05-21,"[' Samuel Blaser ', ' Pierre Favre ']",
+28,Solothurn,Noan-&-Matt-Epp,2015-05-21,['Noan & Matt Epp '],Pop
+29,Uster,The-Sum-Of-1-&-One-,2015-05-21,"[' Christopher George ', ' Simon Zwicky ', ' Roland Wäger ', ' Jérémie Bochet ', ' Marcel Ricklin ']",Pop
+30,Bern,Christine-Owman,2015-05-21,['Christine Owman '],
+31,Baden,Pezzo-Acoustic,2015-05-21,[' Peter Tantchev '],
+32,null,The-End-of-the-Ocean,2015-05-21,['The End of the Ocean '],
+33,Basel,Keller's-10,2015-05-21,"[' Linus Hunkeler ', ' Yannick Barman ', ' Bernhard Bamert ', ' Fabian Beck ', ' Reto Anneler ']",
+34,Zürich,Jam-Session,2015-05-21,"[' Philipp Häfliger ', ' Mike Ryrie ', ' Dani Zihlmann ', ' Leon Duncan ', ' Silvan Petite ']",
+35,Zürich,Songhoy-Blues,2015-05-21,['Songhoy Blues '],
+36,Luzern,The-Retro-Festival,2015-05-21,['Alphaville '],Pop
+37,Baden,Jonas-Alaska,2015-05-21,['Jonas Alaska '],Pop
+38,Lausanne,The-Cyborgs,2015-05-21,['The Cyborgs '],

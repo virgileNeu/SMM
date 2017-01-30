@@ -1,0 +1,54 @@
+,location,event,date,artists,genre
+0,Meggen,Lucerne-Festival-am-Piano-Meisterkurs-Klavier,2016-11-18,['Robert Levin '],Classic
+1,Winterthur,Midi-musical,2016-11-18,"['Mija Läuchli ', ' Pär Näsbom ', ' Serafina Rufer ', ' Florian Läuchli ']",Classic
+2,Luzern,Drei-grosse-Romantiker,2016-11-18,"['Caroline Goulding ', ' Danae Dörken ']",Classic
+3,Zürich,Werner-und-Company,2016-11-18,['Werner und Company '],Pop
+4,Pratteln,Impericon-Never-Say-Die-Tour,2016-11-18,"['Whitechapel ', ' Thy Art Is Murder ', ' Obey The Brave ', ' Fallujah ', ' Make Them Suffer ', ' Polar ']",
+5,Basel,Orgelspiel-zum-Feierabend,2016-11-18,['Annerös Hulliger '],Classic
+6,Zug,Sirenia,2016-11-18,"['Sirenia ', ' Tyr ', ' Unleash the Archers ', ' Relicseed ']",
+7,Dietikon,Feierabendmusik-in-der-Kirche,2016-11-18,['Bernhard Hörler '],Classic
+8,Basel,Momens-musicals,2016-11-18,"["" Solenn' Lavanant-Linke "", ' Rani Orenstein ']",Classic
+9,null,Russland,2016-11-18,"['Andrej Korobeinikov ', ' Gregory Flynn ']",Classic
+10,Bern,Klavierrezital,2016-11-18,['Gabriel Emanuel Arnold '],Classic
+11,Zürich,Invivas,2016-11-18,['Invivas '],Pop
+12,Zürich,Tage-für-Neue-Musik-oeuvres-suisses,2016-11-18,"[' Isabel Soccoja ', ' works by Thomas Kessler ', ' Isabel Mundry ']",Classic
+13,Rheinfelden,Steppin-Stompers-Dixieland-Band,2016-11-18,"[' Bob Hägler ', ' Hansi Rudin ', ' Louis Bürgi ', ' Andy Spinnler ', ' René Hemmig ', ' Chrigel Grieder ', ' Urs Bürgi ']",
+14,Basel,Dieter-Thomas-Kuhn,2016-11-18,['Dieter Thomas Kuhn '],Pop
+15,Zürich,Groovapalooza-No.-1,2016-11-18,"['Me & Reas ', ' Wrongkong ', ' DJ Eamonn Barrett ']",Electronic
+16,Zürich,Jean-Michel-Jarre,2016-11-18,['Jean-Michel Jarre '],Electronic
+17,Zürich,Avishai-Cohen-Duo,2016-11-18,"[' Avishai Cohen ', ' Omi Mor ']",
+18,Zürich,Melanie-Martinez,2016-11-18,['Melanie Martinez '],Pop
+19,Thun,Element-of-Crime,2016-11-18,['Element of Crime '],Pop
+20,Bern,Jeremy-Loops,2016-11-18,['Jeremy Loops '],
+21,Rheinfelden,Steppin-Stompers-Dixieland-Band-(CH),2016-11-18,"['Bob Hägler ', ' Hansi Rudin ', ') Louis Bürgi ', ' Andy Spinnler ', ' René Hemmig ', '  Chrigel Grieder ', ' Urs Bürgi ']",
+22,Zürich,L'allegro-il-penseroso-ed-il-moderato,2016-11-18,"['Ai Watanabe ', ' Hannah Mehler ', ' Luca Valentin Bernard ']",Classic
+23,Uster,Lucky-Nuts,2016-11-18,"[' Marco Bäumer ', ' Martin Konetschnig ', ' Tobia Roth ']",
+24,Thun,Element-of-Crime,2016-11-18,['Element of Crime '],Pop
+25,Basel,Litanies-de-la-vie,2016-11-18,"[' Bettina Marugg ', ' Eva Nievergelt ', ' Christoph Brunner ']",Classic
+26,Basel,los-ä-Bossa,2016-11-18,"['Anita Samuel ', ' Alfons Wild ']",
+27,Basel,Eivør,2016-11-18,"['Eivør ', ' Support: Marius Ziska ']",Electronic
+28,Zürich,Werkstattkonzert,2016-11-18,"[' Takumi Seino ', ' Hugues Vincent ', ' Vincent Glanzmann ', ' Christoph Irniger ', ' Yves Theiler ']",
+29,Uster,Pam-Festival,2016-11-18,"[' Talvi Hunt ', ' Emilio Guim ', ' Sofiia Suldina ', ' Joao Carlos Pacheco ', ' Peter Evans ', ' Barry Guy ']",
+30,Winterthur,Please-Madame,2016-11-18,['Please Madame '],
+31,Montreux,Pixies,2016-11-18,['Pixies '],
+32,Liebefeld,Sarah-Chaksad-Orchestra,2016-11-18,"[' Sarah Chaksad ', ' Julie Fahrer ', ' Andreas Böhlen ']",
+33,Zürich,Marc-Perrenoud,2016-11-18,"['Marc Perrenoud ', ' Marc Perrenoud ', ' Marco Müller ', ' Cyril Regamey ']",
+34,Basel,Enders-Room,2016-11-18,"[' Bastian Stein ', ' Johannes Enders ', ' Karl Ivar Refseth ', ' Wolfgang Zwiauer ', ' Gregor Hilbe ']",
+35,Baden,Royal-Southern-Brotherhood,2016-11-18,['Royal Southern Brotherhood '],
+36,Lyss,The-Brew,2016-11-18,"[' support: Pristine ', ' Marius Tilly ']",
+37,Baden,Blues-from-the-Heart,2016-11-18,"[' Martin Baschung ', ' Sandro Vanetti ', ' Jürg Amrein ']",
+38,Zürich,Joscha-Schraff-Quartet,2016-11-18,"[' Joscha Schraff ', ' Niculin Janett ', ' Mo Meyer ', ' Paul Amereller ']",
+39,Bern,Dillon,2016-11-18,"['Dillon & Choir ', ' Mukki Blanco ', ' Raime ', ' Group A ']",Electronic
+40,Luzern,Visions-In-Clouds,2016-11-18,['Visions in Clouds '],
+41,Schaffhausen,Die-Höchste-Eisenbahn,2016-11-18,"['Die Höchste Eisenbahn ', ' Naima Husseini ']",Pop
+42,Aarau,La-Coka-Nostra,2016-11-18,"['La Coka Nostra ', ' Sick Jacken ']",
+43,Rubigen,Ana-Popovic-Band,2016-11-18,['Ana Popovic Band '],
+44,Lausanne,Norberto-Lobo,2016-11-18,"['Norberto Lobo ', ' Arlt ']",
+45,Düdingen,The-KVB,2016-11-18,['The KVB '],
+46,Bern,1-A-Grind,2016-11-18,['Ad Nauseam '],
+47,Basel,Ward-21,2016-11-18,['Ward 21 '],
+48,Zürich,Tage-für-Neue-Musik,2016-11-18,"['Marcus Weiss ', ' Martina Schucan ', ' Christoph Keller ', ' works by Bettina Skrzypczak ', ' Moritz Müllenbach ']",Classic
+49,Solothurn,Zomboy,2016-11-18,['Zomboy '],Electronic
+50,Zürich,Christoph-Grab's-Raw-Vision,2016-11-18,"[' Christoph Grab ', ' Frank Moebus ', ' Bernhard Bamert ', ' Thomas Luescher ', ' Silvan Jeger ', ' Maxime Paratte ']",
+51,Basel,Nachtklang-I-Stille,2016-11-18,"['Tamas Vasarhelyi ', ' Christoph Dangel ', ' Alex Wäber ', ' Sprecherin: Salomé im Hof ']",Classic
+52,Lausanne,Grand-Blanc,2016-11-18,['Grand Blanc '],Electronic
