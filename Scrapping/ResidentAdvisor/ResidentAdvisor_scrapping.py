@@ -7,7 +7,7 @@ import json
 import sys
 import time
 import sys
-sys.path.insert(0,"..\..\Scripts\Utils")
+sys.path.insert(0,'..\\..\\Scripts\\Utils')
 import ArtistExtractor as AE
 from dateutil.parser import parse
 
