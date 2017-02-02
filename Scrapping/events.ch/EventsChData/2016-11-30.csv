@@ -1,24 +1,24 @@
-location,event,date,artists,genre
-Winterthur,Öffentliche-Generalprobe,2016-11-30,[' Ian Bostridge '],Classic
-Basel,Mimiko-Dasein,2016-11-30,"['Marina Tantanozi ', ' Anna Polina Hasslacher ']",Classic
-null,Jaga-Jazzist,2016-11-30,['Jaga Jazzist '],Electronic
-Zürich,Liederabend,2016-11-30,"['Pavol Breslik ', ' Amir Katz ']",Classic
-Zürich,Musica-aperta-Tango-Nuevo-,2016-11-30,"[' Jörgen Brilling ', ' Uwe Mahnken ']",Classic
-Palais-des-Congrès,null,2016-11-30,[' Filip Micha Saffray '],Classic
-Zug,WIM-Jahreskonzert,2016-11-30,"['Rea Dubach ', ' Rafael Loher ', ' Marian Arbenz ']",
-Zürich,Incognito,2016-11-30,"[' Jean-Paul Maunick ', ' Sid Gauld ', ' Alistair White ', ' Paul Booth ', ' Francisco Sales ', ' Matt Cooper ']",
-Basel,Jake-Bugg,2016-11-30,['Jake Bugg '],Pop
-Frauenfeld,Jazz-Now,2016-11-30,"[' Markus Schönholzer ', ' Christoph Baumann ', ' Hämi Hämerli ', ' Tony Renold ', ' Christoph Grab ']",
-Winterthur,Jazz-am-Mittwoch,2016-11-30,"[' Ania Losinger ', ' Björn Meyer ', ' Mats Eser ', ' Chrigel Bosshard ']",
-Wädenswil,Scherrer-Brodbeck-Gisler-Strüby,2016-11-30,"[' Andy Scherrer ', ' Jean-Paul Brodbeck ', ' Fabian Gisler ', ' Claudio Strüby ']",
-Luzern,Konzert,2016-11-30,"['Coelman Goepfert ', ' Juna Winston ']",Classic
-null,Alexandre-Cunha-&-Band,2016-11-30,"[' Alexandre Cunha ', ' Bruno Coppini ', ' Marcelo Valerie ', ' Ana Paula Moreti ', ' Eduardo Gallian ', ' Ricardo Cren ']",
-Luzern,Mats-up,2016-11-30,"['Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']",
-Basel,Mbongwana-Star,2016-11-30,['Mbongwana Star '],
-Zürich,Jazzbaragge-Wednesday-Jam,2016-11-30,"['Niculin Janett ', ' Rich Perry ', ' Lisa Hoppe ', ' Jonas Ruther ']",
-Basel,District-Five-Quartet,2016-11-30,"[' Tapiwa Svosve ', ' Vojko Huter ', ' Xaver Rüegg ', ' Paul Amereller ']",
-Zürich,Gufo-Reale,2016-11-30,"[' Edmauro de Oliveira ', ' Franco Mettler ', ' Jojo Kunz ', ' Thomas Weber ']",
-Rubigen,Wille-and-the-Bandits,2016-11-30,['Wille and the Bandits '],
-Düdingen,Talmud-Beach,2016-11-30,['Talmud Beach '],
-null,Simon-Ho,2016-11-30,"['Simon Ho ', ' Michael Fehr ', ' Andi Hug ', ' André Pousac ', ' Simon Ho ']",
-Zürich,Benjamin-Folke-Thomas,2016-11-30,['Benjamin Folke Thomas '],
+,location,event,date,artists,genre
+0,Winterthur,Öffentliche-Generalprobe,2016-11-30,[' Ian Bostridge '],Classic
+1,Basel,Mimiko-Dasein,2016-11-30,"['Marina Tantanozi ', ' Anna Polina Hasslacher ']",Classic
+2,null,Jaga-Jazzist,2016-11-30,['Jaga Jazzist '],Electronic
+3,Zürich,Liederabend,2016-11-30,"['Pavol Breslik ', ' Amir Katz ']",Classic
+4,Zürich,Musica-aperta-Tango-Nuevo-,2016-11-30,"[' Jörgen Brilling ', ' Uwe Mahnken ']",Classic
+5,Palais-des-Congrès,null,2016-11-30,[' Filip Micha Saffray '],Classic
+6,Zug,WIM-Jahreskonzert,2016-11-30,"['Rea Dubach ', ' Rafael Loher ', ' Marian Arbenz ']",Jazz
+7,Zürich,Incognito,2016-11-30,"[' Jean-Paul Maunick ', ' Sid Gauld ', ' Alistair White ', ' Paul Booth ', ' Francisco Sales ', ' Matt Cooper ']",Hip
+8,Basel,Jake-Bugg,2016-11-30,['Jake Bugg '],Pop
+9,Frauenfeld,Jazz-Now,2016-11-30,"[' Markus Schönholzer ', ' Christoph Baumann ', ' Hämi Hämerli ', ' Tony Renold ', ' Christoph Grab ']",Jazz
+10,Winterthur,Jazz-am-Mittwoch,2016-11-30,"[' Ania Losinger ', ' Björn Meyer ', ' Mats Eser ', ' Chrigel Bosshard ']",Jazz
+11,Wädenswil,Scherrer-Brodbeck-Gisler-Strüby,2016-11-30,"[' Andy Scherrer ', ' Jean-Paul Brodbeck ', ' Fabian Gisler ', ' Claudio Strüby ']",Jazz
+12,Luzern,Konzert,2016-11-30,"['Coelman Goepfert ', ' Juna Winston ']",Classic
+13,null,Alexandre-Cunha-&-Band,2016-11-30,"[' Alexandre Cunha ', ' Bruno Coppini ', ' Marcelo Valerie ', ' Ana Paula Moreti ', ' Eduardo Gallian ', ' Ricardo Cren ']",Jazz
+14,Luzern,Mats-up,2016-11-30,"['Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']",Jazz
+15,Basel,Mbongwana-Star,2016-11-30,['Mbongwana Star '],Hip
+16,Zürich,Jazzbaragge-Wednesday-Jam,2016-11-30,"['Niculin Janett ', ' Rich Perry ', ' Lisa Hoppe ', ' Jonas Ruther ']",Jazz
+17,Basel,District-Five-Quartet,2016-11-30,"[' Tapiwa Svosve ', ' Vojko Huter ', ' Xaver Rüegg ', ' Paul Amereller ']",Jazz
+18,Zürich,Gufo-Reale,2016-11-30,"[' Edmauro de Oliveira ', ' Franco Mettler ', ' Jojo Kunz ', ' Thomas Weber ']",world
+19,Rubigen,Wille-and-the-Bandits,2016-11-30,['Wille and the Bandits '],Rock
+20,Düdingen,Talmud-Beach,2016-11-30,['Talmud Beach '],Jazz
+21,null,Simon-Ho,2016-11-30,"['Simon Ho ', ' Michael Fehr ', ' Andi Hug ', ' André Pousac ', ' Simon Ho ']",Jazz
+22,Zürich,Benjamin-Folke-Thomas,2016-11-30,['Benjamin Folke Thomas '],Rock
