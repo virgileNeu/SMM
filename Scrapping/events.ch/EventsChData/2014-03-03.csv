@@ -1,16 +1,16 @@
-,location,event,date,artists,genre
-0,Zürich,Lunchkonzert,2014-03-03,"[' Fabio Luisi ', ' Robert Pickup ', ' Ada Pesch ', ' Karen Forster ', ' Claudius Herrmann ']",Classic
-1,Solothurn,Bob-Barton-Trio,2014-03-03,"[' Bob Barton ', ' Det Baumann ', ' Thomas Fahrer ']",
-2,Zürich,Série-jeunes,2014-03-03,['Mahan Esfahani '],Classic
-3,null,Stonedry-The-Band,2014-03-03,"[' Michael Williams ', ' Marco Puglisi ', ' Stefano Nuñez ', ' Ian Ott ', ' Artur Cavelti ']",
-4,null,Stonedry-The-Band,2014-03-03,"[' Michael Williams ', ' Marco Puglisi ', ' Stefano Nuñez ', ' Ian Ott ', ' Artur Cavelti ']",
-5,Zürich,Let's-Jazz,2014-03-03,"[' Simon Wyrsch ', ' Dario Bianchi ', ' Fridolin Blumer ', ' Robert Mark ']",
-6,Zürich,Matt-Pryor,2014-03-03,"['Matt Pryor ', ' Allison Weiss ']",Pop
-7,Basel,Söhne-Mannheims,2014-03-03,['Söhne Mannheims '],Pop
-8,Zürich,Old-School-Piano-Blues,2014-03-03,['Andy Boller '],
-9,null,Stonedry,2014-03-03,"[' Stefano Nuñez ', ' Ian Ott ', ' Marco Puglisi ', ' Artur Cavelti ']",
-10,Zürich,Rumpel-&-Racine,2014-03-03,"[' Jojo Kunz ', ' Marianne Racine ']",
-11,Baden,Rémi-Panossian-Trio-feat.-Nicole-Johänntgen,2014-03-03,"[' Rémi Panossian ', ' Maxime Delporte ', ' Frédéric Petitprez ', ' Nicole Johänntgen ']",
-12,Basel,Elekes-Gutfleisch-Herrmann,2014-03-03,"[' Tibor Elekes ', ' Johanness Gutfleisch ', ' Andy Hermann ']",
-13,Luzern,Solrize,2014-03-03,['Solrize '],
-14,Zürich,Nik-Bärtsch's-Mobile,2014-03-03,"[' Nik Bartsch ', ' Sha ', ' Kaspar Rast ', ' Nicolas Stocker ']",
+location,event,date,artists,genre
+Zürich,Lunchkonzert,2014-03-03,"[' Fabio Luisi ', ' Robert Pickup ', ' Ada Pesch ', ' Karen Forster ', ' Claudius Herrmann ']",Classic
+Solothurn,Bob-Barton-Trio,2014-03-03,"[' Bob Barton ', ' Det Baumann ', ' Thomas Fahrer ']",
+Zürich,Série-jeunes,2014-03-03,['Mahan Esfahani '],Classic
+null,Stonedry-The-Band,2014-03-03,"[' Michael Williams ', ' Marco Puglisi ', ' Stefano Nuñez ', ' Ian Ott ', ' Artur Cavelti ']",
+null,Stonedry-The-Band,2014-03-03,"[' Michael Williams ', ' Marco Puglisi ', ' Stefano Nuñez ', ' Ian Ott ', ' Artur Cavelti ']",
+Zürich,Let's-Jazz,2014-03-03,"[' Simon Wyrsch ', ' Dario Bianchi ', ' Fridolin Blumer ', ' Robert Mark ']",
+Zürich,Matt-Pryor,2014-03-03,"['Matt Pryor ', ' Allison Weiss ']",Pop
+Basel,Söhne-Mannheims,2014-03-03,['Söhne Mannheims '],Pop
+Zürich,Old-School-Piano-Blues,2014-03-03,['Andy Boller '],
+null,Stonedry,2014-03-03,"[' Stefano Nuñez ', ' Ian Ott ', ' Marco Puglisi ', ' Artur Cavelti ']",
+Zürich,Rumpel-&-Racine,2014-03-03,"[' Jojo Kunz ', ' Marianne Racine ']",
+Baden,Rémi-Panossian-Trio-feat.-Nicole-Johänntgen,2014-03-03,"[' Rémi Panossian ', ' Maxime Delporte ', ' Frédéric Petitprez ', ' Nicole Johänntgen ']",
+Basel,Elekes-Gutfleisch-Herrmann,2014-03-03,"[' Tibor Elekes ', ' Johanness Gutfleisch ', ' Andy Hermann ']",
+Luzern,Solrize,2014-03-03,['Solrize '],
+Zürich,Nik-Bärtsch's-Mobile,2014-03-03,"[' Nik Bartsch ', ' Sha ', ' Kaspar Rast ', ' Nicolas Stocker ']",

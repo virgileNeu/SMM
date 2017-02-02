@@ -1,43 +1,43 @@
-,location,event,date,artists,genre
-0,Zürich,Duo-SoulJazz,2014-11-06,"[' Alina Schönenberger ', ' Martin Eigenmann ']",
-1,Zürich,Konzert,2014-11-06,[' Emanuel Ax '],Classic
-2,Luzern,...-And-You-Will-Know-Us-by-the-Trail-of-Dead,2014-11-06,['... And You Will Know Us by the Trail of Dead '],
-3,Zürich,Chorkonzert,2014-11-06,"[' Stephanie Ritz ', ' Ingrid Alexandre ', ' Dieter Wagner ', ' Samuel Zünd ']",Classic
-4,Basel,Volkssinfoniekonzerte,2014-11-06,[' Benjamin Beilman '],Classic
-5,Winterthur,Sonderkonzert,2014-11-06,[' Innhyuck Cho '],Classic
-6,Zürich,Thursday-Night-Jazz,2014-11-06,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-7,null,Daccordeon,2014-11-06,"[' Richard Pizzorno ', ' Nick Perrin ', ' Samuel Joss ', ' Chris von Hoffmann ']",
-8,Zürich,Pink-Martini,2014-11-06,['Pink Martini '],
-9,Zürich,Simon-Wyrsch-Quartett,2014-11-06,['Simon Wyrsch Quartett '],
-10,Zürich,Alex-Clare,2014-11-06,['Alex Clare '],
-11,Herisau,Milow,2014-11-06,['Milow '],Pop
-12,Baden,Konzert,2014-11-06,['Mischa Cheung '],Classic
-13,Solothurn,The-Rumours,2014-11-06,"[' Steff la Cheffe ', ' Anna Rossinelli ', ' Greis ']",Pop
-14,Zürich,The-Place-Waves-Reach-With-Their-Hands,2014-11-06,"[' Stephanie Pfeffer ', ' Rupert Charlesworth ', ' Jonathan Sells ', ' Edward Rushton ']",Classic
-15,Zürich,Lady-Gaga,2014-11-06,['Lady Gaga '],Pop
-16,Lausanne,Metropop,2014-11-06,"['Talisco ', ' Fink ', ' The Orwells ']",Pop
-17,Basel,Silvan-Zingg-&-Stephanie-Trick,2014-11-06,['Silvan Zingg & Stephanie Trick '],
-18,Basel,Epilogue-From-Jun.,2014-11-06,"[' Johanna Greulich ', ' Stephen Menotti ', ' Ellen Fallowfield ']",Classic
-19,null,Stereo-MCs,2014-11-06,['Stereo MCs '],Pop
-20,Luzern,Destination-Lonely,2014-11-06,['Destination Lonely '],
-21,Zürich,Blue-Bolero,2014-11-06,"[' Silvan Jeger ', ' Valentin Dietrich ', ' Maxime Paratte ', ' Florian Egli ', ' Silvio Cadotsch ', ' Vincent Glanzmann ']",
-22,Luzern,Seat-Music-Session,2014-11-06,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",Pop
-23,Basel,Baloise-Session-Rock-Legends,2014-11-06,['Foreigner '],
-24,Zürich,Jazz-Happening,2014-11-06,['Jazz Stepp Band '],
-25,Winterthur,Gigi-Moto,2014-11-06,"[' Gigi Moto ', ' Jean-Pierre von Dach ', ' Roland Sumi ']",Pop
-26,Winterthur,Sångbook-2,2014-11-06,"[' Marianne Racine ', ' Daniel Baschnagel ', ' Patrick Sommer ', ' Pius Baschnagel ']",
-27,Zürich,Popa-Chubby,2014-11-06,"['Popa Chubby ', ' Popa Chubby ', ' Francesco Beccaro ', ' Richard Monica ']",Pop
-28,Pratteln,Martin-Barre-&-Band-Playing-Classic-Jethro-Tull,2014-11-06,['Martin Barre & Band '],
-29,Zürich,Lionell-&-Louise,2014-11-06,"[' Gina Louise Corti ', ' Yannick Lionel Urbanczik ', ' Xaver Rüegg ', ' Samuel Messerli ']",Pop
-30,Liebefeld,Klapparat,2014-11-06,['Klapparat '],
-31,Basel,Vein,2014-11-06,"[' Michael Arbenz ', ' Thomas Lähns ', ' Florian Arbenz ']",
-32,Zürich,Billiger-Bauer,2014-11-06,"[' Omri Ziegele ', ' Jürg Wickihalder ', ' Nick Gutersohn ']",
-33,Zürich,Harris-Eisenstadt-Golden-State,2014-11-06,"['Harris Eisenstadt Golden State ', ' Michael Moore ', ' Sara Schoenbeck ', ' Pascal Niggenkemper ', ' Harris Eisenstadt ']",
-34,Thun,Osaka-Monaurail,2014-11-06,['Osaka Monaurail '],
-35,Bern,Dieter-Thomas-Kuhn-&-Band,2014-11-06,['Dieter Thomas Kuhn & Band '],traditional
-36,Sankt-Gallen,Zola-Jesus,2014-11-06,['Zola Jesus '],Pop
-37,Bern,Ja-Panik,2014-11-06,['Ja Panik '],Pop
-38,Zürich,Falcone-Jam,2014-11-06,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",Pop
-39,Zürich,Yuri-Landman,2014-11-06,"['Yuri Landman ', ' Those Foreign Kids ']",
-40,Luzern,Chase-the-Ace,2014-11-06,['Chase the Ace '],
-41,Zürich,Chasing-Rabbits,2014-11-06,"[' Darius Brockhaus ', ' Karin Stucki ']",Pop
+location,event,date,artists,genre
+Zürich,Duo-SoulJazz,2014-11-06,"[' Alina Schönenberger ', ' Martin Eigenmann ']",
+Zürich,Konzert,2014-11-06,[' Emanuel Ax '],Classic
+Luzern,...-And-You-Will-Know-Us-by-the-Trail-of-Dead,2014-11-06,['... And You Will Know Us by the Trail of Dead '],
+Zürich,Chorkonzert,2014-11-06,"[' Stephanie Ritz ', ' Ingrid Alexandre ', ' Dieter Wagner ', ' Samuel Zünd ']",Classic
+Basel,Volkssinfoniekonzerte,2014-11-06,[' Benjamin Beilman '],Classic
+Winterthur,Sonderkonzert,2014-11-06,[' Innhyuck Cho '],Classic
+Zürich,Thursday-Night-Jazz,2014-11-06,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+null,Daccordeon,2014-11-06,"[' Richard Pizzorno ', ' Nick Perrin ', ' Samuel Joss ', ' Chris von Hoffmann ']",
+Zürich,Pink-Martini,2014-11-06,['Pink Martini '],
+Zürich,Simon-Wyrsch-Quartett,2014-11-06,['Simon Wyrsch Quartett '],
+Zürich,Alex-Clare,2014-11-06,['Alex Clare '],
+Herisau,Milow,2014-11-06,['Milow '],Pop
+Baden,Konzert,2014-11-06,['Mischa Cheung '],Classic
+Solothurn,The-Rumours,2014-11-06,"[' Steff la Cheffe ', ' Anna Rossinelli ', ' Greis ']",Pop
+Zürich,The-Place-Waves-Reach-With-Their-Hands,2014-11-06,"[' Stephanie Pfeffer ', ' Rupert Charlesworth ', ' Jonathan Sells ', ' Edward Rushton ']",Classic
+Zürich,Lady-Gaga,2014-11-06,['Lady Gaga '],Pop
+Lausanne,Metropop,2014-11-06,"['Talisco ', ' Fink ', ' The Orwells ']",Pop
+Basel,Silvan-Zingg-&-Stephanie-Trick,2014-11-06,['Silvan Zingg & Stephanie Trick '],
+Basel,Epilogue-From-Jun.,2014-11-06,"[' Johanna Greulich ', ' Stephen Menotti ', ' Ellen Fallowfield ']",Classic
+null,Stereo-MCs,2014-11-06,['Stereo MCs '],Pop
+Luzern,Destination-Lonely,2014-11-06,['Destination Lonely '],
+Zürich,Blue-Bolero,2014-11-06,"[' Silvan Jeger ', ' Valentin Dietrich ', ' Maxime Paratte ', ' Florian Egli ', ' Silvio Cadotsch ', ' Vincent Glanzmann ']",
+Luzern,Seat-Music-Session,2014-11-06,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",Pop
+Basel,Baloise-Session-Rock-Legends,2014-11-06,['Foreigner '],
+Zürich,Jazz-Happening,2014-11-06,['Jazz Stepp Band '],
+Winterthur,Gigi-Moto,2014-11-06,"[' Gigi Moto ', ' Jean-Pierre von Dach ', ' Roland Sumi ']",Pop
+Winterthur,Sångbook-2,2014-11-06,"[' Marianne Racine ', ' Daniel Baschnagel ', ' Patrick Sommer ', ' Pius Baschnagel ']",
+Zürich,Popa-Chubby,2014-11-06,"['Popa Chubby ', ' Popa Chubby ', ' Francesco Beccaro ', ' Richard Monica ']",Pop
+Pratteln,Martin-Barre-&-Band-Playing-Classic-Jethro-Tull,2014-11-06,['Martin Barre & Band '],
+Zürich,Lionell-&-Louise,2014-11-06,"[' Gina Louise Corti ', ' Yannick Lionel Urbanczik ', ' Xaver Rüegg ', ' Samuel Messerli ']",Pop
+Liebefeld,Klapparat,2014-11-06,['Klapparat '],
+Basel,Vein,2014-11-06,"[' Michael Arbenz ', ' Thomas Lähns ', ' Florian Arbenz ']",
+Zürich,Billiger-Bauer,2014-11-06,"[' Omri Ziegele ', ' Jürg Wickihalder ', ' Nick Gutersohn ']",
+Zürich,Harris-Eisenstadt-Golden-State,2014-11-06,"['Harris Eisenstadt Golden State ', ' Michael Moore ', ' Sara Schoenbeck ', ' Pascal Niggenkemper ', ' Harris Eisenstadt ']",
+Thun,Osaka-Monaurail,2014-11-06,['Osaka Monaurail '],
+Bern,Dieter-Thomas-Kuhn-&-Band,2014-11-06,['Dieter Thomas Kuhn & Band '],traditional
+Sankt-Gallen,Zola-Jesus,2014-11-06,['Zola Jesus '],Pop
+Bern,Ja-Panik,2014-11-06,['Ja Panik '],Pop
+Zürich,Falcone-Jam,2014-11-06,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",Pop
+Zürich,Yuri-Landman,2014-11-06,"['Yuri Landman ', ' Those Foreign Kids ']",
+Luzern,Chase-the-Ace,2014-11-06,['Chase the Ace '],
+Zürich,Chasing-Rabbits,2014-11-06,"[' Darius Brockhaus ', ' Karin Stucki ']",Pop

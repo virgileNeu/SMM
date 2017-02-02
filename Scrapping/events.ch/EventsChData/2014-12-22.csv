@@ -1,6 +1,6 @@
-,location,event,date,artists,genre
-0,Zürich,Lunchkonzert,2014-12-22,"['Patricia Kopatchinskaja ', ' Eoin Andersen ', ' Marianne Borling ', ' Janet van Hasselt ', ' Daniel Kagerer ']",Classic
-1,Zürich,Glantaler-Power-Men,2014-12-22,['Glantaler Power Men '],Pop
-2,Zürich,Konzert,2014-12-22,[' Flurin Cuonz '],Classic
-3,Baden,Colin-Vallon-Trio,2014-12-22,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-4,Zürich,Artist-in-Residence-Simon-Berz,2014-12-22,"[' Bettina Boller ', ' Simon Berz Stein ', ' Xu Fengxia ', ' Simon Berz ']",
+location,event,date,artists,genre
+Zürich,Lunchkonzert,2014-12-22,"['Patricia Kopatchinskaja ', ' Eoin Andersen ', ' Marianne Borling ', ' Janet van Hasselt ', ' Daniel Kagerer ']",Classic
+Zürich,Glantaler-Power-Men,2014-12-22,['Glantaler Power Men '],Pop
+Zürich,Konzert,2014-12-22,[' Flurin Cuonz '],Classic
+Baden,Colin-Vallon-Trio,2014-12-22,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
+Zürich,Artist-in-Residence-Simon-Berz,2014-12-22,"[' Bettina Boller ', ' Simon Berz Stein ', ' Xu Fengxia ', ' Simon Berz ']",

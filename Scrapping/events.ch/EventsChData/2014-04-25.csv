@@ -1,56 +1,56 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment,2014-04-25,['Mega Horvath '],
-1,Winterthur,Jam-Session,2014-04-25,"['Lukas Schellenberg ', ' Daniel Müller ', ' Nick Mens ']",
-2,Basel,Orgelspiel-zum-Feierabend,2014-04-25,['Andreas Jud '],Classic
-3,Dietikon,Feierabendmusik,2014-04-25,['Bernhard Hörler '],Classic
-4,null,Crown-of-Glory,2014-04-25,"[' Hene Muther ', ' Philipp Meier ', ' Markus Muther ', ' Hungi Berglas ', ' Jonas Lüscher ', ' Marcel Burgener ']",
-5,Zürich,Liederabend,2014-04-25,"['Marlis Petersen ', ' Jendrik Springer ']",Classic
-6,Basel,African-Vision-Choir,2014-04-25,['African Vision Choir '],
-7,Baden,Cello-&-Klavier,2014-04-25,"[' David Reitz ', ' Bram Buitenkant ']",Classic
-8,Zürich,Beethoven-pur,2014-04-25,[' Varvare Nepomnyashchaya '],Classic
-9,Arbon,Cosae-Mandinga,2014-04-25,"[' Leandro Diaz ', ' Mauro Mauceri ']",
-10,Zürich,Internationales-Jazz-&-Blues-Festival,2014-04-25,['Candy Dulfer & Band '],
-11,Bern,Symphoniekonzert,2014-04-25,[' Soyoung Yoon '],Classic
-12,Bülach,Die-Kastelruther-Spatzen,2014-04-25,['Die Kastelruther Spatzen '],traditional
-13,Zürich,Kirchenkonzert,2014-04-25,[' Ann Hallenberg '],Classic
-14,Aarwangen,Bleib-steh'n,2014-04-25,"[' Markus Maria Enggist ', ' Michel Poffet ', ' Stefan W. Müller ']",Pop
-15,Uster,Cheap-Thrill,2014-04-25,"['Cheap Thrill ', ' Shameless ']",
-16,Luzern,Baby-Genius,2014-04-25,['Baby Genius '],Pop
-17,Basel,Jazzfestival-Basel,2014-04-25,"['Philip Cathérine & Sylvain Luc ', ' Nguyên Lê Band ', ' Philip Cathérine ', ' Sylvain Luc ', ' Illya Amar ', ' Lynley Marthe ', ' Stéphane Gallard ']",
-18,null,Mø,2014-04-25,['Mø '],Pop
-19,Rheinfelden,Redhouse-Hot-Six,2014-04-25,"['Redhouse Hot Six ', ' Frank Schmidt ', ' Georg Tschirdewahn ', ' Lars Petersen ']",
-20,null,Christophe-Mae,2014-04-25,['Christophe Mae '],Pop
-21,Bern,Konzert,2014-04-25,"[' Barbara Gasser ', ' Sebastian Rotzler ']",Classic
-22,Wettingen,Ouverture,2014-04-25,"['Philipp Meier ', ' Germán Toro-Pérez ']",Classic
-23,Zürich,Kosheen,2014-04-25,['Kosheen '],Pop
-24,Schaffhausen,The-Gardener-&-The-Tree,2014-04-25,['The Gardener & The Tree '],
-25,Zürich,De-Maa-ohni-Chopf-&-Band,2014-04-25,"[' Michel Schürmann ', ' Michael Herzig ', ' Lorenzo Demenga ']",Pop
-26,Bülach,Transatlantic-Jazz-Swingtet,2014-04-25,"['Transatlantic Jazz Swingtet ', ' Engelbert Wrobel ', ' Chris Hopkins ', ' Eddie Erickson ', ' Nicki Parrott ']",
-27,Winterthur,Beat-Kaestli,2014-04-25,"[' Beat Kaestli ', ' Antonello Messina ', ' Stefan Aeby  ', ' Andre Pousaz  ', ' Dominic Egli ']",
-28,Dübendorf,'chamber-trio'-live-in-concert,2014-04-25,"[' Patricia Ulrich ', ' Marc Jaussi ', ' Xaver Sonderegger ']",Classic
-29,Baden,Erich-Gandet-Quintet,2014-04-25,"[' Erich Gandet ', ' Bruno Gandet ', ' Hans Rothenbühler ', ' Tico Keller ', ' Hannes Hänggli ']",
-30,null,Edith-La-voix-de-La-Môme,2014-04-25,['Jil Aigrot '],Pop
-31,Uster,Überraschungstrio-aus-Kanada,2014-04-25,"['Félix Stüssi ', ' Daniel Lessard ', ' Pierre Tanguay ']",
-32,Ascona,Auf-Flügeln-des-Gesanges,2014-04-25,"['Victor Torres ', ' Daniel Levy ']",Classic
-33,Jona,Züri-Lieder,2014-04-25,"[' Daniel Fueter ', ' Rea Claudia Kost ', ' Sämi Zünd ']",Pop
-34,Zürich,Yumi-Ito-&-Silvian-Jeger,2014-04-25,"[' Yumi Ito ', ' Silvian Jeger ']",
-35,Winterthur,Junior,2014-04-25,['Junior '],Pop
-36,Aarau,Yoav,2014-04-25,['Yoav '],Pop
-37,Baden,Psychobilly-Night,2014-04-25,['Starlite Wranglers '],
-38,Schaffhausen,Keith-&-Tex,2014-04-25,"['Keith & Tex ', ' The Heavy Allstars ', ' After-Party mit Commander K ', ' Rocket Ship Scorcher Crew ']",
-39,Luzern,Adam-Bomb,2014-04-25,['Adam Bomb '],
-40,Grenchen,Boris-Pilleri's-Jammin',2014-04-25,"[' Boris Pilleri ', ' Claude Barbotte ', ' Marcel Suk ', ' Martin Kissling ']",
-41,Düdingen,Kode9,2014-04-25,['Kode9 '],Electronic
-42,Zürich,Loco-Escrito,2014-04-25,['Loco Escrito '],
-43,Münchenstein,The-Pussywarmers,2014-04-25,['The Pussywarmers '],Pop
-44,Sankt-Gallen,Ja-Panik,2014-04-25,"['Ja Panik ', ' Die Heiterkeit ', ' Chris Imler ']",
-45,Zürich,Ikarus,2014-04-25,"[' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Mo Meyer ', ' Ramón Oliveras ']",
-46,Zürich,You-Rock-4-Life,2014-04-25,['Sinobusi '],
-47,Lausanne,High-Wolf-&-Chicaloyoh,2014-04-25,"['High Wolf ', ' Chicaloyoh ']",
-48,Kriens,Soft-Metals,2014-04-25,"['Soft Metals ', ' Painted Palms ']",Pop
-49,Zürich,Latin-Touch,2014-04-25,[' dance animation by Ismaray Aspirina '],
-50,Zürich,Herbst-in-Peking,2014-04-25,['Herbst in Peking '],
-51,Lausanne,Hundebiss-Showcase,2014-04-25,"['Dracula Lewis ', ' Stargate ', ' Sewn Leather ', ' Primitive Art ']",
-52,Zürich,Kabaka-Pyramid,2014-04-25,['Kabaka Pyramid '],
-53,Bern,Lo-&-Leduc,2014-04-25,['Lo & Leduc '],
-54,Dietikon,Muñoz-&-Mariano,2014-04-25,['Muñoz & Mariano '],
+location,event,date,artists,genre
+Luzern,Piano-Entertainment,2014-04-25,['Mega Horvath '],
+Winterthur,Jam-Session,2014-04-25,"['Lukas Schellenberg ', ' Daniel Müller ', ' Nick Mens ']",
+Basel,Orgelspiel-zum-Feierabend,2014-04-25,['Andreas Jud '],Classic
+Dietikon,Feierabendmusik,2014-04-25,['Bernhard Hörler '],Classic
+null,Crown-of-Glory,2014-04-25,"[' Hene Muther ', ' Philipp Meier ', ' Markus Muther ', ' Hungi Berglas ', ' Jonas Lüscher ', ' Marcel Burgener ']",
+Zürich,Liederabend,2014-04-25,"['Marlis Petersen ', ' Jendrik Springer ']",Classic
+Basel,African-Vision-Choir,2014-04-25,['African Vision Choir '],
+Baden,Cello-&-Klavier,2014-04-25,"[' David Reitz ', ' Bram Buitenkant ']",Classic
+Zürich,Beethoven-pur,2014-04-25,[' Varvare Nepomnyashchaya '],Classic
+Arbon,Cosae-Mandinga,2014-04-25,"[' Leandro Diaz ', ' Mauro Mauceri ']",
+Zürich,Internationales-Jazz-&-Blues-Festival,2014-04-25,['Candy Dulfer & Band '],
+Bern,Symphoniekonzert,2014-04-25,[' Soyoung Yoon '],Classic
+Bülach,Die-Kastelruther-Spatzen,2014-04-25,['Die Kastelruther Spatzen '],traditional
+Zürich,Kirchenkonzert,2014-04-25,[' Ann Hallenberg '],Classic
+Aarwangen,Bleib-steh'n,2014-04-25,"[' Markus Maria Enggist ', ' Michel Poffet ', ' Stefan W. Müller ']",Pop
+Uster,Cheap-Thrill,2014-04-25,"['Cheap Thrill ', ' Shameless ']",
+Luzern,Baby-Genius,2014-04-25,['Baby Genius '],Pop
+Basel,Jazzfestival-Basel,2014-04-25,"['Philip Cathérine & Sylvain Luc ', ' Nguyên Lê Band ', ' Philip Cathérine ', ' Sylvain Luc ', ' Illya Amar ', ' Lynley Marthe ', ' Stéphane Gallard ']",
+null,Mø,2014-04-25,['Mø '],Pop
+Rheinfelden,Redhouse-Hot-Six,2014-04-25,"['Redhouse Hot Six ', ' Frank Schmidt ', ' Georg Tschirdewahn ', ' Lars Petersen ']",
+null,Christophe-Mae,2014-04-25,['Christophe Mae '],Pop
+Bern,Konzert,2014-04-25,"[' Barbara Gasser ', ' Sebastian Rotzler ']",Classic
+Wettingen,Ouverture,2014-04-25,"['Philipp Meier ', ' Germán Toro-Pérez ']",Classic
+Zürich,Kosheen,2014-04-25,['Kosheen '],Pop
+Schaffhausen,The-Gardener-&-The-Tree,2014-04-25,['The Gardener & The Tree '],
+Zürich,De-Maa-ohni-Chopf-&-Band,2014-04-25,"[' Michel Schürmann ', ' Michael Herzig ', ' Lorenzo Demenga ']",Pop
+Bülach,Transatlantic-Jazz-Swingtet,2014-04-25,"['Transatlantic Jazz Swingtet ', ' Engelbert Wrobel ', ' Chris Hopkins ', ' Eddie Erickson ', ' Nicki Parrott ']",
+Winterthur,Beat-Kaestli,2014-04-25,"[' Beat Kaestli ', ' Antonello Messina ', ' Stefan Aeby  ', ' Andre Pousaz  ', ' Dominic Egli ']",
+Dübendorf,'chamber-trio'-live-in-concert,2014-04-25,"[' Patricia Ulrich ', ' Marc Jaussi ', ' Xaver Sonderegger ']",Classic
+Baden,Erich-Gandet-Quintet,2014-04-25,"[' Erich Gandet ', ' Bruno Gandet ', ' Hans Rothenbühler ', ' Tico Keller ', ' Hannes Hänggli ']",
+null,Edith-La-voix-de-La-Môme,2014-04-25,['Jil Aigrot '],Pop
+Uster,Überraschungstrio-aus-Kanada,2014-04-25,"['Félix Stüssi ', ' Daniel Lessard ', ' Pierre Tanguay ']",
+Ascona,Auf-Flügeln-des-Gesanges,2014-04-25,"['Victor Torres ', ' Daniel Levy ']",Classic
+Jona,Züri-Lieder,2014-04-25,"[' Daniel Fueter ', ' Rea Claudia Kost ', ' Sämi Zünd ']",Pop
+Zürich,Yumi-Ito-&-Silvian-Jeger,2014-04-25,"[' Yumi Ito ', ' Silvian Jeger ']",
+Winterthur,Junior,2014-04-25,['Junior '],Pop
+Aarau,Yoav,2014-04-25,['Yoav '],Pop
+Baden,Psychobilly-Night,2014-04-25,['Starlite Wranglers '],
+Schaffhausen,Keith-&-Tex,2014-04-25,"['Keith & Tex ', ' The Heavy Allstars ', ' After-Party mit Commander K ', ' Rocket Ship Scorcher Crew ']",
+Luzern,Adam-Bomb,2014-04-25,['Adam Bomb '],
+Grenchen,Boris-Pilleri's-Jammin',2014-04-25,"[' Boris Pilleri ', ' Claude Barbotte ', ' Marcel Suk ', ' Martin Kissling ']",
+Düdingen,Kode9,2014-04-25,['Kode9 '],Electronic
+Zürich,Loco-Escrito,2014-04-25,['Loco Escrito '],
+Münchenstein,The-Pussywarmers,2014-04-25,['The Pussywarmers '],Pop
+Sankt-Gallen,Ja-Panik,2014-04-25,"['Ja Panik ', ' Die Heiterkeit ', ' Chris Imler ']",
+Zürich,Ikarus,2014-04-25,"[' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Mo Meyer ', ' Ramón Oliveras ']",
+Zürich,You-Rock-4-Life,2014-04-25,['Sinobusi '],
+Lausanne,High-Wolf-&-Chicaloyoh,2014-04-25,"['High Wolf ', ' Chicaloyoh ']",
+Kriens,Soft-Metals,2014-04-25,"['Soft Metals ', ' Painted Palms ']",Pop
+Zürich,Latin-Touch,2014-04-25,[' dance animation by Ismaray Aspirina '],
+Zürich,Herbst-in-Peking,2014-04-25,['Herbst in Peking '],
+Lausanne,Hundebiss-Showcase,2014-04-25,"['Dracula Lewis ', ' Stargate ', ' Sewn Leather ', ' Primitive Art ']",
+Zürich,Kabaka-Pyramid,2014-04-25,['Kabaka Pyramid '],
+Bern,Lo-&-Leduc,2014-04-25,['Lo & Leduc '],
+Dietikon,Muñoz-&-Mariano,2014-04-25,['Muñoz & Mariano '],

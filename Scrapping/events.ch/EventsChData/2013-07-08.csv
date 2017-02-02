@@ -1,7 +1,7 @@
-,location,event,date,artists,genre
-0,null,Jazz-Parade,2013-07-08,['Jive Aces & Rebecca Grant '],
-1,null,Jazz-Parade,2013-07-08,[' Dee Dee Bridgwater '],
-2,Montreux-Music-&-Convention-Centre,Montreux,2013-07-08,"['Paolo Conte ', ' Randy Crawford & The Joe Sample Trio ']",
-3,Montreux,Montreux-Jazz-Festival,2013-07-08,"['Oleta Adams ', ' Gregory Porter ']",
-4,Piazza-Grande,Locarno,2013-07-08,['Green Day '],
-5,Montreux,Montreux-Jazz-Festival,2013-07-08,"['The Lumineers ', ' Patrick Watson ']",Pop
+location,event,date,artists,genre
+null,Jazz-Parade,2013-07-08,['Jive Aces & Rebecca Grant '],
+null,Jazz-Parade,2013-07-08,[' Dee Dee Bridgwater '],
+Montreux-Music-&-Convention-Centre,Montreux,2013-07-08,"['Paolo Conte ', ' Randy Crawford & The Joe Sample Trio ']",
+Montreux,Montreux-Jazz-Festival,2013-07-08,"['Oleta Adams ', ' Gregory Porter ']",
+Piazza-Grande,Locarno,2013-07-08,['Green Day '],
+Montreux,Montreux-Jazz-Festival,2013-07-08,"['The Lumineers ', ' Patrick Watson ']",Pop

@@ -1,32 +1,32 @@
-,location,event,date,artists,genre
-0,Winterthur,Jazz-Matinee,2016-03-13,['Ladies Swing Quartett '],
-1,Winterthur,Art-Rock-Phantasma-Musikalische-Welten-zu-Plastilin,2016-03-13,"['Sebastian Müller ', ' Bernhard Wagner ', ' Anna Gschwend ']",
-2,null,Junges-Podium,2016-03-13,['Annika Treutler '],Classic
-3,Zürich,Gesänge-aus-der-Unruhe-ein-Finanzrequiem,2016-03-13,[' works by Giovanna Marini '],Classic
-4,Zürich,Bayernmän,2016-03-13,['Bayernmän '],traditional
-5,Zürich,Hottinger-Konzert-Matinée,2016-03-13,"['Robert Pickup ', ' Mirion Glas ', ' Yokoshiko Iwai ']",Classic
-6,Zürich,Brunchkonzert,2016-03-13,"['Hanna Weinmeister ', ' Lisa Gustafson ', ' Daniel Pezzotti ', ' Naoki Kitaya ']",Classic
-7,Zürich,Peter-und-der-Wolf,2016-03-13,"['Haika Lübcke ', ' Isaac Duarte ', ' Felix-Andreas Genner ', ' Karl Fässler ', ' Martin Hösli ']",Classic
-8,Bern,Amsterdam-Klezmer-Band,2016-03-13,['Amsterdam Klezmer Band '],
-9,Dornach,Stabat-mater,2016-03-13,"['Aminta Marie Dupuis ', ' Julien Freymuth ', ' Arisa Kawasugi ']",Classic
-10,Dornach,Sonaten,2016-03-13,['Hristo Kazakov '],Classic
-11,Solothurn,Spektrum-Akzente,2016-03-13,"[' Marc Bätscher ', ' Ursula Hächler ', ' Jason Paul Peterson ']",Classic
-12,Zürich,7-Worte-Orgelkonzert-mit-Diashow,2016-03-13,"['Christian Gautschi ', ' Stefan Baur ']",Classic
-13,Liestal,Interwau-mit-Mozarts-Hund,2016-03-13,"['Christoph Bösch ', ' Toshiko Sakakibara ', ' Consuelo Giulianelli ', ' Maurizio Grandinetti ', ' Elisa Bösch ']",Classic
-14,null,Sonntags-um-5-Verklärte-Nacht,2016-03-13,"['Igor Keller ', ' Iryna Gintova ', "" Birgit D'Amelio "", ' Anton Vilkhov ', ' Fernando Gomes ', ' Magdalena Dürr ']",Classic
-15,Basel,Heimat-in-der-Fremde-Zwei-Seelen,2016-03-13,"[' Esther Hoppe ', ' Mahmoud Turkmani ']",Classic
-16,Luzern,Vivaldi-Bach-und-Dodds,2016-03-13,"[' Barbara Böhi ', ' Susanne Puchegger ', ' Jonas Iten ', ' Daniel Dodds ']",Classic
-17,Riehen,Bunte-Klassik,2016-03-13,"[' Melinda Maul ', ' Katharina Enders ']",Classic
-18,Basel,Abendmusiken-in-der-Predigerkirche-Samuel-Scheidt,2016-03-13,"[' Maria Cristina Kiehr ', ' Alice Borciani ', ' Victor de Souza Soares ', ' Achim Glatz ', ' Ivo Haun ', ' René Perler ']",Classic
-19,Winterthur,Ein-Meister-fällt-vom-Himmel,2016-03-13,"[' Franziska Pfenninger-Stoffel ', ' Esther Jucker-Keller ', ' Bettina Suter ', ' Kathrin Aeberhard ']",Classic
-20,Uster,2-x-Solo,2016-03-13,"['Maki Hirota ', ' Alexander Zimoglyadov ']",Classic
-21,Bern,Klavierrezital,2016-03-13,['Silvia Harnisch '],Classic
-22,Zürich,Phønix,2016-03-13,['Phønix '],
-23,Luzern,Camerata-auletica,2016-03-13,[' Linda Alijaj '],Classic
-24,Zürich,Sachal,2016-03-13,"[' Sachal ', ' Kevin Hays ']",
-25,Zürich,Nordic-Giants,2016-03-13,['Nordic Giants '],
-26,Zürich,Me-And-My-Drummer,2016-03-13,['Me And My Drummer '],Pop
-27,Bern,Sweet-Kiss-Momma,2016-03-13,['Sweet Kiss Momma '],
-28,Zürich,Geoff-Berner,2016-03-13,['Geoff Berner '],Pop
-29,Bern,Amsterdam-Klezmer-Band,2016-03-13,['Amsterdam Klezmer Band '],
-30,null,Vega-&-Bosca,2016-03-13,['Vega & Bosca '],
+location,event,date,artists,genre
+Winterthur,Jazz-Matinee,2016-03-13,['Ladies Swing Quartett '],
+Winterthur,Art-Rock-Phantasma-Musikalische-Welten-zu-Plastilin,2016-03-13,"['Sebastian Müller ', ' Bernhard Wagner ', ' Anna Gschwend ']",
+null,Junges-Podium,2016-03-13,['Annika Treutler '],Classic
+Zürich,Gesänge-aus-der-Unruhe-ein-Finanzrequiem,2016-03-13,[' works by Giovanna Marini '],Classic
+Zürich,Bayernmän,2016-03-13,['Bayernmän '],traditional
+Zürich,Hottinger-Konzert-Matinée,2016-03-13,"['Robert Pickup ', ' Mirion Glas ', ' Yokoshiko Iwai ']",Classic
+Zürich,Brunchkonzert,2016-03-13,"['Hanna Weinmeister ', ' Lisa Gustafson ', ' Daniel Pezzotti ', ' Naoki Kitaya ']",Classic
+Zürich,Peter-und-der-Wolf,2016-03-13,"['Haika Lübcke ', ' Isaac Duarte ', ' Felix-Andreas Genner ', ' Karl Fässler ', ' Martin Hösli ']",Classic
+Bern,Amsterdam-Klezmer-Band,2016-03-13,['Amsterdam Klezmer Band '],
+Dornach,Stabat-mater,2016-03-13,"['Aminta Marie Dupuis ', ' Julien Freymuth ', ' Arisa Kawasugi ']",Classic
+Dornach,Sonaten,2016-03-13,['Hristo Kazakov '],Classic
+Solothurn,Spektrum-Akzente,2016-03-13,"[' Marc Bätscher ', ' Ursula Hächler ', ' Jason Paul Peterson ']",Classic
+Zürich,7-Worte-Orgelkonzert-mit-Diashow,2016-03-13,"['Christian Gautschi ', ' Stefan Baur ']",Classic
+Liestal,Interwau-mit-Mozarts-Hund,2016-03-13,"['Christoph Bösch ', ' Toshiko Sakakibara ', ' Consuelo Giulianelli ', ' Maurizio Grandinetti ', ' Elisa Bösch ']",Classic
+null,Sonntags-um-5-Verklärte-Nacht,2016-03-13,"['Igor Keller ', ' Iryna Gintova ', "" Birgit D'Amelio "", ' Anton Vilkhov ', ' Fernando Gomes ', ' Magdalena Dürr ']",Classic
+Basel,Heimat-in-der-Fremde-Zwei-Seelen,2016-03-13,"[' Esther Hoppe ', ' Mahmoud Turkmani ']",Classic
+Luzern,Vivaldi-Bach-und-Dodds,2016-03-13,"[' Barbara Böhi ', ' Susanne Puchegger ', ' Jonas Iten ', ' Daniel Dodds ']",Classic
+Riehen,Bunte-Klassik,2016-03-13,"[' Melinda Maul ', ' Katharina Enders ']",Classic
+Basel,Abendmusiken-in-der-Predigerkirche-Samuel-Scheidt,2016-03-13,"[' Maria Cristina Kiehr ', ' Alice Borciani ', ' Victor de Souza Soares ', ' Achim Glatz ', ' Ivo Haun ', ' René Perler ']",Classic
+Winterthur,Ein-Meister-fällt-vom-Himmel,2016-03-13,"[' Franziska Pfenninger-Stoffel ', ' Esther Jucker-Keller ', ' Bettina Suter ', ' Kathrin Aeberhard ']",Classic
+Uster,2-x-Solo,2016-03-13,"['Maki Hirota ', ' Alexander Zimoglyadov ']",Classic
+Bern,Klavierrezital,2016-03-13,['Silvia Harnisch '],Classic
+Zürich,Phønix,2016-03-13,['Phønix '],
+Luzern,Camerata-auletica,2016-03-13,[' Linda Alijaj '],Classic
+Zürich,Sachal,2016-03-13,"[' Sachal ', ' Kevin Hays ']",
+Zürich,Nordic-Giants,2016-03-13,['Nordic Giants '],
+Zürich,Me-And-My-Drummer,2016-03-13,['Me And My Drummer '],Pop
+Bern,Sweet-Kiss-Momma,2016-03-13,['Sweet Kiss Momma '],
+Zürich,Geoff-Berner,2016-03-13,['Geoff Berner '],Pop
+Bern,Amsterdam-Klezmer-Band,2016-03-13,['Amsterdam Klezmer Band '],
+null,Vega-&-Bosca,2016-03-13,['Vega & Bosca '],

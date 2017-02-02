@@ -1,32 +1,32 @@
-,location,event,date,artists,genre
-0,Zürich,Ex-America-lux-Lunchkonzert,2014-02-20,"[' Andrzej Kilian ', ' Seiko Morishita ', ' Dominik Ostertag ', ' Anita Federli-Rutz ', ' Bernhard Parz  ']",Classic
-1,null,Internationales-Gitarrenfestival,2014-02-20,"[' Willy Riechsteiner ', ' Sebastien Fulgido ', ' Michael Zisman ']",
-2,null,Die-Geschichte-vom-Soldaten,2014-02-20,"['Rivgosch Biel ', ' Heidi Maria Glössner ']",Classic
-3,Zürich,Thursday-Night-Jazz,2014-02-20,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']",
-4,null,7.-Tonhallekonzert,2014-02-20,['Conductor: Howard Shelley '],Classic
-5,Zürich,Konzert,2014-02-20,[' Janine Jansen '],Classic
-6,Zürich,Internationales-Country-Music-Festival,2014-02-20,['Jo-El Sonnier & T. Graham Brown & Band '],
-7,Bern,Trompetenkonzert,2014-02-20,[' Tine Thing Helseth '],Classic
-8,Zürich,Ikarus,2014-02-20,"['Ikarus ', ' Stefanie Suhner ', ' Anderas Lareida ', ' Ramón Oliveras ']",
-9,Zürich,The-Deep-Dark-Woods,2014-02-20,['The Deep Dark Woods '],
-10,Zürich,Moderat,2014-02-20,"['Moderat ', ' Anstam ']",Electronic
-11,null,Nashville-Pussy,2014-02-20,['Nashville Pussy '],
-12,Basel,Mixed-Blessings,2014-02-20,"[' Samuel Stoll ', ' Moritz Müllenbach ', ' Simone Keller ']",Classic
-13,Basel,Portrait-Konzert-Balz-Trümpy,2014-02-20,"['Lena Kiepenheuer ', ' Nils Kohler ', ' Edward Rushton ']",Classic
-14,Luzern,Mondrian-Ensemble-weisse-Aepfel,2014-02-20,"[' Daniela Müller ', ' Petra Ackermann ', ' Karolina Oehman ']",Classic
-15,Luzern,Salonmusik,2014-02-20,"['Martin Schaefer ', ' Richard Decker ']",Classic
-16,Zürich,KT-Geier-Quartet-feat.-Georges-Burki,2014-02-20,"[' KT Geier ', ' Sabine Siegrist ', ' Frank Rösler ', ' Fredi Schmid ', ' Georges Burki ']",
-17,Winterthur,El-sexto-sentido,2014-02-20,[' Stummfilm von Nemesio M. Sobrevila '],
-18,Winterthur,Sarah-Buechi,2014-02-20,"[' Sarah Buechi ', ' Stefan Aey ', ' André Pousaz ', ' Lionel Friedli ']",
-19,Zürich,Der-Wawawa,2014-02-20,"[' Benedikt Reising ', ' Marco Müller ', ' Rico Baumann ']",
-20,Lausanne,Birdy,2014-02-20,['Birdy '],Pop
-21,Aarau,Isbells,2014-02-20,['Isbells '],
-22,Pratteln,The-Brew,2014-02-20,['The Brew '],
-23,Thun,Dirty-Purple-Turtle,2014-02-20,['Dirty Purple Turtle '],Electronic
-24,Liebefeld,Markus-Moser,2014-02-20,"[' Juan Munguia ', ' Markus Moser ', ' David Brito ', ' Silvano Borzachiello ', ' Cosimo Lampis ']",
-25,Bern,Santanico,2014-02-20,['Santanico '],
-26,Baden,Jazz-Rice-Performance,2014-02-20,"[' Lukas Valentin Gernet ', ' Rafael Jerjen ', ' Sheldon Suter ']",
-27,Zürich,Blockflöte-des-Todes,2014-02-20,['Blockflöte des Todes '],
-28,Lausanne,Pale-Grey,2014-02-20,['Pale Grey '],Pop
-29,Luzern,Wisdoom,2014-02-20,['Wisdoom '],
-30,Pontresina,Los-Latinos,2014-02-20,['Los Latinos '],
+location,event,date,artists,genre
+Zürich,Ex-America-lux-Lunchkonzert,2014-02-20,"[' Andrzej Kilian ', ' Seiko Morishita ', ' Dominik Ostertag ', ' Anita Federli-Rutz ', ' Bernhard Parz  ']",Classic
+null,Internationales-Gitarrenfestival,2014-02-20,"[' Willy Riechsteiner ', ' Sebastien Fulgido ', ' Michael Zisman ']",
+null,Die-Geschichte-vom-Soldaten,2014-02-20,"['Rivgosch Biel ', ' Heidi Maria Glössner ']",Classic
+Zürich,Thursday-Night-Jazz,2014-02-20,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']",
+null,7.-Tonhallekonzert,2014-02-20,['Conductor: Howard Shelley '],Classic
+Zürich,Konzert,2014-02-20,[' Janine Jansen '],Classic
+Zürich,Internationales-Country-Music-Festival,2014-02-20,['Jo-El Sonnier & T. Graham Brown & Band '],
+Bern,Trompetenkonzert,2014-02-20,[' Tine Thing Helseth '],Classic
+Zürich,Ikarus,2014-02-20,"['Ikarus ', ' Stefanie Suhner ', ' Anderas Lareida ', ' Ramón Oliveras ']",
+Zürich,The-Deep-Dark-Woods,2014-02-20,['The Deep Dark Woods '],
+Zürich,Moderat,2014-02-20,"['Moderat ', ' Anstam ']",Electronic
+null,Nashville-Pussy,2014-02-20,['Nashville Pussy '],
+Basel,Mixed-Blessings,2014-02-20,"[' Samuel Stoll ', ' Moritz Müllenbach ', ' Simone Keller ']",Classic
+Basel,Portrait-Konzert-Balz-Trümpy,2014-02-20,"['Lena Kiepenheuer ', ' Nils Kohler ', ' Edward Rushton ']",Classic
+Luzern,Mondrian-Ensemble-weisse-Aepfel,2014-02-20,"[' Daniela Müller ', ' Petra Ackermann ', ' Karolina Oehman ']",Classic
+Luzern,Salonmusik,2014-02-20,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Zürich,KT-Geier-Quartet-feat.-Georges-Burki,2014-02-20,"[' KT Geier ', ' Sabine Siegrist ', ' Frank Rösler ', ' Fredi Schmid ', ' Georges Burki ']",
+Winterthur,El-sexto-sentido,2014-02-20,[' Stummfilm von Nemesio M. Sobrevila '],
+Winterthur,Sarah-Buechi,2014-02-20,"[' Sarah Buechi ', ' Stefan Aey ', ' André Pousaz ', ' Lionel Friedli ']",
+Zürich,Der-Wawawa,2014-02-20,"[' Benedikt Reising ', ' Marco Müller ', ' Rico Baumann ']",
+Lausanne,Birdy,2014-02-20,['Birdy '],Pop
+Aarau,Isbells,2014-02-20,['Isbells '],
+Pratteln,The-Brew,2014-02-20,['The Brew '],
+Thun,Dirty-Purple-Turtle,2014-02-20,['Dirty Purple Turtle '],Electronic
+Liebefeld,Markus-Moser,2014-02-20,"[' Juan Munguia ', ' Markus Moser ', ' David Brito ', ' Silvano Borzachiello ', ' Cosimo Lampis ']",
+Bern,Santanico,2014-02-20,['Santanico '],
+Baden,Jazz-Rice-Performance,2014-02-20,"[' Lukas Valentin Gernet ', ' Rafael Jerjen ', ' Sheldon Suter ']",
+Zürich,Blockflöte-des-Todes,2014-02-20,['Blockflöte des Todes '],
+Lausanne,Pale-Grey,2014-02-20,['Pale Grey '],Pop
+Luzern,Wisdoom,2014-02-20,['Wisdoom '],
+Pontresina,Los-Latinos,2014-02-20,['Los Latinos '],

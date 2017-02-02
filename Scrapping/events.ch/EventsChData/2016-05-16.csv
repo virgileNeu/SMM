@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,Zürich,Schuberts-Oktett,2016-05-16,"['Michael Reid ', ' Michael von Schönermark ', ' Ivo Gass ', ' Andreas Janke ', ' Luis Esnaola ']",Classic
-1,Zürich,Mytilene-Trio,2016-05-16,['Mytilene-Trio '],
-2,Zürich,Bayernmän,2016-05-16,['Bayernmän '],traditional
-3,Luzern,Grenzen-überschreiten,2016-05-16,"[' Gabriela Beaková ', ' Edita Adlerová ', ' Tomá Cerný ', ' Jurij Kruglov ']",Classic
-4,Pratteln,Marduk,2016-05-16,"['Marduk ', ' Immolation ']",
-5,Zürich,Akademisches-Orchester-Zürich,2016-05-16,['Mischa Greull '],Classic
-6,Zürich,Monday-Jazz-at-Europa-with-Journeys,2016-05-16,"['Angelo Signore ', ' Ueli Gasser ', ' Philippe Mall ', ' Luciano Maranta ', ' Willy Kotoun ', ' Robert Mark ']",
-7,Basel,Best-of-Hope,2016-05-16,[' Daniel Hope '],Classic
-8,Zürich,Rast-Sha-Jordi,2016-05-16,"[' Kaspar Rast ', ' Sha ', ' Thomy Jordi ']",
-9,Zürich,Mumford-&-Sons,2016-05-16,['Mumford & Sons '],
-10,null,Glenn-Miller-Orchestra,2016-05-16,['Glenn Miller Orchestra '],
-11,Zürich,The-Dandy-Warhols,2016-05-16,"['The Dandy Warhols ', ' Happyness ']",
-12,Zürich,Flavia-Coelho,2016-05-16,"[' Flavia Coelho ', ' Victor Vagh ', ' Al Chonville ']",
+location,event,date,artists,genre
+Zürich,Schuberts-Oktett,2016-05-16,"['Michael Reid ', ' Michael von Schönermark ', ' Ivo Gass ', ' Andreas Janke ', ' Luis Esnaola ']",Classic
+Zürich,Mytilene-Trio,2016-05-16,['Mytilene-Trio '],
+Zürich,Bayernmän,2016-05-16,['Bayernmän '],traditional
+Luzern,Grenzen-überschreiten,2016-05-16,"[' Gabriela Beaková ', ' Edita Adlerová ', ' Tomá Cerný ', ' Jurij Kruglov ']",Classic
+Pratteln,Marduk,2016-05-16,"['Marduk ', ' Immolation ']",
+Zürich,Akademisches-Orchester-Zürich,2016-05-16,['Mischa Greull '],Classic
+Zürich,Monday-Jazz-at-Europa-with-Journeys,2016-05-16,"['Angelo Signore ', ' Ueli Gasser ', ' Philippe Mall ', ' Luciano Maranta ', ' Willy Kotoun ', ' Robert Mark ']",
+Basel,Best-of-Hope,2016-05-16,[' Daniel Hope '],Classic
+Zürich,Rast-Sha-Jordi,2016-05-16,"[' Kaspar Rast ', ' Sha ', ' Thomy Jordi ']",
+Zürich,Mumford-&-Sons,2016-05-16,['Mumford & Sons '],
+null,Glenn-Miller-Orchestra,2016-05-16,['Glenn Miller Orchestra '],
+Zürich,The-Dandy-Warhols,2016-05-16,"['The Dandy Warhols ', ' Happyness ']",
+Zürich,Flavia-Coelho,2016-05-16,"[' Flavia Coelho ', ' Victor Vagh ', ' Al Chonville ']",

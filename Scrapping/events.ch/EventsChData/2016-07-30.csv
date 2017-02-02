@@ -1,23 +1,23 @@
-,location,event,date,artists,genre
-0,Gstaad,Matinée-des-jeunes-étoiles-III,2016-07-30,['Schaghajegh Nosrati '],Classic
-1,Verbier,Verbier-Festival,2016-07-30,[' Andras Schiff '],Classic
-2,Basel,Faszination-Orgel,2016-07-30,['Christoph Bogon '],Classic
-3,Etziken,Openair-Etziken,2016-07-30,"[' Donots ', ' Milow ', ' Glasperlenspiel ']",
-4,Bern,No-Borders-No-Nations-Sommerfest,2016-07-30,['Terrorgruppe '],
-5,Verbier,Verbier-Festival,2016-07-30,[' Daniel Lozakovitj '],Classic
-6,Menziken,Mutterschiff-Openair,2016-07-30,['Levent & Taylor '],
-7,Menziken,Mutterschiff-Openair,2016-07-30,"['Wallis Bird ', ' Transmitter ']",
-8,Langnau-am-Albis,Langnau-Jazz-Nights,2016-07-30,"[' Magos Herrera ', ' David Gilmore ']",
-9,St.-Moritz,Festival-da-Jazz,2016-07-30,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Philipp Ackermann ', ' Michael Jeup ', ' Rolf Lyssy ']",
-10,Basel,Basel-Tattoo,2016-07-30,"['Canadiana Celtic Highland Dancers ', ' The Band of HM Royal Marines ', ' Conscript Band of the Finnish Defence Forces ', ' Fanfare du 27ème bataillon de chasseurs alpins ']",traditional
-11,null,22.-Waldrock-Open-Air,2016-07-30,[' New Jersey '],
-12,Verbier,Verbier-Festival,2016-07-30,"['Leonidas Kavakos ', ' Roman Simovic ', ' Blythe Teh Engstroem ', ' Gautier Capucon ', ' Martin Fröst ', ' Yuja Wang ']",Classic
-13,Saanen,Rhapsody,2016-07-30,"[' Fazil Say ', ' Gabor Boldoczki ']",Classic
-14,Verbier,Verbier-Festival,2016-07-30,['Sergei Babayan '],Classic
-15,Arlesheim,Stimmen,2016-07-30,['Travis '],Pop
-16,null,Langnau-Jazz-Nights,2016-07-30,"[' Gonzalo Rubalcaba ', ' Jose Armando Gola ', ' Horacio ""El Negro"" Hernandez ']",
-17,St.-Moritz,Festival-da-Jazz,2016-07-30,"[' Daniel Schnyder ', ' Adam Taubitz ', ' Seraina Pfenninger ', ' Anne Battegay ', ' Esther Fritzsche ', ' Jonas Vischi ', ' Daniel Pezzotti ', ' Raetus Flisch ', ' Toni Renold ']",
-18,Thun,Am-Schluss,2016-07-30,['Maïa Barouh '],Pop
-19,Zürich,Method-Man-&-Redman,2016-07-30,['Method Man & Redman '],
-20,Basel,Basel-Tattoo,2016-07-30,"['Canadiana Celtic Highland Dancers ', ' The Band of HM Royal Marines ', ' Conscript Band of the Finnish Defence Forces ', ' Fanfare du 27ème bataillon de chasseurs alpins ']",traditional
-21,St.-Moritz,Festival-da-Jazz,2016-07-30,"[' Greg Galli ', ' Erich Hunziker ', ' Herbie Kopf ', ' Simon Kistler ']",
+location,event,date,artists,genre
+Gstaad,Matinée-des-jeunes-étoiles-III,2016-07-30,['Schaghajegh Nosrati '],Classic
+Verbier,Verbier-Festival,2016-07-30,[' Andras Schiff '],Classic
+Basel,Faszination-Orgel,2016-07-30,['Christoph Bogon '],Classic
+Etziken,Openair-Etziken,2016-07-30,"[' Donots ', ' Milow ', ' Glasperlenspiel ']",
+Bern,No-Borders-No-Nations-Sommerfest,2016-07-30,['Terrorgruppe '],
+Verbier,Verbier-Festival,2016-07-30,[' Daniel Lozakovitj '],Classic
+Menziken,Mutterschiff-Openair,2016-07-30,['Levent & Taylor '],
+Menziken,Mutterschiff-Openair,2016-07-30,"['Wallis Bird ', ' Transmitter ']",
+Langnau-am-Albis,Langnau-Jazz-Nights,2016-07-30,"[' Magos Herrera ', ' David Gilmore ']",
+St.-Moritz,Festival-da-Jazz,2016-07-30,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Philipp Ackermann ', ' Michael Jeup ', ' Rolf Lyssy ']",
+Basel,Basel-Tattoo,2016-07-30,"['Canadiana Celtic Highland Dancers ', ' The Band of HM Royal Marines ', ' Conscript Band of the Finnish Defence Forces ', ' Fanfare du 27ème bataillon de chasseurs alpins ']",traditional
+null,22.-Waldrock-Open-Air,2016-07-30,[' New Jersey '],
+Verbier,Verbier-Festival,2016-07-30,"['Leonidas Kavakos ', ' Roman Simovic ', ' Blythe Teh Engstroem ', ' Gautier Capucon ', ' Martin Fröst ', ' Yuja Wang ']",Classic
+Saanen,Rhapsody,2016-07-30,"[' Fazil Say ', ' Gabor Boldoczki ']",Classic
+Verbier,Verbier-Festival,2016-07-30,['Sergei Babayan '],Classic
+Arlesheim,Stimmen,2016-07-30,['Travis '],Pop
+null,Langnau-Jazz-Nights,2016-07-30,"[' Gonzalo Rubalcaba ', ' Jose Armando Gola ', ' Horacio ""El Negro"" Hernandez ']",
+St.-Moritz,Festival-da-Jazz,2016-07-30,"[' Daniel Schnyder ', ' Adam Taubitz ', ' Seraina Pfenninger ', ' Anne Battegay ', ' Esther Fritzsche ', ' Jonas Vischi ', ' Daniel Pezzotti ', ' Raetus Flisch ', ' Toni Renold ']",
+Thun,Am-Schluss,2016-07-30,['Maïa Barouh '],Pop
+Zürich,Method-Man-&-Redman,2016-07-30,['Method Man & Redman '],
+Basel,Basel-Tattoo,2016-07-30,"['Canadiana Celtic Highland Dancers ', ' The Band of HM Royal Marines ', ' Conscript Band of the Finnish Defence Forces ', ' Fanfare du 27ème bataillon de chasseurs alpins ']",traditional
+St.-Moritz,Festival-da-Jazz,2016-07-30,"[' Greg Galli ', ' Erich Hunziker ', ' Herbie Kopf ', ' Simon Kistler ']",

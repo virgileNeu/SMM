@@ -1,30 +1,30 @@
-,location,event,date,artists,genre
-0,Zürich,Dirigierkurs-David-Zinman,2014-02-06,[' Sabine Poyé Morel '],Classic
-1,Zürich,Internationales-Country-Music-Festival,2014-02-06,['Tony Lewis & Tuff Love '],
-2,Zürich,Thursday-Night-Jazz,2014-02-06,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']",
-3,null,Ikarus,2014-02-06,"[' Stefanie Suhner ', ' Anderas Lareida ', ' Lucca Fries ']",
-4,Luzern,Salonmusik,2014-02-06,"['Martin Schaefer ', ' Richard Decker ']",Classic
-5,Bern,John-The-Conqueror,2014-02-06,['John The Conqueror '],
-6,Vevey,The-Funeral-Suits,2014-02-06,"['The Funeral Suits ', ' Charlie Barnes ']",
-7,Basel,Nicht-ich-Über-das-Marionettentheater-von-Kleist,2014-02-06,"[' Petra Hoffmann ', ' Jörg Weinöhl ', ' conductor: Isabel Mundry ']",Classic
-8,Zürich,Laura-Pausini,2014-02-06,['Laura Pausini '],Pop
-9,Zürich,Sophie-et-ses-Gigolos,2014-02-06,"[' Sophie Raïs ', ' Thomas Brühwiler ', ' Florian Kolb ', ' Ali Salvioni ', ' Erwin Boos ']",
-10,Winterthur,Minimalarge-Ensemble,2014-02-06,"[' Dominic Stahl ', ' Andi Bissig ', ' Angelika Büeler ', ' Anna Bernhard ', ' Simon Iten ', ' Patrik Horat ']",
-11,Kloten,Gavin-James,2014-02-06,['Gavin James '],
-12,Sankt-Gallen,Stephan-Athanas'-Contemparabic-Jazz-Ensemble,2014-02-06,"[""Stephan Athanas' Contemparabic Jazz Ensemble "", ' Samiha Ben Said ', ' Samir Ferjani ', ' Benji Fellous ', ' Bernard Vidal ', ' Dave Feusi ', ' Tony Renold ', ' Stephan Athanas ']",
-13,Zürich,A-Good-Slide-for-God's-Sake,2014-02-06,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ']",
-14,Baden,Jazz-Rice-Performance,2014-02-06,"[' Simon Schwaninger ', ' Marco Clerc ', ' Alessandro Gianelli ']",
-15,Basel,Der-Wawawa,2014-02-06,"[' Benedikt Reising ', ' Marco Muller ', ' Rico Baumann ']",
-16,Aarau,Tunng,2014-02-06,['Tunng '],
-17,Zürich,Jay-Jay-Johanson,2014-02-06,"['Jay-Jay Johanson ', ' Jay-Jay Johanson ', ' Erik Jonsson ']",Pop
-18,Liebefeld,Matthias-Tschopp-Quartett,2014-02-06,"[' Matthias Tschopp ', ' Yves Theiler ', ' Raffaele Bossard ', ' Alex Huber ']",
-19,Baden,One-of-a-Million,2014-02-06,['Joy Wellboy '],Electronic
-20,null,Blakat-Jam-Session,2014-02-06,"['Maxence Sibille ', ' Vincent Ruiz ', ' Baptiste Bouli ', ' Sunny Simonet ', ' Matthieu Llodra ']",
-21,Solothurn,Riverboat-Gamblers,2014-02-06,['Riverboat Gamblers '],
-22,null,Box,2014-02-06,"[' Black Cracker ', ' Niklaus Hürny ', ' electr) Fabian M. Mueller ', ' Kaspar von Grünigen ', ' Alexandre Maurer ']",
-23,Basel,Cube-Session,2014-02-06,[' Veit Herstenstein '],Classic
-24,Zürich,Deer-Tick,2014-02-06,"['Deer Tick ', ' support: Samantha Crain ']",
-25,Lausanne,Traams,2014-02-06,['Traams '],
-26,Zürich,Jeri-Jeri,2014-02-06,"['Jeri-Jeri ', ' DJ Mark Ernestus ']",
-27,Pontresina,The-Shakers,2014-02-06,['The Shakers '],
-28,Baden,One-of-a-Million,2014-02-06,['Naked Lunch '],
+location,event,date,artists,genre
+Zürich,Dirigierkurs-David-Zinman,2014-02-06,[' Sabine Poyé Morel '],Classic
+Zürich,Internationales-Country-Music-Festival,2014-02-06,['Tony Lewis & Tuff Love '],
+Zürich,Thursday-Night-Jazz,2014-02-06,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']",
+null,Ikarus,2014-02-06,"[' Stefanie Suhner ', ' Anderas Lareida ', ' Lucca Fries ']",
+Luzern,Salonmusik,2014-02-06,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Bern,John-The-Conqueror,2014-02-06,['John The Conqueror '],
+Vevey,The-Funeral-Suits,2014-02-06,"['The Funeral Suits ', ' Charlie Barnes ']",
+Basel,Nicht-ich-Über-das-Marionettentheater-von-Kleist,2014-02-06,"[' Petra Hoffmann ', ' Jörg Weinöhl ', ' conductor: Isabel Mundry ']",Classic
+Zürich,Laura-Pausini,2014-02-06,['Laura Pausini '],Pop
+Zürich,Sophie-et-ses-Gigolos,2014-02-06,"[' Sophie Raïs ', ' Thomas Brühwiler ', ' Florian Kolb ', ' Ali Salvioni ', ' Erwin Boos ']",
+Winterthur,Minimalarge-Ensemble,2014-02-06,"[' Dominic Stahl ', ' Andi Bissig ', ' Angelika Büeler ', ' Anna Bernhard ', ' Simon Iten ', ' Patrik Horat ']",
+Kloten,Gavin-James,2014-02-06,['Gavin James '],
+Sankt-Gallen,Stephan-Athanas'-Contemparabic-Jazz-Ensemble,2014-02-06,"[""Stephan Athanas' Contemparabic Jazz Ensemble "", ' Samiha Ben Said ', ' Samir Ferjani ', ' Benji Fellous ', ' Bernard Vidal ', ' Dave Feusi ', ' Tony Renold ', ' Stephan Athanas ']",
+Zürich,A-Good-Slide-for-God's-Sake,2014-02-06,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ']",
+Baden,Jazz-Rice-Performance,2014-02-06,"[' Simon Schwaninger ', ' Marco Clerc ', ' Alessandro Gianelli ']",
+Basel,Der-Wawawa,2014-02-06,"[' Benedikt Reising ', ' Marco Muller ', ' Rico Baumann ']",
+Aarau,Tunng,2014-02-06,['Tunng '],
+Zürich,Jay-Jay-Johanson,2014-02-06,"['Jay-Jay Johanson ', ' Jay-Jay Johanson ', ' Erik Jonsson ']",Pop
+Liebefeld,Matthias-Tschopp-Quartett,2014-02-06,"[' Matthias Tschopp ', ' Yves Theiler ', ' Raffaele Bossard ', ' Alex Huber ']",
+Baden,One-of-a-Million,2014-02-06,['Joy Wellboy '],Electronic
+null,Blakat-Jam-Session,2014-02-06,"['Maxence Sibille ', ' Vincent Ruiz ', ' Baptiste Bouli ', ' Sunny Simonet ', ' Matthieu Llodra ']",
+Solothurn,Riverboat-Gamblers,2014-02-06,['Riverboat Gamblers '],
+null,Box,2014-02-06,"[' Black Cracker ', ' Niklaus Hürny ', ' electr) Fabian M. Mueller ', ' Kaspar von Grünigen ', ' Alexandre Maurer ']",
+Basel,Cube-Session,2014-02-06,[' Veit Herstenstein '],Classic
+Zürich,Deer-Tick,2014-02-06,"['Deer Tick ', ' support: Samantha Crain ']",
+Lausanne,Traams,2014-02-06,['Traams '],
+Zürich,Jeri-Jeri,2014-02-06,"['Jeri-Jeri ', ' DJ Mark Ernestus ']",
+Pontresina,The-Shakers,2014-02-06,['The Shakers '],
+Baden,One-of-a-Million,2014-02-06,['Naked Lunch '],

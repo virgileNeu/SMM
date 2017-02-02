@@ -1,41 +1,41 @@
-,location,event,date,artists,genre
-0,Basel,Orgelspiel-zum-Feierabend,2016-12-09,['Lukas Frank '],Classic
-1,Dietikon,Feierabendmusik-in-der-Kirche,2016-12-09,[' Bernhard Hörler '],
-2,Zürich,Lukas-Rieger,2016-12-09,['Lukas Rieger '],Pop
-3,Zürich,Benefizkonzert-der-Stiftung-Impact-Bethanien,2016-12-09,"['Deborah Rosenkranz ', ' Michael Schlierf ']",Pop
-4,Zürich,Adventskonzert,2016-12-09,"[' Kateryna Timokhina-Haupt ', ' Stefanie Schlagenhauf ', ' Pascal Suter ', ' Helga Váradi ']",Classic
-5,Bern,Besinnliches-Adventskonzert,2016-12-09,"[' Diana Petrova ', ' Piotr Prochera ']",Classic
-6,Winterthur,Forellenquintett,2016-12-09,"['Roberto González Monjas ', ' Ivona Krapikaite ', ' Seraphina Rufer ', ' Kristof Zambo ', ' Ulrich Koella ']",Classic
-7,Zürich,Orchestermagie,2016-12-09,[' Sir András Schiff '],Classic
-8,Pratteln,Saxon,2016-12-09,['Saxon '],
-9,Bern,Züricher-Kammerorchester,2016-12-09,[' Daniel Hope '],Classic
-10,Rapperswil,Vibes-&-Brass,2016-12-09,[' Thomas Dobler '],Classic
-11,Zürich,Rag'n'Bone-Man,2016-12-09,"[""Rag'n'Bone Man "", ' Jade Bird ']",Pop
-12,Zürich,L'allegro-il-penseroso-ed-il-moderato,2016-12-09,"['Ai Watanabe ', ' Hannah Mehler ', ' Luca Valentin Bernard ']",Classic
-13,Münchenbuchsee,Klassische-Werke-und-Volkslieder-aus-Russland,2016-12-09,['Ermitage '],Classic
-14,Luzern,Adventskonzert,2016-12-09,[' Wolfgang Sieber '],Classic
-15,Bern,Piano-Süd-Trio,2016-12-09,"[' Antonello Messina ', ' Luca Lo Bianco ', ' Silvano Borzacchiello ']",
-16,Basel,She-Keeps-Bees,2016-12-09,['She Keeps Bees '],
-17,null,Spiritual-Jazz-Standards,2016-12-09,"['Markus Burger ', ' Jan von Klewitz ']",
-18,Zürich,Werkstattkonzert,2016-12-09,"[' ChrHanna Schörken ', ' Stefan Schönegg ', ' Leonhard Huhn ']",
-19,null,Achterberg-&-Band,2016-12-09,"[' Jaap Achterberg ', ' Franco Mettler ', ' Nick Gutersohn ', ' Thomas Weber ', ' Jojo Kunz ']",Pop
-20,Winterthur,Patrick-Biancos-Cannonsoul-&-Beyond,2016-12-09,"[' Patrick Bianco ', ' Peter Protschka ', ' Etienne Deconfin ', ' Geraud Portal ', ' Bernd Reiter ']",
-21,Baden,Nose-Ahead,2016-12-09,"[' Johnny Benz ', ' Sarah Buck ', ' Dürscht Meier ', ' Hans-Ruedi Känel ', ' Greg Torre ', ' Matz Canzani ']",
-22,Basel,Robin-Verheyen-NY-Quartet,2016-12-09,"[' Russ Johnson ', ' Robin Verheyen ', ' Drew Gress ', ' Jeff Davis ']",
-23,Zürich,Niculin-Janett-Quartet-feat.-Rich-Perry,2016-12-09,"[' Niculin Janett ', ' Rich Perry ', ' Lisa Hoppe ', ' Claudio Strüby ']",
-24,Zug,Heidi-Happy,2016-12-09,"[' Heidi Happy ', ' Ephrem Lüchi ']",Pop
-25,null,Marius-Neset,2016-12-09,"[' Marius Neset ', ' Ivo Neame ', ' Anton Eger ', ' Petter Eldh ', ' Jim Hart ']",
-26,Bern,Mory-Samb-&-Band,2016-12-09,"[' Mory Samb ', ' Sam Baur ', ' Jürg Schmidhauser ', ' Tobi Diggelmann ', ' Claudio von Arx ', ' Luki Wyss ']",
-27,Lausanne,Lucky-Chops,2016-12-09,['Lucky Chops '],
-28,Liebefeld,Uptown-Big-Band,2016-12-09,[' Bruno Spörri '],
-29,Luzern,Henrik-Belden,2016-12-09,['Henrik Belden '],Pop
-30,Lenzburg,Wellbad,2016-12-09,['Wellbad '],
-31,Solothurn,Delinquent-Habits,2016-12-09,['Delinquent Habits '],
-32,null,Humair-Portal-Chevillon,2016-12-09,"[' Daniel Humair ', ' Michel Portal ', ' Bruno Chevillon ']",
-33,null,Mike-Skinner-&-Murkage-pres.-Tonga,2016-12-09,['Mike Skinner & Murkage pres. Tonga '],Electronic
-34,Basel,Freitagsbar,2016-12-09,"[' Vasko Atanasovski ', ' Erich Fischer ', ' Silvan Jeger ']",
-35,Düdingen,Throws,2016-12-09,['Throws '],Pop
-36,Grenchen,Doctor's-Order,2016-12-09,"[""Doctor's Order ""]",
-37,Sankt-Gallen,Ocean-Wisdom,2016-12-09,['Ocean Wisdom '],
-38,Lausanne,The-Mauskovic-Dance-Band,2016-12-09,"['The Mauskovic Dance Band ', ' After-Show: Booty Carrell ']",
-39,Bern,Wunderland,2016-12-09,['Wunderland '],Electronic
+location,event,date,artists,genre
+Basel,Orgelspiel-zum-Feierabend,2016-12-09,['Lukas Frank '],Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2016-12-09,[' Bernhard Hörler '],
+Zürich,Lukas-Rieger,2016-12-09,['Lukas Rieger '],Pop
+Zürich,Benefizkonzert-der-Stiftung-Impact-Bethanien,2016-12-09,"['Deborah Rosenkranz ', ' Michael Schlierf ']",Pop
+Zürich,Adventskonzert,2016-12-09,"[' Kateryna Timokhina-Haupt ', ' Stefanie Schlagenhauf ', ' Pascal Suter ', ' Helga Váradi ']",Classic
+Bern,Besinnliches-Adventskonzert,2016-12-09,"[' Diana Petrova ', ' Piotr Prochera ']",Classic
+Winterthur,Forellenquintett,2016-12-09,"['Roberto González Monjas ', ' Ivona Krapikaite ', ' Seraphina Rufer ', ' Kristof Zambo ', ' Ulrich Koella ']",Classic
+Zürich,Orchestermagie,2016-12-09,[' Sir András Schiff '],Classic
+Pratteln,Saxon,2016-12-09,['Saxon '],
+Bern,Züricher-Kammerorchester,2016-12-09,[' Daniel Hope '],Classic
+Rapperswil,Vibes-&-Brass,2016-12-09,[' Thomas Dobler '],Classic
+Zürich,Rag'n'Bone-Man,2016-12-09,"[""Rag'n'Bone Man "", ' Jade Bird ']",Pop
+Zürich,L'allegro-il-penseroso-ed-il-moderato,2016-12-09,"['Ai Watanabe ', ' Hannah Mehler ', ' Luca Valentin Bernard ']",Classic
+Münchenbuchsee,Klassische-Werke-und-Volkslieder-aus-Russland,2016-12-09,['Ermitage '],Classic
+Luzern,Adventskonzert,2016-12-09,[' Wolfgang Sieber '],Classic
+Bern,Piano-Süd-Trio,2016-12-09,"[' Antonello Messina ', ' Luca Lo Bianco ', ' Silvano Borzacchiello ']",
+Basel,She-Keeps-Bees,2016-12-09,['She Keeps Bees '],
+null,Spiritual-Jazz-Standards,2016-12-09,"['Markus Burger ', ' Jan von Klewitz ']",
+Zürich,Werkstattkonzert,2016-12-09,"[' ChrHanna Schörken ', ' Stefan Schönegg ', ' Leonhard Huhn ']",
+null,Achterberg-&-Band,2016-12-09,"[' Jaap Achterberg ', ' Franco Mettler ', ' Nick Gutersohn ', ' Thomas Weber ', ' Jojo Kunz ']",Pop
+Winterthur,Patrick-Biancos-Cannonsoul-&-Beyond,2016-12-09,"[' Patrick Bianco ', ' Peter Protschka ', ' Etienne Deconfin ', ' Geraud Portal ', ' Bernd Reiter ']",
+Baden,Nose-Ahead,2016-12-09,"[' Johnny Benz ', ' Sarah Buck ', ' Dürscht Meier ', ' Hans-Ruedi Känel ', ' Greg Torre ', ' Matz Canzani ']",
+Basel,Robin-Verheyen-NY-Quartet,2016-12-09,"[' Russ Johnson ', ' Robin Verheyen ', ' Drew Gress ', ' Jeff Davis ']",
+Zürich,Niculin-Janett-Quartet-feat.-Rich-Perry,2016-12-09,"[' Niculin Janett ', ' Rich Perry ', ' Lisa Hoppe ', ' Claudio Strüby ']",
+Zug,Heidi-Happy,2016-12-09,"[' Heidi Happy ', ' Ephrem Lüchi ']",Pop
+null,Marius-Neset,2016-12-09,"[' Marius Neset ', ' Ivo Neame ', ' Anton Eger ', ' Petter Eldh ', ' Jim Hart ']",
+Bern,Mory-Samb-&-Band,2016-12-09,"[' Mory Samb ', ' Sam Baur ', ' Jürg Schmidhauser ', ' Tobi Diggelmann ', ' Claudio von Arx ', ' Luki Wyss ']",
+Lausanne,Lucky-Chops,2016-12-09,['Lucky Chops '],
+Liebefeld,Uptown-Big-Band,2016-12-09,[' Bruno Spörri '],
+Luzern,Henrik-Belden,2016-12-09,['Henrik Belden '],Pop
+Lenzburg,Wellbad,2016-12-09,['Wellbad '],
+Solothurn,Delinquent-Habits,2016-12-09,['Delinquent Habits '],
+null,Humair-Portal-Chevillon,2016-12-09,"[' Daniel Humair ', ' Michel Portal ', ' Bruno Chevillon ']",
+null,Mike-Skinner-&-Murkage-pres.-Tonga,2016-12-09,['Mike Skinner & Murkage pres. Tonga '],Electronic
+Basel,Freitagsbar,2016-12-09,"[' Vasko Atanasovski ', ' Erich Fischer ', ' Silvan Jeger ']",
+Düdingen,Throws,2016-12-09,['Throws '],Pop
+Grenchen,Doctor's-Order,2016-12-09,"[""Doctor's Order ""]",
+Sankt-Gallen,Ocean-Wisdom,2016-12-09,['Ocean Wisdom '],
+Lausanne,The-Mauskovic-Dance-Band,2016-12-09,"['The Mauskovic Dance Band ', ' After-Show: Booty Carrell ']",
+Bern,Wunderland,2016-12-09,['Wunderland '],Electronic

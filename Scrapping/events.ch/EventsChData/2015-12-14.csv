@@ -1,13 +1,13 @@
-,location,event,date,artists,genre
-0,Zürich,Werner-und-Company,2015-12-14,['Werner und Company '],Pop
-1,Solothurn,Lori-Glori,2015-12-14,"[' Lori Glori ', ' Andy Boller ', ' Kelvin Bullen ', ' Hans Ali ']",
-2,Zürich,Mehsuff-Presents,2015-12-14,"['Gehenna ', ' Kampfar ', ' Gorgoroth ']",
-3,Basel,Alle-Jahre-wieder,2015-12-14,[' Andreas Scholl '],Classic
-4,Baden,Konzert-für-Mädchenbildungsprojekte,2015-12-14,['Khatia und Gvantsa Buniatishvili '],Classic
-5,Zürich,Entdeckt,2015-12-14,[' Michail Lifits '],Classic
-6,Bern,Klanglandschaften,2015-12-14,"[' Maximiliano Delanian ', ' Yanina German ', ' Willi Grimm ']",
-7,Baden,Lucia-Cadotsch-Speak-Low,2015-12-14,"[' Lucia Cadotsch ', ' Otis Sandsjö ', ' Petter Eldh ']",
-8,Zürich,Brian-Lopez,2015-12-14,"['Brian Lopez ', ' Gabrial Sullivan ']",Pop
-9,Zürich,Hidden-Orchestra,2015-12-14,"['Hidden Orchestra ', ' Poppy Ackroyd ', ' Joe Acheson ', ' Tim Lane ', ' Jamie Graham ']",
-10,Winterthur,Tom-James,2015-12-14,['Tom James '],Pop
-11,Zürich,Nik-Bärtsch's-Ronin,2015-12-14,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Sha ', ' Thomy Jordi ']",
+location,event,date,artists,genre
+Zürich,Werner-und-Company,2015-12-14,['Werner und Company '],Pop
+Solothurn,Lori-Glori,2015-12-14,"[' Lori Glori ', ' Andy Boller ', ' Kelvin Bullen ', ' Hans Ali ']",
+Zürich,Mehsuff-Presents,2015-12-14,"['Gehenna ', ' Kampfar ', ' Gorgoroth ']",
+Basel,Alle-Jahre-wieder,2015-12-14,[' Andreas Scholl '],Classic
+Baden,Konzert-für-Mädchenbildungsprojekte,2015-12-14,['Khatia und Gvantsa Buniatishvili '],Classic
+Zürich,Entdeckt,2015-12-14,[' Michail Lifits '],Classic
+Bern,Klanglandschaften,2015-12-14,"[' Maximiliano Delanian ', ' Yanina German ', ' Willi Grimm ']",
+Baden,Lucia-Cadotsch-Speak-Low,2015-12-14,"[' Lucia Cadotsch ', ' Otis Sandsjö ', ' Petter Eldh ']",
+Zürich,Brian-Lopez,2015-12-14,"['Brian Lopez ', ' Gabrial Sullivan ']",Pop
+Zürich,Hidden-Orchestra,2015-12-14,"['Hidden Orchestra ', ' Poppy Ackroyd ', ' Joe Acheson ', ' Tim Lane ', ' Jamie Graham ']",
+Winterthur,Tom-James,2015-12-14,['Tom James '],Pop
+Zürich,Nik-Bärtsch's-Ronin,2015-12-14,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Sha ', ' Thomy Jordi ']",

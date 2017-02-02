@@ -1,10 +1,10 @@
-,location,event,date,artists,genre
-0,Zürich,Werner-und-Company,2015-07-13,['Werner und Company '],Pop
-1,Pratteln,Rival-Sons,2015-07-13,"['Rival Sons ', ' Midriff ']",
-2,Montreux,Montreux-Jazz-Festival,2015-07-13,"['Lenny Kravitz ', ' Benjamin Booker ']",
-3,Montreux,Montreux-Jazz-Festival,2015-07-13,['Sly & Robbie feat. Nils Petter Molvær '],
-4,Zürich,Tora,2015-07-13,['Tora '],Electronic
-5,Zürich,Joe-D'Urso,2015-07-13,"[""Joe D'Urso ""]",
-6,Montreux,Montreux-Jazz-Festival,2015-07-13,"['Hot Chip ', ' James Blake ']",Electronic
-7,Locarno,Moon-and-Stars,2015-07-13,['Stromae '],Pop
-8,St.-Moritz,Festival-da-Jazz,2015-07-13,"[' Ivan Lins ', ' Leonardo Amuedo ']",
+location,event,date,artists,genre
+Zürich,Werner-und-Company,2015-07-13,['Werner und Company '],Pop
+Pratteln,Rival-Sons,2015-07-13,"['Rival Sons ', ' Midriff ']",
+Montreux,Montreux-Jazz-Festival,2015-07-13,"['Lenny Kravitz ', ' Benjamin Booker ']",
+Montreux,Montreux-Jazz-Festival,2015-07-13,['Sly & Robbie feat. Nils Petter Molvær '],
+Zürich,Tora,2015-07-13,['Tora '],Electronic
+Zürich,Joe-D'Urso,2015-07-13,"[""Joe D'Urso ""]",
+Montreux,Montreux-Jazz-Festival,2015-07-13,"['Hot Chip ', ' James Blake ']",Electronic
+Locarno,Moon-and-Stars,2015-07-13,['Stromae '],Pop
+St.-Moritz,Festival-da-Jazz,2015-07-13,"[' Ivan Lins ', ' Leonardo Amuedo ']",

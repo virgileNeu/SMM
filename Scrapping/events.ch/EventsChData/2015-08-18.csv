@@ -1,6 +1,6 @@
-,location,event,date,artists,genre
-0,Zürich,Klänge-zum-Aufsehen,2015-08-18,['Andreas Jost '],Classic
-1,Zürich,Glantaler-Power-Men,2015-08-18,['Glantaler Power Men '],traditional
-2,null,The-Freeborn-Brothers,2015-08-18,['The Freeborn Brothers '],
-3,Luzern,Lucerne-Festival,2015-08-18,"['Yaara Tal ', ' Andreas Groethuysen ']",Classic
-4,Münchenwiler,Murten-Classics,2015-08-18,"[' Alexander Zeiher ', ' Tomá Hájek ', ' Makoto Sudo ', ' Luká Pospíil ']",Classic
+location,event,date,artists,genre
+Zürich,Klänge-zum-Aufsehen,2015-08-18,['Andreas Jost '],Classic
+Zürich,Glantaler-Power-Men,2015-08-18,['Glantaler Power Men '],traditional
+null,The-Freeborn-Brothers,2015-08-18,['The Freeborn Brothers '],
+Luzern,Lucerne-Festival,2015-08-18,"['Yaara Tal ', ' Andreas Groethuysen ']",Classic
+Münchenwiler,Murten-Classics,2015-08-18,"[' Alexander Zeiher ', ' Tomá Hájek ', ' Makoto Sudo ', ' Luká Pospíil ']",Classic

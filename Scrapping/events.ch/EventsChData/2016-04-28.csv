@@ -1,33 +1,33 @@
-,location,event,date,artists,genre
-0,null,9.-Tonhallekonzert-Italien,2016-04-28,"['Igor Keller ', ' Dmitry Mishelovich ', ' Iryna Gintova ']",Classic
-1,Aarau,Metalmayhem,2016-04-28,"['Primordial ', ' Ketzer ', ' Svartidaudi ']",
-2,Zürich,Final-Days-Society,2016-04-28,['Final Days Society '],
-3,Zürich,Thursday-Night-Jazz,2016-04-28,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-4,Basel,Volkssinfoniekonzert,2016-04-28,[' Elena Bashkirova '],Classic
-5,Zürich,Antonín-Dvorák,2016-04-28,"[' Emanuele Jannibelli ', ' Flurin Cuonz ']",Classic
-6,Basel,A-la-recherche-de-Reger,2016-04-28,"['Egidius Streiff ', ' Alessandro Tardino ']",Classic
-7,Bern,Internationales-Jazzfestival-Bern,2016-04-28,"['Marcus Roberts and the Modern Jazz Generation ', ' New Orleans Groove Masters ']",
-8,Zürich,Jenny-Chi-Trio,2016-04-28,"[' Jenny Chi ', ' Oliver Pellet ', ' Ralph Sonderegger ']",
-9,Pratteln,John-Illsley,2016-04-28,['John Illsley '],
-10,Zürich,Conchita,2016-04-28,['Conchita '],Pop
-11,Basel,Jazzfestival-Basel,2016-04-28,"[' Andreas Schaerer ', ' Lucas Niggli ']",
-12,Bern,S26,2016-04-28,"[' Hans Graf ', ' Alex Wyssmann ', ' Jan Trösch ', ' Philipp Moll ', ' Thomas Reist ']",
-13,Wil,Gare-Tango,2016-04-28,[' live: Duo Ranas '],
-14,Solothurn,Candy-Dulfer,2016-04-28,['Candy Dulfer '],
-15,null,Stuck-In-The-Sound,2016-04-28,['Stuck In The Sound '],
-16,Winterthur,Kakkmaddafakka-&-Al-Pride,2016-04-28,['Kakkmaddafakka '],
-17,Zürich,Matt-Simons,2016-04-28,"['Matt Simons ', ' Chris Ayer ']",Pop
-18,Baden,The-David-Ambrosio-Trio,2016-04-28,"[' David Ambrosio ', ' Loren Stillman ', ' Russ Meissner ']",
-19,Winterthur,Albert-Sanz-Quintet,2016-04-28,"[' Albert Sanz ', ' Mats Spillmann ', ' Gabriel Dalvit ', ' Dominique Girod ', ' Claudio Strüby ']",
-20,Lugano,Tournee-V,2016-04-28,[' Sol Gabetta '],Classic
-21,Basel,Roelofs-Bennink,2016-04-28,"[' Joris Roelofs ', ' Han Bennink ']",
-22,Baden,Hausquartett,2016-04-28,"[' Christoph Grab ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-23,Zürich,Collection,2016-04-28,"['Simone Keller ', ' Samuel Stoll ']",Classic
-24,Liebefeld,Bad-Resolution,2016-04-28,"[' Ganesh Geymeier ', ' Christophe Calpini ']",
-25,Thun,The-Two-Romans,2016-04-28,['The Two Romans '],
-26,Basel,Banquet,2016-04-28,"['Banquet ', ' Pure Joy ']",
-27,Sankt-Gallen,Quiet-Motors,2016-04-28,['Pierre Bastien '],
-28,Zürich,Kid-Ikarus,2016-04-28,['Kid Ikarus '],
-29,Zürich,Yet-To-Find,2016-04-28,"[' Daniel Eugster ', ' Tshanda Sangwa ', ' Jonathan Müller ', ' Benjamin Schmid ', ' Rafael Espinoza ']",
-30,Zürich,The-Blank-Tapes,2016-04-28,['The Blank Tapes '],
-31,Zürich,Inuuk,2016-04-28,"[' Martin Deplazes ', ' Hannah Bissegger ', ' Andreas Achermann ', ' Marcel Frautschi ', ' Mattia Ferrari ']",
+location,event,date,artists,genre
+null,9.-Tonhallekonzert-Italien,2016-04-28,"['Igor Keller ', ' Dmitry Mishelovich ', ' Iryna Gintova ']",Classic
+Aarau,Metalmayhem,2016-04-28,"['Primordial ', ' Ketzer ', ' Svartidaudi ']",
+Zürich,Final-Days-Society,2016-04-28,['Final Days Society '],
+Zürich,Thursday-Night-Jazz,2016-04-28,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Basel,Volkssinfoniekonzert,2016-04-28,[' Elena Bashkirova '],Classic
+Zürich,Antonín-Dvorák,2016-04-28,"[' Emanuele Jannibelli ', ' Flurin Cuonz ']",Classic
+Basel,A-la-recherche-de-Reger,2016-04-28,"['Egidius Streiff ', ' Alessandro Tardino ']",Classic
+Bern,Internationales-Jazzfestival-Bern,2016-04-28,"['Marcus Roberts and the Modern Jazz Generation ', ' New Orleans Groove Masters ']",
+Zürich,Jenny-Chi-Trio,2016-04-28,"[' Jenny Chi ', ' Oliver Pellet ', ' Ralph Sonderegger ']",
+Pratteln,John-Illsley,2016-04-28,['John Illsley '],
+Zürich,Conchita,2016-04-28,['Conchita '],Pop
+Basel,Jazzfestival-Basel,2016-04-28,"[' Andreas Schaerer ', ' Lucas Niggli ']",
+Bern,S26,2016-04-28,"[' Hans Graf ', ' Alex Wyssmann ', ' Jan Trösch ', ' Philipp Moll ', ' Thomas Reist ']",
+Wil,Gare-Tango,2016-04-28,[' live: Duo Ranas '],
+Solothurn,Candy-Dulfer,2016-04-28,['Candy Dulfer '],
+null,Stuck-In-The-Sound,2016-04-28,['Stuck In The Sound '],
+Winterthur,Kakkmaddafakka-&-Al-Pride,2016-04-28,['Kakkmaddafakka '],
+Zürich,Matt-Simons,2016-04-28,"['Matt Simons ', ' Chris Ayer ']",Pop
+Baden,The-David-Ambrosio-Trio,2016-04-28,"[' David Ambrosio ', ' Loren Stillman ', ' Russ Meissner ']",
+Winterthur,Albert-Sanz-Quintet,2016-04-28,"[' Albert Sanz ', ' Mats Spillmann ', ' Gabriel Dalvit ', ' Dominique Girod ', ' Claudio Strüby ']",
+Lugano,Tournee-V,2016-04-28,[' Sol Gabetta '],Classic
+Basel,Roelofs-Bennink,2016-04-28,"[' Joris Roelofs ', ' Han Bennink ']",
+Baden,Hausquartett,2016-04-28,"[' Christoph Grab ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
+Zürich,Collection,2016-04-28,"['Simone Keller ', ' Samuel Stoll ']",Classic
+Liebefeld,Bad-Resolution,2016-04-28,"[' Ganesh Geymeier ', ' Christophe Calpini ']",
+Thun,The-Two-Romans,2016-04-28,['The Two Romans '],
+Basel,Banquet,2016-04-28,"['Banquet ', ' Pure Joy ']",
+Sankt-Gallen,Quiet-Motors,2016-04-28,['Pierre Bastien '],
+Zürich,Kid-Ikarus,2016-04-28,['Kid Ikarus '],
+Zürich,Yet-To-Find,2016-04-28,"[' Daniel Eugster ', ' Tshanda Sangwa ', ' Jonathan Müller ', ' Benjamin Schmid ', ' Rafael Espinoza ']",
+Zürich,The-Blank-Tapes,2016-04-28,['The Blank Tapes '],
+Zürich,Inuuk,2016-04-28,"[' Martin Deplazes ', ' Hannah Bissegger ', ' Andreas Achermann ', ' Marcel Frautschi ', ' Mattia Ferrari ']",

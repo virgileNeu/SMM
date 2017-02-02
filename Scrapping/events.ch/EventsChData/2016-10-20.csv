@@ -1,32 +1,32 @@
-,location,event,date,artists,genre
-0,Zürich,Kärnzeit,2016-10-20,['Kärnzeit '],Pop
-1,Liebefeld,Callas-öffentliche-Probe,2016-10-20,[' Sopranistin Alexandra '],Classic
-2,Bern,Live-Session,2016-10-20,"['Jagger Holly ', ' Teenage Bubblegums ']",
-3,Winterthur,Swiss-&-Die-Andern,2016-10-20,['Swiss & Die Andern '],Pop
-4,Zürich,Megaloh,2016-10-20,['Megaloh '],
-5,Luzern,Martha-Argerich-spielt-Ravel,2016-10-20,[' Martha Argerich '],Classic
-6,null,Volkssinfoniekonzert,2016-10-20,[' Claire Huangci '],Classic
-7,Aarau,Adam-Green,2016-10-20,['Adam Green '],Pop
-8,Solothurn,Klavierrezital,2016-10-20,['Slava Spiridonov '],Classic
-9,null,The-Low-Anthem,2016-10-20,['The Low Anthem '],Pop
-10,Herisau,The-Dublin-Legends,2016-10-20,['The Dublin Legends '],
-11,Pratteln,Graveyard-abgesagt,2016-10-20,['Graveyard '],
-12,Zürich,Appenzeller-Space-Schöttl,2016-10-20,"[' Töbi Tobler ', ' Ficht Tanner ']",
-13,Zürich,Hera,2016-10-20,['Hera '],Pop
-14,Uster,Bonbones-&-Twobones,2016-10-20,"[' Paul Haag ', ' Danilo Moccia ', ' Peter Madsen ', ' Lorenz Beyeler ', ' Daniel Aebi ']",
-15,Zürich,In-Extremo,2016-10-20,['In Extremo '],
-16,Basel,Home-Opera-Switzerland-Tour,2016-10-20,"['Laure Barras ', ' Hetna Regitze Bruun ', ' Richard Helm ', ' Kateryna Tereshchenko ']",Classic
-17,Zürich,Laura-Pausini,2016-10-20,['Laura Pausini '],Pop
-18,Solothurn,Phil-Campbell's-All-Starr-Band,2016-10-20,"[""Phil Campbell's All Starr Band ""]",
-19,Baden,The-Uri-Caine-Trio,2016-10-20,"[' Uri Caine ', ' Mark Helias ', ' Clarence Penn ']",
-20,Luzern,Suns-of-Thyme,2016-10-20,['Suns of Thyme '],
-21,Zug,Roachford,2016-10-20,['Roachford '],
-22,Stäfa,Raphael-Jost-Standards-Trio,2016-10-20,"[' Jonas Ruther ', ' Raphael Jost ', ' Raphael Walser ']",
-23,Lausanne,Netsky-annulé,2016-10-20,['Netsky '],Electronic
-24,Liebefeld,Yves-Theiler-Trio,2016-10-20,"['Yves Theiler Trio ', ' Yves Theiler ', ' Luca Sisera ', ' Lukas Mantel ']",
-25,Basel,Murmullo,2016-10-20,"[' Flo Weiss ', ' John Voirol ', ' Franz Hellmüller ', ' Rafael Jerjen ', ' Clemens Kuratle ']",
-26,Zürich,Zurich-Jazz-Orchestra-feat.-Scott-Robinson,2016-10-20,"[' Steffen Schorn ', ' Scott Robinson ', ' Reto Anneler ']",
-27,Baden,Figures,2016-10-20,"[' Kathrin Furian ', ' Maja Nydegger ', ' Laurent Méteau ', ' Dalia Donadio ', ' Marco Helfenberger ', ' Alex Merz ']",Pop
-28,null,Sloppy-Joe's,2016-10-20,"[""Sloppy Joe's ""]",
-29,Basel,Special-Trinity,2016-10-20,['Duel '],
-30,Zürich,Emily-Jane-White,2016-10-20,"['Emily Jane White ', ' Foxtails Brigade ']",Pop
+location,event,date,artists,genre
+Zürich,Kärnzeit,2016-10-20,['Kärnzeit '],Pop
+Liebefeld,Callas-öffentliche-Probe,2016-10-20,[' Sopranistin Alexandra '],Classic
+Bern,Live-Session,2016-10-20,"['Jagger Holly ', ' Teenage Bubblegums ']",
+Winterthur,Swiss-&-Die-Andern,2016-10-20,['Swiss & Die Andern '],Pop
+Zürich,Megaloh,2016-10-20,['Megaloh '],
+Luzern,Martha-Argerich-spielt-Ravel,2016-10-20,[' Martha Argerich '],Classic
+null,Volkssinfoniekonzert,2016-10-20,[' Claire Huangci '],Classic
+Aarau,Adam-Green,2016-10-20,['Adam Green '],Pop
+Solothurn,Klavierrezital,2016-10-20,['Slava Spiridonov '],Classic
+null,The-Low-Anthem,2016-10-20,['The Low Anthem '],Pop
+Herisau,The-Dublin-Legends,2016-10-20,['The Dublin Legends '],
+Pratteln,Graveyard-abgesagt,2016-10-20,['Graveyard '],
+Zürich,Appenzeller-Space-Schöttl,2016-10-20,"[' Töbi Tobler ', ' Ficht Tanner ']",
+Zürich,Hera,2016-10-20,['Hera '],Pop
+Uster,Bonbones-&-Twobones,2016-10-20,"[' Paul Haag ', ' Danilo Moccia ', ' Peter Madsen ', ' Lorenz Beyeler ', ' Daniel Aebi ']",
+Zürich,In-Extremo,2016-10-20,['In Extremo '],
+Basel,Home-Opera-Switzerland-Tour,2016-10-20,"['Laure Barras ', ' Hetna Regitze Bruun ', ' Richard Helm ', ' Kateryna Tereshchenko ']",Classic
+Zürich,Laura-Pausini,2016-10-20,['Laura Pausini '],Pop
+Solothurn,Phil-Campbell's-All-Starr-Band,2016-10-20,"[""Phil Campbell's All Starr Band ""]",
+Baden,The-Uri-Caine-Trio,2016-10-20,"[' Uri Caine ', ' Mark Helias ', ' Clarence Penn ']",
+Luzern,Suns-of-Thyme,2016-10-20,['Suns of Thyme '],
+Zug,Roachford,2016-10-20,['Roachford '],
+Stäfa,Raphael-Jost-Standards-Trio,2016-10-20,"[' Jonas Ruther ', ' Raphael Jost ', ' Raphael Walser ']",
+Lausanne,Netsky-annulé,2016-10-20,['Netsky '],Electronic
+Liebefeld,Yves-Theiler-Trio,2016-10-20,"['Yves Theiler Trio ', ' Yves Theiler ', ' Luca Sisera ', ' Lukas Mantel ']",
+Basel,Murmullo,2016-10-20,"[' Flo Weiss ', ' John Voirol ', ' Franz Hellmüller ', ' Rafael Jerjen ', ' Clemens Kuratle ']",
+Zürich,Zurich-Jazz-Orchestra-feat.-Scott-Robinson,2016-10-20,"[' Steffen Schorn ', ' Scott Robinson ', ' Reto Anneler ']",
+Baden,Figures,2016-10-20,"[' Kathrin Furian ', ' Maja Nydegger ', ' Laurent Méteau ', ' Dalia Donadio ', ' Marco Helfenberger ', ' Alex Merz ']",Pop
+null,Sloppy-Joe's,2016-10-20,"[""Sloppy Joe's ""]",
+Basel,Special-Trinity,2016-10-20,['Duel '],
+Zürich,Emily-Jane-White,2016-10-20,"['Emily Jane White ', ' Foxtails Brigade ']",Pop

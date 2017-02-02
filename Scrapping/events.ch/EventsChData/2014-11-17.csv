@@ -1,20 +1,20 @@
-,location,event,date,artists,genre
-0,Zürich,Feier-zur-Verleihung-des-Luther-Preises,2014-11-17,"[' Michaela Unsinn ', ' Daniel Bentz ', ' Richard Helm ']",Classic
-1,Bern,Sous-les-étoiles,2014-11-17,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
-2,Zürich,Kylie-Minogue,2014-11-17,['Kylie Minogue '],Pop
-3,null,Migros-Kulturprozent-Classics,2014-11-17,"[' Johannette Zomer ', ' Bogna Bartosz ', ' Jörg Dürmüller ', ' Klaus Mertens ']",Classic
-4,Luzern,Migros-Kulturprozent-Classics,2014-11-17,"['Royal Concertgebouw Orchestra Amsterdam ', ' Elina Garanca ']",Classic
-5,Zürich,Konzert,2014-11-17,[' Arcadi Volodos '],Classic
-6,null,Migros-Kulturprozent-Classics,2014-11-17,"[' Johannette Zomer ', ' Bogna Bartosz ', ' Jörg Dürmüller ', ' Klaus Mertens ']",Classic
-7,null,Sid,2014-11-17,"[' Read Dubach ', ' Luzius Schuler ', ' Daniel Weber ']",
-8,null,Ian-Anderson,2014-11-17,['Ian Anderson '],
-9,Zürich,Nik-Bärtsch's-Ronin,2014-11-17,[' mit Piet Klocke '],
-10,Zürich,Nick-Oliveri's-Uncontrollable-abgesagt,2014-11-17,"[""Nick Oliveri's Uncontrollable ""]",
-11,Zürich,Trio-Friedli-Studer-Ulrich,2014-11-17,"[' Gabriela Friedli ', ' Daniel Studer ', ' Dieter Ulrich ']",
-12,Pratteln,Uriah-Heep,2014-11-17,['Uriah Heep '],
-13,Zürich,Her-Name-Is-Calla,2014-11-17,['Her Name Is Calla '],
-14,Baden,Modus-Quartet,2014-11-17,"[' Antonello Messina ', ' Alkis Zopoglou ', ' Lorenz Beyeler ', ' Omri Hason ']",
-15,Zürich,Steve-Gunn,2014-11-17,['Steve Gunn '],Pop
-16,Zürich,Sound-Prints,2014-11-17,"['Sound Prints ', ' Joe Lovano ', ' Dave Douglas ', ' Lawrence Fields ', ' Linda Oh ', ' Joey Baron ']",
-17,Winterthur,Hungerhoff-&-The-Wild-Roots,2014-11-17,['Hungerhoff & The Wild Roots '],
-18,Lausanne,White-Lung,2014-11-17,['White Lung '],
+location,event,date,artists,genre
+Zürich,Feier-zur-Verleihung-des-Luther-Preises,2014-11-17,"[' Michaela Unsinn ', ' Daniel Bentz ', ' Richard Helm ']",Classic
+Bern,Sous-les-étoiles,2014-11-17,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
+Zürich,Kylie-Minogue,2014-11-17,['Kylie Minogue '],Pop
+null,Migros-Kulturprozent-Classics,2014-11-17,"[' Johannette Zomer ', ' Bogna Bartosz ', ' Jörg Dürmüller ', ' Klaus Mertens ']",Classic
+Luzern,Migros-Kulturprozent-Classics,2014-11-17,"['Royal Concertgebouw Orchestra Amsterdam ', ' Elina Garanca ']",Classic
+Zürich,Konzert,2014-11-17,[' Arcadi Volodos '],Classic
+null,Migros-Kulturprozent-Classics,2014-11-17,"[' Johannette Zomer ', ' Bogna Bartosz ', ' Jörg Dürmüller ', ' Klaus Mertens ']",Classic
+null,Sid,2014-11-17,"[' Read Dubach ', ' Luzius Schuler ', ' Daniel Weber ']",
+null,Ian-Anderson,2014-11-17,['Ian Anderson '],
+Zürich,Nik-Bärtsch's-Ronin,2014-11-17,[' mit Piet Klocke '],
+Zürich,Nick-Oliveri's-Uncontrollable-abgesagt,2014-11-17,"[""Nick Oliveri's Uncontrollable ""]",
+Zürich,Trio-Friedli-Studer-Ulrich,2014-11-17,"[' Gabriela Friedli ', ' Daniel Studer ', ' Dieter Ulrich ']",
+Pratteln,Uriah-Heep,2014-11-17,['Uriah Heep '],
+Zürich,Her-Name-Is-Calla,2014-11-17,['Her Name Is Calla '],
+Baden,Modus-Quartet,2014-11-17,"[' Antonello Messina ', ' Alkis Zopoglou ', ' Lorenz Beyeler ', ' Omri Hason ']",
+Zürich,Steve-Gunn,2014-11-17,['Steve Gunn '],Pop
+Zürich,Sound-Prints,2014-11-17,"['Sound Prints ', ' Joe Lovano ', ' Dave Douglas ', ' Lawrence Fields ', ' Linda Oh ', ' Joey Baron ']",
+Winterthur,Hungerhoff-&-The-Wild-Roots,2014-11-17,['Hungerhoff & The Wild Roots '],
+Lausanne,White-Lung,2014-11-17,['White Lung '],

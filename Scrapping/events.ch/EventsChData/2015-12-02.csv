@@ -1,28 +1,28 @@
-,location,event,date,artists,genre
-0,Basel,Mimiko-Choral-Dorien,2015-12-02,['Nicolas Venner '],Classic
-1,Zürich,Glantaler-Power-Men,2015-12-02,['Glantaler Power Men '],Pop
-2,Baden,Panevolution,2015-12-02,"['Jörg Frei ', ' Georg Masanz ']",
-3,Basel,AMG-Solistenabend,2015-12-02,['Grigory Sokolov '],Classic
-4,Luzern,Das-schlaue-Füchslein,2015-12-02,[' Edgar Moreau '],Classic
-5,Bülach,Sweet-Soul-Gospel,2015-12-02,['Sweet Soul Gospel '],
-6,Lausanne,Giant-Sand,2015-12-02,['Giant Sand '],
-7,Zürich,Chad-Valley,2015-12-02,['Chad Valley '],Electronic
-8,Zürich,Ensemble-Lemniscate,2015-12-02,"['Eva Nievergelt ', ' Andreas Kunz ', ' Katya Polin ', ' Ellen Fallowfield ', ' Micaela Grau Durán ', ' works by Gérard Zinsstag ']",Classic
-9,Basel,Wyttenbachmatterial,2015-12-02,"['Silvester von Hösslin ', ' Noëlle-Anne Darbellay ', ' Matthias Schranz ', ' Lanet Flores Otero ', ' Daniele Pintaudi ']",Classic
-10,Zürich,Adventskonzert,2015-12-02,"['Rebekka Bräm ', ' Lara Jeszenszky ', ' Livio Schmid ', ' Sascha Litschi ', ' Nina Eleta ', ' Rachel Kisacanin ']",Classic
-11,Zürich,Ensemble-5-Wednesday-4+1-Series,2015-12-02,"['Fridolin Blumer ', ' Heinz Geisser ', ' Robert Morgenthaler ', ' Reto Staub ', ' Saadet Türköz ']",
-12,Winterthur,Jazz-am-Mittwoch,2015-12-02,"[' Murat Cevik ', ' Andreas Ambühl ', ' Simon Kessler ', ' Severin Graf ', ' Thomas Sonderegger ']",
-13,Winterthur,Janser-Mosimann,2015-12-02,"[' Andrea Janser ', ' Philipp Mosimann ']",
-14,null,Switalo-Jazz-Swiss-Italian-Jazzproject,2015-12-02,"[' Attilio Troiano ', ' voc) Daniel Erismann ', ' Simone Bollini ', ' Giuseppe Venezia ', ' Lucio Marelli ']",
-15,Basel,Jazzcampus-Session,2015-12-02,"['Julie Fahrer ', ' Simone Bollini ', ' Michael Chylewski ', ' Florian Haas ']",
-16,Basel,Houry-D.-Apartian-Quintet,2015-12-02,"[' Houry Dora Apartian ', ' Adrian Pflugshaupt ', ' Oliver Friedli ', ' Patrick Sommer ', ' Tobias Friedli ']",
-17,Basel,Wendesday-Night-Live-Musik,2015-12-02,"['Emilia Anastazja ', ' Bodo Maier ', ' Oliver Pellet ', ' Roberto Koch ']",
-18,Zürich,Jazzbaragge-Wednesday-Jam,2015-12-02,"['Jean-Michel Pilc ', ' Bänz Oester ', ' Pius Baschnagel ']",
-19,Zürich,Bukowski,2015-12-02,['Ducktails '],Pop
-20,Luzern,Alumni-Concert,2015-12-02,"[' Oliver Keller ', ' Thomy Jordi ', ' Christian Niederer ']",
-21,Zürich,Max-Jury-abgesagt,2015-12-02,['Max Jury '],Pop
-22,Basel,Barbarossa,2015-12-02,['Barbarossa '],Pop
-23,Bern,Sofia-Rei,2015-12-02,['Sofia Rei '],
-24,Zürich,Chano-Dominguez-y-Niño-Josele,2015-12-02,"[' Chano Dominguez ', ' Niño Josele ']",
-25,Basel,Pentagram,2015-12-02,"['Pentagram ', ' Nervochaos ']",
-26,Düdingen,Okmalumkoolkat-feat.-Cid-Rim-&-The-Clonious,2015-12-02,['Okmalumkoolkat feat. Cid Rim & The Clonious '],
+location,event,date,artists,genre
+Basel,Mimiko-Choral-Dorien,2015-12-02,['Nicolas Venner '],Classic
+Zürich,Glantaler-Power-Men,2015-12-02,['Glantaler Power Men '],Pop
+Baden,Panevolution,2015-12-02,"['Jörg Frei ', ' Georg Masanz ']",
+Basel,AMG-Solistenabend,2015-12-02,['Grigory Sokolov '],Classic
+Luzern,Das-schlaue-Füchslein,2015-12-02,[' Edgar Moreau '],Classic
+Bülach,Sweet-Soul-Gospel,2015-12-02,['Sweet Soul Gospel '],
+Lausanne,Giant-Sand,2015-12-02,['Giant Sand '],
+Zürich,Chad-Valley,2015-12-02,['Chad Valley '],Electronic
+Zürich,Ensemble-Lemniscate,2015-12-02,"['Eva Nievergelt ', ' Andreas Kunz ', ' Katya Polin ', ' Ellen Fallowfield ', ' Micaela Grau Durán ', ' works by Gérard Zinsstag ']",Classic
+Basel,Wyttenbachmatterial,2015-12-02,"['Silvester von Hösslin ', ' Noëlle-Anne Darbellay ', ' Matthias Schranz ', ' Lanet Flores Otero ', ' Daniele Pintaudi ']",Classic
+Zürich,Adventskonzert,2015-12-02,"['Rebekka Bräm ', ' Lara Jeszenszky ', ' Livio Schmid ', ' Sascha Litschi ', ' Nina Eleta ', ' Rachel Kisacanin ']",Classic
+Zürich,Ensemble-5-Wednesday-4+1-Series,2015-12-02,"['Fridolin Blumer ', ' Heinz Geisser ', ' Robert Morgenthaler ', ' Reto Staub ', ' Saadet Türköz ']",
+Winterthur,Jazz-am-Mittwoch,2015-12-02,"[' Murat Cevik ', ' Andreas Ambühl ', ' Simon Kessler ', ' Severin Graf ', ' Thomas Sonderegger ']",
+Winterthur,Janser-Mosimann,2015-12-02,"[' Andrea Janser ', ' Philipp Mosimann ']",
+null,Switalo-Jazz-Swiss-Italian-Jazzproject,2015-12-02,"[' Attilio Troiano ', ' voc) Daniel Erismann ', ' Simone Bollini ', ' Giuseppe Venezia ', ' Lucio Marelli ']",
+Basel,Jazzcampus-Session,2015-12-02,"['Julie Fahrer ', ' Simone Bollini ', ' Michael Chylewski ', ' Florian Haas ']",
+Basel,Houry-D.-Apartian-Quintet,2015-12-02,"[' Houry Dora Apartian ', ' Adrian Pflugshaupt ', ' Oliver Friedli ', ' Patrick Sommer ', ' Tobias Friedli ']",
+Basel,Wendesday-Night-Live-Musik,2015-12-02,"['Emilia Anastazja ', ' Bodo Maier ', ' Oliver Pellet ', ' Roberto Koch ']",
+Zürich,Jazzbaragge-Wednesday-Jam,2015-12-02,"['Jean-Michel Pilc ', ' Bänz Oester ', ' Pius Baschnagel ']",
+Zürich,Bukowski,2015-12-02,['Ducktails '],Pop
+Luzern,Alumni-Concert,2015-12-02,"[' Oliver Keller ', ' Thomy Jordi ', ' Christian Niederer ']",
+Zürich,Max-Jury-abgesagt,2015-12-02,['Max Jury '],Pop
+Basel,Barbarossa,2015-12-02,['Barbarossa '],Pop
+Bern,Sofia-Rei,2015-12-02,['Sofia Rei '],
+Zürich,Chano-Dominguez-y-Niño-Josele,2015-12-02,"[' Chano Dominguez ', ' Niño Josele ']",
+Basel,Pentagram,2015-12-02,"['Pentagram ', ' Nervochaos ']",
+Düdingen,Okmalumkoolkat-feat.-Cid-Rim-&-The-Clonious,2015-12-02,['Okmalumkoolkat feat. Cid Rim & The Clonious '],

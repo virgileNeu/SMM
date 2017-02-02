@@ -1,28 +1,28 @@
-,location,event,date,artists,genre
-0,Winterthur,Öffentliche-Generalprobe,2015-03-11,[' conductor: Alexander Lonquich '],Classic
-1,Basel,Mimiko-Une-châtelaine-en-sa-tour,2015-03-11,['Esther Serverac '],Classic
-2,Zürich,Das-magische-Rohr,2015-03-11,"['Isaac Duarte ', ' Martin Frutiger ', ' Kaspar Zimmermann ']",Classic
-3,Zürich,Monte-Carlo,2015-03-11,['Monte Carlo '],Pop
-4,Zürich,Happy-Hour-Jazz,2015-03-11,"['Simon Wyrsch ', ' Dario Bianchin ', ' Fridolin Blumer ', ' Robert Mark ']",
-5,Winterthur,Paris-Linz-Wien,2015-03-11,[' conductor: Alexander Lonquich '],Classic
-6,Luzern,Sinfoniekonzert,2015-03-11,[' Vilde Frang '],Classic
-7,Zürich,Masterinterpreten-Opus-3,2015-03-11,"[' Misha Maisky ', ' Sasha Maisky ', ' Maria Solozobova ']",Classic
-8,Zürich,Internationales-Country-Music-Festival,2015-03-11,['James Intveld Band '],
-9,Basel,COOP-Sinfoniekonzerte,2015-03-11,[' Amira Elmadfa '],Classic
-10,null,Weedeater,2015-03-11,"['Weedeater ', ' King Parrot ']",
-11,Bern,Iwan-Petrowitsch,2015-03-11,['Iwan Petrowitsch '],
-12,Zürich,Jazzbaragge-Wednesday-Jam,2015-03-11,"['Cesar Correa ', ' Rodrigo Aravena ', ' David Stauffacher ']",
-13,Luzern,Jam-Night,2015-03-11,"['Denise Huser ', ' Kevin Bullen ', ' Michael Aldinger ', ' Mike Malloth ']",
-14,Zürich,Giannis-Haroulis,2015-03-11,['Giannis Haroulis '],
-15,Zürich,Canti-popolari,2015-03-11,[' Olivia Steimel '],Classic
-16,Zürich,Mark-Forster,2015-03-11,['Mark Forster '],Pop
-17,Winterthur,Ghost-Town-Trio-feat.-Stephan-Greminger,2015-03-11,"[' Veronika Stalder ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Küenzi ']",
-18,Luzern,Uncle-Remus,2015-03-11,"[' Steffen Peters ', ' Rafal Pochanke ', ' Felix Fivaz ', ' Stanislav Sandronov ', ' Florian Respondek ']",
-19,Bern,Aziza-Brahim,2015-03-11,"[' Aziza Brahim ', ' Guillem Aguilar Nolis ', ' Nicolás Roca Gómez ', ' Ignasi Cussó Rius ', ' José Mendoza Garcia ']",
-20,Winterthur,Spidergawd,2015-03-11,"['Spidergawd ', ' Coogans Bluff ', ' Soup ']",
-21,Basel,Florian-Hoefner-Group,2015-03-11,"[' Matt Marantz ', ' Florian Hoefner ', ' Sam Anning ', ' Peter Kronreif ']",
-22,Zürich,Artist-in-Residence-Herbert-Kramis,2015-03-11,"[' Nora Thiele ', ' Herbert Kramis ', ' Saif Al-Khayyat ']",
-23,Baden,Stringjazz-Quartet,2015-03-11,"[' Christian Wallner ', ' Urs Wäckerli ', ' Fulvio Musso ', ' Thomas Hirt ', ' Oleg Lips ']",
-24,Luzern,Brendan-Adams,2015-03-11,['Brendan Adams '],
-25,Zürich,Team-Me,2015-03-11,['Team Me '],Pop
-26,Lausanne,Samba-de-la-muerte,2015-03-11,['Samba de la muerte '],
+location,event,date,artists,genre
+Winterthur,Öffentliche-Generalprobe,2015-03-11,[' conductor: Alexander Lonquich '],Classic
+Basel,Mimiko-Une-châtelaine-en-sa-tour,2015-03-11,['Esther Serverac '],Classic
+Zürich,Das-magische-Rohr,2015-03-11,"['Isaac Duarte ', ' Martin Frutiger ', ' Kaspar Zimmermann ']",Classic
+Zürich,Monte-Carlo,2015-03-11,['Monte Carlo '],Pop
+Zürich,Happy-Hour-Jazz,2015-03-11,"['Simon Wyrsch ', ' Dario Bianchin ', ' Fridolin Blumer ', ' Robert Mark ']",
+Winterthur,Paris-Linz-Wien,2015-03-11,[' conductor: Alexander Lonquich '],Classic
+Luzern,Sinfoniekonzert,2015-03-11,[' Vilde Frang '],Classic
+Zürich,Masterinterpreten-Opus-3,2015-03-11,"[' Misha Maisky ', ' Sasha Maisky ', ' Maria Solozobova ']",Classic
+Zürich,Internationales-Country-Music-Festival,2015-03-11,['James Intveld Band '],
+Basel,COOP-Sinfoniekonzerte,2015-03-11,[' Amira Elmadfa '],Classic
+null,Weedeater,2015-03-11,"['Weedeater ', ' King Parrot ']",
+Bern,Iwan-Petrowitsch,2015-03-11,['Iwan Petrowitsch '],
+Zürich,Jazzbaragge-Wednesday-Jam,2015-03-11,"['Cesar Correa ', ' Rodrigo Aravena ', ' David Stauffacher ']",
+Luzern,Jam-Night,2015-03-11,"['Denise Huser ', ' Kevin Bullen ', ' Michael Aldinger ', ' Mike Malloth ']",
+Zürich,Giannis-Haroulis,2015-03-11,['Giannis Haroulis '],
+Zürich,Canti-popolari,2015-03-11,[' Olivia Steimel '],Classic
+Zürich,Mark-Forster,2015-03-11,['Mark Forster '],Pop
+Winterthur,Ghost-Town-Trio-feat.-Stephan-Greminger,2015-03-11,"[' Veronika Stalder ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Küenzi ']",
+Luzern,Uncle-Remus,2015-03-11,"[' Steffen Peters ', ' Rafal Pochanke ', ' Felix Fivaz ', ' Stanislav Sandronov ', ' Florian Respondek ']",
+Bern,Aziza-Brahim,2015-03-11,"[' Aziza Brahim ', ' Guillem Aguilar Nolis ', ' Nicolás Roca Gómez ', ' Ignasi Cussó Rius ', ' José Mendoza Garcia ']",
+Winterthur,Spidergawd,2015-03-11,"['Spidergawd ', ' Coogans Bluff ', ' Soup ']",
+Basel,Florian-Hoefner-Group,2015-03-11,"[' Matt Marantz ', ' Florian Hoefner ', ' Sam Anning ', ' Peter Kronreif ']",
+Zürich,Artist-in-Residence-Herbert-Kramis,2015-03-11,"[' Nora Thiele ', ' Herbert Kramis ', ' Saif Al-Khayyat ']",
+Baden,Stringjazz-Quartet,2015-03-11,"[' Christian Wallner ', ' Urs Wäckerli ', ' Fulvio Musso ', ' Thomas Hirt ', ' Oleg Lips ']",
+Luzern,Brendan-Adams,2015-03-11,['Brendan Adams '],
+Zürich,Team-Me,2015-03-11,['Team Me '],Pop
+Lausanne,Samba-de-la-muerte,2015-03-11,['Samba de la muerte '],

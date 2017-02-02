@@ -1,20 +1,20 @@
-,location,event,date,artists,genre
-0,Winterthur,Musikkollegium-Winterthur,2016-06-01,"['Rachel Harnisch ', ' works by Fazil Say ']",Classic
-1,Basel,Mimiko-Vogelpredigt,2016-06-01,['Ekaterina Kofanova '],Classic
-2,Luzern,Master-Abschlusskonzerte,2016-06-01,"[' Pascal Fernandes ', ' Nicolas Gurtner ']",
-3,Bern,Festival-Polyphonie-der-Kulturen,2016-06-01,"['Wu Wei ', ' Marc Fitze ', ' Werner Aeschbacher ']",Classic
-4,Bern,Italianità,2016-06-01,"[' Kamilla Schatz ', ' Petru Iuga ']",Classic
-5,Winterthur,Musikkollegium-Winterthur,2016-06-01,"['Rachel Harnisch ', ' works by Fazil Say ']",Classic
-6,Zürich,Weggefährten,2016-06-01,[' Radu Lupu '],Classic
-7,Luzern,The-Mistery-Lights,2016-06-01,['The Mistery Lights '],Pop
-8,Zürich,Andreas-Bourani,2016-06-01,['Andreas Bourani '],Pop
-9,Bern,Klanglandschaften,2016-06-01,"[' Daniel Perret ', ' Willi Grimm ']",
-10,Luzern,Jam-Night,2016-06-01,"[' Yaelle Dällenbach ', ' Daniel Messina ', ' Florian Bollinger ', ' Nici Struchen  ']",
-11,null,Mika,2016-06-01,['Mika '],Pop
-12,Chur,Falsche-Welt-dir-trau-ich-nicht,2016-06-01,"['Christel Elisabeth Smith ', ' Christiane Boesiger ', ' Hans-Jürgen Schöpflin ', ' Cornelia Kallisch ']",Classic
-13,Zürich,Elvis-Costello,2016-06-01,['Elvis Costello '],
-14,Basel,Urs-Bollhalder-Trio,2016-06-01,"[' Urs Bollhalder ', ' Heiri Känzig ', ' Kevin Chesham ']",
-15,Zürich,Jazzbaragge-Wednesday-Jam,2016-06-01,"['Rainer Böhm ', ' Arne Huber ', ' Claudio Strüby ']",
-16,Zürich,Genava-Jacuzzi,2016-06-01,['Genava Jacuzzi '],Electronic
-17,Lausanne,Seabuckthorn,2016-06-01,['Seabuckthorn '],Electronic
-18,Zürich,The-Abigails,2016-06-01,['The Abigails '],
+location,event,date,artists,genre
+Winterthur,Musikkollegium-Winterthur,2016-06-01,"['Rachel Harnisch ', ' works by Fazil Say ']",Classic
+Basel,Mimiko-Vogelpredigt,2016-06-01,['Ekaterina Kofanova '],Classic
+Luzern,Master-Abschlusskonzerte,2016-06-01,"[' Pascal Fernandes ', ' Nicolas Gurtner ']",
+Bern,Festival-Polyphonie-der-Kulturen,2016-06-01,"['Wu Wei ', ' Marc Fitze ', ' Werner Aeschbacher ']",Classic
+Bern,Italianità,2016-06-01,"[' Kamilla Schatz ', ' Petru Iuga ']",Classic
+Winterthur,Musikkollegium-Winterthur,2016-06-01,"['Rachel Harnisch ', ' works by Fazil Say ']",Classic
+Zürich,Weggefährten,2016-06-01,[' Radu Lupu '],Classic
+Luzern,The-Mistery-Lights,2016-06-01,['The Mistery Lights '],Pop
+Zürich,Andreas-Bourani,2016-06-01,['Andreas Bourani '],Pop
+Bern,Klanglandschaften,2016-06-01,"[' Daniel Perret ', ' Willi Grimm ']",
+Luzern,Jam-Night,2016-06-01,"[' Yaelle Dällenbach ', ' Daniel Messina ', ' Florian Bollinger ', ' Nici Struchen  ']",
+null,Mika,2016-06-01,['Mika '],Pop
+Chur,Falsche-Welt-dir-trau-ich-nicht,2016-06-01,"['Christel Elisabeth Smith ', ' Christiane Boesiger ', ' Hans-Jürgen Schöpflin ', ' Cornelia Kallisch ']",Classic
+Zürich,Elvis-Costello,2016-06-01,['Elvis Costello '],
+Basel,Urs-Bollhalder-Trio,2016-06-01,"[' Urs Bollhalder ', ' Heiri Känzig ', ' Kevin Chesham ']",
+Zürich,Jazzbaragge-Wednesday-Jam,2016-06-01,"['Rainer Böhm ', ' Arne Huber ', ' Claudio Strüby ']",
+Zürich,Genava-Jacuzzi,2016-06-01,['Genava Jacuzzi '],Electronic
+Lausanne,Seabuckthorn,2016-06-01,['Seabuckthorn '],Electronic
+Zürich,The-Abigails,2016-06-01,['The Abigails '],

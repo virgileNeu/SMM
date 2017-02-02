@@ -1,38 +1,38 @@
-,location,event,date,artists,genre
-0,Winterthur,Sein-Talent-hat-solch-leuchtende-Vorzüge,2014-04-30,[' Francesco Piemontesi '],Classic
-1,Basel,Mimiko-Grand-solo,2014-04-30,['Nuno Pinto '],Classic
-2,Zürich,Loudfest,2014-04-30,"['Alkaline Trio ', ' Ignite ', ' Brand New ', ' The Wonder Years ', ' Bayside ', ' Saves The Day ']",
-3,Luzern,Piano-Entertainment,2014-04-30,['Mark Tenger '],
-4,Uster,Jazz-Day-Festival,2014-04-30,"[' Melch Däniker ', ' Fridolin Berger ', ' Fernand Schlumpf ']",
-5,Zürich,1800-aufwärts,2014-04-30,"['Fabio Di Càsola ', ' Kateryna Tereshchenko ']",Classic
-6,Stans,Stanser-Musiktage,2014-04-30,"[' Vera Kappeler ', ' Peter Conradin Zumthor ']",
-7,Zürich,Jazz-Day-Festival,2014-04-30,"[' Adrian Mears ', ' Ronny Graupe ', ' Dejan Terzic ']",
-8,Winterthur,Sein-Talent-hat-solch-leuchtende-Vorzüge,2014-04-30,[' Francesco Piemontesi '],Classic
-9,Basel,Jazzfestival-Basel,2014-04-30,"[' Lucas Niggli ', ' Michel Godard ', ' Luciano Biondini ', ' Adam Baldych ', ' Michel Benita ', ' Philippe Garcia ']",
-10,Palais-des-Congrès,null,2014-04-30,"['Antonio Meneses ', ' Pi-Chin Chien ']",Classic
-11,Zürich,Konzert,2014-04-30,[' Kristine Opolais '],Classic
-12,Zürich,Jazz-Day-Festival,2014-04-30,"['Marc Méan ', ' Raffaele Bossard ', ' Lukas Mantel ']",
-13,Zürich,Mother's-Finest,2014-04-30,"[""Mother's Finest ""]",
-14,null,Jazz-Day-Festival,2014-04-30,"['Michael Neff ', ' Stefan Suntinger ', ' Josquin Rosset ', ' Sandro Heule ', ' Mario Söldi ']",
-15,Uster,Eldorado,2014-04-30,['Eldorado '],
-16,Zürich,Jazz-Day-Festival,2014-04-30,"[' Bruno Spoerri ', ' Moeckel ', ' Roman Dylag ']",
-17,Zürich,Captain-Planet,2014-04-30,['Captain Planet '],
-18,Stans,Stanser-Musiktage,2014-04-30,[' Daisy & Lewis '],
-19,Zürich,Los-Dos,2014-04-30,['Los Dos '],
-20,Aarau,Thomas-Luthi's-Biwak,2014-04-30,"[' Thomas Luthi ', ' Arne Huber ', ' Claudio Struby ']",
-21,Frauenfeld,Fabian-Müller-&-FM-Trio-feat.-Eirik-Dørsdal,2014-04-30,"[' Fabian Müller ', ' Eirik Dørsdal ', ' Kaspar von Grünigen ', ' Fabian Bürgi ']",
-22,Winterthur,Jazz-Day-Festival,2014-04-30,"[' Yael Miller ', ' Julie Campiche ', ' Manu Hagmann ', ' Roland Merlinc ']",
-23,Winterthur,Jazz-Day-Festival,2014-04-30,"[' Dani Schenker ', ' Felix Utzinger ', ' Adrian Frey ', ' Patrick Sommer ', ' Pius Baschnagel ']",
-24,Zürich,Jazzpreis-der-Zürcher-Kantonalbank,2014-04-30,"[' Florian Egli ', ' Dave Gisler ', ' Martina Berther ', ' Rico Baumann ', ' Rea Dubach ']",
-25,Liestal,Bokani-Dyer-Quintet,2014-04-30,"[' Bokani Dyer ', ' Donat Fisch ', ' Matthias Spillmann ', ' Kurmann ', ' Norbert Pfammatter ']",
-26,Zürich,Jazz-Day-Festival,2014-04-30,"[' Gregor Loepfe ', ' Richard Pechota ', ' Peter Preibisch ']",
-27,Basel,Jazz-Day-Festival,2014-04-30,"[' Julian Sanchez ', ' Nat Su ', ' Domenic Landolf ', ' Jorge Rossy ', ' Dominique Girod ', ' Carlos Falanga ']",
-28,Zürich,Jazz-Day-Festival,2014-04-30,"[' Michael Garrod ', ' Mirco Häberli ', ' Mario Hänni ']",
-29,Zug,Savoy-Brown-feat.-Kim-Simmonds,2014-04-30,['Savoy Brown feat. Kim Simmonds '],
-30,Ascona,Sandy-Patton,2014-04-30,['Sandy Patton '],
-31,Bern,Jazz-Day-Festival,2014-04-30,"['Colin Vallon Trio ', ' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-32,Winterthur,Ohrbooten,2014-04-30,"['Ohrbooten ', ' Smith & Smart ']",
-33,Lausanne,Diane-Cluck,2014-04-30,['Diane Cluck '],
-34,Stans,Stanser-Musiktage,2014-04-30,['Arnottodrom '],
-35,Bern,The-Desoto-Caucus,2014-04-30,['The Desoto Caucus '],
-36,Zürich,J.-Alvarez,2014-04-30,['J. Alvarez '],
+location,event,date,artists,genre
+Winterthur,Sein-Talent-hat-solch-leuchtende-Vorzüge,2014-04-30,[' Francesco Piemontesi '],Classic
+Basel,Mimiko-Grand-solo,2014-04-30,['Nuno Pinto '],Classic
+Zürich,Loudfest,2014-04-30,"['Alkaline Trio ', ' Ignite ', ' Brand New ', ' The Wonder Years ', ' Bayside ', ' Saves The Day ']",
+Luzern,Piano-Entertainment,2014-04-30,['Mark Tenger '],
+Uster,Jazz-Day-Festival,2014-04-30,"[' Melch Däniker ', ' Fridolin Berger ', ' Fernand Schlumpf ']",
+Zürich,1800-aufwärts,2014-04-30,"['Fabio Di Càsola ', ' Kateryna Tereshchenko ']",Classic
+Stans,Stanser-Musiktage,2014-04-30,"[' Vera Kappeler ', ' Peter Conradin Zumthor ']",
+Zürich,Jazz-Day-Festival,2014-04-30,"[' Adrian Mears ', ' Ronny Graupe ', ' Dejan Terzic ']",
+Winterthur,Sein-Talent-hat-solch-leuchtende-Vorzüge,2014-04-30,[' Francesco Piemontesi '],Classic
+Basel,Jazzfestival-Basel,2014-04-30,"[' Lucas Niggli ', ' Michel Godard ', ' Luciano Biondini ', ' Adam Baldych ', ' Michel Benita ', ' Philippe Garcia ']",
+Palais-des-Congrès,null,2014-04-30,"['Antonio Meneses ', ' Pi-Chin Chien ']",Classic
+Zürich,Konzert,2014-04-30,[' Kristine Opolais '],Classic
+Zürich,Jazz-Day-Festival,2014-04-30,"['Marc Méan ', ' Raffaele Bossard ', ' Lukas Mantel ']",
+Zürich,Mother's-Finest,2014-04-30,"[""Mother's Finest ""]",
+null,Jazz-Day-Festival,2014-04-30,"['Michael Neff ', ' Stefan Suntinger ', ' Josquin Rosset ', ' Sandro Heule ', ' Mario Söldi ']",
+Uster,Eldorado,2014-04-30,['Eldorado '],
+Zürich,Jazz-Day-Festival,2014-04-30,"[' Bruno Spoerri ', ' Moeckel ', ' Roman Dylag ']",
+Zürich,Captain-Planet,2014-04-30,['Captain Planet '],
+Stans,Stanser-Musiktage,2014-04-30,[' Daisy & Lewis '],
+Zürich,Los-Dos,2014-04-30,['Los Dos '],
+Aarau,Thomas-Luthi's-Biwak,2014-04-30,"[' Thomas Luthi ', ' Arne Huber ', ' Claudio Struby ']",
+Frauenfeld,Fabian-Müller-&-FM-Trio-feat.-Eirik-Dørsdal,2014-04-30,"[' Fabian Müller ', ' Eirik Dørsdal ', ' Kaspar von Grünigen ', ' Fabian Bürgi ']",
+Winterthur,Jazz-Day-Festival,2014-04-30,"[' Yael Miller ', ' Julie Campiche ', ' Manu Hagmann ', ' Roland Merlinc ']",
+Winterthur,Jazz-Day-Festival,2014-04-30,"[' Dani Schenker ', ' Felix Utzinger ', ' Adrian Frey ', ' Patrick Sommer ', ' Pius Baschnagel ']",
+Zürich,Jazzpreis-der-Zürcher-Kantonalbank,2014-04-30,"[' Florian Egli ', ' Dave Gisler ', ' Martina Berther ', ' Rico Baumann ', ' Rea Dubach ']",
+Liestal,Bokani-Dyer-Quintet,2014-04-30,"[' Bokani Dyer ', ' Donat Fisch ', ' Matthias Spillmann ', ' Kurmann ', ' Norbert Pfammatter ']",
+Zürich,Jazz-Day-Festival,2014-04-30,"[' Gregor Loepfe ', ' Richard Pechota ', ' Peter Preibisch ']",
+Basel,Jazz-Day-Festival,2014-04-30,"[' Julian Sanchez ', ' Nat Su ', ' Domenic Landolf ', ' Jorge Rossy ', ' Dominique Girod ', ' Carlos Falanga ']",
+Zürich,Jazz-Day-Festival,2014-04-30,"[' Michael Garrod ', ' Mirco Häberli ', ' Mario Hänni ']",
+Zug,Savoy-Brown-feat.-Kim-Simmonds,2014-04-30,['Savoy Brown feat. Kim Simmonds '],
+Ascona,Sandy-Patton,2014-04-30,['Sandy Patton '],
+Bern,Jazz-Day-Festival,2014-04-30,"['Colin Vallon Trio ', ' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
+Winterthur,Ohrbooten,2014-04-30,"['Ohrbooten ', ' Smith & Smart ']",
+Lausanne,Diane-Cluck,2014-04-30,['Diane Cluck '],
+Stans,Stanser-Musiktage,2014-04-30,['Arnottodrom '],
+Bern,The-Desoto-Caucus,2014-04-30,['The Desoto Caucus '],
+Zürich,J.-Alvarez,2014-04-30,['J. Alvarez '],

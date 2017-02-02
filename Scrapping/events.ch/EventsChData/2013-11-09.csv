@@ -1,62 +1,62 @@
-,location,event,date,artists,genre
-0,Zürich,Hammer-Klavierfestival-Von-Bach-bis-Mozart,2013-11-09,"['Renate Steinmann ', ' Monika Bär ', ' Susanna Hefti ', ' Martin Zeller ', ' Els Biesemans ']",Classic
-1,-Alte-Kirche,Boswil,2013-11-09,"['Yuka Matsuoka Limacher ', ' Hans Adolfsen ']",Classic
-2,Luzern,Piano-Entertainment,2013-11-09,['Fabienne Ambühl '],
-3,Basel,Papa-Bach-und-seine-Söhne,2013-11-09,[' Babette Mondry '],Classic
-4,Zürich,Jubiläumskonzert,2013-11-09,[' Manuel Leuenberger '],Classic
-5,Wollerau,Lamentare,2013-11-09,"[' Siri Tornhill ', ' Bettina Schneebeli ', ' Claudia Weissbarth ']",Classic
-6,Zürich,Jubiläumskonzert,2013-11-09,"[' Sophie Klussmann ', ' Christina Bock ', ' Jan Rusko ', ' Joa Helgesson ', ' works by Edward Rushton ']",Classic
-7,Bülach,Die-Schönsten-Melodien-Grosser-Meister,2013-11-09,"[' Mushtakoff ', ' Alexey Lavrentyev ', ' Nadya Stutz ']",Classic
-8,Zürich,Oratorium-Christus,2013-11-09,"[' Felicitas Fritsche ', ' Nathalie Mittelbach ', ' Nino Aurelio Gmünder ', ' Robert Koller ']",Classic
-9,null,Orgelherbst,2013-11-09,['Kaspar Wagner '],Classic
-10,Basel,Klavier-Genüsse,2013-11-09,['Jermaine Sprosse '],Classic
-11,Zürich,Tegan-and-Sara,2013-11-09,"['Tegan and Sara ', ' Soak ']",Pop
-12,Aarau,Sola-gratia,2013-11-09,[' Rafael Baier '],Classic
-13,null,Eroica,2013-11-09,[' Werner Bärtschi '],Classic
-14,Sarnen,Groovepack,2013-11-09,"[' Steff Müller ', ' Hen Wirz ', ' Beat Riggenbach ', ' Gaedan Lüscher ', ' Stephan Felber ']",
-15,Zürich,Mø,2013-11-09,['Mø '],Pop
-16,Basel,AMG-Solistenabende,2013-11-09,"['Ramon Ortega Quero ', ' Magali Mosnier ', ' Sebastian Manz ', ' Marc Trenel ']",Classic
-17,Zürich,Volare,2013-11-09,"[' Andrea Bettini ', ' Basso Salerno ']",
-18,Zürich,Agnes-Obel,2013-11-09,['Agnes Obel '],Pop
-19,Basel,Polnischer-Abend,2013-11-09,"['Bogdan Holownia ', ' Basia Wehinger ', ' Tibor Elekes ', ' Günter Wehinger ', ' Volker Biesenbender ', ' Michelangelo Rinaldi ']",
-20,Frenkendorf,Geistliche-Vokalmusik,2013-11-09,"[' Christina Lang ', ' Roswitha Müller ']",Classic
-21,Embrach,New-Orleans-Jazz-Band,2013-11-09,"[' Erwin Bieri ', ' Willy-Marc Schmid ', ' Denis Liechti ', ' Heinz Hänni ']",
-22,Hallenstadion,Zürich,2013-11-09,"['Alter Bridge ', ' Halestorm ']",
-23,Bern,Headbangersball,2013-11-09,"['Akrea ', ' Kadavrik ', ' Firtan ']",
-24,Zürich,Jaliba-Kuyateh-&-The-Kumareh-Band,2013-11-09,"['Jaliba Kuyateh & The Kumareh Band ', ' After-Party mit DJ Omar ']",Pop
-25,Zürich,Geistliches-Konzert,2013-11-09,[' Gregor Ehrsam '],Classic
-26,Bern,Breakdown-Of-Sanity,2013-11-09,['Breakdown Of Sanity '],
-27,Basel,In-memoriam-Frank-Zappa,2013-11-09,[' David Moss '],Classic
-28,Burgdorf,My-Name-Is-George,2013-11-09,"[' Albert Den Dekker ', ' Philip Harrison ', ' Daniel Gisler ', ' Stefan Traxler ', ' Matthias Kräutli ']",Pop
-29,Pratteln,Saltatio-Mortis,2013-11-09,"['Saltatio Mortis ', ' Versengold ']",
-30,Basel,Dieter-Thomas-Kuhn,2013-11-09,['Dieter Thomas Kuhn '],traditional
-31,Mels,Gefühle-leben-Gefühle-singen,2013-11-09,[' Yves Zogg '],Pop
-32,Lichtensteig,Zismann-Tango-Trio,2013-11-09,"[' Daniel Zisman ', ' Michael Zisman ', ' Sebastien Fulgido ']",
-33,Winterthur,Lili-Pastis-Passepartout,2013-11-09,"['Lili Pastis Passepartout ', ' Cornelia Montani ', ' Daniel Schneider ', ' Christof Elsässer ']",Pop
-34,null,Jokerwoman-abgesagt,2013-11-09,"[' Dodo Hug ', ' Efisio Contini ', ' Andreas Kühnrich ']",Pop
-35,null,Geoffrey-Oryema-&-Jackson-Wahengo,2013-11-09,['Geoffrey Oryema & Jackson Wahengo '],
-36,Basel,CulturEscapes,2013-11-09,"[' Vasil Hadzimanov ', ' Toni Kitanovski ', ' Kostas Theodorou ', ' Oscar Salas ']",
-37,Zürich,Transmundial,2013-11-09,"['Rachid Taha ', ' Flamencos De Morón ', ' Rachid Taha ', ' Hakim Hamadouche ', ' Kenzi Bourras ', ' Maxime Delpierre ', ' Juan de Guilbon ']",
-38,Uster,Jazztage-Uster,2013-11-09,"['Dado Moroni Trio ', ' Dado Moroni ', ' Furio Di Castri ', ' Enzo Zirilli ']",
-39,Jona,R-Jam-Night,2013-11-09,"['Andy Grob ', ' Roger Hürlimann ', ' Patrick Watanabe ']",Pop
-40,-Maison-du-Peuple,null,2013-11-09,"[' Popa Chubby ', ' Erik Boyd ', ' Felipe Torres ']",
-41,Winterthur,The-Answer,2013-11-09,"['The Answer ', ' Tracer ']",
-42,Basel,Budzillus,2013-11-09,['Budzillus '],
-43,Kriens,Destruction-Unit,2013-11-09,['Destruction Unit '],
-44,Zürich,Bright-November,2013-11-09,['Bright November '],
-45,Luzern,Alex-Haynes,2013-11-09,['Alex Haynes '],Pop
-46,Basel,Got-Nothing,2013-11-09,"['Got Nothing ', ' Violence Approved ']",
-47,Rubigen,Roachford,2013-11-09,['Roachford '],
-48,null,Pony-Del-Sol,2013-11-09,"[' Gael Kyriakidis ', ' Sacha Ruffieux ', ' Grégoire Pasquier ', ' Fabrice Seydoux ']",Pop
-49,Zürich,Forro-das-meninas,2013-11-09,"[' live: Rogerinho do Acordeon ', ' Zeu Azevedo ']",
-50,Zug,The-Holmes-Brothers,2013-11-09,['The Holmes Brothers '],
-51,Reussbühl,Ian-Clement,2013-11-09,['Ian Clement '],Pop
-52,Schaffhausen,Andre-Williams-&-The-Goldstars,2013-11-09,['Andre Williams & The Goldstars '],
-53,Basel,Flo-Mega-&-The-Ruffcats,2013-11-09,"['Flo Mega & The Ruffcats ', ' support: Lary ']",
-54,Sankt-Gallen,Dean-Blunt,2013-11-09,['Dean Blunt '],Electronic
-55,null,Jimmy-Tenor,2013-11-09,"['Jimmy Tenor ', ' Nicole Willis ']",
-56,Lausanne,Mendelssohn,2013-11-09,['Mendelssohn '],
-57,Lyss,Skindred,2013-11-09,['Skindred '],
-58,null,15-Years-of-Funking-Good-Times,2013-11-09,['The Mighty Mocambos '],
-59,Basel,Salsa-&-Kizomba-Party,2013-11-09,[' live: Mirim & Jazzy '],
-60,null,Klingande,2013-11-09,[' live: Klingande '],
+location,event,date,artists,genre
+Zürich,Hammer-Klavierfestival-Von-Bach-bis-Mozart,2013-11-09,"['Renate Steinmann ', ' Monika Bär ', ' Susanna Hefti ', ' Martin Zeller ', ' Els Biesemans ']",Classic
+-Alte-Kirche,Boswil,2013-11-09,"['Yuka Matsuoka Limacher ', ' Hans Adolfsen ']",Classic
+Luzern,Piano-Entertainment,2013-11-09,['Fabienne Ambühl '],
+Basel,Papa-Bach-und-seine-Söhne,2013-11-09,[' Babette Mondry '],Classic
+Zürich,Jubiläumskonzert,2013-11-09,[' Manuel Leuenberger '],Classic
+Wollerau,Lamentare,2013-11-09,"[' Siri Tornhill ', ' Bettina Schneebeli ', ' Claudia Weissbarth ']",Classic
+Zürich,Jubiläumskonzert,2013-11-09,"[' Sophie Klussmann ', ' Christina Bock ', ' Jan Rusko ', ' Joa Helgesson ', ' works by Edward Rushton ']",Classic
+Bülach,Die-Schönsten-Melodien-Grosser-Meister,2013-11-09,"[' Mushtakoff ', ' Alexey Lavrentyev ', ' Nadya Stutz ']",Classic
+Zürich,Oratorium-Christus,2013-11-09,"[' Felicitas Fritsche ', ' Nathalie Mittelbach ', ' Nino Aurelio Gmünder ', ' Robert Koller ']",Classic
+null,Orgelherbst,2013-11-09,['Kaspar Wagner '],Classic
+Basel,Klavier-Genüsse,2013-11-09,['Jermaine Sprosse '],Classic
+Zürich,Tegan-and-Sara,2013-11-09,"['Tegan and Sara ', ' Soak ']",Pop
+Aarau,Sola-gratia,2013-11-09,[' Rafael Baier '],Classic
+null,Eroica,2013-11-09,[' Werner Bärtschi '],Classic
+Sarnen,Groovepack,2013-11-09,"[' Steff Müller ', ' Hen Wirz ', ' Beat Riggenbach ', ' Gaedan Lüscher ', ' Stephan Felber ']",
+Zürich,Mø,2013-11-09,['Mø '],Pop
+Basel,AMG-Solistenabende,2013-11-09,"['Ramon Ortega Quero ', ' Magali Mosnier ', ' Sebastian Manz ', ' Marc Trenel ']",Classic
+Zürich,Volare,2013-11-09,"[' Andrea Bettini ', ' Basso Salerno ']",
+Zürich,Agnes-Obel,2013-11-09,['Agnes Obel '],Pop
+Basel,Polnischer-Abend,2013-11-09,"['Bogdan Holownia ', ' Basia Wehinger ', ' Tibor Elekes ', ' Günter Wehinger ', ' Volker Biesenbender ', ' Michelangelo Rinaldi ']",
+Frenkendorf,Geistliche-Vokalmusik,2013-11-09,"[' Christina Lang ', ' Roswitha Müller ']",Classic
+Embrach,New-Orleans-Jazz-Band,2013-11-09,"[' Erwin Bieri ', ' Willy-Marc Schmid ', ' Denis Liechti ', ' Heinz Hänni ']",
+Hallenstadion,Zürich,2013-11-09,"['Alter Bridge ', ' Halestorm ']",
+Bern,Headbangersball,2013-11-09,"['Akrea ', ' Kadavrik ', ' Firtan ']",
+Zürich,Jaliba-Kuyateh-&-The-Kumareh-Band,2013-11-09,"['Jaliba Kuyateh & The Kumareh Band ', ' After-Party mit DJ Omar ']",Pop
+Zürich,Geistliches-Konzert,2013-11-09,[' Gregor Ehrsam '],Classic
+Bern,Breakdown-Of-Sanity,2013-11-09,['Breakdown Of Sanity '],
+Basel,In-memoriam-Frank-Zappa,2013-11-09,[' David Moss '],Classic
+Burgdorf,My-Name-Is-George,2013-11-09,"[' Albert Den Dekker ', ' Philip Harrison ', ' Daniel Gisler ', ' Stefan Traxler ', ' Matthias Kräutli ']",Pop
+Pratteln,Saltatio-Mortis,2013-11-09,"['Saltatio Mortis ', ' Versengold ']",
+Basel,Dieter-Thomas-Kuhn,2013-11-09,['Dieter Thomas Kuhn '],traditional
+Mels,Gefühle-leben-Gefühle-singen,2013-11-09,[' Yves Zogg '],Pop
+Lichtensteig,Zismann-Tango-Trio,2013-11-09,"[' Daniel Zisman ', ' Michael Zisman ', ' Sebastien Fulgido ']",
+Winterthur,Lili-Pastis-Passepartout,2013-11-09,"['Lili Pastis Passepartout ', ' Cornelia Montani ', ' Daniel Schneider ', ' Christof Elsässer ']",Pop
+null,Jokerwoman-abgesagt,2013-11-09,"[' Dodo Hug ', ' Efisio Contini ', ' Andreas Kühnrich ']",Pop
+null,Geoffrey-Oryema-&-Jackson-Wahengo,2013-11-09,['Geoffrey Oryema & Jackson Wahengo '],
+Basel,CulturEscapes,2013-11-09,"[' Vasil Hadzimanov ', ' Toni Kitanovski ', ' Kostas Theodorou ', ' Oscar Salas ']",
+Zürich,Transmundial,2013-11-09,"['Rachid Taha ', ' Flamencos De Morón ', ' Rachid Taha ', ' Hakim Hamadouche ', ' Kenzi Bourras ', ' Maxime Delpierre ', ' Juan de Guilbon ']",
+Uster,Jazztage-Uster,2013-11-09,"['Dado Moroni Trio ', ' Dado Moroni ', ' Furio Di Castri ', ' Enzo Zirilli ']",
+Jona,R-Jam-Night,2013-11-09,"['Andy Grob ', ' Roger Hürlimann ', ' Patrick Watanabe ']",Pop
+-Maison-du-Peuple,null,2013-11-09,"[' Popa Chubby ', ' Erik Boyd ', ' Felipe Torres ']",
+Winterthur,The-Answer,2013-11-09,"['The Answer ', ' Tracer ']",
+Basel,Budzillus,2013-11-09,['Budzillus '],
+Kriens,Destruction-Unit,2013-11-09,['Destruction Unit '],
+Zürich,Bright-November,2013-11-09,['Bright November '],
+Luzern,Alex-Haynes,2013-11-09,['Alex Haynes '],Pop
+Basel,Got-Nothing,2013-11-09,"['Got Nothing ', ' Violence Approved ']",
+Rubigen,Roachford,2013-11-09,['Roachford '],
+null,Pony-Del-Sol,2013-11-09,"[' Gael Kyriakidis ', ' Sacha Ruffieux ', ' Grégoire Pasquier ', ' Fabrice Seydoux ']",Pop
+Zürich,Forro-das-meninas,2013-11-09,"[' live: Rogerinho do Acordeon ', ' Zeu Azevedo ']",
+Zug,The-Holmes-Brothers,2013-11-09,['The Holmes Brothers '],
+Reussbühl,Ian-Clement,2013-11-09,['Ian Clement '],Pop
+Schaffhausen,Andre-Williams-&-The-Goldstars,2013-11-09,['Andre Williams & The Goldstars '],
+Basel,Flo-Mega-&-The-Ruffcats,2013-11-09,"['Flo Mega & The Ruffcats ', ' support: Lary ']",
+Sankt-Gallen,Dean-Blunt,2013-11-09,['Dean Blunt '],Electronic
+null,Jimmy-Tenor,2013-11-09,"['Jimmy Tenor ', ' Nicole Willis ']",
+Lausanne,Mendelssohn,2013-11-09,['Mendelssohn '],
+Lyss,Skindred,2013-11-09,['Skindred '],
+null,15-Years-of-Funking-Good-Times,2013-11-09,['The Mighty Mocambos '],
+Basel,Salsa-&-Kizomba-Party,2013-11-09,[' live: Mirim & Jazzy '],
+null,Klingande,2013-11-09,[' live: Klingande '],

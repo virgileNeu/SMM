@@ -1,9 +1,9 @@
-,location,event,date,artists,genre
-0,Bern,Neujahrskonzert,2015-01-02,"[' Martin Grubinger ', ' Valer Sabadus ']",Classic
-1,Bern,Neujahrskonzert,2015-01-02,"[' Martin Grubinger ', ' Valer Sabadus ']",Classic
-2,Wettingen,Neujahrskonzert,2015-01-02,[' Karen Gomyo '],Classic
-3,Luzern,Il-regno-di-Napoli,2015-01-02,"[' Milo Karadagli ', ' Maria Anikina ']",Classic
-4,Chur,Neujahrskonzert,2015-01-02,[' Rie Koyama '],Classic
-5,Basel,Orgelspiel-zum-Feierabend,2015-01-02,['Oleksandra Kopan '],Classic
-6,Basel,Rauhe-Nächte-ein-Weihnachtszyklus,2015-01-02,"['Volker Biesenbender ', ' Bernhard Bücker ', ' Michelagelo Rinaldi ']",Classic
-7,Schaffhausen,Upstairs-&-Loud,2015-01-02,['Trigger '],Electronic
+location,event,date,artists,genre
+Bern,Neujahrskonzert,2015-01-02,"[' Martin Grubinger ', ' Valer Sabadus ']",Classic
+Bern,Neujahrskonzert,2015-01-02,"[' Martin Grubinger ', ' Valer Sabadus ']",Classic
+Wettingen,Neujahrskonzert,2015-01-02,[' Karen Gomyo '],Classic
+Luzern,Il-regno-di-Napoli,2015-01-02,"[' Milo Karadagli ', ' Maria Anikina ']",Classic
+Chur,Neujahrskonzert,2015-01-02,[' Rie Koyama '],Classic
+Basel,Orgelspiel-zum-Feierabend,2015-01-02,['Oleksandra Kopan '],Classic
+Basel,Rauhe-Nächte-ein-Weihnachtszyklus,2015-01-02,"['Volker Biesenbender ', ' Bernhard Bücker ', ' Michelagelo Rinaldi ']",Classic
+Schaffhausen,Upstairs-&-Loud,2015-01-02,['Trigger '],Electronic

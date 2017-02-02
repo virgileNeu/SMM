@@ -1,24 +1,24 @@
-,location,event,date,artists,genre
-0,Quai-Anlagen,Arbon,2013-08-23,"['Joe Cocker ', ' Nazareth ', ' The Earth Wind & Fire Experience feat. Al McKay ']",
-1,Bern,Orgelpunkt-zum-Wochenschluss,2013-08-23,['Annerös Hulliger '],Classic
-2,Ch.-du-Stand-5,Pully,2013-08-23,"['Eels ', ' The Horrors ', ' Wire ', ' BRNS ']",Eels
-3,Luzern,Piano-Entertainment,2013-08-23,['Mega Horvath '],
-4,Basel,Orgelspiel-zum-Feierabend,2013-08-23,['Stephen Farr '],Classic
-5,Rathausplatz,Glarus,2013-08-23,"['Skunk Anansie ', ' Blumentopf ']",Blumentopf
-6,Pully,For-Noise-Festival,2013-08-23,[' Paon '],Electronic
-7,Feuerthalen,Sany-Saidap,2013-08-23,"[' Vanja Van Rooy ', ' Alice Uehlinger ', ' Danny Zimmermann ', ' Pascal Schwarb ', ' Johnny Schmid ']",
-8,Zürich,Klavierrezital,2013-08-23,['Michiko Tsuda '],Classic
-9,Zürich,Debüt-Konzert,2013-08-23,"[' Danielle Zuber ', ' Merja Mäkelä ', ' Rahel Indermaur ']",Classic
-10,Gstaad,Moldau-und-Meer,2013-08-23,[' Fazil Say '],Classic
-11,Winterthur,Winterthurer-Musikfestwochen,2013-08-23,"['Element of Crime ', ' Milky Chance ']",Pop
-12,Zürich,Kulturfestival-Integration,2013-08-23,[' Big Mama Sound '],
-13,Kappel-am-Albis,Klosternacht,2013-08-23,"[' Rebekka Ott ', ' Christoph Zimmerli ']",Classic
-14,Pully,For-Noise-Festival,2013-08-23,['  H-Burns '],
-15,Murten,Sinfoniekonzert-Das-Vierte-und-die-Vierte,2013-08-23,[' Giovanni Bellucci '],Classic
-16,Zürich,Immanuel-Witschi-Trio,2013-08-23,"[' Corinne Schmidiger ', ' Timon Roth ', ' Immanuel Witschi ']",
-17,Basel,Feya-Faku-Quintet,2013-08-23,"[' Feya Faku ', ' Domenic Landolf ', ' Colin Vallon ', ' Fabian Gisler ', ' Dominic Egli ']",
-18,Luzern,Cover-Connection,2013-08-23,['Cover Connection '],
-19,Zürich,Kulturfestival-Integration,2013-08-23,"['Valéria Eva ', ' DJ Sampa ']",
-20,Luzern,Captain-Tifus,2013-08-23,['Captain Tifus '],
-21,Bar,Bistro,2013-08-23,[' Sam Pluta '],Classic
-22,Zürich,Baba-Zula,2013-08-23,['Baba Zula '],
+location,event,date,artists,genre
+Quai-Anlagen,Arbon,2013-08-23,"['Joe Cocker ', ' Nazareth ', ' The Earth Wind & Fire Experience feat. Al McKay ']",
+Bern,Orgelpunkt-zum-Wochenschluss,2013-08-23,['Annerös Hulliger '],Classic
+Ch.-du-Stand-5,Pully,2013-08-23,"['Eels ', ' The Horrors ', ' Wire ', ' BRNS ']",Eels
+Luzern,Piano-Entertainment,2013-08-23,['Mega Horvath '],
+Basel,Orgelspiel-zum-Feierabend,2013-08-23,['Stephen Farr '],Classic
+Rathausplatz,Glarus,2013-08-23,"['Skunk Anansie ', ' Blumentopf ']",Blumentopf
+Pully,For-Noise-Festival,2013-08-23,[' Paon '],Electronic
+Feuerthalen,Sany-Saidap,2013-08-23,"[' Vanja Van Rooy ', ' Alice Uehlinger ', ' Danny Zimmermann ', ' Pascal Schwarb ', ' Johnny Schmid ']",
+Zürich,Klavierrezital,2013-08-23,['Michiko Tsuda '],Classic
+Zürich,Debüt-Konzert,2013-08-23,"[' Danielle Zuber ', ' Merja Mäkelä ', ' Rahel Indermaur ']",Classic
+Gstaad,Moldau-und-Meer,2013-08-23,[' Fazil Say '],Classic
+Winterthur,Winterthurer-Musikfestwochen,2013-08-23,"['Element of Crime ', ' Milky Chance ']",Pop
+Zürich,Kulturfestival-Integration,2013-08-23,[' Big Mama Sound '],
+Kappel-am-Albis,Klosternacht,2013-08-23,"[' Rebekka Ott ', ' Christoph Zimmerli ']",Classic
+Pully,For-Noise-Festival,2013-08-23,['  H-Burns '],
+Murten,Sinfoniekonzert-Das-Vierte-und-die-Vierte,2013-08-23,[' Giovanni Bellucci '],Classic
+Zürich,Immanuel-Witschi-Trio,2013-08-23,"[' Corinne Schmidiger ', ' Timon Roth ', ' Immanuel Witschi ']",
+Basel,Feya-Faku-Quintet,2013-08-23,"[' Feya Faku ', ' Domenic Landolf ', ' Colin Vallon ', ' Fabian Gisler ', ' Dominic Egli ']",
+Luzern,Cover-Connection,2013-08-23,['Cover Connection '],
+Zürich,Kulturfestival-Integration,2013-08-23,"['Valéria Eva ', ' DJ Sampa ']",
+Luzern,Captain-Tifus,2013-08-23,['Captain Tifus '],
+Bar,Bistro,2013-08-23,[' Sam Pluta '],Classic
+Zürich,Baba-Zula,2013-08-23,['Baba Zula '],

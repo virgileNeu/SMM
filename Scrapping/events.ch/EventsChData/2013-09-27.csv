@@ -1,52 +1,52 @@
-,location,event,date,artists,genre
-0,Lausanne,Heartland,2013-09-27,"['Demdike Stare ', ' Prince Nifty ', ' DJ Micachu ']",Electronic
-1,Luzern,Piano-Entertainment,2013-09-27,['Fabienne Ambühl '],
-2,Basel,Orgelspiel-zum-Feierabend,2013-09-27,['Magdalena Oliferko '],Classic
-3,Zürich,Quiet-City,2013-09-27,"[' Florenz Jenny ', ' Roland Doldt ', ' André Briel ']",Classic
-4,Dietikon,Feierabendmusik,2013-09-27,"['Prisca Jaisli ', ' Ruedi Jaisli ', ' Bernhard Hörler ']",Classic
-5,Luzern,Metal-Storm,2013-09-27,"['Kaunis Kuolematon ', ' Killing Age ']",
-6,Luzern,Metal-Storm,2013-09-27,"['Kaunis Kuolematon ', ' Killing Age ']",
-7,Zürich,Benefizkonzert-für-Hilfsprojekte-in-Südindien,2013-09-27,"['Margarita Santi ', ' Andrea Azzolini ']",Classic
-8,Zürich,Acoustic-Friday,2013-09-27,"['Priya Ragu ', ' Jonas Zahnd ']",
-9,Basel,Masterrezital,2013-09-27,[' Lars Bausch '],Classic
-10,Zürich,Brahms-und-die-Gegenwart,2013-09-27,"[' Matthias Müller ', ' Yuka Tsuboi ', ' Sarah Kilchenmann ', ' David Schneebeli ', ' Julien Kilchenmann ', ' Martin Schlumpf ', ' Matthias Müller ']",Classic
-11,Meilen,Salve-regina-Phantastische-Nacht,2013-09-27,['Singer pur '],Pop
-12,Arbon,The-Mears-Madsen-Duo,2013-09-27,"['The Mears Madsen Duo ', ' Adrian Mears ', ' Peter Madsen ']",
-13,Zürich,Öffentliches-Konzert,2013-09-27,"['Alma Olite ', ' Agnes Vass ', ' Luka Stamenkovic ']",Classic
-14,Baden,1.-Symphoniekonzert-Der-Start,2013-09-27,[' Olga Scheps '],Classic
-15,null,Lunik,2013-09-27,"[' Neverthless ', ' Keaden ']",Pop
-16,Dietikon,Kultur-in-der-Kapelle,2013-09-27,"[' Hans W. Baumann ', ' Elmar Kluth ', ' Thomas Hirt ', ' Wim Dijkstra ']",
-17,Zürich,Bonobo,2013-09-27,['Bonobo '],Electronic
-18,Altikon,Volklassik,2013-09-27,"['Andrea Del Favero ', ' Bettina Sutter ']",Classic
-19,Zürich,L.A.vation,2013-09-27,['L.A.vation '],
-20,Oberengstringen,Schweizer-Wickihalder,2013-09-27,"[' Irène Schweiter ', ' Jürg Wickihalder ', ' Nat Su ', ' Dominique Girod ', ' Dieter Ulrich ']",
-21,Bern,Headbangers-Ball,2013-09-27,"['Katalepsy ', ' Pighead ']",
-22,Solothurn,Mungo-Jerry,2013-09-27,['Mungo Jerry '],Pop
-23,Rheinfelden,Blue-Hot-Five,2013-09-27,"[' Ivan Kubias ', ' Bruce Roberts ', ' Miroslav Steiner ']",
-24,Männedorf,Steamboat-Bill-Jr.,2013-09-27,['Film mit Buster Keaton '],Classic
-25,Männedorf,Steamboat-Bill-Jr.,2013-09-27,['Film mit Buster Keaton '],Classic
-26,Bülach,Best-of-British,2013-09-27,"[' Enrico Tomasso ', ' Ronald Drake ', ' Julian Stringle ', ' Roy Williams ', ' Jonathan Vinten ', ' Dave Green ', ' Norman Emberson ']",
-27,Winterthur,Mario-Schenker-Quartett,2013-09-27,"[' Mario Schenker ', ' Yves Theiler ', ' Silvan Jeger ', ' Maxime Paratte ']",
-28,Zürich,Hellmüller-Sisera-Voirol,2013-09-27,"[' Franz Hellmüller ', ' Dario Sisera ', ' John Voirol ']",
-29,Basel,William-Evans-Trio,2013-09-27,"[' William Evans ', ' Darryl Hall ', ' Jorge Rossy ']",
-30,Winterthur,Deadmen's-Suit,2013-09-27,"[""Deadmen's Suit "", ' Java Skull ']",
-31,Zürich,Vinx,2013-09-27,['Vinx '],
-32,Luzern,Hot-Damn,2013-09-27,['Hot Damn '],
-33,Zürich,Mockemalör,2013-09-27,['Mockemalör '],
-34,Aarau,Brett-Winterford,2013-09-27,['Brett Winterford '],
-35,null,Feigenwinter-3,2013-09-27,"[' Hans Feigenwinter ', ' Wolfgang Zwiauer ', ' Arno Troxler ']",
-36,Thônex,Asaf-Avidan,2013-09-27,['Asaf Avidan '],
-37,null,Vieux-Farka-Touré,2013-09-27,"[' Vieux Farka Touré ', ' Aly Magassa ', ' Mamadou Sidibé ', ' Souleymane Kané ']",
-38,Zürich,Rhombus,2013-09-27,"['Rhombus ', ' Christine Plays Viola ']",
-39,Zürich,The-Rudies,2013-09-27,"[' Jürg Luginbühl ', ' Thomas Zürcher ', ' Jean-Pierre Rizzolo ', ' Lukas Zürcher ']",Pop
-40,Schaffhausen,6th-Scottish-Folk-Night,2013-09-27,"['Joy Dunlop Band ', ' Rura ']",
-41,Zürich,Kaspar-Ewalds-Exorbitantes-Kabinett,2013-09-27,"[' Regula Schneider ', ' Beat Hofstetter ', ' Sascha Armbruster ', ' Andrea Formenti ']",
-42,Rubigen,Matt-Bianco,2013-09-27,['Matt Bianco '],Pop
-43,Basel,Planet-Asia,2013-09-27,['Planet Asia '],
-44,Aarau,Jonas-Alaska,2013-09-27,['Jonas Alaska '],
-45,Zürich,Ritmo-caliente,2013-09-27,"['DJs Cochano ', ' Manuel ']",
-46,Schaffhausen,Risk-It,2013-09-27,"['Risk It ', ' Daily Riot ', ' Scars Come Clean ']",
-47,Lausanne,Fauve,2013-09-27,['Fauve '],Pop
-48,Lyss,Psy-4-De-La-Rime,2013-09-27,['Psy 4 De La Rime '],
-49,Buchs,Cypress-Junkies,2013-09-27,['Cypress Junkies '],
-50,Zürich,Rumpelnacht,2013-09-27,['Pantha Du Prince '],Electronic
+location,event,date,artists,genre
+Lausanne,Heartland,2013-09-27,"['Demdike Stare ', ' Prince Nifty ', ' DJ Micachu ']",Electronic
+Luzern,Piano-Entertainment,2013-09-27,['Fabienne Ambühl '],
+Basel,Orgelspiel-zum-Feierabend,2013-09-27,['Magdalena Oliferko '],Classic
+Zürich,Quiet-City,2013-09-27,"[' Florenz Jenny ', ' Roland Doldt ', ' André Briel ']",Classic
+Dietikon,Feierabendmusik,2013-09-27,"['Prisca Jaisli ', ' Ruedi Jaisli ', ' Bernhard Hörler ']",Classic
+Luzern,Metal-Storm,2013-09-27,"['Kaunis Kuolematon ', ' Killing Age ']",
+Luzern,Metal-Storm,2013-09-27,"['Kaunis Kuolematon ', ' Killing Age ']",
+Zürich,Benefizkonzert-für-Hilfsprojekte-in-Südindien,2013-09-27,"['Margarita Santi ', ' Andrea Azzolini ']",Classic
+Zürich,Acoustic-Friday,2013-09-27,"['Priya Ragu ', ' Jonas Zahnd ']",
+Basel,Masterrezital,2013-09-27,[' Lars Bausch '],Classic
+Zürich,Brahms-und-die-Gegenwart,2013-09-27,"[' Matthias Müller ', ' Yuka Tsuboi ', ' Sarah Kilchenmann ', ' David Schneebeli ', ' Julien Kilchenmann ', ' Martin Schlumpf ', ' Matthias Müller ']",Classic
+Meilen,Salve-regina-Phantastische-Nacht,2013-09-27,['Singer pur '],Pop
+Arbon,The-Mears-Madsen-Duo,2013-09-27,"['The Mears Madsen Duo ', ' Adrian Mears ', ' Peter Madsen ']",
+Zürich,Öffentliches-Konzert,2013-09-27,"['Alma Olite ', ' Agnes Vass ', ' Luka Stamenkovic ']",Classic
+Baden,1.-Symphoniekonzert-Der-Start,2013-09-27,[' Olga Scheps '],Classic
+null,Lunik,2013-09-27,"[' Neverthless ', ' Keaden ']",Pop
+Dietikon,Kultur-in-der-Kapelle,2013-09-27,"[' Hans W. Baumann ', ' Elmar Kluth ', ' Thomas Hirt ', ' Wim Dijkstra ']",
+Zürich,Bonobo,2013-09-27,['Bonobo '],Electronic
+Altikon,Volklassik,2013-09-27,"['Andrea Del Favero ', ' Bettina Sutter ']",Classic
+Zürich,L.A.vation,2013-09-27,['L.A.vation '],
+Oberengstringen,Schweizer-Wickihalder,2013-09-27,"[' Irène Schweiter ', ' Jürg Wickihalder ', ' Nat Su ', ' Dominique Girod ', ' Dieter Ulrich ']",
+Bern,Headbangers-Ball,2013-09-27,"['Katalepsy ', ' Pighead ']",
+Solothurn,Mungo-Jerry,2013-09-27,['Mungo Jerry '],Pop
+Rheinfelden,Blue-Hot-Five,2013-09-27,"[' Ivan Kubias ', ' Bruce Roberts ', ' Miroslav Steiner ']",
+Männedorf,Steamboat-Bill-Jr.,2013-09-27,['Film mit Buster Keaton '],Classic
+Männedorf,Steamboat-Bill-Jr.,2013-09-27,['Film mit Buster Keaton '],Classic
+Bülach,Best-of-British,2013-09-27,"[' Enrico Tomasso ', ' Ronald Drake ', ' Julian Stringle ', ' Roy Williams ', ' Jonathan Vinten ', ' Dave Green ', ' Norman Emberson ']",
+Winterthur,Mario-Schenker-Quartett,2013-09-27,"[' Mario Schenker ', ' Yves Theiler ', ' Silvan Jeger ', ' Maxime Paratte ']",
+Zürich,Hellmüller-Sisera-Voirol,2013-09-27,"[' Franz Hellmüller ', ' Dario Sisera ', ' John Voirol ']",
+Basel,William-Evans-Trio,2013-09-27,"[' William Evans ', ' Darryl Hall ', ' Jorge Rossy ']",
+Winterthur,Deadmen's-Suit,2013-09-27,"[""Deadmen's Suit "", ' Java Skull ']",
+Zürich,Vinx,2013-09-27,['Vinx '],
+Luzern,Hot-Damn,2013-09-27,['Hot Damn '],
+Zürich,Mockemalör,2013-09-27,['Mockemalör '],
+Aarau,Brett-Winterford,2013-09-27,['Brett Winterford '],
+null,Feigenwinter-3,2013-09-27,"[' Hans Feigenwinter ', ' Wolfgang Zwiauer ', ' Arno Troxler ']",
+Thônex,Asaf-Avidan,2013-09-27,['Asaf Avidan '],
+null,Vieux-Farka-Touré,2013-09-27,"[' Vieux Farka Touré ', ' Aly Magassa ', ' Mamadou Sidibé ', ' Souleymane Kané ']",
+Zürich,Rhombus,2013-09-27,"['Rhombus ', ' Christine Plays Viola ']",
+Zürich,The-Rudies,2013-09-27,"[' Jürg Luginbühl ', ' Thomas Zürcher ', ' Jean-Pierre Rizzolo ', ' Lukas Zürcher ']",Pop
+Schaffhausen,6th-Scottish-Folk-Night,2013-09-27,"['Joy Dunlop Band ', ' Rura ']",
+Zürich,Kaspar-Ewalds-Exorbitantes-Kabinett,2013-09-27,"[' Regula Schneider ', ' Beat Hofstetter ', ' Sascha Armbruster ', ' Andrea Formenti ']",
+Rubigen,Matt-Bianco,2013-09-27,['Matt Bianco '],Pop
+Basel,Planet-Asia,2013-09-27,['Planet Asia '],
+Aarau,Jonas-Alaska,2013-09-27,['Jonas Alaska '],
+Zürich,Ritmo-caliente,2013-09-27,"['DJs Cochano ', ' Manuel ']",
+Schaffhausen,Risk-It,2013-09-27,"['Risk It ', ' Daily Riot ', ' Scars Come Clean ']",
+Lausanne,Fauve,2013-09-27,['Fauve '],Pop
+Lyss,Psy-4-De-La-Rime,2013-09-27,['Psy 4 De La Rime '],
+Buchs,Cypress-Junkies,2013-09-27,['Cypress Junkies '],
+Zürich,Rumpelnacht,2013-09-27,['Pantha Du Prince '],Electronic

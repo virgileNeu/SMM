@@ -1,34 +1,34 @@
-,location,event,date,artists,genre
-0,Dornach,Konzert-zu-Gunsten-des-Goetheanum,2015-10-03,['Hristo Kazakov '],Classic
-1,Zürich,Komplextreme-Festival,2015-10-03,"['Venom Inc. ', ' Vader ', ' Divine Chaos ', ' Witches ']",
-2,Zürich,Monte-Carlo,2015-10-03,['Monte Carlo '],
-3,Pratteln,Up-in-Smoke,2015-10-03,"['The Melvins ', ' My Sleeping Karma ', ' Samsara Blues Experiment ', ' Black Rainbows ', ' Monolord ', ' Belzebong ', ' Powder for Pigeons ', ' Moaning Cities ', ' Bloodnstuff ', ' Sun and the Wolf ', ' Space Fisters ']",
-4,Münchenstein,D'Bâle-Electronic-Music-Festival,2015-10-03,"['Michel Chion ', ' Trevor Wishart ', ' Gilles Gobeil ', ' David Berezan ']",Electronic
-5,Zürich,Fabian-Römer,2015-10-03,['Fabian Römer '],
-6,Volketswil,Peggi-Zina,2015-10-03,['Peggi Zina '],
-7,null,Primal-Fear-abgesagt,2015-10-03,"['Primal Fear ', ' Nitrogods ']",
-8,Zürich,Epicycle-1-Island,2015-10-03,[' Víkingur Ólafsson '],Classic
-9,Luzern,World-Band-Festival,2015-10-03,"['Orchester der Suworow Militärakademie Moskau ', ' Chinese Drum Company ']",traditional
-10,Zürich,Der-schwarze-Ball,2015-10-03,"['Camouflage ', ' Spetsnaz ', ' Roter Sand ']",Electronic
-11,Zürich,Mill-Series,2015-10-03,"[' Vincent Glanzmann ', ' Corina Schranz ', ' Franziska Brücker ', ' Gerry Hemingway ']",
-12,Adelboden,Swiss-Chamber-Music-Festival,2015-10-03,"[' Sini Simonen ', ' Alexandre Foster ', ' Jun Bouterey-Ishido ']",Classic
-13,Münchenstein,Bar,2015-10-03,['Bar '],
-14,Zürich,Joss-Stone,2015-10-03,['Joss Stone '],
-15,Zürich,Helldorado,2015-10-03,['Helldorado '],
-16,Zürich,Zugluft,2015-10-03,"['Zugluft ', ' Andrea Kirchhofer ', ' Jonas Guggenheim ', ' Bruno Strüby ']",
-17,Basel,Moroni-Bonisolo-Quartet,2015-10-03,"[' Adrian Maers ', ' Dado Moroni ', ' Stephan Kurmann ', ' Enzo Zirilli ']",
-18,Zürich,Shem-Thomas,2015-10-03,"[' Shem Thomas ', ' Andy Pupato ', ' Steven Parry ', ' Levin Deger ']",Pop
-19,Sankt-Gallen,Greg-Haines,2015-10-03,['Greg Haines '],Electronic
-20,Bern,Antiracup-Festival,2015-10-03,"['Fahnenflucht ', ' The Oppressed ', ' Enraged Minority ']",
-21,Zürich,Young-Fathers,2015-10-03,['Young Fathers '],
-22,Bern,Dominique-Fricot,2015-10-03,['Dominique Fricot '],Pop
-23,Zürich,Rodrigo-Botter-Maio-&-Jazz-Via-Brasil-Sextet,2015-10-03,"[' Rodrigo Botter Maio ', ' Daniel Schenker ', ' René Mosele ', ' Gregos Müller ', ' Eduardo Dudu Penz ', ' Florian Reichle ']",
-24,null,Yokko,2015-10-03,[' Kensington '],Pop
-25,null,Andy-Egert-Blues-Band,2015-10-03,"[' Andy Egert ', ' Robi Schweizer ', ' Hani Ali ']",
-26,Luzern,Bluestouch,2015-10-03,['Bluestouch '],
-27,null,La-Base-&-Tru-Comers,2015-10-03,['La Base & Tru Comers '],
-28,Bern,Sonic-Movements,2015-10-03,"['Jan Heinke ', ' Don Li ']",
-29,Sarnen,Telekinesis,2015-10-03,['Telekinesis '],Electronic
-30,Bern,Electronic-Circuit,2015-10-03,"['Helm ', ' Zamilska ', ' Dalhous ']",Electronic
-31,Zug,Snak-the-Ripper,2015-10-03,['Snak the Ripper '],
-32,null,Dale-mas-duro,2015-10-03,"['Live: The Muzik Junkies ', ' Jair&Tierrez ']",
+location,event,date,artists,genre
+Dornach,Konzert-zu-Gunsten-des-Goetheanum,2015-10-03,['Hristo Kazakov '],Classic
+Zürich,Komplextreme-Festival,2015-10-03,"['Venom Inc. ', ' Vader ', ' Divine Chaos ', ' Witches ']",
+Zürich,Monte-Carlo,2015-10-03,['Monte Carlo '],
+Pratteln,Up-in-Smoke,2015-10-03,"['The Melvins ', ' My Sleeping Karma ', ' Samsara Blues Experiment ', ' Black Rainbows ', ' Monolord ', ' Belzebong ', ' Powder for Pigeons ', ' Moaning Cities ', ' Bloodnstuff ', ' Sun and the Wolf ', ' Space Fisters ']",
+Münchenstein,D'Bâle-Electronic-Music-Festival,2015-10-03,"['Michel Chion ', ' Trevor Wishart ', ' Gilles Gobeil ', ' David Berezan ']",Electronic
+Zürich,Fabian-Römer,2015-10-03,['Fabian Römer '],
+Volketswil,Peggi-Zina,2015-10-03,['Peggi Zina '],
+null,Primal-Fear-abgesagt,2015-10-03,"['Primal Fear ', ' Nitrogods ']",
+Zürich,Epicycle-1-Island,2015-10-03,[' Víkingur Ólafsson '],Classic
+Luzern,World-Band-Festival,2015-10-03,"['Orchester der Suworow Militärakademie Moskau ', ' Chinese Drum Company ']",traditional
+Zürich,Der-schwarze-Ball,2015-10-03,"['Camouflage ', ' Spetsnaz ', ' Roter Sand ']",Electronic
+Zürich,Mill-Series,2015-10-03,"[' Vincent Glanzmann ', ' Corina Schranz ', ' Franziska Brücker ', ' Gerry Hemingway ']",
+Adelboden,Swiss-Chamber-Music-Festival,2015-10-03,"[' Sini Simonen ', ' Alexandre Foster ', ' Jun Bouterey-Ishido ']",Classic
+Münchenstein,Bar,2015-10-03,['Bar '],
+Zürich,Joss-Stone,2015-10-03,['Joss Stone '],
+Zürich,Helldorado,2015-10-03,['Helldorado '],
+Zürich,Zugluft,2015-10-03,"['Zugluft ', ' Andrea Kirchhofer ', ' Jonas Guggenheim ', ' Bruno Strüby ']",
+Basel,Moroni-Bonisolo-Quartet,2015-10-03,"[' Adrian Maers ', ' Dado Moroni ', ' Stephan Kurmann ', ' Enzo Zirilli ']",
+Zürich,Shem-Thomas,2015-10-03,"[' Shem Thomas ', ' Andy Pupato ', ' Steven Parry ', ' Levin Deger ']",Pop
+Sankt-Gallen,Greg-Haines,2015-10-03,['Greg Haines '],Electronic
+Bern,Antiracup-Festival,2015-10-03,"['Fahnenflucht ', ' The Oppressed ', ' Enraged Minority ']",
+Zürich,Young-Fathers,2015-10-03,['Young Fathers '],
+Bern,Dominique-Fricot,2015-10-03,['Dominique Fricot '],Pop
+Zürich,Rodrigo-Botter-Maio-&-Jazz-Via-Brasil-Sextet,2015-10-03,"[' Rodrigo Botter Maio ', ' Daniel Schenker ', ' René Mosele ', ' Gregos Müller ', ' Eduardo Dudu Penz ', ' Florian Reichle ']",
+null,Yokko,2015-10-03,[' Kensington '],Pop
+null,Andy-Egert-Blues-Band,2015-10-03,"[' Andy Egert ', ' Robi Schweizer ', ' Hani Ali ']",
+Luzern,Bluestouch,2015-10-03,['Bluestouch '],
+null,La-Base-&-Tru-Comers,2015-10-03,['La Base & Tru Comers '],
+Bern,Sonic-Movements,2015-10-03,"['Jan Heinke ', ' Don Li ']",
+Sarnen,Telekinesis,2015-10-03,['Telekinesis '],Electronic
+Bern,Electronic-Circuit,2015-10-03,"['Helm ', ' Zamilska ', ' Dalhous ']",Electronic
+Zug,Snak-the-Ripper,2015-10-03,['Snak the Ripper '],
+null,Dale-mas-duro,2015-10-03,"['Live: The Muzik Junkies ', ' Jair&Tierrez ']",

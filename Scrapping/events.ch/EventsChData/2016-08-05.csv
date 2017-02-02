@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Verbier,Verbier-Festival,2016-08-05,"['Roman Simovic ', ' Itamar Golan ']",Classic
-1,Verbier,Verbier-Festival,2016-08-05,['Lukas Geniusas '],Classic
-2,St.-Moritz,Festival-da-Jazz,2016-08-05,"[' Christoph Grab ', ' Marcel Thomi ', ' Elmar Frey ']",
-3,Pratteln,River-Nights,2016-08-05,"['Selah Sue ', ' Marlon Roudette ', ' Candy Dulfer ']",
-4,Brienz,Brienzersee-Rockfestival,2016-08-05,"[' Dynamite ', ' Eclipse ']",
-5,Avenches,Rock-Oz'Arènes,2016-08-05,"['Steve Angello ', ' Jillionaire ', ' DJ Snake ', ' Mr Mike ']",Electronic
-6,Basel,Orgelspiel-zum-Feierabend,2016-08-05,['Taras Baginets '],Classic
-7,Frauenfeld,Sommerloch,2016-08-05,['Rackhouse Pilfer '],
-8,Bern,Duo-Praxedis,2016-08-05,"['Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-9,Verbier,Verbier-Festival,2016-08-05,"['Liana Isakadze ', ' Roman Simovic ', ' Mischa Maisky ', ' Behzod Abduraimov ', ' Lise de la Salle ']",Classic
-10,Bern,Bejazz-Sommer,2016-08-05,"['E-Scape ', ' Michael Haudenschild ', ' Benjamin Muralt ', ' Paul Amereller ']",
-11,St.-Moritz,Festival-da-Jazz,2016-08-05,"['Bob James Quartet ', ' Bob James ', ' Perry Hughes ', ' Carlitos del Puerto ', ' Clarence Penn ']",
-12,Basel,Im-Fluss,2016-08-05,['Käptn Peng & Die Tentakel von Delphi '],
-13,Bern,Bejazz-Sommer,2016-08-05,"[' Nils Fischer ', ' Claudio von Arx ', ' Maja Nydegger ', ' Simon Iten ', ' Emanuel Künzi ']",
-14,Zürich,Friday-Deluxe-Meets-Tarraxinha,2016-08-05,['DJs Richer '],
-15,St.-Moritz,Festival-da-Jazz,2016-08-05,"[' Jared La Casce ', ' Patric Sargent ', ' Mchael Fatum ', ' Tall Sam Crittenden ', ' Alden Harris McCoy ', ' Mike Big Red Harlem ', ' John Fonseca Fatum ']",
+location,event,date,artists,genre
+Verbier,Verbier-Festival,2016-08-05,"['Roman Simovic ', ' Itamar Golan ']",Classic
+Verbier,Verbier-Festival,2016-08-05,['Lukas Geniusas '],Classic
+St.-Moritz,Festival-da-Jazz,2016-08-05,"[' Christoph Grab ', ' Marcel Thomi ', ' Elmar Frey ']",
+Pratteln,River-Nights,2016-08-05,"['Selah Sue ', ' Marlon Roudette ', ' Candy Dulfer ']",
+Brienz,Brienzersee-Rockfestival,2016-08-05,"[' Dynamite ', ' Eclipse ']",
+Avenches,Rock-Oz'Arènes,2016-08-05,"['Steve Angello ', ' Jillionaire ', ' DJ Snake ', ' Mr Mike ']",Electronic
+Basel,Orgelspiel-zum-Feierabend,2016-08-05,['Taras Baginets '],Classic
+Frauenfeld,Sommerloch,2016-08-05,['Rackhouse Pilfer '],
+Bern,Duo-Praxedis,2016-08-05,"['Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
+Verbier,Verbier-Festival,2016-08-05,"['Liana Isakadze ', ' Roman Simovic ', ' Mischa Maisky ', ' Behzod Abduraimov ', ' Lise de la Salle ']",Classic
+Bern,Bejazz-Sommer,2016-08-05,"['E-Scape ', ' Michael Haudenschild ', ' Benjamin Muralt ', ' Paul Amereller ']",
+St.-Moritz,Festival-da-Jazz,2016-08-05,"['Bob James Quartet ', ' Bob James ', ' Perry Hughes ', ' Carlitos del Puerto ', ' Clarence Penn ']",
+Basel,Im-Fluss,2016-08-05,['Käptn Peng & Die Tentakel von Delphi '],
+Bern,Bejazz-Sommer,2016-08-05,"[' Nils Fischer ', ' Claudio von Arx ', ' Maja Nydegger ', ' Simon Iten ', ' Emanuel Künzi ']",
+Zürich,Friday-Deluxe-Meets-Tarraxinha,2016-08-05,['DJs Richer '],
+St.-Moritz,Festival-da-Jazz,2016-08-05,"[' Jared La Casce ', ' Patric Sargent ', ' Mchael Fatum ', ' Tall Sam Crittenden ', ' Alden Harris McCoy ', ' Mike Big Red Harlem ', ' John Fonseca Fatum ']",

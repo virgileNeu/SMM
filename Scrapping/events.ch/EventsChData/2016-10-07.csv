@@ -1,34 +1,34 @@
-,location,event,date,artists,genre
-0,Bern,Sitzkissenkonzert-Bravo-Pulcinella,2016-10-07,"['Ulrike Lachner ', ' Anna Zimmermann ', ' Christian Holenstein ', ' Daniel Schädeli ']",Classic
-1,Zürich,Monte-Carlo,2016-10-07,['Monte Carlo '],Pop
-2,Basel,Orgelspiel-zum-Feierabend,2016-10-07,['Gotthard Gerber '],Classic
-3,Dietikon,Feierabendmusik-in-der-Kirche,2016-10-07,['Bernhard Hörler '],Classic
-4,Dübendorf,Pools,2016-10-07,"['Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']",Pop
-5,Zürich,Stro-abgesagt,2016-10-07,['Stro '],
-6,Zürich,Herbstkonzert-Masterinterpreten-Opus-IX,2016-10-07,[' Maria Solozobova '],Classic
-7,Aarau,Metalmayhem,2016-10-07,"['Nasty ', ' Aversions Crown ', ' Malevolence ', ' Vitja ', ' Varials ']",
-8,Zürich,Musikkollegium-Winterthur,2016-10-07,['Isabelle van Keulen '],Classic
-9,Zürich,Le-Butcherettes,2016-10-07,"['Le Butcherettes ', ' The Picturebooks ']",
-10,Zürich,Werkstattkonzert,2016-10-07,"[' Christian Kobi ', ' Frantz Loriot ', ' Theresa Wong ']",
-11,Winterthur,Jörg-Enz-Organic-Trio,2016-10-07,"['Jörg Enz Organic Trio ', ' Jörg Enz ', ' Reinhold Hettich ', ' Jörg Bach ']",
-12,Zürich,Physicality-of-Sound,2016-10-07,"[' Martin Lorenz ', ' Antoine Chessex  ', ' Marcus Schmickler ']",Electronic
-13,Basel,Mark-Sherman-Quartet,2016-10-07,"[' Mark Sherman ', ' Antonio Farao ', ' Martin Gjakonovski ', ' Andre Cecharelli ']",
-14,Zürich,Tribu-Project,2016-10-07,"['Tribu Project ', ' Juan Elias ', ' Marco Swit ', ' Omar Diadji Seydi ']",
-15,Schaffhausen,Konstantin-Wecker,2016-10-07,['Konstantin Wecker '],Pop
-16,Stäfa,Züri-Lieder,2016-10-07,"['Daniel Fueter ', ' Risch Biert ', ' Rea Claudia Kost ', ' Sämi Zünd ']",Pop
-17,Luzern,Stephen-Steinbrink,2016-10-07,['Stephen Steinbrink '],Pop
-18,Luzern,Selfish-Hate,2016-10-07,['Selfish Hate '],
-19,Bern,Oy,2016-10-07,['Oy '],Pop
-20,Rubigen,Aynsley-Lister,2016-10-07,['Aynsley Lister '],
-21,null,Carte-Blanche-a-Max-Jendly,2016-10-07,"[' Max Jendly ', ' Yvan Ischer ', ' Antoine Ogay ', ' Alain Petitmermet ']",
-22,Düdingen,NHK-yx-Koyxen,2016-10-07,['NHK yx Koyxen '],Electronic
-23,Luzern,Whisky-&-Song,2016-10-07,['Steven Eli Band '],
-24,null,Joe-McMahon-&-Full-Band,2016-10-07,['Joe McMahon & Full Band '],
-25,Oberentfelden,Transport-League,2016-10-07,"['Transport League ', ' Hell Obelisco ']",
-26,Solothurn,Marey,2016-10-07,"[' Maryam Hammad ', ' Aurèle Louis ']",
-27,null,Umse,2016-10-07,['Umse '],
-28,Vevey,Koudlam,2016-10-07,"['Koudlam ', ' Judah Warsky ']",Pop
-29,Sankt-Gallen,The-Dwarfs-of-East-Agouza,2016-10-07,"['The Dwarfs of East Agouza ', ' Zuli ']",Pop
-30,Basel,Awan,2016-10-07,['Awan '],
-31,Baden,Subaltern,2016-10-07,['Subaltern '],
-32,Bern,The-Diamond-Hands,2016-10-07,['The Diamond Hands '],
+location,event,date,artists,genre
+Bern,Sitzkissenkonzert-Bravo-Pulcinella,2016-10-07,"['Ulrike Lachner ', ' Anna Zimmermann ', ' Christian Holenstein ', ' Daniel Schädeli ']",Classic
+Zürich,Monte-Carlo,2016-10-07,['Monte Carlo '],Pop
+Basel,Orgelspiel-zum-Feierabend,2016-10-07,['Gotthard Gerber '],Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2016-10-07,['Bernhard Hörler '],Classic
+Dübendorf,Pools,2016-10-07,"['Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']",Pop
+Zürich,Stro-abgesagt,2016-10-07,['Stro '],
+Zürich,Herbstkonzert-Masterinterpreten-Opus-IX,2016-10-07,[' Maria Solozobova '],Classic
+Aarau,Metalmayhem,2016-10-07,"['Nasty ', ' Aversions Crown ', ' Malevolence ', ' Vitja ', ' Varials ']",
+Zürich,Musikkollegium-Winterthur,2016-10-07,['Isabelle van Keulen '],Classic
+Zürich,Le-Butcherettes,2016-10-07,"['Le Butcherettes ', ' The Picturebooks ']",
+Zürich,Werkstattkonzert,2016-10-07,"[' Christian Kobi ', ' Frantz Loriot ', ' Theresa Wong ']",
+Winterthur,Jörg-Enz-Organic-Trio,2016-10-07,"['Jörg Enz Organic Trio ', ' Jörg Enz ', ' Reinhold Hettich ', ' Jörg Bach ']",
+Zürich,Physicality-of-Sound,2016-10-07,"[' Martin Lorenz ', ' Antoine Chessex  ', ' Marcus Schmickler ']",Electronic
+Basel,Mark-Sherman-Quartet,2016-10-07,"[' Mark Sherman ', ' Antonio Farao ', ' Martin Gjakonovski ', ' Andre Cecharelli ']",
+Zürich,Tribu-Project,2016-10-07,"['Tribu Project ', ' Juan Elias ', ' Marco Swit ', ' Omar Diadji Seydi ']",
+Schaffhausen,Konstantin-Wecker,2016-10-07,['Konstantin Wecker '],Pop
+Stäfa,Züri-Lieder,2016-10-07,"['Daniel Fueter ', ' Risch Biert ', ' Rea Claudia Kost ', ' Sämi Zünd ']",Pop
+Luzern,Stephen-Steinbrink,2016-10-07,['Stephen Steinbrink '],Pop
+Luzern,Selfish-Hate,2016-10-07,['Selfish Hate '],
+Bern,Oy,2016-10-07,['Oy '],Pop
+Rubigen,Aynsley-Lister,2016-10-07,['Aynsley Lister '],
+null,Carte-Blanche-a-Max-Jendly,2016-10-07,"[' Max Jendly ', ' Yvan Ischer ', ' Antoine Ogay ', ' Alain Petitmermet ']",
+Düdingen,NHK-yx-Koyxen,2016-10-07,['NHK yx Koyxen '],Electronic
+Luzern,Whisky-&-Song,2016-10-07,['Steven Eli Band '],
+null,Joe-McMahon-&-Full-Band,2016-10-07,['Joe McMahon & Full Band '],
+Oberentfelden,Transport-League,2016-10-07,"['Transport League ', ' Hell Obelisco ']",
+Solothurn,Marey,2016-10-07,"[' Maryam Hammad ', ' Aurèle Louis ']",
+null,Umse,2016-10-07,['Umse '],
+Vevey,Koudlam,2016-10-07,"['Koudlam ', ' Judah Warsky ']",Pop
+Sankt-Gallen,The-Dwarfs-of-East-Agouza,2016-10-07,"['The Dwarfs of East Agouza ', ' Zuli ']",Pop
+Basel,Awan,2016-10-07,['Awan '],
+Baden,Subaltern,2016-10-07,['Subaltern '],
+Bern,The-Diamond-Hands,2016-10-07,['The Diamond Hands '],

@@ -1,10 +1,10 @@
-,location,event,date,artists,genre
-0,Zürich,Nathaniel-Rateliff-&-The-Night-Sweats,2016-07-12,['Nathaniel Rateliff & The Night Sweats '],
-1,Zürich,Matt-Corby,2016-07-12,['Matt Corby '],Pop
-2,Montreux,Montreux-Jazz-Festival,2016-07-12,"['Iiro Rantala & Ulf Wakenius ', ' Kenny Barron & Dave Holland ']",
-3,Montreux,Montreux-Jazz-Festival,2016-07-12,['Neil Young '],
-4,Montreux,Montreux-Jazz-Festival,2016-07-12,"['Grimes ', ' Hælos ']",Electronic
-5,null,Kulturfestival-St.-Gallen,2016-07-12,['Ester Rada '],
-6,Bern,Sun-Kil-Moon,2016-07-12,['Sun Kil Moon '],
-7,null,Stimmen,2016-07-12,['José James '],
-8,Zürich,Casa-Verde-Colectivo,2016-07-12,['Casa Verde Colectivo '],
+location,event,date,artists,genre
+Zürich,Nathaniel-Rateliff-&-The-Night-Sweats,2016-07-12,['Nathaniel Rateliff & The Night Sweats '],
+Zürich,Matt-Corby,2016-07-12,['Matt Corby '],Pop
+Montreux,Montreux-Jazz-Festival,2016-07-12,"['Iiro Rantala & Ulf Wakenius ', ' Kenny Barron & Dave Holland ']",
+Montreux,Montreux-Jazz-Festival,2016-07-12,['Neil Young '],
+Montreux,Montreux-Jazz-Festival,2016-07-12,"['Grimes ', ' Hælos ']",Electronic
+null,Kulturfestival-St.-Gallen,2016-07-12,['Ester Rada '],
+Bern,Sun-Kil-Moon,2016-07-12,['Sun Kil Moon '],
+null,Stimmen,2016-07-12,['José James '],
+Zürich,Casa-Verde-Colectivo,2016-07-12,['Casa Verde Colectivo '],

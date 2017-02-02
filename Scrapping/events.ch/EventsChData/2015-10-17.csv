@@ -1,45 +1,45 @@
-,location,event,date,artists,genre
-0,Bern,Bernische-Chopin-Gesellschaft,2015-10-17,['Andrew Tyson '],Classic
-1,Zürich,Sisters-Band,2015-10-17,['Sisters Band '],
-2,Obbürgen,Bürgenstock-Festival-Esprit-rude-esprit-doux,2015-10-17,"['Emmanuel Pahud ', ' Andreas Ottensamer ', ' José Gallardo ']",Classic
-3,Zürich,Cantarte-Chorkonzert,2015-10-17,[' Eun-Ah Cho-Nitschke '],Classic
-4,Zürich,Nordwestdeutsche-Philharmonie,2015-10-17,['Alexei Volodin '],Classic
-5,Basel,I-Tempi-&-Daniel-Sepec,2015-10-17,[' Daniel Sepec '],Classic
-6,Luzern,Peter-Kraus-&-Band,2015-10-17,['Peter Kraus & Band '],traditional
-7,Oberentfelden,Enforcer,2015-10-17,"['Enforcer ', ' Wolf ', '  Dynamite ']",
-8,Zürich,Selah-Sue,2015-10-17,['Selah Sue '],Pop
-9,Zürich,Hecht,2015-10-17,['Hecht '],Pop
-10,Chur,Millencolin,2015-10-17,['Millencolin '],
-11,Zürich,God-Is-An-Astronaut,2015-10-17,['God Is An Astronaut '],
-12,Pratteln,Stereophonics,2015-10-17,['Stereophonics '],
-13,Zug,Zeit-los,2015-10-17,"[' Barbara Schingnitz ', ' Estelle Costanzo ', ' Lanet Flores ', ' Linus Cathomas ']",Classic
-14,Bern,Cyrill-Lim,2015-10-17,"['Cyrill Lim ', ' In Absentias ']",
-15,Luzern,Chorkonzert,2015-10-17,[' Nuria Richner '],Classic
-16,Zürich,Marius-Müller-Westernhagen,2015-10-17,['Marius Müller Westernhagen '],
-17,Frick,Fricktaler-Blues-Festival,2015-10-17,['Morblus '],
-18,Chur,Cannonsoul-feat.-Andy-McKee,2015-10-17,"[' Patrick Bianco ', ' Peter Tuscher ', ' Renato Chicco ', ' Andy McKee ', ' Bernd Reiter ']",
-19,Zürich,The-Phantom-Band,2015-10-17,['The Phantom Band '],
-20,Solothurn,Wheatus,2015-10-17,['Wheatus '],Pop
-21,Zürich,Balbina,2015-10-17,['Balbina '],Pop
-22,Zug,The-Outside-Track,2015-10-17,['The Outside Track '],
-23,Basel,Zar-Quartet,2015-10-17,"[' Marcus Wyatt ', ' Domenic Landolf ', ' Bänz Oester ', ' Dominic Egli ']",
-24,Zürich,Fabrikjazz,2015-10-17,['ICP Orchestra '],
-25,Winterthur,Heimspiel,2015-10-17,[' Temporal Sluts '],
-26,Basel,Impro-Duos,2015-10-17,"['Arlette Dellers ', ' Kilian Dellers ']",
-27,Baden,Keyser-Soze,2015-10-17,['Dub Spencer & Trance Hill '],
-28,Bern,Chris-Hazeltucky,2015-10-17,['Chris Hazeltucky '],
-29,Kirchberg,Aynsley-Lister,2015-10-17,['Aynsley Lister '],
-30,Stans,Al-Berto-&-the-Fried-Bikinis,2015-10-17,['Al-Berto & the Fried Bikinis '],
-31,Rubigen,Dana-Fuchs,2015-10-17,['Dana Fuchs '],
-32,Aarau,The-Dark-Rising,2015-10-17,['Terrolokaust '],
-33,Luzern,Nuun,2015-10-17,['Nuun '],
-34,Bern,Dogan-Duru,2015-10-17,['Dogan Duru '],Pop
-35,Herisau,Neal-Black-&-The-Healers,2015-10-17,['Neal Black & The Healers '],
-36,Düdingen,The-Soft-Moon,2015-10-17,['The Soft Moon '],
-37,Zürich,Rainer-Von-Vielen,2015-10-17,['Rainer Von Vielen '],Pop
-38,Luzern,InVolt,2015-10-17,['InVolt '],
-39,Basel,Latin-Hits-Deluxe,2015-10-17,"['DJs Pepe ', ' Nestor ']",
-40,Bern,A-Wa,2015-10-17,['A-Wa '],
-41,Bern,60s-Garage-Surf-Night,2015-10-17,['Thee Marvin Gays '],
-42,Basel,Dagobert,2015-10-17,['Dagobert '],Pop
-43,Basel,Klingande,2015-10-17,['Klingande '],Electronic
+location,event,date,artists,genre
+Bern,Bernische-Chopin-Gesellschaft,2015-10-17,['Andrew Tyson '],Classic
+Zürich,Sisters-Band,2015-10-17,['Sisters Band '],
+Obbürgen,Bürgenstock-Festival-Esprit-rude-esprit-doux,2015-10-17,"['Emmanuel Pahud ', ' Andreas Ottensamer ', ' José Gallardo ']",Classic
+Zürich,Cantarte-Chorkonzert,2015-10-17,[' Eun-Ah Cho-Nitschke '],Classic
+Zürich,Nordwestdeutsche-Philharmonie,2015-10-17,['Alexei Volodin '],Classic
+Basel,I-Tempi-&-Daniel-Sepec,2015-10-17,[' Daniel Sepec '],Classic
+Luzern,Peter-Kraus-&-Band,2015-10-17,['Peter Kraus & Band '],traditional
+Oberentfelden,Enforcer,2015-10-17,"['Enforcer ', ' Wolf ', '  Dynamite ']",
+Zürich,Selah-Sue,2015-10-17,['Selah Sue '],Pop
+Zürich,Hecht,2015-10-17,['Hecht '],Pop
+Chur,Millencolin,2015-10-17,['Millencolin '],
+Zürich,God-Is-An-Astronaut,2015-10-17,['God Is An Astronaut '],
+Pratteln,Stereophonics,2015-10-17,['Stereophonics '],
+Zug,Zeit-los,2015-10-17,"[' Barbara Schingnitz ', ' Estelle Costanzo ', ' Lanet Flores ', ' Linus Cathomas ']",Classic
+Bern,Cyrill-Lim,2015-10-17,"['Cyrill Lim ', ' In Absentias ']",
+Luzern,Chorkonzert,2015-10-17,[' Nuria Richner '],Classic
+Zürich,Marius-Müller-Westernhagen,2015-10-17,['Marius Müller Westernhagen '],
+Frick,Fricktaler-Blues-Festival,2015-10-17,['Morblus '],
+Chur,Cannonsoul-feat.-Andy-McKee,2015-10-17,"[' Patrick Bianco ', ' Peter Tuscher ', ' Renato Chicco ', ' Andy McKee ', ' Bernd Reiter ']",
+Zürich,The-Phantom-Band,2015-10-17,['The Phantom Band '],
+Solothurn,Wheatus,2015-10-17,['Wheatus '],Pop
+Zürich,Balbina,2015-10-17,['Balbina '],Pop
+Zug,The-Outside-Track,2015-10-17,['The Outside Track '],
+Basel,Zar-Quartet,2015-10-17,"[' Marcus Wyatt ', ' Domenic Landolf ', ' Bänz Oester ', ' Dominic Egli ']",
+Zürich,Fabrikjazz,2015-10-17,['ICP Orchestra '],
+Winterthur,Heimspiel,2015-10-17,[' Temporal Sluts '],
+Basel,Impro-Duos,2015-10-17,"['Arlette Dellers ', ' Kilian Dellers ']",
+Baden,Keyser-Soze,2015-10-17,['Dub Spencer & Trance Hill '],
+Bern,Chris-Hazeltucky,2015-10-17,['Chris Hazeltucky '],
+Kirchberg,Aynsley-Lister,2015-10-17,['Aynsley Lister '],
+Stans,Al-Berto-&-the-Fried-Bikinis,2015-10-17,['Al-Berto & the Fried Bikinis '],
+Rubigen,Dana-Fuchs,2015-10-17,['Dana Fuchs '],
+Aarau,The-Dark-Rising,2015-10-17,['Terrolokaust '],
+Luzern,Nuun,2015-10-17,['Nuun '],
+Bern,Dogan-Duru,2015-10-17,['Dogan Duru '],Pop
+Herisau,Neal-Black-&-The-Healers,2015-10-17,['Neal Black & The Healers '],
+Düdingen,The-Soft-Moon,2015-10-17,['The Soft Moon '],
+Zürich,Rainer-Von-Vielen,2015-10-17,['Rainer Von Vielen '],Pop
+Luzern,InVolt,2015-10-17,['InVolt '],
+Basel,Latin-Hits-Deluxe,2015-10-17,"['DJs Pepe ', ' Nestor ']",
+Bern,A-Wa,2015-10-17,['A-Wa '],
+Bern,60s-Garage-Surf-Night,2015-10-17,['Thee Marvin Gays '],
+Basel,Dagobert,2015-10-17,['Dagobert '],Pop
+Basel,Klingande,2015-10-17,['Klingande '],Electronic

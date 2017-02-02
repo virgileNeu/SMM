@@ -1,40 +1,40 @@
-,location,event,date,artists,genre
-0,Zürich,Werner-und-Company,2016-02-19,['Werner und Company '],Pop
-1,Basel,Orgelspiel-zum-Feierabend,2016-02-19,['Susanne Doll '],Classic
-2,Bern,Unheilig,2016-02-19,['Unheilig '],Pop
-3,Zürich,Sabaton,2016-02-19,['Sabaton '],
-4,Bern,Bruckners-Romantische,2016-02-19,[' Xavier De Maistre '],Classic
-5,null,7.-Tonhallekonzert-Lieder,2016-02-19,['Malin Hartelius '],Classic
-6,Zürich,Internationales-Country-Music-Festival,2016-02-19,"['Riders in the Sky ', ' Wayne Law & Band ']",
-7,Pratteln,Primal-Fear,2016-02-19,"['Primal Fear ', ' Brainstorm ', ' Striker ']",
-8,Zürich,Meisterinterpreten-in-Zürich,2016-02-19,[' conductor: Isabelle Faust '],Classic
-9,Lyss,Wishbone-Ash,2016-02-19,['Wishbone Ash '],
-10,Zürich,Movits,2016-02-19,['Movits '],
-11,null,Azad,2016-02-19,['Azad '],
-12,Aarburg,Hells-Belles,2016-02-19,['Hells Belles '],
-13,Zürich,Celtic-Woman,2016-02-19,['Celtic Woman '],
-14,Winterthur,Sandro-Schneebeli,2016-02-19,['Sandro Schneebeli '],
-15,Bülach,Echoes-of-Swing,2016-02-19,"[' Colin T. Dawson ', ' Chris Hopkins ', ' Bernd Lhotzky ', ' Oliver Mewes ']",
-16,Herzogenbuchsee,Akkordeon-in-Concert,2016-02-19,['Aleksandar Aleksandrovi '],Classic
-17,Winterthur,Prometheus,2016-02-19,"[' Thomas Fellow ', ' Stephan Bormann ']",
-18,Zürich,Cadotsch-Schmid-&-Kolb-Lienhard-Saner,2016-02-19,"[' Silvio Cadotsch ', ' Silvan Schmid ', ' Florian Kolb ', ' Pablo Lienhard ', ' Philipp Saner ']",
-19,Baden,Levis-Inc,2016-02-19,"[' Levi Bo ', ' Marc Gerber ', ' Markus Stephani ', ' Pädu Ziswiler ']",Pop
-20,Uster,Hund,2016-02-19,"[' Päuli Meyer ', ' Sacha Leuenberger ', ' Viktor Elsener ', ' Laura Frei ', ' Chrigel Bosshard ']",
-21,Zürich,Miss-Kenichi,2016-02-19,['Miss Kenichi '],Pop
-22,Winterthur,Saviours,2016-02-19,['Saviours '],
-23,Zürich,Idan-Raichel,2016-02-19,"['Idan Raichel ', ' Idan Raichel ', ' Maya Avraham ', ' Avi Wogderess Vasa ', ' Yogev Glusman ', ' Gilad Shmueli ']",
-24,Liebefeld,Erdmann-Courtois-Möbus-Rohrer,2016-02-19,"[' Daniel Erdmann ', ' ', ' Frank Möbus ', ' Samuel Rohrer ']",
-25,Basel,Rik-van-den-Bergh-&-Bart-van-Lier-Quintet,2016-02-19,"[' Bart van Lier ', ' Rik van den Bergh ', ' Edgar van Asselt ', ' Marius Beets ', ' Eric Ineke ']",
-26,Winterthur,Mute-Swimmer,2016-02-19,['Mute Swimmer '],
-27,Zürich,Röschti-mon-amour,2016-02-19,['Kassette '],
-28,Düdingen,Le1f,2016-02-19,"['Le1f ', ' Zebra Katz ']",
-29,Rubigen,The-Quireboys,2016-02-19,['The Quireboys '],
-30,Zürich,Philipp-Hillebrand-Quartet,2016-02-19,"[' Philipp Hillebrand ', ' Claude Stucki ', ' Raphael Walser ', ' Paul Amereller ']",
-31,Luzern,Ska-N-8,2016-02-19,['Skakeitan '],
-32,null,Blastertruck-One,2016-02-19,[' Falkonection '],
-33,Lausanne,Autobahn,2016-02-19,['Autobahn '],
-34,Winterthur,Indianizer,2016-02-19,['Indianizer '],
-35,Solothurn,Spidergawd,2016-02-19,['Spidergawd '],
-36,Zürich,Myself-When-Young,2016-02-19,"[' Sina Chiavi ', ' Sophia Basler ', ' Martina Berther ', ' Florian Weiss ', ' Dimitri Monstein ']",Pop
-37,Basel,Club-der-2000,2016-02-19,"['Marek Hemmann ', ' DJs Manamana ']",Electronic
-38,null,Genetikk,2016-02-19,['Genetikk '],
+location,event,date,artists,genre
+Zürich,Werner-und-Company,2016-02-19,['Werner und Company '],Pop
+Basel,Orgelspiel-zum-Feierabend,2016-02-19,['Susanne Doll '],Classic
+Bern,Unheilig,2016-02-19,['Unheilig '],Pop
+Zürich,Sabaton,2016-02-19,['Sabaton '],
+Bern,Bruckners-Romantische,2016-02-19,[' Xavier De Maistre '],Classic
+null,7.-Tonhallekonzert-Lieder,2016-02-19,['Malin Hartelius '],Classic
+Zürich,Internationales-Country-Music-Festival,2016-02-19,"['Riders in the Sky ', ' Wayne Law & Band ']",
+Pratteln,Primal-Fear,2016-02-19,"['Primal Fear ', ' Brainstorm ', ' Striker ']",
+Zürich,Meisterinterpreten-in-Zürich,2016-02-19,[' conductor: Isabelle Faust '],Classic
+Lyss,Wishbone-Ash,2016-02-19,['Wishbone Ash '],
+Zürich,Movits,2016-02-19,['Movits '],
+null,Azad,2016-02-19,['Azad '],
+Aarburg,Hells-Belles,2016-02-19,['Hells Belles '],
+Zürich,Celtic-Woman,2016-02-19,['Celtic Woman '],
+Winterthur,Sandro-Schneebeli,2016-02-19,['Sandro Schneebeli '],
+Bülach,Echoes-of-Swing,2016-02-19,"[' Colin T. Dawson ', ' Chris Hopkins ', ' Bernd Lhotzky ', ' Oliver Mewes ']",
+Herzogenbuchsee,Akkordeon-in-Concert,2016-02-19,['Aleksandar Aleksandrovi '],Classic
+Winterthur,Prometheus,2016-02-19,"[' Thomas Fellow ', ' Stephan Bormann ']",
+Zürich,Cadotsch-Schmid-&-Kolb-Lienhard-Saner,2016-02-19,"[' Silvio Cadotsch ', ' Silvan Schmid ', ' Florian Kolb ', ' Pablo Lienhard ', ' Philipp Saner ']",
+Baden,Levis-Inc,2016-02-19,"[' Levi Bo ', ' Marc Gerber ', ' Markus Stephani ', ' Pädu Ziswiler ']",Pop
+Uster,Hund,2016-02-19,"[' Päuli Meyer ', ' Sacha Leuenberger ', ' Viktor Elsener ', ' Laura Frei ', ' Chrigel Bosshard ']",
+Zürich,Miss-Kenichi,2016-02-19,['Miss Kenichi '],Pop
+Winterthur,Saviours,2016-02-19,['Saviours '],
+Zürich,Idan-Raichel,2016-02-19,"['Idan Raichel ', ' Idan Raichel ', ' Maya Avraham ', ' Avi Wogderess Vasa ', ' Yogev Glusman ', ' Gilad Shmueli ']",
+Liebefeld,Erdmann-Courtois-Möbus-Rohrer,2016-02-19,"[' Daniel Erdmann ', ' ', ' Frank Möbus ', ' Samuel Rohrer ']",
+Basel,Rik-van-den-Bergh-&-Bart-van-Lier-Quintet,2016-02-19,"[' Bart van Lier ', ' Rik van den Bergh ', ' Edgar van Asselt ', ' Marius Beets ', ' Eric Ineke ']",
+Winterthur,Mute-Swimmer,2016-02-19,['Mute Swimmer '],
+Zürich,Röschti-mon-amour,2016-02-19,['Kassette '],
+Düdingen,Le1f,2016-02-19,"['Le1f ', ' Zebra Katz ']",
+Rubigen,The-Quireboys,2016-02-19,['The Quireboys '],
+Zürich,Philipp-Hillebrand-Quartet,2016-02-19,"[' Philipp Hillebrand ', ' Claude Stucki ', ' Raphael Walser ', ' Paul Amereller ']",
+Luzern,Ska-N-8,2016-02-19,['Skakeitan '],
+null,Blastertruck-One,2016-02-19,[' Falkonection '],
+Lausanne,Autobahn,2016-02-19,['Autobahn '],
+Winterthur,Indianizer,2016-02-19,['Indianizer '],
+Solothurn,Spidergawd,2016-02-19,['Spidergawd '],
+Zürich,Myself-When-Young,2016-02-19,"[' Sina Chiavi ', ' Sophia Basler ', ' Martina Berther ', ' Florian Weiss ', ' Dimitri Monstein ']",Pop
+Basel,Club-der-2000,2016-02-19,"['Marek Hemmann ', ' DJs Manamana ']",Electronic
+null,Genetikk,2016-02-19,['Genetikk '],

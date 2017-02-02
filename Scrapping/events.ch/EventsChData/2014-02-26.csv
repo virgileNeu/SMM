@@ -1,25 +1,25 @@
-,location,event,date,artists,genre
-0,Basel,Mimiko-Melancholia,2014-02-26,"['Ola Sendecki ', ' Lukas Raaflaub ', ' Oliwia Grabowska ']",Classic
-1,Winterthur,Die-Kultursuppe,2014-02-26,['Daniel Ziegler '],Pop
-2,Zürich,Steirer-Quintett,2014-02-26,['Steirer Quintett '],traditional
-3,Baden,After-Work-Music,2014-02-26,"[' Marco Santilli ', ' Sandro Schneebeli ']",
-4,Luzern,Piano-Entertainment,2014-02-26,['Mark Tenger '],
-5,Windisch,Musik-verkörpern,2014-02-26,['Jürg Lüthy '],Classic
-6,Zürich,Konzert,2014-02-26,"[' Sabine Poyé Morel ', ' Simon Fuchs ', ' Michael Reid ', ' Matthias Rácz ', ' Philippe Litzler ']",Classic
-7,Zürich,Jazz-im-Seefeld,2014-02-26,"[' Tobias Preisig ', ' Michael Flury ', ' Simone Vollenweider ', ' Roberto Domeniconi ', ' Dominique Girod ', ' Claudio Strüby ']",
-8,Basel,COOP-Sinfoniekonzert,2014-02-26,[' Benedikt Schobel '],Classic
-9,null,Of-Montreal,2014-02-26,['Of Montreal '],Pop
-10,Zürich,Wandelnde-Sehnsucht,2014-02-26,"['Anna Steiner ', ' Chasper Mani ', ' Jens Fuhr ']",Classic
-11,Luzern,Jam-Night,2014-02-26,"['Mischa Maurer ', ' Martial In-Albon ', ' Flurin Iten ', ' Claudio Berger ', ' Simon Gautsch ']",
-12,Bern,Milky-Chance,2014-02-26,['Milky Chance '],Pop
-13,Zürich,Dee-Day-Dub,2014-02-26,['Dee Day Dub '],
-14,Bern,Simple-Minds,2014-02-26,['Simple Minds '],Pop
-15,Zürich,Jazzbaragge-Wednesday-Jam,2014-02-26,"['Oliver Keller ', ' Luca Leombruni ', ' Dominik Burkhalter ']",
-16,Basel,Brad-Mehldau-Trio-feat.-Larry-Grenadier,2014-02-26,['Brad Mehldau Trio feat. Larry Grenadier & Jeff Ballard '],
-17,Frauenfeld,Yves-Theiler,2014-02-26,"[' Yves Theiler ', ' Omri Ziegele ']",
-18,Zürich,Artist-in-Residence-Andreas-Tschopp,2014-02-26,"[' Tobias Meier ', ' Matthias Spillmann ', ' Frantz Loriot ', ' Nicola Romanò ', ' Raffaele Bossard ']",
-19,Basel,Gropper-Troller-Pfamatter-Sartorius,2014-02-26,"[' Philipp Gropper ', ' Hans-Peter Pfammatter ', ' Manuel Troller ', ' Julian Sartorius ']",
-20,Bern,Lucien-Dubuis-Trio-&-The-Spacetet,2014-02-26,"[' Lucien Dubuis ', ' Roman Nowka ', ' Lionel Friedli ', ' Estelle Beiner ', ' Regula Schwab ', ' Isabelle Gottraux ', ' Barbara Gasser ']",
-21,Zürich,Bukowski,2014-02-26,['Aestrid '],
-22,Lausanne,Lindi-Ortega,2014-02-26,['Lindi Ortega '],
-23,Lausanne,One-Lick-Less,2014-02-26,['One Lick Less '],
+location,event,date,artists,genre
+Basel,Mimiko-Melancholia,2014-02-26,"['Ola Sendecki ', ' Lukas Raaflaub ', ' Oliwia Grabowska ']",Classic
+Winterthur,Die-Kultursuppe,2014-02-26,['Daniel Ziegler '],Pop
+Zürich,Steirer-Quintett,2014-02-26,['Steirer Quintett '],traditional
+Baden,After-Work-Music,2014-02-26,"[' Marco Santilli ', ' Sandro Schneebeli ']",
+Luzern,Piano-Entertainment,2014-02-26,['Mark Tenger '],
+Windisch,Musik-verkörpern,2014-02-26,['Jürg Lüthy '],Classic
+Zürich,Konzert,2014-02-26,"[' Sabine Poyé Morel ', ' Simon Fuchs ', ' Michael Reid ', ' Matthias Rácz ', ' Philippe Litzler ']",Classic
+Zürich,Jazz-im-Seefeld,2014-02-26,"[' Tobias Preisig ', ' Michael Flury ', ' Simone Vollenweider ', ' Roberto Domeniconi ', ' Dominique Girod ', ' Claudio Strüby ']",
+Basel,COOP-Sinfoniekonzert,2014-02-26,[' Benedikt Schobel '],Classic
+null,Of-Montreal,2014-02-26,['Of Montreal '],Pop
+Zürich,Wandelnde-Sehnsucht,2014-02-26,"['Anna Steiner ', ' Chasper Mani ', ' Jens Fuhr ']",Classic
+Luzern,Jam-Night,2014-02-26,"['Mischa Maurer ', ' Martial In-Albon ', ' Flurin Iten ', ' Claudio Berger ', ' Simon Gautsch ']",
+Bern,Milky-Chance,2014-02-26,['Milky Chance '],Pop
+Zürich,Dee-Day-Dub,2014-02-26,['Dee Day Dub '],
+Bern,Simple-Minds,2014-02-26,['Simple Minds '],Pop
+Zürich,Jazzbaragge-Wednesday-Jam,2014-02-26,"['Oliver Keller ', ' Luca Leombruni ', ' Dominik Burkhalter ']",
+Basel,Brad-Mehldau-Trio-feat.-Larry-Grenadier,2014-02-26,['Brad Mehldau Trio feat. Larry Grenadier & Jeff Ballard '],
+Frauenfeld,Yves-Theiler,2014-02-26,"[' Yves Theiler ', ' Omri Ziegele ']",
+Zürich,Artist-in-Residence-Andreas-Tschopp,2014-02-26,"[' Tobias Meier ', ' Matthias Spillmann ', ' Frantz Loriot ', ' Nicola Romanò ', ' Raffaele Bossard ']",
+Basel,Gropper-Troller-Pfamatter-Sartorius,2014-02-26,"[' Philipp Gropper ', ' Hans-Peter Pfammatter ', ' Manuel Troller ', ' Julian Sartorius ']",
+Bern,Lucien-Dubuis-Trio-&-The-Spacetet,2014-02-26,"[' Lucien Dubuis ', ' Roman Nowka ', ' Lionel Friedli ', ' Estelle Beiner ', ' Regula Schwab ', ' Isabelle Gottraux ', ' Barbara Gasser ']",
+Zürich,Bukowski,2014-02-26,['Aestrid '],
+Lausanne,Lindi-Ortega,2014-02-26,['Lindi Ortega '],
+Lausanne,One-Lick-Less,2014-02-26,['One Lick Less '],

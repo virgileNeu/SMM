@@ -1,28 +1,28 @@
-,location,event,date,artists,genre
-0,Kriens,B-Sides-Festival,2016-06-18,['Bombino '],Pop
-1,Luzern,Master-Abschlusskonzerte,2016-06-18,['Eleonora Erne '],Classic
-2,Hinwil,Rock-the-Ring,2016-06-18,"['Scorpions ', ' Europe ', ' Shinedown ', ' Uriah Heep ']",Pop
-3,Luzern,Master-Abschlusskonzerte,2016-06-18,['Rupert Hunz '],Classic
-4,Zürich,Festspiele-Zürich-Harley-Davidson,2016-06-18,"[' Ingvo Clauder ', ' Sabine Ercklentz ']",Classic
-5,Bern,Festival-Polyphonie-der-Kulturen-Flucht,2016-06-18,[' Marc Fitze '],Classic
-6,Zürich,Misa-criolla,2016-06-18,"[' Laurent Galabru  ', ' Sebastian Leon ']",Classic
-7,Luzern,Master-Abschlusskonzerte,2016-06-18,['Claudia Franziska Kovacs '],Classic
-8,Basel,Auf-Nor-Wegen-On-Nor-Ways,2016-06-18,"[' Sergej Novoseli ', ' Lisa Öberg ', ' Carlos Vallés García ', ' Martin Merker ']",Classic
-9,Basel,Concerts-Aurore-Basel,2016-06-18,[' ein Reigen mit Freund'],Classic
-10,Hunzenschwil,10-Jahre-Jubiläum-Jugendarbeit-Lotten,2016-06-18,['Dodo '],Pop
-11,Basel,Trio-Simolka-Wohlhauser-Seiffert,2016-06-18,"['Christine Simolka ', ' Elia Seiffert ', ' René Wohlhauser ']",Pop
-12,Gerlafingen,Rockabilly-Stomp,2016-06-18,"['The Vargas Brothers ', ' The Delta Bombers ', ' The Desperados ', ' Crystal & the Runnin Wild ', ' The Wize Guyz ', ' The El Sonno Brothers ', ' Roy Thompson & the Mellow Kings ']",
-13,Biglen,Jazz-Selection-feat.-Kent-Stetler,2016-06-18,"[' Kent Stettler ', ' Kurt Brunner ', ' Urs Stephani ', ' Stefan Dorner ']",
-14,Zürich,Festspiele-Zürich-Dada-Dada,2016-06-18,[' Ume Duo '],Classic
-15,Luzern,Wiener-Operetten-Zauber,2016-06-18,"[' Birgitta Wetzl ', ' Eugene Amesmann ']",Classic
-16,Dornach,Sommerkonzert,2016-06-18,"['Martin Masan ', ' Shahane Zurabova ', ' Eva Csapo ']",Classic
-17,Thun,Schlosskonzerte-Thun-Epochemachende-Solowerke,2016-06-18,['Teo Gheorghiu '],Classic
-18,Zürich,Festspiele-Zürich,2016-06-18,"[' Samba Diabaté ', ' Vincent Zanetti ']",
-19,Luzern,Master-Abschlusskonzerte,2016-06-18,['Christa Hellmüller '],Classic
-20,Pratteln,Anthrax,2016-06-18,['Anthrax '],
-21,Hombrechtikon,Kammerorchester-La-Folia,2016-06-18,"[' Kio Seiler ', ' Stephan Matthys ']",Classic
-22,Baden,Tonic-Strings,2016-06-18,"[' Toni Donadio ', ' Nic Niedermann ']",
-23,Basel,Enders-Kurmann-Boudreaux,2016-06-18,"[' Johannes Enders ', ' Stephan Kurmann ', ' Jeff Boudreaux ']",
-24,Basel,Ricci-Schürmann-Duo,2016-06-18,"[' George Ricci ', ' Dominik Schürmann ']",
-25,Basel,Go-C-Art-Festival,2016-06-18,['Pump Club '],Pop
-26,Bad-Ragaz,Jazz-Time,2016-06-18,"[' Hans Hüsler ', ' Peter Cavada ', ' Jakob Morscher ', ' Thomas Meier ']",
+location,event,date,artists,genre
+Kriens,B-Sides-Festival,2016-06-18,['Bombino '],Pop
+Luzern,Master-Abschlusskonzerte,2016-06-18,['Eleonora Erne '],Classic
+Hinwil,Rock-the-Ring,2016-06-18,"['Scorpions ', ' Europe ', ' Shinedown ', ' Uriah Heep ']",Pop
+Luzern,Master-Abschlusskonzerte,2016-06-18,['Rupert Hunz '],Classic
+Zürich,Festspiele-Zürich-Harley-Davidson,2016-06-18,"[' Ingvo Clauder ', ' Sabine Ercklentz ']",Classic
+Bern,Festival-Polyphonie-der-Kulturen-Flucht,2016-06-18,[' Marc Fitze '],Classic
+Zürich,Misa-criolla,2016-06-18,"[' Laurent Galabru  ', ' Sebastian Leon ']",Classic
+Luzern,Master-Abschlusskonzerte,2016-06-18,['Claudia Franziska Kovacs '],Classic
+Basel,Auf-Nor-Wegen-On-Nor-Ways,2016-06-18,"[' Sergej Novoseli ', ' Lisa Öberg ', ' Carlos Vallés García ', ' Martin Merker ']",Classic
+Basel,Concerts-Aurore-Basel,2016-06-18,[' ein Reigen mit Freund'],Classic
+Hunzenschwil,10-Jahre-Jubiläum-Jugendarbeit-Lotten,2016-06-18,['Dodo '],Pop
+Basel,Trio-Simolka-Wohlhauser-Seiffert,2016-06-18,"['Christine Simolka ', ' Elia Seiffert ', ' René Wohlhauser ']",Pop
+Gerlafingen,Rockabilly-Stomp,2016-06-18,"['The Vargas Brothers ', ' The Delta Bombers ', ' The Desperados ', ' Crystal & the Runnin Wild ', ' The Wize Guyz ', ' The El Sonno Brothers ', ' Roy Thompson & the Mellow Kings ']",
+Biglen,Jazz-Selection-feat.-Kent-Stetler,2016-06-18,"[' Kent Stettler ', ' Kurt Brunner ', ' Urs Stephani ', ' Stefan Dorner ']",
+Zürich,Festspiele-Zürich-Dada-Dada,2016-06-18,[' Ume Duo '],Classic
+Luzern,Wiener-Operetten-Zauber,2016-06-18,"[' Birgitta Wetzl ', ' Eugene Amesmann ']",Classic
+Dornach,Sommerkonzert,2016-06-18,"['Martin Masan ', ' Shahane Zurabova ', ' Eva Csapo ']",Classic
+Thun,Schlosskonzerte-Thun-Epochemachende-Solowerke,2016-06-18,['Teo Gheorghiu '],Classic
+Zürich,Festspiele-Zürich,2016-06-18,"[' Samba Diabaté ', ' Vincent Zanetti ']",
+Luzern,Master-Abschlusskonzerte,2016-06-18,['Christa Hellmüller '],Classic
+Pratteln,Anthrax,2016-06-18,['Anthrax '],
+Hombrechtikon,Kammerorchester-La-Folia,2016-06-18,"[' Kio Seiler ', ' Stephan Matthys ']",Classic
+Baden,Tonic-Strings,2016-06-18,"[' Toni Donadio ', ' Nic Niedermann ']",
+Basel,Enders-Kurmann-Boudreaux,2016-06-18,"[' Johannes Enders ', ' Stephan Kurmann ', ' Jeff Boudreaux ']",
+Basel,Ricci-Schürmann-Duo,2016-06-18,"[' George Ricci ', ' Dominik Schürmann ']",
+Basel,Go-C-Art-Festival,2016-06-18,['Pump Club '],Pop
+Bad-Ragaz,Jazz-Time,2016-06-18,"[' Hans Hüsler ', ' Peter Cavada ', ' Jakob Morscher ', ' Thomas Meier ']",

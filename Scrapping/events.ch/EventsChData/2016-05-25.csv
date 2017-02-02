@@ -1,29 +1,29 @@
-,location,event,date,artists,genre
-0,Basel,Mimiko-Sevilla,2016-05-25,['Marco Bartoli '],Classic
-1,Baden,Blues-Festival-Baden,2016-05-25,"[' Nic Niedermann ', ' Phillippe Kuhn ', ' Thom Wettstein ', ' Eddie Walker ']",
-2,Zürich,Medicus-et-musicus-Billroth-und-Brahms-in-Zürich,2016-05-25,"['Ulrike Andersen ', ' Mirjam Tschopp ', ' Jonas Kreienbühl ', ' Andrea Wiesli ']",Classic
-3,Basel,Altstadt-Serenaden-2016,2016-05-25,[' Miriam Feuersinger '],Classic
-4,Luzern,Master-Abschlusskonzerte,2016-05-25,"[' Alexander Werner ', ' Florian Schneider ']",
-5,Basel,Geistliche-Chorwerke-aus-Klassik-und-Romantik,2016-05-25,"[' Stephanie Pfeffer ', ' Sofia Pollak ', ' Dieter Wagner ', ' Samuel Zünd ']",Classic
-6,Zürich,The-Heavy,2016-05-25,['The Heavy '],
-7,Basel,Coop-Sinfoniekonzert,2016-05-25,[' Denis Matsuev '],Classic
-8,Winterthur,Musikkollegium-Winterthur,2016-05-25,['Karl-Andreas Kolly '],Classic
-9,Zürich,Frühlings-Konzert,2016-05-25,"['Jonas Iten ', ' Andriy Dragan ']",Classic
-10,Baden,Blues-Festival-Baden,2016-05-25,"['Cumellas-Talavara ', ' Joan Pau Cumellas ', ' Miguel Talavera ']",
-11,Zürich,Silbermond,2016-05-25,['Silbermond '],
-12,Baden,Blues-Festival-Baden,2016-05-25,"['Jimmy Reiter & Band ', ' Jimmy Reiter ', ' Moritz Fuhrhop ', ' Jasper Mortier ', ' Björn Puls ']",
-13,Baden,Blues-Festival-Baden,2016-05-25,"[' Joan Pao Cumellas ', ' Miguel Talavera ']",
-14,Zürich,Die-Prinzen,2016-05-25,['Die Prinzen '],Pop
-15,Zürich,Lenz-muss-doch-wieder-kommen-Kantate-Contrafacta,2016-05-25,"[' Vera Ehrensperger ', ' Robert Braunschweig ']",Classic
-16,Zürich,Julian-Sartorius,2016-05-25,['Julian Sartorius '],
-17,Winterthur,Ghost-Town-Trio-feat.-Isa-Wiss,2016-05-25,"[' Isa Wiss ', ' Urs Müller ', ' Claude Meier ', ' Lukas Mantel ']",
-18,Frauenfeld,Jazz-Now,2016-05-25,"[' René Mosele ', ' Dave Feusi ', ' Patrick Sommer ', ' Alfred Vogel ']",
-19,Chur,Aidan-Knight-&-Band,2016-05-25,['Aidan Knight & Band '],Pop
-20,Basel,Session,2016-05-25,"[' Domenic Landolf ', ' Patrice Moret ', ' Dejan Terzic ']",
-21,Zürich,Pierre-Favre-mit-The-Bridge,2016-05-25,"[' Frank Kroll ', ' Philipp Schaufelberger ', ' Samuel Blaser ', ' Masatoshi Kamaguchi ', ' Pierre Favre ']",
-22,Zürich,Jazzbaragge-Wednesday-Jam,2016-05-25,"['Tobias Meier ', ' Dominique Girod ', ' Jonas Ruther ']",
-23,Bern,Gablé,2016-05-25,"['Gablé ', ' Gaelle Jacqueline ', ' Mathieu Hubert ', ' Thomas Boullay ']",
-24,Basel,Ahimsa,2016-05-25,"[' Neyveli S. Radhakrishna ', ' Matthias Müller ', ' Udai Mazumdar ']",
-25,Zug,R-We-Alone-,2016-05-25,['R We Alone? '],
-26,Zürich,Jazz-&-Pop-Masters,2016-05-25,"[' Philipp Hillebrand ', ' Florian Weiss ', ' Clemens Kuratle ']",
-27,Zürich,Jazz-&-Pop-Masters,2016-05-25,"[' Daniel Affentranger ', ' Raphael Kalt ', ' Lukas Wyss ', ' Claude Stucki ', ' Mischa Frey ', ' Lukas Blattner ']",
+location,event,date,artists,genre
+Basel,Mimiko-Sevilla,2016-05-25,['Marco Bartoli '],Classic
+Baden,Blues-Festival-Baden,2016-05-25,"[' Nic Niedermann ', ' Phillippe Kuhn ', ' Thom Wettstein ', ' Eddie Walker ']",
+Zürich,Medicus-et-musicus-Billroth-und-Brahms-in-Zürich,2016-05-25,"['Ulrike Andersen ', ' Mirjam Tschopp ', ' Jonas Kreienbühl ', ' Andrea Wiesli ']",Classic
+Basel,Altstadt-Serenaden-2016,2016-05-25,[' Miriam Feuersinger '],Classic
+Luzern,Master-Abschlusskonzerte,2016-05-25,"[' Alexander Werner ', ' Florian Schneider ']",
+Basel,Geistliche-Chorwerke-aus-Klassik-und-Romantik,2016-05-25,"[' Stephanie Pfeffer ', ' Sofia Pollak ', ' Dieter Wagner ', ' Samuel Zünd ']",Classic
+Zürich,The-Heavy,2016-05-25,['The Heavy '],
+Basel,Coop-Sinfoniekonzert,2016-05-25,[' Denis Matsuev '],Classic
+Winterthur,Musikkollegium-Winterthur,2016-05-25,['Karl-Andreas Kolly '],Classic
+Zürich,Frühlings-Konzert,2016-05-25,"['Jonas Iten ', ' Andriy Dragan ']",Classic
+Baden,Blues-Festival-Baden,2016-05-25,"['Cumellas-Talavara ', ' Joan Pau Cumellas ', ' Miguel Talavera ']",
+Zürich,Silbermond,2016-05-25,['Silbermond '],
+Baden,Blues-Festival-Baden,2016-05-25,"['Jimmy Reiter & Band ', ' Jimmy Reiter ', ' Moritz Fuhrhop ', ' Jasper Mortier ', ' Björn Puls ']",
+Baden,Blues-Festival-Baden,2016-05-25,"[' Joan Pao Cumellas ', ' Miguel Talavera ']",
+Zürich,Die-Prinzen,2016-05-25,['Die Prinzen '],Pop
+Zürich,Lenz-muss-doch-wieder-kommen-Kantate-Contrafacta,2016-05-25,"[' Vera Ehrensperger ', ' Robert Braunschweig ']",Classic
+Zürich,Julian-Sartorius,2016-05-25,['Julian Sartorius '],
+Winterthur,Ghost-Town-Trio-feat.-Isa-Wiss,2016-05-25,"[' Isa Wiss ', ' Urs Müller ', ' Claude Meier ', ' Lukas Mantel ']",
+Frauenfeld,Jazz-Now,2016-05-25,"[' René Mosele ', ' Dave Feusi ', ' Patrick Sommer ', ' Alfred Vogel ']",
+Chur,Aidan-Knight-&-Band,2016-05-25,['Aidan Knight & Band '],Pop
+Basel,Session,2016-05-25,"[' Domenic Landolf ', ' Patrice Moret ', ' Dejan Terzic ']",
+Zürich,Pierre-Favre-mit-The-Bridge,2016-05-25,"[' Frank Kroll ', ' Philipp Schaufelberger ', ' Samuel Blaser ', ' Masatoshi Kamaguchi ', ' Pierre Favre ']",
+Zürich,Jazzbaragge-Wednesday-Jam,2016-05-25,"['Tobias Meier ', ' Dominique Girod ', ' Jonas Ruther ']",
+Bern,Gablé,2016-05-25,"['Gablé ', ' Gaelle Jacqueline ', ' Mathieu Hubert ', ' Thomas Boullay ']",
+Basel,Ahimsa,2016-05-25,"[' Neyveli S. Radhakrishna ', ' Matthias Müller ', ' Udai Mazumdar ']",
+Zug,R-We-Alone-,2016-05-25,['R We Alone? '],
+Zürich,Jazz-&-Pop-Masters,2016-05-25,"[' Philipp Hillebrand ', ' Florian Weiss ', ' Clemens Kuratle ']",
+Zürich,Jazz-&-Pop-Masters,2016-05-25,"[' Daniel Affentranger ', ' Raphael Kalt ', ' Lukas Wyss ', ' Claude Stucki ', ' Mischa Frey ', ' Lukas Blattner ']",

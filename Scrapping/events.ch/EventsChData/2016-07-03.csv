@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,null,Openair-St.-Gallen,2016-07-03,['Mumford & Sons '],Pop
-1,null,Openair-St.-Gallen,2016-07-03,[' Jess Glynne '],Pop
-2,Zürich,Kantaten-Gottesdienst,2016-07-03,"[' Judith Imhof ', ' Mirjam Blessing ', ' Michael Mogl ', ' Tobias Wicky ', ' Andreas Jost ']",Classic
-3,Winterthur,Moderne-Antike,2016-07-03,['Conrad Steinmann '],Classic
-4,-Alte-Kirche,Boswil,2016-07-03,"['Henrik Wiese ', ' Alexander Sitkovetsky ', ' Markus Fleck ']",Classic
-5,Zürich,Romantik-und-neue-Klanglichkeit,2016-07-03,['Sir András Schiff '],Classic
-6,Bern,Operettenmelodien-mit-John-Thade,2016-07-03,"['John Thade ', ' Annkatrin Isaacs ']",Classic
-7,Bern,Bosporus-West,2016-07-03,"[' Theodosii Spasso ', ' Ivaylo Kovachev ', ' Boris Dinev ']",Classic
-8,Rheinau,Gioachino-Rossini:-Petite-Messe-Solennelle,2016-07-03,"[' Franziska Hildebrandt ', ' Anne Hinrichsen ', ' Carmela Konrad ', ' Ulrike Andersen ', ' Remy Burnens ', ' Remo Tobiaz ']",Classic
-9,Basel,Stars-at-the-Rhine-Concerto-Wettbewerb,2016-07-03,"[' Nicolo Muzii ', ' Nuron Mukumi ', ' Anastasia Maksiuta ']",Classic
-10,-Alte-Kirche,Boswil,2016-07-03,"[' Claire Huangci ', ' Sophie Dartigalongue ', ' Andrei Ioni ']",Classic
-11,Zürich,Life-Lessons,2016-07-03,"[' Immanuel Witschi ', ' Dorothee Meng ']",
-12,Bern,Schloss-Konzert,2016-07-03,"[' Daniel Woodtli ', ' Nick Perrin ', ' Lorenz Beyeler ']",
-13,Montreux,Montreux-Jazz-Festival,2016-07-03,"['Petit Biscuit ', ' Mura Masa ', ' Flume ']",Electronic
-14,Zürich,La-teoria-degli-affetti,2016-07-03,"[' Luiz Alves da Silva ', ' Mathias Weibel ', ' Emanuele Forni ']",Classic
-15,Montreux,Montreux-Jazz-Festival,2016-07-03,"['Herbie Hancock ', ' Scofield Mehldau Guiliana ', ' John Mclaughlin & The 4th Dimension ']",
-16,Montreux,Montreux-Jazz-Festival,2016-07-03,"['The Al Jarreau Duo ', ' Alina Engibaryan ']",
+location,event,date,artists,genre
+null,Openair-St.-Gallen,2016-07-03,['Mumford & Sons '],Pop
+null,Openair-St.-Gallen,2016-07-03,[' Jess Glynne '],Pop
+Zürich,Kantaten-Gottesdienst,2016-07-03,"[' Judith Imhof ', ' Mirjam Blessing ', ' Michael Mogl ', ' Tobias Wicky ', ' Andreas Jost ']",Classic
+Winterthur,Moderne-Antike,2016-07-03,['Conrad Steinmann '],Classic
+-Alte-Kirche,Boswil,2016-07-03,"['Henrik Wiese ', ' Alexander Sitkovetsky ', ' Markus Fleck ']",Classic
+Zürich,Romantik-und-neue-Klanglichkeit,2016-07-03,['Sir András Schiff '],Classic
+Bern,Operettenmelodien-mit-John-Thade,2016-07-03,"['John Thade ', ' Annkatrin Isaacs ']",Classic
+Bern,Bosporus-West,2016-07-03,"[' Theodosii Spasso ', ' Ivaylo Kovachev ', ' Boris Dinev ']",Classic
+Rheinau,Gioachino-Rossini:-Petite-Messe-Solennelle,2016-07-03,"[' Franziska Hildebrandt ', ' Anne Hinrichsen ', ' Carmela Konrad ', ' Ulrike Andersen ', ' Remy Burnens ', ' Remo Tobiaz ']",Classic
+Basel,Stars-at-the-Rhine-Concerto-Wettbewerb,2016-07-03,"[' Nicolo Muzii ', ' Nuron Mukumi ', ' Anastasia Maksiuta ']",Classic
+-Alte-Kirche,Boswil,2016-07-03,"[' Claire Huangci ', ' Sophie Dartigalongue ', ' Andrei Ioni ']",Classic
+Zürich,Life-Lessons,2016-07-03,"[' Immanuel Witschi ', ' Dorothee Meng ']",
+Bern,Schloss-Konzert,2016-07-03,"[' Daniel Woodtli ', ' Nick Perrin ', ' Lorenz Beyeler ']",
+Montreux,Montreux-Jazz-Festival,2016-07-03,"['Petit Biscuit ', ' Mura Masa ', ' Flume ']",Electronic
+Zürich,La-teoria-degli-affetti,2016-07-03,"[' Luiz Alves da Silva ', ' Mathias Weibel ', ' Emanuele Forni ']",Classic
+Montreux,Montreux-Jazz-Festival,2016-07-03,"['Herbie Hancock ', ' Scofield Mehldau Guiliana ', ' John Mclaughlin & The 4th Dimension ']",
+Montreux,Montreux-Jazz-Festival,2016-07-03,"['The Al Jarreau Duo ', ' Alina Engibaryan ']",

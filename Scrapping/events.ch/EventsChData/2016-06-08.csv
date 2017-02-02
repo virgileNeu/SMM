@@ -1,28 +1,28 @@
-,location,event,date,artists,genre
-0,Bern,Beethovens-Vierte,2016-06-08,[' Roger Muraro '],Classic
-1,Zürich,Mittagsmusik-Hommage-an-Max-Reger,2016-06-08,"['Stephan Siegenthaler ', ' Kolja Lessing ']",Classic
-2,Basel,Mimiko-Match,2016-06-08,"['Karolina Öhman ', ' Thomas Grossenbacher ', ' Erika Öhman ']",Classic
-3,Interlaken,Greenfield-Festival,2016-06-08,['Red Hot Chili Peppers '],Pop
-4,Basel,Rhythm-Plant,2016-06-08,"[' Nadia Maria Endrizzi ', ' Zachary Smith ', ' John Agbloe ', ' Dustin Persson ', ' Kai Becker ', ' Jaime Cardozo ']",
-5,Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-08,['Motel 72 '],
-6,Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-08,"['Alexandre Poulin ', ' Fred Pellerin ']",Pop
-7,Thun,Schlosskonzerte-Thun-Ritual-Groove-Music,2016-06-08,"['Nik Bärtsch ', ' Sha ']",
-8,Luzern,Aus-der-Neuen-Welt,2016-06-08,[' Khatia Buniatishvili '],Classic
-9,Basel,AMG-Solistenabend,2016-06-08,"['Anne-Sophie Mutter ', ' Lambert Orkis ']",Classic
-10,Winterthur,Chron-Goblin,2016-06-08,"['Chron Goblin ', ' Los Disidentes Del Sucio Motel ']",
-11,Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-08,"['Mario Brassard ', ' Yves Desroisiers ']",
-12,Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-08,['Coeur de Pirate '],Pop
-13,Zürich,Festspiele-Zürich-Frank-Zappa,2016-06-08,"[' Bruno Amstad ', ' George Vaine ', ' Tobias Schwab ', ' Konzept: Daniel Rohr ']",Classic
-14,Bern,Michael-Vitali-Trio,2016-06-08,"['Michael Vitali Trio ', ' Michael Vitali ', ' Justin Wert ', ' Yuka Tadano ']",
-15,Zürich,Disturbed,2016-06-08,['Disturbed '],
-16,Bern,Black-Lung,2016-06-08,['Black Lung '],
-17,Zürich,KRS-One,2016-06-08,['KRS-One '],
-18,Zürich,Ana-Moura,2016-06-08,['Ana Moura '],
-19,Zürich,Alice-Phoebe-Lou,2016-06-08,['Alice Phoebe Lou '],Pop
-20,Luzern,Jam-Night,2016-06-08,"[' Martial In Albon ', ' Flurin Iten ', ' Claudio Berger ', ' Sir Camelot ']",
-21,Zürich,Gonçalo-Salgueiro,2016-06-08,['Gonçalo Salgueiro '],
-22,Zürich,We-Are-Scientists,2016-06-08,['We Are Scientists '],
-23,Zürich,Jazzbaragge-Wednesday-Jam,2016-06-08,"[' Claire Huguenin ', ' Florian Möbes ', ' Luzius Schuler ', ' Christian Spahni ', ' Emanuel Künzi ']",
-24,Basel,Dominic-Egli's-Plurism-With-Feya-Faku,2016-06-08,"[' Feya Faku ', ' Donat Fisch ', ' Raffaele Bossard ', ' Dominic Egli ']",
-25,Zürich,Mats-Gustafsson-Fire,2016-06-08,['Mats Gustafsson Fire '],
-26,Lausanne,Algiers,2016-06-08,['Algiers '],
+location,event,date,artists,genre
+Bern,Beethovens-Vierte,2016-06-08,[' Roger Muraro '],Classic
+Zürich,Mittagsmusik-Hommage-an-Max-Reger,2016-06-08,"['Stephan Siegenthaler ', ' Kolja Lessing ']",Classic
+Basel,Mimiko-Match,2016-06-08,"['Karolina Öhman ', ' Thomas Grossenbacher ', ' Erika Öhman ']",Classic
+Interlaken,Greenfield-Festival,2016-06-08,['Red Hot Chili Peppers '],Pop
+Basel,Rhythm-Plant,2016-06-08,"[' Nadia Maria Endrizzi ', ' Zachary Smith ', ' John Agbloe ', ' Dustin Persson ', ' Kai Becker ', ' Jaime Cardozo ']",
+Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-08,['Motel 72 '],
+Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-08,"['Alexandre Poulin ', ' Fred Pellerin ']",Pop
+Thun,Schlosskonzerte-Thun-Ritual-Groove-Music,2016-06-08,"['Nik Bärtsch ', ' Sha ']",
+Luzern,Aus-der-Neuen-Welt,2016-06-08,[' Khatia Buniatishvili '],Classic
+Basel,AMG-Solistenabend,2016-06-08,"['Anne-Sophie Mutter ', ' Lambert Orkis ']",Classic
+Winterthur,Chron-Goblin,2016-06-08,"['Chron Goblin ', ' Los Disidentes Del Sucio Motel ']",
+Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-08,"['Mario Brassard ', ' Yves Desroisiers ']",
+Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-08,['Coeur de Pirate '],Pop
+Zürich,Festspiele-Zürich-Frank-Zappa,2016-06-08,"[' Bruno Amstad ', ' George Vaine ', ' Tobias Schwab ', ' Konzept: Daniel Rohr ']",Classic
+Bern,Michael-Vitali-Trio,2016-06-08,"['Michael Vitali Trio ', ' Michael Vitali ', ' Justin Wert ', ' Yuka Tadano ']",
+Zürich,Disturbed,2016-06-08,['Disturbed '],
+Bern,Black-Lung,2016-06-08,['Black Lung '],
+Zürich,KRS-One,2016-06-08,['KRS-One '],
+Zürich,Ana-Moura,2016-06-08,['Ana Moura '],
+Zürich,Alice-Phoebe-Lou,2016-06-08,['Alice Phoebe Lou '],Pop
+Luzern,Jam-Night,2016-06-08,"[' Martial In Albon ', ' Flurin Iten ', ' Claudio Berger ', ' Sir Camelot ']",
+Zürich,Gonçalo-Salgueiro,2016-06-08,['Gonçalo Salgueiro '],
+Zürich,We-Are-Scientists,2016-06-08,['We Are Scientists '],
+Zürich,Jazzbaragge-Wednesday-Jam,2016-06-08,"[' Claire Huguenin ', ' Florian Möbes ', ' Luzius Schuler ', ' Christian Spahni ', ' Emanuel Künzi ']",
+Basel,Dominic-Egli's-Plurism-With-Feya-Faku,2016-06-08,"[' Feya Faku ', ' Donat Fisch ', ' Raffaele Bossard ', ' Dominic Egli ']",
+Zürich,Mats-Gustafsson-Fire,2016-06-08,['Mats Gustafsson Fire '],
+Lausanne,Algiers,2016-06-08,['Algiers '],

@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-08-21,['Mark Tenger '],
-1,Winterthur,Winterthurer-Musikfestwochen,2013-08-21,"['Dubioza Kolektiv ', ' Moop Mama ']",
-2,Luzern,Lucerne-Festival,2013-08-21,"[' Daniel Dodds ', ' Daniel Hope ', ' Max Richter ']",Classic
-3,null,Top-of-Switzerland-II-Musique-italienne,2013-08-21,['Olivier Cavé '],Classic
-4,Zürich,Anibas,2013-08-21,"[' Anibas ', ' Masi Stalder ', ' Chrisitan Niederer ']",Pop
-5,Murten,Serenadenkonzert-Vier-Jahreszeiten,2013-08-21,[' Piotr Pawner '],Classic
-6,Winterthur,Winterthurer-Musikfestwochen,2013-08-21,['Portico Quartet '],
-7,Basel,Feya-Faku-Quintet,2013-08-21,"[' Feya Faku ', ' Domenic Landolf ', ' Colin Vallon ', ' Fabian Gisler ', ' Dominic Egli ']",
-8,null,Two-Fingers,2013-08-21,['Two Fingers '],Electronic
-9,Zürich,Sonic-Drain,2013-08-21,"[' Benjamin Hacker ', ' Marc Osterwalder ', ' Dmitri Karpovich ', ' Timo Klingler ']",
-10,Zürich,The-Soft-Moon,2013-08-21,['The Soft Moon '],
-11,null,Sommernachtskonzert-Zu-Zweit-zu-Dritt-zu-Viert,2013-08-21,"[' Fabio di Càsola ', ' Kamilla Schatz ', ' Riszard Groblewksi ', ' Matthias Schranz ', ' Eva Aroutunian ']",Classic
-12,Zürich,Blondes,2013-08-21,"['Blondes ', ' James Campbell ', ' I.U.D. ']",Pop
+location,event,date,artists,genre
+Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-08-21,['Mark Tenger '],
+Winterthur,Winterthurer-Musikfestwochen,2013-08-21,"['Dubioza Kolektiv ', ' Moop Mama ']",
+Luzern,Lucerne-Festival,2013-08-21,"[' Daniel Dodds ', ' Daniel Hope ', ' Max Richter ']",Classic
+null,Top-of-Switzerland-II-Musique-italienne,2013-08-21,['Olivier Cavé '],Classic
+Zürich,Anibas,2013-08-21,"[' Anibas ', ' Masi Stalder ', ' Chrisitan Niederer ']",Pop
+Murten,Serenadenkonzert-Vier-Jahreszeiten,2013-08-21,[' Piotr Pawner '],Classic
+Winterthur,Winterthurer-Musikfestwochen,2013-08-21,['Portico Quartet '],
+Basel,Feya-Faku-Quintet,2013-08-21,"[' Feya Faku ', ' Domenic Landolf ', ' Colin Vallon ', ' Fabian Gisler ', ' Dominic Egli ']",
+null,Two-Fingers,2013-08-21,['Two Fingers '],Electronic
+Zürich,Sonic-Drain,2013-08-21,"[' Benjamin Hacker ', ' Marc Osterwalder ', ' Dmitri Karpovich ', ' Timo Klingler ']",
+Zürich,The-Soft-Moon,2013-08-21,['The Soft Moon '],
+null,Sommernachtskonzert-Zu-Zweit-zu-Dritt-zu-Viert,2013-08-21,"[' Fabio di Càsola ', ' Kamilla Schatz ', ' Riszard Groblewksi ', ' Matthias Schranz ', ' Eva Aroutunian ']",Classic
+Zürich,Blondes,2013-08-21,"['Blondes ', ' James Campbell ', ' I.U.D. ']",Pop

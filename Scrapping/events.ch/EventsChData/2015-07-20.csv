@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Verbier,Verbier-Festival,2015-07-20,"['Mark Padmore ', ' James Baillieu ']",Classic
-1,Verbier,Verbier-Festival,2015-07-20,['Alexander Melnikov '],Classic
-2,Nyon,Paléo-Festival,2015-07-20,[' Too Many Zooz '],
-3,null,Les-Slugs,2015-07-20,['Les Slugs '],
-4,Nyon,Paléo-Festival,2015-07-20,"['AM444 ', ' Maïa Barouh ']",
-5,Verbier,Verbier-Festival,2015-07-20,"[' Sonya Yoncheva ', ' Daniela Barcellona ', ' Piotr Beczala ', ' Simone Piazzola ', ' Ildar Abdrazakov ']",Classic
-6,Nyon,Paléo-Festival,2015-07-20,"['Gramatik ', ' Santigold ', ' Benjamin Clementine ']",Pop
-7,Vers-l'Eglise,Menuhin-Festival-Gstaad-Ironie-comme-expression-III,2015-07-20,['Kristian Bezuidenhout '],Classic
-8,Nyon,Paléo-Festival,2015-07-20,"['Robbie Williams ', ' Caravan Palace ']",Pop
-9,Pratteln,Death-Angel,2015-07-20,['Death Angel '],
-10,Nyon,Paléo-Festival,2015-07-20,"['Idiotape ', ' Robbing Millions ', ' Jeanne Added ']",Electronic
-11,Luzern,Blue-Balls-Festival,2015-07-20,['Jamie Cullum '],
-12,null,Swing-Tanzabend,2015-07-20,['Dizzy Birds '],
-13,Basel,Basel-Tattoo,2015-07-20,"['Ailsa Craig Highland Dancers ', ' Blue Devils International Corps ', ' Celtic Stars Irish Dancers ', ' Fanfara 8° Reggimento Bersaglieri ', ' Imps Motorcycle Display Team ']",traditional
+location,event,date,artists,genre
+Verbier,Verbier-Festival,2015-07-20,"['Mark Padmore ', ' James Baillieu ']",Classic
+Verbier,Verbier-Festival,2015-07-20,['Alexander Melnikov '],Classic
+Nyon,Paléo-Festival,2015-07-20,[' Too Many Zooz '],
+null,Les-Slugs,2015-07-20,['Les Slugs '],
+Nyon,Paléo-Festival,2015-07-20,"['AM444 ', ' Maïa Barouh ']",
+Verbier,Verbier-Festival,2015-07-20,"[' Sonya Yoncheva ', ' Daniela Barcellona ', ' Piotr Beczala ', ' Simone Piazzola ', ' Ildar Abdrazakov ']",Classic
+Nyon,Paléo-Festival,2015-07-20,"['Gramatik ', ' Santigold ', ' Benjamin Clementine ']",Pop
+Vers-l'Eglise,Menuhin-Festival-Gstaad-Ironie-comme-expression-III,2015-07-20,['Kristian Bezuidenhout '],Classic
+Nyon,Paléo-Festival,2015-07-20,"['Robbie Williams ', ' Caravan Palace ']",Pop
+Pratteln,Death-Angel,2015-07-20,['Death Angel '],
+Nyon,Paléo-Festival,2015-07-20,"['Idiotape ', ' Robbing Millions ', ' Jeanne Added ']",Electronic
+Luzern,Blue-Balls-Festival,2015-07-20,['Jamie Cullum '],
+null,Swing-Tanzabend,2015-07-20,['Dizzy Birds '],
+Basel,Basel-Tattoo,2015-07-20,"['Ailsa Craig Highland Dancers ', ' Blue Devils International Corps ', ' Celtic Stars Irish Dancers ', ' Fanfara 8° Reggimento Bersaglieri ', ' Imps Motorcycle Display Team ']",traditional

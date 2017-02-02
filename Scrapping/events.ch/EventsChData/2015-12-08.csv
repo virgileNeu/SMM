@@ -1,21 +1,21 @@
-,location,event,date,artists,genre
-0,Zürich,Peggy-Chew-and-Strings,2015-12-08,"[' Peggy Chew ', ' Marion Namestnik ', ' Silvan Jeger ']",
-1,Solothurn,Suicide-Silence,2015-12-08,['Suicide Silence '],
-2,Basel,AMG-World-Orchestras,2015-12-08,[' Sir Andras Schiff '],Classic
-3,Zürich,Lockenhaus-on-Tour,2015-12-08,"['Vilde Frang ', ' James Boyd ', ' Nicholas Altstaedt ', ' Alexander Lonquich ']",Classic
-4,Aarau,Metalmayhem,2015-12-08,"['The Browning ', ' Silent Screams ', ' Capture The Crown ', ' Walking With Strangers ']",
-5,Zürich,John-Garcia,2015-12-08,"['John Garcia ', ' Bellhound Choir ']",
-6,null,Scorpions,2015-12-08,"['Scorpions ', ' Europe ']",
-7,Zürich,District-Five-Quartet,2015-12-08,"[' Tapiwa Svosve ', ' Vojko Huter ', ' Paul Amereller ', ' Xaver Rüegg ']",
-8,Zürich,My-Baby,2015-12-08,['My Baby '],
-9,Basel,Weihnachtskonzert,2015-12-08,"[' Leonid Maximov ', ' Aldo Manetsch ', ' Henryk Polus ']",Classic
-10,Zürich,K.I.Z,2015-12-08,['K.I.Z '],
-11,Zürich,Elliot-Moss,2015-12-08,['Elliot Moss '],
-12,Rheinfelden,Dado-Moroni-Quartet,2015-12-08,"[' Dado Moroni ', ' Emanuele Cisi ', ' Max Rolff ', ' Nicola Angelucci ']",
-13,Basel,DKSJ-Exchange-Nights-Best-of-Jazz-Bachelors-2015,2015-12-08,"[' Raphael Rossé ', ' Luca Pusch ', ' Kristinn Smári Kristinsson ', ' Lisa Hoppe ', ' Michael Heidepriem ']",
-14,Basel,Jaeger-Gisler-Rainey,2015-12-08,"[' Michael Jaeger ', ' Fabian Gisler ', ' Tom Rainey ']",
-15,Luzern,Tales-from-Vietnam,2015-12-08,"[' Noëmi Jufer ', ' Nadia Zobrist ', ' Elina Bächlin ', ' Jonathan Salvi ', ' Laurin Moor ', ' Felix Fivaz ']",
-16,Zürich,Shantel-&-the-Bucovina-Club-Orkestar,2015-12-08,['Shantel & the Bucovina Club Orkestar '],
-17,Zürich,Artist-in-Residence-Lukas-Mantel,2015-12-08,"[' Lukas Mantel ', ' Eiko ', ' Urs Vögeli ', ' Claude Meier ', ' Christy Doran ', ' Andreas Schaerer ']",
-18,Zürich,Alois-Trio,2015-12-08,"[' Martin Schenker ', ' Pascal Eugster ', ' Florian Schneider ']",
-19,Basel,DKSJ-Exchange-Nights-Best-of-Jazz-Bachelors-2015,2015-12-08,"[' Linus Amstad ', ' Florian Weiss ', ' Valentin von Fischer ', ' Philipp Leibundgut ']",
+location,event,date,artists,genre
+Zürich,Peggy-Chew-and-Strings,2015-12-08,"[' Peggy Chew ', ' Marion Namestnik ', ' Silvan Jeger ']",
+Solothurn,Suicide-Silence,2015-12-08,['Suicide Silence '],
+Basel,AMG-World-Orchestras,2015-12-08,[' Sir Andras Schiff '],Classic
+Zürich,Lockenhaus-on-Tour,2015-12-08,"['Vilde Frang ', ' James Boyd ', ' Nicholas Altstaedt ', ' Alexander Lonquich ']",Classic
+Aarau,Metalmayhem,2015-12-08,"['The Browning ', ' Silent Screams ', ' Capture The Crown ', ' Walking With Strangers ']",
+Zürich,John-Garcia,2015-12-08,"['John Garcia ', ' Bellhound Choir ']",
+null,Scorpions,2015-12-08,"['Scorpions ', ' Europe ']",
+Zürich,District-Five-Quartet,2015-12-08,"[' Tapiwa Svosve ', ' Vojko Huter ', ' Paul Amereller ', ' Xaver Rüegg ']",
+Zürich,My-Baby,2015-12-08,['My Baby '],
+Basel,Weihnachtskonzert,2015-12-08,"[' Leonid Maximov ', ' Aldo Manetsch ', ' Henryk Polus ']",Classic
+Zürich,K.I.Z,2015-12-08,['K.I.Z '],
+Zürich,Elliot-Moss,2015-12-08,['Elliot Moss '],
+Rheinfelden,Dado-Moroni-Quartet,2015-12-08,"[' Dado Moroni ', ' Emanuele Cisi ', ' Max Rolff ', ' Nicola Angelucci ']",
+Basel,DKSJ-Exchange-Nights-Best-of-Jazz-Bachelors-2015,2015-12-08,"[' Raphael Rossé ', ' Luca Pusch ', ' Kristinn Smári Kristinsson ', ' Lisa Hoppe ', ' Michael Heidepriem ']",
+Basel,Jaeger-Gisler-Rainey,2015-12-08,"[' Michael Jaeger ', ' Fabian Gisler ', ' Tom Rainey ']",
+Luzern,Tales-from-Vietnam,2015-12-08,"[' Noëmi Jufer ', ' Nadia Zobrist ', ' Elina Bächlin ', ' Jonathan Salvi ', ' Laurin Moor ', ' Felix Fivaz ']",
+Zürich,Shantel-&-the-Bucovina-Club-Orkestar,2015-12-08,['Shantel & the Bucovina Club Orkestar '],
+Zürich,Artist-in-Residence-Lukas-Mantel,2015-12-08,"[' Lukas Mantel ', ' Eiko ', ' Urs Vögeli ', ' Claude Meier ', ' Christy Doran ', ' Andreas Schaerer ']",
+Zürich,Alois-Trio,2015-12-08,"[' Martin Schenker ', ' Pascal Eugster ', ' Florian Schneider ']",
+Basel,DKSJ-Exchange-Nights-Best-of-Jazz-Bachelors-2015,2015-12-08,"[' Linus Amstad ', ' Florian Weiss ', ' Valentin von Fischer ', ' Philipp Leibundgut ']",

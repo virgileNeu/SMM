@@ -1,45 +1,45 @@
-,location,event,date,artists,genre
-0,Winterthur,Musse-&-Melodien-über-Mittag,2015-06-05,"['Roberto González Monjas ', ' Josef Gilgenreiner ', ' Alfonso Gómez ']",Classic
-1,Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-05,['Jordi Bertran Sastre '],Classic
-2,Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-05,['Marietta Bosshart '],Classic
-3,Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-05,['Elena Patricia Ruiz Martin '],Classic
-4,Basel,Masterrezital,2015-06-05,['Oleksandra Fedosova '],Classic
-5,Zürich,Stolze-Openair,2015-06-05,"['Pollyester ', ' Yellow Bird ']",Pop
-6,Basel,Orgelspiel-zum-Feierabend,2015-06-05,['Susanne Böke-Kern '],Classic
-7,Dietikon,Feierabendmusik-in-der-Kirche,2015-06-05,"['Réka Jaksics ', ' Bernhard Hörler ']",Classic
-8,Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-05,['Maris Kugis '],Classic
-9,Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-05,['Maris Kugis '],Classic
-10,Zürich,AC,2015-06-05,"['AC/DC ', ' Vintage Trouble ']",
-11,Luzern,Master-Abschlusskonzerte,2015-06-05,"['Andreas Spring ', ' Martin Schenker ', ' Sebastian Pietrowiak ', ' Mischa Maurer ', ' Tobias Schmid ', ' Maurus Twerenbold ']",
-12,Basel,Masterrezital,2015-06-05,[' Sarah Hennig '],Classic
-13,Zürich,Tonhalle-Orchester-Zürich,2015-06-05,"['Simon Fuchs ', ' Michael Reid ', ' Matthias Racz ', ' Ivo Gass ']",Classic
-14,Luzern,Festival-Strings-Lucerne,2015-06-05,[' conductor: Rudolf Buchbinder '],Classic
-15,Zürich,Kammermusik-Konzert,2015-06-05,"[' Saskia Hein ', ' Mihai Cocea ', ' Sara Franchini ']",Classic
-16,Basel,Masterrezital,2015-06-05,['Yifu Cheng '],Classic
-17,Zürich,Roisin-Murphy,2015-06-05,['Roisin Murphy '],Electronic
-18,Oberengstringen,Vertigo-Trombone-Quartet,2015-06-05,"[' Nils Wogram ', ' Bernhard Bamert ', ' Andreas Tschopp ', ' Jan Schreiner ']",
-19,Altikon,Aros-Flamencos,2015-06-05,"[' David Beer ', ' Marcel Ege ']",
-20,Zürich,Denn-wie-Mann-sich-bettet-Ein-kurtweilliger-Liederabend,2015-06-05,"['Christian Jott Jenny ', ' Edward Rushton ', ' Markus Notter\r\n ']",Pop
-21,Zürich,George-Dalaras,2015-06-05,['George Dalaras '],
-22,Kloten,The-Tonics,2015-06-05,"[' Ueli Hirt ', ' Ste Peter ', ' Thomas Minor ', ' Tobias Stahel ', ' Urs Rhyner ']",Pop
-23,Basel,Chor-&-Orchester-Uni-Basel,2015-06-05,"[' F. Stucki ', ' P. M. A. Crespo ', ' E. Heitz ', ' S. Garzón-Arredondo ', ' J. C. Loza ']",Classic
-24,Zürich,Jessie-J,2015-06-05,['Jessie J '],Pop
-25,Basel,D'après,2015-06-05,"[' Andrea Nagy ', ' ', ' Marco Fusi ', ' Christophe Mathias ', ' Anna Derrico ', ' Agnieszka Koprowska-Born ']",Classic
-26,Zürich,Von-der-Klassik-bis-Gershwin,2015-06-05,"[' Hiromi Ikei ', ' Rahel Kobelt ']",Classic
-27,Winterthur,Frizzon,2015-06-05,"[' Jakob Hampel ', ' Ueli Kempter ', ' Lisa Hoppe ', ' Manuel Pasquinelli ']",
-28,Aarau,Heymoonshaker,2015-06-05,['Heymoonshaker '],
-29,Liebefeld,Schulers-Rhapsodie,2015-06-05,"[' Hanna Paulsberg ', ' Caesar Joaniquet ', ' Luzius Schuler ', ' Bjorn Marius Hegge ', ' Jonas Ruther ']",
-30,Zürich,Doron-Lev-&-Uglybraine,2015-06-05,"['Doron Lev & Uglybraine ', ' Doron Lev ', ' Matt Dickey ', ' Dave Spinley ', ' Djibril Toure ', ' Ryan Slotnick ', ' Amik Guerra ']",
-31,Dübendorf,Sting-Operation,2015-06-05,"[' Matthias Siegrist ', ' Peter Leuzinger ', ' Peter Preibisch ', ' Felix Straumann ', ' Linus Hunkeler ']",
-32,Wädenswil,Zeit-ist-ein-Arschloch,2015-06-05,['Cora Frost & Gert Thumser '],Pop
-33,Chur,Jungle-Soap,2015-06-05,"[' Hansueli Tischhauser ', ' Andreas Wettstein ']",
-34,Luzern,Bounce,2015-06-05,"[' Julian Hesse ', ' Jonathan Maag ', ' Andrey Tatarinets ', ' Domi Chansorn ']",
-35,Basel,Zelig,2015-06-05,"[' Cédric Vogel ', ' Jan Herzog ', ' Francesco Rezzonico ', ' Tobias Schmid ']",
-36,Luzern,Muzak,2015-06-05,['Muzak '],
-37,Luzern,Muzak,2015-06-05,['Muzak '],
-38,Luzern,Shantel-&-Bucovina-Club-Orkestar,2015-06-05,['Shantel & Bucovina Club Orkestar '],Pop
-39,Chur,Insomnia-Rail,2015-06-05,['Insomnia Rail '],
-40,null,KRS-One,2015-06-05,['KRS One '],
-41,Interlaken,Bluez-Ballz,2015-06-05,"[' Jan Bukacek ', ' Thomas L. C. Elsasser ', ' Roger T. ']",
-42,Winterthur,Astronautalis-&-Band,2015-06-05,['Astronautalis & Band '],
-43,Lausanne,Jim-Henderson,2015-06-05,"['Jim Henderson ', ' Valy Mo ']",Electronic
+location,event,date,artists,genre
+Winterthur,Musse-&-Melodien-über-Mittag,2015-06-05,"['Roberto González Monjas ', ' Josef Gilgenreiner ', ' Alfonso Gómez ']",Classic
+Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-05,['Jordi Bertran Sastre '],Classic
+Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-05,['Marietta Bosshart '],Classic
+Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-05,['Elena Patricia Ruiz Martin '],Classic
+Basel,Masterrezital,2015-06-05,['Oleksandra Fedosova '],Classic
+Zürich,Stolze-Openair,2015-06-05,"['Pollyester ', ' Yellow Bird ']",Pop
+Basel,Orgelspiel-zum-Feierabend,2015-06-05,['Susanne Böke-Kern '],Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2015-06-05,"['Réka Jaksics ', ' Bernhard Hörler ']",Classic
+Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-05,['Maris Kugis '],Classic
+Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-05,['Maris Kugis '],Classic
+Zürich,AC,2015-06-05,"['AC/DC ', ' Vintage Trouble ']",
+Luzern,Master-Abschlusskonzerte,2015-06-05,"['Andreas Spring ', ' Martin Schenker ', ' Sebastian Pietrowiak ', ' Mischa Maurer ', ' Tobias Schmid ', ' Maurus Twerenbold ']",
+Basel,Masterrezital,2015-06-05,[' Sarah Hennig '],Classic
+Zürich,Tonhalle-Orchester-Zürich,2015-06-05,"['Simon Fuchs ', ' Michael Reid ', ' Matthias Racz ', ' Ivo Gass ']",Classic
+Luzern,Festival-Strings-Lucerne,2015-06-05,[' conductor: Rudolf Buchbinder '],Classic
+Zürich,Kammermusik-Konzert,2015-06-05,"[' Saskia Hein ', ' Mihai Cocea ', ' Sara Franchini ']",Classic
+Basel,Masterrezital,2015-06-05,['Yifu Cheng '],Classic
+Zürich,Roisin-Murphy,2015-06-05,['Roisin Murphy '],Electronic
+Oberengstringen,Vertigo-Trombone-Quartet,2015-06-05,"[' Nils Wogram ', ' Bernhard Bamert ', ' Andreas Tschopp ', ' Jan Schreiner ']",
+Altikon,Aros-Flamencos,2015-06-05,"[' David Beer ', ' Marcel Ege ']",
+Zürich,Denn-wie-Mann-sich-bettet-Ein-kurtweilliger-Liederabend,2015-06-05,"['Christian Jott Jenny ', ' Edward Rushton ', ' Markus Notter\r\n ']",Pop
+Zürich,George-Dalaras,2015-06-05,['George Dalaras '],
+Kloten,The-Tonics,2015-06-05,"[' Ueli Hirt ', ' Ste Peter ', ' Thomas Minor ', ' Tobias Stahel ', ' Urs Rhyner ']",Pop
+Basel,Chor-&-Orchester-Uni-Basel,2015-06-05,"[' F. Stucki ', ' P. M. A. Crespo ', ' E. Heitz ', ' S. Garzón-Arredondo ', ' J. C. Loza ']",Classic
+Zürich,Jessie-J,2015-06-05,['Jessie J '],Pop
+Basel,D'après,2015-06-05,"[' Andrea Nagy ', ' ', ' Marco Fusi ', ' Christophe Mathias ', ' Anna Derrico ', ' Agnieszka Koprowska-Born ']",Classic
+Zürich,Von-der-Klassik-bis-Gershwin,2015-06-05,"[' Hiromi Ikei ', ' Rahel Kobelt ']",Classic
+Winterthur,Frizzon,2015-06-05,"[' Jakob Hampel ', ' Ueli Kempter ', ' Lisa Hoppe ', ' Manuel Pasquinelli ']",
+Aarau,Heymoonshaker,2015-06-05,['Heymoonshaker '],
+Liebefeld,Schulers-Rhapsodie,2015-06-05,"[' Hanna Paulsberg ', ' Caesar Joaniquet ', ' Luzius Schuler ', ' Bjorn Marius Hegge ', ' Jonas Ruther ']",
+Zürich,Doron-Lev-&-Uglybraine,2015-06-05,"['Doron Lev & Uglybraine ', ' Doron Lev ', ' Matt Dickey ', ' Dave Spinley ', ' Djibril Toure ', ' Ryan Slotnick ', ' Amik Guerra ']",
+Dübendorf,Sting-Operation,2015-06-05,"[' Matthias Siegrist ', ' Peter Leuzinger ', ' Peter Preibisch ', ' Felix Straumann ', ' Linus Hunkeler ']",
+Wädenswil,Zeit-ist-ein-Arschloch,2015-06-05,['Cora Frost & Gert Thumser '],Pop
+Chur,Jungle-Soap,2015-06-05,"[' Hansueli Tischhauser ', ' Andreas Wettstein ']",
+Luzern,Bounce,2015-06-05,"[' Julian Hesse ', ' Jonathan Maag ', ' Andrey Tatarinets ', ' Domi Chansorn ']",
+Basel,Zelig,2015-06-05,"[' Cédric Vogel ', ' Jan Herzog ', ' Francesco Rezzonico ', ' Tobias Schmid ']",
+Luzern,Muzak,2015-06-05,['Muzak '],
+Luzern,Muzak,2015-06-05,['Muzak '],
+Luzern,Shantel-&-Bucovina-Club-Orkestar,2015-06-05,['Shantel & Bucovina Club Orkestar '],Pop
+Chur,Insomnia-Rail,2015-06-05,['Insomnia Rail '],
+null,KRS-One,2015-06-05,['KRS One '],
+Interlaken,Bluez-Ballz,2015-06-05,"[' Jan Bukacek ', ' Thomas L. C. Elsasser ', ' Roger T. ']",
+Winterthur,Astronautalis-&-Band,2015-06-05,['Astronautalis & Band '],
+Lausanne,Jim-Henderson,2015-06-05,"['Jim Henderson ', ' Valy Mo ']",Electronic

@@ -1,26 +1,26 @@
-,location,event,date,artists,genre
-0,Basel,Lunchkonzert,2013-01-24,"['Andrea Suter ', ' Lilia Tripodi ', ' Markus Nykänen ', ' Ashley Prewett ', ' Rolando Garza ']",Classic
-1,Luzern,Esswerk,2013-01-24,"[' Michael Leherbauer ', ' David Bokel ', ' Simon Borer ']",
-2,Luzern,Esswerk,2013-01-24,"[' Michael Leherbauer ', ' David Bokel ', ' Simon Borer ']",
-3,Exil,Zürich,2013-01-24,['Che Sudaka '],
-4,Sommercasino,Basel,2013-01-24,['Napalm Death '],
-5,Zürich,Momentaufnahme,2013-01-24,"['Gabriela Tanner ', ' Susanne Petersen ', ' Verena Barbara Gohl ', ' Christina Jaccard ']",Pop
-6,Zürich,Thursday-Night-Jazz,2013-01-24,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-7,Winterthur,Innovantiqua-Winterthur,2013-01-24,"['Donzela guerreira ', ' Marilia Vargas ']",
-8,Basel,Volkssinfoniekonzert,2013-01-24,[' Rossana Rossignoli '],Classic
-9,Basel,Afterhours,2013-01-24,[' Giulia del Re '],
-10,Zürich,Mis-Dach-isch-de-Himmel-vo-Züüri,2013-01-24,"['Rea Claudia Kost ', ' Samuel Zünd ', ' Daniel Fueter ']",Pop
-11,Basel,The-Blackberry-Brandies,2013-01-24,['The Blackberry Brandies '],
-12,Kloten,Diggin-the-Blues,2013-01-24,"[' Marco Leali ', ' Reiny Schnyder ', ' Hp Brack ', ' Marcel Rüegg ']",
-13,Solothurn,Amelia-Curran,2013-01-24,['Amelia Curran '],Pop
-14,Baden,Jazzinteam,2013-01-24,"[' Gitte Deubelbeiss ', ' Ruedi Vögeli ']",
-15,Thalwil,Hausquartett,2013-01-24,"[' Hämi Hämmerli ', ' Christoph Baumann ', ' Tony Renold ', ' Isa Wiss ']",
-16,Musik-Container,Uster,2013-01-24,"[' Claudia Greber ', ' Fabienne Ambühl ', ' Simon Iten ']",
-17,Zürich,Rémi-Panossian-Trio-feat.-Johänntgen-&-Köster,2013-01-24,"[' Rémi Panossian ', ' Maxime Delporte ', ' Frédéric Petitprez ', ' Frederik Köster ', ' Nicole Johänntgen ']",
-18,Dübendorf,Racine-Kappeler,2013-01-24,"[' Marianne Racine ', ' Vera Kappeler ']",
-19,Cargo-Bar,Basel,2013-01-24,"[' Pink Pedrazzi ', ' Mike Bischof ']",Pink
-20,Winterthur,Die-Blockflöte-des-Todes,2013-01-24,['Die Blockflöte des Todes '],
-21,Basel,Nachtstrom-62,2013-01-24,['Paulo Ferreira-Lopes '],Classic
-22,Bern,Scumbucket,2013-01-24,['Scumbucket '],
-23,Zürich,JJ-&-Palin,2013-01-24,['JJ & Palin '],Pop
-24,Zürich,Rea-Som,2013-01-24,"[' Rea Hunziker ', ' Nino Wenger ', ' Sebastian Pietrowiak ', ' Gianluca Giger ', ' Freddy Benitez ']",
+location,event,date,artists,genre
+Basel,Lunchkonzert,2013-01-24,"['Andrea Suter ', ' Lilia Tripodi ', ' Markus Nykänen ', ' Ashley Prewett ', ' Rolando Garza ']",Classic
+Luzern,Esswerk,2013-01-24,"[' Michael Leherbauer ', ' David Bokel ', ' Simon Borer ']",
+Luzern,Esswerk,2013-01-24,"[' Michael Leherbauer ', ' David Bokel ', ' Simon Borer ']",
+Exil,Zürich,2013-01-24,['Che Sudaka '],
+Sommercasino,Basel,2013-01-24,['Napalm Death '],
+Zürich,Momentaufnahme,2013-01-24,"['Gabriela Tanner ', ' Susanne Petersen ', ' Verena Barbara Gohl ', ' Christina Jaccard ']",Pop
+Zürich,Thursday-Night-Jazz,2013-01-24,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Winterthur,Innovantiqua-Winterthur,2013-01-24,"['Donzela guerreira ', ' Marilia Vargas ']",
+Basel,Volkssinfoniekonzert,2013-01-24,[' Rossana Rossignoli '],Classic
+Basel,Afterhours,2013-01-24,[' Giulia del Re '],
+Zürich,Mis-Dach-isch-de-Himmel-vo-Züüri,2013-01-24,"['Rea Claudia Kost ', ' Samuel Zünd ', ' Daniel Fueter ']",Pop
+Basel,The-Blackberry-Brandies,2013-01-24,['The Blackberry Brandies '],
+Kloten,Diggin-the-Blues,2013-01-24,"[' Marco Leali ', ' Reiny Schnyder ', ' Hp Brack ', ' Marcel Rüegg ']",
+Solothurn,Amelia-Curran,2013-01-24,['Amelia Curran '],Pop
+Baden,Jazzinteam,2013-01-24,"[' Gitte Deubelbeiss ', ' Ruedi Vögeli ']",
+Thalwil,Hausquartett,2013-01-24,"[' Hämi Hämmerli ', ' Christoph Baumann ', ' Tony Renold ', ' Isa Wiss ']",
+Musik-Container,Uster,2013-01-24,"[' Claudia Greber ', ' Fabienne Ambühl ', ' Simon Iten ']",
+Zürich,Rémi-Panossian-Trio-feat.-Johänntgen-&-Köster,2013-01-24,"[' Rémi Panossian ', ' Maxime Delporte ', ' Frédéric Petitprez ', ' Frederik Köster ', ' Nicole Johänntgen ']",
+Dübendorf,Racine-Kappeler,2013-01-24,"[' Marianne Racine ', ' Vera Kappeler ']",
+Cargo-Bar,Basel,2013-01-24,"[' Pink Pedrazzi ', ' Mike Bischof ']",Pink
+Winterthur,Die-Blockflöte-des-Todes,2013-01-24,['Die Blockflöte des Todes '],
+Basel,Nachtstrom-62,2013-01-24,['Paulo Ferreira-Lopes '],Classic
+Bern,Scumbucket,2013-01-24,['Scumbucket '],
+Zürich,JJ-&-Palin,2013-01-24,['JJ & Palin '],Pop
+Zürich,Rea-Som,2013-01-24,"[' Rea Hunziker ', ' Nino Wenger ', ' Sebastian Pietrowiak ', ' Gianluca Giger ', ' Freddy Benitez ']",

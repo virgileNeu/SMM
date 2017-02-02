@@ -1,8 +1,8 @@
-,location,event,date,artists,genre
-0,Zürich,Sarah-Peng-Quartet,2015-02-24,"[' Sarah Peng ', ' Elmar Kluth ', ' Ruedi Sprüngli ', ' Thomas Hirt ']",
-1,Palais-des-Congrès,null,2015-02-24,[' Daniel Kobyliansky '],Classic
-2,Zürich,Die-vier-Jahreszeiten,2015-02-24,"[' Willi Zimmermann ', ' conductor: Daniel Hope ']",Classic
-3,Zürich,Straight-No-Chaser,2015-02-24,"['Straight No Chaser ', ' Randy Stine ', ' Walter Chase ', ' Jerome Colling ', ' Seggie Isho ', ' Michael Luginbill ']",Pop
-4,Zürich,Ex-Hex,2015-02-24,['Ex Hex '],
-5,Zürich,Polar-Bear,2015-02-24,"['Polar Bear ', ' Pete Wareham ', ' Shabaka Hutching ', ' Tom Herbert ', ' John Leafcutter ', ' Seb Rochford ']",
-6,Düdingen,Absolutely-Free,2015-02-24,['Absolutely Free '],Electronic
+location,event,date,artists,genre
+Zürich,Sarah-Peng-Quartet,2015-02-24,"[' Sarah Peng ', ' Elmar Kluth ', ' Ruedi Sprüngli ', ' Thomas Hirt ']",
+Palais-des-Congrès,null,2015-02-24,[' Daniel Kobyliansky '],Classic
+Zürich,Die-vier-Jahreszeiten,2015-02-24,"[' Willi Zimmermann ', ' conductor: Daniel Hope ']",Classic
+Zürich,Straight-No-Chaser,2015-02-24,"['Straight No Chaser ', ' Randy Stine ', ' Walter Chase ', ' Jerome Colling ', ' Seggie Isho ', ' Michael Luginbill ']",Pop
+Zürich,Ex-Hex,2015-02-24,['Ex Hex '],
+Zürich,Polar-Bear,2015-02-24,"['Polar Bear ', ' Pete Wareham ', ' Shabaka Hutching ', ' Tom Herbert ', ' John Leafcutter ', ' Seb Rochford ']",
+Düdingen,Absolutely-Free,2015-02-24,['Absolutely Free '],Electronic

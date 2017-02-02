@@ -1,35 +1,35 @@
-,location,event,date,artists,genre
-0,Basel,After-Work-Party,2015-12-11,['Andy Boller '],
-1,Basel,Orgelspiel-zum-Feierabend,2015-12-11,['Massimiliano Raschietti '],Classic
-2,Zürich,City-Special-Oboe-con-amore,2015-12-11,"['Barbara Tillmann ', ' André Briel ']",Classic
-3,Dietikon,Feierabendmusik,2015-12-11,"['Inge Rott ', ' Réka Jaksic ', ' works by Bernhard Hörler ']",Classic
-4,Zürich,Panzerballet,2015-12-11,"['Panzerballet ', ' Jan Zehrfeld ', ' Josef Doblhofer ', ' Alexander von Hagke ', ' Heiko Jung ', ' Sebastian Lanser ']",
-5,Zürich,Adventskonzert,2015-12-11,"[' Diego Chenna ', ' Pascal Suter ', ' Daria Zappa ']",Classic
-6,Aarau,Metalmayhem,2015-12-11,"['Periphery ', ' Veil of Maya ', ' Good Tiger ']",
-7,Basel,CMB-Preisträgerkonzert,2015-12-11,"[' Michael Buchanan ', ' Francisco López Martín ']",Classic
-8,Zürich,Musikkollegium-Winterthur,2015-12-11,['Isabelle Faust '],Classic
-9,Bern,Galakonzert,2015-12-11,"[' Adrienne Soós ', ' Ivo Haag ']",Classic
-10,Luzern,Swinging-Christmas,2015-12-11,['Glenn Miller Orchestra '],
-11,Brunnen,Dmitri-Demiashkin,2015-12-11,"['Dmitri Demiashkin ', ' Daniel Dodds ', ' Izabela Iwanowska ']",Classic
-12,Aarau,Adventskonzert,2015-12-11,"[' Judith Imhof ', ' Mirjam Blessing ', ' Richard Resch ', ' Ernst Buscagne ']",Classic
-13,Zürich,The-Underachievers,2015-12-11,['The Underachievers '],
-14,Aarburg,Mono-Inc-abgesagt,2015-12-11,['Mono Inc '],
-15,Winterthur,Radare,2015-12-11,['Radare '],
-16,Zürich,Weihnachtskonzert-Concentus-rivensis-Orchester-und-Chor,2015-12-11,"[' Carmela Konrad ', ' Karl Jerolitsch ', ' Samuel Zünd ']",Classic
-17,Zürich,Lépany-Loriot,2015-12-11,"[' Justin Lépany ', ' Frantz Loriot ']",
-18,null,Max-Lässer-&-das-Überlandorchester,2015-12-11,"[' Max Lässer ', ' Markus Flückiger ', ' Patrick Sommer ', ' Töbi Tobler ']",Pop
-19,Zürich,Omar,2015-12-11,"[' Omar ', ' Lennox Cameron ', ' Colin McNeish ', ' Hawi Gondwe ', ' Daren Abraham ']",
-20,Liebefeld,Yvonne-Moore-Bluesband,2015-12-11,"[' Yvonne Moore ', ' Marc Scheidegger ', ' André Pousaz ', ' Arno Troxler ']",
-21,Zug,Julian-von-Flüe,2015-12-11,['Julian von Flüe '],traditional
-22,Basel,Dusko-Goykovich-Meets-Scherrer,2015-12-11,"[' Dusko Goykovich ', ' Andy Scherrer ', ' William Evans ', ' Stephan Kurmann ', ' Jorge Rossy ']",
-23,Baden,Urchig-keck-und-unbeschwert,2015-12-11,"[' Matthias Lincke ', ' Simon Dettwiler ', ' Christine Lauterburg ']",traditional
-24,Luzern,Jerome-de-Carli-Trio,2015-12-11,"[' Jerome De Carli ', ' Hans Ermel ', ' Andreas Bugs ']",
-25,null,Sami-Yusuf,2015-12-11,['Sami Yusuf '],
-26,Zürich,Bruno-Frey-Nascimento-4,2015-12-11,"[' Bruno Frey Nascimento ', ' Philipp Eden ', ' Mischa Frey ', ' Roberto Carella ']",
-27,Schaffhausen,Heavy-Heavy,2015-12-11,['Jamaram '],
-28,Zürich,Acoustic-Night-The-two-Romans,2015-12-11,"[' Samuele Zanella ', ' Mattia Zanella ']",Pop
-29,Zürich,Alex-Calder,2015-12-11,['Alex Calder '],Pop
-30,Basel,Kizz-Obsession,2015-12-11,['DJ Barata '],
-31,Zürich,Tonhalle-Late,2015-12-11,"[' Daniel Müller-Schott ', ' live: Octave One ']",Classic
-32,Zürich,Svosve-Eden-Rüegg-Strüby,2015-12-11,"[' Tapiwa Svosve ', ' Philipp Eden ', ' Xaver Rüegg ', ' Claudio Strüby ']",
-33,Solothurn,The-Jancee-Pornick-Casino,2015-12-11,['The Jancee Pornick Casino '],
+location,event,date,artists,genre
+Basel,After-Work-Party,2015-12-11,['Andy Boller '],
+Basel,Orgelspiel-zum-Feierabend,2015-12-11,['Massimiliano Raschietti '],Classic
+Zürich,City-Special-Oboe-con-amore,2015-12-11,"['Barbara Tillmann ', ' André Briel ']",Classic
+Dietikon,Feierabendmusik,2015-12-11,"['Inge Rott ', ' Réka Jaksic ', ' works by Bernhard Hörler ']",Classic
+Zürich,Panzerballet,2015-12-11,"['Panzerballet ', ' Jan Zehrfeld ', ' Josef Doblhofer ', ' Alexander von Hagke ', ' Heiko Jung ', ' Sebastian Lanser ']",
+Zürich,Adventskonzert,2015-12-11,"[' Diego Chenna ', ' Pascal Suter ', ' Daria Zappa ']",Classic
+Aarau,Metalmayhem,2015-12-11,"['Periphery ', ' Veil of Maya ', ' Good Tiger ']",
+Basel,CMB-Preisträgerkonzert,2015-12-11,"[' Michael Buchanan ', ' Francisco López Martín ']",Classic
+Zürich,Musikkollegium-Winterthur,2015-12-11,['Isabelle Faust '],Classic
+Bern,Galakonzert,2015-12-11,"[' Adrienne Soós ', ' Ivo Haag ']",Classic
+Luzern,Swinging-Christmas,2015-12-11,['Glenn Miller Orchestra '],
+Brunnen,Dmitri-Demiashkin,2015-12-11,"['Dmitri Demiashkin ', ' Daniel Dodds ', ' Izabela Iwanowska ']",Classic
+Aarau,Adventskonzert,2015-12-11,"[' Judith Imhof ', ' Mirjam Blessing ', ' Richard Resch ', ' Ernst Buscagne ']",Classic
+Zürich,The-Underachievers,2015-12-11,['The Underachievers '],
+Aarburg,Mono-Inc-abgesagt,2015-12-11,['Mono Inc '],
+Winterthur,Radare,2015-12-11,['Radare '],
+Zürich,Weihnachtskonzert-Concentus-rivensis-Orchester-und-Chor,2015-12-11,"[' Carmela Konrad ', ' Karl Jerolitsch ', ' Samuel Zünd ']",Classic
+Zürich,Lépany-Loriot,2015-12-11,"[' Justin Lépany ', ' Frantz Loriot ']",
+null,Max-Lässer-&-das-Überlandorchester,2015-12-11,"[' Max Lässer ', ' Markus Flückiger ', ' Patrick Sommer ', ' Töbi Tobler ']",Pop
+Zürich,Omar,2015-12-11,"[' Omar ', ' Lennox Cameron ', ' Colin McNeish ', ' Hawi Gondwe ', ' Daren Abraham ']",
+Liebefeld,Yvonne-Moore-Bluesband,2015-12-11,"[' Yvonne Moore ', ' Marc Scheidegger ', ' André Pousaz ', ' Arno Troxler ']",
+Zug,Julian-von-Flüe,2015-12-11,['Julian von Flüe '],traditional
+Basel,Dusko-Goykovich-Meets-Scherrer,2015-12-11,"[' Dusko Goykovich ', ' Andy Scherrer ', ' William Evans ', ' Stephan Kurmann ', ' Jorge Rossy ']",
+Baden,Urchig-keck-und-unbeschwert,2015-12-11,"[' Matthias Lincke ', ' Simon Dettwiler ', ' Christine Lauterburg ']",traditional
+Luzern,Jerome-de-Carli-Trio,2015-12-11,"[' Jerome De Carli ', ' Hans Ermel ', ' Andreas Bugs ']",
+null,Sami-Yusuf,2015-12-11,['Sami Yusuf '],
+Zürich,Bruno-Frey-Nascimento-4,2015-12-11,"[' Bruno Frey Nascimento ', ' Philipp Eden ', ' Mischa Frey ', ' Roberto Carella ']",
+Schaffhausen,Heavy-Heavy,2015-12-11,['Jamaram '],
+Zürich,Acoustic-Night-The-two-Romans,2015-12-11,"[' Samuele Zanella ', ' Mattia Zanella ']",Pop
+Zürich,Alex-Calder,2015-12-11,['Alex Calder '],Pop
+Basel,Kizz-Obsession,2015-12-11,['DJ Barata '],
+Zürich,Tonhalle-Late,2015-12-11,"[' Daniel Müller-Schott ', ' live: Octave One ']",Classic
+Zürich,Svosve-Eden-Rüegg-Strüby,2015-12-11,"[' Tapiwa Svosve ', ' Philipp Eden ', ' Xaver Rüegg ', ' Claudio Strüby ']",
+Solothurn,The-Jancee-Pornick-Casino,2015-12-11,['The Jancee Pornick Casino '],

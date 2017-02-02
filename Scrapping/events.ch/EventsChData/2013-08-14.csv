@@ -1,16 +1,16 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-08-14,['Mark Tenger '],
-1,Avenches,Michel-Sardou,2013-08-14,"['Michel Sardou ', ' Cali ']",Pop
-2,Basel,Altstadt-Serenaden,2013-08-14,"[' Maren Böll ', ' Peter Dahm  ', ' Jan Grüter ']",Classic
-3,Steinberggasse,Winterthur,2013-08-14,"['Kashmir ', ' Steaming Satellites ']",Kashmir
-4,Zürich,Fear-Factory,2013-08-14,['Fear Factory '],
-5,Basel,Downset,2013-08-14,['Downset '],
-6,Salzhaus,Winterthur,2013-08-14,['Devildriver '],DevilDriver
-7,null,Apérokonzert-Klezmer-zu-viert,2013-08-14,"[' Alessandra Osella ', ' Lucia Marino ', ' Anna Paraschiv ', ' Elisabetta Bosio ']",Classic
-8,Zürich,Serenade-im-Park,2013-08-14,"[' Hansheinz Schneeberger ', ' Patrick Demenga ', ' Walter Prossnitz ']",Classic
-9,Zürich,Tammy,2013-08-14,['Tammy '],
-10,null,Alla-turca,2013-08-14,['Sebastian Knauer '],Classic
-11,Zürich,Bê-Ignacio,2013-08-14,['Bê Ignacio '],
-12,Zürich,Tame-Impala,2013-08-14,"['Tame Impala ', ' Tripwires ']",
-13,Baden,Prima-Jam,2013-08-14,"[' Peter Wagner ', ' Robert Weder ', ' Fabienne Hoerni ', ' Marco Figini ']",
-14,Basel,Generations-Unit,2013-08-14,"['Timothy Hurley ', ' Lukas Gabric ', ' Adrian Mears ', ' Christoph Neuhaus ', ' Mátyás Gayer ', ' Norbert Farkas ', ' Manuel Weyand ']",
+location,event,date,artists,genre
+Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-08-14,['Mark Tenger '],
+Avenches,Michel-Sardou,2013-08-14,"['Michel Sardou ', ' Cali ']",Pop
+Basel,Altstadt-Serenaden,2013-08-14,"[' Maren Böll ', ' Peter Dahm  ', ' Jan Grüter ']",Classic
+Steinberggasse,Winterthur,2013-08-14,"['Kashmir ', ' Steaming Satellites ']",Kashmir
+Zürich,Fear-Factory,2013-08-14,['Fear Factory '],
+Basel,Downset,2013-08-14,['Downset '],
+Salzhaus,Winterthur,2013-08-14,['Devildriver '],DevilDriver
+null,Apérokonzert-Klezmer-zu-viert,2013-08-14,"[' Alessandra Osella ', ' Lucia Marino ', ' Anna Paraschiv ', ' Elisabetta Bosio ']",Classic
+Zürich,Serenade-im-Park,2013-08-14,"[' Hansheinz Schneeberger ', ' Patrick Demenga ', ' Walter Prossnitz ']",Classic
+Zürich,Tammy,2013-08-14,['Tammy '],
+null,Alla-turca,2013-08-14,['Sebastian Knauer '],Classic
+Zürich,Bê-Ignacio,2013-08-14,['Bê Ignacio '],
+Zürich,Tame-Impala,2013-08-14,"['Tame Impala ', ' Tripwires ']",
+Baden,Prima-Jam,2013-08-14,"[' Peter Wagner ', ' Robert Weder ', ' Fabienne Hoerni ', ' Marco Figini ']",
+Basel,Generations-Unit,2013-08-14,"['Timothy Hurley ', ' Lukas Gabric ', ' Adrian Mears ', ' Christoph Neuhaus ', ' Mátyás Gayer ', ' Norbert Farkas ', ' Manuel Weyand ']",

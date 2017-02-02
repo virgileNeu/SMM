@@ -1,37 +1,37 @@
-,location,event,date,artists,genre
-0,Zürich,Kärnzeit,2016-10-21,['Kärnzeit '],Pop
-1,Basel,Orgelspiel-zum-Feierabend,2016-10-21,['Nadja Bacchetta '],Classic
-2,Dietikon,Feierabendmusik-in-der-Kirche,2016-10-21,['Bernhard Hörler '],Classic
-3,Lausanne,Pain-&-The-Vision-Bleak,2016-10-21,['Pain & The Vision Bleak '],
-4,Basel,Die-Schöpfung,2016-10-21,"[' Verena Krause ', ' Andreas Winkler ', ' Martin Snell ']",Classic
-5,Bern,2.-Symphoniekonzert-Verlorene-Seelen,2016-10-21,[' Magdalena Anna Hofmann '],Classic
-6,Solothurn,Trap-Them,2016-10-21,['Trap Them '],
-7,Basel,Knabenkantorei-Basel-'Carmina-Burana'-und-'Cantionale,2016-10-21,"[' Gudrun Sidonie Otto ', ' Martin Ohm ', ' Marcin Habela ']",Classic
-8,Lenk-im-Simmental,20-Jahre-Cantarte-Jubiläumskonzert,2016-10-21,"[' Maeder ', ' Legrand ', ' Bentz ', ' Curo Mani ', ' Cho-Nitschke ']",Classic
-9,null,Graveyard-abgesagt,2016-10-21,['Graveyard '],
-10,Zürich,The-Dublin-Legends,2016-10-21,['The Dublin Legends '],
-11,Rheinfelden,Trevor-Richards-New-Orleans-Trio-(Int.),2016-10-21,"['Trevor Richard ', ' Frank Roberscheuten ', '  Joep Peeters ']",
-12,null,Baloise-Session,2016-10-21,"['Emeli Sandé ', ' Joris ']",
-13,null,Laura-Pausini,2016-10-21,['Laura Pausini '],Pop
-14,Aarau,Yokko,2016-10-21,[' BRNS '],
-15,null,Morgain,2016-10-21,"[' Martina Lory ', ' Sara Trauffer ', ' Mathias Probst ', ' Hannes Boss ', ' Christoph Utzinger ']",
-16,Zürich,Werkstattkonzert,2016-10-21,"[' Isabelle Duthoit ', ' Coleman Goepfert ', ' Mario Schenker ']",
-17,Baden,Eric-Lee,2016-10-21,"[' Eric Lee ', ' Lukas Meier ']",
-18,Zürich,Musique-du-Voyage,2016-10-21,"[' Joseph Mülhauser ', ' Franziska Rohner ', ' Martin Mäder ', ' Remo Crivelli ']",
-19,Dübendorf,Julia-Biel,2016-10-21,['Julia Biel '],Pop
-20,Winterthur,Uncle-Acid-&-The-Deadbeats,2016-10-21,"['Uncle Acid & The Deadbeats ', ' Scorpion Child ']",
-21,Liebefeld,Grégoire-Maret-Quartet,2016-10-21,"[' Grégoire Maret ', ' Cedric Hanriot ', ' Robert Kubiszyn ', ' John Davis ']",
-22,Baden,Juan-Carlos-Zeta,2016-10-21,['Juan Carlos Zeta '],
-23,Basel,Lucerne-Jazz-Orchestra,2016-10-21,"[' Karin Meier ', ' Lucia Cadotsch ', ' Florian Egli u. a.', ' Felix Meyer ', ' Spillmann ']",
-24,Baden,Makossa,2016-10-21,"[' Daniel Kaufmann ', ' Marco Hochstrasser ', ' Urs Lehmann ', ' Reini Muther ', ' Geri Steimer ', ' Claudio Pegalo ']",
-25,Wetzikon,Sabrina-&-F.L.O.M,2016-10-21,['Sabrina & F.L.O.M '],
-26,Schaffhausen,Matt-Simons,2016-10-21,['Matt Simons '],Pop
-27,Rubigen,Roachford,2016-10-21,['Roachford '],
-28,null,65daysofstatic,2016-10-21,['65daysofstatic '],
-29,Sankt-Gallen,Adam-Green,2016-10-21,['Adam Green '],Pop
-30,null,Eva-Slongo-Quartet,2016-10-21,"[' Eva Slongo ', ' Joran Cariou ', ' Fabricio Nicolas ', ' Nicolas Charlier ']",
-31,Thun,Friskit,2016-10-21,"[' Bryan Schneider ', ' Nicolas Müller ', ' Pierre-Jean Baudraz ']",
-32,Zürich,Nimo-&-Hanybal,2016-10-21,['Nimo & Hanybal '],
-33,Wabern,Matilde-Politi-&-Compagnia-Bella,2016-10-21,"[' Matilde Politi ', ' Gabriele Politi ', ' Simona di Gregorio ']",
-34,Bern,Akua-Naru,2016-10-21,['Akua Naru '],
-35,Baden,Nachtkonzert,2016-10-21,"[' Michael Gilsenan ', ' Gabriel Wenger ', ' Jérémie Krüttli ', ' Philipp Leibundgut ']",
+location,event,date,artists,genre
+Zürich,Kärnzeit,2016-10-21,['Kärnzeit '],Pop
+Basel,Orgelspiel-zum-Feierabend,2016-10-21,['Nadja Bacchetta '],Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2016-10-21,['Bernhard Hörler '],Classic
+Lausanne,Pain-&-The-Vision-Bleak,2016-10-21,['Pain & The Vision Bleak '],
+Basel,Die-Schöpfung,2016-10-21,"[' Verena Krause ', ' Andreas Winkler ', ' Martin Snell ']",Classic
+Bern,2.-Symphoniekonzert-Verlorene-Seelen,2016-10-21,[' Magdalena Anna Hofmann '],Classic
+Solothurn,Trap-Them,2016-10-21,['Trap Them '],
+Basel,Knabenkantorei-Basel-'Carmina-Burana'-und-'Cantionale,2016-10-21,"[' Gudrun Sidonie Otto ', ' Martin Ohm ', ' Marcin Habela ']",Classic
+Lenk-im-Simmental,20-Jahre-Cantarte-Jubiläumskonzert,2016-10-21,"[' Maeder ', ' Legrand ', ' Bentz ', ' Curo Mani ', ' Cho-Nitschke ']",Classic
+null,Graveyard-abgesagt,2016-10-21,['Graveyard '],
+Zürich,The-Dublin-Legends,2016-10-21,['The Dublin Legends '],
+Rheinfelden,Trevor-Richards-New-Orleans-Trio-(Int.),2016-10-21,"['Trevor Richard ', ' Frank Roberscheuten ', '  Joep Peeters ']",
+null,Baloise-Session,2016-10-21,"['Emeli Sandé ', ' Joris ']",
+null,Laura-Pausini,2016-10-21,['Laura Pausini '],Pop
+Aarau,Yokko,2016-10-21,[' BRNS '],
+null,Morgain,2016-10-21,"[' Martina Lory ', ' Sara Trauffer ', ' Mathias Probst ', ' Hannes Boss ', ' Christoph Utzinger ']",
+Zürich,Werkstattkonzert,2016-10-21,"[' Isabelle Duthoit ', ' Coleman Goepfert ', ' Mario Schenker ']",
+Baden,Eric-Lee,2016-10-21,"[' Eric Lee ', ' Lukas Meier ']",
+Zürich,Musique-du-Voyage,2016-10-21,"[' Joseph Mülhauser ', ' Franziska Rohner ', ' Martin Mäder ', ' Remo Crivelli ']",
+Dübendorf,Julia-Biel,2016-10-21,['Julia Biel '],Pop
+Winterthur,Uncle-Acid-&-The-Deadbeats,2016-10-21,"['Uncle Acid & The Deadbeats ', ' Scorpion Child ']",
+Liebefeld,Grégoire-Maret-Quartet,2016-10-21,"[' Grégoire Maret ', ' Cedric Hanriot ', ' Robert Kubiszyn ', ' John Davis ']",
+Baden,Juan-Carlos-Zeta,2016-10-21,['Juan Carlos Zeta '],
+Basel,Lucerne-Jazz-Orchestra,2016-10-21,"[' Karin Meier ', ' Lucia Cadotsch ', ' Florian Egli u. a.', ' Felix Meyer ', ' Spillmann ']",
+Baden,Makossa,2016-10-21,"[' Daniel Kaufmann ', ' Marco Hochstrasser ', ' Urs Lehmann ', ' Reini Muther ', ' Geri Steimer ', ' Claudio Pegalo ']",
+Wetzikon,Sabrina-&-F.L.O.M,2016-10-21,['Sabrina & F.L.O.M '],
+Schaffhausen,Matt-Simons,2016-10-21,['Matt Simons '],Pop
+Rubigen,Roachford,2016-10-21,['Roachford '],
+null,65daysofstatic,2016-10-21,['65daysofstatic '],
+Sankt-Gallen,Adam-Green,2016-10-21,['Adam Green '],Pop
+null,Eva-Slongo-Quartet,2016-10-21,"[' Eva Slongo ', ' Joran Cariou ', ' Fabricio Nicolas ', ' Nicolas Charlier ']",
+Thun,Friskit,2016-10-21,"[' Bryan Schneider ', ' Nicolas Müller ', ' Pierre-Jean Baudraz ']",
+Zürich,Nimo-&-Hanybal,2016-10-21,['Nimo & Hanybal '],
+Wabern,Matilde-Politi-&-Compagnia-Bella,2016-10-21,"[' Matilde Politi ', ' Gabriele Politi ', ' Simona di Gregorio ']",
+Bern,Akua-Naru,2016-10-21,['Akua Naru '],
+Baden,Nachtkonzert,2016-10-21,"[' Michael Gilsenan ', ' Gabriel Wenger ', ' Jérémie Krüttli ', ' Philipp Leibundgut ']",

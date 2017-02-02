@@ -1,29 +1,29 @@
-,location,event,date,artists,genre
-0,Zürich,Lunchkonzert,2014-09-25,[' Patricia Kopatchinskaja '],Classic
-1,Zürich,Monte-Carlo,2014-09-25,['Monte Carlo '],Pop
-2,Liestal,Offkey,2014-09-25,"[' Marco Faseth ', ' Annika Hemmig ']",Pop
-3,Luzern,Musik-Forum,2014-09-25,"['Andreas Willers ', ' Urs Leimgruber ']",Pop
-4,Zürich,Ustad-Shafqat-Ali-Khan,2014-09-25,['Ustad Shafqat Ali Khan '],
-5,Luzern,World-Band-Festival-Classical-Gala,2014-09-25,"['Philharmonie Baden-Baden ', ' Gábor Boldoczki ']",Classic
-6,Zürich,Konzert,2014-09-25,[' Patricia Kopatchinskaja '],Classic
-7,Gelfingen,Russische-Volkslieder-und-orthodoxe-Gesänge,2014-09-25,['Kammerchor aus Kaluga '],
-8,Zug,Positive-Mind,2014-09-25,['Positive Mind '],
-9,Bern,Lantlos,2014-09-25,['Lantlos '],
-10,Luzern,Jack-Oblivian,2014-09-25,"['Jack Oblivian ', ' The Sheiks ']",
-11,Wetzikon,Reed-Kendall,2014-09-25,"['Reed Kendall ', ' BHF ']",
-12,Oberengstringen,Pane-per-tutti-feat.-Gianluigi-Trovesi,2014-09-25,"[' Isa Wiss ', ' Christoph Baumann ', ' Jacques Siron ', ' Dieter Ulrich ', ' Gianluigi Trovesi ']",
-13,Baden,24-Pesos,2014-09-25,['24 Pesos '],
-14,Winterthur,Kaama,2014-09-25,"[' Katja Mair ', ' Christy Doran ', ' Hanspeter Pfammatter ', ' Andreas Schnellmann ', ' Marc Halbheer ']",
-15,Zürich,Robi-Weber-Quartet-feat.-John-Service,2014-09-25,"[' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' John Service ']",
-16,Zürich,Blick-am-Abend-Shooting-Star-IV,2014-09-25,"['Raglans ', ' Ami Warning ', ' Stephen Kelly ', ' Rhos Horan ', "" Conn O'Ruanaidh "", "" Sean O'Brien ""]",Pop
-17,Basel,Johannes-Mössinger-NY-Quartet,2014-09-25,"[' Joel Frahm ', ' Johannes Mössinger ', ' Calvin Jones ', ' Karl Latham ']",
-18,Schaffhausen,Pippo-Pollina-&-Palermo-Acoustic-Trio,2014-09-25,"['Pippo Pollina & Palermo Acoustic Trio ', ' Pippo Pollina ', ' Roberto Petroli ', ' Max Kämmerling ']",Pop
-19,Zürich,Jay-Clayton-feat.-ZHdK-Vocalists,2014-09-25,"[' Jay Clayton ', ' Adrian Frey ', ' Patrick Sommer ', ' Tony Renold ']",
-20,Solothurn,Jason-Serious,2014-09-25,['Jason Serious '],
-21,Bern,The-White-Album,2014-09-25,"['The White Album ', ' Il Tempo Gigante ']",
-22,Zürich,Malky,2014-09-25,['Malky '],
-23,Basel,Louis-Barabbas-&-The-Bedlam-Six,2014-09-25,['Louis Barabbas & The Bedlam Six '],
-24,null,Eau-Rouge,2014-09-25,['Eau Rouge '],Electronic
-25,Zürich,Falcone-Jam,2014-09-25,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",Pop
-26,Frauenfeld,Klavierstunde,2014-09-25,['Michael Mocco Schenkel '],Classic
-27,Zürich,Fai-Baba,2014-09-25,['Fai Baba '],Pop
+location,event,date,artists,genre
+Zürich,Lunchkonzert,2014-09-25,[' Patricia Kopatchinskaja '],Classic
+Zürich,Monte-Carlo,2014-09-25,['Monte Carlo '],Pop
+Liestal,Offkey,2014-09-25,"[' Marco Faseth ', ' Annika Hemmig ']",Pop
+Luzern,Musik-Forum,2014-09-25,"['Andreas Willers ', ' Urs Leimgruber ']",Pop
+Zürich,Ustad-Shafqat-Ali-Khan,2014-09-25,['Ustad Shafqat Ali Khan '],
+Luzern,World-Band-Festival-Classical-Gala,2014-09-25,"['Philharmonie Baden-Baden ', ' Gábor Boldoczki ']",Classic
+Zürich,Konzert,2014-09-25,[' Patricia Kopatchinskaja '],Classic
+Gelfingen,Russische-Volkslieder-und-orthodoxe-Gesänge,2014-09-25,['Kammerchor aus Kaluga '],
+Zug,Positive-Mind,2014-09-25,['Positive Mind '],
+Bern,Lantlos,2014-09-25,['Lantlos '],
+Luzern,Jack-Oblivian,2014-09-25,"['Jack Oblivian ', ' The Sheiks ']",
+Wetzikon,Reed-Kendall,2014-09-25,"['Reed Kendall ', ' BHF ']",
+Oberengstringen,Pane-per-tutti-feat.-Gianluigi-Trovesi,2014-09-25,"[' Isa Wiss ', ' Christoph Baumann ', ' Jacques Siron ', ' Dieter Ulrich ', ' Gianluigi Trovesi ']",
+Baden,24-Pesos,2014-09-25,['24 Pesos '],
+Winterthur,Kaama,2014-09-25,"[' Katja Mair ', ' Christy Doran ', ' Hanspeter Pfammatter ', ' Andreas Schnellmann ', ' Marc Halbheer ']",
+Zürich,Robi-Weber-Quartet-feat.-John-Service,2014-09-25,"[' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' John Service ']",
+Zürich,Blick-am-Abend-Shooting-Star-IV,2014-09-25,"['Raglans ', ' Ami Warning ', ' Stephen Kelly ', ' Rhos Horan ', "" Conn O'Ruanaidh "", "" Sean O'Brien ""]",Pop
+Basel,Johannes-Mössinger-NY-Quartet,2014-09-25,"[' Joel Frahm ', ' Johannes Mössinger ', ' Calvin Jones ', ' Karl Latham ']",
+Schaffhausen,Pippo-Pollina-&-Palermo-Acoustic-Trio,2014-09-25,"['Pippo Pollina & Palermo Acoustic Trio ', ' Pippo Pollina ', ' Roberto Petroli ', ' Max Kämmerling ']",Pop
+Zürich,Jay-Clayton-feat.-ZHdK-Vocalists,2014-09-25,"[' Jay Clayton ', ' Adrian Frey ', ' Patrick Sommer ', ' Tony Renold ']",
+Solothurn,Jason-Serious,2014-09-25,['Jason Serious '],
+Bern,The-White-Album,2014-09-25,"['The White Album ', ' Il Tempo Gigante ']",
+Zürich,Malky,2014-09-25,['Malky '],
+Basel,Louis-Barabbas-&-The-Bedlam-Six,2014-09-25,['Louis Barabbas & The Bedlam Six '],
+null,Eau-Rouge,2014-09-25,['Eau Rouge '],Electronic
+Zürich,Falcone-Jam,2014-09-25,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",Pop
+Frauenfeld,Klavierstunde,2014-09-25,['Michael Mocco Schenkel '],Classic
+Zürich,Fai-Baba,2014-09-25,['Fai Baba '],Pop

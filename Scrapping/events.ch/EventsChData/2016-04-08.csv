@@ -1,53 +1,53 @@
-,location,event,date,artists,genre
-0,null,3.-Mittagskonzert,2016-04-08,['Xavier de Maistre '],Classic
-1,Basel,Orgelspiel-zum-Feierabend,2016-04-08,['Deniel Perer '],Classic
-2,Solothurn,Powerwolf,2016-04-08,['Powerwolf '],
-3,Dietikon,Feierabendmusik-in-der-Kirche,2016-04-08,['Bernhard Hörler '],Classic
-4,Biglen,Appenzell-mal-Anderscht,2016-04-08,"[' Andrea Kind ', ' Fredi Zuberbühler ', ' Roland Christen ']",
-5,Dübendorf,Mats-Up,2016-04-08,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']",
-6,Zürich,The-Formers,2016-04-08,['The Formers '],
-7,Bern,Internationales-Jazzfestival-Bern,2016-04-08,['Hamilton De Holanda '],
-8,Cully,Cully-Jazz,2016-04-08,['Scarecrow '],
-9,Zürich,Zeitfestival,2016-04-08,"['Cécile Unternährer ', ' Lorena Dorizzi ', ' Jonas Labhart ']",
-10,Zürich,Patrick-Wolf,2016-04-08,['Patrick Wolf '],Pop
-11,Zürich,Carbon-Based-Lifeforms,2016-04-08,['Carbon Based Lifeforms '],Electronic
-12,Zürich,Chopin-des-Nordens,2016-04-08,[' Jean-Yves Thibaudet '],Classic
-13,Zermatt,Zermatt-Unplugged,2016-04-08,['Tom Baxter '],Pop
-14,Lausanne,Impetus,2016-04-08,"['At the Drive-In ', ' La Muerte ', ' Le Butcherettes ']",
-15,Zürich,Tiefe-Himmel-Weite-Welt,2016-04-08,"[' Barblina Meierhans ', ' Christian Hieronymi ', ' Christian Sturzenegger ', ' works by Andreas Stahel ']",Classic
-16,Basel,Versus-Segante,2016-04-08,['Tomas Bächli '],Classic
-17,Zürich,Led-by-the-Yellow-Bricks,2016-04-08,[' works by Noriko Hisada '],Classic
-18,Basel,Blues-Festival-Basel,2016-04-08,"['Samantha Fish ', ' Royal Southern Brotherhood ']",
-19,null,Between-the-Beats-Festival,2016-04-08,"['Die Sterne ', ' I Am Oak ', ' Motorama ', ' Olympique ']",Pop
-20,Zürich,Georgeton-Kohn-&-Hein-Meier-Studer,2016-04-08,"[' Dino Georgeton ', ' Diego Kohn ', ' Nicola Hein ', ' David Meier ', ' Daniel Studer ']",
-21,Winterthur,Jazz-Live-Trio,2016-04-08,"[' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']",
-22,Basel,Anna-Ternheim,2016-04-08,['Anna Ternheim '],Pop
-23,Basel,Michael-Chylewski-Quartet,2016-04-08,"[' Luca Aaron ', ' Hans Feigenwinter ', ' Michael Chylewski ', ' Arthur Von Felt ']",
-24,Zermatt,Zermatt-Unplugged,2016-04-08,['Angus & Julia Stone '],Pop
-25,Zug,Laith-Al-Deen-&-Band,2016-04-08,['Laith Al-Deen & Band '],Pop
-26,Winterthur,Kristofer-Åström,2016-04-08,['Kristofer Åström '],Pop
-27,Solothurn,Dirty-Streets,2016-04-08,['Dirty Streets '],
-28,Liestal,Alte-Volkslieder-in-neuen-Kleidern,2016-04-08,"['Famm ', ' Lia Andres ', ' Lisa Lüthi ', ' Sarah Höltschi ', ' Sabrina Troxler ']",Pop
-29,Cully,Cully-Jazz,2016-04-08,"['Hindi Zahra ', ' Ibeyi ', ' Hindi Zahra ', ' Benoit Medrykowski ', ' Paul Salvagnac ', ' David Dupuis ']",
-30,Zürich,Bernhoft,2016-04-08,['Bernhoft '],
-31,Stans,Stanser-Musiktage,2016-04-08,['Andromeda Mega Express Orchestra '],
-32,Arbon,Trio-Gegenradl,2016-04-08,"[' Karoly Gaspar ', ' Georgios Mikirozis ', ' Dietmar Kirchner ']",
-33,Liebefeld,Sylvie-Courvoisier-Trio,2016-04-08,"[' Sylvie Courvoisier ', ' Drew Gress ', ' Kenny Wollesen ']",
-34,Aarau,Laibach,2016-04-08,['Laibach '],Electronic
-35,Aarau,Niño,2016-04-08,['Niño '],
-36,Bern,Stereo-Total,2016-04-08,"['Stereo Total ', ' Maurice de la Falaise ']",Pop
-37,Zürich,Playground,2016-04-08,"[' Stephanie Wagner ', ' Esther Bächlin ', ' Gina Schwarz ', ' John Voirol ', ' Tony Renold ']",
-38,null,Nachtzug-Back-to-Blue,2016-04-08,"['Evelyn Pollock ', ' Gregory Gates ', ' Juliet Shaxson ', ' Rosemary Yiameos ', ' Karl Schimke ', ' Claude Diallo ']",Classic
-39,Frauenfeld,Blues-Caravan-Blue-Sisters,2016-04-08,"['Layla Zoe ', ' Tasha Taylor ', ' Ina Forsman ']",
-40,Cully,Kaleidoscope-String-Quartet,2016-04-08,"[' Simon Heggendorn ', ' Ronny Spiegel ', ' David Schnee ', ' Solme Hong ']",
-41,Winterthur,The-Doodes-&-Awesome-Arnold,2016-04-08,['The Doodes & Awesome Arnold '],
-42,Zürich,Birth-of-Joy,2016-04-08,"['Birth of Joy ', ' Svper ']",
-43,Zürich,Quintron-&-Miss-Pussycat,2016-04-08,['Quintron & Miss Pussycat '],Electronic
-44,Bern,Chantal-Acda-&-Band,2016-04-08,['Chantal Acda & Band '],Pop
-45,Düdingen,Arrows-Of-Love,2016-04-08,['Arrows Of Love '],
-46,Kriens,Lust-for-Youth,2016-04-08,"['Lust for Youth ', ' First Hate ']",
-47,null,Impetus,2016-04-08,"['Oiseaux-Tempête ', ' Mutiny on the Bounty ', ' Membrane Noise ']",
-48,Zermatt,Zermatt-Unplugged,2016-04-08,['Xavier Rudd '],
-49,Zermatt,Zermatt-Unplugged,2016-04-08,['Les innocents '],Pop
-50,Zermatt,Zermatt-Unplugged,2016-04-08,['Lola Marsh '],
-51,Bern,Bon-lieu,2016-04-08,['Rejjie Snow '],
+location,event,date,artists,genre
+null,3.-Mittagskonzert,2016-04-08,['Xavier de Maistre '],Classic
+Basel,Orgelspiel-zum-Feierabend,2016-04-08,['Deniel Perer '],Classic
+Solothurn,Powerwolf,2016-04-08,['Powerwolf '],
+Dietikon,Feierabendmusik-in-der-Kirche,2016-04-08,['Bernhard Hörler '],Classic
+Biglen,Appenzell-mal-Anderscht,2016-04-08,"[' Andrea Kind ', ' Fredi Zuberbühler ', ' Roland Christen ']",
+Dübendorf,Mats-Up,2016-04-08,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']",
+Zürich,The-Formers,2016-04-08,['The Formers '],
+Bern,Internationales-Jazzfestival-Bern,2016-04-08,['Hamilton De Holanda '],
+Cully,Cully-Jazz,2016-04-08,['Scarecrow '],
+Zürich,Zeitfestival,2016-04-08,"['Cécile Unternährer ', ' Lorena Dorizzi ', ' Jonas Labhart ']",
+Zürich,Patrick-Wolf,2016-04-08,['Patrick Wolf '],Pop
+Zürich,Carbon-Based-Lifeforms,2016-04-08,['Carbon Based Lifeforms '],Electronic
+Zürich,Chopin-des-Nordens,2016-04-08,[' Jean-Yves Thibaudet '],Classic
+Zermatt,Zermatt-Unplugged,2016-04-08,['Tom Baxter '],Pop
+Lausanne,Impetus,2016-04-08,"['At the Drive-In ', ' La Muerte ', ' Le Butcherettes ']",
+Zürich,Tiefe-Himmel-Weite-Welt,2016-04-08,"[' Barblina Meierhans ', ' Christian Hieronymi ', ' Christian Sturzenegger ', ' works by Andreas Stahel ']",Classic
+Basel,Versus-Segante,2016-04-08,['Tomas Bächli '],Classic
+Zürich,Led-by-the-Yellow-Bricks,2016-04-08,[' works by Noriko Hisada '],Classic
+Basel,Blues-Festival-Basel,2016-04-08,"['Samantha Fish ', ' Royal Southern Brotherhood ']",
+null,Between-the-Beats-Festival,2016-04-08,"['Die Sterne ', ' I Am Oak ', ' Motorama ', ' Olympique ']",Pop
+Zürich,Georgeton-Kohn-&-Hein-Meier-Studer,2016-04-08,"[' Dino Georgeton ', ' Diego Kohn ', ' Nicola Hein ', ' David Meier ', ' Daniel Studer ']",
+Winterthur,Jazz-Live-Trio,2016-04-08,"[' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']",
+Basel,Anna-Ternheim,2016-04-08,['Anna Ternheim '],Pop
+Basel,Michael-Chylewski-Quartet,2016-04-08,"[' Luca Aaron ', ' Hans Feigenwinter ', ' Michael Chylewski ', ' Arthur Von Felt ']",
+Zermatt,Zermatt-Unplugged,2016-04-08,['Angus & Julia Stone '],Pop
+Zug,Laith-Al-Deen-&-Band,2016-04-08,['Laith Al-Deen & Band '],Pop
+Winterthur,Kristofer-Åström,2016-04-08,['Kristofer Åström '],Pop
+Solothurn,Dirty-Streets,2016-04-08,['Dirty Streets '],
+Liestal,Alte-Volkslieder-in-neuen-Kleidern,2016-04-08,"['Famm ', ' Lia Andres ', ' Lisa Lüthi ', ' Sarah Höltschi ', ' Sabrina Troxler ']",Pop
+Cully,Cully-Jazz,2016-04-08,"['Hindi Zahra ', ' Ibeyi ', ' Hindi Zahra ', ' Benoit Medrykowski ', ' Paul Salvagnac ', ' David Dupuis ']",
+Zürich,Bernhoft,2016-04-08,['Bernhoft '],
+Stans,Stanser-Musiktage,2016-04-08,['Andromeda Mega Express Orchestra '],
+Arbon,Trio-Gegenradl,2016-04-08,"[' Karoly Gaspar ', ' Georgios Mikirozis ', ' Dietmar Kirchner ']",
+Liebefeld,Sylvie-Courvoisier-Trio,2016-04-08,"[' Sylvie Courvoisier ', ' Drew Gress ', ' Kenny Wollesen ']",
+Aarau,Laibach,2016-04-08,['Laibach '],Electronic
+Aarau,Niño,2016-04-08,['Niño '],
+Bern,Stereo-Total,2016-04-08,"['Stereo Total ', ' Maurice de la Falaise ']",Pop
+Zürich,Playground,2016-04-08,"[' Stephanie Wagner ', ' Esther Bächlin ', ' Gina Schwarz ', ' John Voirol ', ' Tony Renold ']",
+null,Nachtzug-Back-to-Blue,2016-04-08,"['Evelyn Pollock ', ' Gregory Gates ', ' Juliet Shaxson ', ' Rosemary Yiameos ', ' Karl Schimke ', ' Claude Diallo ']",Classic
+Frauenfeld,Blues-Caravan-Blue-Sisters,2016-04-08,"['Layla Zoe ', ' Tasha Taylor ', ' Ina Forsman ']",
+Cully,Kaleidoscope-String-Quartet,2016-04-08,"[' Simon Heggendorn ', ' Ronny Spiegel ', ' David Schnee ', ' Solme Hong ']",
+Winterthur,The-Doodes-&-Awesome-Arnold,2016-04-08,['The Doodes & Awesome Arnold '],
+Zürich,Birth-of-Joy,2016-04-08,"['Birth of Joy ', ' Svper ']",
+Zürich,Quintron-&-Miss-Pussycat,2016-04-08,['Quintron & Miss Pussycat '],Electronic
+Bern,Chantal-Acda-&-Band,2016-04-08,['Chantal Acda & Band '],Pop
+Düdingen,Arrows-Of-Love,2016-04-08,['Arrows Of Love '],
+Kriens,Lust-for-Youth,2016-04-08,"['Lust for Youth ', ' First Hate ']",
+null,Impetus,2016-04-08,"['Oiseaux-Tempête ', ' Mutiny on the Bounty ', ' Membrane Noise ']",
+Zermatt,Zermatt-Unplugged,2016-04-08,['Xavier Rudd '],
+Zermatt,Zermatt-Unplugged,2016-04-08,['Les innocents '],Pop
+Zermatt,Zermatt-Unplugged,2016-04-08,['Lola Marsh '],
+Bern,Bon-lieu,2016-04-08,['Rejjie Snow '],

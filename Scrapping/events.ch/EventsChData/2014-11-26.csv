@@ -1,30 +1,30 @@
-,location,event,date,artists,genre
-0,Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Vestard Shimkus '],Classic
-1,Zürich,Werner-und-Company,2014-11-26,['Werner und Company '],Pop
-2,Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Ehud Asherie '],
-3,Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Bernd Lhotzky '],
-4,Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Dirk Raufeisen '],
-5,Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Aaraon Goldberg '],
-6,Zürich,Konzert,2014-11-26,[' Anja Harteros '],Classic
-7,Zürich,Unerhört,2014-11-26,"[' Luca Sisera ', ' Michael Jaeger ', ' Silvio Cadotsch ', ' Yves Theiler ', ' Michi Stulz ', ' Nils Wogram ', ' Nina Reiter ']",
-8,Luzern,Lucerne-Festival-am-Piano,2014-11-26,[' conductor: Leif Ove Andsnes '],Classic
-9,Basel,Jean-Marie-Leclair-für-2-Cembali,2014-11-26,"[' Chani ', ' Nadja Lesaulnier ']",Classic
-10,Zürich,Symphonie-espagnole,2014-11-26,[' Malwina Sosnowski '],Classic
-11,Bern,Tiken-Jah-Fakoly,2014-11-26,['Tiken Jah Fakoly '],
-12,Zürich,Deine-Lakaien,2014-11-26,['Deine Lakaien '],
-13,Pratteln,Banned-from-Utopia,2014-11-26,['Banned from Utopia '],
-14,Bern,Triggerfinger,2014-11-26,['Triggerfinger '],
-15,Luzern,Gnarwolves,2014-11-26,"['Gnarwolves ', ' Prawn ']",Pop
-16,Zürich,Elvis-The-Show,2014-11-26,['Rio feat. The Tennessee Orchestra & The Vegas Choir '],
-17,Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Chris Hopkins '],
-18,Zürich,Unerhört,2014-11-26,"[' Rudresh Mahanthappa ', ' Peter Wagner ', ' Thomy Jordi ', ' Christian Niederer ']",
-19,Zürich,The-Temperance-Movement,2014-11-26,['The Temperance Movement '],
-20,Zürich,Eskorzo,2014-11-26,['Eskorzo '],
-21,Winterthur,Ghost-Town-Trio-feat.-Mara-Miccichè,2014-11-26,"[' Iokoi ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Künzi ']",
-22,Frauenfeld,Chris-Wiesendanger,2014-11-26,"['Chris Wiesendanger ', ' Patrice Moret ']",
-23,null,Courtney-Barnett,2014-11-26,"['Courtney Barnett ', ' Money for Rope ']",
-24,Thônex,Ayo,2014-11-26,['Ayo '],
-25,Lausanne,Klaxons,2014-11-26,"['Klaxons ', ' Fenech Solar ']",
-26,null,Paco-de-Lucia-&-Band,2014-11-26,['Paco de Lucia & Band '],
-27,Bern,Sons-of-Kemet,2014-11-26,['Sons of Kemet '],
-28,Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Ehud Asherie '],
+location,event,date,artists,genre
+Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Vestard Shimkus '],Classic
+Zürich,Werner-und-Company,2014-11-26,['Werner und Company '],Pop
+Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Ehud Asherie '],
+Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Bernd Lhotzky '],
+Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Dirk Raufeisen '],
+Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Aaraon Goldberg '],
+Zürich,Konzert,2014-11-26,[' Anja Harteros '],Classic
+Zürich,Unerhört,2014-11-26,"[' Luca Sisera ', ' Michael Jaeger ', ' Silvio Cadotsch ', ' Yves Theiler ', ' Michi Stulz ', ' Nils Wogram ', ' Nina Reiter ']",
+Luzern,Lucerne-Festival-am-Piano,2014-11-26,[' conductor: Leif Ove Andsnes '],Classic
+Basel,Jean-Marie-Leclair-für-2-Cembali,2014-11-26,"[' Chani ', ' Nadja Lesaulnier ']",Classic
+Zürich,Symphonie-espagnole,2014-11-26,[' Malwina Sosnowski '],Classic
+Bern,Tiken-Jah-Fakoly,2014-11-26,['Tiken Jah Fakoly '],
+Zürich,Deine-Lakaien,2014-11-26,['Deine Lakaien '],
+Pratteln,Banned-from-Utopia,2014-11-26,['Banned from Utopia '],
+Bern,Triggerfinger,2014-11-26,['Triggerfinger '],
+Luzern,Gnarwolves,2014-11-26,"['Gnarwolves ', ' Prawn ']",Pop
+Zürich,Elvis-The-Show,2014-11-26,['Rio feat. The Tennessee Orchestra & The Vegas Choir '],
+Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Chris Hopkins '],
+Zürich,Unerhört,2014-11-26,"[' Rudresh Mahanthappa ', ' Peter Wagner ', ' Thomy Jordi ', ' Christian Niederer ']",
+Zürich,The-Temperance-Movement,2014-11-26,['The Temperance Movement '],
+Zürich,Eskorzo,2014-11-26,['Eskorzo '],
+Winterthur,Ghost-Town-Trio-feat.-Mara-Miccichè,2014-11-26,"[' Iokoi ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Künzi ']",
+Frauenfeld,Chris-Wiesendanger,2014-11-26,"['Chris Wiesendanger ', ' Patrice Moret ']",
+null,Courtney-Barnett,2014-11-26,"['Courtney Barnett ', ' Money for Rope ']",
+Thônex,Ayo,2014-11-26,['Ayo '],
+Lausanne,Klaxons,2014-11-26,"['Klaxons ', ' Fenech Solar ']",
+null,Paco-de-Lucia-&-Band,2014-11-26,['Paco de Lucia & Band '],
+Bern,Sons-of-Kemet,2014-11-26,['Sons of Kemet '],
+Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Ehud Asherie '],

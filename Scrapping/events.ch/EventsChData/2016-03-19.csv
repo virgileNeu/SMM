@@ -1,49 +1,49 @@
-,location,event,date,artists,genre
-0,Winterthur,Skorpionfish,2016-03-19,"['Daniel Mouthon ', ' Yves Reichmuth ', ' Silvan Jeger ', ' Vincent Glanzmann ']",Classic
-1,Zürich,Konzert-Kult-No.-11,2016-03-19,['Jakob Blumer '],Classic
-2,Zürich,Burgers-&-Hip-Hop,2016-03-19,[' DJs Stimulus & Boogie Dan '],
-3,Bern,Bernische-Chopin-Gesellschaft,2016-03-19,[' Pavel Yeletskiy '],Classic
-4,Zürich,Werner-und-Company,2016-03-19,['Werner und Company '],Pop
-5,Basel,Baselworld-Village,2016-03-19,['Bê Betina Ignacio '],
-6,Zürich,Bastian-Baker,2016-03-19,[' Robert Francis '],Pop
-7,Zürich,Sivert-Hoyem,2016-03-19,['Sivert Hoyem '],
-8,Zürich,Internationales-Country-Music-Festival,2016-03-19,['The Bellamy Brothers '],
-9,Zürich,Passion,2016-03-19,['Leitung und Werke von Urs Joseph Flury '],Classic
-10,Bern,Internationales-Jazzfestival-Bern,2016-03-19,['Shemekia Copeland '],
-11,Zürich,J.S.-Bach-H-Moll-Messe,2016-03-19,"[' Monika Mauch ', ' Ulrike Andersen ', ' Jakob Pilgram ', ' Dominik Wörner ']",Classic
-12,Zürich,Pilot,2016-03-19,['Pilot '],
-13,Bern,Klavierquintette,2016-03-19,['Kit Armstrong '],Classic
-14,Zürich,Rezital-IV-Con-voce,2016-03-19,['Werner Bärtschi '],Classic
-15,Basel,In-der-Ferne-Aus-der-Heimat,2016-03-19,"['Ioana Gereb ', ' Florian Mall ', ' Ekaterina Sobina ']",Classic
-16,Arlesheim,Oratorium-Die-letzen-Dinge,2016-03-19,"[' Gunta Smirnova ', ' Silke Gäng ', ' Raphael Wittmer ', ' Benjamin Appl ']",Classic
-17,null,Nekfeu,2016-03-19,['Nekfeu '],
-18,Zürich,Musik-zur-Passion,2016-03-19,['Gregor Ehrsam '],Classic
-19,null,Refused,2016-03-19,['Refused '],
-20,Zug,Monthly-Assault-Death-March,2016-03-19,"[' Maggot Colony ', ' Mastication of Brutality Uncontrolled ', ' Intravenous Contamination ', ' In Demise ']",
-21,Basel,The-Crazy-Safes,2016-03-19,"[' Peter Salathe ', ' Ruedi Salathe ', ' Ruedi Rüegg ', ' Jacques Mader ', ' Konni Sandmeier ', ' Special Guest: Erich Salathe ']",Pop
-22,Zürich,60s-Garage-Rock,2016-03-19,['Bikini Beach '],
-23,Zürich,United-Streetkids-Festival,2016-03-19,"['The Last Resort ', ' Zusamm-Rottung ', ' The Generators ', ' Lammkotze ']",
-24,Zürich,Ablaye-Cissoko-&-Volker-Götze,2016-03-19,"[' Ablaye Cissoko ', ' Volker Götze ']",
-25,Dübendorf,Dübendorfer-Jazztage,2016-03-19,"[' Ramon Oliveras ', ' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Moritz Meyer ']",Pop
-26,Dübendorf,Dübendorfer-Jazztage,2016-03-19,"[' Sascha Schönhaus ', ' Lisette Spinnler ', ' Hans-Peter Pfammatter ', ' Bänz Oester ', ' Norbert Pfammatter ']",
-27,Winterthur,Águas-de-março,2016-03-19,"[' Rodrigo Botter Maio ', ' Floriano Inacio ', ' Dudu Penz ', ' Francesco Gasparini ']",
-28,Zürich,Montreal,2016-03-19,['Montreal '],
-29,Zürich,Swanky-Mothers-feat.-Rea-Dubach,2016-03-19,"[' Rea Dubach ', ' Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
-30,Montreux,I-Muvrini,2016-03-19,['I Muvrini '],
-31,Frick,Dieter-Bornschlegel,2016-03-19,['Dieter Bornschlegel '],Pop
-32,Zürich,Joan-Shelley,2016-03-19,['Joan Shelley '],
-33,Zug,Celtic-Spring-Caravan,2016-03-19,"['Celtic Umbrella ', ' Trundle-Byrne-Kilkelly ', ' Kelly-Makem-Begley ']",
-34,Bern,En-Vogue-Festival,2016-03-19,"['Ebony Bones ', ' Ghostpoet ', ' LCP ']",
-35,Basel,Saul-Williams,2016-03-19,['Saul Williams '],
-36,Basel,Alex-Hendriksen,2016-03-19,"[' Alex Hendriksen ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Sheldon Suter ']",
-37,Baden,The-Selkies,2016-03-19,"[' Christoph Pfaff ', ' Thomas Scheytt ', ' Hiram Mutschler ', ' Jennifer Baumann ', ' Seraina Bütikofer ', ' Daniel Vögelin ', ' Frank Ziegler ']",
-38,Solothurn,Chante-la-vie-chante!,2016-03-19,"['Priska Stampfli ', ' Mona de la Rey ']",Classic
-39,Frauenfeld,Big-Pun-Tribute-Show,2016-03-19,"['Chris Rivers ', ' Sean Strange feat. Salomé ', ' DJs Illegal ']",
-40,Lausanne,Buraka-Som-Sistema,2016-03-19,['Buraka Som Sistema '],
-41,Chur,Lords-of-the-Underground,2016-03-19,"['Lords of the Underground ', ' Cali Agents ']",
-42,Aarau,Say-Yes-Dog,2016-03-19,['Say Yes Dog '],Pop
-43,Brugg,Lilly-Martin,2016-03-19,['Lilly Martin '],
-44,null,No-Crows,2016-03-19,"[' Steve Wickham ', ' Oleg Ponomarev ', ' Felip Carbonell ', ' Anna Houston ']",
-45,Bern,2-Jahre-1-A-Grind,2016-03-19,['DJs World Downfall '],
-46,Luzern,Jazzgymnastik,2016-03-19,['Jazzgymnastik '],
-47,Bern,Sljivovica-Party,2016-03-19,['Gipsy Groove '],
+location,event,date,artists,genre
+Winterthur,Skorpionfish,2016-03-19,"['Daniel Mouthon ', ' Yves Reichmuth ', ' Silvan Jeger ', ' Vincent Glanzmann ']",Classic
+Zürich,Konzert-Kult-No.-11,2016-03-19,['Jakob Blumer '],Classic
+Zürich,Burgers-&-Hip-Hop,2016-03-19,[' DJs Stimulus & Boogie Dan '],
+Bern,Bernische-Chopin-Gesellschaft,2016-03-19,[' Pavel Yeletskiy '],Classic
+Zürich,Werner-und-Company,2016-03-19,['Werner und Company '],Pop
+Basel,Baselworld-Village,2016-03-19,['Bê Betina Ignacio '],
+Zürich,Bastian-Baker,2016-03-19,[' Robert Francis '],Pop
+Zürich,Sivert-Hoyem,2016-03-19,['Sivert Hoyem '],
+Zürich,Internationales-Country-Music-Festival,2016-03-19,['The Bellamy Brothers '],
+Zürich,Passion,2016-03-19,['Leitung und Werke von Urs Joseph Flury '],Classic
+Bern,Internationales-Jazzfestival-Bern,2016-03-19,['Shemekia Copeland '],
+Zürich,J.S.-Bach-H-Moll-Messe,2016-03-19,"[' Monika Mauch ', ' Ulrike Andersen ', ' Jakob Pilgram ', ' Dominik Wörner ']",Classic
+Zürich,Pilot,2016-03-19,['Pilot '],
+Bern,Klavierquintette,2016-03-19,['Kit Armstrong '],Classic
+Zürich,Rezital-IV-Con-voce,2016-03-19,['Werner Bärtschi '],Classic
+Basel,In-der-Ferne-Aus-der-Heimat,2016-03-19,"['Ioana Gereb ', ' Florian Mall ', ' Ekaterina Sobina ']",Classic
+Arlesheim,Oratorium-Die-letzen-Dinge,2016-03-19,"[' Gunta Smirnova ', ' Silke Gäng ', ' Raphael Wittmer ', ' Benjamin Appl ']",Classic
+null,Nekfeu,2016-03-19,['Nekfeu '],
+Zürich,Musik-zur-Passion,2016-03-19,['Gregor Ehrsam '],Classic
+null,Refused,2016-03-19,['Refused '],
+Zug,Monthly-Assault-Death-March,2016-03-19,"[' Maggot Colony ', ' Mastication of Brutality Uncontrolled ', ' Intravenous Contamination ', ' In Demise ']",
+Basel,The-Crazy-Safes,2016-03-19,"[' Peter Salathe ', ' Ruedi Salathe ', ' Ruedi Rüegg ', ' Jacques Mader ', ' Konni Sandmeier ', ' Special Guest: Erich Salathe ']",Pop
+Zürich,60s-Garage-Rock,2016-03-19,['Bikini Beach '],
+Zürich,United-Streetkids-Festival,2016-03-19,"['The Last Resort ', ' Zusamm-Rottung ', ' The Generators ', ' Lammkotze ']",
+Zürich,Ablaye-Cissoko-&-Volker-Götze,2016-03-19,"[' Ablaye Cissoko ', ' Volker Götze ']",
+Dübendorf,Dübendorfer-Jazztage,2016-03-19,"[' Ramon Oliveras ', ' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Moritz Meyer ']",Pop
+Dübendorf,Dübendorfer-Jazztage,2016-03-19,"[' Sascha Schönhaus ', ' Lisette Spinnler ', ' Hans-Peter Pfammatter ', ' Bänz Oester ', ' Norbert Pfammatter ']",
+Winterthur,Águas-de-março,2016-03-19,"[' Rodrigo Botter Maio ', ' Floriano Inacio ', ' Dudu Penz ', ' Francesco Gasparini ']",
+Zürich,Montreal,2016-03-19,['Montreal '],
+Zürich,Swanky-Mothers-feat.-Rea-Dubach,2016-03-19,"[' Rea Dubach ', ' Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
+Montreux,I-Muvrini,2016-03-19,['I Muvrini '],
+Frick,Dieter-Bornschlegel,2016-03-19,['Dieter Bornschlegel '],Pop
+Zürich,Joan-Shelley,2016-03-19,['Joan Shelley '],
+Zug,Celtic-Spring-Caravan,2016-03-19,"['Celtic Umbrella ', ' Trundle-Byrne-Kilkelly ', ' Kelly-Makem-Begley ']",
+Bern,En-Vogue-Festival,2016-03-19,"['Ebony Bones ', ' Ghostpoet ', ' LCP ']",
+Basel,Saul-Williams,2016-03-19,['Saul Williams '],
+Basel,Alex-Hendriksen,2016-03-19,"[' Alex Hendriksen ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Sheldon Suter ']",
+Baden,The-Selkies,2016-03-19,"[' Christoph Pfaff ', ' Thomas Scheytt ', ' Hiram Mutschler ', ' Jennifer Baumann ', ' Seraina Bütikofer ', ' Daniel Vögelin ', ' Frank Ziegler ']",
+Solothurn,Chante-la-vie-chante!,2016-03-19,"['Priska Stampfli ', ' Mona de la Rey ']",Classic
+Frauenfeld,Big-Pun-Tribute-Show,2016-03-19,"['Chris Rivers ', ' Sean Strange feat. Salomé ', ' DJs Illegal ']",
+Lausanne,Buraka-Som-Sistema,2016-03-19,['Buraka Som Sistema '],
+Chur,Lords-of-the-Underground,2016-03-19,"['Lords of the Underground ', ' Cali Agents ']",
+Aarau,Say-Yes-Dog,2016-03-19,['Say Yes Dog '],Pop
+Brugg,Lilly-Martin,2016-03-19,['Lilly Martin '],
+null,No-Crows,2016-03-19,"[' Steve Wickham ', ' Oleg Ponomarev ', ' Felip Carbonell ', ' Anna Houston ']",
+Bern,2-Jahre-1-A-Grind,2016-03-19,['DJs World Downfall '],
+Luzern,Jazzgymnastik,2016-03-19,['Jazzgymnastik '],
+Bern,Sljivovica-Party,2016-03-19,['Gipsy Groove '],

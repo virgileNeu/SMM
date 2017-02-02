@@ -1,25 +1,25 @@
-,location,event,date,artists,genre
-0,Bern,Buraco-verão,2014-07-11,['El Gato Calculista '],
-1,Klosters,The-Second-Line-Jazzband,2014-07-11,"['The Second Line Jazzband ', ' Jesper Albrektsson ', ' Niklas Carlsson ', ' Olof Skoog ', ' Anders Wasén ', ' Per Bach ', ' Johan Horner ']",
-2,Marly,Jazz-Parade,2014-07-11,"[' Marc Sturzenegger ', ' Denis Michel ', ' voc) Pierre Ponnaz ', ' bjo) Paul Kapp ', ' voc) Patrick Perrier ', ' Gianni Solinas ']",
-3,Aarberg,Stars-of-Sounds-Aarberg,2014-07-11,"['Texas ', ' Jimmy Cliff ']",
-4,Basel,Orgelspiel-zum-Feierabend,2014-07-11,['Irena Chribkova '],Classic
-5,Hergiswil,Lakeside-Festival,2014-07-11,['Torpedo Boyz '],Electronic
-6,Zürich,Festspiele-Zürich-Sinfoniekonzert-zum-Abschied,2014-07-11,"[' Juliane Banse ', ' Alice Coote ']",Classic
-7,Zürich,Heilende-Klänge-aus-Indien,2014-07-11,['Shri Balaji '],
-8,Montreux,Montreux-Jazz-Festival,2014-07-11,['Hiromi '],
-9,Marly,Jazz-Parade,2014-07-11,"['Igit ', ' Junior Tshaka ', ' Antoine Barrau ', ' Hugo Zanghi ', ' Paul Amboise ']",
-10,Münchenstein,Summer-Stage,2014-07-11,"['Deep Purple ', ' The Dandy Warhols ']",
-11,Dornach,Von-Ost-nach-West-und-wieder-zurück,2014-07-11,"['Milena Kowarik ', ' Andrea De Moliner ']",Classic
-12,Montreux,Montreux-Jazz-Festival,2014-07-11,['Jamie Cullum '],Pop
-13,Hüntwangen,Sound-Circle-Festival,2014-07-11,['Mercury Band '],Pop
-14,null,Liechtensteiner-Gitarrentage,2014-07-11,['David Russell '],Classic
-15,Locarno,Moon-and-Stars,2014-07-11,['Udo Lindenberg '],
-16,Basel,Mats-Up,2014-07-11,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']",
-17,Zürich,Live-at-Sunset,2014-07-11,['Milow '],
-18,Lugano,Estival-Jazz-Lugano,2014-07-11,"[""Sinead O'Connor "", ' Snarky Puppy ', ' Sun Ra Centennial Dream Arkestra ']",Pop
-19,St.-Moritz,Festival-da-Jazz,2014-07-11,"['Natalie Cole ', ' Natalie Cole ', ' Gail Deadrick ', ' Mahesh Balasooriya ', ' Alex Alessandroni ', ' Tony Pulizzi ', ' Edwin Livingston ', ' Robert Miller ', ' Lynne Fiddmont ', ' Traci Brown-Bailey ']",
-20,Maggia,Magic-Blues-Festival,2014-07-11,['Big Pete Pearson & The Gamblers '],
-21,Montreux,Montreux-Jazz-Festival,2014-07-11,"['Maceo Plex ', ' Ricardo Villalobos ', ' Tale of Us ']",Electronic
-22,Zürich,Ghana-Cultural-Trio,2014-07-11,[' Chamito '],
-23,St.-Moritz,Festival-da-Jazz,2014-07-11,['The Sweet Vandals '],
+location,event,date,artists,genre
+Bern,Buraco-verão,2014-07-11,['El Gato Calculista '],
+Klosters,The-Second-Line-Jazzband,2014-07-11,"['The Second Line Jazzband ', ' Jesper Albrektsson ', ' Niklas Carlsson ', ' Olof Skoog ', ' Anders Wasén ', ' Per Bach ', ' Johan Horner ']",
+Marly,Jazz-Parade,2014-07-11,"[' Marc Sturzenegger ', ' Denis Michel ', ' voc) Pierre Ponnaz ', ' bjo) Paul Kapp ', ' voc) Patrick Perrier ', ' Gianni Solinas ']",
+Aarberg,Stars-of-Sounds-Aarberg,2014-07-11,"['Texas ', ' Jimmy Cliff ']",
+Basel,Orgelspiel-zum-Feierabend,2014-07-11,['Irena Chribkova '],Classic
+Hergiswil,Lakeside-Festival,2014-07-11,['Torpedo Boyz '],Electronic
+Zürich,Festspiele-Zürich-Sinfoniekonzert-zum-Abschied,2014-07-11,"[' Juliane Banse ', ' Alice Coote ']",Classic
+Zürich,Heilende-Klänge-aus-Indien,2014-07-11,['Shri Balaji '],
+Montreux,Montreux-Jazz-Festival,2014-07-11,['Hiromi '],
+Marly,Jazz-Parade,2014-07-11,"['Igit ', ' Junior Tshaka ', ' Antoine Barrau ', ' Hugo Zanghi ', ' Paul Amboise ']",
+Münchenstein,Summer-Stage,2014-07-11,"['Deep Purple ', ' The Dandy Warhols ']",
+Dornach,Von-Ost-nach-West-und-wieder-zurück,2014-07-11,"['Milena Kowarik ', ' Andrea De Moliner ']",Classic
+Montreux,Montreux-Jazz-Festival,2014-07-11,['Jamie Cullum '],Pop
+Hüntwangen,Sound-Circle-Festival,2014-07-11,['Mercury Band '],Pop
+null,Liechtensteiner-Gitarrentage,2014-07-11,['David Russell '],Classic
+Locarno,Moon-and-Stars,2014-07-11,['Udo Lindenberg '],
+Basel,Mats-Up,2014-07-11,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']",
+Zürich,Live-at-Sunset,2014-07-11,['Milow '],
+Lugano,Estival-Jazz-Lugano,2014-07-11,"[""Sinead O'Connor "", ' Snarky Puppy ', ' Sun Ra Centennial Dream Arkestra ']",Pop
+St.-Moritz,Festival-da-Jazz,2014-07-11,"['Natalie Cole ', ' Natalie Cole ', ' Gail Deadrick ', ' Mahesh Balasooriya ', ' Alex Alessandroni ', ' Tony Pulizzi ', ' Edwin Livingston ', ' Robert Miller ', ' Lynne Fiddmont ', ' Traci Brown-Bailey ']",
+Maggia,Magic-Blues-Festival,2014-07-11,['Big Pete Pearson & The Gamblers '],
+Montreux,Montreux-Jazz-Festival,2014-07-11,"['Maceo Plex ', ' Ricardo Villalobos ', ' Tale of Us ']",Electronic
+Zürich,Ghana-Cultural-Trio,2014-07-11,[' Chamito '],
+St.-Moritz,Festival-da-Jazz,2014-07-11,['The Sweet Vandals '],

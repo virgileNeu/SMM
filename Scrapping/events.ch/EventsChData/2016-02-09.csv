@@ -1,12 +1,12 @@
-,location,event,date,artists,genre
-0,Zürich,Glantaler-Power-Men,2016-02-09,['Glantaler Power Men '],Pop
-1,Zürich,Jazzapero,2016-02-09,"[' Rodrigo Botter Maio ', ' Ivo Kova ']",
-2,Zürich,Klavierabend,2016-02-09,['Andrew Tyson '],Classic
-3,Basel,Motörhead-abgesagt,2016-02-09,['Motörhead '],
-4,Zürich,Daughter,2016-02-09,['Daughter '],Electronic
-5,Zürich,Zürcher-Orgelspiel,2016-02-09,"['Frédéric Champion ', ' Gerda Dillmann ', ' Merit Eichhorn ', ' Elie Jolliet ', ' Martin Kovarik ']",Classic
-6,Lausanne,Arno,2016-02-09,['Arno '],
-7,Zürich,Édith-Piaf-Petite-grande-dame,2016-02-09,"['Licia Chery ', ' Sylphe ', ' Alexandre Pelichet ', ' Felix Raffel ', ' g) Felix Haller ', ' g) Florian Arnicas ']",Pop
-8,Zürich,Benoit-Paradis-Trio,2016-02-09,['Benoit Paradis Trio '],
-9,Zürich,Rokia-Traoré,2016-02-09,"[' Rokia Traoré ', ' Bintou Soumbounou ', ' Stefano Pilia ', ' Mamah Diabaté ', ' Matthieu Nguessan ', ' Moïse Ouattara ']",
-10,Basel,Lisette-Spinnler-Quartet,2016-02-09,"[' Lisette Spinnler ', ' Stefan Aeby ', ' Patrice Moret ', ' Michi Stulz ']",
+location,event,date,artists,genre
+Zürich,Glantaler-Power-Men,2016-02-09,['Glantaler Power Men '],Pop
+Zürich,Jazzapero,2016-02-09,"[' Rodrigo Botter Maio ', ' Ivo Kova ']",
+Zürich,Klavierabend,2016-02-09,['Andrew Tyson '],Classic
+Basel,Motörhead-abgesagt,2016-02-09,['Motörhead '],
+Zürich,Daughter,2016-02-09,['Daughter '],Electronic
+Zürich,Zürcher-Orgelspiel,2016-02-09,"['Frédéric Champion ', ' Gerda Dillmann ', ' Merit Eichhorn ', ' Elie Jolliet ', ' Martin Kovarik ']",Classic
+Lausanne,Arno,2016-02-09,['Arno '],
+Zürich,Édith-Piaf-Petite-grande-dame,2016-02-09,"['Licia Chery ', ' Sylphe ', ' Alexandre Pelichet ', ' Felix Raffel ', ' g) Felix Haller ', ' g) Florian Arnicas ']",Pop
+Zürich,Benoit-Paradis-Trio,2016-02-09,['Benoit Paradis Trio '],
+Zürich,Rokia-Traoré,2016-02-09,"[' Rokia Traoré ', ' Bintou Soumbounou ', ' Stefano Pilia ', ' Mamah Diabaté ', ' Matthieu Nguessan ', ' Moïse Ouattara ']",
+Basel,Lisette-Spinnler-Quartet,2016-02-09,"[' Lisette Spinnler ', ' Stefan Aeby ', ' Patrice Moret ', ' Michi Stulz ']",

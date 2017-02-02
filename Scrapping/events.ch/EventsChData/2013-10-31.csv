@@ -1,46 +1,46 @@
-,location,event,date,artists,genre
-0,Zürich,Weekend,2013-10-31,['Weekend '],
-1,Zürich,Liederabend,2013-10-31,"['Annette Dasch ', ' Helmut Deutsch ']",Classic
-2,Gessnerallee-Zürich,Zürich,2013-10-31,['David Sanborn & Bob James Group feat. Steve Gadd '],
-3,Binningen,Best-of-Ohrenschmaus,2013-10-31,"['Jo Künzle ', ' Tobias Hächler ', ' Annina Künzi ', ' Alexandra Hebart ', ' Virginia Breitenstein Krejcík ']",Classic
-4,Basel,AMG-Sinfoniekonzerte,2013-10-31,"[' Kaia Urb ', ' Iris Oja ', ' Oliver Kuusik ', ' Uko Joller ']",Classic
-5,Brunnen,Sonaten-für-Violine-und-Klavier,2013-10-31,"['Alexander Kuznetsov ', ' Slava Spiridonov ']",Classic
-6,Zürich,Thursday-Night-Jazz,2013-10-31,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']",
-7,Winterthur,Die-Gewinnerin-des-Concours-Géza-Anda,2013-10-31,[' Varvara '],Classic
-8,Zürich,Schön-wie-es-begann,2013-10-31,"[' Lisa Berg ', ' David Ruosch ', ' Curdin Janett ']",Pop
-9,Basel,Trailerpark,2013-10-31,"['Trailerpark ', ' Alligatoah ']",
-10,Luzern,Salonmusik,2013-10-31,"['Martin Schaefer ', ' Richard Decker ']",Classic
-11,Komplex-457,Zürich,2013-10-31,['The Cat Empire '],
-12,Baden,Whiteboy-James-&-The-Blues-Express,2013-10-31,['Whiteboy James & The Blues Express '],
-13,null,Youn-Sun-Nah-&-Ulf-Wakenius,2013-10-31,['Youn Sun Nah & Ulf Wakenius '],
-14,null,Konzert,2013-10-31,[' James Morisson '],Classic
-15,Emmenbrücke,Wällbläch,2013-10-31,['Wällbläch '],Pop
-16,Zürich,Mads-Langer,2013-10-31,"['Mads Langer ', ' Emma Longard ']",Pop
-17,Aarau,Seat-Music-Session,2013-10-31,"[' Jenniffer Kae ', ' Johannes Oerding ', ' Jaz Ellington ']",Pop
-18,Zürich,Home,2013-10-31,"['Szenisches Konzert von und mit Simona Ryser ', ' mit Anna Trauffer ', ' Philipp Schaufelberger ']",Classic
-19,Uster,Othella-Dallas,2013-10-31,"['Othella Dallas ', ' Othella Dallas ', ' Hannes Bürgi ', ' Urs Müller ', ' Michael Chylewski ', ' Lukas Gasser ']",
-20,Kloten,Lilly-Martin-&-Band,2013-10-31,"[' Lilly Martin ', ' Michael Dolmetsch ', ' Oliver Keller ', ' Markus Fritzsche ', ' Tom Beck ']",Pop
-21,Bern,Bluesterrier,2013-10-31,"[' David Barreto ', ' Jörg Kratzer ', ' Stöffu Oesch ', ' Michael Sulzer ', ' Raoul Müller ']",
-22,Winterthur,Florian-Favre-Trio,2013-10-31,"[' Florian Favre ', ' Manu Hagmann ', ' David Meier ']",
-23,Basel,Charles-Bradley,2013-10-31,['Charles Bradley '],
-24,Zürich,Piers-Faccini,2013-10-31,"['Piers Faccini ', ' Piers Faccini ', ' Simone Prattico ']",Pop
-25,Basel,Fonda-Stevens-Group,2013-10-31,"[' Herb Robertson ', ' Michael Jefry Stevens ', ' Joe Fonda ', ' Harvey Sorgen ']",
-26,Baden,Jazz-Rice-Performance,2013-10-31,"['Mirjam Harzenmoser ', ' Ueli Gygli ', ' Mischa Frey ', ' Alex Merz ']",
-27,Lausanne,Ben-l'oncle-Soul-&-Monophonics,2013-10-31,"[""Ben l'oncle Soul & Monophonics ""]",
-28,Wabern,True-Colors,2013-10-31,"[' Karina Fernandez ', ' Andreas Michel ']",
-29,Feuerthalen,Session-Club-Dimitri,2013-10-31,['C. J. Boyd '],Pop
-30,Bern,Hola-Ghost,2013-10-31,[' Maladroits '],
-31,Lausanne,Guizmo,2013-10-31,['Guizmo '],
-32,Rubigen,Aynsley-Lister,2013-10-31,['Aynsley Lister '],
-33,Basel,Bleu-Roi,2013-10-31,['Bleu Roi '],Electronic
-34,Zürich,Salsamania,2013-10-31,['DJs Fabrizio Zoro '],
-35,Zug,King-Mastino,2013-10-31,['King Mastino '],
-36,Basel,Peter-Finc,2013-10-31,[' support: Peter Piek '],Pop
-37,Birsfelden,Prekmurski-Kavbojci,2013-10-31,"[' Martin Medimorec ', ' Ulrich Pletscher ', ' Jaro Milko ', ' Benjamin Brodbeck ']",Pop
-38,Zürich,Jazznojazz,2013-10-31,['The New Mastersounds '],
-39,Gessnerallee-Zürich,Zürich,2013-10-31,['Till Brönner '],
-40,Luzern,Jam-Session,2013-10-31,['Richard Decker '],
-41,Zürich,I-Am-in-Love,2013-10-31,['I Am in Love '],Pop
-42,ewz-Unterwerk-Selnau,Zürich,2013-10-31,['Bilal '],Bilal
-43,Kriens,James-Ferraro,2013-10-31,['James Ferraro '],Electronic
-44,Wabern,Gaia,2013-10-31,"[' Franziska Stadelmann ', ' Martin Stadelmann ']",
+location,event,date,artists,genre
+Zürich,Weekend,2013-10-31,['Weekend '],
+Zürich,Liederabend,2013-10-31,"['Annette Dasch ', ' Helmut Deutsch ']",Classic
+Gessnerallee-Zürich,Zürich,2013-10-31,['David Sanborn & Bob James Group feat. Steve Gadd '],
+Binningen,Best-of-Ohrenschmaus,2013-10-31,"['Jo Künzle ', ' Tobias Hächler ', ' Annina Künzi ', ' Alexandra Hebart ', ' Virginia Breitenstein Krejcík ']",Classic
+Basel,AMG-Sinfoniekonzerte,2013-10-31,"[' Kaia Urb ', ' Iris Oja ', ' Oliver Kuusik ', ' Uko Joller ']",Classic
+Brunnen,Sonaten-für-Violine-und-Klavier,2013-10-31,"['Alexander Kuznetsov ', ' Slava Spiridonov ']",Classic
+Zürich,Thursday-Night-Jazz,2013-10-31,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']",
+Winterthur,Die-Gewinnerin-des-Concours-Géza-Anda,2013-10-31,[' Varvara '],Classic
+Zürich,Schön-wie-es-begann,2013-10-31,"[' Lisa Berg ', ' David Ruosch ', ' Curdin Janett ']",Pop
+Basel,Trailerpark,2013-10-31,"['Trailerpark ', ' Alligatoah ']",
+Luzern,Salonmusik,2013-10-31,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Komplex-457,Zürich,2013-10-31,['The Cat Empire '],
+Baden,Whiteboy-James-&-The-Blues-Express,2013-10-31,['Whiteboy James & The Blues Express '],
+null,Youn-Sun-Nah-&-Ulf-Wakenius,2013-10-31,['Youn Sun Nah & Ulf Wakenius '],
+null,Konzert,2013-10-31,[' James Morisson '],Classic
+Emmenbrücke,Wällbläch,2013-10-31,['Wällbläch '],Pop
+Zürich,Mads-Langer,2013-10-31,"['Mads Langer ', ' Emma Longard ']",Pop
+Aarau,Seat-Music-Session,2013-10-31,"[' Jenniffer Kae ', ' Johannes Oerding ', ' Jaz Ellington ']",Pop
+Zürich,Home,2013-10-31,"['Szenisches Konzert von und mit Simona Ryser ', ' mit Anna Trauffer ', ' Philipp Schaufelberger ']",Classic
+Uster,Othella-Dallas,2013-10-31,"['Othella Dallas ', ' Othella Dallas ', ' Hannes Bürgi ', ' Urs Müller ', ' Michael Chylewski ', ' Lukas Gasser ']",
+Kloten,Lilly-Martin-&-Band,2013-10-31,"[' Lilly Martin ', ' Michael Dolmetsch ', ' Oliver Keller ', ' Markus Fritzsche ', ' Tom Beck ']",Pop
+Bern,Bluesterrier,2013-10-31,"[' David Barreto ', ' Jörg Kratzer ', ' Stöffu Oesch ', ' Michael Sulzer ', ' Raoul Müller ']",
+Winterthur,Florian-Favre-Trio,2013-10-31,"[' Florian Favre ', ' Manu Hagmann ', ' David Meier ']",
+Basel,Charles-Bradley,2013-10-31,['Charles Bradley '],
+Zürich,Piers-Faccini,2013-10-31,"['Piers Faccini ', ' Piers Faccini ', ' Simone Prattico ']",Pop
+Basel,Fonda-Stevens-Group,2013-10-31,"[' Herb Robertson ', ' Michael Jefry Stevens ', ' Joe Fonda ', ' Harvey Sorgen ']",
+Baden,Jazz-Rice-Performance,2013-10-31,"['Mirjam Harzenmoser ', ' Ueli Gygli ', ' Mischa Frey ', ' Alex Merz ']",
+Lausanne,Ben-l'oncle-Soul-&-Monophonics,2013-10-31,"[""Ben l'oncle Soul & Monophonics ""]",
+Wabern,True-Colors,2013-10-31,"[' Karina Fernandez ', ' Andreas Michel ']",
+Feuerthalen,Session-Club-Dimitri,2013-10-31,['C. J. Boyd '],Pop
+Bern,Hola-Ghost,2013-10-31,[' Maladroits '],
+Lausanne,Guizmo,2013-10-31,['Guizmo '],
+Rubigen,Aynsley-Lister,2013-10-31,['Aynsley Lister '],
+Basel,Bleu-Roi,2013-10-31,['Bleu Roi '],Electronic
+Zürich,Salsamania,2013-10-31,['DJs Fabrizio Zoro '],
+Zug,King-Mastino,2013-10-31,['King Mastino '],
+Basel,Peter-Finc,2013-10-31,[' support: Peter Piek '],Pop
+Birsfelden,Prekmurski-Kavbojci,2013-10-31,"[' Martin Medimorec ', ' Ulrich Pletscher ', ' Jaro Milko ', ' Benjamin Brodbeck ']",Pop
+Zürich,Jazznojazz,2013-10-31,['The New Mastersounds '],
+Gessnerallee-Zürich,Zürich,2013-10-31,['Till Brönner '],
+Luzern,Jam-Session,2013-10-31,['Richard Decker '],
+Zürich,I-Am-in-Love,2013-10-31,['I Am in Love '],Pop
+ewz-Unterwerk-Selnau,Zürich,2013-10-31,['Bilal '],Bilal
+Kriens,James-Ferraro,2013-10-31,['James Ferraro '],Electronic
+Wabern,Gaia,2013-10-31,"[' Franziska Stadelmann ', ' Martin Stadelmann ']",

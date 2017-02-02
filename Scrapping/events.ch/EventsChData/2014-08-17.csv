@@ -1,19 +1,19 @@
-,location,event,date,artists,genre
-0,Grenchen,The-Harlem-Sound,2014-08-17,"[' Urs Granacher ', ' Urs Tschop ', ' Dani Breitenstein ', ' Wölfli Schönauer ']",
-1,Gampel,Open-Air-Gampel,2014-08-17,"['Hozier ', ' The Kyle Gass Band ']",Pop
-2,Murten,Murten-Classics-Kammermusik,2014-08-17,"['Kaspar Zehnder ', ' Bernhard Röthlisberger ', ' Stephan Siegenthaler ', ' Heidrun Wirth ', ' Olivier Darbellay ', ' Fiona Kraege ', ' Julia Malkova ', ' Eva Lüthi ', ' Matteo Burci ']",Classic
-3,Gampel,Open-Air-Gampel,2014-08-17,[' Casper '],Pop
-4,Luzern,Moderne-2,2014-08-17,"[' Dimitri Vassilakis ', ' Samuel Favre ']",Classic
-5,Basel,Blues-Now,2014-08-17,['Delta Groove All-Star Band '],
-6,Saanen,Menuhin-Festival-Gstaad,2014-08-17,[' Wolfgang Sieber '],Classic
-7,Avenches,Rock-Oz'Arènes,2014-08-17,['Comedy-Abend mit Gad Elmaleh '],Pop
-8,Fischingen,Orgelkonzert,2014-08-17,"[' Maria Mokhova ', ' Rudolf Müller ']",Classic
-9,Luzern,Unter-dem-Kronleuchter,2014-08-17,"[' Wolfram Christ ', ' Rafael Christ ']",Classic
-10,Winterthur,Winterthurer-Musikfestwochen,2014-08-17,"['Nick Waterhouse ', ' Luca Sapio ', ' Rainer von Vielen ', ' Matteo Capreoli ']",
-11,Amsoldingen,Konzert,2014-08-17,['Pierre Hantaï '],Classic
-12,null,Murten-Classics-Kammermusik,2014-08-17,['Viviane Chassot '],Classic
-13,Zürich,Jubiläums-Konzert,2014-08-17,"[' Sabina Curti ', ' Therese Hauser ']",Classic
-14,Aarau,Bildersturm,2014-08-17,[' Cécile Grübler '],Classic
-15,Amsoldingen,Konzert,2014-08-17,"['Marc Hantaï ', ' Jérôme Hantaï ', ' Pierre Hantaï ']",Classic
-16,Winterthur,The-Kuziems,2014-08-17,"[' Simon Kuziem ', ' perc) Meki Kuziem ', ' Beryl Kuziem ', ' Saymon Kuziem ', ' Benjamin Kuziem-Gonçalves ']",
-17,Winterthur,Winterthurer-Musikfestwochen,2014-08-17,['Götz Widmann '],Pop
+location,event,date,artists,genre
+Grenchen,The-Harlem-Sound,2014-08-17,"[' Urs Granacher ', ' Urs Tschop ', ' Dani Breitenstein ', ' Wölfli Schönauer ']",
+Gampel,Open-Air-Gampel,2014-08-17,"['Hozier ', ' The Kyle Gass Band ']",Pop
+Murten,Murten-Classics-Kammermusik,2014-08-17,"['Kaspar Zehnder ', ' Bernhard Röthlisberger ', ' Stephan Siegenthaler ', ' Heidrun Wirth ', ' Olivier Darbellay ', ' Fiona Kraege ', ' Julia Malkova ', ' Eva Lüthi ', ' Matteo Burci ']",Classic
+Gampel,Open-Air-Gampel,2014-08-17,[' Casper '],Pop
+Luzern,Moderne-2,2014-08-17,"[' Dimitri Vassilakis ', ' Samuel Favre ']",Classic
+Basel,Blues-Now,2014-08-17,['Delta Groove All-Star Band '],
+Saanen,Menuhin-Festival-Gstaad,2014-08-17,[' Wolfgang Sieber '],Classic
+Avenches,Rock-Oz'Arènes,2014-08-17,['Comedy-Abend mit Gad Elmaleh '],Pop
+Fischingen,Orgelkonzert,2014-08-17,"[' Maria Mokhova ', ' Rudolf Müller ']",Classic
+Luzern,Unter-dem-Kronleuchter,2014-08-17,"[' Wolfram Christ ', ' Rafael Christ ']",Classic
+Winterthur,Winterthurer-Musikfestwochen,2014-08-17,"['Nick Waterhouse ', ' Luca Sapio ', ' Rainer von Vielen ', ' Matteo Capreoli ']",
+Amsoldingen,Konzert,2014-08-17,['Pierre Hantaï '],Classic
+null,Murten-Classics-Kammermusik,2014-08-17,['Viviane Chassot '],Classic
+Zürich,Jubiläums-Konzert,2014-08-17,"[' Sabina Curti ', ' Therese Hauser ']",Classic
+Aarau,Bildersturm,2014-08-17,[' Cécile Grübler '],Classic
+Amsoldingen,Konzert,2014-08-17,"['Marc Hantaï ', ' Jérôme Hantaï ', ' Pierre Hantaï ']",Classic
+Winterthur,The-Kuziems,2014-08-17,"[' Simon Kuziem ', ' perc) Meki Kuziem ', ' Beryl Kuziem ', ' Saymon Kuziem ', ' Benjamin Kuziem-Gonçalves ']",
+Winterthur,Winterthurer-Musikfestwochen,2014-08-17,['Götz Widmann '],Pop

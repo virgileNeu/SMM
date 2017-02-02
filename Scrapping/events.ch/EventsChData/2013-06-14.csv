@@ -1,42 +1,42 @@
-,location,event,date,artists,genre
-0,Basel,Bachelorkonzert,2013-06-14,[' Mira Buzánszky '],Classic
-1,Basel,Bachelorkonzert,2013-06-14,[' Aurélien Tschopp '],Classic
-2,Flugplatzareal,Interlaken,2013-06-14,"['The Prodigy ', ' Slayer ', ' NOFX ', ' Danko Jones ', ' Caliban ', ' Karnivool ', ' Itchy Poopzkid ']",Slayer
-3,Flugplatzareal,Interlaken,2013-06-14,"['Coheed & Cambria ', ' Turbonegro ', ' Emil Bulls ', ' Bleed From Within ', ' The Bouncing Souls ', ' Bury Tomorrow ', ' Red Fang ', ' The Bots ']",Turbonegro
-4,Basel,Bachelorkonzert,2013-06-14,[' David Krähenmann '],Classic
-5,Basel,Masterrezital,2013-06-14,[' Giulia Eletta Breschi '],Classic
-6,Luzern,Blue-Soul-&-Me,2013-06-14,['Mark Tenger '],
-7,Basel,Masterrezital,2013-06-14,[' Jeff Brown '],Classic
-8,Basel,Orgelspiel-zum-Feierabend,2013-06-14,['Sharon Prushansky '],Classic
-9,Solothurn,Chinderland,2013-06-14,['Chinderland '],Pop
-10,Dietikon,Feierabendmusik-in-der-Kirche,2013-06-14,"['', ' Livio Castioni ']",Classic
-11,Basel,Bachelorkonzert,2013-06-14,[' Cécile Unternährer '],Classic
-12,Sonnenberg,Kriens,2013-06-14,"['Brandt Brauer Frick ', ' Urban Cone ', ' Dead Western ']",
-13,Jenseits-im-Viadukt,Zürich,2013-06-14,"[' Katharina Busch ', ' Levin ']",Levin
-14,Jazzkantine,Luzern,2013-06-14,['John Voirol '],
-15,Frenkendorf,Tanz-der-Farben,2013-06-14,"['Christine Schmid ', ' Michaela Hüttich ', ' Wolfgang Lehner ']",Classic
-16,e-194618,,2013-06-14,['Lena Neudauer '],Classic
-17,Bern,Molto-furioso,2013-06-14,[' Marie-Elisabeth Hecker '],Classic
-18,Winterthur,Duo-Giocondo,2013-06-14,"['Cindy Oppliger ', ' Andrea Brunner ']",
-19,Chollerhalle,Zug,2013-06-14,"['Element Of Crime ', ' support: Maike Rosa Vogel ']",
-20,Volkshaus,Zürich,2013-06-14,['Jimmy Cliff '],
-21,Salzhaus,Winterthur,2013-06-14,['Devildriver '],DevilDriver
-22,null,Jugalbandi,2013-06-14,"['Bhaskar Das ', ' Rohan Dasgupta ', ' Udai Mazumdar ']",
-23,Baden,Sinfoniekonzert,2013-06-14,['Selina Cuonz '],Classic
-24,Sonnenberg,Kriens,2013-06-14,"['Civil Civic ', ' Terakaft ']",
-25,Winterthur,Konzert,2013-06-14,"[' Heidi-Maria Makkonen ', ' Doris Dubach ', ' Jannai Balikavlayan ']",Classic
-26,Zürich,Taktlos,2013-06-14,[' Rémi Panossian Trio feat. Nicole Johänntgen & Frederik Köster '],
-27,Zürich,Konzert,2013-06-14,"['Agnese Eglina ', ' Jana Ozolina ', ' Marcis Kuplais ']",Classic
-28,Rheinfelden,Riverboat-Stokers,2013-06-14,"[' Hans Schönholzer ', ' Peter Meili ', ' Leo Utiger ']",
-29,Basel,Masterrezital,2013-06-14,[' Eva Saladin '],Classic
-30,Winterthur,Ginkyó,2013-06-14,"[' Barbara Balzan ', ' Gregor Müller ', ' Silvan Jeger ']",
-31,Basel,Masterrezital,2013-06-14,[' Sandro Balzarini '],Classic
-32,Basel,Argentinazo,2013-06-14,"[' Rudi Flores ', ' Ricardo Herrera ', ' Irma Gross ']",
-33,Winterthur,Black-Pyramid,2013-06-14,"['Black Pyramid ', ' Trecker ']",
-34,Zürich,Ned-Collette,2013-06-14,['Ned Collette '],
-35,Zürich,Immanuel-Witschi-Trio,2013-06-14,"[' Corinne Schmidiger ', ' Immanuel Witschi ', ' Timon Roth ']",
-36,Zürich,Transurban-Jazzquartet,2013-06-14,"[' Andrea Janser ', ' Ulrich Morales ', ' Markus Bührer ', ' Florian Kolb ']",
-37,Basel,Project-Dark,2013-06-14,['Project Dark '],Electronic
-38,null,U.-S.-Rail,2013-06-14,['U. S. Rail '],
-39,Bar-Rossi,Zürich,2013-06-14,[' DJs Jazmin Ng '],
-40,Bern,Stripped-Down,2013-06-14,['Bing Ji Ling '],
+location,event,date,artists,genre
+Basel,Bachelorkonzert,2013-06-14,[' Mira Buzánszky '],Classic
+Basel,Bachelorkonzert,2013-06-14,[' Aurélien Tschopp '],Classic
+Flugplatzareal,Interlaken,2013-06-14,"['The Prodigy ', ' Slayer ', ' NOFX ', ' Danko Jones ', ' Caliban ', ' Karnivool ', ' Itchy Poopzkid ']",Slayer
+Flugplatzareal,Interlaken,2013-06-14,"['Coheed & Cambria ', ' Turbonegro ', ' Emil Bulls ', ' Bleed From Within ', ' The Bouncing Souls ', ' Bury Tomorrow ', ' Red Fang ', ' The Bots ']",Turbonegro
+Basel,Bachelorkonzert,2013-06-14,[' David Krähenmann '],Classic
+Basel,Masterrezital,2013-06-14,[' Giulia Eletta Breschi '],Classic
+Luzern,Blue-Soul-&-Me,2013-06-14,['Mark Tenger '],
+Basel,Masterrezital,2013-06-14,[' Jeff Brown '],Classic
+Basel,Orgelspiel-zum-Feierabend,2013-06-14,['Sharon Prushansky '],Classic
+Solothurn,Chinderland,2013-06-14,['Chinderland '],Pop
+Dietikon,Feierabendmusik-in-der-Kirche,2013-06-14,"['', ' Livio Castioni ']",Classic
+Basel,Bachelorkonzert,2013-06-14,[' Cécile Unternährer '],Classic
+Sonnenberg,Kriens,2013-06-14,"['Brandt Brauer Frick ', ' Urban Cone ', ' Dead Western ']",
+Jenseits-im-Viadukt,Zürich,2013-06-14,"[' Katharina Busch ', ' Levin ']",Levin
+Jazzkantine,Luzern,2013-06-14,['John Voirol '],
+Frenkendorf,Tanz-der-Farben,2013-06-14,"['Christine Schmid ', ' Michaela Hüttich ', ' Wolfgang Lehner ']",Classic
+e-194618,,2013-06-14,['Lena Neudauer '],Classic
+Bern,Molto-furioso,2013-06-14,[' Marie-Elisabeth Hecker '],Classic
+Winterthur,Duo-Giocondo,2013-06-14,"['Cindy Oppliger ', ' Andrea Brunner ']",
+Chollerhalle,Zug,2013-06-14,"['Element Of Crime ', ' support: Maike Rosa Vogel ']",
+Volkshaus,Zürich,2013-06-14,['Jimmy Cliff '],
+Salzhaus,Winterthur,2013-06-14,['Devildriver '],DevilDriver
+null,Jugalbandi,2013-06-14,"['Bhaskar Das ', ' Rohan Dasgupta ', ' Udai Mazumdar ']",
+Baden,Sinfoniekonzert,2013-06-14,['Selina Cuonz '],Classic
+Sonnenberg,Kriens,2013-06-14,"['Civil Civic ', ' Terakaft ']",
+Winterthur,Konzert,2013-06-14,"[' Heidi-Maria Makkonen ', ' Doris Dubach ', ' Jannai Balikavlayan ']",Classic
+Zürich,Taktlos,2013-06-14,[' Rémi Panossian Trio feat. Nicole Johänntgen & Frederik Köster '],
+Zürich,Konzert,2013-06-14,"['Agnese Eglina ', ' Jana Ozolina ', ' Marcis Kuplais ']",Classic
+Rheinfelden,Riverboat-Stokers,2013-06-14,"[' Hans Schönholzer ', ' Peter Meili ', ' Leo Utiger ']",
+Basel,Masterrezital,2013-06-14,[' Eva Saladin '],Classic
+Winterthur,Ginkyó,2013-06-14,"[' Barbara Balzan ', ' Gregor Müller ', ' Silvan Jeger ']",
+Basel,Masterrezital,2013-06-14,[' Sandro Balzarini '],Classic
+Basel,Argentinazo,2013-06-14,"[' Rudi Flores ', ' Ricardo Herrera ', ' Irma Gross ']",
+Winterthur,Black-Pyramid,2013-06-14,"['Black Pyramid ', ' Trecker ']",
+Zürich,Ned-Collette,2013-06-14,['Ned Collette '],
+Zürich,Immanuel-Witschi-Trio,2013-06-14,"[' Corinne Schmidiger ', ' Immanuel Witschi ', ' Timon Roth ']",
+Zürich,Transurban-Jazzquartet,2013-06-14,"[' Andrea Janser ', ' Ulrich Morales ', ' Markus Bührer ', ' Florian Kolb ']",
+Basel,Project-Dark,2013-06-14,['Project Dark '],Electronic
+null,U.-S.-Rail,2013-06-14,['U. S. Rail '],
+Bar-Rossi,Zürich,2013-06-14,[' DJs Jazmin Ng '],
+Bern,Stripped-Down,2013-06-14,['Bing Ji Ling '],

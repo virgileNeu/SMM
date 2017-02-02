@@ -1,28 +1,28 @@
-,location,event,date,artists,genre
-0,Gstaad,Matinée-des-jeunes-étoiles-VII,2016-08-27,['Stéphane Tetreault '],Classic
-1,Luzern,Lucerne-Festival-Young-Sitzkissenkonzert-1,2016-08-27,['Eleonora Savini '],Classic
-2,Luzern,Lucerne-Festival-Memorial-Concert-for-Aurèle-Nicolet,2016-08-27,"['Felix Renggli ', ' Heinz Holliger ', ' Jean Sulem ']",Classic
-3,Glattbrugg,Zürich-Openair,2016-08-27,"['Underworld ', ' Kaiser Chiefs ', ' Bilderbuch ', ' Booka Shade ']",
-4,Arbon,Summerdays-Festival,2016-08-27,"['Hurts ', ' Faithless ', ' Gregor Meyle ']",Pop
-5,Luzern,Lucerne-Festival-Young-Sitzkissenkonzert-2,2016-08-27,['Eleonora Savini '],Classic
-6,Zürich,Andy-Gruber-Band,2016-08-27,[' DJ Andy '],traditional
-7,Gränichen,Openair-Gränichen,2016-08-27,"['Caspian ', ' Taped ']",
-8,Luzern,Lucerne-Festival-Sinfoniekonzert-13,2016-08-27,[' Martin Grubinger '],Classic
-9,Winterthur,Winterthurer-Musikfestwochen,2016-08-27,"['Tom Odell ', ' Daughter ', ' Elias ']",
-10,Winterthur,Tangos-von-Piazzolla,2016-08-27,"[' Praxedis Hug-Rütti ', ' Praxedis Genevieve Hug ']",Classic
-11,Gstaad,Recital-The-Seasons,2016-08-27,['Lang Lang '],Classic
-12,Zürich,Komm-in-meinen-Garten-meine-Schwester-liebe-Braut.,2016-08-27,"[' Frithjof Smith ', ' Ori Harmelin ', ' Matthias Müller ', ' Jörg-Andreas Bötticher ', ' works by Franck und Schein ']",Classic
-13,Zürich,Internationale-Romantik-zum-Regerjahr,2016-08-27,['Martin Schmeding '],Classic
-14,Wollerau,Alexander-Seidel-&-Freunde,2016-08-27,"['Heinz Sauer ', ' Daniel Trumbull ', ' Dalia El Guindi ', ' Claudia Weissbarth ', ' conductor: Alexander Seidel ']",Classic
-15,null,Verdi-Openair-Wil,2016-08-27,"[' Sorin Coliban ', ' Nicole Bosshard ', ' Mona Somm ']",Classic
-16,Aarburg,The-Rumjacks,2016-08-27,['The Rumjacks '],
-17,Horw,End-of-Silence,2016-08-27,['End of Silence '],
-18,Basel,Magno-Alexandre-&-Mike-Eckroth-Quartet,2016-08-27,"[' Magno Alexandre ', ' Mike Eckroth ', ' Stephan Kurmann ', ' Julio Barreto ']",
-19,Uster,Trio-Atrium,2016-08-27,"[' Andrea Kirchhofer ', ' Noam Szyfer ', ' Flo Zimmermann ']",
-20,Baden,Tonic-Strings,2016-08-27,"[' Toni Donadio ', ' Nic Niedermann ']",
-21,Meilen,Fulminato-Serenade-im-Parktheater,2016-08-27,"['Annina Gieré ', ' Michaela Unsinn ', ' Philipp Scherer ', ' Corina Gieré ']",Classic
-22,Luzern,Mimi-Oz,2016-08-27,['Mimi Oz '],
-23,Basel,Impro-Duo-,2016-08-27,"[' Niggi Schürmann ', ' Dominik Schürmann ']",
-24,Luzern,Lucerne-Festival-Late-Night-4,2016-08-27,"['Luzia von Wyl ', ' Roman Glaser ', ' Nicola Katz ']",Classic
-25,Zürich,Zürcher-Theater-Spektakel,2016-08-27,['Hello Psychaleppo '],Electronic
-26,null,Zoo-Is-Back,2016-08-27,"['DJs Hype ', ' MC Ad ']",Electronic
+location,event,date,artists,genre
+Gstaad,Matinée-des-jeunes-étoiles-VII,2016-08-27,['Stéphane Tetreault '],Classic
+Luzern,Lucerne-Festival-Young-Sitzkissenkonzert-1,2016-08-27,['Eleonora Savini '],Classic
+Luzern,Lucerne-Festival-Memorial-Concert-for-Aurèle-Nicolet,2016-08-27,"['Felix Renggli ', ' Heinz Holliger ', ' Jean Sulem ']",Classic
+Glattbrugg,Zürich-Openair,2016-08-27,"['Underworld ', ' Kaiser Chiefs ', ' Bilderbuch ', ' Booka Shade ']",
+Arbon,Summerdays-Festival,2016-08-27,"['Hurts ', ' Faithless ', ' Gregor Meyle ']",Pop
+Luzern,Lucerne-Festival-Young-Sitzkissenkonzert-2,2016-08-27,['Eleonora Savini '],Classic
+Zürich,Andy-Gruber-Band,2016-08-27,[' DJ Andy '],traditional
+Gränichen,Openair-Gränichen,2016-08-27,"['Caspian ', ' Taped ']",
+Luzern,Lucerne-Festival-Sinfoniekonzert-13,2016-08-27,[' Martin Grubinger '],Classic
+Winterthur,Winterthurer-Musikfestwochen,2016-08-27,"['Tom Odell ', ' Daughter ', ' Elias ']",
+Winterthur,Tangos-von-Piazzolla,2016-08-27,"[' Praxedis Hug-Rütti ', ' Praxedis Genevieve Hug ']",Classic
+Gstaad,Recital-The-Seasons,2016-08-27,['Lang Lang '],Classic
+Zürich,Komm-in-meinen-Garten-meine-Schwester-liebe-Braut.,2016-08-27,"[' Frithjof Smith ', ' Ori Harmelin ', ' Matthias Müller ', ' Jörg-Andreas Bötticher ', ' works by Franck und Schein ']",Classic
+Zürich,Internationale-Romantik-zum-Regerjahr,2016-08-27,['Martin Schmeding '],Classic
+Wollerau,Alexander-Seidel-&-Freunde,2016-08-27,"['Heinz Sauer ', ' Daniel Trumbull ', ' Dalia El Guindi ', ' Claudia Weissbarth ', ' conductor: Alexander Seidel ']",Classic
+null,Verdi-Openair-Wil,2016-08-27,"[' Sorin Coliban ', ' Nicole Bosshard ', ' Mona Somm ']",Classic
+Aarburg,The-Rumjacks,2016-08-27,['The Rumjacks '],
+Horw,End-of-Silence,2016-08-27,['End of Silence '],
+Basel,Magno-Alexandre-&-Mike-Eckroth-Quartet,2016-08-27,"[' Magno Alexandre ', ' Mike Eckroth ', ' Stephan Kurmann ', ' Julio Barreto ']",
+Uster,Trio-Atrium,2016-08-27,"[' Andrea Kirchhofer ', ' Noam Szyfer ', ' Flo Zimmermann ']",
+Baden,Tonic-Strings,2016-08-27,"[' Toni Donadio ', ' Nic Niedermann ']",
+Meilen,Fulminato-Serenade-im-Parktheater,2016-08-27,"['Annina Gieré ', ' Michaela Unsinn ', ' Philipp Scherer ', ' Corina Gieré ']",Classic
+Luzern,Mimi-Oz,2016-08-27,['Mimi Oz '],
+Basel,Impro-Duo-,2016-08-27,"[' Niggi Schürmann ', ' Dominik Schürmann ']",
+Luzern,Lucerne-Festival-Late-Night-4,2016-08-27,"['Luzia von Wyl ', ' Roman Glaser ', ' Nicola Katz ']",Classic
+Zürich,Zürcher-Theater-Spektakel,2016-08-27,['Hello Psychaleppo '],Electronic
+null,Zoo-Is-Back,2016-08-27,"['DJs Hype ', ' MC Ad ']",Electronic

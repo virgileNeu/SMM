@@ -1,19 +1,19 @@
-,location,event,date,artists,genre
-0,Frauenfeld,Openair-Frauenfeld,2015-07-11,"['Kendrick Lamar ', ' Ludacris ']",
-1,Basel,Orgelmusik-über-Mittag,2015-07-11,['Andreas Liebig '],Classic
-2,Frauenfeld,Openair-Frauenfeld,2015-07-11,"['Soprano ', ' Pusha T ', ' Rae Sremmurd ', ' August Alsina ']",
-3,Laufen,Stedtli-Blues,2015-07-11,['Eric Sardinas & Big Motor '],
-4,Frauenfeld,Openair-Frauenfeld,2015-07-11,"['Xatar ', ' Vince Staples ']",
-5,Wädenswil,Arx-en-ciel-Openair,2015-07-11,[' Nina Attal '],
-6,Zürich,Reggaefestival,2015-07-11,['Tarrus Riley '],
-7,Montreux,Montreux-Jazz-Festival,2015-07-11,"['Lionel Richie ', ' Liv Warfield & The NPG Hornz ']",Pop
-8,null,Stimmen,2015-07-11,['Slixs '],Pop
-9,Effretikon,Schlüsselbunt,2015-07-11,['Elvira Hess '],Classic
-10,Montreux,Montreux-Jazz-Festival,2015-07-11,['Kronos Quartet & Trio Da Kali '],
-11,null,Kulturfestival-St.-Gallen,2015-07-11,"[""Y'Akoto ""]",
-12,Zürich,Live-at-Sunset,2015-07-11,['Roxette '],Pop
-13,Basel,Jean-Paul-Brodbeck-Trio,2015-07-11,"[' Jean-Paul Brodbeck ', ' Matthias Pichler ', ' Andreas Pichler ']",
-14,Montreux,Montreux-Jazz-Festival,2015-07-11,['Protoje & The Indiggnation '],
-15,Lugano,Estival-Jazz-Lugano,2015-07-11,"[' Stephan Rigert ', ' Gabriela Mendes ', ' Sandro Schneebeli ', ' Monette Marino ', ' Ibou Ndiaye ', ' Dave Feusi ', ' Eduardo Dudu Penz ', ' Manuel Siebs ']",
-16,St.-Moritz,Festival-da-Jazz,2015-07-11,"[' Bob Mintzer ', ' Russel Ferrante ', ' Dane Anderson ', ' William Kennedy ']",
-17,Basel,Salsa-&-Kizomba-Party,2015-07-11,[' Nachtessen und Vorträge mit Sonja Kikizomba '],
+location,event,date,artists,genre
+Frauenfeld,Openair-Frauenfeld,2015-07-11,"['Kendrick Lamar ', ' Ludacris ']",
+Basel,Orgelmusik-über-Mittag,2015-07-11,['Andreas Liebig '],Classic
+Frauenfeld,Openair-Frauenfeld,2015-07-11,"['Soprano ', ' Pusha T ', ' Rae Sremmurd ', ' August Alsina ']",
+Laufen,Stedtli-Blues,2015-07-11,['Eric Sardinas & Big Motor '],
+Frauenfeld,Openair-Frauenfeld,2015-07-11,"['Xatar ', ' Vince Staples ']",
+Wädenswil,Arx-en-ciel-Openair,2015-07-11,[' Nina Attal '],
+Zürich,Reggaefestival,2015-07-11,['Tarrus Riley '],
+Montreux,Montreux-Jazz-Festival,2015-07-11,"['Lionel Richie ', ' Liv Warfield & The NPG Hornz ']",Pop
+null,Stimmen,2015-07-11,['Slixs '],Pop
+Effretikon,Schlüsselbunt,2015-07-11,['Elvira Hess '],Classic
+Montreux,Montreux-Jazz-Festival,2015-07-11,['Kronos Quartet & Trio Da Kali '],
+null,Kulturfestival-St.-Gallen,2015-07-11,"[""Y'Akoto ""]",
+Zürich,Live-at-Sunset,2015-07-11,['Roxette '],Pop
+Basel,Jean-Paul-Brodbeck-Trio,2015-07-11,"[' Jean-Paul Brodbeck ', ' Matthias Pichler ', ' Andreas Pichler ']",
+Montreux,Montreux-Jazz-Festival,2015-07-11,['Protoje & The Indiggnation '],
+Lugano,Estival-Jazz-Lugano,2015-07-11,"[' Stephan Rigert ', ' Gabriela Mendes ', ' Sandro Schneebeli ', ' Monette Marino ', ' Ibou Ndiaye ', ' Dave Feusi ', ' Eduardo Dudu Penz ', ' Manuel Siebs ']",
+St.-Moritz,Festival-da-Jazz,2015-07-11,"[' Bob Mintzer ', ' Russel Ferrante ', ' Dane Anderson ', ' William Kennedy ']",
+Basel,Salsa-&-Kizomba-Party,2015-07-11,[' Nachtessen und Vorträge mit Sonja Kikizomba '],

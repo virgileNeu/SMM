@@ -1,21 +1,21 @@
-,location,event,date,artists,genre
-0,Zürich,Mittagsmusik,2015-02-04,"['Barbara Böhi ', ' Tobias Cramm ']",Classic
-1,Basel,Fas(ten)nachtsimpressionen,2015-02-04,['Urs Höchle '],Classic
-2,Basel,Divers-divertissements-d'hiver,2015-02-04,"[' Susanne Mathé ', ' Isabelle Ladewig ', ' Stella Mahrenholz ', ' Stéphanie Meyer ', ' Jan Schultsz ']",Classic
-3,Zürich,Tonhalle-Orchester-Zürich,2015-02-04,"[' Hana Blazíková ', ' Tilman Lichdi ', ' Andreas Weller ', ' Klaus Mertens ']",Classic
-4,Zürich,Stephan-Schmidt-und-I-Tempi,2015-02-04,[' Stephan Schmidt '],Classic
-5,Baden,One-of-a-Million,2015-02-04,['Neøv '],
-6,Basel,Atmosphères,2015-02-04,[' Francesco Piemontesi '],Classic
-7,Luzern,Sinfoniekonzert,2015-02-04,[' Rafa Blechacz '],Classic
-8,Zürich,Pools,2015-02-04,"[' Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']",Pop
-9,Zürich,Steamboat-Switzerland,2015-02-04,"[' Dominik Blum ', ' Marino Pliakas ', ' Lucas Niggli ']",
-10,null,Duach-feat.-Grainne-Hunt,2015-02-04,['Duach feat. Grainne Hunt '],
-11,Zürich,Jazzbaragge-Wednesday-Jam,2015-02-04,"['Jörg Enz ', ' Reinhold Hettich ', ' Jörg Bach ']",
-12,Luzern,Jam-Night-,2015-02-04,"['Claudio Berger ', ' Flurin Iten ', ' Lukas Derungs ', ' Albon ']",
-13,Zürich,Bombino,2015-02-04,"['Bombino ', ' Goumour Almoctar ', ' Dia Djakrave ', ' Avi Salloway ', ' Corey Wilhelm ']",
-14,Bern,Necro,2015-02-04,['Necro '],
-15,Basel,Lisette-Spinnler-Quartet,2015-02-04,"[' Lisette Spinnler ', ' Stefan Aeby ', ' Patrice Moret ', ' Michi Stulz ']",
-16,Wädenswil,Suisse-Diagonales-Jazz,2015-02-04,"[' Florian Favre ', ' Manu Hagmann ', ' Alexandre Maurer ', ' Nicole Johänntgen ', ' Marc Mean ', ' Thomas Lähns ', ' Bodek Janke ']",
-17,Basel,Extrafish,2015-02-04,"[' DJs Valentin Baumgartner ', ' Andi Bissig ', ' Jonas Künzli ', ' Adrian Böckli ']",
-18,Baden,One-of-a-Million,2015-02-04,['Kins '],
-19,Baden,One-of-a-Million,2015-02-04,['Erotic Market '],
+location,event,date,artists,genre
+Zürich,Mittagsmusik,2015-02-04,"['Barbara Böhi ', ' Tobias Cramm ']",Classic
+Basel,Fas(ten)nachtsimpressionen,2015-02-04,['Urs Höchle '],Classic
+Basel,Divers-divertissements-d'hiver,2015-02-04,"[' Susanne Mathé ', ' Isabelle Ladewig ', ' Stella Mahrenholz ', ' Stéphanie Meyer ', ' Jan Schultsz ']",Classic
+Zürich,Tonhalle-Orchester-Zürich,2015-02-04,"[' Hana Blazíková ', ' Tilman Lichdi ', ' Andreas Weller ', ' Klaus Mertens ']",Classic
+Zürich,Stephan-Schmidt-und-I-Tempi,2015-02-04,[' Stephan Schmidt '],Classic
+Baden,One-of-a-Million,2015-02-04,['Neøv '],
+Basel,Atmosphères,2015-02-04,[' Francesco Piemontesi '],Classic
+Luzern,Sinfoniekonzert,2015-02-04,[' Rafa Blechacz '],Classic
+Zürich,Pools,2015-02-04,"[' Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']",Pop
+Zürich,Steamboat-Switzerland,2015-02-04,"[' Dominik Blum ', ' Marino Pliakas ', ' Lucas Niggli ']",
+null,Duach-feat.-Grainne-Hunt,2015-02-04,['Duach feat. Grainne Hunt '],
+Zürich,Jazzbaragge-Wednesday-Jam,2015-02-04,"['Jörg Enz ', ' Reinhold Hettich ', ' Jörg Bach ']",
+Luzern,Jam-Night-,2015-02-04,"['Claudio Berger ', ' Flurin Iten ', ' Lukas Derungs ', ' Albon ']",
+Zürich,Bombino,2015-02-04,"['Bombino ', ' Goumour Almoctar ', ' Dia Djakrave ', ' Avi Salloway ', ' Corey Wilhelm ']",
+Bern,Necro,2015-02-04,['Necro '],
+Basel,Lisette-Spinnler-Quartet,2015-02-04,"[' Lisette Spinnler ', ' Stefan Aeby ', ' Patrice Moret ', ' Michi Stulz ']",
+Wädenswil,Suisse-Diagonales-Jazz,2015-02-04,"[' Florian Favre ', ' Manu Hagmann ', ' Alexandre Maurer ', ' Nicole Johänntgen ', ' Marc Mean ', ' Thomas Lähns ', ' Bodek Janke ']",
+Basel,Extrafish,2015-02-04,"[' DJs Valentin Baumgartner ', ' Andi Bissig ', ' Jonas Künzli ', ' Adrian Böckli ']",
+Baden,One-of-a-Million,2015-02-04,['Kins '],
+Baden,One-of-a-Million,2015-02-04,['Erotic Market '],

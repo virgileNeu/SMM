@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,Zürich,Mittagsmusik,2016-01-13,"['Christina Daletska ', ' Walter Prossnitz ']",Classic
-1,Zürich,Werner-und-Company,2016-01-13,['Werner und Company '],Pop
-2,Basel,Coop-Sinfoniekonzert,2016-01-13,[' Boris Giltburg '],Classic
-3,Luzern,Königin-von-Saba-&-Schelomo,2016-01-13,['Gautier Capuçon '],Classic
-4,Herisau,Konzert,2016-01-13,['Guarneri Trio '],Classic
-5,Winterthur,Jazz-am-Mittwoch,2016-01-13,"[' Christoph Baumann ', ' Jacques Siron ', ' Dieter Ulrich ']",
-6,Winterthur,Ursina-Giger-&-Ghost-Town-Trio,2016-01-13,"[' Ursina Giger ', ' Urs Vögeli ', ' Claude Meier ', ' Lukas Mantel ']",
-7,Basel,Jazzcampus-Session,2016-01-13,"[' Wolfgang Muthspiel ', ' Larry Grenadier ', ' Jeff Ballard ']",
-8,Basel,Nolan-Quinn,2016-01-13,"[' Nolan Quinn ', ' Jonathan Maag ', ' Oliver Illi ', ' Simon Quinn ', ' Brian Quinn ']",
-9,Zürich,Linz-Luzern-Ensemble,2016-01-13,"[' Despina Corrazza ', ' Kuus Kan ', ' Noah Arnold ', ' Astrid Wiesingeras ', ' Stepan Flagar ']",
-10,Bern,Plaistow,2016-01-13,"[' Johann Bourquenez ', ' Vincent Ruiz ', ' Cyril Bondi ']",
-11,Zürich,Bukowski,2016-01-13,['Jakob Hummel '],Pop
-12,Basel,Dilly-Dally,2016-01-13,['Dilly Dally '],
+location,event,date,artists,genre
+Zürich,Mittagsmusik,2016-01-13,"['Christina Daletska ', ' Walter Prossnitz ']",Classic
+Zürich,Werner-und-Company,2016-01-13,['Werner und Company '],Pop
+Basel,Coop-Sinfoniekonzert,2016-01-13,[' Boris Giltburg '],Classic
+Luzern,Königin-von-Saba-&-Schelomo,2016-01-13,['Gautier Capuçon '],Classic
+Herisau,Konzert,2016-01-13,['Guarneri Trio '],Classic
+Winterthur,Jazz-am-Mittwoch,2016-01-13,"[' Christoph Baumann ', ' Jacques Siron ', ' Dieter Ulrich ']",
+Winterthur,Ursina-Giger-&-Ghost-Town-Trio,2016-01-13,"[' Ursina Giger ', ' Urs Vögeli ', ' Claude Meier ', ' Lukas Mantel ']",
+Basel,Jazzcampus-Session,2016-01-13,"[' Wolfgang Muthspiel ', ' Larry Grenadier ', ' Jeff Ballard ']",
+Basel,Nolan-Quinn,2016-01-13,"[' Nolan Quinn ', ' Jonathan Maag ', ' Oliver Illi ', ' Simon Quinn ', ' Brian Quinn ']",
+Zürich,Linz-Luzern-Ensemble,2016-01-13,"[' Despina Corrazza ', ' Kuus Kan ', ' Noah Arnold ', ' Astrid Wiesingeras ', ' Stepan Flagar ']",
+Bern,Plaistow,2016-01-13,"[' Johann Bourquenez ', ' Vincent Ruiz ', ' Cyril Bondi ']",
+Zürich,Bukowski,2016-01-13,['Jakob Hummel '],Pop
+Basel,Dilly-Dally,2016-01-13,['Dilly Dally '],

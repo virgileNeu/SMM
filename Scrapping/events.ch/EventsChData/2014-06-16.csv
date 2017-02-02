@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,Basel,Bachelorrezital,2014-06-16,[' Zsuzsa Lakatos '],Classic
-1,Basel,Masterrezital,2014-06-16,[' Lászlo Villányi '],Classic
-2,Basel,Bachelorrezital,2014-06-16,[' Orfeas Hiratos '],Classic
-3,Basel,Masterrezital,2014-06-16,[' Kevin Austin '],Classic
-4,Basel,Masterrezital,2014-06-16,[' Maria Shabashova '],Classic
-5,Basel,Masterrezital,2014-06-16,[' José Andrés Fernández '],Classic
-6,Zürich,Newcomer,2014-06-16,"[' Christoph Brunner ', ' Jacqueline Ott ', ' works by Mauro Hertig ']",Classic
-7,Basel,Masterrezital,2014-06-16,[' Stojan Krkuleski '],Classic
-8,Zürich,Happy-Monday,2014-06-16,"[' Ernst Wirz ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' Gary Scott ']",
-9,null,Bob-Wayne,2014-06-16,['Bob Wayne '],
-10,Basel,Masterrezital,2014-06-16,[' Francesca Benetti '],Classic
-11,Zürich,Charles-Lloyd-Quartet,2014-06-16,"['Charles Lloyd Quartet ', ' Charles Lloyd ', ' Gerald Clayton ', ' Joe Sanders ', ' Gerald Cleaver ']",
-12,Winterthur,Fredrik-Kinbom,2014-06-16,"['Fredrik Kinbom ', ' Sam Walker ']",
+location,event,date,artists,genre
+Basel,Bachelorrezital,2014-06-16,[' Zsuzsa Lakatos '],Classic
+Basel,Masterrezital,2014-06-16,[' Lászlo Villányi '],Classic
+Basel,Bachelorrezital,2014-06-16,[' Orfeas Hiratos '],Classic
+Basel,Masterrezital,2014-06-16,[' Kevin Austin '],Classic
+Basel,Masterrezital,2014-06-16,[' Maria Shabashova '],Classic
+Basel,Masterrezital,2014-06-16,[' José Andrés Fernández '],Classic
+Zürich,Newcomer,2014-06-16,"[' Christoph Brunner ', ' Jacqueline Ott ', ' works by Mauro Hertig ']",Classic
+Basel,Masterrezital,2014-06-16,[' Stojan Krkuleski '],Classic
+Zürich,Happy-Monday,2014-06-16,"[' Ernst Wirz ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' Gary Scott ']",
+null,Bob-Wayne,2014-06-16,['Bob Wayne '],
+Basel,Masterrezital,2014-06-16,[' Francesca Benetti '],Classic
+Zürich,Charles-Lloyd-Quartet,2014-06-16,"['Charles Lloyd Quartet ', ' Charles Lloyd ', ' Gerald Clayton ', ' Joe Sanders ', ' Gerald Cleaver ']",
+Winterthur,Fredrik-Kinbom,2014-06-16,"['Fredrik Kinbom ', ' Sam Walker ']",

@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Zürich,Dave-Ruosch-Trio,2014-12-09,"[' Dave Ruosch ', ' Kalli Gerhards ', ' Martin Meyer ']",
-1,Baden,After-Work-Music-Nacht-Tanz,2014-12-09,"['Eliane Koradi-Zweifel ', ' Nathalie Laesser-Zweifel ']",Classic
-2,Zürich,Parkway-Drive,2014-12-09,"['Parkway Drive ', ' Heaven Shall Burn ', ' support: Carnifex ', ' Northlane ']",
-3,Lausanne,Salt-Cathedral,2014-12-09,['Salt Cathedral '],Pop
-4,Zürich,Konzert,2014-12-09,"[' Tine Thing Helseth ', ' Rudolf Kelterborn ']",Classic
-5,Bern,Rezital,2014-12-09,['Mikhail Pletnev '],Classic
-6,Zürich,Mara-Aranda-I-Solatge,2014-12-09,['Mara Aranda I Solatge '],
-7,Zürich,Konzert,2014-12-09,"[' works by Demetre Gamsachurdia ', ' Junghae Lee ', ' Anna Korsun ']",Classic
-8,Zürich,Trio-Aaron-Goldberg,2014-12-09,"['Trio Aaron Goldberg ', ' Aaron Goldberg ', ' Reuben Rogers ', ' Eric Harland ']",
-9,Pratteln,Deicide,2014-12-09,['Deicide '],
-10,Zürich,Bassquartett,2014-12-09,"[' Peter K Frey ', ' Jan Schlegel ', ' Daniel Studer ', ' Christian Weber ']",
-11,Basel,Asmin,2014-12-09,"[' Gregor Frei ', ' Ran Wehrli ', ' Dave Gisler ', ' Pascal Ujak ', ' Maxime Paratte ']",
-12,Luzern,Workshopkonzerte-Jazz,2014-12-09,"[' Franz Gehrig ', ' Emilio Vidal Pons ', ' Xavier Almeida ', ' Pirmin Huber ', ' Nicolas Struchen ']",
-13,Zürich,Lars-Lindvall-Big-Band,2014-12-09,"['Lars Lindvall Big Band ', ' Lars Lindvall ', ' John Voirol ', ' Niko Seibold ', ' Christian Schütz ', ' Fabian Willmann ', ' Otmar Kramis ']",
-14,Basel,Quinteros-Descarga,2014-12-09,"[' Yosvany Quintero ', ' Hannes Fankhauser ', ' Benjamin Brodbeck ']",
-15,null,Boy-&-Bear,2014-12-09,"['Boy & Bear ', ' Dancing Years ']",
+location,event,date,artists,genre
+Zürich,Dave-Ruosch-Trio,2014-12-09,"[' Dave Ruosch ', ' Kalli Gerhards ', ' Martin Meyer ']",
+Baden,After-Work-Music-Nacht-Tanz,2014-12-09,"['Eliane Koradi-Zweifel ', ' Nathalie Laesser-Zweifel ']",Classic
+Zürich,Parkway-Drive,2014-12-09,"['Parkway Drive ', ' Heaven Shall Burn ', ' support: Carnifex ', ' Northlane ']",
+Lausanne,Salt-Cathedral,2014-12-09,['Salt Cathedral '],Pop
+Zürich,Konzert,2014-12-09,"[' Tine Thing Helseth ', ' Rudolf Kelterborn ']",Classic
+Bern,Rezital,2014-12-09,['Mikhail Pletnev '],Classic
+Zürich,Mara-Aranda-I-Solatge,2014-12-09,['Mara Aranda I Solatge '],
+Zürich,Konzert,2014-12-09,"[' works by Demetre Gamsachurdia ', ' Junghae Lee ', ' Anna Korsun ']",Classic
+Zürich,Trio-Aaron-Goldberg,2014-12-09,"['Trio Aaron Goldberg ', ' Aaron Goldberg ', ' Reuben Rogers ', ' Eric Harland ']",
+Pratteln,Deicide,2014-12-09,['Deicide '],
+Zürich,Bassquartett,2014-12-09,"[' Peter K Frey ', ' Jan Schlegel ', ' Daniel Studer ', ' Christian Weber ']",
+Basel,Asmin,2014-12-09,"[' Gregor Frei ', ' Ran Wehrli ', ' Dave Gisler ', ' Pascal Ujak ', ' Maxime Paratte ']",
+Luzern,Workshopkonzerte-Jazz,2014-12-09,"[' Franz Gehrig ', ' Emilio Vidal Pons ', ' Xavier Almeida ', ' Pirmin Huber ', ' Nicolas Struchen ']",
+Zürich,Lars-Lindvall-Big-Band,2014-12-09,"['Lars Lindvall Big Band ', ' Lars Lindvall ', ' John Voirol ', ' Niko Seibold ', ' Christian Schütz ', ' Fabian Willmann ', ' Otmar Kramis ']",
+Basel,Quinteros-Descarga,2014-12-09,"[' Yosvany Quintero ', ' Hannes Fankhauser ', ' Benjamin Brodbeck ']",
+null,Boy-&-Bear,2014-12-09,"['Boy & Bear ', ' Dancing Years ']",

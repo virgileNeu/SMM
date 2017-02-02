@@ -1,44 +1,44 @@
-,location,event,date,artists,genre
-0,Luzern,Easy-Pop-Melodies,2013-05-03,['Christian Mettler '],Pop
-1,Basel,Orgelspiel-zum-Feierabend,2013-05-03,['Benedikt Rudolf von Rohr '],Classic
-2,Dietikon,Feierabendmusik-in-der-Kirche,2013-05-03,"['Luigi Cannistrà ', ' Bernhard Hörler ']",Classic
-3,Zürich,Ein-Duo-im-Sturm,2013-05-03,"[' Fabio Di Càsola ', ' Alena Cherny ']",Classic
-4,Zürich,Bodo-Maier-Trio,2013-05-03,"[' Bodo Maier ', ' Mat Baldinger', ' Marco Nenniger ']",
-5,Basel,Konzert,2013-05-03,"['Sebastian Mariño Leon ', ' Ricardo Simian ', ' Silke Gwendolyn Schulze ']",Classic
-6,Bern,Internationales-Jazzfestival-Bern,2013-05-03,"['Philip Catherine Quartet ', ' Philip Catherine ', ' Nicola Andrioli ', ' Philippe Aerts ', ' Antoine Pierre ', ' Didier Lockwood ', ' Frank Vignola ']",
-7,Basel,Collegium-Musicum-Basel,2013-05-03,"['Toebi Tobler ', ' Eliana Burki ']",Classic
-8,Zürich,Broadway-in-Zurich,2013-05-03,"[' Miriam Clark ', ' Sonja Leutwyler ', ' Robin Adams ']",Classic
-9,Zürich,The-Australian-Pink-Floyd,2013-05-03,['The Australian Pink Floyd '],
-10,Uster,Myrah,2013-05-03,['Myrah '],
-11,null,Harfe-Violine-Visuelles,2013-05-03,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-12,null,Spira-mirabilis,2013-05-03,"['Lorenza Borrani ', ' Timoti Fregni ', ' Simone Jandl ', ' Luise Buchberger ', ' Ursina Braun ']",Classic
-13,Winterthur,Yar-P,2013-05-03,['Yar-P '],Pop
-14,Basel,UpJazz,2013-05-03,"['Jörg Hurter ', ' Christian Gutfleisch ', ' Johannes Gutfleisch ', ' Florian Döhling ']",
-15,Basel,Jazzfestival-Basel,2013-05-03,['Eric Bibb '],
-16,Basel,Argentinazo,2013-05-03,"[' Ricardo Herrera ', ' Irma Gross ', ' Pablo Allende Ferranti ']",
-17,Winterthur,Yutaka-Shiina-Quintet,2013-05-03,"[' Yutaka Shiina ', ' Gabriel Dalvit ', ' Thomas Lüthi ', ' Dominique Girod ', ' Lionel Boccara ']",
-18,Liebefeld,Feigenwinter-Moreira-Schärli,2013-05-03,"[' Hans Feigenwinter ', ' Juarez Moreira ', ' Peter Schärli ']",
-19,Winterthur,Incantation,2013-05-03,"['Incantation ', ' Supreme Lord ', ' Mercyless ', ' Nervochaos ']",
-20,Bern,AC4,2013-05-03,['AC4 '],
-21,Stäfa,Tabea-Anderfuhren-feat.-Derrick-T.-Harris,2013-05-03,['Tabea Anderfuhren feat. Derrick T. Harris '],
-22,Basel,Gino-Sitson-4,2013-05-03,"[' Gino Sitson ', ' Carine Bonnefoy ', ' Felipe Cabrera ', ' Denis Tchangou ']",
-23,Aarau,Marcia-Griffiths,2013-05-03,['Marcia Griffiths '],
-24,null,China-Moses-&-Raphael-Lemonnier-Quartet,2013-05-03,"[' China Moses ', ' Raphaël Lemonnier ', ' Fabien Marcoz ', ' Jean-Pierre Derouard ']",
-25,Zürich,Snowville,2013-05-03,['Snowville '],Pop
-26,Zürich,Giovanni-Zarrella,2013-05-03,['Giovanni Zarrella '],Pop
-27,Thun,Heisskalt,2013-05-03,['Heisskalt '],
-28,Reitschule-Dachstock,Bern,2013-05-03,['Steff La Cheffe '],
-29,Reitschule-Dachstock,Bern,2013-05-03,['Steff la Cheffe '],
-30,Bern,Back-to-the-Roots,2013-05-03,['Hank Davison '],
-31,Zürich,Philipp-Saner-Trio,2013-05-03,"[' Philipp Saner ', ' Raphael Walser ', ' Ramón Oliveras ']",
-32,Luzern,Amplifier,2013-05-03,['Amplifier '],
-33,Münchenstein,Evening-Hymns,2013-05-03,['Evening Hymns '],Pop
-34,Lausanne,Robert-Poss-&-Susan-Stenger,2013-05-03,['Works by Phill Niblock '],Classic
-35,Usine,null,2013-05-03,"[' Three Second Kiss ', ' Micah Gaugh Trio ']",
-36,Bern,Internationales-Jazzfestival-Bern,2013-05-03,"['Philip Catherine Quartet ', ' Philip Catherine ', ' Nicola Andrioli ', ' Philippe Aerts ', ' Antoine Pierre ', ' Didier Lockwood ', ' Frank Vignola ']",
-37,Zürich,Bukahara-Trio,2013-05-03,['Bukahara Trio '],
-38,Tap-Tab-Musikraum,Schaffhausen,2013-05-03,"['Fenster ', ' Lonely Crowd ']",
-39,Zürich,Eszter's-Laboratory,2013-05-03,"[' Eszter Munkácsy ', ' Silvan Schmid ', ' Lukas Bruegger ', ' Raphael Jost ', ' Colin Morton ', ' Roberto Carella ']",
-40,Kammgarn,Schaffhausen,2013-05-03,['Kool Savas feat. Sir Jai '],
-41,Solothurn,Riverboat-Gamblers,2013-05-03,"['Riverboat Gamblers ', ' Far From Finished ']",
-42,Lyss,Ilarius-feat.-Lo-&-Leduc,2013-05-03,['Ilarius feat. Lo & Leduc '],
+location,event,date,artists,genre
+Luzern,Easy-Pop-Melodies,2013-05-03,['Christian Mettler '],Pop
+Basel,Orgelspiel-zum-Feierabend,2013-05-03,['Benedikt Rudolf von Rohr '],Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2013-05-03,"['Luigi Cannistrà ', ' Bernhard Hörler ']",Classic
+Zürich,Ein-Duo-im-Sturm,2013-05-03,"[' Fabio Di Càsola ', ' Alena Cherny ']",Classic
+Zürich,Bodo-Maier-Trio,2013-05-03,"[' Bodo Maier ', ' Mat Baldinger', ' Marco Nenniger ']",
+Basel,Konzert,2013-05-03,"['Sebastian Mariño Leon ', ' Ricardo Simian ', ' Silke Gwendolyn Schulze ']",Classic
+Bern,Internationales-Jazzfestival-Bern,2013-05-03,"['Philip Catherine Quartet ', ' Philip Catherine ', ' Nicola Andrioli ', ' Philippe Aerts ', ' Antoine Pierre ', ' Didier Lockwood ', ' Frank Vignola ']",
+Basel,Collegium-Musicum-Basel,2013-05-03,"['Toebi Tobler ', ' Eliana Burki ']",Classic
+Zürich,Broadway-in-Zurich,2013-05-03,"[' Miriam Clark ', ' Sonja Leutwyler ', ' Robin Adams ']",Classic
+Zürich,The-Australian-Pink-Floyd,2013-05-03,['The Australian Pink Floyd '],
+Uster,Myrah,2013-05-03,['Myrah '],
+null,Harfe-Violine-Visuelles,2013-05-03,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
+null,Spira-mirabilis,2013-05-03,"['Lorenza Borrani ', ' Timoti Fregni ', ' Simone Jandl ', ' Luise Buchberger ', ' Ursina Braun ']",Classic
+Winterthur,Yar-P,2013-05-03,['Yar-P '],Pop
+Basel,UpJazz,2013-05-03,"['Jörg Hurter ', ' Christian Gutfleisch ', ' Johannes Gutfleisch ', ' Florian Döhling ']",
+Basel,Jazzfestival-Basel,2013-05-03,['Eric Bibb '],
+Basel,Argentinazo,2013-05-03,"[' Ricardo Herrera ', ' Irma Gross ', ' Pablo Allende Ferranti ']",
+Winterthur,Yutaka-Shiina-Quintet,2013-05-03,"[' Yutaka Shiina ', ' Gabriel Dalvit ', ' Thomas Lüthi ', ' Dominique Girod ', ' Lionel Boccara ']",
+Liebefeld,Feigenwinter-Moreira-Schärli,2013-05-03,"[' Hans Feigenwinter ', ' Juarez Moreira ', ' Peter Schärli ']",
+Winterthur,Incantation,2013-05-03,"['Incantation ', ' Supreme Lord ', ' Mercyless ', ' Nervochaos ']",
+Bern,AC4,2013-05-03,['AC4 '],
+Stäfa,Tabea-Anderfuhren-feat.-Derrick-T.-Harris,2013-05-03,['Tabea Anderfuhren feat. Derrick T. Harris '],
+Basel,Gino-Sitson-4,2013-05-03,"[' Gino Sitson ', ' Carine Bonnefoy ', ' Felipe Cabrera ', ' Denis Tchangou ']",
+Aarau,Marcia-Griffiths,2013-05-03,['Marcia Griffiths '],
+null,China-Moses-&-Raphael-Lemonnier-Quartet,2013-05-03,"[' China Moses ', ' Raphaël Lemonnier ', ' Fabien Marcoz ', ' Jean-Pierre Derouard ']",
+Zürich,Snowville,2013-05-03,['Snowville '],Pop
+Zürich,Giovanni-Zarrella,2013-05-03,['Giovanni Zarrella '],Pop
+Thun,Heisskalt,2013-05-03,['Heisskalt '],
+Reitschule-Dachstock,Bern,2013-05-03,['Steff La Cheffe '],
+Reitschule-Dachstock,Bern,2013-05-03,['Steff la Cheffe '],
+Bern,Back-to-the-Roots,2013-05-03,['Hank Davison '],
+Zürich,Philipp-Saner-Trio,2013-05-03,"[' Philipp Saner ', ' Raphael Walser ', ' Ramón Oliveras ']",
+Luzern,Amplifier,2013-05-03,['Amplifier '],
+Münchenstein,Evening-Hymns,2013-05-03,['Evening Hymns '],Pop
+Lausanne,Robert-Poss-&-Susan-Stenger,2013-05-03,['Works by Phill Niblock '],Classic
+Usine,null,2013-05-03,"[' Three Second Kiss ', ' Micah Gaugh Trio ']",
+Bern,Internationales-Jazzfestival-Bern,2013-05-03,"['Philip Catherine Quartet ', ' Philip Catherine ', ' Nicola Andrioli ', ' Philippe Aerts ', ' Antoine Pierre ', ' Didier Lockwood ', ' Frank Vignola ']",
+Zürich,Bukahara-Trio,2013-05-03,['Bukahara Trio '],
+Tap-Tab-Musikraum,Schaffhausen,2013-05-03,"['Fenster ', ' Lonely Crowd ']",
+Zürich,Eszter's-Laboratory,2013-05-03,"[' Eszter Munkácsy ', ' Silvan Schmid ', ' Lukas Bruegger ', ' Raphael Jost ', ' Colin Morton ', ' Roberto Carella ']",
+Kammgarn,Schaffhausen,2013-05-03,['Kool Savas feat. Sir Jai '],
+Solothurn,Riverboat-Gamblers,2013-05-03,"['Riverboat Gamblers ', ' Far From Finished ']",
+Lyss,Ilarius-feat.-Lo-&-Leduc,2013-05-03,['Ilarius feat. Lo & Leduc '],

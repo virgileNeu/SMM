@@ -1,35 +1,35 @@
-,location,event,date,artists,genre
-0,Aarau,Torch-(D),2015-09-05,['Torch '],
-1,Gstaad,Gstaad-Menuhin-Festival-Matinée-des-jeunes-étoiles-VII,2015-09-05,['Elmar Gasanov '],Classic
-2,Locarno,Settimane-musicali-di-Ascona,2015-09-05,['Christian Ihle Hadland '],Classic
-3,Basel,Orgelmusik-über-Mittag,2015-09-05,['Andreas Liebig '],Classic
-4,Basel,JKF-Jugendkulturfestival,2015-09-05,['Otto Normal '],Pop
-5,Basel,Schillerstrassen-Fest,2015-09-05,"['Christine Simolka ', ' René Wohlhauser ']",
-6,Bern,Musikfestival-Bern-Die-Schöpfung,2015-09-05,"[' Verena Krause ', ' Hans-Jürg Rickenbacher ', ' Martin Snell ']",Classic
-7,Bern,Musikfestival-Bern-Luft-von-anderen-Planeten,2015-09-05,[' Evgenia Grekova '],Classic
-8,Bern,Energy-Air,2015-09-05,"['Hurts ', ' Sido ', ' Culcha Candela ']",Pop
-9,Veyras,Tohu-Bohu-Festival,2015-09-05,"['Youssoupha ', ' Blitz The Ambassador ', ' Shantel ']",
-10,Basel,Concerts-Aurore-Basel,2015-09-05,"['Debora Büttner ', ' Diego Ares ']",Classic
-11,Zürich,Mosh-36,2015-09-05,['Mosh 36 '],
-12,Vevey,Septembre-musical,2015-09-05,[' Lauréat du XV Concours international Tschaikowsi '],Classic
-13,Gstaad,Gstaad-Menuhin-Festival-Grosse-Sinfonie,2015-09-05,[' Nikolaj Znaider '],Classic
-14,Basel,CD-Taufe-'Hey-you'-lucky-the-girl,2015-09-05,"['Lucky-the-girl ', ' Nafir Szilagyi ', ' Rainer Schudel ', ' Marco Schudel ']",Pop
-15,Interlaken,Kodaline,2015-09-05,['Kodaline '],Pop
-16,Dübendorf,Chrüz-&-quär,2015-09-05,"[' Alcides Toirac ', ' Roberto Haçaturyan ', ' Simone Santos ', ' Amik Guerra ']",
-17,Allschwil,Gwilym-Simcock-&-Yuri-Goloubev-Reverie-at-Schloss-Elmau,2015-09-05,"['Gwilym Simcock ', ' Yuri Goloubev ']",
-18,Palais-des-Congrès,null,2015-09-05,[' Pascal Rogé '],Classic
-19,Zürich,Bendorim,2015-09-05,"[' Karin Meier ', ' Dela Hüttner ', ' Jürg Luchsinger ', ' Stefanie Kunckler ']",
-20,Basel,JKF-Jugendkulturfestival,2015-09-05,"['Ricardo Fiuza Grupo e convidados ', ' Viviane De Farias ', ' Tony Lakatos ', ' Ricardo Fiuza ', ' João Luis Nogueira ', ' Mauro Martins ', ' Bodek Janke ']",
-21,Baden,Black-Briquettes-Blues-Corporation,2015-09-05,"[' Urs Bätschmann ', ' Heinz Luggen ', ' Urs Bolliger ', ' Heinz Sager ', ' Rolf Ryter ', ' Andrea Knecht ']",
-22,Basel,Four-Square,2015-09-05,"[' Fabian Willmann ', ' Luca Pusch ', ' Pau Lligadas ', ' Arthur Vonfelt ']",
-23,Bern,Mättu-Röthlisberger,2015-09-05,['Mättu Röthlisberger '],Pop
-24,Aarburg,Fler-abgesagt,2015-09-05,['Fler '],
-25,Ins,Simon-&-Band(e),2015-09-05,['Simon & Band'],
-26,Cham,10-Jahre-Live-in-Cham,2015-09-05,['JJ Rosa '],Pop
-27,Ins,Simon-&-Band(e),2015-09-05,['Simon & Band'],
-28,Watt,Watterfäscht,2015-09-05,"[""Rockin' Carbonara ""]",
-29,Lyss,Cotton-Claw,2015-09-05,['Cotton Claw '],Electronic
-30,Bern,Sonic-Movements,2015-09-05,"['Sujay Bobade ', ' Don Li ']",
-31,Basel,Rat-Columns,2015-09-05,['Rat Columns '],
-32,Zürich,John-Daly,2015-09-05,['John Daly '],Electronic
-33,Lausanne,The-Juan-Maclean,2015-09-05,['The Juan Maclean '],Electronic
+location,event,date,artists,genre
+Aarau,Torch-(D),2015-09-05,['Torch '],
+Gstaad,Gstaad-Menuhin-Festival-Matinée-des-jeunes-étoiles-VII,2015-09-05,['Elmar Gasanov '],Classic
+Locarno,Settimane-musicali-di-Ascona,2015-09-05,['Christian Ihle Hadland '],Classic
+Basel,Orgelmusik-über-Mittag,2015-09-05,['Andreas Liebig '],Classic
+Basel,JKF-Jugendkulturfestival,2015-09-05,['Otto Normal '],Pop
+Basel,Schillerstrassen-Fest,2015-09-05,"['Christine Simolka ', ' René Wohlhauser ']",
+Bern,Musikfestival-Bern-Die-Schöpfung,2015-09-05,"[' Verena Krause ', ' Hans-Jürg Rickenbacher ', ' Martin Snell ']",Classic
+Bern,Musikfestival-Bern-Luft-von-anderen-Planeten,2015-09-05,[' Evgenia Grekova '],Classic
+Bern,Energy-Air,2015-09-05,"['Hurts ', ' Sido ', ' Culcha Candela ']",Pop
+Veyras,Tohu-Bohu-Festival,2015-09-05,"['Youssoupha ', ' Blitz The Ambassador ', ' Shantel ']",
+Basel,Concerts-Aurore-Basel,2015-09-05,"['Debora Büttner ', ' Diego Ares ']",Classic
+Zürich,Mosh-36,2015-09-05,['Mosh 36 '],
+Vevey,Septembre-musical,2015-09-05,[' Lauréat du XV Concours international Tschaikowsi '],Classic
+Gstaad,Gstaad-Menuhin-Festival-Grosse-Sinfonie,2015-09-05,[' Nikolaj Znaider '],Classic
+Basel,CD-Taufe-'Hey-you'-lucky-the-girl,2015-09-05,"['Lucky-the-girl ', ' Nafir Szilagyi ', ' Rainer Schudel ', ' Marco Schudel ']",Pop
+Interlaken,Kodaline,2015-09-05,['Kodaline '],Pop
+Dübendorf,Chrüz-&-quär,2015-09-05,"[' Alcides Toirac ', ' Roberto Haçaturyan ', ' Simone Santos ', ' Amik Guerra ']",
+Allschwil,Gwilym-Simcock-&-Yuri-Goloubev-Reverie-at-Schloss-Elmau,2015-09-05,"['Gwilym Simcock ', ' Yuri Goloubev ']",
+Palais-des-Congrès,null,2015-09-05,[' Pascal Rogé '],Classic
+Zürich,Bendorim,2015-09-05,"[' Karin Meier ', ' Dela Hüttner ', ' Jürg Luchsinger ', ' Stefanie Kunckler ']",
+Basel,JKF-Jugendkulturfestival,2015-09-05,"['Ricardo Fiuza Grupo e convidados ', ' Viviane De Farias ', ' Tony Lakatos ', ' Ricardo Fiuza ', ' João Luis Nogueira ', ' Mauro Martins ', ' Bodek Janke ']",
+Baden,Black-Briquettes-Blues-Corporation,2015-09-05,"[' Urs Bätschmann ', ' Heinz Luggen ', ' Urs Bolliger ', ' Heinz Sager ', ' Rolf Ryter ', ' Andrea Knecht ']",
+Basel,Four-Square,2015-09-05,"[' Fabian Willmann ', ' Luca Pusch ', ' Pau Lligadas ', ' Arthur Vonfelt ']",
+Bern,Mättu-Röthlisberger,2015-09-05,['Mättu Röthlisberger '],Pop
+Aarburg,Fler-abgesagt,2015-09-05,['Fler '],
+Ins,Simon-&-Band(e),2015-09-05,['Simon & Band'],
+Cham,10-Jahre-Live-in-Cham,2015-09-05,['JJ Rosa '],Pop
+Ins,Simon-&-Band(e),2015-09-05,['Simon & Band'],
+Watt,Watterfäscht,2015-09-05,"[""Rockin' Carbonara ""]",
+Lyss,Cotton-Claw,2015-09-05,['Cotton Claw '],Electronic
+Bern,Sonic-Movements,2015-09-05,"['Sujay Bobade ', ' Don Li ']",
+Basel,Rat-Columns,2015-09-05,['Rat Columns '],
+Zürich,John-Daly,2015-09-05,['John Daly '],Electronic
+Lausanne,The-Juan-Maclean,2015-09-05,['The Juan Maclean '],Electronic

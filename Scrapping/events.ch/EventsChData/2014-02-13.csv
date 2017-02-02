@@ -1,35 +1,35 @@
-,location,event,date,artists,genre
-0,Bern,Hammer-Sichel-Unruh,2014-02-13,"[' Martin Haegler ', ' Luca Kvasnicka ', ' Gilbert Paeffgen ', ' Marc Ramser ']",
-1,Baden,After-Work,2014-02-13,"[' Luciana Gabriela Miguel ', ' Amadeo Zunino ']",
-2,Pratteln,Behemoth,2014-02-13,"['Behemoth ', ' Cradle of Filth ']",
-3,Zürich,Viza,2014-02-13,['Viza '],
-4,Zürich,Vereinigtes-Orchesterkonzert,2014-02-13,[' Lawrence Power '],Classic
-5,Zürich,Thursday-Night-Jazz,2014-02-13,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-6,Zürich,Alma-Mahler-der-Salon-der-Moderne,2014-02-13,"['Monique Fragnière ', ' Katarzyna Rzymska ']",Pop
-7,Luzern,Chopin-1,2014-02-13,[' Alexander Melnikov '],Classic
-8,Zürich,Internationales-Country-Music-Festival,2014-02-13,"['Mustang Sally ', ' Lennrockers ']",
-9,Luzern,Kaki-King,2014-02-13,['Kaki King '],
-10,Bern,Sinfoniekonzert,2014-02-13,"[' Andreas Janke ', ' Gilad Karni ']",Classic
-11,Zürich,Long-Distance-Calling,2014-02-13,"['Long Distance Calling ', ' Junius ', ' Wolves Like Us ']",
-12,Zürich,La-notte-italiana,2014-02-13,[' Cristian Lanza '],Classic
-13,Liestal,Verdi-Gala,2014-02-13,"[' Jeanne Pascale ', ' Michael Pavlu ']",Classic
-14,Bern,Horazul,2014-02-13,"[' Sabin Amman ', ' João Almeida ', ' Tom Peterlunger ', ' Stefan Kistler ']",
-15,Luzern,Salonmusik,2014-02-13,"['Martin Schaefer ', ' Richard Decker ']",Classic
-16,null,The-Gladiators-feat.-Droop-Lion,2014-02-13,['The Gladiators feat. Droop Lion '],
-17,Baden,Jazz-Rice-Performance,2014-02-13,"[' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-18,Baden,Brendan-Adams,2014-02-13,['Brendan Adams '],
-19,Wädenswil,So-begann-es,2014-02-13,"[' Verena Fischer ', ' Katharina Suske ', ' Leila Schayegh ', ' Bernhard Maurer ', ' Vital Julian Frey ']",Classic
-20,Thun,Chamito,2014-02-13,['Chamito '],
-21,Basel,Matthias-Tschopp-Quartet,2014-02-13,"[' Matthias Tschopp ', ' Yves Theiler ', ' Raffaele Bossard ', ' Alex Huber ']",
-22,Uster,Pools,2014-02-13,"[' Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']",
-23,Bern,Call-Me-Cat,2014-02-13,['Call Me Cat '],
-24,Zürich,Box-feat.-Black-Cracker-&-Sky-189,2014-02-13,"[' Black Cracker ', ' Sky 189 ', ' Niklaus Hürny ', ' Fabian M. Müller ', ' Kaspar von Grünigen ', ' Alexandre Maurer ']",
-25,Bern,Ikarus,2014-02-13,"[' Stefanie Suhner ', ' Anderas Lareida ', ' Lucca Fries ']",
-26,Vevey,The-Soft-Moon,2014-02-13,['The Soft Moon '],
-27,Zürich,Salsamania,2014-02-13,['DJs Fabrizio Zoro '],
-28,Sankt-Gallen,Connan-Mockasin,2014-02-13,['Connan Mockasin '],
-29,null,Thee-Silver-Mt.-Zion-Memorial-Orchestra,2014-02-13,['Thee Silver Mt. Zion Memorial Orchestra '],
-30,Bern,The-Ploctones,2014-02-13,"['The Ploctones ', ' Efraïm Trujillo ', ' Anton Goudsmit ', ' Jeroen Vierdag ', ' Martijn Vink ']",
-31,Basel,Tera-Melos,2014-02-13,['Tera Melos '],
-32,Luzern,Nachtkonzert-3,2014-02-13,['Alexander Melnikov '],Classic
-33,Pontresina,Los-Terribles-de-Tijuana,2014-02-13,['Los Terribles de Tijuana '],
+location,event,date,artists,genre
+Bern,Hammer-Sichel-Unruh,2014-02-13,"[' Martin Haegler ', ' Luca Kvasnicka ', ' Gilbert Paeffgen ', ' Marc Ramser ']",
+Baden,After-Work,2014-02-13,"[' Luciana Gabriela Miguel ', ' Amadeo Zunino ']",
+Pratteln,Behemoth,2014-02-13,"['Behemoth ', ' Cradle of Filth ']",
+Zürich,Viza,2014-02-13,['Viza '],
+Zürich,Vereinigtes-Orchesterkonzert,2014-02-13,[' Lawrence Power '],Classic
+Zürich,Thursday-Night-Jazz,2014-02-13,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Zürich,Alma-Mahler-der-Salon-der-Moderne,2014-02-13,"['Monique Fragnière ', ' Katarzyna Rzymska ']",Pop
+Luzern,Chopin-1,2014-02-13,[' Alexander Melnikov '],Classic
+Zürich,Internationales-Country-Music-Festival,2014-02-13,"['Mustang Sally ', ' Lennrockers ']",
+Luzern,Kaki-King,2014-02-13,['Kaki King '],
+Bern,Sinfoniekonzert,2014-02-13,"[' Andreas Janke ', ' Gilad Karni ']",Classic
+Zürich,Long-Distance-Calling,2014-02-13,"['Long Distance Calling ', ' Junius ', ' Wolves Like Us ']",
+Zürich,La-notte-italiana,2014-02-13,[' Cristian Lanza '],Classic
+Liestal,Verdi-Gala,2014-02-13,"[' Jeanne Pascale ', ' Michael Pavlu ']",Classic
+Bern,Horazul,2014-02-13,"[' Sabin Amman ', ' João Almeida ', ' Tom Peterlunger ', ' Stefan Kistler ']",
+Luzern,Salonmusik,2014-02-13,"['Martin Schaefer ', ' Richard Decker ']",Classic
+null,The-Gladiators-feat.-Droop-Lion,2014-02-13,['The Gladiators feat. Droop Lion '],
+Baden,Jazz-Rice-Performance,2014-02-13,"[' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
+Baden,Brendan-Adams,2014-02-13,['Brendan Adams '],
+Wädenswil,So-begann-es,2014-02-13,"[' Verena Fischer ', ' Katharina Suske ', ' Leila Schayegh ', ' Bernhard Maurer ', ' Vital Julian Frey ']",Classic
+Thun,Chamito,2014-02-13,['Chamito '],
+Basel,Matthias-Tschopp-Quartet,2014-02-13,"[' Matthias Tschopp ', ' Yves Theiler ', ' Raffaele Bossard ', ' Alex Huber ']",
+Uster,Pools,2014-02-13,"[' Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']",
+Bern,Call-Me-Cat,2014-02-13,['Call Me Cat '],
+Zürich,Box-feat.-Black-Cracker-&-Sky-189,2014-02-13,"[' Black Cracker ', ' Sky 189 ', ' Niklaus Hürny ', ' Fabian M. Müller ', ' Kaspar von Grünigen ', ' Alexandre Maurer ']",
+Bern,Ikarus,2014-02-13,"[' Stefanie Suhner ', ' Anderas Lareida ', ' Lucca Fries ']",
+Vevey,The-Soft-Moon,2014-02-13,['The Soft Moon '],
+Zürich,Salsamania,2014-02-13,['DJs Fabrizio Zoro '],
+Sankt-Gallen,Connan-Mockasin,2014-02-13,['Connan Mockasin '],
+null,Thee-Silver-Mt.-Zion-Memorial-Orchestra,2014-02-13,['Thee Silver Mt. Zion Memorial Orchestra '],
+Bern,The-Ploctones,2014-02-13,"['The Ploctones ', ' Efraïm Trujillo ', ' Anton Goudsmit ', ' Jeroen Vierdag ', ' Martijn Vink ']",
+Basel,Tera-Melos,2014-02-13,['Tera Melos '],
+Luzern,Nachtkonzert-3,2014-02-13,['Alexander Melnikov '],Classic
+Pontresina,Los-Terribles-de-Tijuana,2014-02-13,['Los Terribles de Tijuana '],

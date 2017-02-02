@@ -1,25 +1,25 @@
-,location,event,date,artists,genre
-0,Luzern,Konzert,2013-04-28,"['Sol Gabetta ', ' Bertrand Chamayou ']",Classic
-1,null,Konzert,2013-04-28,[' Miriam Feuersinger '],Classic
-2,Bern,Musikalische-Bilder,2013-04-28,"[' Friedemann Jähnig ', ' Andreas Graf ', ' Eva Lüthi ', ' François Theis ', ' Sandrine Canova ']",Classic
-3,Zug,Traumwelten,2013-04-28,"['Daniel Dodds ', ' Herbert Schuch ']",Classic
-4,Luzern,Zum-Teufel-mit-der-Brücke,2013-04-28,"[' Liliane Glanzmann ', ' Sebastian Lipp ', ' Robert Koller ', ' Luc Bachmann ']",Classic
-5,Schmidrüti,Vom-wundersamen-Krebs-in-Bachens-Bach,2013-04-28,['Annerös Hulliger '],Classic
-6,Rapperswil,Classic-Broadway-&-Operette,2013-04-28,"['John Thade ', ' Nino Chockhonelidze ']",Classic
-7,Luzern,Zum-Teufel-mit-der-Brücke,2013-04-28,"[' Liliane Glanzmann ', ' Sebastian Lipp ', ' Robert Koller ', ' Luc Bachmann ']",Classic
-8,Theater-Stok,Zürich,2013-04-28,"[' Philipp Schaufelberger ', ' Samuel Blaser ', ' Mark Helias ', ' Pierre Favre ']",
-9,-Alte-Kirche,Boswil,2013-04-28,"['Corinne Chapelle ', ' Oliver Schnyder ']",Classic
-10,Aarau,On-a-summer's-day,2013-04-28,"[' Felicitas Erb ', ' Regula Konrad ', ' Anne Schmid ', ' Masako Art ']",Classic
-11,null,Schärli-Meyer,2013-04-28,"[' Marcel Schärli ', ' Gabriel Meyer ']",
-12,Kappel-am-Albis,Musik-und-Wort,2013-04-28,"[' Hans-Jakob Bollinger ', ' Ildikò Sajgò ', ' Susann Landert ', ' Juan Lima ']",Classic
-13,Zürich,Gotik-Bach-Apocalyptica-oder-musikalische-Kontraste,2013-04-28,"[' Anna Buczek Merz ', ' Mari Parz ', ' Seiko Morishita ']",Classic
-14,Basel,El-Calderón,2013-04-28,"[' Alcides Toirac ', ' Amik Guerra ', ' Ohlê Gagneux ', ' Jorge-Luís Gonzalez ', ' Leonardo Salazar ', ' Sebastien Gagneux ', ' Lizandro Paredes ']",
-15,Salzhaus-Brugg,null,2013-04-28,['Shirley Grimes & Luka Bloom '],
-16,Zürich,Lia-Pale-feat.-Mathias-Rüegg-Gone-Too-Far,2013-04-28,"['Lia Pale feat. Mathias Rüegg - Gone Too Far ', ' Lia Pale ', ' Fabian Rucker ', ' Mathias Rüegg ', ' Hans Strasser ', ' Ingrid Oberkanins ']",Pop
-17,Feuerthalen,Boo-Boo-Davis-Band,2013-04-28,['Boo Boo Davis Band '],
-18,Mascotte,Zürich,2013-04-28,['The Walkmen '],
-19,Luzern,Tav-Falco-&-Los-Explosivos,2013-04-28,['Tav Falco & Los Explosivos '],
-20,Lausanne,Chk-Chk-Chk,2013-04-28,['Chk Chk Chk '],Electronic
-21,Bern,Philipp-Eden's-Quintessence,2013-04-28,"[' Tobias Pfister ', ' Philipp Eden ', ' Moritz Meyer ', ' Nicolas Stocker ']",
-22,Brütten,International-Hot-Jazz-Quartet,2013-04-28,"[' Duke Heitger ', ' Engelbert Wrobel ', ' Paolo Alderighi ', ' Bernard Flegar ']",
-23,Bern,The-Outer-String,2013-04-28,"[' Werner Hasler ', ' Vincent Courtois ', ' Julian Sartorius ']",Electronic
+location,event,date,artists,genre
+Luzern,Konzert,2013-04-28,"['Sol Gabetta ', ' Bertrand Chamayou ']",Classic
+null,Konzert,2013-04-28,[' Miriam Feuersinger '],Classic
+Bern,Musikalische-Bilder,2013-04-28,"[' Friedemann Jähnig ', ' Andreas Graf ', ' Eva Lüthi ', ' François Theis ', ' Sandrine Canova ']",Classic
+Zug,Traumwelten,2013-04-28,"['Daniel Dodds ', ' Herbert Schuch ']",Classic
+Luzern,Zum-Teufel-mit-der-Brücke,2013-04-28,"[' Liliane Glanzmann ', ' Sebastian Lipp ', ' Robert Koller ', ' Luc Bachmann ']",Classic
+Schmidrüti,Vom-wundersamen-Krebs-in-Bachens-Bach,2013-04-28,['Annerös Hulliger '],Classic
+Rapperswil,Classic-Broadway-&-Operette,2013-04-28,"['John Thade ', ' Nino Chockhonelidze ']",Classic
+Luzern,Zum-Teufel-mit-der-Brücke,2013-04-28,"[' Liliane Glanzmann ', ' Sebastian Lipp ', ' Robert Koller ', ' Luc Bachmann ']",Classic
+Theater-Stok,Zürich,2013-04-28,"[' Philipp Schaufelberger ', ' Samuel Blaser ', ' Mark Helias ', ' Pierre Favre ']",
+-Alte-Kirche,Boswil,2013-04-28,"['Corinne Chapelle ', ' Oliver Schnyder ']",Classic
+Aarau,On-a-summer's-day,2013-04-28,"[' Felicitas Erb ', ' Regula Konrad ', ' Anne Schmid ', ' Masako Art ']",Classic
+null,Schärli-Meyer,2013-04-28,"[' Marcel Schärli ', ' Gabriel Meyer ']",
+Kappel-am-Albis,Musik-und-Wort,2013-04-28,"[' Hans-Jakob Bollinger ', ' Ildikò Sajgò ', ' Susann Landert ', ' Juan Lima ']",Classic
+Zürich,Gotik-Bach-Apocalyptica-oder-musikalische-Kontraste,2013-04-28,"[' Anna Buczek Merz ', ' Mari Parz ', ' Seiko Morishita ']",Classic
+Basel,El-Calderón,2013-04-28,"[' Alcides Toirac ', ' Amik Guerra ', ' Ohlê Gagneux ', ' Jorge-Luís Gonzalez ', ' Leonardo Salazar ', ' Sebastien Gagneux ', ' Lizandro Paredes ']",
+Salzhaus-Brugg,null,2013-04-28,['Shirley Grimes & Luka Bloom '],
+Zürich,Lia-Pale-feat.-Mathias-Rüegg-Gone-Too-Far,2013-04-28,"['Lia Pale feat. Mathias Rüegg - Gone Too Far ', ' Lia Pale ', ' Fabian Rucker ', ' Mathias Rüegg ', ' Hans Strasser ', ' Ingrid Oberkanins ']",Pop
+Feuerthalen,Boo-Boo-Davis-Band,2013-04-28,['Boo Boo Davis Band '],
+Mascotte,Zürich,2013-04-28,['The Walkmen '],
+Luzern,Tav-Falco-&-Los-Explosivos,2013-04-28,['Tav Falco & Los Explosivos '],
+Lausanne,Chk-Chk-Chk,2013-04-28,['Chk Chk Chk '],Electronic
+Bern,Philipp-Eden's-Quintessence,2013-04-28,"[' Tobias Pfister ', ' Philipp Eden ', ' Moritz Meyer ', ' Nicolas Stocker ']",
+Brütten,International-Hot-Jazz-Quartet,2013-04-28,"[' Duke Heitger ', ' Engelbert Wrobel ', ' Paolo Alderighi ', ' Bernard Flegar ']",
+Bern,The-Outer-String,2013-04-28,"[' Werner Hasler ', ' Vincent Courtois ', ' Julian Sartorius ']",Electronic

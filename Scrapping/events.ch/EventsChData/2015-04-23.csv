@@ -1,37 +1,37 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment,2015-04-23,['Dezsö Balogh '],Classic
-1,Zürich,Surprise,2015-04-23,"['Jemma Abrahamyan ', ' Tzu-Ying Chen ', ' Tabea Frei ', ' Alex Jellici ']",Classic
-2,null,Gull,2015-04-23,['Gull '],
-3,Basel,AMG-Solistenabende,2015-04-23,['Andras Schiff '],Classic
-4,Luzern,Sinfoniekonzert-Pan-und-Syrinx,2015-04-23,[' Lawrence Power '],Classic
-5,Basel,Die-Kunst-der-Fuge-BWV-1080,2015-04-23,"['Hed Yaron Mayersohn ', ' Avishai Chameides ', ' Constance Ricard ']",Classic
-6,Bern,Schuberts-Fünfte,2015-04-23,[' Alexis Vincent '],Classic
-7,Wil,Gare-tango,2015-04-23,['Live: Cosae Mandinga '],
-8,null,Shy'M,2015-04-23,"[""Shy'M ""]",Pop
-9,null,Migros-Kulturprozent-Classics,2015-04-23,"[' Oliver Schnyder ', ' conductor: Julia Fischer ']",Classic
-10,Zürich,Marco-Marchi-Duo,2015-04-23,"[' Marco Marchi ', ' Marco Simoncelli ']",
-11,Zürich,Triple-T,2015-04-23,"[' Benni Kammerer ', ' Cato Nordby ', ' Stepe Diener ', ' Chrigu Müller ']",
-12,Pratteln,Blutengel,2015-04-23,['Blutengel '],
-13,Zürich,Bored-to-Death,2015-04-23,"[' Noelle-Anne Darbellay ', ' Samuel Stoll ']",Classic
-14,Basel,Theater-fürs-Ohr,2015-04-23,"[' Svea Schildknecht ', ' Francisca Näf ', ' Akira Tachikawa ', ' Breno Quinderé ']",Classic
-15,null,Konstantin-Wecker,2015-04-23,['Konstantin Wecker '],Pop
-16,Luzern,Electric-Force,2015-04-23,"[' Timo Wild ', ' Benjamin Kieser ', ' Alex Merz ']",Electronic
-17,Winterthur,Klaus-Koenig's-Seven-Things,2015-04-23,"[' Klaus Koenig ', ' Daniel Schenker ', ' Christoph Merki ', ' Patrick Sommer ', ' Andi Wettstein ']",
-18,Frauenfeld,Le-Grand-Bateau,2015-04-23,"['Le Grand Bateau ', ' Yves Meersschaert ', ' Thomas Noël ', ' Aster van Vaerenbergh ', ' Wouter van den Bossche ', ' Sophie Cavez ']",Pop
-19,Zürich,Max-Petersen-Trio,2015-04-23,"[' Max Petersen ', ' Lukas Traxel ', ' Jimmy Macbride ']",
-20,null,Dino-Saluzzi-Group,2015-04-23,['Dino Saluzzi Group '],
-21,Winterthur,Hustle-&-Drone,2015-04-23,['Hustle & Drone '],Electronic
-22,Zürich,The-Toasters,2015-04-23,['The Toasters '],
-23,Bern,Alexander-Wyssmann-Twilight-Trio,2015-04-23,"[' Alexander Wyssmann ', ' Samuel Kühni ', ' David Steinacher ']",
-24,Basel,Andy-Scherrer-&-Albert-Sanz,2015-04-23,"[' Andy Scherrer ', ' Albert Sanz ']",
-25,Liebefeld,Tré,2015-04-23,"[' Bernhard Bamert ', ' Thomas Lüthi ', ' Lukas Mantel ']",
-26,Zürich,Avishai-Cohen-Trio,2015-04-23,"['Avishai Cohen Trio ', ' Avishai Cohen ', ' Nitai Hershkovits ', ' Daniel Dor ']",
-27,Baden,Lady-Sings-the-Blues-Billy-Holiday-Jubilee,2015-04-23,"[' Virginia Beatrice ', ' Christoph Hegi ', ' Roman Dylag ']",
-28,Lausanne,Purity-Ring,2015-04-23,"['Purity Ring ', ' Born Gold ']",Electronic
-29,Zürich,Jam-Session,2015-04-23,"[' Philipp Häfliger ', ' Mike Ryrie ', ' Dani Zihlmann ', ' Leon Duncan ', ' Silvan Petite ']",
-30,Rubigen,Tito-&-Tarantula,2015-04-23,['Tito & Tarantula '],
-31,Sankt-Gallen,Richard-Dawson,2015-04-23,['Richard Dawson '],
-32,Aarau,Movits,2015-04-23,['Movits '],Electronic
-33,Zürich,Monsterheart,2015-04-23,['Monsterheart '],Pop
-34,Zürich,Bernadett,2015-04-23,"[' Daniel Affentranger ', ' Raphael Kalt ', ' Lukas Wyss ', ' Claude Stucki ', ' Mischa Frey ', ' Lukas Blattner ']",
-35,Zürich,Spice,2015-04-23,"['Spice ', ' anschl. Baba Roots mit DJs Supertuff Sound ']",
+location,event,date,artists,genre
+Luzern,Piano-Entertainment,2015-04-23,['Dezsö Balogh '],Classic
+Zürich,Surprise,2015-04-23,"['Jemma Abrahamyan ', ' Tzu-Ying Chen ', ' Tabea Frei ', ' Alex Jellici ']",Classic
+null,Gull,2015-04-23,['Gull '],
+Basel,AMG-Solistenabende,2015-04-23,['Andras Schiff '],Classic
+Luzern,Sinfoniekonzert-Pan-und-Syrinx,2015-04-23,[' Lawrence Power '],Classic
+Basel,Die-Kunst-der-Fuge-BWV-1080,2015-04-23,"['Hed Yaron Mayersohn ', ' Avishai Chameides ', ' Constance Ricard ']",Classic
+Bern,Schuberts-Fünfte,2015-04-23,[' Alexis Vincent '],Classic
+Wil,Gare-tango,2015-04-23,['Live: Cosae Mandinga '],
+null,Shy'M,2015-04-23,"[""Shy'M ""]",Pop
+null,Migros-Kulturprozent-Classics,2015-04-23,"[' Oliver Schnyder ', ' conductor: Julia Fischer ']",Classic
+Zürich,Marco-Marchi-Duo,2015-04-23,"[' Marco Marchi ', ' Marco Simoncelli ']",
+Zürich,Triple-T,2015-04-23,"[' Benni Kammerer ', ' Cato Nordby ', ' Stepe Diener ', ' Chrigu Müller ']",
+Pratteln,Blutengel,2015-04-23,['Blutengel '],
+Zürich,Bored-to-Death,2015-04-23,"[' Noelle-Anne Darbellay ', ' Samuel Stoll ']",Classic
+Basel,Theater-fürs-Ohr,2015-04-23,"[' Svea Schildknecht ', ' Francisca Näf ', ' Akira Tachikawa ', ' Breno Quinderé ']",Classic
+null,Konstantin-Wecker,2015-04-23,['Konstantin Wecker '],Pop
+Luzern,Electric-Force,2015-04-23,"[' Timo Wild ', ' Benjamin Kieser ', ' Alex Merz ']",Electronic
+Winterthur,Klaus-Koenig's-Seven-Things,2015-04-23,"[' Klaus Koenig ', ' Daniel Schenker ', ' Christoph Merki ', ' Patrick Sommer ', ' Andi Wettstein ']",
+Frauenfeld,Le-Grand-Bateau,2015-04-23,"['Le Grand Bateau ', ' Yves Meersschaert ', ' Thomas Noël ', ' Aster van Vaerenbergh ', ' Wouter van den Bossche ', ' Sophie Cavez ']",Pop
+Zürich,Max-Petersen-Trio,2015-04-23,"[' Max Petersen ', ' Lukas Traxel ', ' Jimmy Macbride ']",
+null,Dino-Saluzzi-Group,2015-04-23,['Dino Saluzzi Group '],
+Winterthur,Hustle-&-Drone,2015-04-23,['Hustle & Drone '],Electronic
+Zürich,The-Toasters,2015-04-23,['The Toasters '],
+Bern,Alexander-Wyssmann-Twilight-Trio,2015-04-23,"[' Alexander Wyssmann ', ' Samuel Kühni ', ' David Steinacher ']",
+Basel,Andy-Scherrer-&-Albert-Sanz,2015-04-23,"[' Andy Scherrer ', ' Albert Sanz ']",
+Liebefeld,Tré,2015-04-23,"[' Bernhard Bamert ', ' Thomas Lüthi ', ' Lukas Mantel ']",
+Zürich,Avishai-Cohen-Trio,2015-04-23,"['Avishai Cohen Trio ', ' Avishai Cohen ', ' Nitai Hershkovits ', ' Daniel Dor ']",
+Baden,Lady-Sings-the-Blues-Billy-Holiday-Jubilee,2015-04-23,"[' Virginia Beatrice ', ' Christoph Hegi ', ' Roman Dylag ']",
+Lausanne,Purity-Ring,2015-04-23,"['Purity Ring ', ' Born Gold ']",Electronic
+Zürich,Jam-Session,2015-04-23,"[' Philipp Häfliger ', ' Mike Ryrie ', ' Dani Zihlmann ', ' Leon Duncan ', ' Silvan Petite ']",
+Rubigen,Tito-&-Tarantula,2015-04-23,['Tito & Tarantula '],
+Sankt-Gallen,Richard-Dawson,2015-04-23,['Richard Dawson '],
+Aarau,Movits,2015-04-23,['Movits '],Electronic
+Zürich,Monsterheart,2015-04-23,['Monsterheart '],Pop
+Zürich,Bernadett,2015-04-23,"[' Daniel Affentranger ', ' Raphael Kalt ', ' Lukas Wyss ', ' Claude Stucki ', ' Mischa Frey ', ' Lukas Blattner ']",
+Zürich,Spice,2015-04-23,"['Spice ', ' anschl. Baba Roots mit DJs Supertuff Sound ']",

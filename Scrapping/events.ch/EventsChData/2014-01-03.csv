@@ -1,12 +1,12 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment,2014-01-03,['Herb Miller '],
-1,Basel,Orgelspiel-zum-Feierabend,2014-01-03,['Willi Tittel '],Classic
-2,Dietikon,Feierabendmusik,2014-01-03,"['Jörg Frei ', ' Bernhard Hörler ']",Classic
-3,Zürich,Opera-Box-L'île-de-Tulipatan-&-Monsieur-Choufleury,2014-01-03,"[' Andrea Suter ', ' Chelsey Schill ', ' Maja Hermann ', ' Raimund Wiederkehr ', ' Erich Bieri ']",Classic
-4,null,Heavy-New-Year-Destruction,2014-01-03,"[' Killing Age ', ' Cycle Beating ']",
-5,null,Neujahrskonzert,2014-01-03,"[' Stephanie Pfeffer ', ' Andreas Scheidegger ']",Classic
-6,Zürich,Thomas-Lüthi's-Biwak,2014-01-03,"[' Thomas Lüthi ', ' Arne Huber', ' Claudio Strüby']",
-7,Zürich,The-James-Brown-Tribute-Show,2014-01-03,"['Rich Fonje ', ' Dave Feusi ', ' Fabienne Hoerni ', ' René Mosele ', ' Matthew Savnik ', ' Sam Siegenthaler ']",
-8,Bern,Long-Distance-Calling,2014-01-03,['Long Distance Calling '],
-9,Zürich,International-Freestyle-Music-Festival,2014-01-03,['Fernweh & Hautnah '],
-10,Wetzikon,Circular-Sign,2014-01-03,['Circular Sign '],
+location,event,date,artists,genre
+Luzern,Piano-Entertainment,2014-01-03,['Herb Miller '],
+Basel,Orgelspiel-zum-Feierabend,2014-01-03,['Willi Tittel '],Classic
+Dietikon,Feierabendmusik,2014-01-03,"['Jörg Frei ', ' Bernhard Hörler ']",Classic
+Zürich,Opera-Box-L'île-de-Tulipatan-&-Monsieur-Choufleury,2014-01-03,"[' Andrea Suter ', ' Chelsey Schill ', ' Maja Hermann ', ' Raimund Wiederkehr ', ' Erich Bieri ']",Classic
+null,Heavy-New-Year-Destruction,2014-01-03,"[' Killing Age ', ' Cycle Beating ']",
+null,Neujahrskonzert,2014-01-03,"[' Stephanie Pfeffer ', ' Andreas Scheidegger ']",Classic
+Zürich,Thomas-Lüthi's-Biwak,2014-01-03,"[' Thomas Lüthi ', ' Arne Huber', ' Claudio Strüby']",
+Zürich,The-James-Brown-Tribute-Show,2014-01-03,"['Rich Fonje ', ' Dave Feusi ', ' Fabienne Hoerni ', ' René Mosele ', ' Matthew Savnik ', ' Sam Siegenthaler ']",
+Bern,Long-Distance-Calling,2014-01-03,['Long Distance Calling '],
+Zürich,International-Freestyle-Music-Festival,2014-01-03,['Fernweh & Hautnah '],
+Wetzikon,Circular-Sign,2014-01-03,['Circular Sign '],

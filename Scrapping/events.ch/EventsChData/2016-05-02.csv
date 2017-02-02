@@ -1,12 +1,12 @@
-,location,event,date,artists,genre
-0,Zürich,Brahms-&-Schumann,2016-05-02,"['Petya Mihneva ', ' Alexander Neustroev ']",Classic
-1,Zürich,Jack-&-Jack,2016-05-02,['Jack & Jack '],
-2,null,Way-Back-Home,2016-05-02,"[' Alex Steiner ', ' Gregor Lehner ', ' Berti Lampert ', ' Erik Visscher ', ' Pino Buoro ', ' Roger Maurer ']",
-3,Basel,Musikschule-Jazz-Basel,2016-05-02,"[' Alain Veltin ', ' Michael Jeup ', ' Roberto Koch ', ' Philipp Gut ']",
-4,Zürich,Christian-Niederers-Plan,2016-05-02,"[' Nick Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
-5,Dübendorf,Singer's-Tale,2016-05-02,"[' Bruno Jundt ', ' Levin Deger ', ' Andrea Grimm ']",
-6,Zürich,Swingin'-Monday,2016-05-02,"[' Raphael Jost ', ' Raphael Walser ', ' Jonas Ruther ']",
-7,Münchenstein,Jazzfestival-Basel,2016-05-02,['Stefano Bollani '],
-8,Zürich,Xixa,2016-05-02,"['Xixa ', ' The Harpoonist & The Axe Murderer ']",
-9,Winterthur,St.-Beaufort,2016-05-02,['St. Beaufort '],
-10,Zürich,Zürich-Dada-100,2016-05-02,['Franz Treichler '],
+location,event,date,artists,genre
+Zürich,Brahms-&-Schumann,2016-05-02,"['Petya Mihneva ', ' Alexander Neustroev ']",Classic
+Zürich,Jack-&-Jack,2016-05-02,['Jack & Jack '],
+null,Way-Back-Home,2016-05-02,"[' Alex Steiner ', ' Gregor Lehner ', ' Berti Lampert ', ' Erik Visscher ', ' Pino Buoro ', ' Roger Maurer ']",
+Basel,Musikschule-Jazz-Basel,2016-05-02,"[' Alain Veltin ', ' Michael Jeup ', ' Roberto Koch ', ' Philipp Gut ']",
+Zürich,Christian-Niederers-Plan,2016-05-02,"[' Nick Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
+Dübendorf,Singer's-Tale,2016-05-02,"[' Bruno Jundt ', ' Levin Deger ', ' Andrea Grimm ']",
+Zürich,Swingin'-Monday,2016-05-02,"[' Raphael Jost ', ' Raphael Walser ', ' Jonas Ruther ']",
+Münchenstein,Jazzfestival-Basel,2016-05-02,['Stefano Bollani '],
+Zürich,Xixa,2016-05-02,"['Xixa ', ' The Harpoonist & The Axe Murderer ']",
+Winterthur,St.-Beaufort,2016-05-02,['St. Beaufort '],
+Zürich,Zürich-Dada-100,2016-05-02,['Franz Treichler '],

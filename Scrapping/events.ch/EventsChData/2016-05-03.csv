@@ -1,16 +1,16 @@
-,location,event,date,artists,genre
-0,Zürich,Jazzapero,2016-05-03,"[' Christian Berger ', ' Gassmann ', ' Herbert Kramis ', ' Dominic Doppler ']",
-1,Zürich,Troye-Sivan,2016-05-03,['Troye Sivan '],Pop
-2,Bern,Internationales-Jazzfestival-Bern,2016-05-03,['Eddie Condon Heritage Jazz Band '],
-3,Zürich,Das-grosse-Wunschkonzert,2016-05-03,"[' Louis Schwizgebel ', ' Klaidi Sahatçi ', ' Anita Leuzinger ']",Classic
-4,Zürich,Konzert-um-halb-acht-Variationen,2016-05-03,['Gregor Ehrsam '],Classic
-5,Olten,Lise-de-la-Salle,2016-05-03,['Lise de la Salle '],Classic
-6,null,Vin-blanc,2016-05-03,"['Vin blanc ', ' Zarboth ']",
-7,Zürich,Max-Raptor,2016-05-03,['Max Raptor '],
-8,Basel,Hommage-an-Annette-von-Droste-Hülshoff,2016-05-03,"[' Sonoe Kato ', ' Isabelle Schnöller ', ' Eva Schwaar ', ' Keiko Yamaguchi ', ' Judith Gerster ']",Classic
-9,Basel,Jazzfestival-Basel,2016-05-03,"[' Paolo Fresu ', ' Jan Lundgren ', ' Richard Galliano ']",
-10,Zürich,ELO-Jeff-Lynne's-Electric-Light-Orchestra,2016-05-03,"[""ELO - Jeff Lynne's Electric Light Orchestra ""]",Pop
-11,Luzern,Workshopkonzerte-Jazz-Grooves-&-Frequencies,2016-05-03,"['Marlen Müller ', ' Andri Schärli ', ' Aline Eichenberger ', ' Daniel Messina ', ' Yannick Sandoz ', ' Gabriel Hammersley ']",
-12,Zürich,Stephanie-Nilles,2016-05-03,['Stephanie Nilles '],
-13,Zürich,The-Crookes,2016-05-03,['The Crookes '],
-14,Basel,Oliver-Tabeling-Trio,2016-05-03,"[' Oliver Tabeling ', ' Michael Chylewski ', ' Samuel Dühsler ']",
+location,event,date,artists,genre
+Zürich,Jazzapero,2016-05-03,"[' Christian Berger ', ' Gassmann ', ' Herbert Kramis ', ' Dominic Doppler ']",
+Zürich,Troye-Sivan,2016-05-03,['Troye Sivan '],Pop
+Bern,Internationales-Jazzfestival-Bern,2016-05-03,['Eddie Condon Heritage Jazz Band '],
+Zürich,Das-grosse-Wunschkonzert,2016-05-03,"[' Louis Schwizgebel ', ' Klaidi Sahatçi ', ' Anita Leuzinger ']",Classic
+Zürich,Konzert-um-halb-acht-Variationen,2016-05-03,['Gregor Ehrsam '],Classic
+Olten,Lise-de-la-Salle,2016-05-03,['Lise de la Salle '],Classic
+null,Vin-blanc,2016-05-03,"['Vin blanc ', ' Zarboth ']",
+Zürich,Max-Raptor,2016-05-03,['Max Raptor '],
+Basel,Hommage-an-Annette-von-Droste-Hülshoff,2016-05-03,"[' Sonoe Kato ', ' Isabelle Schnöller ', ' Eva Schwaar ', ' Keiko Yamaguchi ', ' Judith Gerster ']",Classic
+Basel,Jazzfestival-Basel,2016-05-03,"[' Paolo Fresu ', ' Jan Lundgren ', ' Richard Galliano ']",
+Zürich,ELO-Jeff-Lynne's-Electric-Light-Orchestra,2016-05-03,"[""ELO - Jeff Lynne's Electric Light Orchestra ""]",Pop
+Luzern,Workshopkonzerte-Jazz-Grooves-&-Frequencies,2016-05-03,"['Marlen Müller ', ' Andri Schärli ', ' Aline Eichenberger ', ' Daniel Messina ', ' Yannick Sandoz ', ' Gabriel Hammersley ']",
+Zürich,Stephanie-Nilles,2016-05-03,['Stephanie Nilles '],
+Zürich,The-Crookes,2016-05-03,['The Crookes '],
+Basel,Oliver-Tabeling-Trio,2016-05-03,"[' Oliver Tabeling ', ' Michael Chylewski ', ' Samuel Dühsler ']",

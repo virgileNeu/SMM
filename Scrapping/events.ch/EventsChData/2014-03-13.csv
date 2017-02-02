@@ -1,36 +1,36 @@
-,location,event,date,artists,genre
-0,Basel,Mittagskonzert,2014-03-13,"['Andrew Burn ', ' Esteban La Rotta ', ' Teodoro Baù ', ' Annie Dufresne ']",Classic
-1,Zürich,Steirersound,2014-03-13,['Steirersound '],traditional
-2,Uster,Don-Airey,2014-03-13,['Don Airey '],
-3,Zürich,Hotclub-de-Zurich,2014-03-13,"[' Georges Burki ', ' Urs Wäckerli ', ' Fulvio Musso ', ' Thomas Hirt ']",
-4,null,Voix-de-fête,2014-03-13,['Benoit Paradis Trio '],Pop
-5,Luzern,Musik-Forum,2014-03-13,"['Matthias Tschopp ', ' Yves Reichmuth ', ' David Meier ']",
-6,Basel,Konzert,2014-03-13,"['Ulrike Hofbauer ', ' Hans Brüderl ']",Classic
-7,Zürich,Thursday-Night-Jazz,2014-03-13,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ']",
-8,Luzern,Konzert,2014-03-13,[' Viktoria Mullova '],Classic
-9,Zürich,Konzert-für-Mitglieder-und-Gönner,2014-03-13,[' Gidon Kremer '],Classic
-10,Zürich,The-Exploding-Boy,2014-03-13,['The Exploding Boy '],
-11,Luzern,Salonmusik,2014-03-13,"['Martin Schaefer ', ' Richard Decker ']",Classic
-12,Luzern,Danso-Key,2014-03-13,"['Danso Key ', ' Perta und der Wolf ']",Electronic
-13,Thun,John-Mayall,2014-03-13,"['John Mayall ', ' John Mayall ', ' Rocky Athas ', ' Greg Rzabs ', ' Jay Davenport ']",
-14,null,Konzert,2014-03-13,[' Anne Sofie von Otter '],Classic
-15,Zürich,Keïta-Brönnimann-Niggli,2014-03-13,"[' Aly Keïta ', ' Jan Galega Brönnimann ', ' Lucas Niggli ']",
-16,Zug,David-Orlowsky-Trio,2014-03-13,"['David Orlowsky Trio ', ' David Orlowsky ', ' Jens-Uwe Popp ', ' Florian Dohrmann ']",
-17,Zürich,Ensemble-Zengö,2014-03-13,"['Ensemble Zengö ', ' Vivien Gráf ', ' Agnes Radai ', ' Márton Tóth ', ' Ádám Csete ', ' Balázs Bergics ']",
-18,Zürich,Cloud-Control,2014-03-13,['Cloud Control '],
-19,Kloten,Motek,2014-03-13,"[' Kurt Söldi ', ' Andreas Schmid ', ' Alain von Ritter ', ' J.-Pierre Dix ']",
-20,Bern,Hellsongs,2014-03-13,['Hellsongs '],Electronic
-21,Liebefeld,Mujeres-Argentinas,2014-03-13,"[' Aída Albert ', ' Daniel Zisman ', ' Franziska Grütter ', ' Barbara Zisman ', ' Fernando Tavolaro ']",
-22,Zürich,Winston-McAnuff-&-Fixi,2014-03-13,"['Winston McAnuff & Fixi ', ' Winston McAnuff ', ' François-Xavier Bossard ', ' Marc Ruchmann  ']",
-23,Thun,Will-and-the-People,2014-03-13,['Will and the People '],
-24,Baden,Jazz-am-Donnerstag,2014-03-13,"['Adrian Frey ', ' Patrick Sommer ', ' Tony Renold ']",
-25,Schaffhausen,Heather-Nova,2014-03-13,['Heather Nova '],
-26,Basel,Sverrisson-Guðjónsson,2014-03-13,"[' Óskar Guðjonsson ', ' Skúli Sverrisson ']",
-27,null,Maria-Taylor-&-Band,2014-03-13,['Maria Taylor & Band '],Pop
-28,Zürich,Salsamania,2014-03-13,['DJs Luis Salgado '],
-29,null,Voix-de-fête,2014-03-13,"[""Joseph d'Anvers ""]",Pop
-30,Luzern,Mr.-Backliner,2014-03-13,"[' Markus Meier ', ' Rafi Woll ', ' Simon Iten ']",
-31,Zürich,Dan-Le-Sac-vs.-Scrooobius-Pip,2014-03-13,['Dan Le Sac vs. Scrooobius Pip '],
-32,null,Burning-Heads,2014-03-13,"['Burning Heads ', ' Pluto Creve ', ' The Circle ']",
-33,Zürich,The-Formers,2014-03-13,['The Formers '],
-34,Luzern,Jam-Session,2014-03-13,['Richard Decker '],
+location,event,date,artists,genre
+Basel,Mittagskonzert,2014-03-13,"['Andrew Burn ', ' Esteban La Rotta ', ' Teodoro Baù ', ' Annie Dufresne ']",Classic
+Zürich,Steirersound,2014-03-13,['Steirersound '],traditional
+Uster,Don-Airey,2014-03-13,['Don Airey '],
+Zürich,Hotclub-de-Zurich,2014-03-13,"[' Georges Burki ', ' Urs Wäckerli ', ' Fulvio Musso ', ' Thomas Hirt ']",
+null,Voix-de-fête,2014-03-13,['Benoit Paradis Trio '],Pop
+Luzern,Musik-Forum,2014-03-13,"['Matthias Tschopp ', ' Yves Reichmuth ', ' David Meier ']",
+Basel,Konzert,2014-03-13,"['Ulrike Hofbauer ', ' Hans Brüderl ']",Classic
+Zürich,Thursday-Night-Jazz,2014-03-13,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ']",
+Luzern,Konzert,2014-03-13,[' Viktoria Mullova '],Classic
+Zürich,Konzert-für-Mitglieder-und-Gönner,2014-03-13,[' Gidon Kremer '],Classic
+Zürich,The-Exploding-Boy,2014-03-13,['The Exploding Boy '],
+Luzern,Salonmusik,2014-03-13,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Luzern,Danso-Key,2014-03-13,"['Danso Key ', ' Perta und der Wolf ']",Electronic
+Thun,John-Mayall,2014-03-13,"['John Mayall ', ' John Mayall ', ' Rocky Athas ', ' Greg Rzabs ', ' Jay Davenport ']",
+null,Konzert,2014-03-13,[' Anne Sofie von Otter '],Classic
+Zürich,Keïta-Brönnimann-Niggli,2014-03-13,"[' Aly Keïta ', ' Jan Galega Brönnimann ', ' Lucas Niggli ']",
+Zug,David-Orlowsky-Trio,2014-03-13,"['David Orlowsky Trio ', ' David Orlowsky ', ' Jens-Uwe Popp ', ' Florian Dohrmann ']",
+Zürich,Ensemble-Zengö,2014-03-13,"['Ensemble Zengö ', ' Vivien Gráf ', ' Agnes Radai ', ' Márton Tóth ', ' Ádám Csete ', ' Balázs Bergics ']",
+Zürich,Cloud-Control,2014-03-13,['Cloud Control '],
+Kloten,Motek,2014-03-13,"[' Kurt Söldi ', ' Andreas Schmid ', ' Alain von Ritter ', ' J.-Pierre Dix ']",
+Bern,Hellsongs,2014-03-13,['Hellsongs '],Electronic
+Liebefeld,Mujeres-Argentinas,2014-03-13,"[' Aída Albert ', ' Daniel Zisman ', ' Franziska Grütter ', ' Barbara Zisman ', ' Fernando Tavolaro ']",
+Zürich,Winston-McAnuff-&-Fixi,2014-03-13,"['Winston McAnuff & Fixi ', ' Winston McAnuff ', ' François-Xavier Bossard ', ' Marc Ruchmann  ']",
+Thun,Will-and-the-People,2014-03-13,['Will and the People '],
+Baden,Jazz-am-Donnerstag,2014-03-13,"['Adrian Frey ', ' Patrick Sommer ', ' Tony Renold ']",
+Schaffhausen,Heather-Nova,2014-03-13,['Heather Nova '],
+Basel,Sverrisson-Guðjónsson,2014-03-13,"[' Óskar Guðjonsson ', ' Skúli Sverrisson ']",
+null,Maria-Taylor-&-Band,2014-03-13,['Maria Taylor & Band '],Pop
+Zürich,Salsamania,2014-03-13,['DJs Luis Salgado '],
+null,Voix-de-fête,2014-03-13,"[""Joseph d'Anvers ""]",Pop
+Luzern,Mr.-Backliner,2014-03-13,"[' Markus Meier ', ' Rafi Woll ', ' Simon Iten ']",
+Zürich,Dan-Le-Sac-vs.-Scrooobius-Pip,2014-03-13,['Dan Le Sac vs. Scrooobius Pip '],
+null,Burning-Heads,2014-03-13,"['Burning Heads ', ' Pluto Creve ', ' The Circle ']",
+Zürich,The-Formers,2014-03-13,['The Formers '],
+Luzern,Jam-Session,2014-03-13,['Richard Decker '],

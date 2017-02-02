@@ -1,8 +1,8 @@
-,location,event,date,artists,genre
-0,Luzern,Lucerne-Festival,2013-08-27,"['Maximilian Hornung ', ' Benjamin Engeli ']",Classic
-1,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-08-27,['Mark Tenger '],
-2,Zürich,Möglichkeiten-der-grossen-Gegensätze,2013-08-27,"['Akiko Mikami ', ' Francisco Obieta ', ' Michiko Tsuda ']",Classic
-3,Luzern,Lucerne-Festival,2013-08-27,"['Dorothea Röschmann ', ' Mitsuko Uchida ']",Classic
-4,Binningen,Italiener-in-London,2013-08-27,"['Simon Standage ', ' Friederike Chylek ']",Classic
-5,Luzern,T.S.O.L,2013-08-27,['T.S.O.L '],
-6,null,Sommernachtskonzert-Vier-Elemente,2013-08-27,['Tamar Beraia '],Classic
+location,event,date,artists,genre
+Luzern,Lucerne-Festival,2013-08-27,"['Maximilian Hornung ', ' Benjamin Engeli ']",Classic
+Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-08-27,['Mark Tenger '],
+Zürich,Möglichkeiten-der-grossen-Gegensätze,2013-08-27,"['Akiko Mikami ', ' Francisco Obieta ', ' Michiko Tsuda ']",Classic
+Luzern,Lucerne-Festival,2013-08-27,"['Dorothea Röschmann ', ' Mitsuko Uchida ']",Classic
+Binningen,Italiener-in-London,2013-08-27,"['Simon Standage ', ' Friederike Chylek ']",Classic
+Luzern,T.S.O.L,2013-08-27,['T.S.O.L '],
+null,Sommernachtskonzert-Vier-Elemente,2013-08-27,['Tamar Beraia '],Classic

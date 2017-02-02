@@ -1,21 +1,21 @@
-,location,event,date,artists,genre
-0,Basel,Arioso,2013-02-13,['Estelle Costanzo '],Classic
-1,null,Pythagoräische-Musik,2013-02-13,"[' Stephan Thelen ', ' Bernhard Wagner ', ' Christian Kuntner ', ' Manuel Pasquin ']",Classic
-2,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-02-13,['Mark Tenger '],
-3,Zürich,Migros-Kulturprozent-Classics,2013-02-13,[' Thomas Hampson '],Classic
-4,Basel,AMG-World-Orchestras,2013-02-13,[' Anne-Sophie Mutter '],Classic
-5,Bern,Meisterkonzert,2013-02-13,"['Marie-Elisabeth Hecker ', ' Martin Helmchen ']",Classic
-6,null,Julie-Doiron,2013-02-13,['Julie Doiron '],
-7,null,Jonas-Knecht,2013-02-13,"[' Jonas Knecht ', ' Sandro Heule ', ' Lukas Meier ', ' Matija Sebrek ']",
-8,Bern,Silent-Bird,2013-02-13,['Silent Bird '],Pop
-9,Les-Docks,Lausanne,2013-02-13,['Dinosaur Jr. '],
-10,Zürich,Antonio-Faraò-Trio,2013-02-13,"['Antonio Faraò Trio ', ' Antonio Faraò ', ' Martin Gjakonovski ', ' Vladimir Kostadinovic ']",
-11,Zürich,The-Circle-Brothers,2013-02-13,['The Circle Brothers '],
-12,Feuerthalen,Andy-Egert-Blues-Band-feat.-Dallas-Hodge,2013-02-13,"['Andy Egert Blues Band feat. Dallas Hodge ', ' Dallas Hodge ', ' Andy Egert ', ' Marc Ray Oxendine ', ' Hani Ali ']",
-13,Zürich,Jazz-Baragge-Wednesday-Jam,2013-02-13,"['Donat Fisch ', ' Raffaele Bossard ', ' Dominic Egli ']",
-14,Basel,Tuliaisia-2,2013-02-13,"[' Marianne Racine-Granvik ', ' Vera Kappeler ']",
-15,Baden,Jackson-Wahengo,2013-02-13,['Jackson Wahengo '],
-16,Basel,Quinteros-Descarga,2013-02-13,"[' Yosvany quintero ', ' Markus Schmied ', ' Michael Anklin ', ' Carlo Menger ']",
-17,Zürich,Bukowski,2013-02-13,[' DJ Inspektor Strawberry Soda Pop '],Pop
-18,Winterthur,The-Pharcyde,2013-02-13,['The Pharcyde '],
-19,Zürich,Richard-Comte-&-Simon-Berz,2013-02-13,[' Richard Comte '],
+location,event,date,artists,genre
+Basel,Arioso,2013-02-13,['Estelle Costanzo '],Classic
+null,Pythagoräische-Musik,2013-02-13,"[' Stephan Thelen ', ' Bernhard Wagner ', ' Christian Kuntner ', ' Manuel Pasquin ']",Classic
+Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-02-13,['Mark Tenger '],
+Zürich,Migros-Kulturprozent-Classics,2013-02-13,[' Thomas Hampson '],Classic
+Basel,AMG-World-Orchestras,2013-02-13,[' Anne-Sophie Mutter '],Classic
+Bern,Meisterkonzert,2013-02-13,"['Marie-Elisabeth Hecker ', ' Martin Helmchen ']",Classic
+null,Julie-Doiron,2013-02-13,['Julie Doiron '],
+null,Jonas-Knecht,2013-02-13,"[' Jonas Knecht ', ' Sandro Heule ', ' Lukas Meier ', ' Matija Sebrek ']",
+Bern,Silent-Bird,2013-02-13,['Silent Bird '],Pop
+Les-Docks,Lausanne,2013-02-13,['Dinosaur Jr. '],
+Zürich,Antonio-Faraò-Trio,2013-02-13,"['Antonio Faraò Trio ', ' Antonio Faraò ', ' Martin Gjakonovski ', ' Vladimir Kostadinovic ']",
+Zürich,The-Circle-Brothers,2013-02-13,['The Circle Brothers '],
+Feuerthalen,Andy-Egert-Blues-Band-feat.-Dallas-Hodge,2013-02-13,"['Andy Egert Blues Band feat. Dallas Hodge ', ' Dallas Hodge ', ' Andy Egert ', ' Marc Ray Oxendine ', ' Hani Ali ']",
+Zürich,Jazz-Baragge-Wednesday-Jam,2013-02-13,"['Donat Fisch ', ' Raffaele Bossard ', ' Dominic Egli ']",
+Basel,Tuliaisia-2,2013-02-13,"[' Marianne Racine-Granvik ', ' Vera Kappeler ']",
+Baden,Jackson-Wahengo,2013-02-13,['Jackson Wahengo '],
+Basel,Quinteros-Descarga,2013-02-13,"[' Yosvany quintero ', ' Markus Schmied ', ' Michael Anklin ', ' Carlo Menger ']",
+Zürich,Bukowski,2013-02-13,[' DJ Inspektor Strawberry Soda Pop '],Pop
+Winterthur,The-Pharcyde,2013-02-13,['The Pharcyde '],
+Zürich,Richard-Comte-&-Simon-Berz,2013-02-13,[' Richard Comte '],

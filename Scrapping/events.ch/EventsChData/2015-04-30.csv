@@ -1,41 +1,41 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment,2015-04-30,['Dezsö Balogh '],Classic
-1,Basel,Jazzfestival-Basel,2015-04-30,"['Rita Marcotulli & Luciano Biondini ', ' Rita Marcotulli ', ' Luciano Biondini ']",
-2,Basel,Monumentum,2015-04-30,['Isabelle Faust '],Classic
-3,Zürich,Les-voici,2015-04-30,"[' Noëmi Nadelmann ', ' André Deponds ']",Classic
-4,Bern,Pahud-und-Mozart,2015-04-30,[' Emmanuel Pahud '],Classic
-5,Zürich,Alina-Amuri,2015-04-30,['Alina Amuri '],
-6,Baden,Sean-Carney,2015-04-30,['Sean Carney '],
-7,Zürich,J.-Cole-feat.-Bas-Cozz-&-Omen,2015-04-30,[' Cozz & Omen '],
-8,Kloten,StudioFive,2015-04-30,"[' Felicitas Storck ', ' Daniel Schlatter ', ' Rolf Lüthi ', ' Beat Lüthi ', ' Roland Vögele ']",Pop
-9,Zürich,Peter-Katz-&-Band,2015-04-30,['Peter Katz & Band '],Pop
-10,Zürich,Orquesta-Buena-Vista-Social-Club-feat.-Omara-Portuondo,2015-04-30,['Orquesta Buena Vista Social Club feat. Omara Portuondo '],
-11,Zürich,Jazz-Day-Festival,2015-04-30,"[' Georges Burki ', ' Urs Wäckerli ', ' Fulvio Musso ', ' Thomas Hirt ']",
-12,Winterthur,Hathors,2015-04-30,['Hathors '],
-13,null,Mono,2015-04-30,"['Mono ', ' Helen Money ']",
-14,Luzern,Rival-Sons,2015-04-30,['Rival Sons '],
-15,Luzern,Electric-Force,2015-04-30,"[' Mathieu Friz ', ' Simon Boss  ', ' Rafael Scheiwiller ', ' Nici Struchen ']",Electronic
-16,Thalwil,Jazz-Day-Festival,2015-04-30,"[' Gabriela Friedli ', ' Daniel Studer ', ' Dieter Ulrich ']",
-17,Winterthur,Classic-Meets-Jazz,2015-04-30,"[' Gregor Loepfe ', ' Richard Pechota ', ' Peter Preibisch ', ' Katja Baumann ']",
-18,Aarau,City-of-the-Mountain-Lion,2015-04-30,"[' Anicia Kohler ', ' Matthias Kohler ', ' Michael von Rohr ', ' Lukas Wyss ', ' Andreas Aeberhard ', ' Gregor Lisser ']",
-19,Baden,Steve-Kuhn-Trio,2015-04-30,"[' Steve Kuhn ', ' Buster Williams ', ' Billy Drummond ']",
-20,Frauenfeld,The-Sad-Pumpkins,2015-04-30,"[' Niculin Janett ', ' Noam Szyfer ']",
-21,Baden,Tonic-Strings,2015-04-30,"[' Toni Donadio ', ' Nic Niedermann ']",
-22,Zürich,Andreas-Moe,2015-04-30,['Andreas Moe '],Pop
-23,Thun,Konstantin-Wecker,2015-04-30,['Konstantin Wecker '],Pop
-24,Zürich,ZKB-Jazzpreis,2015-04-30,"[' Karin Meier ', ' Hannes Bürgi ', ' Claude Meier ', ' Christoph Steiner ', ' Jim Black ', ' Elias Stemeseder ']",
-25,Basel,Jazz-Day-Festival,2015-04-30,"[' Isla Eckinger ', ' Vince Benedetti ', ' Bänz Oester ', ' Dré Pallemaerts ']",
-26,Luzern,Jazz-Day-Festival,2015-04-30,"[' Peter Schärli ', ' Glenn Ferris ', ' Hans-Peter Pfammatter ', ' Hämi Hämmerli ']",
-27,null,Wanda,2015-04-30,['Wanda '],Pop
-28,Liestal,Cojazz-invites-Alice-Day-Vocal-Jazz,2015-04-30,"['Alice Day ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Claudio Strüby ']",
-29,Liebefeld,Losinger-Eser,2015-04-30,"['Losinger-Eser ', ' Ania Losinger ', ' Mats Eser ']",
-30,Bern,Go-Go-Berlin,2015-04-30,['Go Go Berlin '],
-31,Basel,Jazzfestival-Basel,2015-04-30,"['Ambrose Akinmusire Group ', ' Ambrose Akinmusire ', ' Sam Harris ', ' Harish Raghavan ', ' Justin Brown ']",
-32,Rubigen,Nazareth,2015-04-30,['Nazareth '],
-33,null,International-Jazz-Day,2015-04-30,"[' Pauline Ganty ', ' Yves Marguet ', ' Christophe Tiberghien ']",
-34,Zürich,Jam-Session,2015-04-30,"[' Philipp Häfliger ', ' Mike Ryrie ', ' Dani Zihlmann ', ' Leon Duncan ', ' Silvan Petite ']",
-35,Lausanne,She-Keeps-Bees,2015-04-30,"['She Keeps Bees ', ' Scarlett Ohanna ']",
-36,Luzern,Egonaut,2015-04-30,['Egonaut '],
-37,Schaffhausen,Quince,2015-04-30,['Quince '],Pop
-38,Basel,36-Jahre-Hirscheneck,2015-04-30,['Scheisse Die Bullen '],
-39,Zürich,Thomas-Jack,2015-04-30,['Thomas Jack '],Electronic
+location,event,date,artists,genre
+Luzern,Piano-Entertainment,2015-04-30,['Dezsö Balogh '],Classic
+Basel,Jazzfestival-Basel,2015-04-30,"['Rita Marcotulli & Luciano Biondini ', ' Rita Marcotulli ', ' Luciano Biondini ']",
+Basel,Monumentum,2015-04-30,['Isabelle Faust '],Classic
+Zürich,Les-voici,2015-04-30,"[' Noëmi Nadelmann ', ' André Deponds ']",Classic
+Bern,Pahud-und-Mozart,2015-04-30,[' Emmanuel Pahud '],Classic
+Zürich,Alina-Amuri,2015-04-30,['Alina Amuri '],
+Baden,Sean-Carney,2015-04-30,['Sean Carney '],
+Zürich,J.-Cole-feat.-Bas-Cozz-&-Omen,2015-04-30,[' Cozz & Omen '],
+Kloten,StudioFive,2015-04-30,"[' Felicitas Storck ', ' Daniel Schlatter ', ' Rolf Lüthi ', ' Beat Lüthi ', ' Roland Vögele ']",Pop
+Zürich,Peter-Katz-&-Band,2015-04-30,['Peter Katz & Band '],Pop
+Zürich,Orquesta-Buena-Vista-Social-Club-feat.-Omara-Portuondo,2015-04-30,['Orquesta Buena Vista Social Club feat. Omara Portuondo '],
+Zürich,Jazz-Day-Festival,2015-04-30,"[' Georges Burki ', ' Urs Wäckerli ', ' Fulvio Musso ', ' Thomas Hirt ']",
+Winterthur,Hathors,2015-04-30,['Hathors '],
+null,Mono,2015-04-30,"['Mono ', ' Helen Money ']",
+Luzern,Rival-Sons,2015-04-30,['Rival Sons '],
+Luzern,Electric-Force,2015-04-30,"[' Mathieu Friz ', ' Simon Boss  ', ' Rafael Scheiwiller ', ' Nici Struchen ']",Electronic
+Thalwil,Jazz-Day-Festival,2015-04-30,"[' Gabriela Friedli ', ' Daniel Studer ', ' Dieter Ulrich ']",
+Winterthur,Classic-Meets-Jazz,2015-04-30,"[' Gregor Loepfe ', ' Richard Pechota ', ' Peter Preibisch ', ' Katja Baumann ']",
+Aarau,City-of-the-Mountain-Lion,2015-04-30,"[' Anicia Kohler ', ' Matthias Kohler ', ' Michael von Rohr ', ' Lukas Wyss ', ' Andreas Aeberhard ', ' Gregor Lisser ']",
+Baden,Steve-Kuhn-Trio,2015-04-30,"[' Steve Kuhn ', ' Buster Williams ', ' Billy Drummond ']",
+Frauenfeld,The-Sad-Pumpkins,2015-04-30,"[' Niculin Janett ', ' Noam Szyfer ']",
+Baden,Tonic-Strings,2015-04-30,"[' Toni Donadio ', ' Nic Niedermann ']",
+Zürich,Andreas-Moe,2015-04-30,['Andreas Moe '],Pop
+Thun,Konstantin-Wecker,2015-04-30,['Konstantin Wecker '],Pop
+Zürich,ZKB-Jazzpreis,2015-04-30,"[' Karin Meier ', ' Hannes Bürgi ', ' Claude Meier ', ' Christoph Steiner ', ' Jim Black ', ' Elias Stemeseder ']",
+Basel,Jazz-Day-Festival,2015-04-30,"[' Isla Eckinger ', ' Vince Benedetti ', ' Bänz Oester ', ' Dré Pallemaerts ']",
+Luzern,Jazz-Day-Festival,2015-04-30,"[' Peter Schärli ', ' Glenn Ferris ', ' Hans-Peter Pfammatter ', ' Hämi Hämmerli ']",
+null,Wanda,2015-04-30,['Wanda '],Pop
+Liestal,Cojazz-invites-Alice-Day-Vocal-Jazz,2015-04-30,"['Alice Day ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Claudio Strüby ']",
+Liebefeld,Losinger-Eser,2015-04-30,"['Losinger-Eser ', ' Ania Losinger ', ' Mats Eser ']",
+Bern,Go-Go-Berlin,2015-04-30,['Go Go Berlin '],
+Basel,Jazzfestival-Basel,2015-04-30,"['Ambrose Akinmusire Group ', ' Ambrose Akinmusire ', ' Sam Harris ', ' Harish Raghavan ', ' Justin Brown ']",
+Rubigen,Nazareth,2015-04-30,['Nazareth '],
+null,International-Jazz-Day,2015-04-30,"[' Pauline Ganty ', ' Yves Marguet ', ' Christophe Tiberghien ']",
+Zürich,Jam-Session,2015-04-30,"[' Philipp Häfliger ', ' Mike Ryrie ', ' Dani Zihlmann ', ' Leon Duncan ', ' Silvan Petite ']",
+Lausanne,She-Keeps-Bees,2015-04-30,"['She Keeps Bees ', ' Scarlett Ohanna ']",
+Luzern,Egonaut,2015-04-30,['Egonaut '],
+Schaffhausen,Quince,2015-04-30,['Quince '],Pop
+Basel,36-Jahre-Hirscheneck,2015-04-30,['Scheisse Die Bullen '],
+Zürich,Thomas-Jack,2015-04-30,['Thomas Jack '],Electronic

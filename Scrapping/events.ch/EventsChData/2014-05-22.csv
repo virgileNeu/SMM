@@ -1,35 +1,35 @@
-,location,event,date,artists,genre
-0,Zürich,Zürcher-Hofgesang,2014-05-22,['The Yale Spizzwinks '],Pop
-1,Baden,After-Work,2014-05-22,"[' Costi Topalidis Garcia ', ' Adrian Barbero ', ' Jorge de las Rosas ', ' David de Medellin ']",
-2,Basel,Masterrezital,2014-05-22,[' Jonas Löffler '],Classic
-3,Basel,AMG-Solistenabende,2014-05-22,"['Anne-Sophie Mutter ', ' Lambert Orkis ']",Classic
-4,Winterthur,Konzert,2014-05-22,[' Veronika Eberle '],Classic
-5,Bern,Le-sacre-du-printemps,2014-05-22,[' Kit Armstrong '],Classic
-6,Luzern,Konzert,2014-05-22,[' David Garrett '],Classic
-7,Basel,Masterrezital,2014-05-22,[' Jan Gazdzicki '],Classic
-8,Zürich,Ich-fühle-Luft-von-anderem-Planeten-1908,2014-05-22,"['Martina Fausch ', ' Monika Baer ', ' Renate Steinmann ', ' Regula Schär ', ' Judith Gerster ', ' Simone Keller ']",Classic
-9,Zürich,Gigi-Moto,2014-05-22,"['Gigi Moto ', ' Jean-Pierre von Dach ', ' Roland Sumi ']",
-10,Luzern,Toner-Low,2014-05-22,['Toner Low '],
-11,null,Karnatik-and-Hindustani,2014-05-22,"['Piu Nandi ', ' Rohan Dasgupta ', ' Arvind Bhargav ', ' Guru Raghvendra ', ' Udai Mazumdar ']",
-12,Zürich,Apples-&-Olives-99-Circular-Grooves,2014-05-22,"['Shara Worden & Kammerensemble ', ' Now Ensemble ']",Classic
-13,Uster,Magic-&-Music,2014-05-22,['Pat Perry und Al Stonehouse '],
-14,Zürich,John-Herzig,2014-05-22,['John Herzig '],traditional
-15,Zürich,Taktlos,2014-05-22,"['Sun Ra Arkestra ', ' Marshall Allen ', ' Tara Middleton ', ' Danny Ray Thompson ', ' Knoel Scott ', ' Charles Davis ', ' Fred Adams ', ' Michael Ray ', ' Dave Davis ', ' Farid Barron ', ' Dave Hotep ', ' Kash Killion ', ' Tylor Mitchell ', ' Elson Nascimento ', ' Craig Haynes ']",
-16,null,André-Rieu,2014-05-22,['André Rieu '],Classic
-17,Zürich,Taktlos,2014-05-22,"['Sun Ra Arkestra ', ' Marshall Allen ', ' Tara Middleton ', ' Danny Ray Thompson ', ' Knoel Scott ', ' Charles Davis ', ' Fred Adams ', ' Michael Ray ', ' Dave Davis ', ' Farid Barron ', ' Dave Hotep ', ' Kash Killion ', ' Tylor Mitchell ', ' Elson Nascimento ', ' Craig Haynes ']",
-18,Basel,Bachelorkonzert,2014-05-22,[' Marc Pauchard '],Classic
-19,Basel,Christy-Doran's-New-Bag,2014-05-22,"[' Sarah Buechi ', ' Christy Doran ', ' Vincent Membrez ', ' Lionel Friedli ']",
-20,Basel,Billy-Cobham,2014-05-22,['Billy Cobham '],
-21,Olten,Duo-Saftig,2014-05-22,"[' Pamela Méndez ', ' Marcel Lüscher ']",Pop
-22,Thun,Too-Tangled,2014-05-22,['Too Tangled '],Electronic
-23,Baden,JRP,2014-05-22,"[' Simon Schwaninger ', ' Silvan Jeger ', ' Martin Perret ']",
-24,Liebefeld,Mats-Up,2014-05-22,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']",
-25,Kriens,Future-Islands,2014-05-22,"['Future Islands ', "" Ed Schrader's Music Beat "", ' Kristian Harting ']",Pop
-26,Zürich,Stella-Cruz,2014-05-22,['Stella Cruz '],Pop
-27,Zürich,Habib-Koité,2014-05-22,"['Habib Koité ', ' Habib Koité ', ' Abdoul Wahab Berthé ', ' Charly Auguste Coulibaly ', ' Mama Koné ']",
-28,Zürich,Cesar-Correa-Quartett,2014-05-22,"[' Cesar Correa ', ' Dimitris Christopoulos ', ' Edwin Sanz ', ' David Stauffacher ']",
-29,Zürich,Nick-Saxon,2014-05-22,['Nick Saxon '],
-30,Wetzikon,No-Omega,2014-05-22,['No Omega '],
-31,Winterthur,La-Minor,2014-05-22,['La Minor '],Pop
-32,null,Red-City-Radio,2014-05-22,"['Red City Radio ', ' Get Dead ', ' Perdition ']",
-33,Basel,Wander-Wildner,2014-05-22,['Wander Wildner '],
+location,event,date,artists,genre
+Zürich,Zürcher-Hofgesang,2014-05-22,['The Yale Spizzwinks '],Pop
+Baden,After-Work,2014-05-22,"[' Costi Topalidis Garcia ', ' Adrian Barbero ', ' Jorge de las Rosas ', ' David de Medellin ']",
+Basel,Masterrezital,2014-05-22,[' Jonas Löffler '],Classic
+Basel,AMG-Solistenabende,2014-05-22,"['Anne-Sophie Mutter ', ' Lambert Orkis ']",Classic
+Winterthur,Konzert,2014-05-22,[' Veronika Eberle '],Classic
+Bern,Le-sacre-du-printemps,2014-05-22,[' Kit Armstrong '],Classic
+Luzern,Konzert,2014-05-22,[' David Garrett '],Classic
+Basel,Masterrezital,2014-05-22,[' Jan Gazdzicki '],Classic
+Zürich,Ich-fühle-Luft-von-anderem-Planeten-1908,2014-05-22,"['Martina Fausch ', ' Monika Baer ', ' Renate Steinmann ', ' Regula Schär ', ' Judith Gerster ', ' Simone Keller ']",Classic
+Zürich,Gigi-Moto,2014-05-22,"['Gigi Moto ', ' Jean-Pierre von Dach ', ' Roland Sumi ']",
+Luzern,Toner-Low,2014-05-22,['Toner Low '],
+null,Karnatik-and-Hindustani,2014-05-22,"['Piu Nandi ', ' Rohan Dasgupta ', ' Arvind Bhargav ', ' Guru Raghvendra ', ' Udai Mazumdar ']",
+Zürich,Apples-&-Olives-99-Circular-Grooves,2014-05-22,"['Shara Worden & Kammerensemble ', ' Now Ensemble ']",Classic
+Uster,Magic-&-Music,2014-05-22,['Pat Perry und Al Stonehouse '],
+Zürich,John-Herzig,2014-05-22,['John Herzig '],traditional
+Zürich,Taktlos,2014-05-22,"['Sun Ra Arkestra ', ' Marshall Allen ', ' Tara Middleton ', ' Danny Ray Thompson ', ' Knoel Scott ', ' Charles Davis ', ' Fred Adams ', ' Michael Ray ', ' Dave Davis ', ' Farid Barron ', ' Dave Hotep ', ' Kash Killion ', ' Tylor Mitchell ', ' Elson Nascimento ', ' Craig Haynes ']",
+null,André-Rieu,2014-05-22,['André Rieu '],Classic
+Zürich,Taktlos,2014-05-22,"['Sun Ra Arkestra ', ' Marshall Allen ', ' Tara Middleton ', ' Danny Ray Thompson ', ' Knoel Scott ', ' Charles Davis ', ' Fred Adams ', ' Michael Ray ', ' Dave Davis ', ' Farid Barron ', ' Dave Hotep ', ' Kash Killion ', ' Tylor Mitchell ', ' Elson Nascimento ', ' Craig Haynes ']",
+Basel,Bachelorkonzert,2014-05-22,[' Marc Pauchard '],Classic
+Basel,Christy-Doran's-New-Bag,2014-05-22,"[' Sarah Buechi ', ' Christy Doran ', ' Vincent Membrez ', ' Lionel Friedli ']",
+Basel,Billy-Cobham,2014-05-22,['Billy Cobham '],
+Olten,Duo-Saftig,2014-05-22,"[' Pamela Méndez ', ' Marcel Lüscher ']",Pop
+Thun,Too-Tangled,2014-05-22,['Too Tangled '],Electronic
+Baden,JRP,2014-05-22,"[' Simon Schwaninger ', ' Silvan Jeger ', ' Martin Perret ']",
+Liebefeld,Mats-Up,2014-05-22,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']",
+Kriens,Future-Islands,2014-05-22,"['Future Islands ', "" Ed Schrader's Music Beat "", ' Kristian Harting ']",Pop
+Zürich,Stella-Cruz,2014-05-22,['Stella Cruz '],Pop
+Zürich,Habib-Koité,2014-05-22,"['Habib Koité ', ' Habib Koité ', ' Abdoul Wahab Berthé ', ' Charly Auguste Coulibaly ', ' Mama Koné ']",
+Zürich,Cesar-Correa-Quartett,2014-05-22,"[' Cesar Correa ', ' Dimitris Christopoulos ', ' Edwin Sanz ', ' David Stauffacher ']",
+Zürich,Nick-Saxon,2014-05-22,['Nick Saxon '],
+Wetzikon,No-Omega,2014-05-22,['No Omega '],
+Winterthur,La-Minor,2014-05-22,['La Minor '],Pop
+null,Red-City-Radio,2014-05-22,"['Red City Radio ', ' Get Dead ', ' Perdition ']",
+Basel,Wander-Wildner,2014-05-22,['Wander Wildner '],

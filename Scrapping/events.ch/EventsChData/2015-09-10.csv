@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,Zürich,Werner-und-Company,2015-09-10,['Werner und Company '],
-1,Baden,After-Work,2015-09-10,['Nicole Johänntgen '],Pop
-2,Zürich,The-Queen,2015-09-10,['Works by Julian Layn '],Classic
-3,Zürich,Voyage-à-Paris-Rossignol-mon-mignon,2015-09-10,"['Martina Fausch ', ' Isabelle Schnöller ', ' Monika Baer ', ' Judith Gerster ', ' Simone Keller ']",Classic
-4,Winterthur,Walpurgisnacht,2015-09-10,"[' Birgit Remmert ', ' Jörg Dürmüller ', ' Ruben Drole ', ' Reinhard Mailr ', ' Fazil Say ']",Classic
-5,Pratteln,Axxis,2015-09-10,['Axxis '],
-6,Bern,Musikfestival-Bern-Griff-nach-den-Sternen,2015-09-10,"[' Noëlle-Anne Darbellay ', ' Olivier Darbellay ', ' Jean-Luc Darbellay ']",Classic
-7,Vevey,Septembre-musical,2015-09-10,['Ivo Pogorelich '],Classic
-8,Zürich,Martin-Luther-King-I-Have-a-Dream,2015-09-10,"['Christina Jaccard ', ' Dave Ruosch ', ' Daniel Pezzotti ', ' Andreas Schmid ']",Pop
-9,Embrach,Piccolo-Musikfestival,2015-09-10,['Septeto Naborí '],
-10,Winterthur,Antonio-Pino-Quartet-feat.-Simon-Spiess,2015-09-10,"[' Antonino Pino ', ' Simon Spiess ', ' Richard Metairon ', ' Baptiste de Chabaneix ']",
-11,Zürich,Jo-Elle,2015-09-10,['Jo Elle '],
-12,null,Evans-the-Death,2015-09-10,['Evans the Death '],
-13,Zürich,Zurich-Jazz-Orchestra-feat.-Joe-Haider,2015-09-10,"[' Joe Haider ', ' Reto Anneler ', ' Christoph Grab ', ' Thomas Lüthi ', ' Nils Fischer ', ' Patrick Ottiger ']",
-14,Baden,The-Kung-Fu-Pandas,2015-09-10,"[' Marc Reinhard ', ' Jänku Spike  ', ' Misch ', ' Jänku Spike ', ' Misch ', ' Jänku Zimmermann ', '  Andy Kocher ', '  Jann Krähenbühl ', ' Misch Müller ']",
-15,Basel,Raphael-Walsers-Gangart,2015-09-10,"[' Tobias Meier ', ' Ganesh Geymeier ', ' Marc Méan ', ' Raphael Walser ', ' Jonas Ruther ']",
-16,Zürich,Salsamania,2015-09-10,['DJs Mauri '],
+location,event,date,artists,genre
+Zürich,Werner-und-Company,2015-09-10,['Werner und Company '],
+Baden,After-Work,2015-09-10,['Nicole Johänntgen '],Pop
+Zürich,The-Queen,2015-09-10,['Works by Julian Layn '],Classic
+Zürich,Voyage-à-Paris-Rossignol-mon-mignon,2015-09-10,"['Martina Fausch ', ' Isabelle Schnöller ', ' Monika Baer ', ' Judith Gerster ', ' Simone Keller ']",Classic
+Winterthur,Walpurgisnacht,2015-09-10,"[' Birgit Remmert ', ' Jörg Dürmüller ', ' Ruben Drole ', ' Reinhard Mailr ', ' Fazil Say ']",Classic
+Pratteln,Axxis,2015-09-10,['Axxis '],
+Bern,Musikfestival-Bern-Griff-nach-den-Sternen,2015-09-10,"[' Noëlle-Anne Darbellay ', ' Olivier Darbellay ', ' Jean-Luc Darbellay ']",Classic
+Vevey,Septembre-musical,2015-09-10,['Ivo Pogorelich '],Classic
+Zürich,Martin-Luther-King-I-Have-a-Dream,2015-09-10,"['Christina Jaccard ', ' Dave Ruosch ', ' Daniel Pezzotti ', ' Andreas Schmid ']",Pop
+Embrach,Piccolo-Musikfestival,2015-09-10,['Septeto Naborí '],
+Winterthur,Antonio-Pino-Quartet-feat.-Simon-Spiess,2015-09-10,"[' Antonino Pino ', ' Simon Spiess ', ' Richard Metairon ', ' Baptiste de Chabaneix ']",
+Zürich,Jo-Elle,2015-09-10,['Jo Elle '],
+null,Evans-the-Death,2015-09-10,['Evans the Death '],
+Zürich,Zurich-Jazz-Orchestra-feat.-Joe-Haider,2015-09-10,"[' Joe Haider ', ' Reto Anneler ', ' Christoph Grab ', ' Thomas Lüthi ', ' Nils Fischer ', ' Patrick Ottiger ']",
+Baden,The-Kung-Fu-Pandas,2015-09-10,"[' Marc Reinhard ', ' Jänku Spike  ', ' Misch ', ' Jänku Spike ', ' Misch ', ' Jänku Zimmermann ', '  Andy Kocher ', '  Jann Krähenbühl ', ' Misch Müller ']",
+Basel,Raphael-Walsers-Gangart,2015-09-10,"[' Tobias Meier ', ' Ganesh Geymeier ', ' Marc Méan ', ' Raphael Walser ', ' Jonas Ruther ']",
+Zürich,Salsamania,2015-09-10,['DJs Mauri '],

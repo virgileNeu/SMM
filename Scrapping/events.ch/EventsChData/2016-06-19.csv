@@ -1,20 +1,20 @@
-,location,event,date,artists,genre
-0,Dornach,Matinée-der-Jungen-Sinfoniker,2016-06-19,[' Laurenz Gutjahr '],Classic
-1,Zürich,Festspiele-Zürich-Shakespeares-Sehnsucht,2016-06-19,"['Deanna Breiwick ', ' Juliana Georgieva ', ' Daniel Kagerer ', ' Rumjana Naydenova ']",Classic
-2,Zürich,Morgenmusik-nach-dem-Gottesdienst,2016-06-19,[' Andreas Jost '],Classic
-3,Hinwil,Rock-the-Ring,2016-06-19,"['Iggy Pop ', ' Mando Diao ', ' Flogging Molly ', ' Skillet ', ' Graveyard ']",Pop
-4,Kriens,Master-Abschlusskonzerte,2016-06-19,['Urs Itin '],Classic
-5,Luzern,Master-Abschlusskonzerte,2016-06-19,['Sylvie Chopart '],Classic
-6,Zürich,Sommerkonzert,2016-06-19,[' Raphael Wallfisch '],Classic
-7,Bern,Meisterkonzert,2016-06-19,['David Fray '],Classic
-8,Winterthur,Kammermusik-am-Sonntag,2016-06-19,"[' Roberto González Monjas ', ' Pär Näsbom ', ' Jürg Dähler ', ' Cäcilia Chmel ', ' Alexander Lonquich ']",Classic
-9,Grüningen,Duo-Flautasto,2016-06-19,"['Sandro Müller ', ' Barbara Müller-Hämmerli ']",Classic
-10,Luzern,Master-Abschlusskonzerte,2016-06-19,['Aliza Vicente Aranda '],Classic
-11,Dübendorf,Sommerkonzert,2016-06-19,"[' Thomas Garcia ', ' Cecilia Garcia ', ' Mariko Takahashi-Garcia ']",Classic
-12,Luzern,Carmina-Burana,2016-06-19,"[' Regula Mühlemann ', ' Sebastian Lipp ', ' Sergej Aprischkin ']",Classic
-13,Basel,In-a-Good-Shape,2016-06-19,"['At C ', ' Ephraim Wegner ']",Pop
-14,Gerlafingen,Rockabilly-Stomp,2016-06-19,"['The Vargas Brothers ', ' The Delta Bombers ', ' The Desperados ', ' Crystal & the Runnin Wild ', ' The Wize Guyz ', ' The El Sonno Brothers ', ' Roy Thompson & the Mellow Kings ']",
-15,Zürich,Anastacia,2016-06-19,['Anastacia '],Pop
-16,Luzern,Master-Abschlusskonzerte,2016-06-19,['Milena Bonaventurovà '],Classic
-17,Zürich,Swanky-Mothers-Series,2016-06-19,"['Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ']",
-18,Basel,Hip-Hop-Meets-Jazz,2016-06-19,"[' Thomas Baumgartner ', ' Fabian Gisler ', ' André Bader ', ' Michael Scherrer ']",
+location,event,date,artists,genre
+Dornach,Matinée-der-Jungen-Sinfoniker,2016-06-19,[' Laurenz Gutjahr '],Classic
+Zürich,Festspiele-Zürich-Shakespeares-Sehnsucht,2016-06-19,"['Deanna Breiwick ', ' Juliana Georgieva ', ' Daniel Kagerer ', ' Rumjana Naydenova ']",Classic
+Zürich,Morgenmusik-nach-dem-Gottesdienst,2016-06-19,[' Andreas Jost '],Classic
+Hinwil,Rock-the-Ring,2016-06-19,"['Iggy Pop ', ' Mando Diao ', ' Flogging Molly ', ' Skillet ', ' Graveyard ']",Pop
+Kriens,Master-Abschlusskonzerte,2016-06-19,['Urs Itin '],Classic
+Luzern,Master-Abschlusskonzerte,2016-06-19,['Sylvie Chopart '],Classic
+Zürich,Sommerkonzert,2016-06-19,[' Raphael Wallfisch '],Classic
+Bern,Meisterkonzert,2016-06-19,['David Fray '],Classic
+Winterthur,Kammermusik-am-Sonntag,2016-06-19,"[' Roberto González Monjas ', ' Pär Näsbom ', ' Jürg Dähler ', ' Cäcilia Chmel ', ' Alexander Lonquich ']",Classic
+Grüningen,Duo-Flautasto,2016-06-19,"['Sandro Müller ', ' Barbara Müller-Hämmerli ']",Classic
+Luzern,Master-Abschlusskonzerte,2016-06-19,['Aliza Vicente Aranda '],Classic
+Dübendorf,Sommerkonzert,2016-06-19,"[' Thomas Garcia ', ' Cecilia Garcia ', ' Mariko Takahashi-Garcia ']",Classic
+Luzern,Carmina-Burana,2016-06-19,"[' Regula Mühlemann ', ' Sebastian Lipp ', ' Sergej Aprischkin ']",Classic
+Basel,In-a-Good-Shape,2016-06-19,"['At C ', ' Ephraim Wegner ']",Pop
+Gerlafingen,Rockabilly-Stomp,2016-06-19,"['The Vargas Brothers ', ' The Delta Bombers ', ' The Desperados ', ' Crystal & the Runnin Wild ', ' The Wize Guyz ', ' The El Sonno Brothers ', ' Roy Thompson & the Mellow Kings ']",
+Zürich,Anastacia,2016-06-19,['Anastacia '],Pop
+Luzern,Master-Abschlusskonzerte,2016-06-19,['Milena Bonaventurovà '],Classic
+Zürich,Swanky-Mothers-Series,2016-06-19,"['Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ']",
+Basel,Hip-Hop-Meets-Jazz,2016-06-19,"[' Thomas Baumgartner ', ' Fabian Gisler ', ' André Bader ', ' Michael Scherrer ']",

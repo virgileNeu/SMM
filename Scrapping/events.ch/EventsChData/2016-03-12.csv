@@ -1,34 +1,34 @@
-,location,event,date,artists,genre
-0,Basel,Come-Around,2016-03-12,[' Vershon '],
-1,Zürich,Nuggi-Konzert,2016-03-12,"['Silviya Savova-Hartkamp ', ' Ryszard Groblewski ', ' Anna Tyka Nyffenegger ', ' Seon-Deok Baik ', ' Suguru Ito ']",Classic
-2,Winterthur,Trödelmarkt-der-Träume,2016-03-12,"['Alexander Seidel ', ' Andrea Wiesli ']",Classic
-3,Zürich,Kammermusik,2016-03-12,"['Silviya Savova-Hartkamp ', ' Ryszard Groblewski ', ' Anna Tyka Nyffenegger ', ' Seon-Deok Baik ', ' Suguru Ito ']",Classic
-4,Zürich,Bayernmän,2016-03-12,['Bayernmän '],traditional
-5,Baden,Saisoneröffnungskonzert-der-Freunde-Museum-Langmatt,2016-03-12,"['Gunta Abele ', ' Gérard Wyss ']",Classic
-6,Bern,Kammermusik-an-der-Kramgasse,2016-03-12,"[' Beat Anderwert ', ' Erika Schutter  ', ' Nada Anderwert ', ' Joel Marosi ']",Classic
-7,Zürich,Orchesterkonzert,2016-03-12,[' Stefan Tönz '],Classic
-8,Luzern,Gregory-Porter,2016-03-12,"[' Gregory Porter ', ' Yosuke Sato ', ' Chip Crawford ', ' Aaron James ', ' Emanuel Harrold ']",
-9,Basel,Messiah,2016-03-12,"[' Aurea Marston ', ' Barbara Erni ', ' William Lombardi ', ' Vincent Gühlow ']",Classic
-10,Baden,Spektrum-Akzente,2016-03-12,"[' Marc Bätscher ', ' Ursula Hächler ', ' Jason Paul Peterson ']",Classic
-11,Zürich,The-Devil-And-The-Universe,2016-03-12,"['The Devil And The Universe ', ' Phasenmensch ']",Pop
-12,Zürich,Fastenbruch-und-Freiheit,2016-03-12,"['Ulrike Andersen ', ' Harry White ', ' Edward Rushton ']",Classic
-13,null,Heimat-in-der-Fremde-Zwei-Seelen,2016-03-12,"[' Esther Hoppe ', ' Mahmoud Turkmani ']",Classic
-14,Bern,Ensemble-Polysono,2016-03-12,"['Christine Simolka ', ' Matthias Ebner ', ' Igor Kombaratov ', ' Markus Stolz ', ' conductor: René Wohlhauser ', ' works by René Wohlhauser ']",Classic
-15,Bern,Another-Me,2016-03-12,['Another Me '],Pop
-16,Walkringen,Ludwig-van-Beethoven-Konzert-2,2016-03-12,"['Kamilla Schatz ', ' Benjamin Engeli ']",Classic
-17,Oberengstringen,Spillmann-Held,2016-03-12,"[' Mats Spillmann ', ' Pablo Held ', ' Thomas Lüthi ', ' Arne Huber ', ' Claudio Strübi ']",
-18,Zürich,Swanky-Mothers-feat.-Joana-Aderi,2016-03-12,"[' Joana Aderi ', ' Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
-19,Montreux,Orchestre-de-la-Suisse-Romande,2016-03-12,[' Isabelle Faust '],Classic
-20,null,Irish-Night,2016-03-12,[' The Led Farmers '],
-21,Zürich,La-nuit-francofolle,2016-03-12,"['Paris Combo ', ' Belle du Berry ', ' David Lewis ', ' Potzi ', ' Emmanuel Chabbey ', ' Francois Jeannin ']",Pop
-22,Basel,Antonio-Faraò-Quartet,2016-03-12,"[' Luigi Di Nunzio ', ' Antonio Faraò ', ' Aldo Vigorito ', ' Tony Arco ']",
-23,Liestal,Wahlversprechen,2016-03-12,['Lisa Catena '],Pop
-24,Baden,Greyhair-Company,2016-03-12,"[' Dieter Grolimund ', ' Sigi Nikitscher ', ' Max Brasser ', ' Stephan Lipp ', ' Thomas Schwabe ', ' Markus Schweizer ']",
-25,Solothurn,John-Coffey,2016-03-12,['John Coffey '],
-26,Bern,I-Am-Oak,2016-03-12,['I Am Oak '],
-27,Zürich,Get-Well-Soon,2016-03-12,['Get Well Soon '],Pop
-28,null,Latin-Party,2016-03-12,"['Live: Don Kino ', ' El Roa ']",
-29,Zürich,Bushido,2016-03-12,['Bushido '],
-30,Basel,The-Gaslamp-Killer,2016-03-12,['The Gaslamp Killer '],
-31,Wil,Solvane,2016-03-12,['Solvane '],Electronic
-32,Zürich,Reggaeton-Latino,2016-03-12,[' Bassette '],
+location,event,date,artists,genre
+Basel,Come-Around,2016-03-12,[' Vershon '],
+Zürich,Nuggi-Konzert,2016-03-12,"['Silviya Savova-Hartkamp ', ' Ryszard Groblewski ', ' Anna Tyka Nyffenegger ', ' Seon-Deok Baik ', ' Suguru Ito ']",Classic
+Winterthur,Trödelmarkt-der-Träume,2016-03-12,"['Alexander Seidel ', ' Andrea Wiesli ']",Classic
+Zürich,Kammermusik,2016-03-12,"['Silviya Savova-Hartkamp ', ' Ryszard Groblewski ', ' Anna Tyka Nyffenegger ', ' Seon-Deok Baik ', ' Suguru Ito ']",Classic
+Zürich,Bayernmän,2016-03-12,['Bayernmän '],traditional
+Baden,Saisoneröffnungskonzert-der-Freunde-Museum-Langmatt,2016-03-12,"['Gunta Abele ', ' Gérard Wyss ']",Classic
+Bern,Kammermusik-an-der-Kramgasse,2016-03-12,"[' Beat Anderwert ', ' Erika Schutter  ', ' Nada Anderwert ', ' Joel Marosi ']",Classic
+Zürich,Orchesterkonzert,2016-03-12,[' Stefan Tönz '],Classic
+Luzern,Gregory-Porter,2016-03-12,"[' Gregory Porter ', ' Yosuke Sato ', ' Chip Crawford ', ' Aaron James ', ' Emanuel Harrold ']",
+Basel,Messiah,2016-03-12,"[' Aurea Marston ', ' Barbara Erni ', ' William Lombardi ', ' Vincent Gühlow ']",Classic
+Baden,Spektrum-Akzente,2016-03-12,"[' Marc Bätscher ', ' Ursula Hächler ', ' Jason Paul Peterson ']",Classic
+Zürich,The-Devil-And-The-Universe,2016-03-12,"['The Devil And The Universe ', ' Phasenmensch ']",Pop
+Zürich,Fastenbruch-und-Freiheit,2016-03-12,"['Ulrike Andersen ', ' Harry White ', ' Edward Rushton ']",Classic
+null,Heimat-in-der-Fremde-Zwei-Seelen,2016-03-12,"[' Esther Hoppe ', ' Mahmoud Turkmani ']",Classic
+Bern,Ensemble-Polysono,2016-03-12,"['Christine Simolka ', ' Matthias Ebner ', ' Igor Kombaratov ', ' Markus Stolz ', ' conductor: René Wohlhauser ', ' works by René Wohlhauser ']",Classic
+Bern,Another-Me,2016-03-12,['Another Me '],Pop
+Walkringen,Ludwig-van-Beethoven-Konzert-2,2016-03-12,"['Kamilla Schatz ', ' Benjamin Engeli ']",Classic
+Oberengstringen,Spillmann-Held,2016-03-12,"[' Mats Spillmann ', ' Pablo Held ', ' Thomas Lüthi ', ' Arne Huber ', ' Claudio Strübi ']",
+Zürich,Swanky-Mothers-feat.-Joana-Aderi,2016-03-12,"[' Joana Aderi ', ' Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
+Montreux,Orchestre-de-la-Suisse-Romande,2016-03-12,[' Isabelle Faust '],Classic
+null,Irish-Night,2016-03-12,[' The Led Farmers '],
+Zürich,La-nuit-francofolle,2016-03-12,"['Paris Combo ', ' Belle du Berry ', ' David Lewis ', ' Potzi ', ' Emmanuel Chabbey ', ' Francois Jeannin ']",Pop
+Basel,Antonio-Faraò-Quartet,2016-03-12,"[' Luigi Di Nunzio ', ' Antonio Faraò ', ' Aldo Vigorito ', ' Tony Arco ']",
+Liestal,Wahlversprechen,2016-03-12,['Lisa Catena '],Pop
+Baden,Greyhair-Company,2016-03-12,"[' Dieter Grolimund ', ' Sigi Nikitscher ', ' Max Brasser ', ' Stephan Lipp ', ' Thomas Schwabe ', ' Markus Schweizer ']",
+Solothurn,John-Coffey,2016-03-12,['John Coffey '],
+Bern,I-Am-Oak,2016-03-12,['I Am Oak '],
+Zürich,Get-Well-Soon,2016-03-12,['Get Well Soon '],Pop
+null,Latin-Party,2016-03-12,"['Live: Don Kino ', ' El Roa ']",
+Zürich,Bushido,2016-03-12,['Bushido '],
+Basel,The-Gaslamp-Killer,2016-03-12,['The Gaslamp Killer '],
+Wil,Solvane,2016-03-12,['Solvane '],Electronic
+Zürich,Reggaeton-Latino,2016-03-12,[' Bassette '],

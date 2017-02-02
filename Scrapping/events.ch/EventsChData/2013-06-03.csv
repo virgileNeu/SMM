@@ -1,11 +1,11 @@
-,location,event,date,artists,genre
-0,Zürich,Liedrezital-Zürich,2013-06-03,"['Irène Friedli ', ' Manuel Bärtsch ']",Classic
-1,Basel,Four-Pieces,2013-06-03,"[' Daniela Müller ', ' Petra Ackermann ', ' Martin Jaggi ', ' Tamriko Kordzaia ']",Classic
-2,Zürich,Argentinischer-Tango,2013-06-03,"[' Sven Angelo Mindeci ', ' Urs Stirnimann ', ' Jojo Kunz ']",
-3,Winterthur,Thos-Henley,2013-06-03,['Thos Henley '],Pop
-4,Usine,null,2013-06-03,['Hatebreed '],Hatebreed
-5,Kongresshaus,Zürich,2013-06-03,['Dead Can Dance '],
-6,Kunstraum-Walcheturm,Zürich,2013-06-03,"['Ulrike Mayer-Spohn ', ' Javier Hagen ']",
-7,Zürich,Arne-Huber-Quartett,2013-06-03,"[' Arne Huber ', ' Domenic Landolf ', ' Rainer Böhm ', ' Jochen Rückert ']",
-8,Zürich,Larry-And-His-Flask,2013-06-03,['Larry And His Flask '],
-9,Exil,Zürich,2013-06-03,"[' Manu Troller ', ' Fabian Capaldi ', ' Martial In-Albon ', ' Michael Flury ']",
+location,event,date,artists,genre
+Zürich,Liedrezital-Zürich,2013-06-03,"['Irène Friedli ', ' Manuel Bärtsch ']",Classic
+Basel,Four-Pieces,2013-06-03,"[' Daniela Müller ', ' Petra Ackermann ', ' Martin Jaggi ', ' Tamriko Kordzaia ']",Classic
+Zürich,Argentinischer-Tango,2013-06-03,"[' Sven Angelo Mindeci ', ' Urs Stirnimann ', ' Jojo Kunz ']",
+Winterthur,Thos-Henley,2013-06-03,['Thos Henley '],Pop
+Usine,null,2013-06-03,['Hatebreed '],Hatebreed
+Kongresshaus,Zürich,2013-06-03,['Dead Can Dance '],
+Kunstraum-Walcheturm,Zürich,2013-06-03,"['Ulrike Mayer-Spohn ', ' Javier Hagen ']",
+Zürich,Arne-Huber-Quartett,2013-06-03,"[' Arne Huber ', ' Domenic Landolf ', ' Rainer Böhm ', ' Jochen Rückert ']",
+Zürich,Larry-And-His-Flask,2013-06-03,['Larry And His Flask '],
+Exil,Zürich,2013-06-03,"[' Manu Troller ', ' Fabian Capaldi ', ' Martial In-Albon ', ' Michael Flury ']",

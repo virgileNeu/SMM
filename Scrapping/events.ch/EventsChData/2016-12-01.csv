@@ -1,30 +1,30 @@
-,location,event,date,artists,genre
-0,Baden,After-Work-Music,2016-12-01,"['Zoryana Mazko ', ' Yvonne Glur ']",
-1,Baden,Afterwork-Live-Musik-Maël,2016-12-01,"['Maël ', ' Philippe Kuhn ', ' Marco Figini ', ' Tosho Yakkatokuo ']",Pop
-2,Zürich,Marathon-der-Liebe-IOIC-Stummfilm-Festival,2016-12-01,['A Fool There Was '],Classic
-3,Basel,Pace-verità-porpora,2016-12-01,"[' Nuria Rial ', ' Roberta Invernizzi ', ' Terry Wey ', ' Martin Vanberg ']",Classic
-4,Zürich,Thursday-Night-Jazz,2016-12-01,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-5,Zürich,Sting-Operation,2016-12-01,"[' Devi Reith ', ' Felix Straumann ', ' Matthias Siegrist ', ' Peter Leuzinger ', ' Peter Preibisch ']",Pop
-6,Zürich,Opus-magnum,2016-12-01,['Maurizio Pollini '],Classic
-7,Winterthur,Musica-aperta-Tango-Nuevo-,2016-12-01,"[' Jörgen Brilling ', ' Uwe Mahnken ']",Classic
-8,Zürich,Al-Jarreau-&-NDR-Bigband,2016-12-01,"[' Al Jarreau ', ' Ernst Friedrich Felsch ', ' Björn Berger ', ' Christof Lauer ', ' Frank Delle ']",
-9,Zürich,Unger-üs-Famlienalbum,2016-12-01,"[' Isa Wiss ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-10,Basel,Grossstadtgeflüster,2016-12-01,['Grossstadtgeflüster '],Pop
-11,Zürich,Chachaloca,2016-12-01,"[' Alain von Ritter ', ' Jost Müller ', ' Richard Pechota ', ' Roman Glaser ']",
-12,Zürich,The-Toasters,2016-12-01,['The Toasters '],
-13,Bern,The-Sparklettes,2016-12-01,"[' Isabelle Ritter ', ' Nina Gutknecht ', ' Doris McVeigh ', ' Xenia Zampieri ']",
-14,Zürich,Billiger-Bauer-Hymn-for-a-Mindful-Society,2016-12-01,"['Omri Ziegele ', ' Jürg Wickihalder ', ' Marco Von Orelli ']",
-15,Liebefeld,Klaus-Koenig-Seven-Things,2016-12-01,"[' Daniel Schenker ', ' Christoph Merki ', ' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']",
-16,Zürich,The-Chamber-Music-Effect,2016-12-01,"['Vein ', ' Michael Arbenz ', ' Thomas Lähns ', ' Florian Arbenz ']",
-17,Thun,Spax-&-Mirko-Machine,2016-12-01,['Spax & Mirko Machine '],
-18,Baden,Acquaroli,2016-12-01,"[' Nadja Acquaroli ', ' Vero Kreienbühl ', ' Dänu Affolter ', ' Zaani ', ' Simi Grenacher ']",Pop
-19,Basel,New-Baroque,2016-12-01,"[' Adam Taubitz ', ' Daniel Pezzotti ', ' Thomas Dobler ']",
-20,Zürich,Marathon-der-Liebe-IOIC-Stummfilm-Festival,2016-12-01,"['Die Pest in Florenz ', ' Dominik Blum ', ' Peter Conradin Zumthor ']",Classic
-21,Zürich,Borderline-Symphony,2016-12-01,['Borderline Symphony '],Pop
-22,Zürich,Yiannis-Aggelakas-&-100°C,2016-12-01,['Yiannis Aggelakas & 100°C '],
-23,Winterthur,Bilitis,2016-12-01,"['Dimitri Vecchi  ', ' Consuelo Giulianelli ', ' Katrin Bamert ', ' Rafael Rütti ']",Classic
-24,Basel,Sedlmeir,2016-12-01,['Sedlmeir '],traditional
-25,Lausanne,Oathbreaker,2016-12-01,"['Oathbreaker ', ' Wife ']",
-26,Bern,David-Hope-&-Nick-Africano,2016-12-01,['David Hope & Nick Africano '],Pop
-27,Zürich,Fuzzman,2016-12-01,['Fuzzman '],
-28,Zürich,Marathon-der-Liebe-IOIC-Stummfilm-Festival,2016-12-01,['The Dragon Painter '],Classic
+location,event,date,artists,genre
+Baden,After-Work-Music,2016-12-01,"['Zoryana Mazko ', ' Yvonne Glur ']",
+Baden,Afterwork-Live-Musik-Maël,2016-12-01,"['Maël ', ' Philippe Kuhn ', ' Marco Figini ', ' Tosho Yakkatokuo ']",Pop
+Zürich,Marathon-der-Liebe-IOIC-Stummfilm-Festival,2016-12-01,['A Fool There Was '],Classic
+Basel,Pace-verità-porpora,2016-12-01,"[' Nuria Rial ', ' Roberta Invernizzi ', ' Terry Wey ', ' Martin Vanberg ']",Classic
+Zürich,Thursday-Night-Jazz,2016-12-01,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Zürich,Sting-Operation,2016-12-01,"[' Devi Reith ', ' Felix Straumann ', ' Matthias Siegrist ', ' Peter Leuzinger ', ' Peter Preibisch ']",Pop
+Zürich,Opus-magnum,2016-12-01,['Maurizio Pollini '],Classic
+Winterthur,Musica-aperta-Tango-Nuevo-,2016-12-01,"[' Jörgen Brilling ', ' Uwe Mahnken ']",Classic
+Zürich,Al-Jarreau-&-NDR-Bigband,2016-12-01,"[' Al Jarreau ', ' Ernst Friedrich Felsch ', ' Björn Berger ', ' Christof Lauer ', ' Frank Delle ']",
+Zürich,Unger-üs-Famlienalbum,2016-12-01,"[' Isa Wiss ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
+Basel,Grossstadtgeflüster,2016-12-01,['Grossstadtgeflüster '],Pop
+Zürich,Chachaloca,2016-12-01,"[' Alain von Ritter ', ' Jost Müller ', ' Richard Pechota ', ' Roman Glaser ']",
+Zürich,The-Toasters,2016-12-01,['The Toasters '],
+Bern,The-Sparklettes,2016-12-01,"[' Isabelle Ritter ', ' Nina Gutknecht ', ' Doris McVeigh ', ' Xenia Zampieri ']",
+Zürich,Billiger-Bauer-Hymn-for-a-Mindful-Society,2016-12-01,"['Omri Ziegele ', ' Jürg Wickihalder ', ' Marco Von Orelli ']",
+Liebefeld,Klaus-Koenig-Seven-Things,2016-12-01,"[' Daniel Schenker ', ' Christoph Merki ', ' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']",
+Zürich,The-Chamber-Music-Effect,2016-12-01,"['Vein ', ' Michael Arbenz ', ' Thomas Lähns ', ' Florian Arbenz ']",
+Thun,Spax-&-Mirko-Machine,2016-12-01,['Spax & Mirko Machine '],
+Baden,Acquaroli,2016-12-01,"[' Nadja Acquaroli ', ' Vero Kreienbühl ', ' Dänu Affolter ', ' Zaani ', ' Simi Grenacher ']",Pop
+Basel,New-Baroque,2016-12-01,"[' Adam Taubitz ', ' Daniel Pezzotti ', ' Thomas Dobler ']",
+Zürich,Marathon-der-Liebe-IOIC-Stummfilm-Festival,2016-12-01,"['Die Pest in Florenz ', ' Dominik Blum ', ' Peter Conradin Zumthor ']",Classic
+Zürich,Borderline-Symphony,2016-12-01,['Borderline Symphony '],Pop
+Zürich,Yiannis-Aggelakas-&-100°C,2016-12-01,['Yiannis Aggelakas & 100°C '],
+Winterthur,Bilitis,2016-12-01,"['Dimitri Vecchi  ', ' Consuelo Giulianelli ', ' Katrin Bamert ', ' Rafael Rütti ']",Classic
+Basel,Sedlmeir,2016-12-01,['Sedlmeir '],traditional
+Lausanne,Oathbreaker,2016-12-01,"['Oathbreaker ', ' Wife ']",
+Bern,David-Hope-&-Nick-Africano,2016-12-01,['David Hope & Nick Africano '],Pop
+Zürich,Fuzzman,2016-12-01,['Fuzzman '],
+Zürich,Marathon-der-Liebe-IOIC-Stummfilm-Festival,2016-12-01,['The Dragon Painter '],Classic

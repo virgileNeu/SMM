@@ -1,56 +1,56 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment,2014-03-21,['Herb Miller '],
-1,Basel,Orgelspiel-zum-Feierabend,2014-03-21,['Aurore Baal '],Classic
-2,null,Between-the-Beats,2014-03-21,"[' Abby ', ' Lilly Wood & The Prick ']",Pop
-3,Stäfa,Organpops-Poporgan,2014-03-21,['Michael Pelzel '],Classic
-4,Basel,Max-Mutzke,2014-03-21,"['Max Mutzke ', ' support: Jeru Ilfu ']",Pop
-5,null,8.-Tonhallekonzert-Frühlingssinfonie,2014-03-21,['Simone Lamsma '],Classic
-6,Zürich,Konzert,2014-03-21,['Emanuel Ax '],Classic
-7,Bern,Mahlers-Fünfte,2014-03-21,[' Lena Neudauer '],Classic
-8,Basel,Frühlingsbeginn-in-Schräglage,2014-03-21,"[' Annette Labusch ', ' Stefi Spinas ']",Classic
-9,Basel,Ich-träume-mir-ein-Land,2014-03-21,"['Nicoleta Paraschivescu ', ' Philipp Roth ']",Classic
-10,Basel,Energisch-und-doch-unendlich-feinnervig,2014-03-21,[' Jan Schultze '],Classic
-11,Zürich,Internationales-Country-Music-Festival,2014-03-21,['The Bellamy Brothers '],
-12,Zürich,Gloria,2014-03-21,['Gloria '],Pop
-13,Zürich,Hansi-Hinterseer,2014-03-21,['Hansi Hinterseer '],traditional
-14,Jona,Pippo-Pollina-&-Palermo-Acoustic-Quartet,2014-03-21,"['Pippo Pollina & Palermo Acoustic Quartet ', ' Pippo Pollina ', ' Roberto Petroli ', ' Max Kämmerling ', ' Luca Lo Bianco ', ' Fabrizio Giambanco ']",Pop
-15,Zürich,Revolverheld,2014-03-21,"['Revolverheld ', ' Sebastian Lind ']",
-16,Pratteln,Chris-Thompson,2014-03-21,['Chris Thompson '],
-17,Basel,Goran-Bregovic-&-his-Wedding-and-Funeral-Band,2014-03-21,['Goran Bregovic & his Wedding and Funeral Band '],
-18,Zürich,Acoustic-Friday,2014-03-21,[' Claudio Kaiser '],Pop
-19,Zürich,Max-Bailey,2014-03-21,"[' Leroy Biscette ', ' Alain Duff ', ' Ueli Zimmermann ', ' Benno Frischkopf ']",Pop
-20,Basel,Trio-Estee-Mates,2014-03-21,"[' Emma Skyllback ', ' Tahel Buchhold ', ' Sasha Shlain ']",Electronic
-21,Zürich,Seelenhäger-Inc.,2014-03-21,"[' Andreas Stahel ', ' Tobias Hunziker ']",Pop
-22,Basel,Sam,2014-03-21,['Sam '],
-23,Langnau-am-Albis,Boris-Vian,2014-03-21,"[' Sarah Maurer ', ' Yves Raeber ', ' Thomas Bloch-Bonhoff ']",Pop
-24,Zürich,Keller-Von-Orelli-Suter,2014-03-21,[' The Gate '],
-25,null,Hans-Söllner,2014-03-21,['Hans Söllner '],Pop
-26,Bülach,The-Three-Wise-Men-&-Scott-Hamilton,2014-03-21,"['The Three Wise Men & Scott Hamilton ', ' Frank Roberscheuten ', ' Scott Hamilton ', ' Rossano Sportiello ', ' Martin Breinschmid ']",
-27,Zofingen,Les-Deux,2014-03-21,"[' Beat Escher ', ' Noby Lehmann ']",
-28,Baden,Close-Harmony,2014-03-21,"[' Felix Trachsel ', ' Christoph Horlacher ']",Pop
-29,Basel,Chris-O'Leary-Band-with-Alex-Schultz,2014-03-21,"[""Chris O'Leary Band with Alex Schultz ""]",
-30,Winterthur,Vince-Benedetti-Heartdrops,2014-03-21,"[' Vince Benedetti ', ' Martien Oster ', ' Christoph Sprenger ', ' Alberto Canonico ']",
-31,Wil,Eko-Fresh,2014-03-21,"['Eko Fresh ', ' Motrip ']",
-32,Liebefeld,Joe-Haider-Quartett,2014-03-21,"[' Domenic Landolf ', ' Joe Haider ', ' Raffaele Bossard ', ' Dominic Egli ']",
-33,Basel,Primavera-porteña,2014-03-21,"[' Marcela Arroyo ', ' Marcelo Nisinman ']",
-34,Zürich,The-Ruins-of-Beverast,2014-03-21,['The Ruins of Beverast '],
-35,Basel,Wiesendanger-Penz-Barreto,2014-03-21,"[' Chris Wiesendanger ', ' Dudu Penz ', ' Julio Barreto ']",
-36,Baden,Tabor,2014-03-21,['Tabor '],
-37,Zug,Celtic-Spring-Caravan,2014-03-21,"['Dermot Byrne & Floriane Blancke ', ' Clara Rose ', "" Tommy O'Sullivan & Meabh O'Hare & PJ King ""]",
-38,Lausanne,Beth-Hart,2014-03-21,['Beth Hart '],
-39,Bellinzona,Un-canto-lungo-50-anni,2014-03-21,['Giovanna Marini '],
-40,Bern,Them-Fleurs,2014-03-21,['Them Fleurs '],
-41,Baden,Fiddler's-Green,2014-03-21,"[""Fiddler's Green ""]",
-42,Zürich,Atonal-Mini-Festival,2014-03-21,['Meira Asher & Eran Sachs '],
-43,Aarburg,TM-Stevens-Shocka-Zooloo,2014-03-21,"['TM Stevens Shocka Zooloo ', ' Twin Dragons ']",
-44,Zürich,Überyou,2014-03-21,['Überyou '],
-45,Zürich,Zürich-Jazz-Orchestra-feat-Daniel-Schenker,2014-03-21,"[' Daniel Schenker ', ' Reto Suhner ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas Lüthi ', ' Matthias Tschopp ', ' Adrian Weber ', ' René Mosele ', ' Silvio Cadotsch ']",
-46,Baden,Alvin-Zealot,2014-03-21,[' anschl. Party mit DJ Zart Strom '],
-47,Rubigen,The-Aristocrats,2014-03-21,['The Aristocrats '],
-48,Düdingen,Mmmh,2014-03-21,['Mmmh '],
-49,Zürich,Peer-Rezia,2014-03-21,['Peer Rezia '],Pop
-50,Aarau,Rainer-von-Vielen,2014-03-21,['Rainer von Vielen '],Pop
-51,Basel,Grindsoirée,2014-03-21,"['Planks ', ' Gentle Art of Choking ', ' Cruel Friends ', ' Geraniüm ']",
-52,Luzern,Konzert,2014-03-21,"['Andy Scherrer ', ' Schmidlin ', ' Michael Chylewski ', ' Ann Malcom ']",
-53,Bern,Dead-Beats,2014-03-21,['Dead Beats '],
-54,Kriens,Lowlakes,2014-03-21,"['Lowlakes ', ' Someone Still Loves You Boris Yeltsin ']",Pop
+location,event,date,artists,genre
+Luzern,Piano-Entertainment,2014-03-21,['Herb Miller '],
+Basel,Orgelspiel-zum-Feierabend,2014-03-21,['Aurore Baal '],Classic
+null,Between-the-Beats,2014-03-21,"[' Abby ', ' Lilly Wood & The Prick ']",Pop
+Stäfa,Organpops-Poporgan,2014-03-21,['Michael Pelzel '],Classic
+Basel,Max-Mutzke,2014-03-21,"['Max Mutzke ', ' support: Jeru Ilfu ']",Pop
+null,8.-Tonhallekonzert-Frühlingssinfonie,2014-03-21,['Simone Lamsma '],Classic
+Zürich,Konzert,2014-03-21,['Emanuel Ax '],Classic
+Bern,Mahlers-Fünfte,2014-03-21,[' Lena Neudauer '],Classic
+Basel,Frühlingsbeginn-in-Schräglage,2014-03-21,"[' Annette Labusch ', ' Stefi Spinas ']",Classic
+Basel,Ich-träume-mir-ein-Land,2014-03-21,"['Nicoleta Paraschivescu ', ' Philipp Roth ']",Classic
+Basel,Energisch-und-doch-unendlich-feinnervig,2014-03-21,[' Jan Schultze '],Classic
+Zürich,Internationales-Country-Music-Festival,2014-03-21,['The Bellamy Brothers '],
+Zürich,Gloria,2014-03-21,['Gloria '],Pop
+Zürich,Hansi-Hinterseer,2014-03-21,['Hansi Hinterseer '],traditional
+Jona,Pippo-Pollina-&-Palermo-Acoustic-Quartet,2014-03-21,"['Pippo Pollina & Palermo Acoustic Quartet ', ' Pippo Pollina ', ' Roberto Petroli ', ' Max Kämmerling ', ' Luca Lo Bianco ', ' Fabrizio Giambanco ']",Pop
+Zürich,Revolverheld,2014-03-21,"['Revolverheld ', ' Sebastian Lind ']",
+Pratteln,Chris-Thompson,2014-03-21,['Chris Thompson '],
+Basel,Goran-Bregovic-&-his-Wedding-and-Funeral-Band,2014-03-21,['Goran Bregovic & his Wedding and Funeral Band '],
+Zürich,Acoustic-Friday,2014-03-21,[' Claudio Kaiser '],Pop
+Zürich,Max-Bailey,2014-03-21,"[' Leroy Biscette ', ' Alain Duff ', ' Ueli Zimmermann ', ' Benno Frischkopf ']",Pop
+Basel,Trio-Estee-Mates,2014-03-21,"[' Emma Skyllback ', ' Tahel Buchhold ', ' Sasha Shlain ']",Electronic
+Zürich,Seelenhäger-Inc.,2014-03-21,"[' Andreas Stahel ', ' Tobias Hunziker ']",Pop
+Basel,Sam,2014-03-21,['Sam '],
+Langnau-am-Albis,Boris-Vian,2014-03-21,"[' Sarah Maurer ', ' Yves Raeber ', ' Thomas Bloch-Bonhoff ']",Pop
+Zürich,Keller-Von-Orelli-Suter,2014-03-21,[' The Gate '],
+null,Hans-Söllner,2014-03-21,['Hans Söllner '],Pop
+Bülach,The-Three-Wise-Men-&-Scott-Hamilton,2014-03-21,"['The Three Wise Men & Scott Hamilton ', ' Frank Roberscheuten ', ' Scott Hamilton ', ' Rossano Sportiello ', ' Martin Breinschmid ']",
+Zofingen,Les-Deux,2014-03-21,"[' Beat Escher ', ' Noby Lehmann ']",
+Baden,Close-Harmony,2014-03-21,"[' Felix Trachsel ', ' Christoph Horlacher ']",Pop
+Basel,Chris-O'Leary-Band-with-Alex-Schultz,2014-03-21,"[""Chris O'Leary Band with Alex Schultz ""]",
+Winterthur,Vince-Benedetti-Heartdrops,2014-03-21,"[' Vince Benedetti ', ' Martien Oster ', ' Christoph Sprenger ', ' Alberto Canonico ']",
+Wil,Eko-Fresh,2014-03-21,"['Eko Fresh ', ' Motrip ']",
+Liebefeld,Joe-Haider-Quartett,2014-03-21,"[' Domenic Landolf ', ' Joe Haider ', ' Raffaele Bossard ', ' Dominic Egli ']",
+Basel,Primavera-porteña,2014-03-21,"[' Marcela Arroyo ', ' Marcelo Nisinman ']",
+Zürich,The-Ruins-of-Beverast,2014-03-21,['The Ruins of Beverast '],
+Basel,Wiesendanger-Penz-Barreto,2014-03-21,"[' Chris Wiesendanger ', ' Dudu Penz ', ' Julio Barreto ']",
+Baden,Tabor,2014-03-21,['Tabor '],
+Zug,Celtic-Spring-Caravan,2014-03-21,"['Dermot Byrne & Floriane Blancke ', ' Clara Rose ', "" Tommy O'Sullivan & Meabh O'Hare & PJ King ""]",
+Lausanne,Beth-Hart,2014-03-21,['Beth Hart '],
+Bellinzona,Un-canto-lungo-50-anni,2014-03-21,['Giovanna Marini '],
+Bern,Them-Fleurs,2014-03-21,['Them Fleurs '],
+Baden,Fiddler's-Green,2014-03-21,"[""Fiddler's Green ""]",
+Zürich,Atonal-Mini-Festival,2014-03-21,['Meira Asher & Eran Sachs '],
+Aarburg,TM-Stevens-Shocka-Zooloo,2014-03-21,"['TM Stevens Shocka Zooloo ', ' Twin Dragons ']",
+Zürich,Überyou,2014-03-21,['Überyou '],
+Zürich,Zürich-Jazz-Orchestra-feat-Daniel-Schenker,2014-03-21,"[' Daniel Schenker ', ' Reto Suhner ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas Lüthi ', ' Matthias Tschopp ', ' Adrian Weber ', ' René Mosele ', ' Silvio Cadotsch ']",
+Baden,Alvin-Zealot,2014-03-21,[' anschl. Party mit DJ Zart Strom '],
+Rubigen,The-Aristocrats,2014-03-21,['The Aristocrats '],
+Düdingen,Mmmh,2014-03-21,['Mmmh '],
+Zürich,Peer-Rezia,2014-03-21,['Peer Rezia '],Pop
+Aarau,Rainer-von-Vielen,2014-03-21,['Rainer von Vielen '],Pop
+Basel,Grindsoirée,2014-03-21,"['Planks ', ' Gentle Art of Choking ', ' Cruel Friends ', ' Geraniüm ']",
+Luzern,Konzert,2014-03-21,"['Andy Scherrer ', ' Schmidlin ', ' Michael Chylewski ', ' Ann Malcom ']",
+Bern,Dead-Beats,2014-03-21,['Dead Beats '],
+Kriens,Lowlakes,2014-03-21,"['Lowlakes ', ' Someone Still Loves You Boris Yeltsin ']",Pop

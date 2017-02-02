@@ -1,19 +1,19 @@
-,location,event,date,artists,genre
-0,Verbier,Verbier-Festival,2013-07-24,['Milo Karadagli '],Classic
-1,Verbier,Verbier-Festival,2013-07-24,"[' David Aaron Carpenter ', ' Julien Quentin ']",Classic
-2,Paléo,Nyon,2013-07-24,"['The Smashing Pumpkins ', ' Arctic Monkeys ', ' Asaf Avidan ', ' Beach House ', ' Bloody Beetroots ', ' Danko Jones ', ' Mass Hysteria ', ' Lescop ', ' Jonathan Wilson ', ' School is Cool ', ' Beware Of Darkness ', ' BRNS ']",
-3,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-07-24,['Mark Tenger '],
-4,Zürich,Die-Orgel-tanzt,2013-07-24,['David Franke '],Classic
-5,Verbier,Verbier-Festival,2013-07-24,"['Pinchas Zukerman ', ' Amanda Forsyth ', ' Angela Cheng ']",Classic
-6,Zürich,Serenade-im-Park,2013-07-24,[' Benjamin Engeli '],Classic
-7,Saanen,Clemenza-di-Tito,2013-07-24,"[' Sabine Meyer ', ' Polina Pasztircsák ']",Classic
-8,Zürich,Heldenbar,2013-07-24,['Violent Vickie '],
-9,Verbier,Verbier-Festival,2013-07-24,"['Simon Keenlyside ', ' Emanuel Ax ']",Classic
-10,Zürich,Rykka-&-Timothy-Jaromir,2013-07-24,"[' Rykka ', ' Timothy Jaromir ']",Pop
-11,Thun,Am-Schluss,2013-07-24,['Samir Essahbi '],
-12,Basel,Revolution,2013-07-24,"[' Stefan Rusconi ', ' Fabian Gisler ', ' Claudio Strüby ']",
-13,null,Langnau-Jazz-Nights,2013-07-24,"['Gilad Hekselman Trio ', ' Chris Dave and the Drumhedz ']",
-14,KKL,Luzern,2013-07-24,"['John Legend ', ' Cody Chesnutt ']",
-15,Barfussbar,Zürich,2013-07-24,"[' Jenny Chi ', ' André Siqueira ', ' Thomas Silvestri ', ' Ralph Sonderegger ', ' Mauro Martins ']",
-16,Zürich,Renzo-Spotti-Trio,2013-07-24,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
-17,Maggia,Magic-Blues-Festival,2013-07-24,['Linda Sings The Blues '],
+location,event,date,artists,genre
+Verbier,Verbier-Festival,2013-07-24,['Milo Karadagli '],Classic
+Verbier,Verbier-Festival,2013-07-24,"[' David Aaron Carpenter ', ' Julien Quentin ']",Classic
+Paléo,Nyon,2013-07-24,"['The Smashing Pumpkins ', ' Arctic Monkeys ', ' Asaf Avidan ', ' Beach House ', ' Bloody Beetroots ', ' Danko Jones ', ' Mass Hysteria ', ' Lescop ', ' Jonathan Wilson ', ' School is Cool ', ' Beware Of Darkness ', ' BRNS ']",
+Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-07-24,['Mark Tenger '],
+Zürich,Die-Orgel-tanzt,2013-07-24,['David Franke '],Classic
+Verbier,Verbier-Festival,2013-07-24,"['Pinchas Zukerman ', ' Amanda Forsyth ', ' Angela Cheng ']",Classic
+Zürich,Serenade-im-Park,2013-07-24,[' Benjamin Engeli '],Classic
+Saanen,Clemenza-di-Tito,2013-07-24,"[' Sabine Meyer ', ' Polina Pasztircsák ']",Classic
+Zürich,Heldenbar,2013-07-24,['Violent Vickie '],
+Verbier,Verbier-Festival,2013-07-24,"['Simon Keenlyside ', ' Emanuel Ax ']",Classic
+Zürich,Rykka-&-Timothy-Jaromir,2013-07-24,"[' Rykka ', ' Timothy Jaromir ']",Pop
+Thun,Am-Schluss,2013-07-24,['Samir Essahbi '],
+Basel,Revolution,2013-07-24,"[' Stefan Rusconi ', ' Fabian Gisler ', ' Claudio Strüby ']",
+null,Langnau-Jazz-Nights,2013-07-24,"['Gilad Hekselman Trio ', ' Chris Dave and the Drumhedz ']",
+KKL,Luzern,2013-07-24,"['John Legend ', ' Cody Chesnutt ']",
+Barfussbar,Zürich,2013-07-24,"[' Jenny Chi ', ' André Siqueira ', ' Thomas Silvestri ', ' Ralph Sonderegger ', ' Mauro Martins ']",
+Zürich,Renzo-Spotti-Trio,2013-07-24,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
+Maggia,Magic-Blues-Festival,2013-07-24,['Linda Sings The Blues '],

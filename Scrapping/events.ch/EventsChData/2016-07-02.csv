@@ -1,19 +1,19 @@
-,location,event,date,artists,genre
-0,null,Openair-St.-Gallen,2016-07-02,"['Radiohead ', ' Annenmaykantereit ', ' Caribou ']",Pop
-1,Winterthur,Maria-Razumovskaya,2016-07-02,['Maria Razumovskaya '],Classic
-2,Einsiedeln,La-teoria-degli-affetti,2016-07-02,"[' Luiz Alves da Silva ', ' Mathias Weibel ', ' Emanuele Forni ']",Classic
-3,Riehen,Hill-Chill-Openair-Festival,2016-07-02,"['Fatoni ', ' S-Hot ', ' SKIP&DIE ', ' Gina Été ', ' Fraîche ', ' Leyya ']",Pop
-4,St.-Stephan,Hangar-Rockin',2016-07-02,"['New Piccadillys ', ' JP Harris and his Tough Choices ', ' The Excitements ']",
-5,Wettingen,Openair-Wettingen,2016-07-02,"['Will & The People ', ' The Wanton Bishops ', ' Tired Lion ']",Pop
-6,Winterthur,Vesper,2016-07-02,"[' Claire de Sevigné ', ' Violetta Radomirska ', ' Boguslaw Bidzinski ', ' Cheyne Davidson ']",Classic
-7,Zürich,Renaissance-Ball,2016-07-02,"[' Ivo Haun ', ' Félix Verry  ', ' mit Véronique Daniels ']",Classic
-8,Zürich,Hommage-à-Brahms,2016-07-02,"['Mischa Greull ', ' Andreas Janke ', ' Seung-Yeun Huh ']",Classic
-9,Basel,Stars-at-the-Rhine-Rezital-Ravel,2016-07-02,['Larissa Dedova '],Classic
-10,Montreux,Montreux-Jazz-Festival,2016-07-02,['Muse '],Pop
-11,Montreux,Montreux-Jazz-Festival,2016-07-02,"['Randy Weston ', ' Aruán Ortiz Trio ']",
-12,Montreux,Montreux-Jazz-Festival,2016-07-02,"['Moderat ', ' Max Cooper ']",Electronic
-13,Wollerau,Clarinetto,2016-07-02,[' Rita Karin Meier '],Classic
-14,Bern,Bosporus-West,2016-07-02,"[' Theodosii Spasso ', ' Ivaylo Kovachev ', ' Boris Dinev ']",Classic
-15,Basel,World-of-Strings,2016-07-02,"[' Adam Taubitz ', ' Daniel Pezzotti ', ' Michael Bucher ', ' Rätus Flisch ', ' Claudio Spieler ']",
-16,null,Fiorenza-&-Weiss,2016-07-02,"[' Letizia Fiorenza ', ' Konrad Weiss ']",Pop
-17,-Alte-Kirche,Boswil,2016-07-02,['Claire Huangci '],Classic
+location,event,date,artists,genre
+null,Openair-St.-Gallen,2016-07-02,"['Radiohead ', ' Annenmaykantereit ', ' Caribou ']",Pop
+Winterthur,Maria-Razumovskaya,2016-07-02,['Maria Razumovskaya '],Classic
+Einsiedeln,La-teoria-degli-affetti,2016-07-02,"[' Luiz Alves da Silva ', ' Mathias Weibel ', ' Emanuele Forni ']",Classic
+Riehen,Hill-Chill-Openair-Festival,2016-07-02,"['Fatoni ', ' S-Hot ', ' SKIP&DIE ', ' Gina Été ', ' Fraîche ', ' Leyya ']",Pop
+St.-Stephan,Hangar-Rockin',2016-07-02,"['New Piccadillys ', ' JP Harris and his Tough Choices ', ' The Excitements ']",
+Wettingen,Openair-Wettingen,2016-07-02,"['Will & The People ', ' The Wanton Bishops ', ' Tired Lion ']",Pop
+Winterthur,Vesper,2016-07-02,"[' Claire de Sevigné ', ' Violetta Radomirska ', ' Boguslaw Bidzinski ', ' Cheyne Davidson ']",Classic
+Zürich,Renaissance-Ball,2016-07-02,"[' Ivo Haun ', ' Félix Verry  ', ' mit Véronique Daniels ']",Classic
+Zürich,Hommage-à-Brahms,2016-07-02,"['Mischa Greull ', ' Andreas Janke ', ' Seung-Yeun Huh ']",Classic
+Basel,Stars-at-the-Rhine-Rezital-Ravel,2016-07-02,['Larissa Dedova '],Classic
+Montreux,Montreux-Jazz-Festival,2016-07-02,['Muse '],Pop
+Montreux,Montreux-Jazz-Festival,2016-07-02,"['Randy Weston ', ' Aruán Ortiz Trio ']",
+Montreux,Montreux-Jazz-Festival,2016-07-02,"['Moderat ', ' Max Cooper ']",Electronic
+Wollerau,Clarinetto,2016-07-02,[' Rita Karin Meier '],Classic
+Bern,Bosporus-West,2016-07-02,"[' Theodosii Spasso ', ' Ivaylo Kovachev ', ' Boris Dinev ']",Classic
+Basel,World-of-Strings,2016-07-02,"[' Adam Taubitz ', ' Daniel Pezzotti ', ' Michael Bucher ', ' Rätus Flisch ', ' Claudio Spieler ']",
+null,Fiorenza-&-Weiss,2016-07-02,"[' Letizia Fiorenza ', ' Konrad Weiss ']",Pop
+-Alte-Kirche,Boswil,2016-07-02,['Claire Huangci '],Classic

@@ -1,12 +1,12 @@
-,location,event,date,artists,genre
-0,Bern,Mittags-Intermezzo-Chopin-Klavierkonzert,2014-01-14,['Igor Andreev '],Classic
-1,Zürich,Jazzapero,2014-01-14,"[' Niculin Janett ', ' Noam Szyfer ']",Pop
-2,Luzern,Piano-Entertainment,2014-01-14,['Mark Tenger '],
-3,Zürich,Migros-Kulturprozent-Classics,2014-01-14,"[' Sol Gabetta ', ' Matthias Arter ']",Classic
-4,Zürich,Kammermusikabend,2014-01-14,"['Alexandr Kutuzov ', ' Veriko Tchumburidze ', ' Ilya Bakhtin ']",Classic
-5,Zürich,Bach-im-Spiegel-von-alter-und-neuer-Welt,2014-01-14,['Felix Gubser '],Classic
-6,Luzern,Swing-de-Paris,2014-01-14,"[' Sophie Lüssi ', ' Felix Brühwiler ', ' Claudio Strebel ', ' David Beglinger ']",
-7,Luzern,Workshopkonzert,2014-01-14,"['Romano DAgostino ', ' Martial In-Albon ', ' Flavio Viazzoli ', ' Roberto Bossard ']",
-8,Zürich,Billiger-Bauer,2014-01-14,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Yves Reichmuth ', ' Gabriela Friedli ']",
-9,Basel,guitars@basel-Tomas-Sauter-Daniel-Schläppi,2014-01-14,"[' Tomas Sauter ', ' Daniel Schläppi ']",
-10,Bern,Tuesday-Jam,2014-01-14,"['Matthias Kohner ', ' Lukas Thöni ', ' André Pousaz ', ' Tobias Friedli ']",
+location,event,date,artists,genre
+Bern,Mittags-Intermezzo-Chopin-Klavierkonzert,2014-01-14,['Igor Andreev '],Classic
+Zürich,Jazzapero,2014-01-14,"[' Niculin Janett ', ' Noam Szyfer ']",Pop
+Luzern,Piano-Entertainment,2014-01-14,['Mark Tenger '],
+Zürich,Migros-Kulturprozent-Classics,2014-01-14,"[' Sol Gabetta ', ' Matthias Arter ']",Classic
+Zürich,Kammermusikabend,2014-01-14,"['Alexandr Kutuzov ', ' Veriko Tchumburidze ', ' Ilya Bakhtin ']",Classic
+Zürich,Bach-im-Spiegel-von-alter-und-neuer-Welt,2014-01-14,['Felix Gubser '],Classic
+Luzern,Swing-de-Paris,2014-01-14,"[' Sophie Lüssi ', ' Felix Brühwiler ', ' Claudio Strebel ', ' David Beglinger ']",
+Luzern,Workshopkonzert,2014-01-14,"['Romano DAgostino ', ' Martial In-Albon ', ' Flavio Viazzoli ', ' Roberto Bossard ']",
+Zürich,Billiger-Bauer,2014-01-14,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Yves Reichmuth ', ' Gabriela Friedli ']",
+Basel,guitars@basel-Tomas-Sauter-Daniel-Schläppi,2014-01-14,"[' Tomas Sauter ', ' Daniel Schläppi ']",
+Bern,Tuesday-Jam,2014-01-14,"['Matthias Kohner ', ' Lukas Thöni ', ' André Pousaz ', ' Tobias Friedli ']",

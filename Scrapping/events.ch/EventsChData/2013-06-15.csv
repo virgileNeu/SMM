@@ -1,35 +1,35 @@
-,location,event,date,artists,genre
-0,Flugplatzareal,Interlaken,2013-06-15,"['Bad Religion ', ' The Devil Wears Prada ', ' Deez Nuts ', ' Eskimo Callboy ', ' Adept ', ' Betraying the Martyrs ', ' Palm Reader ']",
-1,Flugplatzareal,Interlaken,2013-06-15,"['Nightwish ', ' Ska-P ', ' Airbourne ', ' Bullet for My Valentine ', ' Boysetsfire ', ' Mono Inc. ', ' Deaf Havana ']",
-2,Zürich,2.-Zürcher-Orgelspaziergang,2013-06-15,['Ursina Caflisch '],Classic
-3,e-198056,,2013-06-15,['Works by Heinz Specker '],Classic
-4,e-195155,,2013-06-15,['Muse '],
-5,Grabenhalle,null,2013-06-15,"['Parasite Circus ', ' Becky Lee and Drunkfoot ']",
-6,Zürich,2.-Zürcher-Orgelspaziergang,2013-06-15,['Andreas J. Giger '],Classic
-7,Thalwil,Sommerkonzerte,2013-06-15,[' Dario Schmid '],Classic
-8,e-198057,,2013-06-15,['Andreas Jost '],Classic
-9,Basel,Masterrezital,2013-06-15,[' Keitaro Takahashi '],Classic
-10,Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-06-15,['Christian Mettler '],Pop
-11,Sonnenberg,Kriens,2013-06-15,[' Land Observations '],
-12,Basel,Ein-Magier,2013-06-15,['Rohan de Saram '],Classic
-13,Zürich,Preisträger-Duo,2013-06-15,"['Sergey Koudriakov ', ' Sandi Toka Nova ']",Classic
-14,Zürich,Zürcher-Festspiele-Eröffnungskonzert,2013-06-15,"[' Yvonne Naef ', ' Detlef Roth ']",Classic
-15,Luzern,Konzert,2013-06-15,"[' Letizia Scherrer ', ' Patricia Flury ', ' Barbara Magdalena Erni ', ' Robert Maszl ', ' Marc-Olivier Oetterli ']",Classic
-16,Zürich,Taktlos,2013-06-15,"['Hannes Loeschel Exit Eden feat. Phil Minton ', ' Iiro Rantala ', ' Kelvin Sholar Group feat. Makiko Tominaga ']",
-17,Orangerie-im-Sarasinpark,Riehen,2013-06-15,['Element of Crime '],
-18,Dornach,Saisonfinale,2013-06-15,[' Elena Graf '],Classic
-19,Bossard-Arena,Zug,2013-06-15,"['Joe Cocker ', ' Foreigner ']",
-20,Winterthur,Trio-Angeluci,2013-06-15,"[' Lucia Sachs ', ' Angelika Bauer ', ' Fridolin Berger ']",
-21,Winterthur,Trio-Angeluci,2013-06-15,"[' Lucia Sachs ', ' Angelika Bauer ', ' Fridolin Berger ']",
-22,Hallenstadion,Zürich,2013-06-15,['Alicia Keys '],
-23,Basel,Masterrezital,2013-06-15,[' Liudmyla Polova '],Classic
-24,Wädenswil,Agnes-Heginger-&-Georg-Breinschmid,2013-06-15,"[' Agnes Heginger ', ' Georg Breinschmid ', ' Gerald Preinfalk ', ' Antoni Donchev ']",
-25,Zürich,Der-Grosse-Bär,2013-06-15,"[' Roberto Domeniconi ', ' Flo Götte ', ' Manuel Mengis ', ' Achim Escher ', ' Harald Haerter ', ' Luca Ramella ']",
-26,Uster,Beat-&-Ernesto,2013-06-15,"[' Ernesto Voegeli ', ' Beat Binder ']",Pop
-27,Mühle-Hunziken,Rubigen,2013-06-15,['John Lee Hooker Jr. & Band '],
-28,Uzwil,Visco-Tears-&-Nathalie-Maerten,2013-06-15,"[' Urs Germann ', ' Felix Looser ', ' Paul Stadler ']",
-29,Querfeld-Halle,Basel,2013-06-15,"[' Thomas Nikles ', ' Simon Hirsiger ', ' Matthias Baumann ', ' Peter Wagner ', ' Magor Szilagyi ', ' Rainer Schudel ', ' Gianni Lanzilotti ']",Famara
-30,Basel,Dead-Western-Trio,2013-06-15,['Dead Western Trio '],
-31,null,Baby-Cham,2013-06-15,"['Baby Cham ', ' Million Stylez ']",
-32,Schlachthaus-Theater,Bern,2013-06-15,[' im Rahmen von: Wem gehört die Stadt? '],
-33,Zürich,Dyonikal,2013-06-15,[' DJs Jan le Gitan '],
+location,event,date,artists,genre
+Flugplatzareal,Interlaken,2013-06-15,"['Bad Religion ', ' The Devil Wears Prada ', ' Deez Nuts ', ' Eskimo Callboy ', ' Adept ', ' Betraying the Martyrs ', ' Palm Reader ']",
+Flugplatzareal,Interlaken,2013-06-15,"['Nightwish ', ' Ska-P ', ' Airbourne ', ' Bullet for My Valentine ', ' Boysetsfire ', ' Mono Inc. ', ' Deaf Havana ']",
+Zürich,2.-Zürcher-Orgelspaziergang,2013-06-15,['Ursina Caflisch '],Classic
+e-198056,,2013-06-15,['Works by Heinz Specker '],Classic
+e-195155,,2013-06-15,['Muse '],
+Grabenhalle,null,2013-06-15,"['Parasite Circus ', ' Becky Lee and Drunkfoot ']",
+Zürich,2.-Zürcher-Orgelspaziergang,2013-06-15,['Andreas J. Giger '],Classic
+Thalwil,Sommerkonzerte,2013-06-15,[' Dario Schmid '],Classic
+e-198057,,2013-06-15,['Andreas Jost '],Classic
+Basel,Masterrezital,2013-06-15,[' Keitaro Takahashi '],Classic
+Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-06-15,['Christian Mettler '],Pop
+Sonnenberg,Kriens,2013-06-15,[' Land Observations '],
+Basel,Ein-Magier,2013-06-15,['Rohan de Saram '],Classic
+Zürich,Preisträger-Duo,2013-06-15,"['Sergey Koudriakov ', ' Sandi Toka Nova ']",Classic
+Zürich,Zürcher-Festspiele-Eröffnungskonzert,2013-06-15,"[' Yvonne Naef ', ' Detlef Roth ']",Classic
+Luzern,Konzert,2013-06-15,"[' Letizia Scherrer ', ' Patricia Flury ', ' Barbara Magdalena Erni ', ' Robert Maszl ', ' Marc-Olivier Oetterli ']",Classic
+Zürich,Taktlos,2013-06-15,"['Hannes Loeschel Exit Eden feat. Phil Minton ', ' Iiro Rantala ', ' Kelvin Sholar Group feat. Makiko Tominaga ']",
+Orangerie-im-Sarasinpark,Riehen,2013-06-15,['Element of Crime '],
+Dornach,Saisonfinale,2013-06-15,[' Elena Graf '],Classic
+Bossard-Arena,Zug,2013-06-15,"['Joe Cocker ', ' Foreigner ']",
+Winterthur,Trio-Angeluci,2013-06-15,"[' Lucia Sachs ', ' Angelika Bauer ', ' Fridolin Berger ']",
+Winterthur,Trio-Angeluci,2013-06-15,"[' Lucia Sachs ', ' Angelika Bauer ', ' Fridolin Berger ']",
+Hallenstadion,Zürich,2013-06-15,['Alicia Keys '],
+Basel,Masterrezital,2013-06-15,[' Liudmyla Polova '],Classic
+Wädenswil,Agnes-Heginger-&-Georg-Breinschmid,2013-06-15,"[' Agnes Heginger ', ' Georg Breinschmid ', ' Gerald Preinfalk ', ' Antoni Donchev ']",
+Zürich,Der-Grosse-Bär,2013-06-15,"[' Roberto Domeniconi ', ' Flo Götte ', ' Manuel Mengis ', ' Achim Escher ', ' Harald Haerter ', ' Luca Ramella ']",
+Uster,Beat-&-Ernesto,2013-06-15,"[' Ernesto Voegeli ', ' Beat Binder ']",Pop
+Mühle-Hunziken,Rubigen,2013-06-15,['John Lee Hooker Jr. & Band '],
+Uzwil,Visco-Tears-&-Nathalie-Maerten,2013-06-15,"[' Urs Germann ', ' Felix Looser ', ' Paul Stadler ']",
+Querfeld-Halle,Basel,2013-06-15,"[' Thomas Nikles ', ' Simon Hirsiger ', ' Matthias Baumann ', ' Peter Wagner ', ' Magor Szilagyi ', ' Rainer Schudel ', ' Gianni Lanzilotti ']",Famara
+Basel,Dead-Western-Trio,2013-06-15,['Dead Western Trio '],
+null,Baby-Cham,2013-06-15,"['Baby Cham ', ' Million Stylez ']",
+Schlachthaus-Theater,Bern,2013-06-15,[' im Rahmen von: Wem gehört die Stadt? '],
+Zürich,Dyonikal,2013-06-15,[' DJs Jan le Gitan '],

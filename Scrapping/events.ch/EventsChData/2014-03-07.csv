@@ -1,49 +1,49 @@
-,location,event,date,artists,genre
-0,Winterthur,Midi-musical-Musse-&-Melodien-über-Mittag,2014-03-07,"['Ryoko Suguri ', ' Mija Läuchli ', ' Reto Cuonz ', ' Martin Zimmermann ']",Classic
-1,Luzern,Piano-Entertainment,2014-03-07,['Christian Mettler '],Pop
-2,Basel,Orgelspiel-zum-Feierabend,2014-03-07,['Markus Schwenkreis '],Classic
-3,Zürich,Midlake,2014-03-07,"['Midlake ', ' Israel Nash ']",
-4,Zürich,The-United-Kingdom-Ukulele-Orchestra,2014-03-07,['The United Kingdom Ukulele Orchestra '],
-5,Brunnen,Flamen-Clàsi-Co,2014-03-07,"['Antonio de Cadiz ', ' Paulo Vinícius ', ' Sheila Runa ']",Classic
-6,Arbon,Phantom-of-the-Opera,2014-03-07,"['Stummfilm ', ' live begleitet von Peter Madsen ']",Classic
-7,Aarau,Ferne-Geliebte-Dichterliebe,2014-03-07,[' Christoph Prégardien '],Classic
-8,Uster,Un-palco-all'opera-Die-3-Tenöre,2014-03-07,"['Enrico Pavoni ', ' Francesco Cioni ', ' Leandro Maneoli ', ' conductor: Massimo Salotti ']",Classic
-9,Bern,Dmitri-Hvorostovsky-Extrakonzert,2014-03-07,['Ivari Ilja '],Classic
-10,Zürich,Internationales-Country-Music-Festival,2014-03-07,"['Dailey & Vincent ', ' Stringcaster ']",
-11,Aarau,Dichter-und-ihre-Gesellen-Eichendorff-in-Spiegelungen,2014-03-07,"['Sybille Diethelm ', ' Valentin Johannes Gloor ', ' Rahel Sohn Achermann ']",Classic
-12,Regensdorf,Gustavo-Lima,2014-03-07,['Gustavo Lima '],
-13,Zürich,Ich-bin-in-der-Brigitte,2014-03-07,['C. Heiland '],Pop
-14,Uster,The-Deep-End,2014-03-07,['The Deep End '],
-15,Théâtre-du-Léman,null,2014-03-07,['Carla Bruni '],
-16,Solothurn,Angélique-Kidjo,2014-03-07,['Angélique Kidjo '],
-17,Wettingen,Wilde-Abruzzen,2014-03-07,"['Giovanni Bellucci ', ' Gérard Caussé ']",Classic
-18,Zürich,Casper,2014-03-07,['Casper '],
-19,Affoltern-am-Albis,Konzert,2014-03-07,"[' Mirjam Tschopp ', ' Claude Hauri ', ' Corrado Greco ']",Classic
-20,null,Giorgio-Conte,2014-03-07,['Giorgio Conte '],
-21,Winterthur,Bucher-Sommer-Friedli-Aeby,2014-03-07,"[' Stefan Aeby ', ' Michael Bucher ', ' Patrick Sommer ', ' Tobias Friedli ']",
-22,Zürich,Garcin-Loriot,2014-03-07,"[' Lionel Garcin ', ' Frantz Loriot ']",
-23,Liebefeld,Der-Wawawa,2014-03-07,"[' Benedikt Reising ', ' Marco Müller ', ' Rico Baumann ']",
-24,Aarau,Götz-Widmann,2014-03-07,['Götz Widmann '],Pop
-25,Pratteln,Joanne-Shaw-Taylor,2014-03-07,['Joanne Shaw Taylor '],
-26,Buchs,From-Tango-to-Chick-Corea,2014-03-07,"[' Annalise Bereiter-Grob ', ' Roland Christen ', ' Reto Giacopuzzi ', ' Erich Tiefenthaler ', ' Luciano Jungmann ']",
-27,Baden,Kieran-Halpin,2014-03-07,['Kieran Halpin '],
-28,Zürich,Wolf-in-Loveland,2014-03-07,['Wolf in Loveland '],
-29,Basel,Jerry-Bergonzi,2014-03-07,"[' Jerry Bergonzi ', ' Dick Oatts ', ' Dave Santoro ', ' Andrea Michelutti ']",
-30,Zürich,Thomas-Lüthi's-Biwak,2014-03-07,"[' Thomas Lüthi ', ' Arne Huber', ' Claudio Strüby']",
-31,Zürich,Hellmüller-Risso-Zanoli,2014-03-07,"[' Franz Hellmüller ', ' Stefano Risso ', ' Marco Zanoli ']",
-32,Winterthur,Rangleklods,2014-03-07,['Rangleklods '],Pop
-33,null,Woodbridge,2014-03-07,['Woodbridge '],
-34,Bern,Nihilo,2014-03-07,"['Nihilo ', ' Funeral Whore ']",
-35,Schaffhausen,Wasted,2014-03-07,"['Wasted ', ' S.I.K. ']",
-36,Thun,Jeans-for-Jesus,2014-03-07,[' After-Party; Global Sounds mit DJ Baff '],
-37,Luzern,Ben-Schadow,2014-03-07,['Ben Schadow '],Pop
-38,Zürich,Christoph-Grabs-Raw-Vision,2014-03-07,"['Christoph Grabs Raw Vision ', ' Christoph Grab ', ' Frank Möbus ', ' Silvan Jeger ', ' Maxime Paratte ']",
-39,Baden,Internationaler-Frauentag,2014-03-07,['Dr. Bajan '],
-40,Düdingen,The-Field,2014-03-07,['The Field '],Electronic
-41,Bern,Miraculous-Mule,2014-03-07,['Miraculous Mule '],
-42,Luzern,Faya-Soldier,2014-03-07,['Faya Soldier '],
-43,Zürich,Metallspürhunde,2014-03-07,[' AlterRed '],
-44,Zürich,Vinnie-Paz,2014-03-07,"['Vinnie Paz ', ' Sean Strange & Illegal ']",
-45,Buchs,Grossstadtgeflüster,2014-03-07,['Grossstadtgeflüster '],Pop
-46,Zürich,Drumsound-&-Bassline-Smith,2014-03-07,['Drumsound & Bassline Smith '],Electronic
-47,Sankt-Gallen,Homeboy-Sandman,2014-03-07,['Homeboy Sandman '],Electronic
+location,event,date,artists,genre
+Winterthur,Midi-musical-Musse-&-Melodien-über-Mittag,2014-03-07,"['Ryoko Suguri ', ' Mija Läuchli ', ' Reto Cuonz ', ' Martin Zimmermann ']",Classic
+Luzern,Piano-Entertainment,2014-03-07,['Christian Mettler '],Pop
+Basel,Orgelspiel-zum-Feierabend,2014-03-07,['Markus Schwenkreis '],Classic
+Zürich,Midlake,2014-03-07,"['Midlake ', ' Israel Nash ']",
+Zürich,The-United-Kingdom-Ukulele-Orchestra,2014-03-07,['The United Kingdom Ukulele Orchestra '],
+Brunnen,Flamen-Clàsi-Co,2014-03-07,"['Antonio de Cadiz ', ' Paulo Vinícius ', ' Sheila Runa ']",Classic
+Arbon,Phantom-of-the-Opera,2014-03-07,"['Stummfilm ', ' live begleitet von Peter Madsen ']",Classic
+Aarau,Ferne-Geliebte-Dichterliebe,2014-03-07,[' Christoph Prégardien '],Classic
+Uster,Un-palco-all'opera-Die-3-Tenöre,2014-03-07,"['Enrico Pavoni ', ' Francesco Cioni ', ' Leandro Maneoli ', ' conductor: Massimo Salotti ']",Classic
+Bern,Dmitri-Hvorostovsky-Extrakonzert,2014-03-07,['Ivari Ilja '],Classic
+Zürich,Internationales-Country-Music-Festival,2014-03-07,"['Dailey & Vincent ', ' Stringcaster ']",
+Aarau,Dichter-und-ihre-Gesellen-Eichendorff-in-Spiegelungen,2014-03-07,"['Sybille Diethelm ', ' Valentin Johannes Gloor ', ' Rahel Sohn Achermann ']",Classic
+Regensdorf,Gustavo-Lima,2014-03-07,['Gustavo Lima '],
+Zürich,Ich-bin-in-der-Brigitte,2014-03-07,['C. Heiland '],Pop
+Uster,The-Deep-End,2014-03-07,['The Deep End '],
+Théâtre-du-Léman,null,2014-03-07,['Carla Bruni '],
+Solothurn,Angélique-Kidjo,2014-03-07,['Angélique Kidjo '],
+Wettingen,Wilde-Abruzzen,2014-03-07,"['Giovanni Bellucci ', ' Gérard Caussé ']",Classic
+Zürich,Casper,2014-03-07,['Casper '],
+Affoltern-am-Albis,Konzert,2014-03-07,"[' Mirjam Tschopp ', ' Claude Hauri ', ' Corrado Greco ']",Classic
+null,Giorgio-Conte,2014-03-07,['Giorgio Conte '],
+Winterthur,Bucher-Sommer-Friedli-Aeby,2014-03-07,"[' Stefan Aeby ', ' Michael Bucher ', ' Patrick Sommer ', ' Tobias Friedli ']",
+Zürich,Garcin-Loriot,2014-03-07,"[' Lionel Garcin ', ' Frantz Loriot ']",
+Liebefeld,Der-Wawawa,2014-03-07,"[' Benedikt Reising ', ' Marco Müller ', ' Rico Baumann ']",
+Aarau,Götz-Widmann,2014-03-07,['Götz Widmann '],Pop
+Pratteln,Joanne-Shaw-Taylor,2014-03-07,['Joanne Shaw Taylor '],
+Buchs,From-Tango-to-Chick-Corea,2014-03-07,"[' Annalise Bereiter-Grob ', ' Roland Christen ', ' Reto Giacopuzzi ', ' Erich Tiefenthaler ', ' Luciano Jungmann ']",
+Baden,Kieran-Halpin,2014-03-07,['Kieran Halpin '],
+Zürich,Wolf-in-Loveland,2014-03-07,['Wolf in Loveland '],
+Basel,Jerry-Bergonzi,2014-03-07,"[' Jerry Bergonzi ', ' Dick Oatts ', ' Dave Santoro ', ' Andrea Michelutti ']",
+Zürich,Thomas-Lüthi's-Biwak,2014-03-07,"[' Thomas Lüthi ', ' Arne Huber', ' Claudio Strüby']",
+Zürich,Hellmüller-Risso-Zanoli,2014-03-07,"[' Franz Hellmüller ', ' Stefano Risso ', ' Marco Zanoli ']",
+Winterthur,Rangleklods,2014-03-07,['Rangleklods '],Pop
+null,Woodbridge,2014-03-07,['Woodbridge '],
+Bern,Nihilo,2014-03-07,"['Nihilo ', ' Funeral Whore ']",
+Schaffhausen,Wasted,2014-03-07,"['Wasted ', ' S.I.K. ']",
+Thun,Jeans-for-Jesus,2014-03-07,[' After-Party; Global Sounds mit DJ Baff '],
+Luzern,Ben-Schadow,2014-03-07,['Ben Schadow '],Pop
+Zürich,Christoph-Grabs-Raw-Vision,2014-03-07,"['Christoph Grabs Raw Vision ', ' Christoph Grab ', ' Frank Möbus ', ' Silvan Jeger ', ' Maxime Paratte ']",
+Baden,Internationaler-Frauentag,2014-03-07,['Dr. Bajan '],
+Düdingen,The-Field,2014-03-07,['The Field '],Electronic
+Bern,Miraculous-Mule,2014-03-07,['Miraculous Mule '],
+Luzern,Faya-Soldier,2014-03-07,['Faya Soldier '],
+Zürich,Metallspürhunde,2014-03-07,[' AlterRed '],
+Zürich,Vinnie-Paz,2014-03-07,"['Vinnie Paz ', ' Sean Strange & Illegal ']",
+Buchs,Grossstadtgeflüster,2014-03-07,['Grossstadtgeflüster '],Pop
+Zürich,Drumsound-&-Bassline-Smith,2014-03-07,['Drumsound & Bassline Smith '],Electronic
+Sankt-Gallen,Homeboy-Sandman,2014-03-07,['Homeboy Sandman '],Electronic

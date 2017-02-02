@@ -1,19 +1,19 @@
-,location,event,date,artists,genre
-0,Basel,Sarah-MacDougall,2014-05-27,['Sarah MacDougall '],
-1,Basel,Masterrezital,2014-05-27,[' Mariya Strelbitska '],Classic
-2,Luzern,Piano-Entertainment,2014-05-27,['Daniel Ross '],Pop
-3,Zürich,Konzert-um-halb-acht,2014-05-27,"['Aline Willi-Jayet ', ' Carmen Würsch ', ' Claudio Steier ']",Classic
-4,Zürich,Abschlusskonzert-Dirigierkurs-David-Zinman,2014-05-27,[' Stephanie Jagsch-Pfeffer '],Classic
-5,Zürich,Ásgeir,2014-05-27,['Ásgeir '],Pop
-6,Basel,Masterrezital,2014-05-27,[' Xiaoke Jia '],Classic
-7,Zürich,Blood-Ceremony,2014-05-27,['Blood Ceremony '],
-8,Zürich,Bo-Saris,2014-05-27,['Bo Saris '],
-9,Zürich,Allan-Yn-Y-Fan,2014-05-27,['Allan Yn Y Fan '],
-10,null,Extreme-Doom-Night,2014-05-27,"['Conan ', ' Belzebong ', ' The Moth ']",
-11,Zürich,ZHdK-Masters-of-Pop,2014-05-27,"[' Moritz Vontobel ', ' Mischa Podstransky ']",Pop
-12,Aarau,Christian-Death,2014-05-27,['Christian Death '],
-13,Basel,Bachelorkonzert,2014-05-27,[' Stefan Kahle '],Classic
-14,Thun,Colin-Vallon-Trio,2014-05-27,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-15,Basel,Nostalgia,2014-05-27,"[' Nils Wogram ', ' Arno Krijger ', ' Dejan Terzic ']",
-16,Zürich,Wovenhand,2014-05-27,"['Wovenhand ', ' Christine Owman ']",
-17,Lausanne,Dawn-Landes,2014-05-27,['Dawn Landes '],
+location,event,date,artists,genre
+Basel,Sarah-MacDougall,2014-05-27,['Sarah MacDougall '],
+Basel,Masterrezital,2014-05-27,[' Mariya Strelbitska '],Classic
+Luzern,Piano-Entertainment,2014-05-27,['Daniel Ross '],Pop
+Zürich,Konzert-um-halb-acht,2014-05-27,"['Aline Willi-Jayet ', ' Carmen Würsch ', ' Claudio Steier ']",Classic
+Zürich,Abschlusskonzert-Dirigierkurs-David-Zinman,2014-05-27,[' Stephanie Jagsch-Pfeffer '],Classic
+Zürich,Ásgeir,2014-05-27,['Ásgeir '],Pop
+Basel,Masterrezital,2014-05-27,[' Xiaoke Jia '],Classic
+Zürich,Blood-Ceremony,2014-05-27,['Blood Ceremony '],
+Zürich,Bo-Saris,2014-05-27,['Bo Saris '],
+Zürich,Allan-Yn-Y-Fan,2014-05-27,['Allan Yn Y Fan '],
+null,Extreme-Doom-Night,2014-05-27,"['Conan ', ' Belzebong ', ' The Moth ']",
+Zürich,ZHdK-Masters-of-Pop,2014-05-27,"[' Moritz Vontobel ', ' Mischa Podstransky ']",Pop
+Aarau,Christian-Death,2014-05-27,['Christian Death '],
+Basel,Bachelorkonzert,2014-05-27,[' Stefan Kahle '],Classic
+Thun,Colin-Vallon-Trio,2014-05-27,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
+Basel,Nostalgia,2014-05-27,"[' Nils Wogram ', ' Arno Krijger ', ' Dejan Terzic ']",
+Zürich,Wovenhand,2014-05-27,"['Wovenhand ', ' Christine Owman ']",
+Lausanne,Dawn-Landes,2014-05-27,['Dawn Landes '],

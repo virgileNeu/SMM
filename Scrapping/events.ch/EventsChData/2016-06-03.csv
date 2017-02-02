@@ -1,45 +1,45 @@
-,location,event,date,artists,genre
-0,Chur,Buskers-Chur,2016-06-03,"['Barada Street ', ' Acoustic Guitar Kollektiv ', ' El Turbión ', ' Ohrbooten ']",Pop
-1,Düdingen,Bad-Bonn-Kilbi,2016-06-03,"['Floating Points ', ' Minor Victories ', ' Powell ', ' Parquet Courts ', ' A Love from Outer Space ', ' Jenny Hval ', ' Pissed Jeans ', ' No Zu ']",Pop
-2,Luzern,Iron-Maiden,2016-06-03,['Iron Maiden '],
-3,Laufen,Sommer-Lieder-Abend,2016-06-03,"[' Amélie Junes ', ' Michel Spahr ', ' Maxime Paratte ']",Pop
-4,Zürich,Marc-Halbheer's-Madrid-Edition,2016-06-03,"[' Miguel Linares ', ' Dany Noel ', ' Marc Halbheer ']",
-5,Zürich,Stolze-Openair,2016-06-03,['Sykur '],Pop
-6,Basel,Orgelspiel-zum-Feierabend,2016-06-03,['Willi Tittel '],Classic
-7,Dietikon,Feierabendmusik,2016-06-03,"['Olga Stepien ', ' Bernhard Hörler ']",
-8,Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-03,['Dylan Perron et Élixir de Gumbo '],
-9,Thun,Schlosskonzerte-Thun-Perlen-der-klassischen-Gitarre,2016-06-03,"['Víctor Pellegrini ', ' Etienne Abelin ', ' Lorenz Hasler ', ' Markus Noser ', ' Amparo del Riego ']",Classic
-10,Zürich,Festspiele-Zürich-Eröffnungskonzert-Weggefährten,2016-06-03,[' Radu Lupu '],Classic
-11,Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-03,"['Ingrid St-Pierre ', ' Brigitte Boisjoli ']",Pop
-12,Zürich,April-Calls,2016-06-03,['April Calls '],Electronic
-13,Oberengstringen,Lilly-Thornton-Quintett,2016-06-03,"[' Lilly Thornton ', ' Ull Möck ', ' Christian Meyers ', ' Jens Loh ', ' Elmar Frey ']",
-14,Zürich,Sedaa,2016-06-03,['Sedaa '],
-15,null,Solopiano,2016-06-03,['Julia Siedl '],
-16,Frauenfeld,Trödelmarkt-der-Träume,2016-06-03,"['Alexander Seidel ', ' Andrea Wiesli ']",Classic
-17,Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-03,"['Les Cowboys fringants ', ' 2 Frères ']",
-18,Chur,Falsche-Welt-dir-trau-ich-nicht,2016-06-03,"['Christel Elisabeth Smith ', ' Christiane Boesiger ', ' Hans-Jürgen Schöpflin ', ' Cornelia Kallisch ']",Classic
-19,Basel,Sono-un-fumo,2016-06-03,[' Flavio Ferri-Benedetti '],Classic
-20,Bern,Duo-Vendela,2016-06-03,"[' Annette Saurer ', ' Susanna Dill ']",
-21,Zürich,Brown-Buck-Mayas,2016-06-03,['Brown-Buck-Mayas '],
-22,Winterthur,Puchunga,2016-06-03,"[' Dalia Donadio ', ' Fabienne Hoerni ', ' Erich Puchunga Fischer ', ' Roberto Koch ', ' Benno Kaiser ']",
-23,Dübendorf,Noches-olé,2016-06-03,['Gaby Moreno '],
-24,null,Fabrikjazzlabor,2016-06-03,"['Katja Mair ', ' Peter Leuzinger ']",
-25,Liebefeld,Brönnimann-Zisman,2016-06-03,"[' Jan Galega Brönnimann ', ' Michael Zisman ']",
-26,Baden,Dinner-&-Music,2016-06-03,"[' Urs Kappeler ', ' Claudia Curschellas ', ' Fritz Eberhard ', ' Jacqueline Dallmaier ', ' Stefan Baschung ', ' Claudio Pegolo ', ' Werner Rahm ', ' Simon Graf ']",Pop
-27,Zürich,Blackstar-Tribute-to-David-Bowie,2016-06-03,"[' Domi Chansorn ', ' Oli Zurkirchen ']",
-28,Zürich,Zürcher-Meet,2016-06-03,[' Love & Bitch Befreiungsparty '],
-29,Bern,Bärn-Jam,2016-06-03,[' Curse '],
-30,Basel,Urs-Bollhalder-Trio,2016-06-03,"[' Urs Bollhalder ', ' Heiri Känzig ', ' Kevin Chesham ']",
-31,Kriens,Wirred,2016-06-03,['Wirred '],
-32,Rubigen,Dan-Baird-&-Homemade-Sin,2016-06-03,['Dan Baird & Homemade Sin '],
-33,Zürich,Reggae-Night,2016-06-03,"['Andrew Robinson ', ' Sylvain Petite ', ' Desmond Meyer ', ' Martin Eigenmann ', ' Leon Duncan ']",
-34,null,Bombino,2016-06-03,"['Bombino ', ' Ras Mali ']",
-35,Aarau,Thanks,2016-06-03,['Thanks '],
-36,null,Night-School,2016-06-03,"['Geneva Jacuzzi ', ' The Space Lady ', ' Dubais ']",Pop
-37,Bern,Fortnight,2016-06-03,"[' Mich Hörr  ', ' Judith Coleman ', ' Beat Kipfer ', ' Thom Stucki ', ' Bene Joss ']",
-38,Schaffhausen,Spain,2016-06-03,['Spain '],
-39,Aarburg,Al-&-The-Black-Cats,2016-06-03,['Al & The Black Cats '],
-40,Wil,EPMD,2016-06-03,['EPMD '],
-41,Zürich,Latin-Touch,2016-06-03,[' dance animation by Alexander Martinez '],
-42,Bern,Manuel-Pasquinellis-Akku-Quintet,2016-06-03,"[' Manuel Pasquinelli ', ' Andi Schnellmann ', ' Markus Ischer ', ' Maja Nydegger ', ' Michael Gilsenan ']",
-43,Basel,CRTVTR,2016-06-03,['CRTVTR '],
+location,event,date,artists,genre
+Chur,Buskers-Chur,2016-06-03,"['Barada Street ', ' Acoustic Guitar Kollektiv ', ' El Turbión ', ' Ohrbooten ']",Pop
+Düdingen,Bad-Bonn-Kilbi,2016-06-03,"['Floating Points ', ' Minor Victories ', ' Powell ', ' Parquet Courts ', ' A Love from Outer Space ', ' Jenny Hval ', ' Pissed Jeans ', ' No Zu ']",Pop
+Luzern,Iron-Maiden,2016-06-03,['Iron Maiden '],
+Laufen,Sommer-Lieder-Abend,2016-06-03,"[' Amélie Junes ', ' Michel Spahr ', ' Maxime Paratte ']",Pop
+Zürich,Marc-Halbheer's-Madrid-Edition,2016-06-03,"[' Miguel Linares ', ' Dany Noel ', ' Marc Halbheer ']",
+Zürich,Stolze-Openair,2016-06-03,['Sykur '],Pop
+Basel,Orgelspiel-zum-Feierabend,2016-06-03,['Willi Tittel '],Classic
+Dietikon,Feierabendmusik,2016-06-03,"['Olga Stepien ', ' Bernhard Hörler ']",
+Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-03,['Dylan Perron et Élixir de Gumbo '],
+Thun,Schlosskonzerte-Thun-Perlen-der-klassischen-Gitarre,2016-06-03,"['Víctor Pellegrini ', ' Etienne Abelin ', ' Lorenz Hasler ', ' Markus Noser ', ' Amparo del Riego ']",Classic
+Zürich,Festspiele-Zürich-Eröffnungskonzert-Weggefährten,2016-06-03,[' Radu Lupu '],Classic
+Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-03,"['Ingrid St-Pierre ', ' Brigitte Boisjoli ']",Pop
+Zürich,April-Calls,2016-06-03,['April Calls '],Electronic
+Oberengstringen,Lilly-Thornton-Quintett,2016-06-03,"[' Lilly Thornton ', ' Ull Möck ', ' Christian Meyers ', ' Jens Loh ', ' Elmar Frey ']",
+Zürich,Sedaa,2016-06-03,['Sedaa '],
+null,Solopiano,2016-06-03,['Julia Siedl '],
+Frauenfeld,Trödelmarkt-der-Träume,2016-06-03,"['Alexander Seidel ', ' Andrea Wiesli ']",Classic
+Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-03,"['Les Cowboys fringants ', ' 2 Frères ']",
+Chur,Falsche-Welt-dir-trau-ich-nicht,2016-06-03,"['Christel Elisabeth Smith ', ' Christiane Boesiger ', ' Hans-Jürgen Schöpflin ', ' Cornelia Kallisch ']",Classic
+Basel,Sono-un-fumo,2016-06-03,[' Flavio Ferri-Benedetti '],Classic
+Bern,Duo-Vendela,2016-06-03,"[' Annette Saurer ', ' Susanna Dill ']",
+Zürich,Brown-Buck-Mayas,2016-06-03,['Brown-Buck-Mayas '],
+Winterthur,Puchunga,2016-06-03,"[' Dalia Donadio ', ' Fabienne Hoerni ', ' Erich Puchunga Fischer ', ' Roberto Koch ', ' Benno Kaiser ']",
+Dübendorf,Noches-olé,2016-06-03,['Gaby Moreno '],
+null,Fabrikjazzlabor,2016-06-03,"['Katja Mair ', ' Peter Leuzinger ']",
+Liebefeld,Brönnimann-Zisman,2016-06-03,"[' Jan Galega Brönnimann ', ' Michael Zisman ']",
+Baden,Dinner-&-Music,2016-06-03,"[' Urs Kappeler ', ' Claudia Curschellas ', ' Fritz Eberhard ', ' Jacqueline Dallmaier ', ' Stefan Baschung ', ' Claudio Pegolo ', ' Werner Rahm ', ' Simon Graf ']",Pop
+Zürich,Blackstar-Tribute-to-David-Bowie,2016-06-03,"[' Domi Chansorn ', ' Oli Zurkirchen ']",
+Zürich,Zürcher-Meet,2016-06-03,[' Love & Bitch Befreiungsparty '],
+Bern,Bärn-Jam,2016-06-03,[' Curse '],
+Basel,Urs-Bollhalder-Trio,2016-06-03,"[' Urs Bollhalder ', ' Heiri Känzig ', ' Kevin Chesham ']",
+Kriens,Wirred,2016-06-03,['Wirred '],
+Rubigen,Dan-Baird-&-Homemade-Sin,2016-06-03,['Dan Baird & Homemade Sin '],
+Zürich,Reggae-Night,2016-06-03,"['Andrew Robinson ', ' Sylvain Petite ', ' Desmond Meyer ', ' Martin Eigenmann ', ' Leon Duncan ']",
+null,Bombino,2016-06-03,"['Bombino ', ' Ras Mali ']",
+Aarau,Thanks,2016-06-03,['Thanks '],
+null,Night-School,2016-06-03,"['Geneva Jacuzzi ', ' The Space Lady ', ' Dubais ']",Pop
+Bern,Fortnight,2016-06-03,"[' Mich Hörr  ', ' Judith Coleman ', ' Beat Kipfer ', ' Thom Stucki ', ' Bene Joss ']",
+Schaffhausen,Spain,2016-06-03,['Spain '],
+Aarburg,Al-&-The-Black-Cats,2016-06-03,['Al & The Black Cats '],
+Wil,EPMD,2016-06-03,['EPMD '],
+Zürich,Latin-Touch,2016-06-03,[' dance animation by Alexander Martinez '],
+Bern,Manuel-Pasquinellis-Akku-Quintet,2016-06-03,"[' Manuel Pasquinelli ', ' Andi Schnellmann ', ' Markus Ischer ', ' Maja Nydegger ', ' Michael Gilsenan ']",
+Basel,CRTVTR,2016-06-03,['CRTVTR '],

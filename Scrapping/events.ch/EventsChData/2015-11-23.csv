@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,Bern,Zibelesounds,2015-11-23,['Marc Fitze '],Classic
-1,Zürich,Lunchkonzert-Streichtrios,2015-11-23,"['Nadezhda Korshakova ', ' Martina Zimmermann ', ' Alexander Gropper ']",Classic
-2,Zürich,Bläserserenaden-Zürich,2015-11-23,"['Wim van Hasselt ', ' David Bruchez ', ' Arpi Mkrtchyan ']",Classic
-3,Lausanne,Children-of-Bodom,2015-11-23,"['Children of Bodom ', ' Sylosis ']",
-4,Bern,Tournee-II,2015-11-23,[' Hélène Grimaud '],Classic
-5,Luzern,Lucerne-Festival-am-Piano,2015-11-23,['Radu Lupu '],Classic
-6,Zürich,Entdeckt,2015-11-23,"[' Jakob Encke ', ' Daniel Stoll ', ' Sander Stuart ', ' Leonard Disselhorst ']",Classic
-7,null,The-Sibyl's-Promise,2015-11-23,"[' Sibyl Hofstetter ', ' Francesco Diomaiuta ', ' Raphael Loher ', ' Simon Iten ']",
-8,Zürich,Bully,2015-11-23,['Bully '],
-9,Pratteln,Crobot,2015-11-23,"['Crobot ', ' Scorpion Child ', ' Buffalo Summer ']",
-10,Kriens,Ought,2015-11-23,"['Ought ', ' Yung ']",
-11,Baden,Marie-Krüttli-Trio,2015-11-23,"[' Marie Krüttli ', ' Lukas Traxel ', ' Martin Perret ']",
-12,Winterthur,Udo-Mader,2015-11-23,['Udo Mader '],
-13,Basel,Jazzkollektiv-Basel,2015-11-23,"[' Jonas Windscheid ', ' Andreas Böhlen ', ' Hans Feigenwinter ', ' Roberto Koch ', ' Silvio Morger ']",
-14,Zürich,Artist-in-Residence-René-Mosele,2015-11-23,"[' René Mosele ', ' Alex Hendriksen ', ' Jean-Paul Brodbeck ', ' Tapiwa Svosve ', ' Nicolas Stocker ']",
-15,Basel,Full-Attention,2015-11-23,['Richie Campbell '],
-16,Luzern,Boo-Seeka,2015-11-23,['Boo Seeka '],Pop
+location,event,date,artists,genre
+Bern,Zibelesounds,2015-11-23,['Marc Fitze '],Classic
+Zürich,Lunchkonzert-Streichtrios,2015-11-23,"['Nadezhda Korshakova ', ' Martina Zimmermann ', ' Alexander Gropper ']",Classic
+Zürich,Bläserserenaden-Zürich,2015-11-23,"['Wim van Hasselt ', ' David Bruchez ', ' Arpi Mkrtchyan ']",Classic
+Lausanne,Children-of-Bodom,2015-11-23,"['Children of Bodom ', ' Sylosis ']",
+Bern,Tournee-II,2015-11-23,[' Hélène Grimaud '],Classic
+Luzern,Lucerne-Festival-am-Piano,2015-11-23,['Radu Lupu '],Classic
+Zürich,Entdeckt,2015-11-23,"[' Jakob Encke ', ' Daniel Stoll ', ' Sander Stuart ', ' Leonard Disselhorst ']",Classic
+null,The-Sibyl's-Promise,2015-11-23,"[' Sibyl Hofstetter ', ' Francesco Diomaiuta ', ' Raphael Loher ', ' Simon Iten ']",
+Zürich,Bully,2015-11-23,['Bully '],
+Pratteln,Crobot,2015-11-23,"['Crobot ', ' Scorpion Child ', ' Buffalo Summer ']",
+Kriens,Ought,2015-11-23,"['Ought ', ' Yung ']",
+Baden,Marie-Krüttli-Trio,2015-11-23,"[' Marie Krüttli ', ' Lukas Traxel ', ' Martin Perret ']",
+Winterthur,Udo-Mader,2015-11-23,['Udo Mader '],
+Basel,Jazzkollektiv-Basel,2015-11-23,"[' Jonas Windscheid ', ' Andreas Böhlen ', ' Hans Feigenwinter ', ' Roberto Koch ', ' Silvio Morger ']",
+Zürich,Artist-in-Residence-René-Mosele,2015-11-23,"[' René Mosele ', ' Alex Hendriksen ', ' Jean-Paul Brodbeck ', ' Tapiwa Svosve ', ' Nicolas Stocker ']",
+Basel,Full-Attention,2015-11-23,['Richie Campbell '],
+Luzern,Boo-Seeka,2015-11-23,['Boo Seeka '],Pop

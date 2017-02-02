@@ -1,44 +1,44 @@
-,location,event,date,artists,genre
-0,Winterthur,Goloubev-Simcock,2013-03-09,"[' Yuri Goloubev ', ' Gwilym Simcock ']",
-1,Aarau,Jazz-Passengers,2013-03-09,"[' Jörg Hauser ', ' Sabine Siegrist ', ' Rougi Rothenbühler ', ' Peter Tico Keller ', ' Hannes Hänggli ']",
-2,Zürich,Classic-Broadway-&-Operette,2013-03-09,"['John Thade ', ' Annkatrin Isaacs ']",Classic
-3,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-03-09,['Mark Tenger '],
-4,Zürich,Camerata-Variabile-Basel,2013-03-09,"[' Hans-Jürg Rickenbacher ', ' Isabelle Schnöller ', ' Karin Dornbusch ', ' Helena Winkelman ']",Classic
-5,Arlesheim,Tränen-Quellen-Veil-of-Tears,2013-03-09,"[' Anne Schmid ', ' Pascale Van Coppenolle ']",Classic
-6,Arlesheim,Benefizkonzert,2013-03-09,"[' Anne Schmid ', ' Pascale Van Coppenolle ']",Classic
-7,Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-09,"['Tom Staar ', ' Nas ', ' Cody Chesnutt ']",
-8,Thun,Sinfoniekonzert,2013-03-09,['Alexandre Dubach '],Classic
-9,Zürich,Ska-P,2013-03-09,['Ska-P '],
-10,Zürich,Vocis-imago-Vorstellung-&-Wirklichkeit,2013-03-09,"[' C.Simolka ', ' B.Bossert ', ' I.Kombaratov ', ' M.Würsch ', ' H.Bugallo ', ' E.Streiff ', ' M.Stolz ', ' R.Wohlhauser ']",Classic
-11,Basel,Debussy-im-Spiegel,2013-03-09,"['Felix Renggli ', ' Jürg Dähler ', ' Daniel Haefliger ', ' Sarah OBrien ']",Classic
-12,Zürich,Counterparts,2013-03-09,"['Counterparts ', ' Landscape ']",
-13,Basel,Französische-Barockmusik,2013-03-09,"[' Keiko Kinoshita ', ' Ryosuke Sakamoto ', ' Sonoka Ogawa ']",Classic
-14,Wettingen,Requiem-Trauermusik,2013-03-09,"[' Ruth Achermann ', ' Liliane Glanzmann ', ' Tino Brütsch ', ' Michael Raschle ']",Classic
-15,Riehen,Lukas-Passion,2013-03-09,"[' Vera Ehrensperger ', ' Dieter Wagner ', ' Michael Jäger ']",Classic
-16,Zürich,Exchange,2013-03-09,"[' Markus Weiss ', ' Jonathan Ayerst ', ' Pedro Amaral ']",Classic
-17,Aarau,Sinfoniekonzert,2013-03-09,[' Nils Kohler '],Classic
-18,Winterthur,Marco-Santilli-Rossi-&-Band,2013-03-09,"[' Marco Santilli Rossi ', ' Sandro Vetsch ', ' Oliver Weinberg ', ' Lorenzo Wilson ', ' Robert Mark ']",
-19,Bern,Oli-Kehrli,2013-03-09,['Oli Kehrli '],Pop
-20,Zürich,The-Avett-Brothers,2013-03-09,"['The Avett Brothers ', ' Seth Avett ', ' Scott Avett ', ' Bob Crawford ', ' Joe Kwon ', ' Jacob Edwards ']",
-21,Oberengstringen,Landis-Friedli,2013-03-09,"[' Peter Landis ', ' Gabriela Friedli ', ' Nick Gutersohn ', ' Herbert Kramis ']",
-22,Luzern,Mondrian-Ensemble:-presentimientos,2013-03-09,"[' Daniela Müller ', ' Petra Ackermann ', ' Martin Jaggi ', ' Tamriko Kordzaia ']",Classic
-23,Zürich,Inade,2013-03-09,['Inade '],Electronic
-24,Bern,Chorus-America,2013-03-09,[' Franziska Hegi '],Classic
-25,Rapperswil,Gwilym-Simcock-&-Yuri-Goloubev,2013-03-09,"['Gwilym Simcock & Yuri Goloubev ', ' Gwilym Simcock ', ' Yuri Goloubev ']",
-26,Basel,Bert-Joris-Quartet,2013-03-09,"[' Bert Joris ', ' Dado Moroni ', ' Philippe Aerts ', ' Dré Pallemaerts ']",
-27,Rote-Fabrik,Zürich,2013-03-09,['Tocotronic '],Tocotronic
-28,Feuerthalen,Rudy-Rotta-Band,2013-03-09,['Rudy Rotta Band '],
-29,KiFF,Aarau,2013-03-09,"['Threshold ', ' Enocian Theory ', ' Cryptex ']",Threshold
-30,Winterthur,Grindweh,2013-03-09,"['Jig-Ai ', ' Sublime Cadaveric Decomposition ', ' Ultimo Mondo Cannibale ']",
-31,Prima-Vista,Baden,2013-03-09,"[' Peter C. Beyeler ', ' Shilo Buck ', ' Werner Gisin ', ' Heinz Glauser ', ' Heinz Lehmann ', ' Walter Daetwyler ']",
-32,Kriens,Joan-&-The-Sailors,2013-03-09,['Joan & The Sailors '],Pop
-33,Rubigen,Ian-Hunter,2013-03-09,"[' Ian Hunter ', ' Andy York ', ' Dave Roe ']",
-34,null,Stets-ä-Soo,2013-03-09,"[' Guido Lalli ', ' Markus Furrer ', ' Andy Tschümperlin ', ' Werner Herzig ', ' Sandro Manea ']",
-35,Zürich,Balkanekspress,2013-03-09,[' live: Boom Pam '],
-36,Zürich,Betapartner,2013-03-09,"[' Benj Hardwig ', ' Nicolas Stocker ', ' Jonas Wolf ', ' Aidan Leong ']",Electronic
-37,Basel,The-Hunters,2013-03-09,['The Hunters '],
-38,Thun,Acoustic-Africa,2013-03-09,['Acoustic Africa '],
-39,null,Latino-Flavour-11,2013-03-09,['DJs El Medico '],
-40,Bar-Rossi,Zürich,2013-03-09,"[' Tobias Gurtner ', ' Christian Sommerhalder ', ' Ere Gerber ']",
-41,Reitschule-Dachstock,Bern,2013-03-09,['The Tarantinos '],
-42,Zürich,44-Leningrad,2013-03-09,['44 Leningrad '],
+location,event,date,artists,genre
+Winterthur,Goloubev-Simcock,2013-03-09,"[' Yuri Goloubev ', ' Gwilym Simcock ']",
+Aarau,Jazz-Passengers,2013-03-09,"[' Jörg Hauser ', ' Sabine Siegrist ', ' Rougi Rothenbühler ', ' Peter Tico Keller ', ' Hannes Hänggli ']",
+Zürich,Classic-Broadway-&-Operette,2013-03-09,"['John Thade ', ' Annkatrin Isaacs ']",Classic
+Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-03-09,['Mark Tenger '],
+Zürich,Camerata-Variabile-Basel,2013-03-09,"[' Hans-Jürg Rickenbacher ', ' Isabelle Schnöller ', ' Karin Dornbusch ', ' Helena Winkelman ']",Classic
+Arlesheim,Tränen-Quellen-Veil-of-Tears,2013-03-09,"[' Anne Schmid ', ' Pascale Van Coppenolle ']",Classic
+Arlesheim,Benefizkonzert,2013-03-09,"[' Anne Schmid ', ' Pascale Van Coppenolle ']",Classic
+Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-09,"['Tom Staar ', ' Nas ', ' Cody Chesnutt ']",
+Thun,Sinfoniekonzert,2013-03-09,['Alexandre Dubach '],Classic
+Zürich,Ska-P,2013-03-09,['Ska-P '],
+Zürich,Vocis-imago-Vorstellung-&-Wirklichkeit,2013-03-09,"[' C.Simolka ', ' B.Bossert ', ' I.Kombaratov ', ' M.Würsch ', ' H.Bugallo ', ' E.Streiff ', ' M.Stolz ', ' R.Wohlhauser ']",Classic
+Basel,Debussy-im-Spiegel,2013-03-09,"['Felix Renggli ', ' Jürg Dähler ', ' Daniel Haefliger ', ' Sarah OBrien ']",Classic
+Zürich,Counterparts,2013-03-09,"['Counterparts ', ' Landscape ']",
+Basel,Französische-Barockmusik,2013-03-09,"[' Keiko Kinoshita ', ' Ryosuke Sakamoto ', ' Sonoka Ogawa ']",Classic
+Wettingen,Requiem-Trauermusik,2013-03-09,"[' Ruth Achermann ', ' Liliane Glanzmann ', ' Tino Brütsch ', ' Michael Raschle ']",Classic
+Riehen,Lukas-Passion,2013-03-09,"[' Vera Ehrensperger ', ' Dieter Wagner ', ' Michael Jäger ']",Classic
+Zürich,Exchange,2013-03-09,"[' Markus Weiss ', ' Jonathan Ayerst ', ' Pedro Amaral ']",Classic
+Aarau,Sinfoniekonzert,2013-03-09,[' Nils Kohler '],Classic
+Winterthur,Marco-Santilli-Rossi-&-Band,2013-03-09,"[' Marco Santilli Rossi ', ' Sandro Vetsch ', ' Oliver Weinberg ', ' Lorenzo Wilson ', ' Robert Mark ']",
+Bern,Oli-Kehrli,2013-03-09,['Oli Kehrli '],Pop
+Zürich,The-Avett-Brothers,2013-03-09,"['The Avett Brothers ', ' Seth Avett ', ' Scott Avett ', ' Bob Crawford ', ' Joe Kwon ', ' Jacob Edwards ']",
+Oberengstringen,Landis-Friedli,2013-03-09,"[' Peter Landis ', ' Gabriela Friedli ', ' Nick Gutersohn ', ' Herbert Kramis ']",
+Luzern,Mondrian-Ensemble:-presentimientos,2013-03-09,"[' Daniela Müller ', ' Petra Ackermann ', ' Martin Jaggi ', ' Tamriko Kordzaia ']",Classic
+Zürich,Inade,2013-03-09,['Inade '],Electronic
+Bern,Chorus-America,2013-03-09,[' Franziska Hegi '],Classic
+Rapperswil,Gwilym-Simcock-&-Yuri-Goloubev,2013-03-09,"['Gwilym Simcock & Yuri Goloubev ', ' Gwilym Simcock ', ' Yuri Goloubev ']",
+Basel,Bert-Joris-Quartet,2013-03-09,"[' Bert Joris ', ' Dado Moroni ', ' Philippe Aerts ', ' Dré Pallemaerts ']",
+Rote-Fabrik,Zürich,2013-03-09,['Tocotronic '],Tocotronic
+Feuerthalen,Rudy-Rotta-Band,2013-03-09,['Rudy Rotta Band '],
+KiFF,Aarau,2013-03-09,"['Threshold ', ' Enocian Theory ', ' Cryptex ']",Threshold
+Winterthur,Grindweh,2013-03-09,"['Jig-Ai ', ' Sublime Cadaveric Decomposition ', ' Ultimo Mondo Cannibale ']",
+Prima-Vista,Baden,2013-03-09,"[' Peter C. Beyeler ', ' Shilo Buck ', ' Werner Gisin ', ' Heinz Glauser ', ' Heinz Lehmann ', ' Walter Daetwyler ']",
+Kriens,Joan-&-The-Sailors,2013-03-09,['Joan & The Sailors '],Pop
+Rubigen,Ian-Hunter,2013-03-09,"[' Ian Hunter ', ' Andy York ', ' Dave Roe ']",
+null,Stets-ä-Soo,2013-03-09,"[' Guido Lalli ', ' Markus Furrer ', ' Andy Tschümperlin ', ' Werner Herzig ', ' Sandro Manea ']",
+Zürich,Balkanekspress,2013-03-09,[' live: Boom Pam '],
+Zürich,Betapartner,2013-03-09,"[' Benj Hardwig ', ' Nicolas Stocker ', ' Jonas Wolf ', ' Aidan Leong ']",Electronic
+Basel,The-Hunters,2013-03-09,['The Hunters '],
+Thun,Acoustic-Africa,2013-03-09,['Acoustic Africa '],
+null,Latino-Flavour-11,2013-03-09,['DJs El Medico '],
+Bar-Rossi,Zürich,2013-03-09,"[' Tobias Gurtner ', ' Christian Sommerhalder ', ' Ere Gerber ']",
+Reitschule-Dachstock,Bern,2013-03-09,['The Tarantinos '],
+Zürich,44-Leningrad,2013-03-09,['44 Leningrad '],

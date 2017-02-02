@@ -1,36 +1,36 @@
-,location,event,date,artists,genre
-0,Zürich,Jazz-Matineé,2015-09-20,"[' Denis Beuret ', ' Dominik Burger ', ' Jerry Rojas ', ' Ekkehard Sassenhausen ']",
-1,Zürich,Konzertmatinee-Duo-Praxedis,2015-09-20,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-2,Basel,Neue-Gesänge-aus-Europa,2015-09-20,"[' Christine Simolka ', ' René Wohlhauser ']",Classic
-3,Bern,Sunday-12-pm-Jazz,2015-09-20,"['Philipp Moll ', ' Stewy von Wattenwyl ', ' Kevin Chesham ', ' Tomas Sauter ']",
-4,Zug,Didier-Laloy-&-Kathy-Adam,2015-09-20,['Didier Laloy & Kathy Adam '],
-5,null,Misa-Criolla,2015-09-20,[' Tino Brütsch '],Classic
-6,Zürich,Jubiläums-Sonderzyklus-25-+-1,2015-09-20,"[' Barbara Tillmann ', ' Anatol Toth ', ' René Camacaro ', ' Bruno Hurtado Gosalvez ', ' René Camacaro ']",Classic
-7,Baden,Duoabend,2015-09-20,"['Pi-Chin Chien ', ' Bernhard Parz ']",Classic
-8,Zürich,Konzert-am-Bettag,2015-09-20,[' Burkhard Just '],Classic
-9,Basel,Madrigale-und-Motetten-aus-Renaissance-und-Frühbarock,2015-09-20,"[' Ayelet Karni ', ' Ryosuke Sakamoto ']",Classic
-10,Zürich,Geistliche-und-weltliche-Kostbarkeiten-im-Wechselgesang,2015-09-20,"[' Alexandre Rion ', ' Martin de Vargas ']",Classic
-11,Rotkreuz,Grand-Opening-for-Winds,2015-09-20,[' Christian Poltéra '],Classic
-12,Zürich,Chilbimusik-Orgelkonzert,2015-09-20,['Christian Gautschi '],Classic
-13,Zug,Akkordeon-Festival-Zug,2015-09-20,['Belem '],
-14,Aarau,Märchenhaft,2015-09-20,[' Louis Schwizgebel '],Classic
-15,-Alte-Kirche,Boswil,2015-09-20,"['Yaara Tal ', '  Andreas Groethuysen ']",Classic
-16,Zürich,Sound-the-Trumpet,2015-09-20,"['Patrick Berger ', ' Theo Wegmann ']",Classic
-17,Zürich,Alexander's-Fest-oder-Die-Macht-der-Tonkunst,2015-09-20,"[' Stephanie Pfeffer ', ' Andreas Pehl ', ' Richard Resch ', ' Fabrice Raviola ', ' Eugenio Giovine ']",Classic
-18,Baden,Der-musikalische-Garten,2015-09-20,"[' Germán Echeverri Chamorro ', ' Karoline Echeverri Klemm ', ' Giovanna Baviera ', ' Josep Maria Martí Duran ', ' Daniela Niedhammer ']",Classic
-19,Zürich,Wise-Guys,2015-09-20,['Wise Guys '],Pop
-20,Basel,Yav-Ensemble-You-Are-Variation,2015-09-20,"[' Désirée Senn ', ' Dominique Zimmermann ', ' Dieter Buchwalder ', ' Christina Della Giustina ', ' Christian Moser ', ' Francis Petter ', ' René Thie ']",
-21,Basel,Orgelkonzert,2015-09-20,['Felix Pachlatko '],Classic
-22,Basel,Forró-do-Hermeto,2015-09-20,"[' Oliver Pellet ', ' Tiago Barros ', ' Ricardo Fiuza ', ' Florian Abt ', ' Konrad Wiemann ']",
-23,Winterthur,Romania-Cantat,2015-09-20,[' Marion Meili '],Classic
-24,Glarus,Bettagskonzert,2015-09-20,"[' Eva Oltiványi ', ' Ulrike Andersen ', ' Michael Feyfar ', ' Wolfgang Newerla ']",Classic
-25,Zürich,Songs-of-Nat-King-Cole,2015-09-20,"['Hugh Coltman ', ' Hugh Coltman ', ' Thomas Naim ', ' Gael Rakotondrabe ', ' Christophe Mink ', ' Raphael Chassin ']",
-26,Zürich,La-Sicilia-viene-da-noi,2015-09-20,['Renato Giarrizzo '],Classic
-27,Hombrechtikon,Bettagskonzert,2015-09-20,"[' Marni Schwonberg ', ' Simone Hofstetter ', ' Ueli Amacher ', ' Walter Rüegsegger ']",Classic
-28,St.-Urban,Konzertchor-Oberaargau,2015-09-20,"[' Claudia von Tilzer ', ' Brigitte Scholl ', ' Bernhard Gärtner ']",Classic
-29,Zürich,Klangspektrum-Klarinette,2015-09-20,"['Michael Reid ', ' Andreas Janke ', ' Luis Esnaola ', ' Michel Rouilly ', ' Benjamin Nyffenegger ', ' works by Jörg Widmann ']",Classic
-30,Lausanne,Marc-Almond,2015-09-20,['Marc Almond '],Pop
-31,Zürich,Chansons-en-Stok,2015-09-20,"['Kent ', ' Kent ', ' Marc Haussmann ']",Pop
-32,Basel,Max-Raabe-&-Palast-Orchester,2015-09-20,['Max Raabe & Palast Orchester '],
-33,Zürich,Steven-Wilson,2015-09-20,['Steven Wilson '],
-34,Solothurn,The-Slackers,2015-09-20,['The Slackers '],
+location,event,date,artists,genre
+Zürich,Jazz-Matineé,2015-09-20,"[' Denis Beuret ', ' Dominik Burger ', ' Jerry Rojas ', ' Ekkehard Sassenhausen ']",
+Zürich,Konzertmatinee-Duo-Praxedis,2015-09-20,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
+Basel,Neue-Gesänge-aus-Europa,2015-09-20,"[' Christine Simolka ', ' René Wohlhauser ']",Classic
+Bern,Sunday-12-pm-Jazz,2015-09-20,"['Philipp Moll ', ' Stewy von Wattenwyl ', ' Kevin Chesham ', ' Tomas Sauter ']",
+Zug,Didier-Laloy-&-Kathy-Adam,2015-09-20,['Didier Laloy & Kathy Adam '],
+null,Misa-Criolla,2015-09-20,[' Tino Brütsch '],Classic
+Zürich,Jubiläums-Sonderzyklus-25-+-1,2015-09-20,"[' Barbara Tillmann ', ' Anatol Toth ', ' René Camacaro ', ' Bruno Hurtado Gosalvez ', ' René Camacaro ']",Classic
+Baden,Duoabend,2015-09-20,"['Pi-Chin Chien ', ' Bernhard Parz ']",Classic
+Zürich,Konzert-am-Bettag,2015-09-20,[' Burkhard Just '],Classic
+Basel,Madrigale-und-Motetten-aus-Renaissance-und-Frühbarock,2015-09-20,"[' Ayelet Karni ', ' Ryosuke Sakamoto ']",Classic
+Zürich,Geistliche-und-weltliche-Kostbarkeiten-im-Wechselgesang,2015-09-20,"[' Alexandre Rion ', ' Martin de Vargas ']",Classic
+Rotkreuz,Grand-Opening-for-Winds,2015-09-20,[' Christian Poltéra '],Classic
+Zürich,Chilbimusik-Orgelkonzert,2015-09-20,['Christian Gautschi '],Classic
+Zug,Akkordeon-Festival-Zug,2015-09-20,['Belem '],
+Aarau,Märchenhaft,2015-09-20,[' Louis Schwizgebel '],Classic
+-Alte-Kirche,Boswil,2015-09-20,"['Yaara Tal ', '  Andreas Groethuysen ']",Classic
+Zürich,Sound-the-Trumpet,2015-09-20,"['Patrick Berger ', ' Theo Wegmann ']",Classic
+Zürich,Alexander's-Fest-oder-Die-Macht-der-Tonkunst,2015-09-20,"[' Stephanie Pfeffer ', ' Andreas Pehl ', ' Richard Resch ', ' Fabrice Raviola ', ' Eugenio Giovine ']",Classic
+Baden,Der-musikalische-Garten,2015-09-20,"[' Germán Echeverri Chamorro ', ' Karoline Echeverri Klemm ', ' Giovanna Baviera ', ' Josep Maria Martí Duran ', ' Daniela Niedhammer ']",Classic
+Zürich,Wise-Guys,2015-09-20,['Wise Guys '],Pop
+Basel,Yav-Ensemble-You-Are-Variation,2015-09-20,"[' Désirée Senn ', ' Dominique Zimmermann ', ' Dieter Buchwalder ', ' Christina Della Giustina ', ' Christian Moser ', ' Francis Petter ', ' René Thie ']",
+Basel,Orgelkonzert,2015-09-20,['Felix Pachlatko '],Classic
+Basel,Forró-do-Hermeto,2015-09-20,"[' Oliver Pellet ', ' Tiago Barros ', ' Ricardo Fiuza ', ' Florian Abt ', ' Konrad Wiemann ']",
+Winterthur,Romania-Cantat,2015-09-20,[' Marion Meili '],Classic
+Glarus,Bettagskonzert,2015-09-20,"[' Eva Oltiványi ', ' Ulrike Andersen ', ' Michael Feyfar ', ' Wolfgang Newerla ']",Classic
+Zürich,Songs-of-Nat-King-Cole,2015-09-20,"['Hugh Coltman ', ' Hugh Coltman ', ' Thomas Naim ', ' Gael Rakotondrabe ', ' Christophe Mink ', ' Raphael Chassin ']",
+Zürich,La-Sicilia-viene-da-noi,2015-09-20,['Renato Giarrizzo '],Classic
+Hombrechtikon,Bettagskonzert,2015-09-20,"[' Marni Schwonberg ', ' Simone Hofstetter ', ' Ueli Amacher ', ' Walter Rüegsegger ']",Classic
+St.-Urban,Konzertchor-Oberaargau,2015-09-20,"[' Claudia von Tilzer ', ' Brigitte Scholl ', ' Bernhard Gärtner ']",Classic
+Zürich,Klangspektrum-Klarinette,2015-09-20,"['Michael Reid ', ' Andreas Janke ', ' Luis Esnaola ', ' Michel Rouilly ', ' Benjamin Nyffenegger ', ' works by Jörg Widmann ']",Classic
+Lausanne,Marc-Almond,2015-09-20,['Marc Almond '],Pop
+Zürich,Chansons-en-Stok,2015-09-20,"['Kent ', ' Kent ', ' Marc Haussmann ']",Pop
+Basel,Max-Raabe-&-Palast-Orchester,2015-09-20,['Max Raabe & Palast Orchester '],
+Zürich,Steven-Wilson,2015-09-20,['Steven Wilson '],
+Solothurn,The-Slackers,2015-09-20,['The Slackers '],

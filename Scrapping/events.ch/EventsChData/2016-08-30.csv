@@ -1,4 +1,4 @@
-,location,event,date,artists,genre
-0,Zürich,Gentleman,2016-08-30,['Gentleman '],
-1,Lausanne,The-Strumbellas,2016-08-30,['The Strumbellas '],
-2,Zürich,Sunflower-Bean,2016-08-30,['Sunflower Bean '],
+location,event,date,artists,genre
+Zürich,Gentleman,2016-08-30,['Gentleman '],
+Lausanne,The-Strumbellas,2016-08-30,['The Strumbellas '],
+Zürich,Sunflower-Bean,2016-08-30,['Sunflower Bean '],

@@ -1,51 +1,51 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment,2013-11-22,['Fabienne Ambühl '],
-1,Basel,Orgelspiel-zum-Feierabend,2013-11-22,['Susanne Doll '],Classic
-2,Dietikon,Feierabendmusik-in-der-Kirche,2013-11-22,"['Heidi Fries ', ' Beat Fries ', ' Bernhard Hörler ']",Classic
-3,Bern,Bruckners-Siebte,2013-11-22,[' Nicolas Altstaedt '],Classic
-4,Baden,Spektrum-Akzente,2013-11-22,"[' Marielle Oggier ', ' Ursula Hächler ', ' Kiyomi Higaki ']",Classic
-5,Solothurn,Bring-Me-The-Horizon,2013-11-22,['Bring Me The Horizon '],
-6,Zürich,CulturEscapes,2013-11-22,"[' Ruedi Schmid ', ' Mark Koch ', ' Pascal Grünenfelder ', ' Peter Fischer ']",
-7,Luzern,Klavier-Konzert-2,2013-11-22,[' Murray Perahia '],Classic
-8,Winterthur,Romantik-&-Avantgarde,2013-11-22,"['René Krebs ', ' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",
-9,Zürich,Öffentliches-Konzert-in-der-Mühlehalde,2013-11-22,"[' Andreas Isch ', ' Heidy Huwiler ']",Classic
-10,Bern,Sparks,2013-11-22,"['Sparks ', ' Om ', ' Sansational & Koyxen ']",Pop
-11,null,3.-Tonhallekonzert-Espagne-et-Italie,2013-11-22,['Marie-Claude Chappuis '],Classic
-12,Sins,Unser-Wiener-Konzert,2013-11-22,"[' Viviane Chassot ', ' Strauss ']",Classic
-13,Zürich,Öffentliches-Konzert-in-der-Mühlehalde,2013-11-22,"[' Andreas Isch ', ' Heidy Huwiler ']",Classic
-14,null,Duo-brillante,2013-11-22,"['Alena Cherny ', ' Fabio Di Càsola ']",Classic
-15,Meilen,Konzert,2013-11-22,[' Valentin Akçag '],Classic
-16,Rheinfelden,Sidney-Bechet-Celebration-Orchestra,2013-11-22,"[' Thomas Gilg ', ' Ruedi Santos Kraetzer ', ' Leo Nart ', ' Peter Meili ']",
-17,Winterthur,Winterthurer-Klavierwoche,2013-11-22,"[' Stefan Rusconi ', ' Ephrem Lüchinger ']",
-18,Rheinfelden,Sidney-Bechet-Celebration-Orchestra,2013-11-22,"[' Thomas Gilg ', ' Ruedi Santos Kraetzer ', ' Leo Nart ', ' Peter Meili ', ' Andi Reinhard ', ' Röbi Lässker ', ' Fernand Schlumpf ']",
-19,Wettingen,Italien,2013-11-22,"['Anna Fusek ', ' Renate Steinmann ', ' Jermaine Sprosse ', ' Emanuele Forni ']",Classic
-20,Zürich,Keziah-Jones,2013-11-22,['Keziah Jones '],
-21,Zürich,Amon-Amarth,2013-11-22,"['Amon Amarth ', ' support: Carcass ', ' Hell ']",
-22,null,Konzert,2013-11-22,"[' Remco Jak ', ' Olivier Sliepen ', ' Bas Apswoude ', ' Ties Mellema ']",Classic
-23,Pratteln,Andromeda,2013-11-22,['Andromeda '],
-24,Zürich,Johnny-Flynn,2013-11-22,"['Johnny Flynn & The Sussex Wit ', ' Cosmo Sheldrake ']",
-25,Zürich,Raketa-Osojnik-Schellander-&-Meier-Reichmuth-Tschopp,2013-11-22,"[' David Meier ', ' Yves Reichmuth ', ' Matthias Tschopp ']",
-26,Bülach,Banu-Gibson-&-The-New-Orleans-Hot-Jazz-Inc.,2013-11-22,"['Banu Gibson & The New Orleans Hot Jazz Inc. ', ' Banu Gibson ', ' Duke Heitger ', ' Dan Levinson ', ' David Sager ', ' David Boeddinghaus ']",
-27,Basel,Kilborn-Alley-Blues-Band,2013-11-22,['Kilborn Alley Blues Band '],
-28,Dübendorf,Rebecca-&-the-Sophistocats,2013-11-22,"[' Rebecca Spiteri ', ' Lukas Gadola ', ' Thomas Grüninger ', ' Philipp Ackermann ', ' Thomas Bernold ']",
-29,Zürich,Freschard,2013-11-22,['Freschard '],
-30,Basel,Alan-Broadbent-Trio,2013-11-22,"[' Alan Broadbent ', ' Philipp Stehen ', ' Kai Bussenius ']",
-31,Obere-Mühle,Dübendorf,2013-11-22,"[' Walter Baumgartner ', ' Dani Gugolz ', ' Hannes Kasehs ', ' Peter Müller ']",
-32,Liestal,Kazalpin,2013-11-22,"[' Irena Kotvitskaja ', ' Rusia ', ' Nadzeya Tschuhunova ', ' Albin Brun ', ' Patricia Draeger ', ' Claudio Strebel ', ' Marco Käppeli ']",
-33,Winterthur,Jamaram,2013-11-22,"['Jamaram ', ' Zico ']",
-34,Thônex,Stromae,2013-11-22,['Stromae '],Pop
-35,Köniz,Yvonne-Moore,2013-11-22,"[' Yvonne Moore ', ' Marco Jencarelli ', ' Philipp Moll ', ' Richard Spooner ']",
-36,Zürich,Joscha-Schraff-Trio,2013-11-22,"[' Joscha Schraff ', ' Pascal Rüegger ', ' Paul Amereller ']",
-37,Zürich,Sugarpuffs,2013-11-22,"[' Miriam Heinzer ', ' Markus Alder ', ' Fabio Reichelt ', ' Valentin Magaro ', ' Max Kiefer ', ' Don Randolph ', ' Bruno Kaufmann ']",
-38,Baden,Medina,2013-11-22,['Medina '],Pop
-39,Zürich,Nate-57-&-Telly-Tellz,2013-11-22,['Nate 57 & Telly Tellz '],
-40,Luzern,Sans-Parade,2013-11-22,['Sans Parade '],Pop
-41,Thun,Elina-Duni-Quartet,2013-11-22,['Elina Duni Quartet '],
-42,Basel,CulturEscapes,2013-11-22,['Dubioza Kolektiv '],
-43,Luzern,Piano-Off-Stage,2013-11-22,['Bruno Kürner '],
-44,Frauenfeld,Dr.-Feelgood,2013-11-22,"['Dr. Feelgood ', ' Robert Kane ', ' Steve Walwyn ', ' Phil Mitchell ', ' Kevin Morris ']",
-45,Wil,Veto,2013-11-22,['Veto '],
-46,Aarau,Raf-3.0,2013-11-22,"['Raf 3.0 ', ' Joshi Mizu ']",
-47,Lausanne,Pendentif,2013-11-22,['Pendentif '],Pop
-48,Sankt-Gallen,Die-Vögel,2013-11-22,['Die Vögel '],Electronic
-49,Zürich,10-Days-Live,2013-11-22,['Emily Wells '],
+location,event,date,artists,genre
+Luzern,Piano-Entertainment,2013-11-22,['Fabienne Ambühl '],
+Basel,Orgelspiel-zum-Feierabend,2013-11-22,['Susanne Doll '],Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2013-11-22,"['Heidi Fries ', ' Beat Fries ', ' Bernhard Hörler ']",Classic
+Bern,Bruckners-Siebte,2013-11-22,[' Nicolas Altstaedt '],Classic
+Baden,Spektrum-Akzente,2013-11-22,"[' Marielle Oggier ', ' Ursula Hächler ', ' Kiyomi Higaki ']",Classic
+Solothurn,Bring-Me-The-Horizon,2013-11-22,['Bring Me The Horizon '],
+Zürich,CulturEscapes,2013-11-22,"[' Ruedi Schmid ', ' Mark Koch ', ' Pascal Grünenfelder ', ' Peter Fischer ']",
+Luzern,Klavier-Konzert-2,2013-11-22,[' Murray Perahia '],Classic
+Winterthur,Romantik-&-Avantgarde,2013-11-22,"['René Krebs ', ' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",
+Zürich,Öffentliches-Konzert-in-der-Mühlehalde,2013-11-22,"[' Andreas Isch ', ' Heidy Huwiler ']",Classic
+Bern,Sparks,2013-11-22,"['Sparks ', ' Om ', ' Sansational & Koyxen ']",Pop
+null,3.-Tonhallekonzert-Espagne-et-Italie,2013-11-22,['Marie-Claude Chappuis '],Classic
+Sins,Unser-Wiener-Konzert,2013-11-22,"[' Viviane Chassot ', ' Strauss ']",Classic
+Zürich,Öffentliches-Konzert-in-der-Mühlehalde,2013-11-22,"[' Andreas Isch ', ' Heidy Huwiler ']",Classic
+null,Duo-brillante,2013-11-22,"['Alena Cherny ', ' Fabio Di Càsola ']",Classic
+Meilen,Konzert,2013-11-22,[' Valentin Akçag '],Classic
+Rheinfelden,Sidney-Bechet-Celebration-Orchestra,2013-11-22,"[' Thomas Gilg ', ' Ruedi Santos Kraetzer ', ' Leo Nart ', ' Peter Meili ']",
+Winterthur,Winterthurer-Klavierwoche,2013-11-22,"[' Stefan Rusconi ', ' Ephrem Lüchinger ']",
+Rheinfelden,Sidney-Bechet-Celebration-Orchestra,2013-11-22,"[' Thomas Gilg ', ' Ruedi Santos Kraetzer ', ' Leo Nart ', ' Peter Meili ', ' Andi Reinhard ', ' Röbi Lässker ', ' Fernand Schlumpf ']",
+Wettingen,Italien,2013-11-22,"['Anna Fusek ', ' Renate Steinmann ', ' Jermaine Sprosse ', ' Emanuele Forni ']",Classic
+Zürich,Keziah-Jones,2013-11-22,['Keziah Jones '],
+Zürich,Amon-Amarth,2013-11-22,"['Amon Amarth ', ' support: Carcass ', ' Hell ']",
+null,Konzert,2013-11-22,"[' Remco Jak ', ' Olivier Sliepen ', ' Bas Apswoude ', ' Ties Mellema ']",Classic
+Pratteln,Andromeda,2013-11-22,['Andromeda '],
+Zürich,Johnny-Flynn,2013-11-22,"['Johnny Flynn & The Sussex Wit ', ' Cosmo Sheldrake ']",
+Zürich,Raketa-Osojnik-Schellander-&-Meier-Reichmuth-Tschopp,2013-11-22,"[' David Meier ', ' Yves Reichmuth ', ' Matthias Tschopp ']",
+Bülach,Banu-Gibson-&-The-New-Orleans-Hot-Jazz-Inc.,2013-11-22,"['Banu Gibson & The New Orleans Hot Jazz Inc. ', ' Banu Gibson ', ' Duke Heitger ', ' Dan Levinson ', ' David Sager ', ' David Boeddinghaus ']",
+Basel,Kilborn-Alley-Blues-Band,2013-11-22,['Kilborn Alley Blues Band '],
+Dübendorf,Rebecca-&-the-Sophistocats,2013-11-22,"[' Rebecca Spiteri ', ' Lukas Gadola ', ' Thomas Grüninger ', ' Philipp Ackermann ', ' Thomas Bernold ']",
+Zürich,Freschard,2013-11-22,['Freschard '],
+Basel,Alan-Broadbent-Trio,2013-11-22,"[' Alan Broadbent ', ' Philipp Stehen ', ' Kai Bussenius ']",
+Obere-Mühle,Dübendorf,2013-11-22,"[' Walter Baumgartner ', ' Dani Gugolz ', ' Hannes Kasehs ', ' Peter Müller ']",
+Liestal,Kazalpin,2013-11-22,"[' Irena Kotvitskaja ', ' Rusia ', ' Nadzeya Tschuhunova ', ' Albin Brun ', ' Patricia Draeger ', ' Claudio Strebel ', ' Marco Käppeli ']",
+Winterthur,Jamaram,2013-11-22,"['Jamaram ', ' Zico ']",
+Thônex,Stromae,2013-11-22,['Stromae '],Pop
+Köniz,Yvonne-Moore,2013-11-22,"[' Yvonne Moore ', ' Marco Jencarelli ', ' Philipp Moll ', ' Richard Spooner ']",
+Zürich,Joscha-Schraff-Trio,2013-11-22,"[' Joscha Schraff ', ' Pascal Rüegger ', ' Paul Amereller ']",
+Zürich,Sugarpuffs,2013-11-22,"[' Miriam Heinzer ', ' Markus Alder ', ' Fabio Reichelt ', ' Valentin Magaro ', ' Max Kiefer ', ' Don Randolph ', ' Bruno Kaufmann ']",
+Baden,Medina,2013-11-22,['Medina '],Pop
+Zürich,Nate-57-&-Telly-Tellz,2013-11-22,['Nate 57 & Telly Tellz '],
+Luzern,Sans-Parade,2013-11-22,['Sans Parade '],Pop
+Thun,Elina-Duni-Quartet,2013-11-22,['Elina Duni Quartet '],
+Basel,CulturEscapes,2013-11-22,['Dubioza Kolektiv '],
+Luzern,Piano-Off-Stage,2013-11-22,['Bruno Kürner '],
+Frauenfeld,Dr.-Feelgood,2013-11-22,"['Dr. Feelgood ', ' Robert Kane ', ' Steve Walwyn ', ' Phil Mitchell ', ' Kevin Morris ']",
+Wil,Veto,2013-11-22,['Veto '],
+Aarau,Raf-3.0,2013-11-22,"['Raf 3.0 ', ' Joshi Mizu ']",
+Lausanne,Pendentif,2013-11-22,['Pendentif '],Pop
+Sankt-Gallen,Die-Vögel,2013-11-22,['Die Vögel '],Electronic
+Zürich,10-Days-Live,2013-11-22,['Emily Wells '],

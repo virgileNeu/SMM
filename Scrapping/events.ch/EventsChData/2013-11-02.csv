@@ -1,63 +1,63 @@
-,location,event,date,artists,genre
-0,Luzern,Konzert,2013-11-02,"[' Maria C. Schmid ', ' Annina Haug ', ' David Munderloh ', ' René Koch ']",Classic
-1,Aarau,Don't-Change-Your-Hair-For-Me,2013-11-02,"[' Sandy Patton ', ' Peter Schärli ', ' Antonio Giordano ', ' Thomas Dürst ']",
-2,Basel,Auf-dem-Weg-zur-Klassik,2013-11-02,"['Regula Bernath ', ' Annette Unternährer-Gfeller ']",Classic
-3,Basel,Metropolis,2013-11-02,['Rudolf Lutz '],Classic
-4,Ennetbaden,The-Plagiators,2013-11-02,"[' Franziska Perini ', ' Martin Perini ', ' René Vögeli ', ' Martin Sitter ', ' feat. Susanne Portmann ']",Pop
-5,Zürich,Seasick-Steve,2013-11-02,"['Seasick Steve ', ' Gemma Ray ']",
-6,Ostermundigen,Raindrop-Singers-Jahrskonzert,2013-11-02,['Martin Jufer '],
-7,Winterthur,Zweimal-vier-Saiten-im-Duo,2013-11-02,"['Thomas Zehetmair ', ' Ruth Killius ']",Classic
-8,Zürich,Jazznojazz,2013-11-02,['Chucho Valdes Quintet '],
-9,Zürich,Herbsttournee,2013-11-02,[' Jean-Yves Thibaudet '],Classic
-10,Zürich,Eröffnungskonzert-der-Saison,2013-11-02,"[' Clemence Tilquin ', ' Andras Szalai ']",Classic
-11,Bern,Konzert,2013-11-02,"[' Maki Wiederkehr ', ' Daniel Meller ', ' Flurin Cuonz ']",Classic
-12,Zürich,Home,2013-11-02,"['Szenisches Konzert von und mit Simona Ryser ', ' mit Anna Trauffer ', ' Philipp Schaufelberger ']",Classic
-13,Zürich,Old-Kitchen-Rockers,2013-11-02,['Old Kitchen Rockers '],
-14,Zürich,Jazznojazz,2013-11-02,['Mezzoforte '],
-15,Zürich,Tyler-Ward,2013-11-02,['Tyler Ward '],Pop
-16,null,John-Parish,2013-11-02,['John Parish '],Pop
-17,Pratteln,Feuerengel,2013-11-02,['Feuerengel '],
-18,Erlen,Albert-&-Andrea-Adams-Frey,2013-11-02,['Albert & Andrea Adams Frey '],Pop
-19,Luzern,Seat-Music-Session,2013-11-02,"[' Jenniffer Kae ', ' Johannes Oerding ', ' Jaz Ellington ']",Pop
-20,Würenlingen,Liederabend-Auf-Flügeln-des-Gesanges,2013-11-02,"['Alessandro Cipriano ', ' Nancy Lee ']",Classic
-21,Oberengstringen,Schaerer-Oester,2013-11-02,"[' Andreas Schaerer ', ' Bänz Oester ', ' Thomas Lüthi ', ' Bernhard Bamert ', ' Lukas Mantel ']",
-22,Winterthur,Duo-Giocondo,2013-11-02,"[' Andrea Brunner ', ' Cindy Oppliger ']",Pop
-23,Basel,Alle-Heilig-,2013-11-02,"[' Regina Graus ', ' Aurea Marston ', ' Fabienne Marzena Skarpetowski ', ' Susanne Wiesner ']",Classic
-24,Zürich,Half-Moon-Run,2013-11-02,['Half Moon Run '],
-25,null,Jim-Hunter,2013-11-02,['Jim Hunter '],
-26,Thônex,Pixies,2013-11-02,['Pixies '],
-27,Baden,Wynavalley-Oldtime-Jazzband,2013-11-02,"[' Peter C. Beyeler', ' Shilo Buck ', ' Werner Gisin ', ' Heinz Glauser ', ' Heinz Lehmann ', ' Walter Daetwyler ', ' Cathryn Lehman ']",
-28,Ascona,Buster-Williams-Quartet,2013-11-02,"[' Buster Willams ', ' Bruce Williams ', ' Eric Scott Reed ', ' Joey Baron ']",
-29,Feuerthalen,Timo-Gross-Band,2013-11-02,['Timo Gross Band '],
-30,Wabern,Lottchen,2013-11-02,"[' Eva Buchmann ', ' Sonja Huber ']",
-31,Solothurn,Christy-Doran's-New-Bag,2013-11-02,"[' Christy Doran ', ' Sarah Buechi ', ' Vincent Membrez ', ' Lionel Friedli ']",
-32,Pratteln,Unifour,2013-11-02,['Unifour '],
-33,Basel,Them-5,2013-11-02,"['Bob Franceschini ', ' Mark Sherman ', ' Antonio Faraò ', ' Martin Gjakonovski ', ' Adam Nussbaum ']",
-34,Zürich,Imperial-Tiger-Orchestra,2013-11-02,"[' Raphael Anker ', ' John Menoud ', ' Alexandre Rodrigues ', ' Cyril Moulas ', ' Luc Detraz ', ' Julien Israelian ']",
-35,Wallisellen,The-Seer,2013-11-02,['The Seer '],
-36,null,The-Restarts,2013-11-02,['The Restarts '],
-37,Mühle-Hunziken,Rubigen,2013-11-02,['Beoga '],Beoga
-38,Weissbad,8.-Blues-Tage,2013-11-02,['Matt Andersen '],
-39,Schaffhausen,Mass-Centi,2013-11-02,['Mass Centi '],
-40,null,Carla-Pires,2013-11-02,"[' Carla Pires ', ' Antonio Neto ', ' Ricardo Costa ']",
-41,Winterthur,The-Quireboys,2013-11-02,"['The Quireboys ', ' Bonafide ']",
-42,Frauenfeld,Stephan-Rigert's-Drum-&-Voice-Tour,2013-11-02,"['Gabrila Mendes ', ' Simone Sou ', ' Dudu Penz ', ' Ibou Ndiaye ', ' Sandro Schneebeli ', ' Dave Feusi ', ' Stephan Rigert ']",
-43,Aarau,Turbostaat,2013-11-02,['Turbostaat '],
-44,Luzern,Rudi-Hayden,2013-11-02,['Rudi Hayden '],Pop
-45,null,Cyberpunkers,2013-11-02,['Cyberpunkers '],Electronic
-46,Schaffhausen,Max-Romeo,2013-11-02,['Max Romeo '],
-47,Zürich,Hear-Again,2013-11-02,"[' Ruth Marty ', ' Tony Artho ', ' Marcel Hässig ']",Pop
-48,Bern,Kofelgschroa,2013-11-02,['Kofelgschroa '],Pop
-49,Düdingen,Deafheaven,2013-11-02,"['Deafheaven ', ' Weekend ']",
-50,Zürich,Jazznojazz,2013-11-02,['Buika '],
-51,Zürich,Sookee,2013-11-02,['Sookee '],
-52,Zürich,Jazznojazz,2013-11-02,['Osaka Monaurail '],
-53,Basel,Twisted-Chords,2013-11-02,"['Abfukk ', ' Kaput Krauts ', ' Todeskommando Atomsturm ', ' Elektro Slam Poetry mit Beatpoeten ']",
-54,Basel,The-Jimmy-Miller-Incident,2013-11-02,['The Jimmy Miller Incident '],
-55,Wil,Natural-Born-Spitters,2013-11-02,['Natural Born Spitters '],
-56,Wabern,Karnusian-Meyer,2013-11-02,"[' Araxi Karnusian ', ' Björn Meyer ']",
-57,Sursee,Freakangel,2013-11-02,['Freakangel '],
-58,Sankt-Gallen,Julia-Holter,2013-11-02,"['Julia Holter ', ' Lucretia Dalt ']",Pop
-59,Reussbühl,Weak-Fishes,2013-11-02,"[' DJs Hübi M. ', ' Greedy ', ' Hübi T. ', ' Julian ', ' Toni ']",
-60,Zürich,Jazznojazz,2013-11-02,['Alice Russell '],
-61,null,Pena,2013-11-02,['DJs Kiko Rivera '],
+location,event,date,artists,genre
+Luzern,Konzert,2013-11-02,"[' Maria C. Schmid ', ' Annina Haug ', ' David Munderloh ', ' René Koch ']",Classic
+Aarau,Don't-Change-Your-Hair-For-Me,2013-11-02,"[' Sandy Patton ', ' Peter Schärli ', ' Antonio Giordano ', ' Thomas Dürst ']",
+Basel,Auf-dem-Weg-zur-Klassik,2013-11-02,"['Regula Bernath ', ' Annette Unternährer-Gfeller ']",Classic
+Basel,Metropolis,2013-11-02,['Rudolf Lutz '],Classic
+Ennetbaden,The-Plagiators,2013-11-02,"[' Franziska Perini ', ' Martin Perini ', ' René Vögeli ', ' Martin Sitter ', ' feat. Susanne Portmann ']",Pop
+Zürich,Seasick-Steve,2013-11-02,"['Seasick Steve ', ' Gemma Ray ']",
+Ostermundigen,Raindrop-Singers-Jahrskonzert,2013-11-02,['Martin Jufer '],
+Winterthur,Zweimal-vier-Saiten-im-Duo,2013-11-02,"['Thomas Zehetmair ', ' Ruth Killius ']",Classic
+Zürich,Jazznojazz,2013-11-02,['Chucho Valdes Quintet '],
+Zürich,Herbsttournee,2013-11-02,[' Jean-Yves Thibaudet '],Classic
+Zürich,Eröffnungskonzert-der-Saison,2013-11-02,"[' Clemence Tilquin ', ' Andras Szalai ']",Classic
+Bern,Konzert,2013-11-02,"[' Maki Wiederkehr ', ' Daniel Meller ', ' Flurin Cuonz ']",Classic
+Zürich,Home,2013-11-02,"['Szenisches Konzert von und mit Simona Ryser ', ' mit Anna Trauffer ', ' Philipp Schaufelberger ']",Classic
+Zürich,Old-Kitchen-Rockers,2013-11-02,['Old Kitchen Rockers '],
+Zürich,Jazznojazz,2013-11-02,['Mezzoforte '],
+Zürich,Tyler-Ward,2013-11-02,['Tyler Ward '],Pop
+null,John-Parish,2013-11-02,['John Parish '],Pop
+Pratteln,Feuerengel,2013-11-02,['Feuerengel '],
+Erlen,Albert-&-Andrea-Adams-Frey,2013-11-02,['Albert & Andrea Adams Frey '],Pop
+Luzern,Seat-Music-Session,2013-11-02,"[' Jenniffer Kae ', ' Johannes Oerding ', ' Jaz Ellington ']",Pop
+Würenlingen,Liederabend-Auf-Flügeln-des-Gesanges,2013-11-02,"['Alessandro Cipriano ', ' Nancy Lee ']",Classic
+Oberengstringen,Schaerer-Oester,2013-11-02,"[' Andreas Schaerer ', ' Bänz Oester ', ' Thomas Lüthi ', ' Bernhard Bamert ', ' Lukas Mantel ']",
+Winterthur,Duo-Giocondo,2013-11-02,"[' Andrea Brunner ', ' Cindy Oppliger ']",Pop
+Basel,Alle-Heilig-,2013-11-02,"[' Regina Graus ', ' Aurea Marston ', ' Fabienne Marzena Skarpetowski ', ' Susanne Wiesner ']",Classic
+Zürich,Half-Moon-Run,2013-11-02,['Half Moon Run '],
+null,Jim-Hunter,2013-11-02,['Jim Hunter '],
+Thônex,Pixies,2013-11-02,['Pixies '],
+Baden,Wynavalley-Oldtime-Jazzband,2013-11-02,"[' Peter C. Beyeler', ' Shilo Buck ', ' Werner Gisin ', ' Heinz Glauser ', ' Heinz Lehmann ', ' Walter Daetwyler ', ' Cathryn Lehman ']",
+Ascona,Buster-Williams-Quartet,2013-11-02,"[' Buster Willams ', ' Bruce Williams ', ' Eric Scott Reed ', ' Joey Baron ']",
+Feuerthalen,Timo-Gross-Band,2013-11-02,['Timo Gross Band '],
+Wabern,Lottchen,2013-11-02,"[' Eva Buchmann ', ' Sonja Huber ']",
+Solothurn,Christy-Doran's-New-Bag,2013-11-02,"[' Christy Doran ', ' Sarah Buechi ', ' Vincent Membrez ', ' Lionel Friedli ']",
+Pratteln,Unifour,2013-11-02,['Unifour '],
+Basel,Them-5,2013-11-02,"['Bob Franceschini ', ' Mark Sherman ', ' Antonio Faraò ', ' Martin Gjakonovski ', ' Adam Nussbaum ']",
+Zürich,Imperial-Tiger-Orchestra,2013-11-02,"[' Raphael Anker ', ' John Menoud ', ' Alexandre Rodrigues ', ' Cyril Moulas ', ' Luc Detraz ', ' Julien Israelian ']",
+Wallisellen,The-Seer,2013-11-02,['The Seer '],
+null,The-Restarts,2013-11-02,['The Restarts '],
+Mühle-Hunziken,Rubigen,2013-11-02,['Beoga '],Beoga
+Weissbad,8.-Blues-Tage,2013-11-02,['Matt Andersen '],
+Schaffhausen,Mass-Centi,2013-11-02,['Mass Centi '],
+null,Carla-Pires,2013-11-02,"[' Carla Pires ', ' Antonio Neto ', ' Ricardo Costa ']",
+Winterthur,The-Quireboys,2013-11-02,"['The Quireboys ', ' Bonafide ']",
+Frauenfeld,Stephan-Rigert's-Drum-&-Voice-Tour,2013-11-02,"['Gabrila Mendes ', ' Simone Sou ', ' Dudu Penz ', ' Ibou Ndiaye ', ' Sandro Schneebeli ', ' Dave Feusi ', ' Stephan Rigert ']",
+Aarau,Turbostaat,2013-11-02,['Turbostaat '],
+Luzern,Rudi-Hayden,2013-11-02,['Rudi Hayden '],Pop
+null,Cyberpunkers,2013-11-02,['Cyberpunkers '],Electronic
+Schaffhausen,Max-Romeo,2013-11-02,['Max Romeo '],
+Zürich,Hear-Again,2013-11-02,"[' Ruth Marty ', ' Tony Artho ', ' Marcel Hässig ']",Pop
+Bern,Kofelgschroa,2013-11-02,['Kofelgschroa '],Pop
+Düdingen,Deafheaven,2013-11-02,"['Deafheaven ', ' Weekend ']",
+Zürich,Jazznojazz,2013-11-02,['Buika '],
+Zürich,Sookee,2013-11-02,['Sookee '],
+Zürich,Jazznojazz,2013-11-02,['Osaka Monaurail '],
+Basel,Twisted-Chords,2013-11-02,"['Abfukk ', ' Kaput Krauts ', ' Todeskommando Atomsturm ', ' Elektro Slam Poetry mit Beatpoeten ']",
+Basel,The-Jimmy-Miller-Incident,2013-11-02,['The Jimmy Miller Incident '],
+Wil,Natural-Born-Spitters,2013-11-02,['Natural Born Spitters '],
+Wabern,Karnusian-Meyer,2013-11-02,"[' Araxi Karnusian ', ' Björn Meyer ']",
+Sursee,Freakangel,2013-11-02,['Freakangel '],
+Sankt-Gallen,Julia-Holter,2013-11-02,"['Julia Holter ', ' Lucretia Dalt ']",Pop
+Reussbühl,Weak-Fishes,2013-11-02,"[' DJs Hübi M. ', ' Greedy ', ' Hübi T. ', ' Julian ', ' Toni ']",
+Zürich,Jazznojazz,2013-11-02,['Alice Russell '],
+null,Pena,2013-11-02,['DJs Kiko Rivera '],

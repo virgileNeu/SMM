@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Zürich,Tough-Tenor-A-Tribute-to-Eddie-Lockjaw-Davis,2016-11-29,"['Christoph Grab ', ' Marcel Thomi ', ' Paul Amereller ']",
-1,Winterthur,De-Wolff-abgesagt,2016-11-29,['De Wolff '],
-2,Zürich,Day-&-Taxi,2016-11-29,['Day & Taxi '],Pop
-3,Zürich,Frankl-Walser-De-Sousa,2016-11-29,"[' Max Frankl ', ' Raphael Walser ', ' Marcio de Souca ']",
-4,Zürich,Foy-Vance,2016-11-29,"['Foy Vance ', ' Ryan McMullan ']",
-5,Bern,T-Rraum,2016-11-29,"[' Regula Schwa ', ' Isabelle Gottraux ', ' Barbara Gasser ']",Classic
-6,Basel,Der-Ruf-des-Windes,2016-11-29,"['Yoo-Hong ', ' Tamar Eskenian ', ' Paolo Vignaroli ', ' Javier Hagen ']",Classic
-7,Zürich,LP,2016-11-29,['LP '],Pop
-8,Zürich,Basecamp,2016-11-29,['Basecamp '],
-9,Baden,Berge-Essl-Chessex,2016-11-29,"[' Juna Winston ', ' Coleman Goepfert ']",
-10,Thun,Cocoon,2016-11-29,"[' Collin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-11,Luzern,Singen-mit-Hasi,2016-11-29,"['Naima Gürth ', ' Johannes Gürth ', ' David Hasler ', ' Rafael Jerjen ', ' Andreas Berger ']",
-12,Zürich,Jaga-Jazzist,2016-11-29,"[' Lars Horntveth ', ' Erik Johannessen ', ' Line Horntveth ', ' Andreas Mjøs ']",
-13,Zürich,Pamplona-Grup,2016-11-29,['Pamplona Grup '],
-14,Basel,Moreno-Cowherd,2016-11-29,"[' Mike Moreno ', ' Jon Cowherd ']",
-15,Lausanne,Ryley-Walker,2016-11-29,"['Ryley Walker ', ' Itasca ']",
+location,event,date,artists,genre
+Zürich,Tough-Tenor-A-Tribute-to-Eddie-Lockjaw-Davis,2016-11-29,"['Christoph Grab ', ' Marcel Thomi ', ' Paul Amereller ']",
+Winterthur,De-Wolff-abgesagt,2016-11-29,['De Wolff '],
+Zürich,Day-&-Taxi,2016-11-29,['Day & Taxi '],Pop
+Zürich,Frankl-Walser-De-Sousa,2016-11-29,"[' Max Frankl ', ' Raphael Walser ', ' Marcio de Souca ']",
+Zürich,Foy-Vance,2016-11-29,"['Foy Vance ', ' Ryan McMullan ']",
+Bern,T-Rraum,2016-11-29,"[' Regula Schwa ', ' Isabelle Gottraux ', ' Barbara Gasser ']",Classic
+Basel,Der-Ruf-des-Windes,2016-11-29,"['Yoo-Hong ', ' Tamar Eskenian ', ' Paolo Vignaroli ', ' Javier Hagen ']",Classic
+Zürich,LP,2016-11-29,['LP '],Pop
+Zürich,Basecamp,2016-11-29,['Basecamp '],
+Baden,Berge-Essl-Chessex,2016-11-29,"[' Juna Winston ', ' Coleman Goepfert ']",
+Thun,Cocoon,2016-11-29,"[' Collin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
+Luzern,Singen-mit-Hasi,2016-11-29,"['Naima Gürth ', ' Johannes Gürth ', ' David Hasler ', ' Rafael Jerjen ', ' Andreas Berger ']",
+Zürich,Jaga-Jazzist,2016-11-29,"[' Lars Horntveth ', ' Erik Johannessen ', ' Line Horntveth ', ' Andreas Mjøs ']",
+Zürich,Pamplona-Grup,2016-11-29,['Pamplona Grup '],
+Basel,Moreno-Cowherd,2016-11-29,"[' Mike Moreno ', ' Jon Cowherd ']",
+Lausanne,Ryley-Walker,2016-11-29,"['Ryley Walker ', ' Itasca ']",

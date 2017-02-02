@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-22,['Susana Maria Florencia Abraham Fóscolo '],Classic
-1,Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-22,['Cristina Delogu '],Classic
-2,Basel,Abschlusskonzert,2015-06-22,[' Vinícius de Freitas Pèrez '],Classic
-3,Zürich,Glantaler-Power-Men,2015-06-22,['Glantaler Power Men '],Pop
-4,null,Thomas-Schunke,2015-06-22,['Thomas Schunke '],
-5,Zürich,Rezital-Master-Music-Performance-Orchester,2015-06-22,['Carina Samitz '],Classic
-6,Basel,Schlusskonzert,2015-06-22,"[' Vinícius de Freitas Pèrez ', ' Shani Shachar ', ' Jin-Ah Lee ', ' Edouard Mätzener ', ' Julia Hantschel ', ' Sergio Pires ']",Classic
-7,Zürich,George-Ezra,2015-06-22,['George Ezra '],Pop
-8,Zürich,Yves-Theiler-Trio,2015-06-22,"[' Yves Theiler ', ' Luca Sisera ', ' Lukas Mantel ']",
-9,Pratteln,Mastodon,2015-06-22,['Mastodon '],
-10,null,Black-Rebel-Motorcycle-Club,2015-06-22,['Black Rebel Motorcycle Club '],
-11,Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-22,['Sara Noemi Vicente Aranda '],Classic
-12,Basel,Masterrezital,2015-06-22,['Jermaine Sprosse '],Classic
-13,Zürich,Delaney-Davidson,2015-06-22,['Delaney Davidson '],
-14,Luzern,Abschlusskonzerte,2015-06-22,"['Nayan Stalder ', ' Kaspar Eggimann ', ' Adrian Würsch ', ' Christoph Pfändler ']",
-15,Winterthur,Seeking-a-Drop-&-A-Lazy-Cat,2015-06-22,['Seeking a Drop & A Lazy Cat '],
-16,Zürich,Berge,2015-06-22,['Berge '],Pop
+location,event,date,artists,genre
+Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-22,['Susana Maria Florencia Abraham Fóscolo '],Classic
+Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-22,['Cristina Delogu '],Classic
+Basel,Abschlusskonzert,2015-06-22,[' Vinícius de Freitas Pèrez '],Classic
+Zürich,Glantaler-Power-Men,2015-06-22,['Glantaler Power Men '],Pop
+null,Thomas-Schunke,2015-06-22,['Thomas Schunke '],
+Zürich,Rezital-Master-Music-Performance-Orchester,2015-06-22,['Carina Samitz '],Classic
+Basel,Schlusskonzert,2015-06-22,"[' Vinícius de Freitas Pèrez ', ' Shani Shachar ', ' Jin-Ah Lee ', ' Edouard Mätzener ', ' Julia Hantschel ', ' Sergio Pires ']",Classic
+Zürich,George-Ezra,2015-06-22,['George Ezra '],Pop
+Zürich,Yves-Theiler-Trio,2015-06-22,"[' Yves Theiler ', ' Luca Sisera ', ' Lukas Mantel ']",
+Pratteln,Mastodon,2015-06-22,['Mastodon '],
+null,Black-Rebel-Motorcycle-Club,2015-06-22,['Black Rebel Motorcycle Club '],
+Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-22,['Sara Noemi Vicente Aranda '],Classic
+Basel,Masterrezital,2015-06-22,['Jermaine Sprosse '],Classic
+Zürich,Delaney-Davidson,2015-06-22,['Delaney Davidson '],
+Luzern,Abschlusskonzerte,2015-06-22,"['Nayan Stalder ', ' Kaspar Eggimann ', ' Adrian Würsch ', ' Christoph Pfändler ']",
+Winterthur,Seeking-a-Drop-&-A-Lazy-Cat,2015-06-22,['Seeking a Drop & A Lazy Cat '],
+Zürich,Berge,2015-06-22,['Berge '],Pop

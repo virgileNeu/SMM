@@ -1,26 +1,26 @@
-,location,event,date,artists,genre
-0,Winterthur,Winterthurer-Museumskonzert-Kosmologien,2016-09-18,['Johannes Herrmann '],Classic
-1,null,Preisträgerkonzert-Der-Jugend-die-Zukunft,2016-09-18,"[' Anna-Lena Killinger ', ' Veronika Mair ', ' Lilien Tan ', ' Fabiola Tedesco ']",Classic
-2,Zürich,Konzert-Matinée,2016-09-18,"['Eléonore Willi ', ' Jürg Luchsinger ']",Classic
-3,Fischingen,Streifzug-durch-Osteuropa-und-Russland,2016-09-18,"[' Petya Mihneva ', ' Hyunjong Reents-Kang ', ' Eva Lüthi ']",Classic
-4,Solothurn,Spektrum|Akzente-2016-Variationen,2016-09-18,"[' ', ' Ursula Hächler ', ' Jason Paul Peterson ', ' Marisa Waldburger ']",Classic
-5,null,Kammermusik-am-Bettag,2016-09-18,"['Ursula Emch ', ' Linda Deborah Loosli ', ' Julia Fankhauser ']",Classic
-6,Zürich,"""Mittag-und-Abend""",2016-09-18,"[' Neues Zürcher Orchester ', ' Kirchenchor Biglen ', ' Sandrine Dorin ', ' Milan Siljanov ']",Classic
-7,Thun,Klavierkonzert,2016-09-18,['Aglaia Graf '],Classic
-8,Zürich,Orgel-Rezital-Benefizkonzert,2016-09-18,['Theo Wegmann '],Classic
-9,Zürich,Nota-Bene-Septemberkonzert,2016-09-18,[' Maria Gerter '],Classic
-10,Bern,Meisterkonzert,2016-09-18,"['Magdalena Kozená ', ' Malcolm Martineau ']",Classic
-11,Aarau,Vorhang-auf-Beethoven,2016-09-18,[' Sophia Jaffé '],Classic
-12,Zürich,Le-Röschtigraben,2016-09-18,"[' Julia Schiwowa ', ' Edward Rushton ', ' Andrei Ichtchenko ', ' Simon Kessler ', ' Fridolin Blumer ', ' David Stauffacher ']",Pop
-13,Zürich,Bettagskonzert,2016-09-18,"[' Stephanie Pfeffer ', ' Richard Resch ', ' Richard Helm ']",Classic
-14,Rorschacherberg,Preisträgerkonzert-Der-Jugend-die-Zukunft,2016-09-18,"[' Anna-Lena Killinger ', ' Veronika Mair ', ' Lilien Tan ', ' Fabiola Tedesco ']",Classic
-15,Wädenswil,Drum-Sights,2016-09-18,"[' Valeria Zangger ', ' Chris Jaeger Brown ', ' Markus Lauterburg ', ' Pierre Favre ']",
-16,Luzern,Jubiläumskonzert-Danza,2016-09-18,"[' Noëlle Grüebler ', ' Joseph Sieber ']",Classic
-17,Zürich,Ba-Cissoko,2016-09-18,"[' Ba Cissoko ', ' Ibrahima Kourou Kouyaté ', ' Karamoko Bangoura ', ' Abdoulaye Kouyaté ']",
-18,Zürich,Percussive-II,2016-09-18,"['Martin Grubinger ', ' Andreas Janke ', ' Thomas Grossenbacher ', ' Yulia Miloslavskaya ']",Classic
-19,Luzern,The-Boxer-Rebellion,2016-09-18,['The Boxer Rebellion '],
-20,Pratteln,Y-&-T,2016-09-18,['Y & T '],
-21,Zürich,Wise-Guys,2016-09-18,['Wise Guys '],Pop
-22,Bern,Puerta-Sur,2016-09-18,['Puerta Sur '],
-23,Luzern,Youngblood-Brass-Band,2016-09-18,['Youngblood Brass Band '],
-24,Zürich,Maria-Doyle-Kennedy-&-Kieran-Kennedy,2016-09-18,['Maria Doyle Kennedy & Kieran Kennedy '],
+location,event,date,artists,genre
+Winterthur,Winterthurer-Museumskonzert-Kosmologien,2016-09-18,['Johannes Herrmann '],Classic
+null,Preisträgerkonzert-Der-Jugend-die-Zukunft,2016-09-18,"[' Anna-Lena Killinger ', ' Veronika Mair ', ' Lilien Tan ', ' Fabiola Tedesco ']",Classic
+Zürich,Konzert-Matinée,2016-09-18,"['Eléonore Willi ', ' Jürg Luchsinger ']",Classic
+Fischingen,Streifzug-durch-Osteuropa-und-Russland,2016-09-18,"[' Petya Mihneva ', ' Hyunjong Reents-Kang ', ' Eva Lüthi ']",Classic
+Solothurn,Spektrum|Akzente-2016-Variationen,2016-09-18,"[' ', ' Ursula Hächler ', ' Jason Paul Peterson ', ' Marisa Waldburger ']",Classic
+null,Kammermusik-am-Bettag,2016-09-18,"['Ursula Emch ', ' Linda Deborah Loosli ', ' Julia Fankhauser ']",Classic
+Zürich,"""Mittag-und-Abend""",2016-09-18,"[' Neues Zürcher Orchester ', ' Kirchenchor Biglen ', ' Sandrine Dorin ', ' Milan Siljanov ']",Classic
+Thun,Klavierkonzert,2016-09-18,['Aglaia Graf '],Classic
+Zürich,Orgel-Rezital-Benefizkonzert,2016-09-18,['Theo Wegmann '],Classic
+Zürich,Nota-Bene-Septemberkonzert,2016-09-18,[' Maria Gerter '],Classic
+Bern,Meisterkonzert,2016-09-18,"['Magdalena Kozená ', ' Malcolm Martineau ']",Classic
+Aarau,Vorhang-auf-Beethoven,2016-09-18,[' Sophia Jaffé '],Classic
+Zürich,Le-Röschtigraben,2016-09-18,"[' Julia Schiwowa ', ' Edward Rushton ', ' Andrei Ichtchenko ', ' Simon Kessler ', ' Fridolin Blumer ', ' David Stauffacher ']",Pop
+Zürich,Bettagskonzert,2016-09-18,"[' Stephanie Pfeffer ', ' Richard Resch ', ' Richard Helm ']",Classic
+Rorschacherberg,Preisträgerkonzert-Der-Jugend-die-Zukunft,2016-09-18,"[' Anna-Lena Killinger ', ' Veronika Mair ', ' Lilien Tan ', ' Fabiola Tedesco ']",Classic
+Wädenswil,Drum-Sights,2016-09-18,"[' Valeria Zangger ', ' Chris Jaeger Brown ', ' Markus Lauterburg ', ' Pierre Favre ']",
+Luzern,Jubiläumskonzert-Danza,2016-09-18,"[' Noëlle Grüebler ', ' Joseph Sieber ']",Classic
+Zürich,Ba-Cissoko,2016-09-18,"[' Ba Cissoko ', ' Ibrahima Kourou Kouyaté ', ' Karamoko Bangoura ', ' Abdoulaye Kouyaté ']",
+Zürich,Percussive-II,2016-09-18,"['Martin Grubinger ', ' Andreas Janke ', ' Thomas Grossenbacher ', ' Yulia Miloslavskaya ']",Classic
+Luzern,The-Boxer-Rebellion,2016-09-18,['The Boxer Rebellion '],
+Pratteln,Y-&-T,2016-09-18,['Y & T '],
+Zürich,Wise-Guys,2016-09-18,['Wise Guys '],Pop
+Bern,Puerta-Sur,2016-09-18,['Puerta Sur '],
+Luzern,Youngblood-Brass-Band,2016-09-18,['Youngblood Brass Band '],
+Zürich,Maria-Doyle-Kennedy-&-Kieran-Kennedy,2016-09-18,['Maria Doyle Kennedy & Kieran Kennedy '],

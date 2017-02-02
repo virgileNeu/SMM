@@ -1,39 +1,39 @@
-,location,event,date,artists,genre
-0,Zermatt,Zermatt-Unplugged,2016-04-07,['Lola Marsh '],
-1,Solothurn,For-Today,2016-04-07,['For Today '],
-2,null,Street-With-Attitude,2016-04-07,['La dernière mesure '],
-3,null,8.-Tonhallekonzert,2016-04-07,['Xavier de Maistre '],Classic
-4,Zermatt,Zermatt-Unplugged,2016-04-07,['Yoav '],Pop
-5,Bern,Internationales-Jazzfestival-Bern,2016-04-07,['Hamilton De Holanda '],
-6,Zürich,Thursday-Night-Jazz,2016-04-07,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-7,Zürich,Zeitfestival-Momentaufnahmen,2016-04-07,"['Lisa Tatin ', ' Larissa Bretscher ', ' Stefan Kägi ']",Classic
-8,Zürich,Chopin-des-Nordens,2016-04-07,[' Jean-Yves Thibaudet '],Classic
-9,Winterthur,Puls,2016-04-07,[' Rudolf Koelman '],Classic
-10,null,Black-Mountain,2016-04-07,['Black Mountain '],
-11,Basel,Canti-popolari-Vol.-2,2016-04-07,"[' Svea Schildknecht ', ' Francisca Näf ', ' Jean-Jacques Knutti ', ' Jean-Christophe Groffe ']",Classic
-12,Zürich,Peters-Playstation-feat.-Andy-Scherrer,2016-04-07,"[' Peter Preibisch ', ' Andy Scherrer ', ' Gregor Müller ', ' Eric Hunziker ', ' Silvan Jeger ', ' Roland Wäger ']",
-13,Zürich,Elijah-&-Joe-Ariwa,2016-04-07,['Elijah & Joe Ariwa '],
-14,Zürich,Talco,2016-04-07,"['Talco ', ' The Prosecution ']",
-15,Basel,Richter-Zyklus,2016-04-07,"['Mario Schenker ', ' Hayden Chisholm ']",Classic
-16,Zürich,Stereo-Total,2016-04-07,"['Stereo Total ', ' Maurice de la falaise ']",Pop
-17,Pratteln,Leprous,2016-04-07,['Leprous '],
-18,Basel,Blues-Festival-Basel,2016-04-07,"['Marcus Bonfanti ', ' King King ']",
-19,Biglen,Bourbon-Street-Jazz-Band-Bern,2016-04-07,"[' Erich Möschler ', ' Pitsch Baumgartner ', ' Roland Wilhelm ']",
-20,Zürich,Billiger-Bauer-Celebrating-20-Years,2016-04-07,"['Omri Ziegele ', ' Jürg Wickihalder ', ' Nick Gutersohn', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Marco Käppeli ', ' Dieter Ulrich ']",
-21,Winterthur,Playground,2016-04-07,"[' Stephanie Wagner ', ' Esther Bächlin ', ' Gina Schwarz ', ' John Voirol ', ' Tony Renold ']",
-22,Zermatt,Zermatt-Unplugged,2016-04-07,['Simple Minds '],Pop
-23,Baden,Hausquartett,2016-04-07,"[' Christoph Grab ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-24,Luzern,Micah-P.-Hinsons,2016-04-07,['Micah P. Hinsons '],
-25,Winterthur,Årabrot,2016-04-07,['Årabrot '],
-26,Zürich,Robert-Glasper-Experiment,2016-04-07,"[' Robert Glasper ', ' Casey Benjamin ', ' Derrick Hodge ', ' Mark Colenburg ']",
-27,Basel,Blue-Rose-Code,2016-04-07,['Blue Rose Code '],
-28,Aarau,Skerryvore,2016-04-07,['Skerryvore '],
-29,Liebefeld,Bänz-Oester-&-the-Rainmakers,2016-04-07,"['Bänz Oester & the Rainmakers ', ' Ganesh Geymeier ', ' Afrika Mkhize ', ' Bänz Oester ', ' Ayanda Sikade ']",
-30,Basel,CIA-Trio,2016-04-07,"[' Peter Madsen ', ' Herwig Hammerl ', ' Alfred Vogel ']",
-31,Baden,Radio-Kings,2016-04-07,['Radio Kings '],
-32,Zürich,Die-Nacht-und-das-Pferd,2016-04-07,"[' Tobias Meier ', ' Dominique Girod ', ' Sheldon Suter ']",
-33,Basel,Rejjie-Snow,2016-04-07,"['Rejjie Snow ', ' DJ Tray ']",
-34,Winterthur,Badewanne-&-Schauplatz,2016-04-07,['Kirt Debique '],
-35,Luzern,Café-Entrecorde,2016-04-07,['Simeon Soul Charger '],
-36,Zermatt,Zermatt-Unplugged,2016-04-07,['The Slow Show '],Pop
-37,Zermatt,Zermatt-Unplugged,2016-04-07,['Chris Cornell '],Pop
+location,event,date,artists,genre
+Zermatt,Zermatt-Unplugged,2016-04-07,['Lola Marsh '],
+Solothurn,For-Today,2016-04-07,['For Today '],
+null,Street-With-Attitude,2016-04-07,['La dernière mesure '],
+null,8.-Tonhallekonzert,2016-04-07,['Xavier de Maistre '],Classic
+Zermatt,Zermatt-Unplugged,2016-04-07,['Yoav '],Pop
+Bern,Internationales-Jazzfestival-Bern,2016-04-07,['Hamilton De Holanda '],
+Zürich,Thursday-Night-Jazz,2016-04-07,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Zürich,Zeitfestival-Momentaufnahmen,2016-04-07,"['Lisa Tatin ', ' Larissa Bretscher ', ' Stefan Kägi ']",Classic
+Zürich,Chopin-des-Nordens,2016-04-07,[' Jean-Yves Thibaudet '],Classic
+Winterthur,Puls,2016-04-07,[' Rudolf Koelman '],Classic
+null,Black-Mountain,2016-04-07,['Black Mountain '],
+Basel,Canti-popolari-Vol.-2,2016-04-07,"[' Svea Schildknecht ', ' Francisca Näf ', ' Jean-Jacques Knutti ', ' Jean-Christophe Groffe ']",Classic
+Zürich,Peters-Playstation-feat.-Andy-Scherrer,2016-04-07,"[' Peter Preibisch ', ' Andy Scherrer ', ' Gregor Müller ', ' Eric Hunziker ', ' Silvan Jeger ', ' Roland Wäger ']",
+Zürich,Elijah-&-Joe-Ariwa,2016-04-07,['Elijah & Joe Ariwa '],
+Zürich,Talco,2016-04-07,"['Talco ', ' The Prosecution ']",
+Basel,Richter-Zyklus,2016-04-07,"['Mario Schenker ', ' Hayden Chisholm ']",Classic
+Zürich,Stereo-Total,2016-04-07,"['Stereo Total ', ' Maurice de la falaise ']",Pop
+Pratteln,Leprous,2016-04-07,['Leprous '],
+Basel,Blues-Festival-Basel,2016-04-07,"['Marcus Bonfanti ', ' King King ']",
+Biglen,Bourbon-Street-Jazz-Band-Bern,2016-04-07,"[' Erich Möschler ', ' Pitsch Baumgartner ', ' Roland Wilhelm ']",
+Zürich,Billiger-Bauer-Celebrating-20-Years,2016-04-07,"['Omri Ziegele ', ' Jürg Wickihalder ', ' Nick Gutersohn', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Marco Käppeli ', ' Dieter Ulrich ']",
+Winterthur,Playground,2016-04-07,"[' Stephanie Wagner ', ' Esther Bächlin ', ' Gina Schwarz ', ' John Voirol ', ' Tony Renold ']",
+Zermatt,Zermatt-Unplugged,2016-04-07,['Simple Minds '],Pop
+Baden,Hausquartett,2016-04-07,"[' Christoph Grab ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
+Luzern,Micah-P.-Hinsons,2016-04-07,['Micah P. Hinsons '],
+Winterthur,Årabrot,2016-04-07,['Årabrot '],
+Zürich,Robert-Glasper-Experiment,2016-04-07,"[' Robert Glasper ', ' Casey Benjamin ', ' Derrick Hodge ', ' Mark Colenburg ']",
+Basel,Blue-Rose-Code,2016-04-07,['Blue Rose Code '],
+Aarau,Skerryvore,2016-04-07,['Skerryvore '],
+Liebefeld,Bänz-Oester-&-the-Rainmakers,2016-04-07,"['Bänz Oester & the Rainmakers ', ' Ganesh Geymeier ', ' Afrika Mkhize ', ' Bänz Oester ', ' Ayanda Sikade ']",
+Basel,CIA-Trio,2016-04-07,"[' Peter Madsen ', ' Herwig Hammerl ', ' Alfred Vogel ']",
+Baden,Radio-Kings,2016-04-07,['Radio Kings '],
+Zürich,Die-Nacht-und-das-Pferd,2016-04-07,"[' Tobias Meier ', ' Dominique Girod ', ' Sheldon Suter ']",
+Basel,Rejjie-Snow,2016-04-07,"['Rejjie Snow ', ' DJ Tray ']",
+Winterthur,Badewanne-&-Schauplatz,2016-04-07,['Kirt Debique '],
+Luzern,Café-Entrecorde,2016-04-07,['Simeon Soul Charger '],
+Zermatt,Zermatt-Unplugged,2016-04-07,['The Slow Show '],Pop
+Zermatt,Zermatt-Unplugged,2016-04-07,['Chris Cornell '],Pop

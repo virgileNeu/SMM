@@ -1,29 +1,29 @@
-,location,event,date,artists,genre
-0,Gstaad,Matinée-des-jeunes-étoiles-VII,2013-08-31,"['Jieun Anna Lee ', ' Stefka Perifanova ']",Classic
-1,Luzern,Wer-ist-der-Mächtigste-auf-der-Welt-,2013-08-31,[' Samuel Zumbühl '],Classic
-2,Rümlang,Zürich-Openair,2013-08-31,"['James Blake ', ' Ebony Bones ', ' Jessie Ware ']",Electronic
-3,Luzern,Lucerne-Festival,2013-08-31,[' Samuel Zumbühl '],Classic
-4,Murten,Vier-Elemente,2013-08-31,"['Sophie Chaillot ', ' Sarah Rumer ']",Classic
-5,Rümlang,Zürich-Openair,2013-08-31,"['Paul Kalkbrenner ', ' The XX ', ' Fettes Brot ', ' Everything Everything ']",Electronic
-6,Festivalgelände,Rümlang,2013-08-31,"['DJs Justice ', ' Erol Alkan ', ' Sebastian ', ' Jackson and his Computer Band ', ' live: Riton ']",
-7,Sursee,Hellvetia-Day-XIII,2013-08-31,"['Disavowed ', ' Exsanguination ']",
-8,Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-08-31,['Christian Mettler '],Pop
-9,Winterthur,Classic-Openair,2013-08-31,[' Rudolf Koelman '],Classic
-10,Schaffhausen,Les-Moby-Dicks,2013-08-31,"[' Alex Eigenmann ', ' Marco Thürlemann ', ' Christoph Schifferli ', ' Henry Dobler ', ' Rudi Bindella ']",Pop
-11,Zürich,The-Tears-of-Nature-Galakonzert-des-Gönnervereins,2013-08-31,[' Martin Grubinger '],Classic
-12,Montreux,Orchestre-de-la-Suisse-Romande,2013-08-31,[' Elisabeth Leonskaja '],Classic
-13,Thun,Bachwochen-Thun,2013-08-31,"[' Arianna Savall ', ' Petter Udland Johansen ']",Classic
-14,Gstaad,Verdi-Celebration,2013-08-31,[' Kristine Opolais '],Classic
-15,Murten,Operngala-Beziehungen-übers-Kreuz,2013-08-31,"['Brigitte Hool ', ' Nathalie Mittelbach ', ' Christian Baumgärtel ']",Classic
-16,Feuerthalen,Die-Fiehlvältigen,2013-08-31,"[' Carolyn Lutterbeck ', ' Urs Bossart ', ' Roger Flieg ', ' Beat Bossart ']",
-17,Neu-St.-Johann,Renaissancekonzert,2013-08-31,[' Alexander Seidel '],Classic
-18,null,13.-Klassik-Openair,2013-08-31,['Arkadi Shilkloper '],Classic
-19,Basel,Rick-Estrin-&-The-Nightcats,2013-08-31,['Rick Estrin & The Nightcats '],
-20,Winterthur,La-vie-en-rouge,2013-08-31,"[' M. Szczepkowski ', ' E. Rütsche ', ' A.-K. Graf ', ' Heinrich Mätzener ', ' S. Keller ', ' M. Flüge ', ' S. Vadimova ']",Classic
-21,null,Schallmaschine-Maximus,2013-08-31,"[' Synergy Percussion ', ' Speak Percussion ']",Classic
-22,Embrach,De-Raiz,2013-08-31,['De Raiz '],
-23,Zürich,Canzoniere-Grecanico-Salentino,2013-08-31,['Canzoniere Grecanico Salentino '],Pop
-24,null,Back-Lash,2013-08-31,"[' Andrew Robinson ', ' Kriz Flew Flueler ', ' Steffen Arpagaus ', ' Berni Ryter ', ' Roby Grausberg ', ' Anisa Djojoatmodjo ', ' Manu Römer ']",
-25,Rorschach,El-Bachatazo-Cubanisimo,2013-08-31,"['DJs Tommy ', ' Elvis ', "" Da'Le ""]",
-26,Zürich,Oriental-Lounge-Deluxe,2013-08-31,[' Gürkan '],
-27,Basel,St.-Augustine-Jugendkulturfestival-Basel,2013-08-31,"[' Amy Zuber ', ' Yannick Schmid ', ' Roman Albertini ', ' Tobias Erni ', ' Sebastian Bürgi ']",Pop
+location,event,date,artists,genre
+Gstaad,Matinée-des-jeunes-étoiles-VII,2013-08-31,"['Jieun Anna Lee ', ' Stefka Perifanova ']",Classic
+Luzern,Wer-ist-der-Mächtigste-auf-der-Welt-,2013-08-31,[' Samuel Zumbühl '],Classic
+Rümlang,Zürich-Openair,2013-08-31,"['James Blake ', ' Ebony Bones ', ' Jessie Ware ']",Electronic
+Luzern,Lucerne-Festival,2013-08-31,[' Samuel Zumbühl '],Classic
+Murten,Vier-Elemente,2013-08-31,"['Sophie Chaillot ', ' Sarah Rumer ']",Classic
+Rümlang,Zürich-Openair,2013-08-31,"['Paul Kalkbrenner ', ' The XX ', ' Fettes Brot ', ' Everything Everything ']",Electronic
+Festivalgelände,Rümlang,2013-08-31,"['DJs Justice ', ' Erol Alkan ', ' Sebastian ', ' Jackson and his Computer Band ', ' live: Riton ']",
+Sursee,Hellvetia-Day-XIII,2013-08-31,"['Disavowed ', ' Exsanguination ']",
+Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-08-31,['Christian Mettler '],Pop
+Winterthur,Classic-Openair,2013-08-31,[' Rudolf Koelman '],Classic
+Schaffhausen,Les-Moby-Dicks,2013-08-31,"[' Alex Eigenmann ', ' Marco Thürlemann ', ' Christoph Schifferli ', ' Henry Dobler ', ' Rudi Bindella ']",Pop
+Zürich,The-Tears-of-Nature-Galakonzert-des-Gönnervereins,2013-08-31,[' Martin Grubinger '],Classic
+Montreux,Orchestre-de-la-Suisse-Romande,2013-08-31,[' Elisabeth Leonskaja '],Classic
+Thun,Bachwochen-Thun,2013-08-31,"[' Arianna Savall ', ' Petter Udland Johansen ']",Classic
+Gstaad,Verdi-Celebration,2013-08-31,[' Kristine Opolais '],Classic
+Murten,Operngala-Beziehungen-übers-Kreuz,2013-08-31,"['Brigitte Hool ', ' Nathalie Mittelbach ', ' Christian Baumgärtel ']",Classic
+Feuerthalen,Die-Fiehlvältigen,2013-08-31,"[' Carolyn Lutterbeck ', ' Urs Bossart ', ' Roger Flieg ', ' Beat Bossart ']",
+Neu-St.-Johann,Renaissancekonzert,2013-08-31,[' Alexander Seidel '],Classic
+null,13.-Klassik-Openair,2013-08-31,['Arkadi Shilkloper '],Classic
+Basel,Rick-Estrin-&-The-Nightcats,2013-08-31,['Rick Estrin & The Nightcats '],
+Winterthur,La-vie-en-rouge,2013-08-31,"[' M. Szczepkowski ', ' E. Rütsche ', ' A.-K. Graf ', ' Heinrich Mätzener ', ' S. Keller ', ' M. Flüge ', ' S. Vadimova ']",Classic
+null,Schallmaschine-Maximus,2013-08-31,"[' Synergy Percussion ', ' Speak Percussion ']",Classic
+Embrach,De-Raiz,2013-08-31,['De Raiz '],
+Zürich,Canzoniere-Grecanico-Salentino,2013-08-31,['Canzoniere Grecanico Salentino '],Pop
+null,Back-Lash,2013-08-31,"[' Andrew Robinson ', ' Kriz Flew Flueler ', ' Steffen Arpagaus ', ' Berni Ryter ', ' Roby Grausberg ', ' Anisa Djojoatmodjo ', ' Manu Römer ']",
+Rorschach,El-Bachatazo-Cubanisimo,2013-08-31,"['DJs Tommy ', ' Elvis ', "" Da'Le ""]",
+Zürich,Oriental-Lounge-Deluxe,2013-08-31,[' Gürkan '],
+Basel,St.-Augustine-Jugendkulturfestival-Basel,2013-08-31,"[' Amy Zuber ', ' Yannick Schmid ', ' Roman Albertini ', ' Tobias Erni ', ' Sebastian Bürgi ']",Pop

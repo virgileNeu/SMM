@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,Zürich,Geigenspiel-auf-hohem-Seil,2015-10-27,"['Rustem Monasypov ', ' Elena Vartikian ']",Classic
-1,Zürich,Andy-Gruber-Band,2015-10-27,['Andy Gruber Band '],traditional
-2,Zürich,Jazz-Rock-Klarinette,2015-10-27,"[' Simon Wyrsch ', ' Angelo Signore ', ' Uli Heinzler ', ' Robert Mark ']",
-3,Zürich,Vesper-Bis-wann-verbirgst-du-dein-Antlitz-vor-mir-,2015-10-27,[' Tobias Willi '],Classic
-4,Zürich,Migros-Kulturprozent-Classics,2015-10-27,[' Arabella Steinbacher '],Classic
-5,Basel,Kammermusik-Basel,2015-10-27,"['Kolja Blacher ', ' Clemens Hagen ', ' Kirill Gerstein ']",Classic
-6,Basel,La-fida-ninfa,2015-10-27,"[' Maria Espada ', ' Roberta Invernizzi ', ' Franziska Gottwald ', ' Francesca Ascioti ', ' Carlos Mena ', ' conductor: Andrea Marcon ']",Classic
-7,Basel,Baloise-Session,2015-10-27,"['Francesco de Gregori ', ' Mario Biondi ']",
-8,Zürich,Musigstubete,2015-10-27,"[' Doris ', ' Hedi ', ' Gitta ', ' Nelly ', ' Ursula ']",
-9,Solothurn,Delain,2015-10-27,['Delain '],
-10,Pratteln,Hardcore-Superstar,2015-10-27,['Hardcore Superstar '],
-11,Zürich,Slayer,2015-10-27,"['Slayer ', ' support: Anthrax ', ' Kvelertak ']",
-12,Lausanne,Bullet-for-my-Valentine,2015-10-27,['Bullet for my Valentine '],
-13,Luzern,Konzert-Gewinner-ZKB-Jazzpreis,2015-10-27,"[' Nils Fischer ', ' David Koch ', ' Samuel Huwyler ', ' Dominik Mahnig ']",
-14,Zürich,Yaron-Herman-&-Ziv-Ravitz-Duo,2015-10-27,"['Yaron Herman & Ziv Ravitz Duo ', ' Yaron Herman ', ' Ziv Ravitz ']",
-15,Zürich,Nature-in-the-City,2015-10-27,['Nature in the City '],Pop
-16,Zürich,Julia-Holter,2015-10-27,['Julia Holter '],Pop
+location,event,date,artists,genre
+Zürich,Geigenspiel-auf-hohem-Seil,2015-10-27,"['Rustem Monasypov ', ' Elena Vartikian ']",Classic
+Zürich,Andy-Gruber-Band,2015-10-27,['Andy Gruber Band '],traditional
+Zürich,Jazz-Rock-Klarinette,2015-10-27,"[' Simon Wyrsch ', ' Angelo Signore ', ' Uli Heinzler ', ' Robert Mark ']",
+Zürich,Vesper-Bis-wann-verbirgst-du-dein-Antlitz-vor-mir-,2015-10-27,[' Tobias Willi '],Classic
+Zürich,Migros-Kulturprozent-Classics,2015-10-27,[' Arabella Steinbacher '],Classic
+Basel,Kammermusik-Basel,2015-10-27,"['Kolja Blacher ', ' Clemens Hagen ', ' Kirill Gerstein ']",Classic
+Basel,La-fida-ninfa,2015-10-27,"[' Maria Espada ', ' Roberta Invernizzi ', ' Franziska Gottwald ', ' Francesca Ascioti ', ' Carlos Mena ', ' conductor: Andrea Marcon ']",Classic
+Basel,Baloise-Session,2015-10-27,"['Francesco de Gregori ', ' Mario Biondi ']",
+Zürich,Musigstubete,2015-10-27,"[' Doris ', ' Hedi ', ' Gitta ', ' Nelly ', ' Ursula ']",
+Solothurn,Delain,2015-10-27,['Delain '],
+Pratteln,Hardcore-Superstar,2015-10-27,['Hardcore Superstar '],
+Zürich,Slayer,2015-10-27,"['Slayer ', ' support: Anthrax ', ' Kvelertak ']",
+Lausanne,Bullet-for-my-Valentine,2015-10-27,['Bullet for my Valentine '],
+Luzern,Konzert-Gewinner-ZKB-Jazzpreis,2015-10-27,"[' Nils Fischer ', ' David Koch ', ' Samuel Huwyler ', ' Dominik Mahnig ']",
+Zürich,Yaron-Herman-&-Ziv-Ravitz-Duo,2015-10-27,"['Yaron Herman & Ziv Ravitz Duo ', ' Yaron Herman ', ' Ziv Ravitz ']",
+Zürich,Nature-in-the-City,2015-10-27,['Nature in the City '],Pop
+Zürich,Julia-Holter,2015-10-27,['Julia Holter '],Pop

@@ -1,33 +1,33 @@
-,location,event,date,artists,genre
-0,Luzern,Kammermusik-Matinee,2015-03-29,"[' Ulrich Poschner ', ' Reiko Koi ', ' Alexander Besa ']",Classic
-1,Zürich,Freunde-Georgiens,2015-03-29,"[' Veriko Tchumburidze ', ' Irina Vardeli ']",Classic
-2,Zürich,Morgenmusik,2015-03-29,"[' Daniel Bentz ', ' Chasper-Curo Mani ']",Classic
-3,Basel,Liebe-und-Weisheit,2015-03-29,"[' Isabelle Schnöller ', ' Karin Dornbusch ', ' Helena Winkelman ', ' Alessandro DAmico ', ' Christoph Dangel ', ' Stefka Perifanova ', ' Mégroz ']",Classic
-4,Basel,J.S.-Bach-Johannespassion,2015-03-29,"[' Miriam Feuersinger ', ' Barbara Erni ', ' Jakob Pilgram ', ' Fabrice Hayoz ']",Classic
-5,null,Johannes-Passion,2015-03-29,"[' Erlend Tvinnereim ', ' Raitis Grigalis ', ' Vivian Zatta ']",Classic
-6,Zürich,Markuspassion,2015-03-29,"[' Franziska Wigger ', ' Peter Aregger ']",Classic
-7,Bern,Le-Laudi,2015-03-29,"[' Bénédicte Tauran ', ' Violetta Radomirska ', ' Rolf Romei ', ' Lisandro Abadie ']",Classic
-8,Liestal,Donna-Hughes,2015-03-29,['Donna Hughes '],Pop
-9,Zürich,Dornen-und-Rosen,2015-03-29,[' Urs Aeberhard '],Classic
-10,Zürich,Festivitäten-I,2015-03-29,[' Peter Vögeli '],Classic
-11,Bern,Nightshade,2015-03-29,"['Yuki Kasai ', ' Nana Hiwatari ']",Classic
-12,Burgdorf,Classix-Konzert-III,2015-03-29,"['Françoise Schalit-Gigon ', ' Irene Arametti ', ' Widar J. Schalit ']",Classic
-13,Lichtensteig,Federspiel,2015-03-29,"[' Frederic Alvarado-Dupuy ', ' Simon Zöchbauer ', ' Philip Haas ', ' Ayac Jimenez-Salvador ', ' Thomas Winalek ', ' Matthias Werner ', ' Robert Puhr ']",traditional
-14,Zürich,Chor-und-Cello,2015-03-29,[' Nicola Romanò '],Classic
-15,Volketswil,Bach-Meets-Pop-Jazz-Musical,2015-03-29,['Jürg Sigrist '],Classic
-16,Baden,Madrigali-veneziani-Heinrich-Schütz-und-seine-Lehrer,2015-03-29,"[' Seraina Perrenoud ', ' Stephanie Boller ', ' Jan Thomer ', ' Matthias Deger ', ' Giacomo Schiavo ', ' Jedediah Allen ']",Classic
-17,null,Palmsonntagskonzert,2015-03-29,[' Kantor Ernst Buscagne '],Classic
-18,Zürich,Passionskonzert,2015-03-29,"[' Rahel Künzler ', ' Yeon-Jeong Jeong ']",Classic
-19,null,Savina-Yannatou-&-Primavera-en-Salonico,2015-03-29,"[' Savina Yannatou ', ' Kostas Vomvolos ', ' Kyriakos Gouventas ', ' Harris Lambrakis ', ' Yannis Alexandris ', ' Michalis Siganidis ', ' Kostas Theodorou ']",
-20,null,Stars-80-L'origine,2015-03-29,[' Jean Pierre Morgand '],
-21,Zürich,Chorprojekt,2015-03-29,[' Marion Meili '],Classic
-22,Zürich,Querfeldein-musikalischer-Streifzug-durch-Europa,2015-03-29,"[' Jürgen Kupke ', ' Hans Hassler ', ' Markus Lauterburg ']",Classic
-23,Basel,Orgelkonzert,2015-03-29,['Andreas Liebig '],Classic
-24,Luzern,Lucerne-Festival-zu-Ostern,2015-03-29,[' Radu Lupu '],Classic
-25,Binningen,Passionsandacht,2015-03-29,"['Christine Pollerus ', ' Thomas Leininger ']",Classic
-26,Luzern,Klubkonzert-Luzern,2015-03-29,"[' Duo Gabriela Friedli ', ' Peter Landis ']",
-27,Zürich,Leyla-McCalla,2015-03-29,['Leyla McCalla '],
-28,Winterthur,Lisa-Berg-&-Dave-Ruosch,2015-03-29,"[' Lisa Berg ', ' David Ruosch ', ' Curdin Janett ', ' Martin Meyer ']",Pop
-29,Pratteln,Steven-Wilson,2015-03-29,['Steven Wilson '],Pop
-30,Luzern,Butterfly's-Notebook,2015-03-29,"[' Daniela Müller ', ' Petra Ackermann ', ' Karolina Öhmann ']",Classic
-31,Bern,La-Dame-Blanche-feat.-El-Hijo-de-la-Cumbia,2015-03-29,"['La Dame Blanche feat. El Hijo de la Cumbia ', ' Yaite Ramos Rodriguez ', ' Emiliano Gomez ', ' Lukmil Perez ']",
+location,event,date,artists,genre
+Luzern,Kammermusik-Matinee,2015-03-29,"[' Ulrich Poschner ', ' Reiko Koi ', ' Alexander Besa ']",Classic
+Zürich,Freunde-Georgiens,2015-03-29,"[' Veriko Tchumburidze ', ' Irina Vardeli ']",Classic
+Zürich,Morgenmusik,2015-03-29,"[' Daniel Bentz ', ' Chasper-Curo Mani ']",Classic
+Basel,Liebe-und-Weisheit,2015-03-29,"[' Isabelle Schnöller ', ' Karin Dornbusch ', ' Helena Winkelman ', ' Alessandro DAmico ', ' Christoph Dangel ', ' Stefka Perifanova ', ' Mégroz ']",Classic
+Basel,J.S.-Bach-Johannespassion,2015-03-29,"[' Miriam Feuersinger ', ' Barbara Erni ', ' Jakob Pilgram ', ' Fabrice Hayoz ']",Classic
+null,Johannes-Passion,2015-03-29,"[' Erlend Tvinnereim ', ' Raitis Grigalis ', ' Vivian Zatta ']",Classic
+Zürich,Markuspassion,2015-03-29,"[' Franziska Wigger ', ' Peter Aregger ']",Classic
+Bern,Le-Laudi,2015-03-29,"[' Bénédicte Tauran ', ' Violetta Radomirska ', ' Rolf Romei ', ' Lisandro Abadie ']",Classic
+Liestal,Donna-Hughes,2015-03-29,['Donna Hughes '],Pop
+Zürich,Dornen-und-Rosen,2015-03-29,[' Urs Aeberhard '],Classic
+Zürich,Festivitäten-I,2015-03-29,[' Peter Vögeli '],Classic
+Bern,Nightshade,2015-03-29,"['Yuki Kasai ', ' Nana Hiwatari ']",Classic
+Burgdorf,Classix-Konzert-III,2015-03-29,"['Françoise Schalit-Gigon ', ' Irene Arametti ', ' Widar J. Schalit ']",Classic
+Lichtensteig,Federspiel,2015-03-29,"[' Frederic Alvarado-Dupuy ', ' Simon Zöchbauer ', ' Philip Haas ', ' Ayac Jimenez-Salvador ', ' Thomas Winalek ', ' Matthias Werner ', ' Robert Puhr ']",traditional
+Zürich,Chor-und-Cello,2015-03-29,[' Nicola Romanò '],Classic
+Volketswil,Bach-Meets-Pop-Jazz-Musical,2015-03-29,['Jürg Sigrist '],Classic
+Baden,Madrigali-veneziani-Heinrich-Schütz-und-seine-Lehrer,2015-03-29,"[' Seraina Perrenoud ', ' Stephanie Boller ', ' Jan Thomer ', ' Matthias Deger ', ' Giacomo Schiavo ', ' Jedediah Allen ']",Classic
+null,Palmsonntagskonzert,2015-03-29,[' Kantor Ernst Buscagne '],Classic
+Zürich,Passionskonzert,2015-03-29,"[' Rahel Künzler ', ' Yeon-Jeong Jeong ']",Classic
+null,Savina-Yannatou-&-Primavera-en-Salonico,2015-03-29,"[' Savina Yannatou ', ' Kostas Vomvolos ', ' Kyriakos Gouventas ', ' Harris Lambrakis ', ' Yannis Alexandris ', ' Michalis Siganidis ', ' Kostas Theodorou ']",
+null,Stars-80-L'origine,2015-03-29,[' Jean Pierre Morgand '],
+Zürich,Chorprojekt,2015-03-29,[' Marion Meili '],Classic
+Zürich,Querfeldein-musikalischer-Streifzug-durch-Europa,2015-03-29,"[' Jürgen Kupke ', ' Hans Hassler ', ' Markus Lauterburg ']",Classic
+Basel,Orgelkonzert,2015-03-29,['Andreas Liebig '],Classic
+Luzern,Lucerne-Festival-zu-Ostern,2015-03-29,[' Radu Lupu '],Classic
+Binningen,Passionsandacht,2015-03-29,"['Christine Pollerus ', ' Thomas Leininger ']",Classic
+Luzern,Klubkonzert-Luzern,2015-03-29,"[' Duo Gabriela Friedli ', ' Peter Landis ']",
+Zürich,Leyla-McCalla,2015-03-29,['Leyla McCalla '],
+Winterthur,Lisa-Berg-&-Dave-Ruosch,2015-03-29,"[' Lisa Berg ', ' David Ruosch ', ' Curdin Janett ', ' Martin Meyer ']",Pop
+Pratteln,Steven-Wilson,2015-03-29,['Steven Wilson '],Pop
+Luzern,Butterfly's-Notebook,2015-03-29,"[' Daniela Müller ', ' Petra Ackermann ', ' Karolina Öhmann ']",Classic
+Bern,La-Dame-Blanche-feat.-El-Hijo-de-la-Cumbia,2015-03-29,"['La Dame Blanche feat. El Hijo de la Cumbia ', ' Yaite Ramos Rodriguez ', ' Emiliano Gomez ', ' Lukmil Perez ']",

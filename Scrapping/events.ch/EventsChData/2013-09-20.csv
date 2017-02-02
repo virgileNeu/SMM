@@ -1,51 +1,51 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment,2013-09-20,['Fabienne Ambühl '],
-1,Basel,Orgelspiel-zum-Feierabend,2013-09-20,['Susanne Doll '],Classic
-2,Dietikon,Feierabendmusik-in-der-Kirche,2013-09-20,['Works by Bernhard Hörler '],Classic
-3,Zürich,Acoustic-Friday,2013-09-20,"[' Francesco Diomaiuta ', ' Florian Kolb ', ' Clemens Kuratle ']",
-4,Baden,Spektrum-Akzente-3.-Aufführung-Miniaturen,2013-09-20,"[' Marisa Waldburger ', ' Marc Bätscher ', ' Ursula Hächler ', ' Kiyomi Higaki ']",Classic
-5,Zürich,Gubaidulina-Meets-Dowland,2013-09-20,"[' Eva Oltiványi ', ' Annette Labusch ', ' Sonoe Kato ', ' Akira Tachikawa ']",Classic
-6,Wettingen,Mozart-&-Respighi,2013-09-20,[' Markus Lehmann '],Classic
-7,Stäfa,Harmoniumkonzert-mit-Rezitation,2013-09-20,['Johann Matthias Michel '],Classic
-8,Schupfart,Schupfart-Festival,2013-09-20,['Silbermond '],Pop
-9,Bern,Symphoniekonzert-Ein-Heldenleben,2013-09-20,[' Quero Ramón Ortega '],Classic
-10,Bern,Dritte-Wahl,2013-09-20,['Dritte Wahl '],
-11,null,Hellas,2013-09-20,['DJs Koc '],
-12,Zürich,Macklemore-&-Ryan-Lewis,2013-09-20,['Macklemore & Ryan Lewis '],
-13,Basel,Adrian-Sherwood,2013-09-20,['Adrian Sherwood '],
-14,null,Ein-Abend-am-Hofe-Barockliederabend,2013-09-20,"['Alexander Seidel ', ' Jonathan Rubin ']",Classic
-15,Herrliberg,Musiksommer-am-Zürichsee,2013-09-20,['Works by Rahel Senn '],Classic
-16,Zürich,Sina,2013-09-20,"[' Sina ', ' Peter Wagner ', ' Michael Chylewski ']",Pop
-17,Zürich,The-Shower-Curtains,2013-09-20,['The Shower Curtains '],
-18,Zürich,Bouncing-Bits,2013-09-20,"[' Thom Güninger ', ' Werner Tian Fischer ', ' Timon Roth ']",
-19,Volkshaus,Zürich,2013-09-20,['Rainhard Fendrich '],
-20,Zürich,Jazz-The-4-Of-Us,2013-09-20,"[' Simon Wyrsch ', ' Dario Bianchin ', ' Mirco Häberli ', ' Robert Mark ']",
-21,Winterthur,Christoph-Irniger-Trio,2013-09-20,"[' Christoph Irniger ', ' Raffaele Bossard ', ' Ziv Ravitz ']",
-22,Zürich,Festkonzert-100-Jahre-Orchesterverein-Zürich,2013-09-20,"[' Andreas Janke ', ' Mona Petri ', ' Alain Schudel ', ' Daniel Schaerer ']",Classic
-23,Zürich,Chansons-en-Stok,2013-09-20,"[""Le sirop d'la rue "", ' Stéphanie Quastana ', ' Alexandre Saintives ', ' Samy Dib ', ' Benjamin Riggi ', ' Nicolas Penz ', ' Michaël Perruchoud ', ' Clara Loï ']",Pop
-24,Stäfa,Van-Oordt-Music-Days,2013-09-20,[' Sultumana '],Pop
-25,Burgdorf,Cupola-Festival,2013-09-20,"['Float Fall ', ' Hello Gravity ', ' Urban Cone ']",Pop
-26,Zürich,Melissa-Laveaux,2013-09-20,"['Melissa Laveaux ', ' Mélissa Laveaux ', ' Gautier Vizioz ', ' Elise  Blanchard ', ' Nicolas Liesnard ', ' Anne Paceo ']",
-27,Winterthur,The-Grand-Astoria,2013-09-20,"['The Grand Astoria ', ' Samavayo ']",
-28,Basel,Floriano-Inácio-Jr.-Quarteto,2013-09-20,"[' Rodrigo Botter Maio ', ' Floriano Inácio Jr ', ' Dudu Penz ', ' Mauro Martins ']",
-29,Lausanne,Cascadeur,2013-09-20,['Cascadeur '],Electronic
-30,Luzern,Mr.-&-Mississippi,2013-09-20,['Mr. & Mississippi '],
-31,Zürich,Müller-Kramis-Baschnagel,2013-09-20,"[' Gregor Müller ', ' Herbert Kramis ', ' Pius Baschnagel ']",
-32,Bern,Jay-Nash,2013-09-20,['Jay Nash '],
-33,Zug,Septeto-Santiaguero,2013-09-20,['Septeto Santiaguero '],
-34,Zug,Shonen-Knife,2013-09-20,['Shonen Knife '],Pop
-35,Aarau,Me-And-My-Drummer,2013-09-20,['Me And My Drummer '],
-36,Zürich,Anton-Sword,2013-09-20,['Anton Sword '],Pop
-37,Aarau,Donots,2013-09-20,['Donots '],
-38,Baden,Alice-Francis,2013-09-20,['Alice Francis '],Pop
-39,Münchenstein,Sheep-Dog-&-Wolf,2013-09-20,['Sheep Dog & Wolf '],
-40,Hasliberg-Hohfluh,Blumentopf,2013-09-20,['Blumentopf '],
-41,Reussbühl,Calua,2013-09-20,"[' Dominic ', ' Räphu ', ' Michu ', ' Luca ']",
-42,Zürich,Jukebox-Munich,2013-09-20,"[' Igor ', ' Franz ']",
-43,Basel,Jucifer,2013-09-20,"['Jucifer ', ' Viscera ']",
-44,Bern,The-Rhythm-Chiefs,2013-09-20,['The Rhythm Chiefs '],
-45,Zürich,Tonhalle-Late-Alpensinfonie,2013-09-20,[' anschl. Party mit No Regular Play '],Classic
-46,Basel,Tropical-Night-around-Africa,2013-09-20,['DJ Deivi '],
-47,Sankt-Gallen,Fat-White-Family,2013-09-20,['Fat White Family '],
-48,null,Beizafestival-mit-Puck-&-Tatti,2013-09-20,"[' Karin Ospelt ', ' Roger Szedalik ']",
-49,Lausanne,The-Revival-Hour,2013-09-20,['The Revival Hour '],
+location,event,date,artists,genre
+Luzern,Piano-Entertainment,2013-09-20,['Fabienne Ambühl '],
+Basel,Orgelspiel-zum-Feierabend,2013-09-20,['Susanne Doll '],Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2013-09-20,['Works by Bernhard Hörler '],Classic
+Zürich,Acoustic-Friday,2013-09-20,"[' Francesco Diomaiuta ', ' Florian Kolb ', ' Clemens Kuratle ']",
+Baden,Spektrum-Akzente-3.-Aufführung-Miniaturen,2013-09-20,"[' Marisa Waldburger ', ' Marc Bätscher ', ' Ursula Hächler ', ' Kiyomi Higaki ']",Classic
+Zürich,Gubaidulina-Meets-Dowland,2013-09-20,"[' Eva Oltiványi ', ' Annette Labusch ', ' Sonoe Kato ', ' Akira Tachikawa ']",Classic
+Wettingen,Mozart-&-Respighi,2013-09-20,[' Markus Lehmann '],Classic
+Stäfa,Harmoniumkonzert-mit-Rezitation,2013-09-20,['Johann Matthias Michel '],Classic
+Schupfart,Schupfart-Festival,2013-09-20,['Silbermond '],Pop
+Bern,Symphoniekonzert-Ein-Heldenleben,2013-09-20,[' Quero Ramón Ortega '],Classic
+Bern,Dritte-Wahl,2013-09-20,['Dritte Wahl '],
+null,Hellas,2013-09-20,['DJs Koc '],
+Zürich,Macklemore-&-Ryan-Lewis,2013-09-20,['Macklemore & Ryan Lewis '],
+Basel,Adrian-Sherwood,2013-09-20,['Adrian Sherwood '],
+null,Ein-Abend-am-Hofe-Barockliederabend,2013-09-20,"['Alexander Seidel ', ' Jonathan Rubin ']",Classic
+Herrliberg,Musiksommer-am-Zürichsee,2013-09-20,['Works by Rahel Senn '],Classic
+Zürich,Sina,2013-09-20,"[' Sina ', ' Peter Wagner ', ' Michael Chylewski ']",Pop
+Zürich,The-Shower-Curtains,2013-09-20,['The Shower Curtains '],
+Zürich,Bouncing-Bits,2013-09-20,"[' Thom Güninger ', ' Werner Tian Fischer ', ' Timon Roth ']",
+Volkshaus,Zürich,2013-09-20,['Rainhard Fendrich '],
+Zürich,Jazz-The-4-Of-Us,2013-09-20,"[' Simon Wyrsch ', ' Dario Bianchin ', ' Mirco Häberli ', ' Robert Mark ']",
+Winterthur,Christoph-Irniger-Trio,2013-09-20,"[' Christoph Irniger ', ' Raffaele Bossard ', ' Ziv Ravitz ']",
+Zürich,Festkonzert-100-Jahre-Orchesterverein-Zürich,2013-09-20,"[' Andreas Janke ', ' Mona Petri ', ' Alain Schudel ', ' Daniel Schaerer ']",Classic
+Zürich,Chansons-en-Stok,2013-09-20,"[""Le sirop d'la rue "", ' Stéphanie Quastana ', ' Alexandre Saintives ', ' Samy Dib ', ' Benjamin Riggi ', ' Nicolas Penz ', ' Michaël Perruchoud ', ' Clara Loï ']",Pop
+Stäfa,Van-Oordt-Music-Days,2013-09-20,[' Sultumana '],Pop
+Burgdorf,Cupola-Festival,2013-09-20,"['Float Fall ', ' Hello Gravity ', ' Urban Cone ']",Pop
+Zürich,Melissa-Laveaux,2013-09-20,"['Melissa Laveaux ', ' Mélissa Laveaux ', ' Gautier Vizioz ', ' Elise  Blanchard ', ' Nicolas Liesnard ', ' Anne Paceo ']",
+Winterthur,The-Grand-Astoria,2013-09-20,"['The Grand Astoria ', ' Samavayo ']",
+Basel,Floriano-Inácio-Jr.-Quarteto,2013-09-20,"[' Rodrigo Botter Maio ', ' Floriano Inácio Jr ', ' Dudu Penz ', ' Mauro Martins ']",
+Lausanne,Cascadeur,2013-09-20,['Cascadeur '],Electronic
+Luzern,Mr.-&-Mississippi,2013-09-20,['Mr. & Mississippi '],
+Zürich,Müller-Kramis-Baschnagel,2013-09-20,"[' Gregor Müller ', ' Herbert Kramis ', ' Pius Baschnagel ']",
+Bern,Jay-Nash,2013-09-20,['Jay Nash '],
+Zug,Septeto-Santiaguero,2013-09-20,['Septeto Santiaguero '],
+Zug,Shonen-Knife,2013-09-20,['Shonen Knife '],Pop
+Aarau,Me-And-My-Drummer,2013-09-20,['Me And My Drummer '],
+Zürich,Anton-Sword,2013-09-20,['Anton Sword '],Pop
+Aarau,Donots,2013-09-20,['Donots '],
+Baden,Alice-Francis,2013-09-20,['Alice Francis '],Pop
+Münchenstein,Sheep-Dog-&-Wolf,2013-09-20,['Sheep Dog & Wolf '],
+Hasliberg-Hohfluh,Blumentopf,2013-09-20,['Blumentopf '],
+Reussbühl,Calua,2013-09-20,"[' Dominic ', ' Räphu ', ' Michu ', ' Luca ']",
+Zürich,Jukebox-Munich,2013-09-20,"[' Igor ', ' Franz ']",
+Basel,Jucifer,2013-09-20,"['Jucifer ', ' Viscera ']",
+Bern,The-Rhythm-Chiefs,2013-09-20,['The Rhythm Chiefs '],
+Zürich,Tonhalle-Late-Alpensinfonie,2013-09-20,[' anschl. Party mit No Regular Play '],Classic
+Basel,Tropical-Night-around-Africa,2013-09-20,['DJ Deivi '],
+Sankt-Gallen,Fat-White-Family,2013-09-20,['Fat White Family '],
+null,Beizafestival-mit-Puck-&-Tatti,2013-09-20,"[' Karin Ospelt ', ' Roger Szedalik ']",
+Lausanne,The-Revival-Hour,2013-09-20,['The Revival Hour '],

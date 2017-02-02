@@ -1,41 +1,41 @@
-,location,event,date,artists,genre
-0,Basel,Masterrezital,2013-05-11,[' Miki Iwaki '],Classic
-1,Basel,Masterrezital,2013-05-11,[' Arpine Azatyan '],Classic
-2,Pferderennbahn,Aarau,2013-05-11,"['Redman ', ' Lords of the Underground ', ' Megaloh ', ' Oddisee ', ' Audio88 & Yassin ']",Redman
-3,Basel,Bachelorkonzert,2013-05-11,[' Coline Ormond '],Classic
-4,Basel,Masterrezital,2013-05-11,[' Isabel Wullschleger '],Classic
-5,Luzern,Easy-Jazz-mit-einer-Prise-Pop,2013-05-11,['Fabienne Ambühl '],
-6,Aarau,Konzert-à-la-russe,2013-05-11,"[' Sergey Mushtakoff ', ' Alexey Lavrentyev ']",Classic
-7,Bern,Internationales-Jazzfestival-Bern,2013-05-11,"['Roy Haynes Fountain of Youth Band ', ' Roy Haynes ', ' Jaleel Shaw ', ' Martin Bejerano ', ' David Wong ']",
-8,Aarau,Alpha-Tiger,2013-05-11,"['Alpha Tiger ', ' Atlantean Kodex ', ' Attic ']",
-9,Zürich,Viva-Vivaldi,2013-05-11,[' Jonas Iten '],Classic
-10,Luzern,Exsultate-jubilate,2013-05-11,"[' Olga Valmond ', ' Liliane Glanzmann ', ' Michael Feyfar ', ' Robert Koller ']",Classic
-11,Zürich,Far-From-Triumphing-Court,2013-05-11,"[' Stephanie Boller ', ' Jahn Thomer ', ' Valentin J. Gloor ', ' Milan Siljanov ']",Classic
-12,Dornach,Musik-für-Violine-und-Klavier,2013-05-11,"['Istvan Horvath ', ' Hanns Martin Zimmermann ']",Classic
-13,Allschwil,Hans-Feigenwinter,2013-05-11,['Hans Feigenwinter '],
-14,Zürich,Das-neue-Trio,2013-05-11,"[' Christian Zehnder ', ' Arkady Shilkloper ', ' John Wolf Brennan ']",
-15,null,Ian-Anderson,2013-05-11,['Ian Anderson '],
-16,Basel,Passion-Dance,2013-05-11,"['Julio Azcano ', ' Volker Biesenbender ']",
-17,Basel,Bachelorkonzert,2013-05-11,[' Boris Winter '],Classic
-18,Basel,Masterrezital,2013-05-11,[' Sergio Marrini '],Classic
-19,Basel,La-Box,2013-05-11,"[' Marco Figini ', ' Roland Köppel ', ' Michael Wipf ']",
-20,Baden,Martin-Baschung-&-Big-B.-Tonic,2013-05-11,"[' Martin Baschung ', ' Peter Lüthi ', ' Sandro Vanetti ', ' Imad Barnieh ']",
-21,Wallisellen,Gasparazzo,2013-05-11,['Gasparazzo '],
-22,Zürich,Imam-Baildi,2013-05-11,"['Imam Baildi ', ' Orestis Falireas ', ' Lyssandros Falireas ', ' MC Yinka ', ' Yiannis Diskos ']",
-23,Luzern,Cortez,2013-05-11,[' Asidefromaday '],
-24,Zürich,Bang-Bang-Slow-Release,2013-05-11,"[' Elias von Arx ', ' Jonas Hufschmid ', ' Michael Künstle ']",
-25,Wetzikon,Nits,2013-05-11,['Nits '],Pop
-26,null,Coloured-Sounds,2013-05-11,"[' Serge Vuille ', ' Pierre-André Dougoud ', ' Benoit Pernet ']",
-27,Bern,Habit-of-a-Rabbit,2013-05-11,"[' Mö ', ' Mike ', ' Regi ', ' Oli ', ' Lüku ', ' Fäbä ']",Pop
-28,Winterthur,Phumaso-&-Smack,2013-05-11,['Phumaso & Smack '],
-29,Bern,Mats-Morgan-Band,2013-05-11,"['Mats-Morgan Band ', ' Morgan Agren ', ' Mats Öberg ', ' Tommy Thordsson ']",
-30,Düdingen,Wintersleep,2013-05-11,"['Wintersleep ', ' Three Blind Wolves ']",Pop
-31,Basel,Mount-Kimbie,2013-05-11,"['Mount Kimbie ', ' Kode 9 ']",Electronic
-32,Basel,Britney,2013-05-11,['Britney '],
-33,Bern,Steps-to-Get-It,2013-05-11,"['DJs Franklin Diaz ', ' José Diaz & Nerea Perez ', ' Alfredo Garcìa ']",
-34,Bar-Rossi,Zürich,2013-05-11,"[' Jay Messerli ', ' Michi Finger ', ' Luk Kipfer ', ' Rease Nydegger ', ' Raly Scheuing ', ' Dominik Grossenbacher ']",
-35,null,Atlantiks,2013-05-11,['Atlantiks '],Electronic
-36,Bern,Internationales-Jazzfestival-Bern,2013-05-11,"['Roy Haynes Fountain of Youth Band ', ' Roy Haynes ', ' Jaleel Shaw ', ' Martin Bejerano ', ' David Wong ']",
-37,null,La-Nuit-Blanche-III,2013-05-11,"['DJs Smokey Joe & The Kid ', ' Grant Lazlo ']",Electronic
-38,Zürich,Cold-Water,2013-05-11,"[' Daniel Abegglen ', ' Brendon Schoen Johnson ', ' Mischa Podstransky ', ' Philipp Saner ', ' Colin Morton ']",Electronic
-39,null,Dale-Mas-Duro,2013-05-11,['DJs Edgar '],
+location,event,date,artists,genre
+Basel,Masterrezital,2013-05-11,[' Miki Iwaki '],Classic
+Basel,Masterrezital,2013-05-11,[' Arpine Azatyan '],Classic
+Pferderennbahn,Aarau,2013-05-11,"['Redman ', ' Lords of the Underground ', ' Megaloh ', ' Oddisee ', ' Audio88 & Yassin ']",Redman
+Basel,Bachelorkonzert,2013-05-11,[' Coline Ormond '],Classic
+Basel,Masterrezital,2013-05-11,[' Isabel Wullschleger '],Classic
+Luzern,Easy-Jazz-mit-einer-Prise-Pop,2013-05-11,['Fabienne Ambühl '],
+Aarau,Konzert-à-la-russe,2013-05-11,"[' Sergey Mushtakoff ', ' Alexey Lavrentyev ']",Classic
+Bern,Internationales-Jazzfestival-Bern,2013-05-11,"['Roy Haynes Fountain of Youth Band ', ' Roy Haynes ', ' Jaleel Shaw ', ' Martin Bejerano ', ' David Wong ']",
+Aarau,Alpha-Tiger,2013-05-11,"['Alpha Tiger ', ' Atlantean Kodex ', ' Attic ']",
+Zürich,Viva-Vivaldi,2013-05-11,[' Jonas Iten '],Classic
+Luzern,Exsultate-jubilate,2013-05-11,"[' Olga Valmond ', ' Liliane Glanzmann ', ' Michael Feyfar ', ' Robert Koller ']",Classic
+Zürich,Far-From-Triumphing-Court,2013-05-11,"[' Stephanie Boller ', ' Jahn Thomer ', ' Valentin J. Gloor ', ' Milan Siljanov ']",Classic
+Dornach,Musik-für-Violine-und-Klavier,2013-05-11,"['Istvan Horvath ', ' Hanns Martin Zimmermann ']",Classic
+Allschwil,Hans-Feigenwinter,2013-05-11,['Hans Feigenwinter '],
+Zürich,Das-neue-Trio,2013-05-11,"[' Christian Zehnder ', ' Arkady Shilkloper ', ' John Wolf Brennan ']",
+null,Ian-Anderson,2013-05-11,['Ian Anderson '],
+Basel,Passion-Dance,2013-05-11,"['Julio Azcano ', ' Volker Biesenbender ']",
+Basel,Bachelorkonzert,2013-05-11,[' Boris Winter '],Classic
+Basel,Masterrezital,2013-05-11,[' Sergio Marrini '],Classic
+Basel,La-Box,2013-05-11,"[' Marco Figini ', ' Roland Köppel ', ' Michael Wipf ']",
+Baden,Martin-Baschung-&-Big-B.-Tonic,2013-05-11,"[' Martin Baschung ', ' Peter Lüthi ', ' Sandro Vanetti ', ' Imad Barnieh ']",
+Wallisellen,Gasparazzo,2013-05-11,['Gasparazzo '],
+Zürich,Imam-Baildi,2013-05-11,"['Imam Baildi ', ' Orestis Falireas ', ' Lyssandros Falireas ', ' MC Yinka ', ' Yiannis Diskos ']",
+Luzern,Cortez,2013-05-11,[' Asidefromaday '],
+Zürich,Bang-Bang-Slow-Release,2013-05-11,"[' Elias von Arx ', ' Jonas Hufschmid ', ' Michael Künstle ']",
+Wetzikon,Nits,2013-05-11,['Nits '],Pop
+null,Coloured-Sounds,2013-05-11,"[' Serge Vuille ', ' Pierre-André Dougoud ', ' Benoit Pernet ']",
+Bern,Habit-of-a-Rabbit,2013-05-11,"[' Mö ', ' Mike ', ' Regi ', ' Oli ', ' Lüku ', ' Fäbä ']",Pop
+Winterthur,Phumaso-&-Smack,2013-05-11,['Phumaso & Smack '],
+Bern,Mats-Morgan-Band,2013-05-11,"['Mats-Morgan Band ', ' Morgan Agren ', ' Mats Öberg ', ' Tommy Thordsson ']",
+Düdingen,Wintersleep,2013-05-11,"['Wintersleep ', ' Three Blind Wolves ']",Pop
+Basel,Mount-Kimbie,2013-05-11,"['Mount Kimbie ', ' Kode 9 ']",Electronic
+Basel,Britney,2013-05-11,['Britney '],
+Bern,Steps-to-Get-It,2013-05-11,"['DJs Franklin Diaz ', ' José Diaz & Nerea Perez ', ' Alfredo Garcìa ']",
+Bar-Rossi,Zürich,2013-05-11,"[' Jay Messerli ', ' Michi Finger ', ' Luk Kipfer ', ' Rease Nydegger ', ' Raly Scheuing ', ' Dominik Grossenbacher ']",
+null,Atlantiks,2013-05-11,['Atlantiks '],Electronic
+Bern,Internationales-Jazzfestival-Bern,2013-05-11,"['Roy Haynes Fountain of Youth Band ', ' Roy Haynes ', ' Jaleel Shaw ', ' Martin Bejerano ', ' David Wong ']",
+null,La-Nuit-Blanche-III,2013-05-11,"['DJs Smokey Joe & The Kid ', ' Grant Lazlo ']",Electronic
+Zürich,Cold-Water,2013-05-11,"[' Daniel Abegglen ', ' Brendon Schoen Johnson ', ' Mischa Podstransky ', ' Philipp Saner ', ' Colin Morton ']",Electronic
+null,Dale-Mas-Duro,2013-05-11,['DJs Edgar '],

@@ -1,10 +1,61 @@
+import os
+import pandas as pd
+import numpy as np
 from html.parser import HTMLParser
 import urllib.request
-#import unidecode
 from datetime import datetime, date, timedelta
-import numpy as np
-import pandas as pd
-import sys
+
+
+def aggregate(path,outputfile,encoding="utf-8"):
+    print("Aggregating events data from folder : "+path)
+    df = None
+    file_list = sorted(os.listdir(path))
+    for csv_file in file_list:
+        if(csv_file[0].isdigit()):
+            #only take YYYY-MM-DD.csv file (check first char is digit)
+            if(df is None):
+                df = pd.read_csv(path + '/' + csv_file,encoding=encoding)
+            else:
+                tmp = pd.read_csv(path + '/' + csv_file,encoding=encoding)
+                df = df.append(tmp, ignore_index=True)
+    
+    df.to_csv(outputfile,encoding=encoding, index=False)
+    print("Aggregation saved to : "+outputfile)
+
+def addEmptyColumn(df, column_name, inplace=False):
+    if(inplace):
+        df[column_name] = np.nan
+    else:
+        tmp = df.copy()
+        tmp[column_name] = np.nan
+        return tmp
+
+
+
+def getEventsBetweenDate(startDate, endDate=None, maxPage=None):
+    (startYear, startMonth, startDay) = startDate.split('-')
+    if(endDate == None):
+        getCSVForDates(startDate, maxPage)
+    else:
+        (endYear, endMonth, endDay) = endDate.split('-')
+        startDateObject = date(int(startYear), int(startMonth), int(startDay))
+        endDateObject = date(int(endYear), int(endMonth), int(endDay))
+        d = startDateObject
+        delta = timedelta(days=1)
+        while d <= endDateObject:
+            try:
+                print("current date: ",d)
+                nextDate = getCSVForDates('%04d-%02d-%02d' % (d.year, d.month, d.day), maxPage)
+                if(nextDate == None):
+                    d += delta
+                else:
+                    (nextYear, nextMonth, nextDay) = nextDate.split('-')
+                    d = date(int(nextYear), int(nextMonth), int(nextDay))
+            except KeyboardInterrupt:
+                raise # Enable CTRL+C exit
+            except:
+                print("Exception, starting again date ")
+
 
 # Main function, return a dataframe for a given date with
 # columns = location, event, date, artists, genre (can be None)
@@ -29,8 +80,6 @@ def getEventsForDate(date, maxPage=None):
                 try:
                     currentDate = datetime.strptime(date, "%a %b %d %Y %H:%M:%S GMT%z (%Z)")
                     genres = split[2].split('-')
-                    if(not(len(genres) == 1)):
-                        genres = [None]
                     location = split[4]
                     festival = split[5]
                     if(len(artists) > 0):
@@ -106,7 +155,7 @@ def getEventsForDate(date, maxPage=None):
     return (data, None)
     
 # Get and save the dataframe as a csv file "YYYY-MM-DD.csv"
-def getCSVForDates(date, maxPage = None):
+def getCSVForDates(date,maxPage = None):
     (data, retdate) = getEventsForDate(date, maxPage)
     print(retdate)
     if(len(data) > 0):
@@ -114,41 +163,3 @@ def getCSVForDates(date, maxPage = None):
         print("df written for date " + date)
         df.to_csv("EventsChData/"+date + ".csv")
     return retdate
-
-
-# Main function to be called with the terminal
-if __name__ == "__main__":
-    if(len(sys.argv) < 2):
-        sys.exit("ERROR : not enough arguments. Give at least the start date yyyy-mm-dd")
-    startDate = sys.argv[1]
-    print("startDate: " + startDate)
-    endDate = None
-    if(len(sys.argv) > 2):
-        endDate = sys.argv[2]
-        print("endDate: " + endDate)
-    maxPage = None
-    if(len(sys.argv) > 3):
-        maxPage = int(sys.argv[3])
-        print("maxPage: " + str(maxPage))
-    (startYear, startMonth, startDay) = startDate.split('-')
-    if(endDate == None):
-        getCSVForDates(startDate, maxPage)
-    else:
-        (endYear, endMonth, endDay) = endDate.split('-')
-        startDateObject = date(int(startYear), int(startMonth), int(startDay))
-        endDateObject = date(int(endYear), int(endMonth), int(endDay))
-        d = startDateObject
-        delta = timedelta(days=1)
-        while d <= endDateObject:
-            try:
-                print("current date: ",d)
-                nextDate = getCSVForDates('%04d-%02d-%02d' % (d.year, d.month, d.day), maxPage)
-                if(nextDate == None):
-                    d += delta
-                else:
-                    (nextYear, nextMonth, nextDay) = nextDate.split('-')
-                    d = date(int(nextYear), int(nextMonth), int(nextDay))
-            except KeyboardInterrupt:
-                raise # Enable CTRL+C exit
-            except:
-                print("Exception, starting again date ")

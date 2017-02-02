@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Aarau,1.-Symphoniekonzert-Der-Start,2013-09-24,[' Olga Scheps '],Classic
-1,Winterthur,Kammermusikakademie-2013,2013-09-24,"['Fabio Di Càsola ', ' Giorgio Mandolesi ']",Classic
-2,Zürich,Liedrezital-Zürich,2013-09-24,"[' Omar Ebrahim ', ' Jeannine Hirzel ']",Classic
-3,Zürich,Saisoneröffnung,2013-09-24,[' Lars Vogt '],Classic
-4,Komplex-457,Zürich,2013-09-24,['Bushido '],Bushido
-5,null,Black-Tusk,2013-09-24,"['Black Tusk ', ' Flight Amp ']",
-6,Basel,Miles-Okazaki-Quartet,2013-09-24,"[' Donny McCaslin ', ' Miles Okazaki ', ' Francois Moutin ', ' Dan Weiss ']",
-7,Zürich,Immanuel-Witschi-Trio,2013-09-24,"[' Corinne Schmidiger ', ' Timon Roth ', ' Immanuel Witschi ']",
-8,Zürich,Zürich-Hamburg-Festival,2013-09-24,"['Sebastian Gille Quartet ', ' Sebastian Gille ', ' Pablo Held ', ' Robert Landfermann ', ' Jonas Burgwinkel ', ' Matthias Tschopp ', ' Yves Theiler ', ' Christian Weber ', ' Alex Huber ']",
-9,Basel,The-Tuesday-Night-Song-Sessions,2013-09-24,[' Peter Piek '],Pop
-10,Zürich,Geneva-Jacuzzi,2013-09-24,['Geneva Jacuzzi '],Electronic
-11,Kriens,Au-Revoir-Simone,2013-09-24,['Au Revoir Simone '],Pop
-12,Reussbühl,Black-Shirt-Samurais,2013-09-24,"[' Nekoyubi ', ' Kumo ', ' Sandanjû ']",
-13,Zürich,Jamaica's-Finest,2013-09-24,['DJs Genesis Explosion '],
+location,event,date,artists,genre
+Aarau,1.-Symphoniekonzert-Der-Start,2013-09-24,[' Olga Scheps '],Classic
+Winterthur,Kammermusikakademie-2013,2013-09-24,"['Fabio Di Càsola ', ' Giorgio Mandolesi ']",Classic
+Zürich,Liedrezital-Zürich,2013-09-24,"[' Omar Ebrahim ', ' Jeannine Hirzel ']",Classic
+Zürich,Saisoneröffnung,2013-09-24,[' Lars Vogt '],Classic
+Komplex-457,Zürich,2013-09-24,['Bushido '],Bushido
+null,Black-Tusk,2013-09-24,"['Black Tusk ', ' Flight Amp ']",
+Basel,Miles-Okazaki-Quartet,2013-09-24,"[' Donny McCaslin ', ' Miles Okazaki ', ' Francois Moutin ', ' Dan Weiss ']",
+Zürich,Immanuel-Witschi-Trio,2013-09-24,"[' Corinne Schmidiger ', ' Timon Roth ', ' Immanuel Witschi ']",
+Zürich,Zürich-Hamburg-Festival,2013-09-24,"['Sebastian Gille Quartet ', ' Sebastian Gille ', ' Pablo Held ', ' Robert Landfermann ', ' Jonas Burgwinkel ', ' Matthias Tschopp ', ' Yves Theiler ', ' Christian Weber ', ' Alex Huber ']",
+Basel,The-Tuesday-Night-Song-Sessions,2013-09-24,[' Peter Piek '],Pop
+Zürich,Geneva-Jacuzzi,2013-09-24,['Geneva Jacuzzi '],Electronic
+Kriens,Au-Revoir-Simone,2013-09-24,['Au Revoir Simone '],Pop
+Reussbühl,Black-Shirt-Samurais,2013-09-24,"[' Nekoyubi ', ' Kumo ', ' Sandanjû ']",
+Zürich,Jamaica's-Finest,2013-09-24,['DJs Genesis Explosion '],

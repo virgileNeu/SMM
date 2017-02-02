@@ -1,16 +1,16 @@
-,location,event,date,artists,genre
-0,Zofingen,Heitere-Openair,2014-08-10,"['John Newman ', ' Shantel & Bucovina Club Orkestar ']",Pop
-1,Gstaad,Menuhin-Festival-Gstaad,2014-08-10,['Hans-Heinz Schneeberger '],Classic
-2,Rougemont,Menuhin-Festival-Gstaad,2014-08-10,"['Line Loddo ', ' Juliette Du Pasquier ', ' Marc Hänsenberger ']",Classic
-3,-Alte-Kirche,Boswil,2014-08-10,[' Cécile Grübler '],Classic
-4,Zofingen,Heitere-Openair,2014-08-10,"['Zaz ', ' Cro ', ' Alex Hepburn ']",Pop
-5,Fischingen,Orgelkonzert-mit-Schlagzeug,2014-08-10,"['Andreas Jud ', ' Andy Blöchliger ']",Classic
-6,Môtiers,Murten-Classics-Apérokonzert,2014-08-10,"[' Jakub Výborný ', ' Bohumír Strnad ', ' Otakar Salajka ', ' Radan Vach ']",Classic
-7,Siebnen,Konzert,2014-08-10,[' Marc Jaussi '],Classic
-8,Rougemont,Menuhin-Festival-Gstaad,2014-08-10,"['Christophe Coin ', ' Sergio Ciomei ']",Classic
-9,Wetzikon,Schlauer-Bauer-Openair,2014-08-10,['Dota & Band '],Pop
-10,Luzern,August-Burns-Red,2014-08-10,['August Burns Red '],
-11,Zürich,Sharon-van-Etten,2014-08-10,['Sharon van Etten '],Pop
-12,Zürich,Grupo-Galé,2014-08-10,['Grupo Galé '],
-13,Zürich,Delaney-Davidson,2014-08-10,['Delaney Davidson '],Pop
-14,St.-Moritz,Festival-da-Jazz,2014-08-10,"['Dave Grusin & Lee Ritenour ', ' Dave Grusin ', ' Lee Ritenour ', ' Tom Kennedy ', ' Will Kennedy ', ' Patti Austin ']",
+location,event,date,artists,genre
+Zofingen,Heitere-Openair,2014-08-10,"['John Newman ', ' Shantel & Bucovina Club Orkestar ']",Pop
+Gstaad,Menuhin-Festival-Gstaad,2014-08-10,['Hans-Heinz Schneeberger '],Classic
+Rougemont,Menuhin-Festival-Gstaad,2014-08-10,"['Line Loddo ', ' Juliette Du Pasquier ', ' Marc Hänsenberger ']",Classic
+-Alte-Kirche,Boswil,2014-08-10,[' Cécile Grübler '],Classic
+Zofingen,Heitere-Openair,2014-08-10,"['Zaz ', ' Cro ', ' Alex Hepburn ']",Pop
+Fischingen,Orgelkonzert-mit-Schlagzeug,2014-08-10,"['Andreas Jud ', ' Andy Blöchliger ']",Classic
+Môtiers,Murten-Classics-Apérokonzert,2014-08-10,"[' Jakub Výborný ', ' Bohumír Strnad ', ' Otakar Salajka ', ' Radan Vach ']",Classic
+Siebnen,Konzert,2014-08-10,[' Marc Jaussi '],Classic
+Rougemont,Menuhin-Festival-Gstaad,2014-08-10,"['Christophe Coin ', ' Sergio Ciomei ']",Classic
+Wetzikon,Schlauer-Bauer-Openair,2014-08-10,['Dota & Band '],Pop
+Luzern,August-Burns-Red,2014-08-10,['August Burns Red '],
+Zürich,Sharon-van-Etten,2014-08-10,['Sharon van Etten '],Pop
+Zürich,Grupo-Galé,2014-08-10,['Grupo Galé '],
+Zürich,Delaney-Davidson,2014-08-10,['Delaney Davidson '],Pop
+St.-Moritz,Festival-da-Jazz,2014-08-10,"['Dave Grusin & Lee Ritenour ', ' Dave Grusin ', ' Lee Ritenour ', ' Tom Kennedy ', ' Will Kennedy ', ' Patti Austin ']",

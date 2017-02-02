@@ -1,40 +1,40 @@
-,location,event,date,artists,genre
-0,Basel,Orgelgschicht-am-Matthäusmarkt,2016-09-24,['Françoise Matile '],Classic
-1,Zürich,Fortgeschrittene-Studierende-der-Musikhochschule-Zürich,2016-09-24,"['Alina Nikitina ', ' Andrea Paglia ']",Classic
-2,Zug,Akkordeon-Festival,2016-09-24,"[' Stefanie Hess ', ' Benno Muheim ', ' Maurice Berthele ', ' Tom Tafel ', ' Ariel Rossi ', ' Stefanie Hess ']",
-3,Schupfart,Schupfart-Festival,2016-09-24,"['Flynnville Train ', ' Truck Stop ', ' High South ', ' Dave Gibson ']",
-4,Basel,Entrée-avec-Ansi,2016-09-24,['Ansi Verwey '],Classic
-5,Solothurn,Eleven-Rock-&-Prog-Metal-Night,2016-09-24,"['Myrath ', ' DGM ']",
-6,Bern,Perlen-aus-Klassik-und-Film,2016-09-24,"[' Simon Reich ', ' Stefanie Bischof ', ' Benjamin Griesser ']",Classic
-7,Luzern,Klangwelt-Konzert,2016-09-24,['Sibylle Tschopp '],Classic
-8,Basel,Herbstkonzert-Philharmonisches-Orchester-Riehen,2016-09-24,[' Stéphanie Meyer '],Classic
-9,Basel,Kirchenkonzert-der-Stadtmusik-Basel,2016-09-24,[' Immanuel Richter '],Classic
-10,Basel,Kirchenkonzert-der-Stadtmusik-Basel,2016-09-24,[' Immanuel Richter '],Classic
-11,Thun,Konzert,2016-09-24,"['Alexandre Dubach ', ' Anton Kudryavtsev ']",Classic
-12,Zürich,Chorkonzert:-Mit-Pauken-und-Trompeten,2016-09-24,[' Frédéric Champion '],Classic
-13,Zürich,Meisterinterpreten-in-Zürich,2016-09-24,[' Martha Argerich '],Classic
-14,Winterthur,Ein-deutsches-Requiem-op.-45,2016-09-24,"[' Dorothee Kurmann ', ' Johannes Michael Blume ', ' Tobias und Rafael Rütti ']",Classic
-15,null,'The-Amadeus-Quartet'-im-Ikarus-Pavillon,2016-09-24,"['Robert Zimansky ', ' Verena Schweizer ', ' Stephan Rieckhoff\t', ' Saya Hashino ']",Classic
-16,Sissach,Klanglichter-Frankreich-im-Herbst,2016-09-24,"['Ingolf Turban ', ' Wen-Sinn Yang ', ' Adrian Oetiker ']",Classic
-17,Baden,Love-Around-the-World,2016-09-24,"[' Conny Schock ', ' Daniel Schwenger ']",Pop
-18,Winterthur,Mark-Foggo,2016-09-24,"['Mark Foggo ', ' The Oppressed ', ' Gewohnheitstrinker ']",
-19,Basel,Musikalisches-Pasticcio-zu-Gaspard-Fritz,2016-09-24,"['Kesselberg Ensemble ', ' Christian Zehnder und Vincent Flückiger ', ' Lionel Wirz & Lia Jeker ', ' Mra Zaaiskalns ', ' conductor: Ilze Grudule ']",Classic
-20,Zürich,Chansons-en-Stok,2016-09-24,['Mehdi Cayenne '],Pop
-21,Luzern,Songs-and-Sounds-From-New-Orleans,2016-09-24,[' Denise Gordon '],
-22,Dübendorf,Chrüz-&-quär,2016-09-24,"['Son del Nene ', ' El Nene ', ' Felix Martinez ', ' Deivys Berroa ', ' Armando Lahullier ', ' Eduardo Acosta ']",
-23,Aarburg,Pothead-Verschoben,2016-09-24,['Pothead '],
-24,Zürich,Herbst-in-der-Helferei-Klezmer-Kings-im-Herbst,2016-09-24,['David Orlowsky '],
-25,Zug,Akkordeon-Festival,2016-09-24,['Martynas Levickis '],traditional
-26,Häggenschwil,Unverblümt,2016-09-24,['Die Dornrosen '],Pop
-27,Zürich,Uusikuu-&-Suomi-Disko,2016-09-24,['Uusikuu & Suomi Disko '],Pop
-28,Zürich,Alsarah-&-The-Nubatones,2016-09-24,"[' Alsarah ', ' Nahid ', ' Brandon Terzic ', ' Mawuena Kodjovi ', ' Rami El-Aasser ']",
-29,Basel,Klang-Basel-Haydn-und-Akkordeon,2016-09-24,[' Viviane Chassot '],Classic
-30,Basel,Klang-Basel,2016-09-24,"[' Andy Scherrer ', ' Jean-Paul Brodbeck ', ' Fabian Gisler ', ' Claudio Strüby ']",
-31,Bern,Carolynn,2016-09-24,['Carolynn '],
-32,Rubigen,Jonas-Hellborg's-Trinity,2016-09-24,"[""Jonas Hellborg's Trinity ""]",
-33,Cham,Devon-Allman,2016-09-24,['Devon Allman '],Pop
-34,Zug,Akkordeon-Festival,2016-09-24,['Tanks the Henge '],
-35,Düdingen,Dead-Meadow,2016-09-24,['Dead Meadow '],
-36,null,La-nuit-blanche,2016-09-24,"['Max The Sax & Peter Cruseder ', ' DJs Swing Bot ']",Electronic
-37,Bern,White-Sensation,2016-09-24,['DJs Radikal '],
-38,Cham,Aula-Special-Night,2016-09-24,['Stacie Collins '],Pop
+location,event,date,artists,genre
+Basel,Orgelgschicht-am-Matthäusmarkt,2016-09-24,['Françoise Matile '],Classic
+Zürich,Fortgeschrittene-Studierende-der-Musikhochschule-Zürich,2016-09-24,"['Alina Nikitina ', ' Andrea Paglia ']",Classic
+Zug,Akkordeon-Festival,2016-09-24,"[' Stefanie Hess ', ' Benno Muheim ', ' Maurice Berthele ', ' Tom Tafel ', ' Ariel Rossi ', ' Stefanie Hess ']",
+Schupfart,Schupfart-Festival,2016-09-24,"['Flynnville Train ', ' Truck Stop ', ' High South ', ' Dave Gibson ']",
+Basel,Entrée-avec-Ansi,2016-09-24,['Ansi Verwey '],Classic
+Solothurn,Eleven-Rock-&-Prog-Metal-Night,2016-09-24,"['Myrath ', ' DGM ']",
+Bern,Perlen-aus-Klassik-und-Film,2016-09-24,"[' Simon Reich ', ' Stefanie Bischof ', ' Benjamin Griesser ']",Classic
+Luzern,Klangwelt-Konzert,2016-09-24,['Sibylle Tschopp '],Classic
+Basel,Herbstkonzert-Philharmonisches-Orchester-Riehen,2016-09-24,[' Stéphanie Meyer '],Classic
+Basel,Kirchenkonzert-der-Stadtmusik-Basel,2016-09-24,[' Immanuel Richter '],Classic
+Basel,Kirchenkonzert-der-Stadtmusik-Basel,2016-09-24,[' Immanuel Richter '],Classic
+Thun,Konzert,2016-09-24,"['Alexandre Dubach ', ' Anton Kudryavtsev ']",Classic
+Zürich,Chorkonzert:-Mit-Pauken-und-Trompeten,2016-09-24,[' Frédéric Champion '],Classic
+Zürich,Meisterinterpreten-in-Zürich,2016-09-24,[' Martha Argerich '],Classic
+Winterthur,Ein-deutsches-Requiem-op.-45,2016-09-24,"[' Dorothee Kurmann ', ' Johannes Michael Blume ', ' Tobias und Rafael Rütti ']",Classic
+null,'The-Amadeus-Quartet'-im-Ikarus-Pavillon,2016-09-24,"['Robert Zimansky ', ' Verena Schweizer ', ' Stephan Rieckhoff\t', ' Saya Hashino ']",Classic
+Sissach,Klanglichter-Frankreich-im-Herbst,2016-09-24,"['Ingolf Turban ', ' Wen-Sinn Yang ', ' Adrian Oetiker ']",Classic
+Baden,Love-Around-the-World,2016-09-24,"[' Conny Schock ', ' Daniel Schwenger ']",Pop
+Winterthur,Mark-Foggo,2016-09-24,"['Mark Foggo ', ' The Oppressed ', ' Gewohnheitstrinker ']",
+Basel,Musikalisches-Pasticcio-zu-Gaspard-Fritz,2016-09-24,"['Kesselberg Ensemble ', ' Christian Zehnder und Vincent Flückiger ', ' Lionel Wirz & Lia Jeker ', ' Mra Zaaiskalns ', ' conductor: Ilze Grudule ']",Classic
+Zürich,Chansons-en-Stok,2016-09-24,['Mehdi Cayenne '],Pop
+Luzern,Songs-and-Sounds-From-New-Orleans,2016-09-24,[' Denise Gordon '],
+Dübendorf,Chrüz-&-quär,2016-09-24,"['Son del Nene ', ' El Nene ', ' Felix Martinez ', ' Deivys Berroa ', ' Armando Lahullier ', ' Eduardo Acosta ']",
+Aarburg,Pothead-Verschoben,2016-09-24,['Pothead '],
+Zürich,Herbst-in-der-Helferei-Klezmer-Kings-im-Herbst,2016-09-24,['David Orlowsky '],
+Zug,Akkordeon-Festival,2016-09-24,['Martynas Levickis '],traditional
+Häggenschwil,Unverblümt,2016-09-24,['Die Dornrosen '],Pop
+Zürich,Uusikuu-&-Suomi-Disko,2016-09-24,['Uusikuu & Suomi Disko '],Pop
+Zürich,Alsarah-&-The-Nubatones,2016-09-24,"[' Alsarah ', ' Nahid ', ' Brandon Terzic ', ' Mawuena Kodjovi ', ' Rami El-Aasser ']",
+Basel,Klang-Basel-Haydn-und-Akkordeon,2016-09-24,[' Viviane Chassot '],Classic
+Basel,Klang-Basel,2016-09-24,"[' Andy Scherrer ', ' Jean-Paul Brodbeck ', ' Fabian Gisler ', ' Claudio Strüby ']",
+Bern,Carolynn,2016-09-24,['Carolynn '],
+Rubigen,Jonas-Hellborg's-Trinity,2016-09-24,"[""Jonas Hellborg's Trinity ""]",
+Cham,Devon-Allman,2016-09-24,['Devon Allman '],Pop
+Zug,Akkordeon-Festival,2016-09-24,['Tanks the Henge '],
+Düdingen,Dead-Meadow,2016-09-24,['Dead Meadow '],
+null,La-nuit-blanche,2016-09-24,"['Max The Sax & Peter Cruseder ', ' DJs Swing Bot ']",Electronic
+Bern,White-Sensation,2016-09-24,['DJs Radikal '],
+Cham,Aula-Special-Night,2016-09-24,['Stacie Collins '],Pop

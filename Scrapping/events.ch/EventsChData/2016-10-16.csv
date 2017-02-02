@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Bern,1.-Matineekonzert-Klavierquartette,2016-10-16,"[' Julien Mathieu ', ' Johannes von Bülow ', ' Andreas Graf ', ' Evelyne Grandy ']",Classic
-1,Bern,The-Music-of-Chick-Corea-&-Pat-Metheny,2016-10-16,"[' Philipp Moll ', ' Stewy von Wattenwyl ', ' Toni Reyonlds ', ' Adam Taubitz ']",
-2,Zürich,Top-Party-Band,2016-10-16,['Top Party Band '],Pop
-3,Bern,Sabine-Meyer,2016-10-16,"['Sabine Meyer ', ' Nils Mönkemeyer ', ' William Youn ']",Classic
-4,Winterthur,MKW-im-Hof-Die-Geschichte-vom-Soldaten,2016-10-16,"['Rahel Cunz ', ' Kristof Zambo ', ' Armon Stecher ']",Classic
-5,Luzern,Festival-Stings-Lucerne,2016-10-16,['Julian Rachlin '],Classic
-6,Zürich,Liederabend,2016-10-16,"['Javier Camarena ', ' Ángel Rodriguez ']",Classic
-7,Luzern,Bonbones-Twobones,2016-10-16,"[' Itsumi Koman ', ' Peter Madsen ', ' Lorenz Beyeler ', ' Daniel Aebi ']",
-8,Wetzikon,Sun-Worship,2016-10-16,"['Sun Worship ', ' Ultha ', ' Gold ']",
-9,Zürich,The-Baseballs,2016-10-16,['The Baseballs '],
-10,Bern,Beaty-Heart,2016-10-16,['Beaty Heart '],
-11,Rubigen,Vieux-Farka-Toure,2016-10-16,['Vieux Farka Toure '],
-12,Basel,Hot-Sushi-Club,2016-10-16,['Hot Sushi Club '],Pop
-13,Zürich,Ray-Bonneville,2016-10-16,['Ray Bonneville '],Pop
+location,event,date,artists,genre
+Bern,1.-Matineekonzert-Klavierquartette,2016-10-16,"[' Julien Mathieu ', ' Johannes von Bülow ', ' Andreas Graf ', ' Evelyne Grandy ']",Classic
+Bern,The-Music-of-Chick-Corea-&-Pat-Metheny,2016-10-16,"[' Philipp Moll ', ' Stewy von Wattenwyl ', ' Toni Reyonlds ', ' Adam Taubitz ']",
+Zürich,Top-Party-Band,2016-10-16,['Top Party Band '],Pop
+Bern,Sabine-Meyer,2016-10-16,"['Sabine Meyer ', ' Nils Mönkemeyer ', ' William Youn ']",Classic
+Winterthur,MKW-im-Hof-Die-Geschichte-vom-Soldaten,2016-10-16,"['Rahel Cunz ', ' Kristof Zambo ', ' Armon Stecher ']",Classic
+Luzern,Festival-Stings-Lucerne,2016-10-16,['Julian Rachlin '],Classic
+Zürich,Liederabend,2016-10-16,"['Javier Camarena ', ' Ángel Rodriguez ']",Classic
+Luzern,Bonbones-Twobones,2016-10-16,"[' Itsumi Koman ', ' Peter Madsen ', ' Lorenz Beyeler ', ' Daniel Aebi ']",
+Wetzikon,Sun-Worship,2016-10-16,"['Sun Worship ', ' Ultha ', ' Gold ']",
+Zürich,The-Baseballs,2016-10-16,['The Baseballs '],
+Bern,Beaty-Heart,2016-10-16,['Beaty Heart '],
+Rubigen,Vieux-Farka-Toure,2016-10-16,['Vieux Farka Toure '],
+Basel,Hot-Sushi-Club,2016-10-16,['Hot Sushi Club '],Pop
+Zürich,Ray-Bonneville,2016-10-16,['Ray Bonneville '],Pop

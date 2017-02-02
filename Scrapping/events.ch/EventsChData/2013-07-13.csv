@@ -1,27 +1,27 @@
-,location,event,date,artists,genre
-0,null,Scarecrow,2013-07-13,['Scarecrow '],
-1,Allmend,Frauenfeld,2013-07-13,"['RUN-DMC ', ' A Tribe Called Quest ', ' B.o.B. ', ' Azealia Banks ', ' Trey Songz ', ' C2C ', ' 2 Chainz ', ' Samy Deluxe ', ' Blumentopf ', ' Ryan Leslie ', ' Dendemann ', ' Broke Candy ', ' Ferris MC & Stylewarz ', ' Chakuza ']",
-2,Amphitheater,Hüntwangen,2013-07-13,"[' De Staat ', ' Dub Trio ', ' Powder For Pigeons ', ' Michel aus Lübdeburg ']",Eluveitie
-3,Zürich,Krishna-Das,2013-07-13,['Krishna Das '],
-4,null,Flimser-Musikfestival,2013-07-13,[' Dominique Trösch '],Classic
-5,Salzhaus,Winterthur,2013-07-13,['Big Harp '],
-6,Luzern,Piano-Entertainment,2013-07-13,['Mega Horvath '],
-7,Zürich,Kapaikos,2013-07-13,['Kapaikos '],
-8,null,Flimser-Musikfestival,2013-07-13,[' Maurice Steger '],Classic
-9,Zürich,Tori-Sparks,2013-07-13,['Tori Sparks '],
-10,Montreux-Music-&-Convention-Centre,Montreux,2013-07-13,['Prince '],Prince
-11,Montreux,Montreux-Jazz-Festival,2013-07-13,"['Jazz Funk Legends ', ' Paul Jackson Trio ', ' Brian Jackson ', ' Mark Adams ', ' Tom Browne ', ' Pee Wee Ellis ']",
-12,St.-Stephan,Jodlerklub-St.-Stephan,2013-07-13,['Jodlerklub St. Stephan '],traditional
-13,Zürich,Krishna-Das,2013-07-13,['Krishna Das '],Pop
-14,Dübendorf,Los-Jubilados,2013-07-13,['Los Jubilados '],
-15,The-Bird's-Eye-Jazz-Club,Basel,2013-07-13,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-16,Zürich,Live-at-Sunset,2013-07-13,['Kenny Rogers '],
-17,Montreux-Music-&-Convention-Centre,Montreux,2013-07-13,"['Alborosie ', ' Hollie Cook ']",Alborosie
-18,St.-Moritz,Festival-da-Jazz,2013-07-13,"['Randy Crawford & Joe Sample ', ' Randy Crawford ', ' Joe Sample ', ' Nick Sample ', ' Ethan Eubanks ']",
-19,null,Samir-Essahbi-Band,2013-07-13,['Samir Essahbi Band '],
-20,Zürich,Rattle'n'Roll,2013-07-13,['Jack Rabbit Slim '],
-21,Zürich,Kizomba-Sabura-Night,2013-07-13,['DJ Gersoon '],
-22,Zürich,John-Lyons,2013-07-13,['John Lyons '],
-23,null,Jazz-Parade,2013-07-13,"['Jackson Sloan & The Rhythmtone ', ' Jackson Sloan ', ' Rick Dawson ', ' Richard Studholme ']",
-24,null,Rapsodia-satanica-Filmvertonung,2013-07-13,[' Film von Nino Oxilia '],Classic
-25,St.-Moritz,Festival-da-Jazz,2013-07-13,"[' Walter Baumgartner ', ' Elias Bernet ', ' Jurg Stiefel ', ' Andi Schmid ']",
+location,event,date,artists,genre
+null,Scarecrow,2013-07-13,['Scarecrow '],
+Allmend,Frauenfeld,2013-07-13,"['RUN-DMC ', ' A Tribe Called Quest ', ' B.o.B. ', ' Azealia Banks ', ' Trey Songz ', ' C2C ', ' 2 Chainz ', ' Samy Deluxe ', ' Blumentopf ', ' Ryan Leslie ', ' Dendemann ', ' Broke Candy ', ' Ferris MC & Stylewarz ', ' Chakuza ']",
+Amphitheater,Hüntwangen,2013-07-13,"[' De Staat ', ' Dub Trio ', ' Powder For Pigeons ', ' Michel aus Lübdeburg ']",Eluveitie
+Zürich,Krishna-Das,2013-07-13,['Krishna Das '],
+null,Flimser-Musikfestival,2013-07-13,[' Dominique Trösch '],Classic
+Salzhaus,Winterthur,2013-07-13,['Big Harp '],
+Luzern,Piano-Entertainment,2013-07-13,['Mega Horvath '],
+Zürich,Kapaikos,2013-07-13,['Kapaikos '],
+null,Flimser-Musikfestival,2013-07-13,[' Maurice Steger '],Classic
+Zürich,Tori-Sparks,2013-07-13,['Tori Sparks '],
+Montreux-Music-&-Convention-Centre,Montreux,2013-07-13,['Prince '],Prince
+Montreux,Montreux-Jazz-Festival,2013-07-13,"['Jazz Funk Legends ', ' Paul Jackson Trio ', ' Brian Jackson ', ' Mark Adams ', ' Tom Browne ', ' Pee Wee Ellis ']",
+St.-Stephan,Jodlerklub-St.-Stephan,2013-07-13,['Jodlerklub St. Stephan '],traditional
+Zürich,Krishna-Das,2013-07-13,['Krishna Das '],Pop
+Dübendorf,Los-Jubilados,2013-07-13,['Los Jubilados '],
+The-Bird's-Eye-Jazz-Club,Basel,2013-07-13,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
+Zürich,Live-at-Sunset,2013-07-13,['Kenny Rogers '],
+Montreux-Music-&-Convention-Centre,Montreux,2013-07-13,"['Alborosie ', ' Hollie Cook ']",Alborosie
+St.-Moritz,Festival-da-Jazz,2013-07-13,"['Randy Crawford & Joe Sample ', ' Randy Crawford ', ' Joe Sample ', ' Nick Sample ', ' Ethan Eubanks ']",
+null,Samir-Essahbi-Band,2013-07-13,['Samir Essahbi Band '],
+Zürich,Rattle'n'Roll,2013-07-13,['Jack Rabbit Slim '],
+Zürich,Kizomba-Sabura-Night,2013-07-13,['DJ Gersoon '],
+Zürich,John-Lyons,2013-07-13,['John Lyons '],
+null,Jazz-Parade,2013-07-13,"['Jackson Sloan & The Rhythmtone ', ' Jackson Sloan ', ' Rick Dawson ', ' Richard Studholme ']",
+null,Rapsodia-satanica-Filmvertonung,2013-07-13,[' Film von Nino Oxilia '],Classic
+St.-Moritz,Festival-da-Jazz,2013-07-13,"[' Walter Baumgartner ', ' Elias Bernet ', ' Jurg Stiefel ', ' Andi Schmid ']",

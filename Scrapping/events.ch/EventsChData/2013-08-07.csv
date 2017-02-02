@@ -1,10 +1,10 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-08-07,['Christian Mettler '],Pop
-1,Schaffhausen,Stars-in-Town,2013-08-07,"['Jamie Cullum ', ' Aloe Blacc ']",Pop
-2,Zürich,Orgelkonzert,2013-08-07,['Rudolf Scheidegger '],Classic
-3,Basel,Der-junge-Bach-und-seine-Lehrer,2013-08-07,['Thiemo Janssen '],Classic
-4,Luzern,Mario-Schenker-Quartett,2013-08-07,"[' Mario Schenker ', ' Yves Theiler ', ' Silvan Jeger ', ' Maxime Paratte ']",
-5,St.-Moritz,Festival-da-Jazz,2013-08-07,"['João Bosco & Gruppo ', ' João Bosco ', ' Ricardo Silveira ', ' João Baptista ', ' Kiko Freitas ', ' Armando Marçal ']",
-6,Bern,Drum-Phase-No.-2,2013-08-07,"[' Dom Burkhalter ', ' Hanspeter Pfammatter ', ' Julian Sartorius ', ' Colin Vallon ']",
-7,Piazza,Avegno,2013-08-07,['Texas Slim '],
-8,St.-Moritz,Festival-da-Jazz,2013-08-07,"[' Simone Baumann ', ' Pedro Ivo ', ' Paulinho Alves ']",
+location,event,date,artists,genre
+Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-08-07,['Christian Mettler '],Pop
+Schaffhausen,Stars-in-Town,2013-08-07,"['Jamie Cullum ', ' Aloe Blacc ']",Pop
+Zürich,Orgelkonzert,2013-08-07,['Rudolf Scheidegger '],Classic
+Basel,Der-junge-Bach-und-seine-Lehrer,2013-08-07,['Thiemo Janssen '],Classic
+Luzern,Mario-Schenker-Quartett,2013-08-07,"[' Mario Schenker ', ' Yves Theiler ', ' Silvan Jeger ', ' Maxime Paratte ']",
+St.-Moritz,Festival-da-Jazz,2013-08-07,"['João Bosco & Gruppo ', ' João Bosco ', ' Ricardo Silveira ', ' João Baptista ', ' Kiko Freitas ', ' Armando Marçal ']",
+Bern,Drum-Phase-No.-2,2013-08-07,"[' Dom Burkhalter ', ' Hanspeter Pfammatter ', ' Julian Sartorius ', ' Colin Vallon ']",
+Piazza,Avegno,2013-08-07,['Texas Slim '],
+St.-Moritz,Festival-da-Jazz,2013-08-07,"[' Simone Baumann ', ' Pedro Ivo ', ' Paulinho Alves ']",

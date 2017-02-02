@@ -1,11 +1,11 @@
-,location,event,date,artists,genre
-0,Basel,Altstadt-Serenaden-2016,2016-07-06,"['Liederrezital mit Silke Gäng ', ' Marco Scilironi ']",Classic
-1,Zürich,Jazz-Arcades,2016-07-06,"[' Martin Lechner ', ' Oliver Keller ', ' Michael Chylewski ']",
-2,Zürich,Ciaran-Lavery,2016-07-06,['Ciaran Lavery '],Pop
-3,Zürich,Suuns,2016-07-06,['Suuns '],
-4,Zürich,Instrumentales-Singen,2016-07-06,[' Leitung und Werke von Jörg Widmann '],Classic
-5,Zürich,Rodriguez,2016-07-06,['Rodriguez '],Pop
-6,Montreux,Montreux-Jazz-Festival,2016-07-06,"['Patti Smith ', ' PJ Harvey ']",
-7,Pratteln,Beth-Hart,2016-07-06,"['Beth Hart ', ' Ben Poole ']",
-8,Montreux,Montreux-Jazz-Festival,2016-07-06,"['Slayer ', ' Meshuggah ']",
-9,Basel,Pablo-Held-Trio,2016-07-06,"[' Pablo Held ', ' Robert Landfermann ', ' Jonas Burgwinkel ']",
+location,event,date,artists,genre
+Basel,Altstadt-Serenaden-2016,2016-07-06,"['Liederrezital mit Silke Gäng ', ' Marco Scilironi ']",Classic
+Zürich,Jazz-Arcades,2016-07-06,"[' Martin Lechner ', ' Oliver Keller ', ' Michael Chylewski ']",
+Zürich,Ciaran-Lavery,2016-07-06,['Ciaran Lavery '],Pop
+Zürich,Suuns,2016-07-06,['Suuns '],
+Zürich,Instrumentales-Singen,2016-07-06,[' Leitung und Werke von Jörg Widmann '],Classic
+Zürich,Rodriguez,2016-07-06,['Rodriguez '],Pop
+Montreux,Montreux-Jazz-Festival,2016-07-06,"['Patti Smith ', ' PJ Harvey ']",
+Pratteln,Beth-Hart,2016-07-06,"['Beth Hart ', ' Ben Poole ']",
+Montreux,Montreux-Jazz-Festival,2016-07-06,"['Slayer ', ' Meshuggah ']",
+Basel,Pablo-Held-Trio,2016-07-06,"[' Pablo Held ', ' Robert Landfermann ', ' Jonas Burgwinkel ']",

@@ -1,41 +1,41 @@
-,location,event,date,artists,genre
-0,Winterthur,Die-Samstagsmatinée,2013-10-05,"['Franziska Andrea Heinzen ', ' Daniel Hellmann ', ' Mathias Clausen ']",Classic
-1,Pratteln,Up-in-Smoke-Festival,2013-10-05,['Colour Haze '],
-2,Basel,Plucks,2013-10-05,['Anders Miolin '],Classic
-3,Luzern,Piano-Entertainment,2013-10-05,['DJ Christian Mettler '],Pop
-4,Basel,Genetikk,2013-10-05,['Genetikk '],
-5,Basel,Rosenkranz-Sonaten-6-10,2013-10-05,"['Katia Viel ', ' Eva Saladin ', ' Anais Chen ']",Classic
-6,Basel,Kammermusik-für-zwei-Celli-und-Bratsche,2013-10-05,"['Ignacy Miecznikowski ', ' Tytus Miecznikowski  ', ' Ewa Miecznikowska ', ' Veronika Miecznikowski ']",Classic
-7,Basel,Plucks,2013-10-05,['Hopkinson Smith '],Classic
-8,Zürich,Tonos-y-tonadas,2013-10-05,"[' Bárbara Kusa ', ' Luis Rigou ', ' conductor: Eduardo Egüez ']",Classic
-9,Luzern,World-Band-Festival,2013-10-05,"['The Band of the Blues and Royals ', ' Showband Corio Heerlen ', ' Stockbridge Pipe Band Edinburgh ']",
-10,Winterthur,Extrakonzert-Werke-für-Violoncello-und-Klavier-1,2013-10-05,"['Martin Helmchen ', ' Marie-Elisabeth Hecker ']",Classic
-11,Baden,Black-Stuff,2013-10-05,"['All The Shelters ', ' 5FT High & Rising ', ' Taped ']",
-12,Zürich,Spin-Doctors,2013-10-05,"['Spin Doctors ', ' Samantha Fish ']",
-13,Baden,Moussa-Cissokho,2013-10-05,['Moussa Cissokho '],
-14,Lenzburg,Hillbilly-Rocktoberfest,2013-10-05,['The Dinosaur Truckers '],
-15,Zug,The-Mark-Soskin-Quartett,2013-10-05,"[' Mark Soskin ', ' Roberto Bossard  ', ' Gildas Boclé ', ' Elmar Frey ']",
-16,Lyss,Steve-Vai,2013-10-05,['Steve Vai '],
-17,Degersheim,The-Next-Mutation,2013-10-05,[' O. H. '],
-18,Thalwil,Kammerflimmern,2013-10-05,"['Markus Schönholzer ', ' Marianne Racine ', ' Weshalb-Forellen-Quartett ']",Pop
-19,Basel,Lucerne-Jazz-Orchestra,2013-10-05,[' David Grottschreiber '],
-20,Basel,Plucks,2013-10-05,['Fred Frith '],Classic
-21,null,Miroir-Bach,2013-10-05,"[' Laurence Guillod ', ' Violetta Radomirska ', ' Michèle Fähndrich ', ' Daniel Issa ']",Classic
-22,Bern,Patricia-Vonne,2013-10-05,['Patricia Vonne '],
-23,Schaffhausen,The-Alkaholiks,2013-10-05,['The Alkaholics '],
-24,Thun,The-Front-Bottoms,2013-10-05,['The Front Bottoms '],
-25,Bern,Adank-&-Rumpelorchester,2013-10-05,"[' Simu Schaffer ', ' Tom Schmid ', ' p) Urs Grunder ', ' ', ' Simu Vögeli ', ' Roland Juker ']",
-26,Luzern,Massimolotov,2013-10-05,['Massimolotov '],Electronic
-27,Zürich,Der-schwarze-Ball,2013-10-05,"['Front 242 ', ' Kirlian Camera ']",
-28,null,Kassette,2013-10-05,"[' Laure Betris ', ' Sacha Ruffieux ', ' Nicolas Pittet ']",
-29,Rubigen,Layla-Zoe,2013-10-05,['Layla Zoe '],
-30,null,Boris-Pilleri's-Jammin',2013-10-05,"[' Boris Pilleri ', ' Claude Barbotte ', ' Marc Schödler ', ' Simon Hirsiger ', ' Andreas Beer ', ' Marcel Suk ', ' Martin Kissling ']",
-31,null,Mas-Shake,2013-10-05,"['Mas Shake ', ' The Fools ']",
-32,Luzern,Caprice,2013-10-05,"[' Andrea Gygax ', ' Alexandra Huber ', ' Danja Schwegler ', ' Simone Lustenberger ', ' Julia Keller ', ' Tom Sprunger ']",
-33,Aarau,Spencer,2013-10-05,['Spencer '],
-34,Winterthur,Dead-Ghosts,2013-10-05,"['Dead Ghosts ', ' Midnight Jerks ']",
-35,Zürich,The-Stepkids,2013-10-05,['The Stepkids '],
-36,Baden,Caliente-Party,2013-10-05,"[' live: Ilù Àiya & Camila Arantes ', ' Arnold González & Cali Sabor Salsa Cabaret ']",
-37,Zürich,Mil-pelas,2013-10-05,['DJ El Emigrante '],
-38,Basel,Dagobert,2013-10-05,['Dagobert '],traditional
-39,Basel,Warrior-Sound,2013-10-05,['Warrior Sound '],
+location,event,date,artists,genre
+Winterthur,Die-Samstagsmatinée,2013-10-05,"['Franziska Andrea Heinzen ', ' Daniel Hellmann ', ' Mathias Clausen ']",Classic
+Pratteln,Up-in-Smoke-Festival,2013-10-05,['Colour Haze '],
+Basel,Plucks,2013-10-05,['Anders Miolin '],Classic
+Luzern,Piano-Entertainment,2013-10-05,['DJ Christian Mettler '],Pop
+Basel,Genetikk,2013-10-05,['Genetikk '],
+Basel,Rosenkranz-Sonaten-6-10,2013-10-05,"['Katia Viel ', ' Eva Saladin ', ' Anais Chen ']",Classic
+Basel,Kammermusik-für-zwei-Celli-und-Bratsche,2013-10-05,"['Ignacy Miecznikowski ', ' Tytus Miecznikowski  ', ' Ewa Miecznikowska ', ' Veronika Miecznikowski ']",Classic
+Basel,Plucks,2013-10-05,['Hopkinson Smith '],Classic
+Zürich,Tonos-y-tonadas,2013-10-05,"[' Bárbara Kusa ', ' Luis Rigou ', ' conductor: Eduardo Egüez ']",Classic
+Luzern,World-Band-Festival,2013-10-05,"['The Band of the Blues and Royals ', ' Showband Corio Heerlen ', ' Stockbridge Pipe Band Edinburgh ']",
+Winterthur,Extrakonzert-Werke-für-Violoncello-und-Klavier-1,2013-10-05,"['Martin Helmchen ', ' Marie-Elisabeth Hecker ']",Classic
+Baden,Black-Stuff,2013-10-05,"['All The Shelters ', ' 5FT High & Rising ', ' Taped ']",
+Zürich,Spin-Doctors,2013-10-05,"['Spin Doctors ', ' Samantha Fish ']",
+Baden,Moussa-Cissokho,2013-10-05,['Moussa Cissokho '],
+Lenzburg,Hillbilly-Rocktoberfest,2013-10-05,['The Dinosaur Truckers '],
+Zug,The-Mark-Soskin-Quartett,2013-10-05,"[' Mark Soskin ', ' Roberto Bossard  ', ' Gildas Boclé ', ' Elmar Frey ']",
+Lyss,Steve-Vai,2013-10-05,['Steve Vai '],
+Degersheim,The-Next-Mutation,2013-10-05,[' O. H. '],
+Thalwil,Kammerflimmern,2013-10-05,"['Markus Schönholzer ', ' Marianne Racine ', ' Weshalb-Forellen-Quartett ']",Pop
+Basel,Lucerne-Jazz-Orchestra,2013-10-05,[' David Grottschreiber '],
+Basel,Plucks,2013-10-05,['Fred Frith '],Classic
+null,Miroir-Bach,2013-10-05,"[' Laurence Guillod ', ' Violetta Radomirska ', ' Michèle Fähndrich ', ' Daniel Issa ']",Classic
+Bern,Patricia-Vonne,2013-10-05,['Patricia Vonne '],
+Schaffhausen,The-Alkaholiks,2013-10-05,['The Alkaholics '],
+Thun,The-Front-Bottoms,2013-10-05,['The Front Bottoms '],
+Bern,Adank-&-Rumpelorchester,2013-10-05,"[' Simu Schaffer ', ' Tom Schmid ', ' p) Urs Grunder ', ' ', ' Simu Vögeli ', ' Roland Juker ']",
+Luzern,Massimolotov,2013-10-05,['Massimolotov '],Electronic
+Zürich,Der-schwarze-Ball,2013-10-05,"['Front 242 ', ' Kirlian Camera ']",
+null,Kassette,2013-10-05,"[' Laure Betris ', ' Sacha Ruffieux ', ' Nicolas Pittet ']",
+Rubigen,Layla-Zoe,2013-10-05,['Layla Zoe '],
+null,Boris-Pilleri's-Jammin',2013-10-05,"[' Boris Pilleri ', ' Claude Barbotte ', ' Marc Schödler ', ' Simon Hirsiger ', ' Andreas Beer ', ' Marcel Suk ', ' Martin Kissling ']",
+null,Mas-Shake,2013-10-05,"['Mas Shake ', ' The Fools ']",
+Luzern,Caprice,2013-10-05,"[' Andrea Gygax ', ' Alexandra Huber ', ' Danja Schwegler ', ' Simone Lustenberger ', ' Julia Keller ', ' Tom Sprunger ']",
+Aarau,Spencer,2013-10-05,['Spencer '],
+Winterthur,Dead-Ghosts,2013-10-05,"['Dead Ghosts ', ' Midnight Jerks ']",
+Zürich,The-Stepkids,2013-10-05,['The Stepkids '],
+Baden,Caliente-Party,2013-10-05,"[' live: Ilù Àiya & Camila Arantes ', ' Arnold González & Cali Sabor Salsa Cabaret ']",
+Zürich,Mil-pelas,2013-10-05,['DJ El Emigrante '],
+Basel,Dagobert,2013-10-05,['Dagobert '],traditional
+Basel,Warrior-Sound,2013-10-05,['Warrior Sound '],

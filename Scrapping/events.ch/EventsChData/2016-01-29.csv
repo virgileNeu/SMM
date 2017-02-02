@@ -1,35 +1,35 @@
-,location,event,date,artists,genre
-0,Luzern,Duette-für-Violine-&-Cello,2016-01-29,"['Mari Samuelsen ', ' Hakon Samuelsen ']",Classic
-1,Bern,Orgelpunkt,2016-01-29,['Mark Richli '],Classic
-2,Basel,Roche'n'Jazz,2016-01-29,"[' Alex Sipiagin ', ' Igor Butman ', ' David Gilmore ', ' Stephan Kurman ', ' Eduard Zizak ']",
-3,Basel,Orgelspiel-zum-Feierabend,2016-01-29,['Els Biesemans '],Classic
-4,Zürich,Orgelkonzert,2016-01-29,['Thomas Schudel '],Classic
-5,Zürich,Little-Simz,2016-01-29,['Little Simz '],
-6,Zürich,Internationales-Country-Music-Festival,2016-01-29,['The Farm '],
-7,Riehen,Szenen-einer-Ehe-Sie-und-Er-(Classiques),2016-01-29,"[' Maria Reiter ', ' Norbert Nagel ', ' Rudi Spring ', ' Senta Berger ']",Classic
-8,Basel,Western-Music-in-Concert,2016-01-29,"[' Katitlyn Lusk ', ' Michael Peterson ']",Classic
-9,Bern,Kraftklub,2016-01-29,['Kraftklub '],
-10,Rheinfelden,Budapest-Swing-Jazz-Steps-Band,2016-01-29,"['Budapest Swing Jazz Steps Band ', ' Zoltan Finok  ', ' Istvan Lazar ', ' Tamas Kovacs ', ' Balazs Lazar ', ' Janos Lutz ', ' Tibor Czako ']",
-11,Pratteln,Helloween,2016-01-29,"['Helloween ', ' Rage ', ' Crimes of Passion ']",
-12,Baden,One-of-a-Million,2016-01-29,['Dan San '],Pop
-13,Zürich,Kahn-Wolfarth,2016-01-29,"['Jason Kahn ', ' Christian Wolfarth ']",Classic
-14,Stäfa,Jazztage,2016-01-29,"[' Valeri Tolstov ', ' Veronika Stalder ', ' Evgeny Lebedev ', ' Thomas Tavano ', ' Andi Pupato ']",Pop
-15,Basel,I-Salonisti,2016-01-29,"['Piotr Plawner ', ' Lorenz Hasler ', ' Orlando Theuler', ' Béla Szedlák ', ' Gerardo Vila ']",Classic
-16,Zürich,Dead-Ugly-Radio,2016-01-29,"[' Beat Gisler ', ' Angel Ontalva ', ' Marc Stucki ', ' Vasco Trilla ']",
-17,Winterthur,Silvan-Schmid-Trio,2016-01-29,"[' Silvan Schmid ', ' Xaver Rüegg ', ' Vincent Glanzmann ']",
-18,Basel,Alex-Sipiagin-Quintet,2016-01-29,"[' Alex Sipiagin ', ' Igor Butman ', ' David Gilmore ', ' Stephan Kurman ', ' Eduard Zizak ']",
-19,Zürich,Müslüm,2016-01-29,"[' Müslüm ', ' Raphael Jakob ', ' Roberto Hacaturyan ', ' Ben Külling ', ' Toni Schiavano ']",Pop
-20,Luzern,The-World-Is-a-Beutiful-Place-and-I'm-Not-Longer-Afraid-to-Die,2016-01-29,"[""The World Is a Beutiful Place and I'm Not Longer Afraid to Die "", ' MewithoutYou ']",
-21,Baden,Donadio-Family-Band,2016-01-29,"[' Dalia ', ' Madlen ', ' Moreno ', ' Toni ']",
-22,Liebefeld,Uptown-Big-Band-feat.-Sandy-Patton,2016-01-29,['Uptown Big Band feat. Sandy Patton '],
-23,Aarau,La-crêperie,2016-01-29,['La caravanne passe '],
-24,Basel,The-Master,2016-01-29,['Charles Dups'],Pop
-25,Zürich,Murat-Cevik-Ararat,2016-01-29,"[' Simon Kessler ', ' Thomas Sonderegger ', ' Murat Cevik ', ' Andreas Ambühl ', ' Severin Graf ']",
-26,Thun,Clara-Luzia,2016-01-29,['Clara Luzia '],Pop
-27,null,Dope-D.O.D.,2016-01-29,['Dope D.O.D. '],
-28,Brugg,Sekou-Koyaté,2016-01-29,['Sekou Koyaté '],
-29,Baden,One-of-a-Million,2016-01-29,['Fùgù Mango '],
-30,Baden,One-of-a-Million,2016-01-29,['Mile Me Deaf '],Pop
-31,Düdingen,Flying-Horseman,2016-01-29,"['Flying Horseman ', ' Nova Heart ']",Pop
-32,Zürich,Fai-Baba,2016-01-29,[' The Residents '],Pop
-33,Basel,Nachtklang-Wie-klingt-die-Nacht-,2016-01-29,"[' Christoph Dangel ', ' Stefan Preyer ']",Classic
+location,event,date,artists,genre
+Luzern,Duette-für-Violine-&-Cello,2016-01-29,"['Mari Samuelsen ', ' Hakon Samuelsen ']",Classic
+Bern,Orgelpunkt,2016-01-29,['Mark Richli '],Classic
+Basel,Roche'n'Jazz,2016-01-29,"[' Alex Sipiagin ', ' Igor Butman ', ' David Gilmore ', ' Stephan Kurman ', ' Eduard Zizak ']",
+Basel,Orgelspiel-zum-Feierabend,2016-01-29,['Els Biesemans '],Classic
+Zürich,Orgelkonzert,2016-01-29,['Thomas Schudel '],Classic
+Zürich,Little-Simz,2016-01-29,['Little Simz '],
+Zürich,Internationales-Country-Music-Festival,2016-01-29,['The Farm '],
+Riehen,Szenen-einer-Ehe-Sie-und-Er-(Classiques),2016-01-29,"[' Maria Reiter ', ' Norbert Nagel ', ' Rudi Spring ', ' Senta Berger ']",Classic
+Basel,Western-Music-in-Concert,2016-01-29,"[' Katitlyn Lusk ', ' Michael Peterson ']",Classic
+Bern,Kraftklub,2016-01-29,['Kraftklub '],
+Rheinfelden,Budapest-Swing-Jazz-Steps-Band,2016-01-29,"['Budapest Swing Jazz Steps Band ', ' Zoltan Finok  ', ' Istvan Lazar ', ' Tamas Kovacs ', ' Balazs Lazar ', ' Janos Lutz ', ' Tibor Czako ']",
+Pratteln,Helloween,2016-01-29,"['Helloween ', ' Rage ', ' Crimes of Passion ']",
+Baden,One-of-a-Million,2016-01-29,['Dan San '],Pop
+Zürich,Kahn-Wolfarth,2016-01-29,"['Jason Kahn ', ' Christian Wolfarth ']",Classic
+Stäfa,Jazztage,2016-01-29,"[' Valeri Tolstov ', ' Veronika Stalder ', ' Evgeny Lebedev ', ' Thomas Tavano ', ' Andi Pupato ']",Pop
+Basel,I-Salonisti,2016-01-29,"['Piotr Plawner ', ' Lorenz Hasler ', ' Orlando Theuler', ' Béla Szedlák ', ' Gerardo Vila ']",Classic
+Zürich,Dead-Ugly-Radio,2016-01-29,"[' Beat Gisler ', ' Angel Ontalva ', ' Marc Stucki ', ' Vasco Trilla ']",
+Winterthur,Silvan-Schmid-Trio,2016-01-29,"[' Silvan Schmid ', ' Xaver Rüegg ', ' Vincent Glanzmann ']",
+Basel,Alex-Sipiagin-Quintet,2016-01-29,"[' Alex Sipiagin ', ' Igor Butman ', ' David Gilmore ', ' Stephan Kurman ', ' Eduard Zizak ']",
+Zürich,Müslüm,2016-01-29,"[' Müslüm ', ' Raphael Jakob ', ' Roberto Hacaturyan ', ' Ben Külling ', ' Toni Schiavano ']",Pop
+Luzern,The-World-Is-a-Beutiful-Place-and-I'm-Not-Longer-Afraid-to-Die,2016-01-29,"[""The World Is a Beutiful Place and I'm Not Longer Afraid to Die "", ' MewithoutYou ']",
+Baden,Donadio-Family-Band,2016-01-29,"[' Dalia ', ' Madlen ', ' Moreno ', ' Toni ']",
+Liebefeld,Uptown-Big-Band-feat.-Sandy-Patton,2016-01-29,['Uptown Big Band feat. Sandy Patton '],
+Aarau,La-crêperie,2016-01-29,['La caravanne passe '],
+Basel,The-Master,2016-01-29,['Charles Dups'],Pop
+Zürich,Murat-Cevik-Ararat,2016-01-29,"[' Simon Kessler ', ' Thomas Sonderegger ', ' Murat Cevik ', ' Andreas Ambühl ', ' Severin Graf ']",
+Thun,Clara-Luzia,2016-01-29,['Clara Luzia '],Pop
+null,Dope-D.O.D.,2016-01-29,['Dope D.O.D. '],
+Brugg,Sekou-Koyaté,2016-01-29,['Sekou Koyaté '],
+Baden,One-of-a-Million,2016-01-29,['Fùgù Mango '],
+Baden,One-of-a-Million,2016-01-29,['Mile Me Deaf '],Pop
+Düdingen,Flying-Horseman,2016-01-29,"['Flying Horseman ', ' Nova Heart ']",Pop
+Zürich,Fai-Baba,2016-01-29,[' The Residents '],Pop
+Basel,Nachtklang-Wie-klingt-die-Nacht-,2016-01-29,"[' Christoph Dangel ', ' Stefan Preyer ']",Classic

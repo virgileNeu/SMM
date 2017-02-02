@@ -1,20 +1,20 @@
-,location,event,date,artists,genre
-0,Zürich,Bayernmän,2016-03-08,['Bayernmän '],traditional
-1,Zürich,Jazzapero,2016-03-08,"[' Silvan Jeger ', ' Valentin Dietrich ', ' Maxime Paratte ']",
-2,Basel,Kammermusik-Basel,2016-03-08,"['Kolja Blacher ', ' Clemens Hagen ', ' Kirill Gerstein ']",Classic
-3,Zürich,Internationales-Country-Music-Festival,2016-03-08,"[""Bill Haley's Comets ""]",
-4,Zürich,Nothing-But-Thieves-abgesagt,2016-03-08,['Nothing But Thieves '],
-5,null,Les-extrèmes-se-touchent,2016-03-08,"['Thomas Grossenbacher ', ' Petya Mihneva ']",Classic
-6,Zürich,Olga-Scheps,2016-03-08,[''],Classic
-7,Zürich,Vom-Spatz-von-Paris-und-anderen-Singvögeln,2016-03-08,"[' Sylvia Heckendorn ', ' Christian Müller ']",Pop
-8,Zürich,Other-Lives,2016-03-08,"['Other Lives ', ' support: Mero ']",Pop
-9,Zürich,Jeremy-Pelt,2016-03-08,"[' Jeremy Pelt ', ' Steve Nelson ', ' Danny Grissett ', ' Peter Washington ', ' Bill Stewart ']",
-10,Zürich,Money,2016-03-08,['Money '],Pop
-11,Zürich,The-Neighbourhood,2016-03-08,['The Neighbourhood '],
-12,Zürich,Federico-Albanese,2016-03-08,['Federico Albanese '],Pop
-13,Rheinfelden,Ramón-Valle-Trio,2016-03-08,"[' Ramón Valle ', ' Omar Rodriguez ', ' Liber Torriente ']",
-14,Lausanne,Years-&-Years,2016-03-08,['Years & Years '],Electronic
-15,Zürich,Dave-Holland-Trio-feat.-Kevin-Eubanks-&-Obed-Calvaire,2016-03-08,"[' Dave Holland ', ' Kevin Eubanks ', ' Obed Calvaire ']",
-16,Basel,Druckmittel,2016-03-08,"[' Toni Bechtold ', ' David Heizmann ', ' Louis Laury ', ' Valentin von Fischer ', ' Florian Hoesl ']",
-17,Pratteln,Ben-Poole,2016-03-08,['Ben Poole '],
-18,Kriens,Menschen-am-Sonntag,2016-03-08,['Mum '],Pop
+location,event,date,artists,genre
+Zürich,Bayernmän,2016-03-08,['Bayernmän '],traditional
+Zürich,Jazzapero,2016-03-08,"[' Silvan Jeger ', ' Valentin Dietrich ', ' Maxime Paratte ']",
+Basel,Kammermusik-Basel,2016-03-08,"['Kolja Blacher ', ' Clemens Hagen ', ' Kirill Gerstein ']",Classic
+Zürich,Internationales-Country-Music-Festival,2016-03-08,"[""Bill Haley's Comets ""]",
+Zürich,Nothing-But-Thieves-abgesagt,2016-03-08,['Nothing But Thieves '],
+null,Les-extrèmes-se-touchent,2016-03-08,"['Thomas Grossenbacher ', ' Petya Mihneva ']",Classic
+Zürich,Olga-Scheps,2016-03-08,[''],Classic
+Zürich,Vom-Spatz-von-Paris-und-anderen-Singvögeln,2016-03-08,"[' Sylvia Heckendorn ', ' Christian Müller ']",Pop
+Zürich,Other-Lives,2016-03-08,"['Other Lives ', ' support: Mero ']",Pop
+Zürich,Jeremy-Pelt,2016-03-08,"[' Jeremy Pelt ', ' Steve Nelson ', ' Danny Grissett ', ' Peter Washington ', ' Bill Stewart ']",
+Zürich,Money,2016-03-08,['Money '],Pop
+Zürich,The-Neighbourhood,2016-03-08,['The Neighbourhood '],
+Zürich,Federico-Albanese,2016-03-08,['Federico Albanese '],Pop
+Rheinfelden,Ramón-Valle-Trio,2016-03-08,"[' Ramón Valle ', ' Omar Rodriguez ', ' Liber Torriente ']",
+Lausanne,Years-&-Years,2016-03-08,['Years & Years '],Electronic
+Zürich,Dave-Holland-Trio-feat.-Kevin-Eubanks-&-Obed-Calvaire,2016-03-08,"[' Dave Holland ', ' Kevin Eubanks ', ' Obed Calvaire ']",
+Basel,Druckmittel,2016-03-08,"[' Toni Bechtold ', ' David Heizmann ', ' Louis Laury ', ' Valentin von Fischer ', ' Florian Hoesl ']",
+Pratteln,Ben-Poole,2016-03-08,['Ben Poole '],
+Kriens,Menschen-am-Sonntag,2016-03-08,['Mum '],Pop

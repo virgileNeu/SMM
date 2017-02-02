@@ -1,22 +1,22 @@
-,location,event,date,artists,genre
-0,Basel,Christ-lag-in-Todesbanden,2013-05-01,['Oren Kirschenbaum '],Classic
-1,Basel,Konzert,2013-05-01,"[' Albin Brun ', ' Patricia Draeger ']",Classic
-2,Luzern,Blue-Soul-&-Me,2013-05-01,['Mark Tenger '],
-3,Zürich,Konzert,2013-05-01,[' Benjamin Nyffenegger '],Classic
-4,Les-Docks,Lausanne,2013-05-01,['Public Enemy '],
-5,Bern,Internationales-Jazzfestival-Bern,2013-05-01,"['Philip Catherine Quartet ', ' Philip Catherine ', ' Nicola Andrioli ', ' Philippe Aerts ', ' Antoine Pierre ', ' Didier Lockwood ', ' Frank Vignola ']",
-6,Luzern,Possessed,2013-05-01,['Possessed '],
-7,Zürich,Kalabrese,2013-05-01,"['Kalabrese ', ' Kalabrese ', ' Valentino Tomasi ', ' Marton di Katz ', ' Beni Danech ', ' Dominik Löher ']",
-8,Luzern,Jam-Night,2013-05-01,"['Christian Winiker ', ' Adi Wiss ', ' Mani Zweili ', ' Mike Malloth ']",
-9,Arena-Genève,null,2013-05-01,['Lana Del Rey '],
-10,Usine,null,2013-05-01,['Meshuggah '],Meshuggah
-11,Fri-Son,null,2013-05-01,['Benjamin Biolay '],
-12,Reitschule,Bern,2013-05-01,['Smith & Smart '],
-13,Zürich,Valerie-June,2013-05-01,['Valerie June '],
-14,Zürich,Ladysmith-Black-Mambazo,2013-05-01,"[' Bekiziwe Joseph Shabalala ', ' Msizi Shabalala ', ' Thulani Shabalala ', ' Sibonginseni Shabalala ']",
-15,Bern,Butterscotch,2013-05-01,['Butterscotch '],
-16,Mahogany-Hall,Bern,2013-05-01,"['Mya Audrey ', ' Mya Audrey ', ' Jan Terstegen ', ' Thomsen Merkel ', ' Roy Knauf ']",
-17,Zürich,Diazpora,2013-05-01,"['Diazpora ', ' Lucas Kochbeck ', ' Thomas Neitzel ', ' David Nesselhauf ']",
-18,Südpol,Kriens,2013-05-01,['Widowspeak '],Widowspeak
-19,Bern,Internationales-Jazzfestival-Bern,2013-05-01,"['Philip Catherine Quartet ', ' Philip Catherine ', ' Nicola Andrioli ', ' Philippe Aerts ', ' Antoine Pierre ', ' Didier Lockwood ', ' Frank Vignola ']",
-20,Basel,Jean-Paul-Brodbeck-Trio,2013-05-01,"['Jean-Paul Brodbeck ', ' Fabian Gisler ', ' Claudio Strüby ']",
+location,event,date,artists,genre
+Basel,Christ-lag-in-Todesbanden,2013-05-01,['Oren Kirschenbaum '],Classic
+Basel,Konzert,2013-05-01,"[' Albin Brun ', ' Patricia Draeger ']",Classic
+Luzern,Blue-Soul-&-Me,2013-05-01,['Mark Tenger '],
+Zürich,Konzert,2013-05-01,[' Benjamin Nyffenegger '],Classic
+Les-Docks,Lausanne,2013-05-01,['Public Enemy '],
+Bern,Internationales-Jazzfestival-Bern,2013-05-01,"['Philip Catherine Quartet ', ' Philip Catherine ', ' Nicola Andrioli ', ' Philippe Aerts ', ' Antoine Pierre ', ' Didier Lockwood ', ' Frank Vignola ']",
+Luzern,Possessed,2013-05-01,['Possessed '],
+Zürich,Kalabrese,2013-05-01,"['Kalabrese ', ' Kalabrese ', ' Valentino Tomasi ', ' Marton di Katz ', ' Beni Danech ', ' Dominik Löher ']",
+Luzern,Jam-Night,2013-05-01,"['Christian Winiker ', ' Adi Wiss ', ' Mani Zweili ', ' Mike Malloth ']",
+Arena-Genève,null,2013-05-01,['Lana Del Rey '],
+Usine,null,2013-05-01,['Meshuggah '],Meshuggah
+Fri-Son,null,2013-05-01,['Benjamin Biolay '],
+Reitschule,Bern,2013-05-01,['Smith & Smart '],
+Zürich,Valerie-June,2013-05-01,['Valerie June '],
+Zürich,Ladysmith-Black-Mambazo,2013-05-01,"[' Bekiziwe Joseph Shabalala ', ' Msizi Shabalala ', ' Thulani Shabalala ', ' Sibonginseni Shabalala ']",
+Bern,Butterscotch,2013-05-01,['Butterscotch '],
+Mahogany-Hall,Bern,2013-05-01,"['Mya Audrey ', ' Mya Audrey ', ' Jan Terstegen ', ' Thomsen Merkel ', ' Roy Knauf ']",
+Zürich,Diazpora,2013-05-01,"['Diazpora ', ' Lucas Kochbeck ', ' Thomas Neitzel ', ' David Nesselhauf ']",
+Südpol,Kriens,2013-05-01,['Widowspeak '],Widowspeak
+Bern,Internationales-Jazzfestival-Bern,2013-05-01,"['Philip Catherine Quartet ', ' Philip Catherine ', ' Nicola Andrioli ', ' Philippe Aerts ', ' Antoine Pierre ', ' Didier Lockwood ', ' Frank Vignola ']",
+Basel,Jean-Paul-Brodbeck-Trio,2013-05-01,"['Jean-Paul Brodbeck ', ' Fabian Gisler ', ' Claudio Strüby ']",

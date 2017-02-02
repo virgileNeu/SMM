@@ -1,9 +1,9 @@
-,location,event,date,artists,genre
-0,Zürich,Jazzapero,2016-03-01,"[' Barbara Balzan ', ' Gregor Müller ', ' Silvan Jeger ']",
-1,Zürich,Bosse,2016-03-01,['Bosse '],Pop
-2,Zürich,Seinabo-Sey,2016-03-01,['Seinabo Sey '],
-3,Zürich,King-Gizzard-&-The-Lizard-Wizard,2016-03-01,['King Gizzard & The Lizard Wizard '],
-4,Bern,Mediterranean-Music-Festival,2016-03-01,"['Yaprak Sayar Quartet ', ' Ensemble Lalitades von Rodopi ', ' Ensemble Matilde Politi ', ' Ensemble Malouf ', ' Regard Persan Trio ']",
-5,null,Stanley-Clarke-&-Hiromi-Duo,2016-03-01,['Stanley Clarke & Hiromi Duo '],
-6,Lausanne,Kodaline,2016-03-01,['Kodaline '],Pop
-7,Zürich,Artist-in-Residence-Herbie-Kopf,2016-03-01,"[' Oli Kuster ', ' Urban Lienert ', ' Gilbert Paeffgen ', ' Jochen Baldes ', ' Christoph Grab ', ' Herbie Kopf ']",
+location,event,date,artists,genre
+Zürich,Jazzapero,2016-03-01,"[' Barbara Balzan ', ' Gregor Müller ', ' Silvan Jeger ']",
+Zürich,Bosse,2016-03-01,['Bosse '],Pop
+Zürich,Seinabo-Sey,2016-03-01,['Seinabo Sey '],
+Zürich,King-Gizzard-&-The-Lizard-Wizard,2016-03-01,['King Gizzard & The Lizard Wizard '],
+Bern,Mediterranean-Music-Festival,2016-03-01,"['Yaprak Sayar Quartet ', ' Ensemble Lalitades von Rodopi ', ' Ensemble Matilde Politi ', ' Ensemble Malouf ', ' Regard Persan Trio ']",
+null,Stanley-Clarke-&-Hiromi-Duo,2016-03-01,['Stanley Clarke & Hiromi Duo '],
+Lausanne,Kodaline,2016-03-01,['Kodaline '],Pop
+Zürich,Artist-in-Residence-Herbie-Kopf,2016-03-01,"[' Oli Kuster ', ' Urban Lienert ', ' Gilbert Paeffgen ', ' Jochen Baldes ', ' Christoph Grab ', ' Herbie Kopf ']",

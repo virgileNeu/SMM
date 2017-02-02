@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,Bern,Orgelpunkt-zum-Wochenschluss,2013-08-02,['Thomas Leutenegger '],Classic
-1,Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-08-02,['Christian Mettler '],Pop
-2,Basel,Orgelspiel-zum-Feierabend,2013-08-02,['Louis van Niekerk '],Classic
-3,Verbier,Verbier-Festival,2013-08-02,"['Monty Alexander ', ' Hassan JJ Wiggins Shakur ', ' Obed Calvaire ', ' Leon Duncan ', ' Karl Wright ', ' Earl Appleton ', ' Courtney Panton ']",
-4,Gränichen,Openair-Gränichen,2013-08-02,"['The Answer ', ' Henrik Freischalder Band ']",
-5,Pontresina,Konzert,2013-08-02,[' Khatia Buniatishvili '],Classic
-6,null,Inntaler-Alpengaudi,2013-08-02,['Inntaler Alpengaudi '],traditional
-7,Place-Nova-Friburgo,Estavayer-le-Lac,2013-08-02,"['Eiffel ', ' Garou ', ' Saule ']",Garou
-8,Komplex-457,Zürich,2013-08-02,['Danzig '],Danzig
-9,Frauenfeld,Sommerloch,2013-08-02,['Beth Wimmer '],
-10,Verbier,Verbier-Festival,2013-08-02,"['Maxim Vengerov ', ' Menahem Pressler ']",Classic
-11,Bern,Fidel-Castor,2013-08-02,['Fidel Castor '],
-12,Piazza,Cevio,2013-08-02,['Status Quo '],
-13,null,Mahler-Orchester-Lieder,2013-08-02,"['Michaela Maria Mayer ', ' Maria Riccarda Wesseling ', ' Roman Trekel ']",Classic
-14,St.-Moritz,Festival-da-Jazz,2013-08-02,"[' Franco Ambrosetti ', ' Luciano Biondini ', ' Tobias Preisig ', ' Herbie Kopf ', ' Pius Baschnagel ']",
-15,Winterthur,Weber-&-Wohler,2013-08-02,"[' Thomas Weber ', ' Guido Wohler ', ' Jan Abegg ', ' Hansheiri Haas ', ' Jan Moser ']",Pop
-16,St.-Moritz,Festival-da-Jazz,2013-08-02,"[' Michael Bucher ', ' Thomas Bauser ', ' Pius Baschnagel ']",
+location,event,date,artists,genre
+Bern,Orgelpunkt-zum-Wochenschluss,2013-08-02,['Thomas Leutenegger '],Classic
+Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-08-02,['Christian Mettler '],Pop
+Basel,Orgelspiel-zum-Feierabend,2013-08-02,['Louis van Niekerk '],Classic
+Verbier,Verbier-Festival,2013-08-02,"['Monty Alexander ', ' Hassan JJ Wiggins Shakur ', ' Obed Calvaire ', ' Leon Duncan ', ' Karl Wright ', ' Earl Appleton ', ' Courtney Panton ']",
+Gränichen,Openair-Gränichen,2013-08-02,"['The Answer ', ' Henrik Freischalder Band ']",
+Pontresina,Konzert,2013-08-02,[' Khatia Buniatishvili '],Classic
+null,Inntaler-Alpengaudi,2013-08-02,['Inntaler Alpengaudi '],traditional
+Place-Nova-Friburgo,Estavayer-le-Lac,2013-08-02,"['Eiffel ', ' Garou ', ' Saule ']",Garou
+Komplex-457,Zürich,2013-08-02,['Danzig '],Danzig
+Frauenfeld,Sommerloch,2013-08-02,['Beth Wimmer '],
+Verbier,Verbier-Festival,2013-08-02,"['Maxim Vengerov ', ' Menahem Pressler ']",Classic
+Bern,Fidel-Castor,2013-08-02,['Fidel Castor '],
+Piazza,Cevio,2013-08-02,['Status Quo '],
+null,Mahler-Orchester-Lieder,2013-08-02,"['Michaela Maria Mayer ', ' Maria Riccarda Wesseling ', ' Roman Trekel ']",Classic
+St.-Moritz,Festival-da-Jazz,2013-08-02,"[' Franco Ambrosetti ', ' Luciano Biondini ', ' Tobias Preisig ', ' Herbie Kopf ', ' Pius Baschnagel ']",
+Winterthur,Weber-&-Wohler,2013-08-02,"[' Thomas Weber ', ' Guido Wohler ', ' Jan Abegg ', ' Hansheiri Haas ', ' Jan Moser ']",Pop
+St.-Moritz,Festival-da-Jazz,2013-08-02,"[' Michael Bucher ', ' Thomas Bauser ', ' Pius Baschnagel ']",

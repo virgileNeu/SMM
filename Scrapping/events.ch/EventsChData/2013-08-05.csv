@@ -1,4 +1,4 @@
-,location,event,date,artists,genre
-0,Rougemont,Early-Fusion-III-Les-saisons-amusantes,2013-08-05,"[' François Lazarevitch ', ' Vittorio Ghielmi ', ' conductor: Dorothee Oberlinger ']",Classic
-1,Musikzentrum-Sedel,Luzern,2013-08-05,"['Biohazard ', ' The Set Up ']",Biohazard
-2,Zürich,Bad-Religion,2013-08-05,['Bad Religion '],
+location,event,date,artists,genre
+Rougemont,Early-Fusion-III-Les-saisons-amusantes,2013-08-05,"[' François Lazarevitch ', ' Vittorio Ghielmi ', ' conductor: Dorothee Oberlinger ']",Classic
+Musikzentrum-Sedel,Luzern,2013-08-05,"['Biohazard ', ' The Set Up ']",Biohazard
+Zürich,Bad-Religion,2013-08-05,['Bad Religion '],

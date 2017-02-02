@@ -1,16 +1,16 @@
-,location,event,date,artists,genre
-0,Basel,Mimiko-Ihr-feurigen-Zungen,2016-06-29,"['Stefan Kahle ', ' ', ' Rachel Heymans ', ' Shio Ohshita ', ' Marianne Diessner ', ' Daniel Pochwaa ']",Classic
-1,Basel,Yatatchi,2016-06-29,"[' Yatatchi ', ' Peter Gysin ', ' Willy Surbeck ', ' Louie Maiello ']",
-2,Basel,Altstadt-Serenaden-2016,2016-06-29,"[' Lisa Rieder ', ' Lionel Andrey ', ' Gérard Wyss ']",Classic
-3,Luzern,Master-Abschlusskonzerte,2016-06-29,['Stephanie Karen Hoffman '],Classic
-4,Zürich,Jazz-Arcades,2016-06-29,"['Thomas Degen ', ' Claude Diallo ', ' Marc Jenny ']",
-5,Aarau,Metalmayhem,2016-06-29,"['Fallujah ', ' Fit for an Autopsy ']",
-6,Zürich,Die-Jahreszeiten,2016-06-29,"[' Marlis Petersen ', ' Werner Güra ', ' Johannes Weisser ']",Classic
-7,Zürich,Unknown-Mortal-Orchestra,2016-06-29,['Unknown Mortal Orchestra '],
-8,Basel,5.-Schlusskonzert,2016-06-29,"[' Sebastian Braun ', ' Flurina Stucki ', ' Edouard Mätzener ', ' Assel Abilseitova ']",Classic
-9,Zürich,Open-Jam-Session,2016-06-29,['Hosted by Casa Verde Colectivo '],
-10,Zürich,Songcircle,2016-06-29,[' David Gaffney '],Pop
-11,Luzern,Master-Abschlusskonzerte,2016-06-29,['Alexandre Beuchat '],Classic
-12,Basel,World-of-Strings,2016-06-29,"[' Adam Taubitz ', ' Daniel Pezzotti ', ' Michael Bucher ', ' Rätus Flisch ', ' Claudio Spieler ']",
-13,Zürich,Alibi-Süd,2016-06-29,"[' David ', ' Döme ']",Pop
-14,Feuerthalen,Carl-Blank-&-Claas-P.-Jambor,2016-06-29,['Carl Blank & Claas P. Jambor '],Pop
+location,event,date,artists,genre
+Basel,Mimiko-Ihr-feurigen-Zungen,2016-06-29,"['Stefan Kahle ', ' ', ' Rachel Heymans ', ' Shio Ohshita ', ' Marianne Diessner ', ' Daniel Pochwaa ']",Classic
+Basel,Yatatchi,2016-06-29,"[' Yatatchi ', ' Peter Gysin ', ' Willy Surbeck ', ' Louie Maiello ']",
+Basel,Altstadt-Serenaden-2016,2016-06-29,"[' Lisa Rieder ', ' Lionel Andrey ', ' Gérard Wyss ']",Classic
+Luzern,Master-Abschlusskonzerte,2016-06-29,['Stephanie Karen Hoffman '],Classic
+Zürich,Jazz-Arcades,2016-06-29,"['Thomas Degen ', ' Claude Diallo ', ' Marc Jenny ']",
+Aarau,Metalmayhem,2016-06-29,"['Fallujah ', ' Fit for an Autopsy ']",
+Zürich,Die-Jahreszeiten,2016-06-29,"[' Marlis Petersen ', ' Werner Güra ', ' Johannes Weisser ']",Classic
+Zürich,Unknown-Mortal-Orchestra,2016-06-29,['Unknown Mortal Orchestra '],
+Basel,5.-Schlusskonzert,2016-06-29,"[' Sebastian Braun ', ' Flurina Stucki ', ' Edouard Mätzener ', ' Assel Abilseitova ']",Classic
+Zürich,Open-Jam-Session,2016-06-29,['Hosted by Casa Verde Colectivo '],
+Zürich,Songcircle,2016-06-29,[' David Gaffney '],Pop
+Luzern,Master-Abschlusskonzerte,2016-06-29,['Alexandre Beuchat '],Classic
+Basel,World-of-Strings,2016-06-29,"[' Adam Taubitz ', ' Daniel Pezzotti ', ' Michael Bucher ', ' Rätus Flisch ', ' Claudio Spieler ']",
+Zürich,Alibi-Süd,2016-06-29,"[' David ', ' Döme ']",Pop
+Feuerthalen,Carl-Blank-&-Claas-P.-Jambor,2016-06-29,['Carl Blank & Claas P. Jambor '],Pop

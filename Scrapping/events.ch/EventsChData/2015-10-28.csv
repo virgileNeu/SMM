@@ -1,37 +1,37 @@
-,location,event,date,artists,genre
-0,Winterthur,Chumachenco-Öffentliche-Generalprobe,2015-10-28,"[' Ana Chumachenco ', ' conductor: Roberto González Monjas ']",Classic
-1,Basel,Mimiko-Ma-appassionato,2015-10-28,['Gunta Abele '],Classic
-2,Zürich,Helden-des-Slapstick-Films,2015-10-28,['Tobias Willi '],Classic
-3,Zürich,Andy-Gruber-Band,2015-10-28,['Andy Gruber Band '],traditional
-4,Zürich,Happy-Hour-Jazz,2015-10-28,"['Simon Wyrsch ', ' Dario Bianchin ', ' Uli Heinzler ', ' Robert Mark ']",
-5,Zürich,Orgelspiele-Herbstzyklus,2015-10-28,['Andreas Jost '],Classic
-6,Zürich,Jazznojazz,2015-10-28,"[' Hiromi ', ' Anthony Jackson ', ' Simon Phillips ']",
-7,Riehen,Klavier-Rezital,2015-10-28,['Aleksandr Shaikin '],Classic
-8,Zürich,Mumiy-Troll,2015-10-28,"['Mumiy Troll ', ' support: Sylvester Larsen ']",Pop
-9,Bern,Tournee-I,2015-10-28,[' Arabella Steinbacher '],Classic
-10,Zürich,Jazz-im-Seefeld,2015-10-28,"[' Donat Fisch ', ' Matthias Spillmann ', ' Bokani Dyer ', ' Stephan Kurmann ', ' Norbert Pfammatter ']",
-11,Winterthur,Chumachenco,2015-10-28,"[' Alexandra Conunova ', ' conductor: Roberto González Monjas ']",Classic
-12,Zürich,Sankt-Petersburg-,2015-10-28,"['Emanuel Brun ', ' Alexander Denisov ', ' Anna Valeeva ', ' Anna Galitskaya ', ' Alexandra Karzova ']",Classic
-13,Basel,Chantefleurs,2015-10-28,[' Olga Pasichnyk '],Classic
-14,Zürich,Denn-wie-Mann-sich-bettet-Ein-kurtweilliger-Liederabend,2015-10-28,"['Christian Jott Jenny ', ' Edward Rushton ']",Pop
-15,Zürich,The-Picturebooks,2015-10-28,['The Picturebooks '],
-16,Zürich,Lunea,2015-10-28,"[' Robert Koller ', ' Mike Svoboda ']",Classic
-17,Zürich,Apocalyptica,2015-10-28,['Apocalyptica '],
-18,Winterthur,C.-Gibbs,2015-10-28,['C. Gibbs '],
-19,Zürich,Deine-Lakaien,2015-10-28,"['Deine Lakaien ', "" God's Bow ""]",
-20,null,Mein-Beethoven,2015-10-28,"['Dieter Ilg ', ' Rainer Böhm ', ' Patrice Héral ']",Classic
-21,Bern,Barcelona-Gipsy-Klezmer-Orchestra,2015-10-28,['Barcelona Gipsy Klezmer Orchestra '],
-22,Wädenswil,Pedra-Preta,2015-10-28,"[' Munir Hossn ', ' Toni Schiavano ', ' Flo Reichle ']",
-23,Luzern,Christof-Mahnig-&-DieAbmahnung,2015-10-28,"[' Christof Mahnig ', ' Laurent Méteau ', ' Rafael Jerjen ', ' Martin Perret ']",
-24,Baden,The-Prima-Gypsy-Swing-Project,2015-10-28,"[' Urs Wäckerli ', ' Thomas Hirt ', ' Moreno Donadio ', ' Toni Donadio ']",
-25,Zürich,Vaudou-Game,2015-10-28,"[' Peter Solo ', ' Vicente Fritis ', ' Gérôme Bartolome ', ' Guilhem Parguel ']",
-26,Basel,Last-Minute-Date,2015-10-28,"[' Jerome Sabbagh ', ' Ben Monder ', ' Joe Martin ', ' Mark Ferber ']",
-27,Basel,Bischofberger-Mezgolits-Feigenwinter,2015-10-28,"[' Maximilian Bischofberger ', ' Marc Mezgolits ', ' Hans Feigenwinter ']",
-28,Zürich,Songcircle,2015-10-28,"['Meng Tian ', ' Ryan Tennis ']",Pop
-29,Lausanne,Messer-Chups,2015-10-28,['Messer Chups '],
-30,Zürich,Jazzbaragge-Wednesday-Jam,2015-10-28,"['Philip Eden ', ' Vincent Ruiz ', ' Dominik Burkhalter ']",
-31,Zürich,Russell-Joslin,2015-10-28,['Russell Joslin '],
-32,Luzern,Old-Man-Lizard,2015-10-28,['Old Man Lizard '],
-33,Zürich,Jazznojazz,2015-10-28,"[' Nils Fischer ', ' David Koch ', ' Samuel Huwyler ', ' Dominik Mahnig ']",
-34,Bern,The-Wharves,2015-10-28,['The Wharves '],
-35,Zürich,Jazznojazz,2015-10-28,"[' Chick Corea ', ' Tim Garland ', ' Charles Altura ', ' Carlitos Del Puerto ', ' Marcus Gilmore ']",
+location,event,date,artists,genre
+Winterthur,Chumachenco-Öffentliche-Generalprobe,2015-10-28,"[' Ana Chumachenco ', ' conductor: Roberto González Monjas ']",Classic
+Basel,Mimiko-Ma-appassionato,2015-10-28,['Gunta Abele '],Classic
+Zürich,Helden-des-Slapstick-Films,2015-10-28,['Tobias Willi '],Classic
+Zürich,Andy-Gruber-Band,2015-10-28,['Andy Gruber Band '],traditional
+Zürich,Happy-Hour-Jazz,2015-10-28,"['Simon Wyrsch ', ' Dario Bianchin ', ' Uli Heinzler ', ' Robert Mark ']",
+Zürich,Orgelspiele-Herbstzyklus,2015-10-28,['Andreas Jost '],Classic
+Zürich,Jazznojazz,2015-10-28,"[' Hiromi ', ' Anthony Jackson ', ' Simon Phillips ']",
+Riehen,Klavier-Rezital,2015-10-28,['Aleksandr Shaikin '],Classic
+Zürich,Mumiy-Troll,2015-10-28,"['Mumiy Troll ', ' support: Sylvester Larsen ']",Pop
+Bern,Tournee-I,2015-10-28,[' Arabella Steinbacher '],Classic
+Zürich,Jazz-im-Seefeld,2015-10-28,"[' Donat Fisch ', ' Matthias Spillmann ', ' Bokani Dyer ', ' Stephan Kurmann ', ' Norbert Pfammatter ']",
+Winterthur,Chumachenco,2015-10-28,"[' Alexandra Conunova ', ' conductor: Roberto González Monjas ']",Classic
+Zürich,Sankt-Petersburg-,2015-10-28,"['Emanuel Brun ', ' Alexander Denisov ', ' Anna Valeeva ', ' Anna Galitskaya ', ' Alexandra Karzova ']",Classic
+Basel,Chantefleurs,2015-10-28,[' Olga Pasichnyk '],Classic
+Zürich,Denn-wie-Mann-sich-bettet-Ein-kurtweilliger-Liederabend,2015-10-28,"['Christian Jott Jenny ', ' Edward Rushton ']",Pop
+Zürich,The-Picturebooks,2015-10-28,['The Picturebooks '],
+Zürich,Lunea,2015-10-28,"[' Robert Koller ', ' Mike Svoboda ']",Classic
+Zürich,Apocalyptica,2015-10-28,['Apocalyptica '],
+Winterthur,C.-Gibbs,2015-10-28,['C. Gibbs '],
+Zürich,Deine-Lakaien,2015-10-28,"['Deine Lakaien ', "" God's Bow ""]",
+null,Mein-Beethoven,2015-10-28,"['Dieter Ilg ', ' Rainer Böhm ', ' Patrice Héral ']",Classic
+Bern,Barcelona-Gipsy-Klezmer-Orchestra,2015-10-28,['Barcelona Gipsy Klezmer Orchestra '],
+Wädenswil,Pedra-Preta,2015-10-28,"[' Munir Hossn ', ' Toni Schiavano ', ' Flo Reichle ']",
+Luzern,Christof-Mahnig-&-DieAbmahnung,2015-10-28,"[' Christof Mahnig ', ' Laurent Méteau ', ' Rafael Jerjen ', ' Martin Perret ']",
+Baden,The-Prima-Gypsy-Swing-Project,2015-10-28,"[' Urs Wäckerli ', ' Thomas Hirt ', ' Moreno Donadio ', ' Toni Donadio ']",
+Zürich,Vaudou-Game,2015-10-28,"[' Peter Solo ', ' Vicente Fritis ', ' Gérôme Bartolome ', ' Guilhem Parguel ']",
+Basel,Last-Minute-Date,2015-10-28,"[' Jerome Sabbagh ', ' Ben Monder ', ' Joe Martin ', ' Mark Ferber ']",
+Basel,Bischofberger-Mezgolits-Feigenwinter,2015-10-28,"[' Maximilian Bischofberger ', ' Marc Mezgolits ', ' Hans Feigenwinter ']",
+Zürich,Songcircle,2015-10-28,"['Meng Tian ', ' Ryan Tennis ']",Pop
+Lausanne,Messer-Chups,2015-10-28,['Messer Chups '],
+Zürich,Jazzbaragge-Wednesday-Jam,2015-10-28,"['Philip Eden ', ' Vincent Ruiz ', ' Dominik Burkhalter ']",
+Zürich,Russell-Joslin,2015-10-28,['Russell Joslin '],
+Luzern,Old-Man-Lizard,2015-10-28,['Old Man Lizard '],
+Zürich,Jazznojazz,2015-10-28,"[' Nils Fischer ', ' David Koch ', ' Samuel Huwyler ', ' Dominik Mahnig ']",
+Bern,The-Wharves,2015-10-28,['The Wharves '],
+Zürich,Jazznojazz,2015-10-28,"[' Chick Corea ', ' Tim Garland ', ' Charles Altura ', ' Carlitos Del Puerto ', ' Marcus Gilmore ']",

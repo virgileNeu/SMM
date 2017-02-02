@@ -1,36 +1,36 @@
-,location,event,date,artists,genre
-0,Winterthur,Midi-musical,2016-12-16,"['Dimitri Vecchi ', ' Palma Martello ']",Classic
-1,Zürich,Werner-und-Company,2016-12-16,['Werner und Company '],Pop
-2,Zürich,Prélude-Gesprächskonzert,2016-12-16,"['Barnabas Völgyesi ', ' Mihai Cocea ', ' Johannes Herrmann ', ' Heike Schäfer ']",Classic
-3,Basel,Orgelspiel-zum-Feierabend,2016-12-16,['Ekaterina Kofanova '],Classic
-4,Zürich,Franz-Hohler-Die-Nacht-des-Kometen,2016-12-16,"['Franz Hohler ', ' André Briel ']",Classic
-5,Dietikon,Feierabendmusik-in-der-Kirche,2016-12-16,['Bernhard Hörler '],
-6,Zürich,Frauenarzt,2016-12-16,['Frauenarzt '],
-7,Wetzikon,Schreckliche-Lieder,2016-12-16,"[' Alex Brunner ', ' Heinz Brunner ', '  Käthi Meister ', ' Dani Weber ']",Pop
-8,null,Collegium-Musicum-Basel-Der-Vulkan,2016-12-16,[' Giuliano Carmignola '],Classic
-9,null,Weihnachtskonzert-Ode-an-die-Freude,2016-12-16,"[' Evelina Dobraeva ', ' Theresa Holzhauser ', ' Timothy Richards ', ' Levente Páll ']",Classic
-10,Bern,5.-Symphoniekonzert-Grand-Piano,2016-12-16,[' Makoto Ozone '],Classic
-11,null,Keen'V,2016-12-16,"[""Keen'V ""]",
-12,Zürich,Orchestermagie,2016-12-16,[' Steven Isserlis '],Classic
-13,Solothurn,J.B.O.,2016-12-16,['J.B.O. '],
-14,Dübendorf,Norbert-Schneider,2016-12-16,['Norbert Schneider '],Pop
-15,Solothurn,Dead-By-April,2016-12-16,['Dead By April '],
-16,Zürich,Weihnachtskonzert-des-Concentus-rivensis,2016-12-16,"[' Sarah Längle ', ' Karl Jerolitsch ', ' Samuel Zünd ']",Classic
-17,Zürich,Weihnachtskonzert-des-Concentus-rivensis,2016-12-16,"[' Sarah Längle ', ' Karl Jerolitsch ', ' Samuel Zünd ']",Classic
-18,Bern,Traktorkestar,2016-12-16,['Traktorkestar '],
-19,null,Bubaran,2016-12-16,"[' Andreas Tschopp ', ' Mats Spillmann ', ' Bernhard Bamert ', ' Ronny Graupe ', ' Lionel Friedli ']",
-20,Zürich,Werkstattkonzert,2016-12-16,"[' Josh Sinton ', ' Ilia Belorukov ', ' Miguel A. Garcia ']",
-21,Winterthur,Schneekoenig,2016-12-16,"['Schneekoenig ', ' Felix Straumann ', ' Kurt Söldi ', ' Jürg Schneebeli ', ' Peter Leuzinger ', ' Christoph Keller ']",
-22,Basel,Aliéksey-Vianna-Trio-convida-Bodo-Maier,2016-12-16,"[' Bodo Maier ', ' Aliéksey Vianna ', ' Stephan Kurmann ', ' Mauro Martins ']",
-23,Winterthur,Inhumate,2016-12-16,['Inhumate '],
-24,Liebefeld,Raphael-Walsers-Gangart,2016-12-16,"[' Tobias Meier ', ' Niculin Janett ', ' Marc Méan ', ' Raphael Walser ', ' Jonas Ruther ']",
-25,Zürich,Jaël,2016-12-16,"[' Jaël ', ' Cédric Monnier ', ' Domi Schreiber ', ' Maryam Hammad ', ' Aurèle Louis ']",Pop
-26,Horw,Heidi-Happy,2016-12-16,"[' Heidi Happy ', ' Ephrem Lüchinger ']",Pop
-27,Aarau,Talib-Kweli,2016-12-16,['Talib Kweli '],
-28,Luzern,Reggae-Link-Up,2016-12-16,['Randy Valentine '],
-29,Lausanne,La-grande-triple-alliance-international-de-l'est,2016-12-16,"['Delacave ', ' Venrte de Biche ', ' Zad Kokar ']",Electronic
-30,Luzern,Tau,2016-12-16,['Tau '],
-31,Zürich,Big-Zis-&-Tika,2016-12-16,['Big Zis & Tika '],
-32,Basel,Vizediktator,2016-12-16,['Vizediktator '],
-33,Sankt-Gallen,Cakes-de-Killa,2016-12-16,['Cakes de Killa '],
-34,Zug,Hip-Hop-Konzert,2016-12-16,"['Snowgoons ', ' Ill Bill ', ' Reef The Lost Cauze ']",
+location,event,date,artists,genre
+Winterthur,Midi-musical,2016-12-16,"['Dimitri Vecchi ', ' Palma Martello ']",Classic
+Zürich,Werner-und-Company,2016-12-16,['Werner und Company '],Pop
+Zürich,Prélude-Gesprächskonzert,2016-12-16,"['Barnabas Völgyesi ', ' Mihai Cocea ', ' Johannes Herrmann ', ' Heike Schäfer ']",Classic
+Basel,Orgelspiel-zum-Feierabend,2016-12-16,['Ekaterina Kofanova '],Classic
+Zürich,Franz-Hohler-Die-Nacht-des-Kometen,2016-12-16,"['Franz Hohler ', ' André Briel ']",Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2016-12-16,['Bernhard Hörler '],
+Zürich,Frauenarzt,2016-12-16,['Frauenarzt '],
+Wetzikon,Schreckliche-Lieder,2016-12-16,"[' Alex Brunner ', ' Heinz Brunner ', '  Käthi Meister ', ' Dani Weber ']",Pop
+null,Collegium-Musicum-Basel-Der-Vulkan,2016-12-16,[' Giuliano Carmignola '],Classic
+null,Weihnachtskonzert-Ode-an-die-Freude,2016-12-16,"[' Evelina Dobraeva ', ' Theresa Holzhauser ', ' Timothy Richards ', ' Levente Páll ']",Classic
+Bern,5.-Symphoniekonzert-Grand-Piano,2016-12-16,[' Makoto Ozone '],Classic
+null,Keen'V,2016-12-16,"[""Keen'V ""]",
+Zürich,Orchestermagie,2016-12-16,[' Steven Isserlis '],Classic
+Solothurn,J.B.O.,2016-12-16,['J.B.O. '],
+Dübendorf,Norbert-Schneider,2016-12-16,['Norbert Schneider '],Pop
+Solothurn,Dead-By-April,2016-12-16,['Dead By April '],
+Zürich,Weihnachtskonzert-des-Concentus-rivensis,2016-12-16,"[' Sarah Längle ', ' Karl Jerolitsch ', ' Samuel Zünd ']",Classic
+Zürich,Weihnachtskonzert-des-Concentus-rivensis,2016-12-16,"[' Sarah Längle ', ' Karl Jerolitsch ', ' Samuel Zünd ']",Classic
+Bern,Traktorkestar,2016-12-16,['Traktorkestar '],
+null,Bubaran,2016-12-16,"[' Andreas Tschopp ', ' Mats Spillmann ', ' Bernhard Bamert ', ' Ronny Graupe ', ' Lionel Friedli ']",
+Zürich,Werkstattkonzert,2016-12-16,"[' Josh Sinton ', ' Ilia Belorukov ', ' Miguel A. Garcia ']",
+Winterthur,Schneekoenig,2016-12-16,"['Schneekoenig ', ' Felix Straumann ', ' Kurt Söldi ', ' Jürg Schneebeli ', ' Peter Leuzinger ', ' Christoph Keller ']",
+Basel,Aliéksey-Vianna-Trio-convida-Bodo-Maier,2016-12-16,"[' Bodo Maier ', ' Aliéksey Vianna ', ' Stephan Kurmann ', ' Mauro Martins ']",
+Winterthur,Inhumate,2016-12-16,['Inhumate '],
+Liebefeld,Raphael-Walsers-Gangart,2016-12-16,"[' Tobias Meier ', ' Niculin Janett ', ' Marc Méan ', ' Raphael Walser ', ' Jonas Ruther ']",
+Zürich,Jaël,2016-12-16,"[' Jaël ', ' Cédric Monnier ', ' Domi Schreiber ', ' Maryam Hammad ', ' Aurèle Louis ']",Pop
+Horw,Heidi-Happy,2016-12-16,"[' Heidi Happy ', ' Ephrem Lüchinger ']",Pop
+Aarau,Talib-Kweli,2016-12-16,['Talib Kweli '],
+Luzern,Reggae-Link-Up,2016-12-16,['Randy Valentine '],
+Lausanne,La-grande-triple-alliance-international-de-l'est,2016-12-16,"['Delacave ', ' Venrte de Biche ', ' Zad Kokar ']",Electronic
+Luzern,Tau,2016-12-16,['Tau '],
+Zürich,Big-Zis-&-Tika,2016-12-16,['Big Zis & Tika '],
+Basel,Vizediktator,2016-12-16,['Vizediktator '],
+Sankt-Gallen,Cakes-de-Killa,2016-12-16,['Cakes de Killa '],
+Zug,Hip-Hop-Konzert,2016-12-16,"['Snowgoons ', ' Ill Bill ', ' Reef The Lost Cauze ']",

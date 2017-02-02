@@ -1,38 +1,38 @@
-,location,event,date,artists,genre
-0,Basel,Mittagskonzert,2014-01-30,"['Anna Willerding ', ' Amir Tiroshi ', ' Christian Hanschke ', ' Péter Jánosházi ', ' Manuel Dahme ']",Classic
-1,Basel,Slut-abgesagt,2014-01-30,"['Slut ', ' support: And the Golden Choir ']",
-2,Zürich,Thursday-Night-Jazz,2014-01-30,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-3,Bern,Symphoniekonzert,2014-01-30,[' Lise de la Salle '],Classic
-4,Luzern,Kol-Nidrei,2014-01-30,[' Antonio Meneses '],Classic
-5,Zürich,Konzert,2014-01-30,[' Stephen Hough '],Classic
-6,Basel,Volkssinfoniekonzert,2014-01-30,[' Igor Kamenz '],Classic
-7,Luzern,Salonmusik,2014-01-30,"['Martin Schaefer ', ' Richard Decker ']",Classic
-8,null,Richard-Galliano,2014-01-30,['Richard Galliano '],
-9,Zürich,Doppelkonzert,2014-01-30,"['Thierry Lüthy ', ' Maja Nydegger ', ' Markus Ischer ']",
-10,Winterthur,Konzert,2014-01-30,"['Martin Bauder ', ' Benjamin Kellerhals ']",Classic
-11,Dübendorf,Gwennyn,2014-01-30,['Gwennyn '],
-12,Zürich,Harald-Haerter's-Cat-Scan-Sextet,2014-01-30,"[' Harald Haerter ', ' Gitta Kahle ', ' Roberto Domeniconi ', ' Francesco Diomaiuta ', ' Raphael Walser ', ' Paul Amereller ']",
-13,Zürich,Jahcoozi,2014-01-30,['Jahcoozi '],Pop
-14,Basel,Liederabend-mit-Uraufführungen,2014-01-30,"['Silke Gäng ', ' Marco Scilironi ']",Classic
-15,Basel,Rantala-Danielsson-Haffner,2014-01-30,"[' ', ' Iiro Rantala ', ' Lars Danielsson ', ' Wolfgang Haffner ']",
-16,Winterthur,Gisela-Horat-Trio,2014-01-30,"[' Gisela Horat ', ' Fridolin Blumer ', ' Jonas Brügger ']",
-17,Thun,The-Wake-Up,2014-01-30,['The Wake Up '],
-18,Lausanne,Kendra-Morris,2014-01-30,['Kendra Morris '],
-19,Mühlethurnen,Andy-Egert-Blues-Band-feat.-Dallas-Hodge,2014-01-30,['Andy Egert Blues Band feat. Dallas Hodge '],
-20,Zürich,15-Jahre-Kontrabassduo-Studer-Frey,2014-01-30,"['Jacques Demierre ', ' Peter K Frey ', ' Daniel Studer ']",
-21,Basel,Bänz-Oester-&-The-Rainmakers,2014-01-30,"[' Ganesh Geymeier ', ' Afrika Mkhize ', ' Bänz Oester ', ' Ayanda Sikade ']",
-22,Baden,Jazz-Rice-Performance,2014-01-30,"[' Christoph Baumann ', ' Hämi Hämmerli ', ' Vinz Glanzmann ']",
-23,Zürich,Ghost-Town-Trio,2014-01-30,"['Ghost Town Trio ', ' Urs Voegeli ', ' Claude Meier ', ' Lukas Mantel ']",
-24,Uster,Schaerer-Niggli-Duo,2014-01-30,"[' Andreas Schaerer ', ' Lucas Niggli ']",
-25,Bern,Stephy-&-Claude,2014-01-30,[' Stefanie Hauenstein '],
-26,null,The-Cambodian-Space-Project,2014-01-30,['The Cambodian Space Project '],
-27,-Happy-Inn-Lodge,Interlaken,2014-01-30,"[' Michael Wespi ', ' Luzian Graber ', ' Joel D. Allison ']",Pop
-28,Zürich,Weber-Cymerman-Loriot,2014-01-30,"[' Christian Weber ', ' Jeremiah Cymerman ', ' Frantz Loriot ']",
-29,Zürich,Trio-Heinz-Herbert,2014-01-30,"[' Dominic Landolt ', ' Ramon Landolt ', ' Marion Hänni ']",
-30,Wetzikon,Niels-van-der-Waerden,2014-01-30,['Niels van der Waerden '],Pop
-31,Zürich,Dorian-Wood,2014-01-30,['Dorian Wood '],Pop
-32,null,Merz-feat.-Sartorius-Drum-Ensemble,2014-01-30,"[' Merz ', ' Julian Sartorius ', ' Peter Conradin Zumthor ', ' Arno Troxler ', ' Lionel Friedli ']",
-33,Luzern,Jam-Session,2014-01-30,['Richard Decker '],
-34,Pontresina,Wild-Boogie-Kombo,2014-01-30,['Wild Boogie Kombo '],
-35,Zürich,Madeleine-Tasquin,2014-01-30,['Madeleine Tasquin '],
-36,Lausanne,Megan-Nicole,2014-01-30,['Megan Nicole '],Pop
+location,event,date,artists,genre
+Basel,Mittagskonzert,2014-01-30,"['Anna Willerding ', ' Amir Tiroshi ', ' Christian Hanschke ', ' Péter Jánosházi ', ' Manuel Dahme ']",Classic
+Basel,Slut-abgesagt,2014-01-30,"['Slut ', ' support: And the Golden Choir ']",
+Zürich,Thursday-Night-Jazz,2014-01-30,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Bern,Symphoniekonzert,2014-01-30,[' Lise de la Salle '],Classic
+Luzern,Kol-Nidrei,2014-01-30,[' Antonio Meneses '],Classic
+Zürich,Konzert,2014-01-30,[' Stephen Hough '],Classic
+Basel,Volkssinfoniekonzert,2014-01-30,[' Igor Kamenz '],Classic
+Luzern,Salonmusik,2014-01-30,"['Martin Schaefer ', ' Richard Decker ']",Classic
+null,Richard-Galliano,2014-01-30,['Richard Galliano '],
+Zürich,Doppelkonzert,2014-01-30,"['Thierry Lüthy ', ' Maja Nydegger ', ' Markus Ischer ']",
+Winterthur,Konzert,2014-01-30,"['Martin Bauder ', ' Benjamin Kellerhals ']",Classic
+Dübendorf,Gwennyn,2014-01-30,['Gwennyn '],
+Zürich,Harald-Haerter's-Cat-Scan-Sextet,2014-01-30,"[' Harald Haerter ', ' Gitta Kahle ', ' Roberto Domeniconi ', ' Francesco Diomaiuta ', ' Raphael Walser ', ' Paul Amereller ']",
+Zürich,Jahcoozi,2014-01-30,['Jahcoozi '],Pop
+Basel,Liederabend-mit-Uraufführungen,2014-01-30,"['Silke Gäng ', ' Marco Scilironi ']",Classic
+Basel,Rantala-Danielsson-Haffner,2014-01-30,"[' ', ' Iiro Rantala ', ' Lars Danielsson ', ' Wolfgang Haffner ']",
+Winterthur,Gisela-Horat-Trio,2014-01-30,"[' Gisela Horat ', ' Fridolin Blumer ', ' Jonas Brügger ']",
+Thun,The-Wake-Up,2014-01-30,['The Wake Up '],
+Lausanne,Kendra-Morris,2014-01-30,['Kendra Morris '],
+Mühlethurnen,Andy-Egert-Blues-Band-feat.-Dallas-Hodge,2014-01-30,['Andy Egert Blues Band feat. Dallas Hodge '],
+Zürich,15-Jahre-Kontrabassduo-Studer-Frey,2014-01-30,"['Jacques Demierre ', ' Peter K Frey ', ' Daniel Studer ']",
+Basel,Bänz-Oester-&-The-Rainmakers,2014-01-30,"[' Ganesh Geymeier ', ' Afrika Mkhize ', ' Bänz Oester ', ' Ayanda Sikade ']",
+Baden,Jazz-Rice-Performance,2014-01-30,"[' Christoph Baumann ', ' Hämi Hämmerli ', ' Vinz Glanzmann ']",
+Zürich,Ghost-Town-Trio,2014-01-30,"['Ghost Town Trio ', ' Urs Voegeli ', ' Claude Meier ', ' Lukas Mantel ']",
+Uster,Schaerer-Niggli-Duo,2014-01-30,"[' Andreas Schaerer ', ' Lucas Niggli ']",
+Bern,Stephy-&-Claude,2014-01-30,[' Stefanie Hauenstein '],
+null,The-Cambodian-Space-Project,2014-01-30,['The Cambodian Space Project '],
+-Happy-Inn-Lodge,Interlaken,2014-01-30,"[' Michael Wespi ', ' Luzian Graber ', ' Joel D. Allison ']",Pop
+Zürich,Weber-Cymerman-Loriot,2014-01-30,"[' Christian Weber ', ' Jeremiah Cymerman ', ' Frantz Loriot ']",
+Zürich,Trio-Heinz-Herbert,2014-01-30,"[' Dominic Landolt ', ' Ramon Landolt ', ' Marion Hänni ']",
+Wetzikon,Niels-van-der-Waerden,2014-01-30,['Niels van der Waerden '],Pop
+Zürich,Dorian-Wood,2014-01-30,['Dorian Wood '],Pop
+null,Merz-feat.-Sartorius-Drum-Ensemble,2014-01-30,"[' Merz ', ' Julian Sartorius ', ' Peter Conradin Zumthor ', ' Arno Troxler ', ' Lionel Friedli ']",
+Luzern,Jam-Session,2014-01-30,['Richard Decker '],
+Pontresina,Wild-Boogie-Kombo,2014-01-30,['Wild Boogie Kombo '],
+Zürich,Madeleine-Tasquin,2014-01-30,['Madeleine Tasquin '],
+Lausanne,Megan-Nicole,2014-01-30,['Megan Nicole '],Pop

@@ -1,16 +1,16 @@
-,location,event,date,artists,genre
-0,Baden,Afterwork-Live-Musik-Desirée-DellAmore,2016-12-22,"[""Désirée Dell'Amore "", ' Daniel Küffer ', ' Andi Pupato ']",Pop
-1,Zürich,Sadistic-Intent,2016-12-22,"['Sadistic Intent ', ' Dehuman ']",
-2,Luzern,Obrasso-Concerts-Christmas-in-Lucerne,2016-12-22,"[' Anica Defuns ', ' Carina Walter ']",Classic
-3,Solothurn,Noël-symphonique,2016-12-22,[' Iddo Bar-Shai '],Classic
-4,null,Volkssinfoniekonzert,2016-12-22,[' Sergej Krylov '],Classic
-5,Zürich,Thursday-Night-Jazz,2016-12-22,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-6,Zürich,Weihnachtskonzert,2016-12-22,"[' Rachel Frenkel ', ' Jorge de León ']",Classic
-7,Pratteln,Molly-Hatchet,2016-12-22,['Molly Hatchet '],
-8,Zürich,What-Can-I-Give,2016-12-22,"[' Christina Jaccard ', ' Dave Ruosch ', ' Steve Grant ', ' Céline-Giulia Voser ', ' Deborah Morat ', ' Janos Heidekker ']",
-9,null,Peace-for-the-World,2016-12-22,['The Gospel People '],
-10,Frauenfeld,The-Sad-Pumpkins-Sad-Christmas,2016-12-22,"[' Niculin Janett ', ' Noam Szyfer ', ' Lukas Traxel ', ' Maxime Paratte ']",
-11,Zürich,Swmrs,2016-12-22,['Swmrs '],
-12,Zürich,Where's-Africa,2016-12-22,"[' Omri Ziegele ', ' Yves Theiler ', ' Dario Sisera ']",
-13,Zürich,Where's-Africa,2016-12-22,"[' ', ' Yves Theiler ', ' Dario Sisera ']",
-14,Zürich,Groove-Night,2016-12-22,"[' Reto Anneler ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas Lüthi ', ' Nils Fischer ', ' Adrian Weber ']",
+location,event,date,artists,genre
+Baden,Afterwork-Live-Musik-Desirée-DellAmore,2016-12-22,"[""Désirée Dell'Amore "", ' Daniel Küffer ', ' Andi Pupato ']",Pop
+Zürich,Sadistic-Intent,2016-12-22,"['Sadistic Intent ', ' Dehuman ']",
+Luzern,Obrasso-Concerts-Christmas-in-Lucerne,2016-12-22,"[' Anica Defuns ', ' Carina Walter ']",Classic
+Solothurn,Noël-symphonique,2016-12-22,[' Iddo Bar-Shai '],Classic
+null,Volkssinfoniekonzert,2016-12-22,[' Sergej Krylov '],Classic
+Zürich,Thursday-Night-Jazz,2016-12-22,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Zürich,Weihnachtskonzert,2016-12-22,"[' Rachel Frenkel ', ' Jorge de León ']",Classic
+Pratteln,Molly-Hatchet,2016-12-22,['Molly Hatchet '],
+Zürich,What-Can-I-Give,2016-12-22,"[' Christina Jaccard ', ' Dave Ruosch ', ' Steve Grant ', ' Céline-Giulia Voser ', ' Deborah Morat ', ' Janos Heidekker ']",
+null,Peace-for-the-World,2016-12-22,['The Gospel People '],
+Frauenfeld,The-Sad-Pumpkins-Sad-Christmas,2016-12-22,"[' Niculin Janett ', ' Noam Szyfer ', ' Lukas Traxel ', ' Maxime Paratte ']",
+Zürich,Swmrs,2016-12-22,['Swmrs '],
+Zürich,Where's-Africa,2016-12-22,"[' Omri Ziegele ', ' Yves Theiler ', ' Dario Sisera ']",
+Zürich,Where's-Africa,2016-12-22,"[' ', ' Yves Theiler ', ' Dario Sisera ']",
+Zürich,Groove-Night,2016-12-22,"[' Reto Anneler ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas Lüthi ', ' Nils Fischer ', ' Adrian Weber ']",

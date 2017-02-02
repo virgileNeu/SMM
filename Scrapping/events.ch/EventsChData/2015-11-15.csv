@@ -1,37 +1,37 @@
-,location,event,date,artists,genre
-0,Zürich,Gletscher-Fezzer,2015-11-15,['Gletscher Fezzer '],traditional
-1,Basel,Jubiläumskonzert,2015-11-15,['Igor Kombaratov '],Classic
-2,Uster,Saitensprünge-Matinée,2015-11-15,"['Barbara Zollinger-Widmer ', ' Benjamin Scheck ']",Classic
-3,Zürich,Black-Roots-Klarinettenquartett,2015-11-15,"[' Annemarie Stoessel ', ' Simone Welti ', ' Michael Fehlmann ', ' Roland Käppeli ']",Classic
-4,Dornach,Schola-Cantorum-Reykjavik,2015-11-15,"['Schola Cantorum Reykjavik ', ' conductor: Hordur Askelsson ']",Classic
-5,Basel,Die-Schlagernacht-des-Jahres,2015-11-15,"['Howard Carpendale ', ' Hansi Hinterseer ', ' Semino Rossi ', ' Jürgen Drews ', ' Voxxclub ', ' Die Paldauer ', ' Fantasy ', ' Wolkenfrei ']",traditional
-6,Basel,Rebox-3-Werke-für-Polychord-und-präpariertes-Klavier,2015-11-15,"[' Abril Padilla ', ' Charlotte Torres ', ' Thilo Hirsch ', ' works by Abril Padilla ', ' Charlotte Torres ']",Classic
-7,Zürich,Konzert-für-Orgel-und-Harfe,2015-11-15,"['Robert Schmid ', ' Julia Wacker ']",Classic
-8,Zürich,Laudes-Organi-Requiem,2015-11-15,"[' Christina Daletska ', ' Marc-Olivier Oetterli ', ' Barbara Meldau ']",Classic
-9,null,Flöte-und-Harfe-im-Konzert,2015-11-15,"[' Julie Stewart-Lafin ', ' Caroline Grandhomme ']",Classic
-10,Zug,Roberto-Bossard-Trio-&-Menno-Daams,2015-11-15,"[' Menno Daams ', ' Roberto Bossard ', ' Raffaele Bossard ', ' Elmar Frey ']",
-11,Uster,Klavierrezital-zum-100.-Todesjahr-von-Alexander-Skrjabin,2015-11-15,['Suguru Ito '],Classic
-12,Thalwil,Kammerorchester-Thalwil,2015-11-15,['Hannes Bärtschi '],Classic
-13,Bülach,Violin-Rezital,2015-11-15,"['Bettina Boller ', ' Walter Prossnitz ']",Classic
-14,Zürich,Konzert-am-Sonntag,2015-11-15,"['Orchesterverein Oerlikon ', ' Giuliano Sommerhalder ', ' Simone Sommerhalder ']",Classic
-15,Basel,Jubiläumskonzert,2015-11-15,['Igor Kombaratov '],Classic
-16,Basel,Das-KOBC-mit-einer-Gitarre-auf-dem-Weg-nach-Argentinien,2015-11-15,[' Fabian Cardozo '],Classic
-17,Zürich,Werkstattkonzert-Chiavi-Guitars,2015-11-15,['Admir Doçi '],Classic
-18,Zürich,Childhood,2015-11-15,"['Simona Ryser ', ' Anna Trauffer ', ' Philipp Schaufelberger ', ' Edward Rushton ']",Classic
-19,null,Konzert,2015-11-15,"['Gilles Vonsattel ', ' Raphaël Merlin ']",Classic
-20,Basel,Chor-und-Orgelkonzert,2015-11-15,[' Björn Steinar Solbergsson '],Classic
-21,Zürich,Folk-Songs,2015-11-15,"['Hitomi Kutsuzawa ', ' Mariam Renno ']",Classic
-22,Basel,Oriental-&-Flamenco-Gypsy-Festival,2015-11-15,"[' Sajeda Obied ', ' Rosetta Lopardo ', ' Sotelo & Campanile ']",
-23,Zürich,Jurij-Shatunov-abgesagt,2015-11-15,['Jurij Shatunov '],Pop
-24,Winterthur,The-Stranglers,2015-11-15,['The Stranglers '],
-25,Zürich,Lower-Dens,2015-11-15,['Lower Dens '],Pop
-26,Zürich,70-Jahre-Borodin-Quartett-Jubiläimskonzert,2015-11-15,"['Ruben Aharonian ', ' Sergei Lomovsky ', ' Igor Naidin ', ' Vladimir Balshin ']",Classic
-27,Pratteln,In-Flames,2015-11-15,['In Flames '],
-28,Zürich,Catfish-&-The-Bottlemen,2015-11-15,['Catfish & The Bottlemen '],
-29,Solothurn,Bars-and-Melody,2015-11-15,['Bars and Melody '],
-30,Lausanne,José-González,2015-11-15,['José González '],
-31,Solothurn,Betontod,2015-11-15,['Betontod '],
-32,Winterthur,Musica-aperta-Piano-Summit,2015-11-15,"['Satoko Inoue ', ' Werner Bärtschi ', ' Moritz Ernst ', ' works by Pierre-André Bovey ']",Classic
-33,Winterthur,Walt's-Blues-Box-feat.-Sam-Burckhardt,2015-11-15,"[' Walter Baumgartner ', ' Elias Bernet ', ' Joel Allison ', ' Bernhard Egger ', ' Sam Burckhardt ']",
-34,Bern,Dans-les-Arbres,2015-11-15,['Dans les Arbres '],
-35,Lausanne,Songhoy-Blues,2015-11-15,['Songhoy Blues '],
+location,event,date,artists,genre
+Zürich,Gletscher-Fezzer,2015-11-15,['Gletscher Fezzer '],traditional
+Basel,Jubiläumskonzert,2015-11-15,['Igor Kombaratov '],Classic
+Uster,Saitensprünge-Matinée,2015-11-15,"['Barbara Zollinger-Widmer ', ' Benjamin Scheck ']",Classic
+Zürich,Black-Roots-Klarinettenquartett,2015-11-15,"[' Annemarie Stoessel ', ' Simone Welti ', ' Michael Fehlmann ', ' Roland Käppeli ']",Classic
+Dornach,Schola-Cantorum-Reykjavik,2015-11-15,"['Schola Cantorum Reykjavik ', ' conductor: Hordur Askelsson ']",Classic
+Basel,Die-Schlagernacht-des-Jahres,2015-11-15,"['Howard Carpendale ', ' Hansi Hinterseer ', ' Semino Rossi ', ' Jürgen Drews ', ' Voxxclub ', ' Die Paldauer ', ' Fantasy ', ' Wolkenfrei ']",traditional
+Basel,Rebox-3-Werke-für-Polychord-und-präpariertes-Klavier,2015-11-15,"[' Abril Padilla ', ' Charlotte Torres ', ' Thilo Hirsch ', ' works by Abril Padilla ', ' Charlotte Torres ']",Classic
+Zürich,Konzert-für-Orgel-und-Harfe,2015-11-15,"['Robert Schmid ', ' Julia Wacker ']",Classic
+Zürich,Laudes-Organi-Requiem,2015-11-15,"[' Christina Daletska ', ' Marc-Olivier Oetterli ', ' Barbara Meldau ']",Classic
+null,Flöte-und-Harfe-im-Konzert,2015-11-15,"[' Julie Stewart-Lafin ', ' Caroline Grandhomme ']",Classic
+Zug,Roberto-Bossard-Trio-&-Menno-Daams,2015-11-15,"[' Menno Daams ', ' Roberto Bossard ', ' Raffaele Bossard ', ' Elmar Frey ']",
+Uster,Klavierrezital-zum-100.-Todesjahr-von-Alexander-Skrjabin,2015-11-15,['Suguru Ito '],Classic
+Thalwil,Kammerorchester-Thalwil,2015-11-15,['Hannes Bärtschi '],Classic
+Bülach,Violin-Rezital,2015-11-15,"['Bettina Boller ', ' Walter Prossnitz ']",Classic
+Zürich,Konzert-am-Sonntag,2015-11-15,"['Orchesterverein Oerlikon ', ' Giuliano Sommerhalder ', ' Simone Sommerhalder ']",Classic
+Basel,Jubiläumskonzert,2015-11-15,['Igor Kombaratov '],Classic
+Basel,Das-KOBC-mit-einer-Gitarre-auf-dem-Weg-nach-Argentinien,2015-11-15,[' Fabian Cardozo '],Classic
+Zürich,Werkstattkonzert-Chiavi-Guitars,2015-11-15,['Admir Doçi '],Classic
+Zürich,Childhood,2015-11-15,"['Simona Ryser ', ' Anna Trauffer ', ' Philipp Schaufelberger ', ' Edward Rushton ']",Classic
+null,Konzert,2015-11-15,"['Gilles Vonsattel ', ' Raphaël Merlin ']",Classic
+Basel,Chor-und-Orgelkonzert,2015-11-15,[' Björn Steinar Solbergsson '],Classic
+Zürich,Folk-Songs,2015-11-15,"['Hitomi Kutsuzawa ', ' Mariam Renno ']",Classic
+Basel,Oriental-&-Flamenco-Gypsy-Festival,2015-11-15,"[' Sajeda Obied ', ' Rosetta Lopardo ', ' Sotelo & Campanile ']",
+Zürich,Jurij-Shatunov-abgesagt,2015-11-15,['Jurij Shatunov '],Pop
+Winterthur,The-Stranglers,2015-11-15,['The Stranglers '],
+Zürich,Lower-Dens,2015-11-15,['Lower Dens '],Pop
+Zürich,70-Jahre-Borodin-Quartett-Jubiläimskonzert,2015-11-15,"['Ruben Aharonian ', ' Sergei Lomovsky ', ' Igor Naidin ', ' Vladimir Balshin ']",Classic
+Pratteln,In-Flames,2015-11-15,['In Flames '],
+Zürich,Catfish-&-The-Bottlemen,2015-11-15,['Catfish & The Bottlemen '],
+Solothurn,Bars-and-Melody,2015-11-15,['Bars and Melody '],
+Lausanne,José-González,2015-11-15,['José González '],
+Solothurn,Betontod,2015-11-15,['Betontod '],
+Winterthur,Musica-aperta-Piano-Summit,2015-11-15,"['Satoko Inoue ', ' Werner Bärtschi ', ' Moritz Ernst ', ' works by Pierre-André Bovey ']",Classic
+Winterthur,Walt's-Blues-Box-feat.-Sam-Burckhardt,2015-11-15,"[' Walter Baumgartner ', ' Elias Bernet ', ' Joel Allison ', ' Bernhard Egger ', ' Sam Burckhardt ']",
+Bern,Dans-les-Arbres,2015-11-15,['Dans les Arbres '],
+Lausanne,Songhoy-Blues,2015-11-15,['Songhoy Blues '],

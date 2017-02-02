@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,Zürich,Tschechischer-Abend,2014-02-17,[' Nikolai Lugansky '],Classic
-1,Zürich,Spektrum-Petite-messe-solennelle,2014-02-17,"[' Anna Gschwend ', ' Sofia Pollak ', ' Sunnyboy Vincent Dladla ', ' Pierre Héritier ', ' Mathias Clausen ']",Classic
-2,Basel,AMG-Solistenabende,2014-02-17,"['Sergey Khachatryan ', ' Lusine Khachatryan ']",Classic
-3,Zürich,Breton,2014-02-17,"['Breton ', ' Did ']",
-4,Zürich,Old-School-Piano-Blues,2014-02-17,['Andy Boller '],
-5,Zürich,Anna-Calvi,2014-02-17,['Anna Calvi '],
-6,Solothurn,Blue-Monday,2014-02-17,['Rob Tognoni '],
-7,Baden,Marcel-Lüscher-&-Kristinn-Smári-Kristinsson,2014-02-17,"[' Marcel Lüscher ', ' Kristinn Smári Kristinsson ', ' Roman Nowka ']",
-8,Zürich,Dan-&-Rachel,2014-02-17,['Dan & Rachel '],Pop
-9,Zürich,Nicole-Durrer-Trio,2014-02-17,"[' Adrian Egli ', ' Mirco Häberli ', ' Nicole Durrer ']",
-10,Winterthur,Me-and-Oceans,2014-02-17,[' Arpen '],Pop
-11,Sankt-Gallen,Bill-Callahan-ausverkauft,2014-02-17,"['Bill Callahan ', ' Circuit des Yeux ']",Pop
-12,Basel,Jazz-im-Parterre:-Orion,2014-02-17,"[' Plume ', ' Marco Nenniger ', ' Samuel Dühsler ']",
+location,event,date,artists,genre
+Zürich,Tschechischer-Abend,2014-02-17,[' Nikolai Lugansky '],Classic
+Zürich,Spektrum-Petite-messe-solennelle,2014-02-17,"[' Anna Gschwend ', ' Sofia Pollak ', ' Sunnyboy Vincent Dladla ', ' Pierre Héritier ', ' Mathias Clausen ']",Classic
+Basel,AMG-Solistenabende,2014-02-17,"['Sergey Khachatryan ', ' Lusine Khachatryan ']",Classic
+Zürich,Breton,2014-02-17,"['Breton ', ' Did ']",
+Zürich,Old-School-Piano-Blues,2014-02-17,['Andy Boller '],
+Zürich,Anna-Calvi,2014-02-17,['Anna Calvi '],
+Solothurn,Blue-Monday,2014-02-17,['Rob Tognoni '],
+Baden,Marcel-Lüscher-&-Kristinn-Smári-Kristinsson,2014-02-17,"[' Marcel Lüscher ', ' Kristinn Smári Kristinsson ', ' Roman Nowka ']",
+Zürich,Dan-&-Rachel,2014-02-17,['Dan & Rachel '],Pop
+Zürich,Nicole-Durrer-Trio,2014-02-17,"[' Adrian Egli ', ' Mirco Häberli ', ' Nicole Durrer ']",
+Winterthur,Me-and-Oceans,2014-02-17,[' Arpen '],Pop
+Sankt-Gallen,Bill-Callahan-ausverkauft,2014-02-17,"['Bill Callahan ', ' Circuit des Yeux ']",Pop
+Basel,Jazz-im-Parterre:-Orion,2014-02-17,"[' Plume ', ' Marco Nenniger ', ' Samuel Dühsler ']",

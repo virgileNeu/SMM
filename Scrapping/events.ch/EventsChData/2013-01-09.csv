@@ -1,11 +1,11 @@
-,location,event,date,artists,genre
-0,Winterthur,Winterträume,2013-01-09,[' Jürg Dähler '],Classic
-1,Luzern,Jam-Night,2013-01-09,"['Aurel Hassler ', ' Christian Winiker ', ' Mani Zweili ', ' Mike Malloth ']",
-2,Winterthur,Winterträume,2013-01-09,[' Jürg Dähler '],Classic
-3,Zürich,Konzert,2013-01-09,[' Emanuel Ax '],Classic
-4,Basel,AMG-Sinfoniekonzert-Klassik,2013-01-09,[' Nelson Goerner '],Classic
-5,Zug,Herbies-Explo-3000,2013-01-09,"[' Adi Pflugshaupt ', ' Hans Feigenwinter ', ' Herbie Kopf ', ' Pius Baschnagel ']",
-6,Winterthur,Das-goldene-Tor-frei-nach-Srkjabin,2013-01-09,"['Christian Rösli ', ' Georg Hofmann ', ' Hermann Bühler ']",
-7,Zürich,Doran-Känzig-Hemingway,2013-01-09,"['Doran-Känzig-Hemingway ', ' Christy Doran ', ' Heiri Känzig ', ' Gerry Hemingway ']",
-8,Basel,Eva-Kesselring-feat.-Domenic-Landolf,2013-01-09,"[' Domenic Landolf ', ' Rita Ékes ', ' Michael Beck ', ' Eva Kesselring ', ' Dominic Egli ']",
-9,Basel,Monthly,2013-01-09,"[' Markus Schmied ', ' Yosvany Quintero ', ' Carlo Menger ', ' Michael Anklin ']",
+location,event,date,artists,genre
+Winterthur,Winterträume,2013-01-09,[' Jürg Dähler '],Classic
+Luzern,Jam-Night,2013-01-09,"['Aurel Hassler ', ' Christian Winiker ', ' Mani Zweili ', ' Mike Malloth ']",
+Winterthur,Winterträume,2013-01-09,[' Jürg Dähler '],Classic
+Zürich,Konzert,2013-01-09,[' Emanuel Ax '],Classic
+Basel,AMG-Sinfoniekonzert-Klassik,2013-01-09,[' Nelson Goerner '],Classic
+Zug,Herbies-Explo-3000,2013-01-09,"[' Adi Pflugshaupt ', ' Hans Feigenwinter ', ' Herbie Kopf ', ' Pius Baschnagel ']",
+Winterthur,Das-goldene-Tor-frei-nach-Srkjabin,2013-01-09,"['Christian Rösli ', ' Georg Hofmann ', ' Hermann Bühler ']",
+Zürich,Doran-Känzig-Hemingway,2013-01-09,"['Doran-Känzig-Hemingway ', ' Christy Doran ', ' Heiri Känzig ', ' Gerry Hemingway ']",
+Basel,Eva-Kesselring-feat.-Domenic-Landolf,2013-01-09,"[' Domenic Landolf ', ' Rita Ékes ', ' Michael Beck ', ' Eva Kesselring ', ' Dominic Egli ']",
+Basel,Monthly,2013-01-09,"[' Markus Schmied ', ' Yosvany Quintero ', ' Carlo Menger ', ' Michael Anklin ']",

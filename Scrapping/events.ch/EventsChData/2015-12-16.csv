@@ -1,19 +1,19 @@
-,location,event,date,artists,genre
-0,Basel,Mimiko-Con-variazioni,2015-12-16,"[' Mirka epanovi ', ' Kirill Zwegintsov ']",Classic
-1,Zürich,Werner-und-Company,2015-12-16,['Werner und Company '],Pop
-2,Basel,Création,2015-12-16,"[' Ronald Brautigam ', ' Domenico Melchiorre ']",Classic
-3,Palais-des-Congrès,null,2015-12-16,[' Kolja Lessing '],Classic
-4,Zürich,Jazz-im-Seefeld,2015-12-16,"[' Thomas Lüthi ', ' Arne Huber ', ' Claudio Strüby ']",
-5,Zürich,Tarja-Turunen,2015-12-16,['Tarja Turunen '],traditional
-6,Zürich,Mantar,2015-12-16,['Mantar '],
-7,Zürich,Give-a-Hand-Take-a-Hand,2015-12-16,"[' Christina Jaccard ', ' Dave Ruosch ', ' Céline-Giulia Voser ', ' Janos Heidekker ', ' Deborah Mora ']",
-8,Winterthur,Jazz-am-Mittwoch,2015-12-16,"[' Marc Perrenoud ', ' Cyril Regamey ', ' Marco Müller ']",
-9,Basel,Jazzcampus-Session,2015-12-16,"['Stephan Plecher ', ' Elya Alabuzhev ', ' Michael Heidepriem ']",
-10,Basel,A-Tribute-to-Astor-Piazzolla,2015-12-16,"['Thomas Dobler ', ' Adam Taubitz ', ' Denis Croisonnier ', ' Rätus Flisch ']",
-11,Zürich,Jazzbaragge-Wednesday-Jam,2015-12-16,"['Florian Favre ', ' Manu Hagmann ', ' David Meier ']",
-12,Lugano,Sir-András-Schiff,2015-12-16,['Sir András Schiff '],Classic
-13,Zürich,Jaeger-Rainey-Gisler,2015-12-16,"[' Michael Jaeger ', ' Fabian Gisler ', ' Tom Rainey ', ' Lucia Cadotsch ', ' Otis Sandsjö ', ' Petter Eldh ']",
-14,Sankt-Gallen,Robert-Forster,2015-12-16,['Robert Forster '],Pop
-15,Basel,Madsen,2015-12-16,"['Madsen ', ' Panda Lux ']",
-16,Düdingen,Go!zilla,2015-12-16,['Go!zilla '],
-17,Zürich,Guantanamo-Baywatch,2015-12-16,['Guantanamo Baywatch '],
+location,event,date,artists,genre
+Basel,Mimiko-Con-variazioni,2015-12-16,"[' Mirka epanovi ', ' Kirill Zwegintsov ']",Classic
+Zürich,Werner-und-Company,2015-12-16,['Werner und Company '],Pop
+Basel,Création,2015-12-16,"[' Ronald Brautigam ', ' Domenico Melchiorre ']",Classic
+Palais-des-Congrès,null,2015-12-16,[' Kolja Lessing '],Classic
+Zürich,Jazz-im-Seefeld,2015-12-16,"[' Thomas Lüthi ', ' Arne Huber ', ' Claudio Strüby ']",
+Zürich,Tarja-Turunen,2015-12-16,['Tarja Turunen '],traditional
+Zürich,Mantar,2015-12-16,['Mantar '],
+Zürich,Give-a-Hand-Take-a-Hand,2015-12-16,"[' Christina Jaccard ', ' Dave Ruosch ', ' Céline-Giulia Voser ', ' Janos Heidekker ', ' Deborah Mora ']",
+Winterthur,Jazz-am-Mittwoch,2015-12-16,"[' Marc Perrenoud ', ' Cyril Regamey ', ' Marco Müller ']",
+Basel,Jazzcampus-Session,2015-12-16,"['Stephan Plecher ', ' Elya Alabuzhev ', ' Michael Heidepriem ']",
+Basel,A-Tribute-to-Astor-Piazzolla,2015-12-16,"['Thomas Dobler ', ' Adam Taubitz ', ' Denis Croisonnier ', ' Rätus Flisch ']",
+Zürich,Jazzbaragge-Wednesday-Jam,2015-12-16,"['Florian Favre ', ' Manu Hagmann ', ' David Meier ']",
+Lugano,Sir-András-Schiff,2015-12-16,['Sir András Schiff '],Classic
+Zürich,Jaeger-Rainey-Gisler,2015-12-16,"[' Michael Jaeger ', ' Fabian Gisler ', ' Tom Rainey ', ' Lucia Cadotsch ', ' Otis Sandsjö ', ' Petter Eldh ']",
+Sankt-Gallen,Robert-Forster,2015-12-16,['Robert Forster '],Pop
+Basel,Madsen,2015-12-16,"['Madsen ', ' Panda Lux ']",
+Düdingen,Go!zilla,2015-12-16,['Go!zilla '],
+Zürich,Guantanamo-Baywatch,2015-12-16,['Guantanamo Baywatch '],

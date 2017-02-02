@@ -1,41 +1,41 @@
-,location,event,date,artists,genre
-0,Basel,Orgelspiel-zum-Feierabend,2014-04-04,['Quentin Kozuchowski '],Classic
-1,Bern,M'adam(e),2014-04-04,"[""M'adam"", ' Sophie Adam ', ' Florian Weiss ', ' Anatole Buccella ']",
-2,Cully,Cully-Jazz,2014-04-04,"['Joe Bel ', ' Benoît Richou ', ' Etienne Kermarc ', ' Renaud Burdin ', ' Geraldine Bitshy ']",
-3,Bern,Der-Ring-ohne-Worte,2014-04-04,[' Konstantin Lifschitz '],Classic
-4,Heerbrugg,Blues-und-Jazz-Tage,2014-04-04,['SSC Bigband Rheintal feat. Tony Lakatos '],
-5,Zürich,Chorkonzert-Zyklus-II,2014-04-04,"[' Hana Blaíková ', ' Maarten Engeltjes ', ' Tilman Lichdi ', ' Klaus Mertens ', ' Emanuele Forni ', ' Hille Perl ']",Classic
-6,Stäfa,Celebration,2014-04-04,"[' Andi Carniello-Hediger ', ' Mathias Elmer ', ' Thomas Gmünder ', ' Joachim Tanner ', ' Markus Hauenstein ']",
-7,Zürich,Acoustic-Friday,2014-04-04,"[' Chris Wiesendanger ', ' Colin Morton ', ' Paul Amereller ']",
-8,Wettingen,Verführung,2014-04-04,"['Bettina Boller ', ' Ivo Schmid ', ' Manfred Spitaler ', ' Manuel Beyeler ', ' Jens Bracher ', ' David Bruchez ', ' Julian Belli ', ' Isabel Karajan ']",Classic
-9,Zürich,Sebastian-Sturm-&-Exile-Airline,2014-04-04,['Sebastian Sturm & Exile Airline '],
-10,Zug,Science-Fiction-Theater,2014-04-04,"[' Christoph Grab ', ' Felix Utzinger ', ' Christian Rösli ', ' Valentin Dietrich ', ' Andy Wettstein ']",
-11,Winterthur,In-Guitar-Winterthur,2014-04-04,"['Juan Falú ', ' Josué Tacoronte & Alberto Solís ']",
-12,null,Konzert,2014-04-04,['Rondo Veneziano '],Classic
-13,Horw,Ostwärts,2014-04-04,"[' Roli Spichtig ', ' Silvia Hunziker ', ' Kathrin Lussi ', ' Roli Schumacher ', ' Jeanpierre Maillard ']",
-14,Basel,Jazzfestival-Basel,2014-04-04,"['Guinga ', ' Omar Sosa & Paolo Fresu ']",
-15,Bülach,Memorial-Swing-Quartet,2014-04-04,"[' Raymond Graisier ', ' Jean Loup Mueller ', ' Jean-Yves Petiot ', ' Romano Cavicchiolo ']",
-16,Winterthur,Rebecca-&-The-Sophistocats,2014-04-04,"[' Rebecca Spiteri ', ' Thom Grüninger ', ' Lukas Gadola ', ' Philipp Ackermann ', ' Thomas Bernold ']",
-17,Jona,Rio-Tango,2014-04-04,"[' Herbert Kramis ', ' Jojo Kunz ', ' Mia Lindblom ', ' Roland Senft ']",
-18,Cully,Cully-Jazz,2014-04-04,"['Avishai Cohen Trio ', ' Avishai Cohen ', ' Nitai Hershkovits ', ' Daniel Dor ']",
-19,Basel,Melford-Dresser-Hemingway-Trio,2014-04-04,"[' Myra Melford ', ' Mark Dresser ', ' Gerry Hemingway ']",
-20,Zug,Gabby-Young-&-The-Other-Animals,2014-04-04,['Gabby Young & The Other Animals '],traditional
-21,null,Neuphar-Is-What-We-Are,2014-04-04,"[' Julien Rossier ', ' Yann Cuttelod ', ' Matthieu Chavaz ', ' Marc Sallin ']",
-22,Baden,Los-Banditos,2014-04-04,['Los Banditos '],
-23,Solothurn,Modestep-DJ-Set,2014-04-04,['Modestep DJ Set '],Electronic
-24,Winterthur,Knorkator,2014-04-04,['Knorkator '],
-25,Lausanne,Patti-Smith,2014-04-04,['Patti Smith '],
-26,Thun,Seldmeir,2014-04-04,['Seldmeir '],
-27,Rubigen,Rudy-Rotta,2014-04-04,['Rudy Rotta '],
-28,Lenzburg,Enderlin-Chicks,2014-04-04,"[' Lucretia Enderlin ', ' Martina Enderlin ', ' Giuseppe Maienza ']",Pop
-29,Basel,Joan-as-Police-Woman,2014-04-04,"['Joan as Police Woman ', ' support: Helmut ']",Pop
-30,Hasliberg-Hohfluh,Jack-Pot-and-the-Nuggets,2014-04-04,['Jack Pot and the Nuggets '],Pop
-31,Münchenstein,The-Wave-Pictures,2014-04-04,['The Wave Pictures '],Pop
-32,Heerbrugg,Blues-und-Jazz-Tage,2014-04-04,"[""Fred Wesley & The New JB's ""]",
-33,Basel,Egotronic,2014-04-04,['Egotronic '],Electronic
-34,Zürich,Ceramic-Dogs,2014-04-04,"[' Marc Ribot ', ' Shahzad Ismaily ', ' Ches Smith ']",
-35,null,Wolfman,2014-04-04,"[' Antonio Gambrelle ', ' Jimmy Carpenter ', ' Walter Wolfman Washington  ', ' Jack Cruz ', ' Wayne Maureau ']",
-36,null,Serial-Killers,2014-04-04,['Serial Killers '],
-37,Zürich,Chuckamuck,2014-04-04,['Chuckamuck '],
-38,Bern,Marek-Hemmann,2014-04-04,['Marek Hemmann '],Electronic
-39,Zürich,Dub-Pistols,2014-04-04,['Dub Pistols '],
+location,event,date,artists,genre
+Basel,Orgelspiel-zum-Feierabend,2014-04-04,['Quentin Kozuchowski '],Classic
+Bern,M'adam(e),2014-04-04,"[""M'adam"", ' Sophie Adam ', ' Florian Weiss ', ' Anatole Buccella ']",
+Cully,Cully-Jazz,2014-04-04,"['Joe Bel ', ' Benoît Richou ', ' Etienne Kermarc ', ' Renaud Burdin ', ' Geraldine Bitshy ']",
+Bern,Der-Ring-ohne-Worte,2014-04-04,[' Konstantin Lifschitz '],Classic
+Heerbrugg,Blues-und-Jazz-Tage,2014-04-04,['SSC Bigband Rheintal feat. Tony Lakatos '],
+Zürich,Chorkonzert-Zyklus-II,2014-04-04,"[' Hana Blaíková ', ' Maarten Engeltjes ', ' Tilman Lichdi ', ' Klaus Mertens ', ' Emanuele Forni ', ' Hille Perl ']",Classic
+Stäfa,Celebration,2014-04-04,"[' Andi Carniello-Hediger ', ' Mathias Elmer ', ' Thomas Gmünder ', ' Joachim Tanner ', ' Markus Hauenstein ']",
+Zürich,Acoustic-Friday,2014-04-04,"[' Chris Wiesendanger ', ' Colin Morton ', ' Paul Amereller ']",
+Wettingen,Verführung,2014-04-04,"['Bettina Boller ', ' Ivo Schmid ', ' Manfred Spitaler ', ' Manuel Beyeler ', ' Jens Bracher ', ' David Bruchez ', ' Julian Belli ', ' Isabel Karajan ']",Classic
+Zürich,Sebastian-Sturm-&-Exile-Airline,2014-04-04,['Sebastian Sturm & Exile Airline '],
+Zug,Science-Fiction-Theater,2014-04-04,"[' Christoph Grab ', ' Felix Utzinger ', ' Christian Rösli ', ' Valentin Dietrich ', ' Andy Wettstein ']",
+Winterthur,In-Guitar-Winterthur,2014-04-04,"['Juan Falú ', ' Josué Tacoronte & Alberto Solís ']",
+null,Konzert,2014-04-04,['Rondo Veneziano '],Classic
+Horw,Ostwärts,2014-04-04,"[' Roli Spichtig ', ' Silvia Hunziker ', ' Kathrin Lussi ', ' Roli Schumacher ', ' Jeanpierre Maillard ']",
+Basel,Jazzfestival-Basel,2014-04-04,"['Guinga ', ' Omar Sosa & Paolo Fresu ']",
+Bülach,Memorial-Swing-Quartet,2014-04-04,"[' Raymond Graisier ', ' Jean Loup Mueller ', ' Jean-Yves Petiot ', ' Romano Cavicchiolo ']",
+Winterthur,Rebecca-&-The-Sophistocats,2014-04-04,"[' Rebecca Spiteri ', ' Thom Grüninger ', ' Lukas Gadola ', ' Philipp Ackermann ', ' Thomas Bernold ']",
+Jona,Rio-Tango,2014-04-04,"[' Herbert Kramis ', ' Jojo Kunz ', ' Mia Lindblom ', ' Roland Senft ']",
+Cully,Cully-Jazz,2014-04-04,"['Avishai Cohen Trio ', ' Avishai Cohen ', ' Nitai Hershkovits ', ' Daniel Dor ']",
+Basel,Melford-Dresser-Hemingway-Trio,2014-04-04,"[' Myra Melford ', ' Mark Dresser ', ' Gerry Hemingway ']",
+Zug,Gabby-Young-&-The-Other-Animals,2014-04-04,['Gabby Young & The Other Animals '],traditional
+null,Neuphar-Is-What-We-Are,2014-04-04,"[' Julien Rossier ', ' Yann Cuttelod ', ' Matthieu Chavaz ', ' Marc Sallin ']",
+Baden,Los-Banditos,2014-04-04,['Los Banditos '],
+Solothurn,Modestep-DJ-Set,2014-04-04,['Modestep DJ Set '],Electronic
+Winterthur,Knorkator,2014-04-04,['Knorkator '],
+Lausanne,Patti-Smith,2014-04-04,['Patti Smith '],
+Thun,Seldmeir,2014-04-04,['Seldmeir '],
+Rubigen,Rudy-Rotta,2014-04-04,['Rudy Rotta '],
+Lenzburg,Enderlin-Chicks,2014-04-04,"[' Lucretia Enderlin ', ' Martina Enderlin ', ' Giuseppe Maienza ']",Pop
+Basel,Joan-as-Police-Woman,2014-04-04,"['Joan as Police Woman ', ' support: Helmut ']",Pop
+Hasliberg-Hohfluh,Jack-Pot-and-the-Nuggets,2014-04-04,['Jack Pot and the Nuggets '],Pop
+Münchenstein,The-Wave-Pictures,2014-04-04,['The Wave Pictures '],Pop
+Heerbrugg,Blues-und-Jazz-Tage,2014-04-04,"[""Fred Wesley & The New JB's ""]",
+Basel,Egotronic,2014-04-04,['Egotronic '],Electronic
+Zürich,Ceramic-Dogs,2014-04-04,"[' Marc Ribot ', ' Shahzad Ismaily ', ' Ches Smith ']",
+null,Wolfman,2014-04-04,"[' Antonio Gambrelle ', ' Jimmy Carpenter ', ' Walter Wolfman Washington  ', ' Jack Cruz ', ' Wayne Maureau ']",
+null,Serial-Killers,2014-04-04,['Serial Killers '],
+Zürich,Chuckamuck,2014-04-04,['Chuckamuck '],
+Bern,Marek-Hemmann,2014-04-04,['Marek Hemmann '],Electronic
+Zürich,Dub-Pistols,2014-04-04,['Dub Pistols '],

@@ -1,33 +1,33 @@
-,location,event,date,artists,genre
-0,Basel,Mittagskonzert,2013-06-28,[' Ayelet Karni '],Classic
-1,Openair-St.-Gallen,null,2013-06-28,"['Sigur Rós ', ' Biffy Clyro ', ' Of Monsters and Men ', ' Macklemore & Ryan Lewis ', ' Fidllar ']",
-2,Basel,Juarez-Moreira-Quinteto,2013-06-28,"[' Juarez Moreira ', ' Cléber Alves ', ' Ricardo Fiuza ', ' Stephan Kurmann ', ' Esdras Ferreira ']",
-3,Openair-St.-Gallen,null,2013-06-28,"['Lianne La Havas ', ' Archive ', ' Philipp Poisel ', ' Villagers ', ' Friska Viljor ', ' Metz ', ' DJ Dada ']",Archive
-4,Basel,Masterrezital,2013-06-28,[' Constanze Mahr '],Classic
-5,Luzern,Piano-Entertainment,2013-06-28,['Mega Horvath '],
-6,Basel,Orgelspiel-zum-Feierabend,2013-06-28,['Yuval Rabin '],Classic
-7,Dietikon,Feierabendmusik,2013-06-28,['Bernhard Hörler '],Classic
-8,Zürich,Sommerkonzert,2013-06-28,"['Monica Angelini ', ' Erwin Heusser ', ' Sabine Bachmann ']",Classic
-9,Zürich,Les-Moby-Dicks,2013-06-28,"[' Alex Eigenmann ', ' Marco Thürlemann ', ' Henry Dobler ', ' Rudi Bindella ', ' Christoph Schifferli ']",
-10,Fischmarktplatz,Rapperswil,2013-06-28,['Mike & The Mechanics '],
-11,Zollikon,Kammermusik-Abend,2013-06-28,"[' Sergey Koudriakov ', ' Sandi Toka Nova ']",Classic
-12,Zollikon,Preisträger-Duo,2013-06-28,"['Sergey Koudriakov ', ' Sandi Toka Nova ']",Classic
-13,Zürich,Konzert,2013-06-28,"['Michael Müller ', ' Hristo Kouzmanov ']",Classic
-14,null,Carmina-Burana,2013-06-28,"[' Barbara Meszaros ', ' Karl Jeroltisch ', ' Günter Haumer ', ' Monika Nachbaur ', ' Marco Schädler ', ' Ingo Ospelt ']",Classic
-15,Zürich,Wagner-Idyll-,2013-06-28,"[' Christoph Keller ', ' Anja Schlosser ', ' Marlene Mild ']",Classic
-16,Basel,Unort,2013-06-28,['Unort '],Pop
-17,Uznach,The-PFG-Surf-Experience,2013-06-28,"[' Florian Mächler ', ' Geri Miller ', ' Philipp Scholl ']",
-18,Baden,Alphorn-&-Nordic-Winds,2013-06-28,"[' Eliana Burki ', ' Karoliina Kantelinen ', ' Lukas Mantel ']",Classic
-19,Interlaken,Trucker-&-Country-Festival,2013-06-28,"['Country Sisters ', ' Pat Green ', ' Carlene Carter ']",
-20,null,Klangreise,2013-06-28,"['Olivia Heredia ', ' Andreas Betschart ', ' Dorottya Marosvári ']",Classic
-21,Winterthur,Trio-Boller-Kunz-Erni,2013-06-28,"[' Stephanie Boller ', ' Jojo Kunz ', ' Daniel Erni ']",
-22,Basel,Masterrezital,2013-06-28,[' Bénédicte Wodey '],Classic
-23,Winterthur,Urban-Spaces,2013-06-28,"[' Francis Petter ', ' Edgar Marc Petter ', ' Peter Hunziker ', ' Bruno Huwyler ']",
-24,-Alte-Kirche,Boswil,2013-06-28,"[' Shani Diluka ', ' Benedict Klöckner ', ' Sasha Boldachev ']",Classic
-25,Basel,Juarez-Moreira-Quinteto,2013-06-28,"[' Juarez Moreira ', ' Cléber Alves ', ' Ricardo Fiuza ', ' Stephan Kurmann ', ' Esdras Neném Ferreira ']",
-26,Zürich,Afentoula-Razeli-&-Banda,2013-06-28,"['Afentoula Razeli & Banda ', ' Afentoula Razeli ', ' Panagiotis Koutsouras ', ' Ioannis Kolovos ', ' Panagiotis Papageorgiou ']",
-27,Winterthur,The-Bare-Tunes,2013-06-28,"[' Mace Mitchell ', ' Tsering Purtag ']",
-28,Zürich,Attwenger,2013-06-28,['Attwenger '],Pop
-29,Wallisellen,Eliot-Chambers,2013-06-28,['Eliot Chambers '],
-30,Sommercasino,Basel,2013-06-28,['Blackmail '],Blackmail
-31,Zürich,The-Heat,2013-06-28,['DJs Rudy Reefer '],
+location,event,date,artists,genre
+Basel,Mittagskonzert,2013-06-28,[' Ayelet Karni '],Classic
+Openair-St.-Gallen,null,2013-06-28,"['Sigur Rós ', ' Biffy Clyro ', ' Of Monsters and Men ', ' Macklemore & Ryan Lewis ', ' Fidllar ']",
+Basel,Juarez-Moreira-Quinteto,2013-06-28,"[' Juarez Moreira ', ' Cléber Alves ', ' Ricardo Fiuza ', ' Stephan Kurmann ', ' Esdras Ferreira ']",
+Openair-St.-Gallen,null,2013-06-28,"['Lianne La Havas ', ' Archive ', ' Philipp Poisel ', ' Villagers ', ' Friska Viljor ', ' Metz ', ' DJ Dada ']",Archive
+Basel,Masterrezital,2013-06-28,[' Constanze Mahr '],Classic
+Luzern,Piano-Entertainment,2013-06-28,['Mega Horvath '],
+Basel,Orgelspiel-zum-Feierabend,2013-06-28,['Yuval Rabin '],Classic
+Dietikon,Feierabendmusik,2013-06-28,['Bernhard Hörler '],Classic
+Zürich,Sommerkonzert,2013-06-28,"['Monica Angelini ', ' Erwin Heusser ', ' Sabine Bachmann ']",Classic
+Zürich,Les-Moby-Dicks,2013-06-28,"[' Alex Eigenmann ', ' Marco Thürlemann ', ' Henry Dobler ', ' Rudi Bindella ', ' Christoph Schifferli ']",
+Fischmarktplatz,Rapperswil,2013-06-28,['Mike & The Mechanics '],
+Zollikon,Kammermusik-Abend,2013-06-28,"[' Sergey Koudriakov ', ' Sandi Toka Nova ']",Classic
+Zollikon,Preisträger-Duo,2013-06-28,"['Sergey Koudriakov ', ' Sandi Toka Nova ']",Classic
+Zürich,Konzert,2013-06-28,"['Michael Müller ', ' Hristo Kouzmanov ']",Classic
+null,Carmina-Burana,2013-06-28,"[' Barbara Meszaros ', ' Karl Jeroltisch ', ' Günter Haumer ', ' Monika Nachbaur ', ' Marco Schädler ', ' Ingo Ospelt ']",Classic
+Zürich,Wagner-Idyll-,2013-06-28,"[' Christoph Keller ', ' Anja Schlosser ', ' Marlene Mild ']",Classic
+Basel,Unort,2013-06-28,['Unort '],Pop
+Uznach,The-PFG-Surf-Experience,2013-06-28,"[' Florian Mächler ', ' Geri Miller ', ' Philipp Scholl ']",
+Baden,Alphorn-&-Nordic-Winds,2013-06-28,"[' Eliana Burki ', ' Karoliina Kantelinen ', ' Lukas Mantel ']",Classic
+Interlaken,Trucker-&-Country-Festival,2013-06-28,"['Country Sisters ', ' Pat Green ', ' Carlene Carter ']",
+null,Klangreise,2013-06-28,"['Olivia Heredia ', ' Andreas Betschart ', ' Dorottya Marosvári ']",Classic
+Winterthur,Trio-Boller-Kunz-Erni,2013-06-28,"[' Stephanie Boller ', ' Jojo Kunz ', ' Daniel Erni ']",
+Basel,Masterrezital,2013-06-28,[' Bénédicte Wodey '],Classic
+Winterthur,Urban-Spaces,2013-06-28,"[' Francis Petter ', ' Edgar Marc Petter ', ' Peter Hunziker ', ' Bruno Huwyler ']",
+-Alte-Kirche,Boswil,2013-06-28,"[' Shani Diluka ', ' Benedict Klöckner ', ' Sasha Boldachev ']",Classic
+Basel,Juarez-Moreira-Quinteto,2013-06-28,"[' Juarez Moreira ', ' Cléber Alves ', ' Ricardo Fiuza ', ' Stephan Kurmann ', ' Esdras Neném Ferreira ']",
+Zürich,Afentoula-Razeli-&-Banda,2013-06-28,"['Afentoula Razeli & Banda ', ' Afentoula Razeli ', ' Panagiotis Koutsouras ', ' Ioannis Kolovos ', ' Panagiotis Papageorgiou ']",
+Winterthur,The-Bare-Tunes,2013-06-28,"[' Mace Mitchell ', ' Tsering Purtag ']",
+Zürich,Attwenger,2013-06-28,['Attwenger '],Pop
+Wallisellen,Eliot-Chambers,2013-06-28,['Eliot Chambers '],
+Sommercasino,Basel,2013-06-28,['Blackmail '],Blackmail
+Zürich,The-Heat,2013-06-28,['DJs Rudy Reefer '],

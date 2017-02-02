@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,Zürich,Nitro-Injekzia,2014-03-31,['Nitro Injekzia '],
-1,Zürich,Série-jeunes,2014-03-31,['Mélodie Zhao '],Classic
-2,Zürich,Spektrum-Brahms,2014-03-31,"[' Matthias Müller ', ' Martin Spangenberg ', ' Thomas Grossenbacher ', ' Oliver Schnyder ']",Classic
-3,Pratteln,Scorpion-Child,2014-03-31,['Scorpion Child '],
-4,null,Konstantin-Wecker,2014-03-31,['Konstantin Wecker '],Pop
-5,Zürich,Rufus-Wainwright,2014-03-31,"['Rufus Wainwright ', ' support: Lucy Wainwright Roche ']",Pop
-6,Zürich,Cults,2014-03-31,['Cults '],Pop
-7,Zürich,Old-School-Piano-Blues,2014-03-31,['Andy Boller '],
-8,Zürich,Ernst-Who-Robi-What-feat.-Jessy-Howe,2014-03-31,"[' Ernst Wirz ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' Jessy Howe ', ' Chris Muzik ']",
-9,Baden,Elisa-Day,2014-03-31,"[' Isabelle Ritter ', ' Lukas Roos ', ' Florian Favre ', ' rhodes) Jeremias Keller ', ' Thomas Blanchat ']",
-10,Zürich,Mamadou-Diabate,2014-03-31,"['Mamadou Diabate ', ' Mamadou Diabate ', ' Kandy Guira ', ' Seydou Kanazoe Diabate ', ' Dramane Dembele ']",
-11,Düdingen,Kurt-Vile,2014-03-31,"['Kurt Vile ', ' The Black Heart Procession ']",
-12,Luzern,Mateolika-y-los-Eme-de-Mear,2014-03-31,['Mateolika y los Eme de Mear '],
+location,event,date,artists,genre
+Zürich,Nitro-Injekzia,2014-03-31,['Nitro Injekzia '],
+Zürich,Série-jeunes,2014-03-31,['Mélodie Zhao '],Classic
+Zürich,Spektrum-Brahms,2014-03-31,"[' Matthias Müller ', ' Martin Spangenberg ', ' Thomas Grossenbacher ', ' Oliver Schnyder ']",Classic
+Pratteln,Scorpion-Child,2014-03-31,['Scorpion Child '],
+null,Konstantin-Wecker,2014-03-31,['Konstantin Wecker '],Pop
+Zürich,Rufus-Wainwright,2014-03-31,"['Rufus Wainwright ', ' support: Lucy Wainwright Roche ']",Pop
+Zürich,Cults,2014-03-31,['Cults '],Pop
+Zürich,Old-School-Piano-Blues,2014-03-31,['Andy Boller '],
+Zürich,Ernst-Who-Robi-What-feat.-Jessy-Howe,2014-03-31,"[' Ernst Wirz ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' Jessy Howe ', ' Chris Muzik ']",
+Baden,Elisa-Day,2014-03-31,"[' Isabelle Ritter ', ' Lukas Roos ', ' Florian Favre ', ' rhodes) Jeremias Keller ', ' Thomas Blanchat ']",
+Zürich,Mamadou-Diabate,2014-03-31,"['Mamadou Diabate ', ' Mamadou Diabate ', ' Kandy Guira ', ' Seydou Kanazoe Diabate ', ' Dramane Dembele ']",
+Düdingen,Kurt-Vile,2014-03-31,"['Kurt Vile ', ' The Black Heart Procession ']",
+Luzern,Mateolika-y-los-Eme-de-Mear,2014-03-31,['Mateolika y los Eme de Mear '],

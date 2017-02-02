@@ -1,38 +1,38 @@
-,location,event,date,artists,genre
-0,Luzern,Romantik-&-Avantgarde,2013-11-17,"['René Krebs ', ' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",
-1,Zürich,Chakras-Rising-,2013-11-17,[' works by Virgil Moorefield '],Classic
-2,Zürich,Orgelkonzert,2013-11-17,['Andreas Wildi '],Classic
-3,Bern,Bolschoi-Don-Kosakenchor,2013-11-17,['Bolschoi Don Kosakenchor '],
-4,Zürich,Werkstattkonzert-Ermanno-Chiavi-Guitars,2013-11-17,"['Anders Miolin ', ' Luka Stamenkovic ']",Classic
-5,Zürich,Glanz-und-Kontemplation,2013-11-17,[' Daniel Erni '],Classic
-6,Zürich,Orgelzyklus-Sternstunden,2013-11-17,['Emanuel Helg '],Classic
-7,Riehen,Orgelfestival,2013-11-17,"['Kerstin Kramp ', ' Tobias Lindner ']",Classic
-8,Zürich,Focus-Overalp,2013-11-17,"[' Alex Buess ', ' Ying Wang ']",Classic
-9,Zürich,Leipziger-Orgelmusik,2013-11-17,['Stefan Engels '],Classic
-10,Winterthur,Romantische-Chormusik,2013-11-17,[' Hansueli Bamert '],Classic
-11,Bottmingen,Collage-Fantasque,2013-11-17,"[' Marco Scilironi ', ' Gabriela Kaegi ']",Classic
-12,null,Messe-en-si-mineur-de-Jean-Sébastien-Bach,2013-11-17,"[' Brigitte Hool ', ' Caroline Vitale ', ' Musa Nkuma ', ' Benoît Capt ']",Classic
-13,null,Vier-Stars-in-Biel,2013-11-17,"['Pavel Hula ', ' Vlastimil Holek ', ' Michal Kanka ']",Classic
-14,Baden,Klingende-Spiegel-höfischen-Lebens,2013-11-17,['Naoki Kitaya '],Classic
-15,Winterthur,Délice-et-Magie-Auf-einundfünfzig-Saiten,2013-11-17,['Lisa Harringer '],Classic
-16,Buchberg,Orgelwunschkonzert,2013-11-17,['Christian Gautschi '],Classic
-17,Basel,Herbstkonzert,2013-11-17,[' Severine Schmid '],Classic
-18,Aarwangen,Konzert,2013-11-17,"[' Lea Barblan ', ' Adrien Phillipp', ' Fillipo R. Biuso ', ' Mariana Rüegg ']",Classic
-19,null,Glanzlichter,2013-11-17,"[' Franziska Lips ', ' Ioanna Seira ', ' Melda Umur ', ' Kathryn Zevenbergen ']",Classic
-20,Luzern,Rezital-2,2013-11-17,['Ivo Pogorelich '],Classic
-21,Köniz,Ferrum-Helveticum,2013-11-17,[' Andy Narell '],
-22,Zürich,The-John-Scofield-Überjam-Band,2013-11-17,"['The John Scofield Überjam Band ', ' John Scofield ', ' Avi Bortnick ', ' Andy Hess ', ' Louis Cato ']",
-23,Luzern,Brendan-Walsh,2013-11-17,['Brendan Walsh '],
-24,Basel,Enrico-Pieranunzi,2013-11-17,[' Enrico Pieranunzi '],
-25,Zürich,Voces-de-Cuba,2013-11-17,"[' Isabelita Mederos Castro ', ' Oriana Pérez Reguera ']",Classic
-26,Winterthur,Ad-hoc,2013-11-17,"[' Linda Suter ', ' André Hochuli ']",
-27,Olten,Bolschoi-Don-Kosakenchor,2013-11-17,['Bolschoi Don Kosakenchor '],
-28,Zürich,Swanky-Mothers-Series-XI,2013-11-17,"[' Dave Gisler ', ' Jonas Labhart ', ' Marius Peyer ']",
-29,Zürich,El-vuelo-del-cante,2013-11-17,['Encarna Anillo '],
-30,Zürich,Black-Milk-&-Band,2013-11-17,['Black Milk & Band '],
-31,Zürich,James-Yorkston,2013-11-17,"['James Yorkston ', ' Seamus Fogarty ']",
-32,Zug,Shayna-Steele,2013-11-17,['Shayna Steele '],
-33,Zürich,Youngblood-Brass-Band,2013-11-17,"['Youngblood Brass Band ', ' support: A La Fu ']",traditional
-34,null,Bodo-Wartke,2013-11-17,['Bodo Wartke '],Pop
-35,Lausanne,Lee-Ranaldo-&-The-Dust,2013-11-17,['Lee Ranaldo & The Dust '],Pop
-36,Schaffhausen,Amatorski,2013-11-17,['Amatorski '],Pop
+location,event,date,artists,genre
+Luzern,Romantik-&-Avantgarde,2013-11-17,"['René Krebs ', ' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",
+Zürich,Chakras-Rising-,2013-11-17,[' works by Virgil Moorefield '],Classic
+Zürich,Orgelkonzert,2013-11-17,['Andreas Wildi '],Classic
+Bern,Bolschoi-Don-Kosakenchor,2013-11-17,['Bolschoi Don Kosakenchor '],
+Zürich,Werkstattkonzert-Ermanno-Chiavi-Guitars,2013-11-17,"['Anders Miolin ', ' Luka Stamenkovic ']",Classic
+Zürich,Glanz-und-Kontemplation,2013-11-17,[' Daniel Erni '],Classic
+Zürich,Orgelzyklus-Sternstunden,2013-11-17,['Emanuel Helg '],Classic
+Riehen,Orgelfestival,2013-11-17,"['Kerstin Kramp ', ' Tobias Lindner ']",Classic
+Zürich,Focus-Overalp,2013-11-17,"[' Alex Buess ', ' Ying Wang ']",Classic
+Zürich,Leipziger-Orgelmusik,2013-11-17,['Stefan Engels '],Classic
+Winterthur,Romantische-Chormusik,2013-11-17,[' Hansueli Bamert '],Classic
+Bottmingen,Collage-Fantasque,2013-11-17,"[' Marco Scilironi ', ' Gabriela Kaegi ']",Classic
+null,Messe-en-si-mineur-de-Jean-Sébastien-Bach,2013-11-17,"[' Brigitte Hool ', ' Caroline Vitale ', ' Musa Nkuma ', ' Benoît Capt ']",Classic
+null,Vier-Stars-in-Biel,2013-11-17,"['Pavel Hula ', ' Vlastimil Holek ', ' Michal Kanka ']",Classic
+Baden,Klingende-Spiegel-höfischen-Lebens,2013-11-17,['Naoki Kitaya '],Classic
+Winterthur,Délice-et-Magie-Auf-einundfünfzig-Saiten,2013-11-17,['Lisa Harringer '],Classic
+Buchberg,Orgelwunschkonzert,2013-11-17,['Christian Gautschi '],Classic
+Basel,Herbstkonzert,2013-11-17,[' Severine Schmid '],Classic
+Aarwangen,Konzert,2013-11-17,"[' Lea Barblan ', ' Adrien Phillipp', ' Fillipo R. Biuso ', ' Mariana Rüegg ']",Classic
+null,Glanzlichter,2013-11-17,"[' Franziska Lips ', ' Ioanna Seira ', ' Melda Umur ', ' Kathryn Zevenbergen ']",Classic
+Luzern,Rezital-2,2013-11-17,['Ivo Pogorelich '],Classic
+Köniz,Ferrum-Helveticum,2013-11-17,[' Andy Narell '],
+Zürich,The-John-Scofield-Überjam-Band,2013-11-17,"['The John Scofield Überjam Band ', ' John Scofield ', ' Avi Bortnick ', ' Andy Hess ', ' Louis Cato ']",
+Luzern,Brendan-Walsh,2013-11-17,['Brendan Walsh '],
+Basel,Enrico-Pieranunzi,2013-11-17,[' Enrico Pieranunzi '],
+Zürich,Voces-de-Cuba,2013-11-17,"[' Isabelita Mederos Castro ', ' Oriana Pérez Reguera ']",Classic
+Winterthur,Ad-hoc,2013-11-17,"[' Linda Suter ', ' André Hochuli ']",
+Olten,Bolschoi-Don-Kosakenchor,2013-11-17,['Bolschoi Don Kosakenchor '],
+Zürich,Swanky-Mothers-Series-XI,2013-11-17,"[' Dave Gisler ', ' Jonas Labhart ', ' Marius Peyer ']",
+Zürich,El-vuelo-del-cante,2013-11-17,['Encarna Anillo '],
+Zürich,Black-Milk-&-Band,2013-11-17,['Black Milk & Band '],
+Zürich,James-Yorkston,2013-11-17,"['James Yorkston ', ' Seamus Fogarty ']",
+Zug,Shayna-Steele,2013-11-17,['Shayna Steele '],
+Zürich,Youngblood-Brass-Band,2013-11-17,"['Youngblood Brass Band ', ' support: A La Fu ']",traditional
+null,Bodo-Wartke,2013-11-17,['Bodo Wartke '],Pop
+Lausanne,Lee-Ranaldo-&-The-Dust,2013-11-17,['Lee Ranaldo & The Dust '],Pop
+Schaffhausen,Amatorski,2013-11-17,['Amatorski '],Pop

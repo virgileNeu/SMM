@@ -1,60 +1,60 @@
-,location,event,date,artists,genre
-0,Basel,Mittagskonzert,2015-10-23,[' Weronika Klosiewicz '],Classic
-1,Basel,Lajos-Padar,2015-10-23,['Lajos Padar '],traditional
-2,Zürich,Prélude,2015-10-23,"['Isabel Pfefferkorn ', ' Isabel Gehweiler ', ' Yulia Miloslavskaya ']",Classic
-3,Basel,Orgelspiel-zum-Feierabend,2015-10-23,['Tobias Lindner '],Classic
-4,Dietikon,Feierabendmusik,2015-10-23,['Bernhard Hörler '],
-5,Zürich,Wie-im-Himmel,2015-10-23,"[' Esther Hoppe ', ' Daniel Kagerer ', ' Jörg Ulrich Busch ', ' Hansjörg Albrecht ']",Classic
-6,Murg,Cannonsoul-feat.-Andy-McKee,2015-10-23,"[' Patrick Bianco ', ' Peter Tuscher ', ' Renato Chicco ', ' Andy McKee ', ' Bernd Reiter ']",
-7,Luzern,Duorezital,2015-10-23,"['Fiona Jäntti ', ' Talvi Hunt ']",Classic
-8,Zürich,Existentielle-Erfahrung,2015-10-23,[' Antoine Tamestit '],Classic
-9,Zürich,Nikki-Forova,2015-10-23,[' David Blair '],Pop
-10,Basel,Marco-Mazzotti-Trio,2015-10-23,"[' Marco Mazzotti ', ' Dominik Schürmann ', ' Ulli Niedermüller ']",
-11,Basel,Tränen-Trauer-Trost,2015-10-23,[' Renaud Capuçon '],Classic
-12,Basel,Tränen-Trauer-Trost,2015-10-23,[' Renaud Capuçon '],Classic
-13,Zürich,Zermatt-Unplugged-Kaufleuten,2015-10-23,"['Billy Locket ', ' Cat Power ', ' Stealth ']",
-14,null,The-Dublin-Legends,2015-10-23,['The Dublin Legends '],
-15,Basel,Gospelchor-In-His-Hands,2015-10-23,"['Petter U. Johansen ', ' Adam Taubitz ', ' Costi Topalidis ', ' Felix Klaus ', ' Lluis Ribalta ']",
-16,null,The-3-Tenors-of-Swing,2015-10-23,"[' Frank Roberscheuten ', ' Antti Sarpila ', ' Engelbert Wrobel ', ' Chris Hopkins ', ' Rolf Marx ', ' Henning Gailling ', ' Oliver Mewes ']",
-17,Münchenstein,Elias-Bernet-Band-feat.-Sam-Burckhardt,2015-10-23,"[' Elias Bernet ', ' Raffael Meyer ', ' Sam Burckhardt ', ' Urs Streckeisen ', ' Christian Zünd ']",
-18,Zürich,Acoustic-Friday-October-Classic,2015-10-23,"['Erika Kawai ', ' Polina Charnetskaya ']",Classic
-19,Pratteln,Dire-Strats,2015-10-23,['Dire Strats  '],
-20,Zürich,Blackberry-Smoke,2015-10-23,['Blackberry Smoke '],
-21,Zürich,Seat-Music-Session,2015-10-23,"['Michael Grimm ', ' Laith Al-Deen ', ' Shayna Steele ']",Pop
-22,Luzern,Arcturon,2015-10-23,[' All Will Know '],
-23,Amriswil,John-Mayall,2015-10-23,['John Mayall '],
-24,Zürich,Barbie-Q.,2015-10-23,"[' Petra Retelj ', ' Ueli Angstmann ', ' Marcel Benedikt ', ' Jürg Schneebeli ', ' Imad Barnieh ']",
-25,Basel,Baloise-Session,2015-10-23,"['Sarah Connor ', ' James Arthur ']",Pop
-26,Basel,Kennst-du-den-Augenblick,2015-10-23,"[' Laura Aikin ', ' Christian Eisenberger ', ' Hanna Weinmeister ', ' Tatjana Masurenko ', ' Dorothea Schönwiese ', ' Matthias Schorn ', ' Anthony Spiri ']",Classic
-27,Luzern,Irish-Folk-Festival,2015-10-23,"['Gráinne Holland & Band ', ' Barry Kerr ', ' The Rapparees ', ' Armagh Rhymers ']",
-28,Basel,Bendorim,2015-10-23,"[' Dela Hüttner ', ' Karin Meier ', ' Stefanie Kunckler ', ' Jürg Luchsinger ']",
-29,Winterthur,Billie-Holiday-Jubilee,2015-10-23,"[' Virginia Beatrice ', ' Christoph Hegi ', ' Roman Dylag ']",
-30,Zürich,Kahn-Nakamura-Taxt,2015-10-23,"[' Jason Kahn ', ' Toshimaru Nakamura ', ' Martin Taxt ']",
-31,Basel,Albert-Castiglia-&-Band,2015-10-23,['Albert Castiglia & Band '],
-32,Zürich,Mäkkele,2015-10-23,['Mäkkele '],
-33,Baden,Marcnmikeys-Music-Memory,2015-10-23,"[' marc reinhard ', ' michi sokoll ']",Pop
-34,Zürich,Lina-Button,2015-10-23,"[' Lina Button ', ' Urs Müller ', ' Luca Burkhalter ', ' Simon Kaufmann ', ' Lukas Gasser ']",Pop
-35,Liebefeld,Kaleidoscope-String-Quartet,2015-10-23,"['Kaleidoscope String Quartet ', ' Simon Heggendorn ', ' Ronny Spiegel ', ' David Schnee ', ' Solme Hong ']",
-36,Basel,Gershwin,2015-10-23,"[' Jorge Rossy ', ' Mike Kanan ', ' Putter Smith ', ' Jimmy Wormworth ']",
-37,Rorschach,Benni-Bilgeri-feat.-Justina-Lee-Brown,2015-10-23,['Benni Bilgeri feat. Justina Lee Brown '],
-38,null,The-Four-Owls,2015-10-23,['The Four Owls '],
-39,Dietikon,Nicky-Jam,2015-10-23,['Nicky Jam '],
-40,Zürich,Schoedo,2015-10-23,['Schoedo '],Pop
-41,Lausanne,Josef-Salvat,2015-10-23,['Josef Salvat '],Pop
-42,Düdingen,Rats-on-Rafts,2015-10-23,['Rats on Rafts '],
-43,Zürich,Rüegg-Eden,2015-10-23,"[' Xaver Rüegg ', ' Philipp Eden ']",
-44,Baden,Johnny-Rakete,2015-10-23,['Johnny Rakete '],
-45,Zürich,Manfred-Maurenbrecher,2015-10-23,['Manfred Maurenbrecher '],Pop
-46,Basel,Freitagsbar,2015-10-23,"[' Dalia Donadio ', ' Roberto Koch ', ' Erich Puchunga Fischer ', ' Fabienne Hoerni ', ' Benno Kaiser ']",
-47,Thun,Dan-Baird-&-Homemade-Sin,2015-10-23,['Dan Baird & Homemade Sin '],
-48,Baden,Dogmate,2015-10-23,['Dogmate '],
-49,Luzern,Whisky-&-Song,2015-10-23,['We Steal Flyers '],Pop
-50,Bern,Mich-tritt-ein-Hirsch,2015-10-23,['Yes Deer '],
-51,Luzern,Doctor-Cyclops,2015-10-23,"['Doctor Cyclops ', ' Sgt Sunshine ']",
-52,Luzern,Twobones-&-Montana-Rhythm-Section,2015-10-23,"[' Danilo Moccia ', ' Paul Haag ', ' Thom Grüninger ', ' Beat Ramseier ', ' Chris von Hoffmann ']",
-53,Winterthur,Shocking-Pinks,2015-10-23,['Shocking Pinks '],Pop
-54,Basel,Abaton,2015-10-23,"['Abaton ', ' Lambs ']",
-55,Zürich,Zermatt-Unplugged-Kaufleuten,2015-10-23,['Band of Horses '],
-56,Sankt-Gallen,Duo-Tvrdý-Havelka,2015-10-23,['Duo Tvrdý-Havelka '],Electronic
-57,Sarnen,Lords-of-the-Underground,2015-10-23,['Lords of the Underground '],
-58,Zürich,Atrium,2015-10-23,"[' Andrea Kirchhofer ', ' Noam Szyfer ', ' Flo Zimmermann ']",
+location,event,date,artists,genre
+Basel,Mittagskonzert,2015-10-23,[' Weronika Klosiewicz '],Classic
+Basel,Lajos-Padar,2015-10-23,['Lajos Padar '],traditional
+Zürich,Prélude,2015-10-23,"['Isabel Pfefferkorn ', ' Isabel Gehweiler ', ' Yulia Miloslavskaya ']",Classic
+Basel,Orgelspiel-zum-Feierabend,2015-10-23,['Tobias Lindner '],Classic
+Dietikon,Feierabendmusik,2015-10-23,['Bernhard Hörler '],
+Zürich,Wie-im-Himmel,2015-10-23,"[' Esther Hoppe ', ' Daniel Kagerer ', ' Jörg Ulrich Busch ', ' Hansjörg Albrecht ']",Classic
+Murg,Cannonsoul-feat.-Andy-McKee,2015-10-23,"[' Patrick Bianco ', ' Peter Tuscher ', ' Renato Chicco ', ' Andy McKee ', ' Bernd Reiter ']",
+Luzern,Duorezital,2015-10-23,"['Fiona Jäntti ', ' Talvi Hunt ']",Classic
+Zürich,Existentielle-Erfahrung,2015-10-23,[' Antoine Tamestit '],Classic
+Zürich,Nikki-Forova,2015-10-23,[' David Blair '],Pop
+Basel,Marco-Mazzotti-Trio,2015-10-23,"[' Marco Mazzotti ', ' Dominik Schürmann ', ' Ulli Niedermüller ']",
+Basel,Tränen-Trauer-Trost,2015-10-23,[' Renaud Capuçon '],Classic
+Basel,Tränen-Trauer-Trost,2015-10-23,[' Renaud Capuçon '],Classic
+Zürich,Zermatt-Unplugged-Kaufleuten,2015-10-23,"['Billy Locket ', ' Cat Power ', ' Stealth ']",
+null,The-Dublin-Legends,2015-10-23,['The Dublin Legends '],
+Basel,Gospelchor-In-His-Hands,2015-10-23,"['Petter U. Johansen ', ' Adam Taubitz ', ' Costi Topalidis ', ' Felix Klaus ', ' Lluis Ribalta ']",
+null,The-3-Tenors-of-Swing,2015-10-23,"[' Frank Roberscheuten ', ' Antti Sarpila ', ' Engelbert Wrobel ', ' Chris Hopkins ', ' Rolf Marx ', ' Henning Gailling ', ' Oliver Mewes ']",
+Münchenstein,Elias-Bernet-Band-feat.-Sam-Burckhardt,2015-10-23,"[' Elias Bernet ', ' Raffael Meyer ', ' Sam Burckhardt ', ' Urs Streckeisen ', ' Christian Zünd ']",
+Zürich,Acoustic-Friday-October-Classic,2015-10-23,"['Erika Kawai ', ' Polina Charnetskaya ']",Classic
+Pratteln,Dire-Strats,2015-10-23,['Dire Strats  '],
+Zürich,Blackberry-Smoke,2015-10-23,['Blackberry Smoke '],
+Zürich,Seat-Music-Session,2015-10-23,"['Michael Grimm ', ' Laith Al-Deen ', ' Shayna Steele ']",Pop
+Luzern,Arcturon,2015-10-23,[' All Will Know '],
+Amriswil,John-Mayall,2015-10-23,['John Mayall '],
+Zürich,Barbie-Q.,2015-10-23,"[' Petra Retelj ', ' Ueli Angstmann ', ' Marcel Benedikt ', ' Jürg Schneebeli ', ' Imad Barnieh ']",
+Basel,Baloise-Session,2015-10-23,"['Sarah Connor ', ' James Arthur ']",Pop
+Basel,Kennst-du-den-Augenblick,2015-10-23,"[' Laura Aikin ', ' Christian Eisenberger ', ' Hanna Weinmeister ', ' Tatjana Masurenko ', ' Dorothea Schönwiese ', ' Matthias Schorn ', ' Anthony Spiri ']",Classic
+Luzern,Irish-Folk-Festival,2015-10-23,"['Gráinne Holland & Band ', ' Barry Kerr ', ' The Rapparees ', ' Armagh Rhymers ']",
+Basel,Bendorim,2015-10-23,"[' Dela Hüttner ', ' Karin Meier ', ' Stefanie Kunckler ', ' Jürg Luchsinger ']",
+Winterthur,Billie-Holiday-Jubilee,2015-10-23,"[' Virginia Beatrice ', ' Christoph Hegi ', ' Roman Dylag ']",
+Zürich,Kahn-Nakamura-Taxt,2015-10-23,"[' Jason Kahn ', ' Toshimaru Nakamura ', ' Martin Taxt ']",
+Basel,Albert-Castiglia-&-Band,2015-10-23,['Albert Castiglia & Band '],
+Zürich,Mäkkele,2015-10-23,['Mäkkele '],
+Baden,Marcnmikeys-Music-Memory,2015-10-23,"[' marc reinhard ', ' michi sokoll ']",Pop
+Zürich,Lina-Button,2015-10-23,"[' Lina Button ', ' Urs Müller ', ' Luca Burkhalter ', ' Simon Kaufmann ', ' Lukas Gasser ']",Pop
+Liebefeld,Kaleidoscope-String-Quartet,2015-10-23,"['Kaleidoscope String Quartet ', ' Simon Heggendorn ', ' Ronny Spiegel ', ' David Schnee ', ' Solme Hong ']",
+Basel,Gershwin,2015-10-23,"[' Jorge Rossy ', ' Mike Kanan ', ' Putter Smith ', ' Jimmy Wormworth ']",
+Rorschach,Benni-Bilgeri-feat.-Justina-Lee-Brown,2015-10-23,['Benni Bilgeri feat. Justina Lee Brown '],
+null,The-Four-Owls,2015-10-23,['The Four Owls '],
+Dietikon,Nicky-Jam,2015-10-23,['Nicky Jam '],
+Zürich,Schoedo,2015-10-23,['Schoedo '],Pop
+Lausanne,Josef-Salvat,2015-10-23,['Josef Salvat '],Pop
+Düdingen,Rats-on-Rafts,2015-10-23,['Rats on Rafts '],
+Zürich,Rüegg-Eden,2015-10-23,"[' Xaver Rüegg ', ' Philipp Eden ']",
+Baden,Johnny-Rakete,2015-10-23,['Johnny Rakete '],
+Zürich,Manfred-Maurenbrecher,2015-10-23,['Manfred Maurenbrecher '],Pop
+Basel,Freitagsbar,2015-10-23,"[' Dalia Donadio ', ' Roberto Koch ', ' Erich Puchunga Fischer ', ' Fabienne Hoerni ', ' Benno Kaiser ']",
+Thun,Dan-Baird-&-Homemade-Sin,2015-10-23,['Dan Baird & Homemade Sin '],
+Baden,Dogmate,2015-10-23,['Dogmate '],
+Luzern,Whisky-&-Song,2015-10-23,['We Steal Flyers '],Pop
+Bern,Mich-tritt-ein-Hirsch,2015-10-23,['Yes Deer '],
+Luzern,Doctor-Cyclops,2015-10-23,"['Doctor Cyclops ', ' Sgt Sunshine ']",
+Luzern,Twobones-&-Montana-Rhythm-Section,2015-10-23,"[' Danilo Moccia ', ' Paul Haag ', ' Thom Grüninger ', ' Beat Ramseier ', ' Chris von Hoffmann ']",
+Winterthur,Shocking-Pinks,2015-10-23,['Shocking Pinks '],Pop
+Basel,Abaton,2015-10-23,"['Abaton ', ' Lambs ']",
+Zürich,Zermatt-Unplugged-Kaufleuten,2015-10-23,['Band of Horses '],
+Sankt-Gallen,Duo-Tvrdý-Havelka,2015-10-23,['Duo Tvrdý-Havelka '],Electronic
+Sarnen,Lords-of-the-Underground,2015-10-23,['Lords of the Underground '],
+Zürich,Atrium,2015-10-23,"[' Andrea Kirchhofer ', ' Noam Szyfer ', ' Flo Zimmermann ']",

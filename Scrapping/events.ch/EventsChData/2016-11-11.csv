@@ -1,44 +1,44 @@
-,location,event,date,artists,genre
-0,Zürich,Building-Bridges-Sir-András-Schiff-präsentiert,2016-11-11,['Dinara Klinton '],Classic
-1,Basel,Orgelspiel-zum-Feierabend,2016-11-11,['Elia Pivetta '],Classic
-2,Dietikon,Feierabendmusik-in-der-Kirche,2016-11-11,['Luigi Lorè '],Classic
-3,Dübendorf,Peter-Schärli-Trio-feat.-Glenn-Ferris,2016-11-11,"[' Peter Schärli ', ' Glenn Ferris ', ' Hans-Peter Pfammatter ', ' Thomas Dürst ']",
-4,Zürich,Jazz-Night-mit-Olivieri-Jazz-Quintet,2016-11-11,"['Rudolf Olivieri ', ' Felix Straumann ', ' Rainer Sradler ', ' Felix ""Big Z"" Zindel ']",
-5,Luzern,Ezio-Bosso,2016-11-11,['Ezio Bosso '],Classic
-6,Zürich,Hundreds,2016-11-11,['Hundreds '],Pop
-7,Bern,3.-Symphoniekonzert-Mozart-Variationen,2016-11-11,[' Urs Peter Schneider '],Classic
-8,Zürich,Neue-Konzertreihe-Zürich,2016-11-11,[' Alison Balsom '],Classic
-9,Zürich,Kunstklangkirche-Stummfilm-plus,2016-11-11,"['Antonio García ', ' Tobias Willi ']",Classic
-10,null,Abschiedskonzert-für-Beat-Raaflaub,2016-11-11,"[' Marion Ammann ', ' Judith Lüpold ', ' Rolf Romei ', ' Hanno Müller ']",Classic
-11,Zürich,Europareise-in-7-Sprachen-Romantischer-Liederabend,2016-11-11,"['Ricardo Marinello ', ' Rudolf Meier ', ' Yana Eismann ']",Classic
-12,Basel,CD-Taufe-des-Sonos-Quartett,2016-11-11,"[' Jií Nmeek ', ' Stefanie Bischof ', ' Martina Bischof ', ' Andrea Bischof ']",Classic
-13,Basel,Händel-Belshazzar,2016-11-11,"[' M. Hagen ', ' S. Lavanant Linke ', '  A. Potter ', ' T. M. Allen ', ' T. Schabel ']",Classic
-14,Stäfa,Benefizkonzert,2016-11-11,"['Sulamith Spillmann ', ' Bernhard Hörler ']",Classic
-15,Basel,Silvan-Zingg-Trio,2016-11-11,"[' Deanne Bogart ', ' Dirk Raufeisen ']",
-16,Dietikon,J-Balvin,2016-11-11,['J Balvin '],
-17,Uster,Eine-Interaktion-mit-Bild-&-Ton,2016-11-11,"[' Béatrice Graf ', ' Coralie Lonfat ', ' Sandra Weiss ']",
-18,Basel,Sonne-im-Winter,2016-11-11,"['Rachel Heymans ', ' Carla Rovirosa Gual ', ' Andreas Westermann ']",Classic
-19,Zug,The-Green-River-Burial,2016-11-11,['The Green River Burial '],
-20,Basel,arDilli,2016-11-11,"['Anja Braun ', ' Anita Samuel ']",Pop
-21,Zürich,Killing-Joke,2016-11-11,['Killing Joke '],
-22,Bülach,Jazz-Connection-feat.-Angela-van-Rijthoven,2016-11-11,"[' Angela van Rijthoven ', ' Jurgen Feskens ', ' Peter van Steen ', ' Rob Henneveld ', ' Bart Maassen ']",
-23,Zürich,Werkstattkonzert,2016-11-11,"[' Lina Allemano ', ' Claudia Ulla Binder ', ' Jan Schlegel ']",
-24,null,Geschichten-ohne-Worte,2016-11-11,['Shani Diluka '],Classic
-25,Winterthur,The-Road,2016-11-11,"[' Roman Tulei ', ' Lorenz Beyeler ', ' Tobias Friedli ']",
-26,Stäfa,Andy-Egert-Blues-Band,2016-11-11,"[' Isa Valin ', ' Vincenzo Lanciano ', ' Stefan Stahel ', ' Ivan Künzli ', ' Billy Wirz ', ' Mario Caspar ']",
-27,Wabern,Yumi-Ito-&-Yves-Theiler,2016-11-11,"[' Yumi Ito ', ' Yves Theiler ']",
-28,Bern,The-Showband,2016-11-11,"[' Werner Rosser ', ' Lugi Luginbühl ', ' Simon Moser ', ' Reto Wittwer ', ' Bruno Sieber ', ' Andreas Beer ', ' Sandro Mürner ', ' Beat Mürner ']",
-29,Zürich,Transmundial,2016-11-11,"['Daymé Arocena ', ' Melingo ', ' Daymé Arocena ', ' Jorge Luis Lagarza ', ' Rafael Aldama ', ' Raul Herrera ', ' Daniel Melingo ', ' Lalo Zanelli ']",
-30,Basel,Grant-Stewart-Quintet,2016-11-11,"[' John Marshall ', ' Grant Stewart ', ' Andrey Zimovets ', ' Stephan Kurmann ', ' Phil Stewart ']",
-31,Lyss,Blaudzun,2016-11-11,"['Blaudzun ', ' Sea Change ']",Pop
-32,Zürich,Sarah-Chaksad-Orchestra,2016-11-11,[' Gregor Hilbe '],
-33,Baden,Azton,2016-11-11,"[' Marc Reinhard ', ' Stefan Künzli ', ' Tom Sager ', ' Michael Sokoll ', ' Daniel Zihlmann ', ' Marcel Suk ', ' Patrick Tognetto ']",
-34,null,Leyla-McCalla,2016-11-11,"[' Leyla McCalla ', ' Bria Bonet ', ' Dan Tremblay ']",
-35,Aarau,Alborosie,2016-11-11,['DJs Alborosie '],
-36,Basel,Kollekte-Freitagsbar,2016-11-11,['Facio '],Pop
-37,Rubigen,Dietrich-&-Band,2016-11-11,['Dietrich & Band '],
-38,Luzern,Whisky-&-Song,2016-11-11,['Eabhal '],
-39,Luzern,Jerome-De-Carli-Trio,2016-11-11,"[' Jerome De Carli ', ' Hans Ermel ', ' Andreas Bugs ']",
-40,Zürich,Anna-&-Stoffner,2016-11-11,['Anna & Stoffner '],Pop
-41,Sankt-Gallen,Quilt,2016-11-11,['Quilt '],
-42,Basel,Phase-Fatale,2016-11-11,['Phase Fatale '],Electronic
+location,event,date,artists,genre
+Zürich,Building-Bridges-Sir-András-Schiff-präsentiert,2016-11-11,['Dinara Klinton '],Classic
+Basel,Orgelspiel-zum-Feierabend,2016-11-11,['Elia Pivetta '],Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2016-11-11,['Luigi Lorè '],Classic
+Dübendorf,Peter-Schärli-Trio-feat.-Glenn-Ferris,2016-11-11,"[' Peter Schärli ', ' Glenn Ferris ', ' Hans-Peter Pfammatter ', ' Thomas Dürst ']",
+Zürich,Jazz-Night-mit-Olivieri-Jazz-Quintet,2016-11-11,"['Rudolf Olivieri ', ' Felix Straumann ', ' Rainer Sradler ', ' Felix ""Big Z"" Zindel ']",
+Luzern,Ezio-Bosso,2016-11-11,['Ezio Bosso '],Classic
+Zürich,Hundreds,2016-11-11,['Hundreds '],Pop
+Bern,3.-Symphoniekonzert-Mozart-Variationen,2016-11-11,[' Urs Peter Schneider '],Classic
+Zürich,Neue-Konzertreihe-Zürich,2016-11-11,[' Alison Balsom '],Classic
+Zürich,Kunstklangkirche-Stummfilm-plus,2016-11-11,"['Antonio García ', ' Tobias Willi ']",Classic
+null,Abschiedskonzert-für-Beat-Raaflaub,2016-11-11,"[' Marion Ammann ', ' Judith Lüpold ', ' Rolf Romei ', ' Hanno Müller ']",Classic
+Zürich,Europareise-in-7-Sprachen-Romantischer-Liederabend,2016-11-11,"['Ricardo Marinello ', ' Rudolf Meier ', ' Yana Eismann ']",Classic
+Basel,CD-Taufe-des-Sonos-Quartett,2016-11-11,"[' Jií Nmeek ', ' Stefanie Bischof ', ' Martina Bischof ', ' Andrea Bischof ']",Classic
+Basel,Händel-Belshazzar,2016-11-11,"[' M. Hagen ', ' S. Lavanant Linke ', '  A. Potter ', ' T. M. Allen ', ' T. Schabel ']",Classic
+Stäfa,Benefizkonzert,2016-11-11,"['Sulamith Spillmann ', ' Bernhard Hörler ']",Classic
+Basel,Silvan-Zingg-Trio,2016-11-11,"[' Deanne Bogart ', ' Dirk Raufeisen ']",
+Dietikon,J-Balvin,2016-11-11,['J Balvin '],
+Uster,Eine-Interaktion-mit-Bild-&-Ton,2016-11-11,"[' Béatrice Graf ', ' Coralie Lonfat ', ' Sandra Weiss ']",
+Basel,Sonne-im-Winter,2016-11-11,"['Rachel Heymans ', ' Carla Rovirosa Gual ', ' Andreas Westermann ']",Classic
+Zug,The-Green-River-Burial,2016-11-11,['The Green River Burial '],
+Basel,arDilli,2016-11-11,"['Anja Braun ', ' Anita Samuel ']",Pop
+Zürich,Killing-Joke,2016-11-11,['Killing Joke '],
+Bülach,Jazz-Connection-feat.-Angela-van-Rijthoven,2016-11-11,"[' Angela van Rijthoven ', ' Jurgen Feskens ', ' Peter van Steen ', ' Rob Henneveld ', ' Bart Maassen ']",
+Zürich,Werkstattkonzert,2016-11-11,"[' Lina Allemano ', ' Claudia Ulla Binder ', ' Jan Schlegel ']",
+null,Geschichten-ohne-Worte,2016-11-11,['Shani Diluka '],Classic
+Winterthur,The-Road,2016-11-11,"[' Roman Tulei ', ' Lorenz Beyeler ', ' Tobias Friedli ']",
+Stäfa,Andy-Egert-Blues-Band,2016-11-11,"[' Isa Valin ', ' Vincenzo Lanciano ', ' Stefan Stahel ', ' Ivan Künzli ', ' Billy Wirz ', ' Mario Caspar ']",
+Wabern,Yumi-Ito-&-Yves-Theiler,2016-11-11,"[' Yumi Ito ', ' Yves Theiler ']",
+Bern,The-Showband,2016-11-11,"[' Werner Rosser ', ' Lugi Luginbühl ', ' Simon Moser ', ' Reto Wittwer ', ' Bruno Sieber ', ' Andreas Beer ', ' Sandro Mürner ', ' Beat Mürner ']",
+Zürich,Transmundial,2016-11-11,"['Daymé Arocena ', ' Melingo ', ' Daymé Arocena ', ' Jorge Luis Lagarza ', ' Rafael Aldama ', ' Raul Herrera ', ' Daniel Melingo ', ' Lalo Zanelli ']",
+Basel,Grant-Stewart-Quintet,2016-11-11,"[' John Marshall ', ' Grant Stewart ', ' Andrey Zimovets ', ' Stephan Kurmann ', ' Phil Stewart ']",
+Lyss,Blaudzun,2016-11-11,"['Blaudzun ', ' Sea Change ']",Pop
+Zürich,Sarah-Chaksad-Orchestra,2016-11-11,[' Gregor Hilbe '],
+Baden,Azton,2016-11-11,"[' Marc Reinhard ', ' Stefan Künzli ', ' Tom Sager ', ' Michael Sokoll ', ' Daniel Zihlmann ', ' Marcel Suk ', ' Patrick Tognetto ']",
+null,Leyla-McCalla,2016-11-11,"[' Leyla McCalla ', ' Bria Bonet ', ' Dan Tremblay ']",
+Aarau,Alborosie,2016-11-11,['DJs Alborosie '],
+Basel,Kollekte-Freitagsbar,2016-11-11,['Facio '],Pop
+Rubigen,Dietrich-&-Band,2016-11-11,['Dietrich & Band '],
+Luzern,Whisky-&-Song,2016-11-11,['Eabhal '],
+Luzern,Jerome-De-Carli-Trio,2016-11-11,"[' Jerome De Carli ', ' Hans Ermel ', ' Andreas Bugs ']",
+Zürich,Anna-&-Stoffner,2016-11-11,['Anna & Stoffner '],Pop
+Sankt-Gallen,Quilt,2016-11-11,['Quilt '],
+Basel,Phase-Fatale,2016-11-11,['Phase Fatale '],Electronic

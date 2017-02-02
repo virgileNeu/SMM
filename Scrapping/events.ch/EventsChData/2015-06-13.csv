@@ -1,42 +1,42 @@
-,location,event,date,artists,genre
-0,Luzern,Lilibiggs-Kinder-Festivals,2015-06-13,['Deine Freunde '],Pop
-1,Winterthur,Luiz-Simas,2015-06-13,['Luiz Simas '],
-2,Interlaken,Greenfield-Festival,2015-06-13,['Lagwagon '],
-3,Wil,Rock-am-Weier,2015-06-13,[' Der Jungbrunn '],Pop
-4,Interlaken,Greenfield-Festival,2015-06-13,"['Heaven Shall Burn ', ' The Gaslight Anthem ', ' Danko Jones ', ' Powerwolf ']",
-5,Zürich,Festspiele-Zürich-Vier-Chinesen-mit-dem-Kontrabass,2015-06-13,"['Gallus Burkhard ', ' Ute Grewel ', ' Kamil Losiewicz ', ' Konzept: Frank Sanderell ']",Classic
-6,Basel,Masterrezital,2015-06-13,"['Pedro Pablo Cámara Toldos ', ' João Carlos Pacheco ', ' Haize Lizarazu ']",Classic
-7,Basel,Imagine-Festival,2015-06-13,"['Reptile Youth ', ' Roosevelt ', ' Akua Naru ']",
-8,Riehen,Beethovenquartett-in-der-Orangerie-im-Sarasinpark,2015-06-13,"['Mátyás Bartha ', ' Laurentius Bonitz ', ' Vahagn Aristakesyan ', ' Carlos Conrad ']",Classic
-9,Zürich,Festspiele-Zürich-Concours-Géza-Anda,2015-06-13,[' 3. Runde: Mozartprüfung '],Classic
-10,null,Festi'neuch,2015-06-13,"['Klangkarussel ', ' Joeystarr & Dj Pone & Cut Killer ']",
-11,Zürich,Zigeunerlieder,2015-06-13,[' Mikayel Balyan '],Classic
-12,Kriens,B-Sides-Festival,2015-06-13,"['Black Mountain ', ' Dels ', ' Gazelle Twin ', ' Bassekou Kouyaté ']",Electronic
-13,null,Festi'neuch,2015-06-13,"['Bénabar ', ' Milky Chance ', ' Israel Vibration ']",Pop
-14,null,Festi'neuch,2015-06-13,"['Klangkarussel ', ' Joeystarr & Dj Pone & Cut Killer ', ' Congopunq ']",Pop
-15,null,Fête-souterraine,2015-06-13,['Midget '],Pop
-16,Brig,Larmes-Chor-und-Orchesterkonzert,2015-06-13,"[' Isabel Pfefferkorn ', ' Yves Brühwiler ']",Classic
-17,Basel,Elias,2015-06-13,"[' Sibylla Rubens ', ' Miriam Wettstein ', ' Johannes Kaleschke ', ' Hanno Müller-Brachmann ']",Classic
-18,null,Wenn-der-Blüten-Frühlingsregen,2015-06-13,"[' Gudrun Sidonie Otto ', ' Andrea Jäckle ']",Classic
-19,Zürich,Benefizkonzert-für-HEKS-und-Fukushima-in-Japan,2015-06-13,"[' Yuka Tsuboi ', ' Fanny Pestalozzi ', ' Olivia Schenkel ', ' Hildegard Bilger ', ' Seiji Yokota ', ' works by Kotaro Nishishita ']",Classic
-20,Bern,Faszination-Klang-Ma(h)lerei,2015-06-13,"[' Patrizio Mazzola ', ' Barbara La Faro ']",Classic
-21,Zürich,Celebrations,2015-06-13,"[' Brigitte Grether ', ' Franziska Lips ', ' Ioanna Seira ']",Classic
-22,Sissach,Klanglichter-Lecture-Recital,2015-06-13,['Adrian Oetiker '],Classic
-23,Zürich,Zaphir,2015-06-13,['Zaphir '],
-24,Basel,Intime-Skizzen,2015-06-13,"[' Ivana Pristaová ', ' Petra Ackermann ', ' Karolina Öhman ', ' Tamriko Kordzaia ']",Classic
-25,Zürich,The-History-of-Rock-Club-27,2015-06-13,['The Doors Experience '],
-26,Zug,Ossobucco,2015-06-13,"[' Jürg Wylenmann ', ' Werner Iten ', ' Mario Gentinetta ']",
-27,Zürich,Jack-&-The-Bearded-Fishermen,2015-06-13,['Jack & The Bearded Fishermen '],
-28,Zürich,Still-Patient-,2015-06-13,['Still Patient? '],
-29,Zug,The-Whiskey-Foundation,2015-06-13,['The Whiskey Foundation '],
-30,Basel,Jovino-Santos-Neto-Trio,2015-06-13,"[' Jovino Santos Neto ', ' Stephan Kurmann ', ' Mauro Martins ']",
-31,Zürich,Süperstar-Orkestar,2015-06-13,"[' Magnus Hedenborg ', ' David Bryntesson ', ' Jens Edenhed ', ' Jonas Jersild ', ' Håkan Säfvestat ']",
-32,Baden,Latin-Music-Quartet-&-Fabio-Freire,2015-06-13,"['Latin Music Quartet & Fabio Freire ', ' Fabio Freire ', ' Madlen Donadio ', ' Moreno Donadio ', ' Toni Donadio ']",
-33,Bern,Pupy-y-los-que-son-son,2015-06-13,['Pupy y los que son son '],
-34,null,Clay,2015-06-13,"['Clay ', ' Silly Walks Discotheque ']",
-35,Zürich,Mettiwetti,2015-06-13,['Mettiwetti '],Pop
-36,null,Nachtzug-Octango,2015-06-13,"['Andrzej Kowalski ', ' Gregory Gates ', ' Adrian Gavrilescu ', ' conductor: Francisco Obieta ']",Classic
-37,Rubigen,Polo-Hofer-&-Die-Band-ausverkauft,2015-06-13,"[' Polo Hofer ', ' H.P. Brüggemann ', ' Mario Capitanio ', ' Peter Enderli ', ' Marc Gerber ', ' Andi Hug ']",Pop
-38,Frick,Rude-Rich-&-Amsterdam-Faya-Allstars,2015-06-13,['Rude Rich & Amsterdam Faya Allstars '],
-39,Basel,Go!-C!-Art!-Opening-Party,2015-06-13,['Frank Castro '],Pop
-40,Dübendorf,Papeete-on-Tour,2015-06-13,['DJs Marco Cavax & MC Maicol '],
+location,event,date,artists,genre
+Luzern,Lilibiggs-Kinder-Festivals,2015-06-13,['Deine Freunde '],Pop
+Winterthur,Luiz-Simas,2015-06-13,['Luiz Simas '],
+Interlaken,Greenfield-Festival,2015-06-13,['Lagwagon '],
+Wil,Rock-am-Weier,2015-06-13,[' Der Jungbrunn '],Pop
+Interlaken,Greenfield-Festival,2015-06-13,"['Heaven Shall Burn ', ' The Gaslight Anthem ', ' Danko Jones ', ' Powerwolf ']",
+Zürich,Festspiele-Zürich-Vier-Chinesen-mit-dem-Kontrabass,2015-06-13,"['Gallus Burkhard ', ' Ute Grewel ', ' Kamil Losiewicz ', ' Konzept: Frank Sanderell ']",Classic
+Basel,Masterrezital,2015-06-13,"['Pedro Pablo Cámara Toldos ', ' João Carlos Pacheco ', ' Haize Lizarazu ']",Classic
+Basel,Imagine-Festival,2015-06-13,"['Reptile Youth ', ' Roosevelt ', ' Akua Naru ']",
+Riehen,Beethovenquartett-in-der-Orangerie-im-Sarasinpark,2015-06-13,"['Mátyás Bartha ', ' Laurentius Bonitz ', ' Vahagn Aristakesyan ', ' Carlos Conrad ']",Classic
+Zürich,Festspiele-Zürich-Concours-Géza-Anda,2015-06-13,[' 3. Runde: Mozartprüfung '],Classic
+null,Festi'neuch,2015-06-13,"['Klangkarussel ', ' Joeystarr & Dj Pone & Cut Killer ']",
+Zürich,Zigeunerlieder,2015-06-13,[' Mikayel Balyan '],Classic
+Kriens,B-Sides-Festival,2015-06-13,"['Black Mountain ', ' Dels ', ' Gazelle Twin ', ' Bassekou Kouyaté ']",Electronic
+null,Festi'neuch,2015-06-13,"['Bénabar ', ' Milky Chance ', ' Israel Vibration ']",Pop
+null,Festi'neuch,2015-06-13,"['Klangkarussel ', ' Joeystarr & Dj Pone & Cut Killer ', ' Congopunq ']",Pop
+null,Fête-souterraine,2015-06-13,['Midget '],Pop
+Brig,Larmes-Chor-und-Orchesterkonzert,2015-06-13,"[' Isabel Pfefferkorn ', ' Yves Brühwiler ']",Classic
+Basel,Elias,2015-06-13,"[' Sibylla Rubens ', ' Miriam Wettstein ', ' Johannes Kaleschke ', ' Hanno Müller-Brachmann ']",Classic
+null,Wenn-der-Blüten-Frühlingsregen,2015-06-13,"[' Gudrun Sidonie Otto ', ' Andrea Jäckle ']",Classic
+Zürich,Benefizkonzert-für-HEKS-und-Fukushima-in-Japan,2015-06-13,"[' Yuka Tsuboi ', ' Fanny Pestalozzi ', ' Olivia Schenkel ', ' Hildegard Bilger ', ' Seiji Yokota ', ' works by Kotaro Nishishita ']",Classic
+Bern,Faszination-Klang-Ma(h)lerei,2015-06-13,"[' Patrizio Mazzola ', ' Barbara La Faro ']",Classic
+Zürich,Celebrations,2015-06-13,"[' Brigitte Grether ', ' Franziska Lips ', ' Ioanna Seira ']",Classic
+Sissach,Klanglichter-Lecture-Recital,2015-06-13,['Adrian Oetiker '],Classic
+Zürich,Zaphir,2015-06-13,['Zaphir '],
+Basel,Intime-Skizzen,2015-06-13,"[' Ivana Pristaová ', ' Petra Ackermann ', ' Karolina Öhman ', ' Tamriko Kordzaia ']",Classic
+Zürich,The-History-of-Rock-Club-27,2015-06-13,['The Doors Experience '],
+Zug,Ossobucco,2015-06-13,"[' Jürg Wylenmann ', ' Werner Iten ', ' Mario Gentinetta ']",
+Zürich,Jack-&-The-Bearded-Fishermen,2015-06-13,['Jack & The Bearded Fishermen '],
+Zürich,Still-Patient-,2015-06-13,['Still Patient? '],
+Zug,The-Whiskey-Foundation,2015-06-13,['The Whiskey Foundation '],
+Basel,Jovino-Santos-Neto-Trio,2015-06-13,"[' Jovino Santos Neto ', ' Stephan Kurmann ', ' Mauro Martins ']",
+Zürich,Süperstar-Orkestar,2015-06-13,"[' Magnus Hedenborg ', ' David Bryntesson ', ' Jens Edenhed ', ' Jonas Jersild ', ' Håkan Säfvestat ']",
+Baden,Latin-Music-Quartet-&-Fabio-Freire,2015-06-13,"['Latin Music Quartet & Fabio Freire ', ' Fabio Freire ', ' Madlen Donadio ', ' Moreno Donadio ', ' Toni Donadio ']",
+Bern,Pupy-y-los-que-son-son,2015-06-13,['Pupy y los que son son '],
+null,Clay,2015-06-13,"['Clay ', ' Silly Walks Discotheque ']",
+Zürich,Mettiwetti,2015-06-13,['Mettiwetti '],Pop
+null,Nachtzug-Octango,2015-06-13,"['Andrzej Kowalski ', ' Gregory Gates ', ' Adrian Gavrilescu ', ' conductor: Francisco Obieta ']",Classic
+Rubigen,Polo-Hofer-&-Die-Band-ausverkauft,2015-06-13,"[' Polo Hofer ', ' H.P. Brüggemann ', ' Mario Capitanio ', ' Peter Enderli ', ' Marc Gerber ', ' Andi Hug ']",Pop
+Frick,Rude-Rich-&-Amsterdam-Faya-Allstars,2015-06-13,['Rude Rich & Amsterdam Faya Allstars '],
+Basel,Go!-C!-Art!-Opening-Party,2015-06-13,['Frank Castro '],Pop
+Dübendorf,Papeete-on-Tour,2015-06-13,['DJs Marco Cavax & MC Maicol '],

@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Zürich,Hoch-verehrt-Vorbild-und-Inspiration,2015-05-25,"[' Yukiko Ishibashi ', ' Ursula Sarnthein ', ' Christine Hu ']",Classic
-1,Zürich,Brunchkonzert-Venezianisches-Barock,2015-05-25,"['Juliana Georgieva ', ' Yuko Arakaki ', ' Rumjana Naydenova ', ' Barbara Oehm ']",Classic
-2,-Alte-Kirche,Boswil,2015-05-25,['Till Fellner '],Classic
-3,Zürich,Werner-und-Company,2015-05-25,['Werner und Company '],Pop
-4,Aarau,Friends-Fest,2015-05-25,"['Capsize ', "" '68 "", ' Casey ']",
-5,Luzern,Master-Abschlusskonzerte,2015-05-25,"[' Valerio Lepori ', ' Clemens Kuratle ', ' Nicolas Jäger ', ' Martial In-Albon ', ' John Voirol ', ' Florian Weiss ']",
-6,Basel,Konzert-zum-Pfingstfest,2015-05-25,"['Magdalena Hasibeder ', ' Alice Borciani ', ' Sabine Stoffer ', ' Maria Ferré ']",Classic
-7,Bern,Barockzentrum-Konzert,2015-05-25,['Ton Koopman '],Classic
-8,Zürich,Cappella-Gabetta,2015-05-25,"['Sol Gabetta ', ' conductor: Andres Gabetta ']",Classic
-9,Basel,Konzert-zum-Pfingstfest,2015-05-25,"['Magdalena Hasibeder ', ' Alice Borciani ', ' Sabine Stoffer ']",Classic
-10,null,Autopsie-d'une-ombre,2015-05-25,"[""Autopsie d'une ombre ""]",Electronic
-11,Basel,Giant-Sand,2015-05-25,['Giant Sand '],
-12,Zürich,C.-W.-Stoneking,2015-05-25,['C. W. Stoneking '],
-13,Zürich,Marc-Ribot-Ceramic-Dogs,2015-05-25,"[' Marc Ribot ', ' Shahzad Ismaily ', ' Ches Smith ']",
+location,event,date,artists,genre
+Zürich,Hoch-verehrt-Vorbild-und-Inspiration,2015-05-25,"[' Yukiko Ishibashi ', ' Ursula Sarnthein ', ' Christine Hu ']",Classic
+Zürich,Brunchkonzert-Venezianisches-Barock,2015-05-25,"['Juliana Georgieva ', ' Yuko Arakaki ', ' Rumjana Naydenova ', ' Barbara Oehm ']",Classic
+-Alte-Kirche,Boswil,2015-05-25,['Till Fellner '],Classic
+Zürich,Werner-und-Company,2015-05-25,['Werner und Company '],Pop
+Aarau,Friends-Fest,2015-05-25,"['Capsize ', "" '68 "", ' Casey ']",
+Luzern,Master-Abschlusskonzerte,2015-05-25,"[' Valerio Lepori ', ' Clemens Kuratle ', ' Nicolas Jäger ', ' Martial In-Albon ', ' John Voirol ', ' Florian Weiss ']",
+Basel,Konzert-zum-Pfingstfest,2015-05-25,"['Magdalena Hasibeder ', ' Alice Borciani ', ' Sabine Stoffer ', ' Maria Ferré ']",Classic
+Bern,Barockzentrum-Konzert,2015-05-25,['Ton Koopman '],Classic
+Zürich,Cappella-Gabetta,2015-05-25,"['Sol Gabetta ', ' conductor: Andres Gabetta ']",Classic
+Basel,Konzert-zum-Pfingstfest,2015-05-25,"['Magdalena Hasibeder ', ' Alice Borciani ', ' Sabine Stoffer ']",Classic
+null,Autopsie-d'une-ombre,2015-05-25,"[""Autopsie d'une ombre ""]",Electronic
+Basel,Giant-Sand,2015-05-25,['Giant Sand '],
+Zürich,C.-W.-Stoneking,2015-05-25,['C. W. Stoneking '],
+Zürich,Marc-Ribot-Ceramic-Dogs,2015-05-25,"[' Marc Ribot ', ' Shahzad Ismaily ', ' Ches Smith ']",

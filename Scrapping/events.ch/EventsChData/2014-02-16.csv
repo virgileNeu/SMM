@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Basel,AMG-Sonntagsmatineen,2014-02-16,[' Maurice Steger '],Classic
-1,Allschwil,Musik-&-Wort,2014-02-16,"[' Nina Mayer ', ' Regina Hui ', ' Daniel McAlavey ', ' John P. MacKeown ']",Classic
-2,Basel,Akkordeon-Das-Multitalent,2014-02-16,"['Janina Bürg ', ' Jürg Luchsinger ']",Classic
-3,null,Konzert,2014-02-16,"['Daniela Koch ', ' Martin Klett ']",Classic
-4,Basel,Liedrezital-und-Lesung,2014-02-16,"['Maria Gessler ', ' Riccardo Bovino ']",Classic
-5,Bern,Ensemble-Proton-feat.-Jazzwerkstatt,2014-02-16,"[' Christine Hogg ', ' Martin Bliggenstorfer ', ' Richard Haynes ', ' Max Haft ', ' Jan-Filip Tupa ', ' Samuel Fried ']",
-6,null,Sonntags-um-5,2014-02-16,"['Susanne Gritschneder ', ' Dmitry Mishelovich ', ' Bakyt Bizhanov ', ' Stefanie Sampaio de Medeiros ', ' Fernando Gomes ', ' Stéphane Fromageot ']",Classic
-7,Basel,Ich-sah-Gesang-in-der-Ferne,2014-02-16,"[' Julia Habenschuss ', ' Marc Lachat ', ' Rossana Rossignoli ', ' Benedikt Schobel ']",Classic
-8,Luzern,Ivan-Paduart-Trio,2014-02-16,"['Ivan Paduart Trio ', ' Ivan Paduart ', ' Philippe Aerts ', ' Hans Van Oosterhout ']",
-9,Zürich,Christoph-Irniger-Trio,2014-02-16,"[' Christoph Irniger ', ' Raffaele Bossard ', ' Ziv Ravitz ']",
-10,Brugg,Klangquadrat,2014-02-16,"[' Cédric Gschwind ', ' Jonas Windscheid ', ' Marco Nenniger ', ' Daniel Mudrack ']",
-11,Winterthur,Matthias-Siegrist-Trio,2014-02-16,"[' Matthias Siegrist ', ' Niculin Christen ', ' Tino Siegrist ']",
-12,null,Thee-Silver-Mt.-Zion-Memorial-Orchestra,2014-02-16,['Thee Silver Mt. Zion Memorial Orchestra '],
-13,Zürich,Samaris,2014-02-16,['Samaris '],Electronic
-14,Aarau,Bombino,2014-02-16,['Bombino '],
-15,Bern,Stefan-Rusconi,2014-02-16,"[' Stefan Rusconi ', ' Thomas Wydler ', ' Beate Bartel ', ' Tobias von Glenck ', ' Sara Lunden ']",
+location,event,date,artists,genre
+Basel,AMG-Sonntagsmatineen,2014-02-16,[' Maurice Steger '],Classic
+Allschwil,Musik-&-Wort,2014-02-16,"[' Nina Mayer ', ' Regina Hui ', ' Daniel McAlavey ', ' John P. MacKeown ']",Classic
+Basel,Akkordeon-Das-Multitalent,2014-02-16,"['Janina Bürg ', ' Jürg Luchsinger ']",Classic
+null,Konzert,2014-02-16,"['Daniela Koch ', ' Martin Klett ']",Classic
+Basel,Liedrezital-und-Lesung,2014-02-16,"['Maria Gessler ', ' Riccardo Bovino ']",Classic
+Bern,Ensemble-Proton-feat.-Jazzwerkstatt,2014-02-16,"[' Christine Hogg ', ' Martin Bliggenstorfer ', ' Richard Haynes ', ' Max Haft ', ' Jan-Filip Tupa ', ' Samuel Fried ']",
+null,Sonntags-um-5,2014-02-16,"['Susanne Gritschneder ', ' Dmitry Mishelovich ', ' Bakyt Bizhanov ', ' Stefanie Sampaio de Medeiros ', ' Fernando Gomes ', ' Stéphane Fromageot ']",Classic
+Basel,Ich-sah-Gesang-in-der-Ferne,2014-02-16,"[' Julia Habenschuss ', ' Marc Lachat ', ' Rossana Rossignoli ', ' Benedikt Schobel ']",Classic
+Luzern,Ivan-Paduart-Trio,2014-02-16,"['Ivan Paduart Trio ', ' Ivan Paduart ', ' Philippe Aerts ', ' Hans Van Oosterhout ']",
+Zürich,Christoph-Irniger-Trio,2014-02-16,"[' Christoph Irniger ', ' Raffaele Bossard ', ' Ziv Ravitz ']",
+Brugg,Klangquadrat,2014-02-16,"[' Cédric Gschwind ', ' Jonas Windscheid ', ' Marco Nenniger ', ' Daniel Mudrack ']",
+Winterthur,Matthias-Siegrist-Trio,2014-02-16,"[' Matthias Siegrist ', ' Niculin Christen ', ' Tino Siegrist ']",
+null,Thee-Silver-Mt.-Zion-Memorial-Orchestra,2014-02-16,['Thee Silver Mt. Zion Memorial Orchestra '],
+Zürich,Samaris,2014-02-16,['Samaris '],Electronic
+Aarau,Bombino,2014-02-16,['Bombino '],
+Bern,Stefan-Rusconi,2014-02-16,"[' Stefan Rusconi ', ' Thomas Wydler ', ' Beate Bartel ', ' Tobias von Glenck ', ' Sara Lunden ']",

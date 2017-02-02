@@ -1,9 +1,9 @@
-,location,event,date,artists,genre
-0,Basel,Chapter-A,2014-01-13,"[' Johanna Greulich ', ' Stephen Menotti ', ' Ellen Fallowfield ', ' Clemens Hund-Göschel ']",Classic
-1,Zürich,Old-School-Piano-Blues,2014-01-13,['Andy Boller '],
-2,Baden,Karin-Meiers-Forest-Radio,2014-01-13,"[' Karin Meier ', ' Hannes Bürgi ', ' Claude Meier ', ' Christoph Steiner ']",
-3,Basel,Gitarrenrezital,2014-01-13,[' Fuyuki Matsumoto '],Classic
-4,Winterthur,Monomontag,2014-01-13,['Gipsy Rufina '],Pop
-5,Basel,Jam-Session,2014-01-13,"[' Jörg Hurter ', ' Christian Gutfleisch ', ' Dominik Schürmann ', ' Andre Baader ']",
-6,Zürich,Julia-Sheer-abgesagt,2014-01-13,['Julia Sheer '],Pop
-7,Zürich,Nik-Bärtsch's-Ronin,2014-01-13,"[' Kasper Rast ', ' Thomy Jordi ', ' Sha ', ' Bernhard Wagner ']",
+location,event,date,artists,genre
+Basel,Chapter-A,2014-01-13,"[' Johanna Greulich ', ' Stephen Menotti ', ' Ellen Fallowfield ', ' Clemens Hund-Göschel ']",Classic
+Zürich,Old-School-Piano-Blues,2014-01-13,['Andy Boller '],
+Baden,Karin-Meiers-Forest-Radio,2014-01-13,"[' Karin Meier ', ' Hannes Bürgi ', ' Claude Meier ', ' Christoph Steiner ']",
+Basel,Gitarrenrezital,2014-01-13,[' Fuyuki Matsumoto '],Classic
+Winterthur,Monomontag,2014-01-13,['Gipsy Rufina '],Pop
+Basel,Jam-Session,2014-01-13,"[' Jörg Hurter ', ' Christian Gutfleisch ', ' Dominik Schürmann ', ' Andre Baader ']",
+Zürich,Julia-Sheer-abgesagt,2014-01-13,['Julia Sheer '],Pop
+Zürich,Nik-Bärtsch's-Ronin,2014-01-13,"[' Kasper Rast ', ' Thomy Jordi ', ' Sha ', ' Bernhard Wagner ']",

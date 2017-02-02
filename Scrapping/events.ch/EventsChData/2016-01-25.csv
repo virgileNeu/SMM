@@ -1,11 +1,11 @@
-,location,event,date,artists,genre
-0,Zürich,Lunchkonzert,2016-01-25,"[' Lise De La Salle ', ' Bartlomiej Niziol ', ' Claudius Herrmann ']",Classic
-1,Bern,Kammermusik-Konzert,2016-01-25,"['Ramón Ortega Quero ', ' Sebastian Manz ', ' Marc Trenel ', ' David Fernández Alonso ', ' Herbert Schuch ']",Classic
-2,Zürich,Spektrumkonzert-Landscapes-of-Passion,2016-01-25,"['Monika Baer ', ' Jemma Abrahamyan ', ' Ulrike Kaufmann ', ' Brian Franklin ', ' Martin Zeller ']",Classic
-3,Basel,Drei-Grazien-zum-Verlieben,2016-01-25,"[' Bettina Boller ', ' Judith Gerster ', ' Stefka Perifanova ']",Classic
-4,null,Coletta-Slongo-Locher,2016-01-25,"[' Francis Coletta ', ' Eva Slongo ', ' Joel Locher ']",
-5,Bern,Author-&-Punisher,2016-01-25,['Author & Punisher '],
-6,Zürich,Music-Night,2016-01-25,['Andrea Ciabarri '],Pop
-7,Baden,Christoph-Merki-Music-0.1,2016-01-25,"[' Daniel Schenker ', ' Christoph Merki ', ' Ramon Ziegler ', ' Lars Carl Schmid ', ' Mario von Holten ', ' Stephan Athanas ', ' Tony Renold ']",
-8,Rheinfelden,Joe-Locke-Quartet,2016-01-25,"[' Joe Locke ', ' Robert Rodriguez ', ' Ricky Rodriguez ', ' Terreon Gully ']",
-9,Zürich,Bobby-Previte-&-The-Visitors,2016-01-25,"[' Michael Kammers ', ' Mike Gamble ', ' Terence Murren ', ' Bobby Previte ']",
+location,event,date,artists,genre
+Zürich,Lunchkonzert,2016-01-25,"[' Lise De La Salle ', ' Bartlomiej Niziol ', ' Claudius Herrmann ']",Classic
+Bern,Kammermusik-Konzert,2016-01-25,"['Ramón Ortega Quero ', ' Sebastian Manz ', ' Marc Trenel ', ' David Fernández Alonso ', ' Herbert Schuch ']",Classic
+Zürich,Spektrumkonzert-Landscapes-of-Passion,2016-01-25,"['Monika Baer ', ' Jemma Abrahamyan ', ' Ulrike Kaufmann ', ' Brian Franklin ', ' Martin Zeller ']",Classic
+Basel,Drei-Grazien-zum-Verlieben,2016-01-25,"[' Bettina Boller ', ' Judith Gerster ', ' Stefka Perifanova ']",Classic
+null,Coletta-Slongo-Locher,2016-01-25,"[' Francis Coletta ', ' Eva Slongo ', ' Joel Locher ']",
+Bern,Author-&-Punisher,2016-01-25,['Author & Punisher '],
+Zürich,Music-Night,2016-01-25,['Andrea Ciabarri '],Pop
+Baden,Christoph-Merki-Music-0.1,2016-01-25,"[' Daniel Schenker ', ' Christoph Merki ', ' Ramon Ziegler ', ' Lars Carl Schmid ', ' Mario von Holten ', ' Stephan Athanas ', ' Tony Renold ']",
+Rheinfelden,Joe-Locke-Quartet,2016-01-25,"[' Joe Locke ', ' Robert Rodriguez ', ' Ricky Rodriguez ', ' Terreon Gully ']",
+Zürich,Bobby-Previte-&-The-Visitors,2016-01-25,"[' Michael Kammers ', ' Mike Gamble ', ' Terence Murren ', ' Bobby Previte ']",

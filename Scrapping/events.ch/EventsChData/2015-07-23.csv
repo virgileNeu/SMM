@@ -1,20 +1,20 @@
-,location,event,date,artists,genre
-0,Verbier,Verbier-Festival,2015-07-23,['Yekwon Sunwoo '],Classic
-1,Nyon,Paléo-Festival,2015-07-23,['Husbands '],Pop
-2,Nyon,Paléo-Festival,2015-07-23,"['Pascals ', ' The Paradise Bangkok Molam International Band ', ' A Moving Sound ']",
-3,Nyon,Paléo-Festival,2015-07-23,"['Biga Ranx ', ' Chinese Man ', ' Anthony B ', ' Yaniss Odua ']",
-4,Basel,Basel-Tattoo,2015-07-23,"['Ailsa Craig Highland Dancers ', ' Blue Devils International Corps ', ' Celtic Stars Irish Dancers ', ' Fanfara 8° Reggimento Bersaglieri ', ' Imps Motorcycle Display Team ']",traditional
-5,null,Colaris,2015-07-23,['Colaris '],
-6,Nyon,Paléo-Festival,2015-07-23,"['Acid Arab ', ' Faada Freddy ', ' Mina Tindle ']",Electronic
-7,Verbier,Verbier-Festival,2015-07-23,"[' Denis Matsuev ', ' Daniil Trifonov ', ' conductor: Valery Gergiev ']",Classic
-8,Zürich,Salsamania,2015-07-23,['DJs Luis Salgado '],
-9,Nyon,Paléo-Festival,2015-07-23,"['Johnny Hallyday ', ' Ben Harper & The Innocent Criminals ', ' Gary Clark Jr. ']",
-10,Saanen,Menuhin-Festival-Gstaad-The-Genius-of-Stefano-Bollani,2015-07-23,"['Stefano Bollani ', ' Sol Gabetta ']",Classic
-11,Zürich,Red-City-Radio,2015-07-23,['Red City Radio '],
-12,Verbier,Verbier-Festival,2015-07-23,"['Lisa Batiashvili ', ' Ana Chumachenco ', ' Alexandra Conunova ']",Classic
-13,null,Stimmen,2015-07-23,"['Winston McAnuff & Fixi ', ' Clinton Fearon ']",
-14,Luzern,Blue-Balls-Festival,2015-07-23,['Rhodes '],
-15,Luzern,Blue-Balls-Festival,2015-07-23,['Angus & Julia Stone '],
-16,Basel,Perla-Windfeld-Meier,2015-07-23,"[' Tobias Meier ', ' Gene Perla ', ' Christian Windfeld ']",
-17,Zürich,Stadtsommer,2015-07-23,"[' Tom Vanstiphout ', ' Tobias Stuber ', ' Ramon Ziegler ', ' James Varghese ', ' Jannik Till ', ' Giuliano Sulzberger ']",Pop
-18,Maggia,Magic-Blues-Festival,2015-07-23,"['Laurence Jones ', ' Wes Mackey ']",
+location,event,date,artists,genre
+Verbier,Verbier-Festival,2015-07-23,['Yekwon Sunwoo '],Classic
+Nyon,Paléo-Festival,2015-07-23,['Husbands '],Pop
+Nyon,Paléo-Festival,2015-07-23,"['Pascals ', ' The Paradise Bangkok Molam International Band ', ' A Moving Sound ']",
+Nyon,Paléo-Festival,2015-07-23,"['Biga Ranx ', ' Chinese Man ', ' Anthony B ', ' Yaniss Odua ']",
+Basel,Basel-Tattoo,2015-07-23,"['Ailsa Craig Highland Dancers ', ' Blue Devils International Corps ', ' Celtic Stars Irish Dancers ', ' Fanfara 8° Reggimento Bersaglieri ', ' Imps Motorcycle Display Team ']",traditional
+null,Colaris,2015-07-23,['Colaris '],
+Nyon,Paléo-Festival,2015-07-23,"['Acid Arab ', ' Faada Freddy ', ' Mina Tindle ']",Electronic
+Verbier,Verbier-Festival,2015-07-23,"[' Denis Matsuev ', ' Daniil Trifonov ', ' conductor: Valery Gergiev ']",Classic
+Zürich,Salsamania,2015-07-23,['DJs Luis Salgado '],
+Nyon,Paléo-Festival,2015-07-23,"['Johnny Hallyday ', ' Ben Harper & The Innocent Criminals ', ' Gary Clark Jr. ']",
+Saanen,Menuhin-Festival-Gstaad-The-Genius-of-Stefano-Bollani,2015-07-23,"['Stefano Bollani ', ' Sol Gabetta ']",Classic
+Zürich,Red-City-Radio,2015-07-23,['Red City Radio '],
+Verbier,Verbier-Festival,2015-07-23,"['Lisa Batiashvili ', ' Ana Chumachenco ', ' Alexandra Conunova ']",Classic
+null,Stimmen,2015-07-23,"['Winston McAnuff & Fixi ', ' Clinton Fearon ']",
+Luzern,Blue-Balls-Festival,2015-07-23,['Rhodes '],
+Luzern,Blue-Balls-Festival,2015-07-23,['Angus & Julia Stone '],
+Basel,Perla-Windfeld-Meier,2015-07-23,"[' Tobias Meier ', ' Gene Perla ', ' Christian Windfeld ']",
+Zürich,Stadtsommer,2015-07-23,"[' Tom Vanstiphout ', ' Tobias Stuber ', ' Ramon Ziegler ', ' James Varghese ', ' Jannik Till ', ' Giuliano Sulzberger ']",Pop
+Maggia,Magic-Blues-Festival,2015-07-23,"['Laurence Jones ', ' Wes Mackey ']",

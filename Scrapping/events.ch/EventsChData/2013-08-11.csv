@@ -1,10 +1,10 @@
-,location,event,date,artists,genre
-0,Heiternplatz,Zofingen,2013-08-11,"[' Prinz Pi ', ' Noisettes ']",Noisettes
-1,null,She,2013-08-11,[' Françoise Kouril '],Pop
-2,-Alte-Kirche,Boswil,2013-08-11,[' Immanuel Richter '],Classic
-3,Heiternplatz,Zofingen,2013-08-11,"['Unheilig ', ' Rita Ora ']",Unheilig
-4,Fischingen,Orgel-und-Percussion,2013-08-11,"['Christoph Wartenweiler ', ' Willi Forster ']",Classic
-5,Thun,Konzertliebe-Bachwochen-Thun,2013-08-11,"['Albrecht Mayer ', ' Alexis Vincent ']",Classic
-6,Môtiers,Apérokonzert-Klezmer-zu-viert,2013-08-11,"[' Alessandra Osella ', ' Lucia Marino ', ' Anna Paraschiv ', ' Elisabetta Bosio ']",Classic
-7,Saanen,Progetto-Vivaldi,2013-08-11,"[' Sol Gabetta ', ' conductor: Andrés Gabetta ']",Classic
-8,Winterthur,Appenzeller-Jazzkapelle,2013-08-11,"[' Remo Signer ', ' Patrick Kessler ', ' Fabian Müller ', ' Reto Suhner ']",Pop
+location,event,date,artists,genre
+Heiternplatz,Zofingen,2013-08-11,"[' Prinz Pi ', ' Noisettes ']",Noisettes
+null,She,2013-08-11,[' Françoise Kouril '],Pop
+-Alte-Kirche,Boswil,2013-08-11,[' Immanuel Richter '],Classic
+Heiternplatz,Zofingen,2013-08-11,"['Unheilig ', ' Rita Ora ']",Unheilig
+Fischingen,Orgel-und-Percussion,2013-08-11,"['Christoph Wartenweiler ', ' Willi Forster ']",Classic
+Thun,Konzertliebe-Bachwochen-Thun,2013-08-11,"['Albrecht Mayer ', ' Alexis Vincent ']",Classic
+Môtiers,Apérokonzert-Klezmer-zu-viert,2013-08-11,"[' Alessandra Osella ', ' Lucia Marino ', ' Anna Paraschiv ', ' Elisabetta Bosio ']",Classic
+Saanen,Progetto-Vivaldi,2013-08-11,"[' Sol Gabetta ', ' conductor: Andrés Gabetta ']",Classic
+Winterthur,Appenzeller-Jazzkapelle,2013-08-11,"[' Remo Signer ', ' Patrick Kessler ', ' Fabian Müller ', ' Reto Suhner ']",Pop

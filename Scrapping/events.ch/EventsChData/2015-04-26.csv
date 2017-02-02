@@ -1,27 +1,27 @@
-,location,event,date,artists,genre
-0,Luzern,Jazz-am-Sonntigmorge,2015-04-26,"[' Heinz Bühler ', ' Rudolf Knöpfel ', ' Beat Uhlmann ', ' Heinz Geissbühler ', ' Walter Sterchi  ', ' Fred Lüthi  ', ' Rolf Rebmann ']",
-1,Bern,L'histoire-du-soldat,2015-04-26,"['Fíona-Aileen Kraege ', ' Matteo Burci ', ' Gabor Horváth ', ' Heidrun Wirth-Metzler ', ' Milko Raspanti ', ' Stanley Clark ', ' Mihaela Despa ', ' Andri Schenardi ']",Classic
-2,Zürich,Inspiration-Japan,2015-04-26,[' Wolfgang Hessler '],Classic
-3,null,5.-Meisterzyklus-Konzert-Beethoven-Fest,2015-04-26,"['Annette von Hehn ', ' Stefan Heinemeyer ', ' Thomas Hoppe ']",Classic
-4,Zug,Strauss-mit-Schlagobers,2015-04-26,[' Benjamin Schmid '],Classic
-5,Zürich,Eliza-Rickman,2015-04-26,['Eliza Rickman '],
-6,Dornach,Frauenliebe-und-leben,2015-04-26,"['Manuela Maria Hager ', ' Susanne Wessel ', ' Nadia Carboni ']",Classic
-7,null,5.-Meisterzyklus-Konzert-Beethoven-Fest,2015-04-26,"['Annette von Hehn ', ' Stefan Heinemeyer ', ' Thomas Hoppe ']",Classic
-8,null,Zwei-Musiker-eine-Entdeckung,2015-04-26,"['Giuliano Carmignola ', ' Yasuyo Yano ']",Classic
-9,Zürich,Liebeslieder-im-Schatten-des-Samowar,2015-04-26,"['Valentyna Halushko ', ' Oleksandr Chugai ']",Classic
-10,Basel,Frühlingsklänge,2015-04-26,['Susanne Böke '],Classic
-11,Basel,Mitten-wir-im-Leben-sind-mit-dem-Tod-umfangen,2015-04-26,"[' Katrin Zolnhofer ', ' Laszlo Villanyi ', ' Lukas Briggen ']",Classic
-12,Pieterlen,Brooks-Williams,2015-04-26,['Brooks Williams '],
-13,Bern,Meisterkonzert,2015-04-26,['Daniel Hope '],Classic
-14,Oberengstringen,Stevens-Fonda-Ulrich,2015-04-26,"[' Michael Jefry Stevens ', ' Joe Fonda ', ' Dieter Ulrich ']",
-15,Kappel-am-Albis,Musik-und-Wort,2015-04-26,"['Susanne Ehrhardt ', ' Andreas Schlegel ', ' Jürg Tobler ']",Classic
-16,Basel,El-calderón-afrolatino,2015-04-26,"[' Alcides Toirac ', ' Juan Munguia ', ' Ohlê Gagneux ', ' Jorge-Luís Gonzalez ']",
-17,Zürich,Kellylee-Evans,2015-04-26,"['Kellylee Evans ', ' Kellylee Evans ', ' Raph O Baker ', ' Eric Lohrer ', ' Dan Romeo ', ' Fabrice Moreau ']",
-18,Brugg,Elina-Duni-Quartett,2015-04-26,"[' Elina Duni ', ' Colin Vallon ', ' Lukas Troxler ', ' Norbert Pfammatter ']",
-19,null,Lynyrd-Skynyrd,2015-04-26,['Lynyrd Skynyrd '],
-20,Basel,Konstantin-Wecker,2015-04-26,['Konstantin Wecker '],Pop
-21,Luzern,The-Lord-of-the-Rings,2015-04-26,[' Kaitlyn Lusk '],Classic
-22,Basel,Jazzfestival-Basel,2015-04-26,"[' Vicent Peirani ', ' Emilie Parisien ', ' Jerome Regard ', ' Gabor Bolla ', ' Andi Kiesenbeck ']",
-23,Zürich,Jesper-Munk,2015-04-26,"['Jesper Munk ', ' support: Nick And The Roundabouts ']",
-24,Pratteln,Prong,2015-04-26,"['Prong ', ' Steak Number Eight ', ' Hark ']",
-25,Bern,Shanir-Blumenkranz-Abraxas,2015-04-26,['Shanir Blumenkranz Abraxas '],Electronic
+location,event,date,artists,genre
+Luzern,Jazz-am-Sonntigmorge,2015-04-26,"[' Heinz Bühler ', ' Rudolf Knöpfel ', ' Beat Uhlmann ', ' Heinz Geissbühler ', ' Walter Sterchi  ', ' Fred Lüthi  ', ' Rolf Rebmann ']",
+Bern,L'histoire-du-soldat,2015-04-26,"['Fíona-Aileen Kraege ', ' Matteo Burci ', ' Gabor Horváth ', ' Heidrun Wirth-Metzler ', ' Milko Raspanti ', ' Stanley Clark ', ' Mihaela Despa ', ' Andri Schenardi ']",Classic
+Zürich,Inspiration-Japan,2015-04-26,[' Wolfgang Hessler '],Classic
+null,5.-Meisterzyklus-Konzert-Beethoven-Fest,2015-04-26,"['Annette von Hehn ', ' Stefan Heinemeyer ', ' Thomas Hoppe ']",Classic
+Zug,Strauss-mit-Schlagobers,2015-04-26,[' Benjamin Schmid '],Classic
+Zürich,Eliza-Rickman,2015-04-26,['Eliza Rickman '],
+Dornach,Frauenliebe-und-leben,2015-04-26,"['Manuela Maria Hager ', ' Susanne Wessel ', ' Nadia Carboni ']",Classic
+null,5.-Meisterzyklus-Konzert-Beethoven-Fest,2015-04-26,"['Annette von Hehn ', ' Stefan Heinemeyer ', ' Thomas Hoppe ']",Classic
+null,Zwei-Musiker-eine-Entdeckung,2015-04-26,"['Giuliano Carmignola ', ' Yasuyo Yano ']",Classic
+Zürich,Liebeslieder-im-Schatten-des-Samowar,2015-04-26,"['Valentyna Halushko ', ' Oleksandr Chugai ']",Classic
+Basel,Frühlingsklänge,2015-04-26,['Susanne Böke '],Classic
+Basel,Mitten-wir-im-Leben-sind-mit-dem-Tod-umfangen,2015-04-26,"[' Katrin Zolnhofer ', ' Laszlo Villanyi ', ' Lukas Briggen ']",Classic
+Pieterlen,Brooks-Williams,2015-04-26,['Brooks Williams '],
+Bern,Meisterkonzert,2015-04-26,['Daniel Hope '],Classic
+Oberengstringen,Stevens-Fonda-Ulrich,2015-04-26,"[' Michael Jefry Stevens ', ' Joe Fonda ', ' Dieter Ulrich ']",
+Kappel-am-Albis,Musik-und-Wort,2015-04-26,"['Susanne Ehrhardt ', ' Andreas Schlegel ', ' Jürg Tobler ']",Classic
+Basel,El-calderón-afrolatino,2015-04-26,"[' Alcides Toirac ', ' Juan Munguia ', ' Ohlê Gagneux ', ' Jorge-Luís Gonzalez ']",
+Zürich,Kellylee-Evans,2015-04-26,"['Kellylee Evans ', ' Kellylee Evans ', ' Raph O Baker ', ' Eric Lohrer ', ' Dan Romeo ', ' Fabrice Moreau ']",
+Brugg,Elina-Duni-Quartett,2015-04-26,"[' Elina Duni ', ' Colin Vallon ', ' Lukas Troxler ', ' Norbert Pfammatter ']",
+null,Lynyrd-Skynyrd,2015-04-26,['Lynyrd Skynyrd '],
+Basel,Konstantin-Wecker,2015-04-26,['Konstantin Wecker '],Pop
+Luzern,The-Lord-of-the-Rings,2015-04-26,[' Kaitlyn Lusk '],Classic
+Basel,Jazzfestival-Basel,2015-04-26,"[' Vicent Peirani ', ' Emilie Parisien ', ' Jerome Regard ', ' Gabor Bolla ', ' Andi Kiesenbeck ']",
+Zürich,Jesper-Munk,2015-04-26,"['Jesper Munk ', ' support: Nick And The Roundabouts ']",
+Pratteln,Prong,2015-04-26,"['Prong ', ' Steak Number Eight ', ' Hark ']",
+Bern,Shanir-Blumenkranz-Abraxas,2015-04-26,['Shanir Blumenkranz Abraxas '],Electronic

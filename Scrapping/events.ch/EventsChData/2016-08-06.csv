@@ -1,19 +1,19 @@
-,location,event,date,artists,genre
-0,Gstaad,Matinée-des-jeunes-étoiles-IV,2016-08-06,"['Christel Lee ', ' Mamikon Nakhapetov ']",Classic
-1,Brienz,Brienzersee-Rockfestival,2016-08-06,"[' Stacie Collins ', ' The Darkness ', ' Reckless Love ']",
-2,Wil,Fête-de-Lion,2016-08-06,"['Who Made Who ', ' Goose ', ' Cuban Beats All Stars ', "" Fuck Art Let's Dance "", ' Shields ', ' Isolation Berlin ', ' Razz ', ' Undergrünnen ']",Pop
-3,Avenches,Rock-Oz'Arènes,2016-08-06,"['Limp Bizkit ', ' Apocalyptica ', ' Casseurs Flowters ']",
-4,Avenches,Rock-Oz'Arènes,2016-08-06,"['Uriah Heep ', ' Oscar and The Wolf ', ' The Inspector Cluzo ']",
-5,Pratteln,River-Nights,2016-08-06,"['Richard Ashcroft ', ' Garbage ', ' The Subways ']",
-6,St.-Moritz,Festival-da-Jazz,2016-08-06,"[' Christoph Grab ', ' Marcel Thomi ', ' Elmar Frey ']",
-7,Pratteln,Konzerte-im-Hof-'Mad-Songs',2016-08-06,"['Lisandro Abadie ', ' Monica Pustilnik ', ' Liebe und Schmerz. Abendkasse ab 17 Uhr. ']",Classic
-8,Verbier,Verbier-Festival,2016-08-06,"['Joshua Bell ', ' George Li ']",Classic
-9,Gstaad,Musique-&-Famille-XIII,2016-08-06,"['Regula Mühlemann ', ' Sol Gabetta ', ' Ivan Monighetti ', ' Monika Leskovar ']",Classic
-10,Verbier,Verbier-Festival,2016-08-06,['Joaquin Achucarro '],Classic
-11,Zürich,Royal-Reggae-Festival,2016-08-06,"['Lutan Fyah ', '  Rebellion the Recaller ']",
-12,Frauenfeld,Sommerloch,2016-08-06,['Mojo Monkeys '],
-13,Bern,Bejazz-Sommer,2016-08-06,"[' Florian Weiss ', ' Linus Amstad ', ' Rafael Jerjen ', ' Philipp Leibundgut ']",
-14,St.-Moritz,Festival-da-Jazz,2016-08-06,"['Bill Evans ', ' Bill Evans ', ' Bryan Baker ', ' Dave Anderson ', ' Josh Dion ']",
-15,Basel,Im-Fluss,2016-08-06,['Graham Candy '],Pop
-16,Bern,Bejazz-Sommer,2016-08-06,"[' Marc Stucki ', ' Oli Zurkirchen ', ' Jeremias Keller ', ' Flo Reichle ']",
-17,St.-Moritz,Festival-da-Jazz,2016-08-06,"[' Jared La Casce ', ' Patric Sargent ', ' Mchael Fatum ', ' Tall Sam Crittenden ', ' Alden Harris McCoy ', ' Mike Big Red Harlem ', ' John Fonseca Fatum ']",
+location,event,date,artists,genre
+Gstaad,Matinée-des-jeunes-étoiles-IV,2016-08-06,"['Christel Lee ', ' Mamikon Nakhapetov ']",Classic
+Brienz,Brienzersee-Rockfestival,2016-08-06,"[' Stacie Collins ', ' The Darkness ', ' Reckless Love ']",
+Wil,Fête-de-Lion,2016-08-06,"['Who Made Who ', ' Goose ', ' Cuban Beats All Stars ', "" Fuck Art Let's Dance "", ' Shields ', ' Isolation Berlin ', ' Razz ', ' Undergrünnen ']",Pop
+Avenches,Rock-Oz'Arènes,2016-08-06,"['Limp Bizkit ', ' Apocalyptica ', ' Casseurs Flowters ']",
+Avenches,Rock-Oz'Arènes,2016-08-06,"['Uriah Heep ', ' Oscar and The Wolf ', ' The Inspector Cluzo ']",
+Pratteln,River-Nights,2016-08-06,"['Richard Ashcroft ', ' Garbage ', ' The Subways ']",
+St.-Moritz,Festival-da-Jazz,2016-08-06,"[' Christoph Grab ', ' Marcel Thomi ', ' Elmar Frey ']",
+Pratteln,Konzerte-im-Hof-'Mad-Songs',2016-08-06,"['Lisandro Abadie ', ' Monica Pustilnik ', ' Liebe und Schmerz. Abendkasse ab 17 Uhr. ']",Classic
+Verbier,Verbier-Festival,2016-08-06,"['Joshua Bell ', ' George Li ']",Classic
+Gstaad,Musique-&-Famille-XIII,2016-08-06,"['Regula Mühlemann ', ' Sol Gabetta ', ' Ivan Monighetti ', ' Monika Leskovar ']",Classic
+Verbier,Verbier-Festival,2016-08-06,['Joaquin Achucarro '],Classic
+Zürich,Royal-Reggae-Festival,2016-08-06,"['Lutan Fyah ', '  Rebellion the Recaller ']",
+Frauenfeld,Sommerloch,2016-08-06,['Mojo Monkeys '],
+Bern,Bejazz-Sommer,2016-08-06,"[' Florian Weiss ', ' Linus Amstad ', ' Rafael Jerjen ', ' Philipp Leibundgut ']",
+St.-Moritz,Festival-da-Jazz,2016-08-06,"['Bill Evans ', ' Bill Evans ', ' Bryan Baker ', ' Dave Anderson ', ' Josh Dion ']",
+Basel,Im-Fluss,2016-08-06,['Graham Candy '],Pop
+Bern,Bejazz-Sommer,2016-08-06,"[' Marc Stucki ', ' Oli Zurkirchen ', ' Jeremias Keller ', ' Flo Reichle ']",
+St.-Moritz,Festival-da-Jazz,2016-08-06,"[' Jared La Casce ', ' Patric Sargent ', ' Mchael Fatum ', ' Tall Sam Crittenden ', ' Alden Harris McCoy ', ' Mike Big Red Harlem ', ' John Fonseca Fatum ']",

@@ -1,23 +1,23 @@
-,location,event,date,artists,genre
-0,Luzern,Lucerne-Festival-Young-Familienkonzert-2,2016-08-21,"[' Jakob Encke ', ' Daniel Stoll ', ' Sander Stuart ', ' Leonard Disselhorst ']",Classic
-1,Gampel,Openair-Gampel,2016-08-21,['Glasperlenspiel '],
-2,Basel,Saitensprünge,2016-08-21,[' Benedikt Schobel '],Classic
-3,Gampel,Openair-Gampel,2016-08-21,"['G-Eazy ', ' Red ']",
-4,Zürich,Les-digitales,2016-08-21,"['Weval ', ' Roel Funcken ', ' Mario Hammer And The Lonely Robot ']",Electronic
-5,Saanen,Jodlermesse,2016-08-21,[' Wolfgang Sieber '],Classic
-6,Luzern,Lucerne-Festival-Young-Familienkonzert-3,2016-08-21,"[' Jakob Encke ', ' Daniel Stoll ', ' Sander Stuart ', ' Leonard Disselhorst ']",Classic
-7,Luzern,Lucerne-Festival-Erlebnistag-Konzert-3,2016-08-21,[' conductor: Arabella Steinbacher '],Classic
-8,Zürich,Werner-und-Company,2016-08-21,['Werner und Company '],traditional
-9,Walkringen,Galeriekonzert,2016-08-21,"['Vera Wenkert ', ' Daniel Mauerhofer ', ' Boris Chnaider ']",Classic
-10,Uster,H2U-Stimmenfestival-Uster,2016-08-21,['Marla Glen '],Pop
-11,Winterthur,Winterthurer-Musikfestwochen,2016-08-21,"['A-Wa ', ' Heymoonshaker ', ' Lola Marsh ']",
-12,Fischingen,Tanzmusik-auf-der-Orgel,2016-08-21,['Eun-Hye Lee '],Classic
-13,Zürich,Heiteres-für-Orgel-und-Erzähler,2016-08-21,['Alexander Seidel '],Classic
-14,null,Verdi-Openair-Wil,2016-08-21,"[' Sorin Coliban ', ' Nicole Bosshard ', ' Mona Somm ']",Classic
-15,Luzern,Lucerne-Festival-Erlebnistag-Konzert-5,2016-08-21,[' Yulianna Avdeeva '],Classic
-16,Schwyz,Konzert-mit-Panflöte-und-Orgel,2016-08-21,"['Jörg Frei ', ' Bernhard Hörler ']",Classic
-17,Pratteln,Queensryche,2016-08-21,"['Queensryche ', ' Archer Nation ']",
-18,Winterthur,Winterthurer-Musikfestwochen,2016-08-21,['Colm Mac Con Iomaire '],
-19,Zürich,Zürcher-Theater-Spektakel,2016-08-21,['Kalàscima '],
-20,Zürich,Tango-Soiree,2016-08-21,"[' Praxedis Hug-Rütti ', ' Praxedis Genevieve Hug ']",Classic
-21,Winterthur,Throws,2016-08-21,['Throws '],Pop
+location,event,date,artists,genre
+Luzern,Lucerne-Festival-Young-Familienkonzert-2,2016-08-21,"[' Jakob Encke ', ' Daniel Stoll ', ' Sander Stuart ', ' Leonard Disselhorst ']",Classic
+Gampel,Openair-Gampel,2016-08-21,['Glasperlenspiel '],
+Basel,Saitensprünge,2016-08-21,[' Benedikt Schobel '],Classic
+Gampel,Openair-Gampel,2016-08-21,"['G-Eazy ', ' Red ']",
+Zürich,Les-digitales,2016-08-21,"['Weval ', ' Roel Funcken ', ' Mario Hammer And The Lonely Robot ']",Electronic
+Saanen,Jodlermesse,2016-08-21,[' Wolfgang Sieber '],Classic
+Luzern,Lucerne-Festival-Young-Familienkonzert-3,2016-08-21,"[' Jakob Encke ', ' Daniel Stoll ', ' Sander Stuart ', ' Leonard Disselhorst ']",Classic
+Luzern,Lucerne-Festival-Erlebnistag-Konzert-3,2016-08-21,[' conductor: Arabella Steinbacher '],Classic
+Zürich,Werner-und-Company,2016-08-21,['Werner und Company '],traditional
+Walkringen,Galeriekonzert,2016-08-21,"['Vera Wenkert ', ' Daniel Mauerhofer ', ' Boris Chnaider ']",Classic
+Uster,H2U-Stimmenfestival-Uster,2016-08-21,['Marla Glen '],Pop
+Winterthur,Winterthurer-Musikfestwochen,2016-08-21,"['A-Wa ', ' Heymoonshaker ', ' Lola Marsh ']",
+Fischingen,Tanzmusik-auf-der-Orgel,2016-08-21,['Eun-Hye Lee '],Classic
+Zürich,Heiteres-für-Orgel-und-Erzähler,2016-08-21,['Alexander Seidel '],Classic
+null,Verdi-Openair-Wil,2016-08-21,"[' Sorin Coliban ', ' Nicole Bosshard ', ' Mona Somm ']",Classic
+Luzern,Lucerne-Festival-Erlebnistag-Konzert-5,2016-08-21,[' Yulianna Avdeeva '],Classic
+Schwyz,Konzert-mit-Panflöte-und-Orgel,2016-08-21,"['Jörg Frei ', ' Bernhard Hörler ']",Classic
+Pratteln,Queensryche,2016-08-21,"['Queensryche ', ' Archer Nation ']",
+Winterthur,Winterthurer-Musikfestwochen,2016-08-21,['Colm Mac Con Iomaire '],
+Zürich,Zürcher-Theater-Spektakel,2016-08-21,['Kalàscima '],
+Zürich,Tango-Soiree,2016-08-21,"[' Praxedis Hug-Rütti ', ' Praxedis Genevieve Hug ']",Classic
+Winterthur,Throws,2016-08-21,['Throws '],Pop

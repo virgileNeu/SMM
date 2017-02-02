@@ -1,12 +1,12 @@
-,location,event,date,artists,genre
-0,Le-Locle,Rock-Altitude-Festival,2015-08-12,"['The Dillinger Escape Plan ', ' Les tambours du Bronx ', ' Black Tusk ', ' Closet Disco Queen ']",
-1,Zürich,Jazz-Arcades,2015-08-12,"[' Dave Gisler ', ' Raphael Walser ']",
-2,Avenches,Rock-Oz'Arènes,2015-08-12,"['Florent Pagny ', ' I Muvrini ']",Pop
-3,Basel,Altstadt-Serenaden-2015,2015-08-12,['Duo Mrika Sefa '],Classic
-4,Zürich,Internationale-Orgelkonzerte-Sommerzyklus,2015-08-12,['Andreas Jud '],Classic
-5,Winterthur,Winterthurer-Musikfestwochen,2015-08-12,"['Augustines ', ' Robbing Millions ']",
-6,Luzern,Cannibal-Corpse,2015-08-12,['Cannibal Corpse '],
-7,Zürich,Dropkick-Murphys,2015-08-12,['Dropkick Muphys '],
-8,Pratteln,Black-Stone-Cherry,2015-08-12,['Black Stone Cherry '],
-9,Basel,Generations'-Unit-feat.-Adrian-Maers,2015-08-12,"[' Evan Shay ', ' Maurus Twerenbold ', ' Samuel Leipold ', ' Andreas Feith ', ' Grzegorz Wlodarczyk ', ' Peter Primus Frosch ', ' Adrian Mears ']",
-10,Winterthur,Winterthurer-Musikfestwochen,2015-08-12,['Ibeyi '],
+location,event,date,artists,genre
+Le-Locle,Rock-Altitude-Festival,2015-08-12,"['The Dillinger Escape Plan ', ' Les tambours du Bronx ', ' Black Tusk ', ' Closet Disco Queen ']",
+Zürich,Jazz-Arcades,2015-08-12,"[' Dave Gisler ', ' Raphael Walser ']",
+Avenches,Rock-Oz'Arènes,2015-08-12,"['Florent Pagny ', ' I Muvrini ']",Pop
+Basel,Altstadt-Serenaden-2015,2015-08-12,['Duo Mrika Sefa '],Classic
+Zürich,Internationale-Orgelkonzerte-Sommerzyklus,2015-08-12,['Andreas Jud '],Classic
+Winterthur,Winterthurer-Musikfestwochen,2015-08-12,"['Augustines ', ' Robbing Millions ']",
+Luzern,Cannibal-Corpse,2015-08-12,['Cannibal Corpse '],
+Zürich,Dropkick-Murphys,2015-08-12,['Dropkick Muphys '],
+Pratteln,Black-Stone-Cherry,2015-08-12,['Black Stone Cherry '],
+Basel,Generations'-Unit-feat.-Adrian-Maers,2015-08-12,"[' Evan Shay ', ' Maurus Twerenbold ', ' Samuel Leipold ', ' Andreas Feith ', ' Grzegorz Wlodarczyk ', ' Peter Primus Frosch ', ' Adrian Mears ']",
+Winterthur,Winterthurer-Musikfestwochen,2015-08-12,['Ibeyi '],

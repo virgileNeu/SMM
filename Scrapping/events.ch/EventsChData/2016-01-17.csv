@@ -1,24 +1,24 @@
-,location,event,date,artists,genre
-0,Bern,Psycho,2016-01-17,[' conductor: Daniel Bard '],Classic
-1,Basel,Die-Sage-von-der-Teufelsbrücke,2016-01-17,"[' Cyrill Greter ', ' Julien Mégroz ', ' Matteo Schenardi ']",Classic
-2,Zürich,Werner-und-Company,2016-01-17,['Werner und Company '],Pop
-3,Zürich,Üben-aufwachen-aufstehen-üben-üben-üben,2016-01-17,"['Peter McGuire ', ' Katja Fuchs ', ' Anita Leuzinger ', ' Frank Sanderell ', ' Anton Kernjak ']",Classic
-4,Zürich,Werner-und-Company,2016-01-17,['Werner und Company '],Pop
-5,Basel,Homo-Eroticus-und-Kirchen-Compositeur,2016-01-17,"[' Marc Lachat ', ' Samuel Retaillaud ', ' Benedikt Schobel ', ' David Blunden ']",Classic
-6,Basel,Orgel-und-Kammermusik-in-der-Tituskirche,2016-01-17,"['Stefan Vock ', ' Susanne Jenne-Linde ']",Classic
-7,null,Streichquintett-Hommage-à-Zoltan-Toth,2016-01-17,"['Erzsébet Barnácz ', ' Delphine Richard ', ' Clément Boudrant ', ' Frédéric Carrière ', ' Sébastien Bréguet ']",Classic
-8,Bern,American-Footprints,2016-01-17,"[' Chen Halevi ', ' Anna Adamik ', ' Vera Schnider ', ' conductor: Daniel Bard ']",Classic
-9,null,Rosset-Meyer-Geiger-feat.-Co-Streiff,2016-01-17,"[' Josquin Rosset ', ' Gabriel Meyer ', ' Jan Geiger ']",
-10,-Alte-Kirche,Boswil,2016-01-17,"['Ingolf Turban ', ' Sebastian Bohren ', ' Dmitri Demiashkin ']",Classic
-11,Basel,Begegnung-mit-Musik-TrioPlus-Klarinette,2016-01-17,"[' Emilie Haudenschild ', ' Monika Clemann ', ' Emeric Kostyák ', ' Fabio di Càsola ']",Classic
-12,Laufen,Pílagrímr,2016-01-17,[' Alexandra Nigito '],Classic
-13,Basel,Eine-musikalische-Skizze-Griechenlands,2016-01-17,"['Ilektra Platiopoulou ', ' Zoi Tsokanou ']",
-14,Zürich,Trost-im-Hier-und-Jetzt,2016-01-17,"[' Camilla Tilling ', ' Christian Gerhaher ']",Classic
-15,Zürich,Ethno-Trance-Trio,2016-01-17,"[' Gudimir Gusli ', ' Simon Wyrsch ', ' Marc Halbheer ']",
-16,Winterthur,Winterreise,2016-01-17,"['Christoph Germann ', ' Jun Onaka ']",Classic
-17,Luzern,Rezital-Sol-Gabetta,2016-01-17,"['Sol Gabetta ', ' Alexei Volodin ']",Classic
-18,null,Flautetto-vindonissa,2016-01-17,"['Nora Becker ', ' Michela Borioli ', ' Chelsea Czuchra ', ' Masaya Higashigaito ']",Classic
-19,Zürich,Int.-Zürcher-Orgeltage,2016-01-17,"[' Hossein Samieian ', ' Kurt Meier ', ' Felix Gubser ']",Classic
-20,Winterthur,Singer's-Tale,2016-01-17,"[' Katharina Busch ', ' Levin Deger ', ' Bruno Jundt ']",
-21,Zürich,Lambert,2016-01-17,['Lambert '],Pop
-22,Bern,Gutbucket,2016-01-17,"['Gutbucket ', ' Ken Thomson ', ' Ty Citerman ', ' Pat Swoboda ', ' Adam D Gold ']",
+location,event,date,artists,genre
+Bern,Psycho,2016-01-17,[' conductor: Daniel Bard '],Classic
+Basel,Die-Sage-von-der-Teufelsbrücke,2016-01-17,"[' Cyrill Greter ', ' Julien Mégroz ', ' Matteo Schenardi ']",Classic
+Zürich,Werner-und-Company,2016-01-17,['Werner und Company '],Pop
+Zürich,Üben-aufwachen-aufstehen-üben-üben-üben,2016-01-17,"['Peter McGuire ', ' Katja Fuchs ', ' Anita Leuzinger ', ' Frank Sanderell ', ' Anton Kernjak ']",Classic
+Zürich,Werner-und-Company,2016-01-17,['Werner und Company '],Pop
+Basel,Homo-Eroticus-und-Kirchen-Compositeur,2016-01-17,"[' Marc Lachat ', ' Samuel Retaillaud ', ' Benedikt Schobel ', ' David Blunden ']",Classic
+Basel,Orgel-und-Kammermusik-in-der-Tituskirche,2016-01-17,"['Stefan Vock ', ' Susanne Jenne-Linde ']",Classic
+null,Streichquintett-Hommage-à-Zoltan-Toth,2016-01-17,"['Erzsébet Barnácz ', ' Delphine Richard ', ' Clément Boudrant ', ' Frédéric Carrière ', ' Sébastien Bréguet ']",Classic
+Bern,American-Footprints,2016-01-17,"[' Chen Halevi ', ' Anna Adamik ', ' Vera Schnider ', ' conductor: Daniel Bard ']",Classic
+null,Rosset-Meyer-Geiger-feat.-Co-Streiff,2016-01-17,"[' Josquin Rosset ', ' Gabriel Meyer ', ' Jan Geiger ']",
+-Alte-Kirche,Boswil,2016-01-17,"['Ingolf Turban ', ' Sebastian Bohren ', ' Dmitri Demiashkin ']",Classic
+Basel,Begegnung-mit-Musik-TrioPlus-Klarinette,2016-01-17,"[' Emilie Haudenschild ', ' Monika Clemann ', ' Emeric Kostyák ', ' Fabio di Càsola ']",Classic
+Laufen,Pílagrímr,2016-01-17,[' Alexandra Nigito '],Classic
+Basel,Eine-musikalische-Skizze-Griechenlands,2016-01-17,"['Ilektra Platiopoulou ', ' Zoi Tsokanou ']",
+Zürich,Trost-im-Hier-und-Jetzt,2016-01-17,"[' Camilla Tilling ', ' Christian Gerhaher ']",Classic
+Zürich,Ethno-Trance-Trio,2016-01-17,"[' Gudimir Gusli ', ' Simon Wyrsch ', ' Marc Halbheer ']",
+Winterthur,Winterreise,2016-01-17,"['Christoph Germann ', ' Jun Onaka ']",Classic
+Luzern,Rezital-Sol-Gabetta,2016-01-17,"['Sol Gabetta ', ' Alexei Volodin ']",Classic
+null,Flautetto-vindonissa,2016-01-17,"['Nora Becker ', ' Michela Borioli ', ' Chelsea Czuchra ', ' Masaya Higashigaito ']",Classic
+Zürich,Int.-Zürcher-Orgeltage,2016-01-17,"[' Hossein Samieian ', ' Kurt Meier ', ' Felix Gubser ']",Classic
+Winterthur,Singer's-Tale,2016-01-17,"[' Katharina Busch ', ' Levin Deger ', ' Bruno Jundt ']",
+Zürich,Lambert,2016-01-17,['Lambert '],Pop
+Bern,Gutbucket,2016-01-17,"['Gutbucket ', ' Ken Thomson ', ' Ty Citerman ', ' Pat Swoboda ', ' Adam D Gold ']",

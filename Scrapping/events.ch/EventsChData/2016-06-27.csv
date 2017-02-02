@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,Luzern,Master-Abschlusskonzerte,2016-06-27,['Victor Varga '],Classic
-1,Luzern,Master-Abschlusskonzerte,2016-06-27,['Rodrigo Moro Martin '],Classic
-2,Luzern,Master-Abschlusskonzerte,2016-06-27,['James Vanderspar '],Classic
-3,Luzern,Master-Abschlusskonzerte,2016-06-27,['Ruben Hermann '],Classic
-4,Zürich,Monday-Jazz,2016-06-27,"[' Angelo Signore ', ' Ueli Gasser ', ' Philippe Mall ', ' Luciano Maranta ', ' Willy Kotoun ', ' Robert Mark ']",
-5,Pratteln,Slayer,2016-06-27,['Slayer '],
-6,Bern,Aljaz-Cvirn,2016-06-27,['Aljaz Cvirn '],
-7,Zürich,Nik-Bärtsch's-Ronin,2016-06-27,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
-8,Luzern,Master-Abschlusskonzerte,2016-06-27,['Sarah Pirrotte '],Classic
-9,Solothurn,Steve-Vai,2016-06-27,['Steve Vai '],
-10,-Alte-Kirche,Boswil,2016-06-27,"[' Ian Bostridge ', ' Julius Drake ']",Classic
-11,Luzern,Master-Abschlusskonzerte,2016-06-27,['Konstantin Shumilin '],Classic
-12,Zürich,Casa-Verde-Colectivo,2016-06-27,['Casa Verde Colectivo '],
+location,event,date,artists,genre
+Luzern,Master-Abschlusskonzerte,2016-06-27,['Victor Varga '],Classic
+Luzern,Master-Abschlusskonzerte,2016-06-27,['Rodrigo Moro Martin '],Classic
+Luzern,Master-Abschlusskonzerte,2016-06-27,['James Vanderspar '],Classic
+Luzern,Master-Abschlusskonzerte,2016-06-27,['Ruben Hermann '],Classic
+Zürich,Monday-Jazz,2016-06-27,"[' Angelo Signore ', ' Ueli Gasser ', ' Philippe Mall ', ' Luciano Maranta ', ' Willy Kotoun ', ' Robert Mark ']",
+Pratteln,Slayer,2016-06-27,['Slayer '],
+Bern,Aljaz-Cvirn,2016-06-27,['Aljaz Cvirn '],
+Zürich,Nik-Bärtsch's-Ronin,2016-06-27,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
+Luzern,Master-Abschlusskonzerte,2016-06-27,['Sarah Pirrotte '],Classic
+Solothurn,Steve-Vai,2016-06-27,['Steve Vai '],
+-Alte-Kirche,Boswil,2016-06-27,"[' Ian Bostridge ', ' Julius Drake ']",Classic
+Luzern,Master-Abschlusskonzerte,2016-06-27,['Konstantin Shumilin '],Classic
+Zürich,Casa-Verde-Colectivo,2016-06-27,['Casa Verde Colectivo '],

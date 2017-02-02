@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Zürich,Exklusive-Klangfarben-Kammermusik-mit-Harfe,2016-02-11,"['Sabine Poyé Morel ', ' Gilad Karni ', ' Sarah Verrue ']",Classic
-1,Zürich,Glantaler-Power-Men,2016-02-11,['Glantaler Power Men '],Pop
-2,Zürich,TOZ-Intermezzo-Unerhört-schön-unerhört-kurz,2016-02-11,[' Leif Ove Andsnes '],Classic
-3,Zürich,Thursday-Night-Jazz,2016-02-11,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-4,Zürich,Internationales-Country-Music-Festival,2016-02-11,"['The Malpass Brothers ', ' Music Road Pilots ']",
-5,Basel,Integrations,2016-02-11,"[' works by Daniel Fueter ', ' Denis Schuler ', ' Elena Rykova ']",Classic
-6,Baden,Nekrogoblikon,2016-02-11,['Nekrogoblikon '],
-7,Winterthur,Octopus,2016-02-11,"[' Christoph Irniger ', ' Raffaele Bossard ', ' Ziv Ravitz ']",
-8,Zürich,Elvett,2016-02-11,"[' Lyn M ', ' Soraya Berent ', ' Eoghan De Hoog ', ' Alain Frey ']",Pop
-9,Liebefeld,Vidmar-676,2016-02-11,"['Daniel Zisman ', ' Sebastien Fulgido ']",
-10,Basel,The-Great-Harry-Hillman,2016-02-11,"[' Nils Fischer ', ' David Koch ', ' Samuel Huwyler ', ' Dominik Mahnig ']",
-11,Basel,Jerusalem-In-My-Heart,2016-02-11,['Jerusalem In My Heart '],
-12,Thun,Svavar-Knütur,2016-02-11,['Svavar Knütur '],Pop
-13,Lausanne,HF-Thiéfaine,2016-02-11,['HF Thiéfaine '],
-14,Luzern,The-Weather-Machine,2016-02-11,['The Weather Machine '],
-15,Zürich,Baba-Roots-Jugglerz-Nite,2016-02-11,"['Jugglerz Sound ', ' DJ Cutlass ']",
+location,event,date,artists,genre
+Zürich,Exklusive-Klangfarben-Kammermusik-mit-Harfe,2016-02-11,"['Sabine Poyé Morel ', ' Gilad Karni ', ' Sarah Verrue ']",Classic
+Zürich,Glantaler-Power-Men,2016-02-11,['Glantaler Power Men '],Pop
+Zürich,TOZ-Intermezzo-Unerhört-schön-unerhört-kurz,2016-02-11,[' Leif Ove Andsnes '],Classic
+Zürich,Thursday-Night-Jazz,2016-02-11,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Zürich,Internationales-Country-Music-Festival,2016-02-11,"['The Malpass Brothers ', ' Music Road Pilots ']",
+Basel,Integrations,2016-02-11,"[' works by Daniel Fueter ', ' Denis Schuler ', ' Elena Rykova ']",Classic
+Baden,Nekrogoblikon,2016-02-11,['Nekrogoblikon '],
+Winterthur,Octopus,2016-02-11,"[' Christoph Irniger ', ' Raffaele Bossard ', ' Ziv Ravitz ']",
+Zürich,Elvett,2016-02-11,"[' Lyn M ', ' Soraya Berent ', ' Eoghan De Hoog ', ' Alain Frey ']",Pop
+Liebefeld,Vidmar-676,2016-02-11,"['Daniel Zisman ', ' Sebastien Fulgido ']",
+Basel,The-Great-Harry-Hillman,2016-02-11,"[' Nils Fischer ', ' David Koch ', ' Samuel Huwyler ', ' Dominik Mahnig ']",
+Basel,Jerusalem-In-My-Heart,2016-02-11,['Jerusalem In My Heart '],
+Thun,Svavar-Knütur,2016-02-11,['Svavar Knütur '],Pop
+Lausanne,HF-Thiéfaine,2016-02-11,['HF Thiéfaine '],
+Luzern,The-Weather-Machine,2016-02-11,['The Weather Machine '],
+Zürich,Baba-Roots-Jugglerz-Nite,2016-02-11,"['Jugglerz Sound ', ' DJ Cutlass ']",

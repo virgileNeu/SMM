@@ -1,24 +1,24 @@
-,location,event,date,artists,genre
-0,Winterthur,Öffentliche-Generalprobe,2016-02-03,[' conductor: Christian Tetzlaff '],Classic
-1,Basel,Mimiko-Melodia,2016-02-03,['Christoph Lowis '],Classic
-2,Zürich,Monte-Carlo,2016-02-03,['Monte Carlo '],Pop
-3,Zürich,The-Five-Points,2016-02-03,"['Matthias Müller ', ' Thomas Grossenbacher ', ' Petya Mihneva ']",Classic
-4,Basel,Sensamayá,2016-02-03,[' Martin Grubinger '],Classic
-5,Baden,One-of-a-Million,2016-02-03,['Júníus Meyvant '],Pop
-6,Zürich,Barockkonzert-Lisa-Schmid-&-Sam-Chapman,2016-02-03,"['Lisa Schmid ', ' Sam Chapman ']",Classic
-7,Luzern,Cobario,2016-02-03,['Cobario '],
-8,Zürich,Tageszeiten,2016-02-03,"[' Iris Eggler ', ' Madeleine Merz ', ' Christoph Meinen ', ' Marco Ceriani ']",Classic
-9,Zürich,Thell-Barrio,2016-02-03,['Thell Barrio '],
-10,Winterthur,Christian-Tetzlaff,2016-02-03,[' conductor: Christian Tetzlaff '],Classic
-11,Zürich,Biréli-Lagrène-Gipsy-Project,2016-02-03,"['Biréli Lagrène Gipsy Project ', ' Biréli Lagrène ', ' Hono Winterstein ', ' Diego Imbert ', ' Franck Wolf ']",
-12,Zürich,Escape-The-Fate,2016-02-03,"['Escape The Fate ', "" New Year's Day "", ' Fearless Vampire Killers ', ' Like A Storm ']",
-13,Basel,La-cantatrice,2016-02-03,[' Brigitte Ravenel '],Classic
-14,Bern,Qu'Il-Vive,2016-02-03,"[' Pierre Audétat ', ' Flo Stoffner ', ' Louis Schild ', ' Lionel Friedli ']",
-15,Zürich,Mein-lieber-Schwan,2016-02-03,"['Bettina Macher ', ' Felicitas Strack ', ' Mariella Bachmann ']",Classic
-16,Zürich,Bukowski-&-The-Staight-and-Narrow,2016-02-03,['Canyon Spree '],Electronic
-17,Zürich,The-Aristocrats,2016-02-03,"[' Guthrie Govan ', ' Bryan Beller ', ' Marco Minnemann ']",
-18,Baden,One-of-a-Million,2016-02-03,['Eliza Shaddad '],Pop
-19,Baden,One-of-a-Million,2016-02-03,['Farao '],Pop
-20,Lausanne,Golden-Void,2016-02-03,"['Golden Void ', ' Holy Sons ']",
-21,Bern,Ben-Caplan,2016-02-03,['Ben Caplan '],
-22,Basel,Joscha-Arnold-Quintet,2016-02-03,"[' Joscha Arnold ', ' Johannes Maikranz ', ' Florian Favre ', ' Sebastian Gieck ', ' Severin Rauch ']",
+location,event,date,artists,genre
+Winterthur,Öffentliche-Generalprobe,2016-02-03,[' conductor: Christian Tetzlaff '],Classic
+Basel,Mimiko-Melodia,2016-02-03,['Christoph Lowis '],Classic
+Zürich,Monte-Carlo,2016-02-03,['Monte Carlo '],Pop
+Zürich,The-Five-Points,2016-02-03,"['Matthias Müller ', ' Thomas Grossenbacher ', ' Petya Mihneva ']",Classic
+Basel,Sensamayá,2016-02-03,[' Martin Grubinger '],Classic
+Baden,One-of-a-Million,2016-02-03,['Júníus Meyvant '],Pop
+Zürich,Barockkonzert-Lisa-Schmid-&-Sam-Chapman,2016-02-03,"['Lisa Schmid ', ' Sam Chapman ']",Classic
+Luzern,Cobario,2016-02-03,['Cobario '],
+Zürich,Tageszeiten,2016-02-03,"[' Iris Eggler ', ' Madeleine Merz ', ' Christoph Meinen ', ' Marco Ceriani ']",Classic
+Zürich,Thell-Barrio,2016-02-03,['Thell Barrio '],
+Winterthur,Christian-Tetzlaff,2016-02-03,[' conductor: Christian Tetzlaff '],Classic
+Zürich,Biréli-Lagrène-Gipsy-Project,2016-02-03,"['Biréli Lagrène Gipsy Project ', ' Biréli Lagrène ', ' Hono Winterstein ', ' Diego Imbert ', ' Franck Wolf ']",
+Zürich,Escape-The-Fate,2016-02-03,"['Escape The Fate ', "" New Year's Day "", ' Fearless Vampire Killers ', ' Like A Storm ']",
+Basel,La-cantatrice,2016-02-03,[' Brigitte Ravenel '],Classic
+Bern,Qu'Il-Vive,2016-02-03,"[' Pierre Audétat ', ' Flo Stoffner ', ' Louis Schild ', ' Lionel Friedli ']",
+Zürich,Mein-lieber-Schwan,2016-02-03,"['Bettina Macher ', ' Felicitas Strack ', ' Mariella Bachmann ']",Classic
+Zürich,Bukowski-&-The-Staight-and-Narrow,2016-02-03,['Canyon Spree '],Electronic
+Zürich,The-Aristocrats,2016-02-03,"[' Guthrie Govan ', ' Bryan Beller ', ' Marco Minnemann ']",
+Baden,One-of-a-Million,2016-02-03,['Eliza Shaddad '],Pop
+Baden,One-of-a-Million,2016-02-03,['Farao '],Pop
+Lausanne,Golden-Void,2016-02-03,"['Golden Void ', ' Holy Sons ']",
+Bern,Ben-Caplan,2016-02-03,['Ben Caplan '],
+Basel,Joscha-Arnold-Quintet,2016-02-03,"[' Joscha Arnold ', ' Johannes Maikranz ', ' Florian Favre ', ' Sebastian Gieck ', ' Severin Rauch ']",

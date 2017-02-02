@@ -1,11 +1,11 @@
-,location,event,date,artists,genre
-0,Bern,Sous-les-étoiles,2015-01-19,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
-1,Basel,CIS-Cembalomusik-in-der-Stadt-Basel,2015-01-19,['Sophie Yates '],Classic
-2,Basel,Masterrezital,2015-01-19,[' António Bernardo Carvalho Ferrão '],Classic
-3,null,Journeys,2015-01-19,"[' Angelo Signore ', ' Willy Kotoun ', ' Philippe Mall ', ' drums ', ' Luciano Maranta ', ' Ueli Gasser ']",
-4,Zürich,Kolsimcha,2015-01-19,"[' Oliver Truan ', ' Michael Heitzler ', ' Ariel Zuckermann ', ' Daniel Fricker ', ' Christoph Staudenmann ']",
-5,Zürich,Augen-in-der-Grossstadt,2015-01-19,"['Sonja Indin ', ' Isora Castilla ']",Pop
-6,Baden,Quad,2015-01-19,"[' Pio Schürmann ', ' Mirco Häberli ', ' Amadeus Fries ', ' Marcel Lüscher ']",
-7,Zürich,Chaises-musicales,2015-01-19,[' Julian Sartorius '],
-8,Basel,Jazzkollektiv,2015-01-19,"[' Niko Seibold ', ' Andreas Herrmann ', ' Roberto Koch ', ' Johannes Gutfleisch ']",
-9,Luzern,Gregor-McEwan,2015-01-19,['Gregor McEwan '],Pop
+location,event,date,artists,genre
+Bern,Sous-les-étoiles,2015-01-19,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
+Basel,CIS-Cembalomusik-in-der-Stadt-Basel,2015-01-19,['Sophie Yates '],Classic
+Basel,Masterrezital,2015-01-19,[' António Bernardo Carvalho Ferrão '],Classic
+null,Journeys,2015-01-19,"[' Angelo Signore ', ' Willy Kotoun ', ' Philippe Mall ', ' drums ', ' Luciano Maranta ', ' Ueli Gasser ']",
+Zürich,Kolsimcha,2015-01-19,"[' Oliver Truan ', ' Michael Heitzler ', ' Ariel Zuckermann ', ' Daniel Fricker ', ' Christoph Staudenmann ']",
+Zürich,Augen-in-der-Grossstadt,2015-01-19,"['Sonja Indin ', ' Isora Castilla ']",Pop
+Baden,Quad,2015-01-19,"[' Pio Schürmann ', ' Mirco Häberli ', ' Amadeus Fries ', ' Marcel Lüscher ']",
+Zürich,Chaises-musicales,2015-01-19,[' Julian Sartorius '],
+Basel,Jazzkollektiv,2015-01-19,"[' Niko Seibold ', ' Andreas Herrmann ', ' Roberto Koch ', ' Johannes Gutfleisch ']",
+Luzern,Gregor-McEwan,2015-01-19,['Gregor McEwan '],Pop

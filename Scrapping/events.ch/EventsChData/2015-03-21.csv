@@ -1,53 +1,53 @@
-,location,event,date,artists,genre
-0,Bern,Bernische-Chopin-Gesellschaft,2015-03-21,['Beatrice Berrut '],Classic
-1,Zug,Frühlingskonzert-Junge-Meister,2015-03-21,[' Romane Favia '],Classic
-2,Zürich,Westspiele-Mozart-in-Zürich,2015-03-21,"[' Yuki Kasai ', ' Kazumi Suzuki-Krapf ', ' Stefano Mariani ', ' Georg Dettweiler ', ' Etele Dosa ']",Classic
-3,Zürich,Solo-Suiten,2015-03-21,['Roswitha Killian '],Classic
-4,Bern,Parov-Stelar-Band,2015-03-21,['Parov Stelar Band '],Electronic
-5,Liestal,Daniel-Wäch,2015-03-21,['Daniel Wäch '],
-6,Zürich,Kontra-K,2015-03-21,['Kontra K '],
-7,Laufen,Gitarrenkonzert-und-Pastorale,2015-03-21,[' Fabian Cardozo '],Classic
-8,Solothurn,Of-Mice-&-Men,2015-03-21,['Of Mice & Men '],
-9,null,Souvenir,2015-03-21,[' Max Hornung '],Classic
-10,Baden,Badener-Meisterkonzerte-Klassik-meets-Flamenco,2015-03-21,"['Duo Joncol ', ' Anna Colom ', ' Kurt Fuhrmann ']",Classic
-11,Thun,Sinfoniekonzert,2015-03-21,['Jonas Tschanz '],Classic
-12,Zürich,Internationales-Country-Music-Festival,2015-03-21,"['Bobby Flores & Yellow Rose Band ', ' Pam MacBeth & Band ']",
-13,Bern,Migros-Kulturprozent-Classics,2015-03-21,[' Patricia Kopatchinskaja '],Classic
-14,Pratteln,Ensiferum,2015-03-21,"['Ensiferum ', ' Insomnium ', ' Omnium Gatherum ']",
-15,Zürich,Immer-wieder,2015-03-21,[' Thomas Demenga '],Classic
-16,Zürich,Ech-läbä-noch,2015-03-21,"['Barbara Böhi ', ' Barbara Schlatter-Wiederkehr ', ' Daniela Müller ', ' Mariana Doughty ', ' Karolina Öhman ']",Classic
-17,Basel,Con-calore,2015-03-21,[' Matthias Arter '],Classic
-18,Basel,Crystal-Tears,2015-03-21,"['Mechtild Karkow ', ' Mat Lonson ', ' Margreet van der Heyden ', ' Sarah de Souza ', ' Maria Cristina Kiehr ', ' Jenny Hogstrom ', ' Lisa Lüthi ', ' Richard Resch ', ' Raitis Grigalis ']",Classic
-19,Niederweningen,Music-from-the-Beatles,2015-03-21,"[' Regula Arnitz ', ' Gregor Loepfe ', ' Eddi Walker ']",Pop
-20,Zug,Monthly-Assault,2015-03-21,['Unfathomable Ruination '],
-21,Zug,Jan-Galega-Brönnimann,2015-03-21,"[' Jan Galega Bronnimann ', ' Michael Zismann ', ' ', ' Lucas Niggli ']",
-22,Basel,The-Crazy-Safes,2015-03-21,"[' Peter Salathe ', ' Ruedi Salathe ', ' Ruedi Rüegg ', ' Jacques Mader ', ' Konni Sandmeier ', ' Karl Grieder ', ' Eric Salathe ']",Pop
-23,null,Klezmer-Konzert,2015-03-21,[' Giora Feidman '],Classic
-24,Basel,Basler-Gesangverein,2015-03-21,"[' Katharina Persicke ', ' Rolf Romei ', ' Stefan Zenkl ']",Classic
-25,Oftringen,DaFoo,2015-03-21,['DaFoo '],Pop
-26,Dornach,Musikalische-Siebenheiten,2015-03-21,"['Agnes Häring-Greiner ', ' Adolf Zinsstag ', ' Christian Ginat ', ' Lukas Greiner ', ' Barbara Hanssen ', ' Torben Maiwald ', ' Verena Zacher ']",Classic
-27,Schaffhausen,Petite-messe-solennelle,2015-03-21,"[' Jan Hennig ', ' Claudia Tschopp ', ' Kornelia Bruggmann ', ' Katharina Lienhart ', ' Nino Aurelio Gmünder ', ' Reinhard Strebel ']",Classic
-28,null,Fabrik-Jazz-Labor,2015-03-21,"['Katja Mair ', ' Peter Leuzinger ', ' Chrigel Bosshard ']",
-29,Wädenswil,Werft-eure-Herzen-über-alle-Grenzen,2015-03-21,"['Eva Mattes ', ' Eva Mattes ', ' Irmgard Schleier ']",Pop
-30,Winterthur,The-Grand-Astoria,2015-03-21,"['The Grand Astoria ', ' Samavayo ']",
-31,null,Buika,2015-03-21,['Buika '],
-32,null,15th-Guinness-Celtic-Spring-Caravan,2015-03-21,"['Reveillons ', ' Moxie ']",
-33,Basel,Vladimir-Kostadinovic-Quartet,2015-03-21,"[' Tivon Pennicott ', ' Marko Churnchetz ', ' Joe Sanders ', ' Vladimir Kostadinovic ']",
-34,Baden,Hommage-an-Edith-Piaf,2015-03-21,"['Stella Luna Palino ', ' Charlotte Torres ']",
-35,Zürich,Label-Night-Die-Schachtel,2015-03-21,"['Manuel Zurria ', ' Attila Faravelli ']",Electronic
-36,Sursee,Rasta-Knast,2015-03-21,"['Rasta Knast ', ' Kreftich ']",
-37,null,Gaby-Moreno,2015-03-21,['Gaby Moreno '],
-38,Baden,The-Wyatt-Christmas-Trio,2015-03-21,"['The Wyatt Christmas Trio ', ' Fabulous Daddy ']",
-39,Zürich,Mister-&-Mississippi,2015-03-21,['Mister & Mississippi '],
-40,Baden,Happy-St.-Patrick's-Day,2015-03-21,['Restless Feet '],
-41,Aarau,These-Ghosts,2015-03-21,['These Ghosts '],Pop
-42,Zürich,Dead-Meadow,2015-03-21,['Dead Meadow '],
-43,Luzern,Acousoul-Night,2015-03-21,"['Riders Connection ', ' Tom James ', ' JpSon ']",
-44,Zürich,Tamara-Weibel,2015-03-21,"[' Tamara Weibel ', ' Glaude Stucki ']",Pop
-45,Zürich,Best-Friends,2015-03-21,"[' Gianpiero Laganá ', ' Evelina Brecht ', ' Luca Pacino ', ' Giusi Basile ', ' Michele Scarfó ', ' Sal Randy ', ' Salvatore Catalano ']",Pop
-46,Zug,Tom-Beck,2015-03-21,['Tom Beck '],Pop
-47,Basel,Kool-Savas,2015-03-21,['Kool Savas '],
-48,Luzern,From-Kid,2015-03-21,['From Kid '],Pop
-49,Sankt-Gallen,Bratsch,2015-03-21,['Bratsch '],
-50,Basel,Death-by-Rave,2015-03-21,"['Bonafide 3000 ', ' Mouse DTC ']",Electronic
-51,Zürich,Araab-Muzik,2015-03-21,['Araab Muzik '],Electronic
+location,event,date,artists,genre
+Bern,Bernische-Chopin-Gesellschaft,2015-03-21,['Beatrice Berrut '],Classic
+Zug,Frühlingskonzert-Junge-Meister,2015-03-21,[' Romane Favia '],Classic
+Zürich,Westspiele-Mozart-in-Zürich,2015-03-21,"[' Yuki Kasai ', ' Kazumi Suzuki-Krapf ', ' Stefano Mariani ', ' Georg Dettweiler ', ' Etele Dosa ']",Classic
+Zürich,Solo-Suiten,2015-03-21,['Roswitha Killian '],Classic
+Bern,Parov-Stelar-Band,2015-03-21,['Parov Stelar Band '],Electronic
+Liestal,Daniel-Wäch,2015-03-21,['Daniel Wäch '],
+Zürich,Kontra-K,2015-03-21,['Kontra K '],
+Laufen,Gitarrenkonzert-und-Pastorale,2015-03-21,[' Fabian Cardozo '],Classic
+Solothurn,Of-Mice-&-Men,2015-03-21,['Of Mice & Men '],
+null,Souvenir,2015-03-21,[' Max Hornung '],Classic
+Baden,Badener-Meisterkonzerte-Klassik-meets-Flamenco,2015-03-21,"['Duo Joncol ', ' Anna Colom ', ' Kurt Fuhrmann ']",Classic
+Thun,Sinfoniekonzert,2015-03-21,['Jonas Tschanz '],Classic
+Zürich,Internationales-Country-Music-Festival,2015-03-21,"['Bobby Flores & Yellow Rose Band ', ' Pam MacBeth & Band ']",
+Bern,Migros-Kulturprozent-Classics,2015-03-21,[' Patricia Kopatchinskaja '],Classic
+Pratteln,Ensiferum,2015-03-21,"['Ensiferum ', ' Insomnium ', ' Omnium Gatherum ']",
+Zürich,Immer-wieder,2015-03-21,[' Thomas Demenga '],Classic
+Zürich,Ech-läbä-noch,2015-03-21,"['Barbara Böhi ', ' Barbara Schlatter-Wiederkehr ', ' Daniela Müller ', ' Mariana Doughty ', ' Karolina Öhman ']",Classic
+Basel,Con-calore,2015-03-21,[' Matthias Arter '],Classic
+Basel,Crystal-Tears,2015-03-21,"['Mechtild Karkow ', ' Mat Lonson ', ' Margreet van der Heyden ', ' Sarah de Souza ', ' Maria Cristina Kiehr ', ' Jenny Hogstrom ', ' Lisa Lüthi ', ' Richard Resch ', ' Raitis Grigalis ']",Classic
+Niederweningen,Music-from-the-Beatles,2015-03-21,"[' Regula Arnitz ', ' Gregor Loepfe ', ' Eddi Walker ']",Pop
+Zug,Monthly-Assault,2015-03-21,['Unfathomable Ruination '],
+Zug,Jan-Galega-Brönnimann,2015-03-21,"[' Jan Galega Bronnimann ', ' Michael Zismann ', ' ', ' Lucas Niggli ']",
+Basel,The-Crazy-Safes,2015-03-21,"[' Peter Salathe ', ' Ruedi Salathe ', ' Ruedi Rüegg ', ' Jacques Mader ', ' Konni Sandmeier ', ' Karl Grieder ', ' Eric Salathe ']",Pop
+null,Klezmer-Konzert,2015-03-21,[' Giora Feidman '],Classic
+Basel,Basler-Gesangverein,2015-03-21,"[' Katharina Persicke ', ' Rolf Romei ', ' Stefan Zenkl ']",Classic
+Oftringen,DaFoo,2015-03-21,['DaFoo '],Pop
+Dornach,Musikalische-Siebenheiten,2015-03-21,"['Agnes Häring-Greiner ', ' Adolf Zinsstag ', ' Christian Ginat ', ' Lukas Greiner ', ' Barbara Hanssen ', ' Torben Maiwald ', ' Verena Zacher ']",Classic
+Schaffhausen,Petite-messe-solennelle,2015-03-21,"[' Jan Hennig ', ' Claudia Tschopp ', ' Kornelia Bruggmann ', ' Katharina Lienhart ', ' Nino Aurelio Gmünder ', ' Reinhard Strebel ']",Classic
+null,Fabrik-Jazz-Labor,2015-03-21,"['Katja Mair ', ' Peter Leuzinger ', ' Chrigel Bosshard ']",
+Wädenswil,Werft-eure-Herzen-über-alle-Grenzen,2015-03-21,"['Eva Mattes ', ' Eva Mattes ', ' Irmgard Schleier ']",Pop
+Winterthur,The-Grand-Astoria,2015-03-21,"['The Grand Astoria ', ' Samavayo ']",
+null,Buika,2015-03-21,['Buika '],
+null,15th-Guinness-Celtic-Spring-Caravan,2015-03-21,"['Reveillons ', ' Moxie ']",
+Basel,Vladimir-Kostadinovic-Quartet,2015-03-21,"[' Tivon Pennicott ', ' Marko Churnchetz ', ' Joe Sanders ', ' Vladimir Kostadinovic ']",
+Baden,Hommage-an-Edith-Piaf,2015-03-21,"['Stella Luna Palino ', ' Charlotte Torres ']",
+Zürich,Label-Night-Die-Schachtel,2015-03-21,"['Manuel Zurria ', ' Attila Faravelli ']",Electronic
+Sursee,Rasta-Knast,2015-03-21,"['Rasta Knast ', ' Kreftich ']",
+null,Gaby-Moreno,2015-03-21,['Gaby Moreno '],
+Baden,The-Wyatt-Christmas-Trio,2015-03-21,"['The Wyatt Christmas Trio ', ' Fabulous Daddy ']",
+Zürich,Mister-&-Mississippi,2015-03-21,['Mister & Mississippi '],
+Baden,Happy-St.-Patrick's-Day,2015-03-21,['Restless Feet '],
+Aarau,These-Ghosts,2015-03-21,['These Ghosts '],Pop
+Zürich,Dead-Meadow,2015-03-21,['Dead Meadow '],
+Luzern,Acousoul-Night,2015-03-21,"['Riders Connection ', ' Tom James ', ' JpSon ']",
+Zürich,Tamara-Weibel,2015-03-21,"[' Tamara Weibel ', ' Glaude Stucki ']",Pop
+Zürich,Best-Friends,2015-03-21,"[' Gianpiero Laganá ', ' Evelina Brecht ', ' Luca Pacino ', ' Giusi Basile ', ' Michele Scarfó ', ' Sal Randy ', ' Salvatore Catalano ']",Pop
+Zug,Tom-Beck,2015-03-21,['Tom Beck '],Pop
+Basel,Kool-Savas,2015-03-21,['Kool Savas '],
+Luzern,From-Kid,2015-03-21,['From Kid '],Pop
+Sankt-Gallen,Bratsch,2015-03-21,['Bratsch '],
+Basel,Death-by-Rave,2015-03-21,"['Bonafide 3000 ', ' Mouse DTC ']",Electronic
+Zürich,Araab-Muzik,2015-03-21,['Araab Muzik '],Electronic

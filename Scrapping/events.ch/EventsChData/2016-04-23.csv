@@ -1,34 +1,34 @@
-,location,event,date,artists,genre
-0,Zürich,Andy-Gruber-Band,2016-04-23,['Andy Gruber Band '],traditional
-1,Zürich,Pflaumenblüten-Familienkonzert,2016-04-23,['Isabel Goller '],Classic
-2,Zürich,Operettenmelodien-mit-John-Thade,2016-04-23,"['John Thade ', ' Annkatrin Isaacs ']",Classic
-3,Basel,Concerts-Aurore-Basel,2016-04-23,"['Daphné Mosimann ', ' Stefan Vock ', ' Jean-Jacques Dünki ', ' Grossartige Liederzyklen von Schumann ']",Classic
-4,Liestal,Severin-Jenny,2016-04-23,"[' Severin Jenny ', ' Stefan Gabele ']",
-5,Zürich,Tankard,2016-04-23,"['Tankard ', ' Bitterness ']",
-6,Zürich,Basia-Bulat,2016-04-23,['Basia Bulat '],Pop
-7,Bern,Internationales-Jazzfestival-Bern,2016-04-23,['T. S. Monk Sextet '],
-8,Zürich,Un-Ballo-in-Maschero,2016-04-23,"[' Sophie Rieth ', ' Christina Chalmovska ', ' Christoph Tiechner ', ' Fabian Löbhard ']",Classic
-9,Zürich,Galakonzert-HEKS-Von-der-Moldau-an-die-Donau,2016-04-23,[' Strauss '],Classic
-10,Basel,Kammermusik-pur!-Beethoven!,2016-04-23,"['Fanny Paccoud ', ' Michel Gaechter ']",Classic
-11,Lyss,Red-Hot-Chilli-Pipers,2016-04-23,['Red Hot Chilli Pipers '],
-12,Pratteln,The-Iron-Maidens,2016-04-23,['The Iron Maidens '],
-13,Münchenstein,Shed-67,2016-04-23,"['Shed 67 ', ' Little Green Giant ']",Pop
-14,Baden,Kontraste-I,2016-04-23,[' Roman Blum '],Classic
-15,Adliswil,Lilly-Martin-&-Band,2016-04-23,"[' Lilly Martin ', ' Oliver Keller ', ' Michael Dolmetsch ', ' Markus Fritzsche ', ' Tom Beck ']",
-16,Zürich,Visible-Soul,2016-04-23,[' Palm Valley '],
-17,null,A-Cappella-Festival,2016-04-23,['Opus Jam '],Pop
-18,Zürich,Kollegah,2016-04-23,['Kollegah '],
-19,Basel,Jazzfestival-Basel,2016-04-23,"[' Johannes Enders ', ' Orrin Evans ', ' Joris Teepe ', ' Howard Curtis ']",
-20,Zürich,Naty-Magliano,2016-04-23,['Naty Magliano '],
-21,Lausanne,Marina-Kaye,2016-04-23,"['Marina Kaye ', ' Alec Benjamin ']",Pop
-22,Jona,Dave-Ruosch-Trio,2016-04-23,"[' Dave Ruosch ', ' Kalli Gerhards ', ' Martin Meyer ']",
-23,Zürich,Eliana-Burki,2016-04-23,"['Eliana Burki ', ' Eliana Burki ', ' Andi Pupato ', ' Vincenzo Di Donna ', ' Luigi De Maio ']",
-24,Basel,Impro-Duo,2016-04-23,"['Hanna Schüly ', ' Luzian Jenny ']",
-25,Laufen,Crash-League,2016-04-23,['Crash League '],
-26,Bad-Ragaz,DeFrank,2016-04-23,"[' Tobias Degen ', ' Daniel Rieser ', ' Mirco Häberli ', ' Mario Söldi ']",
-27,Luzern,Fischermanns-Orchestra,2016-04-23,"[' Samuel Blättler ', ' Bodo Maier ', ' Lino Blöchlinger ']",
-28,Thun,Craig-Cardiff,2016-04-23,['Craig Cardiff '],
-29,Bern,Kaputt-Nacht,2016-04-23,"['Mulk ', ' Yudlugar ']",
-30,Bern,Tomazobi,2016-04-23,['Tomazobi '],Pop
-31,Schaffhausen,Karikatura,2016-04-23,['Karikatura '],
-32,Basel,Black-Sheriff,2016-04-23,['Black Sheriff '],
+location,event,date,artists,genre
+Zürich,Andy-Gruber-Band,2016-04-23,['Andy Gruber Band '],traditional
+Zürich,Pflaumenblüten-Familienkonzert,2016-04-23,['Isabel Goller '],Classic
+Zürich,Operettenmelodien-mit-John-Thade,2016-04-23,"['John Thade ', ' Annkatrin Isaacs ']",Classic
+Basel,Concerts-Aurore-Basel,2016-04-23,"['Daphné Mosimann ', ' Stefan Vock ', ' Jean-Jacques Dünki ', ' Grossartige Liederzyklen von Schumann ']",Classic
+Liestal,Severin-Jenny,2016-04-23,"[' Severin Jenny ', ' Stefan Gabele ']",
+Zürich,Tankard,2016-04-23,"['Tankard ', ' Bitterness ']",
+Zürich,Basia-Bulat,2016-04-23,['Basia Bulat '],Pop
+Bern,Internationales-Jazzfestival-Bern,2016-04-23,['T. S. Monk Sextet '],
+Zürich,Un-Ballo-in-Maschero,2016-04-23,"[' Sophie Rieth ', ' Christina Chalmovska ', ' Christoph Tiechner ', ' Fabian Löbhard ']",Classic
+Zürich,Galakonzert-HEKS-Von-der-Moldau-an-die-Donau,2016-04-23,[' Strauss '],Classic
+Basel,Kammermusik-pur!-Beethoven!,2016-04-23,"['Fanny Paccoud ', ' Michel Gaechter ']",Classic
+Lyss,Red-Hot-Chilli-Pipers,2016-04-23,['Red Hot Chilli Pipers '],
+Pratteln,The-Iron-Maidens,2016-04-23,['The Iron Maidens '],
+Münchenstein,Shed-67,2016-04-23,"['Shed 67 ', ' Little Green Giant ']",Pop
+Baden,Kontraste-I,2016-04-23,[' Roman Blum '],Classic
+Adliswil,Lilly-Martin-&-Band,2016-04-23,"[' Lilly Martin ', ' Oliver Keller ', ' Michael Dolmetsch ', ' Markus Fritzsche ', ' Tom Beck ']",
+Zürich,Visible-Soul,2016-04-23,[' Palm Valley '],
+null,A-Cappella-Festival,2016-04-23,['Opus Jam '],Pop
+Zürich,Kollegah,2016-04-23,['Kollegah '],
+Basel,Jazzfestival-Basel,2016-04-23,"[' Johannes Enders ', ' Orrin Evans ', ' Joris Teepe ', ' Howard Curtis ']",
+Zürich,Naty-Magliano,2016-04-23,['Naty Magliano '],
+Lausanne,Marina-Kaye,2016-04-23,"['Marina Kaye ', ' Alec Benjamin ']",Pop
+Jona,Dave-Ruosch-Trio,2016-04-23,"[' Dave Ruosch ', ' Kalli Gerhards ', ' Martin Meyer ']",
+Zürich,Eliana-Burki,2016-04-23,"['Eliana Burki ', ' Eliana Burki ', ' Andi Pupato ', ' Vincenzo Di Donna ', ' Luigi De Maio ']",
+Basel,Impro-Duo,2016-04-23,"['Hanna Schüly ', ' Luzian Jenny ']",
+Laufen,Crash-League,2016-04-23,['Crash League '],
+Bad-Ragaz,DeFrank,2016-04-23,"[' Tobias Degen ', ' Daniel Rieser ', ' Mirco Häberli ', ' Mario Söldi ']",
+Luzern,Fischermanns-Orchestra,2016-04-23,"[' Samuel Blättler ', ' Bodo Maier ', ' Lino Blöchlinger ']",
+Thun,Craig-Cardiff,2016-04-23,['Craig Cardiff '],
+Bern,Kaputt-Nacht,2016-04-23,"['Mulk ', ' Yudlugar ']",
+Bern,Tomazobi,2016-04-23,['Tomazobi '],Pop
+Schaffhausen,Karikatura,2016-04-23,['Karikatura '],
+Basel,Black-Sheriff,2016-04-23,['Black Sheriff '],

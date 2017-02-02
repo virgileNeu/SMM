@@ -1,55 +1,55 @@
-,location,event,date,artists,genre
-0,null,1.-Mittagskonzert,2015-11-13,['Ewa Kupiec '],Classic
-1,Zürich,Gletscher-Fezzer,2015-11-13,['Gletscher Fezzer '],traditional
-2,Basel,Orgelspiel-zum-Feierabend,2015-11-13,['Hanné Becker '],Classic
-3,Dietikon,Feierabendmusik,2015-11-13,"['Hans-Michael Sablotny ', ' Bernhard Hörler ']",Classic
-4,Winterthur,Cinédiner-Soirée-paléolithique,2015-11-13,"[' Rea Dubach ', ' Hans Koch ', ' Zeno Gabaglio ']",
-5,Liestal,Marie-Krüttli-Trio,2015-11-13,['Marie Krüttli '],
-6,Zürich,Duo-Praxedis,2015-11-13,"['Praxedis Hug-Rütti ', ' Praxedis Genevieve Hug ', ' works by Fabian Müller ']",Classic
-7,Zürich,Debüt,2015-11-13,[' works by Jacques Demierre '],Classic
-8,Zürich,Nothing-But-Thieves,2015-11-13,['Nothing But Thieves '],
-9,Winterthur,Of-Monsters-And-Men,2015-11-13,['Of Monsters And Men '],Pop
-10,Zürich,O-Fortuna,2015-11-13,"['Ivana Rusko ', ' Christina Daletska ', ' Annkatrin Isaacs ']",Classic
-11,Wangs,Pizolkonzert,2015-11-13,"[' Oleg Kaskiv ', ' Tania Pimenova ', ' Alexander Boldachev ']",Classic
-12,null,Marinah,2015-11-13,"['Marinah ', ' Marinah ', ' Miguel Serviole Gimenez ', '  Dasari Kumar Mora Medina ']",
-13,Zürich,Childhood,2015-11-13,"['Simona Ryser ', ' Anna Trauffer ', ' Philipp Schaufelberger ', ' Edward Rushton ']",Classic
-14,Zürich,St-Germain,2015-11-13,['St Germain '],
-15,Solothurn,The-Wombats,2015-11-13,['The Wombats '],
-16,Zürich,Amir-Gwirtzman,2015-11-13,['Amir Gwirtzman '],
-17,null,Bob-Dylan,2015-11-13,['Bob Dylan '],
-18,Binningen,Deuxieme-Messe-für-Männerchor-und-Orgel,2015-11-13,[' Rolf Grolimund '],Classic
-19,Uster,5th-International-Boogie-Nights,2015-11-13,"['Chris Conz ', ' Kenny Wayne ', ' Jörg Hegemann ', ' Jean-Pierre Bertrand ', ' Richie Loidl ']",
-20,Wetzikon,The-New-Roses,2015-11-13,['The New Roses '],
-21,Worblaufen,Hedera,2015-11-13,['Hedera '],
-22,Basel,Ardilli,2015-11-13,['Diez cuerdas '],
-23,Chur,James-Arthur,2015-11-13,['James Arthur '],Pop
-24,Herisau,Charlestown-Jazzband,2015-11-13,['Charlestown Jazzband '],
-25,Winterthur,Weird-Beard,2015-11-13,"[' Florian Egli ', ' Dave Gisler ', ' Martina Berther ', ' Rico Baumann ']",
-26,Zürich,Keller-Maurer-Walss,2015-11-13,"[' Manuela Keller ', ' Sara Maurer ', ' Priska Walss ']",
-27,Wabern,Minifestival,2015-11-13,"[' Matthias Kohler ', ' Jonathan Maag ', ' Anicia Kohler ', ' Johannes Maikranz ']",
-28,Lugano,Estival-Night,2015-11-13,[' Michel Camilo '],Classic
-29,Aarau,RDGLDGRN,2015-11-13,['RDGLDGRN '],
-30,Stäfa,Zakouska,2015-11-13,['Zakouska '],
-31,Basel,Bastian-Stein-Quartet,2015-11-13,"[' Bastian Stein ', ' Johannes Enders ', ' Phil Donkin ', ' James Maddren ']",
-32,Lyss,Anti-Flag,2015-11-13,"['Anti Flag ', ' support: Red City Radio ', ' Trophy Eyes ', ' Homeless Gospel Choir ']",
-33,Dübendorf,Nolan-Quinn(tett)-feat.-René-Mosele,2015-11-13,"['Nolan Quinn', ' Nolan Quinn ', ' René Mosele ', ' ', ' Simon Quinn ', ' Brian Quinn ']",
-34,Basel,Autumn-Session,2015-11-13,['MagZen '],
-35,Zürich,Stephen-Simmons,2015-11-13,['Stephen Simmons '],Pop
-36,Bellinzona,Schola-cantorum-Reykjavik,2015-11-13,"[' Fjóla Kristín Nikulásdóttir ', ' Ragnheidur Sara Grímsdóttir ', '  Rakel Edda ']",Classic
-37,Kriens,José-Gonzále,2015-11-13,"['José Gonzále ', ' Jessica Pratt ']",Pop
-38,Aarau,Rangleklods,2015-11-13,['Rangleklods '],Electronic
-39,Schaffhausen,Freitag-der-13te,2015-11-13,"['Terrafraid ', ' Edgarville ']",
-40,Basel,Triple-Thrash-Attack,2015-11-13,['Moros '],
-41,Zürich,Tanga-Zoo,2015-11-13,"[' Andy Brugger ', ' Andre Kunz ', ' Jean-Pierre Schaller ', ' Marc Jufer ']",
-42,Schaffhausen,Banned-From-Utopia,2015-11-13,"['Banned From Utopia ', ' Ray White ', ' Tom Fowler ', ' Chad Wackerman ', ' Albert Wing ', ' Jamie Kime ']",
-43,Zürich,Palace,2015-11-13,['Palace '],Pop
-44,Basel,Jamie-McDowell-&-Tom-Thum,2015-11-13,['Jamie McDowell & Tom Thum '],Pop
-45,Düdingen,Isolation-Berlin,2015-11-13,['Isolation Berlin '],
-46,Thun,Flemming-Borby,2015-11-13,['Flemming Borby '],Pop
-47,Zürich,Ho99o9,2015-11-13,['Ho99o9 '],
-48,Zürich,Nosaj-Thing,2015-11-13,['Nosaj Thing '],Electronic
-49,Bern,Blackalicious,2015-11-13,"['Blackalicious ', ' support: Yarah Bravo ']",
-50,Zürich,Latin-Touch,2015-11-13,[' dance animation by Alexander Martinez '],
-51,Zürich,Tage-für-Neue-Musik,2015-11-13,"[' Andreas Grau ', ' Götz Schumacher ']",Classic
-52,Lyss,Alchemist-&-Oh-No,2015-11-13,['Alchemist & Oh No '],
-53,Basel,DJ-Claptone,2015-11-13,['DJs Claptone '],Electronic
+location,event,date,artists,genre
+null,1.-Mittagskonzert,2015-11-13,['Ewa Kupiec '],Classic
+Zürich,Gletscher-Fezzer,2015-11-13,['Gletscher Fezzer '],traditional
+Basel,Orgelspiel-zum-Feierabend,2015-11-13,['Hanné Becker '],Classic
+Dietikon,Feierabendmusik,2015-11-13,"['Hans-Michael Sablotny ', ' Bernhard Hörler ']",Classic
+Winterthur,Cinédiner-Soirée-paléolithique,2015-11-13,"[' Rea Dubach ', ' Hans Koch ', ' Zeno Gabaglio ']",
+Liestal,Marie-Krüttli-Trio,2015-11-13,['Marie Krüttli '],
+Zürich,Duo-Praxedis,2015-11-13,"['Praxedis Hug-Rütti ', ' Praxedis Genevieve Hug ', ' works by Fabian Müller ']",Classic
+Zürich,Debüt,2015-11-13,[' works by Jacques Demierre '],Classic
+Zürich,Nothing-But-Thieves,2015-11-13,['Nothing But Thieves '],
+Winterthur,Of-Monsters-And-Men,2015-11-13,['Of Monsters And Men '],Pop
+Zürich,O-Fortuna,2015-11-13,"['Ivana Rusko ', ' Christina Daletska ', ' Annkatrin Isaacs ']",Classic
+Wangs,Pizolkonzert,2015-11-13,"[' Oleg Kaskiv ', ' Tania Pimenova ', ' Alexander Boldachev ']",Classic
+null,Marinah,2015-11-13,"['Marinah ', ' Marinah ', ' Miguel Serviole Gimenez ', '  Dasari Kumar Mora Medina ']",
+Zürich,Childhood,2015-11-13,"['Simona Ryser ', ' Anna Trauffer ', ' Philipp Schaufelberger ', ' Edward Rushton ']",Classic
+Zürich,St-Germain,2015-11-13,['St Germain '],
+Solothurn,The-Wombats,2015-11-13,['The Wombats '],
+Zürich,Amir-Gwirtzman,2015-11-13,['Amir Gwirtzman '],
+null,Bob-Dylan,2015-11-13,['Bob Dylan '],
+Binningen,Deuxieme-Messe-für-Männerchor-und-Orgel,2015-11-13,[' Rolf Grolimund '],Classic
+Uster,5th-International-Boogie-Nights,2015-11-13,"['Chris Conz ', ' Kenny Wayne ', ' Jörg Hegemann ', ' Jean-Pierre Bertrand ', ' Richie Loidl ']",
+Wetzikon,The-New-Roses,2015-11-13,['The New Roses '],
+Worblaufen,Hedera,2015-11-13,['Hedera '],
+Basel,Ardilli,2015-11-13,['Diez cuerdas '],
+Chur,James-Arthur,2015-11-13,['James Arthur '],Pop
+Herisau,Charlestown-Jazzband,2015-11-13,['Charlestown Jazzband '],
+Winterthur,Weird-Beard,2015-11-13,"[' Florian Egli ', ' Dave Gisler ', ' Martina Berther ', ' Rico Baumann ']",
+Zürich,Keller-Maurer-Walss,2015-11-13,"[' Manuela Keller ', ' Sara Maurer ', ' Priska Walss ']",
+Wabern,Minifestival,2015-11-13,"[' Matthias Kohler ', ' Jonathan Maag ', ' Anicia Kohler ', ' Johannes Maikranz ']",
+Lugano,Estival-Night,2015-11-13,[' Michel Camilo '],Classic
+Aarau,RDGLDGRN,2015-11-13,['RDGLDGRN '],
+Stäfa,Zakouska,2015-11-13,['Zakouska '],
+Basel,Bastian-Stein-Quartet,2015-11-13,"[' Bastian Stein ', ' Johannes Enders ', ' Phil Donkin ', ' James Maddren ']",
+Lyss,Anti-Flag,2015-11-13,"['Anti Flag ', ' support: Red City Radio ', ' Trophy Eyes ', ' Homeless Gospel Choir ']",
+Dübendorf,Nolan-Quinn(tett)-feat.-René-Mosele,2015-11-13,"['Nolan Quinn', ' Nolan Quinn ', ' René Mosele ', ' ', ' Simon Quinn ', ' Brian Quinn ']",
+Basel,Autumn-Session,2015-11-13,['MagZen '],
+Zürich,Stephen-Simmons,2015-11-13,['Stephen Simmons '],Pop
+Bellinzona,Schola-cantorum-Reykjavik,2015-11-13,"[' Fjóla Kristín Nikulásdóttir ', ' Ragnheidur Sara Grímsdóttir ', '  Rakel Edda ']",Classic
+Kriens,José-Gonzále,2015-11-13,"['José Gonzále ', ' Jessica Pratt ']",Pop
+Aarau,Rangleklods,2015-11-13,['Rangleklods '],Electronic
+Schaffhausen,Freitag-der-13te,2015-11-13,"['Terrafraid ', ' Edgarville ']",
+Basel,Triple-Thrash-Attack,2015-11-13,['Moros '],
+Zürich,Tanga-Zoo,2015-11-13,"[' Andy Brugger ', ' Andre Kunz ', ' Jean-Pierre Schaller ', ' Marc Jufer ']",
+Schaffhausen,Banned-From-Utopia,2015-11-13,"['Banned From Utopia ', ' Ray White ', ' Tom Fowler ', ' Chad Wackerman ', ' Albert Wing ', ' Jamie Kime ']",
+Zürich,Palace,2015-11-13,['Palace '],Pop
+Basel,Jamie-McDowell-&-Tom-Thum,2015-11-13,['Jamie McDowell & Tom Thum '],Pop
+Düdingen,Isolation-Berlin,2015-11-13,['Isolation Berlin '],
+Thun,Flemming-Borby,2015-11-13,['Flemming Borby '],Pop
+Zürich,Ho99o9,2015-11-13,['Ho99o9 '],
+Zürich,Nosaj-Thing,2015-11-13,['Nosaj Thing '],Electronic
+Bern,Blackalicious,2015-11-13,"['Blackalicious ', ' support: Yarah Bravo ']",
+Zürich,Latin-Touch,2015-11-13,[' dance animation by Alexander Martinez '],
+Zürich,Tage-für-Neue-Musik,2015-11-13,"[' Andreas Grau ', ' Götz Schumacher ']",Classic
+Lyss,Alchemist-&-Oh-No,2015-11-13,['Alchemist & Oh No '],
+Basel,DJ-Claptone,2015-11-13,['DJs Claptone '],Electronic

@@ -1,32 +1,32 @@
-,location,event,date,artists,genre
-0,Zürich,Gletscher-Fezzer,2015-11-12,['Gletscher Fezzer '],traditional
-1,Baden,After-Work,2015-11-12,"[' Enrico Orlandi ', ' Andri Calonder ', ' Gordon Schultz ', ' Valentin Akça ']",Pop
-2,Winterthur,Five-Finger-Death-Punch,2015-11-12,"['Five Finger Death Punch ', ' Papa Roach ', ' Devil You Know ']",
-3,Zürich,Standards-Beyond-Insane,2015-11-12,"[' Valentin Baumgartner ', ' David Heizmann ', ' Jonas Künzli ', ' Andreas Bissig ']",
-4,Zürich,Kayef,2015-11-12,['Kayef '],
-5,Basel,Volkssinfoniekonzert,2015-11-12,[' Noa Wildschut '],Classic
-6,Zürich,Thursday-Night-Jazz,2015-11-12,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-7,Zürich,Tage-für-Neue-Musik-Heureka,2015-11-12,[' Felix Behringer '],Classic
-8,Zürich,Duo-Abend,2015-11-12,"['Brigitta Greeff-von Greyerz ', ' Erwin Möckli ']",Classic
-9,null,3.-Tonhallekonzert,2015-11-12,['Ewa Kupiec '],Classic
-10,Lausanne,Yelawolf,2015-11-12,['Yelawolf '],
-11,Zürich,Ewan-Dobson,2015-11-12,['Ewan Dobson '],Pop
-12,null,Simply-Red,2015-11-12,['Simply Red '],Pop
-13,Zürich,Baauer,2015-11-12,['Baauer '],
-14,Zürich,Godspeed-You-Black-Emperor,2015-11-12,['Godspeed You Black Emperor '],
-15,Zürich,Alabama-Shakes,2015-11-12,"['Alabama Shakes ', ' support: Michael Kiwanuka ']",
-16,Uster,5th-International-Boogie-Nights,2015-11-12,"['Chris Conz ', ' Kenny Wayne ', ' Jörg Hegemann ', ' Jean-Pierre Bertrand ', ' Richie Loidl ']",
-17,Basel,Baloise-Session,2015-11-12,['Toto '],
-18,Aarau,Oriental-&-Flamenco-Gypsy-Festival,2015-11-12,"[' Sajeda Obied ', ' Rosetta Lopardo ', ' Sotelo & Campanile ']",
-19,Zürich,Eskimo-Callboy,2015-11-12,['Eskimo Callboy '],Electronic
-20,null,Elvis-Perkins,2015-11-12,"['Elvis Perkins ', ' Kinsey ']",Pop
-21,Winterthur,Marie-Krüttli-Trio,2015-11-12,"[' Marie Krüttli ', ' Lukas Traxel ', ' Martin Perret ']",
-22,Zürich,David-Hope,2015-11-12,['David Hope '],
-23,Zürich,Jack-Dejohnette-Trio-feat.-Ravi-Coltrane-&-Matt-Garrison,2015-11-12,"[' Ravi Coltrane ', ' Matt Garrison ', ' Jack Dejohnette ']",
-24,Wabern,Minifestival,2015-11-12,"['Leo Tardin ', ' Thomas Danzeisen ', ' Manuel Engel ']",
-25,Basel,Fabio-Freire-&-Ignis-Quartet-feat.-Danilo-Moccia-&-Aliéksey-Vianna,2015-11-12,"[' Aliéksey Vianna ', ' Fabio Freire ', ' Susanna Andres ', ' Marion Namestnik ', ' Ueli Angstmann ', ' Martin Hess ']",
-26,Schaffhausen,Cunninlynguists,2015-11-12,['Cunninlynguists '],
-27,Lausanne,Swim-Deep,2015-11-12,['Swim Deep '],Pop
-28,Zürich,10-Jahre-Zukunft-Bukowski,2015-11-12,"['Sean Nicholas Savage ', ' Weyes Blood ']",Pop
-29,Basel,Isolation-Berlin,2015-11-12,['Isolation Berlin '],Electronic
-30,Zürich,Verena-von-Horsten,2015-11-12,['Verena von Horsten '],
+location,event,date,artists,genre
+Zürich,Gletscher-Fezzer,2015-11-12,['Gletscher Fezzer '],traditional
+Baden,After-Work,2015-11-12,"[' Enrico Orlandi ', ' Andri Calonder ', ' Gordon Schultz ', ' Valentin Akça ']",Pop
+Winterthur,Five-Finger-Death-Punch,2015-11-12,"['Five Finger Death Punch ', ' Papa Roach ', ' Devil You Know ']",
+Zürich,Standards-Beyond-Insane,2015-11-12,"[' Valentin Baumgartner ', ' David Heizmann ', ' Jonas Künzli ', ' Andreas Bissig ']",
+Zürich,Kayef,2015-11-12,['Kayef '],
+Basel,Volkssinfoniekonzert,2015-11-12,[' Noa Wildschut '],Classic
+Zürich,Thursday-Night-Jazz,2015-11-12,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Zürich,Tage-für-Neue-Musik-Heureka,2015-11-12,[' Felix Behringer '],Classic
+Zürich,Duo-Abend,2015-11-12,"['Brigitta Greeff-von Greyerz ', ' Erwin Möckli ']",Classic
+null,3.-Tonhallekonzert,2015-11-12,['Ewa Kupiec '],Classic
+Lausanne,Yelawolf,2015-11-12,['Yelawolf '],
+Zürich,Ewan-Dobson,2015-11-12,['Ewan Dobson '],Pop
+null,Simply-Red,2015-11-12,['Simply Red '],Pop
+Zürich,Baauer,2015-11-12,['Baauer '],
+Zürich,Godspeed-You-Black-Emperor,2015-11-12,['Godspeed You Black Emperor '],
+Zürich,Alabama-Shakes,2015-11-12,"['Alabama Shakes ', ' support: Michael Kiwanuka ']",
+Uster,5th-International-Boogie-Nights,2015-11-12,"['Chris Conz ', ' Kenny Wayne ', ' Jörg Hegemann ', ' Jean-Pierre Bertrand ', ' Richie Loidl ']",
+Basel,Baloise-Session,2015-11-12,['Toto '],
+Aarau,Oriental-&-Flamenco-Gypsy-Festival,2015-11-12,"[' Sajeda Obied ', ' Rosetta Lopardo ', ' Sotelo & Campanile ']",
+Zürich,Eskimo-Callboy,2015-11-12,['Eskimo Callboy '],Electronic
+null,Elvis-Perkins,2015-11-12,"['Elvis Perkins ', ' Kinsey ']",Pop
+Winterthur,Marie-Krüttli-Trio,2015-11-12,"[' Marie Krüttli ', ' Lukas Traxel ', ' Martin Perret ']",
+Zürich,David-Hope,2015-11-12,['David Hope '],
+Zürich,Jack-Dejohnette-Trio-feat.-Ravi-Coltrane-&-Matt-Garrison,2015-11-12,"[' Ravi Coltrane ', ' Matt Garrison ', ' Jack Dejohnette ']",
+Wabern,Minifestival,2015-11-12,"['Leo Tardin ', ' Thomas Danzeisen ', ' Manuel Engel ']",
+Basel,Fabio-Freire-&-Ignis-Quartet-feat.-Danilo-Moccia-&-Aliéksey-Vianna,2015-11-12,"[' Aliéksey Vianna ', ' Fabio Freire ', ' Susanna Andres ', ' Marion Namestnik ', ' Ueli Angstmann ', ' Martin Hess ']",
+Schaffhausen,Cunninlynguists,2015-11-12,['Cunninlynguists '],
+Lausanne,Swim-Deep,2015-11-12,['Swim Deep '],Pop
+Zürich,10-Jahre-Zukunft-Bukowski,2015-11-12,"['Sean Nicholas Savage ', ' Weyes Blood ']",Pop
+Basel,Isolation-Berlin,2015-11-12,['Isolation Berlin '],Electronic
+Zürich,Verena-von-Horsten,2015-11-12,['Verena von Horsten '],

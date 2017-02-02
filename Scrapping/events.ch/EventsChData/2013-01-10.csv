@@ -1,24 +1,24 @@
-,location,event,date,artists,genre
-0,Zürich,Liederabend,2013-01-10,"['Angelika Kirchschlager ', ' Helmut Deutsch ']",Classic
-1,Zürich,Easy-Listening-Music-Quartet,2013-01-10,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-2,Luzern,Brillante-Neujahrs-Konzertgala,2013-01-10,['Roland Raphael '],Classic
-3,Aarau,Shakuhachi-Flöten-und-Elektronik,2013-01-10,"[' Jürg Zurmühle ', ' Stefan Keller ']",
-4,Zürich,Orgel-und-Klavier,2013-01-10,"['Conrad Zwicky ', ' Stefan Zwicky ']",Classic
-5,Zürich,Konzert,2013-01-10,[' Emanuel Ax '],Classic
-6,null,5.-Tonhallekonzert,2013-01-10,['Hans Christoph Begemann '],Classic
-7,Bern,Nachtgedanken,2013-01-10,"[' Christoph Prégardien ', ' Olivier Darbellay ']",Classic
-8,Zürich,Beethoven-im-Kaffeehaus,2013-01-10,"[' Mathias Weibel ', ' Monika Baer ', ' Susanna Hefti ', ' Renate Steinmann ']",Classic
-9,Zürich,Big-Freedia-&-The-Divas,2013-01-10,['Big Freedia & The Divas '],
-10,Basel,S.O.S.-Seele-oder-Selbst,2013-01-10,"[' Antje Thierbach ', ' Karin Dornbusch ', ' Helena Winkelman ', ' Christoph Dangel ']",Classic
-11,Kloten,Rainbow-Colors,2013-01-10,"[' Simon Wirsch ', ' Beat Baumli ', ' Richard Pechota ', ' Peter Preibisch ']",
-12,Esse-Musicbar,Winterthur,2013-01-10,"[' Michael Arbenz ', ' Thomas Lähns ', ' Florian Arbenz ']",Vein
-13,Theater-am-Gleis,Winterthur,2013-01-10,"[' Ingrid Lukas ', ' Céline-Giulia Voser ', ' Michel Gsell ', ' Patrik Zosso ']",
-14,Zürich,Urban-Kicks-&-Inner-Landscapes,2013-01-10,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco Käppeli ', ' Dieter Ulrich ']",
-15,Basel,Charly-Antolini,2013-01-10,"[' Florian Truebsbach ', ' Jan Eschke ', ' Andy Kurz ', ' Charly Antolini ']",
-16,Baden,Jersie-Julie-&-Band,2013-01-10,"['Jersie Julie & Band ', ' Jeff Zima ', ' Jersey Julie ', ' Olivier Mas ', ' Stephane Blanc ']",
-17,Liebefeld,Nuevo-Tango,2013-01-10,"[' Michael Zisman ', ' Daniel Zisman ', ' Theodoros Kapilidis ', ' Richard Pizzorno ', ' Wini Holzenkamp ']",
-18,Zürich,Mark-Berube-&-The-Patriotic-Few,2013-01-10,"['Mark Berube & The Patriotic Few ', ' Mark Berube ', ' Kristina Koropecki ', ' Amélie Mandeville ', ' Tonio Morin-Vargas ']",
-19,Parterre-One,Basel,2013-01-10,['Maria Doyle Kennedy & Kieran Kennedy '],
-20,Bern,Feres-Hot-Strings,2013-01-10,"['Feres Hot Strings ', ' Jasmin Scheidegger ', ' Fere Scheidegger ', ' Rainer Hagmann ', ' Peter Horisberger ', ' Felix Haller ', ' Thomas Dürst ']",
-21,Zürich,The-Luck,2013-01-10,['The Luck '],Pop
-22,Zürich,Linah-Rocio,2013-01-10,"[' Linah Rocio ', ' Ueli Heiniger ', ' Christof Jaussi ']",Pop
+location,event,date,artists,genre
+Zürich,Liederabend,2013-01-10,"['Angelika Kirchschlager ', ' Helmut Deutsch ']",Classic
+Zürich,Easy-Listening-Music-Quartet,2013-01-10,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Luzern,Brillante-Neujahrs-Konzertgala,2013-01-10,['Roland Raphael '],Classic
+Aarau,Shakuhachi-Flöten-und-Elektronik,2013-01-10,"[' Jürg Zurmühle ', ' Stefan Keller ']",
+Zürich,Orgel-und-Klavier,2013-01-10,"['Conrad Zwicky ', ' Stefan Zwicky ']",Classic
+Zürich,Konzert,2013-01-10,[' Emanuel Ax '],Classic
+null,5.-Tonhallekonzert,2013-01-10,['Hans Christoph Begemann '],Classic
+Bern,Nachtgedanken,2013-01-10,"[' Christoph Prégardien ', ' Olivier Darbellay ']",Classic
+Zürich,Beethoven-im-Kaffeehaus,2013-01-10,"[' Mathias Weibel ', ' Monika Baer ', ' Susanna Hefti ', ' Renate Steinmann ']",Classic
+Zürich,Big-Freedia-&-The-Divas,2013-01-10,['Big Freedia & The Divas '],
+Basel,S.O.S.-Seele-oder-Selbst,2013-01-10,"[' Antje Thierbach ', ' Karin Dornbusch ', ' Helena Winkelman ', ' Christoph Dangel ']",Classic
+Kloten,Rainbow-Colors,2013-01-10,"[' Simon Wirsch ', ' Beat Baumli ', ' Richard Pechota ', ' Peter Preibisch ']",
+Esse-Musicbar,Winterthur,2013-01-10,"[' Michael Arbenz ', ' Thomas Lähns ', ' Florian Arbenz ']",Vein
+Theater-am-Gleis,Winterthur,2013-01-10,"[' Ingrid Lukas ', ' Céline-Giulia Voser ', ' Michel Gsell ', ' Patrik Zosso ']",
+Zürich,Urban-Kicks-&-Inner-Landscapes,2013-01-10,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco Käppeli ', ' Dieter Ulrich ']",
+Basel,Charly-Antolini,2013-01-10,"[' Florian Truebsbach ', ' Jan Eschke ', ' Andy Kurz ', ' Charly Antolini ']",
+Baden,Jersie-Julie-&-Band,2013-01-10,"['Jersie Julie & Band ', ' Jeff Zima ', ' Jersey Julie ', ' Olivier Mas ', ' Stephane Blanc ']",
+Liebefeld,Nuevo-Tango,2013-01-10,"[' Michael Zisman ', ' Daniel Zisman ', ' Theodoros Kapilidis ', ' Richard Pizzorno ', ' Wini Holzenkamp ']",
+Zürich,Mark-Berube-&-The-Patriotic-Few,2013-01-10,"['Mark Berube & The Patriotic Few ', ' Mark Berube ', ' Kristina Koropecki ', ' Amélie Mandeville ', ' Tonio Morin-Vargas ']",
+Parterre-One,Basel,2013-01-10,['Maria Doyle Kennedy & Kieran Kennedy '],
+Bern,Feres-Hot-Strings,2013-01-10,"['Feres Hot Strings ', ' Jasmin Scheidegger ', ' Fere Scheidegger ', ' Rainer Hagmann ', ' Peter Horisberger ', ' Felix Haller ', ' Thomas Dürst ']",
+Zürich,The-Luck,2013-01-10,['The Luck '],Pop
+Zürich,Linah-Rocio,2013-01-10,"[' Linah Rocio ', ' Ueli Heiniger ', ' Christof Jaussi ']",Pop

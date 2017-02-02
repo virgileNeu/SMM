@@ -1,12 +1,12 @@
-,location,event,date,artists,genre
-0,Münchenstein,Lilibiggs-Kinder-Festivals,2015-08-16,['Deine Freund '],Pop
-1,null,Murten-Classics,2015-08-16,"['Augustin Dumay ', ' Svetlin Roussev ', ' Miguel da Silva ', ' Henri Demarquette ']",Classic
-2,Saanenmöser,Gstaad-Menuhin-Festival-Bach-and-Masters-of-Jazz,2015-08-16,['Andrei Pushkarev '],Classic
-3,Fischingen,Orgel-solo,2015-08-16,['Andreas Wildi '],Classic
-4,Thun,Bachwochen-Thun,2015-08-16,['Francesco Tristano '],Classic
-5,Murten,Murten-Classics,2015-08-16,"[' Henri Demarquette ', ' Svetlin Roussev ', ' Miguel da Silva ']",Classic
-6,Zürich,Sommer-Musikwochen-Orchester-Laax,2015-08-16,"['Manon Leutwyler ', ' Charlotte Wieser ']",Classic
-7,Saanen,Gstaad-Menuhin-Festival-Barocke-Trompeten-Gala,2015-08-16,"[' Gabor Boldoczki ', ' Sergei Nakariakov ']",Classic
-8,Zürich,Guns-Up,2015-08-16,"['Guns Up ', ' Gone To Waste ', ' World Eater ']",
-9,Winterthur,Winterthurer-Musikfestwochen,2015-08-16,['Enno Bunger '],Pop
-10,Winterthur,Philco-Fiction,2015-08-16,['Philco Fiction '],Pop
+location,event,date,artists,genre
+Münchenstein,Lilibiggs-Kinder-Festivals,2015-08-16,['Deine Freund '],Pop
+null,Murten-Classics,2015-08-16,"['Augustin Dumay ', ' Svetlin Roussev ', ' Miguel da Silva ', ' Henri Demarquette ']",Classic
+Saanenmöser,Gstaad-Menuhin-Festival-Bach-and-Masters-of-Jazz,2015-08-16,['Andrei Pushkarev '],Classic
+Fischingen,Orgel-solo,2015-08-16,['Andreas Wildi '],Classic
+Thun,Bachwochen-Thun,2015-08-16,['Francesco Tristano '],Classic
+Murten,Murten-Classics,2015-08-16,"[' Henri Demarquette ', ' Svetlin Roussev ', ' Miguel da Silva ']",Classic
+Zürich,Sommer-Musikwochen-Orchester-Laax,2015-08-16,"['Manon Leutwyler ', ' Charlotte Wieser ']",Classic
+Saanen,Gstaad-Menuhin-Festival-Barocke-Trompeten-Gala,2015-08-16,"[' Gabor Boldoczki ', ' Sergei Nakariakov ']",Classic
+Zürich,Guns-Up,2015-08-16,"['Guns Up ', ' Gone To Waste ', ' World Eater ']",
+Winterthur,Winterthurer-Musikfestwochen,2015-08-16,['Enno Bunger '],Pop
+Winterthur,Philco-Fiction,2015-08-16,['Philco Fiction '],Pop

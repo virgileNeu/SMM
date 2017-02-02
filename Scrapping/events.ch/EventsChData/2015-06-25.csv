@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,Basel,Masterrezital,2015-06-25,['Victor Hege '],Classic
-1,Zürich,Glantaler-Power-Men,2015-06-25,['Glantaler Power Men '],Pop
-2,null,Openair-St.-Gallen,2015-06-25,"['Frank Turner & The Sleeping Souls ', ' The Glitch Mob ', ' Antilopen Gang ']",
-3,Basel,Masterrezital,2015-06-25,['Umbaja Majstorovic '],Classic
-4,Zürich,Rezital-Master-Music-Performance-Orchester,2015-06-25,['Ana Francisca Ferreira Bastos '],Classic
-5,Zürich,Meisterwerke-Klassischer-&-Georgischer-Musik,2015-06-25,"['Tanja Sonc ', ' Tamara Kordzadze ', ' Orfeo Mandozzi ', ' Lizi Ramishvili ']",Classic
-6,Zürich,Festspiele-Zürich-Magier-der-Töne,2015-06-25,[' Yuja Wang '],Classic
-7,Basel,Schlusskonzert,2015-06-25,"[' Francesco Carletti ', ' Ye Jin Byun ', ' Josefiina Dunder ', ' Joseph-Maurice Weder ']",Classic
-8,Ascona,Jazz-Ascona,2015-06-25,"['Ray Gelato & The Giants ', ' Tin Men ']",
-9,Zürich,Michael-Patrick-Kelly,2015-06-25,['Michael Patrick Kelly '],Pop
-10,Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-25,['Josep Joaquim Sanchis Castellanos '],Classic
-11,Luzern,Electric-Force,2015-06-25,"[' Ramon Landolt ', ' Thomas Tavano ', ' Florian Hoesl ']",Electronic
-12,Winterthur,Bonilla-Dunkel-Quintet,2015-06-25,"[' Luis Bonilla ', ' Amadis Dunkel ', ' Yana Park ', ' Dominik Schürmann ', ' Stephan Felber ']",
-13,Winterthur,Schatten,2015-06-25,"[' Roberto Casado ', ' Jabi Alonso ', ' Alfonso Gómez ', ' Estitxu Oraá ', ' Alfonso García De La Torre ']",Classic
-14,Basel,Thomas-Lüthi's-Biwak,2015-06-25,"[' Rafael Schilt ', ' Arne Huber ', ' Claudio Strüby ']",
-15,Luzern,Workshopkonzerte,2015-06-25,"['Gilda Laneve ', ' Xenia von Werra ', ' Clemens Kuratle ', ' Raphael Loher ', ' Florian Schneider ', ' Noah Arnold ']",
-16,Luzern,Hot-Jazz-Jam-Session,2015-06-25,['The Syncopators '],
+location,event,date,artists,genre
+Basel,Masterrezital,2015-06-25,['Victor Hege '],Classic
+Zürich,Glantaler-Power-Men,2015-06-25,['Glantaler Power Men '],Pop
+null,Openair-St.-Gallen,2015-06-25,"['Frank Turner & The Sleeping Souls ', ' The Glitch Mob ', ' Antilopen Gang ']",
+Basel,Masterrezital,2015-06-25,['Umbaja Majstorovic '],Classic
+Zürich,Rezital-Master-Music-Performance-Orchester,2015-06-25,['Ana Francisca Ferreira Bastos '],Classic
+Zürich,Meisterwerke-Klassischer-&-Georgischer-Musik,2015-06-25,"['Tanja Sonc ', ' Tamara Kordzadze ', ' Orfeo Mandozzi ', ' Lizi Ramishvili ']",Classic
+Zürich,Festspiele-Zürich-Magier-der-Töne,2015-06-25,[' Yuja Wang '],Classic
+Basel,Schlusskonzert,2015-06-25,"[' Francesco Carletti ', ' Ye Jin Byun ', ' Josefiina Dunder ', ' Joseph-Maurice Weder ']",Classic
+Ascona,Jazz-Ascona,2015-06-25,"['Ray Gelato & The Giants ', ' Tin Men ']",
+Zürich,Michael-Patrick-Kelly,2015-06-25,['Michael Patrick Kelly '],Pop
+Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-25,['Josep Joaquim Sanchis Castellanos '],Classic
+Luzern,Electric-Force,2015-06-25,"[' Ramon Landolt ', ' Thomas Tavano ', ' Florian Hoesl ']",Electronic
+Winterthur,Bonilla-Dunkel-Quintet,2015-06-25,"[' Luis Bonilla ', ' Amadis Dunkel ', ' Yana Park ', ' Dominik Schürmann ', ' Stephan Felber ']",
+Winterthur,Schatten,2015-06-25,"[' Roberto Casado ', ' Jabi Alonso ', ' Alfonso Gómez ', ' Estitxu Oraá ', ' Alfonso García De La Torre ']",Classic
+Basel,Thomas-Lüthi's-Biwak,2015-06-25,"[' Rafael Schilt ', ' Arne Huber ', ' Claudio Strüby ']",
+Luzern,Workshopkonzerte,2015-06-25,"['Gilda Laneve ', ' Xenia von Werra ', ' Clemens Kuratle ', ' Raphael Loher ', ' Florian Schneider ', ' Noah Arnold ']",
+Luzern,Hot-Jazz-Jam-Session,2015-06-25,['The Syncopators '],

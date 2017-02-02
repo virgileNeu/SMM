@@ -1,40 +1,40 @@
-,location,event,date,artists,genre
-0,Luzern,Lucerne-Festival-am-Piano-Debut-3,2016-11-25,['Kit Armstrong '],Classic
-1,Zürich,Songs-Across-the-Border,2016-11-25,"[' Podiumsgespräch mit Denise Graf ', ' Liska Bernet ', ' Moderation: Stella Jegher ']",Pop
-2,Basel,Orgelspiel-zum-Feierabend,2016-11-25,['Cécile Mansuy '],Classic
-3,Dietikon,Feierabendmusik-in-der-Kirche,2016-11-25,"['Beat Fries ', ' Bernhard Hörler ']",Classic
-4,Dübendorf,Christian-Niederer's-Plan,2016-11-25,"[' Christian Niederer ', ' Oliver Keller ', ' Thomy Jordi ']",Pop
-5,Zürich,Katharina-Busch,2016-11-25,['Katharina Busch '],Pop
-6,Luzern,Lucerne-Festival-am-Piano,2016-11-25,[' conductor: Murray Perahia '],Classic
-7,Zürich,Unerhört,2016-11-25,"[' Alex Huber ', '  Lauren Kinsella ', ' Sascha Henkel ', ' Ethan Iverson ', ' Mark Turner ', ' Angelika Niescier ']",
-8,Zürich,Kvelertak,2016-11-25,['Kvelertak '],
-9,Zürich,Orchestermagie,2016-11-25,[' François Leleux '],Classic
-10,Baden,Spektrum|Akzente-2016-Umbruch,2016-11-25,[' works by M. Ravel und J. Marx '],Classic
-11,Niederrohrdorf,Art-on-the-Ridge,2016-11-25,"[' Katja Baumann ', ' Gregor Loepfe ', ' Richard Pechota ', ' Peter Preibisch ', ' Stefan Keller ']",
-12,Zürich,Arte-Reunido-Flamencofestival,2016-11-25,"[' Cristina López ', ' Eva María Gomez ', ' Marc López ', ' Ramón El Moli ']",
-13,null,Jean-Michel-Jarre,2016-11-25,['Jean-Michel Jarre '],Electronic
-14,Zürich,Gruz-&-Bonez-MC,2016-11-25,['Gruz & Bonez MC '],
-15,null,Thierry-Lang,2016-11-25,"[' Thierry Lang ', ' Heiri Känzig ', ' Andi Pupato ', ' Mathieu Michel ', ' Quatuor Sine Nomine ']",
-16,Solothurn,Glenn-Hughes,2016-11-25,['Glenn Hughes '],
-17,Basel,Groove-Now,2016-11-25,['Randall Bramblett Band '],
-18,Thalwil,Auf-der-Treppe-sitzen-meine-Ohrchen,2016-11-25,"[' Claudia Ulla Binder ', ' Sara Maurer ']",Classic
-19,Winterthur,Jazz,2016-11-25,"['Christoph Flueler ', ' Dani Odermatt ', ' Patrick Oriet ', ' Michael Felder ', ' Stefan Blum ', ' Christoph Flueler ', ' Dani Odermatt ', ' Patrick Oriet ', ' Michael Felder ', ' Stefan Blum ']",
-20,Winterthur,Christoph-Grabs-Tough-Tenor,2016-11-25,"[' Christoph Grab ', ' Marcel Thomi ', ' Paul Amereller ']",
-21,Basel,Scherrer-Brodbeck-Gisler-Strüby,2016-11-25,"[' Andy Scherrer ', ' Jean-Paul Brodbeck ', ' Fabian Gisler ', ' Claudio Strüby ']",
-22,Feuerthalen,Keith-Thompson,2016-11-25,['Keith Thompson '],
-23,Baden,Donadio-Family-Band,2016-11-25,"[' Madlen Donadio ', ' Dalia Donadio ', ' Moreno Donadio ', ' Toni Donadio ']",Pop
-24,Zürich,Floor-Poodle,2016-11-25,"[' Silvan Schmid ', ' Tobias Pfister ', ' Mischa Frey ', ' Marcio de Sousa ']",
-25,Romanshorn,The-New-Off-&-Out,2016-11-25,"[' Urs Carl Eigenmann ', ' Berti Lampert ', ' Gee-K ', ' Marc Ray Oxendine ', ' Beat Fraefel-Haering ']",
-26,Liebefeld,Alpine-Spacelab,2016-11-25,['Alpine Spacelab '],
-27,Zürich,Dub-Spencer-&-Trance-Hill,2016-11-25,"['Dub Spencer & Trance Hill ', ' Bruno Amstad ', ' Philipp Greter ', ' Markus Meier ', ' Marcel Stalder ', ' Julian Dillier ']",
-28,Frick,Heymoonshaker,2016-11-25,['Heymoonshaker '],
-29,Zug,Donots,2016-11-25,['Donots '],
-30,Rubigen,Nazareth,2016-11-25,['Nazareth '],
-31,Zug,5-Years-Daily-Concept,2016-11-25,"[' Warpath ', ' Chezz One & Damian ', ' Django ', ' BlabberMouf ', ' Beppo S. & Peter B. ']",
-32,Bern,Jessiquoi,2016-11-25,['Jessiquoi '],Pop
-33,Zürich,Voodoo-Jürgens,2016-11-25,['Voodoo Jürgens '],
-34,Zürich,Hellmüller-Sicera-Renold,2016-11-25,"[' Franz Hellmüller ', ' Luca Sisera ', ' Tony Renold ']",
-35,Basel,Live-in-Concert,2016-11-25,['Chicos de Nazca '],
-36,Basel,Digable-Planets,2016-11-25,"['Digable Planets ', ' DJs KCL ']",
-37,Bern,Kleintierschaukel,2016-11-25,['Kleintierschaukel '],Electronic
-38,Zürich,Unerhört,2016-11-25,"[' Claire Huguenin ', ' Malcolm Braff ']",
+location,event,date,artists,genre
+Luzern,Lucerne-Festival-am-Piano-Debut-3,2016-11-25,['Kit Armstrong '],Classic
+Zürich,Songs-Across-the-Border,2016-11-25,"[' Podiumsgespräch mit Denise Graf ', ' Liska Bernet ', ' Moderation: Stella Jegher ']",Pop
+Basel,Orgelspiel-zum-Feierabend,2016-11-25,['Cécile Mansuy '],Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2016-11-25,"['Beat Fries ', ' Bernhard Hörler ']",Classic
+Dübendorf,Christian-Niederer's-Plan,2016-11-25,"[' Christian Niederer ', ' Oliver Keller ', ' Thomy Jordi ']",Pop
+Zürich,Katharina-Busch,2016-11-25,['Katharina Busch '],Pop
+Luzern,Lucerne-Festival-am-Piano,2016-11-25,[' conductor: Murray Perahia '],Classic
+Zürich,Unerhört,2016-11-25,"[' Alex Huber ', '  Lauren Kinsella ', ' Sascha Henkel ', ' Ethan Iverson ', ' Mark Turner ', ' Angelika Niescier ']",
+Zürich,Kvelertak,2016-11-25,['Kvelertak '],
+Zürich,Orchestermagie,2016-11-25,[' François Leleux '],Classic
+Baden,Spektrum|Akzente-2016-Umbruch,2016-11-25,[' works by M. Ravel und J. Marx '],Classic
+Niederrohrdorf,Art-on-the-Ridge,2016-11-25,"[' Katja Baumann ', ' Gregor Loepfe ', ' Richard Pechota ', ' Peter Preibisch ', ' Stefan Keller ']",
+Zürich,Arte-Reunido-Flamencofestival,2016-11-25,"[' Cristina López ', ' Eva María Gomez ', ' Marc López ', ' Ramón El Moli ']",
+null,Jean-Michel-Jarre,2016-11-25,['Jean-Michel Jarre '],Electronic
+Zürich,Gruz-&-Bonez-MC,2016-11-25,['Gruz & Bonez MC '],
+null,Thierry-Lang,2016-11-25,"[' Thierry Lang ', ' Heiri Känzig ', ' Andi Pupato ', ' Mathieu Michel ', ' Quatuor Sine Nomine ']",
+Solothurn,Glenn-Hughes,2016-11-25,['Glenn Hughes '],
+Basel,Groove-Now,2016-11-25,['Randall Bramblett Band '],
+Thalwil,Auf-der-Treppe-sitzen-meine-Ohrchen,2016-11-25,"[' Claudia Ulla Binder ', ' Sara Maurer ']",Classic
+Winterthur,Jazz,2016-11-25,"['Christoph Flueler ', ' Dani Odermatt ', ' Patrick Oriet ', ' Michael Felder ', ' Stefan Blum ', ' Christoph Flueler ', ' Dani Odermatt ', ' Patrick Oriet ', ' Michael Felder ', ' Stefan Blum ']",
+Winterthur,Christoph-Grabs-Tough-Tenor,2016-11-25,"[' Christoph Grab ', ' Marcel Thomi ', ' Paul Amereller ']",
+Basel,Scherrer-Brodbeck-Gisler-Strüby,2016-11-25,"[' Andy Scherrer ', ' Jean-Paul Brodbeck ', ' Fabian Gisler ', ' Claudio Strüby ']",
+Feuerthalen,Keith-Thompson,2016-11-25,['Keith Thompson '],
+Baden,Donadio-Family-Band,2016-11-25,"[' Madlen Donadio ', ' Dalia Donadio ', ' Moreno Donadio ', ' Toni Donadio ']",Pop
+Zürich,Floor-Poodle,2016-11-25,"[' Silvan Schmid ', ' Tobias Pfister ', ' Mischa Frey ', ' Marcio de Sousa ']",
+Romanshorn,The-New-Off-&-Out,2016-11-25,"[' Urs Carl Eigenmann ', ' Berti Lampert ', ' Gee-K ', ' Marc Ray Oxendine ', ' Beat Fraefel-Haering ']",
+Liebefeld,Alpine-Spacelab,2016-11-25,['Alpine Spacelab '],
+Zürich,Dub-Spencer-&-Trance-Hill,2016-11-25,"['Dub Spencer & Trance Hill ', ' Bruno Amstad ', ' Philipp Greter ', ' Markus Meier ', ' Marcel Stalder ', ' Julian Dillier ']",
+Frick,Heymoonshaker,2016-11-25,['Heymoonshaker '],
+Zug,Donots,2016-11-25,['Donots '],
+Rubigen,Nazareth,2016-11-25,['Nazareth '],
+Zug,5-Years-Daily-Concept,2016-11-25,"[' Warpath ', ' Chezz One & Damian ', ' Django ', ' BlabberMouf ', ' Beppo S. & Peter B. ']",
+Bern,Jessiquoi,2016-11-25,['Jessiquoi '],Pop
+Zürich,Voodoo-Jürgens,2016-11-25,['Voodoo Jürgens '],
+Zürich,Hellmüller-Sicera-Renold,2016-11-25,"[' Franz Hellmüller ', ' Luca Sisera ', ' Tony Renold ']",
+Basel,Live-in-Concert,2016-11-25,['Chicos de Nazca '],
+Basel,Digable-Planets,2016-11-25,"['Digable Planets ', ' DJs KCL ']",
+Bern,Kleintierschaukel,2016-11-25,['Kleintierschaukel '],Electronic
+Zürich,Unerhört,2016-11-25,"[' Claire Huguenin ', ' Malcolm Braff ']",

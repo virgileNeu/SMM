@@ -1,31 +1,31 @@
-,location,event,date,artists,genre
-0,Aaredelta-Grien,Kallnach,2013-07-06,[' Battle Against The Empire '],Treekillaz
-1,Einsiedeln,Lenz-und-Liebeslieder,2013-07-06,"[' Vera Ehrensperger ', ' Robert Braunschweig ', ' Yara Borges ', ' Daniel Schnurrenberger ']",Classic
-2,Seematte-Twann,Twann,2013-07-06,['Romain Virgo & Unit Band '],
-3,Blatterwiese,Zürich,2013-07-06,"['Deichkind ', ' The Roots ', ' IAM ', ' La Coka Nostra ', ' Joey Badass ', ' Trailerpark ', ' Snowgoons ', ' Fritz Kalkbrenner ', ' Iggy Azalea ']",
-4,Laufen,Stedtli-Blues,2013-07-06,['Jersey Julie Band '],
-5,Zürich,Un-midi-classique-5,2013-07-06,"[' Deborah Spiegel ', ' Elena Lüthi ', ' Ronny Spiegel ']",Classic
-6,-Alte-Kirche,Boswil,2013-07-06,"[' Shani Diluka ', ' Maximilian Hornung ']",Classic
-7,Luzern,Piano-Entertainment,2013-07-06,['Mega Horvath '],
-8,null,Jazz-Parade,2013-07-06,"['Tuba Skinny ', ' Erika Lewis ', ' Todd Burdick ', ' Bobby Browne ']",
-9,St.-Stephan,Hangar-Rockin',2013-07-06,"['The Rapiers ', ' The Beat From Palookaville ', ' Mark Harmann & Hot Rod Rhythm Boys ', ' Jake Calypso & His Red Hot ', ' DJs Miss She Devil ', ' Squale ', ' Aloha ']",Pop
-10,Frick,Meckamdo-Open-Air,2013-07-06,['Otto Normal '],
-11,Winterthur,Konzert,2013-07-06,"['Hye Seung Keum ', ' Alfonso Gómez ']",Classic
-12,Zürich,English-Cathedral-Music,2013-07-06,"[' Neuer Zürcher Kammerchor ', ' Anna Gschwend ', ' Sofia Pollak-Podlech ', ' Michael Mogl ', ' Richard Helm ']",Classic
-13,Luzern,Spectacular-Classics,2013-07-06,"[' Manuel Blanco Gómez-Limón ', ' Michael Erni ']",Classic
-14,Zürich,Caliente,2013-07-06,"['Alvario Rios ', ' Valeria Eva e Grupo ', ' Ilu Aiya & Jane Cruz ']",
-15,Zürich,Satsang-&-Meditation,2013-07-06,['Swami Prem Paras '],
-16,Zürich,Tempest,2013-07-06,"[' Katharina Lugmayr ', ' Yuta Takase ', ' Eszter Major ', ' Chin-Ting Huang ', ' Sarah Weilenmann ', ' Martin Derungs ']",Classic
-17,Montreux-Music-&-Convention-Centre,Montreux,2013-07-06,"['Peter von Poehl ', ' Trixie Whitley ']",
-18,Montreux-Music-&-Convention-Centre,Montreux,2013-07-06,"['Bobby Womack ', ' Wyclef Jean & Refugee Camp ']",
-19,Uster,Zugluft,2013-07-06,"['Andrea Kirchhofer ', ' Jonas Guggenheim ', ' Bruno Strüby ']",Classic
-20,Zürich,Neurosis,2013-07-06,"['Neurosis ', ' Zatokrev ']",
-21,Montreux-Music-&-Convention-Centre,Montreux,2013-07-06,"['Cat Power ', ' Girls in Hawaii ']",
-22,null,Stimmen,2013-07-06,"['Irmelin ', ' Cuncordu e tenore de orosei ']",
-23,Basel,Schönhaus-Express-feat.-Lisette-Spinnler,2013-07-06,"[' Lisette Spinnler ', ' Sascha Schönhaus ', ' Hans-Peter Pfammatter ', ' Bänz Oester ', ' Norbert Pfammatter ']",
-24,Piazza-Grande,Locarno,2013-07-06,['Die Toten Hosen '],
-25,Zürich,Lindenhoffest,2013-07-06,[' Tubbe '],
-26,Zürich,Chuck-Perkins,2013-07-06,['Chuck Perkins '],
-27,Areal-Kapelle-St.-Peter,Kestenholz,2013-07-06,['Jamie Cullum '],
-28,Lyss,Voz-a-Voz,2013-07-06,['Voz a Voz '],
-29,null,Jazz-Parade,2013-07-06,"[""Beat'n'Blow "", ' Kati La Voix ', ' Lukas Linhart ', '  Steve M. Gold ']",
+location,event,date,artists,genre
+Aaredelta-Grien,Kallnach,2013-07-06,[' Battle Against The Empire '],Treekillaz
+Einsiedeln,Lenz-und-Liebeslieder,2013-07-06,"[' Vera Ehrensperger ', ' Robert Braunschweig ', ' Yara Borges ', ' Daniel Schnurrenberger ']",Classic
+Seematte-Twann,Twann,2013-07-06,['Romain Virgo & Unit Band '],
+Blatterwiese,Zürich,2013-07-06,"['Deichkind ', ' The Roots ', ' IAM ', ' La Coka Nostra ', ' Joey Badass ', ' Trailerpark ', ' Snowgoons ', ' Fritz Kalkbrenner ', ' Iggy Azalea ']",
+Laufen,Stedtli-Blues,2013-07-06,['Jersey Julie Band '],
+Zürich,Un-midi-classique-5,2013-07-06,"[' Deborah Spiegel ', ' Elena Lüthi ', ' Ronny Spiegel ']",Classic
+-Alte-Kirche,Boswil,2013-07-06,"[' Shani Diluka ', ' Maximilian Hornung ']",Classic
+Luzern,Piano-Entertainment,2013-07-06,['Mega Horvath '],
+null,Jazz-Parade,2013-07-06,"['Tuba Skinny ', ' Erika Lewis ', ' Todd Burdick ', ' Bobby Browne ']",
+St.-Stephan,Hangar-Rockin',2013-07-06,"['The Rapiers ', ' The Beat From Palookaville ', ' Mark Harmann & Hot Rod Rhythm Boys ', ' Jake Calypso & His Red Hot ', ' DJs Miss She Devil ', ' Squale ', ' Aloha ']",Pop
+Frick,Meckamdo-Open-Air,2013-07-06,['Otto Normal '],
+Winterthur,Konzert,2013-07-06,"['Hye Seung Keum ', ' Alfonso Gómez ']",Classic
+Zürich,English-Cathedral-Music,2013-07-06,"[' Neuer Zürcher Kammerchor ', ' Anna Gschwend ', ' Sofia Pollak-Podlech ', ' Michael Mogl ', ' Richard Helm ']",Classic
+Luzern,Spectacular-Classics,2013-07-06,"[' Manuel Blanco Gómez-Limón ', ' Michael Erni ']",Classic
+Zürich,Caliente,2013-07-06,"['Alvario Rios ', ' Valeria Eva e Grupo ', ' Ilu Aiya & Jane Cruz ']",
+Zürich,Satsang-&-Meditation,2013-07-06,['Swami Prem Paras '],
+Zürich,Tempest,2013-07-06,"[' Katharina Lugmayr ', ' Yuta Takase ', ' Eszter Major ', ' Chin-Ting Huang ', ' Sarah Weilenmann ', ' Martin Derungs ']",Classic
+Montreux-Music-&-Convention-Centre,Montreux,2013-07-06,"['Peter von Poehl ', ' Trixie Whitley ']",
+Montreux-Music-&-Convention-Centre,Montreux,2013-07-06,"['Bobby Womack ', ' Wyclef Jean & Refugee Camp ']",
+Uster,Zugluft,2013-07-06,"['Andrea Kirchhofer ', ' Jonas Guggenheim ', ' Bruno Strüby ']",Classic
+Zürich,Neurosis,2013-07-06,"['Neurosis ', ' Zatokrev ']",
+Montreux-Music-&-Convention-Centre,Montreux,2013-07-06,"['Cat Power ', ' Girls in Hawaii ']",
+null,Stimmen,2013-07-06,"['Irmelin ', ' Cuncordu e tenore de orosei ']",
+Basel,Schönhaus-Express-feat.-Lisette-Spinnler,2013-07-06,"[' Lisette Spinnler ', ' Sascha Schönhaus ', ' Hans-Peter Pfammatter ', ' Bänz Oester ', ' Norbert Pfammatter ']",
+Piazza-Grande,Locarno,2013-07-06,['Die Toten Hosen '],
+Zürich,Lindenhoffest,2013-07-06,[' Tubbe '],
+Zürich,Chuck-Perkins,2013-07-06,['Chuck Perkins '],
+Areal-Kapelle-St.-Peter,Kestenholz,2013-07-06,['Jamie Cullum '],
+Lyss,Voz-a-Voz,2013-07-06,['Voz a Voz '],
+null,Jazz-Parade,2013-07-06,"[""Beat'n'Blow "", ' Kati La Voix ', ' Lukas Linhart ', '  Steve M. Gold ']",

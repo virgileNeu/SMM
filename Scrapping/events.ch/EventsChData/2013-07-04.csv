@@ -1,21 +1,21 @@
-,location,event,date,artists,genre
-0,Zürich,Die-heroische-Orgel,2013-07-04,['Wojeiech Róak '],Classic
-1,Winterthur,Sommerbar,2013-07-04,['Becky Lee and Drunkfoot '],
-2,null,Jazz-Parade,2013-07-04,"['Tuba Skinny ', ' Erika Lewis ', ' Todd Burdick ', ' Bobby Browne ']",
-3,Binningen,Binninger-Orgelsommer-Eröffnungskonzert,2013-07-04,['Markus Schwenkreis '],Classic
-4,null,Jazz-Parade,2013-07-04,[' Spencer Bohren '],
-5,null,Stimmen-Eröffnung,2013-07-04,['Carleen Anderson Trio '],
-6,null,Messa-da-Requiem,2013-07-04,"[' Serena Farnocchia ', ' Yvonne Naef ', ' Leonardo Capalbo ', ' Askar Abdrazakov ']",Classic
-7,Luzern,Salonmusik,2013-07-04,"['Martin Schaefer ', ' Richard Decker ']",Classic
-8,Montreux-Music-&-Convention-Centre,Montreux,2013-07-04,['Leonard Cohen '],
-9,Montreux-Music-&-Convention-Centre,Montreux,2013-07-04,['Lianne La Havas '],
-10,-Alte-Kirche,Boswil,2013-07-04,"['Kit Armstrong ', ' Shani Diluka ', ' Stephan Mai ', ' Corinne Chapelle ', ' Razvan Popovici ', ' Maximilian Hornung ']",Classic
-11,Zürich,Urban-Kicks-&-Inner-Landscapes,2013-07-04,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco Käppeli ', ' Dieter Ulrich ']",
-12,Montreux,Montreux-Jazz-Festival,2013-07-04,"['Rodriguez ', "" Melody's Echo Chamber ""]",
-13,Zürich,Firewater,2013-07-04,['Firewater '],
-14,Basel,Schönhaus-Express-feat.-Lisette-Spinnler,2013-07-04,"[' Lisette Spinnler ', ' Sascha Schönhaus ', ' Hans-Peter Pfammatter ', ' Bänz Oester ', ' Norbert Pfammatter ']",
-15,Piazza-Grande,Locarno,2013-07-04,['ZZ Top '],
-16,Areal-Kapelle-St.-Peter,Kestenholz,2013-07-04,['Patricia Kaas '],
-17,Luzern,Jam-Session,2013-07-04,['Richard Decker '],
-18,Winterthur,The-Temptress,2013-07-04,"['Evelinn Trouble ', ' Flo Götte ', ' Tobi Schramm ']",
-19,null,Jazz-Parade,2013-07-04,"[""Beat'n'Blow "", ' Kati La Voix ', ' Lukas Linhart ', '  Steve M. Gold ']",
+location,event,date,artists,genre
+Zürich,Die-heroische-Orgel,2013-07-04,['Wojeiech Róak '],Classic
+Winterthur,Sommerbar,2013-07-04,['Becky Lee and Drunkfoot '],
+null,Jazz-Parade,2013-07-04,"['Tuba Skinny ', ' Erika Lewis ', ' Todd Burdick ', ' Bobby Browne ']",
+Binningen,Binninger-Orgelsommer-Eröffnungskonzert,2013-07-04,['Markus Schwenkreis '],Classic
+null,Jazz-Parade,2013-07-04,[' Spencer Bohren '],
+null,Stimmen-Eröffnung,2013-07-04,['Carleen Anderson Trio '],
+null,Messa-da-Requiem,2013-07-04,"[' Serena Farnocchia ', ' Yvonne Naef ', ' Leonardo Capalbo ', ' Askar Abdrazakov ']",Classic
+Luzern,Salonmusik,2013-07-04,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Montreux-Music-&-Convention-Centre,Montreux,2013-07-04,['Leonard Cohen '],
+Montreux-Music-&-Convention-Centre,Montreux,2013-07-04,['Lianne La Havas '],
+-Alte-Kirche,Boswil,2013-07-04,"['Kit Armstrong ', ' Shani Diluka ', ' Stephan Mai ', ' Corinne Chapelle ', ' Razvan Popovici ', ' Maximilian Hornung ']",Classic
+Zürich,Urban-Kicks-&-Inner-Landscapes,2013-07-04,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco Käppeli ', ' Dieter Ulrich ']",
+Montreux,Montreux-Jazz-Festival,2013-07-04,"['Rodriguez ', "" Melody's Echo Chamber ""]",
+Zürich,Firewater,2013-07-04,['Firewater '],
+Basel,Schönhaus-Express-feat.-Lisette-Spinnler,2013-07-04,"[' Lisette Spinnler ', ' Sascha Schönhaus ', ' Hans-Peter Pfammatter ', ' Bänz Oester ', ' Norbert Pfammatter ']",
+Piazza-Grande,Locarno,2013-07-04,['ZZ Top '],
+Areal-Kapelle-St.-Peter,Kestenholz,2013-07-04,['Patricia Kaas '],
+Luzern,Jam-Session,2013-07-04,['Richard Decker '],
+Winterthur,The-Temptress,2013-07-04,"['Evelinn Trouble ', ' Flo Götte ', ' Tobi Schramm ']",
+null,Jazz-Parade,2013-07-04,"[""Beat'n'Blow "", ' Kati La Voix ', ' Lukas Linhart ', '  Steve M. Gold ']",

@@ -1,25 +1,25 @@
-,location,event,date,artists,genre
-0,null,Openair-St.-Gallen,2015-06-28,"['Paolo Nutini ', ' Kraftklub ', ' Kodaline ', ' Mighty Oaks ', ' Kwabs ', ' Annenmaykantereit ']",
-1,-Alte-Kirche,Boswil,2015-06-28,"[' Armin Landtwing ', ' Hansruedi Blattmann ', ' Martina Rohrer ', ' Das Cigar-Quartett spielt an diesem Tag ohne Jacqueline Wachter ']",Classic
-2,-Alte-Kirche,Boswil,2015-06-28,"[' Esther Hoppe ', ' Jürg Dähler ', ' Benjamin Schmid ', ' Ariane Haering  ']",Classic
-3,Zürich,Glantaler-Power-Men,2015-06-28,['Glantaler Power Men '],Pop
-4,Bülach,Bülacher-Jazztage,2015-06-28,"[' Lillian Boutté ', ' Phil Parnell ', ' Denny Ilett ', ' Torben Björnskov ', ' Daisy Palmer ']",
-5,Zürich,Festspiele-Zürich-Letzte-Sonaten-II,2015-06-28,['Sir András Schiff '],Classic
-6,Zürich,Matinee-des-Altstadt-Orchesters,2015-06-28,['Elisabeth Sulser '],Classic
-7,Köniz,Sinfoniekonzert,2015-06-28,[' Joram Bots '],Classic
-8,Arlesheim,Russland,2015-06-28,[' Edouard Mätzener '],Classic
-9,Bern,Meisterkonzert,2015-06-28,['Mikhail Rudy '],Classic
-10,null,Kammerorchester-Wädenswil,2015-06-28,['Andreas Müller '],Classic
-11,Basel,Pflücket-Rosen...-Ein-Liederstrauss-nicht-nur-zur-Sommerzeit,2015-06-28,"[' Cécile Lino ', ' Roberto Vacca ']",Classic
-12,Dietikon,La-Folia-Kammerorchester-zum-20-jährigen-Jubiläum,2015-06-28,"[' Mary Ellen Woodside ', ' Alessandro DAmico ']",Classic
-13,-Alte-Kirche,Boswil,2015-06-28,[' Dayami Grasso  '],
-14,Kappel-am-Albis,Musik-und-Wort,2015-06-28,[' John Voirol '],Classic
-15,Zürich,Bach-Söhne-und-Schüler,2015-06-28,"[' Ilze Grudule ', ' Leonardo Bortolotto ', ' Orgel ']",Classic
-16,Luzern,Obrasso-Concerts-Spectacular-Classics,2015-06-28,"[' Reinhold Friedrich ', ' Gianluca Muzzolon ']",Classic
-17,Ascona,Jazz-Ascona,2015-06-28,"['Nikki & Jules ', ' Gumbo Carioca feat. Denise Gordon ']",
-18,Ascona,Jazz-Ascona,2015-06-28,"['James Andrews & The Heart Attacks ', ' Davina & The Vagabonds ', ' Trumpet Black ']",
-19,Basel,Duorezital,2015-06-28,"['Silvan Irniger ', ' Dominic Chamot ']",Classic
-20,Ascona,Jazz-Ascona,2015-06-28,[' Septet Trio +1 '],
-21,Ascona,Jazz-Ascona,2015-06-28,['La Section Rythmique & John Michael Bradford '],
-22,Zürich,Ein-gLiederabend,2015-06-28,"['Graziella Rossi ', ' Rea Claudia Kost ', ' Daniel Bentz ', ' Helmut Vogel ', ' Daniel Fueter ']",Pop
-23,Lausanne,Nekfeu,2015-06-28,['Nekfeu '],
+location,event,date,artists,genre
+null,Openair-St.-Gallen,2015-06-28,"['Paolo Nutini ', ' Kraftklub ', ' Kodaline ', ' Mighty Oaks ', ' Kwabs ', ' Annenmaykantereit ']",
+-Alte-Kirche,Boswil,2015-06-28,"[' Armin Landtwing ', ' Hansruedi Blattmann ', ' Martina Rohrer ', ' Das Cigar-Quartett spielt an diesem Tag ohne Jacqueline Wachter ']",Classic
+-Alte-Kirche,Boswil,2015-06-28,"[' Esther Hoppe ', ' Jürg Dähler ', ' Benjamin Schmid ', ' Ariane Haering  ']",Classic
+Zürich,Glantaler-Power-Men,2015-06-28,['Glantaler Power Men '],Pop
+Bülach,Bülacher-Jazztage,2015-06-28,"[' Lillian Boutté ', ' Phil Parnell ', ' Denny Ilett ', ' Torben Björnskov ', ' Daisy Palmer ']",
+Zürich,Festspiele-Zürich-Letzte-Sonaten-II,2015-06-28,['Sir András Schiff '],Classic
+Zürich,Matinee-des-Altstadt-Orchesters,2015-06-28,['Elisabeth Sulser '],Classic
+Köniz,Sinfoniekonzert,2015-06-28,[' Joram Bots '],Classic
+Arlesheim,Russland,2015-06-28,[' Edouard Mätzener '],Classic
+Bern,Meisterkonzert,2015-06-28,['Mikhail Rudy '],Classic
+null,Kammerorchester-Wädenswil,2015-06-28,['Andreas Müller '],Classic
+Basel,Pflücket-Rosen...-Ein-Liederstrauss-nicht-nur-zur-Sommerzeit,2015-06-28,"[' Cécile Lino ', ' Roberto Vacca ']",Classic
+Dietikon,La-Folia-Kammerorchester-zum-20-jährigen-Jubiläum,2015-06-28,"[' Mary Ellen Woodside ', ' Alessandro DAmico ']",Classic
+-Alte-Kirche,Boswil,2015-06-28,[' Dayami Grasso  '],
+Kappel-am-Albis,Musik-und-Wort,2015-06-28,[' John Voirol '],Classic
+Zürich,Bach-Söhne-und-Schüler,2015-06-28,"[' Ilze Grudule ', ' Leonardo Bortolotto ', ' Orgel ']",Classic
+Luzern,Obrasso-Concerts-Spectacular-Classics,2015-06-28,"[' Reinhold Friedrich ', ' Gianluca Muzzolon ']",Classic
+Ascona,Jazz-Ascona,2015-06-28,"['Nikki & Jules ', ' Gumbo Carioca feat. Denise Gordon ']",
+Ascona,Jazz-Ascona,2015-06-28,"['James Andrews & The Heart Attacks ', ' Davina & The Vagabonds ', ' Trumpet Black ']",
+Basel,Duorezital,2015-06-28,"['Silvan Irniger ', ' Dominic Chamot ']",Classic
+Ascona,Jazz-Ascona,2015-06-28,[' Septet Trio +1 '],
+Ascona,Jazz-Ascona,2015-06-28,['La Section Rythmique & John Michael Bradford '],
+Zürich,Ein-gLiederabend,2015-06-28,"['Graziella Rossi ', ' Rea Claudia Kost ', ' Daniel Bentz ', ' Helmut Vogel ', ' Daniel Fueter ']",Pop
+Lausanne,Nekfeu,2015-06-28,['Nekfeu '],

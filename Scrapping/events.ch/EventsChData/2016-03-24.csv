@@ -1,35 +1,35 @@
-,location,event,date,artists,genre
-0,Baden,After-Work,2016-03-24,"[' Andrea Nydegger ', ' Michael Baumann ', ' Bruno Hochstrasser ', ' Andre Buser ', ' Jonas Brügger ']",Pop
-1,Zürich,Hacktivist,2016-03-24,['Hacktivist '],
-2,Winterthur,Iamx,2016-03-24,['Iamx '],
-3,Solothurn,Messiah,2016-03-24,"[' Elodie Kimmel ', ' Jordanka Milkova ', ' Dominik Wörner ']",Classic
-4,Luzern,Lieux-retrouvés,2016-03-24,"[' Steven Isserlis ', ' Steven Isserlis ']",Classic
-5,Bern,Internationales-Jazzfestival-Bern,2016-03-24,['Mr. Sipp '],
-6,Aarau,Johannes-Passion,2016-03-24,"[' Stephanie Pfeffer ', ' Andreas Pehl ', ' Simon Witzig ', ' Davide Fior ', ' Ernst Buscagne ', ' Chasper-Curò Mani ']",Classic
-7,Basel,Wer-nur-den-lieben-Gott-lässt-walten-Bach-Kantaten,2016-03-24,"[' Andrea Suter ', ' Silke Marchfeld ', ' Ronan Caillet ', ' Michael Leibundgut ']",Classic
-8,Zürich,Matthäus-Passion,2016-03-24,"[' Agata Wilewska ', ' Charlotte Quadt ', ' Thomas Michael Allen ', ' Martin Hässler ', ' Werner Van Mechelen ']",Classic
-9,Bern,MissinCat,2016-03-24,['MissinCat '],Pop
-10,Zürich,The-Libertines,2016-03-24,['The Libertines '],Pop
-11,Zürich,Édith-Piaf-Petite-grande-dame,2016-03-24,"['Licia Chery ', ' Sylphe ', ' Alexandre Pelichet ', ' Felix Raffel ', ' g) Felix Haller ', ' g) Florian Arnicas ']",Pop
-12,null,The-Sisters-of-Mercy,2016-03-24,"['The Sisters of Mercy ', ' LSD on CIA ']",
-13,Dietikon,The-Show-Festival,2016-03-24,"['Prince Royce ', ' Antony Santos ', ' Gente de Zona ', ' Fulanito ', ' Jay Santos ']",
-14,Winterthur,Passion-16-Tschaikowsky-Rossini,2016-03-24,"[' Martin Bauder ', ' Annette Birkenmeier ', ' Mika Kamiya Tanner ', ' Emanuel Rütsche ', ' Martina Hofmann ', ' Dorothee Labusch ']",Classic
-15,Winterthur,Passion-16-Tschaikowsky-Rossini,2016-03-24,"[' Martin Bauder ', ' Annette Birkenmeier ', ' Mika Kamiya Tanner ', ' Emanuel Rütsche ', ' Martina Hofmann ', ' Dorothee Labusch ']",Classic
-16,Luzern,Benjamin-Folke,2016-03-24,['Benjamin Folke '],
-17,Solothurn,Brutal-Youth,2016-03-24,['Brutal Youth '],
-18,Zürich,Musik-und-Wort-zum-Gründonnerstag,2016-03-24,[' Robert Schmid '],Classic
-19,Pratteln,Avantasia,2016-03-24,['Avantasia '],
-20,Winterthur,Nachtfarben,2016-03-24,"[' Malte Sieberns ', ' Markus Rom ', ' Martin Bosch ', ' Clemens Litschko ', ' Anastasyia Volokitina ']",
-21,Uster,Le-miroir-du-temps,2016-03-24,"[' Michel Godard ', ' Fanny Paccoud ', ' Bruno Hellstorfer ', ' Lucas Niggli ']",
-22,null,Café-Mondial,2016-03-24,"[' Manuel Hebeisen ', ' Pascal Bruggisser ', ' Benno Blattmann ', ' Thomas Custer ']",
-23,Zürich,Indra-Rios-Moore,2016-03-24,"[' Indra Rios-Moore ', ' Benjamin Traerup ', ' Soren Bigum ', ' Thomas Sejthen ']",
-24,Zug,Nashville-Pussy,2016-03-24,['Nashville Pussy '],
-25,Winterthur,Stonebride,2016-03-24,['Stonebride '],
-26,Baden,La-Shanté,2016-03-24,"[' ', ' Dänu Affolter ', ' Alan Bagge ']",
-27,Wädenswil,Musikfestival-Pâqu'son,2016-03-24,['Zakouska '],
-28,Jona,Raphael-Jost-Standards-Trio,2016-03-24,"[' Jonas Ruther ', ' Raphael Jost ', ' Raphael Walser ']",
-29,Zürich,Die-Nacht-und-das-Pferd,2016-03-24,"[' Tobias Meier ', ' Dominique Girod ', ' Sheldon Suter ']",
-30,null,Electron-Festival,2016-03-24,"['Andre Bratten ', ' Black Devil Disco Club ', ' Budge ', ' Nadia Ratsimandresy ', ' DJs The Black Madonna ', ' Todd Terje ', ' dance animation by Cie Junebug ']",Electronic
-31,Basel,Nachtstrom-78,2016-03-24,"[' Hans Koch ', ' Thomas Peter ']",Electronic
-32,Zürich,Heisskalt,2016-03-24,['Heisskalt '],
-33,Winterthur,Arirang,2016-03-24,['Arirang '],
+location,event,date,artists,genre
+Baden,After-Work,2016-03-24,"[' Andrea Nydegger ', ' Michael Baumann ', ' Bruno Hochstrasser ', ' Andre Buser ', ' Jonas Brügger ']",Pop
+Zürich,Hacktivist,2016-03-24,['Hacktivist '],
+Winterthur,Iamx,2016-03-24,['Iamx '],
+Solothurn,Messiah,2016-03-24,"[' Elodie Kimmel ', ' Jordanka Milkova ', ' Dominik Wörner ']",Classic
+Luzern,Lieux-retrouvés,2016-03-24,"[' Steven Isserlis ', ' Steven Isserlis ']",Classic
+Bern,Internationales-Jazzfestival-Bern,2016-03-24,['Mr. Sipp '],
+Aarau,Johannes-Passion,2016-03-24,"[' Stephanie Pfeffer ', ' Andreas Pehl ', ' Simon Witzig ', ' Davide Fior ', ' Ernst Buscagne ', ' Chasper-Curò Mani ']",Classic
+Basel,Wer-nur-den-lieben-Gott-lässt-walten-Bach-Kantaten,2016-03-24,"[' Andrea Suter ', ' Silke Marchfeld ', ' Ronan Caillet ', ' Michael Leibundgut ']",Classic
+Zürich,Matthäus-Passion,2016-03-24,"[' Agata Wilewska ', ' Charlotte Quadt ', ' Thomas Michael Allen ', ' Martin Hässler ', ' Werner Van Mechelen ']",Classic
+Bern,MissinCat,2016-03-24,['MissinCat '],Pop
+Zürich,The-Libertines,2016-03-24,['The Libertines '],Pop
+Zürich,Édith-Piaf-Petite-grande-dame,2016-03-24,"['Licia Chery ', ' Sylphe ', ' Alexandre Pelichet ', ' Felix Raffel ', ' g) Felix Haller ', ' g) Florian Arnicas ']",Pop
+null,The-Sisters-of-Mercy,2016-03-24,"['The Sisters of Mercy ', ' LSD on CIA ']",
+Dietikon,The-Show-Festival,2016-03-24,"['Prince Royce ', ' Antony Santos ', ' Gente de Zona ', ' Fulanito ', ' Jay Santos ']",
+Winterthur,Passion-16-Tschaikowsky-Rossini,2016-03-24,"[' Martin Bauder ', ' Annette Birkenmeier ', ' Mika Kamiya Tanner ', ' Emanuel Rütsche ', ' Martina Hofmann ', ' Dorothee Labusch ']",Classic
+Winterthur,Passion-16-Tschaikowsky-Rossini,2016-03-24,"[' Martin Bauder ', ' Annette Birkenmeier ', ' Mika Kamiya Tanner ', ' Emanuel Rütsche ', ' Martina Hofmann ', ' Dorothee Labusch ']",Classic
+Luzern,Benjamin-Folke,2016-03-24,['Benjamin Folke '],
+Solothurn,Brutal-Youth,2016-03-24,['Brutal Youth '],
+Zürich,Musik-und-Wort-zum-Gründonnerstag,2016-03-24,[' Robert Schmid '],Classic
+Pratteln,Avantasia,2016-03-24,['Avantasia '],
+Winterthur,Nachtfarben,2016-03-24,"[' Malte Sieberns ', ' Markus Rom ', ' Martin Bosch ', ' Clemens Litschko ', ' Anastasyia Volokitina ']",
+Uster,Le-miroir-du-temps,2016-03-24,"[' Michel Godard ', ' Fanny Paccoud ', ' Bruno Hellstorfer ', ' Lucas Niggli ']",
+null,Café-Mondial,2016-03-24,"[' Manuel Hebeisen ', ' Pascal Bruggisser ', ' Benno Blattmann ', ' Thomas Custer ']",
+Zürich,Indra-Rios-Moore,2016-03-24,"[' Indra Rios-Moore ', ' Benjamin Traerup ', ' Soren Bigum ', ' Thomas Sejthen ']",
+Zug,Nashville-Pussy,2016-03-24,['Nashville Pussy '],
+Winterthur,Stonebride,2016-03-24,['Stonebride '],
+Baden,La-Shanté,2016-03-24,"[' ', ' Dänu Affolter ', ' Alan Bagge ']",
+Wädenswil,Musikfestival-Pâqu'son,2016-03-24,['Zakouska '],
+Jona,Raphael-Jost-Standards-Trio,2016-03-24,"[' Jonas Ruther ', ' Raphael Jost ', ' Raphael Walser ']",
+Zürich,Die-Nacht-und-das-Pferd,2016-03-24,"[' Tobias Meier ', ' Dominique Girod ', ' Sheldon Suter ']",
+null,Electron-Festival,2016-03-24,"['Andre Bratten ', ' Black Devil Disco Club ', ' Budge ', ' Nadia Ratsimandresy ', ' DJs The Black Madonna ', ' Todd Terje ', ' dance animation by Cie Junebug ']",Electronic
+Basel,Nachtstrom-78,2016-03-24,"[' Hans Koch ', ' Thomas Peter ']",Electronic
+Zürich,Heisskalt,2016-03-24,['Heisskalt '],
+Winterthur,Arirang,2016-03-24,['Arirang '],

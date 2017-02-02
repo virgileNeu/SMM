@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,St.-Moritz,Festival-da-Jazz,2016-07-24,"[' Dave Feusi ', ' Tim Kleinert ', ' Oliver Keller ', ' Thomas Reinecke ', ' Christian Niederer ']",
-1,Verbier,Verbier-Festival,2016-07-24,"['Kyung Wha Chung ', ' Kevin Kenner ']",Classic
-2,null,Reeds-Festival,2016-07-24,"['Treesha feat. Denham Smith & Soulions ', ' Julian Marley & The Uprising ']",
-3,Verbier,Verbier-Festival,2016-07-24,"['Hannah Stone ', ' Adrien Boisseau ', ' Sarah Rumer ']",Classic
-4,Nyon,Paléo-Festival,2016-07-24,"['Michel Polnareff ', ' Louane ', ' Ibrahim Maalouf ']",Pop
-5,Saanen,Australian-Chamber-Orchestra-II-Hopes-Hommage-an-Yehudi-Menuhin,2016-07-24,[' Daniel Hope '],Classic
-6,Luzern,Blue-Balls-Festival,2016-07-24,['Hussy Hicks '],
-7,Verbier,Verbier-Festival,2016-07-24,['Daniil Trifonov '],Classic
-8,Luzern,Blue-Balls-Festival,2016-07-24,['Sóley '],
-9,null,Stimmen,2016-07-24,"['Max Mutzke ', ' Yakoto ', ' Mockemalör ']",
-10,Verbier,Verbier-Festival,2016-07-24,"['Kristof Barati ', ' Benjamin Beilmann ', ' Lawrence Power ', ' Raphael Merlin ', ' Alessio Bax ', ' Roland Pöntinen ']",Classic
-11,Luzern,Blue-Balls-Festival,2016-07-24,['James Arthur '],Pop
-12,St.-Moritz,Festival-da-Jazz,2016-07-24,"['Timo Lassy Band ', ' Timo Lassy ', ' Georgios Kontrafouris ', ' Ville Herrala ', ' Abdissa Assefa ', ' Jaakko Lukkarinen ']",
-13,Pratteln,The-Hooters,2016-07-24,['The Hooters '],
+location,event,date,artists,genre
+St.-Moritz,Festival-da-Jazz,2016-07-24,"[' Dave Feusi ', ' Tim Kleinert ', ' Oliver Keller ', ' Thomas Reinecke ', ' Christian Niederer ']",
+Verbier,Verbier-Festival,2016-07-24,"['Kyung Wha Chung ', ' Kevin Kenner ']",Classic
+null,Reeds-Festival,2016-07-24,"['Treesha feat. Denham Smith & Soulions ', ' Julian Marley & The Uprising ']",
+Verbier,Verbier-Festival,2016-07-24,"['Hannah Stone ', ' Adrien Boisseau ', ' Sarah Rumer ']",Classic
+Nyon,Paléo-Festival,2016-07-24,"['Michel Polnareff ', ' Louane ', ' Ibrahim Maalouf ']",Pop
+Saanen,Australian-Chamber-Orchestra-II-Hopes-Hommage-an-Yehudi-Menuhin,2016-07-24,[' Daniel Hope '],Classic
+Luzern,Blue-Balls-Festival,2016-07-24,['Hussy Hicks '],
+Verbier,Verbier-Festival,2016-07-24,['Daniil Trifonov '],Classic
+Luzern,Blue-Balls-Festival,2016-07-24,['Sóley '],
+null,Stimmen,2016-07-24,"['Max Mutzke ', ' Yakoto ', ' Mockemalör ']",
+Verbier,Verbier-Festival,2016-07-24,"['Kristof Barati ', ' Benjamin Beilmann ', ' Lawrence Power ', ' Raphael Merlin ', ' Alessio Bax ', ' Roland Pöntinen ']",Classic
+Luzern,Blue-Balls-Festival,2016-07-24,['James Arthur '],Pop
+St.-Moritz,Festival-da-Jazz,2016-07-24,"['Timo Lassy Band ', ' Timo Lassy ', ' Georgios Kontrafouris ', ' Ville Herrala ', ' Abdissa Assefa ', ' Jaakko Lukkarinen ']",
+Pratteln,The-Hooters,2016-07-24,['The Hooters '],

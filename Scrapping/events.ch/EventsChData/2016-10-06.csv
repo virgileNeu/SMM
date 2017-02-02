@@ -1,21 +1,21 @@
-,location,event,date,artists,genre
-0,Zürich,Monte-Carlo,2016-10-06,['Monte Carlo '],Pop
-1,Zürich,Brazil-Nights-Rodrigo-Botter-Maio-&-Return-of-the-Bossa-Nova,2016-10-06,"['Rodrigo Botter Maio ', ' Floriano Inácio Jr ', ' Eduardo ""Dudu"" Penz ', ' Florian Reichle ']",
-2,Zürich,Orchestermagie,2016-10-06,[' Lisa Batiashvili '],Classic
-3,Zürich,Jazz-Happening,2016-10-06,['Sammy Vomacka '],
-4,Zürich,Red-Hot-Chili-Peppers,2016-10-06,['Red Hot Chili Peppers '],
-5,Zürich,Yak,2016-10-06,['Yak '],
-6,Uster,Monday-Move,2016-10-06,"[' Matthias Goessi ', ' Jan Hofmann ', ' Rahel Kofmehl ']",
-7,Pratteln,Manfred-Mann's-Earth-Band,2016-10-06,"[""Manfred Mann's Earth Band ""]",
-8,Lausanne,MZ,2016-10-06,['MZ '],
-9,Frauenfeld,Le-Grand-Bateau,2016-10-06,['Le Grand Bateau '],Pop
-10,Frick,Fricktaler-Blues-Festival,2016-10-06,['Aynsley Lister & Band '],
-11,Winterthur,Gabriel-Palatchi-Band,2016-10-06,"['Gabriel Palatchi Band ', ' Gabriel Palatchi ', ' Kerry Galloway ', ' Jose Gonzalez ']",
-12,Stäfa,Todisco-&-Messina,2016-10-06,"[' Antonello Messina ', ' Marco Todisco ']",Pop
-13,Schaffhausen,Raging-Fyah-&-Stick-Figure,2016-10-06,['Raging Fyah '],
-14,Luzern,Kizomba-Night,2016-10-06,[' Jose Luis '],
-15,Basel,Andile-Yenana-Quartet,2016-10-06,"[' Domenic Landolf ', ' Andile Yenana ', ' Patrice Moret ', ' Michi Stulz ']",
-16,Thun,Helldorado,2016-10-06,['Helldorado '],
-17,Zürich,Gestes,2016-10-06,"[' Tobias Gerber ', ' Rafael Rütti ', ' Sebastian Hofmann ', ' works by Edu Haubensak ']",Classic
-18,Zürich,Bloom,2016-10-06,['Bloom '],Pop
-19,Pontresina,The-Diamond-Hand,2016-10-06,['The Diamond Hand '],Pop
+location,event,date,artists,genre
+Zürich,Monte-Carlo,2016-10-06,['Monte Carlo '],Pop
+Zürich,Brazil-Nights-Rodrigo-Botter-Maio-&-Return-of-the-Bossa-Nova,2016-10-06,"['Rodrigo Botter Maio ', ' Floriano Inácio Jr ', ' Eduardo ""Dudu"" Penz ', ' Florian Reichle ']",
+Zürich,Orchestermagie,2016-10-06,[' Lisa Batiashvili '],Classic
+Zürich,Jazz-Happening,2016-10-06,['Sammy Vomacka '],
+Zürich,Red-Hot-Chili-Peppers,2016-10-06,['Red Hot Chili Peppers '],
+Zürich,Yak,2016-10-06,['Yak '],
+Uster,Monday-Move,2016-10-06,"[' Matthias Goessi ', ' Jan Hofmann ', ' Rahel Kofmehl ']",
+Pratteln,Manfred-Mann's-Earth-Band,2016-10-06,"[""Manfred Mann's Earth Band ""]",
+Lausanne,MZ,2016-10-06,['MZ '],
+Frauenfeld,Le-Grand-Bateau,2016-10-06,['Le Grand Bateau '],Pop
+Frick,Fricktaler-Blues-Festival,2016-10-06,['Aynsley Lister & Band '],
+Winterthur,Gabriel-Palatchi-Band,2016-10-06,"['Gabriel Palatchi Band ', ' Gabriel Palatchi ', ' Kerry Galloway ', ' Jose Gonzalez ']",
+Stäfa,Todisco-&-Messina,2016-10-06,"[' Antonello Messina ', ' Marco Todisco ']",Pop
+Schaffhausen,Raging-Fyah-&-Stick-Figure,2016-10-06,['Raging Fyah '],
+Luzern,Kizomba-Night,2016-10-06,[' Jose Luis '],
+Basel,Andile-Yenana-Quartet,2016-10-06,"[' Domenic Landolf ', ' Andile Yenana ', ' Patrice Moret ', ' Michi Stulz ']",
+Thun,Helldorado,2016-10-06,['Helldorado '],
+Zürich,Gestes,2016-10-06,"[' Tobias Gerber ', ' Rafael Rütti ', ' Sebastian Hofmann ', ' works by Edu Haubensak ']",Classic
+Zürich,Bloom,2016-10-06,['Bloom '],Pop
+Pontresina,The-Diamond-Hand,2016-10-06,['The Diamond Hand '],Pop

@@ -1,29 +1,29 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment,2013-11-19,['Mark Tenger '],
-1,Zürich,Jazzapero,2013-11-19,"['Deu Choro ', ' Floriano Inácio Jr ', ' João Bastos ', ' Frederico Henning ', ' Marcos Gonçalves ']",
-2,Basel,Wednesday-13,2013-11-19,"['Wednesday 13 ', ' support: Sister ']",
-3,Zürich,Konzert,2013-11-19,[' Carolin Widmann '],Classic
-4,Winterthur,Portraitkonzert,2013-11-19,"['Rafael Rütti ', ' David Schneebeli ', ' Gurgen Kakoyan ']",Classic
-5,Rüschlikon,Schwester-Fanny,2013-11-19,['Els Biesemans '],Classic
-6,null,Jim-Jones-Revue,2013-11-19,['Jim Jones Revue '],
-7,Zürich,Mammoth-Mammoth,2013-11-19,"['Mammoth Mammoth ', ' support: The Quill ']",
-8,Luzern,Opening-Piano-Off-stage,2013-11-19,"['Emmet Cohen ', ' Aaron Goldberg ', ' Kuno Kürner ', ' Jan Luley ', ' Dave Ruosch ', ' Ayako Shirasaki ', ' Stephanie Trick ']",Classic
-9,Zürich,Swim-Deep,2013-11-19,['Swim Deep '],
-10,Zürich,Bendorim,2013-11-19,"[' Karin Meier ', ' Dela Hüttner ', ' Jürg Luchsinger ', ' Stefanie Kunckler ']",
-11,Bern,Bolschoi-Don-Kosakenchor,2013-11-19,['Bolschoi Don Kosakenchor '],
-12,Zürich,Red-Hot-Chilli-Pipers,2013-11-19,['Red Hot Chilli Pipers '],
-13,Zürich,Marialy-Pacheco,2013-11-19,"['Marialy Pacheco ', ' Marialy Pacheco ', ' Juan Camilo Villa ', ' Miguel Altamar de la Torre ']",
-14,Aarau,Rise-of-the-Northstar,2013-11-19,['Rise of the Northstar '],
-15,null,3.-Abokonzert,2013-11-19,"[' Radovan Vlatkovic ', ' Adrien Boisseau ']",Classic
-16,null,Romantik-&-Avantgarde,2013-11-19,"['René Krebs ', ' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",
-17,Zürich,John-Newman,2013-11-19,['John Newman '],
-18,Zürich,La-Plebe,2013-11-19,['La Plebe '],
-19,Basel,Chaotic-moebius-Mnemosyne,2013-11-19,"['Maruta Staravoitava ', ' Gina Mattiello ']",Classic
-20,Thun,Dark-Shadows,2013-11-19,['Dark Shadows '],
-21,Zürich,Valerie-June,2013-11-19,"['Valerie June ', ' support: Ben Miller Band ']",
-22,Zürich,10-Days-Live,2013-11-19,['Die Goldenen Zitronen '],
-23,Zürich,15-Jahre-Kontrabassduo-Studer-Frey,2013-11-19,"['Gerry Hemingway ', ' Peter K Frey ', ' Daniel Studer ']",
-24,Basel,The-Adrian-Mears-Quartet,2013-11-19,"[' Lisette Spinnler ', ' Adrian Mears ', ' Peter Madsen ', ' Banz Oester ']",
-25,Luzern,Plot,2013-11-19,"[' Sebastian Wehle ', ' Robert Lucaciu ', ' Philipp Scholz ']",
-26,Zürich,Midas-Fall,2013-11-19,['Midas Fall '],
-27,Düdingen,Jacco-Gardner,2013-11-19,"['Jacco Gardner ', ' Glenn Jones ']",
+location,event,date,artists,genre
+Luzern,Piano-Entertainment,2013-11-19,['Mark Tenger '],
+Zürich,Jazzapero,2013-11-19,"['Deu Choro ', ' Floriano Inácio Jr ', ' João Bastos ', ' Frederico Henning ', ' Marcos Gonçalves ']",
+Basel,Wednesday-13,2013-11-19,"['Wednesday 13 ', ' support: Sister ']",
+Zürich,Konzert,2013-11-19,[' Carolin Widmann '],Classic
+Winterthur,Portraitkonzert,2013-11-19,"['Rafael Rütti ', ' David Schneebeli ', ' Gurgen Kakoyan ']",Classic
+Rüschlikon,Schwester-Fanny,2013-11-19,['Els Biesemans '],Classic
+null,Jim-Jones-Revue,2013-11-19,['Jim Jones Revue '],
+Zürich,Mammoth-Mammoth,2013-11-19,"['Mammoth Mammoth ', ' support: The Quill ']",
+Luzern,Opening-Piano-Off-stage,2013-11-19,"['Emmet Cohen ', ' Aaron Goldberg ', ' Kuno Kürner ', ' Jan Luley ', ' Dave Ruosch ', ' Ayako Shirasaki ', ' Stephanie Trick ']",Classic
+Zürich,Swim-Deep,2013-11-19,['Swim Deep '],
+Zürich,Bendorim,2013-11-19,"[' Karin Meier ', ' Dela Hüttner ', ' Jürg Luchsinger ', ' Stefanie Kunckler ']",
+Bern,Bolschoi-Don-Kosakenchor,2013-11-19,['Bolschoi Don Kosakenchor '],
+Zürich,Red-Hot-Chilli-Pipers,2013-11-19,['Red Hot Chilli Pipers '],
+Zürich,Marialy-Pacheco,2013-11-19,"['Marialy Pacheco ', ' Marialy Pacheco ', ' Juan Camilo Villa ', ' Miguel Altamar de la Torre ']",
+Aarau,Rise-of-the-Northstar,2013-11-19,['Rise of the Northstar '],
+null,3.-Abokonzert,2013-11-19,"[' Radovan Vlatkovic ', ' Adrien Boisseau ']",Classic
+null,Romantik-&-Avantgarde,2013-11-19,"['René Krebs ', ' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",
+Zürich,John-Newman,2013-11-19,['John Newman '],
+Zürich,La-Plebe,2013-11-19,['La Plebe '],
+Basel,Chaotic-moebius-Mnemosyne,2013-11-19,"['Maruta Staravoitava ', ' Gina Mattiello ']",Classic
+Thun,Dark-Shadows,2013-11-19,['Dark Shadows '],
+Zürich,Valerie-June,2013-11-19,"['Valerie June ', ' support: Ben Miller Band ']",
+Zürich,10-Days-Live,2013-11-19,['Die Goldenen Zitronen '],
+Zürich,15-Jahre-Kontrabassduo-Studer-Frey,2013-11-19,"['Gerry Hemingway ', ' Peter K Frey ', ' Daniel Studer ']",
+Basel,The-Adrian-Mears-Quartet,2013-11-19,"[' Lisette Spinnler ', ' Adrian Mears ', ' Peter Madsen ', ' Banz Oester ']",
+Luzern,Plot,2013-11-19,"[' Sebastian Wehle ', ' Robert Lucaciu ', ' Philipp Scholz ']",
+Zürich,Midas-Fall,2013-11-19,['Midas Fall '],
+Düdingen,Jacco-Gardner,2013-11-19,"['Jacco Gardner ', ' Glenn Jones ']",

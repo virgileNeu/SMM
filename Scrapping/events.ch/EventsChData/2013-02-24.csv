@@ -1,21 +1,21 @@
-,location,event,date,artists,genre
-0,Bern,Matinée-Konzert,2013-02-24,"[' Fíona-Aileen Kraege ', ' Katia Giubbilei Alvarez ', ' Charlotte Dentan ', ' Julia Malkova ', ' Eva Lüthi ']",Classic
-1,Zürich,Konzert,2013-02-24,[' Alban Gerhardt '],Classic
-2,Zürich,Liederabend-und-CD-Taufe,2013-02-24,"[' Monica Angelini ', ' Monica Treichler ', ' Thomas Leu ', ' Erwin Heusser ', '  Christabel Lin ']",Classic
-3,null,Gesang-und-Klavier-ein-himmlisches-Duo,2013-02-24,"['Malin Hartelius ', ' Gérard Wyss ']",Classic
-4,Baden,Konzert,2013-02-24,"['Michael Luginbühl ', ' Dragos Dimitriu ']",Classic
-5,Brig,"Kammermusikkonzert-""Nordlichter",2013-02-24,"[' Marielle Oggier ', ' Marc Bätscher ', ' Ursula Hächler ']",Classic
-6,Klosters,Unbekannte-Schätze-grosser-Meister,2013-02-24,[' Bruno Hurtado Gosalvez '],Classic
-7,Riehen,Connaissez-vous,2013-02-24,"['Aglaia Graf ', ' Thomas Wicky-Stamm ', ' Emanuel Graf ']",Classic
-8,null,Benefizkonzert,2013-02-24,['Resonance of Live '],Classic
-9,Bern,Rhapsody-in-Blue,2013-02-24,[' François Killian '],Classic
-10,Burgdorf,Klangartconcerts,2013-02-24,['Trio Portici '],Classic
-11,Zürich,Schmidt-&-Band,2013-02-24,['Schmidt & Band '],
-12,Zug,Konzert,2013-02-24,[' Reto Bieri '],Classic
-13,Luzern,Pius-Baschnagels-Latinworld,2013-02-24,"[' Pius Baschnagel ', ' Marianne Racine ', ' Bernhard Bamert ', ' Marcel Thomi ', ' Patrick Sommer ', ' Georgios Mikirozis ']",
-14,Bern,Vocis-imago-Vorstellung-&-Wirklichkeit,2013-02-24,"[' C.Simolka ', ' B.Bossert ', ' I.Kombaratov ', ' M.Würsch ', ' H.Bugallo ', ' E.Streiff ', ' M.Stolz ', ' R.Wohlhauser ']",Classic
-15,Zürich,Gala-Konzert-zum-chinesischen-Neujahr,2013-02-24,"[' Töbi Tobler ', ' Shi Yi-Zen ']",Classic
-16,Basel,Sigur-Rós,2013-02-24,"['Sigur Rós ', ' Blanck Mass ']",
-17,Zürich,Ruste-Juxx,2013-02-24,"['Ruste Juxx ', ' Shabaam Sahdeeq ']",
-18,null,Vdelli,2013-02-24,"['Vdelli ', ' Michael Vdelli ', ' Ric Whittle ', ' Leigh Miller ']",
-19,Winterthur,Djinbala,2013-02-24,"[' Andrea Milova ', ' David Cielbala ']",
+location,event,date,artists,genre
+Bern,Matinée-Konzert,2013-02-24,"[' Fíona-Aileen Kraege ', ' Katia Giubbilei Alvarez ', ' Charlotte Dentan ', ' Julia Malkova ', ' Eva Lüthi ']",Classic
+Zürich,Konzert,2013-02-24,[' Alban Gerhardt '],Classic
+Zürich,Liederabend-und-CD-Taufe,2013-02-24,"[' Monica Angelini ', ' Monica Treichler ', ' Thomas Leu ', ' Erwin Heusser ', '  Christabel Lin ']",Classic
+null,Gesang-und-Klavier-ein-himmlisches-Duo,2013-02-24,"['Malin Hartelius ', ' Gérard Wyss ']",Classic
+Baden,Konzert,2013-02-24,"['Michael Luginbühl ', ' Dragos Dimitriu ']",Classic
+Brig,"Kammermusikkonzert-""Nordlichter",2013-02-24,"[' Marielle Oggier ', ' Marc Bätscher ', ' Ursula Hächler ']",Classic
+Klosters,Unbekannte-Schätze-grosser-Meister,2013-02-24,[' Bruno Hurtado Gosalvez '],Classic
+Riehen,Connaissez-vous,2013-02-24,"['Aglaia Graf ', ' Thomas Wicky-Stamm ', ' Emanuel Graf ']",Classic
+null,Benefizkonzert,2013-02-24,['Resonance of Live '],Classic
+Bern,Rhapsody-in-Blue,2013-02-24,[' François Killian '],Classic
+Burgdorf,Klangartconcerts,2013-02-24,['Trio Portici '],Classic
+Zürich,Schmidt-&-Band,2013-02-24,['Schmidt & Band '],
+Zug,Konzert,2013-02-24,[' Reto Bieri '],Classic
+Luzern,Pius-Baschnagels-Latinworld,2013-02-24,"[' Pius Baschnagel ', ' Marianne Racine ', ' Bernhard Bamert ', ' Marcel Thomi ', ' Patrick Sommer ', ' Georgios Mikirozis ']",
+Bern,Vocis-imago-Vorstellung-&-Wirklichkeit,2013-02-24,"[' C.Simolka ', ' B.Bossert ', ' I.Kombaratov ', ' M.Würsch ', ' H.Bugallo ', ' E.Streiff ', ' M.Stolz ', ' R.Wohlhauser ']",Classic
+Zürich,Gala-Konzert-zum-chinesischen-Neujahr,2013-02-24,"[' Töbi Tobler ', ' Shi Yi-Zen ']",Classic
+Basel,Sigur-Rós,2013-02-24,"['Sigur Rós ', ' Blanck Mass ']",
+Zürich,Ruste-Juxx,2013-02-24,"['Ruste Juxx ', ' Shabaam Sahdeeq ']",
+null,Vdelli,2013-02-24,"['Vdelli ', ' Michael Vdelli ', ' Ric Whittle ', ' Leigh Miller ']",
+Winterthur,Djinbala,2013-02-24,"[' Andrea Milova ', ' David Cielbala ']",

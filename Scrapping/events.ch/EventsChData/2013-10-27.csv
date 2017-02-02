@@ -1,49 +1,49 @@
-,location,event,date,artists,genre
-0,Zürich,Erntedankgottesdienst,2013-10-27,[' Andreas Jost '],Classic
-1,Zürich,Sonntagskantorei,2013-10-27,[' Christian Döhring '],Classic
-2,Zürich,Hottinger-Konzert-Matinée,2013-10-27,"[' P. Tardy ', ' N. Andelfinger ', ' E. Duss ', ' A. Tschopp ', ' J. Choulat ']",Classic
-3,Zürich,Gesprächskonzert,2013-10-27,['Claudius Herrmann '],Classic
-4,Zürich,Herbstkonzert,2013-10-27,"[' Marie-Laure Schluep ', ' Muriel Gabathuler ', ' Silvia Halter ']",Classic
-5,Bern,Elina-Duni-Quartet,2013-10-27,"[' Elina Duni ', ' Colin Vallon ', ' Patrice Moret ', ' Norbert Pfammater ']",
-6,Bern,Konzert,2013-10-27,"['Michael Winkler ', ' Liana Dolidze ']",Classic
-7,Zürich,Zither-Konzert,2013-10-27,[' Klaus Waldburg '],Classic
-8,Basel,Laute-Glocken-süsse-Glöckchen-und-zauberhafte-Carillons,2013-10-27,"[' Amrai Grosse ', ' Anne Rongy ', ' Nathalie Leuenberger ']",Classic
-9,Fischingen,Kammermusik,2013-10-27,"[' Mikayel Zakaryan ', ' Izabela Iwanowska ', ' Valentine Ruffieux ', ' Thiemo Schutter ']",Classic
-10,Basel,Herbstkonzert-Part-Songs,2013-10-27,[' Reto Reichenbach '],Classic
-11,Zürich,Orgelkonzert,2013-10-27,['Kathrin Augustiny '],Classic
-12,Rapperswil,Jauchzet-Gott-alle-Land,2013-10-27,"[' Kenneth Mauerhofer ', ' Arabella Ristenpart ']",Classic
-13,Basel,1913,2013-10-27,"['László Fogarassy ', ' Rodica Kostyak ', ' Veit Hertenstein ', ' Phoebe Lin ']",Classic
-14,Basel,Rezital,2013-10-27,[' Lukas Loss '],Classic
-15,Bern,Musica-aperta-Neue-Musik-aus-Europa,2013-10-27,"[' Sonia Formenti ', ' Paolo Casiraghi ', ' Lorenzo Gentili-Tedeschi ', ' Paolo Fumagalli ']",Classic
-16,Zug,Metall-Magnet-Wechselschläge-am-Takt-der-Zeit,2013-10-27,['Sebastian Hofmann '],Classic
-17,Basel,Serenade-am-Sonntagabend,2013-10-27,"['Barbara Neurohr ', ' Françoise Matile ']",Classic
-18,-Alte-Kirche,Boswil,2013-10-27,[' Giora Feidman '],Classic
-19,null,Seiltänzer-am-Klavier,2013-10-27,['Alexei Volodin '],Classic
-20,Aarau,From-Hades-Towards-the-Sea,2013-10-27,"[' Miriam Terragin ', ' Francesco Negrini ', ' Harald Stampa ']",Classic
-21,Zürich,Orgelzyklus-Von-Mozart-bis-Beethoven,2013-10-27,['Franz Raml '],Classic
-22,Brugg,Trafalgar,2013-10-27,"[' Birgit Plankel ', ' Liliane Glanzmann ', ' Tino Brütsch ', ' Robert Koller ']",Classic
-23,Basel,Benefizkonzert,2013-10-27,['Hosoo & Transmongolia '],
-24,Basel,El-calderón-afrolatino-timbalayé,2013-10-27,"[' Roberto Pulido ', ' René Mosele ', ' Leonardo Govin ', ' Reto Manser ', ' André Buser ', ' Michael Wipf ', ' Sebastién Gagneux ']",
-25,Basel,Verstumme-nie,2013-10-27,"['Hans-Adam Ritter ', ' Susanne Doll ']",Classic
-26,Zürich,Dave-Douglas-Quintet,2013-10-27,"['Dave Douglas Quintet ', ' Dave Douglas ', ' Jon Irabagon ', ' Linda Oh ', ' Luis Perdomo ', ' Rudy Royston ']",
-27,Zürich,Orquesta-Buena-Vista-Social-Club,2013-10-27,['Orquesta Buena Vista Social Club '],
-28,Zürich,Musikfenster-Poetry-in-Motion,2013-10-27,['Pierre Favre '],
-29,Münchenstein,Metropolis,2013-10-27,[' Stummfilm von Fritz Lang '],Classic
-30,Zürich,Ahab,2013-10-27,"['Ahab ', ' Omega Massif ', ' Valborg ']",
-31,Zürich,Gentleman-&-The-Evolution,2013-10-27,['Gentleman & The Evolution '],
-32,Basel,Herrenmagazin,2013-10-27,"['Herrenmagazin ', ' support: Eais ']",Pop
-33,Jona,Celtic-World-Songs-and-Sounds-of-Ireland,2013-10-27,['Anne Wylie '],
-34,Uster,Kammermusik,2013-10-27,"['Irene Puccia ', ' Fluvia Mancini ', ' Salvatore Cicero ']",Classic
-35,Winterthur,Lisa-Berg,2013-10-27,"[' Lisa Berg ', ' David Ruosch ', ' Curdin Janett ']",Pop
-36,Köniz,Mich-Gerber-feat.-Al-Comet,2013-10-27,"[' Mich Gerber ', ' Al Comet ', ' Andi Pupato ', ' Wolfgang Zwiauer ']",
-37,null,Kristin-Asbjørnsen,2013-10-27,['Kristin Asbjørnsen '],
-38,Pratteln,Anneke-van-Giersbergen,2013-10-27,['Anneke van Giersbergen '],
-39,Pratteln,Saga,2013-10-27,['Saga '],
-40,Winterthur,Julia-Holter,2013-10-27,"['Julia Holter ', ' Lucrecia Dalt ']",Pop
-41,Zürich,Mos-Def,2013-10-27,['Mos Def '],
-42,Zürich,Kobra-&-The-Lotus,2013-10-27,['Kobra & The Lotus '],
-43,Bern,Schiller,2013-10-27,['Schiller '],Electronic
-44,Bern,Piers-Faccini,2013-10-27,['Piers Faccini '],
-45,Uster,Donny-McCaslin-Group,2013-10-27,"['Donny McCaslin Group ', ' Donny McCaslin ', ' Jason Lindner ', ' Tim Lefebvre ', ' Justin Brown ']",
-46,Winterthur,A-Place-to-Bury-Strangers,2013-10-27,"['A Place to Bury Strangers ', ' Bambara ']",
-47,Zürich,Uma,2013-10-27,['Uma '],Pop
+location,event,date,artists,genre
+Zürich,Erntedankgottesdienst,2013-10-27,[' Andreas Jost '],Classic
+Zürich,Sonntagskantorei,2013-10-27,[' Christian Döhring '],Classic
+Zürich,Hottinger-Konzert-Matinée,2013-10-27,"[' P. Tardy ', ' N. Andelfinger ', ' E. Duss ', ' A. Tschopp ', ' J. Choulat ']",Classic
+Zürich,Gesprächskonzert,2013-10-27,['Claudius Herrmann '],Classic
+Zürich,Herbstkonzert,2013-10-27,"[' Marie-Laure Schluep ', ' Muriel Gabathuler ', ' Silvia Halter ']",Classic
+Bern,Elina-Duni-Quartet,2013-10-27,"[' Elina Duni ', ' Colin Vallon ', ' Patrice Moret ', ' Norbert Pfammater ']",
+Bern,Konzert,2013-10-27,"['Michael Winkler ', ' Liana Dolidze ']",Classic
+Zürich,Zither-Konzert,2013-10-27,[' Klaus Waldburg '],Classic
+Basel,Laute-Glocken-süsse-Glöckchen-und-zauberhafte-Carillons,2013-10-27,"[' Amrai Grosse ', ' Anne Rongy ', ' Nathalie Leuenberger ']",Classic
+Fischingen,Kammermusik,2013-10-27,"[' Mikayel Zakaryan ', ' Izabela Iwanowska ', ' Valentine Ruffieux ', ' Thiemo Schutter ']",Classic
+Basel,Herbstkonzert-Part-Songs,2013-10-27,[' Reto Reichenbach '],Classic
+Zürich,Orgelkonzert,2013-10-27,['Kathrin Augustiny '],Classic
+Rapperswil,Jauchzet-Gott-alle-Land,2013-10-27,"[' Kenneth Mauerhofer ', ' Arabella Ristenpart ']",Classic
+Basel,1913,2013-10-27,"['László Fogarassy ', ' Rodica Kostyak ', ' Veit Hertenstein ', ' Phoebe Lin ']",Classic
+Basel,Rezital,2013-10-27,[' Lukas Loss '],Classic
+Bern,Musica-aperta-Neue-Musik-aus-Europa,2013-10-27,"[' Sonia Formenti ', ' Paolo Casiraghi ', ' Lorenzo Gentili-Tedeschi ', ' Paolo Fumagalli ']",Classic
+Zug,Metall-Magnet-Wechselschläge-am-Takt-der-Zeit,2013-10-27,['Sebastian Hofmann '],Classic
+Basel,Serenade-am-Sonntagabend,2013-10-27,"['Barbara Neurohr ', ' Françoise Matile ']",Classic
+-Alte-Kirche,Boswil,2013-10-27,[' Giora Feidman '],Classic
+null,Seiltänzer-am-Klavier,2013-10-27,['Alexei Volodin '],Classic
+Aarau,From-Hades-Towards-the-Sea,2013-10-27,"[' Miriam Terragin ', ' Francesco Negrini ', ' Harald Stampa ']",Classic
+Zürich,Orgelzyklus-Von-Mozart-bis-Beethoven,2013-10-27,['Franz Raml '],Classic
+Brugg,Trafalgar,2013-10-27,"[' Birgit Plankel ', ' Liliane Glanzmann ', ' Tino Brütsch ', ' Robert Koller ']",Classic
+Basel,Benefizkonzert,2013-10-27,['Hosoo & Transmongolia '],
+Basel,El-calderón-afrolatino-timbalayé,2013-10-27,"[' Roberto Pulido ', ' René Mosele ', ' Leonardo Govin ', ' Reto Manser ', ' André Buser ', ' Michael Wipf ', ' Sebastién Gagneux ']",
+Basel,Verstumme-nie,2013-10-27,"['Hans-Adam Ritter ', ' Susanne Doll ']",Classic
+Zürich,Dave-Douglas-Quintet,2013-10-27,"['Dave Douglas Quintet ', ' Dave Douglas ', ' Jon Irabagon ', ' Linda Oh ', ' Luis Perdomo ', ' Rudy Royston ']",
+Zürich,Orquesta-Buena-Vista-Social-Club,2013-10-27,['Orquesta Buena Vista Social Club '],
+Zürich,Musikfenster-Poetry-in-Motion,2013-10-27,['Pierre Favre '],
+Münchenstein,Metropolis,2013-10-27,[' Stummfilm von Fritz Lang '],Classic
+Zürich,Ahab,2013-10-27,"['Ahab ', ' Omega Massif ', ' Valborg ']",
+Zürich,Gentleman-&-The-Evolution,2013-10-27,['Gentleman & The Evolution '],
+Basel,Herrenmagazin,2013-10-27,"['Herrenmagazin ', ' support: Eais ']",Pop
+Jona,Celtic-World-Songs-and-Sounds-of-Ireland,2013-10-27,['Anne Wylie '],
+Uster,Kammermusik,2013-10-27,"['Irene Puccia ', ' Fluvia Mancini ', ' Salvatore Cicero ']",Classic
+Winterthur,Lisa-Berg,2013-10-27,"[' Lisa Berg ', ' David Ruosch ', ' Curdin Janett ']",Pop
+Köniz,Mich-Gerber-feat.-Al-Comet,2013-10-27,"[' Mich Gerber ', ' Al Comet ', ' Andi Pupato ', ' Wolfgang Zwiauer ']",
+null,Kristin-Asbjørnsen,2013-10-27,['Kristin Asbjørnsen '],
+Pratteln,Anneke-van-Giersbergen,2013-10-27,['Anneke van Giersbergen '],
+Pratteln,Saga,2013-10-27,['Saga '],
+Winterthur,Julia-Holter,2013-10-27,"['Julia Holter ', ' Lucrecia Dalt ']",Pop
+Zürich,Mos-Def,2013-10-27,['Mos Def '],
+Zürich,Kobra-&-The-Lotus,2013-10-27,['Kobra & The Lotus '],
+Bern,Schiller,2013-10-27,['Schiller '],Electronic
+Bern,Piers-Faccini,2013-10-27,['Piers Faccini '],
+Uster,Donny-McCaslin-Group,2013-10-27,"['Donny McCaslin Group ', ' Donny McCaslin ', ' Jason Lindner ', ' Tim Lefebvre ', ' Justin Brown ']",
+Winterthur,A-Place-to-Bury-Strangers,2013-10-27,"['A Place to Bury Strangers ', ' Bambara ']",
+Zürich,Uma,2013-10-27,['Uma '],Pop

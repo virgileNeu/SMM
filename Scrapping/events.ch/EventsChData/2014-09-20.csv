@@ -1,62 +1,62 @@
-,location,event,date,artists,genre
-0,Winterthur,Clayton-&-Frey,2014-09-20,"[' Jay Clayton ', ' Adrian Frey ']",
-1,Aarau,Café-concert,2014-09-20,['Nicolas Altstaedt '],Classic
-2,Basel,Orgelmusik-über-Mittag,2014-09-20,['Bernard Broudet '],Classic
-3,Lyss,Rockabilly-Festival,2014-09-20,['Restless '],Pop
-4,Lausanne,Label-Suisse,2014-09-20,['Boys Noize '],Electronic
-5,Luzern,World-Band-Festival-Live,2014-09-20,"['Black Dyke Band ', ' Dutch Swing College Band ']",
-6,Zürich,Eidgenössischer-Dank-Buss-und-Bettag,2014-09-20,"['Peter Rey ', ' Felix Gubser ']",Classic
-7,Zürich,Herbstkonzerte,2014-09-20,"['John Thade ', ' Annkatrin Isaacs ']",Classic
-8,Zürich,Der-vergessene-Schatz,2014-09-20,['Nicole Wehrli '],Classic
-9,Luzern,Piano-Entertainment,2014-09-20,['Mega Horvath '],Pop
-10,Zürich,Herbst-in-der-Helferei,2014-09-20,[' Dani Schnyder '],
-11,Zürich,The-Navigator,2014-09-20,"['Benjamin Guélat ', ' Live-Vertonung des Stummfilms von und mit Buster Keaton ']",Classic
-12,Solothurn,Eleven-Rock-Festival,2014-09-20,['Vanden Plas '],
-13,Liestal,Tina-and-the-Fat-Cat,2014-09-20,"[' Tina Martin ', ' Jérôme von Allmen ', ' Otto van Gogh ']",Pop
-14,Wabern,Dinner-mit-Frank-Sinatra,2014-09-20,['Sinatra Tribute Band '],
-15,Aarau,Bettagskonzert,2014-09-20,"[' Seraina Perrenoud ', ' Fabienne Skarpetowski ', ' Richard Resch ', ' Ernst Buscagne ']",Classic
-16,Luzern,World-Band-Festival,2014-09-20,['Black Dyke Band '],
-17,Winterthur,Bettagskonzert,2014-09-20,"[' Miriam Feuersinger ', ' Dorothee Labusch ', ' Dieter Wagner ', ' Bernhard Hunziker ', ' Raphael Jud ', ' Soon-Kee Woo ']",Classic
-18,Sarnen,Blues-In-The-Shoes,2014-09-20,"[' René Bieri ', ' Stefan Boog ', ' Marcel Nellen ']",
-19,Liebefeld,La-fabbrica-illuminata-,2014-09-20,['Sarah Maria Sun '],Classic
-20,Aarau,Bettagskonzert,2014-09-20,"[' Seraina Perrenoud ', ' Fabienne Skarpetowski ', ' Richard Resch ', ' Ernst Buscagne ']",Classic
-21,null,Abokonzert,2014-09-20,[' Stella Doufexis '],Classic
-22,Basel,Die-Neunte,2014-09-20,"[' Rachel Harnisch ', ' Gerhild Romberger ', ' Thomas Mohr ', ' Thomas E. Bauer ']",Classic
-23,Basel,Händel-Mendelssohn-Beethoven,2014-09-20,"[' Heidi Wölnerhanssen ', ' Roswitha Müller ', ' Christian Zenker ', ' Robert Koller ']",Classic
-24,Gams,The-Dark-Circus,2014-09-20,[' The Pussybats '],
-25,Zürich,Keltikon,2014-09-20,"[' Iain Duncan ', ' Olaf Ohl ', ' Ädu Studer ', ' Rino Bollin ', ' Patrick Feuz ']",
-26,Zug,Akkordeon-Festival-Zug,2014-09-20,"[' Andrea Panitz ', ' Ilsi Muna Ferrer ', ' Marc Bantelli ', ' Caspar Fries ', ' Lucy Novotna ']",
-27,Zürich,Chansons-en-Stok,2014-09-20,['Benoit Paradis Trio '],
-28,Zürich,Chansons-en-Stok,2014-09-20,['Chouf '],
-29,Luzern,World-Band-Festival-Dixie-Night,2014-09-20,['Dutch Swing College Band '],
-30,Brugg,Noche-latina,2014-09-20,"[' ', ' Simone Santos ', ' Alcides Toirac ', ' Amik Guerra ', ' Cesar Correa ', ' Juan Carlos Abreu ', ' David Stauffacher ']",
-31,Lugano,Das-Zelt-Lugano,2014-09-20,['The Italian Tenors '],Pop
-32,Zürich,Smooth-Attack,2014-09-20,"[' Sarignia Bonfà ', ' Martin Akeret ', ' Dionys Jäger ']",Pop
-33,Zürich,Folkroadshow-2014,2014-09-20,"['Fricot ', ' Caarls ', ' Caldwell ', ' Van Vliet ']",Pop
-34,Thun,Hibiscus,2014-09-20,"[' Stefanie Ruchti ', ' Karin Kämpf ', ' Maria Lobsiger ', ' Sven Küenzi ', ' Dominik Robellaz ', ' Jan Müller ', ' Urs Rüegsegger ']",Pop
-35,null,Jubiläumskonzerte-Lachen-&-Schindellegi,2014-09-20,[' Patricia Ulrich '],Classic
-36,Zürich,Wise-Guys,2014-09-20,['Wise Guys '],Pop
-37,Wetzikon,Los-Yukas,2014-09-20,['Los Yukas '],
-38,Luzern,Chamito,2014-09-20,['Chamito '],
-39,Laufen,Pippo-Pollina-Trio,2014-09-20,"[' Pippo Pollina ', ' Roberto Petroli ', ' Max Kämmerling ']",
-40,Solothurn,6.-Swiss-Guitar-Night,2014-09-20,"['Virginia Yep ', ' Grigory Novikov ', ' Peter Finger ', ' Julio Azcano ']",
-41,Oberwil-Lieli,Sina-Trio,2014-09-20,"[' Sina ', ' Peter Wagner ', ' Michael Chylewski ']",Pop
-42,Winterthur,El-Ten-Eleven,2014-09-20,['El Ten Eleven '],
-43,null,This-Will-Destroy-You,2014-09-20,"['This Will Destroy You ', ' Lymbyc Systym ']",Pop
-44,Uster,Schumacher-Lips,2014-09-20,"[' Martin Schumacher ', ' Oleg Lips ']",
-45,null,November-and-Me,2014-09-20,"['Michael Gysel ', ' Lukas Speissegger ', ' Raphael Woll ']",Pop
-46,Aarau,Sleepy-Sun,2014-09-20,['Sleepy Sun '],
-47,Lugano,Renzo-Arbore,2014-09-20,['Renzo Arbore '],
-48,Zürich,Hits-Recycled-Round-5,2014-09-20,"[' Christian Niederer ', ' Christoph Irniger ', ' Thomy Jordi ', ' Tim Kleinert ', ' Flo Götte ', ' Michael Flury ', ' Domi Chansorn ', ' Evelinn Trouble ']",
-49,Stans,Heidi-Happy-&-Band,2014-09-20,"[' Heidi Happy ', ' Ephrem Lüchinger ', ' Yacha Berdah ', ' Domi Huber ']",Pop
-50,Bern,Andy-Trinkler-&-Border-Affair,2014-09-20,['Andy Trinkler & Border Affair '],Pop
-51,Zürich,Bukowski,2014-09-20,['The KVB '],
-52,Uster,Human-Zoo,2014-09-20,"['Human Zoo ', ' Midnite Sky ']",
-53,Zürich,Tarrus-Riley,2014-09-20,['Tarrus Riley '],
-54,null,Bee-Johnson,2014-09-20,"[' Andrina Bollinger ', ' Hannah Bissegger ', ' Michel Spahr ', ' Ramón Oliveras ']",Pop
-55,Basel,Klang-Basel-Musikbiennale,2014-09-20,"[' Martin Klingeberg ', ' Christian Gerber ', ' Martin Iannaccone ', ' Daniel Almada ', ' Gregor Hilbe ']",
-56,Bern,Metric-Rotations-No.-3,2014-09-20,"[' Simon Ho ', ' Simon B ', ' Don Li ']",
-57,Zug,Destilacija,2014-09-20,"[' Mario Batkovic ', ' Fabian Bürgi ', ' Andreas Aeberhard ', ' Dominik Baumgartner ', ' Balthasar Streit ', ' Maro Widmer ', ' Daniel Durrer ', ' Philip Peppe Jenzer ']",
-58,Kriens,Global-Ghetto-Anthems-21,2014-09-20,"['DJs Chronik ', ' Nigga Fox ']",
-59,Bern,Redlight,2014-09-20,['Redlight '],Electronic
-60,Buchs,Go-Mad-&-Monster,2014-09-20,['Go Mad & Monster '],
+location,event,date,artists,genre
+Winterthur,Clayton-&-Frey,2014-09-20,"[' Jay Clayton ', ' Adrian Frey ']",
+Aarau,Café-concert,2014-09-20,['Nicolas Altstaedt '],Classic
+Basel,Orgelmusik-über-Mittag,2014-09-20,['Bernard Broudet '],Classic
+Lyss,Rockabilly-Festival,2014-09-20,['Restless '],Pop
+Lausanne,Label-Suisse,2014-09-20,['Boys Noize '],Electronic
+Luzern,World-Band-Festival-Live,2014-09-20,"['Black Dyke Band ', ' Dutch Swing College Band ']",
+Zürich,Eidgenössischer-Dank-Buss-und-Bettag,2014-09-20,"['Peter Rey ', ' Felix Gubser ']",Classic
+Zürich,Herbstkonzerte,2014-09-20,"['John Thade ', ' Annkatrin Isaacs ']",Classic
+Zürich,Der-vergessene-Schatz,2014-09-20,['Nicole Wehrli '],Classic
+Luzern,Piano-Entertainment,2014-09-20,['Mega Horvath '],Pop
+Zürich,Herbst-in-der-Helferei,2014-09-20,[' Dani Schnyder '],
+Zürich,The-Navigator,2014-09-20,"['Benjamin Guélat ', ' Live-Vertonung des Stummfilms von und mit Buster Keaton ']",Classic
+Solothurn,Eleven-Rock-Festival,2014-09-20,['Vanden Plas '],
+Liestal,Tina-and-the-Fat-Cat,2014-09-20,"[' Tina Martin ', ' Jérôme von Allmen ', ' Otto van Gogh ']",Pop
+Wabern,Dinner-mit-Frank-Sinatra,2014-09-20,['Sinatra Tribute Band '],
+Aarau,Bettagskonzert,2014-09-20,"[' Seraina Perrenoud ', ' Fabienne Skarpetowski ', ' Richard Resch ', ' Ernst Buscagne ']",Classic
+Luzern,World-Band-Festival,2014-09-20,['Black Dyke Band '],
+Winterthur,Bettagskonzert,2014-09-20,"[' Miriam Feuersinger ', ' Dorothee Labusch ', ' Dieter Wagner ', ' Bernhard Hunziker ', ' Raphael Jud ', ' Soon-Kee Woo ']",Classic
+Sarnen,Blues-In-The-Shoes,2014-09-20,"[' René Bieri ', ' Stefan Boog ', ' Marcel Nellen ']",
+Liebefeld,La-fabbrica-illuminata-,2014-09-20,['Sarah Maria Sun '],Classic
+Aarau,Bettagskonzert,2014-09-20,"[' Seraina Perrenoud ', ' Fabienne Skarpetowski ', ' Richard Resch ', ' Ernst Buscagne ']",Classic
+null,Abokonzert,2014-09-20,[' Stella Doufexis '],Classic
+Basel,Die-Neunte,2014-09-20,"[' Rachel Harnisch ', ' Gerhild Romberger ', ' Thomas Mohr ', ' Thomas E. Bauer ']",Classic
+Basel,Händel-Mendelssohn-Beethoven,2014-09-20,"[' Heidi Wölnerhanssen ', ' Roswitha Müller ', ' Christian Zenker ', ' Robert Koller ']",Classic
+Gams,The-Dark-Circus,2014-09-20,[' The Pussybats '],
+Zürich,Keltikon,2014-09-20,"[' Iain Duncan ', ' Olaf Ohl ', ' Ädu Studer ', ' Rino Bollin ', ' Patrick Feuz ']",
+Zug,Akkordeon-Festival-Zug,2014-09-20,"[' Andrea Panitz ', ' Ilsi Muna Ferrer ', ' Marc Bantelli ', ' Caspar Fries ', ' Lucy Novotna ']",
+Zürich,Chansons-en-Stok,2014-09-20,['Benoit Paradis Trio '],
+Zürich,Chansons-en-Stok,2014-09-20,['Chouf '],
+Luzern,World-Band-Festival-Dixie-Night,2014-09-20,['Dutch Swing College Band '],
+Brugg,Noche-latina,2014-09-20,"[' ', ' Simone Santos ', ' Alcides Toirac ', ' Amik Guerra ', ' Cesar Correa ', ' Juan Carlos Abreu ', ' David Stauffacher ']",
+Lugano,Das-Zelt-Lugano,2014-09-20,['The Italian Tenors '],Pop
+Zürich,Smooth-Attack,2014-09-20,"[' Sarignia Bonfà ', ' Martin Akeret ', ' Dionys Jäger ']",Pop
+Zürich,Folkroadshow-2014,2014-09-20,"['Fricot ', ' Caarls ', ' Caldwell ', ' Van Vliet ']",Pop
+Thun,Hibiscus,2014-09-20,"[' Stefanie Ruchti ', ' Karin Kämpf ', ' Maria Lobsiger ', ' Sven Küenzi ', ' Dominik Robellaz ', ' Jan Müller ', ' Urs Rüegsegger ']",Pop
+null,Jubiläumskonzerte-Lachen-&-Schindellegi,2014-09-20,[' Patricia Ulrich '],Classic
+Zürich,Wise-Guys,2014-09-20,['Wise Guys '],Pop
+Wetzikon,Los-Yukas,2014-09-20,['Los Yukas '],
+Luzern,Chamito,2014-09-20,['Chamito '],
+Laufen,Pippo-Pollina-Trio,2014-09-20,"[' Pippo Pollina ', ' Roberto Petroli ', ' Max Kämmerling ']",
+Solothurn,6.-Swiss-Guitar-Night,2014-09-20,"['Virginia Yep ', ' Grigory Novikov ', ' Peter Finger ', ' Julio Azcano ']",
+Oberwil-Lieli,Sina-Trio,2014-09-20,"[' Sina ', ' Peter Wagner ', ' Michael Chylewski ']",Pop
+Winterthur,El-Ten-Eleven,2014-09-20,['El Ten Eleven '],
+null,This-Will-Destroy-You,2014-09-20,"['This Will Destroy You ', ' Lymbyc Systym ']",Pop
+Uster,Schumacher-Lips,2014-09-20,"[' Martin Schumacher ', ' Oleg Lips ']",
+null,November-and-Me,2014-09-20,"['Michael Gysel ', ' Lukas Speissegger ', ' Raphael Woll ']",Pop
+Aarau,Sleepy-Sun,2014-09-20,['Sleepy Sun '],
+Lugano,Renzo-Arbore,2014-09-20,['Renzo Arbore '],
+Zürich,Hits-Recycled-Round-5,2014-09-20,"[' Christian Niederer ', ' Christoph Irniger ', ' Thomy Jordi ', ' Tim Kleinert ', ' Flo Götte ', ' Michael Flury ', ' Domi Chansorn ', ' Evelinn Trouble ']",
+Stans,Heidi-Happy-&-Band,2014-09-20,"[' Heidi Happy ', ' Ephrem Lüchinger ', ' Yacha Berdah ', ' Domi Huber ']",Pop
+Bern,Andy-Trinkler-&-Border-Affair,2014-09-20,['Andy Trinkler & Border Affair '],Pop
+Zürich,Bukowski,2014-09-20,['The KVB '],
+Uster,Human-Zoo,2014-09-20,"['Human Zoo ', ' Midnite Sky ']",
+Zürich,Tarrus-Riley,2014-09-20,['Tarrus Riley '],
+null,Bee-Johnson,2014-09-20,"[' Andrina Bollinger ', ' Hannah Bissegger ', ' Michel Spahr ', ' Ramón Oliveras ']",Pop
+Basel,Klang-Basel-Musikbiennale,2014-09-20,"[' Martin Klingeberg ', ' Christian Gerber ', ' Martin Iannaccone ', ' Daniel Almada ', ' Gregor Hilbe ']",
+Bern,Metric-Rotations-No.-3,2014-09-20,"[' Simon Ho ', ' Simon B ', ' Don Li ']",
+Zug,Destilacija,2014-09-20,"[' Mario Batkovic ', ' Fabian Bürgi ', ' Andreas Aeberhard ', ' Dominik Baumgartner ', ' Balthasar Streit ', ' Maro Widmer ', ' Daniel Durrer ', ' Philip Peppe Jenzer ']",
+Kriens,Global-Ghetto-Anthems-21,2014-09-20,"['DJs Chronik ', ' Nigga Fox ']",
+Bern,Redlight,2014-09-20,['Redlight '],Electronic
+Buchs,Go-Mad-&-Monster,2014-09-20,['Go Mad & Monster '],

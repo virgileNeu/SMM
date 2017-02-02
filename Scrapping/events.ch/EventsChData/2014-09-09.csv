@@ -1,12 +1,12 @@
-,location,event,date,artists,genre
-0,Luzern,Debut-6,2014-09-09,"['Manuel Walser ', ' Anano Gokieli ']",Classic
-1,Luzern,Orgelgewitter,2014-09-09,['Wolfgang Sieber '],Classic
-2,Luzern,Piano-Entertainment,2014-09-09,['Mark Tenger '],Pop
-3,Zürich,Konzert,2014-09-09,[' Benjamin Engeli '],Classic
-4,Montreux,Septembre-musical,2014-09-09,['Youth Orchestra of Bahia '],Classic
-5,Luzern,Rezital-4-Violine,2014-09-09,"['Anne-Sophie Mutter ', ' Lambert Orkis ']",Classic
-6,Luzern,Orgelsommer,2014-09-09,['Naji Hakim und Marie-Bernadette Dufourcet Hakim '],Classic
-7,Zürich,Helge-Schneider,2014-09-09,['Helge Schneider '],Pop
-8,Zürich,Marissa-Nadler,2014-09-09,['Marissa Nadler '],Pop
-9,Basel,Inez,2014-09-09,"[' Ines Brodbeck ', ' Michael Garrod ', ' Matthias Siegrist ', ' André Buser ', ' Eric Gut ']",
-10,Lausanne,Woods,2014-09-09,['Woods '],
+location,event,date,artists,genre
+Luzern,Debut-6,2014-09-09,"['Manuel Walser ', ' Anano Gokieli ']",Classic
+Luzern,Orgelgewitter,2014-09-09,['Wolfgang Sieber '],Classic
+Luzern,Piano-Entertainment,2014-09-09,['Mark Tenger '],Pop
+Zürich,Konzert,2014-09-09,[' Benjamin Engeli '],Classic
+Montreux,Septembre-musical,2014-09-09,['Youth Orchestra of Bahia '],Classic
+Luzern,Rezital-4-Violine,2014-09-09,"['Anne-Sophie Mutter ', ' Lambert Orkis ']",Classic
+Luzern,Orgelsommer,2014-09-09,['Naji Hakim und Marie-Bernadette Dufourcet Hakim '],Classic
+Zürich,Helge-Schneider,2014-09-09,['Helge Schneider '],Pop
+Zürich,Marissa-Nadler,2014-09-09,['Marissa Nadler '],Pop
+Basel,Inez,2014-09-09,"[' Ines Brodbeck ', ' Michael Garrod ', ' Matthias Siegrist ', ' André Buser ', ' Eric Gut ']",
+Lausanne,Woods,2014-09-09,['Woods '],

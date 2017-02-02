@@ -1,9 +1,9 @@
-,location,event,date,artists,genre
-0,Verbier,Verbier-Festival,2016-08-02,['Lise de la Salle '],Classic
-1,Verbier,Verbier-Festival,2016-08-02,['Dianne Reeves '],
-2,Zürich,Bent-Knee,2016-08-02,['Bent Knee '],Pop
-3,Verbier,Verbier-Festival,2016-08-02,"['Alexander Kniazev ', ' Katia Skanavi ', ' conductor: Liane Isakadze ']",Classic
-4,Bern,G-Rag-y-los-Hermanos-Patchekos,2016-08-02,['G Rag y los Hermanos Patchekos '],
-5,Bern,Bejazz-Sommer,2016-08-02,"['Cissokho-Brönnimann-Hason ', ' Moussa Cissokho ', ' Jan Galega Brönnimann ', ' Omri Hason ']",
-6,St.-Moritz,Festival-da-Jazz,2016-08-02,"['Al di Meola ', ' Al di Meola ', ' Peo Alfonsi ', ' Peter Kaszas ']",
-7,Düdingen,William-Fitzsimmons,2016-08-02,['William Fitzsimmons '],
+location,event,date,artists,genre
+Verbier,Verbier-Festival,2016-08-02,['Lise de la Salle '],Classic
+Verbier,Verbier-Festival,2016-08-02,['Dianne Reeves '],
+Zürich,Bent-Knee,2016-08-02,['Bent Knee '],Pop
+Verbier,Verbier-Festival,2016-08-02,"['Alexander Kniazev ', ' Katia Skanavi ', ' conductor: Liane Isakadze ']",Classic
+Bern,G-Rag-y-los-Hermanos-Patchekos,2016-08-02,['G Rag y los Hermanos Patchekos '],
+Bern,Bejazz-Sommer,2016-08-02,"['Cissokho-Brönnimann-Hason ', ' Moussa Cissokho ', ' Jan Galega Brönnimann ', ' Omri Hason ']",
+St.-Moritz,Festival-da-Jazz,2016-08-02,"['Al di Meola ', ' Al di Meola ', ' Peo Alfonsi ', ' Peter Kaszas ']",
+Düdingen,William-Fitzsimmons,2016-08-02,['William Fitzsimmons '],

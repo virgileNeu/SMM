@@ -1,59 +1,59 @@
-,location,event,date,artists,genre
-0,Basel,Mittagskonzert,2015-04-17,['Daniel Pochwala '],Classic
-1,Zermatt,Zermatt-Unplugged,2015-04-17,"[""Ronnie Scott's All Stars ""]",
-2,Cully,Cully-Jazz,2015-04-17,"['Ester Rada ', ' Ester Rada ', ' Ben Hozer ', ' Michael Guy ', ' Don Mayo ', ' Maayan Milo ', ' Gal Dahan ', ' Lior Romano ', ' Inon Peretz ']",
-3,Zermatt,Zermatt-Unplugged,2015-04-17,['Sunset Sons '],Pop
-4,Zürich,Werner-und-Company,2015-04-17,['Werner und Company '],Pop
-5,Basel,Vortragsstunde,2015-04-17,[' Daniel Pochwala '],Classic
-6,Luzern,Piano-Entertainment,2015-04-17,['Dezsö Balogh '],Classic
-7,Basel,Proms-Concert,2015-04-17,"['George Humphreys ', ' Michael Reid ']",Classic
-8,Dietikon,Feierabendmusik,2015-04-17,[' Bernhard Hörler '],Classic
-9,Uster,Un-palco-all'opera,2015-04-17,"['Camilla Antonini ', ' Massimo Montanari ', ' Roberto Maietta\t']",Classic
-10,Zürich,Konzert,2015-04-17,['Pavel Pozdyshev '],Classic
-11,Zürich,Tonhalle-Orchester-Zürich,2015-04-17,['Anna Prohaska '],Classic
-12,Schönenwerd,Dechen-Shak-Dagsay-&-Ensemble,2015-04-17,"['Hank Shizzoe ', ' Thomy Jordi ', ' Tosho Yakkatokuo ', ' Thomas Niggli ']",
-13,Zürich,Kammermusik,2015-04-17,"['Anna Miklashevich ', ' conductor: Polina Nikiforova ']",Classic
-14,Dübendorf,Pasta-&-Piano,2015-04-17,"[' Thomas Grüninger ', ' Timon Roth ']",
-15,Cully,Cully-Jazz,2015-04-17,"['FM Laeti ', ' Laetitia Bourgeois ', ' Ludovic Bruni ', ' Christophe Disco Minck ', ' Manu Dyiens ']",
-16,Zürich,Bach-erhaben,2015-04-17,"[' Miriam Feuersinger ', ' Alex Potter ']",Classic
-17,Basel,Frühlingskonzert,2015-04-17,"['Simone Hofstetter und Andrea Wiesli ', ' Regina Graus ', ' Simone Hofstetter ', ' Walter Siegel ', ' Markus J. Frey ']",Classic
-18,Aarau,Balboa,2015-04-17,"[' Reduction ', ' Strength ']",
-19,Zürich,Moscow-Art-Trio,2015-04-17,"[' Arkady Shilkloper ', ' Sergey Starostin ', ' Misha Alperin ', ' Sonia Borisova ']",
-20,Bern,Alkinoos-Ioannidis,2015-04-17,"['Alkinoos Ioannidis ', ' Yiorgos Kaloudis ', ' Vaggelis Lappas ']",
-21,null,Chor-und-Sinfoniekonzert-der-Orchestergesellschaft-Weil-am-Rhein,2015-04-17,"[' Jieun Kowollik ', ' Fernando Cuellar Leon ', ' Vladimir Vassilev ']",Classic
-22,Zürich,Ali-As,2015-04-17,['Ali As '],
-23,Basel,Blues-Festival-Basel,2015-04-17,"['Mitch Kashmar Blues Band ', ' A Contra Blues ']",
-24,Basel,Jazzfestival-Basel,2015-04-17,"['Yaron Herman Duo ', ' Paolo Freso Duo ', ' Yaron Herman ', ' Adam Baldych ', ' Bebo Ferra ']",
-25,Zürich,Peter-Gabriel-Tribute,2015-04-17,"[' Daniel Rohr ', ' Bruno Amstad ', ' Anna Kaenzig ', ' Levin Deger ', ' Tobey Lucas ', ' George Vaine ']",Pop
-26,Münchenstein,Rock-Night,2015-04-17,"['Devotion ', ' I Cut out your Name ']",
-27,Zürich,Allemano-Reisinger-Weber,2015-04-17,"[' Lina Allemano ', ' Wolfgang Reisinger ', ' Christian Weber ']",
-28,Winterthur,Wyrsch-Diallo,2015-04-17,"[' Linus Wyrsch ', ' Claude Diallo ']",
-29,null,Christian-Willisohn,2015-04-17,['Christian Willisohn '],
-30,Winterthur,The-Noise,2015-04-17,"['The Noise ', ' Zach Mathieu ']",
-31,Liebefeld,Black-Box,2015-04-17,"[' Andreas Tschopp ', ' Marc Stucki ', ' Kyle Shepherd ', ' Shane Cooper ', ' Kesivan Naidoo ']",
-32,Cully,Cully-Jazz,2015-04-17,"[' John Scofield & Jon Cleary ', ' Erika Stucky ', ' Bernhard Holl ', ' Georg Steiner ', ' Alexander Krenn ', ' Christoph Geza Haider Kroiss ', ' bugle) - Christian Wieder ', ' bugle) - Reinhold Bieber ', ' Albert Wieder ']",
-33,Basel,Carlo-Mombelli-&-the-Story-Tellers,2015-04-17,"[' Mbuso Khoza ', ' Adrian Mears ', ' Daniel Pezzotti ', ' Carlo Mombelli ', ' Dejan Terzic ']",
-34,Baden,Carmatango,2015-04-17,"['Carmatango ', ' Carlos Ramirez ', ' Marcelo Rossini ']",
-35,Zug,King-King,2015-04-17,['King King '],
-36,Herisau,Delta-Moon,2015-04-17,['Delta Moon '],
-37,Zermatt,Zermatt-Unplugged,2015-04-17,['Melissa Etheridge '],Pop
-38,Zürich,Guillaume-Perret-&-The-Electric-Epic,2015-04-17,"['Guillaume Perret & The Electric Epic ', ' Guillaume Perret ', ' Philippe Bussonet ', ' Jim Grandcamp ', ' Yoann Serra ']",
-39,Zürich,Miwata,2015-04-17,['Miwata '],
-40,Zürich,Blockflöte-des-Todes,2015-04-17,['Blockflöte des Todes '],Pop
-41,Zürich,The-Sinful-Saints,2015-04-17,['The Sinful Saints '],Pop
-42,Wetzikon,Down-On-Knees-I'm-Weak,2015-04-17,"[""Down On Knees I'm Weak "", ' Blighter ']",
-43,Rubigen,Jim-Liban-&-Sam-Burckhardt-&-The-Joel-Paterson-Trio,2015-04-17,"[' Jim Liban ', ' Sam Burckhardt ', ' Joel Paterson ', ' Beau Sample ', ' Alex Hall ']",
-44,Cully,Cully-Jazz,2015-04-17,['Dorian Wood '],
-45,Basel,Maria-Doyle-Kennedy,2015-04-17,['Maria Doyle Kennedy '],Pop
-46,Bern,Morgain,2015-04-17,"['Martina Lory ', ' Sara Trauffer ', ' Mathias Probst ', ' Hannes Boss ', ' Christoph Utzinger ']",
-47,Düdingen,Abwärts,2015-04-17,['Abwärts '],
-48,Zürich,5-Jahre-Halbstark,2015-04-17,['The Memories '],
-49,Winterthur,Dälek,2015-04-17,['Dälek '],
-50,Basel,Reactory,2015-04-17,['Reactory '],
-51,Solothurn,Dog-Eat-Dog,2015-04-17,['Dog Eat Dog '],
-52,Zürich,Umse,2015-04-17,['Umse '],
-53,Schaffhausen,John-The-Conqueror,2015-04-17,['John The Conqueror '],
-54,Basel,Hommage-an-Bach,2015-04-17,"['Jana Karsko ', ' Bodo Friedrich ', ' Georg Dettweiler ']",Classic
-55,Zermatt,Zermatt-Unplugged,2015-04-17,['Charlie Winston '],
-56,Zermatt,Zermatt-Unplugged,2015-04-17,['Kill it Kid '],
-57,Zermatt,Zermatt-Unplugged,2015-04-17,['Yalta Club '],Pop
+location,event,date,artists,genre
+Basel,Mittagskonzert,2015-04-17,['Daniel Pochwala '],Classic
+Zermatt,Zermatt-Unplugged,2015-04-17,"[""Ronnie Scott's All Stars ""]",
+Cully,Cully-Jazz,2015-04-17,"['Ester Rada ', ' Ester Rada ', ' Ben Hozer ', ' Michael Guy ', ' Don Mayo ', ' Maayan Milo ', ' Gal Dahan ', ' Lior Romano ', ' Inon Peretz ']",
+Zermatt,Zermatt-Unplugged,2015-04-17,['Sunset Sons '],Pop
+Zürich,Werner-und-Company,2015-04-17,['Werner und Company '],Pop
+Basel,Vortragsstunde,2015-04-17,[' Daniel Pochwala '],Classic
+Luzern,Piano-Entertainment,2015-04-17,['Dezsö Balogh '],Classic
+Basel,Proms-Concert,2015-04-17,"['George Humphreys ', ' Michael Reid ']",Classic
+Dietikon,Feierabendmusik,2015-04-17,[' Bernhard Hörler '],Classic
+Uster,Un-palco-all'opera,2015-04-17,"['Camilla Antonini ', ' Massimo Montanari ', ' Roberto Maietta\t']",Classic
+Zürich,Konzert,2015-04-17,['Pavel Pozdyshev '],Classic
+Zürich,Tonhalle-Orchester-Zürich,2015-04-17,['Anna Prohaska '],Classic
+Schönenwerd,Dechen-Shak-Dagsay-&-Ensemble,2015-04-17,"['Hank Shizzoe ', ' Thomy Jordi ', ' Tosho Yakkatokuo ', ' Thomas Niggli ']",
+Zürich,Kammermusik,2015-04-17,"['Anna Miklashevich ', ' conductor: Polina Nikiforova ']",Classic
+Dübendorf,Pasta-&-Piano,2015-04-17,"[' Thomas Grüninger ', ' Timon Roth ']",
+Cully,Cully-Jazz,2015-04-17,"['FM Laeti ', ' Laetitia Bourgeois ', ' Ludovic Bruni ', ' Christophe Disco Minck ', ' Manu Dyiens ']",
+Zürich,Bach-erhaben,2015-04-17,"[' Miriam Feuersinger ', ' Alex Potter ']",Classic
+Basel,Frühlingskonzert,2015-04-17,"['Simone Hofstetter und Andrea Wiesli ', ' Regina Graus ', ' Simone Hofstetter ', ' Walter Siegel ', ' Markus J. Frey ']",Classic
+Aarau,Balboa,2015-04-17,"[' Reduction ', ' Strength ']",
+Zürich,Moscow-Art-Trio,2015-04-17,"[' Arkady Shilkloper ', ' Sergey Starostin ', ' Misha Alperin ', ' Sonia Borisova ']",
+Bern,Alkinoos-Ioannidis,2015-04-17,"['Alkinoos Ioannidis ', ' Yiorgos Kaloudis ', ' Vaggelis Lappas ']",
+null,Chor-und-Sinfoniekonzert-der-Orchestergesellschaft-Weil-am-Rhein,2015-04-17,"[' Jieun Kowollik ', ' Fernando Cuellar Leon ', ' Vladimir Vassilev ']",Classic
+Zürich,Ali-As,2015-04-17,['Ali As '],
+Basel,Blues-Festival-Basel,2015-04-17,"['Mitch Kashmar Blues Band ', ' A Contra Blues ']",
+Basel,Jazzfestival-Basel,2015-04-17,"['Yaron Herman Duo ', ' Paolo Freso Duo ', ' Yaron Herman ', ' Adam Baldych ', ' Bebo Ferra ']",
+Zürich,Peter-Gabriel-Tribute,2015-04-17,"[' Daniel Rohr ', ' Bruno Amstad ', ' Anna Kaenzig ', ' Levin Deger ', ' Tobey Lucas ', ' George Vaine ']",Pop
+Münchenstein,Rock-Night,2015-04-17,"['Devotion ', ' I Cut out your Name ']",
+Zürich,Allemano-Reisinger-Weber,2015-04-17,"[' Lina Allemano ', ' Wolfgang Reisinger ', ' Christian Weber ']",
+Winterthur,Wyrsch-Diallo,2015-04-17,"[' Linus Wyrsch ', ' Claude Diallo ']",
+null,Christian-Willisohn,2015-04-17,['Christian Willisohn '],
+Winterthur,The-Noise,2015-04-17,"['The Noise ', ' Zach Mathieu ']",
+Liebefeld,Black-Box,2015-04-17,"[' Andreas Tschopp ', ' Marc Stucki ', ' Kyle Shepherd ', ' Shane Cooper ', ' Kesivan Naidoo ']",
+Cully,Cully-Jazz,2015-04-17,"[' John Scofield & Jon Cleary ', ' Erika Stucky ', ' Bernhard Holl ', ' Georg Steiner ', ' Alexander Krenn ', ' Christoph Geza Haider Kroiss ', ' bugle) - Christian Wieder ', ' bugle) - Reinhold Bieber ', ' Albert Wieder ']",
+Basel,Carlo-Mombelli-&-the-Story-Tellers,2015-04-17,"[' Mbuso Khoza ', ' Adrian Mears ', ' Daniel Pezzotti ', ' Carlo Mombelli ', ' Dejan Terzic ']",
+Baden,Carmatango,2015-04-17,"['Carmatango ', ' Carlos Ramirez ', ' Marcelo Rossini ']",
+Zug,King-King,2015-04-17,['King King '],
+Herisau,Delta-Moon,2015-04-17,['Delta Moon '],
+Zermatt,Zermatt-Unplugged,2015-04-17,['Melissa Etheridge '],Pop
+Zürich,Guillaume-Perret-&-The-Electric-Epic,2015-04-17,"['Guillaume Perret & The Electric Epic ', ' Guillaume Perret ', ' Philippe Bussonet ', ' Jim Grandcamp ', ' Yoann Serra ']",
+Zürich,Miwata,2015-04-17,['Miwata '],
+Zürich,Blockflöte-des-Todes,2015-04-17,['Blockflöte des Todes '],Pop
+Zürich,The-Sinful-Saints,2015-04-17,['The Sinful Saints '],Pop
+Wetzikon,Down-On-Knees-I'm-Weak,2015-04-17,"[""Down On Knees I'm Weak "", ' Blighter ']",
+Rubigen,Jim-Liban-&-Sam-Burckhardt-&-The-Joel-Paterson-Trio,2015-04-17,"[' Jim Liban ', ' Sam Burckhardt ', ' Joel Paterson ', ' Beau Sample ', ' Alex Hall ']",
+Cully,Cully-Jazz,2015-04-17,['Dorian Wood '],
+Basel,Maria-Doyle-Kennedy,2015-04-17,['Maria Doyle Kennedy '],Pop
+Bern,Morgain,2015-04-17,"['Martina Lory ', ' Sara Trauffer ', ' Mathias Probst ', ' Hannes Boss ', ' Christoph Utzinger ']",
+Düdingen,Abwärts,2015-04-17,['Abwärts '],
+Zürich,5-Jahre-Halbstark,2015-04-17,['The Memories '],
+Winterthur,Dälek,2015-04-17,['Dälek '],
+Basel,Reactory,2015-04-17,['Reactory '],
+Solothurn,Dog-Eat-Dog,2015-04-17,['Dog Eat Dog '],
+Zürich,Umse,2015-04-17,['Umse '],
+Schaffhausen,John-The-Conqueror,2015-04-17,['John The Conqueror '],
+Basel,Hommage-an-Bach,2015-04-17,"['Jana Karsko ', ' Bodo Friedrich ', ' Georg Dettweiler ']",Classic
+Zermatt,Zermatt-Unplugged,2015-04-17,['Charlie Winston '],
+Zermatt,Zermatt-Unplugged,2015-04-17,['Kill it Kid '],
+Zermatt,Zermatt-Unplugged,2015-04-17,['Yalta Club '],Pop

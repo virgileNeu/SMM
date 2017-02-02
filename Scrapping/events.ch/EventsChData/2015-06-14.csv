@@ -1,34 +1,34 @@
-,location,event,date,artists,genre
-0,Allschwil,Musik-und-Wort-Mit-Bach-ohne-Bass-im-Stadtrat-Leipzig-1731,2015-06-14,"['Daphné Schneider ', ' Nina Mayer ', ' Sam Chapman ', ' Laurenz Gutjahr ']",Classic
-1,Luzern,Sinfoniekonzert-Fest-der-Natur,2015-06-14,[' Strauss '],Classic
-2,Reinach,Duo-Graf-Gregor,2015-06-14,"['Aglaia Graf ', ' Benjamin Gregor-Smith ']",Classic
-3,Zürich,Festspiele-Zürich-Letzte-Sonaten-I,2015-06-14,['Sir András Schiff '],Classic
-4,Dornach,Sommerkonzert,2015-06-14,"[' Martin Masan ', ' Juan Diego Galindez-Gutierrez ']",Classic
-5,Zürich,Zeit-los,2015-06-14,"[' Barbara Schingnitz ', ' Estelle Costanzo ', ' Lanet Flores ', ' Linus Cathomas ']",Classic
-6,Rüschlikon,Parkkonzert-&-Folk-Goes-Classic,2015-06-14,"[' Martin Ackermann ', ' Patrik Marti ']",Classic
-7,Luzern,Indoor-Outdoor,2015-06-14,"[' Simone Felber ', ' Judith Flury ', ' Bret Simner ', ' Christina Gallati ', ' Vincent Flückiger ']",Classic
-8,Zürich,Thank-You-for-the-Music,2015-06-14,"['Ivana Rusko ', ' Ján Rusko ', ' Annkatrin Isaacs ']",Classic
-9,Basel,Elias,2015-06-14,"[' Sibylla Rubens ', ' Miriam Wettstein ', ' Johannes Kaleschke ', ' Hanno Müller-Brachmann ']",Classic
-10,Bern,Rezital,2015-06-14,['Oliver Schnyder '],Classic
-11,Winterthur,Konzert,2015-06-14,"['Debora Klein Stecher ', ' Armon Stecher ', ' Jun Onaka ']",Classic
-12,Frauenfeld,Larmes-Chor-und-Orchesterkonzert,2015-06-14,"[' Isabel Pfefferkorn ', ' Yves Brühwiler ']",Classic
-13,Winterthur,Jazz-am-Mittwoch,2015-06-14,"[' Dominik Dolega ', ' Felix Perret ', ' Matthias Brodbeck ', ' Gerry Hemingway ']",
-14,Luzern,Mit-Bach-und-Trompeten,2015-06-14,[' Immanuel Richter '],Classic
-15,Basel,Kammermusik-Konzert,2015-06-14,"[' Jiri Nemecek ', ' Stefanie Bischof ', ' Martina Bischof ', ' Andrea Bischof ']",Classic
-16,Basel,Abendmusiken-Giuseppe-Peranda-Vincenzo-Albrici,2015-06-14,[' Francesco Saverio Pedrini '],Classic
-17,Sirnach,Konzert,2015-06-14,"[' Sandro Müller ', ' Barbara Müller-Hämmerli ']",Classic
-18,Basel,Singspiel,2015-06-14,"[' Samuel Wettstein ', ' Claudia Brunner ']",Classic
-19,null,Celebrations,2015-06-14,"[' Brigitte Grether ', ' Franziska Lips ', ' Ioanna Seira ']",Classic
-20,null,Festi'neuch,2015-06-14,"['Soviet Suprem ', ' Bassekou Kouyate & Ngoni Ba ']",
-21,null,Festi'neuch,2015-06-14,['La Fine Equipe '],
-22,null,Festi'neuch,2015-06-14,"['Yannick Noah ', ' Akhenaton Iam ', ' Patrice ']",Pop
-23,Luzern,Sommerkonzert,2015-06-14,[' Oliver Triendl '],Classic
-24,Luzern,Klubkonzert,2015-06-14,"['Imke Frank ', ' Martina Schucan ']",Classic
-25,Zürich,Cuban-Beats-All-Stars,2015-06-14,"['Cuban Beats All Stars ', ' Tillo ', ' Vladimir Nuñez ', ' Roy Pinatel ', ' Nelson Palacios ', ' Hiram Riveri ']",
-26,Winterthur,Trio-Todo-Tango,2015-06-14,"[' Sven Angelo Mindeci ', ' Jojo Kunz ', ' Urs Stirnimann ']",
-27,Kriens,Intime-Skizzen,2015-06-14,"[' Ivana Pristasova ', ' Petra Ackermann ', ' Karolina Ohman ', ' Tamriko Kordzaia ']",Classic
-28,Zürich,Bizarre-Ride-II-the-Pharcyde,2015-06-14,['Bizarre Ride II the Pharcyde '],
-29,Zürich,Swanky-Mothers-Series-XXVII,2015-06-14,"[' Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
-30,Zürich,Lydia-Lunch-Retrovirus,2015-06-14,['Lydia Lunch Retrovirus '],
-31,Pratteln,The-Animals-&-Friends,2015-06-14,['The Animals & Friends '],
-32,Bern,Martin-Bisi-&-Band,2015-06-14,['Martin Bisi & Band '],
+location,event,date,artists,genre
+Allschwil,Musik-und-Wort-Mit-Bach-ohne-Bass-im-Stadtrat-Leipzig-1731,2015-06-14,"['Daphné Schneider ', ' Nina Mayer ', ' Sam Chapman ', ' Laurenz Gutjahr ']",Classic
+Luzern,Sinfoniekonzert-Fest-der-Natur,2015-06-14,[' Strauss '],Classic
+Reinach,Duo-Graf-Gregor,2015-06-14,"['Aglaia Graf ', ' Benjamin Gregor-Smith ']",Classic
+Zürich,Festspiele-Zürich-Letzte-Sonaten-I,2015-06-14,['Sir András Schiff '],Classic
+Dornach,Sommerkonzert,2015-06-14,"[' Martin Masan ', ' Juan Diego Galindez-Gutierrez ']",Classic
+Zürich,Zeit-los,2015-06-14,"[' Barbara Schingnitz ', ' Estelle Costanzo ', ' Lanet Flores ', ' Linus Cathomas ']",Classic
+Rüschlikon,Parkkonzert-&-Folk-Goes-Classic,2015-06-14,"[' Martin Ackermann ', ' Patrik Marti ']",Classic
+Luzern,Indoor-Outdoor,2015-06-14,"[' Simone Felber ', ' Judith Flury ', ' Bret Simner ', ' Christina Gallati ', ' Vincent Flückiger ']",Classic
+Zürich,Thank-You-for-the-Music,2015-06-14,"['Ivana Rusko ', ' Ján Rusko ', ' Annkatrin Isaacs ']",Classic
+Basel,Elias,2015-06-14,"[' Sibylla Rubens ', ' Miriam Wettstein ', ' Johannes Kaleschke ', ' Hanno Müller-Brachmann ']",Classic
+Bern,Rezital,2015-06-14,['Oliver Schnyder '],Classic
+Winterthur,Konzert,2015-06-14,"['Debora Klein Stecher ', ' Armon Stecher ', ' Jun Onaka ']",Classic
+Frauenfeld,Larmes-Chor-und-Orchesterkonzert,2015-06-14,"[' Isabel Pfefferkorn ', ' Yves Brühwiler ']",Classic
+Winterthur,Jazz-am-Mittwoch,2015-06-14,"[' Dominik Dolega ', ' Felix Perret ', ' Matthias Brodbeck ', ' Gerry Hemingway ']",
+Luzern,Mit-Bach-und-Trompeten,2015-06-14,[' Immanuel Richter '],Classic
+Basel,Kammermusik-Konzert,2015-06-14,"[' Jiri Nemecek ', ' Stefanie Bischof ', ' Martina Bischof ', ' Andrea Bischof ']",Classic
+Basel,Abendmusiken-Giuseppe-Peranda-Vincenzo-Albrici,2015-06-14,[' Francesco Saverio Pedrini '],Classic
+Sirnach,Konzert,2015-06-14,"[' Sandro Müller ', ' Barbara Müller-Hämmerli ']",Classic
+Basel,Singspiel,2015-06-14,"[' Samuel Wettstein ', ' Claudia Brunner ']",Classic
+null,Celebrations,2015-06-14,"[' Brigitte Grether ', ' Franziska Lips ', ' Ioanna Seira ']",Classic
+null,Festi'neuch,2015-06-14,"['Soviet Suprem ', ' Bassekou Kouyate & Ngoni Ba ']",
+null,Festi'neuch,2015-06-14,['La Fine Equipe '],
+null,Festi'neuch,2015-06-14,"['Yannick Noah ', ' Akhenaton Iam ', ' Patrice ']",Pop
+Luzern,Sommerkonzert,2015-06-14,[' Oliver Triendl '],Classic
+Luzern,Klubkonzert,2015-06-14,"['Imke Frank ', ' Martina Schucan ']",Classic
+Zürich,Cuban-Beats-All-Stars,2015-06-14,"['Cuban Beats All Stars ', ' Tillo ', ' Vladimir Nuñez ', ' Roy Pinatel ', ' Nelson Palacios ', ' Hiram Riveri ']",
+Winterthur,Trio-Todo-Tango,2015-06-14,"[' Sven Angelo Mindeci ', ' Jojo Kunz ', ' Urs Stirnimann ']",
+Kriens,Intime-Skizzen,2015-06-14,"[' Ivana Pristasova ', ' Petra Ackermann ', ' Karolina Ohman ', ' Tamriko Kordzaia ']",Classic
+Zürich,Bizarre-Ride-II-the-Pharcyde,2015-06-14,['Bizarre Ride II the Pharcyde '],
+Zürich,Swanky-Mothers-Series-XXVII,2015-06-14,"[' Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
+Zürich,Lydia-Lunch-Retrovirus,2015-06-14,['Lydia Lunch Retrovirus '],
+Pratteln,The-Animals-&-Friends,2015-06-14,['The Animals & Friends '],
+Bern,Martin-Bisi-&-Band,2015-06-14,['Martin Bisi & Band '],

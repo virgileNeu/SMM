@@ -1,29 +1,29 @@
-,location,event,date,artists,genre
-0,Openair-St.-Gallen,null,2013-06-30,"['Die Ärzte ', ' Parov Stelar Band ', ' The Lumineers ']",
-1,Interlaken,Trucker-&-Country-Festival,2013-06-30,[' Country Sisters '],
-2,Zürich,Songs-From-Two-Worlds,2013-06-30,[' Adrian Frey '],Classic
-3,-Alte-Kirche,Boswil,2013-06-30,"[' Erik Schumann ', ' Hyung-ki Joo ', ' Corinne Chapelle ', ' Aleksey Igudesman ', ' Razvan Popovici ', ' Janka Szomor-Mekis ', ' Benedict Klöckner ', ' Andreas Fleck ']",Classic
-4,null,Alphorn-&-Nordic-Winds,2013-06-30,"[' Eliana Burki ', ' Karoliina Kantelinen ', ' Lukas Mantel ']",Classic
-5,Zürich,Variatio-delectat,2013-06-30,['András Schiff '],Classic
-6,Zürich,Matinee-zum-Sommeranfang,2013-06-30,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-7,Openair-St.-Gallen,null,2013-06-30,"['Shout Out Louds ', ' Haim ', ' Modest Mouse ']",Tomazobi
-8,Winterthur,Keltikon,2013-06-30,"[' Rino Bollin ', ' Iain Duncan ', ' Patrick Feuz ', ' Olaf Ohl ']",
-9,null,Alphorn-&-Nordic-Winds,2013-06-30,"[' Eliana Burki ', ' Karoliina Kantelinen ', ' Lukas Mantel ']",Classic
-10,Zürich,Abendmusik,2013-06-30,"['B. Mühlemann ', ' Thomas Stebler ', ' Susanne Straeter ', ' Giancarlo Prossimo ']",Classic
-11,-Alte-Kirche,Boswil,2013-06-30,"['Nuria Rial ', ' Maurice Steger ', ' Corinne Chapelle ', ' Erik Schumann ', ' Naoki Kitaya ', ' Judith Keller ']",Classic
-12,Zürich,Konzert,2013-06-30,[' Ursula Oelke '],Classic
-13,Zürich,Klangreise,2013-06-30,"['Olivia Heredia ', ' Andreas Betschart ', ' Dorottya Marosvári ']",Classic
-14,Weinfelden,Donauwellen-ein-Sommerkonzert,2013-06-30,"[' Katharina Kühne ', ' Rudolf Bamert ', ' Eiko Furusawa ', ' Michel Rouilly ']",Classic
-15,Kappel-am-Albis,Musik-und-Wort,2013-06-30,"['Ursula Hauser ', ' Laurent Tinguely ']",Classic
-16,Rüschlikon,Highlights-From-Classics,2013-06-30,[' Noëmi Nadelmann '],Classic
-17,Bern,Bon-Jovi,2013-06-30,['Bon Jovi '],Pop
-18,Zürich,Musik-und-Raum-Über-die-Wirklichkeit-des-Mythischen,2013-06-30,['Heinz Specker '],Classic
-19,null,Round-M,2013-06-30,[' Roberta Mameli '],Classic
-20,Zürich,Ich-schenke-dir-mein-Herz-beim-Tango,2013-06-30,"['Igor Morosow ', ' Boris Chnaider ']",
-21,Liebefeld,Zusatzkonzert,2013-06-30,"['Afentoula Razeli ', ' Panagiotis Koutsouras ', ' Ioannis Kolovos ', ' Panagiotis Papageorgiou ']",
-22,Winterthur,Valeri-Tolstov-Band,2013-06-30,"[' Valeri Tolstov ', ' Franz Hellmüller ', ' Beat Gisler ', ' Andi Pupato ']",
-23,Hallenstadion,Zürich,2013-06-30,['Rihanna '],Rihanna
-24,Zürich,Cariba-Steelband,2013-06-30,[' Susanne Philipp '],Pop
-25,Zürich,Géza-Anda-Konzert-Lounge,2013-06-30,['Da Sol '],Classic
-26,Elgg,Orgelkonzert,2013-06-30,['Rudolf Meyer '],Classic
-27,Basel,Neneh-Cherry,2013-06-30,['Neneh Cherry '],Pop
+location,event,date,artists,genre
+Openair-St.-Gallen,null,2013-06-30,"['Die Ärzte ', ' Parov Stelar Band ', ' The Lumineers ']",
+Interlaken,Trucker-&-Country-Festival,2013-06-30,[' Country Sisters '],
+Zürich,Songs-From-Two-Worlds,2013-06-30,[' Adrian Frey '],Classic
+-Alte-Kirche,Boswil,2013-06-30,"[' Erik Schumann ', ' Hyung-ki Joo ', ' Corinne Chapelle ', ' Aleksey Igudesman ', ' Razvan Popovici ', ' Janka Szomor-Mekis ', ' Benedict Klöckner ', ' Andreas Fleck ']",Classic
+null,Alphorn-&-Nordic-Winds,2013-06-30,"[' Eliana Burki ', ' Karoliina Kantelinen ', ' Lukas Mantel ']",Classic
+Zürich,Variatio-delectat,2013-06-30,['András Schiff '],Classic
+Zürich,Matinee-zum-Sommeranfang,2013-06-30,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
+Openair-St.-Gallen,null,2013-06-30,"['Shout Out Louds ', ' Haim ', ' Modest Mouse ']",Tomazobi
+Winterthur,Keltikon,2013-06-30,"[' Rino Bollin ', ' Iain Duncan ', ' Patrick Feuz ', ' Olaf Ohl ']",
+null,Alphorn-&-Nordic-Winds,2013-06-30,"[' Eliana Burki ', ' Karoliina Kantelinen ', ' Lukas Mantel ']",Classic
+Zürich,Abendmusik,2013-06-30,"['B. Mühlemann ', ' Thomas Stebler ', ' Susanne Straeter ', ' Giancarlo Prossimo ']",Classic
+-Alte-Kirche,Boswil,2013-06-30,"['Nuria Rial ', ' Maurice Steger ', ' Corinne Chapelle ', ' Erik Schumann ', ' Naoki Kitaya ', ' Judith Keller ']",Classic
+Zürich,Konzert,2013-06-30,[' Ursula Oelke '],Classic
+Zürich,Klangreise,2013-06-30,"['Olivia Heredia ', ' Andreas Betschart ', ' Dorottya Marosvári ']",Classic
+Weinfelden,Donauwellen-ein-Sommerkonzert,2013-06-30,"[' Katharina Kühne ', ' Rudolf Bamert ', ' Eiko Furusawa ', ' Michel Rouilly ']",Classic
+Kappel-am-Albis,Musik-und-Wort,2013-06-30,"['Ursula Hauser ', ' Laurent Tinguely ']",Classic
+Rüschlikon,Highlights-From-Classics,2013-06-30,[' Noëmi Nadelmann '],Classic
+Bern,Bon-Jovi,2013-06-30,['Bon Jovi '],Pop
+Zürich,Musik-und-Raum-Über-die-Wirklichkeit-des-Mythischen,2013-06-30,['Heinz Specker '],Classic
+null,Round-M,2013-06-30,[' Roberta Mameli '],Classic
+Zürich,Ich-schenke-dir-mein-Herz-beim-Tango,2013-06-30,"['Igor Morosow ', ' Boris Chnaider ']",
+Liebefeld,Zusatzkonzert,2013-06-30,"['Afentoula Razeli ', ' Panagiotis Koutsouras ', ' Ioannis Kolovos ', ' Panagiotis Papageorgiou ']",
+Winterthur,Valeri-Tolstov-Band,2013-06-30,"[' Valeri Tolstov ', ' Franz Hellmüller ', ' Beat Gisler ', ' Andi Pupato ']",
+Hallenstadion,Zürich,2013-06-30,['Rihanna '],Rihanna
+Zürich,Cariba-Steelband,2013-06-30,[' Susanne Philipp '],Pop
+Zürich,Géza-Anda-Konzert-Lounge,2013-06-30,['Da Sol '],Classic
+Elgg,Orgelkonzert,2013-06-30,['Rudolf Meyer '],Classic
+Basel,Neneh-Cherry,2013-06-30,['Neneh Cherry '],Pop

@@ -1,22 +1,22 @@
-,location,event,date,artists,genre
-0,Winterthur,PVC-Prag-Vienna-Connection,2014-04-06,['PVC Prag-Vienna Connection '],
-1,null,5.-Kammerkonzert,2014-04-06,"['Ionut-Daniel Stanciu ', ' Clément Boudrant ', ' Brigitte Fatton ']",Classic
-2,Heerbrugg,Blues-und-Jazz-Tage,2014-04-06,['Connie Harvey '],
-3,Luzern,Orgel-&-Trompete,2014-04-06,"['Reinhold Friedrich ', ' Martin Lücker ']",Classic
-4,Basel,AMG-Sonntagsmatineen,2014-04-06,[' Gabor Boldoczki '],Classic
-5,Zürich,Wahlverwandtschaften,2014-04-06,"['Stefa Wirth ', ' Elisabeth Harringer-Pignat ', ' David Greenlees ', ' Kamil Losiewicz ', ' Raphael Camenisch ', ' Heinz Saurer ', ' Seth Quistad ', ' Viviane Chassot ', ' Andreas Berger ']",Classic
-6,Zürich,Kammerkonzert,2014-04-06,"['Robert Pickup ', ' Philip Mahrenholz ', ' Glen Borling ', ' Anne Gerstenberger ', ' Sebastian Wienand ']",Classic
-7,Luzern,Gedenkkonzert-zu-Ehren-von-Claudio-Abbado,2014-04-06,"[' Isabelle Faust ', ' Bruno Ganz ']",Classic
-8,Pieterlen,Folk-in-Heaven,2014-04-06,['Loren & Mark '],
-9,Winterthur,In-Guitar-Winterthur,2014-04-06,"['Julia Malischnig & Ingrid Oberkanins ', ' Julia Malischnig ', ' Ingrid Oberkanins ']",
-10,Uerikon,3-x-Romantik,2014-04-06,"[' Praxedis Geneviève Hug ', ' Jürg Fehr ', ' Heiner Wanner ']",Classic
-11,null,Jahreskonzert-Sing'n'Swing,2014-04-06,[' Gregor Kissling '],
-12,Basel,Begegnung-mit-Musik,2014-04-06,"[' Emilie Haudenschild ', ' Monika Clemann ', ' David Lauri ']",Classic
-13,Cully,Cully-Jazz,2014-04-06,"['Cody Chesnutt ', ' Alex Massmaedia ', ' Antoinious Thomas ', ' Tim Sandiford ', ' Samuel Odiwe ', ' Dan Bingham ', ' Michael Osbourne ']",
-14,Zürich,ewz.unplugged,2014-04-06,"['Patti Smith ', ' Patti Smith ', ' Jackson Smith ', ' Tony Shanahan ']",
-15,Zürich,Susheela-Raman-Quartet,2014-04-06,"[' Susheela Raman ', ' Sam Mills ', ' Kutle Khan ', ' Nathoo Lal Solanki ']",
-16,Basel,Heinelieder-Carte-blanche-für-Roland-Moser,2014-04-06,"['Anne-May Krüger ', ' Anton Kernjak ', ' Daniel Fueter ']",Classic
-17,Cully,Cully-Jazz,2014-04-06,"['Ruthie Foster ', ' Samantha Banks ', ' Larry Fulcher ']",
-18,Thun,Sebastian-Arnold,2014-04-06,['Sebastian Arnold '],Electronic
-19,Zürich,Paragone-d'archi,2014-04-06,"[' Charlotte Hug ', ' Stefano Pastor ']",
-20,Bern,Joan-as-Policewoman,2014-04-06,['Joan as Policewoman '],Pop
+location,event,date,artists,genre
+Winterthur,PVC-Prag-Vienna-Connection,2014-04-06,['PVC Prag-Vienna Connection '],
+null,5.-Kammerkonzert,2014-04-06,"['Ionut-Daniel Stanciu ', ' Clément Boudrant ', ' Brigitte Fatton ']",Classic
+Heerbrugg,Blues-und-Jazz-Tage,2014-04-06,['Connie Harvey '],
+Luzern,Orgel-&-Trompete,2014-04-06,"['Reinhold Friedrich ', ' Martin Lücker ']",Classic
+Basel,AMG-Sonntagsmatineen,2014-04-06,[' Gabor Boldoczki '],Classic
+Zürich,Wahlverwandtschaften,2014-04-06,"['Stefa Wirth ', ' Elisabeth Harringer-Pignat ', ' David Greenlees ', ' Kamil Losiewicz ', ' Raphael Camenisch ', ' Heinz Saurer ', ' Seth Quistad ', ' Viviane Chassot ', ' Andreas Berger ']",Classic
+Zürich,Kammerkonzert,2014-04-06,"['Robert Pickup ', ' Philip Mahrenholz ', ' Glen Borling ', ' Anne Gerstenberger ', ' Sebastian Wienand ']",Classic
+Luzern,Gedenkkonzert-zu-Ehren-von-Claudio-Abbado,2014-04-06,"[' Isabelle Faust ', ' Bruno Ganz ']",Classic
+Pieterlen,Folk-in-Heaven,2014-04-06,['Loren & Mark '],
+Winterthur,In-Guitar-Winterthur,2014-04-06,"['Julia Malischnig & Ingrid Oberkanins ', ' Julia Malischnig ', ' Ingrid Oberkanins ']",
+Uerikon,3-x-Romantik,2014-04-06,"[' Praxedis Geneviève Hug ', ' Jürg Fehr ', ' Heiner Wanner ']",Classic
+null,Jahreskonzert-Sing'n'Swing,2014-04-06,[' Gregor Kissling '],
+Basel,Begegnung-mit-Musik,2014-04-06,"[' Emilie Haudenschild ', ' Monika Clemann ', ' David Lauri ']",Classic
+Cully,Cully-Jazz,2014-04-06,"['Cody Chesnutt ', ' Alex Massmaedia ', ' Antoinious Thomas ', ' Tim Sandiford ', ' Samuel Odiwe ', ' Dan Bingham ', ' Michael Osbourne ']",
+Zürich,ewz.unplugged,2014-04-06,"['Patti Smith ', ' Patti Smith ', ' Jackson Smith ', ' Tony Shanahan ']",
+Zürich,Susheela-Raman-Quartet,2014-04-06,"[' Susheela Raman ', ' Sam Mills ', ' Kutle Khan ', ' Nathoo Lal Solanki ']",
+Basel,Heinelieder-Carte-blanche-für-Roland-Moser,2014-04-06,"['Anne-May Krüger ', ' Anton Kernjak ', ' Daniel Fueter ']",Classic
+Cully,Cully-Jazz,2014-04-06,"['Ruthie Foster ', ' Samantha Banks ', ' Larry Fulcher ']",
+Thun,Sebastian-Arnold,2014-04-06,['Sebastian Arnold '],Electronic
+Zürich,Paragone-d'archi,2014-04-06,"[' Charlotte Hug ', ' Stefano Pastor ']",
+Bern,Joan-as-Policewoman,2014-04-06,['Joan as Policewoman '],Pop

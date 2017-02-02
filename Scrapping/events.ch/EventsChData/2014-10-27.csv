@@ -1,22 +1,22 @@
-,location,event,date,artists,genre
-0,Zürich,Werner-und-Company,2014-10-27,['Werner und Company '],Pop
-1,Münchenstein,Metropolis,2014-10-27,[' Stummfilm von Fritz Lang '],Classic
-2,Basel,Masterrezital,2014-10-27,[' Sara Bagnati '],Classic
-3,Aarau,After-the-Burial,2014-10-27,"['After the Burial ', ' Monuments ', ' Circles ', ' Tides From Nebula ']",
-4,Zürich,Konzert,2014-10-27,['Aaron Pilsan '],Classic
-5,Zürich,Happy-Monday,2014-10-27,"[' Eve Gallagher ', ' Ernst Wirz ', ' Chris Muzik ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ']",
-6,Basel,Baloise-Session-Back-to-the-Eighties,2014-10-27,"['Lisa Stansfield ', ' Matt Bianco ']",Pop
-7,Zürich,Kensington,2014-10-27,['Kensington '],
-8,Zürich,Freunde-des-Dschungels,2014-10-27,"[' Philip Smart ', ' Oliver Smart ', ' Silvio Fuchs ', ' Alex Müller ', ' Luca Stoppa ', ' Julian Truog ', ' Simon Truog ', ' Dario Meier ']",
-9,Zürich,Sehnsüchte-nach-dem-Sommer,2014-10-27,"['Beatrice Haemig ', ' Hitomi Kutsuzawa ', ' Reinhard Strebel ', ' Kiyomi Higaki ']",Classic
-10,null,Hubert-von-Goisern,2014-10-27,['Hubert von Goisern '],
-11,null,Trio-Arazón,2014-10-27,"[' Annette Rüegg ', ' Jojo Kunz ', ' Franziska Hämmerli ']",
-12,Zürich,Laurent-Meteau's-Metabolism,2014-10-27,"[' Laurent Méteau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Philipp Schlotter ', ' Samuel Huwyler ', ' Jwan Steiner ']",
-13,Zürich,Tamikrest,2014-10-27,['Tamikrest '],Pop
-14,null,Seat-Music-Session,2014-10-27,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",Pop
-15,Lausanne,Soprano,2014-10-27,['Soprano '],
-16,Baden,Hyperactive-Kid,2014-10-27,"[' Philipp Gropper ', ' Ronny Graupe ', ' Christian Lillinger ']",
-17,Zürich,Jason-Moran-&-The-Bandwagon,2014-10-27,"[' Jason Moran ', ' Tarus Mateen ', ' Nasheet Waits ']",Pop
-18,Basel,Jazzkollektiv,2014-10-27,"[' Timmy J. Leiser ', ' Marin Burcea ', ' Razvan Oprea ', ' Lenny Bhorania ']",
-19,Winterthur,Andy-Billinski,2014-10-27,['Andy Billinski '],
-20,Pratteln,Dan-Baird-&-Homemade-Sin,2014-10-27,['Dan Baird & Homemade Sin '],
+location,event,date,artists,genre
+Zürich,Werner-und-Company,2014-10-27,['Werner und Company '],Pop
+Münchenstein,Metropolis,2014-10-27,[' Stummfilm von Fritz Lang '],Classic
+Basel,Masterrezital,2014-10-27,[' Sara Bagnati '],Classic
+Aarau,After-the-Burial,2014-10-27,"['After the Burial ', ' Monuments ', ' Circles ', ' Tides From Nebula ']",
+Zürich,Konzert,2014-10-27,['Aaron Pilsan '],Classic
+Zürich,Happy-Monday,2014-10-27,"[' Eve Gallagher ', ' Ernst Wirz ', ' Chris Muzik ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ']",
+Basel,Baloise-Session-Back-to-the-Eighties,2014-10-27,"['Lisa Stansfield ', ' Matt Bianco ']",Pop
+Zürich,Kensington,2014-10-27,['Kensington '],
+Zürich,Freunde-des-Dschungels,2014-10-27,"[' Philip Smart ', ' Oliver Smart ', ' Silvio Fuchs ', ' Alex Müller ', ' Luca Stoppa ', ' Julian Truog ', ' Simon Truog ', ' Dario Meier ']",
+Zürich,Sehnsüchte-nach-dem-Sommer,2014-10-27,"['Beatrice Haemig ', ' Hitomi Kutsuzawa ', ' Reinhard Strebel ', ' Kiyomi Higaki ']",Classic
+null,Hubert-von-Goisern,2014-10-27,['Hubert von Goisern '],
+null,Trio-Arazón,2014-10-27,"[' Annette Rüegg ', ' Jojo Kunz ', ' Franziska Hämmerli ']",
+Zürich,Laurent-Meteau's-Metabolism,2014-10-27,"[' Laurent Méteau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Philipp Schlotter ', ' Samuel Huwyler ', ' Jwan Steiner ']",
+Zürich,Tamikrest,2014-10-27,['Tamikrest '],Pop
+null,Seat-Music-Session,2014-10-27,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",Pop
+Lausanne,Soprano,2014-10-27,['Soprano '],
+Baden,Hyperactive-Kid,2014-10-27,"[' Philipp Gropper ', ' Ronny Graupe ', ' Christian Lillinger ']",
+Zürich,Jason-Moran-&-The-Bandwagon,2014-10-27,"[' Jason Moran ', ' Tarus Mateen ', ' Nasheet Waits ']",Pop
+Basel,Jazzkollektiv,2014-10-27,"[' Timmy J. Leiser ', ' Marin Burcea ', ' Razvan Oprea ', ' Lenny Bhorania ']",
+Winterthur,Andy-Billinski,2014-10-27,['Andy Billinski '],
+Pratteln,Dan-Baird-&-Homemade-Sin,2014-10-27,['Dan Baird & Homemade Sin '],

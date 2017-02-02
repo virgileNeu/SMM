@@ -1,37 +1,37 @@
-,location,event,date,artists,genre
-0,Basel,AMG-Sonntagsmatineen,2014-11-23,[' Jan Vogler '],Classic
-1,Zürich,Brunchkonzert-Folk-Songs,2014-11-23,[' Anna Stéphany '],Classic
-2,Zollikerberg,Konzert-zum-Martinimarkt,2014-11-23,"['Ani Lomsaridze ', ' Ivona Krapikaite ', ' Margrit Brincken-Schuler ']",Classic
-3,Thun,Jubiläumskonzert,2014-11-23,"[' Barbara Chmelik ', ' Ursula Keller ']",Classic
-4,Dübendorf,Winterkonzert,2014-11-23,[' Bettina Marugg '],Classic
-5,Zürich,Klavierrezital,2014-11-23,['Silvia Harnisch '],Classic
-6,Basel,Konzert,2014-11-23,"[' Benjamin Gregor-Smith ', ' Stephanie Dauer ']",Classic
-7,Bern,A-Dream-within-a-Dream,2014-11-23,"[' Anne Schmid ', ' Magdalena Oliferko ']",Classic
-8,Basel,Mozart-aus-den-Fugen,2014-11-23,"[' Amelia Scicolone ', ' Christina Daletska ', ' Tino Brütsch ', ' Stefan Zenkl ']",Classic
-9,Zürich,Jehan-Alain-Le-jardin-suspendu,2014-11-23,"[' Balázs Szabó ', ' Claudia von Wartburg ', ' Jeannine Brechbühler ', ' Julian Fels ']",Classic
-10,Buchberg,Orgelkonzert-mit-Dia-Show,2014-11-23,"['Christian Gautschi ', ' Wolfgang Staechelin ']",Classic
-11,Basel,Herbstkonzert,2014-11-23,"[' Emilie Haudenschild ', ' Emeric Kostyàk ']",Classic
-12,Zürich,Carols-&-Lullabies,2014-11-23,"[' Sarah Maeder ', ' Xenia Schindler ']",Classic
-13,Stäfa,Konzert,2014-11-23,"[' Leticia Kahraman ', ' Katja Baumann ', ' Rebekka Knüsel ', ' Nino Aurelio Gmünder ']",Classic
-14,Binningen,Auf-Engelsschwingen-und-Eselsrücken,2014-11-23,[' Weihnachtsgeschichte im barocken Stil '],Classic
-15,Hombrechtikon,Konzert,2014-11-23,[' Laurent Tinguely '],Classic
-16,null,Konzert,2014-11-23,[' Vladimir Guryanov '],Classic
-17,Zürich,Racine-tauft-&-duelliert,2014-11-23,"[' Marianne Racine ', ' Daniel Baschnagel ', ' Patrick Sommer ', ' Pius Baschngagel ', ' Vera Kappeler ']",
-18,Riehen,Konzert,2014-11-23,[' Jonathan Zipperle '],Classic
-19,null,Konzert,2014-11-23,[' Philipp Neukom '],Classic
-20,Gelterkinden,Misa-Tango-a-Buenos-Aires,2014-11-23,[' Debora Büttner '],Classic
-21,Luzern,Lucerne-Festival-am-Piano,2014-11-23,['Pierre-Lauren Aimard '],Classic
-22,Luzern,R&B-Caravan,2014-11-23,"[' Tom Müller ', ' Kai Strauss ', ' Dave Ruosch ', ' Dani Gugolz ', ' Peter Müller ', ' Tommie Harris ']",
-23,Winterthur,Hardcore-Superstar,2014-11-23,['Hardcore Superstar '],
-24,Riehen,Concertante-Classiques,2014-11-23,"[' Vilde Frang ', ' Nils Mönkemeyer ']",Classic
-25,null,Konzert,2014-11-23,"['Veriko Tchumburidze ', ' Irina Vardeli ']",Classic
-26,-Alte-Kirche,Boswil,2014-11-23,[' David Schnee '],Classic
-27,Zürich,Ben-Howard,2014-11-23,"['Ben Howard ', ' support: Jack Garrat ']",
-28,Zürich,The-Dirty-Heads,2014-11-23,['The Dirty Heads '],
-29,Chur,Operngala,2014-11-23,"['Luminita Andrei ', ' Ricardo López ']",Classic
-30,Rubigen,Layla-Zoe,2014-11-23,['Layla Zoe '],
-31,Zürich,Labhart-Peyer-Vögeli,2014-11-23,"[' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
-32,Bern,In-The-Country,2014-11-23,['In The Country '],
-33,Zug,Magnum,2014-11-23,['Magnum '],Pop
-34,Basel,Enrico-Pieranunzi-Trio-&-Veronika-Harcsa,2014-11-23,"[' Veronika Harcsa ', ' Enrico Pieranunzi ', ' Luca Bulgarelli ', ' Mauro Beggio ']",
-35,Lausanne,Kate-Tempest,2014-11-23,['Kate Tempest '],
+location,event,date,artists,genre
+Basel,AMG-Sonntagsmatineen,2014-11-23,[' Jan Vogler '],Classic
+Zürich,Brunchkonzert-Folk-Songs,2014-11-23,[' Anna Stéphany '],Classic
+Zollikerberg,Konzert-zum-Martinimarkt,2014-11-23,"['Ani Lomsaridze ', ' Ivona Krapikaite ', ' Margrit Brincken-Schuler ']",Classic
+Thun,Jubiläumskonzert,2014-11-23,"[' Barbara Chmelik ', ' Ursula Keller ']",Classic
+Dübendorf,Winterkonzert,2014-11-23,[' Bettina Marugg '],Classic
+Zürich,Klavierrezital,2014-11-23,['Silvia Harnisch '],Classic
+Basel,Konzert,2014-11-23,"[' Benjamin Gregor-Smith ', ' Stephanie Dauer ']",Classic
+Bern,A-Dream-within-a-Dream,2014-11-23,"[' Anne Schmid ', ' Magdalena Oliferko ']",Classic
+Basel,Mozart-aus-den-Fugen,2014-11-23,"[' Amelia Scicolone ', ' Christina Daletska ', ' Tino Brütsch ', ' Stefan Zenkl ']",Classic
+Zürich,Jehan-Alain-Le-jardin-suspendu,2014-11-23,"[' Balázs Szabó ', ' Claudia von Wartburg ', ' Jeannine Brechbühler ', ' Julian Fels ']",Classic
+Buchberg,Orgelkonzert-mit-Dia-Show,2014-11-23,"['Christian Gautschi ', ' Wolfgang Staechelin ']",Classic
+Basel,Herbstkonzert,2014-11-23,"[' Emilie Haudenschild ', ' Emeric Kostyàk ']",Classic
+Zürich,Carols-&-Lullabies,2014-11-23,"[' Sarah Maeder ', ' Xenia Schindler ']",Classic
+Stäfa,Konzert,2014-11-23,"[' Leticia Kahraman ', ' Katja Baumann ', ' Rebekka Knüsel ', ' Nino Aurelio Gmünder ']",Classic
+Binningen,Auf-Engelsschwingen-und-Eselsrücken,2014-11-23,[' Weihnachtsgeschichte im barocken Stil '],Classic
+Hombrechtikon,Konzert,2014-11-23,[' Laurent Tinguely '],Classic
+null,Konzert,2014-11-23,[' Vladimir Guryanov '],Classic
+Zürich,Racine-tauft-&-duelliert,2014-11-23,"[' Marianne Racine ', ' Daniel Baschnagel ', ' Patrick Sommer ', ' Pius Baschngagel ', ' Vera Kappeler ']",
+Riehen,Konzert,2014-11-23,[' Jonathan Zipperle '],Classic
+null,Konzert,2014-11-23,[' Philipp Neukom '],Classic
+Gelterkinden,Misa-Tango-a-Buenos-Aires,2014-11-23,[' Debora Büttner '],Classic
+Luzern,Lucerne-Festival-am-Piano,2014-11-23,['Pierre-Lauren Aimard '],Classic
+Luzern,R&B-Caravan,2014-11-23,"[' Tom Müller ', ' Kai Strauss ', ' Dave Ruosch ', ' Dani Gugolz ', ' Peter Müller ', ' Tommie Harris ']",
+Winterthur,Hardcore-Superstar,2014-11-23,['Hardcore Superstar '],
+Riehen,Concertante-Classiques,2014-11-23,"[' Vilde Frang ', ' Nils Mönkemeyer ']",Classic
+null,Konzert,2014-11-23,"['Veriko Tchumburidze ', ' Irina Vardeli ']",Classic
+-Alte-Kirche,Boswil,2014-11-23,[' David Schnee '],Classic
+Zürich,Ben-Howard,2014-11-23,"['Ben Howard ', ' support: Jack Garrat ']",
+Zürich,The-Dirty-Heads,2014-11-23,['The Dirty Heads '],
+Chur,Operngala,2014-11-23,"['Luminita Andrei ', ' Ricardo López ']",Classic
+Rubigen,Layla-Zoe,2014-11-23,['Layla Zoe '],
+Zürich,Labhart-Peyer-Vögeli,2014-11-23,"[' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
+Bern,In-The-Country,2014-11-23,['In The Country '],
+Zug,Magnum,2014-11-23,['Magnum '],Pop
+Basel,Enrico-Pieranunzi-Trio-&-Veronika-Harcsa,2014-11-23,"[' Veronika Harcsa ', ' Enrico Pieranunzi ', ' Luca Bulgarelli ', ' Mauro Beggio ']",
+Lausanne,Kate-Tempest,2014-11-23,['Kate Tempest '],

@@ -1,54 +1,54 @@
-,location,event,date,artists,genre
-0,Winterthur,Quad,2015-11-14,"[' Marcel Lüscher ', ' Pio Schürmann ', ' Mirco Häberli ', ' Amadeus Fries ']",
-1,Zürich,Konzert-Kult-No.-7,2015-11-14,"[' Fridolin Blumer ', ' Silvan Jeger ']",
-2,null,Bébékonzert,2015-11-14,"['Susannah Haberfeld ', ' Johanna Baer ', ' Beda Mast ']",Classic
-3,Zürich,Der-Hörnerschall,2015-11-14,"['Mischa Greull ', ' Nigel Downing ', ' Karl Fässler ', ' Paulo Muñoz-Toledo ']",Classic
-4,Basel,Deuxieme-Messe-für-Männerchor-und-Orgel,2015-11-14,[' Rolf Grolimund '],Classic
-5,Zürich,Gletscher-Fezzer,2015-11-14,['Gletscher Fezzer '],traditional
-6,Männedorf,Soirée-musicale,2015-11-14,"['Plamena Nikitassova ', ' Rudolf Lutz ']",Classic
-7,Zürich,Knxwledge,2015-11-14,['Knxwledge '],
-8,Aarau,Metalmayhem,2015-11-14,['The Sorrow '],
-9,Basel,Piano-Extensions-Werke-für-präpariertes-Klavier,2015-11-14,"[' Helena Bugallo ', ' Thilo Hirsch ']",Classic
-10,Basel,Haydn-Nacht,2015-11-14,[' Francesca Aspromonte '],Classic
-11,Zürich,Herbstgefühle-Romantischer-Liederabend,2015-11-14,"['Ricardo Marinello ', ' Rudolf Meier ', ' Mikhail Berlin ']",Classic
-12,Bern,Tasten-Gala-für-Cecily's-Fund,2015-11-14,"['Patrizio Mazzola ', ' Thomas Leutenegger ', ' Marc Fitze ']",Classic
-13,Baden,Spektrum-Akzente-Crossover,2015-11-14,"[' Marielle Oggier ', ' Marc Bätscher ', ' Ursula Hächler ', ' zu Gast: Gregor Loepfe ']",Classic
-14,Zürich,Tage-für-Neue-Musik,2015-11-14,"[' Louise Devenish ', ' Matthias Schack-Arnott ', ' Eugene Ughetti ']",Classic
-15,Sarnen,Walt's-Blues-Box-feat.-Sam-Burckhardt,2015-11-14,"[' Walter Baumgartner ', ' ', ' Elias Bernet ', ' ', '  ', ' Bernhard Egger ', ' Joel Allison ', ' Sam Burckhardt ', '  ']",
-16,Winterthur,Anti-Flag,2015-11-14,"['Anti-Flag ', ' Red City Radio ', ' Trophy Eyes ', ' The Homeless Gospel Choir ']",
-17,Meilen,Laudes-Organi-Requiem,2015-11-14,"[' Christina Daletska ', ' Marc-Olivier Oetterli ', ' Barbara Meldau ']",Classic
-18,Zürich,Eliot-Sumner,2015-11-14,['Eliot Sumner '],Pop
-19,null,Flöte-und-Harfe-im-Konzert,2015-11-14,"[' Julie Stewart-Lafin ', ' Caroline Grandhomme ']",Classic
-20,Zürich,Kärbholz,2015-11-14,['Kärbholz '],
-21,Zürich,Gansch-&-Roses-Superband,2015-11-14,['Gansch & Roses Superband '],
-22,Zürich,Ryan-Leslie,2015-11-14,['Ryan Leslie '],
-23,Chur,James-Arthur,2015-11-14,['James Arthur '],Pop
-24,Lenzburg,The-Urban-Voodoo-Machine,2015-11-14,['The Urban Voodoo Machine '],
-25,Bern,Oriental-&-Flamenco-Gypsy-Festival,2015-11-14,"[' Sajeda Obied ', ' Rosetta Lopardo ', ' Sotelo & Campanile ']",
-26,Baden,Luca-Hänni,2015-11-14,['Luca Hänni '],Pop
-27,null,Bob-Dylan,2015-11-14,['Bob Dylan '],
-28,null,Silence-of-Anatolia,2015-11-14,[' Fazil Say '],Classic
-29,Dietikon,Plan-B,2015-11-14,['Plan B '],
-30,Hochdorf,Element-Of-Crime,2015-11-14,['Element Of Crime '],Pop
-31,Zürich,Childhood,2015-11-14,"['Simona Ryser ', ' Anna Trauffer ', ' Philipp Schaufelberger ', ' Edward Rushton ']",Classic
-32,Lausanne,St-Germain,2015-11-14,['St Germain '],
-33,null,Retrospective,2015-11-14,[' Lenny Mac Dowell '],
-34,Zürich,Hellmüller-Kramis-Renold,2015-11-14,"['Franz Hellmüller ', ' Herbert Kramis ', ' Tony Renold ']",
-35,Zürich,The-Prodigy,2015-11-14,"['The Prodigy ', ' support: Public Enemy ']",Electronic
-36,null,Fink,2015-11-14,"['Fink ', ' She drew the Gun ']",
-37,Mels,Frauenchor-Mels,2015-11-14,"['Yves Zogg ', ' Christian Tönz ']",Classic
-38,Winterthur,Just-Blues,2015-11-14,"[' Eric Noden ', ' Joe Filisko ']",
-39,Aarau,Panda-Lux,2015-11-14,[' Isolation Berlin '],Pop
-40,Basel,Bastian-Stein-Quartet,2015-11-14,"[' Bastian Stein ', ' Johannes Enders ', ' David Helm ', ' James Maddren ']",
-41,Wabern,Minifestival,2015-11-14,"[' Park Stickney ', ' Franziska Baumann ', ' Christoph Baumann ']",
-42,Bern,Stefan-Heimoz,2015-11-14,['Stefan Heimoz '],Pop
-43,Zürich,Pools,2015-11-14,"[' Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']",
-44,Wetzikon,Mint,2015-11-14,['Mint '],Pop
-45,Bern,Merz,2015-11-14,['Merz '],
-46,Aarburg,Megaloh,2015-11-14,['Megaloh '],
-47,null,Bacon-Fats,2015-11-14,"[' Jan Hartmann ', ' Sleepie Eddie James ', ' Tobias Wirz ', ' Lukas Landis ']",
-48,Wil,Rangleklods,2015-11-14,['Rangleklods '],Electronic
-49,Luzern,Rob-Moir,2015-11-14,['Rob Moir '],
-50,null,Rebel-Town,2015-11-14,[' Rolando Bruno '],
-51,Sankt-Gallen,Lower-Dens,2015-11-14,['Lower Dens '],Pop
-52,Luzern,Aborted,2015-11-14,['Aborted '],
+location,event,date,artists,genre
+Winterthur,Quad,2015-11-14,"[' Marcel Lüscher ', ' Pio Schürmann ', ' Mirco Häberli ', ' Amadeus Fries ']",
+Zürich,Konzert-Kult-No.-7,2015-11-14,"[' Fridolin Blumer ', ' Silvan Jeger ']",
+null,Bébékonzert,2015-11-14,"['Susannah Haberfeld ', ' Johanna Baer ', ' Beda Mast ']",Classic
+Zürich,Der-Hörnerschall,2015-11-14,"['Mischa Greull ', ' Nigel Downing ', ' Karl Fässler ', ' Paulo Muñoz-Toledo ']",Classic
+Basel,Deuxieme-Messe-für-Männerchor-und-Orgel,2015-11-14,[' Rolf Grolimund '],Classic
+Zürich,Gletscher-Fezzer,2015-11-14,['Gletscher Fezzer '],traditional
+Männedorf,Soirée-musicale,2015-11-14,"['Plamena Nikitassova ', ' Rudolf Lutz ']",Classic
+Zürich,Knxwledge,2015-11-14,['Knxwledge '],
+Aarau,Metalmayhem,2015-11-14,['The Sorrow '],
+Basel,Piano-Extensions-Werke-für-präpariertes-Klavier,2015-11-14,"[' Helena Bugallo ', ' Thilo Hirsch ']",Classic
+Basel,Haydn-Nacht,2015-11-14,[' Francesca Aspromonte '],Classic
+Zürich,Herbstgefühle-Romantischer-Liederabend,2015-11-14,"['Ricardo Marinello ', ' Rudolf Meier ', ' Mikhail Berlin ']",Classic
+Bern,Tasten-Gala-für-Cecily's-Fund,2015-11-14,"['Patrizio Mazzola ', ' Thomas Leutenegger ', ' Marc Fitze ']",Classic
+Baden,Spektrum-Akzente-Crossover,2015-11-14,"[' Marielle Oggier ', ' Marc Bätscher ', ' Ursula Hächler ', ' zu Gast: Gregor Loepfe ']",Classic
+Zürich,Tage-für-Neue-Musik,2015-11-14,"[' Louise Devenish ', ' Matthias Schack-Arnott ', ' Eugene Ughetti ']",Classic
+Sarnen,Walt's-Blues-Box-feat.-Sam-Burckhardt,2015-11-14,"[' Walter Baumgartner ', ' ', ' Elias Bernet ', ' ', '  ', ' Bernhard Egger ', ' Joel Allison ', ' Sam Burckhardt ', '  ']",
+Winterthur,Anti-Flag,2015-11-14,"['Anti-Flag ', ' Red City Radio ', ' Trophy Eyes ', ' The Homeless Gospel Choir ']",
+Meilen,Laudes-Organi-Requiem,2015-11-14,"[' Christina Daletska ', ' Marc-Olivier Oetterli ', ' Barbara Meldau ']",Classic
+Zürich,Eliot-Sumner,2015-11-14,['Eliot Sumner '],Pop
+null,Flöte-und-Harfe-im-Konzert,2015-11-14,"[' Julie Stewart-Lafin ', ' Caroline Grandhomme ']",Classic
+Zürich,Kärbholz,2015-11-14,['Kärbholz '],
+Zürich,Gansch-&-Roses-Superband,2015-11-14,['Gansch & Roses Superband '],
+Zürich,Ryan-Leslie,2015-11-14,['Ryan Leslie '],
+Chur,James-Arthur,2015-11-14,['James Arthur '],Pop
+Lenzburg,The-Urban-Voodoo-Machine,2015-11-14,['The Urban Voodoo Machine '],
+Bern,Oriental-&-Flamenco-Gypsy-Festival,2015-11-14,"[' Sajeda Obied ', ' Rosetta Lopardo ', ' Sotelo & Campanile ']",
+Baden,Luca-Hänni,2015-11-14,['Luca Hänni '],Pop
+null,Bob-Dylan,2015-11-14,['Bob Dylan '],
+null,Silence-of-Anatolia,2015-11-14,[' Fazil Say '],Classic
+Dietikon,Plan-B,2015-11-14,['Plan B '],
+Hochdorf,Element-Of-Crime,2015-11-14,['Element Of Crime '],Pop
+Zürich,Childhood,2015-11-14,"['Simona Ryser ', ' Anna Trauffer ', ' Philipp Schaufelberger ', ' Edward Rushton ']",Classic
+Lausanne,St-Germain,2015-11-14,['St Germain '],
+null,Retrospective,2015-11-14,[' Lenny Mac Dowell '],
+Zürich,Hellmüller-Kramis-Renold,2015-11-14,"['Franz Hellmüller ', ' Herbert Kramis ', ' Tony Renold ']",
+Zürich,The-Prodigy,2015-11-14,"['The Prodigy ', ' support: Public Enemy ']",Electronic
+null,Fink,2015-11-14,"['Fink ', ' She drew the Gun ']",
+Mels,Frauenchor-Mels,2015-11-14,"['Yves Zogg ', ' Christian Tönz ']",Classic
+Winterthur,Just-Blues,2015-11-14,"[' Eric Noden ', ' Joe Filisko ']",
+Aarau,Panda-Lux,2015-11-14,[' Isolation Berlin '],Pop
+Basel,Bastian-Stein-Quartet,2015-11-14,"[' Bastian Stein ', ' Johannes Enders ', ' David Helm ', ' James Maddren ']",
+Wabern,Minifestival,2015-11-14,"[' Park Stickney ', ' Franziska Baumann ', ' Christoph Baumann ']",
+Bern,Stefan-Heimoz,2015-11-14,['Stefan Heimoz '],Pop
+Zürich,Pools,2015-11-14,"[' Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']",
+Wetzikon,Mint,2015-11-14,['Mint '],Pop
+Bern,Merz,2015-11-14,['Merz '],
+Aarburg,Megaloh,2015-11-14,['Megaloh '],
+null,Bacon-Fats,2015-11-14,"[' Jan Hartmann ', ' Sleepie Eddie James ', ' Tobias Wirz ', ' Lukas Landis ']",
+Wil,Rangleklods,2015-11-14,['Rangleklods '],Electronic
+Luzern,Rob-Moir,2015-11-14,['Rob Moir '],
+null,Rebel-Town,2015-11-14,[' Rolando Bruno '],
+Sankt-Gallen,Lower-Dens,2015-11-14,['Lower Dens '],Pop
+Luzern,Aborted,2015-11-14,['Aborted '],

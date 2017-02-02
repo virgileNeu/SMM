@@ -1,47 +1,47 @@
-,location,event,date,artists,genre
-0,null,3.-Mittagskonzert,2015-03-20,['Conductor: Wayne Marshall '],Classic
-1,null,Philm,2015-03-20,['Philm '],
-2,Basel,Orgelspiel-zum-Feierabend,2015-03-20,['Aurore Baal '],Classic
-3,Zürich,Acousoul-Showcase-Festival,2015-03-20,"['Riders Connection ', ' Brendan Adams ', ' Tom James ', ' Jpson ']",Pop
-4,Arbon,Doug-Johnson-Trio,2015-03-20,"['Doug Johnson Trio ', ' Doug Johnson ', ' Ed Perez ', ' Harald Tanschek ']",
-5,Stäfa,Rund-um-Johann-Sebastian-Bach,2015-03-20,['Andreas Jost '],Classic
-6,Zürich,Internationales-Country-Music-Festival,2015-03-20,"['Bobby Flores & Yellow Rose Band ', ' Music Roads Pilots ']",
-7,Bern,La-valse,2015-03-20,"[' Monika Schneider ', ' Bernhard Röthlisberger ']",Classic
-8,Zürich,Orchester-le-Phénix,2015-03-20,['Giora Feidman '],Classic
-9,Zürich,Migros-Kulturprozent-Classics,2015-03-20,[' Patricia Kopatchinskaja '],Classic
-10,Winterthur,Alban-Berg-neu-gehört,2015-03-20,"[' Bénédicte Tauran ', ' Rahel Cunz ']",Classic
-11,Lyss,Taste-of-Anarchy-Tour,2015-03-20,"['Nasty ', ' Lion Heart ', ' Cruel Hand ', ' support: Desolated ', ' Coldbrun ', ' Havenside ']",
-12,Zürich,Buika,2015-03-20,['Buika '],
-13,Zug,Johanna-Borchert-Solo,2015-03-20,['  '],
-14,Zürich,JJ-Grey-&-Mofro,2015-03-20,[' Marc Broussard '],
-15,Luzern,Honky-Tonk-Festival-Luzern,2015-03-20,"[' Heinz Affolter ', ' Beat Ramseier ', ' Charlie Weibel ']",
-16,Basel,Bach-Space,2015-03-20,"['Etienne Abelin ', ' Tamar Halperin ', ' works by Tomek Kolczynski ']",Classic
-17,Pratteln,Moonspell,2015-03-20,['Moonspell '],
-18,Luzern,Honky-Tonk-Festival-Luzern,2015-03-20,[' Samavayo '],
-19,Luzern,Honky-Tonk-Festival-Luzern,2015-03-20,['Peter Heger '],
-20,Zürich,Portugiesische-Barockmusik,2015-03-20,"[' Martina Fausch ', ' Elizabeth Mc Queen ', ' Valentin Gloor ', ' Marcus Niedermeyr ']",Classic
-21,Zürich,Frey-Gasser-Ulrich,2015-03-20,"[' Peter K Frey ', ' Jürg Gasser ', ' Dieter Ulrich ']",
-22,Winterthur,Kappelle-Kessler,2015-03-20,"[' Valentin Kessler ', ' Manuel Mengis ', ' Franz Hellmuller ', ' Luca Sisera ', ' Tobias Schramm ']",
-23,Baden,Hommage-an-Edith-Piaf,2015-03-20,"['Stella Luna Palino ', ' Charlotte Torres ']",
-24,null,Doppia-Erre-&-Taiken,2015-03-20,"[' support: Donna Wetter ', ' Tormento ']",
-25,Zug,Celtic-Spring-Caravan,2015-03-20,"['Reveillons ', ' Moxie ']",
-26,Burgdorf,Sonaer,2015-03-20,"[' Markus Gneupel ', ' Claudia Mettler ', ' Martin Hilti ', ' Lukas Rosenberger ']",
-27,Stäfa,Augen-in-der-Grossstadt,2015-03-20,"['Sonja Indin ', ' Isora Castilla ']",Pop
-28,Baden,Royal-Sonesta-Jazz-Band,2015-03-20,"[' Urs Huber ', ' Robert Burren ', ' Peter Joho ', ' Christoph Ramstein ', ' Benno Kuenzle ', ' Felix Bärtschi ']",
-29,Jona,Marco-Marchi-&-The-Mojo-Workers,2015-03-20,"[' Claudio Egli ', ' Fabio Bianchi ', ' Marco Marchi ', ' Toby Stiftner ']",
-30,Zürich,Sina,2015-03-20,"[' Sina ', ' Michael Chylewski ', ' Peter Wagner ', ' Gregor Heini ', ' Matthias Kräutli ']",Pop
-31,null,Serge-Lama,2015-03-20,['Serge Lama '],Pop
-32,Wädenswil,Werft-eure-Herzen-über-alle-Grenzen,2015-03-20,"['Eva Mattes ', ' Eva Mattes ', ' Irmgard Schleier ']",Pop
-33,Liebefeld,Madrid-Underground-Flamenco,2015-03-20,"[' Sonia Cortés ', ' Luis Gallo ', ' Pablo Rubén Maldonado ', ' El Guille ']",
-34,Basel,Vladimir-Kostadinovic-Quartet,2015-03-20,"[' Tivon Pennicott ', ' Marko Churnchetz ', ' Joe Sanders ', ' Vladimir Kostadinovic ']",
-35,Luzern,Plan-A-Jetzt-erst-Knecht,2015-03-20,"[' Benjamin Knecht ', ' David Blaser ', ' Nolan Quinn ', ' Sonja Ott ']",
-36,Bern,Chicks-and-Roosters,2015-03-20,"[' Peter Bernhard ', ' Marino Blindenbacher ', ' Benjamin Mischler ', ' Isabelle Rettenmund ']",
-37,Luzern,Honky-Tonk-Festival-Luzern,2015-03-20,['Hot Pants Road Club '],
-38,Zürich,GB-Connection,2015-03-20,"[' Laura Ghirardi ', ' Gino Todesco ', ' Giorgio Barbera ']",
-39,Basel,Tho-Luong,2015-03-20,[' Klara Lundén '],Pop
-40,Altnau,Christina-Martin,2015-03-20,['Christina Martin '],Pop
-41,Zürich,Akin-To-Parrots,2015-03-20,['Akin To Parrots '],Pop
-42,Zürich,Latin-Touch,2015-03-20,[' dance animation by Alexander Martinez '],
-43,Zug,Celtic-Spring-Caravan,2015-03-20,['The Led Farmers '],
-44,Lausanne,Laurent-Garnier,2015-03-20,['Laurent Garnier '],Electronic
-45,Sankt-Gallen,Space-Is-the-Place,2015-03-20,['Optimo '],Electronic
+location,event,date,artists,genre
+null,3.-Mittagskonzert,2015-03-20,['Conductor: Wayne Marshall '],Classic
+null,Philm,2015-03-20,['Philm '],
+Basel,Orgelspiel-zum-Feierabend,2015-03-20,['Aurore Baal '],Classic
+Zürich,Acousoul-Showcase-Festival,2015-03-20,"['Riders Connection ', ' Brendan Adams ', ' Tom James ', ' Jpson ']",Pop
+Arbon,Doug-Johnson-Trio,2015-03-20,"['Doug Johnson Trio ', ' Doug Johnson ', ' Ed Perez ', ' Harald Tanschek ']",
+Stäfa,Rund-um-Johann-Sebastian-Bach,2015-03-20,['Andreas Jost '],Classic
+Zürich,Internationales-Country-Music-Festival,2015-03-20,"['Bobby Flores & Yellow Rose Band ', ' Music Roads Pilots ']",
+Bern,La-valse,2015-03-20,"[' Monika Schneider ', ' Bernhard Röthlisberger ']",Classic
+Zürich,Orchester-le-Phénix,2015-03-20,['Giora Feidman '],Classic
+Zürich,Migros-Kulturprozent-Classics,2015-03-20,[' Patricia Kopatchinskaja '],Classic
+Winterthur,Alban-Berg-neu-gehört,2015-03-20,"[' Bénédicte Tauran ', ' Rahel Cunz ']",Classic
+Lyss,Taste-of-Anarchy-Tour,2015-03-20,"['Nasty ', ' Lion Heart ', ' Cruel Hand ', ' support: Desolated ', ' Coldbrun ', ' Havenside ']",
+Zürich,Buika,2015-03-20,['Buika '],
+Zug,Johanna-Borchert-Solo,2015-03-20,['  '],
+Zürich,JJ-Grey-&-Mofro,2015-03-20,[' Marc Broussard '],
+Luzern,Honky-Tonk-Festival-Luzern,2015-03-20,"[' Heinz Affolter ', ' Beat Ramseier ', ' Charlie Weibel ']",
+Basel,Bach-Space,2015-03-20,"['Etienne Abelin ', ' Tamar Halperin ', ' works by Tomek Kolczynski ']",Classic
+Pratteln,Moonspell,2015-03-20,['Moonspell '],
+Luzern,Honky-Tonk-Festival-Luzern,2015-03-20,[' Samavayo '],
+Luzern,Honky-Tonk-Festival-Luzern,2015-03-20,['Peter Heger '],
+Zürich,Portugiesische-Barockmusik,2015-03-20,"[' Martina Fausch ', ' Elizabeth Mc Queen ', ' Valentin Gloor ', ' Marcus Niedermeyr ']",Classic
+Zürich,Frey-Gasser-Ulrich,2015-03-20,"[' Peter K Frey ', ' Jürg Gasser ', ' Dieter Ulrich ']",
+Winterthur,Kappelle-Kessler,2015-03-20,"[' Valentin Kessler ', ' Manuel Mengis ', ' Franz Hellmuller ', ' Luca Sisera ', ' Tobias Schramm ']",
+Baden,Hommage-an-Edith-Piaf,2015-03-20,"['Stella Luna Palino ', ' Charlotte Torres ']",
+null,Doppia-Erre-&-Taiken,2015-03-20,"[' support: Donna Wetter ', ' Tormento ']",
+Zug,Celtic-Spring-Caravan,2015-03-20,"['Reveillons ', ' Moxie ']",
+Burgdorf,Sonaer,2015-03-20,"[' Markus Gneupel ', ' Claudia Mettler ', ' Martin Hilti ', ' Lukas Rosenberger ']",
+Stäfa,Augen-in-der-Grossstadt,2015-03-20,"['Sonja Indin ', ' Isora Castilla ']",Pop
+Baden,Royal-Sonesta-Jazz-Band,2015-03-20,"[' Urs Huber ', ' Robert Burren ', ' Peter Joho ', ' Christoph Ramstein ', ' Benno Kuenzle ', ' Felix Bärtschi ']",
+Jona,Marco-Marchi-&-The-Mojo-Workers,2015-03-20,"[' Claudio Egli ', ' Fabio Bianchi ', ' Marco Marchi ', ' Toby Stiftner ']",
+Zürich,Sina,2015-03-20,"[' Sina ', ' Michael Chylewski ', ' Peter Wagner ', ' Gregor Heini ', ' Matthias Kräutli ']",Pop
+null,Serge-Lama,2015-03-20,['Serge Lama '],Pop
+Wädenswil,Werft-eure-Herzen-über-alle-Grenzen,2015-03-20,"['Eva Mattes ', ' Eva Mattes ', ' Irmgard Schleier ']",Pop
+Liebefeld,Madrid-Underground-Flamenco,2015-03-20,"[' Sonia Cortés ', ' Luis Gallo ', ' Pablo Rubén Maldonado ', ' El Guille ']",
+Basel,Vladimir-Kostadinovic-Quartet,2015-03-20,"[' Tivon Pennicott ', ' Marko Churnchetz ', ' Joe Sanders ', ' Vladimir Kostadinovic ']",
+Luzern,Plan-A-Jetzt-erst-Knecht,2015-03-20,"[' Benjamin Knecht ', ' David Blaser ', ' Nolan Quinn ', ' Sonja Ott ']",
+Bern,Chicks-and-Roosters,2015-03-20,"[' Peter Bernhard ', ' Marino Blindenbacher ', ' Benjamin Mischler ', ' Isabelle Rettenmund ']",
+Luzern,Honky-Tonk-Festival-Luzern,2015-03-20,['Hot Pants Road Club '],
+Zürich,GB-Connection,2015-03-20,"[' Laura Ghirardi ', ' Gino Todesco ', ' Giorgio Barbera ']",
+Basel,Tho-Luong,2015-03-20,[' Klara Lundén '],Pop
+Altnau,Christina-Martin,2015-03-20,['Christina Martin '],Pop
+Zürich,Akin-To-Parrots,2015-03-20,['Akin To Parrots '],Pop
+Zürich,Latin-Touch,2015-03-20,[' dance animation by Alexander Martinez '],
+Zug,Celtic-Spring-Caravan,2015-03-20,['The Led Farmers '],
+Lausanne,Laurent-Garnier,2015-03-20,['Laurent Garnier '],Electronic
+Sankt-Gallen,Space-Is-the-Place,2015-03-20,['Optimo '],Electronic

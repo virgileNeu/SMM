@@ -1,53 +1,53 @@
-,location,event,date,artists,genre
-0,Zürich,Zitherkonzert,2015-11-07,[' conductor: Tomy Temerson '],Classic
-1,Zürich,Werner-und-Company,2015-11-07,['Werner und Company '],Pop
-2,Zürich,Junge-Talente-und-wie,2015-11-07,"['Christoph Croisé ', ' Oxana Shevchenko ']",Classic
-3,Zürich,Zürcher-Hammerklavierfestival-Chopin-in-Paris,2015-11-07,[' Els Biesemans '],Classic
-4,Basel,Die-Orgel-im-Dialog-mit-Jung-und-Alt,2015-11-07,"['Birgit Tittel ', ' Willi Tittel ']",Classic
-5,Worblaufen,Hartmann-Suter,2015-11-07,"[' Jan Hartmann ', ' Ben Suter ']",
-6,Basel,Limits-Werke-für-Gambenconsort-und-Polychord,2015-11-07,"[' Thilo Hirsch ', ' Abril Padilla ']",Classic
-7,Basel,Regiochor-Konzert,2015-11-07,"[' Verena Krause ', ' David Munderloh ', ' Andrew Ashwin ']",Classic
-8,Eglisau,Petite-Messe-Solennelle,2015-11-07,"[' Deborah Leonetti ', ' Ulrike Andersen ', ' Tino Brütsch ', ' Matthias Helm ', ' Hans Adolfsen ', ' Marc Fitze ']",Classic
-9,Basel,Liebeslieder,2015-11-07,"['Laurence Guillod ', ' Lisandro Abadie ', ' Christian Favre ']",Classic
-10,Freienbach,Winterkonzert-2015,2015-11-07,[' Srdjan Vukasinovic '],Classic
-11,null,Violinkonzert,2015-11-07,"[' Johanna Ruppert ', ' Rustem Monasypov ']",Classic
-12,Bonstetten,I-Have-a-Dream-Hommage-an-Martin-Luther-King,2015-11-07,"['Christina Jaccard ', ' Dave Ruosch ', ' Daniel Pezzotti ', ' Jonas Ruther ']",
-13,Luzern,Herbstkonzert,2015-11-07,[' Anita Grob '],Classic
-14,Zürich,Kammerorchester-Basel,2015-11-07,"[' Kristian Bezuidenhout ', ' Rachel Harnisch ', ' Gerhild Romberger ', ' Daniel Behle ', ' Thomas E. Bauer ']",Classic
-15,Luzern,Galakonzert,2015-11-07,"['Ramón Vargas ', ' Regula Mühlemann ']",Classic
-16,Riehen,Ragnar-Kjartansson-&-The-All-Star-Band,2015-11-07,['Ragnar Kjartansson & The All Star Band '],
-17,null,2.-Meisterzyklus-Konzert,2015-11-07,['Gabriela Montero '],Classic
-18,Luzern,The-four-Seasons-by-Candellight,2015-11-07,"[' Carlonie Macphie ', ' Crispian Steele-Perkins ']",Classic
-19,Bern,Headbangersball,2015-11-07,"['Igorrr ', ' Taina ']",
-20,Pratteln,Ahab,2015-11-07,['Ahab '],
-21,Zürich,Geistliches-Konzert-mit-süddeutscher-Barockmusik,2015-11-07,"[' Anna Freivogel ', ' Alexander Seidel ', ' Jan-Martin Mächler ', ' Samuel Zünd ']",Classic
-22,null,Sallie-Ford,2015-11-07,"['Sallie Ford ', ' Chocolat ']",
-23,Lyss,Heather-Nova,2015-11-07,['Heather Nova '],Pop
-24,Thun,Seat-Music-Session,2015-11-07,"['Michael Grimm ', ' Laith Al-Deen ', ' Shayna Steele ']",Pop
-25,Basel,Baloise-Session,2015-11-07,"['The Allen Toussaint Quartet ', ' Rebecca Gerguson ']",Pop
-26,Basel,Neue-Wiener-Schule,2015-11-07,"[' Christoph Bösch ', ' Pilar Fontalba ', ' Toshiko Sakakibara ', ' Zoltán Mácsai ', ' Jonas Hillenmeyer ']",Classic
-27,Zürich,Die-Aeronauten,2015-11-07,['Die Aeronauten '],Pop
-28,Thônex,Charlie-Winston,2015-11-07,['Charlie Winston '],Pop
-29,Zürich,Our-Last-Night,2015-11-07,"['Our Last Night ', ' support: Palisades ', ' Crooks ']",
-30,Sursee,Gurd,2015-11-07,"[' Headshot ', ' Sudden Death ']",
-31,Zürich,Esperanza-Spalding,2015-11-07,['Esperanza Spalding '],
-32,Zürich,Boogarins,2015-11-07,['Boogarins '],
-33,Zürich,Dr.-Will-&-The-Wizards,2015-11-07,['Dr. Will & The Wizards '],Pop
-34,null,Socialni-Teror,2015-11-07,['Socialni Teror '],
-35,Lugano,Radu-Lupu,2015-11-07,['Radu Lupu '],Classic
-36,null,Rea-Som-Sextett,2015-11-07,"[' Rea Hunziker ', ' Martin Schenker ', ' Simon Althaus ', ' Jonas Künzli ', ' Freddy Benitez ', ' Samuel Messerli ']",
-37,Basel,Many-Moons-Ago-feat.-Bob-Degen-&-David-Friedman,2015-11-07,"[' David Friedmann ', ' Bob Degen ', ' Markus Schieferdecker ', ' Peter Perfido ']",
-38,Zürich,Wolfgang-Puschnig-&-Jamaaladeen-Tacuma,2015-11-07,"[' Wolfgang Puschnig ', ' Rick Iannacone ', ' Jamaaladeen Tacuma ', ' Tim Hutson ']",
-39,Baden,Michael-von-der-Heide,2015-11-07,"[' Michael von der Heide ', ' Martin Buess ', ' Michael Bürgin ', ' Ben Gürgin ']",Pop
-40,Winterthur,V8-Wankers,2015-11-07,['V8 Wankers '],
-41,Basel,Friska-Viljor,2015-11-07,['Friska Viljor '],Pop
-42,Wil,Vdelli,2015-11-07,['Vdelli '],Pop
-43,null,Steaming-Satellites,2015-11-07,['Steaming Satellites '],
-44,Zürich,Fatale-Tage,2015-11-07,['Phall Fatale '],
-45,Krummenau,Funkanomics,2015-11-07,['Funkanomics '],
-46,Lausanne,Ezra-Furman,2015-11-07,"['Ezra Furman ', ' Gengahr ']",
-47,Zürich,Jean-François-Laporte,2015-11-07,"['Jean-François Laporte ', ' Svartvit ']",
-48,Schaffhausen,Rasa-Birthdayparty,2015-11-07,['Snake '],
-49,Zürich,Clandestine,2015-11-07,['Clandestine '],Pop
-50,Bern,Talib-Kweli,2015-11-07,"['Talib Kweli ', ' Illa J ']",
-51,Baden,Caliente,2015-11-07,"['DJs Sampa ', ' Copita ', ' Cochano ', ' Hot Hands ', ' live: Trio Forró Vem Vem ', ' Arnold y sus Azabaches ']",
+location,event,date,artists,genre
+Zürich,Zitherkonzert,2015-11-07,[' conductor: Tomy Temerson '],Classic
+Zürich,Werner-und-Company,2015-11-07,['Werner und Company '],Pop
+Zürich,Junge-Talente-und-wie,2015-11-07,"['Christoph Croisé ', ' Oxana Shevchenko ']",Classic
+Zürich,Zürcher-Hammerklavierfestival-Chopin-in-Paris,2015-11-07,[' Els Biesemans '],Classic
+Basel,Die-Orgel-im-Dialog-mit-Jung-und-Alt,2015-11-07,"['Birgit Tittel ', ' Willi Tittel ']",Classic
+Worblaufen,Hartmann-Suter,2015-11-07,"[' Jan Hartmann ', ' Ben Suter ']",
+Basel,Limits-Werke-für-Gambenconsort-und-Polychord,2015-11-07,"[' Thilo Hirsch ', ' Abril Padilla ']",Classic
+Basel,Regiochor-Konzert,2015-11-07,"[' Verena Krause ', ' David Munderloh ', ' Andrew Ashwin ']",Classic
+Eglisau,Petite-Messe-Solennelle,2015-11-07,"[' Deborah Leonetti ', ' Ulrike Andersen ', ' Tino Brütsch ', ' Matthias Helm ', ' Hans Adolfsen ', ' Marc Fitze ']",Classic
+Basel,Liebeslieder,2015-11-07,"['Laurence Guillod ', ' Lisandro Abadie ', ' Christian Favre ']",Classic
+Freienbach,Winterkonzert-2015,2015-11-07,[' Srdjan Vukasinovic '],Classic
+null,Violinkonzert,2015-11-07,"[' Johanna Ruppert ', ' Rustem Monasypov ']",Classic
+Bonstetten,I-Have-a-Dream-Hommage-an-Martin-Luther-King,2015-11-07,"['Christina Jaccard ', ' Dave Ruosch ', ' Daniel Pezzotti ', ' Jonas Ruther ']",
+Luzern,Herbstkonzert,2015-11-07,[' Anita Grob '],Classic
+Zürich,Kammerorchester-Basel,2015-11-07,"[' Kristian Bezuidenhout ', ' Rachel Harnisch ', ' Gerhild Romberger ', ' Daniel Behle ', ' Thomas E. Bauer ']",Classic
+Luzern,Galakonzert,2015-11-07,"['Ramón Vargas ', ' Regula Mühlemann ']",Classic
+Riehen,Ragnar-Kjartansson-&-The-All-Star-Band,2015-11-07,['Ragnar Kjartansson & The All Star Band '],
+null,2.-Meisterzyklus-Konzert,2015-11-07,['Gabriela Montero '],Classic
+Luzern,The-four-Seasons-by-Candellight,2015-11-07,"[' Carlonie Macphie ', ' Crispian Steele-Perkins ']",Classic
+Bern,Headbangersball,2015-11-07,"['Igorrr ', ' Taina ']",
+Pratteln,Ahab,2015-11-07,['Ahab '],
+Zürich,Geistliches-Konzert-mit-süddeutscher-Barockmusik,2015-11-07,"[' Anna Freivogel ', ' Alexander Seidel ', ' Jan-Martin Mächler ', ' Samuel Zünd ']",Classic
+null,Sallie-Ford,2015-11-07,"['Sallie Ford ', ' Chocolat ']",
+Lyss,Heather-Nova,2015-11-07,['Heather Nova '],Pop
+Thun,Seat-Music-Session,2015-11-07,"['Michael Grimm ', ' Laith Al-Deen ', ' Shayna Steele ']",Pop
+Basel,Baloise-Session,2015-11-07,"['The Allen Toussaint Quartet ', ' Rebecca Gerguson ']",Pop
+Basel,Neue-Wiener-Schule,2015-11-07,"[' Christoph Bösch ', ' Pilar Fontalba ', ' Toshiko Sakakibara ', ' Zoltán Mácsai ', ' Jonas Hillenmeyer ']",Classic
+Zürich,Die-Aeronauten,2015-11-07,['Die Aeronauten '],Pop
+Thônex,Charlie-Winston,2015-11-07,['Charlie Winston '],Pop
+Zürich,Our-Last-Night,2015-11-07,"['Our Last Night ', ' support: Palisades ', ' Crooks ']",
+Sursee,Gurd,2015-11-07,"[' Headshot ', ' Sudden Death ']",
+Zürich,Esperanza-Spalding,2015-11-07,['Esperanza Spalding '],
+Zürich,Boogarins,2015-11-07,['Boogarins '],
+Zürich,Dr.-Will-&-The-Wizards,2015-11-07,['Dr. Will & The Wizards '],Pop
+null,Socialni-Teror,2015-11-07,['Socialni Teror '],
+Lugano,Radu-Lupu,2015-11-07,['Radu Lupu '],Classic
+null,Rea-Som-Sextett,2015-11-07,"[' Rea Hunziker ', ' Martin Schenker ', ' Simon Althaus ', ' Jonas Künzli ', ' Freddy Benitez ', ' Samuel Messerli ']",
+Basel,Many-Moons-Ago-feat.-Bob-Degen-&-David-Friedman,2015-11-07,"[' David Friedmann ', ' Bob Degen ', ' Markus Schieferdecker ', ' Peter Perfido ']",
+Zürich,Wolfgang-Puschnig-&-Jamaaladeen-Tacuma,2015-11-07,"[' Wolfgang Puschnig ', ' Rick Iannacone ', ' Jamaaladeen Tacuma ', ' Tim Hutson ']",
+Baden,Michael-von-der-Heide,2015-11-07,"[' Michael von der Heide ', ' Martin Buess ', ' Michael Bürgin ', ' Ben Gürgin ']",Pop
+Winterthur,V8-Wankers,2015-11-07,['V8 Wankers '],
+Basel,Friska-Viljor,2015-11-07,['Friska Viljor '],Pop
+Wil,Vdelli,2015-11-07,['Vdelli '],Pop
+null,Steaming-Satellites,2015-11-07,['Steaming Satellites '],
+Zürich,Fatale-Tage,2015-11-07,['Phall Fatale '],
+Krummenau,Funkanomics,2015-11-07,['Funkanomics '],
+Lausanne,Ezra-Furman,2015-11-07,"['Ezra Furman ', ' Gengahr ']",
+Zürich,Jean-François-Laporte,2015-11-07,"['Jean-François Laporte ', ' Svartvit ']",
+Schaffhausen,Rasa-Birthdayparty,2015-11-07,['Snake '],
+Zürich,Clandestine,2015-11-07,['Clandestine '],Pop
+Bern,Talib-Kweli,2015-11-07,"['Talib Kweli ', ' Illa J ']",
+Baden,Caliente,2015-11-07,"['DJs Sampa ', ' Copita ', ' Cochano ', ' Hot Hands ', ' live: Trio Forró Vem Vem ', ' Arnold y sus Azabaches ']",

@@ -1,6 +1,6 @@
-,location,event,date,artists,genre
-0,Basel,Masterrezital,2014-06-30,[' Maria Weber '],Classic
-1,Zürich,The-Eagles,2014-06-30,['The Eagles '],
-2,Basel,Masterrezital,2014-06-30,[' Reinhard Führer '],Classic
-3,-Alte-Kirche,Boswil,2014-06-30,"['Lautten Compagney ', ' Calmus Ensemble Leipzig ']",Classic
-4,Winterthur,Biggles-Flys-Again,2014-06-30,['Biggles Flys Again '],Pop
+location,event,date,artists,genre
+Basel,Masterrezital,2014-06-30,[' Maria Weber '],Classic
+Zürich,The-Eagles,2014-06-30,['The Eagles '],
+Basel,Masterrezital,2014-06-30,[' Reinhard Führer '],Classic
+-Alte-Kirche,Boswil,2014-06-30,"['Lautten Compagney ', ' Calmus Ensemble Leipzig ']",Classic
+Winterthur,Biggles-Flys-Again,2014-06-30,['Biggles Flys Again '],Pop

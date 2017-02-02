@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,Basel,AMG-Rising-Stars,2015-04-20,"[' Hannes Minnar ', ' Maria Milstein ', ' Gideon den Herder ']",Classic
-1,Basel,Cis-Cembalomusik-in-Basel,2015-04-20,['Thomas Ragossnig '],Classic
-2,Winterthur,Eyehategod,2015-04-20,['Eyehategod '],
-3,Zürich,Karin-Park,2015-04-20,['Karin Park '],Pop
-4,null,De-Frank,2015-04-20,"[' Tobias Degen ', ' Daniel Rieser ', ' Mirco Häberli ', ' Mario Söldi ']",
-5,Zürich,The-Districts,2015-04-20,"['The Districts ', ' Broncho ']",
-6,Winterthur,Zweidieter,2015-04-20,['Zweidieter '],
-7,Zürich,Théodore-Paul-&-Gabriel,2015-04-20,[' Paul & Gabriel '],Pop
-8,Zürich,Konstantin-Wecker,2015-04-20,['Konstantin Wecker '],Pop
-9,Zürich,Deichkind,2015-04-20,['Deichkind '],
-10,Zürich,Zurück-ins-Licht,2015-04-20,"[' Meng Tian ', ' Heinz Tobler ', ' Oliver Süess ', ' Patrick ']",Pop
-11,Luzern,Man-Overboard,2015-04-20,"['Man Overboard ', ' Moose Blood ', ' Roam ']",Pop
-12,Baden,Urban-Spaces-Quartet-feat.-Susanne-Petersen,2015-04-20,"[' Francis Petter ', ' Edgar Marc Petter ', ' Peter Hunziker ', ' Bruno Huwyler ', ' Susanne Petersen ']",
-13,Basel,Jazzfestival-Basel,2015-04-20,"[' Stanley Clarke ', ' Beha Gochiashvili ', ' Cameron Graves ', ' Michael Mitchell ']",
-14,Zürich,Johnny-Dowd,2015-04-20,['Johnny Dowd '],
-15,Winterthur,Leisure-Tank,2015-04-20,['Leisure Tank '],
-16,Zürich,Peter-Schärli-Trio-feat.-Glenn-Ferris,2015-04-20,"[' Peter Schärli ', ' Glenn Ferris ', ' Thomas Dürst ', ' Hans-Peter Pfammatter ']",
+location,event,date,artists,genre
+Basel,AMG-Rising-Stars,2015-04-20,"[' Hannes Minnar ', ' Maria Milstein ', ' Gideon den Herder ']",Classic
+Basel,Cis-Cembalomusik-in-Basel,2015-04-20,['Thomas Ragossnig '],Classic
+Winterthur,Eyehategod,2015-04-20,['Eyehategod '],
+Zürich,Karin-Park,2015-04-20,['Karin Park '],Pop
+null,De-Frank,2015-04-20,"[' Tobias Degen ', ' Daniel Rieser ', ' Mirco Häberli ', ' Mario Söldi ']",
+Zürich,The-Districts,2015-04-20,"['The Districts ', ' Broncho ']",
+Winterthur,Zweidieter,2015-04-20,['Zweidieter '],
+Zürich,Théodore-Paul-&-Gabriel,2015-04-20,[' Paul & Gabriel '],Pop
+Zürich,Konstantin-Wecker,2015-04-20,['Konstantin Wecker '],Pop
+Zürich,Deichkind,2015-04-20,['Deichkind '],
+Zürich,Zurück-ins-Licht,2015-04-20,"[' Meng Tian ', ' Heinz Tobler ', ' Oliver Süess ', ' Patrick ']",Pop
+Luzern,Man-Overboard,2015-04-20,"['Man Overboard ', ' Moose Blood ', ' Roam ']",Pop
+Baden,Urban-Spaces-Quartet-feat.-Susanne-Petersen,2015-04-20,"[' Francis Petter ', ' Edgar Marc Petter ', ' Peter Hunziker ', ' Bruno Huwyler ', ' Susanne Petersen ']",
+Basel,Jazzfestival-Basel,2015-04-20,"[' Stanley Clarke ', ' Beha Gochiashvili ', ' Cameron Graves ', ' Michael Mitchell ']",
+Zürich,Johnny-Dowd,2015-04-20,['Johnny Dowd '],
+Winterthur,Leisure-Tank,2015-04-20,['Leisure Tank '],
+Zürich,Peter-Schärli-Trio-feat.-Glenn-Ferris,2015-04-20,"[' Peter Schärli ', ' Glenn Ferris ', ' Thomas Dürst ', ' Hans-Peter Pfammatter ']",

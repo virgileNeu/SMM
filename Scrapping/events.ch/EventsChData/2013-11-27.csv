@@ -1,35 +1,35 @@
-,location,event,date,artists,genre
-0,Basel,Mimiko-Preussische-Sonate,2013-11-27,['Camilla Köhnken '],Classic
-1,Luzern,Lunchkonzert,2013-11-27,"['Sophie Pacini ', ' Lesung mit Rolf Dobelli ']",Classic
-2,Luzern,Piano-Entertainment,2013-11-27,['Mark Tenger '],
-3,Zürich,Innehalten,2013-11-27,['Jörg Ulrich Busch '],Classic
-4,Pratteln,Amorphis,2013-11-27,['Amorphis '],
-5,Zürich,Unerhört-Ein-Zürcher-Jazzfestival,2013-11-27,"[' Saadet Türköz ', ' Nils Wogram ', ' Lauren Newton ', ' Lea Fries ', ' Chris Guilfoyle ', ' Hanna Marchand ']",
-6,Zürich,Konzert,2013-11-27,[' Sabine Poyé More '],Classic
-7,Herisau,The-Straits,2013-11-27,['The Straits '],
-8,Basel,Bolschoi-Don-Kosakenchor,2013-11-27,['Bolschoi Don Kosakenchor '],
-9,Bern,Beak,2013-11-27,['Beak '],
-10,Zürich,Tom-Odell,2013-11-27,['Tom Odell '],Pop
-11,Zürich,Rider's-Connection,2013-11-27,"[""Rider's Connection ""]",
-12,null,Babak-Nemati-Quartet,2013-11-27,"[' Babak Nemati ', ' Carles Peris ', ' Beat Gisler ', ' Olaf Ryter ']",
-13,Zürich,Shining,2013-11-27,"['Shining ', ' Crest Of Darkness ', ' Sterbhaus ']",
-14,Wil,Dear-Reader,2013-11-27,"['Dear Reader ', ' Traded Pilots ']",Pop
-15,Zürich,Night-Beds,2013-11-27,['Night Beds '],
-16,Zürich,Stromae,2013-11-27,['Stromae '],Pop
-17,Frauenfeld,Christoph-Grab's-Science-Fiction-Theater,2013-11-27,"[' Christoph Grab ', ' Felix Utzinger ', ' Christian Rösli ', ' Valentin Dietrich ', ' Andy Wettstein ']",
-18,Winterthur,Jazz-am-Mittwoch,2013-11-27,"[' Andrea Kirchhofer ', ' Otmar Kramis ', ' Nick Gutersohn ', ' Christophe Dufaux ', ' Gregor Müller ']",
-19,Zürich,Ohrbooten,2013-11-27,"['Ohrbooten ', ' Liedfett ']",
-20,Zürich,Gesing-Rohrer-Meyer,2013-11-27,"[' Klaus Gesing ', ' Björn Meyer ', ' Samuel Rohrer ']",
-21,null,Le-Gouffre,2013-11-27,"[' ', ' Sëar Lui Même ']",
-22,Bern,CulturEscapes,2013-11-27,['Maja Osojnik Band '],traditional
-23,Wädenswil,Omri-Hason-Modus-Quartet,2013-11-27,"[' Antonello Messina ', ' Wege Wüthrich ', ' Lorenz Beyeler ', ' Omri Hason ']",
-24,Luzern,Kaos-Protokoll,2013-11-27,"[' Marc Stucki ', ' Benedikt Wieland ', ' Flo Reichle ']",
-25,null,Gerardo-Núñez-&-Carmen-Cortés,2013-11-27,['Gerardo Núñez & Carmen Cortés '],
-26,Basel,Hellmüller-Risso-Zanoli,2013-11-27,"[' Franz Hellmüller ', ' Stefano Risso ', ' Marco Zanoli ']",
-27,Zürich,When-Saints-Go-Machine,2013-11-27,['When Saints Go Machine '],
-28,Fri-Son,null,2013-11-27,"['The Tallest Man On Earth ', ' Daniel Norgren ']",
-29,Luzern,Yosai,2013-11-27,"['Yosai ', ' Simon Schorndanner ', ' Steffi Narr ', ' Noah Punkt ', ' Clemens Litschko ']",
-30,Basel,Oddisee,2013-11-27,['Oddisee '],
-31,Zürich,Unerhört-Ein-Zürcher-Jazzfestival,2013-11-27,[' Tony Malaby '],
-32,Basel,Duo-Muhi-Tahiri,2013-11-27,"[' Muhi Tahiri ', ' Daniel Gysin ']",
-33,Basel,Izzy-&-The-Catastrophics,2013-11-27,['Izzy & The Catastrophics '],
+location,event,date,artists,genre
+Basel,Mimiko-Preussische-Sonate,2013-11-27,['Camilla Köhnken '],Classic
+Luzern,Lunchkonzert,2013-11-27,"['Sophie Pacini ', ' Lesung mit Rolf Dobelli ']",Classic
+Luzern,Piano-Entertainment,2013-11-27,['Mark Tenger '],
+Zürich,Innehalten,2013-11-27,['Jörg Ulrich Busch '],Classic
+Pratteln,Amorphis,2013-11-27,['Amorphis '],
+Zürich,Unerhört-Ein-Zürcher-Jazzfestival,2013-11-27,"[' Saadet Türköz ', ' Nils Wogram ', ' Lauren Newton ', ' Lea Fries ', ' Chris Guilfoyle ', ' Hanna Marchand ']",
+Zürich,Konzert,2013-11-27,[' Sabine Poyé More '],Classic
+Herisau,The-Straits,2013-11-27,['The Straits '],
+Basel,Bolschoi-Don-Kosakenchor,2013-11-27,['Bolschoi Don Kosakenchor '],
+Bern,Beak,2013-11-27,['Beak '],
+Zürich,Tom-Odell,2013-11-27,['Tom Odell '],Pop
+Zürich,Rider's-Connection,2013-11-27,"[""Rider's Connection ""]",
+null,Babak-Nemati-Quartet,2013-11-27,"[' Babak Nemati ', ' Carles Peris ', ' Beat Gisler ', ' Olaf Ryter ']",
+Zürich,Shining,2013-11-27,"['Shining ', ' Crest Of Darkness ', ' Sterbhaus ']",
+Wil,Dear-Reader,2013-11-27,"['Dear Reader ', ' Traded Pilots ']",Pop
+Zürich,Night-Beds,2013-11-27,['Night Beds '],
+Zürich,Stromae,2013-11-27,['Stromae '],Pop
+Frauenfeld,Christoph-Grab's-Science-Fiction-Theater,2013-11-27,"[' Christoph Grab ', ' Felix Utzinger ', ' Christian Rösli ', ' Valentin Dietrich ', ' Andy Wettstein ']",
+Winterthur,Jazz-am-Mittwoch,2013-11-27,"[' Andrea Kirchhofer ', ' Otmar Kramis ', ' Nick Gutersohn ', ' Christophe Dufaux ', ' Gregor Müller ']",
+Zürich,Ohrbooten,2013-11-27,"['Ohrbooten ', ' Liedfett ']",
+Zürich,Gesing-Rohrer-Meyer,2013-11-27,"[' Klaus Gesing ', ' Björn Meyer ', ' Samuel Rohrer ']",
+null,Le-Gouffre,2013-11-27,"[' ', ' Sëar Lui Même ']",
+Bern,CulturEscapes,2013-11-27,['Maja Osojnik Band '],traditional
+Wädenswil,Omri-Hason-Modus-Quartet,2013-11-27,"[' Antonello Messina ', ' Wege Wüthrich ', ' Lorenz Beyeler ', ' Omri Hason ']",
+Luzern,Kaos-Protokoll,2013-11-27,"[' Marc Stucki ', ' Benedikt Wieland ', ' Flo Reichle ']",
+null,Gerardo-Núñez-&-Carmen-Cortés,2013-11-27,['Gerardo Núñez & Carmen Cortés '],
+Basel,Hellmüller-Risso-Zanoli,2013-11-27,"[' Franz Hellmüller ', ' Stefano Risso ', ' Marco Zanoli ']",
+Zürich,When-Saints-Go-Machine,2013-11-27,['When Saints Go Machine '],
+Fri-Son,null,2013-11-27,"['The Tallest Man On Earth ', ' Daniel Norgren ']",
+Luzern,Yosai,2013-11-27,"['Yosai ', ' Simon Schorndanner ', ' Steffi Narr ', ' Noah Punkt ', ' Clemens Litschko ']",
+Basel,Oddisee,2013-11-27,['Oddisee '],
+Zürich,Unerhört-Ein-Zürcher-Jazzfestival,2013-11-27,[' Tony Malaby '],
+Basel,Duo-Muhi-Tahiri,2013-11-27,"[' Muhi Tahiri ', ' Daniel Gysin ']",
+Basel,Izzy-&-The-Catastrophics,2013-11-27,['Izzy & The Catastrophics '],

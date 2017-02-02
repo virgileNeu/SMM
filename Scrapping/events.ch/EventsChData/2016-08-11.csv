@@ -1,11 +1,11 @@
-,location,event,date,artists,genre
-0,Le-Locle,Rock-Altitude-Festival,2016-08-11,[' Birth of Joy '],
-1,Schaffhausen,Stars-in-Town,2016-08-11,"['Status Quo ', ' The Baseballs ', ' Marillion ']",Pop
-2,Zofingen,Volksschlager-Openair,2016-08-11,"['Marc Pircher & Band ', ' Monika Martin ', ' Die jungen Zillertaler ', ' Feuerherz ', ' Bernhard Brink ', ' Melissa Naschenweng ', ' Amigos ']",traditional
-3,Spiez,Duncan-Honeybourne,2016-08-11,['Duncan Honeybourne '],Classic
-4,Luzern,Femmes-fatales-,2016-08-11,[' Christina Daletska '],Classic
-5,Zürich,Damian-Marley,2016-08-11,['Damian Marley '],
-6,Basel,Balakumbala-Duo-&-Friends,2016-08-11,"[' Viviane de Farias ', ' Ricardo Fiuza: ', ' Mauro Martins ', ' Zé Luíz Nascimento ', ' Marco Lobo ']",
-7,Basel,Im-Fluss,2016-08-11,['Songhoy Blues '],
-8,Zürich,Mutefish,2016-08-11,['Mutefish '],
-9,Saanen,Late-Night-The-Genius-of-Stefano-Bollani,2016-08-11,['Stefano Bollani '],Classic
+location,event,date,artists,genre
+Le-Locle,Rock-Altitude-Festival,2016-08-11,[' Birth of Joy '],
+Schaffhausen,Stars-in-Town,2016-08-11,"['Status Quo ', ' The Baseballs ', ' Marillion ']",Pop
+Zofingen,Volksschlager-Openair,2016-08-11,"['Marc Pircher & Band ', ' Monika Martin ', ' Die jungen Zillertaler ', ' Feuerherz ', ' Bernhard Brink ', ' Melissa Naschenweng ', ' Amigos ']",traditional
+Spiez,Duncan-Honeybourne,2016-08-11,['Duncan Honeybourne '],Classic
+Luzern,Femmes-fatales-,2016-08-11,[' Christina Daletska '],Classic
+Zürich,Damian-Marley,2016-08-11,['Damian Marley '],
+Basel,Balakumbala-Duo-&-Friends,2016-08-11,"[' Viviane de Farias ', ' Ricardo Fiuza: ', ' Mauro Martins ', ' Zé Luíz Nascimento ', ' Marco Lobo ']",
+Basel,Im-Fluss,2016-08-11,['Songhoy Blues '],
+Zürich,Mutefish,2016-08-11,['Mutefish '],
+Saanen,Late-Night-The-Genius-of-Stefano-Bollani,2016-08-11,['Stefano Bollani '],Classic

@@ -1,19 +1,19 @@
-,location,event,date,artists,genre
-0,Zürich,The-Storytelling-Saxophone,2015-05-19,"[' Christoph Grab ', ' Dominique Girod ', ' Pius Baschnagel ']",
-1,Weggis,Anthony-Caputo,2015-05-19,['Anthony Caputo '],
-2,Luzern,Piano-Entertainment,2015-05-19,['Jozsef Sarkozy '],Classic
-3,Zürich,Dienstagsvesper-Zürich-West,2015-05-19,"['Christine Esser ', ' Tobias Willi ']",Classic
-4,Aarau,Metalmayhem,2015-05-19,"['Sylosis ', ' Wovenwar ']",
-5,Basel,Masterrezital,2015-05-19,['Lisa Rieder '],Classic
-6,Zürich,Zürcher-Kammerorchester,2015-05-19,"['Ryszard Groblewski ', ' conductor: Julian Rachlin ']",Classic
-7,Zürich,Konzert-um-halb-acht,2015-05-19,['Luca Scandali '],Classic
-8,Zürich,Und-&-und,2015-05-19,"[' Mathis Kramer-Länger ', ' Kaspar Schindler ', ' Andi Thürig ']",Pop
-9,null,Pocket-Swing-Orchestra,2015-05-19,"[' Tobias Preisig ', ' Michael Flury ']",
-10,Zürich,ZHDK-Masters-of-Jazz,2015-05-19,"[' Jonas Ruther ', ' Erika Spencer ', ' Pascal Rüegger ']",
-11,Zürich,Herbert-Grönemeyer,2015-05-19,['Herbert Grönemeyer '],Pop
-12,Schaffhausen,Mudhoney,2015-05-19,"['Mudhoney ', ' White Hills ', ' Carton Carroll ']",
-13,Zürich,Foxygen,2015-05-19,['Foxygen '],
-14,Basel,Bachelorkonzert,2015-05-19,[' Maria Raffaele '],Classic
-15,Winterthur,Yarah-Bravo,2015-05-19,"['Yarah Bravo ', ' Fae Simon & Band ']",
-16,Luzern,Workshopkonzerte,2015-05-19,"['Yaëlle Dällenbach ', ' Margret Horrer ', ' Martina Gemassmer ', ' Andri Schärli ', ' Sascha Frischknecht ', ' Martial In-Albon ']",
-17,null,Lacraps,2015-05-19,['Lacraps '],
+location,event,date,artists,genre
+Zürich,The-Storytelling-Saxophone,2015-05-19,"[' Christoph Grab ', ' Dominique Girod ', ' Pius Baschnagel ']",
+Weggis,Anthony-Caputo,2015-05-19,['Anthony Caputo '],
+Luzern,Piano-Entertainment,2015-05-19,['Jozsef Sarkozy '],Classic
+Zürich,Dienstagsvesper-Zürich-West,2015-05-19,"['Christine Esser ', ' Tobias Willi ']",Classic
+Aarau,Metalmayhem,2015-05-19,"['Sylosis ', ' Wovenwar ']",
+Basel,Masterrezital,2015-05-19,['Lisa Rieder '],Classic
+Zürich,Zürcher-Kammerorchester,2015-05-19,"['Ryszard Groblewski ', ' conductor: Julian Rachlin ']",Classic
+Zürich,Konzert-um-halb-acht,2015-05-19,['Luca Scandali '],Classic
+Zürich,Und-&-und,2015-05-19,"[' Mathis Kramer-Länger ', ' Kaspar Schindler ', ' Andi Thürig ']",Pop
+null,Pocket-Swing-Orchestra,2015-05-19,"[' Tobias Preisig ', ' Michael Flury ']",
+Zürich,ZHDK-Masters-of-Jazz,2015-05-19,"[' Jonas Ruther ', ' Erika Spencer ', ' Pascal Rüegger ']",
+Zürich,Herbert-Grönemeyer,2015-05-19,['Herbert Grönemeyer '],Pop
+Schaffhausen,Mudhoney,2015-05-19,"['Mudhoney ', ' White Hills ', ' Carton Carroll ']",
+Zürich,Foxygen,2015-05-19,['Foxygen '],
+Basel,Bachelorkonzert,2015-05-19,[' Maria Raffaele '],Classic
+Winterthur,Yarah-Bravo,2015-05-19,"['Yarah Bravo ', ' Fae Simon & Band ']",
+Luzern,Workshopkonzerte,2015-05-19,"['Yaëlle Dällenbach ', ' Margret Horrer ', ' Martina Gemassmer ', ' Andri Schärli ', ' Sascha Frischknecht ', ' Martial In-Albon ']",
+null,Lacraps,2015-05-19,['Lacraps '],

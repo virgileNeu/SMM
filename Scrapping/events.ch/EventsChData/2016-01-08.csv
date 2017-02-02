@@ -1,27 +1,27 @@
-,location,event,date,artists,genre
-0,Bern,Orgelpunkt,2016-01-08,['Vera Friedli '],Classic
-1,Zürich,Granadas-&-Friends,2016-01-08,"[' Hansruedi  Fässler ', ' Kumath ', ' Chanaka ', ' Nimal ']",Pop
-2,Basel,Orgelspiel-zum-Feierabend,2016-01-08,['Birgit Tittel '],Classic
-3,Dietikon,Feierabendmusik,2016-01-08,['Bernhard Hörler '],Classic
-4,Zürich,Curse,2016-01-08,['Curse '],
-5,Zürich,Neujahrskonzert,2016-01-08,"[' Mine Yücel ', ' Steven Ebel ', ' works by Strauss ']",Classic
-6,Bern,Orgelsymphonie,2016-01-08,[' Doris Mende '],Classic
-7,null,5.-Tonhallekonzert,2016-01-08,['Alexej Volodin '],Classic
-8,null,2.-Sonderkonzert-Neujahrskonzert,2016-01-08,[' Chiara Enderle '],Classic
-9,Luzern,Festival-Strings-Lucerne,2016-01-08,[' Sir James Galway '],Classic
-10,Zürich,Int.-Zürcher-Orgeltage,2016-01-08,"['Trudy Walter ', ' Sacha Rüegg ']",Classic
-11,Liestal,Alexia-Gardner,2016-01-08,['Alexia Gardner '],
-12,Winterthur,Jürgen-Waidele-&-Friends,2016-01-08,"[' Arno Haas ', ' ', ' Rainer Apel ', ' Peter Keller ', ' Alex Friedrich ', ' Elisa K. ']",
-13,Basel,Ramai,2016-01-08,"[' Christoph Bösch ', ' Pilar Fontalba ', ' Toshiko Sakakibara ']",Classic
-14,Mühlethurnen,Boogie-Connection,2016-01-08,['Boogie Connection '],
-15,Zürich,Blumer-Jeger-&-Friedli-Meier-Schlegel,2016-01-08,"[' Fridolin Blumer ', ' Silvan Jeger ', ' Gabriela Friedli ', ' Tobias Meier ', ' Jan Schlegel ']",
-16,Liebefeld,Joe-Haider-Jazz-Orchestra,2016-01-08,"[' Daniel Blanc ', ' Domenic Landolf ', ' Thomi Geiger ', ' Matthias Spillmann ', ' René Mosele ']",
-17,Zürich,Kummerbuben,2016-01-08,"[' Simon Jäggi ', ' Moritz Alfons ', ' Claudio von Arx ', ' Urs Gilgen ', ' Higi Bigler ', ' Tobi Heim ']",Pop
-18,Basel,Compulsion,2016-01-08,"[' Marc Ullrich ', ' Adam Taubitz ', ' Simone Bollini ', ' Dominik Schürmann ', ' Christoph Mohler ']",
-19,Zürich,Simon-Glöde,2016-01-08,['Simon Glöde '],Pop
-20,Bern,Cabarandi,2016-01-08,['Cabarandi '],
-21,Solothurn,The-Bloodtypes,2016-01-08,['The Bloodtypes '],
-22,Baden,Vokabularphysik,2016-01-08,['Vokabularphysik '],
-23,Zürich,Mark-Sultan,2016-01-08,['Mark Sultan '],
-24,Zürich,Eloquent-&-HulkHodn,2016-01-08,"[' Signer & Erabi ', ' DJ Diversion ']",
-25,null,High-Focus-Records-Night,2016-01-08,"['Dirty Dike ', ' Jam Baxter ', ' Edward Scissortongue ', ' Ocean Wisdom ', ' Sammy B-Side ']",
+location,event,date,artists,genre
+Bern,Orgelpunkt,2016-01-08,['Vera Friedli '],Classic
+Zürich,Granadas-&-Friends,2016-01-08,"[' Hansruedi  Fässler ', ' Kumath ', ' Chanaka ', ' Nimal ']",Pop
+Basel,Orgelspiel-zum-Feierabend,2016-01-08,['Birgit Tittel '],Classic
+Dietikon,Feierabendmusik,2016-01-08,['Bernhard Hörler '],Classic
+Zürich,Curse,2016-01-08,['Curse '],
+Zürich,Neujahrskonzert,2016-01-08,"[' Mine Yücel ', ' Steven Ebel ', ' works by Strauss ']",Classic
+Bern,Orgelsymphonie,2016-01-08,[' Doris Mende '],Classic
+null,5.-Tonhallekonzert,2016-01-08,['Alexej Volodin '],Classic
+null,2.-Sonderkonzert-Neujahrskonzert,2016-01-08,[' Chiara Enderle '],Classic
+Luzern,Festival-Strings-Lucerne,2016-01-08,[' Sir James Galway '],Classic
+Zürich,Int.-Zürcher-Orgeltage,2016-01-08,"['Trudy Walter ', ' Sacha Rüegg ']",Classic
+Liestal,Alexia-Gardner,2016-01-08,['Alexia Gardner '],
+Winterthur,Jürgen-Waidele-&-Friends,2016-01-08,"[' Arno Haas ', ' ', ' Rainer Apel ', ' Peter Keller ', ' Alex Friedrich ', ' Elisa K. ']",
+Basel,Ramai,2016-01-08,"[' Christoph Bösch ', ' Pilar Fontalba ', ' Toshiko Sakakibara ']",Classic
+Mühlethurnen,Boogie-Connection,2016-01-08,['Boogie Connection '],
+Zürich,Blumer-Jeger-&-Friedli-Meier-Schlegel,2016-01-08,"[' Fridolin Blumer ', ' Silvan Jeger ', ' Gabriela Friedli ', ' Tobias Meier ', ' Jan Schlegel ']",
+Liebefeld,Joe-Haider-Jazz-Orchestra,2016-01-08,"[' Daniel Blanc ', ' Domenic Landolf ', ' Thomi Geiger ', ' Matthias Spillmann ', ' René Mosele ']",
+Zürich,Kummerbuben,2016-01-08,"[' Simon Jäggi ', ' Moritz Alfons ', ' Claudio von Arx ', ' Urs Gilgen ', ' Higi Bigler ', ' Tobi Heim ']",Pop
+Basel,Compulsion,2016-01-08,"[' Marc Ullrich ', ' Adam Taubitz ', ' Simone Bollini ', ' Dominik Schürmann ', ' Christoph Mohler ']",
+Zürich,Simon-Glöde,2016-01-08,['Simon Glöde '],Pop
+Bern,Cabarandi,2016-01-08,['Cabarandi '],
+Solothurn,The-Bloodtypes,2016-01-08,['The Bloodtypes '],
+Baden,Vokabularphysik,2016-01-08,['Vokabularphysik '],
+Zürich,Mark-Sultan,2016-01-08,['Mark Sultan '],
+Zürich,Eloquent-&-HulkHodn,2016-01-08,"[' Signer & Erabi ', ' DJ Diversion ']",
+null,High-Focus-Records-Night,2016-01-08,"['Dirty Dike ', ' Jam Baxter ', ' Edward Scissortongue ', ' Ocean Wisdom ', ' Sammy B-Side ']",

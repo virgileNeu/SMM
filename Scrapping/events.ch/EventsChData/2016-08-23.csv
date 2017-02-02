@@ -1,9 +1,9 @@
-,location,event,date,artists,genre
-0,Winterthur,Winterthurer-Musikfestwochen,2016-08-23,['Russkajy '],
-1,null,Kiefer-Hablitzel-Preisträger-Konzert,2016-08-23,"['Beatriz Blanco ', ' Benedek Horváth ']",Classic
-2,Zürich,Ensemble,2016-08-23,"['Michiko Tsuda ', ' Renato Bizzotto ', ' Konstantin Timokhine ']",Classic
-3,Zürich,Limp-Bizkit,2016-08-23,['Limp Bizkit '],
-4,Zürich,Voivod,2016-08-23,['Voivod '],
-5,Winterthur,Winterthurer-Musikfestwochen,2016-08-23,['The Swing Shouters '],
-6,Lausanne,Wolfmother,2016-08-23,['Wolfmother '],
-7,Zürich,Jacob-Bellens,2016-08-23,['Jacob Bellens '],Pop
+location,event,date,artists,genre
+Winterthur,Winterthurer-Musikfestwochen,2016-08-23,['Russkajy '],
+null,Kiefer-Hablitzel-Preisträger-Konzert,2016-08-23,"['Beatriz Blanco ', ' Benedek Horváth ']",Classic
+Zürich,Ensemble,2016-08-23,"['Michiko Tsuda ', ' Renato Bizzotto ', ' Konstantin Timokhine ']",Classic
+Zürich,Limp-Bizkit,2016-08-23,['Limp Bizkit '],
+Zürich,Voivod,2016-08-23,['Voivod '],
+Winterthur,Winterthurer-Musikfestwochen,2016-08-23,['The Swing Shouters '],
+Lausanne,Wolfmother,2016-08-23,['Wolfmother '],
+Zürich,Jacob-Bellens,2016-08-23,['Jacob Bellens '],Pop

@@ -1,12 +1,12 @@
-,location,event,date,artists,genre
-0,Bern,Lunchkonzert,2014-09-16,"[' Jan Kalinowski ', ' Marek Szlezer ']",Classic
-1,Luzern,Piano-Entertainment,2014-09-16,['Mega Horvath '],Pop
-2,Zürich,Herbst-in-der-Helferei-Brahms-im-Herbst,2014-09-16,[' Benjamin Engeli '],Classic
-3,Basel,Bee-Johnson,2014-09-16,"[' Andrina Bollinger ', ' Hannah Bissegger ', ' Michel Spahr ', ' Ramón Oliveras ']",Pop
-4,Bern,White-Hills,2014-09-16,['White Hills '],
-5,Zürich,Ezra-Furman-&-The-Boyfriends,2014-09-16,['Ezra Furman & The Boyfriends '],Pop
-6,Luzern,Orgelsommer,2014-09-16,"[' Astrid Ender ', ' Wolfgang Sieber ']",Classic
-7,Zürich,Chansons-en-Stok,2014-09-16,['Klô Pelgag '],Pop
-8,Zürich,Screaming-Headless-Torsos,2014-09-16,"['Screaming Headless Torsos ', ' Freedom Bremner ', ' David Fuze Fiuczynski ', ' Daniel Sadownik ', ' David Ginyard ', ' Bisquit Rouse ']",
-9,Bern,Scala-Nobile-feat.-Paul-McCandless,2014-09-16,['Scala Nobile feat. Paul McCandless '],
-10,Basel,Florian-Favre-Trio,2014-09-16,"[' Florian Favre ', ' Emmanuel Hagmann ', ' Alexandre Maurer ']",
+location,event,date,artists,genre
+Bern,Lunchkonzert,2014-09-16,"[' Jan Kalinowski ', ' Marek Szlezer ']",Classic
+Luzern,Piano-Entertainment,2014-09-16,['Mega Horvath '],Pop
+Zürich,Herbst-in-der-Helferei-Brahms-im-Herbst,2014-09-16,[' Benjamin Engeli '],Classic
+Basel,Bee-Johnson,2014-09-16,"[' Andrina Bollinger ', ' Hannah Bissegger ', ' Michel Spahr ', ' Ramón Oliveras ']",Pop
+Bern,White-Hills,2014-09-16,['White Hills '],
+Zürich,Ezra-Furman-&-The-Boyfriends,2014-09-16,['Ezra Furman & The Boyfriends '],Pop
+Luzern,Orgelsommer,2014-09-16,"[' Astrid Ender ', ' Wolfgang Sieber ']",Classic
+Zürich,Chansons-en-Stok,2014-09-16,['Klô Pelgag '],Pop
+Zürich,Screaming-Headless-Torsos,2014-09-16,"['Screaming Headless Torsos ', ' Freedom Bremner ', ' David Fuze Fiuczynski ', ' Daniel Sadownik ', ' David Ginyard ', ' Bisquit Rouse ']",
+Bern,Scala-Nobile-feat.-Paul-McCandless,2014-09-16,['Scala Nobile feat. Paul McCandless '],
+Basel,Florian-Favre-Trio,2014-09-16,"[' Florian Favre ', ' Emmanuel Hagmann ', ' Alexandre Maurer ']",

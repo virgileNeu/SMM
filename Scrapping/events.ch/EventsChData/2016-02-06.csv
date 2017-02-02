@@ -1,35 +1,35 @@
-,location,event,date,artists,genre
-0,Winterthur,Sophie-Lüssi-Quartett,2016-02-06,"[' Sandra Weiss ', ' Fridolin Blumer ', ' Andreas Wettstein ', ' Sophie Lüssi ']",
-1,Zürich,Monte-Carlo,2016-02-06,['Monte Carlo '],Pop
-2,Zürich,Benefizkonzert,2016-02-06,['Silvia Harnisch '],Classic
-3,Basel,AMG-Rising-Stars,2016-02-06,['Behzod Abduraimov '],Classic
-4,Basel,Linden-Quartett,2016-02-06,"[' Renato Wiedemann ', ' Milena Bonaventurova ', ' Mari Kobayashi ', ' Rupert Hunz ']",Classic
-5,Lausanne,Parkway-Drive,2016-02-06,"['Parkway Drive ', ' Thy Art Is Murder ', ' Architects ']",
-6,Kriens,Maurice-Louca,2016-02-06,['Maurice Louca '],Electronic
-7,Basel,Mozart-What-else-,2016-02-06,"['Rachel Heymans ', ' Claire Foltzer ', ' Marianne Diessner ']",Classic
-8,null,Quinta-essentia-Aether,2016-02-06,"[' Stefka Perifanova ', ' Isabelle Schnöller ', ' Karin Dornbusch ', ' Helena Winkelman ']",Classic
-9,Zürich,The-Good-Life,2016-02-06,['The Good Life '],
-10,Pratteln,The-Paper-Kites,2016-02-06,['The Paper Kites '],
-11,Aarburg,Perkele,2016-02-06,"['Perkele ', ' support: Drinking Squad ']",
-12,Zürich,Tonight-Alive,2016-02-06,"['Tonight Alive ', ' support: Milk Teeth ']",
-13,Thalwil,Musique-Simili,2016-02-06,"[' ', ' Juliette Du Pasquier ', ' Marc Hänsenberger ']",
-14,Winterthur,P.R.O.B.L.E.M.S.,2016-02-06,"['P.R.O.B.L.E.M.S. ', ' Frank Love ']",
-15,Zürich,Mulatu-Astatke,2016-02-06,"[' Mulatu Astatke ', ' James Arben ', ' Byron Wallen ', ' Danny Keane ', ' Alexander Hawkins ']",
-16,Zürich,Tibetréa,2016-02-06,['Tibetréa '],
-17,Basel,Herring-Alexander-Quintet,2016-02-06,"[' Vincent Herring ', ' Eric Alexander ', ' Victor Gould ', ' Milan Nikolic ', ' Joris Dudli ']",
-18,Baden,4-You,2016-02-06,"[' Urs Haensler ', ' Christian Mosbeck ', ' Bruno Telli ', ' Bea Schneider ']",
-19,Aarau,Mutiny-On-The-Bounty,2016-02-06,['Mutiny On The Bounty '],
-20,Basel,Ben-Caplan,2016-02-06,['Ben Caplan '],
-21,Luzern,5-Jahre-Bruch-Brothers,2016-02-06,['My Home on Trees '],
-22,Basel,Hot-Vibes,2016-02-06,"[' Markus Schmied ', ' Timmy Leiser ', ' Hannes Fankhauser ']",
-23,Rubigen,Big-Ones,2016-02-06,['Big Ones '],
-24,Bern,Whiskey-Train,2016-02-06,['Whiskey Train '],
-25,Baden,One-of-a-Million,2016-02-06,['Vuurwerk '],Electronic
-26,null,Mark-Geary,2016-02-06,['Mark Geary '],Pop
-27,Bern,Nówfrago,2016-02-06,['Nówfrago '],Pop
-28,Wetzikon,Iguanaloco,2016-02-06,['Orion '],Electronic
-29,Bern,Angel-Haze,2016-02-06,"['Angel Haze ', ' support: Sookee ']",
-30,Zürich,Chali-2Na-&-The-Funk-Hunters,2016-02-06,['Chali 2Na & The Funk Hunters '],
-31,Sankt-Gallen,Leif,2016-02-06,"['Leif ', ' Lotic ']",
-32,null,SBCR,2016-02-06,['SBCR '],Electronic
-33,Basel,Mind-the-Gap,2016-02-06,"['Mndsgn ', ' Ivan Ave ']",
+location,event,date,artists,genre
+Winterthur,Sophie-Lüssi-Quartett,2016-02-06,"[' Sandra Weiss ', ' Fridolin Blumer ', ' Andreas Wettstein ', ' Sophie Lüssi ']",
+Zürich,Monte-Carlo,2016-02-06,['Monte Carlo '],Pop
+Zürich,Benefizkonzert,2016-02-06,['Silvia Harnisch '],Classic
+Basel,AMG-Rising-Stars,2016-02-06,['Behzod Abduraimov '],Classic
+Basel,Linden-Quartett,2016-02-06,"[' Renato Wiedemann ', ' Milena Bonaventurova ', ' Mari Kobayashi ', ' Rupert Hunz ']",Classic
+Lausanne,Parkway-Drive,2016-02-06,"['Parkway Drive ', ' Thy Art Is Murder ', ' Architects ']",
+Kriens,Maurice-Louca,2016-02-06,['Maurice Louca '],Electronic
+Basel,Mozart-What-else-,2016-02-06,"['Rachel Heymans ', ' Claire Foltzer ', ' Marianne Diessner ']",Classic
+null,Quinta-essentia-Aether,2016-02-06,"[' Stefka Perifanova ', ' Isabelle Schnöller ', ' Karin Dornbusch ', ' Helena Winkelman ']",Classic
+Zürich,The-Good-Life,2016-02-06,['The Good Life '],
+Pratteln,The-Paper-Kites,2016-02-06,['The Paper Kites '],
+Aarburg,Perkele,2016-02-06,"['Perkele ', ' support: Drinking Squad ']",
+Zürich,Tonight-Alive,2016-02-06,"['Tonight Alive ', ' support: Milk Teeth ']",
+Thalwil,Musique-Simili,2016-02-06,"[' ', ' Juliette Du Pasquier ', ' Marc Hänsenberger ']",
+Winterthur,P.R.O.B.L.E.M.S.,2016-02-06,"['P.R.O.B.L.E.M.S. ', ' Frank Love ']",
+Zürich,Mulatu-Astatke,2016-02-06,"[' Mulatu Astatke ', ' James Arben ', ' Byron Wallen ', ' Danny Keane ', ' Alexander Hawkins ']",
+Zürich,Tibetréa,2016-02-06,['Tibetréa '],
+Basel,Herring-Alexander-Quintet,2016-02-06,"[' Vincent Herring ', ' Eric Alexander ', ' Victor Gould ', ' Milan Nikolic ', ' Joris Dudli ']",
+Baden,4-You,2016-02-06,"[' Urs Haensler ', ' Christian Mosbeck ', ' Bruno Telli ', ' Bea Schneider ']",
+Aarau,Mutiny-On-The-Bounty,2016-02-06,['Mutiny On The Bounty '],
+Basel,Ben-Caplan,2016-02-06,['Ben Caplan '],
+Luzern,5-Jahre-Bruch-Brothers,2016-02-06,['My Home on Trees '],
+Basel,Hot-Vibes,2016-02-06,"[' Markus Schmied ', ' Timmy Leiser ', ' Hannes Fankhauser ']",
+Rubigen,Big-Ones,2016-02-06,['Big Ones '],
+Bern,Whiskey-Train,2016-02-06,['Whiskey Train '],
+Baden,One-of-a-Million,2016-02-06,['Vuurwerk '],Electronic
+null,Mark-Geary,2016-02-06,['Mark Geary '],Pop
+Bern,Nówfrago,2016-02-06,['Nówfrago '],Pop
+Wetzikon,Iguanaloco,2016-02-06,['Orion '],Electronic
+Bern,Angel-Haze,2016-02-06,"['Angel Haze ', ' support: Sookee ']",
+Zürich,Chali-2Na-&-The-Funk-Hunters,2016-02-06,['Chali 2Na & The Funk Hunters '],
+Sankt-Gallen,Leif,2016-02-06,"['Leif ', ' Lotic ']",
+null,SBCR,2016-02-06,['SBCR '],Electronic
+Basel,Mind-the-Gap,2016-02-06,"['Mndsgn ', ' Ivan Ave ']",

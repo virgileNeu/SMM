@@ -1,11 +1,11 @@
-,location,event,date,artists,genre
-0,Zürich,Werner-und-Company,2016-01-12,['Werner und Company '],Pop
-1,Zürich,Building-Bridges-Sir-András-Schiff-präsentiert,2016-01-12,['Schaghajegh Nosrati '],Classic
-2,Zürich,Donadio-Family-Ensemble,2016-01-12,"[' Dalia ', ' Madlen ', ' Moreno ', ' Toni ']",
-3,Basel,Kammermusik-Basel,2016-01-12,['Borromeo String Quartet '],Classic
-4,Zürich,Neue-Konzertreihe-Zürich,2016-01-12,[' Patricia Kopatchinskaja '],Classic
-5,Luzern,Forum-Neue-Musik-Luzern,2016-01-12,[' Vincent Glanzmann '],
-6,Lugano,Ascoltare-due-volte,2016-01-12,['Caroline Doerge '],Classic
-7,Bern,Alpin-Project,2016-01-12,"[' Thomas Aeschbacher ', ' Balthasar Streiff ', ' Chris Pfändler ']",traditional
-8,Basel,Nolan-Quinn,2016-01-12,"[' Nolan Quinn ', ' Jonathan Maag ', ' Oliver Illi ', ' Simon Quinn ', ' Brian Quinn ']",
-9,Zürich,Vallon-Michel-Götte-Chansorn,2016-01-12,"[' Matthieu Michel ', ' Colin Vallon ', ' Flo Götte ', ' Domi Chansorn ']",
+location,event,date,artists,genre
+Zürich,Werner-und-Company,2016-01-12,['Werner und Company '],Pop
+Zürich,Building-Bridges-Sir-András-Schiff-präsentiert,2016-01-12,['Schaghajegh Nosrati '],Classic
+Zürich,Donadio-Family-Ensemble,2016-01-12,"[' Dalia ', ' Madlen ', ' Moreno ', ' Toni ']",
+Basel,Kammermusik-Basel,2016-01-12,['Borromeo String Quartet '],Classic
+Zürich,Neue-Konzertreihe-Zürich,2016-01-12,[' Patricia Kopatchinskaja '],Classic
+Luzern,Forum-Neue-Musik-Luzern,2016-01-12,[' Vincent Glanzmann '],
+Lugano,Ascoltare-due-volte,2016-01-12,['Caroline Doerge '],Classic
+Bern,Alpin-Project,2016-01-12,"[' Thomas Aeschbacher ', ' Balthasar Streiff ', ' Chris Pfändler ']",traditional
+Basel,Nolan-Quinn,2016-01-12,"[' Nolan Quinn ', ' Jonathan Maag ', ' Oliver Illi ', ' Simon Quinn ', ' Brian Quinn ']",
+Zürich,Vallon-Michel-Götte-Chansorn,2016-01-12,"[' Matthieu Michel ', ' Colin Vallon ', ' Flo Götte ', ' Domi Chansorn ']",

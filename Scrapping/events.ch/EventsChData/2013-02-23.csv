@@ -1,34 +1,34 @@
-,location,event,date,artists,genre
-0,Aarau,Christian-Münchinger-Quartett,2013-02-23,"[' Christian Münchinger ', ' Christoph Stiefel ', ' Andreas Zitz ', ' Pius Baschnagel ']",
-1,Aarau,Wandelweiser-und-so-weiter,2013-02-23,"[' Angharad Davies ', ' Johnny Chang ', ' Stefan Thut ', ' Jürg Frey ', ' Tim Parkinson ']",Classic
-2,Bern,Konzert,2013-02-23,['Pavel Yeletskiy '],Classic
-3,Zürich,Bach-Parcours-Sonaten-Suiten-Partiten,2013-02-23,"['Marc Hantaï ', ' Hélène Schmitt ', ' Maya Amrein ', ' Jörg-Andreas Bötticher ']",Classic
-4,Luzern,Piano-Entertainment-Improvisationen,2013-02-23,['Mega Horvath '],Classic
-5,Basel,Devastating-Enemy,2013-02-23,['Devastating Enemy '],
-6,Exil,Zürich,2013-02-23,['Firewater '],Firewater
-7,Zürich,Kendrick-Lamar,2013-02-23,['Kendrick Lamar '],
-8,Zürich,Bach-Parcours-Das-musikalische-Opfer,2013-02-23,"['Marc Hantaï ', ' Hélène Schmitt ', ' Maya Amrein ', ' Jörg-Andreas Bötticher ']",Classic
-9,Zürich,Reunite-the-Youth,2013-02-23,"[""Rider's Connection ""]",Pop
-10,Burgdorf,Whole-Lotta-DC,2013-02-23,"[' Alex Rock ', ' Fatgus ', ' Patrick ', ' Teva ', ' Frieda ']",
-11,Jona,Irish-Festival,2013-02-23,['Fintan McHugh '],
-12,Zürich,The-Overtones,2013-02-23,['The Overtones '],Pop
-13,null,Lichtraum-Klassik-und-Jazz,2013-02-23,"['Béatrice Rogger ', ' Peter Walters ']",
-14,Winterthur,Musica-aperta-The-Mistake-I-Am,2013-02-23,"['Noëlle-Anne Darbellay ', ' Samuel Stoll ']",Classic
-15,El-Lokal,Zürich,2013-02-23,['Bratsch '],Bratsch
-16,Zürich,Loose-Assembly,2013-02-23,"['Loose Assembly ', ' Living by Lanterns ']",
-17,Thun,Jammin',2013-02-23,"[' Martin Kissling ', ' Marcel Suk ', ' Claude Barbotte ', ' Andreas Beer ', ' Marc Schoedler ', ' Simon Hirsiger ', ' Boris Pilleri ']",
-18,Mühlethurnen,Mono-Blues-Band,2013-02-23,"[' Beat Trachsel ', ' Peter Höfler ', ' Tom Trees ']",
-19,Zürich,The-Koby-Israelite-Band,2013-02-23,"['The Koby Israelite Band ', ' Koby Israelite ', ' Ant Law ', ' Neil Charles ', ' Rob Terry ', ' Marjius Aleksa ']",
-20,Sankt-Gallen,Svin,2013-02-23,"['Svin ', ' Marybell Katastrophy ']",Electronic
-21,Bellinzona,Orchestra-della-Svizzera-Italiana,2013-02-23,[' Vincent Godel '],Classic
-22,Schaffhausen,Pöbel-&-Gesocks,2013-02-23,['Pöbel & Gesocks '],
-23,Schaffhausen,Cosmo-Alley,2013-02-23,"[' Tom Krailing ', ' Gianni Palumbo ', ' Cighi Damonte ', ' Tom Etter ', ' Christoph Lenz ', ' Lukas Bosshardt ']",
-24,Restaurant-Kreuz,Cham,2013-02-23,['Heinrich Müller & Band '],
-25,Zürich,Close-to-Mars,2013-02-23,"[' Dave Feusi ', ' Felix Utzinger ', ' Roland Köppel ', ' Andreas Schnyder ']",
-26,Düdingen,Pro-Pain,2013-02-23,"['Pro Pain ', ' Six Reasons To Kill ']",
-27,Luzern,Homeboy-Sandman,2013-02-23,['Homeboy Sandman '],
-28,Schaffhausen,Ashtones,2013-02-23,['Ashtones '],
-29,Luzern,Caribbean-Fever,2013-02-23,['DJs Miwata '],
-30,Chur,The-Big-One,2013-02-23,"['DJs Will ', ' Big Tex ']",
-31,Basel,Tobias-Preisig-In-Transit,2013-02-23,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-32,Lyss,The-Pharcyde,2013-02-23,['The Pharcyde '],
+location,event,date,artists,genre
+Aarau,Christian-Münchinger-Quartett,2013-02-23,"[' Christian Münchinger ', ' Christoph Stiefel ', ' Andreas Zitz ', ' Pius Baschnagel ']",
+Aarau,Wandelweiser-und-so-weiter,2013-02-23,"[' Angharad Davies ', ' Johnny Chang ', ' Stefan Thut ', ' Jürg Frey ', ' Tim Parkinson ']",Classic
+Bern,Konzert,2013-02-23,['Pavel Yeletskiy '],Classic
+Zürich,Bach-Parcours-Sonaten-Suiten-Partiten,2013-02-23,"['Marc Hantaï ', ' Hélène Schmitt ', ' Maya Amrein ', ' Jörg-Andreas Bötticher ']",Classic
+Luzern,Piano-Entertainment-Improvisationen,2013-02-23,['Mega Horvath '],Classic
+Basel,Devastating-Enemy,2013-02-23,['Devastating Enemy '],
+Exil,Zürich,2013-02-23,['Firewater '],Firewater
+Zürich,Kendrick-Lamar,2013-02-23,['Kendrick Lamar '],
+Zürich,Bach-Parcours-Das-musikalische-Opfer,2013-02-23,"['Marc Hantaï ', ' Hélène Schmitt ', ' Maya Amrein ', ' Jörg-Andreas Bötticher ']",Classic
+Zürich,Reunite-the-Youth,2013-02-23,"[""Rider's Connection ""]",Pop
+Burgdorf,Whole-Lotta-DC,2013-02-23,"[' Alex Rock ', ' Fatgus ', ' Patrick ', ' Teva ', ' Frieda ']",
+Jona,Irish-Festival,2013-02-23,['Fintan McHugh '],
+Zürich,The-Overtones,2013-02-23,['The Overtones '],Pop
+null,Lichtraum-Klassik-und-Jazz,2013-02-23,"['Béatrice Rogger ', ' Peter Walters ']",
+Winterthur,Musica-aperta-The-Mistake-I-Am,2013-02-23,"['Noëlle-Anne Darbellay ', ' Samuel Stoll ']",Classic
+El-Lokal,Zürich,2013-02-23,['Bratsch '],Bratsch
+Zürich,Loose-Assembly,2013-02-23,"['Loose Assembly ', ' Living by Lanterns ']",
+Thun,Jammin',2013-02-23,"[' Martin Kissling ', ' Marcel Suk ', ' Claude Barbotte ', ' Andreas Beer ', ' Marc Schoedler ', ' Simon Hirsiger ', ' Boris Pilleri ']",
+Mühlethurnen,Mono-Blues-Band,2013-02-23,"[' Beat Trachsel ', ' Peter Höfler ', ' Tom Trees ']",
+Zürich,The-Koby-Israelite-Band,2013-02-23,"['The Koby Israelite Band ', ' Koby Israelite ', ' Ant Law ', ' Neil Charles ', ' Rob Terry ', ' Marjius Aleksa ']",
+Sankt-Gallen,Svin,2013-02-23,"['Svin ', ' Marybell Katastrophy ']",Electronic
+Bellinzona,Orchestra-della-Svizzera-Italiana,2013-02-23,[' Vincent Godel '],Classic
+Schaffhausen,Pöbel-&-Gesocks,2013-02-23,['Pöbel & Gesocks '],
+Schaffhausen,Cosmo-Alley,2013-02-23,"[' Tom Krailing ', ' Gianni Palumbo ', ' Cighi Damonte ', ' Tom Etter ', ' Christoph Lenz ', ' Lukas Bosshardt ']",
+Restaurant-Kreuz,Cham,2013-02-23,['Heinrich Müller & Band '],
+Zürich,Close-to-Mars,2013-02-23,"[' Dave Feusi ', ' Felix Utzinger ', ' Roland Köppel ', ' Andreas Schnyder ']",
+Düdingen,Pro-Pain,2013-02-23,"['Pro Pain ', ' Six Reasons To Kill ']",
+Luzern,Homeboy-Sandman,2013-02-23,['Homeboy Sandman '],
+Schaffhausen,Ashtones,2013-02-23,['Ashtones '],
+Luzern,Caribbean-Fever,2013-02-23,['DJs Miwata '],
+Chur,The-Big-One,2013-02-23,"['DJs Will ', ' Big Tex ']",
+Basel,Tobias-Preisig-In-Transit,2013-02-23,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
+Lyss,The-Pharcyde,2013-02-23,['The Pharcyde '],

@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Zürich,Monte-Carlo,2016-02-07,['Monte Carlo '],Pop
-1,Zürich,Marcel-Bernasconi,2016-02-07,['Marcel Bernasconi '],
-2,Hinwil,Robert-Schumann-,2016-02-07,[' Dorothea Frey '],Classic
-3,Basel,Litanie,2016-02-07,['Jan Jage '],Classic
-4,Basel,Catone-in-Utica,2016-02-07,"[' Emiliano Gonzales Toro ', ' Anett Fritsch ', ' Ann Hallenberg ', ' Francesca Ascioti ']",Classic
-5,Zürich,Jay-Prince,2016-02-07,['Jay Prince '],
-6,Winterthur,The-Good-Life,2016-02-07,"['The Good Life ', ' Big Harp ']",Pop
-7,Zürich,Nils-Wogram-&-Bojan-Z-Duo,2016-02-07,"[' Nils Wogram ', ' Bojan Zulficarpasic ']",
-8,Lyss,UK-Subs,2016-02-07,"['UK Subs ', ' TV Smith ']",
-9,Feuerthalen,Will-Wilde,2016-02-07,['Will Wilde '],
-10,Zürich,Klassische-Musik-mit-einem-Gast,2016-02-07,[' Christian Tetzlaff '],Classic
-11,Zürich,Aussergewöhnliche-Klangmischung,2016-02-07,"['Sharon Kam ', ' Daniel Müller-Schott ', ' Enrico Pace ']",Classic
-12,Zürich,Swanky-Mothers-Series-XXXIII,2016-02-07,"[' Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
-13,Bern,Maurice-Louca-Trio-&-The-Dwarfs-Of-East-Agouza,2016-02-07,"['Maurice Louca Trio & The Dwarfs Of East Agouza ', ' Maurice Louca ', ' key) Alan Bishop ', ' voc) Bashar Farran ']",
+location,event,date,artists,genre
+Zürich,Monte-Carlo,2016-02-07,['Monte Carlo '],Pop
+Zürich,Marcel-Bernasconi,2016-02-07,['Marcel Bernasconi '],
+Hinwil,Robert-Schumann-,2016-02-07,[' Dorothea Frey '],Classic
+Basel,Litanie,2016-02-07,['Jan Jage '],Classic
+Basel,Catone-in-Utica,2016-02-07,"[' Emiliano Gonzales Toro ', ' Anett Fritsch ', ' Ann Hallenberg ', ' Francesca Ascioti ']",Classic
+Zürich,Jay-Prince,2016-02-07,['Jay Prince '],
+Winterthur,The-Good-Life,2016-02-07,"['The Good Life ', ' Big Harp ']",Pop
+Zürich,Nils-Wogram-&-Bojan-Z-Duo,2016-02-07,"[' Nils Wogram ', ' Bojan Zulficarpasic ']",
+Lyss,UK-Subs,2016-02-07,"['UK Subs ', ' TV Smith ']",
+Feuerthalen,Will-Wilde,2016-02-07,['Will Wilde '],
+Zürich,Klassische-Musik-mit-einem-Gast,2016-02-07,[' Christian Tetzlaff '],Classic
+Zürich,Aussergewöhnliche-Klangmischung,2016-02-07,"['Sharon Kam ', ' Daniel Müller-Schott ', ' Enrico Pace ']",Classic
+Zürich,Swanky-Mothers-Series-XXXIII,2016-02-07,"[' Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
+Bern,Maurice-Louca-Trio-&-The-Dwarfs-Of-East-Agouza,2016-02-07,"['Maurice Louca Trio & The Dwarfs Of East Agouza ', ' Maurice Louca ', ' key) Alan Bishop ', ' voc) Bashar Farran ']",

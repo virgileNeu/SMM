@@ -1,13 +1,13 @@
-,location,event,date,artists,genre
-0,Zürich,Werner-und-Company,2015-07-14,['Werner und Company '],Pop
-1,Basel,Christopher-Paul-Stelling,2015-07-14,['Christopher Paul Stelling '],
-2,Ernen,Musikdorf-Ernen-Klavierrezital,2015-07-14,['Chi Ho Han '],Classic
-3,null,Stimmen,2015-07-14,['Scott Matthew '],Pop
-4,Montreux,Montreux-Jazz-Festival,2015-07-14,"['The Bad Plus feat Joshua Redman ', ' Jerry Léonide Quintet ']",
-5,Montreux,Montreux-Jazz-Festival,2015-07-14,"['Santana ', ' Songhoy Blues ']",
-6,Zürich,Camel,2015-07-14,['Camel '],
-7,null,Kulturfestival-St.-Gallen,2015-07-14,['Winston McAnuff & Fixi '],
-8,Locarno,Moon-and-Stars,2015-07-14,['Lenny Kravitz '],
-9,Montreux,Montreux-Jazz-Festival,2015-07-14,['The Kooks '],
-10,Zürich,Swans,2015-07-14,['Swans '],
-11,St.-Moritz,Festival-da-Jazz,2015-07-14,"[' Stefano Bollani ', ' Jason Adasiewicz ', ' Paul Santner ', ' Jim Black ']",
+location,event,date,artists,genre
+Zürich,Werner-und-Company,2015-07-14,['Werner und Company '],Pop
+Basel,Christopher-Paul-Stelling,2015-07-14,['Christopher Paul Stelling '],
+Ernen,Musikdorf-Ernen-Klavierrezital,2015-07-14,['Chi Ho Han '],Classic
+null,Stimmen,2015-07-14,['Scott Matthew '],Pop
+Montreux,Montreux-Jazz-Festival,2015-07-14,"['The Bad Plus feat Joshua Redman ', ' Jerry Léonide Quintet ']",
+Montreux,Montreux-Jazz-Festival,2015-07-14,"['Santana ', ' Songhoy Blues ']",
+Zürich,Camel,2015-07-14,['Camel '],
+null,Kulturfestival-St.-Gallen,2015-07-14,['Winston McAnuff & Fixi '],
+Locarno,Moon-and-Stars,2015-07-14,['Lenny Kravitz '],
+Montreux,Montreux-Jazz-Festival,2015-07-14,['The Kooks '],
+Zürich,Swans,2015-07-14,['Swans '],
+St.-Moritz,Festival-da-Jazz,2015-07-14,"[' Stefano Bollani ', ' Jason Adasiewicz ', ' Paul Santner ', ' Jim Black ']",

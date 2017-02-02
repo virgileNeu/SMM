@@ -1,13 +1,13 @@
-,location,event,date,artists,genre
-0,Basel,Orgelmusik-über-Mittag,2015-08-01,['Urs Höchle '],Classic
-1,Bern,No-Borders-No-Nations,2015-08-01,"[' War On Women ', ' Marathonman ', ' Irie Révoltés ']",
-2,Verbier,Verbier-Festival,2015-08-01,['Boris Kuschnir '],Classic
-3,Luzern,1.-August-Feier,2015-08-01,"['Kora Trio ', ' Riders Connection ']",
-4,Zürich,Andy-Gruber-Band,2015-08-01,['Andy Gruber Band '],Pop
-5,Verbier,Verbier-Festival,2015-08-01,"[' Pretty Yende ', ' conductor: Joshua Bell ']",Classic
-6,Frauenfeld,Sommerloch,2015-08-01,['Rackhouse Pilfer '],
-7,Dornach,Nordisches-Konzert-mit-Eurythmie,2015-08-01,"['Einar Steen Nøkleberg ', ' Linda Hedlund ', ' Niels Henrik Nielsen ']",Classic
-8,Thun,Am-Schluss,2015-08-01,['17 Hippies '],
-9,Verbier,Verbier-Festival,2015-08-01,['Beatrice Rana '],Classic
-10,Bern,Bejazz-Sommer,2015-08-01,"[' Baze ', ' Fabian Mueller ', ' Toni Schiavano ', ' Fabian Bürgi ']",
-11,St.-Moritz,Festival-da-Jazz,2015-08-01,"[' Othella Dallas ', ' Bill Ramsey ']",
+location,event,date,artists,genre
+Basel,Orgelmusik-über-Mittag,2015-08-01,['Urs Höchle '],Classic
+Bern,No-Borders-No-Nations,2015-08-01,"[' War On Women ', ' Marathonman ', ' Irie Révoltés ']",
+Verbier,Verbier-Festival,2015-08-01,['Boris Kuschnir '],Classic
+Luzern,1.-August-Feier,2015-08-01,"['Kora Trio ', ' Riders Connection ']",
+Zürich,Andy-Gruber-Band,2015-08-01,['Andy Gruber Band '],Pop
+Verbier,Verbier-Festival,2015-08-01,"[' Pretty Yende ', ' conductor: Joshua Bell ']",Classic
+Frauenfeld,Sommerloch,2015-08-01,['Rackhouse Pilfer '],
+Dornach,Nordisches-Konzert-mit-Eurythmie,2015-08-01,"['Einar Steen Nøkleberg ', ' Linda Hedlund ', ' Niels Henrik Nielsen ']",Classic
+Thun,Am-Schluss,2015-08-01,['17 Hippies '],
+Verbier,Verbier-Festival,2015-08-01,['Beatrice Rana '],Classic
+Bern,Bejazz-Sommer,2015-08-01,"[' Baze ', ' Fabian Mueller ', ' Toni Schiavano ', ' Fabian Bürgi ']",
+St.-Moritz,Festival-da-Jazz,2015-08-01,"[' Othella Dallas ', ' Bill Ramsey ']",

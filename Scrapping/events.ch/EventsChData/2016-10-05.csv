@@ -1,29 +1,29 @@
-,location,event,date,artists,genre
-0,Winterthur,Öffentliche-Generalprobe,2016-10-05,[' Isabelle von Keulen '],Classic
-1,Basel,Mimiko-The-Auroras-of-Autum,2016-10-05,['Works by Martin Walter '],Classic
-2,Basel,Kostprobe-I,2016-10-05,[' Kit Armstrong '],Classic
-3,Zürich,Monte-Carlo,2016-10-05,['Monte Carlo '],Pop
-4,Pratteln,Dead-Letter-Circus,2016-10-05,['Dead Letter Circus '],
-5,Frauenfeld,Conversations-with-the-Bass,2016-10-05,"[' Heiri Känzig ', ' Franco Ambrosetti ']",
-6,Winterthur,Musikkollegium-Winterthur,2016-10-05,['Isabelle von Keulen '],Classic
-7,Zürich,Orchestermagie,2016-10-05,[' Lisa Batiashvili '],Classic
-8,Zürich,Augustana,2016-10-05,['Augustana '],
-9,null,Popa-Chubby,2016-10-05,['Popa Chubby '],
-10,null,Paris-Days-Berlin-Nights,2016-10-05,"['Ute Lemper & das Vogler Quartett ', ' Stefan Malzew ']",
-11,Bern,Night-Beats,2016-10-05,['Night Beats '],
-12,Luzern,Jam-Night,2016-10-05,"[' Florian Respondek ', ' Christian Winiker ', ' Gregory Schärer ', ' Simon Gautsch ']",
-13,Zürich,Niila,2016-10-05,['Niila '],Pop
-14,Zürich,Red-Hot-Chili-Peppers,2016-10-05,['Red Hot Chili Peppers '],
-15,Luzern,Bernd-Begemann,2016-10-05,['Bernd Begemann '],Pop
-16,Zürich,Letzte-Liederabende,2016-10-05,['Julian Prégardien '],Classic
-17,Zürich,Ensemble-5-Wednesday-4+1-Series,2016-10-05,"['Heinz Geisser ', ' Fridolin Blumer ', ' Reto Staub ', ' Robert Morgenthaler ', ' Guy Bettini ']",
-18,Frick,Fricktaler-Blues-Festival,2016-10-05,['Pat McManus & Band '],
-19,Schaffhausen,Betunizer,2016-10-05,['Betunizer '],Electronic
-20,Basel,Bounce,2016-10-05,"[' Julian Hesse ', ' Jonathan Maag ', ' Andrey Tatarinets ', ' Domi Chansorn ']",
-21,Zürich,Jazzbaragge-Wednesday-Jam,2016-10-05,"['Chris Wiesendanger ', ' Patrice Moret ', ' Dejan Terzic ']",
-22,Zürich,Flamingods,2016-10-05,['Flamingods '],Electronic
-23,Zürich,Yung,2016-10-05,['Yung '],
-24,Lausanne,Yak,2016-10-05,['Yak '],
-25,Düdingen,Bruno-Spoerri,2016-10-05,[' Piet Jan Blauw '],Electronic
-26,Frauenfeld,Contemporary-Swiss-Jazz,2016-10-05,"[' Thierry Lang ', ' Heiri Känzig ', ' Andi Pupato ']",
-27,Zürich,Jazz-im-Oberdorf,2016-10-05,"[' Omri Ziegele ', ' Yves Theiler ', ' Dario Sisera ']",
+location,event,date,artists,genre
+Winterthur,Öffentliche-Generalprobe,2016-10-05,[' Isabelle von Keulen '],Classic
+Basel,Mimiko-The-Auroras-of-Autum,2016-10-05,['Works by Martin Walter '],Classic
+Basel,Kostprobe-I,2016-10-05,[' Kit Armstrong '],Classic
+Zürich,Monte-Carlo,2016-10-05,['Monte Carlo '],Pop
+Pratteln,Dead-Letter-Circus,2016-10-05,['Dead Letter Circus '],
+Frauenfeld,Conversations-with-the-Bass,2016-10-05,"[' Heiri Känzig ', ' Franco Ambrosetti ']",
+Winterthur,Musikkollegium-Winterthur,2016-10-05,['Isabelle von Keulen '],Classic
+Zürich,Orchestermagie,2016-10-05,[' Lisa Batiashvili '],Classic
+Zürich,Augustana,2016-10-05,['Augustana '],
+null,Popa-Chubby,2016-10-05,['Popa Chubby '],
+null,Paris-Days-Berlin-Nights,2016-10-05,"['Ute Lemper & das Vogler Quartett ', ' Stefan Malzew ']",
+Bern,Night-Beats,2016-10-05,['Night Beats '],
+Luzern,Jam-Night,2016-10-05,"[' Florian Respondek ', ' Christian Winiker ', ' Gregory Schärer ', ' Simon Gautsch ']",
+Zürich,Niila,2016-10-05,['Niila '],Pop
+Zürich,Red-Hot-Chili-Peppers,2016-10-05,['Red Hot Chili Peppers '],
+Luzern,Bernd-Begemann,2016-10-05,['Bernd Begemann '],Pop
+Zürich,Letzte-Liederabende,2016-10-05,['Julian Prégardien '],Classic
+Zürich,Ensemble-5-Wednesday-4+1-Series,2016-10-05,"['Heinz Geisser ', ' Fridolin Blumer ', ' Reto Staub ', ' Robert Morgenthaler ', ' Guy Bettini ']",
+Frick,Fricktaler-Blues-Festival,2016-10-05,['Pat McManus & Band '],
+Schaffhausen,Betunizer,2016-10-05,['Betunizer '],Electronic
+Basel,Bounce,2016-10-05,"[' Julian Hesse ', ' Jonathan Maag ', ' Andrey Tatarinets ', ' Domi Chansorn ']",
+Zürich,Jazzbaragge-Wednesday-Jam,2016-10-05,"['Chris Wiesendanger ', ' Patrice Moret ', ' Dejan Terzic ']",
+Zürich,Flamingods,2016-10-05,['Flamingods '],Electronic
+Zürich,Yung,2016-10-05,['Yung '],
+Lausanne,Yak,2016-10-05,['Yak '],
+Düdingen,Bruno-Spoerri,2016-10-05,[' Piet Jan Blauw '],Electronic
+Frauenfeld,Contemporary-Swiss-Jazz,2016-10-05,"[' Thierry Lang ', ' Heiri Känzig ', ' Andi Pupato ']",
+Zürich,Jazz-im-Oberdorf,2016-10-05,"[' Omri Ziegele ', ' Yves Theiler ', ' Dario Sisera ']",

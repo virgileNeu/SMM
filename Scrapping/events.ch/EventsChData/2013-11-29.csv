@@ -1,50 +1,50 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment,2013-11-29,['Mega Horvath '],
-1,Zürich,Prélude,2013-11-29,"[' Julia Pfenninger ', ' Anna Reichert ', ' Nicolas Borner ', ' Florian Glaus ', ' Vincent Dladla ', ' Richard Helm ']",Classic
-2,Basel,Orgelspiel-zum-Feierabend,2013-11-29,['Francesco Saverio Pedrini '],Classic
-3,Zürich,Chorvesper-Kantorei-ZHdK,2013-11-29,"['Anna Gschwend ', ' Anna Tuena ', ' Magdalena Irmann ', ' Sebestyén Nyírö ']",Classic
-4,Zürich,Terry-Oldfield,2013-11-29,['Terry Oldfield '],Pop
-5,Aarau,Klavierrezital,2013-11-29,['Gabriel Emanuel '],Classic
-6,Zürich,Konzert,2013-11-29,[' Deborah Voigt '],Classic
-7,Zürich,Dave-Hause,2013-11-29,"['Dave Hause ', ' Northcote ']",
-8,Zürich,Vom-Dunkel-zum-Licht,2013-11-29,"[' Elisabeth Meyer ', ' Alexandre Dubach ']",Classic
-9,null,1.-Meisterzyklus-Konzert,2013-11-29,"['Hille Perl ', ' Naoki Kitaya ', ' Lee Santana ', ' conductor: Maurice Steger ']",Classic
-10,Bern,Schuberts-(Un-)vollendete,2013-11-29,[' Stefan Jackiw '],Classic
-11,Olten,Konzert,2013-11-29,"[' Xavier de Maistre ', ' Lilia Tripodi ']",Classic
-12,Zürich,Kwartet-Wiejski,2013-11-29,"['Kwartet Wiejski ', ' Jacek Haas ', ' Alice Haas ', ' Robert Wasilewski ', ' Ewa Wasilewska ']",traditional
-13,Zürich,Unerhört-Ein-Zürcher-Jazzfestival,2013-11-29,"[' Gabrieala Friedli ', ' Tony Malaby ', ' Michael Griener ', ' Marco von Orelli ', ' Lukas Briggen ', ' Michel Wintsch ']",
-14,Altikon,Tango-Guitar,2013-11-29,"[' Roberto Francomano ', ' Enrique Harries ']",
-15,Zürich,Acoustic-Friday,2013-11-29,"[' Lisa Hasler ', ' Florian Möbes ']",
-16,Basel,Jan-Garbarek-Group-feat.-Trilok-Gurtu,2013-11-29,"['Jan Garbarek Group feat. Trilok Gurtu ', ' Jan Garbarek ', ' Rainer Brüninghaus ', ' Juri Daniel ', ' Trilok Gurtu ']",
-17,Rüthi,Bolschoi-Don-Kosakenchor,2013-11-29,['Bolschoi Don Kosakenchor '],
-18,Zürich,Barbie-Q.,2013-11-29,"[' Petra Retelj ', ' Ueli Angstmann ', ' Marcel Benedikt ', ' Jürg Schneebeli ', ' Imad Barnieh ']",Pop
-19,Lausanne,J.-Cole,2013-11-29,['J. Cole '],
-20,Zürich,Martina-Linn,2013-11-29,"[' Martina Linn ', ' Christian Winiker ', ' Andi Schnellmann ', ' Vincent Glanzmann ']",Pop
-21,Dietikon,Dietiker-Saxophon-Quartett,2013-11-29,"[' Hans Baumann ', ' Rolf Schaeren ', ' Alexander Zurbruegg ', ' Martin Hartwig ', ' Lukas Landis ']",
-22,Winterthur,Akku-Quintet,2013-11-29,"[' Thierry Lüthy ', ' Maja Nydegger ', ' Markus Ischer ', ' Jeremias Keller ', ' Manuel Pasquinelli ']",
-23,Basel,Masterrezital,2013-11-29,[' Victor de Souza Soares '],Classic
-24,Burgdorf,Andy-Martin-&-His-Acoustic-Friends,2013-11-29,"[' Andy Martin ', ' Michael Schweizer ', ' Achim Budde ', ' Marcel Britt ']",
-25,Zürich,Mehliana-feat.-Brad-Mehldau-&-Mark-Guiliana,2013-11-29,"['Mehliana feat. Brad Mehldau & Mark Guiliana ', ' Brad Mehldau ', ' Mark Giuliana ']",Electronic
-26,Basel,Ramón-Valle-Trio,2013-11-29,"[' Ramón Valle ', ' Omar Rodriguez Calvo ', ' Ernesto Simpson ']",
-27,Winterthur,Bombus,2013-11-29,"['Bombus ', ' Black Temple ']",
-28,Liebefeld,Gesing-Roher-Meyer,2013-11-29,"[' Klaus Gesing ', ' Samuel Rohrer ', ' Björn Meyer ']",
-29,Zürich,Lasse-Matthiesen-&-Band,2013-11-29,['Lasse Matthiesen & Band '],
-30,Zürich,Andrinada,2013-11-29,"[' Andrina Bollinger ', ' Jodok Hess ', ' Markus Stalder ', ' Bernhard Bamert ', ' Patrick Sommer ', ' Florian Reichle ', ' Pius Baschnagel ']",
-31,null,Jam-Session,2013-11-29,"[' Anne-Florence Schneider ', ' Claude Schneider ', ' Dudu Penz ']",
-32,Baden,Jake-Bellows,2013-11-29,['Jake Bellows '],
-33,Basel,Kelvin-Bullen-Trio,2013-11-29,"[' Kelvin Bullen ', ' Robbi Schweizer ', ' Don Gill ']",
-34,Luzern,Ken-Stringfellow,2013-11-29,['Ken Stringfellow '],Pop
-35,Luzern,Crystal-Ball,2013-11-29,['Crystal Ball '],
-36,Bern,Women-With-Guitars,2013-11-29,['Becky Lee And Drunkfoot '],
-37,Luzern,Njoy-Music,2013-11-29,['Berlinutz '],
-38,Basel,The-Bianca-Story,2013-11-29,['The Bianca Story '],Pop
-39,Schaffhausen,Irish-Nights,2013-11-29,"[""Blazin' Fiddles "", ' Manran ']",
-40,null,Megaloh,2013-11-29,['Megaloh '],
-41,Zürich,The-Homestories,2013-11-29,['The Homestories '],Electronic
-42,Grenchen,Blues-Express,2013-11-29,"['Tom Marcozzi ', ' Philipp Lüdi ', ' Lukas Zürcher ']",
-43,Oberentfelden,Hark-&-Angry-Bastard,2013-11-29,['Hark '],
-44,Zug,Frisk,2013-11-29,['Frisk '],
-45,Lyss,The-Beatnuts,2013-11-29,['The Beatnuts '],
-46,Zürich,Funkdoobiest,2013-11-29,['Funkdoobiest '],
-47,Zürich,Type-II-Overkill,2013-11-29,['Type II Overkill '],
-48,Kriens,Pupkulies-&-Rebecca,2013-11-29,['Pupkulies & Rebecca '],
+location,event,date,artists,genre
+Luzern,Piano-Entertainment,2013-11-29,['Mega Horvath '],
+Zürich,Prélude,2013-11-29,"[' Julia Pfenninger ', ' Anna Reichert ', ' Nicolas Borner ', ' Florian Glaus ', ' Vincent Dladla ', ' Richard Helm ']",Classic
+Basel,Orgelspiel-zum-Feierabend,2013-11-29,['Francesco Saverio Pedrini '],Classic
+Zürich,Chorvesper-Kantorei-ZHdK,2013-11-29,"['Anna Gschwend ', ' Anna Tuena ', ' Magdalena Irmann ', ' Sebestyén Nyírö ']",Classic
+Zürich,Terry-Oldfield,2013-11-29,['Terry Oldfield '],Pop
+Aarau,Klavierrezital,2013-11-29,['Gabriel Emanuel '],Classic
+Zürich,Konzert,2013-11-29,[' Deborah Voigt '],Classic
+Zürich,Dave-Hause,2013-11-29,"['Dave Hause ', ' Northcote ']",
+Zürich,Vom-Dunkel-zum-Licht,2013-11-29,"[' Elisabeth Meyer ', ' Alexandre Dubach ']",Classic
+null,1.-Meisterzyklus-Konzert,2013-11-29,"['Hille Perl ', ' Naoki Kitaya ', ' Lee Santana ', ' conductor: Maurice Steger ']",Classic
+Bern,Schuberts-(Un-)vollendete,2013-11-29,[' Stefan Jackiw '],Classic
+Olten,Konzert,2013-11-29,"[' Xavier de Maistre ', ' Lilia Tripodi ']",Classic
+Zürich,Kwartet-Wiejski,2013-11-29,"['Kwartet Wiejski ', ' Jacek Haas ', ' Alice Haas ', ' Robert Wasilewski ', ' Ewa Wasilewska ']",traditional
+Zürich,Unerhört-Ein-Zürcher-Jazzfestival,2013-11-29,"[' Gabrieala Friedli ', ' Tony Malaby ', ' Michael Griener ', ' Marco von Orelli ', ' Lukas Briggen ', ' Michel Wintsch ']",
+Altikon,Tango-Guitar,2013-11-29,"[' Roberto Francomano ', ' Enrique Harries ']",
+Zürich,Acoustic-Friday,2013-11-29,"[' Lisa Hasler ', ' Florian Möbes ']",
+Basel,Jan-Garbarek-Group-feat.-Trilok-Gurtu,2013-11-29,"['Jan Garbarek Group feat. Trilok Gurtu ', ' Jan Garbarek ', ' Rainer Brüninghaus ', ' Juri Daniel ', ' Trilok Gurtu ']",
+Rüthi,Bolschoi-Don-Kosakenchor,2013-11-29,['Bolschoi Don Kosakenchor '],
+Zürich,Barbie-Q.,2013-11-29,"[' Petra Retelj ', ' Ueli Angstmann ', ' Marcel Benedikt ', ' Jürg Schneebeli ', ' Imad Barnieh ']",Pop
+Lausanne,J.-Cole,2013-11-29,['J. Cole '],
+Zürich,Martina-Linn,2013-11-29,"[' Martina Linn ', ' Christian Winiker ', ' Andi Schnellmann ', ' Vincent Glanzmann ']",Pop
+Dietikon,Dietiker-Saxophon-Quartett,2013-11-29,"[' Hans Baumann ', ' Rolf Schaeren ', ' Alexander Zurbruegg ', ' Martin Hartwig ', ' Lukas Landis ']",
+Winterthur,Akku-Quintet,2013-11-29,"[' Thierry Lüthy ', ' Maja Nydegger ', ' Markus Ischer ', ' Jeremias Keller ', ' Manuel Pasquinelli ']",
+Basel,Masterrezital,2013-11-29,[' Victor de Souza Soares '],Classic
+Burgdorf,Andy-Martin-&-His-Acoustic-Friends,2013-11-29,"[' Andy Martin ', ' Michael Schweizer ', ' Achim Budde ', ' Marcel Britt ']",
+Zürich,Mehliana-feat.-Brad-Mehldau-&-Mark-Guiliana,2013-11-29,"['Mehliana feat. Brad Mehldau & Mark Guiliana ', ' Brad Mehldau ', ' Mark Giuliana ']",Electronic
+Basel,Ramón-Valle-Trio,2013-11-29,"[' Ramón Valle ', ' Omar Rodriguez Calvo ', ' Ernesto Simpson ']",
+Winterthur,Bombus,2013-11-29,"['Bombus ', ' Black Temple ']",
+Liebefeld,Gesing-Roher-Meyer,2013-11-29,"[' Klaus Gesing ', ' Samuel Rohrer ', ' Björn Meyer ']",
+Zürich,Lasse-Matthiesen-&-Band,2013-11-29,['Lasse Matthiesen & Band '],
+Zürich,Andrinada,2013-11-29,"[' Andrina Bollinger ', ' Jodok Hess ', ' Markus Stalder ', ' Bernhard Bamert ', ' Patrick Sommer ', ' Florian Reichle ', ' Pius Baschnagel ']",
+null,Jam-Session,2013-11-29,"[' Anne-Florence Schneider ', ' Claude Schneider ', ' Dudu Penz ']",
+Baden,Jake-Bellows,2013-11-29,['Jake Bellows '],
+Basel,Kelvin-Bullen-Trio,2013-11-29,"[' Kelvin Bullen ', ' Robbi Schweizer ', ' Don Gill ']",
+Luzern,Ken-Stringfellow,2013-11-29,['Ken Stringfellow '],Pop
+Luzern,Crystal-Ball,2013-11-29,['Crystal Ball '],
+Bern,Women-With-Guitars,2013-11-29,['Becky Lee And Drunkfoot '],
+Luzern,Njoy-Music,2013-11-29,['Berlinutz '],
+Basel,The-Bianca-Story,2013-11-29,['The Bianca Story '],Pop
+Schaffhausen,Irish-Nights,2013-11-29,"[""Blazin' Fiddles "", ' Manran ']",
+null,Megaloh,2013-11-29,['Megaloh '],
+Zürich,The-Homestories,2013-11-29,['The Homestories '],Electronic
+Grenchen,Blues-Express,2013-11-29,"['Tom Marcozzi ', ' Philipp Lüdi ', ' Lukas Zürcher ']",
+Oberentfelden,Hark-&-Angry-Bastard,2013-11-29,['Hark '],
+Zug,Frisk,2013-11-29,['Frisk '],
+Lyss,The-Beatnuts,2013-11-29,['The Beatnuts '],
+Zürich,Funkdoobiest,2013-11-29,['Funkdoobiest '],
+Zürich,Type-II-Overkill,2013-11-29,['Type II Overkill '],
+Kriens,Pupkulies-&-Rebecca,2013-11-29,['Pupkulies & Rebecca '],
