@@ -39,4 +39,5 @@ for i, row in df.iterrows():
         clean_df.loc[j] = row
         j += 1
 
-clean_df.to_csv('rdf-festivals-complete.csv')
+OUT_NAME = 'RDF.csv'
+clean_df.to_csv(OUT_NAME)

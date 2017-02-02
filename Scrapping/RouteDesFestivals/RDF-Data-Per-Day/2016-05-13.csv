@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Lausanne,BALELEC,2016-05-13,FRITZ KALKBRENNER,,"(46.5196535, 6.6322734)"
-La Chaux du Milieu,CORBAK,2016-05-13,SOPHIE HUNGER,,"(47.0131911, 6.703647699999999)"
+location,event,date,artist
+Lausanne,BALELEC,2016-05-13,FRITZ KALKBRENNER
+La Chaux du Milieu,CORBAK,2016-05-13,SOPHIE HUNGER

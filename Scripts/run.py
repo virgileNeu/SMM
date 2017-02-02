@@ -18,8 +18,8 @@ if __name__ == "__main__":
 	output_file =merging_path_folder+"AllMerged.csv"
 	
 	maxPage = 1
-	EventsChDataExtractor.getEventsBetween(startDateObject,endDateObject,maxPage,eventsch_path_folder)
-	AggregateData.aggregate(eventsch_path_folder,outputfile_eventsch)
+	#EventsChDataExtractor.getEventsBetween(startDateObject,endDateObject,maxPage,eventsch_path_folder)
+	#AggregateData.aggregate(eventsch_path_folder,outputfile_eventsch)
 	
 	filename = merging_path_folder+"ClubMerged.csv"
 	ResidentAdvisor_scrapping.scrap(filename, start=0,end=2,encoding = "utf-8")

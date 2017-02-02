@@ -6,6 +6,8 @@ import glob
 import json
 import sys
 import time
+import sys
+sys.path.insert(0,"..\..\Scripts\Utils")
 import ArtistExtractor as AE
 from dateutil.parser import parse
 
@@ -139,11 +141,9 @@ def getDataframesOfEvents(clubDF,start=0,end=10000000):
 		file_name = file_name.replace(u"/"," ").replace(u"*"," ")
 		file_name = d[0]+"-"+file_name
 		
-		#Define other fileds
-		df['genre'] = None
-		df['location'] = None
+	
 		
-		df = df[['place','address','location','event','date','artists','genre']]
+		df = df[['place','address','event','date','artists']]
 		#Save as CSV
 		try:
 			saving_to = 'ClubData/'+file_name+".csv"
@@ -183,7 +183,7 @@ def scrap(filename, start=0,end=1000000,encoding = "utf-8"):
 		end = len(clubDF.values)
 	getDataframesOfEvents(clubDF,start,end)
 	ClubDataFrame = mergeClubData(encoding)
-	ClubDataFrame = ClubDataFrame[['place','address','location','event','date','artists','genre']]
+	ClubDataFrame = ClubDataFrame[['place','address','event','date','artists']]
 	ClubDataFrame.to_csv(filename,encoding = encoding)
 	print("File saved to : "+filename)
 	

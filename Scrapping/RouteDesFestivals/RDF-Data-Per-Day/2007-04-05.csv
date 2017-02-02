@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Geneve,ELECTRON,2007-04-05,ADAM KESHER,,"(46.2043907, 6.1431577)"
-Montreux,MOTION OPENAIR,2007-04-05,DAVID GUETTA,,"(46.4312213, 6.9106799)"
+location,event,date,artist
+Geneve,ELECTRON,2007-04-05,ADAM KESHER
+Montreux,MOTION OPENAIR,2007-04-05,DAVID GUETTA

@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Geneve,ANTIGEL,2016-02-07,GENEVA CAMERATA,,"(46.2043907, 6.1431577)"
-Collonge Bellerive,ANTIGEL,2016-02-07,LEE RANALDO,,"(46.2514024, 6.2022904)"
+location,event,date,artist
+Geneve,ANTIGEL,2016-02-07,GENEVA CAMERATA
+Collonge Bellerive,ANTIGEL,2016-02-07,LEE RANALDO

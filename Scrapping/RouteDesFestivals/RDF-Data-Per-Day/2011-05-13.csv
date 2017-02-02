@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Bale (Basel),JAZZFESTIVAL BASEL,2011-05-13,BOBBY MC FERRIN,,"(47.5595986, 7.5885761)"
-Vernier,VERNIER SUR ROCK,2011-05-13,DUB INC,,"(46.2122638, 6.1052686)"
+location,event,date,artist
+Bale (Basel),JAZZFESTIVAL BASEL,2011-05-13,BOBBY MC FERRIN
+Vernier,VERNIER SUR ROCK,2011-05-13,DUB INC

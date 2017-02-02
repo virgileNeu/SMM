@@ -1,4 +1,4 @@
-location,event,date,artist,genre,coordinates
-Carouge,ANTIGEL,2011-02-12,DANNY KRIVIT,,"(46.1829674, 6.1378539)"
-Grand Lancy,ANTIGEL,2011-02-12,REBETEKE,,"(46.1781048, 6.1233726)"
-Collonge Bellerive,ANTIGEL,2011-02-12,NIK BARTSCH'S,,"(46.2514024, 6.2022904)"
+location,event,date,artist
+Carouge,ANTIGEL,2011-02-12,DANNY KRIVIT
+Grand Lancy,ANTIGEL,2011-02-12,REBETEKE
+Collonge Bellerive,ANTIGEL,2011-02-12,NIK BARTSCH'S
