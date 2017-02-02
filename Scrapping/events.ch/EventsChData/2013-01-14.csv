@@ -1,10 +1,10 @@
-location,event,date,artists,genre
-null,Migros-Kulturprozent-Classics-2,2013-01-14,[' Emmanuel Pahud '],Classic
-Basel,Liederabend,2013-01-14,"['Anne Sofie von Otter ', ' Simon Crawford-Phillips ']",Classic
-Zürich,Konzert,2013-01-14,['Daniil Trifonov '],Classic
-Basel,Masterkonzert,2013-01-14,[' Sonoko Ogowa '],Classic
-Winterthur,Richard-Walters,2013-01-14,['Richard Walters '],Pop
-Basel,Solo-Herren-Abend,2013-01-14,"['Wiktor Kociuban ', ' Friedemann A. Treiber ', ' Aleksander Gabry ']",Classic
-Flawil,Corretto,2013-01-14,"[' Pino Buoro ', ' Ernst Waespe ', ' Nina Rechsteiner ']",
-Restaurant-Isebähnli,Baden,2013-01-14,"[' Bernhard Bamert ', ' Christian Niederer ', ' Thomas Lüthi ']",Tré
-Bern,Projektwoche-Jazz,2013-01-14,"[' Lisa Hasler ', ' Florian Möbes ', ' Oliver Illi ', ' Colin Vallon ', ' Florian Keller ', ' Christian Spahni ', ' Dejan Terzic ']",
+,location,event,date,artists,genre
+0,null,Migros-Kulturprozent-Classics-2,2013-01-14,[' Emmanuel Pahud '],['Classic']
+1,Zürich,Konzert,2013-01-14,['Daniil Trifonov '],['Classic']
+2,Basel,Liederabend,2013-01-14,"['Anne Sofie von Otter ', ' Simon Crawford-Phillips ']",['Classic']
+3,Basel,Masterkonzert,2013-01-14,[' Sonoko Ogowa '],['Classic']
+4,Flawil,Corretto,2013-01-14,"[' Pino Buoro ', ' Ernst Waespe ', ' Nina Rechsteiner ']","['Jazz', 'Blues', 'Soul']"
+5,Basel,Solo-Herren-Abend,2013-01-14,"['Wiktor Kociuban ', ' Friedemann A. Treiber ', ' Aleksander Gabry ']",['Classic']
+6,Winterthur,Richard-Walters,2013-01-14,['Richard Walters '],['Pop']
+7,Restaurant-Isebähnli,Baden,2013-01-14,"[' Bernhard Bamert ', ' Christian Niederer ', ' Thomas Lüthi ']",['Tré']
+8,Bern,Projektwoche-Jazz,2013-01-14,"[' Lisa Hasler ', ' Florian Möbes ', ' Oliver Illi ', ' Colin Vallon ', ' Florian Keller ', ' Christian Spahni ', ' Dejan Terzic ']","['Jazz', 'Blues', 'Soul']"

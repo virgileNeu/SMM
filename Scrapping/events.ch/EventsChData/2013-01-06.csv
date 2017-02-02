@@ -1,15 +1,15 @@
-location,event,date,artists,genre
-Solothurn,Neujahrskonzert,2013-01-06,[' Ursula Füri-Bernhard '],Classic
-Luzern,Lucerne-Chamber-Circle-Salzburger-Neujahrskonzert,2013-01-06,"[' Natalie Chee ', ' Strauss ']",Classic
-Elgg,Konzert,2013-01-06,[' Céline Akça '],Classic
-Palais-des-Congrès,null,2013-01-06,[' Ursula Füri-Bernhard '],Classic
-Aarau,Neujahrskonzert,2013-01-06,[' Maria Goldschmidt '],Classic
-Seuzach,Ein-Walzertraum-Seuzacher-Konzertreihe,2013-01-06,"['Linda Campanella ', ' Barbara Ciannamea ', ' Claude Hauri ', ' conductor: Daniel Moos ']",Classic
-Basel,Aimez-vous-Ravel-,2013-01-06,"[' Isabel Heusser ', ' Roberth Horvath ', ' Laszlo Polus ']",Classic
-Zürich,The-Busters,2013-01-06,"['The Busters ', ' Ron Marsman ', ' Rob Solomon ', ' Mathias Demmer ', ' Hardy Appich ', ' Stephan Keller ', ' Markus Schramhauser ', ' Rolf Breyer ']",
-Luzern,Chicago-Swing-Rats,2013-01-06,"[' Hansruedi Gattiker ', ' Charlie Schumacher ', ' Bruce Roberts ', ' Hans Krauer ', ' Urs Rellstab ', ' Ernst Grädel ', ' René Grimm ']",
-Zürich,Orgel-und-Flöte,2013-01-06,"['Klaus-Peter Riemer ', ' Torsten Laux ']",Classic
-Esse-Musicbar,Winterthur,2013-01-06,"[' Mat Callahan ', ' Yvonne Moore ']",
-Basel,Hommage-à-Strawinski,2013-01-06,"['Catriona Bühler ', ' Hieronymus Schädler ', ' Markus Hochuli ', ' Priska Zaugg ']",Classic
-Zürich,Swanky-Mothers-Series-IV,2013-01-06,"[' Jonas Labhart ', ' Dave Gisler ', ' Marius Peyer ']",
-El-Lokal,Zürich,2013-01-06,['Maria Doyle Kennedy & Kieran Kennedy '],
+,location,event,date,artists,genre
+0,Solothurn,Neujahrskonzert,2013-01-06,[' Ursula Füri-Bernhard '],['Classic']
+1,Luzern,Lucerne-Chamber-Circle-Salzburger-Neujahrskonzert,2013-01-06,"[' Natalie Chee ', ' Strauss ']",['Classic']
+2,Elgg,Konzert,2013-01-06,[' Céline Akça '],['Classic']
+3,Aarau,Neujahrskonzert,2013-01-06,[' Maria Goldschmidt '],['Classic']
+4,Seuzach,Ein-Walzertraum-Seuzacher-Konzertreihe,2013-01-06,"['Linda Campanella ', ' Barbara Ciannamea ', ' Claude Hauri ', ' conductor: Daniel Moos ']",['Classic']
+5,Palais-des-Congrès,null,2013-01-06,[' Ursula Füri-Bernhard '],['Classic']
+6,Basel,Aimez-vous-Ravel-,2013-01-06,"[' Isabel Heusser ', ' Roberth Horvath ', ' Laszlo Polus ']",['Classic']
+7,Zürich,The-Busters,2013-01-06,"['The Busters ', ' Ron Marsman ', ' Rob Solomon ', ' Mathias Demmer ', ' Hardy Appich ', ' Stephan Keller ', ' Markus Schramhauser ', ' Rolf Breyer ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Luzern,Chicago-Swing-Rats,2013-01-06,"[' Hansruedi Gattiker ', ' Charlie Schumacher ', ' Bruce Roberts ', ' Hans Krauer ', ' Urs Rellstab ', ' Ernst Grädel ', ' René Grimm ']","['Jazz', 'Blues', 'Soul']"
+9,Zürich,Orgel-und-Flöte,2013-01-06,"['Klaus-Peter Riemer ', ' Torsten Laux ']",['Classic']
+10,Esse-Musicbar,Winterthur,2013-01-06,"[' Mat Callahan ', ' Yvonne Moore ']","['Yvonne', 'Moore']"
+11,Zürich,Swanky-Mothers-Series-IV,2013-01-06,"[' Jonas Labhart ', ' Dave Gisler ', ' Marius Peyer ']","['Jazz', 'Blues', 'Soul']"
+12,Basel,Hommage-à-Strawinski,2013-01-06,"['Catriona Bühler ', ' Hieronymus Schädler ', ' Markus Hochuli ', ' Priska Zaugg ']",['Classic']
+13,El-Lokal,Zürich,2013-01-06,['Maria Doyle Kennedy & Kieran Kennedy '],"['Maria', 'Doyle', 'Kennedy', '']"

@@ -1,10 +1,10 @@
-location,event,date,artists,genre
-Basel,Mittagskonzert,2013-01-08,"[' Gudrun Petruschka ', ' Alice Borciani ', ' Claire Pigagnol ', ' Leonardo Bortolotto ']",Classic
-Lebewohlfabrik,Zürich,2013-01-08,"[' Dave Ruosch ', ' Christoph Grab ']",
-Zürich,Organ-Meets-Jazz,2013-01-08,"['Jürg Lietha ', ' Peter Schneider ']",Classic
-Zürich,La-folia,2013-01-08,"[' Cornelia Arn ', ' Res Hafner ', ' Roli Kneubühler ', ' Andreas Zingre ']",
-Zürich,Eichenberger-Studer,2013-01-08,"[' Markus Eichenberger ', 'Daniel Studer ']",
-Basel,Eva-Kesselring-feat.-Domenic-Landolf,2013-01-08,"[' Domenic Landolf ', ' Rita Ékes ', ' Michael Beck ', ' Eva Kesselring ', ' Dominic Egli ']",
-Reussbühl,Pistolero-Pepe-&-Black-Shirt-Samurais,2013-01-08,"[' Harry Lenherr ', ' Danny Reichlin ', ' Pistolero Pepe ']",
-Wengen,Klavierrezital,2013-01-08,['Silvia Harnisch '],Classic
-Zürich,Martin-Dahanukar,2013-01-08,"['Martin Dahanukar ', ' Martin Dahanukar ', ' Vinz Vonlanthen ', ' Samuel Joss ', ' Peter Horisberger ']",
+,location,event,date,artists,genre
+0,Basel,Mittagskonzert,2013-01-08,"[' Gudrun Petruschka ', ' Alice Borciani ', ' Claire Pigagnol ', ' Leonardo Bortolotto ']",['Classic']
+1,Lebewohlfabrik,Zürich,2013-01-08,"[' Dave Ruosch ', ' Christoph Grab ']","['Christoph', 'Grab']"
+2,Zürich,Organ-Meets-Jazz,2013-01-08,"['Jürg Lietha ', ' Peter Schneider ']",['Classic']
+3,Zürich,La-folia,2013-01-08,"[' Cornelia Arn ', ' Res Hafner ', ' Roli Kneubühler ', ' Andreas Zingre ']","['world', 'music']"
+4,Zürich,Eichenberger-Studer,2013-01-08,"[' Markus Eichenberger ', 'Daniel Studer ']","['Jazz', 'Blues', 'Soul']"
+5,Reussbühl,Pistolero-Pepe-&-Black-Shirt-Samurais,2013-01-08,"[' Harry Lenherr ', ' Danny Reichlin ', ' Pistolero Pepe ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Basel,Eva-Kesselring-feat.-Domenic-Landolf,2013-01-08,"[' Domenic Landolf ', ' Rita Ékes ', ' Michael Beck ', ' Eva Kesselring ', ' Dominic Egli ']","['Jazz', 'Blues', 'Soul']"
+7,Wengen,Klavierrezital,2013-01-08,['Silvia Harnisch '],['Classic']
+8,Zürich,Martin-Dahanukar,2013-01-08,"['Martin Dahanukar ', ' Martin Dahanukar ', ' Vinz Vonlanthen ', ' Samuel Joss ', ' Peter Horisberger ']","['Jazz', 'Blues', 'Soul']"

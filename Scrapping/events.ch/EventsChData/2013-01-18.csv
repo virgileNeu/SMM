@@ -1,37 +1,37 @@
-location,event,date,artists,genre
-Basel,Orgelspiel-zum-Feierabend,2013-01-18,['Tomoko Iwasa '],Classic
-Zürich,Konzert,2013-01-18,[' András Schiff '],Classic
-null,International-Piano-Series,2013-01-18,['Yevgeny Sudbin '],Classic
-null,3.-Meisterzyklus-Konzert,2013-01-18,[' Ewa Kupiec '],Classic
-Rote-Fabrik,Zürich,2013-01-18,[' Scumbucket '],Navel
-Volkshaus,Zürich,2013-01-18,['Clannad '],Clannad
-Winterthur,Del-Norte-al-Sur,2013-01-18,"[' Iva Denes ', ' Sophie Chaillot ', ' Tanja von Arx ']",Classic
-Kaufleuten,Zürich,2013-01-18,['Caravan Palace '],
-Olten,Festival-Strings-Lucerne,2013-01-18,"['Daniel Hope ', ' Vital-Julian Frey ', ' Christina Fassbender ']",Classic
-Stadttheater-Bern-(Vidmarhallen),Liebefeld,2013-01-18,"[' Adrian Pflugshaupt ', ' Reto Suhner ', ' Jürg Bucher ', ' Till Grünewald ']",
-null,Yuan-Trio,2013-01-18,"[' Claude Diallo ', ' Martijn Vanbuel ', ' Wen Hui Tsai ']",
-Baden,The-Adam-Holzmann-Trio,2013-01-18,"[' Adam Holzmann ', ' Roland Heinz ', ' Jeff Hirshfield ']",
-Schaffhausen,Lorenzo-Petrocca-Organ-Trio-feat.-Jürgen-Bothner,2013-01-18,"['Lorenzo Petrocca ', ' Jürgen Bothner ', ' Thomas Bauser ', ' ']",Classic
-Kirchberg,Antonia,2013-01-18,['Antonia '],traditional
-Moods,Zürich,2013-01-18,"[' Greis ', ' Benjamin Noti ', ' Claude Bucher ', ' JJ Flück ']",Greis
-Bern,Iscapes-3,2013-01-18,"[' James Bailey ', ' Christian Rösli ', ' Marius Peyer ', ' Fabian Gutscher ', ' Thomas Winkler ']",
-Baden,Chicago-Swing-Rats,2013-01-18,"[' Hansruedi Gattiker ', ' Charlie Schumacher ', ' Bruce Roberts ', ' Urs Bolle Rellstab ', ' Hans Krauer ', ' Ernst Grädel ', ' René Grimm ']",
-Uster,7-Pines,2013-01-18,"[' Peter Scheidegger ', ' Herman Peter ', ' Bruno Haag ']",
-Luzern,Suisse-Diagonales-Jazz,2013-01-18,"[' Gaël Zwahlen ', ' Lionel Gafner ', ' Adrien Guerne ', ' Lionel Friedli ']",
-Basel,John-Marshall-&-Ferdinand-Povel-Quintet,2013-01-18,"[' John Marshall ', ' Ferdinand Povel ', ' Andrea Pozza ', ' Stephan Kurmann ', ' Peter Schmidlin ']",
-Reitschule-Dachstock,Bern,2013-01-18,"['Sofa Surfers ', ' Markus Kienzl ']",
-Mühle-Hunziken,Rubigen,2013-01-18,['Container 6 '],
-Luzern,End-of-Silence,2013-01-18,['End of Silence '],
-Palace,Sankt-Gallen,2013-01-18,['The Great Hans Unstern Swindle '],
-Bern,Dorit-Chrysler,2013-01-18,"['Dorit Chrysler ', ' Patrik Fitzgerald ']",Pop
-Baden,Liquid-Land,2013-01-18,"[' Simon Berz ', ' Moose Jackson ', ' Rob Cambre ', ' Justin Peake ', ' Aurora Nealand ']",
-Kammgarn,Schaffhausen,2013-01-18,['Karma to Burn '],
-Buchs,The-Pearlbreakers,2013-01-18,['The Pearlbreakers '],
-Zug,The-Sawyer-Family,2013-01-18,['The Sawyer Family '],
-Basel,Samuel-Mösching-Trio,2013-01-18,"[' Samuel Mösching ', ' Lisa Hoppe ', ' Carlo Moreni ']",
-Liebefeld,Tuesday-Jazz-Jam,2013-01-18,"['Fabian M. Mueller ', ' Marco Müller ', ' Dominic Egli ']",
-Liebefeld,Dejan-Terzic,2013-01-18,"[' Hayden Chisholm ', ' Achim Kaufmann ', ' Ronny Graupe ', ' Dejan Terzic ']",
-Reussbühl,Last-Avenue,2013-01-18,"[' Martin Gaisser ', ' Mathias Bucher ', ' Jérémie Bochet ', ' Samuel Jäggi ']",
-KiFF,Aarau,2013-01-18,['Yesterday Shop '],
-Kulturfabrik-Kofmehl,Solothurn,2013-01-18,['Eastern Standard Time '],
-Lausanne,Chris-Liebing,2013-01-18,['Chris Liebing '],Electronic
+,location,event,date,artists,genre
+0,Basel,Orgelspiel-zum-Feierabend,2013-01-18,['Tomoko Iwasa '],['Classic']
+1,null,International-Piano-Series,2013-01-18,['Yevgeny Sudbin '],['Classic']
+2,Zürich,Konzert,2013-01-18,[' András Schiff '],['Classic']
+3,null,3.-Meisterzyklus-Konzert,2013-01-18,[' Ewa Kupiec '],['Classic']
+4,Olten,Festival-Strings-Lucerne,2013-01-18,"['Daniel Hope ', ' Vital-Julian Frey ', ' Christina Fassbender ']",['Classic']
+5,Volkshaus,Zürich,2013-01-18,['Clannad '],['Clannad']
+6,Kaufleuten,Zürich,2013-01-18,['Caravan Palace '],"['Caravan', 'Palace']"
+7,Rote-Fabrik,Zürich,2013-01-18,[' Scumbucket '],['Navel']
+8,Stadttheater-Bern-(Vidmarhallen),Liebefeld,2013-01-18,"[' Adrian Pflugshaupt ', ' Reto Suhner ', ' Jürg Bucher ', ' Till Grünewald ']","['Swiss', 'Jazz', 'Orchestra']"
+9,Winterthur,Del-Norte-al-Sur,2013-01-18,"[' Iva Denes ', ' Sophie Chaillot ', ' Tanja von Arx ']",['Classic']
+10,null,Yuan-Trio,2013-01-18,"[' Claude Diallo ', ' Martijn Vanbuel ', ' Wen Hui Tsai ']","['Jazz', 'Blues', 'Soul']"
+11,Baden,The-Adam-Holzmann-Trio,2013-01-18,"[' Adam Holzmann ', ' Roland Heinz ', ' Jeff Hirshfield ']","['Jazz', 'Blues', 'Soul']"
+12,Baden,Chicago-Swing-Rats,2013-01-18,"[' Hansruedi Gattiker ', ' Charlie Schumacher ', ' Bruce Roberts ', ' Urs Bolle Rellstab ', ' Hans Krauer ', ' Ernst Grädel ', ' René Grimm ']","['Jazz', 'Blues', 'Soul']"
+13,Schaffhausen,Lorenzo-Petrocca-Organ-Trio-feat.-Jürgen-Bothner,2013-01-18,"['Lorenzo Petrocca ', ' Jürgen Bothner ', ' Thomas Bauser ', ' ']",['Classic']
+14,Kirchberg,Antonia,2013-01-18,['Antonia '],['traditional']
+15,Uster,7-Pines,2013-01-18,"[' Peter Scheidegger ', ' Herman Peter ', ' Bruno Haag ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Moods,Zürich,2013-01-18,"[' Greis ', ' Benjamin Noti ', ' Claude Bucher ', ' JJ Flück ']",['Greis']
+17,Basel,John-Marshall-&-Ferdinand-Povel-Quintet,2013-01-18,"[' John Marshall ', ' Ferdinand Povel ', ' Andrea Pozza ', ' Stephan Kurmann ', ' Peter Schmidlin ']","['Jazz', 'Blues', 'Soul']"
+18,Bern,Iscapes-3,2013-01-18,"[' James Bailey ', ' Christian Rösli ', ' Marius Peyer ', ' Fabian Gutscher ', ' Thomas Winkler ']","['Jazz', 'Blues', 'Soul']"
+19,Luzern,Suisse-Diagonales-Jazz,2013-01-18,"[' Gaël Zwahlen ', ' Lionel Gafner ', ' Adrien Guerne ', ' Lionel Friedli ']","['Jazz', 'Blues', 'Soul']"
+20,Zug,The-Sawyer-Family,2013-01-18,['The Sawyer Family '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Reitschule-Dachstock,Bern,2013-01-18,"['Sofa Surfers ', ' Markus Kienzl ']","['Sofa', 'Surfers']"
+22,Basel,Samuel-Mösching-Trio,2013-01-18,"[' Samuel Mösching ', ' Lisa Hoppe ', ' Carlo Moreni ']","['Jazz', 'Blues', 'Soul']"
+23,Mühle-Hunziken,Rubigen,2013-01-18,['Container 6 '],"['Container', '6']"
+24,Buchs,The-Pearlbreakers,2013-01-18,['The Pearlbreakers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Palace,Sankt-Gallen,2013-01-18,['The Great Hans Unstern Swindle '],"['The', 'Great', 'Hans', 'Unstern', 'Swindle']"
+26,Bern,Dorit-Chrysler,2013-01-18,"['Dorit Chrysler ', ' Patrik Fitzgerald ']",['Pop']
+27,Kammgarn,Schaffhausen,2013-01-18,['Karma to Burn '],"['Karma', 'to', 'Burn']"
+28,Baden,Liquid-Land,2013-01-18,"[' Simon Berz ', ' Moose Jackson ', ' Rob Cambre ', ' Justin Peake ', ' Aurora Nealand ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Luzern,End-of-Silence,2013-01-18,['End of Silence '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Liebefeld,Tuesday-Jazz-Jam,2013-01-18,"['Fabian M. Mueller ', ' Marco Müller ', ' Dominic Egli ']","['Jazz', 'Blues', 'Soul']"
+31,Liebefeld,Dejan-Terzic,2013-01-18,"[' Hayden Chisholm ', ' Achim Kaufmann ', ' Ronny Graupe ', ' Dejan Terzic ']","['Jazz', 'Blues', 'Soul']"
+32,Reussbühl,Last-Avenue,2013-01-18,"[' Martin Gaisser ', ' Mathias Bucher ', ' Jérémie Bochet ', ' Samuel Jäggi ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,KiFF,Aarau,2013-01-18,['Yesterday Shop '],"['Labrador', 'City']"
+34,Kulturfabrik-Kofmehl,Solothurn,2013-01-18,['Eastern Standard Time '],"['Eastern', 'Standard', 'Time']"
+35,Lausanne,Chris-Liebing,2013-01-18,['Chris Liebing '],['Electronic']

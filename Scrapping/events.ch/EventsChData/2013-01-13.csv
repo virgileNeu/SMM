@@ -1,14 +1,14 @@
-location,event,date,artists,genre
-Zürich,ZKO-im-Kunsthaus-Giacometti,2013-01-13,[' conductor: Willi Zimmermann '],Classic
-Zürich,Original-und-Bearbeitung,2013-01-13,"['Sabine Poyé Morel ', ' Esther Pitschen ', ' Haika Lübcke ', ' Janek Rosset ']",Classic
-Zug,Liquid-Land,2013-01-13,"[' Simon Berz ', ' Moose Jackson ', ' Rob Cambre ', ' Justin Peake ', ' Aurora Nealand ']",
-Baden,Klavierabend,2013-01-13,['Oliver Schnyder '],Classic
-null,Podium-Junge-MusikerInnen,2013-01-13,"[' Meret Roth ', ' Aline Burla ', ' Cristina Janet ', ' Jonas Zürcher ']",Classic
-Zürich,Konzert,2013-01-13,"[' Sarah Wegener ', ' Barbara Erni ', ' Michael Feyfar ', ' Dominik Wörner ']",Classic
-Basel,Schwarz-auf-Weiss-Voll-Schrecken-wartet-man-auf-die-Musik,2013-01-13,"['Tilmann Zahn ', ' Markus Forrer ', ' Stefan Schramm ', ' Hannes Bärtschi ', ' Samuele Sciancalepore ', ' Christian Sutter ']",Classic
-Zürich,Alp-Bora-Quartett,2013-01-13,"['Alp Bora Quartett ', ' Alp Bora ', ' Julia Pichler ', ' Raimund Seidl ', ' Soner Tezcan ']",
-Basel,Heinz-Sauer-&-Michael-Wollny,2013-01-13,"[' Heinz Sauer ', ' Michael Wollny ']",
-Zürich,Ron-Pope,2013-01-13,['Ron Pope '],Pop
-Zürich,Liquid-Land,2013-01-13,"['Liquid Land ', ' Simon Berz ', ' Moose Jackson ', ' Rob Cambre ', ' Justin Peake ', ' Aurora Nealand ']",Electronic
-Zürich,Orchester-Schlusskonzert,2013-01-13,"[' Felix Gubser ', ' Arlette Meier ', ' Emanuel Rütsche ']",Classic
-Zürich,Daniel-Kahn-&-The-Painted-Bird-meet-the-Brothers-Nazaroff,2013-01-13,['Daniel Kahn & The Painted Bird meet the Brothers Nazaroff '],
+,location,event,date,artists,genre
+0,Zürich,ZKO-im-Kunsthaus-Giacometti,2013-01-13,[' conductor: Willi Zimmermann '],['Classic']
+1,Zürich,Original-und-Bearbeitung,2013-01-13,"['Sabine Poyé Morel ', ' Esther Pitschen ', ' Haika Lübcke ', ' Janek Rosset ']",['Classic']
+2,Zug,Liquid-Land,2013-01-13,"[' Simon Berz ', ' Moose Jackson ', ' Rob Cambre ', ' Justin Peake ', ' Aurora Nealand ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Basel,Schwarz-auf-Weiss-Voll-Schrecken-wartet-man-auf-die-Musik,2013-01-13,"['Tilmann Zahn ', ' Markus Forrer ', ' Stefan Schramm ', ' Hannes Bärtschi ', ' Samuele Sciancalepore ', ' Christian Sutter ']",['Classic']
+4,Zürich,Konzert,2013-01-13,"[' Sarah Wegener ', ' Barbara Erni ', ' Michael Feyfar ', ' Dominik Wörner ']",['Classic']
+5,null,Podium-Junge-MusikerInnen,2013-01-13,"[' Meret Roth ', ' Aline Burla ', ' Cristina Janet ', ' Jonas Zürcher ']",['Classic']
+6,Baden,Klavierabend,2013-01-13,['Oliver Schnyder '],['Classic']
+7,Zürich,Alp-Bora-Quartett,2013-01-13,"['Alp Bora Quartett ', ' Alp Bora ', ' Julia Pichler ', ' Raimund Seidl ', ' Soner Tezcan ']","['world', 'music']"
+8,Basel,Heinz-Sauer-&-Michael-Wollny,2013-01-13,"[' Heinz Sauer ', ' Michael Wollny ']","['Jazz', 'Blues', 'Soul']"
+9,Zürich,Ron-Pope,2013-01-13,['Ron Pope '],['Pop']
+10,Zürich,Orchester-Schlusskonzert,2013-01-13,"[' Felix Gubser ', ' Arlette Meier ', ' Emanuel Rütsche ']",['Classic']
+11,Zürich,Liquid-Land,2013-01-13,"['Liquid Land ', ' Simon Berz ', ' Moose Jackson ', ' Rob Cambre ', ' Justin Peake ', ' Aurora Nealand ']",['Electronic']
+12,Zürich,Daniel-Kahn-&-The-Painted-Bird-meet-the-Brothers-Nazaroff,2013-01-13,['Daniel Kahn & The Painted Bird meet the Brothers Nazaroff '],"['world', 'music']"
