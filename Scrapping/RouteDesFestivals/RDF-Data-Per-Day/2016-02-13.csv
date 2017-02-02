@@ -1,4 +1,4 @@
-location,event,date,artist,genre
-Geneve,ANTIGEL,2016-02-13,PHILIP GLASS,
-Geneve,ANTIGEL,2016-02-13,TORTOISE,
-Vernier,ANTIGEL,2016-02-13,CASSY,
+location,event,date,artist
+Geneve,ANTIGEL,2016-02-13,PHILIP GLASS
+Geneve,ANTIGEL,2016-02-13,TORTOISE
+Vernier,ANTIGEL,2016-02-13,CASSY

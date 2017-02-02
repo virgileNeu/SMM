@@ -118,7 +118,7 @@ for key, item in grouped_df:
 
     # Open CSV file to write:
     csvfile = open(OUT_FOLDER_NAME+'/'+str(key)+'.csv', 'w')
-    fieldnames = ['location', 'event', 'date', 'artist', 'genre']
+    fieldnames = ['location', 'event', 'date', 'artist']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
 
@@ -129,8 +129,7 @@ for key, item in grouped_df:
             'location': item['location'].values[i],
             'event': item['festival'].values[i],
             'date': item['date'].values[i],
-            'artist': item['artist'].values[i],
-            'genre': ''
+            'artist': item['artist'].values[i]
             # 'coordinates': getCoordinatesForLocation(item['location'].values[i])
         })
 
@@ -175,7 +174,7 @@ for df in dfs:
 
         # Open CSV file to write:
         csvfile = open(OUT_FOLDER_NAME_2+'/'+str(date)+'.csv', 'w')
-        fieldnames = ['location', 'event', 'date', 'artists', 'genre']
+        fieldnames = ['location', 'event', 'date', 'artists']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
 
@@ -183,7 +182,6 @@ for df in dfs:
             'location': location,
             'event': festival_name,
             'date': date,
-            'artists': str(artists),
-            'genre': ''
+            'artists': str(artists)
             # 'coordinates': coordinates
         })
