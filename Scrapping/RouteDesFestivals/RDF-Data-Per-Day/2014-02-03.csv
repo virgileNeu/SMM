@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Geneve,ANTIGEL,2014-02-03,PHILIP GLASS,,"(46.2043907, 6.1431577)"
-Confignon,ANTIGEL,2014-02-03,SHIGETO,,"(46.1740305, 6.0835592)"
+location,event,date,artist
+Geneve,ANTIGEL,2014-02-03,PHILIP GLASS
+Confignon,ANTIGEL,2014-02-03,SHIGETO

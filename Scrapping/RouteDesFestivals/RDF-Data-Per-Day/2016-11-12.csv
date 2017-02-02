@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Yverdon Les Bains,HOPE N ROCK,2016-11-12,ALEJANDRO REYES,,"(46.7784736, 6.641183)"
-Lausanne,METROPOP FESTIVAL,2016-11-12,ANTHONY B,,"(46.5196535, 6.6322734)"
+location,event,date,artist
+Yverdon Les Bains,HOPE N ROCK,2016-11-12,ALEJANDRO REYES
+Lausanne,METROPOP FESTIVAL,2016-11-12,ANTHONY B

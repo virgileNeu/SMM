@@ -1,4 +1,4 @@
-location,event,date,artist,genre,coordinates
-Chene Bougeries,ANTIGEL,2013-02-03,VINCENT DE ROGUIN,,"(46.1983939, 6.1851258)"
-Confignon,ANTIGEL,2013-02-03,INES BACAN,,"(46.1740305, 6.0835592)"
-Le Lignon,ANTIGEL,2013-02-03,MAMA ROSIN,,"(46.203703, 6.0961889)"
+location,event,date,artist
+Chene Bougeries,ANTIGEL,2013-02-03,VINCENT DE ROGUIN
+Confignon,ANTIGEL,2013-02-03,INES BACAN
+Le Lignon,ANTIGEL,2013-02-03,MAMA ROSIN

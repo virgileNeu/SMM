@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Duedingen,BAD BONN KILBI,2013-05-24,GRIZZLY BEAR,,"(46.8464198, 7.191017899999999)"
-Lausanne,BALEINEV,2013-05-24,BALTHAZAR,,"(46.5196535, 6.6322734)"
+location,event,date,artist
+Duedingen,BAD BONN KILBI,2013-05-24,GRIZZLY BEAR
+Lausanne,BALEINEV,2013-05-24,BALTHAZAR

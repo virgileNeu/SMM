@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Lausanne,JAZZ ONZE +,2012-11-01,DAVE LIEBMAN,,"(46.5196535, 6.6322734)"
-Lausanne,JAZZ ONZE +,2012-11-01,FAUVE,,"(46.5196535, 6.6322734)"
+location,event,date,artist
+Lausanne,JAZZ ONZE +,2012-11-01,DAVE LIEBMAN
+Lausanne,JAZZ ONZE +,2012-11-01,FAUVE
