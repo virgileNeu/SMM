@@ -16,13 +16,15 @@ def clean_artists(artists):
 				result.append(word_list[0])
 			if(len(word_list) > 1):
 				result.extend(word_list)
+    for s in result:
+        s = s.strip('-.[\'\", +*?\n\t\r')
 	return result
 	
 def split_string(string):
 	result = []
 	ss = string.split(',')
 	for s in ss:
-		tmp = s.strip('-.[\'\", +*?')
+		tmp = s.strip('-.[\'\", +*?\n\t\r')
 		
 		if(len(tmp) >= 3):  #no groups with smaller name
 			tmp2 = tmp.split('/')
@@ -69,7 +71,7 @@ def remove_hours(string):
 	return res
 
 def remove_words(word_list):
-	forbidden_words = ["live", "CH", "UK", "DE", "TBA", "Chf", "Euro"]
+	forbidden_words = ["live", "live:", "CH", "UK", "DE", "TBA", "Chf", "Euro", "support:", " ", "conductor:", "A.K.A"]
 	res = []
 	for s in word_list:
 		r = remove_hours(s)

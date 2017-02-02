@@ -35,7 +35,12 @@ def addEmptyColumn(df, column_name, inplace=False):
 def getEventsBetweenDate(startDate, endDate=None, maxPage=None):
     (startYear, startMonth, startDay) = startDate.split('-')
     if(endDate == None):
-        getCSVForDates(startDate, maxPage)
+        while(True): # to get around Gateway timeout exception
+            try:
+                getCSVForDates(startDate, maxPage)
+            except:
+                print("Fail to retrieve page for date ", startDate)
+            return
     else:
         (endYear, endMonth, endDay) = endDate.split('-')
         startDateObject = date(int(startYear), int(startMonth), int(startDay))
@@ -83,7 +88,7 @@ def getEventsForDate(date, maxPage=None):
                     location = split[4]
                     festival = split[5]
                     if(len(artists) > 0):
-                        self.data.append((location, festival, datetime.strftime(currentDate, "%Y-%m-%d"), artists, genres[0]))
+                        self.data.append((location, festival, datetime.strftime(currentDate, "%Y-%m-%d"), artists, genres))
                 except:
                     print("page failed :",subquerry_url)
         def getData(self):
