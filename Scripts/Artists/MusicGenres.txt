@@ -729,6 +729,7 @@ uk garage	electronic
 uk hardcore	electronic
 unblack metal	rock
 underground hip hop	hip hop
+unknown	unknown
 uplifting trance	electronic
 urban pasifika	hip hop
 v-pop	asian

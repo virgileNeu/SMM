@@ -473,6 +473,7 @@ def createDictionnary(level=2,debug=False,returnMains = False):
 	subgenres.update({"classic":"orchestral"})
 	subgenres.update({"classical":"orchestral"})
 	subgenres.update({"step":"electronic"})
+	subgenres.update({"unknown":"unknown"})
 	
 	LU.saveDictionary(subgenres,dictionary,dictionaryPath,enc="UTF-8")
 		
@@ -515,10 +516,23 @@ def getGenresFromRA(Artist,dic=None):
 		text = art.text
 		if(dic==None):
 			dic=createDictionnary()
-            
-		for genre in dic:
-			if(genre in text):
-				listGenre.append(genre)
+		
+		#replace unwanted words
+		text = text.replace("biography","")
+		text = text.replace("discography","")
+		text = text.replace("Biography","")
+		text = text.replace("Discography","")
+		
+		whitelist = set('abcdefghijklmnopqrstuvwxy ABCDEFGHIJKLMNOPQRSTUVWXYZ')
+		text = ''.join(filter(whitelist.__contains__, text))
+		words = text.split(" ")
+		for word in words :
+			for genre in dic:
+				if(genre.lower() == word.lower() and genre!= "oi"):
+					listGenre.append(genre)
+	if(len(listGenre)<1):
+			return None
+					
 	return listGenre
 		
 def getGenresFromWikipedia(Artist,dic=None):
@@ -538,14 +552,14 @@ def getGenresFromWikipedia(Artist,dic=None):
 			dic=createDictionnary()
 		
 		whitelist = set('abcdefghijklmnopqrstuvwxy ABCDEFGHIJKLMNOPQRSTUVWXYZ')
-		answer = ''.join(filter(whitelist.__contains__, text))
+		text = ''.join(filter(whitelist.__contains__, text))
 		words = text.split(" ")
 		for word in words :
 			for genre in dic:
 				if(genre.lower() == word.lower() and genre!= "oi"):
 					listGenre.append(genre)
 	
-	if(len(listGenre<1)):
+	if(len(listGenre)<1):
 		#try with english version
 		
 		URL = "https://en.wikipedia.org/wiki/"+artist
@@ -559,14 +573,21 @@ def getGenresFromWikipedia(Artist,dic=None):
 			if(dic==None):
 				dic=createDictionnary()
 				
+			#replace unwanted words
+			text.replace("biography","")
+			text.replace("discography","")
+			text.replace("Biography","")
+			text.replace("Discography","")
+		
 			whitelist = set('abcdefghijklmnopqrstuvwxy ABCDEFGHIJKLMNOPQRSTUVWXYZ\'')
-			answer = ''.join(filter(whitelist.__contains__, text))
+			text = ''.join(filter(whitelist.__contains__, text))
 			words = text.split(" ")
 			for word in words :
 				for genre in dic:
 					if(genre.lower() == word.lower() and genre!= "oi"):
 						listGenre.append(genre)
-					
+	if(len(listGenre)<1):
+		return None
 					
 	return list(set(listGenre))
 		
