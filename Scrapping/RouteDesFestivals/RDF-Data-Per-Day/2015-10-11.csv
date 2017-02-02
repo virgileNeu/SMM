@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Annecy Le Vieux,JAZZCONTREBAND,2015-10-11,BENOIT PARADIS,,"(45.9192139, 6.141949899999999)"
-Gstaad,MDRNTY,2015-10-11,MACEO PLEX  (MAETRIK),,"(46.4717588, 7.2865728)"
+location,event,date,artist,genre
+Annecy Le Vieux,JAZZCONTREBAND,2015-10-11,BENOIT PARADIS,
+Gstaad,MDRNTY,2015-10-11,MACEO PLEX  (MAETRIK),

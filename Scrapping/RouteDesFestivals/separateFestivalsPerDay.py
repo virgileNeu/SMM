@@ -44,70 +44,70 @@ for date in df['date']:
 # We first replace all the months in the dates, by numbers
 df['date'] = date2
 
-MAXI_LOCATION_DICO = {}
-MAXI_LOCATION_DICO['Ivry sur Seine'] = (48.813055, 2.38822)
-MAXI_LOCATION_DICO['Tavannes'] = (47.2200764, 7.198525999999999)
-MAXI_LOCATION_DICO['Moutier'] = (47.2782749, 7.371665600000001)
-MAXI_LOCATION_DICO['Hermance'] = (46.3006983, 6.2449688)
-MAXI_LOCATION_DICO['Ferney Voltaire'] = (46.25763200000001, 6.108669)
-MAXI_LOCATION_DICO['Rognes'] = (43.663327, 5.347199)
-MAXI_LOCATION_DICO['Lucerne'] = (47.05016819999999, 8.309307199999999)
-MAXI_LOCATION_DICO['Puidoux'] = (46.4988452, 6.7691772)
-MAXI_LOCATION_DICO['Plan les Ouates'] = (46.1668075, 6.1145793)
-MAXI_LOCATION_DICO['Motiers'] = (46.9111044, 6.6113106)
-MAXI_LOCATION_DICO['Denens'] = (46.51844, 6.45656)
-MAXI_LOCATION_DICO['Cluses'] = (46.06039, 6.580582)
-MAXI_LOCATION_DICO['Oyonnax'] = (46.257773, 5.655335)
-MAXI_LOCATION_DICO['Mendrisio'] = (45.8713339, 8.984132899999999)
-MAXI_LOCATION_DICO['Lugano'] = (46.0036778, 8.951051999999999)
-MAXI_LOCATION_DICO['Bernex'] = (46.1771419, 6.0764849)
-MAXI_LOCATION_DICO['Lucelle'] = (47.421278, 7.246146)
-MAXI_LOCATION_DICO['Thun'] = (46.7579868, 7.6279881)
-MAXI_LOCATION_DICO['Chenes Bougeries'] = (46.1983939, 6.1851258)
-MAXI_LOCATION_DICO['Chene Bourg'] = (46.19735, 6.19731)
-MAXI_LOCATION_DICO['Gunzgen'] = (47.3134764, 7.843830499999999)
-MAXI_LOCATION_DICO['Etziken'] = (47.1876571, 7.6484107)
-MAXI_LOCATION_DICO['Begnins'] = (46.4408426, 6.2477524)
-MAXI_LOCATION_DICO['Lyss'] = (47.0746504, 7.3077022)
-MAXI_LOCATION_DICO['Luzerne (Luzern)'] = (47.05016819999999, 8.309307199999999)
-MAXI_LOCATION_DICO['Lumnezia'] = (46.71766, 9.17366)
-MAXI_LOCATION_DICO['Collonge Bellerive'] = (46.2514024, 6.2022904)
-MAXI_LOCATION_DICO['Saint Sulpice'] = (46.51011399999999, 6.558195100000001)
-MAXI_LOCATION_DICO['Emosson'] = (46.0831928, 6.9141892)
-MAXI_LOCATION_DICO['Pleigne'] = (47.4072829, 7.289801499999998)
-MAXI_LOCATION_DICO['Annecy Le Vieux'] = (45.9192139, 6.141949899999999)
-
-def getCoordinatesForLocation(location):
-    try:
-        return MAXI_LOCATION_DICO[location]
-    except KeyError:
-        coordinates = getGeocodeForLocation(location)
-        MAXI_LOCATION_DICO[location] = coordinates
-        return coordinates
-
-def getGeocodeForLocation(location):
-
-    URL = 'https://maps.google.ch/maps/api/geocode/json?address=' + location + '&key=AIzaSyD-Dzk5qOu2dRSx_wQdJGBdveo_FQujhR0'
-    #AIzaSyBHFQP-QhcaV7CG7o7-FLacHtlE0YI_E1E
-
-    try:
-        req = requests.get(URL)
-    except:
-        print 'Unable to connect to Google Servers'
-        return
-
-    content = json.loads(req.text)
-
-    if content['status'] == 'ZERO_RESULTS':
-        print 'Unable to find coordinates for ' + location
-        return
-    elif content['status'] == "OK":
-        latitude = content['results'][0]['geometry']['location']['lat']
-        longitude = content['results'][0]['geometry']['location']['lng']
-        return (latitude, longitude)
-    else:
-        print 'FATAL: Exiting.'
-        return
+# MAXI_LOCATION_DICO = {}
+# MAXI_LOCATION_DICO['Ivry sur Seine'] = (48.813055, 2.38822)
+# MAXI_LOCATION_DICO['Tavannes'] = (47.2200764, 7.198525999999999)
+# MAXI_LOCATION_DICO['Moutier'] = (47.2782749, 7.371665600000001)
+# MAXI_LOCATION_DICO['Hermance'] = (46.3006983, 6.2449688)
+# MAXI_LOCATION_DICO['Ferney Voltaire'] = (46.25763200000001, 6.108669)
+# MAXI_LOCATION_DICO['Rognes'] = (43.663327, 5.347199)
+# MAXI_LOCATION_DICO['Lucerne'] = (47.05016819999999, 8.309307199999999)
+# MAXI_LOCATION_DICO['Puidoux'] = (46.4988452, 6.7691772)
+# MAXI_LOCATION_DICO['Plan les Ouates'] = (46.1668075, 6.1145793)
+# MAXI_LOCATION_DICO['Motiers'] = (46.9111044, 6.6113106)
+# MAXI_LOCATION_DICO['Denens'] = (46.51844, 6.45656)
+# MAXI_LOCATION_DICO['Cluses'] = (46.06039, 6.580582)
+# MAXI_LOCATION_DICO['Oyonnax'] = (46.257773, 5.655335)
+# MAXI_LOCATION_DICO['Mendrisio'] = (45.8713339, 8.984132899999999)
+# MAXI_LOCATION_DICO['Lugano'] = (46.0036778, 8.951051999999999)
+# MAXI_LOCATION_DICO['Bernex'] = (46.1771419, 6.0764849)
+# MAXI_LOCATION_DICO['Lucelle'] = (47.421278, 7.246146)
+# MAXI_LOCATION_DICO['Thun'] = (46.7579868, 7.6279881)
+# MAXI_LOCATION_DICO['Chenes Bougeries'] = (46.1983939, 6.1851258)
+# MAXI_LOCATION_DICO['Chene Bourg'] = (46.19735, 6.19731)
+# MAXI_LOCATION_DICO['Gunzgen'] = (47.3134764, 7.843830499999999)
+# MAXI_LOCATION_DICO['Etziken'] = (47.1876571, 7.6484107)
+# MAXI_LOCATION_DICO['Begnins'] = (46.4408426, 6.2477524)
+# MAXI_LOCATION_DICO['Lyss'] = (47.0746504, 7.3077022)
+# MAXI_LOCATION_DICO['Luzerne (Luzern)'] = (47.05016819999999, 8.309307199999999)
+# MAXI_LOCATION_DICO['Lumnezia'] = (46.71766, 9.17366)
+# MAXI_LOCATION_DICO['Collonge Bellerive'] = (46.2514024, 6.2022904)
+# MAXI_LOCATION_DICO['Saint Sulpice'] = (46.51011399999999, 6.558195100000001)
+# MAXI_LOCATION_DICO['Emosson'] = (46.0831928, 6.9141892)
+# MAXI_LOCATION_DICO['Pleigne'] = (47.4072829, 7.289801499999998)
+# MAXI_LOCATION_DICO['Annecy Le Vieux'] = (45.9192139, 6.141949899999999)
+#
+# def getCoordinatesForLocation(location):
+#     try:
+#         return MAXI_LOCATION_DICO[location]
+#     except KeyError:
+#         coordinates = getGeocodeForLocation(location)
+#         MAXI_LOCATION_DICO[location] = coordinates
+#         return coordinates
+#
+# def getGeocodeForLocation(location):
+#
+#     URL = 'https://maps.google.ch/maps/api/geocode/json?address=' + location + '&key=AIzaSyD-Dzk5qOu2dRSx_wQdJGBdveo_FQujhR0'
+#     #AIzaSyBHFQP-QhcaV7CG7o7-FLacHtlE0YI_E1E
+#
+#     try:
+#         req = requests.get(URL)
+#     except:
+#         print 'Unable to connect to Google Servers'
+#         return
+#
+#     content = json.loads(req.text)
+#
+#     if content['status'] == 'ZERO_RESULTS':
+#         print 'Unable to find coordinates for ' + location
+#         return
+#     elif content['status'] == "OK":
+#         latitude = content['results'][0]['geometry']['location']['lat']
+#         longitude = content['results'][0]['geometry']['location']['lng']
+#         return (latitude, longitude)
+#     else:
+#         print 'FATAL: Exiting.'
+#         return
 
 
 OUT_FOLDER_NAME = 'RDF-Data-Per-Day'
@@ -118,7 +118,7 @@ for key, item in grouped_df:
 
     # Open CSV file to write:
     csvfile = open(OUT_FOLDER_NAME+'/'+str(key)+'.csv', 'w')
-    fieldnames = ['location', 'event', 'date', 'artist', 'genre', 'coordinates']
+    fieldnames = ['location', 'event', 'date', 'artist', 'genre']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
 
@@ -130,8 +130,8 @@ for key, item in grouped_df:
             'event': item['festival'].values[i],
             'date': item['date'].values[i],
             'artist': item['artist'].values[i],
-            'genre': '',
-            'coordinates': getCoordinatesForLocation(item['location'].values[i])
+            'genre': ''
+            # 'coordinates': getCoordinatesForLocation(item['location'].values[i])
         })
 
 
@@ -171,11 +171,11 @@ for df in dfs:
         artists = '[' + artists
         artists = artists + ']'
         # genre = item['genre'].values[0]
-        coordinates = item['coordinates'].values[0]
+        # coordinates = item['coordinates'].values[0]
 
         # Open CSV file to write:
         csvfile = open(OUT_FOLDER_NAME_2+'/'+str(date)+'.csv', 'w')
-        fieldnames = ['location', 'event', 'date', 'artists', 'genre', 'coordinates']
+        fieldnames = ['location', 'event', 'date', 'artists', 'genre']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
 
@@ -184,6 +184,6 @@ for df in dfs:
             'event': festival_name,
             'date': date,
             'artists': str(artists),
-            'genre': '',
-            'coordinates': coordinates
+            'genre': ''
+            # 'coordinates': coordinates
         })

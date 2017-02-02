@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Zurich,CHANSONS EN STOK,2015-09-20,KENT,,"(47.3768866, 8.541694)"
-Renens,TABARNAK DE FESTIVAL,2015-09-20,KADEBOSTANY,,"(46.53381, 6.59137)"
+location,event,date,artist,genre
+Zurich,CHANSONS EN STOK,2015-09-20,KENT,
+Renens,TABARNAK DE FESTIVAL,2015-09-20,KADEBOSTANY,

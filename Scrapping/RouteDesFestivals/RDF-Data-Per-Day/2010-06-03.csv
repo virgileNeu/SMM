@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Neuchatel,FESTI NEUCH,2010-06-03,MIKA,,"(46.9899874, 6.9292732)"
-Sierre,SISMICS FESTIVAL,2010-06-03,PROWPUSKOVIC,,"(46.29413110000001, 7.533536199999999)"
+location,event,date,artist,genre
+Neuchatel,FESTI NEUCH,2010-06-03,MIKA,
+Sierre,SISMICS FESTIVAL,2010-06-03,PROWPUSKOVIC,

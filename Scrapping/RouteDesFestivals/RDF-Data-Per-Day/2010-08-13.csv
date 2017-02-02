@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Geneve,MUSIQUES EN ETE,2010-08-13,SUMO,,"(46.2043907, 6.1431577)"
-Le Locle,ROCK ALTITUDE,2010-08-13,GOJIRA,,"(47.0577195, 6.7487354)"
+location,event,date,artist,genre
+Geneve,MUSIQUES EN ETE,2010-08-13,SUMO,
+Le Locle,ROCK ALTITUDE,2010-08-13,GOJIRA,

@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Grand Lancy,ANTIGEL,2011-02-17,"EZRA ""BIONIC ORCHESTRA 2.0""",,"(46.1781048, 6.1233726)"
-Geneve,ANTIGEL,2011-02-17,THE BLACK ANGELS,,"(46.2043907, 6.1431577)"
+location,event,date,artist,genre
+Grand Lancy,ANTIGEL,2011-02-17,"EZRA ""BIONIC ORCHESTRA 2.0""",
+Geneve,ANTIGEL,2011-02-17,THE BLACK ANGELS,

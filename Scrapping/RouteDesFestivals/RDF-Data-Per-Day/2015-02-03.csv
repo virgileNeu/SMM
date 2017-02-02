@@ -1,4 +1,4 @@
-location,event,date,artist,genre,coordinates
-Geneve,ANTIGEL,2015-02-03,ERIK TRUFFAZ,,"(46.2043907, 6.1431577)"
-Genthod,ANTIGEL,2015-02-03,COLD SPECKS,,"(46.2644048, 6.1546616)"
-Confignon,ANTIGEL,2015-02-03,TRST (TR/ST),,"(46.1740305, 6.0835592)"
+location,event,date,artist,genre
+Geneve,ANTIGEL,2015-02-03,ERIK TRUFFAZ,
+Genthod,ANTIGEL,2015-02-03,COLD SPECKS,
+Confignon,ANTIGEL,2015-02-03,TRST (TR/ST),

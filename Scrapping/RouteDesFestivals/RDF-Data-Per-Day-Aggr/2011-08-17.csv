@@ -1,3 +1,3 @@
-location,event,date,artists,genre,coordinates
-Geneve,MUSIQUES EN ETE,2011-08-17,[BIBI TANGA],,"(46.2043907, 6.1431577)"
-USSKY],,"(46.4829113, 6.458343500000001)"
+location,event,date,artists,genre
+Geneve,MUSIQUES EN ETE,2011-08-17,[BIBI TANGA],
+,2011-08-17,[PHILIPPE JAROUSSKY],

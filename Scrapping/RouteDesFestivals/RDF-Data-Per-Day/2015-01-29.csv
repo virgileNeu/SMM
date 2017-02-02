@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Geneve,ANTIGEL,2015-01-29,ROSS DALY,,"(46.2043907, 6.1431577)"
-Geneve,ANTIGEL,2015-01-29,DEAN BLUNT,,"(46.2043907, 6.1431577)"
+location,event,date,artist,genre
+Geneve,ANTIGEL,2015-01-29,ROSS DALY,
+Geneve,ANTIGEL,2015-01-29,DEAN BLUNT,

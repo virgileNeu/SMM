@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Neuchatel,FESTI NEUCH,2009-06-04,LIMP BIZKIT,,"(46.9899874, 6.9292732)"
-Neuchatel,FESTI NEUCH,2009-06-04,ZEBRA (Antoine),,"(46.9899874, 6.9292732)"
+location,event,date,artist,genre
+Neuchatel,FESTI NEUCH,2009-06-04,LIMP BIZKIT,
+Neuchatel,FESTI NEUCH,2009-06-04,ZEBRA (Antoine),

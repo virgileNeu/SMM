@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Bale (Basel),JAZZFESTIVAL BASEL,2009-04-23,JAN LUNDGREN,,"(47.5595986, 7.5885761)"
-Villeurbanne,ZIKEMO,2009-04-23,SIDILARSEN,,"(45.771944, 4.8901709)"
+location,event,date,artist,genre
+Bale (Basel),JAZZFESTIVAL BASEL,2009-04-23,JAN LUNDGREN,
+Villeurbanne,ZIKEMO,2009-04-23,SIDILARSEN,

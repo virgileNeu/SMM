@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Geneve,ANTIGEL,2014-02-15,TAMIKREST,,"(46.2043907, 6.1431577)"
-Chene Bougeries,ANTIGEL,2014-02-15,SUZANNE VEGA,,"(46.1983939, 6.1851258)"
+location,event,date,artist,genre
+Geneve,ANTIGEL,2014-02-15,TAMIKREST,
+Chene Bougeries,ANTIGEL,2014-02-15,SUZANNE VEGA,

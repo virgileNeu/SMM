@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Bellevue,ANTIGEL,2016-02-05,YE VAGABONDS,,"(47.6101497, -122.2015159)"
-Vernier,ANTIGEL,2016-02-05,ANGEL HAZE,,"(46.2122638, 6.1052686)"
+location,event,date,artist,genre
+Bellevue,ANTIGEL,2016-02-05,YE VAGABONDS,
+Vernier,ANTIGEL,2016-02-05,ANGEL HAZE,

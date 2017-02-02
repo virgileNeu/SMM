@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Lausanne,JAZZ ONZE +,2010-11-04,340ML,,"(46.5196535, 6.6322734)"
-Lausanne,JAZZ ONZE +,2010-11-04,MARC PERRENOUD,,"(46.5196535, 6.6322734)"
+location,event,date,artist,genre
+Lausanne,JAZZ ONZE +,2010-11-04,340ML,
+Lausanne,JAZZ ONZE +,2010-11-04,MARC PERRENOUD,

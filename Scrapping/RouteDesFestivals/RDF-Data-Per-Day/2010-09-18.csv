@@ -1,3 +1,3 @@
-location,event,date,artist,genre,coordinates
-Bernex,FESTIVAL DE LA BATIE,2010-09-18,FELOCHE,,"(46.1771419, 6.0764849)"
-Geneve,FESTIVAL DE LA BATIE,2010-09-18,KEMICAL KEM,,"(46.2043907, 6.1431577)"
+location,event,date,artist,genre
+Bernex,FESTIVAL DE LA BATIE,2010-09-18,FELOCHE,
+Geneve,FESTIVAL DE LA BATIE,2010-09-18,KEMICAL KEM,
