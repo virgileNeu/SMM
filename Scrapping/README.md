@@ -1,5 +1,5 @@
 # Scrapping folder
-Contains the 3 folders, one for each website we used
+Contains the 3 folders, one for each website we used.
 ## events.ch
 The events.ch website folder.
 ## ResidentAdvisor
