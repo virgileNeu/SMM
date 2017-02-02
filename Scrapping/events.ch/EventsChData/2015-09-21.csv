@@ -1,10 +1,10 @@
-,location,event,date,artists,genre
-0,Zürich,Nik-Bärtschs-Ronin,2015-09-21,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
-1,null,Loom,2015-09-21,"[' Manu Olowu ', ' Mario Söldi ', ' Christof Schlegel ', ' Johannes Eberhard ']",
-2,Zürich,Terrorgruppe,2015-09-21,['Terrorgruppe '],
-3,Zürich,Im-Wald,2015-09-21,"[' Tobias Meier ', ' Matthias Spillmann ', ' Frantz Loriot ', ' Nicola Romanò ', ' Raffaele Bossard ']",
-4,Zürich,Bergerausch,2015-09-21,"[' Bettina Klöti ', ' Vera Kappeler ', ' Urs Vögeli ']",Pop
-5,Locarno,Settimane-musicali-di-Ascona,2015-09-21,"['András Schiff ', ' Heinz Holliger ']",Classic
-6,Winterthur,Wooden-Peak,2015-09-21,['Wooden Peak '],
-7,Basel,Andreas-Böhlen-Band,2015-09-21,"['Andreas Böhlen Band ', ' Andreas Böhlen ', ' Sebastian Böhlen ', ' Jakob Dreyer ', ' Severin Rauch ']",
-8,Lausanne,Indian-Jewelry,2015-09-21,['Indian Jewelry '],
+location,event,date,artists,genre
+Zürich,Nik-Bärtschs-Ronin,2015-09-21,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
+null,Loom,2015-09-21,"[' Manu Olowu ', ' Mario Söldi ', ' Christof Schlegel ', ' Johannes Eberhard ']",
+Zürich,Terrorgruppe,2015-09-21,['Terrorgruppe '],
+Zürich,Im-Wald,2015-09-21,"[' Tobias Meier ', ' Matthias Spillmann ', ' Frantz Loriot ', ' Nicola Romanò ', ' Raffaele Bossard ']",
+Zürich,Bergerausch,2015-09-21,"[' Bettina Klöti ', ' Vera Kappeler ', ' Urs Vögeli ']",Pop
+Locarno,Settimane-musicali-di-Ascona,2015-09-21,"['András Schiff ', ' Heinz Holliger ']",Classic
+Winterthur,Wooden-Peak,2015-09-21,['Wooden Peak '],
+Basel,Andreas-Böhlen-Band,2015-09-21,"['Andreas Böhlen Band ', ' Andreas Böhlen ', ' Sebastian Böhlen ', ' Jakob Dreyer ', ' Severin Rauch ']",
+Lausanne,Indian-Jewelry,2015-09-21,['Indian Jewelry '],

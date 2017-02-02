@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Zürich,Gründonnerstag,2014-04-17,"[' Marni Schwonberg ', ' Agnieszka Kowalczyk ', ' Victor Soares ', ' Ulrich Amacher ', ' Walter Rüegsegger ']",Classic
-1,Basel,Konzert-4,2014-04-17,"[' Ruth Sandhoff ', ' Benoît Arnould ', ' Sebastian Küchler-Blessing ']",Classic
-2,Aarau,Passionskonzert-Requiem,2014-04-17,"[' Trudy Walter ', ' Ingrid Alexandre ', ' Raimund Wiederkehr ', ' Fabrice Raviola ']",Classic
-3,null,Electron-Festival,2014-04-17,"['DJs Mr Oizo ', ' Max Cooper ', ' Ame ', ' Jackson & His Computer Band ', ' Dillon ']",Electronic
-4,Zürich,Afrikanische-Meister-Die-grossen-Künstler-Westafrikas,2014-04-17,"[' Mory Samb ', ' Manuel Sieb ']",Classic
-5,Aarau,Giraffage,2014-04-17,"['Giraffage ', ' Lindsay Lowend ']",Electronic
-6,Zürich,Stu-Larsen,2014-04-17,['Stu Larsen '],Pop
-7,Bern,Eagulls,2014-04-17,"['Eagulls ', ' Listener ', ' DJ Psycho Jones ']",
-8,Jona,Quentin-Yellow,2014-04-17,"[' Quentin Yellow ', ' Richard Pechota ', ' Tobias Hunziker ']",Pop
-9,Wädenswil,Pâqu'son-Musikfestival,2014-04-17,['Lisa Leblanc '],
-10,Zürich,Hendrix-Ackle-Trio,2014-04-17,"[' Hendrix Ackle ', ' Wolfgang Zwiauer ', ' Oli Hartung ', ' Alfred Vogel ']",
-11,Bern,Deltron-3030,2014-04-17,['Deltron 3030 '],
-12,Schaffhausen,Reptile-Youth,2014-04-17,['Reptile Youth '],Pop
-13,Aarau,Junior-Kelly-&-The-Roots-Harmonic-Band,2014-04-17,['Junior Kelly & The Roots Harmonic Band '],
+location,event,date,artists,genre
+Zürich,Gründonnerstag,2014-04-17,"[' Marni Schwonberg ', ' Agnieszka Kowalczyk ', ' Victor Soares ', ' Ulrich Amacher ', ' Walter Rüegsegger ']",Classic
+Basel,Konzert-4,2014-04-17,"[' Ruth Sandhoff ', ' Benoît Arnould ', ' Sebastian Küchler-Blessing ']",Classic
+Aarau,Passionskonzert-Requiem,2014-04-17,"[' Trudy Walter ', ' Ingrid Alexandre ', ' Raimund Wiederkehr ', ' Fabrice Raviola ']",Classic
+null,Electron-Festival,2014-04-17,"['DJs Mr Oizo ', ' Max Cooper ', ' Ame ', ' Jackson & His Computer Band ', ' Dillon ']",Electronic
+Zürich,Afrikanische-Meister-Die-grossen-Künstler-Westafrikas,2014-04-17,"[' Mory Samb ', ' Manuel Sieb ']",Classic
+Aarau,Giraffage,2014-04-17,"['Giraffage ', ' Lindsay Lowend ']",Electronic
+Zürich,Stu-Larsen,2014-04-17,['Stu Larsen '],Pop
+Bern,Eagulls,2014-04-17,"['Eagulls ', ' Listener ', ' DJ Psycho Jones ']",
+Jona,Quentin-Yellow,2014-04-17,"[' Quentin Yellow ', ' Richard Pechota ', ' Tobias Hunziker ']",Pop
+Wädenswil,Pâqu'son-Musikfestival,2014-04-17,['Lisa Leblanc '],
+Zürich,Hendrix-Ackle-Trio,2014-04-17,"[' Hendrix Ackle ', ' Wolfgang Zwiauer ', ' Oli Hartung ', ' Alfred Vogel ']",
+Bern,Deltron-3030,2014-04-17,['Deltron 3030 '],
+Schaffhausen,Reptile-Youth,2014-04-17,['Reptile Youth '],Pop
+Aarau,Junior-Kelly-&-The-Roots-Harmonic-Band,2014-04-17,['Junior Kelly & The Roots Harmonic Band '],

@@ -1,11 +1,11 @@
-,location,event,date,artists,genre
-0,Zürich,Spektrum-plus-Nullpunkt-und-interkultureller-Dialog,2013-02-18,"['Leila Schayegh ', ' Wolfgang Hessler ']",Classic
-1,Zürich,Konzert,2013-02-18,"[' conductor: Albrecht Mayer ', ' Willi Zimmermann ']",Classic
-2,Zug,Achim-Escher-Trio,2013-02-18,"[' Achim Escher ', ' Silke Eberhard ', ' Hans-Peter Pfammatter ', ' Pelayo Arrizabalaga ']",
-3,Flawil,Gavin-James,2013-02-18,['Gavin James '],
-4,Zürich,Captain-Capa,2013-02-18,['Captain Capa '],Pop
-5,Baden,Herbie's-Explo-3000,2013-02-18,"[' Hans Feigenwinter ', ' Adi Pflugshaupt ', ' Herbie Kopf ', ' \r\nPius Baschnagel ']",
-6,Zürich,Dan-&-Rachel,2013-02-18,['Dan & Rachel '],Pop
-7,Lugano,Soirée-Stravinskij,2013-02-18,"[' Mario Totano & Daniela Ferrati ', ' Ivan Gambini ']",Classic
-8,Zürich,Metz,2013-02-18,['Metz '],
-9,Zürich,Mostly-Other-People-do-the-Killing,2013-02-18,"['Mostly Other People do the Killing ', ' Peter Evans ', ' Jon Irabagon ', ' Moppa Elliott ', ' Kevin Shea ']",
+location,event,date,artists,genre
+Zürich,Spektrum-plus-Nullpunkt-und-interkultureller-Dialog,2013-02-18,"['Leila Schayegh ', ' Wolfgang Hessler ']",Classic
+Zürich,Konzert,2013-02-18,"[' conductor: Albrecht Mayer ', ' Willi Zimmermann ']",Classic
+Zug,Achim-Escher-Trio,2013-02-18,"[' Achim Escher ', ' Silke Eberhard ', ' Hans-Peter Pfammatter ', ' Pelayo Arrizabalaga ']",
+Flawil,Gavin-James,2013-02-18,['Gavin James '],
+Zürich,Captain-Capa,2013-02-18,['Captain Capa '],Pop
+Baden,Herbie's-Explo-3000,2013-02-18,"[' Hans Feigenwinter ', ' Adi Pflugshaupt ', ' Herbie Kopf ', ' \r\nPius Baschnagel ']",
+Zürich,Dan-&-Rachel,2013-02-18,['Dan & Rachel '],Pop
+Lugano,Soirée-Stravinskij,2013-02-18,"[' Mario Totano & Daniela Ferrati ', ' Ivan Gambini ']",Classic
+Zürich,Metz,2013-02-18,['Metz '],
+Zürich,Mostly-Other-People-do-the-Killing,2013-02-18,"['Mostly Other People do the Killing ', ' Peter Evans ', ' Jon Irabagon ', ' Moppa Elliott ', ' Kevin Shea ']",

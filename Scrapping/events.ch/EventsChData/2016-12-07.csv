@@ -1,26 +1,26 @@
-,location,event,date,artists,genre
-0,Basel,Mimiko-Hymnus,2016-12-07,['Lukas Frank '],Classic
-1,Baden,After-Work-Music,2016-12-07,"['Lorenz Mühlemann ', ' Thomas Keller ']",
-2,null,Bullet-for-My-Valentine,2016-12-07,"['Bullet for My Valentine ', ' Killswitch Engage ', ' Cane Hill ']",
-3,Zürich,What-can-i-give-Christmas-Gospel-Night,2016-12-07,"['Christina Jaccard ', ' Dave Ruosch ', ' Joachim Müller-Crépon ', ' Janos Heidekker ', ' Deborah Morat ']",
-4,null,Arno,2016-12-07,"['Arno ', ' Jack Simard ']",
-5,Basel,Kammermusik-um-halb-Acht,2016-12-07,[' Dietrich Henschel '],Classic
-6,Basel,Bruckner-&-Cage-und-Haydn,2016-12-07,[' Huw Morgan '],Classic
-7,Luzern,Kirill-Gerstein-&-James-Gaffigan,2016-12-07,[' Kirill Gerstein '],Classic
-8,Zürich,Orchestermagie,2016-12-07,[' Sir András Schiff '],Classic
-9,Zürich,"Adventskonzert-""Böhmische-Hirtenmesse""",2016-12-07,"[' Gabriela Glaus ', ' Sofia Pollak ', ' Boguslaw Bidzinski ', ' Soon-Kee Woo ']",Classic
-10,Basel,Peter-Cincotti,2016-12-07,['Peter Cincotti '],Pop
-11,Zürich,Christmas-with-My-Friends,2016-12-07,"[' Nils Landgren ', ' Jessica Pilnäs ', ' Jeannette Köhn ', ' Sharon Dyall ', ' Ida Sand ']",
-12,Zürich,Silvan-Schmid-Trio,2016-12-07,[' Silvan Schmid '],
-13,Zürich,Skillet,2016-12-07,"['Skillet ', ' Red Sun Rising ']",
-14,Zürich,Nick-Howard,2016-12-07,['Nick Howard '],Pop
-15,Zürich,Moods-Labor,2016-12-07,"[' Evelinn Trouble ', ' Michael Flury ', ' Bernhard Bamert ', ' Nils Wogram ', ' Colin Vallon ', ' Roman Bruderer ', ' Julian Sartorius ']",
-16,Luzern,Jam-Night,2016-12-07,"[' Hanna Marchand  ', ' Mischa Maurer ', ' Florian Hösl ']",
-17,Bern,Naïssam-Jalal,2016-12-07,['Naïssam Jalal '],
-18,Luzern,12-Different-Shades-of-Blues,2016-12-07,"[' Giulia Bättig ', ' Alessandro Fiore ', ' Yannick Keel ', ' Helen Maier ', ' Simon Scherrer ', ' Herbie Kopf ']",
-19,Zürich,Jazzbaragge-Wednesday-Jam,2016-12-07,"['Colin Vallon ', ' Dominique Girod ', ' Jonas Ruther ']",
-20,Baden,Miki-Lenner-Trio,2016-12-07,"[' Miklós Lenner ', ' Peter Keller ', ' Reto Anneler ']",
-21,Basel,Eduardo-Machado-Trio,2016-12-07,"[' Gil Reis ', ' Eduardo Machado ', ' Fernando Rast ']",
-22,Lausanne,Mike-Wexler,2016-12-07,"['Mike Wexler ', ' Borja Flames ']",
-23,Zürich,Jazz-im-Oberdorf,2016-12-07,"[' Nat Su ', ' Rafael Schilt ', ' Lukas Traxel ', ' Jorge Rossy ']",
-24,Luzern,Rykarda-Parasol,2016-12-07,['Rykarda Parasol '],Pop
+location,event,date,artists,genre
+Basel,Mimiko-Hymnus,2016-12-07,['Lukas Frank '],Classic
+Baden,After-Work-Music,2016-12-07,"['Lorenz Mühlemann ', ' Thomas Keller ']",
+null,Bullet-for-My-Valentine,2016-12-07,"['Bullet for My Valentine ', ' Killswitch Engage ', ' Cane Hill ']",
+Zürich,What-can-i-give-Christmas-Gospel-Night,2016-12-07,"['Christina Jaccard ', ' Dave Ruosch ', ' Joachim Müller-Crépon ', ' Janos Heidekker ', ' Deborah Morat ']",
+null,Arno,2016-12-07,"['Arno ', ' Jack Simard ']",
+Basel,Kammermusik-um-halb-Acht,2016-12-07,[' Dietrich Henschel '],Classic
+Basel,Bruckner-&-Cage-und-Haydn,2016-12-07,[' Huw Morgan '],Classic
+Luzern,Kirill-Gerstein-&-James-Gaffigan,2016-12-07,[' Kirill Gerstein '],Classic
+Zürich,Orchestermagie,2016-12-07,[' Sir András Schiff '],Classic
+Zürich,"Adventskonzert-""Böhmische-Hirtenmesse""",2016-12-07,"[' Gabriela Glaus ', ' Sofia Pollak ', ' Boguslaw Bidzinski ', ' Soon-Kee Woo ']",Classic
+Basel,Peter-Cincotti,2016-12-07,['Peter Cincotti '],Pop
+Zürich,Christmas-with-My-Friends,2016-12-07,"[' Nils Landgren ', ' Jessica Pilnäs ', ' Jeannette Köhn ', ' Sharon Dyall ', ' Ida Sand ']",
+Zürich,Silvan-Schmid-Trio,2016-12-07,[' Silvan Schmid '],
+Zürich,Skillet,2016-12-07,"['Skillet ', ' Red Sun Rising ']",
+Zürich,Nick-Howard,2016-12-07,['Nick Howard '],Pop
+Zürich,Moods-Labor,2016-12-07,"[' Evelinn Trouble ', ' Michael Flury ', ' Bernhard Bamert ', ' Nils Wogram ', ' Colin Vallon ', ' Roman Bruderer ', ' Julian Sartorius ']",
+Luzern,Jam-Night,2016-12-07,"[' Hanna Marchand  ', ' Mischa Maurer ', ' Florian Hösl ']",
+Bern,Naïssam-Jalal,2016-12-07,['Naïssam Jalal '],
+Luzern,12-Different-Shades-of-Blues,2016-12-07,"[' Giulia Bättig ', ' Alessandro Fiore ', ' Yannick Keel ', ' Helen Maier ', ' Simon Scherrer ', ' Herbie Kopf ']",
+Zürich,Jazzbaragge-Wednesday-Jam,2016-12-07,"['Colin Vallon ', ' Dominique Girod ', ' Jonas Ruther ']",
+Baden,Miki-Lenner-Trio,2016-12-07,"[' Miklós Lenner ', ' Peter Keller ', ' Reto Anneler ']",
+Basel,Eduardo-Machado-Trio,2016-12-07,"[' Gil Reis ', ' Eduardo Machado ', ' Fernando Rast ']",
+Lausanne,Mike-Wexler,2016-12-07,"['Mike Wexler ', ' Borja Flames ']",
+Zürich,Jazz-im-Oberdorf,2016-12-07,"[' Nat Su ', ' Rafael Schilt ', ' Lukas Traxel ', ' Jorge Rossy ']",
+Luzern,Rykarda-Parasol,2016-12-07,['Rykarda Parasol '],Pop

@@ -1,26 +1,26 @@
-,location,event,date,artists,genre
-0,Basel,Festtage-Alte-Musik-Basel-Lieder-zum-Clavier-zu-singen,2015-08-28,['Ulrich Messthaler '],Classic
-1,Glattbrugg,Zürich-Openair,2015-08-28,"['Seeed ', ' Fatboy Slim ', ' Interpol ', ' Milky Chance ', ' Siriusmodeselektor ', ' Balthazar ', ' Josef Salvat ', ' Aurora ', ' Interpol ', ' Solomun ']",Pop
-2,Basel,Barock-Jazz-Spiegelungen,2015-08-28,"[' Dirk Börner ', ' Matthieu Camilleri ', ' Andreas Böhlen ']",
-3,Arbon,Summerdays-Festival,2015-08-28,"['Deep Purple ', ' Alan Parsons Live Project ', ' Ian Anderson ', ' Fish ', ' The Baseballs ']",
-4,Zürich,Top-Party-Band-Krokodili,2015-08-28,['Top Party Band Krokodili '],
-5,Zug,Rock-the-Docks,2015-08-28,['Liptease '],Pop
-6,Basel,Orgelspiel-zum-Feierabend,2015-08-28,['Travis Baker '],Classic
-7,La-Tour-de-Peilz,Nox-Orae,2015-08-28,"['Fuzz ', ' The Soft Moon ', ' Omar Souleyman ']",Electronic
-8,Glarus,Sound-of-Glarus,2015-08-28,"['Gentleman ', ' Gasandji ']",Pop
-9,Gränichen,Openair-Gränichen,2015-08-28,['EAV '],Pop
-10,Montreux,Septembre-musical,2015-08-28,[' Mikhail Pletnev '],Classic
-11,Zürich,Duo-Abend,2015-08-28,"['Jürg Eichenberger ', ' Michiko Tsuda ']",Classic
-12,null,Maël-&-Band,2015-08-28,"[' Maël ', ' Philippe Kuhn ', ' Tosho Yakkatokuo ']",
-13,Riehen,Klangraum-Riehen-Marlboro,2015-08-28,[' Rudolf Serkin '],Classic
-14,Basel,Raumkonzert,2015-08-28,"['Ada Meinich ', ' Dimitri Askenazy ', ' Angela Killian ']",Classic
-15,Murten,Murten-Classics,2015-08-28,[' Josef Spacek '],Classic
-16,Münchenstein,Fly-Agaric,2015-08-28,"[' Sebastian von Keler ', ' Johannes Maikranz ', ' Cédric Vogel ', ' Roberto Koch ', ' Luca Glausen ', ' Florian Haas ']",
-17,Münchenwiler,Murten-Classics,2015-08-28,"[' German Echeverri Chamorro ', ' Karoline Echeverri Klemm ', ' Annekatrin Beller ', ' Daniela Niedhammer ']",Classic
-18,Zürich,Buck-&-Books,2015-08-28,['Christian Buck '],Classic
-19,Baden,Donadio-Family-Band,2015-08-28,"[' Dalia ', ' ', '  Moreno ', ' Toni Donadio ']",
-20,Winterthur,Low-Leaf,2015-08-28,['Low Leaf '],Pop
-21,Winterthur,Christian-Niederers-Plan,2015-08-28,"[' Oliver Keller ', ' Thomy Jordi ', ' Christian Niederer ']",
-22,Schaffhausen,Saisonstart,2015-08-28,['The Mighty Mocambos '],
-23,Aarau,Musik-i-de-Altstadt,2015-08-28,"[""L'aupaire ""]",Pop
-24,Basel,Howling,2015-08-28,['Howling '],Electronic
+location,event,date,artists,genre
+Basel,Festtage-Alte-Musik-Basel-Lieder-zum-Clavier-zu-singen,2015-08-28,['Ulrich Messthaler '],Classic
+Glattbrugg,Zürich-Openair,2015-08-28,"['Seeed ', ' Fatboy Slim ', ' Interpol ', ' Milky Chance ', ' Siriusmodeselektor ', ' Balthazar ', ' Josef Salvat ', ' Aurora ', ' Interpol ', ' Solomun ']",Pop
+Basel,Barock-Jazz-Spiegelungen,2015-08-28,"[' Dirk Börner ', ' Matthieu Camilleri ', ' Andreas Böhlen ']",
+Arbon,Summerdays-Festival,2015-08-28,"['Deep Purple ', ' Alan Parsons Live Project ', ' Ian Anderson ', ' Fish ', ' The Baseballs ']",
+Zürich,Top-Party-Band-Krokodili,2015-08-28,['Top Party Band Krokodili '],
+Zug,Rock-the-Docks,2015-08-28,['Liptease '],Pop
+Basel,Orgelspiel-zum-Feierabend,2015-08-28,['Travis Baker '],Classic
+La-Tour-de-Peilz,Nox-Orae,2015-08-28,"['Fuzz ', ' The Soft Moon ', ' Omar Souleyman ']",Electronic
+Glarus,Sound-of-Glarus,2015-08-28,"['Gentleman ', ' Gasandji ']",Pop
+Gränichen,Openair-Gränichen,2015-08-28,['EAV '],Pop
+Montreux,Septembre-musical,2015-08-28,[' Mikhail Pletnev '],Classic
+Zürich,Duo-Abend,2015-08-28,"['Jürg Eichenberger ', ' Michiko Tsuda ']",Classic
+null,Maël-&-Band,2015-08-28,"[' Maël ', ' Philippe Kuhn ', ' Tosho Yakkatokuo ']",
+Riehen,Klangraum-Riehen-Marlboro,2015-08-28,[' Rudolf Serkin '],Classic
+Basel,Raumkonzert,2015-08-28,"['Ada Meinich ', ' Dimitri Askenazy ', ' Angela Killian ']",Classic
+Murten,Murten-Classics,2015-08-28,[' Josef Spacek '],Classic
+Münchenstein,Fly-Agaric,2015-08-28,"[' Sebastian von Keler ', ' Johannes Maikranz ', ' Cédric Vogel ', ' Roberto Koch ', ' Luca Glausen ', ' Florian Haas ']",
+Münchenwiler,Murten-Classics,2015-08-28,"[' German Echeverri Chamorro ', ' Karoline Echeverri Klemm ', ' Annekatrin Beller ', ' Daniela Niedhammer ']",Classic
+Zürich,Buck-&-Books,2015-08-28,['Christian Buck '],Classic
+Baden,Donadio-Family-Band,2015-08-28,"[' Dalia ', ' ', '  Moreno ', ' Toni Donadio ']",
+Winterthur,Low-Leaf,2015-08-28,['Low Leaf '],Pop
+Winterthur,Christian-Niederers-Plan,2015-08-28,"[' Oliver Keller ', ' Thomy Jordi ', ' Christian Niederer ']",
+Schaffhausen,Saisonstart,2015-08-28,['The Mighty Mocambos '],
+Aarau,Musik-i-de-Altstadt,2015-08-28,"[""L'aupaire ""]",Pop
+Basel,Howling,2015-08-28,['Howling '],Electronic

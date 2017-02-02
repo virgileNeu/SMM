@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,Zürich,Werner-und-Company,2015-12-15,['Werner und Company '],Pop
-1,Zürich,Peggy-Chew-&-Friends,2015-12-15,"[' Peggy Chew ', ' Walter Jauslin ', ' Patrick Sommer ', ' Pius Baschnagel ']",
-2,Zürich,Madsen,2015-12-15,['Madsen '],
-3,Zürich,Orchester-der-ZHdK,2015-12-15,['Conductor: Christian Zacharias '],Classic
-4,Zürich,Michael-Heidepriem-Quintett,2015-12-15,"[' Raphael Rossé ', ' Luca Pusch ', ' Kristinn Smári Kristinsson ', ' Lisa Hoppe ', ' Michael Heidepriem ']",
-5,null,Night-School,2015-12-15,"['Molly Nilsson ', ' Sally Dige ', ' Apostille ']",Pop
-6,Lausanne,Aaron-complet,2015-12-15,"['Aaron ', ' Adam Naas ']",Pop
-7,Zürich,Artist-in-Residence-Lukas-Mantel,2015-12-15,"[' Lukas Mantel ', ' Philip Schaufelberger ', ' Hanspeter Pfammatter ', ' Dan Kinzelman ', ' Roberto Pianca ']",
-8,Basel,DKSJ-Exchange-Nights-Best-of-Jazz-Bachelors-2015,2015-12-15,"[' Tapiwa Svosve ', ' Vojko Huter ', ' Xaver Rüegg ', ' Paul Amereller ']",
-9,Basel,A-Tribute-to-Astor-Piazzolla,2015-12-15,"['Thomas Dobler ', ' Adam Taubitz ', ' Denis Croisonnier ', ' Rätus Flisch ']",
-10,Bern,Gabriel-Sullivan-&-Brian-Lopez,2015-12-15,['Gabriel Sullivan & Brian Lopez '],
-11,Zürich,Florian-Weiss'-Woodism,2015-12-15,"[' Linus Amstad ', ' Florian Weiss ', ' Valentin von Fischer ', ' Philipp Leibundgut ']",
-12,Basel,DKSJ-Exchange-Nights-Best-of-Jazz-Bachelors-2015,2015-12-15,"[' Martin Schenker ', ' Pascal Eugster ', ' Florian Schneider ']",
+location,event,date,artists,genre
+Zürich,Werner-und-Company,2015-12-15,['Werner und Company '],Pop
+Zürich,Peggy-Chew-&-Friends,2015-12-15,"[' Peggy Chew ', ' Walter Jauslin ', ' Patrick Sommer ', ' Pius Baschnagel ']",
+Zürich,Madsen,2015-12-15,['Madsen '],
+Zürich,Orchester-der-ZHdK,2015-12-15,['Conductor: Christian Zacharias '],Classic
+Zürich,Michael-Heidepriem-Quintett,2015-12-15,"[' Raphael Rossé ', ' Luca Pusch ', ' Kristinn Smári Kristinsson ', ' Lisa Hoppe ', ' Michael Heidepriem ']",
+null,Night-School,2015-12-15,"['Molly Nilsson ', ' Sally Dige ', ' Apostille ']",Pop
+Lausanne,Aaron-complet,2015-12-15,"['Aaron ', ' Adam Naas ']",Pop
+Zürich,Artist-in-Residence-Lukas-Mantel,2015-12-15,"[' Lukas Mantel ', ' Philip Schaufelberger ', ' Hanspeter Pfammatter ', ' Dan Kinzelman ', ' Roberto Pianca ']",
+Basel,DKSJ-Exchange-Nights-Best-of-Jazz-Bachelors-2015,2015-12-15,"[' Tapiwa Svosve ', ' Vojko Huter ', ' Xaver Rüegg ', ' Paul Amereller ']",
+Basel,A-Tribute-to-Astor-Piazzolla,2015-12-15,"['Thomas Dobler ', ' Adam Taubitz ', ' Denis Croisonnier ', ' Rätus Flisch ']",
+Bern,Gabriel-Sullivan-&-Brian-Lopez,2015-12-15,['Gabriel Sullivan & Brian Lopez '],
+Zürich,Florian-Weiss'-Woodism,2015-12-15,"[' Linus Amstad ', ' Florian Weiss ', ' Valentin von Fischer ', ' Philipp Leibundgut ']",
+Basel,DKSJ-Exchange-Nights-Best-of-Jazz-Bachelors-2015,2015-12-15,"[' Martin Schenker ', ' Pascal Eugster ', ' Florian Schneider ']",

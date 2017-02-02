@@ -1,27 +1,27 @@
-,location,event,date,artists,genre
-0,Frauenfeld,Openair-Frauenfeld,2015-07-10,"['Nicki Minaj ', ' Cypress Hill ', ' Prinz Pi ', ' Tinie Tempah ', ' Freddie Gibbs ']",
-1,Frauenfeld,Openair-Frauenfeld,2015-07-10,"['Deichkind ', ' D12 ', ' Danny Brown ', ' Kollegah ', ' Swollen Members ']",
-2,Frauenfeld,Openair-Frauenfeld,2015-07-10,"['Dope D.O.D. ', ' Little Simz ', ' Lino ']",
-3,Münchenstein,Summer-Stage,2015-07-10,['Katie Melua '],Pop
-4,Basel,Orgelspiel-zum-Feierabend,2015-07-10,['Jonathan Holl '],Classic
-5,Zürich,Reggaefestival,2015-07-10,['Beres Hammond '],
-6,Dietikon,Feierabendmusik-in-der-Kirche,2015-07-10,['Bernhard Hörler '],Classic
-7,Zürich,Befreiung-aus-Unterdrückung,2015-07-10,"['David Reitz ', ' Bryan Grob ']",Classic
-8,Zürich,Lili-Boulanger-in-Brahms-Glück,2015-07-10,"[' Matthias Kipfer ', ' Reto Reichenbach ']",Classic
-9,Zürich,The-World,2015-07-10,['The World/Inferno Friendship Society '],
-10,Zürich,Kammermusik-Konzert,2015-07-10,"[' Saskia Hein ', ' Mihai Cocea ', ' Sara Franchini ']",Classic
-11,Zürich,Kammermusik-Konzert,2015-07-10,"[' Saskia Hein ', ' Mihai Cocea ', ' Sara Franchini ']",Classic
-12,null,Stimmen,2015-07-10,"['Julia Biel ', ' Thea Hjemeland ']",
-13,Montreux,Montreux-Jazz-Festival,2015-07-10,"['Jason Moran ', ' Justin Kauflin Trio ']",
-14,Pratteln,Radio-Moscow,2015-07-10,['Radio Moscow '],
-15,Montreux,Montreux-Jazz-Festival,2015-07-10,"['Portishead ', ' Thought Forms ']",Electronic
-16,Zürich,Live-at-Sunset,2015-07-10,['John Legend '],
-17,Montreux,Montreux-Jazz-Festival,2015-07-10,"[' Jack Garratt ', ' Sebastien Schuller ']",Pop
-18,null,Kulturfestival-St.-Gallen,2015-07-10,['Zoot Woman '],Pop
-19,Lugano,Estival-Jazz-Lugano,2015-07-10,"['Naturally 7 ', ' Les ambassadeurs ', ' Candy Duffer Band ']",Pop
-20,Locarno,Moon-and-Stars,2015-07-10,['Roxette '],Pop
-21,Basel,Jean-Paul-Brodbeck-Trio,2015-07-10,"[' Jean-Paul Brodbeck ', ' Matthias Pichler ', ' Andreas Pichler ']",
-22,Brontallo,Magic-Blues-Festival,2015-07-10,['Neal Black and The Healers '],
-23,St.-Moritz,Festival-da-Jazz,2015-07-10,"[' Dee Dee Bridgewater ', ' Irvin Mayfield ', ' Michael Watson ', ' Ricardo Pascal ', ' Victor Atkins ']",
-24,Zürich,Alejandro-Reyes,2015-07-10,['Alejandro Reyes '],Pop
-25,Zürich,Beatrice-Dillon-&-Uom,2015-07-10,"['DJs Beatrice Dillon ', ' Sharonfromafrica ']",Electronic
+location,event,date,artists,genre
+Frauenfeld,Openair-Frauenfeld,2015-07-10,"['Nicki Minaj ', ' Cypress Hill ', ' Prinz Pi ', ' Tinie Tempah ', ' Freddie Gibbs ']",
+Frauenfeld,Openair-Frauenfeld,2015-07-10,"['Deichkind ', ' D12 ', ' Danny Brown ', ' Kollegah ', ' Swollen Members ']",
+Frauenfeld,Openair-Frauenfeld,2015-07-10,"['Dope D.O.D. ', ' Little Simz ', ' Lino ']",
+Münchenstein,Summer-Stage,2015-07-10,['Katie Melua '],Pop
+Basel,Orgelspiel-zum-Feierabend,2015-07-10,['Jonathan Holl '],Classic
+Zürich,Reggaefestival,2015-07-10,['Beres Hammond '],
+Dietikon,Feierabendmusik-in-der-Kirche,2015-07-10,['Bernhard Hörler '],Classic
+Zürich,Befreiung-aus-Unterdrückung,2015-07-10,"['David Reitz ', ' Bryan Grob ']",Classic
+Zürich,Lili-Boulanger-in-Brahms-Glück,2015-07-10,"[' Matthias Kipfer ', ' Reto Reichenbach ']",Classic
+Zürich,The-World,2015-07-10,['The World/Inferno Friendship Society '],
+Zürich,Kammermusik-Konzert,2015-07-10,"[' Saskia Hein ', ' Mihai Cocea ', ' Sara Franchini ']",Classic
+Zürich,Kammermusik-Konzert,2015-07-10,"[' Saskia Hein ', ' Mihai Cocea ', ' Sara Franchini ']",Classic
+null,Stimmen,2015-07-10,"['Julia Biel ', ' Thea Hjemeland ']",
+Montreux,Montreux-Jazz-Festival,2015-07-10,"['Jason Moran ', ' Justin Kauflin Trio ']",
+Pratteln,Radio-Moscow,2015-07-10,['Radio Moscow '],
+Montreux,Montreux-Jazz-Festival,2015-07-10,"['Portishead ', ' Thought Forms ']",Electronic
+Zürich,Live-at-Sunset,2015-07-10,['John Legend '],
+Montreux,Montreux-Jazz-Festival,2015-07-10,"[' Jack Garratt ', ' Sebastien Schuller ']",Pop
+null,Kulturfestival-St.-Gallen,2015-07-10,['Zoot Woman '],Pop
+Lugano,Estival-Jazz-Lugano,2015-07-10,"['Naturally 7 ', ' Les ambassadeurs ', ' Candy Duffer Band ']",Pop
+Locarno,Moon-and-Stars,2015-07-10,['Roxette '],Pop
+Basel,Jean-Paul-Brodbeck-Trio,2015-07-10,"[' Jean-Paul Brodbeck ', ' Matthias Pichler ', ' Andreas Pichler ']",
+Brontallo,Magic-Blues-Festival,2015-07-10,['Neal Black and The Healers '],
+St.-Moritz,Festival-da-Jazz,2015-07-10,"[' Dee Dee Bridgewater ', ' Irvin Mayfield ', ' Michael Watson ', ' Ricardo Pascal ', ' Victor Atkins ']",
+Zürich,Alejandro-Reyes,2015-07-10,['Alejandro Reyes '],Pop
+Zürich,Beatrice-Dillon-&-Uom,2015-07-10,"['DJs Beatrice Dillon ', ' Sharonfromafrica ']",Electronic

@@ -1,28 +1,28 @@
-,location,event,date,artists,genre
-0,Zürich,Cimorelli,2015-03-18,['Cimorelli '],Pop
-1,Zürich,Nordwestdeutsche-Philharmonie,2015-03-18,['Fabio Bidini '],Classic
-2,Zürich,Katzenjammer,2015-03-18,['Katzenjammer '],
-3,Zürich,Internationales-Country-Music-Festival,2015-03-18,[' Bluedust Bluegrass Band '],
-4,Luzern,Mare-nostrum,2015-03-18,"[' Richard Galliano ', ' Paolo Fresu ', ' Jan Lundgren ']",
-5,Basel,AMG-Solistenabende,2015-03-18,"['Ray Chen ', ' Julien Quentin ']",Classic
-6,Pratteln,Fozzy,2015-03-18,['Fozzy '],
-7,Zürich,B-Tight,2015-03-18,['B-Tight '],
-8,Zug,Konzert,2015-03-18,[' Sabine Meyer '],Classic
-9,Wädenswil,Primo-piano,2015-03-18,['Marta Patrocinio '],Classic
-10,Zürich,Jazzbaragge-Wednesday-Jam,2015-03-18,"['Max Frankl ', ' Lukas Traxel ', ' Dominik Egli ']",
-11,null,Pago-libre,2015-03-18,"[' Arkady Shilkloper ', ' Tscho Theissing ', ' John Wolf Brennan ', ' Tom Götze ']",
-12,Zürich,Renzo-Spotti-Trio,2015-03-18,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
-13,Zürich,Peter-Gabriel-Tribute,2015-03-18,"[' Daniel Rohr ', ' Bruno Amstad ', ' Anna Kaenzig ', ' Levin Deger ', ' Tobey Lucas ', ' George Vaine ']",Pop
-14,Luzern,Jam-Night,2015-03-18,"[' Gee\t K ', ' Jizelle ', ' Faruk Muslijevic  ', ' Andi Mötz ']",
-15,Zürich,Ensemble-5-Wednesday-4+1-Series,2015-03-18,"['Fridolin Blumer ', ' Heinz Geisser ', ' Robert Morgenthaler ', ' Reto Staub ', ' Frantz Loriot ']",
-16,Baden,Endlich-Mittwoch-Solostunde,2015-03-18,['Tobias Preisig '],
-17,Winterthur,Jazz-am-Mittwoch,2015-03-18,"[' Kurt Söldi ', ' Alain Von Ritter ', ' Jean-Pierre Dix ', ' Tobias Hunziker ', ' Little Maze ']",
-18,Basel,Kapelle-Kessler,2015-03-18,"[' Manuel Mengis ', ' Valentin Kessler ', ' Franz Hellmüller ', ' Luca Sisera ', ' Tobias Schramm ']",
-19,Zürich,Ganes,2015-03-18,"['Ganes ', ' Elisabeth Schuen ', ' Marlene Schuen ', ' Maria Moling ', ' Alessandro Trebo ']",Pop
-20,Zürich,Madeleine-Tasquin,2015-03-18,['Madeleine Tasquin '],
-21,Luzern,Balduin-Hirschsteins-Hypervitaminose,2015-03-18,"[' Manuel Büchel ', ' Elio Amberg ', ' Ingo Hipp ', ' Jonathan Salvi ', ' Felix Fivaz ']",
-22,Luzern,Stimmorchester-mit,2015-03-18,['Claudia Kienzler '],Classic
-23,Aarau,Alcoholic-Faith-Mission,2015-03-18,['Alcoholic Faith Mission '],Electronic
-24,Basel,To-Kill-a-King,2015-03-18,"['To Kill a King ', ' Dancing Years ']",
-25,Zürich,The-Lords-of-Altamont,2015-03-18,['The Lords of Altamont '],
-26,Kriens,Jessica-Pratt,2015-03-18,['Jessica Pratt '],Pop
+location,event,date,artists,genre
+Zürich,Cimorelli,2015-03-18,['Cimorelli '],Pop
+Zürich,Nordwestdeutsche-Philharmonie,2015-03-18,['Fabio Bidini '],Classic
+Zürich,Katzenjammer,2015-03-18,['Katzenjammer '],
+Zürich,Internationales-Country-Music-Festival,2015-03-18,[' Bluedust Bluegrass Band '],
+Luzern,Mare-nostrum,2015-03-18,"[' Richard Galliano ', ' Paolo Fresu ', ' Jan Lundgren ']",
+Basel,AMG-Solistenabende,2015-03-18,"['Ray Chen ', ' Julien Quentin ']",Classic
+Pratteln,Fozzy,2015-03-18,['Fozzy '],
+Zürich,B-Tight,2015-03-18,['B-Tight '],
+Zug,Konzert,2015-03-18,[' Sabine Meyer '],Classic
+Wädenswil,Primo-piano,2015-03-18,['Marta Patrocinio '],Classic
+Zürich,Jazzbaragge-Wednesday-Jam,2015-03-18,"['Max Frankl ', ' Lukas Traxel ', ' Dominik Egli ']",
+null,Pago-libre,2015-03-18,"[' Arkady Shilkloper ', ' Tscho Theissing ', ' John Wolf Brennan ', ' Tom Götze ']",
+Zürich,Renzo-Spotti-Trio,2015-03-18,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
+Zürich,Peter-Gabriel-Tribute,2015-03-18,"[' Daniel Rohr ', ' Bruno Amstad ', ' Anna Kaenzig ', ' Levin Deger ', ' Tobey Lucas ', ' George Vaine ']",Pop
+Luzern,Jam-Night,2015-03-18,"[' Gee\t K ', ' Jizelle ', ' Faruk Muslijevic  ', ' Andi Mötz ']",
+Zürich,Ensemble-5-Wednesday-4+1-Series,2015-03-18,"['Fridolin Blumer ', ' Heinz Geisser ', ' Robert Morgenthaler ', ' Reto Staub ', ' Frantz Loriot ']",
+Baden,Endlich-Mittwoch-Solostunde,2015-03-18,['Tobias Preisig '],
+Winterthur,Jazz-am-Mittwoch,2015-03-18,"[' Kurt Söldi ', ' Alain Von Ritter ', ' Jean-Pierre Dix ', ' Tobias Hunziker ', ' Little Maze ']",
+Basel,Kapelle-Kessler,2015-03-18,"[' Manuel Mengis ', ' Valentin Kessler ', ' Franz Hellmüller ', ' Luca Sisera ', ' Tobias Schramm ']",
+Zürich,Ganes,2015-03-18,"['Ganes ', ' Elisabeth Schuen ', ' Marlene Schuen ', ' Maria Moling ', ' Alessandro Trebo ']",Pop
+Zürich,Madeleine-Tasquin,2015-03-18,['Madeleine Tasquin '],
+Luzern,Balduin-Hirschsteins-Hypervitaminose,2015-03-18,"[' Manuel Büchel ', ' Elio Amberg ', ' Ingo Hipp ', ' Jonathan Salvi ', ' Felix Fivaz ']",
+Luzern,Stimmorchester-mit,2015-03-18,['Claudia Kienzler '],Classic
+Aarau,Alcoholic-Faith-Mission,2015-03-18,['Alcoholic Faith Mission '],Electronic
+Basel,To-Kill-a-King,2015-03-18,"['To Kill a King ', ' Dancing Years ']",
+Zürich,The-Lords-of-Altamont,2015-03-18,['The Lords of Altamont '],
+Kriens,Jessica-Pratt,2015-03-18,['Jessica Pratt '],Pop

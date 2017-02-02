@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,Winterthur,New-Model-Army,2016-10-24,['New Model Army '],
-1,Zürich,Friends-Musical-Olympus-Preisträgerkonzert,2016-10-24,"['Elea Nick ', ' Michal Knot ', ' Bogdan Laketic ', ' Anna Tsybuleva ', ' Li Ao ']",Classic
-2,Bern,Sous-les-étoiles,2016-10-24,"[' Dartin Dahanukar ', ' Dimitri Howald-Guitar ', ' Philipp Moll ']",
-3,Basel,AMG-Sinfoniekonzerte-Klassik,2016-10-24,[' Louis Schwizgebel '],Classic
-4,Zürich,Get-Dead,2016-10-24,"['Get Dead ', ' In Evil Hour ']",
-5,Zürich,Nicolas-Stocker,2016-10-24,"[' Nicolas Stocker ', ' Raphael Loher ', ' Urs Müller ']",
-6,Zürich,Sekouia,2016-10-24,['Sekouia '],Electronic
-7,Zürich,Nik-Bärtsch's-Ronin,2016-10-24,"[' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
-8,Bern,Polikarp,2016-10-24,"['Polikarp ', ' Valeriy Hladunets ', ' Sergiy Okhrimchuk ', ' Vasyl Palanyuk ', ' Vadim Hubenko ', ' Yuri Zaharchuk ', ' Taras Kompanitschenko ']",
-9,null,Playground-feat.-Gina-Schwarz,2016-10-24,['Playground feat. Gina Schwarz '],
-10,Zürich,Soja,2016-10-24,['Soja '],
-11,Baden,Florian-Favre-Trio,2016-10-24,"[' Florian Favre ', ' Manu Hagmann ', ' Arthur Hnatek ']",
-12,Kriens,Jenny-Hval,2016-10-24,['Jenny Hval '],Pop
-13,Winterthur,Binoculers,2016-10-24,['Binoculers '],Pop
-14,Basel,Jazzcampus-Club,2016-10-24,"[' Johanna Jellici ', ' Jochen Baldes ', ' Franz Hellmüller ', ' André Buser ', ' Tobias Hunziker ']",
-15,Zürich,Milena,2016-10-24,"['Milena Dürst ', ' Mischa Maurer ', ' Valentin v. Fischer ']",Pop
-16,Zürich,The-Jazz-Trio,2016-10-24,"[' Florian Egli ', ' Raphael Walser ', ' Jonas Ruther ']",
+location,event,date,artists,genre
+Winterthur,New-Model-Army,2016-10-24,['New Model Army '],
+Zürich,Friends-Musical-Olympus-Preisträgerkonzert,2016-10-24,"['Elea Nick ', ' Michal Knot ', ' Bogdan Laketic ', ' Anna Tsybuleva ', ' Li Ao ']",Classic
+Bern,Sous-les-étoiles,2016-10-24,"[' Dartin Dahanukar ', ' Dimitri Howald-Guitar ', ' Philipp Moll ']",
+Basel,AMG-Sinfoniekonzerte-Klassik,2016-10-24,[' Louis Schwizgebel '],Classic
+Zürich,Get-Dead,2016-10-24,"['Get Dead ', ' In Evil Hour ']",
+Zürich,Nicolas-Stocker,2016-10-24,"[' Nicolas Stocker ', ' Raphael Loher ', ' Urs Müller ']",
+Zürich,Sekouia,2016-10-24,['Sekouia '],Electronic
+Zürich,Nik-Bärtsch's-Ronin,2016-10-24,"[' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
+Bern,Polikarp,2016-10-24,"['Polikarp ', ' Valeriy Hladunets ', ' Sergiy Okhrimchuk ', ' Vasyl Palanyuk ', ' Vadim Hubenko ', ' Yuri Zaharchuk ', ' Taras Kompanitschenko ']",
+null,Playground-feat.-Gina-Schwarz,2016-10-24,['Playground feat. Gina Schwarz '],
+Zürich,Soja,2016-10-24,['Soja '],
+Baden,Florian-Favre-Trio,2016-10-24,"[' Florian Favre ', ' Manu Hagmann ', ' Arthur Hnatek ']",
+Kriens,Jenny-Hval,2016-10-24,['Jenny Hval '],Pop
+Winterthur,Binoculers,2016-10-24,['Binoculers '],Pop
+Basel,Jazzcampus-Club,2016-10-24,"[' Johanna Jellici ', ' Jochen Baldes ', ' Franz Hellmüller ', ' André Buser ', ' Tobias Hunziker ']",
+Zürich,Milena,2016-10-24,"['Milena Dürst ', ' Mischa Maurer ', ' Valentin v. Fischer ']",Pop
+Zürich,The-Jazz-Trio,2016-10-24,"[' Florian Egli ', ' Raphael Walser ', ' Jonas Ruther ']",

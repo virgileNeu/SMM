@@ -1,5 +1,5 @@
-,location,event,date,artists,genre
-0,Verbier,Verbier-Festival,2014-07-28,"['Pretty Yende ', ' James Vaughan ']",Classic
-1,Verbier,Verbier-Festival,2014-07-28,"['Renaud Capuçon ', ' Kirill Troussov ', ' Nobuko Imai ', ' Mischa Maisky ', ' Miklós Perényi ', ' Kirill Gerstein ', ' Evgeny Kissin ', ' Lily Maisky ']",Classic
-2,Rougemont,Menuhin-Festival-Gstaad,2014-07-28,['Alexander Romanovsky '],Classic
-3,Verbier,Verbier-Festival,2014-07-28,['Rudolf Buchbinder '],Classic
+location,event,date,artists,genre
+Verbier,Verbier-Festival,2014-07-28,"['Pretty Yende ', ' James Vaughan ']",Classic
+Verbier,Verbier-Festival,2014-07-28,"['Renaud Capuçon ', ' Kirill Troussov ', ' Nobuko Imai ', ' Mischa Maisky ', ' Miklós Perényi ', ' Kirill Gerstein ', ' Evgeny Kissin ', ' Lily Maisky ']",Classic
+Rougemont,Menuhin-Festival-Gstaad,2014-07-28,['Alexander Romanovsky '],Classic
+Verbier,Verbier-Festival,2014-07-28,['Rudolf Buchbinder '],Classic

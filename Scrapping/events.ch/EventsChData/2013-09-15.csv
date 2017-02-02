@@ -1,28 +1,28 @@
-,location,event,date,artists,genre
-0,Zürich,25-Jahr-Jubiläum-der-Stiftung-Ruth-und-Ernst-Burkhalter,2013-09-15,"['Martin Frutiger ', ' Carmen Berger ', ' Valeria Curti ', ' Florian Abächerli ', ' Aline Champion ']",Classic
-1,Zürich,Mosaik,2013-09-15,"[' Andrea Isch ', ' Heidy Huwiler ', ' Natalie Holzer ']",Classic
-2,Luzern,Lucerne-Festival,2013-09-15,[' Jonas Iten '],Classic
-3,Zürich,Bettags-Konzert,2013-09-15,[' Pavel Runov '],Classic
-4,Dornach,Die-Kunst-der-Fuge,2013-09-15,['Hristo Kazakov '],Classic
-5,Thalwil,Konzert,2013-09-15,"[' Mathias Weibel ', ' Monika Baer ', ' Susanna Hefti ', ' Renate Steinmann ']",Classic
-6,Baden,Das-Neue-Trio,2013-09-15,"['Christian Zehnder ', ' Arkady Shilkloper ', ' John Wolf Brennan ']",Classic
-7,null,Sinfonie,2013-09-15,['Michael Floredo '],Classic
-8,Zürich,Bettagskonzert,2013-09-15,"[' Dela Hüttner ', ' Andreas Pohl ', ' Michael Feyfar ', ' Ernst Buscagne ']",Classic
-9,Thun,Sinfoniekonzert,2013-09-15,['Kaspar Zehnder '],Classic
-10,null,Amine-&-Hamza-Quartett,2013-09-15,['Amine & Hamza Quartett '],
-11,Basel,Musik-für-Europas-Höfe-und-Kirchen,2013-09-15,"[' Francesco Pedrini ', ' Mirko Arnone ', ' Soma Salat-Zakarias ']",Classic
-12,Basel,Wise-Guys,2013-09-15,['Wise Guys '],Pop
-13,Zürich,Bergitta-Victor,2013-09-15,"[' Bergitta Victor ', ' David Stauffacher ', ' Roman Hosek ', ' Wulf Winkelmüller ', ' Rodrigo Aravena ', ' Massimo Buonanno ']",Pop
-14,Kongresshaus,Zürich,2013-09-15,['Max Raabe & Palast Orchester '],
-15,Luzern,Lucerne-Festival,2013-09-15,[' Martin Grubinger '],Classic
-16,Winterthur,Blues-Air,2013-09-15,"[' Isabelle Berthoud ', ' Jürg Goetz ', ' Mäni Bühler ', ' Dave Etter ', ' Jan Moser ']",
-17,Feuerthalen,Santanico,2013-09-15,['Santanico '],
-18,Zürich,Auf-zwei-Flügeln,2013-09-15,"['Eliane Rodrigues ', ' Werner Bärtschi ']",Classic
-19,Pratteln,Elvenking,2013-09-15,['Elvenking '],
-20,null,Café-Tienda-im-Turm-zu-Babel,2013-09-15,"['Barbara Camenzind ', ' Dorian Keilhack ']",Classic
-21,Zürich,CocoRosie,2013-09-15,['CocoRosie '],
-22,Rubigen,Boban-i-Marko-Markovic-Orkestar,2013-09-15,['Boban i Marko Markovic Orkestar '],Pop
-23,Zürich,Abendmusik,2013-09-15,[' Ekaterina Kofanova '],Classic
-24,Zürich,Black-Yaya,2013-09-15,"['Black Yaya ', ' Turner Cody ']",Pop
-25,Winterthur,Bombino,2013-09-15,['Bombino '],
-26,Bern,Projekt-Wahnwitz,2013-09-15,"[' P. Vögeli ', ' M. Kilchenmann ', ' E. Radermacher ']",Classic
+location,event,date,artists,genre
+Zürich,25-Jahr-Jubiläum-der-Stiftung-Ruth-und-Ernst-Burkhalter,2013-09-15,"['Martin Frutiger ', ' Carmen Berger ', ' Valeria Curti ', ' Florian Abächerli ', ' Aline Champion ']",Classic
+Zürich,Mosaik,2013-09-15,"[' Andrea Isch ', ' Heidy Huwiler ', ' Natalie Holzer ']",Classic
+Luzern,Lucerne-Festival,2013-09-15,[' Jonas Iten '],Classic
+Zürich,Bettags-Konzert,2013-09-15,[' Pavel Runov '],Classic
+Dornach,Die-Kunst-der-Fuge,2013-09-15,['Hristo Kazakov '],Classic
+Thalwil,Konzert,2013-09-15,"[' Mathias Weibel ', ' Monika Baer ', ' Susanna Hefti ', ' Renate Steinmann ']",Classic
+Baden,Das-Neue-Trio,2013-09-15,"['Christian Zehnder ', ' Arkady Shilkloper ', ' John Wolf Brennan ']",Classic
+null,Sinfonie,2013-09-15,['Michael Floredo '],Classic
+Zürich,Bettagskonzert,2013-09-15,"[' Dela Hüttner ', ' Andreas Pohl ', ' Michael Feyfar ', ' Ernst Buscagne ']",Classic
+Thun,Sinfoniekonzert,2013-09-15,['Kaspar Zehnder '],Classic
+null,Amine-&-Hamza-Quartett,2013-09-15,['Amine & Hamza Quartett '],
+Basel,Musik-für-Europas-Höfe-und-Kirchen,2013-09-15,"[' Francesco Pedrini ', ' Mirko Arnone ', ' Soma Salat-Zakarias ']",Classic
+Basel,Wise-Guys,2013-09-15,['Wise Guys '],Pop
+Zürich,Bergitta-Victor,2013-09-15,"[' Bergitta Victor ', ' David Stauffacher ', ' Roman Hosek ', ' Wulf Winkelmüller ', ' Rodrigo Aravena ', ' Massimo Buonanno ']",Pop
+Kongresshaus,Zürich,2013-09-15,['Max Raabe & Palast Orchester '],
+Luzern,Lucerne-Festival,2013-09-15,[' Martin Grubinger '],Classic
+Winterthur,Blues-Air,2013-09-15,"[' Isabelle Berthoud ', ' Jürg Goetz ', ' Mäni Bühler ', ' Dave Etter ', ' Jan Moser ']",
+Feuerthalen,Santanico,2013-09-15,['Santanico '],
+Zürich,Auf-zwei-Flügeln,2013-09-15,"['Eliane Rodrigues ', ' Werner Bärtschi ']",Classic
+Pratteln,Elvenking,2013-09-15,['Elvenking '],
+null,Café-Tienda-im-Turm-zu-Babel,2013-09-15,"['Barbara Camenzind ', ' Dorian Keilhack ']",Classic
+Zürich,CocoRosie,2013-09-15,['CocoRosie '],
+Rubigen,Boban-i-Marko-Markovic-Orkestar,2013-09-15,['Boban i Marko Markovic Orkestar '],Pop
+Zürich,Abendmusik,2013-09-15,[' Ekaterina Kofanova '],Classic
+Zürich,Black-Yaya,2013-09-15,"['Black Yaya ', ' Turner Cody ']",Pop
+Winterthur,Bombino,2013-09-15,['Bombino '],
+Bern,Projekt-Wahnwitz,2013-09-15,"[' P. Vögeli ', ' M. Kilchenmann ', ' E. Radermacher ']",Classic

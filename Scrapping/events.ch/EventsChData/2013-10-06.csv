@@ -1,25 +1,25 @@
-,location,event,date,artists,genre
-0,Luzern,World-Band-Festival,2013-10-06,"['The Band of the Blues and Royals ', ' Showband Corio Heerlen ', ' Stockbridge Pipe Band Edinburgh ']",
-1,null,John-Arthur-Martinez,2013-10-06,['John Arthur Martinez '],
-2,Kloten,Ars-amata,2013-10-06,"['Elisabeth Weber-Erb ', ' Rudolf Weber ']",Classic
-3,Zürich,500-Jahre-Reformation-Abendmahlsgottesdienst,2013-10-06,"[' Christian Scheifele ', ' conductor: Hansueli Hersche ']",Classic
-4,Zürich,Ladies'-Night,2013-10-06,[' Peter Solomon '],Classic
-5,Basel,Plucks,2013-10-06,['Anthony Bailes '],Classic
-6,Zürich,Geschichten-aus-dem-Regenwald,2013-10-06,"['Barnabas Nagy ', ' Susanne Werth ']",
-7,null,Miroir-Bach,2013-10-06,"[' Laurence Guillod ', ' Violetta Radomirska ', ' Michèle Fähndrich ', ' Daniel Issa ']",Classic
-8,Luzern,World-Band-Festival,2013-10-06,"['The Band of the Blues and Royals ', ' Showband Corio Heerlen ', ' Stockbridge Pipe Band Edinburgh ']",
-9,Winterthur,Extrakonzert-Werke-für-Violoncello-und-Klavier-2,2013-10-06,"['Martin Helmchen ', ' Marie-Elisabeth Hecker ']",Classic
-10,Basel,Plucks,2013-10-06,['Pablo Márquez '],Classic
-11,Lausanne,La-Terre-Tremble,2013-10-06,['La Terre Tremble '],Pop
-12,Basel,Rosenkranz-Sonaten-11-15,2013-10-06,"['Katia Viel ', ' Eva Saladin  ', ' Anaïs Chen ']",Classic
-13,Zürich,Tales-of-Subliming,2013-10-06,"['Zulya and The Children Of The Underground ', ' Zulya Kamalova ', ' Anthony Schulz ', ' Andrew Tanner ', ' Justin Marshall ', ' Lucas Michailidis ', ' Eamon McNelis ']",
-14,Zürich,Fabrikjazz,2013-10-06,"['The Convergence Quartet feat. Taylor Ho Bynum ', ' Taylor Ho Bynum ', ' Alexander Hawkins ', ' Dominic Lash ', ' Harris Eisenstadt ']",
-15,Luzern,Brendan-Walsh,2013-10-06,['Brendan Walsh '],
-16,Zürich,Konzert,2013-10-06,[' Benjamin Engeli '],Classic
-17,Esse-Musicbar,Winterthur,2013-10-06,"[' Jenny Chi ', ' André Siqueira ', ' Ralph Sonderegger ', ' Florian Reichle ']",
-18,Bern,Giantree,2013-10-06,['Giantree '],Electronic
-19,Zürich,Jonny-Lang,2013-10-06,['Jonny Lang '],
-20,Zürich,MGMT,2013-10-06,"['MGMT ', ' support: Guards ']",
-21,Zürich,Misteur-Valaire,2013-10-06,['Misteur Valaire '],
-22,Bern,The-Garifuna-Collective,2013-10-06,['The Garifuna Collective '],
-23,Basel,The-Stepkids,2013-10-06,['The Stepkids '],
+location,event,date,artists,genre
+Luzern,World-Band-Festival,2013-10-06,"['The Band of the Blues and Royals ', ' Showband Corio Heerlen ', ' Stockbridge Pipe Band Edinburgh ']",
+null,John-Arthur-Martinez,2013-10-06,['John Arthur Martinez '],
+Kloten,Ars-amata,2013-10-06,"['Elisabeth Weber-Erb ', ' Rudolf Weber ']",Classic
+Zürich,500-Jahre-Reformation-Abendmahlsgottesdienst,2013-10-06,"[' Christian Scheifele ', ' conductor: Hansueli Hersche ']",Classic
+Zürich,Ladies'-Night,2013-10-06,[' Peter Solomon '],Classic
+Basel,Plucks,2013-10-06,['Anthony Bailes '],Classic
+Zürich,Geschichten-aus-dem-Regenwald,2013-10-06,"['Barnabas Nagy ', ' Susanne Werth ']",
+null,Miroir-Bach,2013-10-06,"[' Laurence Guillod ', ' Violetta Radomirska ', ' Michèle Fähndrich ', ' Daniel Issa ']",Classic
+Luzern,World-Band-Festival,2013-10-06,"['The Band of the Blues and Royals ', ' Showband Corio Heerlen ', ' Stockbridge Pipe Band Edinburgh ']",
+Winterthur,Extrakonzert-Werke-für-Violoncello-und-Klavier-2,2013-10-06,"['Martin Helmchen ', ' Marie-Elisabeth Hecker ']",Classic
+Basel,Plucks,2013-10-06,['Pablo Márquez '],Classic
+Lausanne,La-Terre-Tremble,2013-10-06,['La Terre Tremble '],Pop
+Basel,Rosenkranz-Sonaten-11-15,2013-10-06,"['Katia Viel ', ' Eva Saladin  ', ' Anaïs Chen ']",Classic
+Zürich,Tales-of-Subliming,2013-10-06,"['Zulya and The Children Of The Underground ', ' Zulya Kamalova ', ' Anthony Schulz ', ' Andrew Tanner ', ' Justin Marshall ', ' Lucas Michailidis ', ' Eamon McNelis ']",
+Zürich,Fabrikjazz,2013-10-06,"['The Convergence Quartet feat. Taylor Ho Bynum ', ' Taylor Ho Bynum ', ' Alexander Hawkins ', ' Dominic Lash ', ' Harris Eisenstadt ']",
+Luzern,Brendan-Walsh,2013-10-06,['Brendan Walsh '],
+Zürich,Konzert,2013-10-06,[' Benjamin Engeli '],Classic
+Esse-Musicbar,Winterthur,2013-10-06,"[' Jenny Chi ', ' André Siqueira ', ' Ralph Sonderegger ', ' Florian Reichle ']",
+Bern,Giantree,2013-10-06,['Giantree '],Electronic
+Zürich,Jonny-Lang,2013-10-06,['Jonny Lang '],
+Zürich,MGMT,2013-10-06,"['MGMT ', ' support: Guards ']",
+Zürich,Misteur-Valaire,2013-10-06,['Misteur Valaire '],
+Bern,The-Garifuna-Collective,2013-10-06,['The Garifuna Collective '],
+Basel,The-Stepkids,2013-10-06,['The Stepkids '],

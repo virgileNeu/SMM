@@ -1,36 +1,36 @@
-,location,event,date,artists,genre
-0,Winterthur,Duo-Buyalskyy-&-Visky,2016-06-11,"['Illya Buyalskyy ', ' Maté Visky ']",Classic
-1,null,Festi'neuch,2016-06-11,"['Parvo Stelar ', ' Lilly Wood & The Prick ', ' Bigflo & Oli ']",Electronic
-2,null,Festi'neuch,2016-06-11,"['2 Many DJs ', ' Odezenne ', ' Julien Baker ']",Pop
-3,null,Festi'neuch,2016-06-11,['Muthoni The Drummer Queen '],
-4,Aarau,Make-the-Hood-look-Good-Festival-2016,2016-06-11,['DJs ASD '],
-5,Lupfig,Argovia-Fäscht,2016-06-11,"[' Madcon ', ' Joris ']",Pop
-6,Meggen,5-Jahre-klang-Sommer-Eine-Brise-aus-dem-Osten,2016-06-11,"[' Andrea Kollé ', ' Samuel Castro Bastos ', ' Fabio Di Càsola ', ' Rui Lopes ', ' Lionel Pointet ']",Classic
-7,Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-11,['Motel 72 '],
-8,Pfaffhausen,Love-&-Food-Mehr-als-Schmetterlinge-im-Bauch,2016-06-11,"['Claudia von Wartburg ', ' Stefania Rizzo ']",Classic
-9,Zürich,Sukarma,2016-06-11,['Sukarma '],
-10,Basel,Quartett-Kammermusik-mit-dem-Ensemble-Spektrum,2016-06-11,"[' Marc Bätscher ', ' Yuka Tsuboi ', ' Ursula Hächler ', ' Kiyomi Higaki ']",Classic
-11,Zürich,Festspiele-Zürich-Dada,2016-06-11,"[' Lisa Larsson ', ' Kaspar Ewald ']",Classic
-12,Sissach,Klanglichter,2016-06-11,"['Paola De Piante Vicin ', ' Adrian Oetiker ']",Classic
-13,Winterthur,Caleido-Ensemble,2016-06-11,"[' Sabrina Bäbler ', ' Annette Birkenmeier ', ' Emanuel Rütsche ', ' Benjamin Kellerhals ']",Classic
-14,Luzern,Obrasso-Concerts-Carmina-Burana,2016-06-11,"[' Carmela Konrad ', ' Joaquin Asiain ', ' Prof. Thomas Gropper ']",Classic
-15,Basel,Tanzeslust-bis-zum-Tango,2016-06-11,[' Vivane Chassot '],Classic
-16,Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-11,['Lynda Lemay '],Pop
-17,Zürich,Coldplay,2016-06-11,['Coldplay '],Pop
-18,Basel,Go-C-Art-Festival,2016-06-11,[' Frank Castro & K7 '],
-19,Bern,XXVII-Barockzentrum,2016-06-11,"[' Anne Montandon ', ' Bea van der Kamp ', ' Javier Robledano Cabrera ', ' Achim Glatz ']",Classic
-20,Zürich,Festspiele-Zürich-Frank-Zappa,2016-06-11,"[' Bruno Amstad ', ' George Vaine ', ' Tobias Schwab ', ' Konzept: Daniel Rohr ']",Classic
-21,Zürich,French-Connection,2016-06-11,['DJs Fisto '],Pop
-22,Pratteln,Public-Enemy,2016-06-11,['Public Enemy '],
-23,null,80-Jahre-Narrengilde-Lörrach,2016-06-11,['Brings '],
-24,Baden,Éla-Éla,2016-06-11,"[' Bouzouki ', ' Nikos Papadopoulos ', ' Vincent Zurkinden ']",Pop
-25,Zürich,Imam-Baildi,2016-06-11,"[' Rena Morfi ', ' MC Yinka ', ' Giannis Diskos ', ' Alexi Arapatsakos ', ' Lampis Kountourogiannis ']",
-26,Zürich,Frühling-in-Schräglage,2016-06-11,"['Annette Labusch ', ' Stefi Spinas ']",Pop
-27,Basel,Raw,2016-06-11,"[' Justin Purtill ', ' Samuel Dühsler ']",
-28,Rubigen,Ryan-McGarvey,2016-06-11,['Ryan McGarvey '],
-29,Kriens,Kikagaku-Moyo,2016-06-11,['Kikagaku Moyo '],
-30,Lausanne,Maikel-Dinza,2016-06-11,['Maikel Dinza '],
-31,Bern,Dinosaur-Jr,2016-06-11,['Dinosaur Jr '],
-32,Sankt-Gallen,Destroyer,2016-06-11,"['Destroyer ', ' Ryley Walker ']",Pop
-33,Bern,Ab-3-Ad-Saisonabschluss,2016-06-11,"['Wael Sami Elkholy ', ' Titus Bellwald ', ' Emre Aydin ']",Pop
-34,null,Festi'neuch,2016-06-11,['DJs Boston Bun '],Electronic
+location,event,date,artists,genre
+Winterthur,Duo-Buyalskyy-&-Visky,2016-06-11,"['Illya Buyalskyy ', ' Maté Visky ']",Classic
+null,Festi'neuch,2016-06-11,"['Parvo Stelar ', ' Lilly Wood & The Prick ', ' Bigflo & Oli ']",Electronic
+null,Festi'neuch,2016-06-11,"['2 Many DJs ', ' Odezenne ', ' Julien Baker ']",Pop
+null,Festi'neuch,2016-06-11,['Muthoni The Drummer Queen '],
+Aarau,Make-the-Hood-look-Good-Festival-2016,2016-06-11,['DJs ASD '],
+Lupfig,Argovia-Fäscht,2016-06-11,"[' Madcon ', ' Joris ']",Pop
+Meggen,5-Jahre-klang-Sommer-Eine-Brise-aus-dem-Osten,2016-06-11,"[' Andrea Kollé ', ' Samuel Castro Bastos ', ' Fabio Di Càsola ', ' Rui Lopes ', ' Lionel Pointet ']",Classic
+Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-11,['Motel 72 '],
+Pfaffhausen,Love-&-Food-Mehr-als-Schmetterlinge-im-Bauch,2016-06-11,"['Claudia von Wartburg ', ' Stefania Rizzo ']",Classic
+Zürich,Sukarma,2016-06-11,['Sukarma '],
+Basel,Quartett-Kammermusik-mit-dem-Ensemble-Spektrum,2016-06-11,"[' Marc Bätscher ', ' Yuka Tsuboi ', ' Ursula Hächler ', ' Kiyomi Higaki ']",Classic
+Zürich,Festspiele-Zürich-Dada,2016-06-11,"[' Lisa Larsson ', ' Kaspar Ewald ']",Classic
+Sissach,Klanglichter,2016-06-11,"['Paola De Piante Vicin ', ' Adrian Oetiker ']",Classic
+Winterthur,Caleido-Ensemble,2016-06-11,"[' Sabrina Bäbler ', ' Annette Birkenmeier ', ' Emanuel Rütsche ', ' Benjamin Kellerhals ']",Classic
+Luzern,Obrasso-Concerts-Carmina-Burana,2016-06-11,"[' Carmela Konrad ', ' Joaquin Asiain ', ' Prof. Thomas Gropper ']",Classic
+Basel,Tanzeslust-bis-zum-Tango,2016-06-11,[' Vivane Chassot '],Classic
+Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-11,['Lynda Lemay '],Pop
+Zürich,Coldplay,2016-06-11,['Coldplay '],Pop
+Basel,Go-C-Art-Festival,2016-06-11,[' Frank Castro & K7 '],
+Bern,XXVII-Barockzentrum,2016-06-11,"[' Anne Montandon ', ' Bea van der Kamp ', ' Javier Robledano Cabrera ', ' Achim Glatz ']",Classic
+Zürich,Festspiele-Zürich-Frank-Zappa,2016-06-11,"[' Bruno Amstad ', ' George Vaine ', ' Tobias Schwab ', ' Konzept: Daniel Rohr ']",Classic
+Zürich,French-Connection,2016-06-11,['DJs Fisto '],Pop
+Pratteln,Public-Enemy,2016-06-11,['Public Enemy '],
+null,80-Jahre-Narrengilde-Lörrach,2016-06-11,['Brings '],
+Baden,Éla-Éla,2016-06-11,"[' Bouzouki ', ' Nikos Papadopoulos ', ' Vincent Zurkinden ']",Pop
+Zürich,Imam-Baildi,2016-06-11,"[' Rena Morfi ', ' MC Yinka ', ' Giannis Diskos ', ' Alexi Arapatsakos ', ' Lampis Kountourogiannis ']",
+Zürich,Frühling-in-Schräglage,2016-06-11,"['Annette Labusch ', ' Stefi Spinas ']",Pop
+Basel,Raw,2016-06-11,"[' Justin Purtill ', ' Samuel Dühsler ']",
+Rubigen,Ryan-McGarvey,2016-06-11,['Ryan McGarvey '],
+Kriens,Kikagaku-Moyo,2016-06-11,['Kikagaku Moyo '],
+Lausanne,Maikel-Dinza,2016-06-11,['Maikel Dinza '],
+Bern,Dinosaur-Jr,2016-06-11,['Dinosaur Jr '],
+Sankt-Gallen,Destroyer,2016-06-11,"['Destroyer ', ' Ryley Walker ']",Pop
+Bern,Ab-3-Ad-Saisonabschluss,2016-06-11,"['Wael Sami Elkholy ', ' Titus Bellwald ', ' Emre Aydin ']",Pop
+null,Festi'neuch,2016-06-11,['DJs Boston Bun '],Electronic

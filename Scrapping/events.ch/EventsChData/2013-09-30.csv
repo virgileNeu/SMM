@@ -1,13 +1,13 @@
-,location,event,date,artists,genre
-0,Zürich,Lilly-Martin-&-Band,2013-09-30,"[' Lilly Martin ', ' Oliver Keller ', ' Michael Dolmetsch ', ' Markus Fritzsche ', ' Steve Grant ']",
-1,Zürich,Série-jeunes,2013-09-30,"['Christoph Croisé ', ' Alexander Panfilov ']",Classic
-2,Zürich,The-Hirsch-Effekt,2013-09-30,['The Hirsch Effekt '],
-3,Bar-Tantpis,Zürich,2013-09-30,"[' Ruth Bieri  ', ' Helen Davey  ']",Pop
-4,Pratteln,Pretty-Maids,2013-09-30,['Pretty Maids '],
-5,Komplex-Klub,Zürich,2013-09-30,['Dillinger Escape Plan '],
-6,Chur,1.-Abonnementskonzert,2013-09-30,['Irina Georgieva '],Classic
-7,Zürich,Old-School-Piano-Blues,2013-09-30,['Andy Boller '],
-8,Baden,Chimaira,2013-09-30,"[' Philipp Gropper ', ' John Schröder ', ' Oliver Potratz ', ' Alex Huber ']",
-9,Zürich,Patricia-Vonne,2013-09-30,['Patricia Vonne '],
-10,Zürich,Django-Bates-&-Human-Chain,2013-09-30,"['Django Bates & Human Chain ', ' Django Bates ', ' Claire Huguenin ', ' Maro Widmer ', ' Nolan Quinn ', ' Linus Amstad ']",
-11,Zürich,Nik-Bärtsch's-Ronin,2013-09-30,"[' Kasper Rast ', ' Thomy Jordi ', ' Sha ']",
+location,event,date,artists,genre
+Zürich,Lilly-Martin-&-Band,2013-09-30,"[' Lilly Martin ', ' Oliver Keller ', ' Michael Dolmetsch ', ' Markus Fritzsche ', ' Steve Grant ']",
+Zürich,Série-jeunes,2013-09-30,"['Christoph Croisé ', ' Alexander Panfilov ']",Classic
+Zürich,The-Hirsch-Effekt,2013-09-30,['The Hirsch Effekt '],
+Bar-Tantpis,Zürich,2013-09-30,"[' Ruth Bieri  ', ' Helen Davey  ']",Pop
+Pratteln,Pretty-Maids,2013-09-30,['Pretty Maids '],
+Komplex-Klub,Zürich,2013-09-30,['Dillinger Escape Plan '],
+Chur,1.-Abonnementskonzert,2013-09-30,['Irina Georgieva '],Classic
+Zürich,Old-School-Piano-Blues,2013-09-30,['Andy Boller '],
+Baden,Chimaira,2013-09-30,"[' Philipp Gropper ', ' John Schröder ', ' Oliver Potratz ', ' Alex Huber ']",
+Zürich,Patricia-Vonne,2013-09-30,['Patricia Vonne '],
+Zürich,Django-Bates-&-Human-Chain,2013-09-30,"['Django Bates & Human Chain ', ' Django Bates ', ' Claire Huguenin ', ' Maro Widmer ', ' Nolan Quinn ', ' Linus Amstad ']",
+Zürich,Nik-Bärtsch's-Ronin,2013-09-30,"[' Kasper Rast ', ' Thomy Jordi ', ' Sha ']",

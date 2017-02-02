@@ -1,45 +1,45 @@
-,location,event,date,artists,genre
-0,Winterthur,Uusikuu,2016-11-26,['Uusikuu '],
-1,Zürich,Unerhört,2016-11-26,"[' Sonoe Kato ', ' Chris Wiesendanger ', ' Christian Weber ', ' Hans-Peter Frehner ', ' Manfred Spitaler ']",
-2,null,Adventskonzert,2016-11-26,[' Hannfried Lucke '],Classic
-3,Horw,Christmas-Time-Gospelkonzert,2016-11-26,"[' Andreas Knecht ', ' Joel Kuster ', ' Crispin Pérez ', ' David Zopfi ']",
-4,Zürich,Junge-Talente-Und-wie,2016-11-26,"[' Nicolas van Kuijk ', ' Sylvain Favre-Bulle ', ' Grégoire Vecchioni ', ' François Robin ']",Classic
-5,Bern,Live-Session,2016-11-26,"[""Andy Thomas' Dust Heart "", ' The Cocks ', ' All Fall Down ', ' Jaclyn Zubrzycki ']",
-6,Luzern,Lucerne-Festival-am-Piano,2016-11-26,['Rudolf Buchbinder '],Classic
-7,null,Die-Zigeunergeige-Roby-Lakatos,2016-11-26,"[' Roby Lakatos ', ' Sebastian Bohren ', ' Robin Müller ', ' Felix Froschhammer ', ' Jeno Lisztes ', ' Cséki Kálmán ']",Classic
-8,Zürich,Neue-Konzertreihe-Zürich,2016-11-26,['Arcadi Volodos '],Classic
-9,Solothurn,Spektrum|Akzente-2016-Umbruch,2016-11-26,[' works by M. Ravel und J. Marx '],Classic
-10,Pfeffingen,Benefizkonzert-Ensemble-Montalegre,2016-11-26,"[' Caroline Grandhomme ', ' Olivier Carillier ', ' Marcus Kuplais ']",Classic
-11,Zürich,Arcadi-Volodos,2016-11-26,['Arcadi Volodos '],Classic
-12,Baden,Badener-Meisterkonzerte-Grande-Sonate,2016-11-26,['Ricardo Gallén '],Classic
-13,null,Latin,2016-11-26,[' Fabian Cardozo '],Classic
-14,Zürich,Unerhört,2016-11-26,"[' Aruán Ortiz ', ' Brad Jones ', ' Chad Taylor ', ' Gabriela Friedli ', ' Claudia Ulla Binder ', ' Matthias Spillmann ', ' Reto Suhner ']",
-15,Aarau,Expire,2016-11-26,"['Expire ', ' Counterparts ', ' Landscapes ', ' Knocked Loose ']",
-16,Schaffhausen,Irish-Nights,2016-11-26,"['Live: Flook ', ' Téada ']",
-17,Zürich,Ekat-Bork,2016-11-26,['Ekat Bork '],Electronic
-18,null,Richard-Bona,2016-11-26,['Richard Bona '],
-19,Geroldswil,Adventskonzert,2016-11-26,[' Beata Wetli '],Classic
-20,Luzern,Patrick-Jonson,2016-11-26,['Patrick Jonson '],Pop
-21,Zürich,Arte-Reunido-Flamencofestival,2016-11-26,"[' Albert Cases ', ' Jesús Joaquín Puchero ', ' Germán Papu Gigena ']",
-22,Zürich,Rozjímání-o-sendvici-(Betrachtige-über-nes-Sändwitsch),2016-11-26,['Jan Repka '],Pop
-23,Zürich,Ziggy-Zaggy-&-The-Disco-Popes,2016-11-26,"[' Ziggy Tschigi Moser ', ' Roman Groner ', ' Martin Günthardt ', ' Chris Linder ', ' Arturo Arglos ']",Pop
-24,Basel,Lovebugs-verschoben,2016-11-26,['Lovebugs '],Pop
-25,Zürich,Zeds-Dead,2016-11-26,['Zeds Dead '],Electronic
-26,Pratteln,Andreas-Kümmert-&-Band,2016-11-26,['Andreas Kümmert & Band '],
-27,Basel,Distancias-,2016-11-26,"['Julio Azcano ', ' Quique Sinesi ', ' Gäste: Volker Biesenbender ', ' Günter Wehinger ']",
-28,Einsiedeln,Adventkonzert,2016-11-26,"[' Diana Petrova ', ' Piotr Prochera ']",Classic
-29,Basel,Scherrer-Brodbeck-Gisler-Strüby,2016-11-26,"[' Andy Scherrer ', ' Jean-Paul Brodbeck ', ' Fabian Gisler ', ' Claudio Strüby ']",
-30,Feuerthalen,Rudy-Rotta-&-Band,2016-11-26,['Rudy Rotta & Band '],
-31,Baden,Joe-Bandit-&-Band,2016-11-26,"[' Jake Salgado ', ' Markus Rahm ', ' Wale Schüpbach ']",
-32,Winterthur,Donots,2016-11-26,"['Donots ', ' Smile And Burn ']",
-33,Köniz,Sina-im-Trio,2016-11-26,"[' Sina ', ' Peter Wagner ', ' Michael Chylewski ']",Pop
-34,Zürich,Tsering-Purtag's-The-Singin'-Guitar,2016-11-26,['Tsering Purtag '],Pop
-35,null,Reisen-und-Rasten,2016-11-26,"['Nik Kevin Koch ', ' Roberto Forno ', ' Mathias Fuchs ']",Classic
-36,Zürich,Suma-Covjek,2016-11-26,"[' Ivica Petrusic ', ' Hafid Berbal ', ' Philipp Hillebrand ', ' Leon Baldesberger ', ' Tobias Pfister ', ' Flo Weiss ', ' Noam Szyfer ', ' Manuel Wülser ', ' Oliver Herzog ']",
-37,Luzern,Brandy-Butler,2016-11-26,"['Chris & Mike ', ' Marc Portmann ', ' Fredi Hofmann ']",
-38,Sankt-Gallen,Samiya,2016-11-26,['Samiya '],
-39,Basel,Instarparty,2016-11-26,[' mit Social Media Star Ross Norton '],
-40,Schaffhausen,What-a-Bam-Bam,2016-11-26,['Anthony B & House of Riddim Band '],
-41,Basel,Phazz,2016-11-26,['Phazz '],
-42,Zürich,I-Love-Afrobeatz,2016-11-26,[' Xclusiv '],
-43,Zürich,Unerhört,2016-11-26,['Antoine Chessex '],
+location,event,date,artists,genre
+Winterthur,Uusikuu,2016-11-26,['Uusikuu '],
+Zürich,Unerhört,2016-11-26,"[' Sonoe Kato ', ' Chris Wiesendanger ', ' Christian Weber ', ' Hans-Peter Frehner ', ' Manfred Spitaler ']",
+null,Adventskonzert,2016-11-26,[' Hannfried Lucke '],Classic
+Horw,Christmas-Time-Gospelkonzert,2016-11-26,"[' Andreas Knecht ', ' Joel Kuster ', ' Crispin Pérez ', ' David Zopfi ']",
+Zürich,Junge-Talente-Und-wie,2016-11-26,"[' Nicolas van Kuijk ', ' Sylvain Favre-Bulle ', ' Grégoire Vecchioni ', ' François Robin ']",Classic
+Bern,Live-Session,2016-11-26,"[""Andy Thomas' Dust Heart "", ' The Cocks ', ' All Fall Down ', ' Jaclyn Zubrzycki ']",
+Luzern,Lucerne-Festival-am-Piano,2016-11-26,['Rudolf Buchbinder '],Classic
+null,Die-Zigeunergeige-Roby-Lakatos,2016-11-26,"[' Roby Lakatos ', ' Sebastian Bohren ', ' Robin Müller ', ' Felix Froschhammer ', ' Jeno Lisztes ', ' Cséki Kálmán ']",Classic
+Zürich,Neue-Konzertreihe-Zürich,2016-11-26,['Arcadi Volodos '],Classic
+Solothurn,Spektrum|Akzente-2016-Umbruch,2016-11-26,[' works by M. Ravel und J. Marx '],Classic
+Pfeffingen,Benefizkonzert-Ensemble-Montalegre,2016-11-26,"[' Caroline Grandhomme ', ' Olivier Carillier ', ' Marcus Kuplais ']",Classic
+Zürich,Arcadi-Volodos,2016-11-26,['Arcadi Volodos '],Classic
+Baden,Badener-Meisterkonzerte-Grande-Sonate,2016-11-26,['Ricardo Gallén '],Classic
+null,Latin,2016-11-26,[' Fabian Cardozo '],Classic
+Zürich,Unerhört,2016-11-26,"[' Aruán Ortiz ', ' Brad Jones ', ' Chad Taylor ', ' Gabriela Friedli ', ' Claudia Ulla Binder ', ' Matthias Spillmann ', ' Reto Suhner ']",
+Aarau,Expire,2016-11-26,"['Expire ', ' Counterparts ', ' Landscapes ', ' Knocked Loose ']",
+Schaffhausen,Irish-Nights,2016-11-26,"['Live: Flook ', ' Téada ']",
+Zürich,Ekat-Bork,2016-11-26,['Ekat Bork '],Electronic
+null,Richard-Bona,2016-11-26,['Richard Bona '],
+Geroldswil,Adventskonzert,2016-11-26,[' Beata Wetli '],Classic
+Luzern,Patrick-Jonson,2016-11-26,['Patrick Jonson '],Pop
+Zürich,Arte-Reunido-Flamencofestival,2016-11-26,"[' Albert Cases ', ' Jesús Joaquín Puchero ', ' Germán Papu Gigena ']",
+Zürich,Rozjímání-o-sendvici-(Betrachtige-über-nes-Sändwitsch),2016-11-26,['Jan Repka '],Pop
+Zürich,Ziggy-Zaggy-&-The-Disco-Popes,2016-11-26,"[' Ziggy Tschigi Moser ', ' Roman Groner ', ' Martin Günthardt ', ' Chris Linder ', ' Arturo Arglos ']",Pop
+Basel,Lovebugs-verschoben,2016-11-26,['Lovebugs '],Pop
+Zürich,Zeds-Dead,2016-11-26,['Zeds Dead '],Electronic
+Pratteln,Andreas-Kümmert-&-Band,2016-11-26,['Andreas Kümmert & Band '],
+Basel,Distancias-,2016-11-26,"['Julio Azcano ', ' Quique Sinesi ', ' Gäste: Volker Biesenbender ', ' Günter Wehinger ']",
+Einsiedeln,Adventkonzert,2016-11-26,"[' Diana Petrova ', ' Piotr Prochera ']",Classic
+Basel,Scherrer-Brodbeck-Gisler-Strüby,2016-11-26,"[' Andy Scherrer ', ' Jean-Paul Brodbeck ', ' Fabian Gisler ', ' Claudio Strüby ']",
+Feuerthalen,Rudy-Rotta-&-Band,2016-11-26,['Rudy Rotta & Band '],
+Baden,Joe-Bandit-&-Band,2016-11-26,"[' Jake Salgado ', ' Markus Rahm ', ' Wale Schüpbach ']",
+Winterthur,Donots,2016-11-26,"['Donots ', ' Smile And Burn ']",
+Köniz,Sina-im-Trio,2016-11-26,"[' Sina ', ' Peter Wagner ', ' Michael Chylewski ']",Pop
+Zürich,Tsering-Purtag's-The-Singin'-Guitar,2016-11-26,['Tsering Purtag '],Pop
+null,Reisen-und-Rasten,2016-11-26,"['Nik Kevin Koch ', ' Roberto Forno ', ' Mathias Fuchs ']",Classic
+Zürich,Suma-Covjek,2016-11-26,"[' Ivica Petrusic ', ' Hafid Berbal ', ' Philipp Hillebrand ', ' Leon Baldesberger ', ' Tobias Pfister ', ' Flo Weiss ', ' Noam Szyfer ', ' Manuel Wülser ', ' Oliver Herzog ']",
+Luzern,Brandy-Butler,2016-11-26,"['Chris & Mike ', ' Marc Portmann ', ' Fredi Hofmann ']",
+Sankt-Gallen,Samiya,2016-11-26,['Samiya '],
+Basel,Instarparty,2016-11-26,[' mit Social Media Star Ross Norton '],
+Schaffhausen,What-a-Bam-Bam,2016-11-26,['Anthony B & House of Riddim Band '],
+Basel,Phazz,2016-11-26,['Phazz '],
+Zürich,I-Love-Afrobeatz,2016-11-26,[' Xclusiv '],
+Zürich,Unerhört,2016-11-26,['Antoine Chessex '],

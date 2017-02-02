@@ -1,11 +1,11 @@
-,location,event,date,artists,genre
-0,Zürich,Monte-Carlo,2016-02-02,['Monte Carlo '],Pop
-1,Zürich,Jazzapero,2016-02-02,"[' Rodrigo Botter Maio ', ' Adrian Frey ', ' Lino Botter Maio ']",
-2,null,Machine-Head,2016-02-02,['Machine Head '],
-3,Aarau,Metalmayhem,2016-02-02,"['Aversions Crown ', ' Rings Of Saturn ', ' A Night In Texas ']",
-4,Zürich,Zürcher-Kammerorchester,2016-02-02,['Steven Isserlis '],Classic
-5,Winterthur,Musica-aperta-Freedom-of-Speech,2016-02-02,"[' Friedemann Treiber ', ' works by Hans Wüthrich ', ' Clint Haycraft ']",Classic
-6,Zürich,Artist-in-Residence-Joke-Lanz,2016-02-02,"[' Joke Lanz ', ' Jorge Sanchez-Chiong ', ' Strotter Inst. ', ' Doreen Kutzke ', ' Jürg Plüss ']",
-7,Baden,One-of-a-Million,2016-02-02,['Sam Amidon '],
-8,Baden,One-of-a-Million,2016-02-02,['Balthazar '],
-9,Basel,Joscha-Arnold-Quintet,2016-02-02,"[' Joscha Arnold ', ' Johannes Maikranz ', ' Florian Favre ', ' Sebastian Gieck ', ' Severin Rauch ']",
+location,event,date,artists,genre
+Zürich,Monte-Carlo,2016-02-02,['Monte Carlo '],Pop
+Zürich,Jazzapero,2016-02-02,"[' Rodrigo Botter Maio ', ' Adrian Frey ', ' Lino Botter Maio ']",
+null,Machine-Head,2016-02-02,['Machine Head '],
+Aarau,Metalmayhem,2016-02-02,"['Aversions Crown ', ' Rings Of Saturn ', ' A Night In Texas ']",
+Zürich,Zürcher-Kammerorchester,2016-02-02,['Steven Isserlis '],Classic
+Winterthur,Musica-aperta-Freedom-of-Speech,2016-02-02,"[' Friedemann Treiber ', ' works by Hans Wüthrich ', ' Clint Haycraft ']",Classic
+Zürich,Artist-in-Residence-Joke-Lanz,2016-02-02,"[' Joke Lanz ', ' Jorge Sanchez-Chiong ', ' Strotter Inst. ', ' Doreen Kutzke ', ' Jürg Plüss ']",
+Baden,One-of-a-Million,2016-02-02,['Sam Amidon '],
+Baden,One-of-a-Million,2016-02-02,['Balthazar '],
+Basel,Joscha-Arnold-Quintet,2016-02-02,"[' Joscha Arnold ', ' Johannes Maikranz ', ' Florian Favre ', ' Sebastian Gieck ', ' Severin Rauch ']",

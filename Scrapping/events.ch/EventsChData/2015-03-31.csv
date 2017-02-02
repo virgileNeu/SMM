@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Zürich,Art-Band,2015-03-31,['Art Band '],Pop
-1,Zürich,Three-Dialects-and-One-Spirit-of-Music,2015-03-31,"[' Reto Suhner ', ' Gregor Müller ', ' Tony Renold ']",
-2,Binningen,Passionsandacht,2015-03-31,"['Christian Leitherer ', ' Thomas Leininger ']",Classic
-3,Zürich,Ensemble-ROA,2015-03-31,"['Roxana Popescu ', ' Oana Popescu ', ' Anna Kovach ']",Classic
-4,Basel,AMG-Sinfoniekonzerte-Klassik,2015-03-31,"['Staatskapelle Weimar ', ' Lise de la Salle ']",Classic
-5,Zürich,Harry-Allen-&-Ignasi-Terraza-Trio,2015-03-31,"[' Harry Allen ', ' Ignasi Terraza ', ' Georgios Antoniou ', ' Esteve Pi ']",
-6,Basel,Forum-für-Improvisierte-Musik-&-Tanz,2015-03-31,"[' Tiziana Bertoncini ', ' Thomas Lehn ']",
-7,Zürich,The-Wombats,2015-03-31,['The Wombats '],
-8,Zürich,Chuck-Ragan-And-The-Camaraderie,2015-03-31,"['Chuck Ragan And The Camaraderie ', ' support: Skinny Lister ']",
-9,Dietikon,Romeo-Santos,2015-03-31,['Romeo Santos '],
-10,Zürich,Seelenhäger-Inc.,2015-03-31,"[' Andreas Stahel ', ' Tobias Hunziker ']",Pop
-11,Zürich,Ray-Anderson's-Organic-Quartet,2015-03-31,"[""Ray Anderson's Organic Quartet "", ' Ray Anderson ', ' Steve Salerno ', ' Gary Versace ', ' Tommy Campbell ']",
-12,Lausanne,The-Dandy-Warhols,2015-03-31,['The Dandy Warhols '],
-13,null,Black-Lung,2015-03-31,['Black Lung '],
-14,Zürich,Retox,2015-03-31,"['Retox ', ' Zaga Zaga ', ' Joliette ']",
-15,Lausanne,Grant-Lee-Phillips,2015-03-31,"['Grant Lee Phillips ', ' Howe Gelb ']",Pop
+location,event,date,artists,genre
+Zürich,Art-Band,2015-03-31,['Art Band '],Pop
+Zürich,Three-Dialects-and-One-Spirit-of-Music,2015-03-31,"[' Reto Suhner ', ' Gregor Müller ', ' Tony Renold ']",
+Binningen,Passionsandacht,2015-03-31,"['Christian Leitherer ', ' Thomas Leininger ']",Classic
+Zürich,Ensemble-ROA,2015-03-31,"['Roxana Popescu ', ' Oana Popescu ', ' Anna Kovach ']",Classic
+Basel,AMG-Sinfoniekonzerte-Klassik,2015-03-31,"['Staatskapelle Weimar ', ' Lise de la Salle ']",Classic
+Zürich,Harry-Allen-&-Ignasi-Terraza-Trio,2015-03-31,"[' Harry Allen ', ' Ignasi Terraza ', ' Georgios Antoniou ', ' Esteve Pi ']",
+Basel,Forum-für-Improvisierte-Musik-&-Tanz,2015-03-31,"[' Tiziana Bertoncini ', ' Thomas Lehn ']",
+Zürich,The-Wombats,2015-03-31,['The Wombats '],
+Zürich,Chuck-Ragan-And-The-Camaraderie,2015-03-31,"['Chuck Ragan And The Camaraderie ', ' support: Skinny Lister ']",
+Dietikon,Romeo-Santos,2015-03-31,['Romeo Santos '],
+Zürich,Seelenhäger-Inc.,2015-03-31,"[' Andreas Stahel ', ' Tobias Hunziker ']",Pop
+Zürich,Ray-Anderson's-Organic-Quartet,2015-03-31,"[""Ray Anderson's Organic Quartet "", ' Ray Anderson ', ' Steve Salerno ', ' Gary Versace ', ' Tommy Campbell ']",
+Lausanne,The-Dandy-Warhols,2015-03-31,['The Dandy Warhols '],
+null,Black-Lung,2015-03-31,['Black Lung '],
+Zürich,Retox,2015-03-31,"['Retox ', ' Zaga Zaga ', ' Joliette ']",
+Lausanne,Grant-Lee-Phillips,2015-03-31,"['Grant Lee Phillips ', ' Howe Gelb ']",Pop

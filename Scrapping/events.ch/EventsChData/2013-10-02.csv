@@ -1,36 +1,36 @@
-,location,event,date,artists,genre
-0,Basel,Mimiko-Eröffnungsfanfare,2013-10-02,"['Ella Vala Armannsdottir ', ' Tatiana Cossi ', ' Nicola Cittadin ']",Classic
-1,Zürich,Mittagsmusik,2013-10-02,['Moritz Ernst '],Classic
-2,Basel,Plucks,2013-10-02,['Hopkinson Smith '],Classic
-3,Basel,Plucks,2013-10-02,['Hopkinson Smith '],Classic
-4,Luzern,Piano-Entertainment,2013-10-02,['Mark Tenger '],
-5,Winterthur,Lautmalerei-und-Klangbilder,2013-10-02,"['Patrick Demenga ', ' Fritz Hauser ']",Classic
-6,Pratteln,Powerwolf,2013-10-02,"['Powerwolf ', ' Majesty ', ' Battle Beast ', ' Ashes Of Ares ']",
-7,Zürich,Konzert,2013-10-02,"[' Sabine Meyer ', ' Wolfgang Meyer ', ' Reiner Wehle ', ' Kalle Randalu ']",Classic
-8,Basel,Plucks,2013-10-02,"['Anthony Rooley ', ' Evelyn Tubb ']",Classic
-9,Theater-Casino-Zug,Zug,2013-10-02,"[' Jenny Chi ', ' Thomas Silvestri ', ' André Siqueira ', ' Florian Reichle ', ' Ralph Sonderegger ']",
-10,null,Tanita-Tikaram,2013-10-02,['Tanita Tikaram '],
-11,null,Tribute-to-Jimmy-Hendrix,2013-10-02,"['Ben Sutter ', ' Markus Fritzsche ', ' Marc Halbheer ']",
-12,null,RG-3,2013-10-02,"[' Roger Glaus ', ' Sandro Heule ', ' Mario Söldi ']",
-13,Zürich,Dave-Stewart,2013-10-02,['Dave Stewart '],Pop
-14,Basel,Nouvelle-Vague,2013-10-02,['Nouvelle Vague '],Pop
-15,Zürich,Mendelssohns-Reisen-durch-die-Schweiz,2013-10-02,"['Yuka Tsuboi ', ' Julien Kilchenmann ', ' Simone Keller ']",Classic
-16,Zürich,10-Jahre-Lebewohlfabrik,2013-10-02,"[' Elmar Kluth ', ' Wolfgang Häuptli ', ' Dani Frei ', ' Rolf Winiger ', ' Fredi Schmid ', ' Thomas Hirt ', ' Sarah Peng ', ' Ruedi Sprüngli ']",
-17,Sankt-Gallen,Das-Rainald-Grebe-Konzert,2013-10-02,['Rainald Grebe '],Pop
-18,Zürich,God-Is-An-Astronaut,2013-10-02,['God Is An Astronaut '],
-19,Winterthur,Moon-Rise,2013-10-02,"[' Ruth Wäger ', ' Tom Bodenmann ', ' Dominique Dieth ']",
-20,Basel,Ravi-Ramoneda,2013-10-02,['Ravi Ramoneda '],
-21,Winterthur,Jazz-am-Mittwoch,2013-10-02,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-22,Zürich,CSS,2013-10-02,['CSS '],Pop
-23,Luzern,Nils-Wogram-Root-70,2013-10-02,"[' Nils Wogram ', ' Hayden Chisholm ', ' Matt Penman ', ' Jochen Rückert ', ' Gerdur Gunnardottir ', ' Gareth Lubbe ', ' Adrian Brendel ']",
-24,Wädenswil,Cholet-Känzig-Papaux-Trio,2013-10-02,"[' Jean-Christophe Cholet ', ' Heiri Känzig ', ' Marcel Papaux ']",
-25,Basel,Reto-Suhner-Quartet,2013-10-02,"[' Reto Suhner ', ' Philip Henzi ', ' Silvan Jeger ', ' Dominic Egli ']",
-26,Zürich,Yoav,2013-10-02,['Yoav '],Pop
-27,Zürich,Svavar-Knütur,2013-10-02,['Svavar Knütur '],Pop
-28,Basel,Plucks,2013-10-02,"['Ken Zuckerman ', ' Sanju Sahai ']",Classic
-29,Zürich,Artist-in-Residence-Matthias-Spillmann,2013-10-02,"[' Silvio Cadotsch ', ' Frantz Loriot ', ' Marc Méan ', ' Valentin Dietrich ', ' Lukas Mantel ', ' Matthias Spillmann ']",
-30,Zürich,Jazzbaragge-Wednesday-Jam,2013-10-02,"['Peter Wagner ', ' Thomy Jordi ', ' Christian Niederer ']",
-31,Reussbühl,Thomas-Michael-Riley,2013-10-02,"['Thomas Michael Riley ', ' Thomas Michael Riley ', ' Kenny Grimes ', ' Donnie Price ']",Pop
-32,Zürich,Live-Cover-Night-Meets-Talent-Night,2013-10-02,"['J. J. Flück ', ' Pascal P. Kaeser ', ' Sam Siegenthaler ', ' Oli Illy ', ' Kent Stetler ', ' Nica ']",Pop
-33,Zürich,Singapore-Sling,2013-10-02,"['Singapore Sling ', ' support: Piatcions ']",Pop
-34,Herzogenbuchsee,Más-Shake,2013-10-02,['Más Shake '],
+location,event,date,artists,genre
+Basel,Mimiko-Eröffnungsfanfare,2013-10-02,"['Ella Vala Armannsdottir ', ' Tatiana Cossi ', ' Nicola Cittadin ']",Classic
+Zürich,Mittagsmusik,2013-10-02,['Moritz Ernst '],Classic
+Basel,Plucks,2013-10-02,['Hopkinson Smith '],Classic
+Basel,Plucks,2013-10-02,['Hopkinson Smith '],Classic
+Luzern,Piano-Entertainment,2013-10-02,['Mark Tenger '],
+Winterthur,Lautmalerei-und-Klangbilder,2013-10-02,"['Patrick Demenga ', ' Fritz Hauser ']",Classic
+Pratteln,Powerwolf,2013-10-02,"['Powerwolf ', ' Majesty ', ' Battle Beast ', ' Ashes Of Ares ']",
+Zürich,Konzert,2013-10-02,"[' Sabine Meyer ', ' Wolfgang Meyer ', ' Reiner Wehle ', ' Kalle Randalu ']",Classic
+Basel,Plucks,2013-10-02,"['Anthony Rooley ', ' Evelyn Tubb ']",Classic
+Theater-Casino-Zug,Zug,2013-10-02,"[' Jenny Chi ', ' Thomas Silvestri ', ' André Siqueira ', ' Florian Reichle ', ' Ralph Sonderegger ']",
+null,Tanita-Tikaram,2013-10-02,['Tanita Tikaram '],
+null,Tribute-to-Jimmy-Hendrix,2013-10-02,"['Ben Sutter ', ' Markus Fritzsche ', ' Marc Halbheer ']",
+null,RG-3,2013-10-02,"[' Roger Glaus ', ' Sandro Heule ', ' Mario Söldi ']",
+Zürich,Dave-Stewart,2013-10-02,['Dave Stewart '],Pop
+Basel,Nouvelle-Vague,2013-10-02,['Nouvelle Vague '],Pop
+Zürich,Mendelssohns-Reisen-durch-die-Schweiz,2013-10-02,"['Yuka Tsuboi ', ' Julien Kilchenmann ', ' Simone Keller ']",Classic
+Zürich,10-Jahre-Lebewohlfabrik,2013-10-02,"[' Elmar Kluth ', ' Wolfgang Häuptli ', ' Dani Frei ', ' Rolf Winiger ', ' Fredi Schmid ', ' Thomas Hirt ', ' Sarah Peng ', ' Ruedi Sprüngli ']",
+Sankt-Gallen,Das-Rainald-Grebe-Konzert,2013-10-02,['Rainald Grebe '],Pop
+Zürich,God-Is-An-Astronaut,2013-10-02,['God Is An Astronaut '],
+Winterthur,Moon-Rise,2013-10-02,"[' Ruth Wäger ', ' Tom Bodenmann ', ' Dominique Dieth ']",
+Basel,Ravi-Ramoneda,2013-10-02,['Ravi Ramoneda '],
+Winterthur,Jazz-am-Mittwoch,2013-10-02,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
+Zürich,CSS,2013-10-02,['CSS '],Pop
+Luzern,Nils-Wogram-Root-70,2013-10-02,"[' Nils Wogram ', ' Hayden Chisholm ', ' Matt Penman ', ' Jochen Rückert ', ' Gerdur Gunnardottir ', ' Gareth Lubbe ', ' Adrian Brendel ']",
+Wädenswil,Cholet-Känzig-Papaux-Trio,2013-10-02,"[' Jean-Christophe Cholet ', ' Heiri Känzig ', ' Marcel Papaux ']",
+Basel,Reto-Suhner-Quartet,2013-10-02,"[' Reto Suhner ', ' Philip Henzi ', ' Silvan Jeger ', ' Dominic Egli ']",
+Zürich,Yoav,2013-10-02,['Yoav '],Pop
+Zürich,Svavar-Knütur,2013-10-02,['Svavar Knütur '],Pop
+Basel,Plucks,2013-10-02,"['Ken Zuckerman ', ' Sanju Sahai ']",Classic
+Zürich,Artist-in-Residence-Matthias-Spillmann,2013-10-02,"[' Silvio Cadotsch ', ' Frantz Loriot ', ' Marc Méan ', ' Valentin Dietrich ', ' Lukas Mantel ', ' Matthias Spillmann ']",
+Zürich,Jazzbaragge-Wednesday-Jam,2013-10-02,"['Peter Wagner ', ' Thomy Jordi ', ' Christian Niederer ']",
+Reussbühl,Thomas-Michael-Riley,2013-10-02,"['Thomas Michael Riley ', ' Thomas Michael Riley ', ' Kenny Grimes ', ' Donnie Price ']",Pop
+Zürich,Live-Cover-Night-Meets-Talent-Night,2013-10-02,"['J. J. Flück ', ' Pascal P. Kaeser ', ' Sam Siegenthaler ', ' Oli Illy ', ' Kent Stetler ', ' Nica ']",Pop
+Zürich,Singapore-Sling,2013-10-02,"['Singapore Sling ', ' support: Piatcions ']",Pop
+Herzogenbuchsee,Más-Shake,2013-10-02,['Más Shake '],

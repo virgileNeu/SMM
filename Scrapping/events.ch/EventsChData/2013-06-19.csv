@@ -1,25 +1,25 @@
-,location,event,date,artists,genre
-0,Basel,Bachelorkonzert,2013-06-19,[' Lukas Frind '],Classic
-1,Zürich,Mittagsmusik,2013-06-19,"[' Dora Luginbühl ', ' Sibylle Isler ', ' Magnus Dammenmiller ', ' Beat Schäfer ']",Classic
-2,Basel,Les-délices-de-la-solitude,2013-06-19,['Nicolas Rihs '],Classic
-3,Basel,Bachelorkonzert,2013-06-19,[' Therese Hauser '],Classic
-4,Basel,Masterrezital,2013-06-19,[' Frederic Sánchez '],Classic
-5,Basel,Bachelorkonzert,2013-06-19,[' Esther Severac '],Classic
-6,Basel,Masterrezital,2013-06-19,['Ashot Khachaturyan '],Classic
-7,Luzern,Blue-Soul-&-Me,2013-06-19,['Mark Tenger '],
-8,Basel,Altstadt-Serenaden,2013-06-19,"[' Judith Bardolet Vilaro ', ' Miquel Jordá Saún ', ' Jesús Miralles Roger ']",Classic
-9,Komplex-457,Zürich,2013-06-19,"['Korn ', ' Hellyeah ', ' Love And Death ']",Korn
-10,Winterthur,Happy-New-Ears-Deliciae-basiliensis,2013-06-19,"[' Iwan Jenny ', ' Rahel Cunz ']",Classic
-11,Solothurn,Testament,2013-06-19,['Testament '],
-12,Liestal,Jugalbandi,2013-06-19,"['Bhaskar Das ', ' Rohan Dasgupta ', ' Udai Mazumdar ']",
-13,Zürich,A-Soul-Night,2013-06-19,['Virginia Koleva '],Pop
-14,Bern,Lucrecia-Dalt,2013-06-19,['Lucrecia Dalt '],Pop
-15,Luzern,Jam-Night,2013-06-19,"['Christian Winiker ', ' Adi Wiss ', ' Mani Zweili ', ' Mike Malloth ']",
-16,Zürich,Jazzbaragge-Wednesday-Jam,2013-06-19,"['Jazzbaragge Allstars & The New Mastersounds ', ' Dave Feusi ', ' Marco Figini ', ' Ephrem Lüchinger ', ' Pete Shand ', ' Simon Allen ']",
-17,Komplex-Klub,Zürich,2013-06-19,['British Sea Power '],
-18,Basel,Masterrezital,2013-06-19,[' Karen Gibbard '],Classic
-19,Basel,Masterrezital,2013-06-19,[' Rebekka Zweifel '],Classic
-20,Zürich,Gabriela-Friedli-Trio,2013-06-19,"['Gabriela Friedli Trio ', ' Gabriela Friedli ', ' Daniel Studer ', ' Dieter Ulrich ']",
-21,Baden,Eliot-Chambers,2013-06-19,['Eliot Chambers '],
-22,Kulturfabrik-KUFA,Lyss,2013-06-19,['Xavier Rudd '],
-23,Bern,Fuchigami-To-Funato,2013-06-19,['Fuchigami To Funato '],
+location,event,date,artists,genre
+Basel,Bachelorkonzert,2013-06-19,[' Lukas Frind '],Classic
+Zürich,Mittagsmusik,2013-06-19,"[' Dora Luginbühl ', ' Sibylle Isler ', ' Magnus Dammenmiller ', ' Beat Schäfer ']",Classic
+Basel,Les-délices-de-la-solitude,2013-06-19,['Nicolas Rihs '],Classic
+Basel,Bachelorkonzert,2013-06-19,[' Therese Hauser '],Classic
+Basel,Masterrezital,2013-06-19,[' Frederic Sánchez '],Classic
+Basel,Bachelorkonzert,2013-06-19,[' Esther Severac '],Classic
+Basel,Masterrezital,2013-06-19,['Ashot Khachaturyan '],Classic
+Luzern,Blue-Soul-&-Me,2013-06-19,['Mark Tenger '],
+Basel,Altstadt-Serenaden,2013-06-19,"[' Judith Bardolet Vilaro ', ' Miquel Jordá Saún ', ' Jesús Miralles Roger ']",Classic
+Komplex-457,Zürich,2013-06-19,"['Korn ', ' Hellyeah ', ' Love And Death ']",Korn
+Winterthur,Happy-New-Ears-Deliciae-basiliensis,2013-06-19,"[' Iwan Jenny ', ' Rahel Cunz ']",Classic
+Solothurn,Testament,2013-06-19,['Testament '],
+Liestal,Jugalbandi,2013-06-19,"['Bhaskar Das ', ' Rohan Dasgupta ', ' Udai Mazumdar ']",
+Zürich,A-Soul-Night,2013-06-19,['Virginia Koleva '],Pop
+Bern,Lucrecia-Dalt,2013-06-19,['Lucrecia Dalt '],Pop
+Luzern,Jam-Night,2013-06-19,"['Christian Winiker ', ' Adi Wiss ', ' Mani Zweili ', ' Mike Malloth ']",
+Zürich,Jazzbaragge-Wednesday-Jam,2013-06-19,"['Jazzbaragge Allstars & The New Mastersounds ', ' Dave Feusi ', ' Marco Figini ', ' Ephrem Lüchinger ', ' Pete Shand ', ' Simon Allen ']",
+Komplex-Klub,Zürich,2013-06-19,['British Sea Power '],
+Basel,Masterrezital,2013-06-19,[' Karen Gibbard '],Classic
+Basel,Masterrezital,2013-06-19,[' Rebekka Zweifel '],Classic
+Zürich,Gabriela-Friedli-Trio,2013-06-19,"['Gabriela Friedli Trio ', ' Gabriela Friedli ', ' Daniel Studer ', ' Dieter Ulrich ']",
+Baden,Eliot-Chambers,2013-06-19,['Eliot Chambers '],
+Kulturfabrik-KUFA,Lyss,2013-06-19,['Xavier Rudd '],
+Bern,Fuchigami-To-Funato,2013-06-19,['Fuchigami To Funato '],

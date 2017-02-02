@@ -1,16 +1,16 @@
-,location,event,date,artists,genre
-0,Basel,Aimez-vous-Ravel-,2016-01-07,"[' Isabel Heusser ', ' László Fogarassy ', ' László Pólus ', ' Florin Farcas ']",Classic
-1,Zürich,Granadas-&-Friends,2016-01-07,"[' Hansruedi  Fässler ', ' Kumath ', ' Chanaka ', ' Nimal ']",Pop
-2,Baden,After-Work,2016-01-07,"[' Hansruedi Schläpfer ', ' Marco Figini ', ' Philippe Kuhn ', ' Heinz Wernli ', ' Lukas Meier ']",Pop
-3,Zürich,Int.-Zürcher-Orgeltage,2016-01-07,['Wolfgang Seifen '],Classic
-4,Zürich,Beethoven-pur,2016-01-07,[' Igor Levit '],Classic
-5,Zürich,Quad,2016-01-07,"[' Marcel Lüscher ', ' Pio Schürmann ', ' Mirco Häberli ', ' Amadeus Fries ']",
-6,Basel,Nenias,2016-01-07,"[' Svea Schildknecht ', ' Francisca Näf ', ' Jean-Jacques Knutti ']",Classic
-7,Zürich,John-Francis,2016-01-07,['John Francis '],
-8,Thalwil,Uorsin-Reloaded,2016-01-07,"[' Andrina Bollinger ', ' Fiona Könz ', ' Jodok Hess ', ' Bernhard Bamert ', ' Patrick Sommer ', ' Florian Reichle ']",
-9,Zürich,Billiger-Bauer-Celebrating-20-Years,2016-01-07,"['Omri Ziegele ', ' Jürg Wickihalder ', ' Gabriela Friedli ']",
-10,Winterthur,Swing-de-Paris,2016-01-07,"['Sophie Lüssi ', ' Felix Brühwiler ', ' Claudio Strebel ', ' David Beglinger ']",
-11,Zürich,Joe-Haider-Jazz-Orchestra,2016-01-07,"[' Joe Haider ', ' Daniel Blanc ', ' Domenic Landolf ', ' Thomi Geiger ', ' Matthias Spillmann ']",
-12,Basel,PS-Corporation-Allstars-feat.-Reggie-Johnson,2016-01-07,"[' Jürg Morgenthaler ', ' Hans Meier ', ' Isla Eckinger ', ' Vince Benedetti ', ' Reggie Johnson ', ' Elmar Frey ']",
-13,Baden,Pezzo-Acoustic,2016-01-07,[' Peter Tatchev '],Pop
-14,Lugano,Orchestra-della-Svizzera-italiana,2016-01-07,[' Ilya Gringolts '],Classic
+location,event,date,artists,genre
+Basel,Aimez-vous-Ravel-,2016-01-07,"[' Isabel Heusser ', ' László Fogarassy ', ' László Pólus ', ' Florin Farcas ']",Classic
+Zürich,Granadas-&-Friends,2016-01-07,"[' Hansruedi  Fässler ', ' Kumath ', ' Chanaka ', ' Nimal ']",Pop
+Baden,After-Work,2016-01-07,"[' Hansruedi Schläpfer ', ' Marco Figini ', ' Philippe Kuhn ', ' Heinz Wernli ', ' Lukas Meier ']",Pop
+Zürich,Int.-Zürcher-Orgeltage,2016-01-07,['Wolfgang Seifen '],Classic
+Zürich,Beethoven-pur,2016-01-07,[' Igor Levit '],Classic
+Zürich,Quad,2016-01-07,"[' Marcel Lüscher ', ' Pio Schürmann ', ' Mirco Häberli ', ' Amadeus Fries ']",
+Basel,Nenias,2016-01-07,"[' Svea Schildknecht ', ' Francisca Näf ', ' Jean-Jacques Knutti ']",Classic
+Zürich,John-Francis,2016-01-07,['John Francis '],
+Thalwil,Uorsin-Reloaded,2016-01-07,"[' Andrina Bollinger ', ' Fiona Könz ', ' Jodok Hess ', ' Bernhard Bamert ', ' Patrick Sommer ', ' Florian Reichle ']",
+Zürich,Billiger-Bauer-Celebrating-20-Years,2016-01-07,"['Omri Ziegele ', ' Jürg Wickihalder ', ' Gabriela Friedli ']",
+Winterthur,Swing-de-Paris,2016-01-07,"['Sophie Lüssi ', ' Felix Brühwiler ', ' Claudio Strebel ', ' David Beglinger ']",
+Zürich,Joe-Haider-Jazz-Orchestra,2016-01-07,"[' Joe Haider ', ' Daniel Blanc ', ' Domenic Landolf ', ' Thomi Geiger ', ' Matthias Spillmann ']",
+Basel,PS-Corporation-Allstars-feat.-Reggie-Johnson,2016-01-07,"[' Jürg Morgenthaler ', ' Hans Meier ', ' Isla Eckinger ', ' Vince Benedetti ', ' Reggie Johnson ', ' Elmar Frey ']",
+Baden,Pezzo-Acoustic,2016-01-07,[' Peter Tatchev '],Pop
+Lugano,Orchestra-della-Svizzera-italiana,2016-01-07,[' Ilya Gringolts '],Classic

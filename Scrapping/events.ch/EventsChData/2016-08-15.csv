@@ -1,4 +1,4 @@
-,location,event,date,artists,genre
-0,Saanen,Gstaad-String-Academy-III,2016-08-15,['Ivan Monighetti '],Classic
-1,Winterthur,Paul-Doffing,2016-08-15,['Paul Doffing '],Pop
-2,Luzern,Lucerne-Festival-Sinfoniekonzert-3,2016-08-15,[' Martha Argerich '],Classic
+location,event,date,artists,genre
+Saanen,Gstaad-String-Academy-III,2016-08-15,['Ivan Monighetti '],Classic
+Winterthur,Paul-Doffing,2016-08-15,['Paul Doffing '],Pop
+Luzern,Lucerne-Festival-Sinfoniekonzert-3,2016-08-15,[' Martha Argerich '],Classic

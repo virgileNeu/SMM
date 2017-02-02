@@ -1,22 +1,22 @@
-,location,event,date,artists,genre
-0,Winterthur,Pastorale-Natur-Bilder,2014-04-09,[' Ralph Orendain '],Classic
-1,Zermatt,Zermatt-Unplugged,2014-04-09,"[""Ronnie Scott's All Stars ""]",
-2,Basel,Made-in-USA,2014-04-09,"[' Mike Svoboda ', ' Matt Haimovitz ']",Classic
-3,Zermatt,Zermatt-Unplugged,2014-04-09,['Mark Kelly '],Pop
-4,Zürich,Jonathan-Wilson,2014-04-09,['Jonathan Wilson '],
-5,Basel,More-than-Minimal,2014-04-09,[' Matt Haimovitz '],Classic
-6,Luzern,Chorkonzert-2,2014-04-09,"[' Ruth Ziesak ', ' Britta Schwarz ', ' Werner Güra ', ' Robert Holl ']",Classic
-7,Winterthur,Pastorale-Natur-Bilder,2014-04-09,[' Ralph Orendain '],Classic
-8,Zürich,Band-Of-Skulls,2014-04-09,['Band Of Skulls '],
-9,Aarau,Prong,2014-04-09,['Prong '],
-10,Basel,Hi5,2014-04-09,"[' Matthias Legner ', ' Philipp Ossanna ', ' Clemens Rofner ', ' Chris Norz ']",
-11,Zermatt,Zermatt-Unplugged,2014-04-09,['Katie Melua '],
-12,Cully,Cully-Jazz,2014-04-09,"['Thomas Dutronc ', ' Thomas Dutronc ', ' David Chiron ', ' Rocky Gresset ', ' Jérôme Ciosi ']",
-13,Wädenswil,Michael-Jaeger-Kerouac,2014-04-09,"[' Michael Jaeger ', ' Vincent Membrez ', ' Luca Sisera ', ' Norbert Pfammatter ']",
-14,Zürich,Randy-Weston-&-Billy-Harper-Duo,2014-04-09,"[' Billy Harper ', ' Randy Weston ']",
-15,Lausanne,Patrice,2014-04-09,['Patrice '],
-16,Köniz,Ruthie-Foster,2014-04-09,['Ruthie Foster '],
-17,Lausanne,Highasakite,2014-04-09,['Highasakite '],Pop
-18,Basel,Terminal-Cheesecake,2014-04-09,"['Terminal Cheesecake ', ' support: Oren Ambarchi ']",
-19,Zürich,San-Fermin,2014-04-09,['San Fermin '],Pop
-20,Zermatt,Zermatt-Unplugged,2014-04-09,['Peter Cornelius '],Pop
+location,event,date,artists,genre
+Winterthur,Pastorale-Natur-Bilder,2014-04-09,[' Ralph Orendain '],Classic
+Zermatt,Zermatt-Unplugged,2014-04-09,"[""Ronnie Scott's All Stars ""]",
+Basel,Made-in-USA,2014-04-09,"[' Mike Svoboda ', ' Matt Haimovitz ']",Classic
+Zermatt,Zermatt-Unplugged,2014-04-09,['Mark Kelly '],Pop
+Zürich,Jonathan-Wilson,2014-04-09,['Jonathan Wilson '],
+Basel,More-than-Minimal,2014-04-09,[' Matt Haimovitz '],Classic
+Luzern,Chorkonzert-2,2014-04-09,"[' Ruth Ziesak ', ' Britta Schwarz ', ' Werner Güra ', ' Robert Holl ']",Classic
+Winterthur,Pastorale-Natur-Bilder,2014-04-09,[' Ralph Orendain '],Classic
+Zürich,Band-Of-Skulls,2014-04-09,['Band Of Skulls '],
+Aarau,Prong,2014-04-09,['Prong '],
+Basel,Hi5,2014-04-09,"[' Matthias Legner ', ' Philipp Ossanna ', ' Clemens Rofner ', ' Chris Norz ']",
+Zermatt,Zermatt-Unplugged,2014-04-09,['Katie Melua '],
+Cully,Cully-Jazz,2014-04-09,"['Thomas Dutronc ', ' Thomas Dutronc ', ' David Chiron ', ' Rocky Gresset ', ' Jérôme Ciosi ']",
+Wädenswil,Michael-Jaeger-Kerouac,2014-04-09,"[' Michael Jaeger ', ' Vincent Membrez ', ' Luca Sisera ', ' Norbert Pfammatter ']",
+Zürich,Randy-Weston-&-Billy-Harper-Duo,2014-04-09,"[' Billy Harper ', ' Randy Weston ']",
+Lausanne,Patrice,2014-04-09,['Patrice '],
+Köniz,Ruthie-Foster,2014-04-09,['Ruthie Foster '],
+Lausanne,Highasakite,2014-04-09,['Highasakite '],Pop
+Basel,Terminal-Cheesecake,2014-04-09,"['Terminal Cheesecake ', ' support: Oren Ambarchi ']",
+Zürich,San-Fermin,2014-04-09,['San Fermin '],Pop
+Zermatt,Zermatt-Unplugged,2014-04-09,['Peter Cornelius '],Pop

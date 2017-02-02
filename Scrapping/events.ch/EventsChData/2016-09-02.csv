@@ -1,32 +1,32 @@
-,location,event,date,artists,genre
-0,Willisau,Jazz-Festival-Willisau,2016-09-02,"[' Ursina ', ' Roland Wäspe ', ' Martina Berther ', ' Maxime Paratte ']",Pop
-1,Willisau,Jazz-Festival-Willisau,2016-09-02,"[' Urs Leimgruber ', ' Alex Huber ']",
-2,Aarburg,Riverside-Aarburg,2016-09-02,['Canned Heat '],
-3,Basel,Orgelspiel-zum-Feierabend,2016-09-02,['Tobias Horn '],Classic
-4,Luzern,Lucerne-Festival-40min-8,2016-09-02,[' Anna-Sophie Mutter '],Classic
-5,Veyras,Tohu-Bohu-Festival,2016-09-02,"['Millencolin ', ' The Locos ', ' The Interrupters ']",
-6,Dietikon,Feierabendmusik,2016-09-02,[' Bernhard Hörler '],Classic
-7,Luzern,Sedel-Openair,2016-09-02,"['Radar Men from the Moon ', ' Vök ', ' Weval ']",
-8,Zug,PiriPiri,2016-09-02,"[' Christian Wallner ', ' Pete Borel ', ' David Zopfi ', ' Pit Furrer ']",
-9,Gstaad,Beethoven-4-All-9.-Sinfonie,2016-09-02,"[' Kristian Bezuidenhout ', ' Steve Davislim ', ' Thomas E. Bauer ']",Classic
-10,Bern,Classique-Pure,2016-09-02,[' Beatrice Berrut '],Classic
-11,null,Tangos-mit-Harfe-&-Klavier,2016-09-02,"[' Praxedis Hug-Rütti ', ' Praxedis Genevieve Hug ']",Classic
-12,Zürich,Iron-Times-Klavierabend-Simon-Savoy,2016-09-02,['Simon Savoy '],Classic
-13,Willisau,Jazz-Festival-Willisau,2016-09-02,"[' Dominic Landolt ', ' Ramon Landolt ', ' Mario Haenni ', ' David Murray ', '  Orrin Evans ', ' Jaribu Shahid ']",
-14,Kloten,Diva-Music-in-style,2016-09-02,"['Ana Bobinac ', ' Jan Amort ', ' Peter Dazer ', ' Dirk Kurth ']",Pop
-15,Bern,Aion-Quartett,2016-09-02,"[' Michael Gassmann ', ' Christian Berger ', ' Herbert Kramis ']",
-16,Zürich,Francisco-Fernandez,2016-09-02,['Francisco Fernandez '],
-17,Embrach,Piccolo-Musikfestival,2016-09-02,"[""Dino D'Santiago ""]",
-18,Zürich,Werkstattkonzert-Saisoneröffnung,2016-09-02,"['Devin Gray ', ' Frantz Loriot ', ' Christian Weber ']",
-19,Winterthur,Raphael-Jost-Standards-Trio,2016-09-02,"[' Raphael Jost ', ' Raphael Walser ', ' Jonas Ruther ']",
-20,Thalwil,Dave-Ruosch-Trio,2016-09-02,"[' Dave Ruosch ', ' Martin Meyer ', ' Thomas Dürst ']",
-21,Basel,Masterkonzert-Musikpädagogik,2016-09-02,"[' Gabriel Wyss ', ' Sarah Reid ', ' Cédric Vogel ', ' Benj Gut ', ' Florian Haas ']",
-22,Baden,The-Dadeeze,2016-09-02,"[' Marc Reinhard ', ' Sara Isler ', ' Walter Schmid ', ' Jimmy Schmid ', ' Erich Isler ', ' Pascal Broye ', ' Urs Wäckerlin ']",
-23,Basel,Wayne's-World,2016-09-02,"[' Matthias Spillman ', ' Domenic Landolf ', ' Pablo Held ', ' Stephan Kurmann ', ' Fabian Arends ']",
-24,Bern,50-Jahre-Buster-Keaton,2016-09-02,"[' Marco Zanardi ', ' Francesca Astse ', ' Alberto Cappelli ', ' Pierangelo Galantino ', ' Marco Dalpane ']",
-25,Aarau,Angel-Haze,2016-09-02,['Angel Haze '],
-26,Zürich,Tiggs-Da-Author,2016-09-02,['Tiggs Da Author '],
-27,null,Angel-Forrest,2016-09-02,['Angel Forrest '],
-28,Bern,Rhythm-&-Booze,2016-09-02,"[' Ntando Cele ', ' Raphael Urweider ', ' Patrick Abt ', ' Pit Hertig ']",Pop
-29,Lausanne,Gun-Outfit,2016-09-02,['Gun Outfit '],
-30,Willisau,Jazz-Festival-Willisau,2016-09-02,"[' Joana Aderi ', ' Joy Frempong ', ' John Edwards ', ' Daniel Sailer ', ' Fredy Studer ']",
+location,event,date,artists,genre
+Willisau,Jazz-Festival-Willisau,2016-09-02,"[' Ursina ', ' Roland Wäspe ', ' Martina Berther ', ' Maxime Paratte ']",Pop
+Willisau,Jazz-Festival-Willisau,2016-09-02,"[' Urs Leimgruber ', ' Alex Huber ']",
+Aarburg,Riverside-Aarburg,2016-09-02,['Canned Heat '],
+Basel,Orgelspiel-zum-Feierabend,2016-09-02,['Tobias Horn '],Classic
+Luzern,Lucerne-Festival-40min-8,2016-09-02,[' Anna-Sophie Mutter '],Classic
+Veyras,Tohu-Bohu-Festival,2016-09-02,"['Millencolin ', ' The Locos ', ' The Interrupters ']",
+Dietikon,Feierabendmusik,2016-09-02,[' Bernhard Hörler '],Classic
+Luzern,Sedel-Openair,2016-09-02,"['Radar Men from the Moon ', ' Vök ', ' Weval ']",
+Zug,PiriPiri,2016-09-02,"[' Christian Wallner ', ' Pete Borel ', ' David Zopfi ', ' Pit Furrer ']",
+Gstaad,Beethoven-4-All-9.-Sinfonie,2016-09-02,"[' Kristian Bezuidenhout ', ' Steve Davislim ', ' Thomas E. Bauer ']",Classic
+Bern,Classique-Pure,2016-09-02,[' Beatrice Berrut '],Classic
+null,Tangos-mit-Harfe-&-Klavier,2016-09-02,"[' Praxedis Hug-Rütti ', ' Praxedis Genevieve Hug ']",Classic
+Zürich,Iron-Times-Klavierabend-Simon-Savoy,2016-09-02,['Simon Savoy '],Classic
+Willisau,Jazz-Festival-Willisau,2016-09-02,"[' Dominic Landolt ', ' Ramon Landolt ', ' Mario Haenni ', ' David Murray ', '  Orrin Evans ', ' Jaribu Shahid ']",
+Kloten,Diva-Music-in-style,2016-09-02,"['Ana Bobinac ', ' Jan Amort ', ' Peter Dazer ', ' Dirk Kurth ']",Pop
+Bern,Aion-Quartett,2016-09-02,"[' Michael Gassmann ', ' Christian Berger ', ' Herbert Kramis ']",
+Zürich,Francisco-Fernandez,2016-09-02,['Francisco Fernandez '],
+Embrach,Piccolo-Musikfestival,2016-09-02,"[""Dino D'Santiago ""]",
+Zürich,Werkstattkonzert-Saisoneröffnung,2016-09-02,"['Devin Gray ', ' Frantz Loriot ', ' Christian Weber ']",
+Winterthur,Raphael-Jost-Standards-Trio,2016-09-02,"[' Raphael Jost ', ' Raphael Walser ', ' Jonas Ruther ']",
+Thalwil,Dave-Ruosch-Trio,2016-09-02,"[' Dave Ruosch ', ' Martin Meyer ', ' Thomas Dürst ']",
+Basel,Masterkonzert-Musikpädagogik,2016-09-02,"[' Gabriel Wyss ', ' Sarah Reid ', ' Cédric Vogel ', ' Benj Gut ', ' Florian Haas ']",
+Baden,The-Dadeeze,2016-09-02,"[' Marc Reinhard ', ' Sara Isler ', ' Walter Schmid ', ' Jimmy Schmid ', ' Erich Isler ', ' Pascal Broye ', ' Urs Wäckerlin ']",
+Basel,Wayne's-World,2016-09-02,"[' Matthias Spillman ', ' Domenic Landolf ', ' Pablo Held ', ' Stephan Kurmann ', ' Fabian Arends ']",
+Bern,50-Jahre-Buster-Keaton,2016-09-02,"[' Marco Zanardi ', ' Francesca Astse ', ' Alberto Cappelli ', ' Pierangelo Galantino ', ' Marco Dalpane ']",
+Aarau,Angel-Haze,2016-09-02,['Angel Haze '],
+Zürich,Tiggs-Da-Author,2016-09-02,['Tiggs Da Author '],
+null,Angel-Forrest,2016-09-02,['Angel Forrest '],
+Bern,Rhythm-&-Booze,2016-09-02,"[' Ntando Cele ', ' Raphael Urweider ', ' Patrick Abt ', ' Pit Hertig ']",Pop
+Lausanne,Gun-Outfit,2016-09-02,['Gun Outfit '],
+Willisau,Jazz-Festival-Willisau,2016-09-02,"[' Joana Aderi ', ' Joy Frempong ', ' John Edwards ', ' Daniel Sailer ', ' Fredy Studer ']",

@@ -1,31 +1,31 @@
-,location,event,date,artists,genre
-0,Winterthur,John-Francis,2015-01-24,['John Francis '],Pop
-1,Winterthur,Meh-Suff-Winter-Festival,2015-01-24,"['Abysmal Torment ', ' Belphegor ', ' Defeated Sanity ', ' Gorod ', ' Hour of Penance ', ' Schirenc Plays Pungent Stench ', ' The King Is Blind ']",
-2,Aarau,Chachaloca,2015-01-24,"[' Roman Glaser ', ' Richard Pechota ', ' Alain von Ritter ', ' Jost Müller ']",
-3,null,Jubiläumskonzert,2015-01-24,"[' Sarah Nathalie Maeder ', ' Ingrid Alexandre ', ' Christoph Gabathuler ', ' Marcus Niedermeyr ']",Classic
-4,Bern,Bernische-Chopin-Gesellschaft,2015-01-24,['Mischa Kozlowski '],Classic
-5,Zürich,Anklänge,2015-01-24,[' Nicolas Corti '],Classic
-6,Zürich,Dona-nobis-pacem-Gegen-den-Krieg,2015-01-24,"[' Felicitas Erb ', ' Susanne Puchegger ', ' Gregory Finch ', ' Florian Engelhardt ', ' Ekaterina Kofanova ']",Classic
-7,null,Auf-nach-Norden,2015-01-24,[' Regula Mühlemann '],Classic
-8,Zürich,Alleine-zu-zweit,2015-01-24,"[' Sebastian Bohren ', ' Dmitri Demiashkin ']",Classic
-9,Pratteln,Hammerfall,2015-01-24,['Hammerfall '],
-10,Oberengstringen,Dominic-Egli's-Plurism,2015-01-24,"[' Feya Faku ', ' Raffaele Bossard ', ' Dominic Egli ']",
-11,Basel,The-New-Trio,2015-01-24,"['Günter Wehinger ', ' Chris Wiesendanger ', ' Daniel Pezzotti ']",
-12,Bern,Angelus-Novus-II,2015-01-24,[' works by Helmut Oehring '],Classic
-13,null,Curse,2015-01-24,['Curse '],
-14,Basel,Noche-flamenca,2015-01-24,"[' El Rubio ', ' Cortés ', ' David Lüthi ', ' tina Haas Wilms ', ' Maurer ']",
-15,Zürich,Michael-Fehr,2015-01-24,"[' Michael Fehr ', ' Rico Baumann ']",
-16,Bern,English-Style,2015-01-24,[' Ursula Heim '],Classic
-17,Basel,Darren-Sigesmund-New-Quintet,2015-01-24,"[' Darren Sigesmund ', ' Mark Feldman ', ' Gary Versace ', ' Jim Vivian ', ' Ethan Ardelli ']",
-18,Zürich,Amparo-Sanchez,2015-01-24,"['Amparo Sanchez ', ' Amparo Sanchez ', ' Willy Fuego ', ' Jorge Mestres ', ' Jose Alberto Varona ', ' Ricard Parera ']",
-19,Baden,Carmatango,2015-01-24,"['Carmatango ', ' Carlos Ramirez ', ' Marcelo Rossini ']",
-20,Münchenbuchsee,Yvonne-Moore-Bluesband,2015-01-24,"[' Yvonne Moore ', ' André Pousaz ', ' Arno Troxler ', ' Thomas Moeckel ']",
-21,Laufen,Last-Leaf-Down,2015-01-24,['Last Leaf Down '],
-22,Zürich,Disappears,2015-01-24,['Disappears '],
-23,Luzern,Fink,2015-01-24,['Fink '],
-24,null,Harry-Marte-&-Big-Pit,2015-01-24,"[' Harry Marte', ' Urs Vögeli ', ' Alfred Vogel ', ' Claude Meier ']",
-25,Zug,Glenturret,2015-01-24,['Glenturret '],Pop
-26,Bern,Tour-de-Lorraine,2015-01-24,['Los Fastidios '],
-27,Bern,Anton-Sword-&-The-We-Ours,2015-01-24,['Anton Sword & The We Ours '],
-28,Lausanne,Battle-Lines,2015-01-24,['Battle Lines '],Pop
-29,Basel,Brzowski,2015-01-24,"['Brzowski ', ' Monsieur Sai + Arth ', ' DJ Halo ']",
+location,event,date,artists,genre
+Winterthur,John-Francis,2015-01-24,['John Francis '],Pop
+Winterthur,Meh-Suff-Winter-Festival,2015-01-24,"['Abysmal Torment ', ' Belphegor ', ' Defeated Sanity ', ' Gorod ', ' Hour of Penance ', ' Schirenc Plays Pungent Stench ', ' The King Is Blind ']",
+Aarau,Chachaloca,2015-01-24,"[' Roman Glaser ', ' Richard Pechota ', ' Alain von Ritter ', ' Jost Müller ']",
+null,Jubiläumskonzert,2015-01-24,"[' Sarah Nathalie Maeder ', ' Ingrid Alexandre ', ' Christoph Gabathuler ', ' Marcus Niedermeyr ']",Classic
+Bern,Bernische-Chopin-Gesellschaft,2015-01-24,['Mischa Kozlowski '],Classic
+Zürich,Anklänge,2015-01-24,[' Nicolas Corti '],Classic
+Zürich,Dona-nobis-pacem-Gegen-den-Krieg,2015-01-24,"[' Felicitas Erb ', ' Susanne Puchegger ', ' Gregory Finch ', ' Florian Engelhardt ', ' Ekaterina Kofanova ']",Classic
+null,Auf-nach-Norden,2015-01-24,[' Regula Mühlemann '],Classic
+Zürich,Alleine-zu-zweit,2015-01-24,"[' Sebastian Bohren ', ' Dmitri Demiashkin ']",Classic
+Pratteln,Hammerfall,2015-01-24,['Hammerfall '],
+Oberengstringen,Dominic-Egli's-Plurism,2015-01-24,"[' Feya Faku ', ' Raffaele Bossard ', ' Dominic Egli ']",
+Basel,The-New-Trio,2015-01-24,"['Günter Wehinger ', ' Chris Wiesendanger ', ' Daniel Pezzotti ']",
+Bern,Angelus-Novus-II,2015-01-24,[' works by Helmut Oehring '],Classic
+null,Curse,2015-01-24,['Curse '],
+Basel,Noche-flamenca,2015-01-24,"[' El Rubio ', ' Cortés ', ' David Lüthi ', ' tina Haas Wilms ', ' Maurer ']",
+Zürich,Michael-Fehr,2015-01-24,"[' Michael Fehr ', ' Rico Baumann ']",
+Bern,English-Style,2015-01-24,[' Ursula Heim '],Classic
+Basel,Darren-Sigesmund-New-Quintet,2015-01-24,"[' Darren Sigesmund ', ' Mark Feldman ', ' Gary Versace ', ' Jim Vivian ', ' Ethan Ardelli ']",
+Zürich,Amparo-Sanchez,2015-01-24,"['Amparo Sanchez ', ' Amparo Sanchez ', ' Willy Fuego ', ' Jorge Mestres ', ' Jose Alberto Varona ', ' Ricard Parera ']",
+Baden,Carmatango,2015-01-24,"['Carmatango ', ' Carlos Ramirez ', ' Marcelo Rossini ']",
+Münchenbuchsee,Yvonne-Moore-Bluesband,2015-01-24,"[' Yvonne Moore ', ' André Pousaz ', ' Arno Troxler ', ' Thomas Moeckel ']",
+Laufen,Last-Leaf-Down,2015-01-24,['Last Leaf Down '],
+Zürich,Disappears,2015-01-24,['Disappears '],
+Luzern,Fink,2015-01-24,['Fink '],
+null,Harry-Marte-&-Big-Pit,2015-01-24,"[' Harry Marte', ' Urs Vögeli ', ' Alfred Vogel ', ' Claude Meier ']",
+Zug,Glenturret,2015-01-24,['Glenturret '],Pop
+Bern,Tour-de-Lorraine,2015-01-24,['Los Fastidios '],
+Bern,Anton-Sword-&-The-We-Ours,2015-01-24,['Anton Sword & The We Ours '],
+Lausanne,Battle-Lines,2015-01-24,['Battle Lines '],Pop
+Basel,Brzowski,2015-01-24,"['Brzowski ', ' Monsieur Sai + Arth ', ' DJ Halo ']",

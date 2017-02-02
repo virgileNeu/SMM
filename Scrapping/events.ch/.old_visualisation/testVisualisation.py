@@ -121,7 +121,7 @@ def selectYearsOnClick(label):
 debug = True
 
 # Import Data
-path = "/home/neu/Work/Applied_data_analysis/SMM/Scripts/events.ch/EventsChData/completeWithCoordinates.csv"
+path = "completeWithCoordinates.csv"
 df = pd.read_csv(path)
 
 # Clean Data

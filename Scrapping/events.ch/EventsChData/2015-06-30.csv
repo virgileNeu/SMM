@@ -1,23 +1,23 @@
-,location,event,date,artists,genre
-0,Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-30,['Zoltán Despond '],Classic
-1,Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-30,['Beatriz Blanco Barriga '],Classic
-2,null,The-Underscore-Orkestra,2015-06-30,['The Underscore Orkestra '],
-3,Zürich,Balkan-Jazz-&-Flamenco-Duo-Aritmija,2015-06-30,"[' Tilen Stepinik ', ' Semsudin Dino Dopa ']",
-4,Ascona,Jazz-Ascona,2015-06-30,"['The Primatics ', ' Teedy Boutté & Paul Longstreth ']",
-5,Ascona,Jazz-Ascona,2015-06-30,"['Davell Crawford Tribute to Fats Domino ', ' Jazz Five ']",
-6,Ascona,Jazz-Ascona,2015-06-30,"['James Andrews & The Heart Attacks ', ' Shannon Powell & His Hall Jazz Band ']",
-7,Zürich,Konzert,2015-06-30,"['Julietta Vardanyan ', ' works by Aram Talalyan ']",Classic
-8,Basel,Pflücket-Rosen...-Ein-Liederstrauss-nicht-nur-zur-Sommerzeit,2015-06-30,"[' Cécile Lino ', ' Roberto Vacca ']",Classic
-9,Zürich,Festspiele-Zürich-Harmonie-der-Erinnerungen,2015-06-30,[' conductor: Andres Mustonen '],Classic
-10,Ascona,Jazz-Ascona,2015-06-30,['Emma Pasks Tribute to Billie Holiday '],
-11,Zürich,Counting-Crows,2015-06-30,['Counting Crows '],
-12,Zürich,Rebelution,2015-06-30,['Rebelution '],
-13,null,Kulturfestival-St.-Gallen,2015-06-30,['Jupiter & Okwess International '],
-14,Zürich,Supersuckers,2015-06-30,['Supersuckers '],
-15,Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-30,['Isabel Gehweiler '],Classic
-16,Basel,Begegnung-mit-Steinklang,2015-06-30,[' Alfred Zimmerlin '],Classic
-17,-Alte-Kirche,Boswil,2015-06-30,"['Esther Hoppe ', ' Regula Mühlemann ', ' Sebastian Bohren ']",Classic
-18,Stansstad,Gästival,2015-06-30,"[' Max Christian Graeff ', ' Christov Rolla ', ' Gregory Schärer ', ' Silvan Schmid ', ' Niklaus Mäder ', ' Marc Moscatelli ']",Pop
-19,Lausanne,Of-Monsters-and-Men,2015-06-30,['Of Monsters and Men '],Pop
-20,Zürich,Hanni-El-Khatib,2015-06-30,['Hanni El Khatib '],Pop
-21,Ascona,Jazz-Ascona,2015-06-30,['Gumbo Carioca feat. Denise Gordon '],
+location,event,date,artists,genre
+Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-30,['Zoltán Despond '],Classic
+Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-30,['Beatriz Blanco Barriga '],Classic
+null,The-Underscore-Orkestra,2015-06-30,['The Underscore Orkestra '],
+Zürich,Balkan-Jazz-&-Flamenco-Duo-Aritmija,2015-06-30,"[' Tilen Stepinik ', ' Semsudin Dino Dopa ']",
+Ascona,Jazz-Ascona,2015-06-30,"['The Primatics ', ' Teedy Boutté & Paul Longstreth ']",
+Ascona,Jazz-Ascona,2015-06-30,"['Davell Crawford Tribute to Fats Domino ', ' Jazz Five ']",
+Ascona,Jazz-Ascona,2015-06-30,"['James Andrews & The Heart Attacks ', ' Shannon Powell & His Hall Jazz Band ']",
+Zürich,Konzert,2015-06-30,"['Julietta Vardanyan ', ' works by Aram Talalyan ']",Classic
+Basel,Pflücket-Rosen...-Ein-Liederstrauss-nicht-nur-zur-Sommerzeit,2015-06-30,"[' Cécile Lino ', ' Roberto Vacca ']",Classic
+Zürich,Festspiele-Zürich-Harmonie-der-Erinnerungen,2015-06-30,[' conductor: Andres Mustonen '],Classic
+Ascona,Jazz-Ascona,2015-06-30,['Emma Pasks Tribute to Billie Holiday '],
+Zürich,Counting-Crows,2015-06-30,['Counting Crows '],
+Zürich,Rebelution,2015-06-30,['Rebelution '],
+null,Kulturfestival-St.-Gallen,2015-06-30,['Jupiter & Okwess International '],
+Zürich,Supersuckers,2015-06-30,['Supersuckers '],
+Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-30,['Isabel Gehweiler '],Classic
+Basel,Begegnung-mit-Steinklang,2015-06-30,[' Alfred Zimmerlin '],Classic
+-Alte-Kirche,Boswil,2015-06-30,"['Esther Hoppe ', ' Regula Mühlemann ', ' Sebastian Bohren ']",Classic
+Stansstad,Gästival,2015-06-30,"[' Max Christian Graeff ', ' Christov Rolla ', ' Gregory Schärer ', ' Silvan Schmid ', ' Niklaus Mäder ', ' Marc Moscatelli ']",Pop
+Lausanne,Of-Monsters-and-Men,2015-06-30,['Of Monsters and Men '],Pop
+Zürich,Hanni-El-Khatib,2015-06-30,['Hanni El Khatib '],Pop
+Ascona,Jazz-Ascona,2015-06-30,['Gumbo Carioca feat. Denise Gordon '],

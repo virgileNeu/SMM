@@ -1,6 +1,6 @@
-,location,event,date,artists,genre
-0,Zürich,Bach-einmal-anders,2016-03-28,"['Klaus Schwärzler ', ' Benjamin Forster ', ' Tobias Forster ']",Classic
-1,Zürich,Hits-Recycled-Sting-vs.-Joe-Cocker,2016-03-28,"[' Gauthier Toux ', ' Kenneth Dahl Knudsen ', ' Maxence Sibille ', ' Florian Egli ', ' Dominic Landolt ']",
-2,Zürich,The-1975,2016-03-28,['The 1975 '],
-3,Zürich,Nik-Bärtsch's-Ronin,2016-03-28,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Sha ', ' Thomy Jordi ']",
-4,Pratteln,Ian-Paice-&-Purpendicular,2016-03-28,['Ian Paice & Purpendicular '],
+location,event,date,artists,genre
+Zürich,Bach-einmal-anders,2016-03-28,"['Klaus Schwärzler ', ' Benjamin Forster ', ' Tobias Forster ']",Classic
+Zürich,Hits-Recycled-Sting-vs.-Joe-Cocker,2016-03-28,"[' Gauthier Toux ', ' Kenneth Dahl Knudsen ', ' Maxence Sibille ', ' Florian Egli ', ' Dominic Landolt ']",
+Zürich,The-1975,2016-03-28,['The 1975 '],
+Zürich,Nik-Bärtsch's-Ronin,2016-03-28,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Sha ', ' Thomy Jordi ']",
+Pratteln,Ian-Paice-&-Purpendicular,2016-03-28,['Ian Paice & Purpendicular '],

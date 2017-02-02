@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Murten,Kammermusik-Vier-Himmelsrichtungen,2013-08-25,"[' Robert Zimansky ', ' Monika Clemann ', ' Neboja Bugarski ', ' Paul Gössi ', ' Urs Brügger ', ' Marie-Thérèse Yan ', ' Henryk Kalinski ']",Classic
-1,Wädenswil,Mädel-Mädel-sei-nicht-dumm,2013-08-25,"['Sybille Diethelm ', ' Edward Rushton ']",Classic
-2,Zürich,Kulturfestival-Integration,2013-08-25,[' Soundsystem Pow Pow Movement '],
-3,Zürich,Shakuhachi-Konzert,2013-08-25,"['Ueli Fuyûru Derendinger ', ' Wolfgang Fuyûgen Hessler ', ' Dieter Zuishô Nanz ', ' Ursula Fuyûmi Schmidiger ', ' Jürg Fuyûzui Zurmühle ']",Classic
-4,Zürich,Kulturfestival-Integration,2013-08-25,"['Valéria Eva ', ' DJ Sampa ']",
-5,Fischingen,Orgelkonzert,2013-08-25,"['Christoph Wartenweiler ', ' Christine Esser ', ' Barbara Tillmann ']",Classic
-6,Thun,Bachwochen-Thun,2013-08-25,"[' Amel Brahim-Djelloul ', ' Christopher Ainslie ']",Classic
-7,Murten,Vokalmusik-Lamento-am-Kreuz,2013-08-25,"[' Elodie Kimmel ', ' Maria Riccarda Wesseling ', ' Jörg Ulrich Busch ']",Classic
-8,Steinberggasse,Winterthur,2013-08-25,"['Sportfreunde Stiller ', ' Casper ', ' Royal Republic ']",
-9,Kappel-am-Albis,Konzert,2013-08-25,"[' Monique Baumann ', ' Daniel Rüegg ']",Classic
-10,Winterthur,Nottys-Jug-Serenaders,2013-08-25,"[' Thomas Banholzer ', ' Andreas Dannenmayer ', ' Notker Homburger ']",Pop
-11,Bern,Option-Weg,2013-08-25,['Option weg '],
-12,null,Armin-Jordan-Festival,2013-08-25,"['Rosa Elvira Sierra ', ' Michele Govi ']",Classic
-13,Winterthur,Loom,2013-08-25,"[' Manu Olowu ', ' Mario Söldi ', ' Karin Schlegel ', ' Christof Schlegel ', ' Johannes Eberhard ']",Pop
+location,event,date,artists,genre
+Murten,Kammermusik-Vier-Himmelsrichtungen,2013-08-25,"[' Robert Zimansky ', ' Monika Clemann ', ' Neboja Bugarski ', ' Paul Gössi ', ' Urs Brügger ', ' Marie-Thérèse Yan ', ' Henryk Kalinski ']",Classic
+Wädenswil,Mädel-Mädel-sei-nicht-dumm,2013-08-25,"['Sybille Diethelm ', ' Edward Rushton ']",Classic
+Zürich,Kulturfestival-Integration,2013-08-25,[' Soundsystem Pow Pow Movement '],
+Zürich,Shakuhachi-Konzert,2013-08-25,"['Ueli Fuyûru Derendinger ', ' Wolfgang Fuyûgen Hessler ', ' Dieter Zuishô Nanz ', ' Ursula Fuyûmi Schmidiger ', ' Jürg Fuyûzui Zurmühle ']",Classic
+Zürich,Kulturfestival-Integration,2013-08-25,"['Valéria Eva ', ' DJ Sampa ']",
+Fischingen,Orgelkonzert,2013-08-25,"['Christoph Wartenweiler ', ' Christine Esser ', ' Barbara Tillmann ']",Classic
+Thun,Bachwochen-Thun,2013-08-25,"[' Amel Brahim-Djelloul ', ' Christopher Ainslie ']",Classic
+Murten,Vokalmusik-Lamento-am-Kreuz,2013-08-25,"[' Elodie Kimmel ', ' Maria Riccarda Wesseling ', ' Jörg Ulrich Busch ']",Classic
+Steinberggasse,Winterthur,2013-08-25,"['Sportfreunde Stiller ', ' Casper ', ' Royal Republic ']",
+Kappel-am-Albis,Konzert,2013-08-25,"[' Monique Baumann ', ' Daniel Rüegg ']",Classic
+Winterthur,Nottys-Jug-Serenaders,2013-08-25,"[' Thomas Banholzer ', ' Andreas Dannenmayer ', ' Notker Homburger ']",Pop
+Bern,Option-Weg,2013-08-25,['Option weg '],
+null,Armin-Jordan-Festival,2013-08-25,"['Rosa Elvira Sierra ', ' Michele Govi ']",Classic
+Winterthur,Loom,2013-08-25,"[' Manu Olowu ', ' Mario Söldi ', ' Karin Schlegel ', ' Christof Schlegel ', ' Johannes Eberhard ']",Pop

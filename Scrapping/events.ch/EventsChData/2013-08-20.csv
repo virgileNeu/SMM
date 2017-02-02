@@ -1,10 +1,10 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-08-20,['Mark Tenger '],
-1,Luzern,Lucerne-Festival,2013-08-20,['Mitsuko Uchida '],Classic
-2,Aarau,Zauber-&-Bannsprüche-aus-alter-Zeit,2013-08-20,['Vokalensemble Putni '],Classic
-3,Pratteln,NOFX,2013-08-20,"['NOFX ', ' Barb Wire Dolls ']",
-4,null,Kammermusik-Streichquartett-II,2013-08-20,"[' Corinne Chapelle ', ' Rachel Rosina Späth ', ' Markus Fleck ', ' Andreas Fleck ']",Classic
-5,Zürich,Sommerkonzert,2013-08-20,[' Daniele Galaverna '],Classic
-6,Zürich,The-Drowning-Men,2013-08-20,['The Drowning Men '],Pop
-7,null,Sommernachtskonzert-Vier-Landessprachen,2013-08-20,"['Ines Schaffer ', ' Eric Cerantola ']",Classic
-8,Winterthur,Kristoffer-&-The-Harbour-Heads,2013-08-20,['Kristoffer & The Harbour Heads '],Pop
+location,event,date,artists,genre
+Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-08-20,['Mark Tenger '],
+Luzern,Lucerne-Festival,2013-08-20,['Mitsuko Uchida '],Classic
+Aarau,Zauber-&-Bannsprüche-aus-alter-Zeit,2013-08-20,['Vokalensemble Putni '],Classic
+Pratteln,NOFX,2013-08-20,"['NOFX ', ' Barb Wire Dolls ']",
+null,Kammermusik-Streichquartett-II,2013-08-20,"[' Corinne Chapelle ', ' Rachel Rosina Späth ', ' Markus Fleck ', ' Andreas Fleck ']",Classic
+Zürich,Sommerkonzert,2013-08-20,[' Daniele Galaverna '],Classic
+Zürich,The-Drowning-Men,2013-08-20,['The Drowning Men '],Pop
+null,Sommernachtskonzert-Vier-Landessprachen,2013-08-20,"['Ines Schaffer ', ' Eric Cerantola ']",Classic
+Winterthur,Kristoffer-&-The-Harbour-Heads,2013-08-20,['Kristoffer & The Harbour Heads '],Pop

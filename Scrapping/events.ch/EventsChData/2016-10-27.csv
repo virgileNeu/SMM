@@ -1,36 +1,36 @@
-,location,event,date,artists,genre
-0,Zürich,Festival-Faun,2016-10-27,[' Daniel Bisig '],Classic
-1,Zürich,Brazil-Nights-with-Rodrigo-Botter-Maio-&-Trio-de-Choro,2016-10-27,"['Rodrigo Botter Maio ', ' Edmauro de Oliveira ', ' Alejandro Panetta ']",
-2,Gelfingen,Cleopatra-barock,2016-10-27,[' Regula Mühlemann '],Classic
-3,Zürich,Zermatt-Unplugged-Kaufleuten,2016-10-27,"['Lianne La Havas ', ' Dudettes ', ' Emiliana Torrini ']",
-4,null,Wunderhorn-Wo-die-schönen-Trompeten-blasen,2016-10-27,['Adrian Eröd '],Classic
-5,Basel,Romeo-und-Julia,2016-10-27,[' Pekka Kuusisto '],Classic
-6,Zürich,Thursday-Night-Jazz,2016-10-27,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-7,Aarau,Metalmayhem,2016-10-27,"['Obscura ', ' Revocation ', ' Beyond Creation ', ' Rivers Of Nihil ']",
-8,Zürich,Orchestermagie,2016-10-27,[' Anja Harteros '],Classic
-9,Solothurn,Max-Raptor,2016-10-27,['Max Raptor '],
-10,Bern,Lucas-Marsand-Trio,2016-10-27,"[' Lucas Marsand ', ' Stefanie Burgener ', ' Jodok Vuille ']",Pop
-11,Zürich,Angel-Olsen,2016-10-27,"['Angel Olsen ', ' Little Wings ']",Pop
-12,Zürich,The-Mahones,2016-10-27,['The Mahones '],
-13,Zürich,The-Kills,2016-10-27,['The Kills '],
-14,null,Salut-c'est-cool,2016-10-27,"[""Salut c'est cool ""]",Pop
-15,null,Kate-Tempest,2016-10-27,['Kate Tempest '],
-16,null,Schwing,2016-10-27,['Jazzchor Freiburg '],
-17,Pratteln,Kissin-Dynamite,2016-10-27,['Kissin Dynamite '],
-18,Kloten,Julian-Dawson-und-Clare-Lindley-Fiddle-Ukulele-und-Vocal,2016-10-27,"['Julian Dawson ', ' ']",
-19,Winterthur,Blind-Summit,2016-10-27,"[' Stefan Pavelka ', ' Thomas Brühwiler ', ' Florian Kolb ', ' Erwin Boos ']",
-20,Wädenswil,Arianna-Savall-&-Petter-Udland-Johansen-&-Freitagsakademie-Bern,2016-10-27,"[' Arianna Savall ', ' Petter Udland Johansen ']",
-21,Baden,Tune-Up,2016-10-27,"[' Marc Reinhard ', ' Sigi Nikitscher ']",
-22,null,Madison-Violet,2016-10-27,['Madison Violet '],Pop
-23,Solothurn,Acoustic-Nights,2016-10-27,"['Tildon Krautz ', ' My Darling Clementine ']",
-24,Liebefeld,Martin-Dahanukar-New-Quartet,2016-10-27,"['Martin Dahanukar New Quartet ', ' Martin Dahanukar ', ' Michael Haudenschild ', ' Philipp Moll ', ' Willy Kotoun ']",
-25,Zürich,Rob-Mazurek-&-Sao-Paulo-Underground,2016-10-27,"[' Rob Mazurek ', ' Guilherme Granado ', ' Mauricio Takara ']",
-26,Aarau,Okta-Logue,2016-10-27,"['Okta Logue ', ' Fooks Nihil ']",
-27,Basel,Jazz-gegen-Apartheid-Frankfurt,2016-10-27,"[' Claude Deppa ', ' Tobias Delius ', ' Daniel Guggenheim ', ' Allen Jacobson ', ' Christopher Dell ', ' John Edwards ', ' Makaya Ntshoko ']",
-28,Zürich,Nils-Petter-Molvær,2016-10-27,"[' Nils Petter Molvær ', ' Geir Sundstol ', ' Jo Berger Myhre ', ' Erland Dahlen ']",
-29,Sankt-Gallen,Whitney,2016-10-27,"['Whitney ', ' Julia Jacklin ']",Pop
-30,Lausanne,Uncle-Acid-&-The-Deadbeats,2016-10-27,"['Uncle Acid & The Deadbeats ', ' Scorpion Child ']",
-31,Basel,All-Your-Sisters,2016-10-27,['All Your Sisters '],
-32,Basel,Nachtstrom-80,2016-10-27,"[' Claudio Puntin ', ' Max Loderbauer ', ' Samuel Rohrer ']",
-33,Zürich,Isolation-Berlin,2016-10-27,['Isolation Berlin '],Pop
-34,Zürich,Zermatt-Unplugged-Kaufleuten,2016-10-27,"['Chris de Burgh ', ' Jan Blomqvist & Band ']",Pop
+location,event,date,artists,genre
+Zürich,Festival-Faun,2016-10-27,[' Daniel Bisig '],Classic
+Zürich,Brazil-Nights-with-Rodrigo-Botter-Maio-&-Trio-de-Choro,2016-10-27,"['Rodrigo Botter Maio ', ' Edmauro de Oliveira ', ' Alejandro Panetta ']",
+Gelfingen,Cleopatra-barock,2016-10-27,[' Regula Mühlemann '],Classic
+Zürich,Zermatt-Unplugged-Kaufleuten,2016-10-27,"['Lianne La Havas ', ' Dudettes ', ' Emiliana Torrini ']",
+null,Wunderhorn-Wo-die-schönen-Trompeten-blasen,2016-10-27,['Adrian Eröd '],Classic
+Basel,Romeo-und-Julia,2016-10-27,[' Pekka Kuusisto '],Classic
+Zürich,Thursday-Night-Jazz,2016-10-27,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Aarau,Metalmayhem,2016-10-27,"['Obscura ', ' Revocation ', ' Beyond Creation ', ' Rivers Of Nihil ']",
+Zürich,Orchestermagie,2016-10-27,[' Anja Harteros '],Classic
+Solothurn,Max-Raptor,2016-10-27,['Max Raptor '],
+Bern,Lucas-Marsand-Trio,2016-10-27,"[' Lucas Marsand ', ' Stefanie Burgener ', ' Jodok Vuille ']",Pop
+Zürich,Angel-Olsen,2016-10-27,"['Angel Olsen ', ' Little Wings ']",Pop
+Zürich,The-Mahones,2016-10-27,['The Mahones '],
+Zürich,The-Kills,2016-10-27,['The Kills '],
+null,Salut-c'est-cool,2016-10-27,"[""Salut c'est cool ""]",Pop
+null,Kate-Tempest,2016-10-27,['Kate Tempest '],
+null,Schwing,2016-10-27,['Jazzchor Freiburg '],
+Pratteln,Kissin-Dynamite,2016-10-27,['Kissin Dynamite '],
+Kloten,Julian-Dawson-und-Clare-Lindley-Fiddle-Ukulele-und-Vocal,2016-10-27,"['Julian Dawson ', ' ']",
+Winterthur,Blind-Summit,2016-10-27,"[' Stefan Pavelka ', ' Thomas Brühwiler ', ' Florian Kolb ', ' Erwin Boos ']",
+Wädenswil,Arianna-Savall-&-Petter-Udland-Johansen-&-Freitagsakademie-Bern,2016-10-27,"[' Arianna Savall ', ' Petter Udland Johansen ']",
+Baden,Tune-Up,2016-10-27,"[' Marc Reinhard ', ' Sigi Nikitscher ']",
+null,Madison-Violet,2016-10-27,['Madison Violet '],Pop
+Solothurn,Acoustic-Nights,2016-10-27,"['Tildon Krautz ', ' My Darling Clementine ']",
+Liebefeld,Martin-Dahanukar-New-Quartet,2016-10-27,"['Martin Dahanukar New Quartet ', ' Martin Dahanukar ', ' Michael Haudenschild ', ' Philipp Moll ', ' Willy Kotoun ']",
+Zürich,Rob-Mazurek-&-Sao-Paulo-Underground,2016-10-27,"[' Rob Mazurek ', ' Guilherme Granado ', ' Mauricio Takara ']",
+Aarau,Okta-Logue,2016-10-27,"['Okta Logue ', ' Fooks Nihil ']",
+Basel,Jazz-gegen-Apartheid-Frankfurt,2016-10-27,"[' Claude Deppa ', ' Tobias Delius ', ' Daniel Guggenheim ', ' Allen Jacobson ', ' Christopher Dell ', ' John Edwards ', ' Makaya Ntshoko ']",
+Zürich,Nils-Petter-Molvær,2016-10-27,"[' Nils Petter Molvær ', ' Geir Sundstol ', ' Jo Berger Myhre ', ' Erland Dahlen ']",
+Sankt-Gallen,Whitney,2016-10-27,"['Whitney ', ' Julia Jacklin ']",Pop
+Lausanne,Uncle-Acid-&-The-Deadbeats,2016-10-27,"['Uncle Acid & The Deadbeats ', ' Scorpion Child ']",
+Basel,All-Your-Sisters,2016-10-27,['All Your Sisters '],
+Basel,Nachtstrom-80,2016-10-27,"[' Claudio Puntin ', ' Max Loderbauer ', ' Samuel Rohrer ']",
+Zürich,Isolation-Berlin,2016-10-27,['Isolation Berlin '],Pop
+Zürich,Zermatt-Unplugged-Kaufleuten,2016-10-27,"['Chris de Burgh ', ' Jan Blomqvist & Band ']",Pop

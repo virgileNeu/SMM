@@ -1,25 +1,25 @@
-,location,event,date,artists,genre
-0,Basel,Dear-Helmut,2013-07-11,"[' Samuel Oehy ', ' Matthias Schoch ']",Pop
-1,null,Jazz-Parade,2013-07-11,['Jive Aces & Rebecca Grant '],
-2,null,La-Coquille-et-le-Clergyman-Filmvertonung,2013-07-11,[' Film von Germaine Dulac '],Classic
-3,Luzern,Soulfly,2013-07-11,['Soulfly '],
-4,null,Jazz-Parade,2013-07-11,['Siga Volando '],
-5,Zürich,Wagner-Meets-Jazz,2013-07-11,"[' Gabriela Friedli ', ' Daniel Studer ', ' Dieter Ulrich ']",
-6,Bern,Baskenball,2013-07-11,[' Combat Wombat '],
-7,null,Flimser-Musikfestival,2013-07-11,"['Cécile Tacier ', ' Jan Biesterfeldt ']",Classic
-8,Zürich,Zigeunerkulturtage,2013-07-11,[' anschl. Film: Julianas Traum '],
-9,Montreux,Montreux-Jazz-Festival,2013-07-11,"['Grace Kelly Quintet ', ' Vijay Iyer Trio ']",
-10,Burghof-Lörrach,null,2013-07-11,"['Big Harp ', ' Lianne La Havas ']",
-11,Luzern,Salonmusik,2013-07-11,"['Martin Schaefer ', ' Richard Decker ']",Classic
-12,Montreux-Music-&-Convention-Centre,Montreux,2013-07-11,"['Ben Harper & Charlie Musselwhite ', ' Bonnie Raitt ']",
-13,Kongresshaus,Zürich,2013-07-11,['George Benson '],
-14,Winterthur,Lieder-aus-aller-Welt-Sommerkonzert,2013-07-11,"[' Jacqueline Stoop ', ' Danirl Schneider ']",Classic
-15,null,Régis-Gizavo,2013-07-11,['Régis Gizavo '],
-16,Montreux,Montreux-Jazz-Festival,2013-07-11,['Superpoze '],
-17,Dolder-Sports,Zürich,2013-07-11,['Bryan Adams '],
-18,The-Bird's-Eye-Jazz-Club,Basel,2013-07-11,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-19,Piazza-Grande,Locarno,2013-07-11,['Mark Knopfler '],
-20,Reussbühl,Lloyd-Williams-&-Patina,2013-07-11,['Lloyd Williams & Patina '],
-21,St.-Moritz,Festival-da-Jazz,2013-07-11,"['Osaka Monaurail ', ' Ryo Nakata ', ' Kentaro Yamagata ', ' Yohchi Masago ', ' Shimon Mukai ', ' Dan Hayami ', ' Yuichi Ikeda ', ' Dai Nakamura ', ' Soki Kimura ']",
-22,Luzern,Jam-Session,2013-07-11,['Richard Decker '],
-23,null,Jazz-Parade,2013-07-11,"['Jackson Sloan & The Rhythmtone ', ' Jackson Sloan ', ' Rick Dawson ', ' Richard Studholme ']",
+location,event,date,artists,genre
+Basel,Dear-Helmut,2013-07-11,"[' Samuel Oehy ', ' Matthias Schoch ']",Pop
+null,Jazz-Parade,2013-07-11,['Jive Aces & Rebecca Grant '],
+null,La-Coquille-et-le-Clergyman-Filmvertonung,2013-07-11,[' Film von Germaine Dulac '],Classic
+Luzern,Soulfly,2013-07-11,['Soulfly '],
+null,Jazz-Parade,2013-07-11,['Siga Volando '],
+Zürich,Wagner-Meets-Jazz,2013-07-11,"[' Gabriela Friedli ', ' Daniel Studer ', ' Dieter Ulrich ']",
+Bern,Baskenball,2013-07-11,[' Combat Wombat '],
+null,Flimser-Musikfestival,2013-07-11,"['Cécile Tacier ', ' Jan Biesterfeldt ']",Classic
+Zürich,Zigeunerkulturtage,2013-07-11,[' anschl. Film: Julianas Traum '],
+Montreux,Montreux-Jazz-Festival,2013-07-11,"['Grace Kelly Quintet ', ' Vijay Iyer Trio ']",
+Burghof-Lörrach,null,2013-07-11,"['Big Harp ', ' Lianne La Havas ']",
+Luzern,Salonmusik,2013-07-11,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Montreux-Music-&-Convention-Centre,Montreux,2013-07-11,"['Ben Harper & Charlie Musselwhite ', ' Bonnie Raitt ']",
+Kongresshaus,Zürich,2013-07-11,['George Benson '],
+Winterthur,Lieder-aus-aller-Welt-Sommerkonzert,2013-07-11,"[' Jacqueline Stoop ', ' Danirl Schneider ']",Classic
+null,Régis-Gizavo,2013-07-11,['Régis Gizavo '],
+Montreux,Montreux-Jazz-Festival,2013-07-11,['Superpoze '],
+Dolder-Sports,Zürich,2013-07-11,['Bryan Adams '],
+The-Bird's-Eye-Jazz-Club,Basel,2013-07-11,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
+Piazza-Grande,Locarno,2013-07-11,['Mark Knopfler '],
+Reussbühl,Lloyd-Williams-&-Patina,2013-07-11,['Lloyd Williams & Patina '],
+St.-Moritz,Festival-da-Jazz,2013-07-11,"['Osaka Monaurail ', ' Ryo Nakata ', ' Kentaro Yamagata ', ' Yohchi Masago ', ' Shimon Mukai ', ' Dan Hayami ', ' Yuichi Ikeda ', ' Dai Nakamura ', ' Soki Kimura ']",
+Luzern,Jam-Session,2013-07-11,['Richard Decker '],
+null,Jazz-Parade,2013-07-11,"['Jackson Sloan & The Rhythmtone ', ' Jackson Sloan ', ' Rick Dawson ', ' Richard Studholme ']",

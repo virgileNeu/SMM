@@ -1,16 +1,16 @@
-,location,event,date,artists,genre
-0,Zürich,Monte-Carlo,2016-10-03,['Monte Carlo '],Pop
-1,Frauenfeld,Conversations-with-the-Bass,2016-10-03,"[' Heiri Känzig ', ' Michael Zisman ']",
-2,Zürich,Liedrezital-Zürich,2016-10-03,"['Anke Vondung ', ' Christoph Berner ']",Classic
-3,Zürich,Warhaus,2016-10-03,"['Warhaus ', ' support: Echo Beatty ']",Pop
-4,Zürich,Ensemble-Pyramide,2016-10-03,[' Markus Brönnimann '],Classic
-5,Zürich,Happy-Monday,2016-10-03,"[' Gary Scot ', ' Ernst Wirz ', ' Chris Muzik ', ' Dave Koller ', ' Billy Wirz ', ' Hannes Würgler ']",
-6,Zürich,Spektrumkonzert-Pre-College,2016-10-03,[' Cobus Swanepoel '],Classic
-7,Zürich,Rabenschnur,2016-10-03,[' works by Margrit Schenker '],Classic
-8,Zürich,Nik-Bärtsch's-Ronin,2016-10-03,"[' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
-9,Zürich,Ben-Harper-&-The-Innocent-Criminals,2016-10-03,['Ben Harper & The Innocent Criminals '],
-10,null,Les-Insus,2016-10-03,['Les insus '],Pop
-11,Baden,Monoglot,2016-10-03,"[' Fabian Willmann ', ' Sebastian von Keler ', ' Kristinn Smári Kristinsson ', ' Florian Keller ', ' Luca Glausen ']",
-12,Zürich,Grant-Lee-Phillips,2016-10-03,['Grant-Lee Phillips '],Pop
-13,Winterthur,Thayer-Saranno,2016-10-03,['Thayer Saranno '],Pop
-14,Frauenfeld,Contemporary-Swiss-Jazz,2016-10-03,"[' Thierry Lang ', ' Heiri Känzig ', ' Andi Pupato ']",
+location,event,date,artists,genre
+Zürich,Monte-Carlo,2016-10-03,['Monte Carlo '],Pop
+Frauenfeld,Conversations-with-the-Bass,2016-10-03,"[' Heiri Känzig ', ' Michael Zisman ']",
+Zürich,Liedrezital-Zürich,2016-10-03,"['Anke Vondung ', ' Christoph Berner ']",Classic
+Zürich,Warhaus,2016-10-03,"['Warhaus ', ' support: Echo Beatty ']",Pop
+Zürich,Ensemble-Pyramide,2016-10-03,[' Markus Brönnimann '],Classic
+Zürich,Happy-Monday,2016-10-03,"[' Gary Scot ', ' Ernst Wirz ', ' Chris Muzik ', ' Dave Koller ', ' Billy Wirz ', ' Hannes Würgler ']",
+Zürich,Spektrumkonzert-Pre-College,2016-10-03,[' Cobus Swanepoel '],Classic
+Zürich,Rabenschnur,2016-10-03,[' works by Margrit Schenker '],Classic
+Zürich,Nik-Bärtsch's-Ronin,2016-10-03,"[' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
+Zürich,Ben-Harper-&-The-Innocent-Criminals,2016-10-03,['Ben Harper & The Innocent Criminals '],
+null,Les-Insus,2016-10-03,['Les insus '],Pop
+Baden,Monoglot,2016-10-03,"[' Fabian Willmann ', ' Sebastian von Keler ', ' Kristinn Smári Kristinsson ', ' Florian Keller ', ' Luca Glausen ']",
+Zürich,Grant-Lee-Phillips,2016-10-03,['Grant-Lee Phillips '],Pop
+Winterthur,Thayer-Saranno,2016-10-03,['Thayer Saranno '],Pop
+Frauenfeld,Contemporary-Swiss-Jazz,2016-10-03,"[' Thierry Lang ', ' Heiri Känzig ', ' Andi Pupato ']",

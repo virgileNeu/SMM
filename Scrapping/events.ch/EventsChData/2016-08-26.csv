@@ -1,26 +1,26 @@
-,location,event,date,artists,genre
-0,Glattbrugg,Zürich-Openair,2016-08-26,"['Massive Attack ', ' Editors ', ' Roisin Murphy ', ' Bloc Party ']",
-1,Basel,Roche'n'Jazz,2016-08-26,"[' Magno Alexandre ', ' Mike Eckroth ', ' Stephan Kurmann ', ' Julio Barreto ']",
-2,Arbon,Summerdays-Festival,2016-08-26,"['Simply Red ', ' Spider Murphy Gang ', ' Electric Light Orchestra by Phil Bates ', ' Level 42 ', ' Saga ']",Pop
-3,Zürich,Andy-Gruber-Band,2016-08-26,[' DJ Andy '],traditional
-4,Gränichen,Openair-Gränichen,2016-08-26,[' J.B.O. '],
-5,Basel,Fiamma-vorace,2016-08-26,"[' Flavio Ferri-Benedetti ', ' Markus Jans ']",Classic
-6,Basel,Orgelspiel-zum-Feierabend,2016-08-26,['Simon Reichert '],Classic
-7,Bad-Ragaz,Bar-Unterhaltung,2016-08-26,"['Jill Benz Combo ', ' Jill Benz ', ' Alan Rogers ', ' Bruce Roberts ', ' Eddie Davis ', ' Erwin Gieshaber ']",
-8,Luzern,Lucerne-Festival-Sinfoniekonzert-12,2016-08-26,[' Gabriela Montero '],Classic
-9,null,Musique-&-Famille-XVII-Späte-Wiener-Meisterwerke,2016-08-26,"['Isabelle Faust ', ' Jean-Guihen Queyras ', ' Alexander Melnikov ']",Classic
-10,Winterthur,Winterthurer-Musikfestwochen,2016-08-26,"['Irie Révoltés ', ' Dub FX ', ' Neonschwarz ']",
-11,Basel,Russenlaui-Russische-Musik-und-Dichtung,2016-08-26,"['Sebastian Mattmüller ', ' Beat Mattmüller ']",Classic
-12,Zürich,Winterthurer-Symphoniker,2016-08-26,['Rudolf Koelman '],Classic
-13,Winterthur,Ghost-Bath,2016-08-26,"['Ghost Bath ', ' Minsk ', ' Kowloon Walled City ', ' Thränenkind ']",
-14,Rheinfelden,Bogalusa-New-Orleans-Jazzband-(CH),2016-08-26,"['Jakob Etter ', ' Roland Solenthaler ', ' Jerry F. Gabriel ', ' Marcello Bona ', '  Roger Egger ', ' Martin Meyer ', ' Hansjörg Schaltenbrand ']",
-15,Zürich,Buck,2016-08-26,"['Christian Buck ', ' Christian Wolfarth ', ' Daniel Studer ', ' Christian Buck ']",Classic
-16,Zofingen,Moonlight-Festival-Die-grosse-Gala-der-Klassik,2016-08-26,"[' David Childs ', ' Rosa Elvira Sierra ']",Classic
-17,Bern,Küffer-Perrin-Pupato,2016-08-26,"[' Regula Kuffer ', ' Nick Perrin ', ' Andi Pupato ']",
-18,Kappel-am-Albis,Klosternacht,2016-08-26,"['Mariam Renno ', ' Elisabeth Berner ']",Classic
-19,null,Verdi-Openair-Wil,2016-08-26,"[' Sorin Coliban ', ' Nicole Bosshard ', ' Mona Somm ']",Classic
-20,null,Concert-&-Cinema-Ben-Hur,2016-08-26,[' Drama '],Classic
-21,Basel,Magno-Alexandre-&-Mike-Eckroth-Quartet,2016-08-26,"[' Magno Alexandre ', ' Mike Eckroth ', ' Stephan Kurmann ', ' Julio Barreto ']",
-22,Baden,Carmatango,2016-08-26,"['Carmatango ', ' Carlos Ramirez ', ' Marcelo Rossini ']",
-23,Chur,NoFuture,2016-08-26,"['Fabian Sgier ', ' Armin Candrian ', ' Samuel Schmid ', ' Andri Arpagaus ']",
-24,Zürich,Zürcher-Theater-Spektakel,2016-08-26,['Aynur '],
+location,event,date,artists,genre
+Glattbrugg,Zürich-Openair,2016-08-26,"['Massive Attack ', ' Editors ', ' Roisin Murphy ', ' Bloc Party ']",
+Basel,Roche'n'Jazz,2016-08-26,"[' Magno Alexandre ', ' Mike Eckroth ', ' Stephan Kurmann ', ' Julio Barreto ']",
+Arbon,Summerdays-Festival,2016-08-26,"['Simply Red ', ' Spider Murphy Gang ', ' Electric Light Orchestra by Phil Bates ', ' Level 42 ', ' Saga ']",Pop
+Zürich,Andy-Gruber-Band,2016-08-26,[' DJ Andy '],traditional
+Gränichen,Openair-Gränichen,2016-08-26,[' J.B.O. '],
+Basel,Fiamma-vorace,2016-08-26,"[' Flavio Ferri-Benedetti ', ' Markus Jans ']",Classic
+Basel,Orgelspiel-zum-Feierabend,2016-08-26,['Simon Reichert '],Classic
+Bad-Ragaz,Bar-Unterhaltung,2016-08-26,"['Jill Benz Combo ', ' Jill Benz ', ' Alan Rogers ', ' Bruce Roberts ', ' Eddie Davis ', ' Erwin Gieshaber ']",
+Luzern,Lucerne-Festival-Sinfoniekonzert-12,2016-08-26,[' Gabriela Montero '],Classic
+null,Musique-&-Famille-XVII-Späte-Wiener-Meisterwerke,2016-08-26,"['Isabelle Faust ', ' Jean-Guihen Queyras ', ' Alexander Melnikov ']",Classic
+Winterthur,Winterthurer-Musikfestwochen,2016-08-26,"['Irie Révoltés ', ' Dub FX ', ' Neonschwarz ']",
+Basel,Russenlaui-Russische-Musik-und-Dichtung,2016-08-26,"['Sebastian Mattmüller ', ' Beat Mattmüller ']",Classic
+Zürich,Winterthurer-Symphoniker,2016-08-26,['Rudolf Koelman '],Classic
+Winterthur,Ghost-Bath,2016-08-26,"['Ghost Bath ', ' Minsk ', ' Kowloon Walled City ', ' Thränenkind ']",
+Rheinfelden,Bogalusa-New-Orleans-Jazzband-(CH),2016-08-26,"['Jakob Etter ', ' Roland Solenthaler ', ' Jerry F. Gabriel ', ' Marcello Bona ', '  Roger Egger ', ' Martin Meyer ', ' Hansjörg Schaltenbrand ']",
+Zürich,Buck,2016-08-26,"['Christian Buck ', ' Christian Wolfarth ', ' Daniel Studer ', ' Christian Buck ']",Classic
+Zofingen,Moonlight-Festival-Die-grosse-Gala-der-Klassik,2016-08-26,"[' David Childs ', ' Rosa Elvira Sierra ']",Classic
+Bern,Küffer-Perrin-Pupato,2016-08-26,"[' Regula Kuffer ', ' Nick Perrin ', ' Andi Pupato ']",
+Kappel-am-Albis,Klosternacht,2016-08-26,"['Mariam Renno ', ' Elisabeth Berner ']",Classic
+null,Verdi-Openair-Wil,2016-08-26,"[' Sorin Coliban ', ' Nicole Bosshard ', ' Mona Somm ']",Classic
+null,Concert-&-Cinema-Ben-Hur,2016-08-26,[' Drama '],Classic
+Basel,Magno-Alexandre-&-Mike-Eckroth-Quartet,2016-08-26,"[' Magno Alexandre ', ' Mike Eckroth ', ' Stephan Kurmann ', ' Julio Barreto ']",
+Baden,Carmatango,2016-08-26,"['Carmatango ', ' Carlos Ramirez ', ' Marcelo Rossini ']",
+Chur,NoFuture,2016-08-26,"['Fabian Sgier ', ' Armin Candrian ', ' Samuel Schmid ', ' Andri Arpagaus ']",
+Zürich,Zürcher-Theater-Spektakel,2016-08-26,['Aynur '],

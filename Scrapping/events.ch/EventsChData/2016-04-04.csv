@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,Zürich,Lunchkonzert,2016-04-04,"['Keisuke Okazaki ', ' Anahit Kurtikyan ', ' Rumjana Naydenova ', ' Claudius Herrmann ']",Classic
-1,Zürich,Liederabend,2016-04-04,[' Anna Stéphany '],Classic
-2,Zürich,Alumni-Sinfonieorchester-Zürich,2016-04-04,['Andreas Janke '],Classic
-3,Zürich,Bossa-Nova-Trouvaillen,2016-04-04,"[' Nick Gutersohn ', ' Michael Bucher ', ' Herbert Kramis ']",
-4,Zürich,Nik-Bärtsch's-Ronin,2016-04-04,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
-5,Zürich,A-ha,2016-04-04,['A-ha '],Pop
-6,Zürich,Swingin'-Monday,2016-04-04,"[' Raphael Jost ', ' Raphael Walser ', ' Jonas Ruther ']",
-7,Zürich,Kygo,2016-04-04,['Kygo '],Electronic
-8,null,Motek,2016-04-04,"[' Kurt Söldi ', ' Alain v. Ritter ', ' J.-Pierre Dix ', ' Tobias Hunzuker ', ' Little Maze ']",
-9,Baden,The-Ghana-Cultural-Trio,2016-04-04,"[' Abraham K. Mensah ', ' Beda Ehrensperger ', ' Mike Larbi ']",Pop
-10,Zürich,Micah-P.-Hinson,2016-04-04,['Micah P. Hinson '],Pop
-11,Zürich,Artist-in-Residence-Alfred-Zimmerlin,2016-04-04,"[' Corina Schranz ', ' Harald Kimmig ', ' Alfred Zimmerlin ', ' Daniel Studer ', ' Christian Dierstein ']",
-12,Zürich,Scout-Niblett,2016-04-04,"['Scout Niblett ', ' Last Harbour ']",Pop
+location,event,date,artists,genre
+Zürich,Lunchkonzert,2016-04-04,"['Keisuke Okazaki ', ' Anahit Kurtikyan ', ' Rumjana Naydenova ', ' Claudius Herrmann ']",Classic
+Zürich,Liederabend,2016-04-04,[' Anna Stéphany '],Classic
+Zürich,Alumni-Sinfonieorchester-Zürich,2016-04-04,['Andreas Janke '],Classic
+Zürich,Bossa-Nova-Trouvaillen,2016-04-04,"[' Nick Gutersohn ', ' Michael Bucher ', ' Herbert Kramis ']",
+Zürich,Nik-Bärtsch's-Ronin,2016-04-04,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
+Zürich,A-ha,2016-04-04,['A-ha '],Pop
+Zürich,Swingin'-Monday,2016-04-04,"[' Raphael Jost ', ' Raphael Walser ', ' Jonas Ruther ']",
+Zürich,Kygo,2016-04-04,['Kygo '],Electronic
+null,Motek,2016-04-04,"[' Kurt Söldi ', ' Alain v. Ritter ', ' J.-Pierre Dix ', ' Tobias Hunzuker ', ' Little Maze ']",
+Baden,The-Ghana-Cultural-Trio,2016-04-04,"[' Abraham K. Mensah ', ' Beda Ehrensperger ', ' Mike Larbi ']",Pop
+Zürich,Micah-P.-Hinson,2016-04-04,['Micah P. Hinson '],Pop
+Zürich,Artist-in-Residence-Alfred-Zimmerlin,2016-04-04,"[' Corina Schranz ', ' Harald Kimmig ', ' Alfred Zimmerlin ', ' Daniel Studer ', ' Christian Dierstein ']",
+Zürich,Scout-Niblett,2016-04-04,"['Scout Niblett ', ' Last Harbour ']",Pop

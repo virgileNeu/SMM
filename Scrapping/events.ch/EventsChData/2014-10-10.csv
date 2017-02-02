@@ -1,40 +1,40 @@
-,location,event,date,artists,genre
-0,Zürich,Orgel-Einweihungskonzert,2014-10-10,"['Andreas Jost ', ' Tobias Willi ']",Classic
-1,Basel,Orgelspiel-zum-Feierabend,2014-10-10,['Cécile Mansuy '],Classic
-2,Dietikon,Feierabendmusik,2014-10-10,['Bernhard Hörler '],Classic
-3,Riehen,Ute-Lemper,2014-10-10,['Ute Lemper '],Pop
-4,Zürich,The-Brew,2014-10-10,['The Brew '],
-5,Zürich,Kammermusik-Konzert,2014-10-10,"['Gina Maria McGuinness ', ' Daniel Bron ', ' Benjamin Kammerer ']",Classic
-6,Zürich,Acoustic-Friday,2014-10-10,"[' Christof Mahnig ', ' Lukas Traxel ', ' Laurent Méteau ', ' Emanuel Künzi ']",
-7,Uster,Helix,2014-10-10,['Helix '],
-8,Basel,Danner-Krasnovska,2014-10-10,"[' Waltraud Danner ', ' Iryna Krasnovska ']",Pop
-9,Zürich,Trixie-Whitley,2014-10-10,['Trixie Whitley '],
-10,Solothurn,Black-Stone-Cherry,2014-10-10,['Black Stone Cherry '],
-11,Zürich,Harfe-Violine-Visuelles,2014-10-10,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-12,null,Charles-Aznavour,2014-10-10,['Charles Aznavour '],Pop
-13,Bülach,Swingin-Trombones,2014-10-10,"[' Danilo Moccia ', ' Paul Haag ', ' Peter Madsen ', ' Isla Eckinger ', ' Peter Schmidlin ']",
-14,Winterthur,Sauter-Schläppi,2014-10-10,"[' Tomas Sauter ', ' Daniel Schläppi ']",
-15,Zürich,Hofmann-Rofalski,2014-10-10,"['Hofmann-Rofalski ', ' Alex Hofmann ', ' Roman Rofalski ']",
-16,Zürich,Lars-Danielsson-Quartet,2014-10-10,"[' Lars Danielsson ', ' Yaron Herman ', ' Gustaf Ljunggren ', ' Xavier Desandre Navarre ']",Pop
-17,Basel,Johannes-Enders-Quartet-feat.-Billy-Hart,2014-10-10,"[' Johannes Enders ', ' Jean Paul Brodbeck ', ' Milan Nicolic ', ' Billy Hart ']",
-18,Zug,The-Fretless,2014-10-10,['The Fretless '],
-19,Liebefeld,Amagong,2014-10-10,['Amagong '],
-20,Zürich,Theo-Kapilidis,2014-10-10,"[' Theo Kapilidis ', ' Florian Egli ', ' Lukas Traxel ', ' Jonas Ruther ']",
-21,Aarau,Einar-Stray-Orchestra,2014-10-10,['Einar Stray Orchestra '],Pop
-22,Zürich,The-Aroostercrats,2014-10-10,['The Aroostercrats '],
-23,Romanshorn,Jörg-Enz-Organic-Trio,2014-10-10,"[' Jörg Enz ', ' Reinhold Hettich ', ' Jörg Bach ']",
-24,Zürich,Constant-Deviants,2014-10-10,"['Constant Deviants ', ' Rome ', ' One Speaker Supreme ']",
-25,Grenchen,Watchtown-Notes,2014-10-10,"[' Angela Hänni ', ' Francesco Michiché ', ' Guy Waechter ', ' Hans-Ruedi Nicklaus ', ' Tinu Oppliger ']",Pop
-26,Lausanne,Yann-Tiersen,2014-10-10,['Yann Tiersen '],
-27,Baden,Say-Yes-Dog,2014-10-10,['Say Yes Dog '],Pop
-28,null,Internationales-Gitarrenfestival-Fribourg,2014-10-10,['Nguyên Lè '],
-29,Aarau,Dubioza-Kolektiv,2014-10-10,['Dubioza Kolektiv '],
-30,Schaffhausen,Luka-Bloom,2014-10-10,['Luka Bloom '],Pop
-31,Zürich,Fuchigami-to-Funato,2014-10-10,['Fuchigami to Funato '],Pop
-32,Luzern,The-Fate,2014-10-10,['The Fate '],Pop
-33,Bern,Death-By-Chocolate,2014-10-10,['Death By Chocolate '],
-34,Wetzikon,Marcelo-Attie-&-Band,2014-10-10,['Marcelo Attie & Band '],
-35,Bern,Jake-Calypso-&-His-Red-Hot,2014-10-10,['Jake Calypso & His Red Hot '],
-36,Sankt-Gallen,Fenster,2014-10-10,['Fenster '],Pop
-37,Lyss,Chali-2na-of-Jurassic-5-(USA),2014-10-10,['Chali 2na of Jurassic 5 '],
-38,Pontresina,Voices-on-Top,2014-10-10,['Laurence Jones '],
+location,event,date,artists,genre
+Zürich,Orgel-Einweihungskonzert,2014-10-10,"['Andreas Jost ', ' Tobias Willi ']",Classic
+Basel,Orgelspiel-zum-Feierabend,2014-10-10,['Cécile Mansuy '],Classic
+Dietikon,Feierabendmusik,2014-10-10,['Bernhard Hörler '],Classic
+Riehen,Ute-Lemper,2014-10-10,['Ute Lemper '],Pop
+Zürich,The-Brew,2014-10-10,['The Brew '],
+Zürich,Kammermusik-Konzert,2014-10-10,"['Gina Maria McGuinness ', ' Daniel Bron ', ' Benjamin Kammerer ']",Classic
+Zürich,Acoustic-Friday,2014-10-10,"[' Christof Mahnig ', ' Lukas Traxel ', ' Laurent Méteau ', ' Emanuel Künzi ']",
+Uster,Helix,2014-10-10,['Helix '],
+Basel,Danner-Krasnovska,2014-10-10,"[' Waltraud Danner ', ' Iryna Krasnovska ']",Pop
+Zürich,Trixie-Whitley,2014-10-10,['Trixie Whitley '],
+Solothurn,Black-Stone-Cherry,2014-10-10,['Black Stone Cherry '],
+Zürich,Harfe-Violine-Visuelles,2014-10-10,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
+null,Charles-Aznavour,2014-10-10,['Charles Aznavour '],Pop
+Bülach,Swingin-Trombones,2014-10-10,"[' Danilo Moccia ', ' Paul Haag ', ' Peter Madsen ', ' Isla Eckinger ', ' Peter Schmidlin ']",
+Winterthur,Sauter-Schläppi,2014-10-10,"[' Tomas Sauter ', ' Daniel Schläppi ']",
+Zürich,Hofmann-Rofalski,2014-10-10,"['Hofmann-Rofalski ', ' Alex Hofmann ', ' Roman Rofalski ']",
+Zürich,Lars-Danielsson-Quartet,2014-10-10,"[' Lars Danielsson ', ' Yaron Herman ', ' Gustaf Ljunggren ', ' Xavier Desandre Navarre ']",Pop
+Basel,Johannes-Enders-Quartet-feat.-Billy-Hart,2014-10-10,"[' Johannes Enders ', ' Jean Paul Brodbeck ', ' Milan Nicolic ', ' Billy Hart ']",
+Zug,The-Fretless,2014-10-10,['The Fretless '],
+Liebefeld,Amagong,2014-10-10,['Amagong '],
+Zürich,Theo-Kapilidis,2014-10-10,"[' Theo Kapilidis ', ' Florian Egli ', ' Lukas Traxel ', ' Jonas Ruther ']",
+Aarau,Einar-Stray-Orchestra,2014-10-10,['Einar Stray Orchestra '],Pop
+Zürich,The-Aroostercrats,2014-10-10,['The Aroostercrats '],
+Romanshorn,Jörg-Enz-Organic-Trio,2014-10-10,"[' Jörg Enz ', ' Reinhold Hettich ', ' Jörg Bach ']",
+Zürich,Constant-Deviants,2014-10-10,"['Constant Deviants ', ' Rome ', ' One Speaker Supreme ']",
+Grenchen,Watchtown-Notes,2014-10-10,"[' Angela Hänni ', ' Francesco Michiché ', ' Guy Waechter ', ' Hans-Ruedi Nicklaus ', ' Tinu Oppliger ']",Pop
+Lausanne,Yann-Tiersen,2014-10-10,['Yann Tiersen '],
+Baden,Say-Yes-Dog,2014-10-10,['Say Yes Dog '],Pop
+null,Internationales-Gitarrenfestival-Fribourg,2014-10-10,['Nguyên Lè '],
+Aarau,Dubioza-Kolektiv,2014-10-10,['Dubioza Kolektiv '],
+Schaffhausen,Luka-Bloom,2014-10-10,['Luka Bloom '],Pop
+Zürich,Fuchigami-to-Funato,2014-10-10,['Fuchigami to Funato '],Pop
+Luzern,The-Fate,2014-10-10,['The Fate '],Pop
+Bern,Death-By-Chocolate,2014-10-10,['Death By Chocolate '],
+Wetzikon,Marcelo-Attie-&-Band,2014-10-10,['Marcelo Attie & Band '],
+Bern,Jake-Calypso-&-His-Red-Hot,2014-10-10,['Jake Calypso & His Red Hot '],
+Sankt-Gallen,Fenster,2014-10-10,['Fenster '],Pop
+Lyss,Chali-2na-of-Jurassic-5-(USA),2014-10-10,['Chali 2na of Jurassic 5 '],
+Pontresina,Voices-on-Top,2014-10-10,['Laurence Jones '],

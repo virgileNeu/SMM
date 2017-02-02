@@ -1,49 +1,49 @@
-,location,event,date,artists,genre
-0,Interlaken,Greenfield-Festival,2015-06-12,"['Millencolin ', ' Darkest Hour ']",
-1,Interlaken,Greenfield-Festival,2015-06-12,"['Motörhead ', ' In Flames ', ' In Extremo ', ' Airbourne ', ' Truckfighters ']",
-2,Basel,Masterrezital,2015-06-12,['Delphine Grataloup '],Classic
-3,Basel,Masterrezital,2015-06-12,['Alberto Rodriguez Herrero '],Classic
-4,Zürich,Rezital-Master-Specialized-Music-Performance-Orchesterinstrumente,2015-06-12,['Simon Verschraege '],Classic
-5,Basel,Masterrezital,2015-06-12,['Dario Herraiz Sabater '],Classic
-6,Basel,Masterrezital,2015-06-12,['Delphine Grataloup '],Classic
-7,Kriens,B-Sides-Festival,2015-06-12,"['Liima ', ' Dan Deacon ', ' Kevin Morby ', ' Laetitia Sheriff ']",Electronic
-8,null,Festi'neuch,2015-06-12,"['Rone ', ' Akua Naru ', ' Grand Blanc ']",
-9,null,Fatboy-Slim,2015-06-12,"['Fatboy Slim ', ' Texas ']",
-10,Basel,Imagine-Festival,2015-06-12,['Rebeka '],
-11,Bad-Ragaz,Quellrock-Openair,2015-06-12,['Donots '],
-12,Basel,Orgelspiel-zum-Feierabend,2015-06-12,['Ludwig Reichl '],Classic
-13,Basel,Imagine-Festival,2015-06-12,"['Moonlight Breakfast ', ' Phoria ', ' Palace ']",
-14,Dietikon,Feierabendmusik-in-der-Kirche,2015-06-12,['Bernhard Hörler '],Classic
-15,-Alte-Kirche,Boswil,2015-06-12,[' Lou Hägi '],Classic
-16,Dübendorf,In-vino-musica-Romantisches-Trio,2015-06-12,"['Johannes Platz ', ' Alexander Kutsenov ', ' Woo-Young Jung ']",Classic
-17,Stäfa,Gemeinsam-für-ein-Musikschulhaus,2015-06-12,"['Illya Buyalskyy ', ' Oleksandr Chugai ', ' Christoph Scheffelt ']",Classic
-18,Luzern,"Beethoven-""...wenn-der-grosse-Geist-zu-mir-spricht...""",2015-06-12,"[' Madelaine Wibom ', ' Barbara Erni ', ' Jakob Pilgram ', ' Peter Brechbühler ', ' Yvonne Lang ', ' Brigitte Lang ', ' Gerhard Pawlica ']",Classic
-19,Basel,Masterrezital,2015-06-12,"[""Alessandro D'Amico ""]",Classic
-20,Basel,Masterrezital,2015-06-12,['Delphine Grataloup '],Classic
-21,Bern,Antonini-und-Haydn,2015-06-12,[' Kristian Bezuidenhout '],Classic
-22,Winterthur,Thank-You-for-the-Music,2015-06-12,"[' Ivana Rusko ', ' Ján Rusko ', ' Annkatrin Isaacs ']",Classic
-23,Zürich,Kammermusik-Konzert,2015-06-12,"[' Saskia Hein ', ' Mihai Cocea ', ' Sara Franchini ']",Classic
-24,Zürich,Wenn-Träume-im-Krematorium-zu-atmen-beginnen,2015-06-12,"['Claudia van Acken ', ' Rebekka Ott ']",Classic
-25,Zürich,Kammermusik-Konzert,2015-06-12,"[' Saskia Hein ', ' Mihai Cocea ', ' Sara Franchini ']",Classic
-26,null,The-Swingin-Jazz-Circus,2015-06-12,"[' Dieter Studer ', '  Roman Brügger ', ' Dieter Schäfer  ', ' Bob Gelzer ', ' Christoph Horlacher  ']",
-27,Oberengstringen,Freeman-Känzig,2015-06-12,"[' Chico Freeman ', ' Heiri Känzig ']",
-28,Baden,Mozart-&-Mozart,2015-06-12,"['Moritz Roelcke ', ' Roman Blum ']",Classic
-29,Pratteln,Mother's-Finest,2015-06-12,"[""Mother's Finest ""]",
-30,Zürich,One-Republic,2015-06-12,['One Republic '],Pop
-31,Basel,Wenn-der-Blüten-Frühlingsregen,2015-06-12,"[' Gudrun Sidonie Otto ', ' Andrea Jäckle ']",Classic
-32,Thun,Bach-and-Beyond,2015-06-12,"['Harriet Krijgh ', ' Magda Amara ']",Classic
-33,null,Abrigada-Wiesendanger,2015-06-12,"[' Sarah Abrigada ', ' Chris Wiesendanger ']",
-34,Herrliberg,Stefis-Geheimnis,2015-06-12,"['Noëlle Grüebler ', ' Andrea Wiesli ']",Classic
-35,Bolligen,Fin-de-curo-Flamencotanz-La-Ursula,2015-06-12,"['Alfredo Palacios ', ' Pedro Navarro ']",
-36,Zürich,Henkel-Kulik-Loriot-Piromalli,2015-06-12,"[' Brad Henkel ', ' Sam Kulik ', ' Frantz Loriot ', ' Cédric Piromalli ']",
-37,Basel,Masterrezital,2015-06-12,['Csongor Szanto '],Classic
-38,Winterthur,Hello-Truffle,2015-06-12,"[' Matthias Wenger ', ' Nick Perrin ', ' Philipp Moll ', ' Christoph Steiner ']",
-39,Basel,Jovino-Santos-Neto-Trio,2015-06-12,"[' Jovino Santos Neto ', ' Stephan Kurmann ', ' Mauro Martins ']",
-40,Baden,Maja-&-The-Beats,2015-06-12,"[' Maja Doppler ', ' Isabelle Spesche ', ' Anja Tremp ', ' Christian Doppler ', ' Herbert Muff ', '  Jürg Strübi ', ' Andri Tremp ']",Pop
-41,Zürich,Sandra-Nkaké-&-Jî-Drû,2015-06-12,"[' Sandra Nkaké ', ' Ji Dru ']",Electronic
-42,Wädenswil,The-Black-Barons,2015-06-12,"[' Florian C. Roth ', ' Janos Szenogrady ', ' Niklaus Gehring Daniel ']",
-43,Vevey,Föllakzoid,2015-06-12,['Föllakzoid '],
-44,Lenzburg,Pablo-Infernal,2015-06-12,"[' Altin Asslani ', ' Fabio Schöni ', ' Flavio Scano ', ' Timo Meier ']",
-45,null,Loreley-&-Me,2015-06-12,['Loreley & Me '],
-46,Sankt-Gallen,Jeffrey-Lewis-&-The-Jrams,2015-06-12,['Jeffrey Lewis & The Jrams '],
-47,Zürich,Knor,2015-06-12,['Knor '],Electronic
+location,event,date,artists,genre
+Interlaken,Greenfield-Festival,2015-06-12,"['Millencolin ', ' Darkest Hour ']",
+Interlaken,Greenfield-Festival,2015-06-12,"['Motörhead ', ' In Flames ', ' In Extremo ', ' Airbourne ', ' Truckfighters ']",
+Basel,Masterrezital,2015-06-12,['Delphine Grataloup '],Classic
+Basel,Masterrezital,2015-06-12,['Alberto Rodriguez Herrero '],Classic
+Zürich,Rezital-Master-Specialized-Music-Performance-Orchesterinstrumente,2015-06-12,['Simon Verschraege '],Classic
+Basel,Masterrezital,2015-06-12,['Dario Herraiz Sabater '],Classic
+Basel,Masterrezital,2015-06-12,['Delphine Grataloup '],Classic
+Kriens,B-Sides-Festival,2015-06-12,"['Liima ', ' Dan Deacon ', ' Kevin Morby ', ' Laetitia Sheriff ']",Electronic
+null,Festi'neuch,2015-06-12,"['Rone ', ' Akua Naru ', ' Grand Blanc ']",
+null,Fatboy-Slim,2015-06-12,"['Fatboy Slim ', ' Texas ']",
+Basel,Imagine-Festival,2015-06-12,['Rebeka '],
+Bad-Ragaz,Quellrock-Openair,2015-06-12,['Donots '],
+Basel,Orgelspiel-zum-Feierabend,2015-06-12,['Ludwig Reichl '],Classic
+Basel,Imagine-Festival,2015-06-12,"['Moonlight Breakfast ', ' Phoria ', ' Palace ']",
+Dietikon,Feierabendmusik-in-der-Kirche,2015-06-12,['Bernhard Hörler '],Classic
+-Alte-Kirche,Boswil,2015-06-12,[' Lou Hägi '],Classic
+Dübendorf,In-vino-musica-Romantisches-Trio,2015-06-12,"['Johannes Platz ', ' Alexander Kutsenov ', ' Woo-Young Jung ']",Classic
+Stäfa,Gemeinsam-für-ein-Musikschulhaus,2015-06-12,"['Illya Buyalskyy ', ' Oleksandr Chugai ', ' Christoph Scheffelt ']",Classic
+Luzern,"Beethoven-""...wenn-der-grosse-Geist-zu-mir-spricht...""",2015-06-12,"[' Madelaine Wibom ', ' Barbara Erni ', ' Jakob Pilgram ', ' Peter Brechbühler ', ' Yvonne Lang ', ' Brigitte Lang ', ' Gerhard Pawlica ']",Classic
+Basel,Masterrezital,2015-06-12,"[""Alessandro D'Amico ""]",Classic
+Basel,Masterrezital,2015-06-12,['Delphine Grataloup '],Classic
+Bern,Antonini-und-Haydn,2015-06-12,[' Kristian Bezuidenhout '],Classic
+Winterthur,Thank-You-for-the-Music,2015-06-12,"[' Ivana Rusko ', ' Ján Rusko ', ' Annkatrin Isaacs ']",Classic
+Zürich,Kammermusik-Konzert,2015-06-12,"[' Saskia Hein ', ' Mihai Cocea ', ' Sara Franchini ']",Classic
+Zürich,Wenn-Träume-im-Krematorium-zu-atmen-beginnen,2015-06-12,"['Claudia van Acken ', ' Rebekka Ott ']",Classic
+Zürich,Kammermusik-Konzert,2015-06-12,"[' Saskia Hein ', ' Mihai Cocea ', ' Sara Franchini ']",Classic
+null,The-Swingin-Jazz-Circus,2015-06-12,"[' Dieter Studer ', '  Roman Brügger ', ' Dieter Schäfer  ', ' Bob Gelzer ', ' Christoph Horlacher  ']",
+Oberengstringen,Freeman-Känzig,2015-06-12,"[' Chico Freeman ', ' Heiri Känzig ']",
+Baden,Mozart-&-Mozart,2015-06-12,"['Moritz Roelcke ', ' Roman Blum ']",Classic
+Pratteln,Mother's-Finest,2015-06-12,"[""Mother's Finest ""]",
+Zürich,One-Republic,2015-06-12,['One Republic '],Pop
+Basel,Wenn-der-Blüten-Frühlingsregen,2015-06-12,"[' Gudrun Sidonie Otto ', ' Andrea Jäckle ']",Classic
+Thun,Bach-and-Beyond,2015-06-12,"['Harriet Krijgh ', ' Magda Amara ']",Classic
+null,Abrigada-Wiesendanger,2015-06-12,"[' Sarah Abrigada ', ' Chris Wiesendanger ']",
+Herrliberg,Stefis-Geheimnis,2015-06-12,"['Noëlle Grüebler ', ' Andrea Wiesli ']",Classic
+Bolligen,Fin-de-curo-Flamencotanz-La-Ursula,2015-06-12,"['Alfredo Palacios ', ' Pedro Navarro ']",
+Zürich,Henkel-Kulik-Loriot-Piromalli,2015-06-12,"[' Brad Henkel ', ' Sam Kulik ', ' Frantz Loriot ', ' Cédric Piromalli ']",
+Basel,Masterrezital,2015-06-12,['Csongor Szanto '],Classic
+Winterthur,Hello-Truffle,2015-06-12,"[' Matthias Wenger ', ' Nick Perrin ', ' Philipp Moll ', ' Christoph Steiner ']",
+Basel,Jovino-Santos-Neto-Trio,2015-06-12,"[' Jovino Santos Neto ', ' Stephan Kurmann ', ' Mauro Martins ']",
+Baden,Maja-&-The-Beats,2015-06-12,"[' Maja Doppler ', ' Isabelle Spesche ', ' Anja Tremp ', ' Christian Doppler ', ' Herbert Muff ', '  Jürg Strübi ', ' Andri Tremp ']",Pop
+Zürich,Sandra-Nkaké-&-Jî-Drû,2015-06-12,"[' Sandra Nkaké ', ' Ji Dru ']",Electronic
+Wädenswil,The-Black-Barons,2015-06-12,"[' Florian C. Roth ', ' Janos Szenogrady ', ' Niklaus Gehring Daniel ']",
+Vevey,Föllakzoid,2015-06-12,['Föllakzoid '],
+Lenzburg,Pablo-Infernal,2015-06-12,"[' Altin Asslani ', ' Fabio Schöni ', ' Flavio Scano ', ' Timo Meier ']",
+null,Loreley-&-Me,2015-06-12,['Loreley & Me '],
+Sankt-Gallen,Jeffrey-Lewis-&-The-Jrams,2015-06-12,['Jeffrey Lewis & The Jrams '],
+Zürich,Knor,2015-06-12,['Knor '],Electronic

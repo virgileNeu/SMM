@@ -1,25 +1,25 @@
-,location,event,date,artists,genre
-0,Baden,Accoustic-Blues-Drifter,2016-01-21,"[' Walt Baumgartner ', ' Joe Schwach ', ' Gianco Fucito ']",
-1,Basel,Unter-dem-Polarlicht,2016-01-21,"['Sofia Ahjoniemi ', ' Joonas Pitkänen ']",Classic
-2,Zürich,Gesprächskonzert,2016-01-21,"['Mauro Peter ', ' Michael Richter ']",Classic
-3,null,Tournee-III,2016-01-21,[' Zakir Hussain '],Classic
-4,Zürich,Thursday-Night-Jazz,2016-01-21,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-5,Bern,Musikkollegium-Winterthur,2016-01-21,"['Teo Gheorghiu ', ' conductor: Maurice Steger ']",Classic
-6,Basel,Bilder-einer-Ausstellung,2016-01-21,[' Sol Gabetta '],Classic
-7,null,William-The-Conqueror,2016-01-21,['William The Conqueror '],
-8,null,Che-Sudaka,2016-01-21,['Che Sudaka '],
-9,Liebefeld,BeJazz-Winterfestival,2016-01-21,[' Keita-Brönnimann-Niggli '],
-10,Zug,Battlefield-Band,2016-01-21,['Battlefield Band '],
-11,Zürich,Inside-Innocence,2016-01-21,"[' Omri Ziegele ', ' Yves Theiler ']",
-12,Zürich,Lura,2016-01-21,['Lura '],
-13,Zürich,Georges-Burki-Trio,2016-01-21,"[' Georges Burki ', ' Silvan Jeger ', ' Fredi Schmid ']",
-14,Luzern,Luicidal,2016-01-21,['Luicidal '],
-15,Winterthur,South-Quartet,2016-01-21,"[' Peer Baierlein ', ' Ull Möck ', ' Jens Loh ', ' Matthias Daneck ']",
-16,Baden,David-Brühwiler-Jazz-Quintet,2016-01-21,"[' Carlo Schöb ', ' Rainer Weber ', ' David Brühwiler ', ' Thomas Hiestand ', ' Richard Pechota ']",
-17,Solothurn,Acoustic-Nights,2016-01-21,['Bony King '],Pop
-18,Basel,Maurus-Twerenbold-Non-Harmonic-Quartet,2016-01-21,"[' Maurus Twerenbold ', ' Toni Amadeus Bechtold ', ' Lukas Traxel ', ' Daniel D-Flat Weber ']",
-19,Zürich,Michel-Benita-Ethics,2016-01-21,"[' Mathias Eick ', ' Eivind Aarset ', ' Michel Benita ', ' Mieko Miyazaki ', ' Philippe Garcia ']",
-20,Zürich,Berndsen,2016-01-21,['Berndsen '],Electronic
-21,Basel,Elzhi,2016-01-21,['Elzhi '],
-22,Winterthur,John-Gailo,2016-01-21,['John Gailo '],
-23,Lausanne,Walk-the-Line,2016-01-21,[' The Fakirs '],
+location,event,date,artists,genre
+Baden,Accoustic-Blues-Drifter,2016-01-21,"[' Walt Baumgartner ', ' Joe Schwach ', ' Gianco Fucito ']",
+Basel,Unter-dem-Polarlicht,2016-01-21,"['Sofia Ahjoniemi ', ' Joonas Pitkänen ']",Classic
+Zürich,Gesprächskonzert,2016-01-21,"['Mauro Peter ', ' Michael Richter ']",Classic
+null,Tournee-III,2016-01-21,[' Zakir Hussain '],Classic
+Zürich,Thursday-Night-Jazz,2016-01-21,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Bern,Musikkollegium-Winterthur,2016-01-21,"['Teo Gheorghiu ', ' conductor: Maurice Steger ']",Classic
+Basel,Bilder-einer-Ausstellung,2016-01-21,[' Sol Gabetta '],Classic
+null,William-The-Conqueror,2016-01-21,['William The Conqueror '],
+null,Che-Sudaka,2016-01-21,['Che Sudaka '],
+Liebefeld,BeJazz-Winterfestival,2016-01-21,[' Keita-Brönnimann-Niggli '],
+Zug,Battlefield-Band,2016-01-21,['Battlefield Band '],
+Zürich,Inside-Innocence,2016-01-21,"[' Omri Ziegele ', ' Yves Theiler ']",
+Zürich,Lura,2016-01-21,['Lura '],
+Zürich,Georges-Burki-Trio,2016-01-21,"[' Georges Burki ', ' Silvan Jeger ', ' Fredi Schmid ']",
+Luzern,Luicidal,2016-01-21,['Luicidal '],
+Winterthur,South-Quartet,2016-01-21,"[' Peer Baierlein ', ' Ull Möck ', ' Jens Loh ', ' Matthias Daneck ']",
+Baden,David-Brühwiler-Jazz-Quintet,2016-01-21,"[' Carlo Schöb ', ' Rainer Weber ', ' David Brühwiler ', ' Thomas Hiestand ', ' Richard Pechota ']",
+Solothurn,Acoustic-Nights,2016-01-21,['Bony King '],Pop
+Basel,Maurus-Twerenbold-Non-Harmonic-Quartet,2016-01-21,"[' Maurus Twerenbold ', ' Toni Amadeus Bechtold ', ' Lukas Traxel ', ' Daniel D-Flat Weber ']",
+Zürich,Michel-Benita-Ethics,2016-01-21,"[' Mathias Eick ', ' Eivind Aarset ', ' Michel Benita ', ' Mieko Miyazaki ', ' Philippe Garcia ']",
+Zürich,Berndsen,2016-01-21,['Berndsen '],Electronic
+Basel,Elzhi,2016-01-21,['Elzhi '],
+Winterthur,John-Gailo,2016-01-21,['John Gailo '],
+Lausanne,Walk-the-Line,2016-01-21,[' The Fakirs '],

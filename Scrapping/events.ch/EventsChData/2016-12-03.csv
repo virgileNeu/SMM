@@ -1,41 +1,41 @@
-,location,event,date,artists,genre
-0,Winterthur,Trio-Woodlander,2016-12-03,"[' Luzius Schuler ', ' Mats Spillmann ', ' Jonas Ruther ']",
-1,Zürich,Unger-üs-Famlienalbum,2016-12-03,"[' Isa Wiss ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-2,Bern,Meisterkonzert,2016-12-03,"['Sergei Nakariakov ', ' Maria Meerovitch ']",Classic
-3,Zürich,Marathon-der-Liebe-IOIC-Stummfilm-Festival,2016-12-03,['Sunrise '],Classic
-4,Bern,Raindrop-Singers-Konzert,2016-12-03,['Martin Jufe '],Classic
-5,null,Weihnachtsoratorium-I-III,2016-12-03,"['Meret Roth ', ' Ulrike Andersen ', ' Dieter Wagner ']",Classic
-6,Basel,La-noche-espanola,2016-12-03,"['Eva Wajsza ', ' Anna Leontinskaja ']",Classic
-7,Zürich,Ensemble-La-Volta,2016-12-03,"[' ""In 80 Minuten um die Welt"" ']",Classic
-8,Zürich,Chamber-Music,2016-12-03,"[' Dmitri Demiashkin ', ' Philippe Litzler ']",Classic
-9,Zürich,Adventskonzert,2016-12-03,[' Daniel Erni '],Classic
-10,Basel,Voices-In-the-Snow,2016-12-03,[' Pia Durandi '],Classic
-11,Zürich,Cigarettes-After-Sex,2016-12-03,"['Cigarettes After Sex ', ' support: Furniture ']",Pop
-12,null,Der-Stern-von-Bethlehem-und-weitere-Sternstunden,2016-12-03,"[' Saara Vainio ', ' René Perler ']",Classic
-13,Basel,Weihnachtskonzert,2016-12-03,"[' Sergio Marrini ', ' Iris Simon ', ' Igor Kombaratov ']",Classic
-14,Zürich,Glanz-und-Gloria,2016-12-03,"[' Nicolas Isabelle ', ' Bruno Fernandes ']",Classic
-15,Zürich,Bombay,2016-12-03,['Bombay '],
-16,Bülach,Adventskonzert,2016-12-03,"[' Diana Petrova ', ' Piotr Prochera ']",Classic
-17,Zürich,Marathon-der-Liebe-IOIC-Stummfilm-Festival,2016-12-03,"['Ménilmontant ', "" Brumes d'automne ""]",Classic
-18,null,Trust,2016-12-03,['Trust '],
-19,Winterthur,Volt-Fest,2016-12-03,"[' The Toasters ', ' Sewer Rats ']",
-20,null,Blues-Night,2016-12-03,"['Kyla Brox Band ', ' King King ']",
-21,Basel,Les-ménestrels-de-Marsac-Helena-Winkelman,2016-12-03,"['Janis Tretjuks', ' Helena Winkelman ', ' Timothy Crawford ', ' Manuel Hofer', ' Chiara Enderle ', ' Alasdair Beatson ']",Classic
-22,null,K-CAMP,2016-12-03,['K CAMP '],
-23,null,Maitre-Gims,2016-12-03,['Maitre Gims '],
-24,Zürich,Port,2016-12-03,"[' Oliver Keller ', ' Thomy Jordi ', ' Christian Niederer ']",
-25,Baden,Tonic-Strings,2016-12-03,"[' Toni Donadio ', ' Nic Niedermann ']",
-26,Basel,Alexandre-Cunha-&-Group,2016-12-03,"[' Ana Paula Moreti ', ' Marcelo Valezi ', ' Eduardo Gallian ', ' Ricardo Cren ', ' Bruno Coppini ', ' Alexandre Cunha ']",
-27,Uster,Hely,2016-12-03,"[' Lucca Fries ', ' Jonas Ruther ']",
-28,Aarburg,Neuroticfish,2016-12-03,['Neuroticfish '],Electronic
-29,Basel,Schmutzki,2016-12-03,['Schmutzki '],
-30,Zürich,Digitalism,2016-12-03,['Digitalism '],Electronic
-31,Rubigen,Ten-Years-After,2016-12-03,['Ten Years After '],
-32,Düdingen,Zombie-Zombie,2016-12-03,['Zombie Zombie '],Electronic
-33,Sankt-Gallen,Pat-Thomas-&-Kwashibu-Area-Band,2016-12-03,['Pat Thomas & Kwashibu Area Band '],
-34,Basel,Doppelkonzert,2016-12-03,"[' Eirik Dørsdal ', ' Elif Egecioglu ', ' Fabian M. Mueller ', ' Kaspar von Grünigen ', ' Jon Fält ']",
-35,Zug,Zuger-Shuger-6300,2016-12-03,['Zuger Shuger - 6300 '],
-36,Zürich,Private-Room,2016-12-03,"['DJs Maori ', ' Woodnox ']",
-37,Schaffhausen,Schlakks,2016-12-03,['Schlakks '],
-38,Lausanne,Les-urbaines,2016-12-03,"['Andrea Pensado ', ' Jiflure ']",
-39,Lausanne,Les-urbaines,2016-12-03,"['Shaddah Tuum ', ' Blood Music ', ' Jasss ']",
+location,event,date,artists,genre
+Winterthur,Trio-Woodlander,2016-12-03,"[' Luzius Schuler ', ' Mats Spillmann ', ' Jonas Ruther ']",
+Zürich,Unger-üs-Famlienalbum,2016-12-03,"[' Isa Wiss ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
+Bern,Meisterkonzert,2016-12-03,"['Sergei Nakariakov ', ' Maria Meerovitch ']",Classic
+Zürich,Marathon-der-Liebe-IOIC-Stummfilm-Festival,2016-12-03,['Sunrise '],Classic
+Bern,Raindrop-Singers-Konzert,2016-12-03,['Martin Jufe '],Classic
+null,Weihnachtsoratorium-I-III,2016-12-03,"['Meret Roth ', ' Ulrike Andersen ', ' Dieter Wagner ']",Classic
+Basel,La-noche-espanola,2016-12-03,"['Eva Wajsza ', ' Anna Leontinskaja ']",Classic
+Zürich,Ensemble-La-Volta,2016-12-03,"[' ""In 80 Minuten um die Welt"" ']",Classic
+Zürich,Chamber-Music,2016-12-03,"[' Dmitri Demiashkin ', ' Philippe Litzler ']",Classic
+Zürich,Adventskonzert,2016-12-03,[' Daniel Erni '],Classic
+Basel,Voices-In-the-Snow,2016-12-03,[' Pia Durandi '],Classic
+Zürich,Cigarettes-After-Sex,2016-12-03,"['Cigarettes After Sex ', ' support: Furniture ']",Pop
+null,Der-Stern-von-Bethlehem-und-weitere-Sternstunden,2016-12-03,"[' Saara Vainio ', ' René Perler ']",Classic
+Basel,Weihnachtskonzert,2016-12-03,"[' Sergio Marrini ', ' Iris Simon ', ' Igor Kombaratov ']",Classic
+Zürich,Glanz-und-Gloria,2016-12-03,"[' Nicolas Isabelle ', ' Bruno Fernandes ']",Classic
+Zürich,Bombay,2016-12-03,['Bombay '],
+Bülach,Adventskonzert,2016-12-03,"[' Diana Petrova ', ' Piotr Prochera ']",Classic
+Zürich,Marathon-der-Liebe-IOIC-Stummfilm-Festival,2016-12-03,"['Ménilmontant ', "" Brumes d'automne ""]",Classic
+null,Trust,2016-12-03,['Trust '],
+Winterthur,Volt-Fest,2016-12-03,"[' The Toasters ', ' Sewer Rats ']",
+null,Blues-Night,2016-12-03,"['Kyla Brox Band ', ' King King ']",
+Basel,Les-ménestrels-de-Marsac-Helena-Winkelman,2016-12-03,"['Janis Tretjuks', ' Helena Winkelman ', ' Timothy Crawford ', ' Manuel Hofer', ' Chiara Enderle ', ' Alasdair Beatson ']",Classic
+null,K-CAMP,2016-12-03,['K CAMP '],
+null,Maitre-Gims,2016-12-03,['Maitre Gims '],
+Zürich,Port,2016-12-03,"[' Oliver Keller ', ' Thomy Jordi ', ' Christian Niederer ']",
+Baden,Tonic-Strings,2016-12-03,"[' Toni Donadio ', ' Nic Niedermann ']",
+Basel,Alexandre-Cunha-&-Group,2016-12-03,"[' Ana Paula Moreti ', ' Marcelo Valezi ', ' Eduardo Gallian ', ' Ricardo Cren ', ' Bruno Coppini ', ' Alexandre Cunha ']",
+Uster,Hely,2016-12-03,"[' Lucca Fries ', ' Jonas Ruther ']",
+Aarburg,Neuroticfish,2016-12-03,['Neuroticfish '],Electronic
+Basel,Schmutzki,2016-12-03,['Schmutzki '],
+Zürich,Digitalism,2016-12-03,['Digitalism '],Electronic
+Rubigen,Ten-Years-After,2016-12-03,['Ten Years After '],
+Düdingen,Zombie-Zombie,2016-12-03,['Zombie Zombie '],Electronic
+Sankt-Gallen,Pat-Thomas-&-Kwashibu-Area-Band,2016-12-03,['Pat Thomas & Kwashibu Area Band '],
+Basel,Doppelkonzert,2016-12-03,"[' Eirik Dørsdal ', ' Elif Egecioglu ', ' Fabian M. Mueller ', ' Kaspar von Grünigen ', ' Jon Fält ']",
+Zug,Zuger-Shuger-6300,2016-12-03,['Zuger Shuger - 6300 '],
+Zürich,Private-Room,2016-12-03,"['DJs Maori ', ' Woodnox ']",
+Schaffhausen,Schlakks,2016-12-03,['Schlakks '],
+Lausanne,Les-urbaines,2016-12-03,"['Andrea Pensado ', ' Jiflure ']",
+Lausanne,Les-urbaines,2016-12-03,"['Shaddah Tuum ', ' Blood Music ', ' Jasss ']",

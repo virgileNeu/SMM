@@ -1,32 +1,32 @@
-,location,event,date,artists,genre
-0,Baden,After-Work-Live-Musik,2016-05-12,"[' Martin Locher ', ' Jörg Hauser ', ' Kasper Litschig ', ' Bruno Stutz ', ' Martin Meyer ']",
-1,Zürich,Walt's-Blues-Box,2016-05-12,"[' Walter Baumgartner ', ' Elias Bernet ', ' Andi Schmid ', ' Joel Allison ', ' Jörg Boots Stiefel ']",
-2,Zürich,Hotclub-de-Zurich,2016-05-12,"[' Andrea Panitz ', ' Franziska Rohner ', ' Jurij Drole ', ' Florent Kirchmeier ', ' Paul Buchmeier ']",
-3,Baden,Schlumpf+,2016-05-12,"['Christoph Grab ', ' Andreas Tschopp ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-4,Zürich,Keine-Sekunde-Leerlauf,2016-05-12,"[' Nils Mönkemeyer ', ' works by Dieter Ammann ']",Classic
-5,Zürich,Keine-Sekunde-Leerlauf,2016-05-12,"[' Nils Mönkemeyer ', ' works by Dieter Ammann ']",Classic
-6,Bern,Internationales-Jazzfestival-Bern,2016-05-12,['The Brubeck Brothers '],
-7,Aarau,Metalmayhem,2016-05-12,"['Rise of the Northstar ', ' GWLT ']",
-8,Luzern,Festival-Strings-Lucerne,2016-05-12,['Arabella Steinbacher '],Classic
-9,Zürich,Audiodelikt,2016-05-12,['Audiodelikt '],Pop
-10,Luzern,Dermot-Kennedy,2016-05-12,['Dermot Kennedy '],
-11,Pratteln,Metal-Church,2016-05-12,"['Metal Church ', ' Riot V ', ' Bliksem ', ' Distillator ']",
-12,Zürich,Muse,2016-05-12,['Muse '],
-13,null,The-Dandy-Warhols,2016-05-12,['The Dandy Warhols '],
-14,Kloten,Strings-Attached,2016-05-12,"[' Daniel Gubelmann ', ' Matthias Studer ', ' Mirco Häberli ']",
-15,null,Schicksalsmusik,2016-05-12,[' Martin Helmchen '],Classic
-16,Luzern,Erfahrung-und-Konzept-ins-Kreuz-nehmen,2016-05-12,"['Julianna Wetzel ', ' Peter Vögeli ', ' Nicola Katz ']",Classic
-17,Frauenfeld,Klavierstunde,2016-05-12,['Emanuel Helg '],Classic
-18,Winterthur,Hely,2016-05-12,"[' Lucca Fries ', ' Jonas Ruther ']",
-19,Zürich,Eclecta,2016-05-12,"['Eclecta ', ' Andrina Bollinger ', ' Marena Whitcher ']",Pop
-20,Bern,The-Creepshow,2016-05-12,['The Creepshow '],
-21,Baden,Bassic-Vibes,2016-05-12,"[' Erich Fischer ', ' Thomas Lähns ']",
-22,Bern,Benjamin-Yellowitz,2016-05-12,['Benjamin Yellowitz '],Pop
-23,Basel,Musikschule-Jazz-MSJ-Session,2016-05-12,"['Alain Veltin ', ' Michael Jeup ', ' Roberto Koch ', ' Philipp Gut ']",
-24,Liebefeld,Karnas-Formula,2016-05-12,"[' Grzegorz Karnas ', ' Florian Moebes ', ' Mariusz Praniewski ', ' Frederik Heisler ']",
-25,Baden,Hausquartett,2016-05-12,"[' Christoph Grab ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-26,Basel,Wintsch-Weber-Wolfarth,2016-05-12,"[' Michel Wintsch ', ' Christian Weber ', ' Christian Wolfarth ']",
-27,Zürich,Uzu,2016-05-12,"[' Ursula Bachmann ', ' Raphael Kalt ', ' Claude Stucki ', ' Mischa Frey ', ' Marcio de Sousa ', ' Karin Stucki ']",
-28,Zürich,Max-Prosa,2016-05-12,['Max Prosa '],Pop
-29,Zürich,Paws,2016-05-12,"['Paws ', ' Vague ']",
-30,Riehen,Jazzfestival-Basel,2016-05-12,"[' Viljay Iyer ', ' Cæcilie Norby ', ' Lars Danielsson ']",
+location,event,date,artists,genre
+Baden,After-Work-Live-Musik,2016-05-12,"[' Martin Locher ', ' Jörg Hauser ', ' Kasper Litschig ', ' Bruno Stutz ', ' Martin Meyer ']",
+Zürich,Walt's-Blues-Box,2016-05-12,"[' Walter Baumgartner ', ' Elias Bernet ', ' Andi Schmid ', ' Joel Allison ', ' Jörg Boots Stiefel ']",
+Zürich,Hotclub-de-Zurich,2016-05-12,"[' Andrea Panitz ', ' Franziska Rohner ', ' Jurij Drole ', ' Florent Kirchmeier ', ' Paul Buchmeier ']",
+Baden,Schlumpf+,2016-05-12,"['Christoph Grab ', ' Andreas Tschopp ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
+Zürich,Keine-Sekunde-Leerlauf,2016-05-12,"[' Nils Mönkemeyer ', ' works by Dieter Ammann ']",Classic
+Zürich,Keine-Sekunde-Leerlauf,2016-05-12,"[' Nils Mönkemeyer ', ' works by Dieter Ammann ']",Classic
+Bern,Internationales-Jazzfestival-Bern,2016-05-12,['The Brubeck Brothers '],
+Aarau,Metalmayhem,2016-05-12,"['Rise of the Northstar ', ' GWLT ']",
+Luzern,Festival-Strings-Lucerne,2016-05-12,['Arabella Steinbacher '],Classic
+Zürich,Audiodelikt,2016-05-12,['Audiodelikt '],Pop
+Luzern,Dermot-Kennedy,2016-05-12,['Dermot Kennedy '],
+Pratteln,Metal-Church,2016-05-12,"['Metal Church ', ' Riot V ', ' Bliksem ', ' Distillator ']",
+Zürich,Muse,2016-05-12,['Muse '],
+null,The-Dandy-Warhols,2016-05-12,['The Dandy Warhols '],
+Kloten,Strings-Attached,2016-05-12,"[' Daniel Gubelmann ', ' Matthias Studer ', ' Mirco Häberli ']",
+null,Schicksalsmusik,2016-05-12,[' Martin Helmchen '],Classic
+Luzern,Erfahrung-und-Konzept-ins-Kreuz-nehmen,2016-05-12,"['Julianna Wetzel ', ' Peter Vögeli ', ' Nicola Katz ']",Classic
+Frauenfeld,Klavierstunde,2016-05-12,['Emanuel Helg '],Classic
+Winterthur,Hely,2016-05-12,"[' Lucca Fries ', ' Jonas Ruther ']",
+Zürich,Eclecta,2016-05-12,"['Eclecta ', ' Andrina Bollinger ', ' Marena Whitcher ']",Pop
+Bern,The-Creepshow,2016-05-12,['The Creepshow '],
+Baden,Bassic-Vibes,2016-05-12,"[' Erich Fischer ', ' Thomas Lähns ']",
+Bern,Benjamin-Yellowitz,2016-05-12,['Benjamin Yellowitz '],Pop
+Basel,Musikschule-Jazz-MSJ-Session,2016-05-12,"['Alain Veltin ', ' Michael Jeup ', ' Roberto Koch ', ' Philipp Gut ']",
+Liebefeld,Karnas-Formula,2016-05-12,"[' Grzegorz Karnas ', ' Florian Moebes ', ' Mariusz Praniewski ', ' Frederik Heisler ']",
+Baden,Hausquartett,2016-05-12,"[' Christoph Grab ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
+Basel,Wintsch-Weber-Wolfarth,2016-05-12,"[' Michel Wintsch ', ' Christian Weber ', ' Christian Wolfarth ']",
+Zürich,Uzu,2016-05-12,"[' Ursula Bachmann ', ' Raphael Kalt ', ' Claude Stucki ', ' Mischa Frey ', ' Marcio de Sousa ', ' Karin Stucki ']",
+Zürich,Max-Prosa,2016-05-12,['Max Prosa '],Pop
+Zürich,Paws,2016-05-12,"['Paws ', ' Vague ']",
+Riehen,Jazzfestival-Basel,2016-05-12,"[' Viljay Iyer ', ' Cæcilie Norby ', ' Lars Danielsson ']",

@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,Basel,Mimiko-Blue-Prelude,2016-02-24,"['Pablo Barragan ', ' Maki Wiederkehr ']",Classic
-1,Zürich,Liederabend-Michael-Volle,2016-02-24,['Helmut Deutsch '],Classic
-2,Basel,Coop-Sinfoniekonzert,2016-02-24,[' Immanuel Richter '],Classic
-3,Bern,Camerata-Salzburg,2016-02-24,['Katia und Marielle Labèque '],Classic
-4,Palais-des-Congrès,null,2016-02-24,[' Boris Berezovsky '],Classic
-5,Zürich,Lilly-Wood-&-The-Prick,2016-02-24,['Lilly Wood & The Prick '],Pop
-6,Zürich,Stick-To-Your-Guns,2016-02-24,"['Stick To Your Guns ', ' Stray from the Path ', ' support: Counterparts ', ' Wolf Down ']",
-7,Zürich,Jazz-im-Seefeld,2016-02-24,"[' Eirik Dørsdal ', ' Anni Elif Egecioglu ', ' Fabian M. Mueller ', ' Kaspar von Grünigen ', ' Alex Huber ']",
-8,Zürich,Internationales-Country-Music-Festival,2016-02-24,['Texas Martha & The House of Twang '],
-9,Zürich,Abschied-und-Neuanfang,2016-02-24,[' Sol Gabetta '],Classic
-10,Winterthur,Howe-Gelb,2016-02-24,['Howe Gelb '],Pop
-11,Winterthur,Jazz-am-Mittwoch,2016-02-24,"[' Louis Billette ', ' Theo Duboule ', ' Gaspard Colin ', ' Clement Meunier ', ' Marton Kiss ']",
-12,Winterthur,Ghost-Town-Trio-feat.-Eiko,2016-02-24,"[' Eiko ', ' Urs Vögeli ', ' Claude Meier ', ' Lukas Mantel ']",
-13,Zürich,Jazzbaragge-Wednesday-Jam,2016-02-24,"['Marc Méan ', ' Fabien Iannone ', ' Paul Amereller ']",
-14,Basel,Daniel-Norgren,2016-02-24,['Daniel Norgren '],
-15,Basel,Maxwell-&-Keychee,2016-02-24,['Maxwell & Keychee '],
-16,Düdingen,Nova-Heart,2016-02-24,"['Nova Heart ', ' Bernholz ']",
+location,event,date,artists,genre
+Basel,Mimiko-Blue-Prelude,2016-02-24,"['Pablo Barragan ', ' Maki Wiederkehr ']",Classic
+Zürich,Liederabend-Michael-Volle,2016-02-24,['Helmut Deutsch '],Classic
+Basel,Coop-Sinfoniekonzert,2016-02-24,[' Immanuel Richter '],Classic
+Bern,Camerata-Salzburg,2016-02-24,['Katia und Marielle Labèque '],Classic
+Palais-des-Congrès,null,2016-02-24,[' Boris Berezovsky '],Classic
+Zürich,Lilly-Wood-&-The-Prick,2016-02-24,['Lilly Wood & The Prick '],Pop
+Zürich,Stick-To-Your-Guns,2016-02-24,"['Stick To Your Guns ', ' Stray from the Path ', ' support: Counterparts ', ' Wolf Down ']",
+Zürich,Jazz-im-Seefeld,2016-02-24,"[' Eirik Dørsdal ', ' Anni Elif Egecioglu ', ' Fabian M. Mueller ', ' Kaspar von Grünigen ', ' Alex Huber ']",
+Zürich,Internationales-Country-Music-Festival,2016-02-24,['Texas Martha & The House of Twang '],
+Zürich,Abschied-und-Neuanfang,2016-02-24,[' Sol Gabetta '],Classic
+Winterthur,Howe-Gelb,2016-02-24,['Howe Gelb '],Pop
+Winterthur,Jazz-am-Mittwoch,2016-02-24,"[' Louis Billette ', ' Theo Duboule ', ' Gaspard Colin ', ' Clement Meunier ', ' Marton Kiss ']",
+Winterthur,Ghost-Town-Trio-feat.-Eiko,2016-02-24,"[' Eiko ', ' Urs Vögeli ', ' Claude Meier ', ' Lukas Mantel ']",
+Zürich,Jazzbaragge-Wednesday-Jam,2016-02-24,"['Marc Méan ', ' Fabien Iannone ', ' Paul Amereller ']",
+Basel,Daniel-Norgren,2016-02-24,['Daniel Norgren '],
+Basel,Maxwell-&-Keychee,2016-02-24,['Maxwell & Keychee '],
+Düdingen,Nova-Heart,2016-02-24,"['Nova Heart ', ' Bernholz ']",

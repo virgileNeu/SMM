@@ -1,28 +1,28 @@
-,location,event,date,artists,genre
-0,Basel,Psalm-at-Journeys-End,2016-06-05,"[' László Fogarassy ', ' Cristina Gantolea Horvath ', ' Philippe Schnepp ', ' Christina Bauer ']",Classic
-1,Zürich,Festspiele-Zürich-Die-Kunst-des-Betrachtens,2016-06-05,"['Sabine Poyé Morel ', ' Michael Reid ', ' Rafael Rosenfeld ', ' Sarah Verrue ']",Classic
-2,Erschwil,Orgelduo-vierhändig,2016-06-05,"['Yeon-Jeong Müdespacher ', ' Klemens Schnorr ']",Classic
-3,Bern,Wunderkinder,2016-06-05,"[' Antje Weithaas ', ' Martin Helmchen ']",Classic
-4,Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-05,"['Robert Charlebois ', ' Jérôme Charlebois ']",Pop
-5,null,Sonntags-um-5,2016-06-05,"[' Dmitry Mishelovich ', ' Bakyt Bizhanov ', ' Stefanie Medeiros ', ' Fernando Gomes ', ' Polina Lubchanskaya ']",Classic
-6,Zürich,Händel-Amourös,2016-06-05,[' Maya Boog '],Classic
-7,Winterthur,Nah-am-Wasser,2016-06-05,"['Mélanie Adami ', ' Åsa Dornbusch ', ' Rahel Sohn ']",Classic
-8,Baden,Sommerkonzert,2016-06-05,['Sueye Park '],Classic
-9,Köniz,The-Beatles-B-Side,2016-06-05,"[' Andreas Renggli ', ' André Brügger ', '  Martin Kissling ']",Classic
-10,Basel,Choral-am-Ende-der-Reise,2016-06-05,"[' László Fogarassy ', ' Cristina Gantolea Horvath ', ' Philippe Schnepp ', ' Christina Bauer ']",Classic
-11,Basel,Brahms-und-Schumann,2016-06-05,"['Ola Sendecki ', ' Rena Kohara ', ' Lukas Raaflaub ', ' Mischa Sutter ']",Classic
-12,Luzern,Mnozil-Brass,2016-06-05,['Mnozil Brass '],
-13,Zug,Montaignelight,2016-06-05,"[' Julianna Wetzel ', ' Nicola Katz ', ' David Sontòn Caflisch ', ' Kaspar Wirz ']",Classic
-14,Zürich,Wintsch-Weber-Wolfarth,2016-06-05,"[' Michel Wintsch ', ' Christian Weber ', ' Christian Wolfarth ']",
-15,Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-05,['Ten Strings and a Goat Skin '],
-16,Basel,Epicycle-6,2016-06-05,['Ernesto Molinari '],Classic
-17,Zürich,The-Pianessence-Pool,2016-06-05,"['Petra Ronner ', ' works by Thomas Peter ', ' Annette Schmucki ', ' Michel Seigner ']",Classic
-18,Winterthur,Karasol,2016-06-05,"[' Karolina Trybala ', ' Silvio Schneider ']",
-19,Zürich,Barbarossa,2016-06-05,['Barbarossa '],
-20,Bern,David-Pedraza,2016-06-05,['David Pedraza '],Classic
-21,Paudex,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-05,['Yves Desroisers '],Pop
-22,Lutry,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-05,['Yves Desroisers '],Pop
-23,Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-05,['Natasha St-Pier '],Pop
-24,Basel,Sono-un-fumo,2016-06-05,[' Flavio Ferri-Benedetti '],Classic
-25,Winterthur,Lissie,2016-06-05,['Lissie '],Pop
-26,Lausanne,The-Space-Lady,2016-06-05,['The Space Lady '],Electronic
+location,event,date,artists,genre
+Basel,Psalm-at-Journeys-End,2016-06-05,"[' László Fogarassy ', ' Cristina Gantolea Horvath ', ' Philippe Schnepp ', ' Christina Bauer ']",Classic
+Zürich,Festspiele-Zürich-Die-Kunst-des-Betrachtens,2016-06-05,"['Sabine Poyé Morel ', ' Michael Reid ', ' Rafael Rosenfeld ', ' Sarah Verrue ']",Classic
+Erschwil,Orgelduo-vierhändig,2016-06-05,"['Yeon-Jeong Müdespacher ', ' Klemens Schnorr ']",Classic
+Bern,Wunderkinder,2016-06-05,"[' Antje Weithaas ', ' Martin Helmchen ']",Classic
+Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-05,"['Robert Charlebois ', ' Jérôme Charlebois ']",Pop
+null,Sonntags-um-5,2016-06-05,"[' Dmitry Mishelovich ', ' Bakyt Bizhanov ', ' Stefanie Medeiros ', ' Fernando Gomes ', ' Polina Lubchanskaya ']",Classic
+Zürich,Händel-Amourös,2016-06-05,[' Maya Boog '],Classic
+Winterthur,Nah-am-Wasser,2016-06-05,"['Mélanie Adami ', ' Åsa Dornbusch ', ' Rahel Sohn ']",Classic
+Baden,Sommerkonzert,2016-06-05,['Sueye Park '],Classic
+Köniz,The-Beatles-B-Side,2016-06-05,"[' Andreas Renggli ', ' André Brügger ', '  Martin Kissling ']",Classic
+Basel,Choral-am-Ende-der-Reise,2016-06-05,"[' László Fogarassy ', ' Cristina Gantolea Horvath ', ' Philippe Schnepp ', ' Christina Bauer ']",Classic
+Basel,Brahms-und-Schumann,2016-06-05,"['Ola Sendecki ', ' Rena Kohara ', ' Lukas Raaflaub ', ' Mischa Sutter ']",Classic
+Luzern,Mnozil-Brass,2016-06-05,['Mnozil Brass '],
+Zug,Montaignelight,2016-06-05,"[' Julianna Wetzel ', ' Nicola Katz ', ' David Sontòn Caflisch ', ' Kaspar Wirz ']",Classic
+Zürich,Wintsch-Weber-Wolfarth,2016-06-05,"[' Michel Wintsch ', ' Christian Weber ', ' Christian Wolfarth ']",
+Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-05,['Ten Strings and a Goat Skin '],
+Basel,Epicycle-6,2016-06-05,['Ernesto Molinari '],Classic
+Zürich,The-Pianessence-Pool,2016-06-05,"['Petra Ronner ', ' works by Thomas Peter ', ' Annette Schmucki ', ' Michel Seigner ']",Classic
+Winterthur,Karasol,2016-06-05,"[' Karolina Trybala ', ' Silvio Schneider ']",
+Zürich,Barbarossa,2016-06-05,['Barbarossa '],
+Bern,David-Pedraza,2016-06-05,['David Pedraza '],Classic
+Paudex,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-05,['Yves Desroisers '],Pop
+Lutry,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-05,['Yves Desroisers '],Pop
+Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2016-06-05,['Natasha St-Pier '],Pop
+Basel,Sono-un-fumo,2016-06-05,[' Flavio Ferri-Benedetti '],Classic
+Winterthur,Lissie,2016-06-05,['Lissie '],Pop
+Lausanne,The-Space-Lady,2016-06-05,['The Space Lady '],Electronic

@@ -1,21 +1,21 @@
-,location,event,date,artists,genre
-0,Bad-Ragaz,Festival-Next-Generation-Entdeckungen,2016-02-18,"['Anna Schultsz ', ' Mario Häring ', ' Pavle Krsti ']",Classic
-1,Zürich,Werner-und-Company,2016-02-18,['Werner und Company '],Pop
-2,Lausanne,Skunk-Anansie,2016-02-18,"['Skunk Anansie ', ' Bones ']",
-3,Uzwil,Emanuel-Reiter,2016-02-18,['Emanuel Reiter '],Pop
-4,Bern,Bruckners-Romantische,2016-02-18,[' Xavier De Maistre '],Classic
-5,Luzern,Busonis-Klaviermonument,2016-02-18,[' Kun-Woo Paik '],Classic
-6,Zürich,Internationales-Country-Music-Festival,2016-02-18,['Mark Blomsteel & Band '],
-7,Bad-Ragaz,Festival-Next-Generation-Sextette-zum-Sechsten,2016-02-18,"['Aaron Pilsan ', ' Marin Maras ', ' Ting-Ru Lai ', ' Ganna Lysenko ']",Classic
-8,Zürich,Lady-Sings-the-Blues,2016-02-18,"[' Christina Jaccard ', ' Christian Rösli ', ' Leombruni ', ' Steve Grant ']",
-9,Amriswil,Klartext,2016-02-18,['David Lang '],Pop
-10,Zürich,Junior-Boys,2016-02-18,"['Junior Boys ', ' Jessy Lanza ']",Electronic
-11,Zürich,Textures,2016-02-18,['Textures '],
-12,Zürich,Tapani-Varis-Collective,2016-02-18,['Tapani Varis Collective '],
-13,Aarburg,The-Quireboys,2016-02-18,['The Quireboys '],
-14,Zürich,Thomas-Lüthi's-Biwak,2016-02-18,"[""Thomas Lüthi's Biwak "", ' Thomas Lüthi ', ' Arne Huber ', ' Claudio Strüby ']",
-15,Aarau,Jon-Gomm,2016-02-18,"['Jon Gomm ', ' Kugler & Waloschik ']",
-16,Liebefeld,Bamert-Tschopp,2016-02-18,"['Bamert-Tschopp ', ' Bernhard Bamert ', ' Andreas Tschopp ']",
-17,Basel,Ten-Songs-About-Real-Utopia,2016-02-18,"[' Daniel Erdmann ', ' Vincent Courtois ', ' Frank Möbus ', ' Samuel Rohrer ']",
-18,Bern,MC-Melodee,2016-02-18,['MC Melodee '],
-19,Zürich,Sofa-Surfers,2016-02-18,"['Sofa Surfers ', ' visuals by Timo Novotny ']",Electronic
+location,event,date,artists,genre
+Bad-Ragaz,Festival-Next-Generation-Entdeckungen,2016-02-18,"['Anna Schultsz ', ' Mario Häring ', ' Pavle Krsti ']",Classic
+Zürich,Werner-und-Company,2016-02-18,['Werner und Company '],Pop
+Lausanne,Skunk-Anansie,2016-02-18,"['Skunk Anansie ', ' Bones ']",
+Uzwil,Emanuel-Reiter,2016-02-18,['Emanuel Reiter '],Pop
+Bern,Bruckners-Romantische,2016-02-18,[' Xavier De Maistre '],Classic
+Luzern,Busonis-Klaviermonument,2016-02-18,[' Kun-Woo Paik '],Classic
+Zürich,Internationales-Country-Music-Festival,2016-02-18,['Mark Blomsteel & Band '],
+Bad-Ragaz,Festival-Next-Generation-Sextette-zum-Sechsten,2016-02-18,"['Aaron Pilsan ', ' Marin Maras ', ' Ting-Ru Lai ', ' Ganna Lysenko ']",Classic
+Zürich,Lady-Sings-the-Blues,2016-02-18,"[' Christina Jaccard ', ' Christian Rösli ', ' Leombruni ', ' Steve Grant ']",
+Amriswil,Klartext,2016-02-18,['David Lang '],Pop
+Zürich,Junior-Boys,2016-02-18,"['Junior Boys ', ' Jessy Lanza ']",Electronic
+Zürich,Textures,2016-02-18,['Textures '],
+Zürich,Tapani-Varis-Collective,2016-02-18,['Tapani Varis Collective '],
+Aarburg,The-Quireboys,2016-02-18,['The Quireboys '],
+Zürich,Thomas-Lüthi's-Biwak,2016-02-18,"[""Thomas Lüthi's Biwak "", ' Thomas Lüthi ', ' Arne Huber ', ' Claudio Strüby ']",
+Aarau,Jon-Gomm,2016-02-18,"['Jon Gomm ', ' Kugler & Waloschik ']",
+Liebefeld,Bamert-Tschopp,2016-02-18,"['Bamert-Tschopp ', ' Bernhard Bamert ', ' Andreas Tschopp ']",
+Basel,Ten-Songs-About-Real-Utopia,2016-02-18,"[' Daniel Erdmann ', ' Vincent Courtois ', ' Frank Möbus ', ' Samuel Rohrer ']",
+Bern,MC-Melodee,2016-02-18,['MC Melodee '],
+Zürich,Sofa-Surfers,2016-02-18,"['Sofa Surfers ', ' visuals by Timo Novotny ']",Electronic

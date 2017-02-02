@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,Klosters,The-Creole-Clarinets-feat.-Denise-Gordon,2015-07-08,"["" Thomas L'Etienne "", ' ', ' Karel Algoed ', ' Norman Emberson ', ' Denise Gordon ']",
-1,Zürich,Jazz-Arcades,2015-07-08,"[' Rene Mosele ', ' Francois Lana ', ' Raphael Walser ']",
-2,null,Duo-Fun-Ta-Sa,2015-07-08,"[' Erwin Pfeifer ', ' Urs C. Eigenmann ']",Pop
-3,null,Apéro-Live,2015-07-08,['Simbiose '],
-4,Zürich,Zakhar-Bron-Chamber-Orchestra,2015-07-08,[' conductor: Zakhar Bron '],Classic
-5,Russikon,Potpourri-fantastico,2015-07-08,"[' Sylvie Dambrine ', ' Franziska Weibel ', ' Debora Klein Stecher ', ' Heiner Wanner ', ' Urs Hofstetter ']",Classic
-6,null,Galakonzert,2015-07-08,"['Anne-Sophie Mutter ', ' Lambert Orkis ']",Classic
-7,Locarno,Moon-and-Stars,2015-07-08,"['Sam Smith ', ' John Legend ']",Pop
-8,Pratteln,Gojira-Verschoben,2015-07-08,['Gojira '],
-9,Montreux,Montreux-Jazz-Festival,2015-07-08,"['Mary J. Blige ', "" D'Angelo and the Vanguard ""]",
-10,Montreux,Montreux-Jazz-Festival,2015-07-08,"['David Sanborn ', ' Alex Goodman ']",
-11,Zürich,Gengahr,2015-07-08,['Gengahr '],
-12,Basel,Jean-Paul-Brodbeck-Trio,2015-07-08,"[' Jean-Paul Brodbeck ', ' Matthias Pichler ', ' Andreas Pichler ']",
-13,Montreux,Montreux-Jazz-Festival,2015-07-08,"['George Ezra ', ' Monica Heldal ']",Pop
-14,Zürich,Live-at-Sunset,2015-07-08,['Tom Odell '],Pop
-15,null,Kulturfestival-St.-Gallen,2015-07-08,['Seth Lakeman '],
-16,Luzern,Bottega-Glitzer,2015-07-08,['Bottega Glitzer '],
+location,event,date,artists,genre
+Klosters,The-Creole-Clarinets-feat.-Denise-Gordon,2015-07-08,"["" Thomas L'Etienne "", ' ', ' Karel Algoed ', ' Norman Emberson ', ' Denise Gordon ']",
+Zürich,Jazz-Arcades,2015-07-08,"[' Rene Mosele ', ' Francois Lana ', ' Raphael Walser ']",
+null,Duo-Fun-Ta-Sa,2015-07-08,"[' Erwin Pfeifer ', ' Urs C. Eigenmann ']",Pop
+null,Apéro-Live,2015-07-08,['Simbiose '],
+Zürich,Zakhar-Bron-Chamber-Orchestra,2015-07-08,[' conductor: Zakhar Bron '],Classic
+Russikon,Potpourri-fantastico,2015-07-08,"[' Sylvie Dambrine ', ' Franziska Weibel ', ' Debora Klein Stecher ', ' Heiner Wanner ', ' Urs Hofstetter ']",Classic
+null,Galakonzert,2015-07-08,"['Anne-Sophie Mutter ', ' Lambert Orkis ']",Classic
+Locarno,Moon-and-Stars,2015-07-08,"['Sam Smith ', ' John Legend ']",Pop
+Pratteln,Gojira-Verschoben,2015-07-08,['Gojira '],
+Montreux,Montreux-Jazz-Festival,2015-07-08,"['Mary J. Blige ', "" D'Angelo and the Vanguard ""]",
+Montreux,Montreux-Jazz-Festival,2015-07-08,"['David Sanborn ', ' Alex Goodman ']",
+Zürich,Gengahr,2015-07-08,['Gengahr '],
+Basel,Jean-Paul-Brodbeck-Trio,2015-07-08,"[' Jean-Paul Brodbeck ', ' Matthias Pichler ', ' Andreas Pichler ']",
+Montreux,Montreux-Jazz-Festival,2015-07-08,"['George Ezra ', ' Monica Heldal ']",Pop
+Zürich,Live-at-Sunset,2015-07-08,['Tom Odell '],Pop
+null,Kulturfestival-St.-Gallen,2015-07-08,['Seth Lakeman '],
+Luzern,Bottega-Glitzer,2015-07-08,['Bottega Glitzer '],

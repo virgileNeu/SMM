@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Frauenfeld,Openair-Frauenfeld,2015-07-09,"['ASAP Rocky ', ' The Roots ', ' Jason Derulo ', ' ASD ', ' Travis Scott ', ' Kontra K ']",
-1,Frauenfeld,Openair-Frauenfeld,2015-07-09,"['C2C ', ' Marsimoto ', ' Die Antwoord ', ' Prhyme ', ' iLoveMakonnen ', ' Die Orsons ']",
-2,Frauenfeld,Openair-Frauenfeld,2015-07-09,"['Haftbefehl ', ' Your Old Droog ', ' Skepta ']",
-3,Zürich,Festspiele-Zürich-Shakespeare-in-Music,2015-07-09,"[' Nicky Spence ', ' Joseph Middleton ', ' Ivo Schmid ']",Classic
-4,Montreux,Montreux-Jazz-Festival,2015-07-09,"['Alabama Shakes ', ' Paolo Nutini ']",
-5,Montreux,Montreux-Jazz-Festival,2015-07-09,"['Lorenz Kellhuber ', ' Avishai Cohen ']",
-6,Zürich,Live-at-Sunset,2015-07-09,['ZZ Top '],
-7,Montreux,Montreux-Jazz-Festival,2015-07-09,"['Hudson Mohawke ', ' SBTRKT ', ' Jamie XX ']",Electronic
-8,Basel,Jean-Paul-Brodbeck-Trio,2015-07-09,"[' Jean-Paul Brodbeck ', ' Matthias Pichler ', ' Andreas Pichler ']",
-9,null,Kulturfestival-St.-Gallen,2015-07-09,['KAL '],
-10,Lugano,Estival-Jazz-Lugano,2015-07-09,"[' Marco Pacassoni ', ' Enzo Bocciero ', ' Lorenzo De Angeli ', ' Matteo Pantaleoni ']",
-11,St.-Moritz,Festival-da-Jazz,2015-07-09,"[' Lizz Wright ', ' Kenny Banks ', "" Nicholas D'Amato "", ' Brannen Temple ']",
-12,Zürich,Ratking,2015-07-09,['Ratking '],
-13,Zürich,Erlend-Øye-&-The-Rainbows,2015-07-09,['Erlend Øye & The Rainbows '],Pop
-14,Bern,Iroas,2015-07-09,['Iroas '],
-15,Zürich,Openair-Literatur-Festival-Zürich-Russland-sucht-das-Glück,2015-07-09,"['Hans Koch ', ' Flo Stoffner ', ' Paul Lovens ', ' Stummfilmvertonung von Das Glück ']",Classic
+location,event,date,artists,genre
+Frauenfeld,Openair-Frauenfeld,2015-07-09,"['ASAP Rocky ', ' The Roots ', ' Jason Derulo ', ' ASD ', ' Travis Scott ', ' Kontra K ']",
+Frauenfeld,Openair-Frauenfeld,2015-07-09,"['C2C ', ' Marsimoto ', ' Die Antwoord ', ' Prhyme ', ' iLoveMakonnen ', ' Die Orsons ']",
+Frauenfeld,Openair-Frauenfeld,2015-07-09,"['Haftbefehl ', ' Your Old Droog ', ' Skepta ']",
+Zürich,Festspiele-Zürich-Shakespeare-in-Music,2015-07-09,"[' Nicky Spence ', ' Joseph Middleton ', ' Ivo Schmid ']",Classic
+Montreux,Montreux-Jazz-Festival,2015-07-09,"['Alabama Shakes ', ' Paolo Nutini ']",
+Montreux,Montreux-Jazz-Festival,2015-07-09,"['Lorenz Kellhuber ', ' Avishai Cohen ']",
+Zürich,Live-at-Sunset,2015-07-09,['ZZ Top '],
+Montreux,Montreux-Jazz-Festival,2015-07-09,"['Hudson Mohawke ', ' SBTRKT ', ' Jamie XX ']",Electronic
+Basel,Jean-Paul-Brodbeck-Trio,2015-07-09,"[' Jean-Paul Brodbeck ', ' Matthias Pichler ', ' Andreas Pichler ']",
+null,Kulturfestival-St.-Gallen,2015-07-09,['KAL '],
+Lugano,Estival-Jazz-Lugano,2015-07-09,"[' Marco Pacassoni ', ' Enzo Bocciero ', ' Lorenzo De Angeli ', ' Matteo Pantaleoni ']",
+St.-Moritz,Festival-da-Jazz,2015-07-09,"[' Lizz Wright ', ' Kenny Banks ', "" Nicholas D'Amato "", ' Brannen Temple ']",
+Zürich,Ratking,2015-07-09,['Ratking '],
+Zürich,Erlend-Øye-&-The-Rainbows,2015-07-09,['Erlend Øye & The Rainbows '],Pop
+Bern,Iroas,2015-07-09,['Iroas '],
+Zürich,Openair-Literatur-Festival-Zürich-Russland-sucht-das-Glück,2015-07-09,"['Hans Koch ', ' Flo Stoffner ', ' Paul Lovens ', ' Stummfilmvertonung von Das Glück ']",Classic

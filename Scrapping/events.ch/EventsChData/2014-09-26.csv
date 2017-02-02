@@ -1,55 +1,55 @@
-,location,event,date,artists,genre
-0,Zürich,Monte-Carlo,2014-09-26,['Monte Carlo '],Pop
-1,Luzern,Piano-Entertainment,2014-09-26,['Christian Mettler '],Pop
-2,Basel,Orgelspiel-zum-Feierabend,2014-09-26,['Pascal Marsault '],Classic
-3,Zürich,City-Special-Naturklänge-traditionell-bis-jazzig,2014-09-26,"[' Franziska Wigger ', ' Hanspeter Wigger ', ' André Briel ']",
-4,Dietikon,Feierabendmusik,2014-09-26,"['Rita Share ', ' Jörg Frei ', ' Bernhard Hörler ']",
-5,Lyss,Carnage-Feast,2014-09-26,"['Grave ', ' Entombed A.D. ']",
-6,Liestal,Lucky-the-Girl,2014-09-26,[' Michèle Thommen '],Pop
-7,Wermatswil,Robi-Weber-Quartet-feat.-John-Service,2014-09-26,"[' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' John Service ']",
-8,Baden,Symphoniekonzert-Pathétique,2014-09-26,[' Nicolas Altstaedt '],Classic
-9,Winterthur,Nordlichter,2014-09-26,"[' Roberto González Monjas ', ' Pär Näsbom ', ' Jürg Dähler ', ' Cäcilia Chmel ']",Classic
-10,Basel,Ensemble-Spektrum-Carpe-diem,2014-09-26,"[' Marisa Waldburger ', ' Micaela Grau ', ' Dominique Gisler ', ' Ursula Hächler ']",Classic
-11,Zürich,Konzert,2014-09-26,[' Patricia Kopatchinskaja '],Classic
-12,null,Harfe-Violine-Visuelles,2014-09-26,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-13,Zürich,Öffentliches-Konzert-in-der-Mühlehalde,2014-09-26,"['Hiromi Gut ', ' Yanina de Pourtalès ']",Classic
-14,Luzern,World-Band-Festival-Gala-der-Volksmusik,2014-09-26,"[' Kurt Ott ', ' Markus Kühnis-Rivera ']",traditional
-15,Zürich,Chor-bewegt,2014-09-26,"[' Risch Biert ', ' Xaver Rüegg ', ' Rainer Fröhlich ']",Classic
-16,Zürich,Acoustic-Friday,2014-09-26,"[' Yumi Jacqueline Ito ', ' Alessandra Pittini ']",
-17,Zürich,Oriental-&-Flamenco-Gypsy-Festival,2014-09-26,"['Romano Drom ', ' Juan De Gloria ']",
-18,Rheinfelden,Dutch-Swing-College-Band,2014-09-26,"['Dutch Swing College Band ', ' Bob Kaper ', ' Keesjan Hoogeboom ', ' Maurits Woudenberg ']",
-19,Rheinfelden,Lamento-e-furore,2014-09-26,"[' Nuria Rial ', ' Naoki Kitaya ']",Classic
-20,Zürich,Kammerchor-Kaluga,2014-09-26,['Kammerchor Kaluga '],traditional
-21,Basel,Konstantin-Wecker,2014-09-26,['Konstantin Wecker '],Pop
-22,Zürich,Kollegah,2014-09-26,['Kollegah '],
-23,Liestal,Die-Weber,2014-09-26,['Stummfilm '],Classic
-24,Basel,Duo-Polar,2014-09-26,"[' Adrian Schaublin ', ' Felix Handschin ']",Electronic
-25,Winterthur,Musica-aperta-Unerwarteter-Verlauf,2014-09-26,"['Kornelia Bruggmann ', ' Egidius Streiff ', ' Max E. Keller ']",Classic
-26,Zürich,Linard-Bardill-&-Tubeschlagbänd,2014-09-26,"[' Gian Lorenz ', ' Tino Lorenz ', ' Michi Gertschen ', ' Peter Finc ', ' Linard Bardill ']",Pop
-27,null,Hardcore-Gas-Tour,2014-09-26,"['47 Million Dollars ', ' Don Gatto ']",
-28,Elgg,Herbstkonzert,2014-09-26,"[' Cécile Grüebler ', ' Anne Hinrichsen ']",Classic
-29,Bülach,Plenty-Rhythm-Plenty-Swing,2014-09-26,"[' Evan Christopher ', ' Denny Ilett jr. ', ' Dave Kelbie ', ' Sebastien Giradot ']",
-30,Zürich,Eichenberger-Widmer-Zimmerlin,2014-09-26,"[' Markus Eichenberger ', ' Jacques Widmer ', ' Alfred Zimmerlin ']",
-31,Aarau,Zodiac,2014-09-26,['Zodiac '],
-32,Zürich,Serenade,2014-09-26,"['Katja Bertschinger-Köppel ', ' Beat Schuler ']",Pop
-33,null,Adrift,2014-09-26,['Adrift '],
-34,Feuerthalen,Stephanie-Urbina-Jones,2014-09-26,['Stephanie Urbina Jones '],
-35,Zürich,Songs-from-Utopia,2014-09-26,"[' Rebekka Zarkava ', ' Jura Dolezal ']",
-36,Zürich,James-Gruntz,2014-09-26,"['James Gruntz ', ' James Gruntz ', ' Michel Spahr ', ' Roland Wäspe ', ' Severin Graf ', ' Maxime Paratte ']",Pop
-37,Basel,Stewart-Marshall-Quintet,2014-09-26,"[' Grant Stewart ', ' John Marshall ', ' Leo Lindberg ', ' Kenji Rabson ', ' Phil Stewart ']",
-38,Romanshorn,Sika-Lobi,2014-09-26,"[' Nathalie Maerten ', ' Tobias Degen ', ' Sandro Heule ', ' Florian Schneider ']",
-39,null,Richard-Galliano,2014-09-26,['Richard Galliano '],
-40,Grenchen,Bluez-Ballz-feat.-Roger-T.,2014-09-26,"[' Jan Bukacek ', ' Thomas L.C.Elsasser ', ' Roger T. ']",
-41,Zürich,This-Will-Destroy-You,2014-09-26,"['This Will Destroy You ', ' Support: Lymbyc Systym ']",
-42,Luzern,Tang,2014-09-26,['Tang '],
-43,Baden,Pasión-de-Buena-Vista,2014-09-26,['Pasión de Buena Vista '],
-44,Winterthur,Yob,2014-09-26,"['Yob ', ' Pallbearer ']",
-45,Schaffhausen,7th-Scottish-Folk-Night,2014-09-26,"['Breabach ', ' Maeve McKinnon Band ']",
-46,Kirchberg,Dynamite,2014-09-26,['Dynamite '],
-47,Luzern,Positive-Mind,2014-09-26,['Positive Mind '],
-48,Zürich,Tall-Tall-Trees,2014-09-26,['Tall Tall Trees '],
-49,null,Blandine-Robin,2014-09-26,['Blandine Robin '],Pop
-50,Basel,Götz-Widmann,2014-09-26,"['Götz Widmann ', ' Falk ']",Pop
-51,Bern,Motherkissers,2014-09-26,['Motherkissers '],
-52,Lausanne,Carl-Craig,2014-09-26,['DJs Carl Craig '],Electronic
-53,Bern,Doctor-Dru,2014-09-26,"['Doctor Dru ', ' Monte ']",Electronic
+location,event,date,artists,genre
+Zürich,Monte-Carlo,2014-09-26,['Monte Carlo '],Pop
+Luzern,Piano-Entertainment,2014-09-26,['Christian Mettler '],Pop
+Basel,Orgelspiel-zum-Feierabend,2014-09-26,['Pascal Marsault '],Classic
+Zürich,City-Special-Naturklänge-traditionell-bis-jazzig,2014-09-26,"[' Franziska Wigger ', ' Hanspeter Wigger ', ' André Briel ']",
+Dietikon,Feierabendmusik,2014-09-26,"['Rita Share ', ' Jörg Frei ', ' Bernhard Hörler ']",
+Lyss,Carnage-Feast,2014-09-26,"['Grave ', ' Entombed A.D. ']",
+Liestal,Lucky-the-Girl,2014-09-26,[' Michèle Thommen '],Pop
+Wermatswil,Robi-Weber-Quartet-feat.-John-Service,2014-09-26,"[' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' John Service ']",
+Baden,Symphoniekonzert-Pathétique,2014-09-26,[' Nicolas Altstaedt '],Classic
+Winterthur,Nordlichter,2014-09-26,"[' Roberto González Monjas ', ' Pär Näsbom ', ' Jürg Dähler ', ' Cäcilia Chmel ']",Classic
+Basel,Ensemble-Spektrum-Carpe-diem,2014-09-26,"[' Marisa Waldburger ', ' Micaela Grau ', ' Dominique Gisler ', ' Ursula Hächler ']",Classic
+Zürich,Konzert,2014-09-26,[' Patricia Kopatchinskaja '],Classic
+null,Harfe-Violine-Visuelles,2014-09-26,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
+Zürich,Öffentliches-Konzert-in-der-Mühlehalde,2014-09-26,"['Hiromi Gut ', ' Yanina de Pourtalès ']",Classic
+Luzern,World-Band-Festival-Gala-der-Volksmusik,2014-09-26,"[' Kurt Ott ', ' Markus Kühnis-Rivera ']",traditional
+Zürich,Chor-bewegt,2014-09-26,"[' Risch Biert ', ' Xaver Rüegg ', ' Rainer Fröhlich ']",Classic
+Zürich,Acoustic-Friday,2014-09-26,"[' Yumi Jacqueline Ito ', ' Alessandra Pittini ']",
+Zürich,Oriental-&-Flamenco-Gypsy-Festival,2014-09-26,"['Romano Drom ', ' Juan De Gloria ']",
+Rheinfelden,Dutch-Swing-College-Band,2014-09-26,"['Dutch Swing College Band ', ' Bob Kaper ', ' Keesjan Hoogeboom ', ' Maurits Woudenberg ']",
+Rheinfelden,Lamento-e-furore,2014-09-26,"[' Nuria Rial ', ' Naoki Kitaya ']",Classic
+Zürich,Kammerchor-Kaluga,2014-09-26,['Kammerchor Kaluga '],traditional
+Basel,Konstantin-Wecker,2014-09-26,['Konstantin Wecker '],Pop
+Zürich,Kollegah,2014-09-26,['Kollegah '],
+Liestal,Die-Weber,2014-09-26,['Stummfilm '],Classic
+Basel,Duo-Polar,2014-09-26,"[' Adrian Schaublin ', ' Felix Handschin ']",Electronic
+Winterthur,Musica-aperta-Unerwarteter-Verlauf,2014-09-26,"['Kornelia Bruggmann ', ' Egidius Streiff ', ' Max E. Keller ']",Classic
+Zürich,Linard-Bardill-&-Tubeschlagbänd,2014-09-26,"[' Gian Lorenz ', ' Tino Lorenz ', ' Michi Gertschen ', ' Peter Finc ', ' Linard Bardill ']",Pop
+null,Hardcore-Gas-Tour,2014-09-26,"['47 Million Dollars ', ' Don Gatto ']",
+Elgg,Herbstkonzert,2014-09-26,"[' Cécile Grüebler ', ' Anne Hinrichsen ']",Classic
+Bülach,Plenty-Rhythm-Plenty-Swing,2014-09-26,"[' Evan Christopher ', ' Denny Ilett jr. ', ' Dave Kelbie ', ' Sebastien Giradot ']",
+Zürich,Eichenberger-Widmer-Zimmerlin,2014-09-26,"[' Markus Eichenberger ', ' Jacques Widmer ', ' Alfred Zimmerlin ']",
+Aarau,Zodiac,2014-09-26,['Zodiac '],
+Zürich,Serenade,2014-09-26,"['Katja Bertschinger-Köppel ', ' Beat Schuler ']",Pop
+null,Adrift,2014-09-26,['Adrift '],
+Feuerthalen,Stephanie-Urbina-Jones,2014-09-26,['Stephanie Urbina Jones '],
+Zürich,Songs-from-Utopia,2014-09-26,"[' Rebekka Zarkava ', ' Jura Dolezal ']",
+Zürich,James-Gruntz,2014-09-26,"['James Gruntz ', ' James Gruntz ', ' Michel Spahr ', ' Roland Wäspe ', ' Severin Graf ', ' Maxime Paratte ']",Pop
+Basel,Stewart-Marshall-Quintet,2014-09-26,"[' Grant Stewart ', ' John Marshall ', ' Leo Lindberg ', ' Kenji Rabson ', ' Phil Stewart ']",
+Romanshorn,Sika-Lobi,2014-09-26,"[' Nathalie Maerten ', ' Tobias Degen ', ' Sandro Heule ', ' Florian Schneider ']",
+null,Richard-Galliano,2014-09-26,['Richard Galliano '],
+Grenchen,Bluez-Ballz-feat.-Roger-T.,2014-09-26,"[' Jan Bukacek ', ' Thomas L.C.Elsasser ', ' Roger T. ']",
+Zürich,This-Will-Destroy-You,2014-09-26,"['This Will Destroy You ', ' Support: Lymbyc Systym ']",
+Luzern,Tang,2014-09-26,['Tang '],
+Baden,Pasión-de-Buena-Vista,2014-09-26,['Pasión de Buena Vista '],
+Winterthur,Yob,2014-09-26,"['Yob ', ' Pallbearer ']",
+Schaffhausen,7th-Scottish-Folk-Night,2014-09-26,"['Breabach ', ' Maeve McKinnon Band ']",
+Kirchberg,Dynamite,2014-09-26,['Dynamite '],
+Luzern,Positive-Mind,2014-09-26,['Positive Mind '],
+Zürich,Tall-Tall-Trees,2014-09-26,['Tall Tall Trees '],
+null,Blandine-Robin,2014-09-26,['Blandine Robin '],Pop
+Basel,Götz-Widmann,2014-09-26,"['Götz Widmann ', ' Falk ']",Pop
+Bern,Motherkissers,2014-09-26,['Motherkissers '],
+Lausanne,Carl-Craig,2014-09-26,['DJs Carl Craig '],Electronic
+Bern,Doctor-Dru,2014-09-26,"['Doctor Dru ', ' Monte ']",Electronic

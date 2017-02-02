@@ -1,39 +1,39 @@
-,location,event,date,artists,genre
-0,Winterthur,A-Cyclothymia-of-Songs,2015-05-16,"[' Lander Gyselinck ', ' Corinne Huber ', ' Franziska Bruecker ', ' Annina Polivka ']",Electronic
-1,Basel,Masterrezital,2015-05-16,['Miguel Ángel García Martín '],Classic
-2,null,Throatruiner-Fest,2015-05-16,"[' Calvaiire ', ' Cowards ', ' Daggers ', ' Direwolves ', ' Nesseria ']",
-3,Basel,Masterrezital,2015-05-16,['Anna Tuena '],Classic
-4,Zürich,Klezmer-&-more,2015-05-16,"['Herry Schmitt ', ' Riccardo Angel-Peters ']",
-5,Luzern,Piano-Entertainment,2015-05-16,['Jozsef Sarkozy '],Classic
-6,Weggis,Anthony-Caputo,2015-05-16,['Anthony Caputo '],
-7,null,Audiofiasco,2015-05-16,['Audiofiasco '],
-8,Thun,Berner-Konzertorchester,2015-05-16,['Alexandre Dubach '],Classic
-9,Zürich,Rocky-Votolato,2015-05-16,['Rocky Votolato '],Pop
-10,Zug,Montlhy-Assault-Summer-Slam,2015-05-16,"['Disfigurement of Flesh ', ' Fleshless ', ' Congenital Anomalies ']",
-11,Zürich,Mysterium-der-Romantik,2015-05-16,['Aleksandra Mikulska '],Classic
-12,Luzern,Obrasso-Concert,2015-05-16,[' Jonas Kaufmann '],Classic
-13,Zürich,Zürcher-Symphoniker,2015-05-16,['Alexey Botvinov '],Classic
-14,Luzern,Star-Cross'd-Lovers,2015-05-16,"['Katia & Marielle Labèque ', ' Raphael Seguinier ', '\r\nGonzalo Grau ', ' David Chalmin ']",Classic
-15,Dornach,Konzert,2015-05-16,"[' Mathilde Krabbe ', ' Jorien de Tuinen ', ' Joris Boon ']",Classic
-16,Bern,Jean-Charnaux,2015-05-16,['Jean Charnaux '],
-17,Zürich,Seven,2015-05-16,['Seven '],
-18,Winterthur,Bröderna-Näsbom-&-Perry-Stenbäck,2015-05-16,['Bröderna Näsbom & Perry Stenbäck '],
-19,Köniz,Fusion-Square-Garden,2015-05-16,['Fusion Square Garden '],
-20,Baden,Éla-Éla,2015-05-16,"[' Bouzouki ', ' Nikos Papadopoulos ', '\r\nVincent Zurkinden ']",
-21,Zürich,Meklit,2015-05-16,"['Meklit ', ' Meklit ', ' Evan Flory-Barnes ', ' Lorca Hart ']",
-22,Solothurn,No-Fun-At-All,2015-05-16,['No Fun At All '],
-23,Basel,Nat-Su-Quartet,2015-05-16,"[' Nat Su ', ' Roberto Tarenzi ', ' Stephan Kurmann ', ' Norbert Pfammatter ']",
-24,Zürich,Husky,2015-05-16,['Husky '],Pop
-25,Lyss,Rejects-of-Society-Vol.-III,2015-05-16,"['Contingent Anonyme ', ' Curb Stomp ']",
-26,Baden,Royaler-Saisonabschluss,2015-05-16,"['Big John Bates ', ' Magnetix ']",
-27,Cham,Jared-James-Nichols,2015-05-16,['Jared James Nichols '],
-28,Buchs,Crying-Children,2015-05-16,['Crying Children '],
-29,Zürich,Anthony-B,2015-05-16,['Anthony B '],
-30,Basel,Sarah-MacDougall,2015-05-16,['Sarah MacDougall '],Pop
-31,Zürich,Attwenger,2015-05-16,['Attwenger '],traditional
-32,Aarau,Luk&Fil,2015-05-16,['Luk&Fil '],
-33,Düdingen,The-Warlocks,2015-05-16,['The Warlocks '],Electronic
-34,Zürich,Obey-Fiend-Club,2015-05-16,"['Dirty Fences ', ' DJs Keith Worthy ', ' Lefto ']",Electronic
-35,Bern,Ugly-Duckling,2015-05-16,['Ugly Duckling '],
-36,Bern,Akku-Quintet-Plays-Part-39-By-Don-Li,2015-05-16,"[' Thierry Lüthy ', ' Markus Ischer ', ' Maja Nydegger ', ' Andi Schnellmann ', ' Manuel Pasquinelli ']",
-37,Zürich,Raphael-Kalt-Quintet,2015-05-16,"[' Raphael Kalt ', ' Lukas Brügger ', ' Philipp Eden ', ' Misch Frey ', ' Alex Merz ']",
+location,event,date,artists,genre
+Winterthur,A-Cyclothymia-of-Songs,2015-05-16,"[' Lander Gyselinck ', ' Corinne Huber ', ' Franziska Bruecker ', ' Annina Polivka ']",Electronic
+Basel,Masterrezital,2015-05-16,['Miguel Ángel García Martín '],Classic
+null,Throatruiner-Fest,2015-05-16,"[' Calvaiire ', ' Cowards ', ' Daggers ', ' Direwolves ', ' Nesseria ']",
+Basel,Masterrezital,2015-05-16,['Anna Tuena '],Classic
+Zürich,Klezmer-&-more,2015-05-16,"['Herry Schmitt ', ' Riccardo Angel-Peters ']",
+Luzern,Piano-Entertainment,2015-05-16,['Jozsef Sarkozy '],Classic
+Weggis,Anthony-Caputo,2015-05-16,['Anthony Caputo '],
+null,Audiofiasco,2015-05-16,['Audiofiasco '],
+Thun,Berner-Konzertorchester,2015-05-16,['Alexandre Dubach '],Classic
+Zürich,Rocky-Votolato,2015-05-16,['Rocky Votolato '],Pop
+Zug,Montlhy-Assault-Summer-Slam,2015-05-16,"['Disfigurement of Flesh ', ' Fleshless ', ' Congenital Anomalies ']",
+Zürich,Mysterium-der-Romantik,2015-05-16,['Aleksandra Mikulska '],Classic
+Luzern,Obrasso-Concert,2015-05-16,[' Jonas Kaufmann '],Classic
+Zürich,Zürcher-Symphoniker,2015-05-16,['Alexey Botvinov '],Classic
+Luzern,Star-Cross'd-Lovers,2015-05-16,"['Katia & Marielle Labèque ', ' Raphael Seguinier ', '\r\nGonzalo Grau ', ' David Chalmin ']",Classic
+Dornach,Konzert,2015-05-16,"[' Mathilde Krabbe ', ' Jorien de Tuinen ', ' Joris Boon ']",Classic
+Bern,Jean-Charnaux,2015-05-16,['Jean Charnaux '],
+Zürich,Seven,2015-05-16,['Seven '],
+Winterthur,Bröderna-Näsbom-&-Perry-Stenbäck,2015-05-16,['Bröderna Näsbom & Perry Stenbäck '],
+Köniz,Fusion-Square-Garden,2015-05-16,['Fusion Square Garden '],
+Baden,Éla-Éla,2015-05-16,"[' Bouzouki ', ' Nikos Papadopoulos ', '\r\nVincent Zurkinden ']",
+Zürich,Meklit,2015-05-16,"['Meklit ', ' Meklit ', ' Evan Flory-Barnes ', ' Lorca Hart ']",
+Solothurn,No-Fun-At-All,2015-05-16,['No Fun At All '],
+Basel,Nat-Su-Quartet,2015-05-16,"[' Nat Su ', ' Roberto Tarenzi ', ' Stephan Kurmann ', ' Norbert Pfammatter ']",
+Zürich,Husky,2015-05-16,['Husky '],Pop
+Lyss,Rejects-of-Society-Vol.-III,2015-05-16,"['Contingent Anonyme ', ' Curb Stomp ']",
+Baden,Royaler-Saisonabschluss,2015-05-16,"['Big John Bates ', ' Magnetix ']",
+Cham,Jared-James-Nichols,2015-05-16,['Jared James Nichols '],
+Buchs,Crying-Children,2015-05-16,['Crying Children '],
+Zürich,Anthony-B,2015-05-16,['Anthony B '],
+Basel,Sarah-MacDougall,2015-05-16,['Sarah MacDougall '],Pop
+Zürich,Attwenger,2015-05-16,['Attwenger '],traditional
+Aarau,Luk&Fil,2015-05-16,['Luk&Fil '],
+Düdingen,The-Warlocks,2015-05-16,['The Warlocks '],Electronic
+Zürich,Obey-Fiend-Club,2015-05-16,"['Dirty Fences ', ' DJs Keith Worthy ', ' Lefto ']",Electronic
+Bern,Ugly-Duckling,2015-05-16,['Ugly Duckling '],
+Bern,Akku-Quintet-Plays-Part-39-By-Don-Li,2015-05-16,"[' Thierry Lüthy ', ' Markus Ischer ', ' Maja Nydegger ', ' Andi Schnellmann ', ' Manuel Pasquinelli ']",
+Zürich,Raphael-Kalt-Quintet,2015-05-16,"[' Raphael Kalt ', ' Lukas Brügger ', ' Philipp Eden ', ' Misch Frey ', ' Alex Merz ']",

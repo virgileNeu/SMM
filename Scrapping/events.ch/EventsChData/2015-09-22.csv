@@ -1,7 +1,7 @@
-,location,event,date,artists,genre
-0,Zürich,Gold-&-Silk,2015-09-22,[' Arkady Shilkloper '],Classic
-1,Aarau,Märchenhaft,2015-09-22,[' Louis Schwizgebel '],Classic
-2,Bern,Erfolg-&-Der-beste-Damenchor-aller-Zeiten,2015-09-22,['Erfolg & Der beste Damenchor aller Zeiten '],Pop
-3,Basel,Hans-Kennel-Alpensturm-15,2015-09-22,"[' Christa Hunziker ', ' Christine Michel-Tobler ', ' Rita Kalberer ', ' Gabriela Notter ', ' Hans Kenne ']",traditional
-4,Luzern,Lady-Nine-Plus-Five,2015-09-22,"[' Nina Reiter ', ' Richard Köster ', ' Martin Gasser ', ' Stephan Plecher ', ' Benjamin Zalud ', ' Peter Primus Frosch ']",
-5,Zürich,Atonal,2015-09-22,['Mei Zhi Yong '],
+location,event,date,artists,genre
+Zürich,Gold-&-Silk,2015-09-22,[' Arkady Shilkloper '],Classic
+Aarau,Märchenhaft,2015-09-22,[' Louis Schwizgebel '],Classic
+Bern,Erfolg-&-Der-beste-Damenchor-aller-Zeiten,2015-09-22,['Erfolg & Der beste Damenchor aller Zeiten '],Pop
+Basel,Hans-Kennel-Alpensturm-15,2015-09-22,"[' Christa Hunziker ', ' Christine Michel-Tobler ', ' Rita Kalberer ', ' Gabriela Notter ', ' Hans Kenne ']",traditional
+Luzern,Lady-Nine-Plus-Five,2015-09-22,"[' Nina Reiter ', ' Richard Köster ', ' Martin Gasser ', ' Stephan Plecher ', ' Benjamin Zalud ', ' Peter Primus Frosch ']",
+Zürich,Atonal,2015-09-22,['Mei Zhi Yong '],

@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment,2013-10-15,['Mark Tenger '],
-1,Zürich,Jazzapero,2013-10-15,"[' Jochen Baldes ', ' Adrian Frey ', ' Herbert Kramis ', ' Matthias Daneck ']",
-2,Zürich,Konzert,2013-10-15,[' Fabio di Càsola '],Classic
-3,Basel,De-la-musique-avant-toute-chose,2013-10-15,"['Christina Metz ', ' Reto Reichenbach ', ' Jessie Gu ']",Classic
-4,Zürich,Klavierrezital,2013-10-15,['Varvara '],Classic
-5,null,Da-Wang-Gang,2013-10-15,['Da Wang Gang '],
-6,Luzern,Siberian-Meat-Grinder,2013-10-15,['Siberian Meat Grinder '],
-7,Bern,Bored-Nothing,2013-10-15,['Bored Nothing '],
-8,Basel,Chaotic-moebius,2013-10-15,"['Flavio Virzì ', ' Simone Beneventi ']",Classic
-9,Luzern,Gernet-Büttiker-Leipold-Hammond-Trio,2013-10-15,"[' Samuel Leipold ', ' Lukas Gernet ', ' Samuel Büttiker ']",
-10,Basel,DKSJ-All-Star-Projekt,2013-10-15,"[' Marena Witcher ', ' Gery Szax ', ' Lukas Kohler ', ' Silvan Schmid ', ' Fortunat Häfliger ', ' Ingo Hipp ', ' Nino Wenger ', ' Fabian Willmann ', ' Pascal Übelhart ', ' Daniel Affentranger ', ' Maurus Twerenbold ', ' Marc Roos ', ' hosted by Hochschule für Musik Abteilung Jazz & Ohad Talmor ']",
-11,Lausanne,Gaël-Faye,2013-10-15,['Gaël Faye '],
-12,Zürich,Artist-in-Residence-Matthias-Spillmann,2013-10-15,"[' Robles Lauer feat. Ahmed Soura ', ' Matthias Spillmann ', ' Reto Suhner ', ' Marc Stucki ', ' Christian Weber ', ' Raffaele Bossard ', ' Dominic Egli ']",
-13,Zürich,Russian-Circles,2013-10-15,"['Russian Circles ', ' Chelsea Wolfe ']",Pop
-14,Zürich,Boho-Dancer,2013-10-15,['Boho Dancer '],Pop
-15,Liebefeld,Tuesday-Jam,2013-10-15,"['Till Grünewald ', ' Fabian Mueller ', ' Lorenz Beyeler ', ' Fabian Bürgi ']",
-16,Wetzikon,Negative-Standards,2013-10-15,"['Negative Standards ', ' Bacchus ']",
+location,event,date,artists,genre
+Luzern,Piano-Entertainment,2013-10-15,['Mark Tenger '],
+Zürich,Jazzapero,2013-10-15,"[' Jochen Baldes ', ' Adrian Frey ', ' Herbert Kramis ', ' Matthias Daneck ']",
+Zürich,Konzert,2013-10-15,[' Fabio di Càsola '],Classic
+Basel,De-la-musique-avant-toute-chose,2013-10-15,"['Christina Metz ', ' Reto Reichenbach ', ' Jessie Gu ']",Classic
+Zürich,Klavierrezital,2013-10-15,['Varvara '],Classic
+null,Da-Wang-Gang,2013-10-15,['Da Wang Gang '],
+Luzern,Siberian-Meat-Grinder,2013-10-15,['Siberian Meat Grinder '],
+Bern,Bored-Nothing,2013-10-15,['Bored Nothing '],
+Basel,Chaotic-moebius,2013-10-15,"['Flavio Virzì ', ' Simone Beneventi ']",Classic
+Luzern,Gernet-Büttiker-Leipold-Hammond-Trio,2013-10-15,"[' Samuel Leipold ', ' Lukas Gernet ', ' Samuel Büttiker ']",
+Basel,DKSJ-All-Star-Projekt,2013-10-15,"[' Marena Witcher ', ' Gery Szax ', ' Lukas Kohler ', ' Silvan Schmid ', ' Fortunat Häfliger ', ' Ingo Hipp ', ' Nino Wenger ', ' Fabian Willmann ', ' Pascal Übelhart ', ' Daniel Affentranger ', ' Maurus Twerenbold ', ' Marc Roos ', ' hosted by Hochschule für Musik Abteilung Jazz & Ohad Talmor ']",
+Lausanne,Gaël-Faye,2013-10-15,['Gaël Faye '],
+Zürich,Artist-in-Residence-Matthias-Spillmann,2013-10-15,"[' Robles Lauer feat. Ahmed Soura ', ' Matthias Spillmann ', ' Reto Suhner ', ' Marc Stucki ', ' Christian Weber ', ' Raffaele Bossard ', ' Dominic Egli ']",
+Zürich,Russian-Circles,2013-10-15,"['Russian Circles ', ' Chelsea Wolfe ']",Pop
+Zürich,Boho-Dancer,2013-10-15,['Boho Dancer '],Pop
+Liebefeld,Tuesday-Jam,2013-10-15,"['Till Grünewald ', ' Fabian Mueller ', ' Lorenz Beyeler ', ' Fabian Bürgi ']",
+Wetzikon,Negative-Standards,2013-10-15,"['Negative Standards ', ' Bacchus ']",

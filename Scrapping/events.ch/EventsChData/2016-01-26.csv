@@ -1,11 +1,11 @@
-,location,event,date,artists,genre
-0,Zürich,Jazzapero,2016-01-26,"[' Toni Donadio ', ' Moreno Donadio ', ' Urs Wäckerli ', ' Thomas Hirt ']",
-1,Zürich,Zürcher-Kammerorchester,2016-01-26,['Oliver Schnyder '],Classic
-2,Basel,C.-Coin-G.-Gharabekyan-&-Kammerorchester-I-TEMPI,2016-01-26,[' Christophe Coin '],Classic
-3,Zürich,Naturally-7,2016-01-26,['Naturally 7 '],Pop
-4,Zürich,Jeremih-abgesagt,2016-01-26,['Jeremih '],
-5,null,Abokonzert-SOL,2016-01-26,['Andrei Ionita '],Classic
-6,Pratteln,Therapy-,2016-01-26,['Therapy? '],
-7,Basel,Masaa,2016-01-26,"[' Rabih Lahoud ', ' Marcus Rust ', ' Clemens Pötzsc ', ' Demian Kappenstein ']",
-8,Bern,G.-Rag-&-Zelig-Implosion,2016-01-26,['G. Rag & Zelig Implosion '],
-9,Zürich,Turbo-Niglo-Trio,2016-01-26,['Turbo Niglo Trio '],
+location,event,date,artists,genre
+Zürich,Jazzapero,2016-01-26,"[' Toni Donadio ', ' Moreno Donadio ', ' Urs Wäckerli ', ' Thomas Hirt ']",
+Zürich,Zürcher-Kammerorchester,2016-01-26,['Oliver Schnyder '],Classic
+Basel,C.-Coin-G.-Gharabekyan-&-Kammerorchester-I-TEMPI,2016-01-26,[' Christophe Coin '],Classic
+Zürich,Naturally-7,2016-01-26,['Naturally 7 '],Pop
+Zürich,Jeremih-abgesagt,2016-01-26,['Jeremih '],
+null,Abokonzert-SOL,2016-01-26,['Andrei Ionita '],Classic
+Pratteln,Therapy-,2016-01-26,['Therapy? '],
+Basel,Masaa,2016-01-26,"[' Rabih Lahoud ', ' Marcus Rust ', ' Clemens Pötzsc ', ' Demian Kappenstein ']",
+Bern,G.-Rag-&-Zelig-Implosion,2016-01-26,['G. Rag & Zelig Implosion '],
+Zürich,Turbo-Niglo-Trio,2016-01-26,['Turbo Niglo Trio '],

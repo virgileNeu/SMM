@@ -1,12 +1,12 @@
-,location,event,date,artists,genre
-0,Brunnen,Klassischer-Tangoabend-mit-Showtanz,2013-03-25,"['Alexander Neustroev ', ' Oleg Lips ']",Classic
-1,KKL,Luzern,2013-03-25,['Dianne Reeves '],
-2,Zürich,Spektrum-Klavierquartett,2013-03-25,"[' Fabio di Càsola ', ' Kamilla Schatz ', ' Pi-Chin Chien ', ' Benjamin Engeli ']",Classic
-3,Zürich,Konzert,2013-03-25,['Jacob Katsnelson '],Classic
-4,Flawil,Q-tett,2013-03-25,"[' Michael Neff ', ' Erwin Pfeifer ', ' Urs C. Eigenmann ', ' Pino Buoro ', ' Nicole Aravena ']",Pop
-5,Bar-Tantpis,Zürich,2013-03-25,"['Roberto Bossard ', ' Hämi Hämmerli ', ' Alberto Canonico ']",
-6,Basel,Absolut-Trio,2013-03-25,"['Bettina Boller ', ' Judith Gerster ', ' Stefka Perifanova ']",Classic
-7,Baden,Daniel-Blanc-Quartet,2013-03-25,"[' Daniel Blanc ', ' Walter Jauslin ', ' Giorgos Antoniou ', ' Michael Wipf ']",
-8,Basel,Swans,2013-03-25,"['Swans ', ' support: Xiu Xiu ']",
-9,Zürich,No-Reduce,2013-03-25,"[' Christoph Irniger ', ' Dave Gisler ', ' Raffaele Bossard ', ' Nasheet Waits ']",
-10,null,Syndrome,2013-03-25,['Syndrome '],
+location,event,date,artists,genre
+Brunnen,Klassischer-Tangoabend-mit-Showtanz,2013-03-25,"['Alexander Neustroev ', ' Oleg Lips ']",Classic
+KKL,Luzern,2013-03-25,['Dianne Reeves '],
+Zürich,Spektrum-Klavierquartett,2013-03-25,"[' Fabio di Càsola ', ' Kamilla Schatz ', ' Pi-Chin Chien ', ' Benjamin Engeli ']",Classic
+Zürich,Konzert,2013-03-25,['Jacob Katsnelson '],Classic
+Flawil,Q-tett,2013-03-25,"[' Michael Neff ', ' Erwin Pfeifer ', ' Urs C. Eigenmann ', ' Pino Buoro ', ' Nicole Aravena ']",Pop
+Bar-Tantpis,Zürich,2013-03-25,"['Roberto Bossard ', ' Hämi Hämmerli ', ' Alberto Canonico ']",
+Basel,Absolut-Trio,2013-03-25,"['Bettina Boller ', ' Judith Gerster ', ' Stefka Perifanova ']",Classic
+Baden,Daniel-Blanc-Quartet,2013-03-25,"[' Daniel Blanc ', ' Walter Jauslin ', ' Giorgos Antoniou ', ' Michael Wipf ']",
+Basel,Swans,2013-03-25,"['Swans ', ' support: Xiu Xiu ']",
+Zürich,No-Reduce,2013-03-25,"[' Christoph Irniger ', ' Dave Gisler ', ' Raffaele Bossard ', ' Nasheet Waits ']",
+null,Syndrome,2013-03-25,['Syndrome '],

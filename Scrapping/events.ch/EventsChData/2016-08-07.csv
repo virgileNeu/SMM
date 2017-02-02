@@ -1,8 +1,8 @@
-,location,event,date,artists,genre
-0,-Alte-Kirche,Boswil,2016-08-07,[' Christina Daletska '],Classic
-1,Gstaad,Abschlusskonzert-Amateurorchesterwoche,2016-08-07,['Damir Durmanovic '],Classic
-2,Pratteln,River-Nights,2016-08-07,"['Ronan Keating ', ' Charlie Winston ', ' Nneka ']",Pop
-3,Saanen,B-B-B-Das-Berlin-Konzert-12.-April-1929,2016-08-07,"['Ji Young Lim ', ' Yu-Chien Tseng ']",Classic
-4,Verbier,Verbier-Festival,2016-08-07,[' Nathalie Stutzmann '],Classic
-5,Saanen,Late-Night,2016-08-07,['Gilles Apap '],Classic
-6,St.-Moritz,Festival-da-Jazz,2016-08-07,"['Othella Dallas ', ' Othella Dallas ', ' Alex Hendriksen ', ' Hannes Bürgi ', ' Ueli Gasser ', ' Michael Chylewski ', ' Lukas Gasser ']",
+location,event,date,artists,genre
+-Alte-Kirche,Boswil,2016-08-07,[' Christina Daletska '],Classic
+Gstaad,Abschlusskonzert-Amateurorchesterwoche,2016-08-07,['Damir Durmanovic '],Classic
+Pratteln,River-Nights,2016-08-07,"['Ronan Keating ', ' Charlie Winston ', ' Nneka ']",Pop
+Saanen,B-B-B-Das-Berlin-Konzert-12.-April-1929,2016-08-07,"['Ji Young Lim ', ' Yu-Chien Tseng ']",Classic
+Verbier,Verbier-Festival,2016-08-07,[' Nathalie Stutzmann '],Classic
+Saanen,Late-Night,2016-08-07,['Gilles Apap '],Classic
+St.-Moritz,Festival-da-Jazz,2016-08-07,"['Othella Dallas ', ' Othella Dallas ', ' Alex Hendriksen ', ' Hannes Bürgi ', ' Ueli Gasser ', ' Michael Chylewski ', ' Lukas Gasser ']",

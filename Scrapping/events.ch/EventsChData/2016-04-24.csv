@@ -1,22 +1,22 @@
-,location,event,date,artists,genre
-0,Zürich,Andy-Gruber-Band,2016-04-24,['Andy Gruber Band '],traditional
-1,Zürich,Dvorák-Festkonzert,2016-04-24,[' István Várdai '],Classic
-2,Zürich,Andy-Gruber-Band,2016-04-24,['Andy Gruber Band '],traditional
-3,Fischingen,Reise-durch-Musik-Dimensionen,2016-04-24,"[' Maki Wiederkehr ', ' Daniel Meller ', ' Flurin Cuonz ']",Classic
-4,Walkringen,Société-Chorale-de-Neuchâtel,2016-04-24,"[' Brigitte Hool ', ' Brigitte Scholl ']",Classic
-5,Messen,Die-Steinkönigin,2016-04-24,"[' Silvia Jost ', ' Kathrin Hartmann ']",Classic
-6,Basel,Clara-und-Robert,2016-04-24,"['Ulla Westvik ', ' Jakob Pilgram ', ' Mischa Sutter ']",Classic
-7,Basel,Norwegischer-Zauber-Frühjahrskonzert,2016-04-24,[' Ragnhild Hemsing '],Classic
-8,Zürich,Kontraste-I,2016-04-24,[' Roman Blum '],Classic
-9,Kappel-am-Albis,Musik-und-Wort,2016-04-24,[' Daniel Rüegg '],Classic
-10,Zürich,ÆGoldbergRefeÆndum,2016-04-24,"[' Daniel Thomas ', ' Valentina trucelj ', ' Simon A. Mantel ']",Classic
-11,Zürich,Aus-der-neuen-Welt,2016-04-24,[' István Várdai '],Classic
-12,Bern,Sunday-Loudness,2016-04-24,"['Crevasse ', ' Strafplanet ']",
-13,Zürich,Trixie-Whitley,2016-04-24,['Trixie Whitley '],
-14,Feuerthalen,The-Astrophonix,2016-04-24,['The Astrophonix '],
-15,Winterthur,Sonja-und-die-Sonnenvögel,2016-04-24,"[' Sonja Morgenegg ', ' Lars Hermann ', ' Phil Hero ', ' Marco Scherrer ']",
-16,Basel,Jazzfestival-Basel,2016-04-24,['Iiro Rantala '],
-17,Pratteln,The-69-Eyes,2016-04-24,['The 69 Eyes '],
-18,Zürich,ZKB-Jazzpreis,2016-04-24,"[' Marie Krüttli ', ' Lukas Traxel ', ' Martin Perre ', ' Eliyah Reichen ', ' James Krüttli ', ' Dominik Burkhalter ']",
-19,Jona,Züri-Lieder,2016-04-24,"['Samuel Zünd ', ' Rea Claudia Kost ', ' Daniel Fueter ', ' Risch Biert ']",Pop
-20,Bern,Odd-Beholder,2016-04-24,[' support: Swim '],Electronic
+location,event,date,artists,genre
+Zürich,Andy-Gruber-Band,2016-04-24,['Andy Gruber Band '],traditional
+Zürich,Dvorák-Festkonzert,2016-04-24,[' István Várdai '],Classic
+Zürich,Andy-Gruber-Band,2016-04-24,['Andy Gruber Band '],traditional
+Fischingen,Reise-durch-Musik-Dimensionen,2016-04-24,"[' Maki Wiederkehr ', ' Daniel Meller ', ' Flurin Cuonz ']",Classic
+Walkringen,Société-Chorale-de-Neuchâtel,2016-04-24,"[' Brigitte Hool ', ' Brigitte Scholl ']",Classic
+Messen,Die-Steinkönigin,2016-04-24,"[' Silvia Jost ', ' Kathrin Hartmann ']",Classic
+Basel,Clara-und-Robert,2016-04-24,"['Ulla Westvik ', ' Jakob Pilgram ', ' Mischa Sutter ']",Classic
+Basel,Norwegischer-Zauber-Frühjahrskonzert,2016-04-24,[' Ragnhild Hemsing '],Classic
+Zürich,Kontraste-I,2016-04-24,[' Roman Blum '],Classic
+Kappel-am-Albis,Musik-und-Wort,2016-04-24,[' Daniel Rüegg '],Classic
+Zürich,ÆGoldbergRefeÆndum,2016-04-24,"[' Daniel Thomas ', ' Valentina trucelj ', ' Simon A. Mantel ']",Classic
+Zürich,Aus-der-neuen-Welt,2016-04-24,[' István Várdai '],Classic
+Bern,Sunday-Loudness,2016-04-24,"['Crevasse ', ' Strafplanet ']",
+Zürich,Trixie-Whitley,2016-04-24,['Trixie Whitley '],
+Feuerthalen,The-Astrophonix,2016-04-24,['The Astrophonix '],
+Winterthur,Sonja-und-die-Sonnenvögel,2016-04-24,"[' Sonja Morgenegg ', ' Lars Hermann ', ' Phil Hero ', ' Marco Scherrer ']",
+Basel,Jazzfestival-Basel,2016-04-24,['Iiro Rantala '],
+Pratteln,The-69-Eyes,2016-04-24,['The 69 Eyes '],
+Zürich,ZKB-Jazzpreis,2016-04-24,"[' Marie Krüttli ', ' Lukas Traxel ', ' Martin Perre ', ' Eliyah Reichen ', ' James Krüttli ', ' Dominik Burkhalter ']",
+Jona,Züri-Lieder,2016-04-24,"['Samuel Zünd ', ' Rea Claudia Kost ', ' Daniel Fueter ', ' Risch Biert ']",Pop
+Bern,Odd-Beholder,2016-04-24,[' support: Swim '],Electronic

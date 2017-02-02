@@ -1,52 +1,52 @@
-,location,event,date,artists,genre
-0,Liestal,Nenn'-sie-Hexe-und-Kokette-aber-niemals-eine-Nette,2015-05-22,['Peter Mächler '],Classic
-1,Basel,Masterrezital,2015-05-22,['Roman Flumet '],Classic
-2,Basel,Masterrezital,2015-05-22,['Aurélien Tschopp '],Classic
-3,Weggis,Anthony-Caputo,2015-05-22,['Anthony Caputo '],
-4,Luzern,Piano-Entertainment,2015-05-22,['Jozsef Sarkozy '],Classic
-5,Basel,Orgelspiel-zum-Feierabend,2015-05-22,['Yuka Niitsuma '],Classic
-6,Dietikon,Feierabendmusik,2015-05-22,['Bernhard Hörler '],Classic
-7,null,10.-Tonhallekonzert,2015-05-22,['Paul Lewis '],Classic
-8,Zürich,Konzert,2015-05-22,['Works by Gabriel Emanuel Arnold '],Classic
-9,Basel,Masterrezital,2015-05-22,['Brigitte Subkov '],Classic
-10,Baden,Symphoniekonzert-Heimat-Klang,2015-05-22,[' Valeriy Sokolov '],Classic
-11,Basel,Collegium-Musicum-Basel,2015-05-22,[' Sergei Nakariakov '],Classic
-12,Basel,Rezital-Minor,2015-05-22,"['Maria de Lluc López Colom ', ' Jonathan Roskilly ', ' Cécile Unternährer ']",Classic
-13,Zürich,Kammermusik-Konzert,2015-05-22,"[' Saskia Hein ', ' Mihai Cocea ', ' Sara Franchini ']",Classic
-14,Zürich,Portrait-Erich-Itor-Kahn,2015-05-22,"[' Anna Gschwend ', ' Martina Küng ', ' Meret Roth ', ' Lisa Schmalz ', ' Meta Fajdiga ']",Classic
-15,Bern,Bruckners-Achte,2015-05-22,[' Oliver Schnyder '],Classic
-16,Zürich,Brazilian-Music-Night-mit-Rodrigo-Botter-Maio-&-Luiz-Simas,2015-05-22,"['Rodrigo Botter Maio ', ' Luiz Simas ']",
-17,Luzern,Solo-Piano-Concert,2015-05-22,['Keith Jarrett '],Classic
-18,null,Antonio-Malinconico,2015-05-22,"[' Antonio Malinconico ', ' Thomas Sonderegger ', ' Martin Lorber ']",
-19,Rheinfelden,Mike-Goetz-Quintett,2015-05-22,"[' Mike Goetz ', ' Jürg Morgenthaler ', ' John Service ', ' Thomas Dürst ', ' Bernard Flegar ']",
-20,Winterthur,Tony-Allen,2015-05-22,['Tony Allen '],
-21,Zug,Maxxwell,2015-05-22,[' The New Roses '],
-22,Zürich,Chris-de-Burgh,2015-05-22,['Chris de Burgh '],Pop
-23,Basel,Gregor-Meyle,2015-05-22,['Gregor Meyle '],Pop
-24,Lausanne,Madjo,2015-05-22,['Madjo '],
-25,Basel,Bachelorkonzert,2015-05-22,[' Amir Tiroshi '],Classic
-26,Winterthur,Jazzinteam,2015-05-22,"[' Gitte Deubelbeiss ', ' Peter Schärli ', ' Ruedi Vögeli ', ' Emanuel Schnyder ', ' Roberto Di Martino ']",
-27,Zürich,Koch-Niggli-Pliakas,2015-05-22,"[' Hans Koch ', ' Lucas Niggli ', ' Marino Pliakas ']",
-28,Zürich,In-Control,2015-05-22,"[' Nuria Thie ', ' Pino Zortea ', ' Nina Blank ', ' Michael Süess ']",
-29,Baden,Donadio-Family-Band,2015-05-22,"[' Dalia ', ' Madlen ', ' Moreno ', ' Toni Donadio ']",
-30,Zürich,Hazelnut,2015-05-22,['Hazelnut '],
-31,Winterthur,Amenra,2015-05-22,"['Amenra ', ' Labirinto ', ' Thisquietarmy ']",
-32,Aarau,B-Ekspress,2015-05-22,"['Kal ', ' DJs Gipsy Box ']",
-33,Romanshorn,Stickerei-Jazz-Trio-&-Friends,2015-05-22,"[' Christoph Seitler ', ' Daniel Staub ', ' Adi Gerlach ']",
-34,Basel,Together-&-Beyond-Quartet-feat.-James-Uhart,2015-05-22,"[' Gino Sitson ', ' James Uhart ', ' Stephan Kurmann ', ' Julio Barreto ']",
-35,Liebefeld,Aerie,2015-05-22,"[' Ingo Hipp ', ' Sam Comerford ', ' Laurent Méteau ', ' Peedu Kass ', ' Matthew Jacobson ']",
-36,Zürich,Hits-Recycled,2015-05-22,"['Christoph Steiner ', ' Marc Stucki ', ' Simon Rupp ', ' Claude Meier ', ' Simon Spiess ']",
-37,Thun,Jonas-Alaska,2015-05-22,['Jonas Alaska '],Pop
-38,Zürich,Shelta-Flares,2015-05-22,['Shelta Flares '],
-39,Zürich,Shelta-Flares,2015-05-22,['Shelta Flares '],
-40,Basel,Gina-Été,2015-05-22,"[' Gina Été ', ' Jeremie Revel ', ' Phillip Klawitter ', ' Noé Franklé ']",
-41,Luzern,The-Retro-Festival,2015-05-22,['Billy Ocean '],Pop
-42,Wil,Illumenium,2015-05-22,['Illumenium '],Pop
-43,Luzern,Sin-Logica,2015-05-22,['Sin Logica '],
-44,Luzern,Dead-City-Ruins,2015-05-22,['Dead City Ruins '],
-45,Zürich,Jas-Crw-&-Starter-Gang-Band,2015-05-22,['Jas Crw & Starter Gang Band '],
-46,Sankt-Gallen,Dagobert,2015-05-22,[' Sind '],
-47,Bern,Funkdoobiest,2015-05-22,"['Funkdoobiest ', ' support: Smith & Smart ']",
-48,Bern,The-Cyborgs,2015-05-22,['The Cyborgs '],
-49,Zürich,Latin-Touch,2015-05-22,[' dance animation by Alexander Martinez '],
-50,Bern,Dead-Beatz,2015-05-22,['Dead Beatz '],
+location,event,date,artists,genre
+Liestal,Nenn'-sie-Hexe-und-Kokette-aber-niemals-eine-Nette,2015-05-22,['Peter Mächler '],Classic
+Basel,Masterrezital,2015-05-22,['Roman Flumet '],Classic
+Basel,Masterrezital,2015-05-22,['Aurélien Tschopp '],Classic
+Weggis,Anthony-Caputo,2015-05-22,['Anthony Caputo '],
+Luzern,Piano-Entertainment,2015-05-22,['Jozsef Sarkozy '],Classic
+Basel,Orgelspiel-zum-Feierabend,2015-05-22,['Yuka Niitsuma '],Classic
+Dietikon,Feierabendmusik,2015-05-22,['Bernhard Hörler '],Classic
+null,10.-Tonhallekonzert,2015-05-22,['Paul Lewis '],Classic
+Zürich,Konzert,2015-05-22,['Works by Gabriel Emanuel Arnold '],Classic
+Basel,Masterrezital,2015-05-22,['Brigitte Subkov '],Classic
+Baden,Symphoniekonzert-Heimat-Klang,2015-05-22,[' Valeriy Sokolov '],Classic
+Basel,Collegium-Musicum-Basel,2015-05-22,[' Sergei Nakariakov '],Classic
+Basel,Rezital-Minor,2015-05-22,"['Maria de Lluc López Colom ', ' Jonathan Roskilly ', ' Cécile Unternährer ']",Classic
+Zürich,Kammermusik-Konzert,2015-05-22,"[' Saskia Hein ', ' Mihai Cocea ', ' Sara Franchini ']",Classic
+Zürich,Portrait-Erich-Itor-Kahn,2015-05-22,"[' Anna Gschwend ', ' Martina Küng ', ' Meret Roth ', ' Lisa Schmalz ', ' Meta Fajdiga ']",Classic
+Bern,Bruckners-Achte,2015-05-22,[' Oliver Schnyder '],Classic
+Zürich,Brazilian-Music-Night-mit-Rodrigo-Botter-Maio-&-Luiz-Simas,2015-05-22,"['Rodrigo Botter Maio ', ' Luiz Simas ']",
+Luzern,Solo-Piano-Concert,2015-05-22,['Keith Jarrett '],Classic
+null,Antonio-Malinconico,2015-05-22,"[' Antonio Malinconico ', ' Thomas Sonderegger ', ' Martin Lorber ']",
+Rheinfelden,Mike-Goetz-Quintett,2015-05-22,"[' Mike Goetz ', ' Jürg Morgenthaler ', ' John Service ', ' Thomas Dürst ', ' Bernard Flegar ']",
+Winterthur,Tony-Allen,2015-05-22,['Tony Allen '],
+Zug,Maxxwell,2015-05-22,[' The New Roses '],
+Zürich,Chris-de-Burgh,2015-05-22,['Chris de Burgh '],Pop
+Basel,Gregor-Meyle,2015-05-22,['Gregor Meyle '],Pop
+Lausanne,Madjo,2015-05-22,['Madjo '],
+Basel,Bachelorkonzert,2015-05-22,[' Amir Tiroshi '],Classic
+Winterthur,Jazzinteam,2015-05-22,"[' Gitte Deubelbeiss ', ' Peter Schärli ', ' Ruedi Vögeli ', ' Emanuel Schnyder ', ' Roberto Di Martino ']",
+Zürich,Koch-Niggli-Pliakas,2015-05-22,"[' Hans Koch ', ' Lucas Niggli ', ' Marino Pliakas ']",
+Zürich,In-Control,2015-05-22,"[' Nuria Thie ', ' Pino Zortea ', ' Nina Blank ', ' Michael Süess ']",
+Baden,Donadio-Family-Band,2015-05-22,"[' Dalia ', ' Madlen ', ' Moreno ', ' Toni Donadio ']",
+Zürich,Hazelnut,2015-05-22,['Hazelnut '],
+Winterthur,Amenra,2015-05-22,"['Amenra ', ' Labirinto ', ' Thisquietarmy ']",
+Aarau,B-Ekspress,2015-05-22,"['Kal ', ' DJs Gipsy Box ']",
+Romanshorn,Stickerei-Jazz-Trio-&-Friends,2015-05-22,"[' Christoph Seitler ', ' Daniel Staub ', ' Adi Gerlach ']",
+Basel,Together-&-Beyond-Quartet-feat.-James-Uhart,2015-05-22,"[' Gino Sitson ', ' James Uhart ', ' Stephan Kurmann ', ' Julio Barreto ']",
+Liebefeld,Aerie,2015-05-22,"[' Ingo Hipp ', ' Sam Comerford ', ' Laurent Méteau ', ' Peedu Kass ', ' Matthew Jacobson ']",
+Zürich,Hits-Recycled,2015-05-22,"['Christoph Steiner ', ' Marc Stucki ', ' Simon Rupp ', ' Claude Meier ', ' Simon Spiess ']",
+Thun,Jonas-Alaska,2015-05-22,['Jonas Alaska '],Pop
+Zürich,Shelta-Flares,2015-05-22,['Shelta Flares '],
+Zürich,Shelta-Flares,2015-05-22,['Shelta Flares '],
+Basel,Gina-Été,2015-05-22,"[' Gina Été ', ' Jeremie Revel ', ' Phillip Klawitter ', ' Noé Franklé ']",
+Luzern,The-Retro-Festival,2015-05-22,['Billy Ocean '],Pop
+Wil,Illumenium,2015-05-22,['Illumenium '],Pop
+Luzern,Sin-Logica,2015-05-22,['Sin Logica '],
+Luzern,Dead-City-Ruins,2015-05-22,['Dead City Ruins '],
+Zürich,Jas-Crw-&-Starter-Gang-Band,2015-05-22,['Jas Crw & Starter Gang Band '],
+Sankt-Gallen,Dagobert,2015-05-22,[' Sind '],
+Bern,Funkdoobiest,2015-05-22,"['Funkdoobiest ', ' support: Smith & Smart ']",
+Bern,The-Cyborgs,2015-05-22,['The Cyborgs '],
+Zürich,Latin-Touch,2015-05-22,[' dance animation by Alexander Martinez '],
+Bern,Dead-Beatz,2015-05-22,['Dead Beatz '],

@@ -1,19 +1,19 @@
-,location,event,date,artists,genre
-0,Zürich,Bayernmän,2016-03-07,['Bayernmän '],traditional
-1,Zürich,Liedrezital-Winterreise,2016-03-07,"['Yvonne Naef ', ' Hans Adolfsen ']",Classic
-2,Basel,AMG-Solistenabend,2016-03-07,['Maurizio Pollini '],Classic
-3,Basel,CIS-Cembalomusik-in-Basel,2016-03-07,['Edoardo Torbianelli '],Classic
-4,Zürich,Bilal,2016-03-07,['Bilal '],
-5,Basel,Les-extrèmes-se-touchent,2016-03-07,"['Thomas Grossenbacher ', ' Petya Mihneva ']",Classic
-6,Zürich,Years-&-Years,2016-03-07,['Years & Years '],Pop
-7,null,A-Tribute-to-Astor-Piazzolla,2016-03-07,"['Thomas Dobler ', ' Adam Taubitz ', ' Denis Croisonnier ', ' Rätus Flisch ']",
-8,Basel,Ville-étrange,2016-03-07,"[' Christoph Bösch ', ' Tamara Venuti ', ' Pilar Fontalba ']",Classic
-9,Zürich,Nordisches-Violinrezital,2016-03-07,"['Kristina Brita Heinimann ', ' Miranda de Miguel ']",Classic
-10,Zürich,Nik-Bärtsch's-Ronin,2016-03-07,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Sha ', ' Thomy Jordi ']",
-11,Pratteln,All-Them-Witches,2016-03-07,['All Them Witches '],
-12,Zürich,Swingin'-Monday,2016-03-07,"[' Raphael Jost ', ' Raphael Walser ', ' Jonas Ruther ']",
-13,Zürich,Tindersticks,2016-03-07,['Tindersticks '],Pop
-14,Zürich,Crossfaith,2016-03-07,"['Crossfaith ', ' The One Hundred ']",
-15,Baden,Phil-Stöckli-Quintett,2016-03-07,"[' Phil Stöckli ', ' Gregor Müller ', ' Max Frankl ', ' Patrick Sommer ', ' Pius Baschnagel ']",
-16,Winterthur,Of-the-Valley,2016-03-07,['Of the Valley '],Pop
-17,Zürich,Taxi-Wars-feat.-Tom-Barman,2016-03-07,"['Taxi Wars feat. Tom Barman ', ' Tom Barman ', ' Robin Verheyen ', ' Nicolas Thys ', ' Antoine Pierre ']",
+location,event,date,artists,genre
+Zürich,Bayernmän,2016-03-07,['Bayernmän '],traditional
+Zürich,Liedrezital-Winterreise,2016-03-07,"['Yvonne Naef ', ' Hans Adolfsen ']",Classic
+Basel,AMG-Solistenabend,2016-03-07,['Maurizio Pollini '],Classic
+Basel,CIS-Cembalomusik-in-Basel,2016-03-07,['Edoardo Torbianelli '],Classic
+Zürich,Bilal,2016-03-07,['Bilal '],
+Basel,Les-extrèmes-se-touchent,2016-03-07,"['Thomas Grossenbacher ', ' Petya Mihneva ']",Classic
+Zürich,Years-&-Years,2016-03-07,['Years & Years '],Pop
+null,A-Tribute-to-Astor-Piazzolla,2016-03-07,"['Thomas Dobler ', ' Adam Taubitz ', ' Denis Croisonnier ', ' Rätus Flisch ']",
+Basel,Ville-étrange,2016-03-07,"[' Christoph Bösch ', ' Tamara Venuti ', ' Pilar Fontalba ']",Classic
+Zürich,Nordisches-Violinrezital,2016-03-07,"['Kristina Brita Heinimann ', ' Miranda de Miguel ']",Classic
+Zürich,Nik-Bärtsch's-Ronin,2016-03-07,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Sha ', ' Thomy Jordi ']",
+Pratteln,All-Them-Witches,2016-03-07,['All Them Witches '],
+Zürich,Swingin'-Monday,2016-03-07,"[' Raphael Jost ', ' Raphael Walser ', ' Jonas Ruther ']",
+Zürich,Tindersticks,2016-03-07,['Tindersticks '],Pop
+Zürich,Crossfaith,2016-03-07,"['Crossfaith ', ' The One Hundred ']",
+Baden,Phil-Stöckli-Quintett,2016-03-07,"[' Phil Stöckli ', ' Gregor Müller ', ' Max Frankl ', ' Patrick Sommer ', ' Pius Baschnagel ']",
+Winterthur,Of-the-Valley,2016-03-07,['Of the Valley '],Pop
+Zürich,Taxi-Wars-feat.-Tom-Barman,2016-03-07,"['Taxi Wars feat. Tom Barman ', ' Tom Barman ', ' Robin Verheyen ', ' Nicolas Thys ', ' Antoine Pierre ']",

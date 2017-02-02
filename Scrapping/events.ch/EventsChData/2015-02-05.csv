@@ -1,39 +1,39 @@
-,location,event,date,artists,genre
-0,Zürich,Lunchkonzert,2015-02-05,"[' Andrzej Kilian ', ' Seiko Morishita ', ' Dominik Ostertag ', '  Anita Federli-Rutz ', ' Ute Grewel ', ' Bernhard Parz ']",Classic
-1,Luzern,Lunchkonzert,2015-02-05,"['Ivana Gavri ', ' Lisa Schatzman ']",Classic
-2,Zürich,Die-schönsten-Chöre,2015-02-05,[' André Desponds '],Classic
-3,Ennetbürgen,Bürgenstock-Momente-Winterfestival,2015-02-05,"['Linus Roth ', ' Maximilian Hornung ', ' José Gallardo ']",Classic
-4,Baden,After-Work,2015-02-05,"[' Dino Brandao ', ' Lorenz Moser ', ' Martin Irmann ', ' Pascal Ammann ', ' Lukas Kuprecht ']",
-5,Zürich,Inquisition,2015-02-05,['Inquisition '],
-6,Zürich,Tonhalle-Orchester-Zürich,2015-02-05,"[' Hana Blazíková ', ' Tilman Lichdi ', ' Andreas Weller ', ' Klaus Mertens ']",Classic
-7,Zürich,Alex-Clare-Ausverkauft,2015-02-05,['Alex Clare '],
-8,Luzern,Sinfoniekonzert,2015-02-05,[' Rafa Blechacz '],Classic
-9,Zürich,Liederabend,2015-02-05,"['Catriona Bühler ', ' Nijolé Abaryté ']",Classic
-10,null,International-Piano-Series,2015-02-05,['Roman Rabinovich '],Classic
-11,null,6.-Tonhallekonzert,2015-02-05,"['Maria Riccarda Wesseling ', ' Marcel Reijans ']",Classic
-12,Baden,One-of-a-Million,2015-02-05,['Berthold Seliger '],
-13,Aarau,Etana,2015-02-05,"['Etana ', ' Michael Rose ']",
-14,Basel,Geheimnisvolle-Zeichen,2015-02-05,"[' Bettina Boller ', ' Judith Gerster ', ' Stefka Perifanova ']",Classic
-15,null,Cantique,2015-02-05,[' Estelle Revaz '],Classic
-16,null,Kendji-Girac,2015-02-05,['Kendji Girac '],Pop
-17,Luzern,Thursday-Night-Jazz-Jam,2015-02-05,"[' Toni Bechtold ', ' Michael Arbenz ', ' Rafael Jerjen ', ' Sämi Büttiker ']",
-18,Frauenfeld,Glauser-Quintett,2015-02-05,"[' Daniel R. Schneider ', ' Markus Keller ', ' Martin Schumacher ', ' Fredi Flükiger ']",
-19,null,Frau-Contra-Bass-und-Kasar,2015-02-05,"[' Katharina Debus ', ' Hanns Höhn ']",
-20,Zürich,Ginkyo,2015-02-05,"[' Barbara Balzan ', ' Silvan Jeger ', ' Gregor Müller ']",
-21,Winterthur,Christoph-Neuhaus-3,2015-02-05,"[' Christoph Neuhaus ', ' Jens Loh ', ' Elmar Frey ']",
-22,Feuerthalen,Akku-Quintet,2015-02-05,"[' Thierry Lüthy ', ' Markus Ischer ', ' Maja Nydegger ', ' Andi Schnellmann ', ' Manuel Pasquinelli ']",
-23,Baden,Jazz-am-Donnerstag,2015-02-05,"[' Christoph Grab ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Vinz Glanzmann ']",
-24,Basel,Talking-Drums-feat.-Gabriela-Mendes,2015-02-05,"[' Gabriela Mendes ', ' Simone Sou ', ' Dave Feusi ', ' Dudu Penz ', ' Ibou Ndiaye ', ' Sandro Schneebeli ', ' Stephan Rigert ']",
-25,Zürich,Triebherde,2015-02-05,"[' Omri Ziegele ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ']",
-26,Zürich,Fabian-Anderhub,2015-02-05,"[' Fabian Anderhub ', ' Dominik Rüegg ', ' Jan Payer ', ' Steve Grant ']",
-27,Basel,Thomas-Moeckel,2015-02-05,"[' Thomas Moeckel ', ' Dominik Schürmann ', ' Mike Turtle ']",
-28,Pratteln,Hamburger-Blues-Band,2015-02-05,['Hamburger Blues Band '],
-29,Zürich,Floor-Poodle,2015-02-05,"[' Silvan Schmid ', ' Tobias Pfister ', ' Mischa Frey ', ' Paul Amereller ']",
-30,Kriens,Pop-1280,2015-02-05,['Pop 1280 '],
-31,Winterthur,Pere-Ubu,2015-02-05,['Pere Ubu '],
-32,Luzern,Nige-Bray,2015-02-05,['Nige Bray '],
-33,Bern,Gazelle-Twin,2015-02-05,['Gazelle Twin '],
-34,Luzern,Nachtkonzert,2015-02-05,['Rafa Blechacz '],Classic
-35,Zürich,Bodenlos,2015-02-05,"[' Tobias Pfister ', ' Philipp Saner ', ' Nicolas Stocker ']",
-36,Baden,One-of-a-Million,2015-02-05,['Blaue Blume '],
-37,Zürich,Satori,2015-02-05,['Satori '],Electronic
+location,event,date,artists,genre
+Zürich,Lunchkonzert,2015-02-05,"[' Andrzej Kilian ', ' Seiko Morishita ', ' Dominik Ostertag ', '  Anita Federli-Rutz ', ' Ute Grewel ', ' Bernhard Parz ']",Classic
+Luzern,Lunchkonzert,2015-02-05,"['Ivana Gavri ', ' Lisa Schatzman ']",Classic
+Zürich,Die-schönsten-Chöre,2015-02-05,[' André Desponds '],Classic
+Ennetbürgen,Bürgenstock-Momente-Winterfestival,2015-02-05,"['Linus Roth ', ' Maximilian Hornung ', ' José Gallardo ']",Classic
+Baden,After-Work,2015-02-05,"[' Dino Brandao ', ' Lorenz Moser ', ' Martin Irmann ', ' Pascal Ammann ', ' Lukas Kuprecht ']",
+Zürich,Inquisition,2015-02-05,['Inquisition '],
+Zürich,Tonhalle-Orchester-Zürich,2015-02-05,"[' Hana Blazíková ', ' Tilman Lichdi ', ' Andreas Weller ', ' Klaus Mertens ']",Classic
+Zürich,Alex-Clare-Ausverkauft,2015-02-05,['Alex Clare '],
+Luzern,Sinfoniekonzert,2015-02-05,[' Rafa Blechacz '],Classic
+Zürich,Liederabend,2015-02-05,"['Catriona Bühler ', ' Nijolé Abaryté ']",Classic
+null,International-Piano-Series,2015-02-05,['Roman Rabinovich '],Classic
+null,6.-Tonhallekonzert,2015-02-05,"['Maria Riccarda Wesseling ', ' Marcel Reijans ']",Classic
+Baden,One-of-a-Million,2015-02-05,['Berthold Seliger '],
+Aarau,Etana,2015-02-05,"['Etana ', ' Michael Rose ']",
+Basel,Geheimnisvolle-Zeichen,2015-02-05,"[' Bettina Boller ', ' Judith Gerster ', ' Stefka Perifanova ']",Classic
+null,Cantique,2015-02-05,[' Estelle Revaz '],Classic
+null,Kendji-Girac,2015-02-05,['Kendji Girac '],Pop
+Luzern,Thursday-Night-Jazz-Jam,2015-02-05,"[' Toni Bechtold ', ' Michael Arbenz ', ' Rafael Jerjen ', ' Sämi Büttiker ']",
+Frauenfeld,Glauser-Quintett,2015-02-05,"[' Daniel R. Schneider ', ' Markus Keller ', ' Martin Schumacher ', ' Fredi Flükiger ']",
+null,Frau-Contra-Bass-und-Kasar,2015-02-05,"[' Katharina Debus ', ' Hanns Höhn ']",
+Zürich,Ginkyo,2015-02-05,"[' Barbara Balzan ', ' Silvan Jeger ', ' Gregor Müller ']",
+Winterthur,Christoph-Neuhaus-3,2015-02-05,"[' Christoph Neuhaus ', ' Jens Loh ', ' Elmar Frey ']",
+Feuerthalen,Akku-Quintet,2015-02-05,"[' Thierry Lüthy ', ' Markus Ischer ', ' Maja Nydegger ', ' Andi Schnellmann ', ' Manuel Pasquinelli ']",
+Baden,Jazz-am-Donnerstag,2015-02-05,"[' Christoph Grab ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Vinz Glanzmann ']",
+Basel,Talking-Drums-feat.-Gabriela-Mendes,2015-02-05,"[' Gabriela Mendes ', ' Simone Sou ', ' Dave Feusi ', ' Dudu Penz ', ' Ibou Ndiaye ', ' Sandro Schneebeli ', ' Stephan Rigert ']",
+Zürich,Triebherde,2015-02-05,"[' Omri Ziegele ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ']",
+Zürich,Fabian-Anderhub,2015-02-05,"[' Fabian Anderhub ', ' Dominik Rüegg ', ' Jan Payer ', ' Steve Grant ']",
+Basel,Thomas-Moeckel,2015-02-05,"[' Thomas Moeckel ', ' Dominik Schürmann ', ' Mike Turtle ']",
+Pratteln,Hamburger-Blues-Band,2015-02-05,['Hamburger Blues Band '],
+Zürich,Floor-Poodle,2015-02-05,"[' Silvan Schmid ', ' Tobias Pfister ', ' Mischa Frey ', ' Paul Amereller ']",
+Kriens,Pop-1280,2015-02-05,['Pop 1280 '],
+Winterthur,Pere-Ubu,2015-02-05,['Pere Ubu '],
+Luzern,Nige-Bray,2015-02-05,['Nige Bray '],
+Bern,Gazelle-Twin,2015-02-05,['Gazelle Twin '],
+Luzern,Nachtkonzert,2015-02-05,['Rafa Blechacz '],Classic
+Zürich,Bodenlos,2015-02-05,"[' Tobias Pfister ', ' Philipp Saner ', ' Nicolas Stocker ']",
+Baden,One-of-a-Million,2015-02-05,['Blaue Blume '],
+Zürich,Satori,2015-02-05,['Satori '],Electronic

@@ -1,13 +1,13 @@
-,location,event,date,artists,genre
-0,Bern,Der-Schellenursli,2015-12-26,[' Stefano Wenk '],Classic
-1,Zürich,Carmina-Burana-&-9.-Symphonie,2015-12-26,[' Jan Jakub Monowid '],Classic
-2,Bern,Paulus,2015-12-26,"[' Anne-Florence Marbot ', ' Sonja Leutwyler ', ' Jakob Pilgram ', ' Marc-Olivier Oetterli ']",Classic
-3,Zürich,Weihnachtsoratorium-Teil-II-Und-es-waren-Hirten,2015-12-26,"[' Nicola Brügger ', ' Ingrid Aexandre ', ' Simon Witzig ', ' Alexandre Beuchat ', ' Benjamin Widmer ']",Classic
-4,Meggen,10-Jahre-Klang-Klassische-Perlen,2015-12-26,"[' Conrad Muck ', ' Tilman Büning ', ' Ivo Bauer ', ' Matthias Moosdorf ', ' Fabio Di Càsola ']",Classic
-5,Luzern,Hardcore-United-Fest,2015-12-26,['Born From Pain '],
-6,Sarnen,Bluez-Ballz,2015-12-26,"[' Jan Bukacek ', ' Bassisten Thomas L.C. ', ' Roger T. ']",
-7,Zürich,Festliches-Weihnachtskonzert,2015-12-26,[' Mihály Boros '],Classic
-8,Zürich,Hits-Recycled-Bob-Marley-vs.-Madonna,2015-12-26,"[' Fabian M. Mueller ', ' Benedikt Wieland ']",
-9,Baden,Gerry-the-Voice-of-Vegas-and-Band,2015-12-26,"[' Gerry Schüpbach ', ' Sigi Nikitscher ', ' Lui Rosa ', ' Markus Rahm ', ' Claudio Pegolo ']",
-10,Basel,Impro-Duos,2015-12-26,"[' Michèle Walther ', ' Luzian Jenny ']",
-11,Luzern,Heavy-Reggaeton-1-Year-Anniversary,2015-12-26,[' Fredy Sax '],
+location,event,date,artists,genre
+Bern,Der-Schellenursli,2015-12-26,[' Stefano Wenk '],Classic
+Zürich,Carmina-Burana-&-9.-Symphonie,2015-12-26,[' Jan Jakub Monowid '],Classic
+Bern,Paulus,2015-12-26,"[' Anne-Florence Marbot ', ' Sonja Leutwyler ', ' Jakob Pilgram ', ' Marc-Olivier Oetterli ']",Classic
+Zürich,Weihnachtsoratorium-Teil-II-Und-es-waren-Hirten,2015-12-26,"[' Nicola Brügger ', ' Ingrid Aexandre ', ' Simon Witzig ', ' Alexandre Beuchat ', ' Benjamin Widmer ']",Classic
+Meggen,10-Jahre-Klang-Klassische-Perlen,2015-12-26,"[' Conrad Muck ', ' Tilman Büning ', ' Ivo Bauer ', ' Matthias Moosdorf ', ' Fabio Di Càsola ']",Classic
+Luzern,Hardcore-United-Fest,2015-12-26,['Born From Pain '],
+Sarnen,Bluez-Ballz,2015-12-26,"[' Jan Bukacek ', ' Bassisten Thomas L.C. ', ' Roger T. ']",
+Zürich,Festliches-Weihnachtskonzert,2015-12-26,[' Mihály Boros '],Classic
+Zürich,Hits-Recycled-Bob-Marley-vs.-Madonna,2015-12-26,"[' Fabian M. Mueller ', ' Benedikt Wieland ']",
+Baden,Gerry-the-Voice-of-Vegas-and-Band,2015-12-26,"[' Gerry Schüpbach ', ' Sigi Nikitscher ', ' Lui Rosa ', ' Markus Rahm ', ' Claudio Pegolo ']",
+Basel,Impro-Duos,2015-12-26,"[' Michèle Walther ', ' Luzian Jenny ']",
+Luzern,Heavy-Reggaeton-1-Year-Anniversary,2015-12-26,[' Fredy Sax '],

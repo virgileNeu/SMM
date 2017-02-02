@@ -1,9 +1,9 @@
-,location,event,date,artists,genre
-0,Zürich,Werner-und-Company,2015-09-08,['Werner und Company '],
-1,Bern,Musikfestival-Bern-Memorie-infinite,2015-09-08,"['Brigitte Gasser ', ' Claudia Mulas ', ' Anna Spina ', ' Eriko Wakita ', ' Giovanna Gatto ', ' works by Daniel Glaus ']",Classic
-2,Montreux,Septembre-musical,2015-09-08,[' Jean-Frédéric Neuburger '],Classic
-3,Zürich,Zweimal-Vier,2015-09-08,[' Elmar Gasanov '],Classic
-4,Bern,Musikfestival-Bern-Ciclo-del-ritorno,2015-09-08,"['Anna Spina ', ' Benoit Piccand ']",Classic
-5,Bern,Das-Buch-der-Klänge,2015-09-08,['Iris Gerber '],Classic
-6,Zürich,Dma's,2015-09-08,"[""Dma's ""]",Pop
-7,Basel,Kevin-Hays'-New-Day-Trio,2015-09-08,"[' Kevin Hays ', ' Matt Brewer ', ' Greg Joseph ']",
+location,event,date,artists,genre
+Zürich,Werner-und-Company,2015-09-08,['Werner und Company '],
+Bern,Musikfestival-Bern-Memorie-infinite,2015-09-08,"['Brigitte Gasser ', ' Claudia Mulas ', ' Anna Spina ', ' Eriko Wakita ', ' Giovanna Gatto ', ' works by Daniel Glaus ']",Classic
+Montreux,Septembre-musical,2015-09-08,[' Jean-Frédéric Neuburger '],Classic
+Zürich,Zweimal-Vier,2015-09-08,[' Elmar Gasanov '],Classic
+Bern,Musikfestival-Bern-Ciclo-del-ritorno,2015-09-08,"['Anna Spina ', ' Benoit Piccand ']",Classic
+Bern,Das-Buch-der-Klänge,2015-09-08,['Iris Gerber '],Classic
+Zürich,Dma's,2015-09-08,"[""Dma's ""]",Pop
+Basel,Kevin-Hays'-New-Day-Trio,2015-09-08,"[' Kevin Hays ', ' Matt Brewer ', ' Greg Joseph ']",

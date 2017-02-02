@@ -1,29 +1,29 @@
-,location,event,date,artists,genre
-0,Basel,Masterrezital,2013-05-07,[' Ye Jin Byun '],Classic
-1,Basel,Masterrezital,2013-05-07,[' Valentina Botnari '],Classic
-2,Basel,Masterrezital,2013-05-07,[' Virginie Raemy '],Classic
-3,Luzern,Piano-Entertainment,2013-05-07,['Patrick Greiner '],Pop
-4,Zürich,Brasilien-Schweiz-2-zu-2,2013-05-07,"[' Gregor Müller ', ' Dudu Penz ', ' Pius Baschnagel ', ' Rodrigo Botter Maio ']",
-5,Zürich,Konzert,2013-05-07,"[' Kathrin Oplatka ', ' Elisabeth Weber-Erb ', ' Cornelia Messerli-Ott ', ' Rudolf Weber ', ' Maja Weber ']",Classic
-6,Zürich,Von-Leben-und-Tod,2013-05-07,['Konstantin Scherbakov '],Classic
-7,Bern,Internationales-Jazzfestival-Bern,2013-05-07,"['Roy Haynes Fountain of Youth Band ', ' Roy Haynes ', ' Jaleel Shaw ', ' Martin Bejerano ', ' David Wong ']",
-8,Zürich,Daniel-Holdsworth-&-Aidan-Roberts,2013-05-07,['Daniel Holdsworth & Aidan Roberts '],
-9,Aarau,Witchcraft,2013-05-07,"['Witchcraft ', ' Orchid ', ' Free Fall ']",
-10,Zürich,Sonatenabend,2013-05-07,['Gregor Ehrsam '],Classic
-11,Zürich,Klavierrezital,2013-05-07,['Praxedis Geneviève Hug '],Classic
-12,Basel,AMG-Rising-Stars,2013-05-07,['Claire Huangci '],Classic
-13,Arena-Genève,null,2013-05-07,['Zucchero '],Zucchero
-14,Zürich,Dope-D.O.D.,2013-05-07,['Dope D.O.D. '],Electronic
-15,Zürich,Bukowski,2013-05-07,['Erin Lang '],Pop
-16,Zürich,Tom-Lüneburger,2013-05-07,['Tom Lüneburger '],Pop
-17,Basel,Verdi-Gala-Benefiz-Konzert-für-ein-Kinderlachen-mehr,2013-05-07,"[' Renato Bruson ', ' Paola Sanguinetti ', ' Stefania Maiardi']",Classic
-18,Basel,Masterrezital,2013-05-07,[' Lisa Rieder '],Classic
-19,Basel,Cantabo-Domino,2013-05-07,"['Giovanna Urrutia ', ' Sebastian Mariño León ', ' Oren Kirschenbaum ']",Classic
-20,Zürich,Ali-Frey-Niggenkemper-Studer,2013-05-07,"[' Sean Ali ', ' Peter K Frey ', ' Pascal Niggenkemper ', ' Daniel Studer ']",
-21,Lausanne,Barcella,2013-05-07,['Barcella '],Pop
-22,Zürich,Nothington,2013-05-07,['Nothington '],
-23,Zürich,Artist-in-Residence:-Ephrem-Lüchinger,2013-05-07,"[' Michael Flury ', ' Tobias Preisig ', ' Ephrem Lüchinger ', ' Markus Schönholzer ', ' Robi Rüdisüli ']",
-24,Basel,Friedli-Pousaz-Dühsler,2013-05-07,"[' Oliver Friedli ', ' André Pousaz ', ' Samuel Dühsler ']",
-25,Kaufleuten,Zürich,2013-05-07,['Chloe Charles '],
-26,Lausanne,Jessica-Bailiff,2013-05-07,['Jessica Bailiff '],Electronic
-27,Bern,Internationales-Jazzfestival-Bern,2013-05-07,"['Roy Haynes Fountain of Youth Band ', ' Roy Haynes ', ' Jaleel Shaw ', ' Martin Bejerano ', ' David Wong ']",
+location,event,date,artists,genre
+Basel,Masterrezital,2013-05-07,[' Ye Jin Byun '],Classic
+Basel,Masterrezital,2013-05-07,[' Valentina Botnari '],Classic
+Basel,Masterrezital,2013-05-07,[' Virginie Raemy '],Classic
+Luzern,Piano-Entertainment,2013-05-07,['Patrick Greiner '],Pop
+Zürich,Brasilien-Schweiz-2-zu-2,2013-05-07,"[' Gregor Müller ', ' Dudu Penz ', ' Pius Baschnagel ', ' Rodrigo Botter Maio ']",
+Zürich,Konzert,2013-05-07,"[' Kathrin Oplatka ', ' Elisabeth Weber-Erb ', ' Cornelia Messerli-Ott ', ' Rudolf Weber ', ' Maja Weber ']",Classic
+Zürich,Von-Leben-und-Tod,2013-05-07,['Konstantin Scherbakov '],Classic
+Bern,Internationales-Jazzfestival-Bern,2013-05-07,"['Roy Haynes Fountain of Youth Band ', ' Roy Haynes ', ' Jaleel Shaw ', ' Martin Bejerano ', ' David Wong ']",
+Zürich,Daniel-Holdsworth-&-Aidan-Roberts,2013-05-07,['Daniel Holdsworth & Aidan Roberts '],
+Aarau,Witchcraft,2013-05-07,"['Witchcraft ', ' Orchid ', ' Free Fall ']",
+Zürich,Sonatenabend,2013-05-07,['Gregor Ehrsam '],Classic
+Zürich,Klavierrezital,2013-05-07,['Praxedis Geneviève Hug '],Classic
+Basel,AMG-Rising-Stars,2013-05-07,['Claire Huangci '],Classic
+Arena-Genève,null,2013-05-07,['Zucchero '],Zucchero
+Zürich,Dope-D.O.D.,2013-05-07,['Dope D.O.D. '],Electronic
+Zürich,Bukowski,2013-05-07,['Erin Lang '],Pop
+Zürich,Tom-Lüneburger,2013-05-07,['Tom Lüneburger '],Pop
+Basel,Verdi-Gala-Benefiz-Konzert-für-ein-Kinderlachen-mehr,2013-05-07,"[' Renato Bruson ', ' Paola Sanguinetti ', ' Stefania Maiardi']",Classic
+Basel,Masterrezital,2013-05-07,[' Lisa Rieder '],Classic
+Basel,Cantabo-Domino,2013-05-07,"['Giovanna Urrutia ', ' Sebastian Mariño León ', ' Oren Kirschenbaum ']",Classic
+Zürich,Ali-Frey-Niggenkemper-Studer,2013-05-07,"[' Sean Ali ', ' Peter K Frey ', ' Pascal Niggenkemper ', ' Daniel Studer ']",
+Lausanne,Barcella,2013-05-07,['Barcella '],Pop
+Zürich,Nothington,2013-05-07,['Nothington '],
+Zürich,Artist-in-Residence:-Ephrem-Lüchinger,2013-05-07,"[' Michael Flury ', ' Tobias Preisig ', ' Ephrem Lüchinger ', ' Markus Schönholzer ', ' Robi Rüdisüli ']",
+Basel,Friedli-Pousaz-Dühsler,2013-05-07,"[' Oliver Friedli ', ' André Pousaz ', ' Samuel Dühsler ']",
+Kaufleuten,Zürich,2013-05-07,['Chloe Charles '],
+Lausanne,Jessica-Bailiff,2013-05-07,['Jessica Bailiff '],Electronic
+Bern,Internationales-Jazzfestival-Bern,2013-05-07,"['Roy Haynes Fountain of Youth Band ', ' Roy Haynes ', ' Jaleel Shaw ', ' Martin Bejerano ', ' David Wong ']",

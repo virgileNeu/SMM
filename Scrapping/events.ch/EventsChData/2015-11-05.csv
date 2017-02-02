@@ -1,37 +1,37 @@
-,location,event,date,artists,genre
-0,Zürich,Werner-und-Company,2015-11-05,['Werner und Company '],Pop
-1,Baden,After-Work,2015-11-05,"[' Robbie Caruso ', ' Roli Schiltknecht ', ' Reto Spörli ']",Pop
-2,Zürich,Thursday-Night-Jazz,2015-11-05,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-3,Zürich,Poesie-der-Kindheit-Licht-und-Schatten,2015-11-05,[' Matthias Goerne '],Classic
-4,Luzern,Festival-Strings-Lucerne,2015-11-05,[' Alison Balsom '],Classic
-5,Basel,Händel-und-Zeitgenossen,2015-11-05,['Sally Fortino '],Classic
-6,Zürich,The-Kilkennys,2015-11-05,"['The Kilkennys ', ' Davey Long ', ' Davey Cashin ', ' Tommy Mackey ', ' Robbie Campion ']",
-7,Bern,The-Sonics,2015-11-05,['The Sonics '],
-8,Basel,Baloise-Session,2015-11-05,"['Paolo Nutini ', ' Philipp Poisel ']",Pop
-9,Zürich,Spittin'-Horns,2015-11-05,"[' Barbara Wehrli Wutzl ', ' Christoph Grab ', ' Reto Suhner ', ' Thomi Geiger ']",
-10,Luzern,Everlast,2015-11-05,['Everlast '],Pop
-11,Pratteln,Heldmaschine,2015-11-05,['Heldmaschine '],
-12,Zürich,Jazz-Happening,2015-11-05,"[' Danny Hausherr ', ' Ivan Kubias ', ' Ivan Hrdina ', ' Jirka Hoppe ', ' Jan Zeman ', ' Miro Steiner ']",
-13,Zürich,Josh-T.-Pearson,2015-11-05,"['Josh T. Pearson ', ' Calvin LeBaron ']",
-14,Zürich,Illa-J,2015-11-05,['Illa J '],
-15,null,Rone,2015-11-05,['Rone '],Electronic
-16,Zürich,Standards-Beyond-Insane,2015-11-05,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
-17,Winterthur,Bokani-Dyer-Quintet,2015-11-05,"[' Bokany Dyer ', ' Mats Spillmann ', ' Donat Fisch ', ' Stefan Kurmann ', ' Norbert Pfammatter ']",
-18,Basel,Frontton,2015-11-05,"[' Yosvany Quintero ', ' Dominik Dolega ', ' Pelayo F. Arrizabalaga ']",
-19,Lyss,Mister-&-Mississippi,2015-11-05,['Mister & Mississippi '],
-20,Thun,Familie-Gantenbein,2015-11-05,['Familie Gantenbein '],
-21,Liebefeld,Delia-Mayer-&-der-Kriminaltechnische-Dienst,2015-11-05,"[' Delia Mayer ', ' Sha ', ' Kaspar Rast ']",
-22,null,Tropic-of-Cancer,2015-11-05,['Tropic of Cancer '],
-23,Basel,Apparat,2015-11-05,['Apparat '],Electronic
-24,Zürich,Segante,2015-11-05,['Tomas Bächli '],Classic
-25,Zürich,Billiger-Bauer-Celebrating-20-Years,2015-11-05,"['Omri Ziegele ', ' Jürg Wickihalder ', ' Nick Gutersohn ']",
-26,Baden,Eliot-Chambers,2015-11-05,['Eliot Chambers '],Pop
-27,Basel,Extrafish,2015-11-05,"[' Valentin Baumgartner ', ' Andi Bissig ', ' Jonas Künzli ', ' Adrian Böckli ']",
-28,Lausanne,Son-Lux,2015-11-05,"['Son Lux ', ' Olga Bell ']",Electronic
-29,Zürich,Fatale-Tage,2015-11-05,['Phall Fatale '],
-30,Bern,Emon,2015-11-05,['Emon '],
-31,Thun,Lindsay-Ferguson-&-Rob-Moir,2015-11-05,['Lindsay Ferguson & Rob Moir '],
-32,Düdingen,The-Underground-Youth,2015-11-05,['The Underground Youth '],
-33,Basel,Extrafish,2015-11-05,['Extrafish '],
-34,Sankt-Gallen,Christian-Scott-Band,2015-11-05,"['Christian Scott Band ', ' Tunde Adjuah ', ' Elena Pinderhughes ', ' Braxton Cook ', ' Dominic Minix ', ' Lawrence Fields ', ' Kris Funn ', ' Corey Fonville ']",
-35,Zürich,Peter-Piek,2015-11-05,['Peter Piek '],
+location,event,date,artists,genre
+Zürich,Werner-und-Company,2015-11-05,['Werner und Company '],Pop
+Baden,After-Work,2015-11-05,"[' Robbie Caruso ', ' Roli Schiltknecht ', ' Reto Spörli ']",Pop
+Zürich,Thursday-Night-Jazz,2015-11-05,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Zürich,Poesie-der-Kindheit-Licht-und-Schatten,2015-11-05,[' Matthias Goerne '],Classic
+Luzern,Festival-Strings-Lucerne,2015-11-05,[' Alison Balsom '],Classic
+Basel,Händel-und-Zeitgenossen,2015-11-05,['Sally Fortino '],Classic
+Zürich,The-Kilkennys,2015-11-05,"['The Kilkennys ', ' Davey Long ', ' Davey Cashin ', ' Tommy Mackey ', ' Robbie Campion ']",
+Bern,The-Sonics,2015-11-05,['The Sonics '],
+Basel,Baloise-Session,2015-11-05,"['Paolo Nutini ', ' Philipp Poisel ']",Pop
+Zürich,Spittin'-Horns,2015-11-05,"[' Barbara Wehrli Wutzl ', ' Christoph Grab ', ' Reto Suhner ', ' Thomi Geiger ']",
+Luzern,Everlast,2015-11-05,['Everlast '],Pop
+Pratteln,Heldmaschine,2015-11-05,['Heldmaschine '],
+Zürich,Jazz-Happening,2015-11-05,"[' Danny Hausherr ', ' Ivan Kubias ', ' Ivan Hrdina ', ' Jirka Hoppe ', ' Jan Zeman ', ' Miro Steiner ']",
+Zürich,Josh-T.-Pearson,2015-11-05,"['Josh T. Pearson ', ' Calvin LeBaron ']",
+Zürich,Illa-J,2015-11-05,['Illa J '],
+null,Rone,2015-11-05,['Rone '],Electronic
+Zürich,Standards-Beyond-Insane,2015-11-05,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
+Winterthur,Bokani-Dyer-Quintet,2015-11-05,"[' Bokany Dyer ', ' Mats Spillmann ', ' Donat Fisch ', ' Stefan Kurmann ', ' Norbert Pfammatter ']",
+Basel,Frontton,2015-11-05,"[' Yosvany Quintero ', ' Dominik Dolega ', ' Pelayo F. Arrizabalaga ']",
+Lyss,Mister-&-Mississippi,2015-11-05,['Mister & Mississippi '],
+Thun,Familie-Gantenbein,2015-11-05,['Familie Gantenbein '],
+Liebefeld,Delia-Mayer-&-der-Kriminaltechnische-Dienst,2015-11-05,"[' Delia Mayer ', ' Sha ', ' Kaspar Rast ']",
+null,Tropic-of-Cancer,2015-11-05,['Tropic of Cancer '],
+Basel,Apparat,2015-11-05,['Apparat '],Electronic
+Zürich,Segante,2015-11-05,['Tomas Bächli '],Classic
+Zürich,Billiger-Bauer-Celebrating-20-Years,2015-11-05,"['Omri Ziegele ', ' Jürg Wickihalder ', ' Nick Gutersohn ']",
+Baden,Eliot-Chambers,2015-11-05,['Eliot Chambers '],Pop
+Basel,Extrafish,2015-11-05,"[' Valentin Baumgartner ', ' Andi Bissig ', ' Jonas Künzli ', ' Adrian Böckli ']",
+Lausanne,Son-Lux,2015-11-05,"['Son Lux ', ' Olga Bell ']",Electronic
+Zürich,Fatale-Tage,2015-11-05,['Phall Fatale '],
+Bern,Emon,2015-11-05,['Emon '],
+Thun,Lindsay-Ferguson-&-Rob-Moir,2015-11-05,['Lindsay Ferguson & Rob Moir '],
+Düdingen,The-Underground-Youth,2015-11-05,['The Underground Youth '],
+Basel,Extrafish,2015-11-05,['Extrafish '],
+Sankt-Gallen,Christian-Scott-Band,2015-11-05,"['Christian Scott Band ', ' Tunde Adjuah ', ' Elena Pinderhughes ', ' Braxton Cook ', ' Dominic Minix ', ' Lawrence Fields ', ' Kris Funn ', ' Corey Fonville ']",
+Zürich,Peter-Piek,2015-11-05,['Peter Piek '],

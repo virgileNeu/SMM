@@ -1,27 +1,27 @@
-,location,event,date,artists,genre
-0,Basel,Bachelorkonzert,2013-06-20,[' Anne-Lise Teruel '],Classic
-1,Basel,Masterrezital,2013-06-20,[' Elisa Arciniegas Pinilla '],Classic
-2,Basel,Bachelorkonzert,2013-06-20,[' Niamh McKenna '],Classic
-3,Basel,Masterrezital,2013-06-20,[' Benoît Hennecart '],Classic
-4,Volkshaus,Zürich,2013-06-20,"['Coal Chamber ', ' Clutch ', ' The Sword ', ' Chelsea Grin ']",
-5,Zürich,Sommerkonzert,2013-06-20,"['Beatrice Haemig ', ' Hanna Langmeier ', ' Peter Doss ']",Classic
-6,Basel,Masterrezital,2013-06-20,[' Mojca Gal '],Classic
-7,Zürich,Momentaufnahme,2013-06-20,"['Gabriela Tanner ', ' Susanne Petersen ', ' Verena Barbara Gohl ', ' Christina Jaccard ']",Pop
-8,Basel,Masterrezital,2013-06-20,[' Sebastion Rozo Perdigón '],Classic
-9,Kreuzlingen,Jugalbandi,2013-06-20,"['Bhaskar Das ', ' Rohan Dasgupta ', ' Udai Mazumdar ']",
-10,Winterthur,A-Cappella-Festival,2013-06-20,['Rock4 '],Pop
-11,Luzern,Kvelertak,2013-06-20,['Kvelertak '],
-12,Bern,Tarnish,2013-06-20,[' Ahad & Chrs '],
-13,Ascona,Jazz-Ascona,2013-06-20,"[' Engelbert Wrobel ', ' Paolo Alderighi ', ' Bernard Flegar ', ' Duke Heitger ', ' Nicki Parrott ']",
-14,null,Hellyeah,2013-06-20,"['Hellyeah ', ' P.O.D. ', ' Sacred Mother Tongue ']",
-15,Hallenstadion,Zürich,2013-06-20,['Kiss '],Kiss
-16,Luzern,Salonmusik,2013-06-20,"['Martin Schaefer ', ' Richard Decker ']",Classic
-17,Komplex-457,Zürich,2013-06-20,['3 Doors Down '],
-18,Winterthur,Adrian-Frey-Trio,2013-06-20,"[' Adrian Frey ', ' Patrick Sommer ', ' Tony Renolds ']",
-19,Mahogany-Hall,Bern,2013-06-20,"[' Denise Donatsch ', ' Christoph Thiel ', ' Lucio Crivellotto ', ' Jean-Luc Gassmann ', ' Markus Karl ', ' Thomas Weibel ', ' Heinz Richner ', ' Andreas Steiner']",
-20,Thalwil,Luke-&-Thom,2013-06-20,"[' Thomas Grüninger ', ' Lukas Heuss ']",Pop
-21,Baden,Indigo,2013-06-20,"[' Bruno Stutz ', ' Peter Rey ', ' Marco Friedmann ', ' Heinz Fischer ', ' Martin Meyer ']",
-22,Feuerthalen,Session-Club-Dimitri,2013-06-20,['Plutonium People '],
-23,Basel,Transatlantic-Band,2013-06-20,"['Theresa Stucki ', ' Urs Graf ', ' Felix Bolliger ', ' Claude Conradi ', ' Roland Ernst ']",
-24,Zürich,Fuchigami-to-Funato,2013-06-20,['Fuchigami to Funato '],Pop
-25,Luzern,Jam-Session,2013-06-20,['Richard Decker '],
+location,event,date,artists,genre
+Basel,Bachelorkonzert,2013-06-20,[' Anne-Lise Teruel '],Classic
+Basel,Masterrezital,2013-06-20,[' Elisa Arciniegas Pinilla '],Classic
+Basel,Bachelorkonzert,2013-06-20,[' Niamh McKenna '],Classic
+Basel,Masterrezital,2013-06-20,[' Benoît Hennecart '],Classic
+Volkshaus,Zürich,2013-06-20,"['Coal Chamber ', ' Clutch ', ' The Sword ', ' Chelsea Grin ']",
+Zürich,Sommerkonzert,2013-06-20,"['Beatrice Haemig ', ' Hanna Langmeier ', ' Peter Doss ']",Classic
+Basel,Masterrezital,2013-06-20,[' Mojca Gal '],Classic
+Zürich,Momentaufnahme,2013-06-20,"['Gabriela Tanner ', ' Susanne Petersen ', ' Verena Barbara Gohl ', ' Christina Jaccard ']",Pop
+Basel,Masterrezital,2013-06-20,[' Sebastion Rozo Perdigón '],Classic
+Kreuzlingen,Jugalbandi,2013-06-20,"['Bhaskar Das ', ' Rohan Dasgupta ', ' Udai Mazumdar ']",
+Winterthur,A-Cappella-Festival,2013-06-20,['Rock4 '],Pop
+Luzern,Kvelertak,2013-06-20,['Kvelertak '],
+Bern,Tarnish,2013-06-20,[' Ahad & Chrs '],
+Ascona,Jazz-Ascona,2013-06-20,"[' Engelbert Wrobel ', ' Paolo Alderighi ', ' Bernard Flegar ', ' Duke Heitger ', ' Nicki Parrott ']",
+null,Hellyeah,2013-06-20,"['Hellyeah ', ' P.O.D. ', ' Sacred Mother Tongue ']",
+Hallenstadion,Zürich,2013-06-20,['Kiss '],Kiss
+Luzern,Salonmusik,2013-06-20,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Komplex-457,Zürich,2013-06-20,['3 Doors Down '],
+Winterthur,Adrian-Frey-Trio,2013-06-20,"[' Adrian Frey ', ' Patrick Sommer ', ' Tony Renolds ']",
+Mahogany-Hall,Bern,2013-06-20,"[' Denise Donatsch ', ' Christoph Thiel ', ' Lucio Crivellotto ', ' Jean-Luc Gassmann ', ' Markus Karl ', ' Thomas Weibel ', ' Heinz Richner ', ' Andreas Steiner']",
+Thalwil,Luke-&-Thom,2013-06-20,"[' Thomas Grüninger ', ' Lukas Heuss ']",Pop
+Baden,Indigo,2013-06-20,"[' Bruno Stutz ', ' Peter Rey ', ' Marco Friedmann ', ' Heinz Fischer ', ' Martin Meyer ']",
+Feuerthalen,Session-Club-Dimitri,2013-06-20,['Plutonium People '],
+Basel,Transatlantic-Band,2013-06-20,"['Theresa Stucki ', ' Urs Graf ', ' Felix Bolliger ', ' Claude Conradi ', ' Roland Ernst ']",
+Zürich,Fuchigami-to-Funato,2013-06-20,['Fuchigami to Funato '],Pop
+Luzern,Jam-Session,2013-06-20,['Richard Decker '],

@@ -1,16 +1,16 @@
-,location,event,date,artists,genre
-0,Zürich,Spektrum,2015-10-19,['Chris Wiesendanger '],
-1,Zürich,Liedrezital,2015-10-19,"['Milan Siljanov ', ' Nino Chokhonelidze ']",Classic
-2,Basel,AMG-Sinfoniekonzert-Klassik,2015-10-19,[' Patricia Kopatchinskaja '],Classic
-3,Zürich,Fu-Manchu-abgesagt,2015-10-19,['Fu Manchu '],
-4,Basel,Die-Orgel-im-Dialog-mit-den-Phantasten,2015-10-19,"['Dominik Hennig ', ' Mojca Gal ', ' Sam Chapman ']",Classic
-5,Zürich,Stubete,2015-10-19,['Noldi Schuler '],
-6,Lausanne,Stereophonics,2015-10-19,['Stereophonics '],Pop
-7,Basel,Angelo-Branduardi,2015-10-19,['Angelo Branduardi '],
-8,Chur,Konzert,2015-10-19,"['Tina Engewald ', ' Agnes Byland ', ' Riet Buchli ']",Classic
-9,Basel,Grosse-und-kleine-Töne,2015-10-19,[' Alexander Schmid '],Classic
-10,null,La-Triada,2015-10-19,"[' Corin Curschellas ', ' Astrid Alexandre ', ' Ursina Giger ']",
-11,null,Mobb-Deep,2015-10-19,['Mobb Deep '],
-12,Baden,The-Great-Harry-Hillman,2015-10-19,"[' Nils Fischer ', ' David Koch ', ' Samuel Huwyler ', ' Dominik Mahnig ']",
-13,Rheinfelden,J.-M.-Rhytm-Four-feat.-Scott-Hamilton,2015-10-19,"[' Scott Hamilton ', ' Jürg Morgenthaler ', "" Alessandro d'Episcopo "", ' Christoph Sprenger ', ' Pius Baschnagel ']",
-14,Zürich,Carla-Bley,2015-10-19,"['Carla Bley ', ' Andy Sheppard ', ' Carla Bley ', ' Steve Swallow ']",
+location,event,date,artists,genre
+Zürich,Spektrum,2015-10-19,['Chris Wiesendanger '],
+Zürich,Liedrezital,2015-10-19,"['Milan Siljanov ', ' Nino Chokhonelidze ']",Classic
+Basel,AMG-Sinfoniekonzert-Klassik,2015-10-19,[' Patricia Kopatchinskaja '],Classic
+Zürich,Fu-Manchu-abgesagt,2015-10-19,['Fu Manchu '],
+Basel,Die-Orgel-im-Dialog-mit-den-Phantasten,2015-10-19,"['Dominik Hennig ', ' Mojca Gal ', ' Sam Chapman ']",Classic
+Zürich,Stubete,2015-10-19,['Noldi Schuler '],
+Lausanne,Stereophonics,2015-10-19,['Stereophonics '],Pop
+Basel,Angelo-Branduardi,2015-10-19,['Angelo Branduardi '],
+Chur,Konzert,2015-10-19,"['Tina Engewald ', ' Agnes Byland ', ' Riet Buchli ']",Classic
+Basel,Grosse-und-kleine-Töne,2015-10-19,[' Alexander Schmid '],Classic
+null,La-Triada,2015-10-19,"[' Corin Curschellas ', ' Astrid Alexandre ', ' Ursina Giger ']",
+null,Mobb-Deep,2015-10-19,['Mobb Deep '],
+Baden,The-Great-Harry-Hillman,2015-10-19,"[' Nils Fischer ', ' David Koch ', ' Samuel Huwyler ', ' Dominik Mahnig ']",
+Rheinfelden,J.-M.-Rhytm-Four-feat.-Scott-Hamilton,2015-10-19,"[' Scott Hamilton ', ' Jürg Morgenthaler ', "" Alessandro d'Episcopo "", ' Christoph Sprenger ', ' Pius Baschnagel ']",
+Zürich,Carla-Bley,2015-10-19,"['Carla Bley ', ' Andy Sheppard ', ' Carla Bley ', ' Steve Swallow ']",

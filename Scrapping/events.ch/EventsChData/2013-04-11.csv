@@ -1,54 +1,54 @@
-,location,event,date,artists,genre
-0,Obere-Matten,Zermatt,2013-04-11,['Pedro Franco '],
-1,Zürich,Lunchkonzert,2013-04-11,[' Christian Tetzlaff '],Classic
-2,Basel,3.-Lunchkonzert,2013-04-11,[' Francesco Tristano '],Classic
-3,Basel,Mittagskonzert,2013-04-11,[' Andrew Burn '],Classic
-4,Obere-Matten,Zermatt,2013-04-11,['Faela '],Faela
-5,Basel,Ill-Bill,2013-04-11,['Ill Bill '],
-6,Bern,Internationales-Jazzfestival-Bern,2013-04-11,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']",
-7,Zürich,Thursday-Night-Jazz,2013-04-11,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-8,Zürich,Konzert,2013-04-11,[' Christian Tetzlaff '],Classic
-9,Solothurn,Auf-dass-einem-Hören-und-Sehen-aufgehen,2013-04-11,['Tomas Dratva '],Classic
-10,Zürich,Blood-or-Whiskey,2013-04-11,['Blood or Whiskey '],
-11,Stans,Stanser-Musiktage,2013-04-11,"[' Corin Curschellas ', ' Simon Dettwiler ', ' Andreas Gabriel ', ' Thomas Aeschbacher ', ' Jürg Nietlispach ']",
-12,Basel,Liederabend,2013-04-11,"['Dame Kiri Te Kanawa ', ' David Cowan ']",Classic
-13,Cully-Jazz-Festival,Cully,2013-04-11,['Gianmaria Testa & Gabriele Mirabassi Duo '],
-14,Zürich,Internationales-Dixie-and-Blues-Festival,2013-04-11,[' Sweat & Tears '],
-15,Théâtre-La-Fourmi,Luzern,2013-04-11,['Jon Ladeau '],
-16,Usine,null,2013-04-11,['Balkan Beat Box '],
-17,Zug,The-Outer-String,2013-04-11,"[' Werner Hasler ', ' Katryn Hasler ', ' Carlo Niederhauser ', ' Julian Sartorius ']",Electronic
-18,null,Les-Loodies,2013-04-11,['Les Loodies '],
-19,Uster,Vietcong-Pornsürfers,2013-04-11,['Vietcong Pornsürfers '],
-20,Bern,Abschlusskonzert-Kammermusik-an-der-Kramgasse,2013-04-11,"[' Aurélie Noll ', ' Katarina Gavrilovic ', ' Nada Anderwert ']",Classic
-21,Zürich,Demented-Are-Go,2013-04-11,['Demented Are Go '],
-22,Stans,Stanser-Musiktage,2013-04-11,"['Aziz Sahmaoui & The University of Gnawa ', ' Aziz Sahmaoui ', ' Hervé Samb ', ' Cheikh Diallo Kora ', ' Alune Wade ', ' Adhil Mirghani ', ' Mamoune Dehane ']",
-23,Schaffhausen,Callmekat,2013-04-11,['Callmekat '],Pop
-24,Bern,Pantoum,2013-04-11,"[' Inez Schaefer ', ' Marius Moritz ', ' Christoph Hutter ', ' Katharina Lattke ']",
-25,null,Lizz-Wright,2013-04-11,"['Lizz Wright ', ' Kenny Banks ', ' Marvin Sewell ', ' Nicolas DAmato ', ' Brannen Temple ']",
-26,Winterthur,Babak-Nemati-Quartet,2013-04-11,"[' Babak Nemati ', ' Carles Peris ', ' Beat Gisler ', ' Olaf Ryter ']",
-27,Obere-Matten,Zermatt,2013-04-11,['Bryan Ferry '],
-28,Le-Romandie,Lausanne,2013-04-11,['Prince Rama '],
-29,Bern,4-Some-blues,2013-04-11,"[' Dani Gugolz ', ' Peter Müller ', ' Walt Baumgartner ', ' Hannes Kasehs ']",
-30,Bern,4-Some-Blues,2013-04-11,"[' Dani Gugolz ', ' Peter Müller ', ' Walt Baumgartner ', ' Hannes Kasehs ']",
-31,Cully,Cully-Jazz-Festival,2013-04-11,"['The Trio Of OZ ', ' Omar Hakim ', ' Rachel Z ', ' Solomon Dorsey ']",
-32,Kaserne,Basel,2013-04-11,['Erik Truffaz 4tet '],
-33,Basel,Tom-Freund-Trio,2013-04-11,['Tom Freund Trio '],Pop
-34,Basel,Le-Boeuf-Brothers,2013-04-11,"[' Remy Le Boeuf ', ' Pascal Le Boeuf ', ' Martin Nevin ', ' Peter Kronreif ']",
-35,Cully,Cully-Jazz-Festival,2013-04-11,"[' Christian Schütz ', ' Simon Rupp ', ' Fred Bürki ']",
-36,Zürich,George-&-Trauffer,2013-04-11,"['George ', ' Trauffer ']",Pop
-37,Cully,Cully-Jazz-Festival,2013-04-11,"[' Marc Sturzenegger ', ' Denis Michel ', ' Pierre Ponnaz ', ' Patrick Perrier ', ' Gianni Solinas ']",
-38,Stans,Stanser-Musiktage,2013-04-11,"['Samech ', ' Anna Ostachowska ', ' Magdalena Pluta ', ' Marek Lewandowski ', ' Robert Sztorc ']",
-39,Zürich,Jam-Session,2013-04-11,"['Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",
-40,Cully,Cully-Jazz-Festival,2013-04-11,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-41,Basel,The-Korea,2013-04-11,"['The Korea ', ' Noostrak ']",
-42,Cully,Cully-Jazz-Festival,2013-04-11,"['Iiro Rantala String Trio ', ' Iiro Rantala ', ' Adam Baldych ', ' Asja Valcic ']",
-43,Cully,Cully-Jazz-Festival,2013-04-11,"[' Florian Favre ', ' Kevin Chesham ', ' Manu Hagmann ']",
-44,Luzern,Regal,2013-04-11,['Regal '],
-45,Zürich,The-Bullet,2013-04-11,['The Bullet '],
-46,Cully,Cully-Jazz-Festival,2013-04-11,"[' Marc Sturzenegger ', ' Denis Michel ', ' Pierre Ponnaz ', ' Paul Kapp ', ' Patrick Perrier ', ' Jean-Jaques Chabloz ']",
-47,Münchenstein,Sollilaquists-of-Sound,2013-04-11,['Sollilaquists of Sound '],
-48,Münchenstein,Sollilaquists-of-Sound,2013-04-11,['Sollilaquists of Sound '],
-49,Luzern,Jam-Session,2013-04-11,['Richard Decker '],
-50,Bern,Internationales-Jazzfestival-Bern,2013-04-11,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']",
-51,Vernissage,Zermatt,2013-04-11,['Mando Diao '],
-52,Vernissage,Zermatt,2013-04-11,['Mando Diao '],
+location,event,date,artists,genre
+Obere-Matten,Zermatt,2013-04-11,['Pedro Franco '],
+Zürich,Lunchkonzert,2013-04-11,[' Christian Tetzlaff '],Classic
+Basel,3.-Lunchkonzert,2013-04-11,[' Francesco Tristano '],Classic
+Basel,Mittagskonzert,2013-04-11,[' Andrew Burn '],Classic
+Obere-Matten,Zermatt,2013-04-11,['Faela '],Faela
+Basel,Ill-Bill,2013-04-11,['Ill Bill '],
+Bern,Internationales-Jazzfestival-Bern,2013-04-11,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']",
+Zürich,Thursday-Night-Jazz,2013-04-11,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Zürich,Konzert,2013-04-11,[' Christian Tetzlaff '],Classic
+Solothurn,Auf-dass-einem-Hören-und-Sehen-aufgehen,2013-04-11,['Tomas Dratva '],Classic
+Zürich,Blood-or-Whiskey,2013-04-11,['Blood or Whiskey '],
+Stans,Stanser-Musiktage,2013-04-11,"[' Corin Curschellas ', ' Simon Dettwiler ', ' Andreas Gabriel ', ' Thomas Aeschbacher ', ' Jürg Nietlispach ']",
+Basel,Liederabend,2013-04-11,"['Dame Kiri Te Kanawa ', ' David Cowan ']",Classic
+Cully-Jazz-Festival,Cully,2013-04-11,['Gianmaria Testa & Gabriele Mirabassi Duo '],
+Zürich,Internationales-Dixie-and-Blues-Festival,2013-04-11,[' Sweat & Tears '],
+Théâtre-La-Fourmi,Luzern,2013-04-11,['Jon Ladeau '],
+Usine,null,2013-04-11,['Balkan Beat Box '],
+Zug,The-Outer-String,2013-04-11,"[' Werner Hasler ', ' Katryn Hasler ', ' Carlo Niederhauser ', ' Julian Sartorius ']",Electronic
+null,Les-Loodies,2013-04-11,['Les Loodies '],
+Uster,Vietcong-Pornsürfers,2013-04-11,['Vietcong Pornsürfers '],
+Bern,Abschlusskonzert-Kammermusik-an-der-Kramgasse,2013-04-11,"[' Aurélie Noll ', ' Katarina Gavrilovic ', ' Nada Anderwert ']",Classic
+Zürich,Demented-Are-Go,2013-04-11,['Demented Are Go '],
+Stans,Stanser-Musiktage,2013-04-11,"['Aziz Sahmaoui & The University of Gnawa ', ' Aziz Sahmaoui ', ' Hervé Samb ', ' Cheikh Diallo Kora ', ' Alune Wade ', ' Adhil Mirghani ', ' Mamoune Dehane ']",
+Schaffhausen,Callmekat,2013-04-11,['Callmekat '],Pop
+Bern,Pantoum,2013-04-11,"[' Inez Schaefer ', ' Marius Moritz ', ' Christoph Hutter ', ' Katharina Lattke ']",
+null,Lizz-Wright,2013-04-11,"['Lizz Wright ', ' Kenny Banks ', ' Marvin Sewell ', ' Nicolas DAmato ', ' Brannen Temple ']",
+Winterthur,Babak-Nemati-Quartet,2013-04-11,"[' Babak Nemati ', ' Carles Peris ', ' Beat Gisler ', ' Olaf Ryter ']",
+Obere-Matten,Zermatt,2013-04-11,['Bryan Ferry '],
+Le-Romandie,Lausanne,2013-04-11,['Prince Rama '],
+Bern,4-Some-blues,2013-04-11,"[' Dani Gugolz ', ' Peter Müller ', ' Walt Baumgartner ', ' Hannes Kasehs ']",
+Bern,4-Some-Blues,2013-04-11,"[' Dani Gugolz ', ' Peter Müller ', ' Walt Baumgartner ', ' Hannes Kasehs ']",
+Cully,Cully-Jazz-Festival,2013-04-11,"['The Trio Of OZ ', ' Omar Hakim ', ' Rachel Z ', ' Solomon Dorsey ']",
+Kaserne,Basel,2013-04-11,['Erik Truffaz 4tet '],
+Basel,Tom-Freund-Trio,2013-04-11,['Tom Freund Trio '],Pop
+Basel,Le-Boeuf-Brothers,2013-04-11,"[' Remy Le Boeuf ', ' Pascal Le Boeuf ', ' Martin Nevin ', ' Peter Kronreif ']",
+Cully,Cully-Jazz-Festival,2013-04-11,"[' Christian Schütz ', ' Simon Rupp ', ' Fred Bürki ']",
+Zürich,George-&-Trauffer,2013-04-11,"['George ', ' Trauffer ']",Pop
+Cully,Cully-Jazz-Festival,2013-04-11,"[' Marc Sturzenegger ', ' Denis Michel ', ' Pierre Ponnaz ', ' Patrick Perrier ', ' Gianni Solinas ']",
+Stans,Stanser-Musiktage,2013-04-11,"['Samech ', ' Anna Ostachowska ', ' Magdalena Pluta ', ' Marek Lewandowski ', ' Robert Sztorc ']",
+Zürich,Jam-Session,2013-04-11,"['Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",
+Cully,Cully-Jazz-Festival,2013-04-11,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
+Basel,The-Korea,2013-04-11,"['The Korea ', ' Noostrak ']",
+Cully,Cully-Jazz-Festival,2013-04-11,"['Iiro Rantala String Trio ', ' Iiro Rantala ', ' Adam Baldych ', ' Asja Valcic ']",
+Cully,Cully-Jazz-Festival,2013-04-11,"[' Florian Favre ', ' Kevin Chesham ', ' Manu Hagmann ']",
+Luzern,Regal,2013-04-11,['Regal '],
+Zürich,The-Bullet,2013-04-11,['The Bullet '],
+Cully,Cully-Jazz-Festival,2013-04-11,"[' Marc Sturzenegger ', ' Denis Michel ', ' Pierre Ponnaz ', ' Paul Kapp ', ' Patrick Perrier ', ' Jean-Jaques Chabloz ']",
+Münchenstein,Sollilaquists-of-Sound,2013-04-11,['Sollilaquists of Sound '],
+Münchenstein,Sollilaquists-of-Sound,2013-04-11,['Sollilaquists of Sound '],
+Luzern,Jam-Session,2013-04-11,['Richard Decker '],
+Bern,Internationales-Jazzfestival-Bern,2013-04-11,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']",
+Vernissage,Zermatt,2013-04-11,['Mando Diao '],
+Vernissage,Zermatt,2013-04-11,['Mando Diao '],

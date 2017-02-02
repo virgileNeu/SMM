@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,Zürich,Monte-Carlo,2015-09-28,['Monte Carlo '],
-1,Basel,Masterrezital,2015-09-28,[' Csongor Szántó '],Classic
-2,Basel,Die-Orgel-im-Dialog-mit-dem-Star-Tenor,2015-09-28,"['Daniel Behle ', ' Klaus Rothaupt ', ' Anne-Cathérine Heinzmann ', ' Andrea Bischof ']",Classic
-3,Zürich,Spektrum,2015-09-28,"[' Frits Damrow ', ' Michael Massong ', ' François Killian ']",Classic
-4,Zürich,Für-sie-entdeckt,2015-09-28,"['Felix Klieser ', ' Claire Huangci ']",Classic
-5,Zürich,The-Bones,2015-09-28,"['The Bones ', ' support: 4 Promille ', ' Rogers ', ' The Electric Overdrive ']",
-6,null,Arabella-Steinbacher-und-die-Festival-Strings-Lucerne,2015-09-28,[' Arabella Steinbacher '],Classic
-7,null,Gabriela-Krapf-&-Horns,2015-09-28,"[' Gabriela Krapf ', ' Silvan Kiser ', ' Raffaele ', ' Phil Powell ']",
-8,Zürich,Mike-Scala,2015-09-28,['Mike Scala '],Pop
-9,Zürich,Nik-Bärtschs-Ronin,2015-09-28,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
-10,Zürich,Lilly-Martin-&-Band,2015-09-28,"[' Lilly Martin ', ' Oliver Keller ', ' Michael Dolmetsch ', ' Markus Fritzsche ', ' Tom Beck ']",
-11,Basel,Masterrezital,2015-09-28,[' Mara Miribung '],Classic
-12,Basel,Masterrezital,2015-09-28,[' Nicolas Venner '],Classic
-13,Zürich,Ten-Strings-&-A-Goat-Skin,2015-09-28,['Ten Strings & A Goat Skin '],
-14,Winterthur,The-Great-Park,2015-09-28,['The Great Park '],Pop
-15,Ascona,Settimane-musicali-di-Ascona,2015-09-28,['Jan Vogler '],Classic
-16,Zürich,Zap-Mama,2015-09-28,"[' Marie Daulne ', ' Tanja Daese ', ' Judith Okon ', ' Lene N. Christensen ', ' Senjka Danhieux ', ' Bernhard Wrincq ']",
+location,event,date,artists,genre
+Zürich,Monte-Carlo,2015-09-28,['Monte Carlo '],
+Basel,Masterrezital,2015-09-28,[' Csongor Szántó '],Classic
+Basel,Die-Orgel-im-Dialog-mit-dem-Star-Tenor,2015-09-28,"['Daniel Behle ', ' Klaus Rothaupt ', ' Anne-Cathérine Heinzmann ', ' Andrea Bischof ']",Classic
+Zürich,Spektrum,2015-09-28,"[' Frits Damrow ', ' Michael Massong ', ' François Killian ']",Classic
+Zürich,Für-sie-entdeckt,2015-09-28,"['Felix Klieser ', ' Claire Huangci ']",Classic
+Zürich,The-Bones,2015-09-28,"['The Bones ', ' support: 4 Promille ', ' Rogers ', ' The Electric Overdrive ']",
+null,Arabella-Steinbacher-und-die-Festival-Strings-Lucerne,2015-09-28,[' Arabella Steinbacher '],Classic
+null,Gabriela-Krapf-&-Horns,2015-09-28,"[' Gabriela Krapf ', ' Silvan Kiser ', ' Raffaele ', ' Phil Powell ']",
+Zürich,Mike-Scala,2015-09-28,['Mike Scala '],Pop
+Zürich,Nik-Bärtschs-Ronin,2015-09-28,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
+Zürich,Lilly-Martin-&-Band,2015-09-28,"[' Lilly Martin ', ' Oliver Keller ', ' Michael Dolmetsch ', ' Markus Fritzsche ', ' Tom Beck ']",
+Basel,Masterrezital,2015-09-28,[' Mara Miribung '],Classic
+Basel,Masterrezital,2015-09-28,[' Nicolas Venner '],Classic
+Zürich,Ten-Strings-&-A-Goat-Skin,2015-09-28,['Ten Strings & A Goat Skin '],
+Winterthur,The-Great-Park,2015-09-28,['The Great Park '],Pop
+Ascona,Settimane-musicali-di-Ascona,2015-09-28,['Jan Vogler '],Classic
+Zürich,Zap-Mama,2015-09-28,"[' Marie Daulne ', ' Tanja Daese ', ' Judith Okon ', ' Lene N. Christensen ', ' Senjka Danhieux ', ' Bernhard Wrincq ']",

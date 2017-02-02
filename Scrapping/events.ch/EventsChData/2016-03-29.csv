@@ -1,13 +1,13 @@
-,location,event,date,artists,genre
-0,Zürich,Jazzapero,2016-03-29,"[' Reto Suhner ', ' Philip Henzi ', ' Silvan Jeger ', ' Dominic Egli ']",
-1,Zürich,Jewish-Song-Festival,2016-03-29,"[' Yaakov Shwekey ', ' Duo Gurfinkel ']",Classic
-2,Zürich,Musikkollegium-Winterthur,2016-03-29,['Andreas Ottensamer '],Classic
-3,Bern,Internationales-Jazzfestival-Bern,2016-03-29,['Barbara Morrison '],
-4,null,Prong,2016-03-29,"['Prong ', ' Steak Number Eight ', ' Man Machine Industry ']",
-5,Solothurn,Marathonmann,2016-03-29,['Marathonmann '],
-6,Basel,Forum-für-improvisierte-Musik-&-Tanz,2016-03-29,"[' Harald Kimmig ', ' Daniel Studer ', ' Alfred Zimmerlin ', ' Christian Müller ']",
-7,Thun,Colin-Vallon,2016-03-29,"[' Colin Vallon ', ' Patrice Moret ', ' Nicolas Masson ', ' Lionel Friedli ']",
-8,Pratteln,Pat-McManus,2016-03-29,['Pat McManus '],
-9,Zürich,Artist-in-Residence-Herbie-Kopf,2016-03-29,"[' Rolf Lislevand ', ' Sylwia Bialas ', ' Esther Bächlin ', ' Herbie Kopf ', ' Asaf Sirkis ']",
-10,Zürich,Casino-Gitano,2016-03-29,['Casino Gitano '],
-11,Basel,L'ultima-salsa-loca,2016-03-29,"[' Isra ', ' Mambito ']",
+location,event,date,artists,genre
+Zürich,Jazzapero,2016-03-29,"[' Reto Suhner ', ' Philip Henzi ', ' Silvan Jeger ', ' Dominic Egli ']",
+Zürich,Jewish-Song-Festival,2016-03-29,"[' Yaakov Shwekey ', ' Duo Gurfinkel ']",Classic
+Zürich,Musikkollegium-Winterthur,2016-03-29,['Andreas Ottensamer '],Classic
+Bern,Internationales-Jazzfestival-Bern,2016-03-29,['Barbara Morrison '],
+null,Prong,2016-03-29,"['Prong ', ' Steak Number Eight ', ' Man Machine Industry ']",
+Solothurn,Marathonmann,2016-03-29,['Marathonmann '],
+Basel,Forum-für-improvisierte-Musik-&-Tanz,2016-03-29,"[' Harald Kimmig ', ' Daniel Studer ', ' Alfred Zimmerlin ', ' Christian Müller ']",
+Thun,Colin-Vallon,2016-03-29,"[' Colin Vallon ', ' Patrice Moret ', ' Nicolas Masson ', ' Lionel Friedli ']",
+Pratteln,Pat-McManus,2016-03-29,['Pat McManus '],
+Zürich,Artist-in-Residence-Herbie-Kopf,2016-03-29,"[' Rolf Lislevand ', ' Sylwia Bialas ', ' Esther Bächlin ', ' Herbie Kopf ', ' Asaf Sirkis ']",
+Zürich,Casino-Gitano,2016-03-29,['Casino Gitano '],
+Basel,L'ultima-salsa-loca,2016-03-29,"[' Isra ', ' Mambito ']",

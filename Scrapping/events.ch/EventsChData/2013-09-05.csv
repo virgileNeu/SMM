@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Luzern,Lucerne-Festival,2013-09-05,['Gilles Vonsattel '],Classic
-1,Le-Noirmont,Chant-du-Gros,2013-09-05,"['Joe Cocker ', ' Lenox ', ' Rover ', ' 1995 ']",Pop
-2,Montreux,Royal-Philharmonic-Orchestra-London,2013-09-05,[' Kirill Gerstein '],Classic
-3,null,Menuhin's-Heritage-IV,2013-09-05,"['Andrey Baranov ', ' Miki Aoki ']",Classic
-4,Luzern,Lucerne-Festival,2013-09-05,[' Thomas Hampson '],Classic
-5,Luzern,Salonmusik,2013-09-05,"['Martin Schaefer ', ' Richard Decker ']",Classic
-6,Bern,Ménage-à-trois,2013-09-05,"[' Barbara Bossert ', ' Uli Poschner ', ' Hannes Bärtschi ', ' Chris Jepson ']",Classic
-7,Zürich,We-Outspoken,2013-09-05,['We Outspoken '],
-8,Zürich,Puggy,2013-09-05,['Puggy '],
-9,Frauenfeld,Spittin'-Horns,2013-09-05,"[' Barbara Wehrli Wutzl ', ' Christoph Grab ', ' Reto Suhner ', ' Thomi Geiger ']",
-10,Aarau,Cosmonauts,2013-09-05,['Cosmonauts '],Pop
-11,Basel,Kaama,2013-09-05,"[' Katja Mair ', ' Christy Doran ', ' Hanspeter Pfammatter ', ' Andi Schnellmann ', ' Marc Halbheer ']",
-12,Zürich,Urban-Kicks-&-Inner-Landscapes,2013-09-05,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ']",
-13,Lausanne,Scred-Connexion,2013-09-05,['Scred Connexion '],
-14,Luzern,Jam-Session,2013-09-05,['Richard Decker '],
-15,Zürich,Evelyn-Cornejo,2013-09-05,['Evelyn Cornejo '],Pop
+location,event,date,artists,genre
+Luzern,Lucerne-Festival,2013-09-05,['Gilles Vonsattel '],Classic
+Le-Noirmont,Chant-du-Gros,2013-09-05,"['Joe Cocker ', ' Lenox ', ' Rover ', ' 1995 ']",Pop
+Montreux,Royal-Philharmonic-Orchestra-London,2013-09-05,[' Kirill Gerstein '],Classic
+null,Menuhin's-Heritage-IV,2013-09-05,"['Andrey Baranov ', ' Miki Aoki ']",Classic
+Luzern,Lucerne-Festival,2013-09-05,[' Thomas Hampson '],Classic
+Luzern,Salonmusik,2013-09-05,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Bern,Ménage-à-trois,2013-09-05,"[' Barbara Bossert ', ' Uli Poschner ', ' Hannes Bärtschi ', ' Chris Jepson ']",Classic
+Zürich,We-Outspoken,2013-09-05,['We Outspoken '],
+Zürich,Puggy,2013-09-05,['Puggy '],
+Frauenfeld,Spittin'-Horns,2013-09-05,"[' Barbara Wehrli Wutzl ', ' Christoph Grab ', ' Reto Suhner ', ' Thomi Geiger ']",
+Aarau,Cosmonauts,2013-09-05,['Cosmonauts '],Pop
+Basel,Kaama,2013-09-05,"[' Katja Mair ', ' Christy Doran ', ' Hanspeter Pfammatter ', ' Andi Schnellmann ', ' Marc Halbheer ']",
+Zürich,Urban-Kicks-&-Inner-Landscapes,2013-09-05,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ']",
+Lausanne,Scred-Connexion,2013-09-05,['Scred Connexion '],
+Luzern,Jam-Session,2013-09-05,['Richard Decker '],
+Zürich,Evelyn-Cornejo,2013-09-05,['Evelyn Cornejo '],Pop

@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Zürich,Andy-Gruber-Band,2016-04-19,['Andy Gruber Band '],traditional
-1,Zürich,Jazzapero,2016-04-19,"[' Marianne Racine ', ' Andi Scherrer ', ' Marcel Thomi ', ' Kaspar Rast ']",
-2,Basel,AMG-Rising-Stars,2016-04-19,"['Felix Klieser ', ' Mona Asuka Ott ']",Classic
-3,Bern,Internationales-Jazzfestival-Bern,2016-04-19,['T. S. Monk Sextet '],
-4,Luzern,Forum-Neue-Musik-Luzern,2016-04-19,[' Raphael Camenisch '],Classic
-5,Zürich,Gerald-Clayton-Trio,2016-04-19,"[' Gerald Clayton ', ' Harish Raghavan ', ' Henry Cole ']",
-6,Basel,Rezital,2016-04-19,['Laia Masramon '],Classic
-7,Zürich,Contemporaryologies-II,2016-04-19,"[' Ulrike Mayer-Spohn ', ' Javier Hagen ']",Classic
-8,Basel,Yves-Theiler-Trio,2016-04-19,"[' Yves Theiler ', ' Luca Sisera ', ' Lukas Mantel ']",
-9,Pratteln,Henrik-Freischlader-Trio,2016-04-19,['Henrik Freischlader Trio '],
-10,Winterthur,Allen-Finch,2016-04-19,['Allen Finch '],Pop
-11,Zürich,Artist-in-Residence-Alfred-Zimmerlin,2016-04-19,"[' Fred Frith ', ' Alfred Zimmerlin ', ' Fredy Studer ', ' Maria Fernanda Castro Vergara ']",
-12,Zürich,Liima,2016-04-19,['Liima '],Electronic
-13,Düdingen,Blind-Idiot-God,2016-04-19,['Blind Idiot God '],
+location,event,date,artists,genre
+Zürich,Andy-Gruber-Band,2016-04-19,['Andy Gruber Band '],traditional
+Zürich,Jazzapero,2016-04-19,"[' Marianne Racine ', ' Andi Scherrer ', ' Marcel Thomi ', ' Kaspar Rast ']",
+Basel,AMG-Rising-Stars,2016-04-19,"['Felix Klieser ', ' Mona Asuka Ott ']",Classic
+Bern,Internationales-Jazzfestival-Bern,2016-04-19,['T. S. Monk Sextet '],
+Luzern,Forum-Neue-Musik-Luzern,2016-04-19,[' Raphael Camenisch '],Classic
+Zürich,Gerald-Clayton-Trio,2016-04-19,"[' Gerald Clayton ', ' Harish Raghavan ', ' Henry Cole ']",
+Basel,Rezital,2016-04-19,['Laia Masramon '],Classic
+Zürich,Contemporaryologies-II,2016-04-19,"[' Ulrike Mayer-Spohn ', ' Javier Hagen ']",Classic
+Basel,Yves-Theiler-Trio,2016-04-19,"[' Yves Theiler ', ' Luca Sisera ', ' Lukas Mantel ']",
+Pratteln,Henrik-Freischlader-Trio,2016-04-19,['Henrik Freischlader Trio '],
+Winterthur,Allen-Finch,2016-04-19,['Allen Finch '],Pop
+Zürich,Artist-in-Residence-Alfred-Zimmerlin,2016-04-19,"[' Fred Frith ', ' Alfred Zimmerlin ', ' Fredy Studer ', ' Maria Fernanda Castro Vergara ']",
+Zürich,Liima,2016-04-19,['Liima '],Electronic
+Düdingen,Blind-Idiot-God,2016-04-19,['Blind Idiot God '],

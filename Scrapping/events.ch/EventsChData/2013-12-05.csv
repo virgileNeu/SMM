@@ -1,41 +1,41 @@
-,location,event,date,artists,genre
-0,Luzern,Lunchkonzert-2,2013-12-05,['Elisabeth Zawadke '],Classic
-1,Zürich,Surprise,2013-12-05,[' Vladimir Ivanov-Rakievsky '],Classic
-2,Aarau,Soliloquies,2013-12-05,['Soliloquies '],
-3,null,Zwischen-Himmel-und-Erde,2013-12-05,"[' Patricia Meier ', ' Vincent Zurkinden ']",
-4,Luzern,Die-Eisengiesserei,2013-12-05,[' Yevgeny Sudbin '],Classic
-5,Zürich,Jamzz,2013-12-05,"[' Marcel Lüscher ', ' Sheldon Suter ', ' Christoph Sprenger ']",
-6,null,Daccordeon,2013-12-05,"[' Richard Pzzorno ', ' Samuel Joss ', ' Chris von Hoffmann ']",
-7,Bern,Jubiläumskonzert,2013-12-05,[' Florian Uhlig '],Classic
-8,null,4.-Tonhallekonzert,2013-12-05,['Conductor: Wayne Marshall '],Classic
-9,Zürich,Konzert,2013-12-05,[' François-Frédéric Guy '],Classic
-10,Zürich,Thursday-Night-Jazz,2013-12-05,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-11,Basel,Aeternum-Musik-für-die-Ewigkeit,2013-12-05,[' Leitung und Werke von Helena Winkelman '],Classic
-12,Zürich,Swingin'-Christmas,2013-12-05,"[' Catriona Bühler ', ' Julia Schiwowa ', ' Helen Iten ', ' Sämi Zünd ', ' Fridolin Blumer ']",
-13,Winterthur,Shantel-&-Bucovina-Club-Orkestar,2013-12-05,['Shantel & Bucovina Club Orkestar '],
-14,Luzern,Salonmusik,2013-12-05,"['Martin Schaefer ', ' Richard Decker ']",Classic
-15,Zürich,The-Browning,2013-12-05,"['The Browning ', ' Shoot The Girl First ', ' Upon This Dawning ']",
-16,Komplex-457,Zürich,2013-12-05,"['Ayo ', ' Citizen Cope ']",Ayo
-17,Thun,Voices-of-Gospel,2013-12-05,['Prince Yelder & Disciples for Christ '],
-18,Basel,Voices-of-Gospel,2013-12-05,['St. Stephen Baptist Church Choir '],
-19,Lausanne,Piano-Club,2013-12-05,['Piano Club '],Pop
-20,Luzern,C.-Gibbs,2013-12-05,['C. Gibbs '],
-21,Bern,Sarah-Blasko,2013-12-05,['Sarah Blasko '],Pop
-22,Bülach,Bryant-Jones-&-The-Victory-Gospel-Singers-feat.-Elsa-Harris,2013-12-05,['Bryant Jones & The Victory Gospel Singers feat. Elsa Harris '],
-23,Winterthur,Marcel-Thomi's-X-Mas-Songs,2013-12-05,"[' Marcel Thoml ', ' Raffaele Lunardi ', ' Pius Baschnagel ']",
-24,Zürich,Off-We-Go,2013-12-05,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ']",
-25,Bern,Feet-Peals,2013-12-05,['Feet Peals '],
-26,Zürich,Daughn-Gibson,2013-12-05,['Daughn Gibson '],Pop
-27,Basel,Culturescapes,2013-12-05,['Damir Imamovic '],
-28,Zürich,Lucky-Peterson,2013-12-05,"['Lucky Peterson ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Marvin Hollie ', ' Waites ', ' Raul Valdes ']",
-29,Schaffhausen,Lia-Pale-feat.-Mathias-Rüegg,2013-12-05,['Lia Pale feat. Mathias Rüegg '],
-30,Zürich,Extrakonzert-Zéphyr-Combo,2013-12-05,"[' Geert Dedapper ', ' Esther Nydegger ', ' Ali Salvioni ', ' Michel Münch ']",
-31,Wil,Matthew-Caws,2013-12-05,['Matthew Caws '],Pop
-32,null,Songs-from-Utopia,2013-12-05,"['Rebekka Zarkava ', ' Jura Dolezal ']",
-33,Zürich,Frightened-Rabbit-abgesagt,2013-12-05,['Frightened Rabbit '],
-34,Baden,Paul-Tiernan,2013-12-05,['Paul Tiernan '],Pop
-35,Aarau,Skip-&-Die,2013-12-05,['Skip & Die '],
-36,Vevey,JC-Satàn,2013-12-05,['JC Satàn '],
-37,Basel,Scorpion-Child,2013-12-05,"['Scorpion Child ', ' Spiral Arms ']",
-38,Luzern,Jam-Session,2013-12-05,['Richard Decker '],
-39,Pontresina,Rythm-River-Trio,2013-12-05,['Rythm River Trio '],
+location,event,date,artists,genre
+Luzern,Lunchkonzert-2,2013-12-05,['Elisabeth Zawadke '],Classic
+Zürich,Surprise,2013-12-05,[' Vladimir Ivanov-Rakievsky '],Classic
+Aarau,Soliloquies,2013-12-05,['Soliloquies '],
+null,Zwischen-Himmel-und-Erde,2013-12-05,"[' Patricia Meier ', ' Vincent Zurkinden ']",
+Luzern,Die-Eisengiesserei,2013-12-05,[' Yevgeny Sudbin '],Classic
+Zürich,Jamzz,2013-12-05,"[' Marcel Lüscher ', ' Sheldon Suter ', ' Christoph Sprenger ']",
+null,Daccordeon,2013-12-05,"[' Richard Pzzorno ', ' Samuel Joss ', ' Chris von Hoffmann ']",
+Bern,Jubiläumskonzert,2013-12-05,[' Florian Uhlig '],Classic
+null,4.-Tonhallekonzert,2013-12-05,['Conductor: Wayne Marshall '],Classic
+Zürich,Konzert,2013-12-05,[' François-Frédéric Guy '],Classic
+Zürich,Thursday-Night-Jazz,2013-12-05,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Basel,Aeternum-Musik-für-die-Ewigkeit,2013-12-05,[' Leitung und Werke von Helena Winkelman '],Classic
+Zürich,Swingin'-Christmas,2013-12-05,"[' Catriona Bühler ', ' Julia Schiwowa ', ' Helen Iten ', ' Sämi Zünd ', ' Fridolin Blumer ']",
+Winterthur,Shantel-&-Bucovina-Club-Orkestar,2013-12-05,['Shantel & Bucovina Club Orkestar '],
+Luzern,Salonmusik,2013-12-05,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Zürich,The-Browning,2013-12-05,"['The Browning ', ' Shoot The Girl First ', ' Upon This Dawning ']",
+Komplex-457,Zürich,2013-12-05,"['Ayo ', ' Citizen Cope ']",Ayo
+Thun,Voices-of-Gospel,2013-12-05,['Prince Yelder & Disciples for Christ '],
+Basel,Voices-of-Gospel,2013-12-05,['St. Stephen Baptist Church Choir '],
+Lausanne,Piano-Club,2013-12-05,['Piano Club '],Pop
+Luzern,C.-Gibbs,2013-12-05,['C. Gibbs '],
+Bern,Sarah-Blasko,2013-12-05,['Sarah Blasko '],Pop
+Bülach,Bryant-Jones-&-The-Victory-Gospel-Singers-feat.-Elsa-Harris,2013-12-05,['Bryant Jones & The Victory Gospel Singers feat. Elsa Harris '],
+Winterthur,Marcel-Thomi's-X-Mas-Songs,2013-12-05,"[' Marcel Thoml ', ' Raffaele Lunardi ', ' Pius Baschnagel ']",
+Zürich,Off-We-Go,2013-12-05,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ']",
+Bern,Feet-Peals,2013-12-05,['Feet Peals '],
+Zürich,Daughn-Gibson,2013-12-05,['Daughn Gibson '],Pop
+Basel,Culturescapes,2013-12-05,['Damir Imamovic '],
+Zürich,Lucky-Peterson,2013-12-05,"['Lucky Peterson ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Marvin Hollie ', ' Waites ', ' Raul Valdes ']",
+Schaffhausen,Lia-Pale-feat.-Mathias-Rüegg,2013-12-05,['Lia Pale feat. Mathias Rüegg '],
+Zürich,Extrakonzert-Zéphyr-Combo,2013-12-05,"[' Geert Dedapper ', ' Esther Nydegger ', ' Ali Salvioni ', ' Michel Münch ']",
+Wil,Matthew-Caws,2013-12-05,['Matthew Caws '],Pop
+null,Songs-from-Utopia,2013-12-05,"['Rebekka Zarkava ', ' Jura Dolezal ']",
+Zürich,Frightened-Rabbit-abgesagt,2013-12-05,['Frightened Rabbit '],
+Baden,Paul-Tiernan,2013-12-05,['Paul Tiernan '],Pop
+Aarau,Skip-&-Die,2013-12-05,['Skip & Die '],
+Vevey,JC-Satàn,2013-12-05,['JC Satàn '],
+Basel,Scorpion-Child,2013-12-05,"['Scorpion Child ', ' Spiral Arms ']",
+Luzern,Jam-Session,2013-12-05,['Richard Decker '],
+Pontresina,Rythm-River-Trio,2013-12-05,['Rythm River Trio '],

@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,Zürich,Lunchkonzert,2015-03-23,"[' Alain Altinoglu ', ' Hanna Weinmeister ', ' Janet Van Hasselt ', ' Sebastian Eyb ', ' Claudius Herrmann ']",Classic
-1,Bern,Sous-les-étoiles,2015-03-23,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
-2,Zürich,Konzert,2015-03-23,['Stefan Cassomenos '],Classic
-3,Zürich,Lionel-Richie,2015-03-23,['Lionel Richie '],
-4,Lausanne,Selah-Sue,2015-03-23,"['Selah Sue ', ' Support: Gabriel Rios ']",Pop
-5,Zürich,St.-Paul-&-The-Broken-Bones,2015-03-23,"['St. Paul & The Broken Bones ', ' Paul Janeway ', ' Browan Lollar ', ' Al Gamble ', ' Allen Branstetter ']",
-6,Zürich,Mozart-Arien-Lieder-und-Briefe,2015-03-23,"['Ivana Rusko ', ' Bogulsaw Bidzinski ', ' Boris Petronje ', ' Yaël Anaïs Dengler ']",Classic
-7,Basel,N-3.1,2015-03-23,"[' Anja Brezavek ', ' Valentina Trucelj ', ' Mirka Epanovi ', ' Noémie Bialobroda ']",Classic
-8,null,Limberlumber,2015-03-23,"[' Patrick Sommer ', ' Julian Sartorius ', ' Christian Rösli ']",
-9,Baden,Leimgruber-Demierre-Philipps,2015-03-23,"[' Urs Leimgruber ', ' Barre Philipps ', ' Jacques Demierre ']",
-10,Zürich,Artist-in-Residence-Herbert-Kramis,2015-03-23,"[' Jacqueline Ott ', "" Paolo D'Angelo "", ' Jojo Kunz ', ' Andrea Kirchhofer ', ' Otmar Kramis ']",
-11,Lausanne,Dark-Horses,2015-03-23,['Dark Horses '],Pop
-12,Zürich,Contreband,2015-03-23,"[' Raphaël Pedroli ', ' Colin Vallon ', ' Raphaël Ortis ']",
+location,event,date,artists,genre
+Zürich,Lunchkonzert,2015-03-23,"[' Alain Altinoglu ', ' Hanna Weinmeister ', ' Janet Van Hasselt ', ' Sebastian Eyb ', ' Claudius Herrmann ']",Classic
+Bern,Sous-les-étoiles,2015-03-23,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
+Zürich,Konzert,2015-03-23,['Stefan Cassomenos '],Classic
+Zürich,Lionel-Richie,2015-03-23,['Lionel Richie '],
+Lausanne,Selah-Sue,2015-03-23,"['Selah Sue ', ' Support: Gabriel Rios ']",Pop
+Zürich,St.-Paul-&-The-Broken-Bones,2015-03-23,"['St. Paul & The Broken Bones ', ' Paul Janeway ', ' Browan Lollar ', ' Al Gamble ', ' Allen Branstetter ']",
+Zürich,Mozart-Arien-Lieder-und-Briefe,2015-03-23,"['Ivana Rusko ', ' Bogulsaw Bidzinski ', ' Boris Petronje ', ' Yaël Anaïs Dengler ']",Classic
+Basel,N-3.1,2015-03-23,"[' Anja Brezavek ', ' Valentina Trucelj ', ' Mirka Epanovi ', ' Noémie Bialobroda ']",Classic
+null,Limberlumber,2015-03-23,"[' Patrick Sommer ', ' Julian Sartorius ', ' Christian Rösli ']",
+Baden,Leimgruber-Demierre-Philipps,2015-03-23,"[' Urs Leimgruber ', ' Barre Philipps ', ' Jacques Demierre ']",
+Zürich,Artist-in-Residence-Herbert-Kramis,2015-03-23,"[' Jacqueline Ott ', "" Paolo D'Angelo "", ' Jojo Kunz ', ' Andrea Kirchhofer ', ' Otmar Kramis ']",
+Lausanne,Dark-Horses,2015-03-23,['Dark Horses '],Pop
+Zürich,Contreband,2015-03-23,"[' Raphaël Pedroli ', ' Colin Vallon ', ' Raphaël Ortis ']",

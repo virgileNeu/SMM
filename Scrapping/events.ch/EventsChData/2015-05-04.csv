@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,Basel,Masterrezital,2015-05-04,['Hitomi Niikura '],Classic
-1,Basel,Bachelorrezital,2015-05-04,[' Alberto Miguélez Rouco '],Classic
-2,Basel,Masterrezital,2015-05-04,['Clara Rada Gómez '],Classic
-3,Zürich,Spektrum-Süsses-Verlangen,2015-05-04,[' conductor: Markus Utz '],Classic
-4,Zürich,Zurück-ins-Licht,2015-05-04,"[' Meng Tian ', ' Heinz Tobler ', ' Oliver Süess ', ' Patrick ']",Pop
-5,Zürich,Music-Box,2015-05-04,"[' Rico Gubler ', ' Stefan Wirth ']",Classic
-6,Chur,Klassik-Forum-Chur,2015-05-04,[' Fazil Say '],Classic
-7,Zürich,Trio-Zugluft,2015-05-04,"[' Andrea Kirchhofer ', ' Jonas Guggenheim ', ' Bruno Strüby ']",Classic
-8,null,Bluesonix,2015-05-04,"[' Simone Johnson ', ' Stefan Dennler ', ' Alex Steiner ', ' Bully Schoch ', ' Roger Maurer ']",
-9,Basel,Jazzfestival-Basel,2015-05-04,"['Joe Lovano & The Village Rhythm Band ', ' Joe Lovano ', ' Otis Brown III ', ' Liberty Ellman ', ' Matt Garrison ', ' Abdou Mboup ']",
-10,Winterthur,In-Maggiore,2015-05-04,"[' Paolo Fresu ', ' Daniele di Bonaventura ']",
-11,Basel,Bachelorrezital,2015-05-04,[' Valerio Zanolli '],Classic
-12,Zürich,Golden-Striker-Trio,2015-05-04,"[' Ron Carter ', ' Russell Malone ', ' Donald Vega ']",
+location,event,date,artists,genre
+Basel,Masterrezital,2015-05-04,['Hitomi Niikura '],Classic
+Basel,Bachelorrezital,2015-05-04,[' Alberto Miguélez Rouco '],Classic
+Basel,Masterrezital,2015-05-04,['Clara Rada Gómez '],Classic
+Zürich,Spektrum-Süsses-Verlangen,2015-05-04,[' conductor: Markus Utz '],Classic
+Zürich,Zurück-ins-Licht,2015-05-04,"[' Meng Tian ', ' Heinz Tobler ', ' Oliver Süess ', ' Patrick ']",Pop
+Zürich,Music-Box,2015-05-04,"[' Rico Gubler ', ' Stefan Wirth ']",Classic
+Chur,Klassik-Forum-Chur,2015-05-04,[' Fazil Say '],Classic
+Zürich,Trio-Zugluft,2015-05-04,"[' Andrea Kirchhofer ', ' Jonas Guggenheim ', ' Bruno Strüby ']",Classic
+null,Bluesonix,2015-05-04,"[' Simone Johnson ', ' Stefan Dennler ', ' Alex Steiner ', ' Bully Schoch ', ' Roger Maurer ']",
+Basel,Jazzfestival-Basel,2015-05-04,"['Joe Lovano & The Village Rhythm Band ', ' Joe Lovano ', ' Otis Brown III ', ' Liberty Ellman ', ' Matt Garrison ', ' Abdou Mboup ']",
+Winterthur,In-Maggiore,2015-05-04,"[' Paolo Fresu ', ' Daniele di Bonaventura ']",
+Basel,Bachelorrezital,2015-05-04,[' Valerio Zanolli '],Classic
+Zürich,Golden-Striker-Trio,2015-05-04,"[' Ron Carter ', ' Russell Malone ', ' Donald Vega ']",

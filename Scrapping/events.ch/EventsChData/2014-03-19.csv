@@ -1,32 +1,32 @@
-,location,event,date,artists,genre
-0,Basel,Mimiko-Du-bist-der-Lenz,2014-03-19,"['Funda Asena Aktop ', ' Faritamo Susi ']",Classic
-1,null,Tanzmusik-rund-um-Wien,2014-03-19,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-2,Luzern,Piano-Entertainment,2014-03-19,['Mark Tenger '],
-3,Luzern,Taksim-Trio,2014-03-19,['Taksim Trio '],Electronic
-4,Basel,Fantastique,2014-03-19,[' Véronique Gens '],Classic
-5,Olten,Konzert,2014-03-19,[' Alena Baeva '],Classic
-6,Zürich,Konzert,2014-03-19,"[' Güher Pekinel ', ' Süher Pekinel ']",Classic
-7,Winterthur,Virtuose-Spanien-Impressionen,2014-03-19,[' Alexandra Soumm '],Classic
-8,Zürich,Backstreet-Boys,2014-03-19,['Backstreet Boys '],Pop
-9,Zürich,Tommy-Emmanuel,2014-03-19,['Tommy Emmanuel '],
-10,Zürich,The-Jezabels,2014-03-19,['The Jezabels '],Pop
-11,Chur,2.-Sinfoniekonzert,2014-03-19,[' Valeriy Sokolov '],Classic
-12,Schaffhausen,Soulfly,2014-03-19,"['Soulfly ', ' Max Cavalera ', ' Marc Rizzo ', ' Tony Campos ', ' Zyon Cavalera ']",
-13,Zürich,Die-Evolution,2014-03-19,"[' Kismara Pessatti ', ' Valentin Gloor ']",Classic
-14,Zürich,Coogans-Bluff,2014-03-19,['Coogans Bluff '],
-15,Zürich,SOFIA-Festival,2014-03-19,"['Karin Ospelt ', ' Olga Trofimova ', ' Carla Gaudré ', ' Sophie Baudon ', ' Stevie-Jo Dooley ', ' Katharina Gross ', ' Imogen Gleichauf ']",
-16,Luzern,Jam-Night,2014-03-19,"[' Rik Fisk ', ' Marco Ineichen ', ' Mike Maloth ']",
-17,Zürich,Five-Finger-Death-Punch,2014-03-19,"['Five Finger Death Punch ', ' support: Upon A Burning Body ']",
-18,Winterthur,Jazz-am-Mittwoch,2014-03-19,"['Baloni ', ' Joachim Badenhorst ', ' Frantz Loriot ', ' Pascal Niggenkemper ']",
-19,Winterthur,Ghost-Town-Trio-feat.-Brandy-Butler,2014-03-19,"[' Brandy Butler ', ' Urs Vögeli ', ' Claude Meier ', ' Lukas Mantel ']",
-20,Wädenswil,Primo-piano,2014-03-19,['Anna Reichert '],Classic
-21,Bern,The-Bad-Plus,2014-03-19,['The Bad Plus '],
-22,Baden,Blaer,2014-03-19,"[' Maja Nydegger ', ' Nils Fischer ', ' Claudio von Arx ', ' Simon Iten ', ' Emanuel Künzi ']",
-23,Zürich,Aline-Frazão,2014-03-19,"['Aline Frazão ', ' Aline Frazao ', ' Marcos Alves ', ' Francesco Valente ', ' Marco Pombinhoi ']",
-24,Zürich,Nikki-Forova,2014-03-19,['Nikki Forova '],Pop
-25,Basel,Marianne-Racine,2014-03-19,"[' Marianne Racine ', ' Martien Oster ', ' Christoph Sprenger ', ' Alfred Kramer ']",
-26,Feuerthalen,Tom-Vanstiphout,2014-03-19,['Tom Vanstiphout '],Pop
-27,Düdingen,Lorelle-Meets-The-Obsolete,2014-03-19,['Lorelle Meets The Obsolete '],
-28,null,Scraps-of-Tape,2014-03-19,['Scraps of Tape '],
-29,Winterthur,Corrosion-of-Conformity,2014-03-19,"['Corrosion of Conformity ', ' Hellamor ']",
-30,Lausanne,Grails,2014-03-19,"['Grails ', ' Lilacs & Champagne ']",
+location,event,date,artists,genre
+Basel,Mimiko-Du-bist-der-Lenz,2014-03-19,"['Funda Asena Aktop ', ' Faritamo Susi ']",Classic
+null,Tanzmusik-rund-um-Wien,2014-03-19,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
+Luzern,Piano-Entertainment,2014-03-19,['Mark Tenger '],
+Luzern,Taksim-Trio,2014-03-19,['Taksim Trio '],Electronic
+Basel,Fantastique,2014-03-19,[' Véronique Gens '],Classic
+Olten,Konzert,2014-03-19,[' Alena Baeva '],Classic
+Zürich,Konzert,2014-03-19,"[' Güher Pekinel ', ' Süher Pekinel ']",Classic
+Winterthur,Virtuose-Spanien-Impressionen,2014-03-19,[' Alexandra Soumm '],Classic
+Zürich,Backstreet-Boys,2014-03-19,['Backstreet Boys '],Pop
+Zürich,Tommy-Emmanuel,2014-03-19,['Tommy Emmanuel '],
+Zürich,The-Jezabels,2014-03-19,['The Jezabels '],Pop
+Chur,2.-Sinfoniekonzert,2014-03-19,[' Valeriy Sokolov '],Classic
+Schaffhausen,Soulfly,2014-03-19,"['Soulfly ', ' Max Cavalera ', ' Marc Rizzo ', ' Tony Campos ', ' Zyon Cavalera ']",
+Zürich,Die-Evolution,2014-03-19,"[' Kismara Pessatti ', ' Valentin Gloor ']",Classic
+Zürich,Coogans-Bluff,2014-03-19,['Coogans Bluff '],
+Zürich,SOFIA-Festival,2014-03-19,"['Karin Ospelt ', ' Olga Trofimova ', ' Carla Gaudré ', ' Sophie Baudon ', ' Stevie-Jo Dooley ', ' Katharina Gross ', ' Imogen Gleichauf ']",
+Luzern,Jam-Night,2014-03-19,"[' Rik Fisk ', ' Marco Ineichen ', ' Mike Maloth ']",
+Zürich,Five-Finger-Death-Punch,2014-03-19,"['Five Finger Death Punch ', ' support: Upon A Burning Body ']",
+Winterthur,Jazz-am-Mittwoch,2014-03-19,"['Baloni ', ' Joachim Badenhorst ', ' Frantz Loriot ', ' Pascal Niggenkemper ']",
+Winterthur,Ghost-Town-Trio-feat.-Brandy-Butler,2014-03-19,"[' Brandy Butler ', ' Urs Vögeli ', ' Claude Meier ', ' Lukas Mantel ']",
+Wädenswil,Primo-piano,2014-03-19,['Anna Reichert '],Classic
+Bern,The-Bad-Plus,2014-03-19,['The Bad Plus '],
+Baden,Blaer,2014-03-19,"[' Maja Nydegger ', ' Nils Fischer ', ' Claudio von Arx ', ' Simon Iten ', ' Emanuel Künzi ']",
+Zürich,Aline-Frazão,2014-03-19,"['Aline Frazão ', ' Aline Frazao ', ' Marcos Alves ', ' Francesco Valente ', ' Marco Pombinhoi ']",
+Zürich,Nikki-Forova,2014-03-19,['Nikki Forova '],Pop
+Basel,Marianne-Racine,2014-03-19,"[' Marianne Racine ', ' Martien Oster ', ' Christoph Sprenger ', ' Alfred Kramer ']",
+Feuerthalen,Tom-Vanstiphout,2014-03-19,['Tom Vanstiphout '],Pop
+Düdingen,Lorelle-Meets-The-Obsolete,2014-03-19,['Lorelle Meets The Obsolete '],
+null,Scraps-of-Tape,2014-03-19,['Scraps of Tape '],
+Winterthur,Corrosion-of-Conformity,2014-03-19,"['Corrosion of Conformity ', ' Hellamor ']",
+Lausanne,Grails,2014-03-19,"['Grails ', ' Lilacs & Champagne ']",

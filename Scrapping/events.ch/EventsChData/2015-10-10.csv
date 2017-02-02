@@ -1,35 +1,35 @@
-,location,event,date,artists,genre
-0,Zürich,Top-Party-Band-Krokodili,2015-10-10,['Top Party Band Krokodili '],
-1,Bad-Ragaz,Jill-Benz,2015-10-10,"[' Jill Benz ', ' Alan Rogers ', ' Bruce Roberts ', ' Addie Davies ', ' Ged Fern ', ' Erwin Gieshaber ']",
-2,Zürich,Meh-Suff-Presents,2015-10-10,"['Eisregen ', ' Debauchery ', ' Milking the Goatmachine ']",
-3,null,Olma-Konzert,2015-10-10,[' Annerös Hulliger '],Classic
-4,Basel,Basel-Plucks,2015-10-10,"['Walter Feybli ', ' Urs Neuhaus ']",Classic
-5,Binningen,Herzensmusik,2015-10-10,"[' Miriam Feuersinger ', ' Xenia Löffler ']",Classic
-6,Zürich,175-Jahre-Tschaikowski,2015-10-10,[' conductor: Sherniyaz Mussakhan '],Classic
-7,-Alte-Kirche,Boswil,2015-10-10,"[' Robert Koller ', ' works by Ivan Fedele ']",Classic
-8,Zürich,The-Dillians,2015-10-10,['The Dillians '],Pop
-9,Münchenstein,Gábor-Lázár,2015-10-10,"['Gábor Lázár ', ' Theo Burt ']",Electronic
-10,Basel,Les-Voix-Humaines-Die-Blütezeit-der-Gambe-in-Frankreich,2015-10-10,"['Jane Achtman ', ' Irene Klein ']",Classic
-11,Basel,Nojakîn,2015-10-10,"[' Corinne Huber ', ' Christoph Huber ', ' Lukas Kohler ', ' Michael Haudenschild ', ' Benjamin Muralt ', ' Lukas Rutzen ']",
-12,Winterthur,Burst-&-Bloom,2015-10-10,['I Not Dance '],
-13,Basel,Atlantic-Crossing,2015-10-10,"[' Roberto Bossard ', ' Mark Soskin ', ' Gildas Boclé ', ' Elmar Frey ']",
-14,Basel,Saun-&-Starr,2015-10-10,['Saun & Starr '],
-15,Zürich,White-Stain,2015-10-10,['White Stain '],
-16,Zürich,Acoustic-Night-Café-Deseado,2015-10-10,"[' Julia Herkert ', ' Martin Amstutz ', ' Stefan Gschwend ']",
-17,Zürich,Instrumentals-I,2015-10-10,[' Duri Collenberg '],
-18,Lausanne,Youssoupha,2015-10-10,['Youssoupha '],
-19,Bern,Pablopolar,2015-10-10,['Pablopolar '],Pop
-20,Basel,Basel-Plucks,2015-10-10,['Ken Zuckerman '],
-21,Bern,PDT,2015-10-10,"[' Dänu Iseli ', ' Jüre Burkhard ', ' Roger Aeschbacher ', ' Stebu Stauffiger ', ' Mike Aeschbacher ']",
-22,Rubigen,Earl-Thomas,2015-10-10,['Earl Thomas '],
-23,Bern,The-Shit,2015-10-10,['The Shit '],
-24,Kriens,Poppy-Ackroyd,2015-10-10,"['Poppy Ackroyd ', ' Carlos Cipa ']",Electronic
-25,Zürich,Vega,2015-10-10,['Vega '],
-26,Winterthur,House-of-Diiz,2015-10-10,['House of Diiz '],
-27,Basel,Impro-Duos,2015-10-10,"['Arlette Dellers ', ' Kilian Dellers ']",
-28,Zürich,Ryan-Bingham,2015-10-10,"['Ryan Bingham ', ' Sons of Bill ']",
-29,null,Afro-Reggae-Night,2015-10-10,"['Saf-Sap ', ' Sara Lugo & Next Generation Family ']",
-30,Bern,Rocky-Wood,2015-10-10,[' support: The Shalalalas '],Pop
-31,Basel,Hole,2015-10-10,[' The Tuts '],
-32,Luzern,Dixkson,2015-10-10,"['Dixkson ', ' Basement Roots ']",
-33,Zürich,5-Years-Beautiful,2015-10-10,['DJs Maor '],
+location,event,date,artists,genre
+Zürich,Top-Party-Band-Krokodili,2015-10-10,['Top Party Band Krokodili '],
+Bad-Ragaz,Jill-Benz,2015-10-10,"[' Jill Benz ', ' Alan Rogers ', ' Bruce Roberts ', ' Addie Davies ', ' Ged Fern ', ' Erwin Gieshaber ']",
+Zürich,Meh-Suff-Presents,2015-10-10,"['Eisregen ', ' Debauchery ', ' Milking the Goatmachine ']",
+null,Olma-Konzert,2015-10-10,[' Annerös Hulliger '],Classic
+Basel,Basel-Plucks,2015-10-10,"['Walter Feybli ', ' Urs Neuhaus ']",Classic
+Binningen,Herzensmusik,2015-10-10,"[' Miriam Feuersinger ', ' Xenia Löffler ']",Classic
+Zürich,175-Jahre-Tschaikowski,2015-10-10,[' conductor: Sherniyaz Mussakhan '],Classic
+-Alte-Kirche,Boswil,2015-10-10,"[' Robert Koller ', ' works by Ivan Fedele ']",Classic
+Zürich,The-Dillians,2015-10-10,['The Dillians '],Pop
+Münchenstein,Gábor-Lázár,2015-10-10,"['Gábor Lázár ', ' Theo Burt ']",Electronic
+Basel,Les-Voix-Humaines-Die-Blütezeit-der-Gambe-in-Frankreich,2015-10-10,"['Jane Achtman ', ' Irene Klein ']",Classic
+Basel,Nojakîn,2015-10-10,"[' Corinne Huber ', ' Christoph Huber ', ' Lukas Kohler ', ' Michael Haudenschild ', ' Benjamin Muralt ', ' Lukas Rutzen ']",
+Winterthur,Burst-&-Bloom,2015-10-10,['I Not Dance '],
+Basel,Atlantic-Crossing,2015-10-10,"[' Roberto Bossard ', ' Mark Soskin ', ' Gildas Boclé ', ' Elmar Frey ']",
+Basel,Saun-&-Starr,2015-10-10,['Saun & Starr '],
+Zürich,White-Stain,2015-10-10,['White Stain '],
+Zürich,Acoustic-Night-Café-Deseado,2015-10-10,"[' Julia Herkert ', ' Martin Amstutz ', ' Stefan Gschwend ']",
+Zürich,Instrumentals-I,2015-10-10,[' Duri Collenberg '],
+Lausanne,Youssoupha,2015-10-10,['Youssoupha '],
+Bern,Pablopolar,2015-10-10,['Pablopolar '],Pop
+Basel,Basel-Plucks,2015-10-10,['Ken Zuckerman '],
+Bern,PDT,2015-10-10,"[' Dänu Iseli ', ' Jüre Burkhard ', ' Roger Aeschbacher ', ' Stebu Stauffiger ', ' Mike Aeschbacher ']",
+Rubigen,Earl-Thomas,2015-10-10,['Earl Thomas '],
+Bern,The-Shit,2015-10-10,['The Shit '],
+Kriens,Poppy-Ackroyd,2015-10-10,"['Poppy Ackroyd ', ' Carlos Cipa ']",Electronic
+Zürich,Vega,2015-10-10,['Vega '],
+Winterthur,House-of-Diiz,2015-10-10,['House of Diiz '],
+Basel,Impro-Duos,2015-10-10,"['Arlette Dellers ', ' Kilian Dellers ']",
+Zürich,Ryan-Bingham,2015-10-10,"['Ryan Bingham ', ' Sons of Bill ']",
+null,Afro-Reggae-Night,2015-10-10,"['Saf-Sap ', ' Sara Lugo & Next Generation Family ']",
+Bern,Rocky-Wood,2015-10-10,[' support: The Shalalalas '],Pop
+Basel,Hole,2015-10-10,[' The Tuts '],
+Luzern,Dixkson,2015-10-10,"['Dixkson ', ' Basement Roots ']",
+Zürich,5-Years-Beautiful,2015-10-10,['DJs Maor '],

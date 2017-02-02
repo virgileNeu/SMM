@@ -1,30 +1,30 @@
-,location,event,date,artists,genre
-0,Allmend,Frauenfeld,2013-07-12,"['Seeed ', ' Wu-Tang Clan ', ' Dizzee Rascal ', ' Asap Rocky ', ' Tyga ', ' Psy 4 de la Rime ', ' Left Boy ', ' Tyler The Creator ', ' Earl Sweatshirt ', ' Mo Trip ']",Seeed
-1,null,Flimser-Musikfestival,2013-07-12,[' Matteo Pastorello '],Classic
-2,Luzern,Piano-Entertainment-Easy-Jazz-mit-einer-Prise-Pop,2013-07-12,['Fabienne Ambuhl '],
-3,Basel,Orgelspiel-zum-Feierabend,2013-07-12,['Matthias Maierhofer '],Classic
-4,Dietikon,Feierabendmusik-in-der-Kirche,2013-07-12,['Works by Bernhard Hörler '],Classic
-5,Zürich,Get-Well-Soon,2013-07-12,['Get Well Soon '],
-6,Amphitheater,Hüntwangen,2013-07-12,"['FM Belfast ', ' Michel aus Lübdeburg ']",
-7,Zürich,Wagner-Meets-Jazz,2013-07-12,"[' Andreas Tschopp ', ' Bernhard Bamert ', ' Nils Wogram ', ' Jan Schreiner ']",
-8,null,Jazz-Parade,2013-07-12,[' Nina Hagen '],
-9,Montreux-Music-&-Convention-Centre,Montreux,2013-07-12,"['Claudia Leitte ', ' Gal Costa ', ' Tulipa Ruiz ']",
-10,Zürich,Openair,2013-07-12,[' King Automatic '],
-11,Montreux,Montreux-Jazz-Festival,2013-07-12,"['Shemekia Copeland ', ' Sugar Blue ']",
-12,Aarberg,Stars-of-Sounds,2013-07-12,"['Candy Dulfer ', ' Söhne Mannheims ', ' The Baseballs ']",Pop
-13,Seuzach,Harfe-Violine-Visuelles,2013-07-12,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-14,Dolder-Sports,Zürich,2013-07-12,['Natalie Cole '],
-15,The-Bird's-Eye-Jazz-Club,Basel,2013-07-12,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-16,Piazza-Grande,Locarno,2013-07-12,"['Bryan Adams ', ' Cody Chesnutt ']",
-17,Montreux-Music-&-Convention-Centre,Montreux,2013-07-12,"['Ben Howard ', ' Daughter ']",
-18,Gaswerk,Winterthur,2013-07-12,"['Valient Thorr ', ' The Black Explosion ']",
-19,Dracula-Club,St.-Moritz,2013-07-12,"['Diane Schuur ', ' Jaco McPhearson ', ' Mr. Storm ', ' John Dolby Diboy ', ' Jay New ', ' Pedro Jezerbaum ']",
-20,Zürich,Jazz-It-Up,2013-07-12,"[' Rene Kopetschny ', ' Thomas Bloch Bonhoff ', ' Timon Roth ', ' Markus Bisegger ']",
-21,Sils,Segl-Maria,2013-07-12,['Peter Rösel '],Classic
-22,Luzern,Franziska-Brücker,2013-07-12,"[' Franziska Brücker ', ' Hagen Möller ', ' Tom Berkmann ']",Pop
-23,Piazza,Brontallo,2013-07-12,['Eric Sardinas '],
-24,null,Osaka-Monaurail,2013-07-12,['Osaka Monaurail '],
-25,Düdingen,Birth-of-Joy,2013-07-12,['Birth of Joy '],
-26,Zürich,Skor,2013-07-12,['Skor '],
-27,null,Salomé-Filmvertonung,2013-07-12,[' Film von Charles Bryant '],Classic
-28,null,Jazz-Parade,2013-07-12,"['Jackson Sloan & The Rhythmtone ', ' Jackson Sloan ', ' Rick Dawson ', ' Richard Studholme ']",
+location,event,date,artists,genre
+Allmend,Frauenfeld,2013-07-12,"['Seeed ', ' Wu-Tang Clan ', ' Dizzee Rascal ', ' Asap Rocky ', ' Tyga ', ' Psy 4 de la Rime ', ' Left Boy ', ' Tyler The Creator ', ' Earl Sweatshirt ', ' Mo Trip ']",Seeed
+null,Flimser-Musikfestival,2013-07-12,[' Matteo Pastorello '],Classic
+Luzern,Piano-Entertainment-Easy-Jazz-mit-einer-Prise-Pop,2013-07-12,['Fabienne Ambuhl '],
+Basel,Orgelspiel-zum-Feierabend,2013-07-12,['Matthias Maierhofer '],Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2013-07-12,['Works by Bernhard Hörler '],Classic
+Zürich,Get-Well-Soon,2013-07-12,['Get Well Soon '],
+Amphitheater,Hüntwangen,2013-07-12,"['FM Belfast ', ' Michel aus Lübdeburg ']",
+Zürich,Wagner-Meets-Jazz,2013-07-12,"[' Andreas Tschopp ', ' Bernhard Bamert ', ' Nils Wogram ', ' Jan Schreiner ']",
+null,Jazz-Parade,2013-07-12,[' Nina Hagen '],
+Montreux-Music-&-Convention-Centre,Montreux,2013-07-12,"['Claudia Leitte ', ' Gal Costa ', ' Tulipa Ruiz ']",
+Zürich,Openair,2013-07-12,[' King Automatic '],
+Montreux,Montreux-Jazz-Festival,2013-07-12,"['Shemekia Copeland ', ' Sugar Blue ']",
+Aarberg,Stars-of-Sounds,2013-07-12,"['Candy Dulfer ', ' Söhne Mannheims ', ' The Baseballs ']",Pop
+Seuzach,Harfe-Violine-Visuelles,2013-07-12,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
+Dolder-Sports,Zürich,2013-07-12,['Natalie Cole '],
+The-Bird's-Eye-Jazz-Club,Basel,2013-07-12,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
+Piazza-Grande,Locarno,2013-07-12,"['Bryan Adams ', ' Cody Chesnutt ']",
+Montreux-Music-&-Convention-Centre,Montreux,2013-07-12,"['Ben Howard ', ' Daughter ']",
+Gaswerk,Winterthur,2013-07-12,"['Valient Thorr ', ' The Black Explosion ']",
+Dracula-Club,St.-Moritz,2013-07-12,"['Diane Schuur ', ' Jaco McPhearson ', ' Mr. Storm ', ' John Dolby Diboy ', ' Jay New ', ' Pedro Jezerbaum ']",
+Zürich,Jazz-It-Up,2013-07-12,"[' Rene Kopetschny ', ' Thomas Bloch Bonhoff ', ' Timon Roth ', ' Markus Bisegger ']",
+Sils,Segl-Maria,2013-07-12,['Peter Rösel '],Classic
+Luzern,Franziska-Brücker,2013-07-12,"[' Franziska Brücker ', ' Hagen Möller ', ' Tom Berkmann ']",Pop
+Piazza,Brontallo,2013-07-12,['Eric Sardinas '],
+null,Osaka-Monaurail,2013-07-12,['Osaka Monaurail '],
+Düdingen,Birth-of-Joy,2013-07-12,['Birth of Joy '],
+Zürich,Skor,2013-07-12,['Skor '],
+null,Salomé-Filmvertonung,2013-07-12,[' Film von Charles Bryant '],Classic
+null,Jazz-Parade,2013-07-12,"['Jackson Sloan & The Rhythmtone ', ' Jackson Sloan ', ' Rick Dawson ', ' Richard Studholme ']",

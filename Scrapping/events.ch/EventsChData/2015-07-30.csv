@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,Verbier,Verbier-Festival,2015-07-30,"['Pretty Yende ', "" Michele D'Elia ""]",Classic
-1,Zürich,Andy-Gruber-Band,2015-07-30,['Andy Gruber Band '],Pop
-2,null,Apéro-concert,2015-07-30,['The Ground '],
-3,Verbier,Verbier-Festival,2015-07-30,[' Truls Mørk '],Classic
-4,Zweisimmen,Menuhin-Festival-Gstaad-Soirée-Brahms,2015-07-30,"['Christian Tetzlaff ', ' Tanja Tetzlaff ', ' Lars Vogt ']",Classic
-5,Estavayer-le-Lac,Estivale-Openair,2015-07-30,"['Mika ', ' Talisco ']",Pop
-6,Verbier,Verbier-Festival,2015-07-30,"['Matthias Goerne ', ' Menahem Pressler ']",Classic
-7,Zürich,Sophie-Lillienne,2015-07-30,['Sophie Lillienne '],Electronic
-8,Bern,Bejazz-Sommer,2015-07-30,"['Ako ', ' Matthias Kohler ', ' Michael von Rohr ', ' Lukas Wyss ', ' Anicia Kohler ', ' Christoph Utzinger ', ' Gregor Lisser ']",
-9,Zürich,Stadtsommer,2015-07-30,"[' Andi Schnellmann ', ' Manuel Troller ', ' David Meier ']",
-10,St.-Moritz,Festival-da-Jazz,2015-07-30,"[' Marius Neset ', ' Ivo Neame ', ' ', ' Jim Hart ', ' Anton Eger ']",
-11,Bignasco,Magic-Blues-Festival,2015-07-30,['Uriah Heep '],
-12,Zürich,Tijuana-Panthers,2015-07-30,['Tijuana Panthers '],
+location,event,date,artists,genre
+Verbier,Verbier-Festival,2015-07-30,"['Pretty Yende ', "" Michele D'Elia ""]",Classic
+Zürich,Andy-Gruber-Band,2015-07-30,['Andy Gruber Band '],Pop
+null,Apéro-concert,2015-07-30,['The Ground '],
+Verbier,Verbier-Festival,2015-07-30,[' Truls Mørk '],Classic
+Zweisimmen,Menuhin-Festival-Gstaad-Soirée-Brahms,2015-07-30,"['Christian Tetzlaff ', ' Tanja Tetzlaff ', ' Lars Vogt ']",Classic
+Estavayer-le-Lac,Estivale-Openair,2015-07-30,"['Mika ', ' Talisco ']",Pop
+Verbier,Verbier-Festival,2015-07-30,"['Matthias Goerne ', ' Menahem Pressler ']",Classic
+Zürich,Sophie-Lillienne,2015-07-30,['Sophie Lillienne '],Electronic
+Bern,Bejazz-Sommer,2015-07-30,"['Ako ', ' Matthias Kohler ', ' Michael von Rohr ', ' Lukas Wyss ', ' Anicia Kohler ', ' Christoph Utzinger ', ' Gregor Lisser ']",
+Zürich,Stadtsommer,2015-07-30,"[' Andi Schnellmann ', ' Manuel Troller ', ' David Meier ']",
+St.-Moritz,Festival-da-Jazz,2015-07-30,"[' Marius Neset ', ' Ivo Neame ', ' ', ' Jim Hart ', ' Anton Eger ']",
+Bignasco,Magic-Blues-Festival,2015-07-30,['Uriah Heep '],
+Zürich,Tijuana-Panthers,2015-07-30,['Tijuana Panthers '],

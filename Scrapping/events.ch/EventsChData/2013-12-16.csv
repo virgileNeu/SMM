@@ -1,13 +1,13 @@
-,location,event,date,artists,genre
-0,Zürich,Liederabend,2013-12-16,"['Pavol Breslik ', ' Amir Katz ']",Classic
-1,Zürich,Duo-Abend,2013-12-16,"['Antonio Meneses ', ' Maria João Pires ']",Classic
-2,Luzern,Weihnachts-Sinfoniekonzert,2013-12-16,"[' Patrizio Mazzola ', ' Roland Raphael ']",Classic
-3,Wettingen,Voices-of-Gospel,2013-12-16,['Prince Yelder & Disciples for Christ '],
-4,Bern,Konzert,2013-12-16,[' Hochschul-Ensemble Carl Maria von Weber '],Classic
-5,Zürich,Andy-Allo,2013-12-16,['Andy Allo '],
-6,Baden,No-Reduce-feat.-Nasheet-Waits,2013-12-16,"[' Christoph Irniger ', ' Dave Gisler ', ' Raffaele Bossard ', ' Nasheet Waits ']",
-7,Zürich,The-Pyramids,2013-12-16,['The Pyramids '],
-8,Zürich,Tiger-Lillies,2013-12-16,"['Tiger Lillies ', ' Martyn Jacques ', ' Adrian Stout ', ' Mike Pickering ']",Pop
-9,Lugano,Virginia-State-Gospel-Chorale,2013-12-16,['Virginia State Gospel Chorale '],
-10,Zürich,Bilderbuch,2013-12-16,['Bilderbuch '],
-11,Zürich,Nik-Bärtsch's-Ronin,2013-12-16,"[' Kasper Rast ', ' Thomy Jordi ', ' Sha ', ' Bernhard Wagner ']",
+location,event,date,artists,genre
+Zürich,Liederabend,2013-12-16,"['Pavol Breslik ', ' Amir Katz ']",Classic
+Zürich,Duo-Abend,2013-12-16,"['Antonio Meneses ', ' Maria João Pires ']",Classic
+Luzern,Weihnachts-Sinfoniekonzert,2013-12-16,"[' Patrizio Mazzola ', ' Roland Raphael ']",Classic
+Wettingen,Voices-of-Gospel,2013-12-16,['Prince Yelder & Disciples for Christ '],
+Bern,Konzert,2013-12-16,[' Hochschul-Ensemble Carl Maria von Weber '],Classic
+Zürich,Andy-Allo,2013-12-16,['Andy Allo '],
+Baden,No-Reduce-feat.-Nasheet-Waits,2013-12-16,"[' Christoph Irniger ', ' Dave Gisler ', ' Raffaele Bossard ', ' Nasheet Waits ']",
+Zürich,The-Pyramids,2013-12-16,['The Pyramids '],
+Zürich,Tiger-Lillies,2013-12-16,"['Tiger Lillies ', ' Martyn Jacques ', ' Adrian Stout ', ' Mike Pickering ']",Pop
+Lugano,Virginia-State-Gospel-Chorale,2013-12-16,['Virginia State Gospel Chorale '],
+Zürich,Bilderbuch,2013-12-16,['Bilderbuch '],
+Zürich,Nik-Bärtsch's-Ronin,2013-12-16,"[' Kasper Rast ', ' Thomy Jordi ', ' Sha ', ' Bernhard Wagner ']",

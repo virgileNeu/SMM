@@ -1,13 +1,13 @@
-,location,event,date,artists,genre
-0,Verbier,Verbier-Festival,2014-07-30,"[' Renaud Capuçon ', ' Adrian Brendel ', ' Gautier Capuçon ', ' Lionel Cottet ', ' Amanda Forsyth ']",Classic
-1,Baden,Rippstein-Heule,2014-07-30,"[' Sandra Rippstein ', ' Christoph Heule ']",
-2,Luzern,Piano-Entertainment,2014-07-30,['Christian Mettler '],Pop
-3,Zürich,Internationale-Orgelkonzerte-Sommerzyklus,2014-07-30,['Andreas Jetter '],Classic
-4,Münchenbuchsee,Harfenfestival-Harp-Masters,2014-07-30,['Magdalena Hoffmann '],Classic
-5,Zürich,Serenade-im-Park,2014-07-30,[' Matthias Müller '],Classic
-6,Verbier,Verbier-Festival,2014-07-30,"['Joshua Bell ', ' Steven Isserlis ', ' Menahem Pressler ']",Classic
-7,Bern,Bejazz-Sommer,2014-07-30,"[' Harry Sokal ', ' Heiri Känzig ', ' Martin Valihora ']",
-8,Zürich,Hooverphonic,2014-07-30,['Hooverphonic '],Electronic
-9,Maggia,Magic-Blues-Festival,2014-07-30,"['Nazareth ', ' Charlie Morris Band ']",
-10,Zürich,Otis-Gibbs,2014-07-30,['Otis Gibbs '],Pop
-11,Basel,Im-Fluss,2014-07-30,['Pippo Pollina '],
+location,event,date,artists,genre
+Verbier,Verbier-Festival,2014-07-30,"[' Renaud Capuçon ', ' Adrian Brendel ', ' Gautier Capuçon ', ' Lionel Cottet ', ' Amanda Forsyth ']",Classic
+Baden,Rippstein-Heule,2014-07-30,"[' Sandra Rippstein ', ' Christoph Heule ']",
+Luzern,Piano-Entertainment,2014-07-30,['Christian Mettler '],Pop
+Zürich,Internationale-Orgelkonzerte-Sommerzyklus,2014-07-30,['Andreas Jetter '],Classic
+Münchenbuchsee,Harfenfestival-Harp-Masters,2014-07-30,['Magdalena Hoffmann '],Classic
+Zürich,Serenade-im-Park,2014-07-30,[' Matthias Müller '],Classic
+Verbier,Verbier-Festival,2014-07-30,"['Joshua Bell ', ' Steven Isserlis ', ' Menahem Pressler ']",Classic
+Bern,Bejazz-Sommer,2014-07-30,"[' Harry Sokal ', ' Heiri Känzig ', ' Martin Valihora ']",
+Zürich,Hooverphonic,2014-07-30,['Hooverphonic '],Electronic
+Maggia,Magic-Blues-Festival,2014-07-30,"['Nazareth ', ' Charlie Morris Band ']",
+Zürich,Otis-Gibbs,2014-07-30,['Otis Gibbs '],Pop
+Basel,Im-Fluss,2014-07-30,['Pippo Pollina '],

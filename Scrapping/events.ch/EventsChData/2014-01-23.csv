@@ -1,29 +1,29 @@
-,location,event,date,artists,genre
-0,Basel,Mittagskonzert,2014-01-23,['Anja Steiner '],Classic
-1,Basel,Vortragsabend,2014-01-23,[' Anita Leuziger '],Classic
-2,Zürich,Thursday-Night-Jazz,2014-01-23,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']",
-3,Basel,Jubeln-sollt-ihr,2014-01-23,[' Fabio Bidini '],Classic
-4,Palais-des-Congrès,null,2014-01-23,[' Albrecht Mayer '],Classic
-5,Winterthur,Singen-auf-vier-Saiten,2014-01-23,"['Sol Gabetta ', ' Bertrand Chamayou ']",Classic
-6,Basel,Klavierabend-auf-historischen-Klavieren,2014-01-23,['Tomas Dratva '],Classic
-7,null,Contrastnacht,2014-01-23,['Piers Faccini '],
-8,null,BeJazz-Winterfestival,2014-01-23,"['Nils Wogram Root 70 with Strings ', ' Nils Wogram ', ' Hayden Chisholm ', ' Matt Penman ', ' Jochen Rückert ', ' Gerdur Gunnarsdottir ', ' Garth Lubbe ', ' Adrian Brendel ', ' Philip Henzi ', ' Lorenz Beyeler ', ' Tobias Friedli ']",
-9,Luzern,Salonmusik,2014-01-23,"['Martin Schaefer ', ' Richard Decker ']",Classic
-10,Zug,Konzert,2014-01-23,[' Reinhold Friedrich '],Classic
-11,Winterthur,Whistler-&-Hustler,2014-01-23,"[' Ephrem Lüchinger ', ' Stefan Rusconi ']",
-12,Zürich,...que-tout-se-taise-à-sa-présence,2014-01-23,[' Les Récréations '],Classic
-13,Zürich,Münchener-Freiheit,2014-01-23,['Münchener Freiheit '],Pop
-14,Zürich,Chachaloca,2014-01-23,"[' Roman Glaser ', ' Alain von Ritter ', ' Richard Pechota ', ' Jost Müller ']",
-15,Winterthur,Baudelaire-Prisma-ein-multimediales-Porträt,2014-01-23,"['Laura Pohl ', ' Samuel Edvardsson Wigervall ']",Classic
-16,Solothurn,QL,2014-01-23,['QL '],Pop
-17,Basel,Vortragsabend,2014-01-23,[' Anita Leuziger '],Classic
-18,Basel,Kensington,2014-01-23,['Kensington '],
-19,Zürich,Fanfare-Ciocarlia,2014-01-23,"['Fanfare Ciocarlia ', ' Costica Trifan ', ' Paul Marian Bulgaru ', ' Radulescu Lazar ', ' Oprica Ivancea ', ' Dan Ionel Ivancea ']",
-20,Pratteln,Bernard-Allison,2014-01-23,['Bernard Allison '],
-21,Bern,Cryssis,2014-01-23,['Cryssis '],
-22,Baden,Jazz-Rice-Performance,2014-01-23,"[' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-23,null,Pål-Moddi-Knutsen,2014-01-23,"['Pål Moddi Knutsen ', ' Siôn Russell Jones ']",Pop
-24,Bern,Theo's-Fried-Chicken-Store,2014-01-23,[' DJ Bone '],
-25,Zürich,Rue-Royale,2014-01-23,['Rue Royale '],
-26,Luzern,Jam-Session,2014-01-23,['Richard Decker '],
-27,Lausanne,The-Cyborgs,2014-01-23,['The Cyborgs '],
+location,event,date,artists,genre
+Basel,Mittagskonzert,2014-01-23,['Anja Steiner '],Classic
+Basel,Vortragsabend,2014-01-23,[' Anita Leuziger '],Classic
+Zürich,Thursday-Night-Jazz,2014-01-23,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']",
+Basel,Jubeln-sollt-ihr,2014-01-23,[' Fabio Bidini '],Classic
+Palais-des-Congrès,null,2014-01-23,[' Albrecht Mayer '],Classic
+Winterthur,Singen-auf-vier-Saiten,2014-01-23,"['Sol Gabetta ', ' Bertrand Chamayou ']",Classic
+Basel,Klavierabend-auf-historischen-Klavieren,2014-01-23,['Tomas Dratva '],Classic
+null,Contrastnacht,2014-01-23,['Piers Faccini '],
+null,BeJazz-Winterfestival,2014-01-23,"['Nils Wogram Root 70 with Strings ', ' Nils Wogram ', ' Hayden Chisholm ', ' Matt Penman ', ' Jochen Rückert ', ' Gerdur Gunnarsdottir ', ' Garth Lubbe ', ' Adrian Brendel ', ' Philip Henzi ', ' Lorenz Beyeler ', ' Tobias Friedli ']",
+Luzern,Salonmusik,2014-01-23,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Zug,Konzert,2014-01-23,[' Reinhold Friedrich '],Classic
+Winterthur,Whistler-&-Hustler,2014-01-23,"[' Ephrem Lüchinger ', ' Stefan Rusconi ']",
+Zürich,...que-tout-se-taise-à-sa-présence,2014-01-23,[' Les Récréations '],Classic
+Zürich,Münchener-Freiheit,2014-01-23,['Münchener Freiheit '],Pop
+Zürich,Chachaloca,2014-01-23,"[' Roman Glaser ', ' Alain von Ritter ', ' Richard Pechota ', ' Jost Müller ']",
+Winterthur,Baudelaire-Prisma-ein-multimediales-Porträt,2014-01-23,"['Laura Pohl ', ' Samuel Edvardsson Wigervall ']",Classic
+Solothurn,QL,2014-01-23,['QL '],Pop
+Basel,Vortragsabend,2014-01-23,[' Anita Leuziger '],Classic
+Basel,Kensington,2014-01-23,['Kensington '],
+Zürich,Fanfare-Ciocarlia,2014-01-23,"['Fanfare Ciocarlia ', ' Costica Trifan ', ' Paul Marian Bulgaru ', ' Radulescu Lazar ', ' Oprica Ivancea ', ' Dan Ionel Ivancea ']",
+Pratteln,Bernard-Allison,2014-01-23,['Bernard Allison '],
+Bern,Cryssis,2014-01-23,['Cryssis '],
+Baden,Jazz-Rice-Performance,2014-01-23,"[' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
+null,Pål-Moddi-Knutsen,2014-01-23,"['Pål Moddi Knutsen ', ' Siôn Russell Jones ']",Pop
+Bern,Theo's-Fried-Chicken-Store,2014-01-23,[' DJ Bone '],
+Zürich,Rue-Royale,2014-01-23,['Rue Royale '],
+Luzern,Jam-Session,2014-01-23,['Richard Decker '],
+Lausanne,The-Cyborgs,2014-01-23,['The Cyborgs '],

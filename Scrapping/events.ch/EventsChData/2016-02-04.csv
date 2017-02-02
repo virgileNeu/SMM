@@ -1,32 +1,32 @@
-,location,event,date,artists,genre
-0,Zürich,Monte-Carlo,2016-02-04,['Monte Carlo '],Pop
-1,Zürich,Liederabend-Mauro-Peter,2016-02-04,['Helmut Deutsch '],Classic
-2,Winterthur,Christian-Tetzlaff,2016-02-04,"[' Hanna Weinmeister ', ' conductor: Christian Tetzlaff ']",Classic
-3,null,6.-Tonhallekonzert,2016-02-04,"[' Bart van de Roer ', ' Wouter Vossen ', ' Marc Vossen ']",Classic
-4,Basel,Violino-alla-Bolognese,2016-02-04,[' Julia Schröder '],Classic
-5,Zürich,Thursday-Night-Jazz,2016-02-04,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-6,Zürich,Internationales-Country-Music-Festival,2016-02-04,"['Them Lewis Boys ', ' Lennerockers ']",
-7,Bern,Hochschule-der-Künste-Bern,2016-02-04,"[' Yukiko Sugawara ', ' Yoko Kakuta ']",Classic
-8,Aarau,Metalmayhem,2016-02-04,"['More Than A Thousand ', ' Hills Have Eyes ']",
-9,null,Paul-Kalkbrenner,2016-02-04,['Paul Kalkbrenner '],Electronic
-10,Zürich,Angel-Haze,2016-02-04,['Angel Haze '],
-11,Basel,Quinta-essentia-Aether,2016-02-04,"[' Stefka Perifanova ', ' Isabelle Schnöller ', ' Karin Dornbusch ', ' Helena Winkelman ']",Classic
-12,Winterthur,Strings-Attached,2016-02-04,"[' Daniel Gubelmann ', ' Matthias Studer ', ' Mirco Häberli ', ' Peter Preibisch ', ' Marvin Trummer ']",
-13,Zürich,Landstreichmusik-&-Christine-Lauterburg,2016-02-04,"[' Christine Lauterburg ', ' Matthias Lincke ', ' Simon Dettwiler ', ' Dide Marfurt ']",traditional
-14,Dornach,Orient-Express,2016-02-04,"[' Piotr Plawner ', ' Lorenz Hasler ', ' Orlando Theuler ', ' Béla Szedlák ', ' Gerardo Vila ']",Classic
-15,Zürich,Billiger-Bauer-Celebrating-20-Years,2016-02-04,"['Omri Ziegele ', ' Jürg Wickihalder ', ' Gabriela Friedli ']",
-16,Basel,Rock-Funk-and-jazzy-Stuff,2016-02-04,"['Eva Flury ', ' Joerg Dittmann ', ' Yves DeGroot ', ' Stefan Gabele ', ' Peter Koerfgen ', ' Claudio Salsi ']",
-17,Winterthur,Songs,2016-02-04,"[' Christoph Grab ', ' Dominique Girod ', ' Pius Baschnagel ']",
-18,Basel,Ghostly-International-with-Shigeto,2016-02-04,[' Heathered Pearls & Lord Raja '],Electronic
-19,Basel,Sam-Amidon,2016-02-04,['Sam Amidon '],
-20,Zürich,Blicher-Hemmer-Gadd,2016-02-04,"[' Michael Blicher ', ' Dan Hemmer ', ' Steve Gadd ']",
-21,Liebefeld,Kaos-Protokoll,2016-02-04,"['Kaos Protokoll ', ' Marc Stucki ', ' Benedikt Wieland ', ' Flo Reichle ']",
-22,Basel,Bund-MBPK-&-Christian-Lillinger,2016-02-04,"[' Marco von Orelli ', ' Philipp Gropper ', ' Benjamin Weidekamp ', ' Kaspar von Grünigen ', ' Christian Lillinger ']",
-23,Baden,Pollys-Garden,2016-02-04,"[' Patricica Szettele ', ' Ruth Ferreira ', ' Caroline Rey ', ' Dani Bless ', ' Joe Schwach ', ' Geri Zumbrunn ']",
-24,Basel,Problems,2016-02-04,['Problems '],
-25,Zürich,Dota,2016-02-04,['Dota '],Pop
-26,Bern,Hannah-Epperson,2016-02-04,['Hannah Epperson '],
-27,Zürich,Mark-Geary,2016-02-04,['Mark Geary '],
-28,Rubigen,The-Aristocrats,2016-02-04,['The Aristocrats '],
-29,Baden,One-of-a-Million,2016-02-04,['Girls Names '],
-30,Zürich,Baba-Roots-Proudly-Presents,2016-02-04,['Kalado '],
+location,event,date,artists,genre
+Zürich,Monte-Carlo,2016-02-04,['Monte Carlo '],Pop
+Zürich,Liederabend-Mauro-Peter,2016-02-04,['Helmut Deutsch '],Classic
+Winterthur,Christian-Tetzlaff,2016-02-04,"[' Hanna Weinmeister ', ' conductor: Christian Tetzlaff ']",Classic
+null,6.-Tonhallekonzert,2016-02-04,"[' Bart van de Roer ', ' Wouter Vossen ', ' Marc Vossen ']",Classic
+Basel,Violino-alla-Bolognese,2016-02-04,[' Julia Schröder '],Classic
+Zürich,Thursday-Night-Jazz,2016-02-04,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Zürich,Internationales-Country-Music-Festival,2016-02-04,"['Them Lewis Boys ', ' Lennerockers ']",
+Bern,Hochschule-der-Künste-Bern,2016-02-04,"[' Yukiko Sugawara ', ' Yoko Kakuta ']",Classic
+Aarau,Metalmayhem,2016-02-04,"['More Than A Thousand ', ' Hills Have Eyes ']",
+null,Paul-Kalkbrenner,2016-02-04,['Paul Kalkbrenner '],Electronic
+Zürich,Angel-Haze,2016-02-04,['Angel Haze '],
+Basel,Quinta-essentia-Aether,2016-02-04,"[' Stefka Perifanova ', ' Isabelle Schnöller ', ' Karin Dornbusch ', ' Helena Winkelman ']",Classic
+Winterthur,Strings-Attached,2016-02-04,"[' Daniel Gubelmann ', ' Matthias Studer ', ' Mirco Häberli ', ' Peter Preibisch ', ' Marvin Trummer ']",
+Zürich,Landstreichmusik-&-Christine-Lauterburg,2016-02-04,"[' Christine Lauterburg ', ' Matthias Lincke ', ' Simon Dettwiler ', ' Dide Marfurt ']",traditional
+Dornach,Orient-Express,2016-02-04,"[' Piotr Plawner ', ' Lorenz Hasler ', ' Orlando Theuler ', ' Béla Szedlák ', ' Gerardo Vila ']",Classic
+Zürich,Billiger-Bauer-Celebrating-20-Years,2016-02-04,"['Omri Ziegele ', ' Jürg Wickihalder ', ' Gabriela Friedli ']",
+Basel,Rock-Funk-and-jazzy-Stuff,2016-02-04,"['Eva Flury ', ' Joerg Dittmann ', ' Yves DeGroot ', ' Stefan Gabele ', ' Peter Koerfgen ', ' Claudio Salsi ']",
+Winterthur,Songs,2016-02-04,"[' Christoph Grab ', ' Dominique Girod ', ' Pius Baschnagel ']",
+Basel,Ghostly-International-with-Shigeto,2016-02-04,[' Heathered Pearls & Lord Raja '],Electronic
+Basel,Sam-Amidon,2016-02-04,['Sam Amidon '],
+Zürich,Blicher-Hemmer-Gadd,2016-02-04,"[' Michael Blicher ', ' Dan Hemmer ', ' Steve Gadd ']",
+Liebefeld,Kaos-Protokoll,2016-02-04,"['Kaos Protokoll ', ' Marc Stucki ', ' Benedikt Wieland ', ' Flo Reichle ']",
+Basel,Bund-MBPK-&-Christian-Lillinger,2016-02-04,"[' Marco von Orelli ', ' Philipp Gropper ', ' Benjamin Weidekamp ', ' Kaspar von Grünigen ', ' Christian Lillinger ']",
+Baden,Pollys-Garden,2016-02-04,"[' Patricica Szettele ', ' Ruth Ferreira ', ' Caroline Rey ', ' Dani Bless ', ' Joe Schwach ', ' Geri Zumbrunn ']",
+Basel,Problems,2016-02-04,['Problems '],
+Zürich,Dota,2016-02-04,['Dota '],Pop
+Bern,Hannah-Epperson,2016-02-04,['Hannah Epperson '],
+Zürich,Mark-Geary,2016-02-04,['Mark Geary '],
+Rubigen,The-Aristocrats,2016-02-04,['The Aristocrats '],
+Baden,One-of-a-Million,2016-02-04,['Girls Names '],
+Zürich,Baba-Roots-Proudly-Presents,2016-02-04,['Kalado '],

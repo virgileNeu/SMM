@@ -1,34 +1,34 @@
-,location,event,date,artists,genre
-0,Luzern,Improvisierte-Musik-mit-wenn-und-aber,2013-06-08,"[' Manuel Troller ', '  Christoph Erb ', ' Hans-Peter Pfammatter ', ' Markus Lauterburg ']",
-1,S-Event-Hall,Gams,2013-06-08,"[' The Troggs ', ' The Tarantinos ', ' Rääs ']",
-2,Gams,Rääs,2013-06-08,['Rääs '],
-3,Basel,Masterrezital,2013-06-08,[' Julianna Svidró '],Classic
-4,Schützenwiese-Oberrieden,Oberrieden,2013-06-08,"['Delinquent Habits ', ' MC Fitti ']",
-5,Luzern,Easy-Jazz-mit-einer-Prise-Pop,2013-06-08,['Fabienne Ambühl '],
-6,Zürich,Coulord-Rain,2013-06-08,['Coulord Rain '],
-7,Luzern,Für-Afrika-hilft-Schweiz,2013-06-08,['Mutsumi Ueno '],Classic
-8,Luzern,Sinatra-All-Stars-Big-Band,2013-06-08,"[' Christoph Schobesberger ', ' Susanne Eisenkolb ']",
-9,Zürich,Sweetgreen,2013-06-08,[' Constantin Zimmermann '],Classic
-10,Basel,Konzert,2013-06-08,"['Bernadette Köbele ', ' Sebastian Wienand ']",Classic
-11,Zürich,Takt-im-Stok-Musikfestival,2013-06-08,"[' Adrian Schläpfer ', ' Cindy Oppliger ', ' Margret Spar ', ' Natalia Sidler ']",
-12,Dielsdorf,Die-Auferstehung-der-Klänge,2013-06-08,"['Michael Vetter ', ' Gabriela Tanner ']",
-13,Dielsdorf,Die-Auferstehung-der-Klänge,2013-06-08,"['Michael Vetter ', ' Gabriela Tanner ']",
-14,Basel,Nightingale-Rossignol-e-Usignolo,2013-06-08,"[' Elisabeth Sulser ', ' Josep Maria Marti Duran ']",Classic
-15,Zürich,Lucinda-Williams,2013-06-08,['Lucinda Williams '],
-16,Oberrieden,Folk-Songs-von-Israel-bis-Mexico,2013-06-08,"['Bryan Grob ', ' Peter Ritzmann ']",
-17,null,Les-Ogres-de-Barback,2013-06-08,['Les Ogres de Barback '],Pop
-18,Basel,Masterrezital,2013-06-08,[' Keiko Kinoshita '],Classic
-19,Uster,Voyage-balkanique,2013-06-08,"[' Nina Munteanu ', ' Martin Schumacher ']",
-20,Theater-Ticino,Wädenswil,2013-06-08,['Die Strottern '],
-21,Basel,Cojazz-invites-Nat-Su-&-Marc-Ullrich,2013-06-08,"[' Marc Ullrich ', ' Nat Su ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Peter Schmidlin ']",
-22,null,Trachimbrod,2013-06-08,"['Trachimbrod ', ' Fjørt ']",
-23,Gams,The-Troggs,2013-06-08,['The Troggs '],
-24,Rubigen,Jimmy-Smith-Tribute-feat.-Fred-Wesley-&-Flavio-Boltro,2013-06-08,['Jimmy Smith Tribute feat. Fred Wesley & Flavio Boltro '],
-25,Zürich,Forró-das-Meninas,2013-06-08,['Live: Trio Baião Brasil '],
-26,Zürich,Sitzprobe-ein-Reigen-für-Ensemble-und-Sopran,2013-06-08,"[' Manfred Spitaler ', ' Lorenz Haas ', ' Viktor Müller ', ' conductor: Hans-Peter Frehner ', ' szenisches Werk von Anna Trauffer ']",Classic
-27,Bern,The-Dinosaur-Truckers,2013-06-08,['The Dinosaur Truckers '],
-28,Zürich,Fiesta-latina-candela-White-Sensation,2013-06-08,['DJs Robby '],
-29,Bad-Bonn,Düdingen,2013-06-08,['Orange Goblin '],
-30,Bern,Maria-Minerva,2013-06-08,['Maria Minerva '],Pop
-31,Reussbühl,Peter-Piek,2013-06-08,['Peter Piek '],
-32,Friby-Hof,Gams,2013-06-08,['The Tarantinos '],
+location,event,date,artists,genre
+Luzern,Improvisierte-Musik-mit-wenn-und-aber,2013-06-08,"[' Manuel Troller ', '  Christoph Erb ', ' Hans-Peter Pfammatter ', ' Markus Lauterburg ']",
+S-Event-Hall,Gams,2013-06-08,"[' The Troggs ', ' The Tarantinos ', ' Rääs ']",
+Gams,Rääs,2013-06-08,['Rääs '],
+Basel,Masterrezital,2013-06-08,[' Julianna Svidró '],Classic
+Schützenwiese-Oberrieden,Oberrieden,2013-06-08,"['Delinquent Habits ', ' MC Fitti ']",
+Luzern,Easy-Jazz-mit-einer-Prise-Pop,2013-06-08,['Fabienne Ambühl '],
+Zürich,Coulord-Rain,2013-06-08,['Coulord Rain '],
+Luzern,Für-Afrika-hilft-Schweiz,2013-06-08,['Mutsumi Ueno '],Classic
+Luzern,Sinatra-All-Stars-Big-Band,2013-06-08,"[' Christoph Schobesberger ', ' Susanne Eisenkolb ']",
+Zürich,Sweetgreen,2013-06-08,[' Constantin Zimmermann '],Classic
+Basel,Konzert,2013-06-08,"['Bernadette Köbele ', ' Sebastian Wienand ']",Classic
+Zürich,Takt-im-Stok-Musikfestival,2013-06-08,"[' Adrian Schläpfer ', ' Cindy Oppliger ', ' Margret Spar ', ' Natalia Sidler ']",
+Dielsdorf,Die-Auferstehung-der-Klänge,2013-06-08,"['Michael Vetter ', ' Gabriela Tanner ']",
+Dielsdorf,Die-Auferstehung-der-Klänge,2013-06-08,"['Michael Vetter ', ' Gabriela Tanner ']",
+Basel,Nightingale-Rossignol-e-Usignolo,2013-06-08,"[' Elisabeth Sulser ', ' Josep Maria Marti Duran ']",Classic
+Zürich,Lucinda-Williams,2013-06-08,['Lucinda Williams '],
+Oberrieden,Folk-Songs-von-Israel-bis-Mexico,2013-06-08,"['Bryan Grob ', ' Peter Ritzmann ']",
+null,Les-Ogres-de-Barback,2013-06-08,['Les Ogres de Barback '],Pop
+Basel,Masterrezital,2013-06-08,[' Keiko Kinoshita '],Classic
+Uster,Voyage-balkanique,2013-06-08,"[' Nina Munteanu ', ' Martin Schumacher ']",
+Theater-Ticino,Wädenswil,2013-06-08,['Die Strottern '],
+Basel,Cojazz-invites-Nat-Su-&-Marc-Ullrich,2013-06-08,"[' Marc Ullrich ', ' Nat Su ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Peter Schmidlin ']",
+null,Trachimbrod,2013-06-08,"['Trachimbrod ', ' Fjørt ']",
+Gams,The-Troggs,2013-06-08,['The Troggs '],
+Rubigen,Jimmy-Smith-Tribute-feat.-Fred-Wesley-&-Flavio-Boltro,2013-06-08,['Jimmy Smith Tribute feat. Fred Wesley & Flavio Boltro '],
+Zürich,Forró-das-Meninas,2013-06-08,['Live: Trio Baião Brasil '],
+Zürich,Sitzprobe-ein-Reigen-für-Ensemble-und-Sopran,2013-06-08,"[' Manfred Spitaler ', ' Lorenz Haas ', ' Viktor Müller ', ' conductor: Hans-Peter Frehner ', ' szenisches Werk von Anna Trauffer ']",Classic
+Bern,The-Dinosaur-Truckers,2013-06-08,['The Dinosaur Truckers '],
+Zürich,Fiesta-latina-candela-White-Sensation,2013-06-08,['DJs Robby '],
+Bad-Bonn,Düdingen,2013-06-08,['Orange Goblin '],
+Bern,Maria-Minerva,2013-06-08,['Maria Minerva '],Pop
+Reussbühl,Peter-Piek,2013-06-08,['Peter Piek '],
+Friby-Hof,Gams,2013-06-08,['The Tarantinos '],

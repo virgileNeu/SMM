@@ -1,19 +1,19 @@
-,location,event,date,artists,genre
-0,Zürich,Glantaler-Power-Men,2015-11-30,['Glantaler Power Men '],Pop
-1,Zürich,Walk-the-Plank,2015-11-30,['Walk the Plank '],
-2,Zürich,Spektrum-Die-neue-Sappho,2015-11-30,"['Ulrike Andersen ', ' Anna Gschwend ', ' Harry White ', ' Hans Adolfsen ', ' Luca Borioli ', ' works by Marianne Schuppe ']",Classic
-3,Zürich,Magma-Beethoven,2015-11-30,"[' Hanna Weinmeister ', ' Jürg Dähler ', ' Thomas Grossenbacher ', ' Nadir Vassena ']",Classic
-4,Zürich,Nik-Bärtschs-Ronin,2015-11-30,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
-5,Zürich,Marsimoto,2015-11-30,['Marsimoto '],
-6,Lausanne,Amorphis,2015-11-30,['Amorphis '],
-7,Zürich,The-Manhattan-Transfer,2015-11-30,['The Manhattan Transfer '],Pop
-8,Zürich,Art-Garfunkel,2015-11-30,['Art Garfunkel '],
-9,Basel,Piano-Recitals,2015-11-30,[' Craig Taborn '],
-10,null,Peter-Eigenmann-Trio,2015-11-30,"[' Peter Eigenmann ', ' Patrick Sommer ', ' Dominic Egli ']",
-11,Lugano,Nek,2015-11-30,['Nek '],Pop
-12,Zürich,Ton-&-Raum,2015-11-30,"[' Oliver Lake ', ' William Parker ', ' Dieter Ulrich ']",
-13,Baden,Luca-Sisera-Roofer,2015-11-30,"[' Luca Sisera ', ' Yves Theiler ', ' Michael Jäger ', ' Silvio Cadotsch ', ' Michi Stulz ']",
-14,Zürich,The-Wave-Pictures,2015-11-30,['The Wave Pictures '],
-15,Basel,Jazzkollektiv-Basel,2015-11-30,"[' Jantos Holding: Jonas Winterhalter ', ' Karin Ospelt ', ' Sebastian von Keler ', ' Lucas Wirz ', ' Jan-Andrea Bard ', ' Jean-Pierre Dix ', ' Florian Krause ']",
-16,Basel,Full-Attention,2015-11-30,['Johnny Osbourne & Omar Perry '],
-17,Bern,Kalle-Mattson,2015-11-30,['Kalle Mattson '],Pop
+location,event,date,artists,genre
+Zürich,Glantaler-Power-Men,2015-11-30,['Glantaler Power Men '],Pop
+Zürich,Walk-the-Plank,2015-11-30,['Walk the Plank '],
+Zürich,Spektrum-Die-neue-Sappho,2015-11-30,"['Ulrike Andersen ', ' Anna Gschwend ', ' Harry White ', ' Hans Adolfsen ', ' Luca Borioli ', ' works by Marianne Schuppe ']",Classic
+Zürich,Magma-Beethoven,2015-11-30,"[' Hanna Weinmeister ', ' Jürg Dähler ', ' Thomas Grossenbacher ', ' Nadir Vassena ']",Classic
+Zürich,Nik-Bärtschs-Ronin,2015-11-30,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
+Zürich,Marsimoto,2015-11-30,['Marsimoto '],
+Lausanne,Amorphis,2015-11-30,['Amorphis '],
+Zürich,The-Manhattan-Transfer,2015-11-30,['The Manhattan Transfer '],Pop
+Zürich,Art-Garfunkel,2015-11-30,['Art Garfunkel '],
+Basel,Piano-Recitals,2015-11-30,[' Craig Taborn '],
+null,Peter-Eigenmann-Trio,2015-11-30,"[' Peter Eigenmann ', ' Patrick Sommer ', ' Dominic Egli ']",
+Lugano,Nek,2015-11-30,['Nek '],Pop
+Zürich,Ton-&-Raum,2015-11-30,"[' Oliver Lake ', ' William Parker ', ' Dieter Ulrich ']",
+Baden,Luca-Sisera-Roofer,2015-11-30,"[' Luca Sisera ', ' Yves Theiler ', ' Michael Jäger ', ' Silvio Cadotsch ', ' Michi Stulz ']",
+Zürich,The-Wave-Pictures,2015-11-30,['The Wave Pictures '],
+Basel,Jazzkollektiv-Basel,2015-11-30,"[' Jantos Holding: Jonas Winterhalter ', ' Karin Ospelt ', ' Sebastian von Keler ', ' Lucas Wirz ', ' Jan-Andrea Bard ', ' Jean-Pierre Dix ', ' Florian Krause ']",
+Basel,Full-Attention,2015-11-30,['Johnny Osbourne & Omar Perry '],
+Bern,Kalle-Mattson,2015-11-30,['Kalle Mattson '],Pop

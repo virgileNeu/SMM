@@ -1,32 +1,32 @@
-,location,event,date,artists,genre
-0,null,Sterne-Zmorge,2016-11-06,"[' Florian Egli ', ' Caspar Fries ']",
-1,Bad-Ragaz,Klavierkonzert,2016-11-06,['Aleksandra Mikulska '],Classic
-2,Kriens,Vier-Chinesen-mit-dem-Kontrabass,2016-11-06,"['Andreas Müller ', ' Randy Barboza ', ' Ignacio Fernandez Rial-Portela ']",Classic
-3,Liestal,Brahms-Klaviertrio-H-Dur-&-Beethoven-Erzherzogtrio,2016-11-06,"['Marret Popp ', ' Vincent Providoli ', ' Maya Amrein ']",Classic
-4,Zürich,Brunchkonzert-Böhmen,2016-11-06,"['Andrea Kollé ', ' Samuel Castro Bastos ', ' Filipa Margarida Sacramento Nunes ', ' Hanna Rasche ']",Classic
-5,Zürich,Morgenmusik-am-Reformationssonntag,2016-11-06,[' Andreas Jost '],Classic
-6,Zürich,Art-Band,2016-11-06,['Art Band '],Pop
-7,Dornach,Orchester-Dornach,2016-11-06,['Gracia Steinemann '],Classic
-8,Zürich,Orchestermagie,2016-11-06,[' Leila Josefowicz '],Classic
-9,Luzern,Kammerkonzert,2016-11-06,"[' Gabriela Schüpfer ', ' Naomi Lozano-Tolksdorf ', ' Jürg Eichenberger ', ' Franz Schaffner ']",Classic
-10,Schaffhausen,Royal-Court-&-Pub,2016-11-06,[' Carl Rosman '],Classic
-11,Luzern,Interstellar,2016-11-06,[' Science-Fiction-Film '],Classic
-12,Kappel-am-Albis,Vokalensemble-des-Bach-Collegium-Zürich,2016-11-06,"[' Alexandra Iten Bürgi ', ' Daniel Rüegg ']",Classic
-13,Arosio,Tres-mil-uno,2016-11-06,"[' Marcela Arroyo ', ' Andreas Engler ', ' Daniel Schläppi ']",
-14,Basel,Niedeckens-BAP,2016-11-06,['Niedeckens BAP '],
-15,Winterthur,Korpiklaani,2016-11-06,"['Korpiklaani ', ' Moonsorrow ', ' Skálmöld ']",
-16,Zürich,Artist-in-Residence-Nicole-Johänntgen,2016-11-06,"[' Filipa Nunes ', ' Magdalena Irmann ', ' Ramon Ziegler ', ' Stefanie Kunckler ', ' Nicole Johänntgen ']",
-17,Luzern,Joris-Dudli-Blue-Train-Sextet,2016-11-06,"[' Jim Rotondi  ', ' Ralph Reichert ', ' Adrian Mears ', ' Oliver Kent ', ' Milan Nikolic  ', ' Joris Dudli ']",
-18,null,Florestan-und-Eusebius,2016-11-06,"['Barbara Dehm ', ' Jacqueline Jud-Müller ']",Classic
-19,Zürich,Kate-Tempest,2016-11-06,['Kate Tempest '],
-20,Basel,Unplugged,2016-11-06,"['Pyro ', ' Venti ']",
-21,Bern,Roberto-Petroli-Trio,2016-11-06,"['Roberto Petroli ', ' Stefania Veriità ', ' Tino Horat ']",
-22,Winterthur,Rocío-Faks-Quartet,2016-11-06,"[' Rocio Faks ', ' Guillermo Gomez Alvarez ', ' Santiago Acevedo Casas ', ' Pablo Cruz ']",
-23,Zürich,Maria-Mena,2016-11-06,['Maria Mena '],Pop
-24,Chur,Emilie-&-Ogden,2016-11-06,['Emilie & Ogden '],Pop
-25,Zürich,Tinie-Tempah,2016-11-06,['Tinie Tempah '],
-26,Wädenswil,Trauer-t-Musik-,2016-11-06,"[' Mario Huter ', ' Monika Camenzind ', ' Grégoire Babey ', ' Martin Birnstiel ']",Classic
-27,Zürich,Wenn-ich-morgen-stürbe,2016-11-06,"['Silvio Cadotsch ', ' Silvan Jeger ', ' Valentin Dietrich ']",
-28,Sankt-Gallen,Jessy-Lanza,2016-11-06,"['Jessy Lanza ', ' Olga Bell ']",Pop
-29,Lausanne,Civil-Civic,2016-11-06,['Civil Civic '],
-30,Bern,The-Fleshtones,2016-11-06,"['The Fleshtones ', ' Peter Zaremba ', ' Keith Streng ', ' Ken Fox ', ' Bill Milhizer ']",
+location,event,date,artists,genre
+null,Sterne-Zmorge,2016-11-06,"[' Florian Egli ', ' Caspar Fries ']",
+Bad-Ragaz,Klavierkonzert,2016-11-06,['Aleksandra Mikulska '],Classic
+Kriens,Vier-Chinesen-mit-dem-Kontrabass,2016-11-06,"['Andreas Müller ', ' Randy Barboza ', ' Ignacio Fernandez Rial-Portela ']",Classic
+Liestal,Brahms-Klaviertrio-H-Dur-&-Beethoven-Erzherzogtrio,2016-11-06,"['Marret Popp ', ' Vincent Providoli ', ' Maya Amrein ']",Classic
+Zürich,Brunchkonzert-Böhmen,2016-11-06,"['Andrea Kollé ', ' Samuel Castro Bastos ', ' Filipa Margarida Sacramento Nunes ', ' Hanna Rasche ']",Classic
+Zürich,Morgenmusik-am-Reformationssonntag,2016-11-06,[' Andreas Jost '],Classic
+Zürich,Art-Band,2016-11-06,['Art Band '],Pop
+Dornach,Orchester-Dornach,2016-11-06,['Gracia Steinemann '],Classic
+Zürich,Orchestermagie,2016-11-06,[' Leila Josefowicz '],Classic
+Luzern,Kammerkonzert,2016-11-06,"[' Gabriela Schüpfer ', ' Naomi Lozano-Tolksdorf ', ' Jürg Eichenberger ', ' Franz Schaffner ']",Classic
+Schaffhausen,Royal-Court-&-Pub,2016-11-06,[' Carl Rosman '],Classic
+Luzern,Interstellar,2016-11-06,[' Science-Fiction-Film '],Classic
+Kappel-am-Albis,Vokalensemble-des-Bach-Collegium-Zürich,2016-11-06,"[' Alexandra Iten Bürgi ', ' Daniel Rüegg ']",Classic
+Arosio,Tres-mil-uno,2016-11-06,"[' Marcela Arroyo ', ' Andreas Engler ', ' Daniel Schläppi ']",
+Basel,Niedeckens-BAP,2016-11-06,['Niedeckens BAP '],
+Winterthur,Korpiklaani,2016-11-06,"['Korpiklaani ', ' Moonsorrow ', ' Skálmöld ']",
+Zürich,Artist-in-Residence-Nicole-Johänntgen,2016-11-06,"[' Filipa Nunes ', ' Magdalena Irmann ', ' Ramon Ziegler ', ' Stefanie Kunckler ', ' Nicole Johänntgen ']",
+Luzern,Joris-Dudli-Blue-Train-Sextet,2016-11-06,"[' Jim Rotondi  ', ' Ralph Reichert ', ' Adrian Mears ', ' Oliver Kent ', ' Milan Nikolic  ', ' Joris Dudli ']",
+null,Florestan-und-Eusebius,2016-11-06,"['Barbara Dehm ', ' Jacqueline Jud-Müller ']",Classic
+Zürich,Kate-Tempest,2016-11-06,['Kate Tempest '],
+Basel,Unplugged,2016-11-06,"['Pyro ', ' Venti ']",
+Bern,Roberto-Petroli-Trio,2016-11-06,"['Roberto Petroli ', ' Stefania Veriità ', ' Tino Horat ']",
+Winterthur,Rocío-Faks-Quartet,2016-11-06,"[' Rocio Faks ', ' Guillermo Gomez Alvarez ', ' Santiago Acevedo Casas ', ' Pablo Cruz ']",
+Zürich,Maria-Mena,2016-11-06,['Maria Mena '],Pop
+Chur,Emilie-&-Ogden,2016-11-06,['Emilie & Ogden '],Pop
+Zürich,Tinie-Tempah,2016-11-06,['Tinie Tempah '],
+Wädenswil,Trauer-t-Musik-,2016-11-06,"[' Mario Huter ', ' Monika Camenzind ', ' Grégoire Babey ', ' Martin Birnstiel ']",Classic
+Zürich,Wenn-ich-morgen-stürbe,2016-11-06,"['Silvio Cadotsch ', ' Silvan Jeger ', ' Valentin Dietrich ']",
+Sankt-Gallen,Jessy-Lanza,2016-11-06,"['Jessy Lanza ', ' Olga Bell ']",Pop
+Lausanne,Civil-Civic,2016-11-06,['Civil Civic '],
+Bern,The-Fleshtones,2016-11-06,"['The Fleshtones ', ' Peter Zaremba ', ' Keith Streng ', ' Ken Fox ', ' Bill Milhizer ']",

@@ -1,26 +1,26 @@
-,location,event,date,artists,genre
-0,Winterthur,Alter-Wein-in-neuen-Schläuchen,2016-06-12,"['Simon Wiener ', ' Moritz Roelcke ', ' Johannes Herrmann ']",Classic
-1,Reinach,Von-Berlin-bis-Budapest,2016-06-12,"[' Christina Bauer ', ' Laszlo Fogarassy ', ' Cristina Gantolea Horvath ', ' Philippe Schnepp ']",Classic
-2,Uster,Jazz-Meets-Classic,2016-06-12,"['Bernhard Schoch ', ' Johannes Platz ']",
-3,Basel,Abschiedslied,2016-06-12,"[' Susanne Mathé ', ' Isabelle Ladewig ', ' Stella Mahrenholz ', ' Stéphanie Meyer ', ' Irina Georgieva ']",Classic
-4,null,Festi'neuch,2016-06-12,"['Gipsy Kings ', ' Selah Sue ']",Pop
-5,Meggen,5-Jahre-klang-Sommer-Dame-mit-Herren,2016-06-12,"[' Wendy Ghysels ', ' François Jeames ', ' Robin Lemmel ', ' Coralie Devars ']",Classic
-6,Bern,Forellenquintett,2016-06-12,"['Julia Malkova ', ' György Zerkula ', ' Andreas Graf ', ' Magor Szász ', ' Imre Gajdos ']",Classic
-7,Zürich,L'état-c'est-moi-Musik-am-Hof-des-Sonnenkönigs,2016-06-12,"['Annette Labusch ', ' Esther Pitschen Amekhchoune ', ' Noémie Rufer Zumstein ', ' Cornelia Angerhofer ']",Classic
-8,Bern,Philipp-Moll-Sunday-12PM-Jazz,2016-06-12,"['Philipp Moll ', ' Stewy von Wattenwyl ', ' Kevin Chesham ', ' Matthias Wenger ']",
-9,Zürich,Musikalische-und-Kulinarische-Köstlichkeiten,2016-06-12,"['Sandi Toka Nova ', ' Irina Grebaus ']",Classic
-10,Zürich,Blickfelder,2016-06-12,['Silberbüx '],Pop
-11,Winterthur,Nah-am-Wasser,2016-06-12,"['Mélanie Adami ', ' Åsa Dornbusch ', ' Rahel Sohn ']",Classic
-12,Basel,Begegnung-zwischen-Orgel-und-Orchester,2016-06-12,[' Sylvia Wilhelm '],Classic
-13,Solothurn,Spektrum-Akzente-2016-Quartett,2016-06-12,"[' Marc Bätscher ', ' Yuka Tsuboi ', ' Ursula Hächler ', ' Kiyomi Higaki ']",Classic
-14,Basel,Caleido-Ensemble,2016-06-12,"['Sabrina Bäbler ', ' Annette Birkenmeier ', ' Emanuel Rütsche ']",Classic
-15,Luzern,Vivaldi-Bach-und-Dodds,2016-06-12,"[' Christina Boner-Sutter ', ' Laura Binggeli ', ' Remy Burnens ', ' Martin Roth ', ' Daniel Dodds ']",Classic
-16,Thun,Schlosskonzerte-Thun-Reichtum-der-Musikgeschichte,2016-06-12,"[' Manuel Oswald ', ' Alessandro DAmico ', ' Mary Ellen Woodside ', ' Rafael Rosenfeld ']",Classic
-17,Wettingen,Gioachino-Rossini-Petite-Messe-solennelle,2016-06-12,"[' Christina Daletska ', ' Melanie Veser ', ' Felix Rienth ', ' Yongfan Chen-Hauser ', ' Beata Wetli ', ' Stefan Müller ']",Classic
-18,Meggen,5-Jahre-klang-Sommer-Romantisch-bis-humoresk,2016-06-12,"[' Girolamo Bottiglieri ', ' Raya Raytcheva ', ' Blythe Teh Engstroem ', ' François Grin ', ' Fabio Di Càsola ']",Classic
-19,Basel,Französische-Kathedralklänge,2016-06-12,['Daniel Roth '],Classic
-20,Frenkendorf,Wasserspiele-in-Kunst-&-Musik,2016-06-12,"['Michaela Hüttich ', ' Wolfgang Lehner ', ' Anton Illenberger ', ' Baptiste Kunz ']",Classic
-21,Zürich,Beat-and-the-Reed,2016-06-12,"[' Behnam Samani ', ' Reza Saani ', ' Davood Varzideh ']",
-22,Zürich,Coldplay,2016-06-12,['Coldplay '],Pop
-23,Zürich,Noisy-Minority,2016-06-12,"['Noisy Minority ', ' Omri Ziegele ', ' Ray Anderson ', ' Jan Schlegel ', ' Dieter Ulrich ']",
-24,Bern,I-Have-a-Tribe,2016-06-12,['I Have a Tribe '],
+location,event,date,artists,genre
+Winterthur,Alter-Wein-in-neuen-Schläuchen,2016-06-12,"['Simon Wiener ', ' Moritz Roelcke ', ' Johannes Herrmann ']",Classic
+Reinach,Von-Berlin-bis-Budapest,2016-06-12,"[' Christina Bauer ', ' Laszlo Fogarassy ', ' Cristina Gantolea Horvath ', ' Philippe Schnepp ']",Classic
+Uster,Jazz-Meets-Classic,2016-06-12,"['Bernhard Schoch ', ' Johannes Platz ']",
+Basel,Abschiedslied,2016-06-12,"[' Susanne Mathé ', ' Isabelle Ladewig ', ' Stella Mahrenholz ', ' Stéphanie Meyer ', ' Irina Georgieva ']",Classic
+null,Festi'neuch,2016-06-12,"['Gipsy Kings ', ' Selah Sue ']",Pop
+Meggen,5-Jahre-klang-Sommer-Dame-mit-Herren,2016-06-12,"[' Wendy Ghysels ', ' François Jeames ', ' Robin Lemmel ', ' Coralie Devars ']",Classic
+Bern,Forellenquintett,2016-06-12,"['Julia Malkova ', ' György Zerkula ', ' Andreas Graf ', ' Magor Szász ', ' Imre Gajdos ']",Classic
+Zürich,L'état-c'est-moi-Musik-am-Hof-des-Sonnenkönigs,2016-06-12,"['Annette Labusch ', ' Esther Pitschen Amekhchoune ', ' Noémie Rufer Zumstein ', ' Cornelia Angerhofer ']",Classic
+Bern,Philipp-Moll-Sunday-12PM-Jazz,2016-06-12,"['Philipp Moll ', ' Stewy von Wattenwyl ', ' Kevin Chesham ', ' Matthias Wenger ']",
+Zürich,Musikalische-und-Kulinarische-Köstlichkeiten,2016-06-12,"['Sandi Toka Nova ', ' Irina Grebaus ']",Classic
+Zürich,Blickfelder,2016-06-12,['Silberbüx '],Pop
+Winterthur,Nah-am-Wasser,2016-06-12,"['Mélanie Adami ', ' Åsa Dornbusch ', ' Rahel Sohn ']",Classic
+Basel,Begegnung-zwischen-Orgel-und-Orchester,2016-06-12,[' Sylvia Wilhelm '],Classic
+Solothurn,Spektrum-Akzente-2016-Quartett,2016-06-12,"[' Marc Bätscher ', ' Yuka Tsuboi ', ' Ursula Hächler ', ' Kiyomi Higaki ']",Classic
+Basel,Caleido-Ensemble,2016-06-12,"['Sabrina Bäbler ', ' Annette Birkenmeier ', ' Emanuel Rütsche ']",Classic
+Luzern,Vivaldi-Bach-und-Dodds,2016-06-12,"[' Christina Boner-Sutter ', ' Laura Binggeli ', ' Remy Burnens ', ' Martin Roth ', ' Daniel Dodds ']",Classic
+Thun,Schlosskonzerte-Thun-Reichtum-der-Musikgeschichte,2016-06-12,"[' Manuel Oswald ', ' Alessandro DAmico ', ' Mary Ellen Woodside ', ' Rafael Rosenfeld ']",Classic
+Wettingen,Gioachino-Rossini-Petite-Messe-solennelle,2016-06-12,"[' Christina Daletska ', ' Melanie Veser ', ' Felix Rienth ', ' Yongfan Chen-Hauser ', ' Beata Wetli ', ' Stefan Müller ']",Classic
+Meggen,5-Jahre-klang-Sommer-Romantisch-bis-humoresk,2016-06-12,"[' Girolamo Bottiglieri ', ' Raya Raytcheva ', ' Blythe Teh Engstroem ', ' François Grin ', ' Fabio Di Càsola ']",Classic
+Basel,Französische-Kathedralklänge,2016-06-12,['Daniel Roth '],Classic
+Frenkendorf,Wasserspiele-in-Kunst-&-Musik,2016-06-12,"['Michaela Hüttich ', ' Wolfgang Lehner ', ' Anton Illenberger ', ' Baptiste Kunz ']",Classic
+Zürich,Beat-and-the-Reed,2016-06-12,"[' Behnam Samani ', ' Reza Saani ', ' Davood Varzideh ']",
+Zürich,Coldplay,2016-06-12,['Coldplay '],Pop
+Zürich,Noisy-Minority,2016-06-12,"['Noisy Minority ', ' Omri Ziegele ', ' Ray Anderson ', ' Jan Schlegel ', ' Dieter Ulrich ']",
+Bern,I-Have-a-Tribe,2016-06-12,['I Have a Tribe '],

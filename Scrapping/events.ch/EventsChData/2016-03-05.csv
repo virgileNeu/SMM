@@ -1,43 +1,43 @@
-,location,event,date,artists,genre
-0,Winterthur,Rebecca-Watta,2016-03-05,"[' Rebecca Watta ', ' Marcus Watta ']",
-1,Zürich,Die-Maus-im-Harfenkoffer,2016-03-05,"['Sarah Verrue ', ' Lea Knecht ']",Classic
-2,Bern,Ensemble-Paul-Klee,2016-03-05,"['Matthias Schranz ', ' Ivan Nestic ']",Classic
-3,Zürich,Festival-Alte-Musik-Zürich-Lamentationen-Tombeaus-Suiten,2016-03-05,['Bob van Asperen '],Classic
-4,Zürich,Trio-Oreade,2016-03-05,"['Yukiko Ishibashi ', ' Ursula Sarnthein ', ' Christine Hu ']",Classic
-5,Gelterkinden,Ensemble-Polysono,2016-03-05,"['Christine Simolka ', ' Matthias Ebner ', ' Igor Kombaratov ', ' Markus Stolz ', ' conductor: René Wohlhauser ', ' works by René Wohlhauser ']",Classic
-6,Zürich,Tracer,2016-03-05,['Tracer '],
-7,Aarau,Metalmayhem,2016-03-05,"['Madball ', ' Rykers ', ' Crown of Thornz ', ' Tausend Löwen unter Feinden ', ' Knuckledust ', ' Last Hope ']",
-8,Zürich,Chorkonzert,2016-03-05,[' Tobias Willi '],Classic
-9,Basel,Jörg-Demus,2016-03-05,['Jörg Demus '],Classic
-10,Zürich,Internationales-Country-Music-Festival,2016-03-05,"[""Somethin' Else ""]",
-11,Solothurn,Terrorgruppe,2016-03-05,"['Terrorgruppe ', ' Turbobier ']",
-12,null,Joris,2016-03-05,['Joris '],Pop
-13,Birsfelden,I-Have-a-Bonnet-Trimmed-With-Blue,2016-03-05,[' Muriel Rochat Rienth '],Classic
-14,Zürich,Carmen,2016-03-05,[' Stummfilm von Ernst Lubitsch '],Classic
-15,Pratteln,Symphony-X,2016-03-05,"['Symphony X ', ' Myrath ', ' Melted Space ']",
-16,Oberengstringen,Uorsin-Reloaded,2016-03-05,"[' Andrina Bollinger ', ' Fiona Könz ', ' Jodok Hess ', ' Bernhard Bamert ', ' Patrick Sommer ', ' Florian Reichle ']",
-17,Bern,Stanley-Clarke-&-Hiromi-Duo,2016-03-05,['Stanley Clarke & Hiromi Duo '],
-18,Bern,Headbangersball,2016-03-05,['Jig-Ai '],
-19,Bülach,Klavier-Rezital,2016-03-05,['Boris Spasski '],Classic
-20,Zürich,Faun,2016-03-05,['Faun '],
-21,Basel,Timeless-Ballads,2016-03-05,"['Christina Jaccard ', ' Dave Ruosch ']",
-22,Liestal,Lina-Button-&-Band,2016-03-05,"[' Urs Müller ', ' Luca Burkhalter ', ' Simon Kaufmann ', ' Lukas Gasser ']",Pop
-23,Thalwil,Cellolite,2016-03-05,"[' Alain Schudel ', ' Daniel Schärer ']",Classic
-24,Zürich,Swanky-Mothers-feat.-Marena-Whitcher,2016-03-05,"[' Marena Whitcher ', ' Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
-25,Winterthur,Bluesfestival-Frauenfeld,2016-03-05,"["" Albie Donnelly's Supercharge "", "" Shakura S'Aida Band ""]",
-26,Aarau,Graham-Candy,2016-03-05,"['Graham Candy ', ' Goldkraut ']",Pop
-27,Zürich,Adrian-Mira-Group,2016-03-05,"[' Adrian Mira ', ' Gregor Müller ', ' Dudu Penz ', ' Tupac Mantilla ']",
-28,Basel,Rosario-Bonaccorso-Travel-Notes-Quartet,2016-03-05,"[' Flavio Boltro ', ' Andrea Pozza ', ' Rosario Bonaccorso ', ' Nicola Angelucci ']",
-29,Fischenthal,Toni-Vescoli-&-Co-feat.-Amanda-Shaw,2016-03-05,['Toni Vescoli & Co feat. Amanda Shaw '],
-30,Uster,Aberratio-Ictus,2016-03-05,"[' Rea Dubach ', ' Laura Schuler ', ' Ronny Graupe ']",Pop
-31,Basel,Nux,2016-03-05,"[' Matthias Gubler ', ' Beat Mattmüller ', ' Matthias Roth ']",
-32,Thun,Nova-Heart,2016-03-05,['Nova Heart '],
-33,Lausanne,The-Jon-Spencer-Blues-Explosion,2016-03-05,['The Jon Spencer Blues Explosion '],
-34,Basel,BScene,2016-03-05,['To Kill A King '],Pop
-35,null,Jamie-R.-Hawkins,2016-03-05,"['Jamie R. Hawkins ', ' Jamie R. Hawkins ', ' Philippe Kuhn ', ' Robbie Caruso ', ' Reto Spörli ']",
-36,Zürich,Dicht-&-Ergreifend,2016-03-05,['Dicht & Ergreifend '],
-37,Zug,Fire-Music-Expressions-Experiments,2016-03-05,"['Welträumer ', ' Lilit and the Men in Grey ']",
-38,Basel,BScene,2016-03-05,"['Napom ', ' Kaila ', ' Jayton ', ' Efaybee ', ' Gene ', ' Babeli ', ' Zhang Zee ']",
-39,Basel,BScene,2016-03-05,['Äl Jawala '],
-40,null,Randy-Valentine-&-The-Boomrush-Band-RadioMusic,2016-03-05,['Randy Valentine '],Pop
-41,Dübendorf,Candy-Shop,2016-03-05,[' MC Ricky S. '],
+location,event,date,artists,genre
+Winterthur,Rebecca-Watta,2016-03-05,"[' Rebecca Watta ', ' Marcus Watta ']",
+Zürich,Die-Maus-im-Harfenkoffer,2016-03-05,"['Sarah Verrue ', ' Lea Knecht ']",Classic
+Bern,Ensemble-Paul-Klee,2016-03-05,"['Matthias Schranz ', ' Ivan Nestic ']",Classic
+Zürich,Festival-Alte-Musik-Zürich-Lamentationen-Tombeaus-Suiten,2016-03-05,['Bob van Asperen '],Classic
+Zürich,Trio-Oreade,2016-03-05,"['Yukiko Ishibashi ', ' Ursula Sarnthein ', ' Christine Hu ']",Classic
+Gelterkinden,Ensemble-Polysono,2016-03-05,"['Christine Simolka ', ' Matthias Ebner ', ' Igor Kombaratov ', ' Markus Stolz ', ' conductor: René Wohlhauser ', ' works by René Wohlhauser ']",Classic
+Zürich,Tracer,2016-03-05,['Tracer '],
+Aarau,Metalmayhem,2016-03-05,"['Madball ', ' Rykers ', ' Crown of Thornz ', ' Tausend Löwen unter Feinden ', ' Knuckledust ', ' Last Hope ']",
+Zürich,Chorkonzert,2016-03-05,[' Tobias Willi '],Classic
+Basel,Jörg-Demus,2016-03-05,['Jörg Demus '],Classic
+Zürich,Internationales-Country-Music-Festival,2016-03-05,"[""Somethin' Else ""]",
+Solothurn,Terrorgruppe,2016-03-05,"['Terrorgruppe ', ' Turbobier ']",
+null,Joris,2016-03-05,['Joris '],Pop
+Birsfelden,I-Have-a-Bonnet-Trimmed-With-Blue,2016-03-05,[' Muriel Rochat Rienth '],Classic
+Zürich,Carmen,2016-03-05,[' Stummfilm von Ernst Lubitsch '],Classic
+Pratteln,Symphony-X,2016-03-05,"['Symphony X ', ' Myrath ', ' Melted Space ']",
+Oberengstringen,Uorsin-Reloaded,2016-03-05,"[' Andrina Bollinger ', ' Fiona Könz ', ' Jodok Hess ', ' Bernhard Bamert ', ' Patrick Sommer ', ' Florian Reichle ']",
+Bern,Stanley-Clarke-&-Hiromi-Duo,2016-03-05,['Stanley Clarke & Hiromi Duo '],
+Bern,Headbangersball,2016-03-05,['Jig-Ai '],
+Bülach,Klavier-Rezital,2016-03-05,['Boris Spasski '],Classic
+Zürich,Faun,2016-03-05,['Faun '],
+Basel,Timeless-Ballads,2016-03-05,"['Christina Jaccard ', ' Dave Ruosch ']",
+Liestal,Lina-Button-&-Band,2016-03-05,"[' Urs Müller ', ' Luca Burkhalter ', ' Simon Kaufmann ', ' Lukas Gasser ']",Pop
+Thalwil,Cellolite,2016-03-05,"[' Alain Schudel ', ' Daniel Schärer ']",Classic
+Zürich,Swanky-Mothers-feat.-Marena-Whitcher,2016-03-05,"[' Marena Whitcher ', ' Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
+Winterthur,Bluesfestival-Frauenfeld,2016-03-05,"["" Albie Donnelly's Supercharge "", "" Shakura S'Aida Band ""]",
+Aarau,Graham-Candy,2016-03-05,"['Graham Candy ', ' Goldkraut ']",Pop
+Zürich,Adrian-Mira-Group,2016-03-05,"[' Adrian Mira ', ' Gregor Müller ', ' Dudu Penz ', ' Tupac Mantilla ']",
+Basel,Rosario-Bonaccorso-Travel-Notes-Quartet,2016-03-05,"[' Flavio Boltro ', ' Andrea Pozza ', ' Rosario Bonaccorso ', ' Nicola Angelucci ']",
+Fischenthal,Toni-Vescoli-&-Co-feat.-Amanda-Shaw,2016-03-05,['Toni Vescoli & Co feat. Amanda Shaw '],
+Uster,Aberratio-Ictus,2016-03-05,"[' Rea Dubach ', ' Laura Schuler ', ' Ronny Graupe ']",Pop
+Basel,Nux,2016-03-05,"[' Matthias Gubler ', ' Beat Mattmüller ', ' Matthias Roth ']",
+Thun,Nova-Heart,2016-03-05,['Nova Heart '],
+Lausanne,The-Jon-Spencer-Blues-Explosion,2016-03-05,['The Jon Spencer Blues Explosion '],
+Basel,BScene,2016-03-05,['To Kill A King '],Pop
+null,Jamie-R.-Hawkins,2016-03-05,"['Jamie R. Hawkins ', ' Jamie R. Hawkins ', ' Philippe Kuhn ', ' Robbie Caruso ', ' Reto Spörli ']",
+Zürich,Dicht-&-Ergreifend,2016-03-05,['Dicht & Ergreifend '],
+Zug,Fire-Music-Expressions-Experiments,2016-03-05,"['Welträumer ', ' Lilit and the Men in Grey ']",
+Basel,BScene,2016-03-05,"['Napom ', ' Kaila ', ' Jayton ', ' Efaybee ', ' Gene ', ' Babeli ', ' Zhang Zee ']",
+Basel,BScene,2016-03-05,['Äl Jawala '],
+null,Randy-Valentine-&-The-Boomrush-Band-RadioMusic,2016-03-05,['Randy Valentine '],Pop
+Dübendorf,Candy-Shop,2016-03-05,[' MC Ricky S. '],

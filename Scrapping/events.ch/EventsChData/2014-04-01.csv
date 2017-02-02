@@ -1,16 +1,16 @@
-,location,event,date,artists,genre
-0,Zürich,Jazzapero,2014-04-01,"[' Marianne Racine ', ' Christina Jaccard ', ' Dave Ruosch ', ' Christoph Sprenger ', ' Andreas Schmid ']",
-1,Bern,M'adam(e),2014-04-01,"[""M'adam"", ' Sophie Adam ', ' Florian Weiss ', ' Anatole Buccella ']",
-2,Burgdorf,Young-Artists,2014-04-01,"[' Claudia Stephani ', ' Philipp Bühlmann ', ' Dave Jutzi ']",
-3,Zürich,Konzert,2014-04-01,['Rondo Veneziano '],Classic
-4,Solothurn,Barclay-James-Harvest,2014-04-01,['Barclay James Harvest '],
-5,Zürich,Riverboat-Stokers,2014-04-01,"[' Hans Schönholzer ', ' Peter Meili ', ' Daniel Zwyck ', ' Hans Stegmann ']",
-6,Zürich,Franz-Ferdinand,2014-04-01,"['Franz Ferdinand ', ' support: Teleman ']",
-7,Dietikon,Genetic-Tango,2014-04-01,"[' Urs Stirnimann ', ' Simon Stirnimann ']",
-8,Thun,Colin-Vallon-Trio,2014-04-01,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-9,Zürich,Twin-Forks,2014-04-01,['Twin Forks '],Pop
-10,Basel,Walter-Wolfman-Washington,2014-04-01,['Walter Wolfman Washington '],
-11,Basel,guitars@basel,2014-04-01,"[' Laurent Méteau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Eliyah Reichen ', ' Samuel Huwyler ', ' Jwan Steiner ']",
-12,Zürich,Portico-Quartet-feat.-Cornelia,2014-04-01,"['Portico Quartet feat. Cornelia ', ' Duncan Bellamy ', ' Jack Wyllie ', ' Milo Fitzpatrick ', ' Keir Vine ', ' Cornelia ']",Electronic
-13,Zürich,Monster-Truck,2014-04-01,['Monster Truck '],
-14,Hasliberg-Hohfluh,Roachford,2014-04-01,['Roachford '],
+location,event,date,artists,genre
+Zürich,Jazzapero,2014-04-01,"[' Marianne Racine ', ' Christina Jaccard ', ' Dave Ruosch ', ' Christoph Sprenger ', ' Andreas Schmid ']",
+Bern,M'adam(e),2014-04-01,"[""M'adam"", ' Sophie Adam ', ' Florian Weiss ', ' Anatole Buccella ']",
+Burgdorf,Young-Artists,2014-04-01,"[' Claudia Stephani ', ' Philipp Bühlmann ', ' Dave Jutzi ']",
+Zürich,Konzert,2014-04-01,['Rondo Veneziano '],Classic
+Solothurn,Barclay-James-Harvest,2014-04-01,['Barclay James Harvest '],
+Zürich,Riverboat-Stokers,2014-04-01,"[' Hans Schönholzer ', ' Peter Meili ', ' Daniel Zwyck ', ' Hans Stegmann ']",
+Zürich,Franz-Ferdinand,2014-04-01,"['Franz Ferdinand ', ' support: Teleman ']",
+Dietikon,Genetic-Tango,2014-04-01,"[' Urs Stirnimann ', ' Simon Stirnimann ']",
+Thun,Colin-Vallon-Trio,2014-04-01,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
+Zürich,Twin-Forks,2014-04-01,['Twin Forks '],Pop
+Basel,Walter-Wolfman-Washington,2014-04-01,['Walter Wolfman Washington '],
+Basel,guitars@basel,2014-04-01,"[' Laurent Méteau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Eliyah Reichen ', ' Samuel Huwyler ', ' Jwan Steiner ']",
+Zürich,Portico-Quartet-feat.-Cornelia,2014-04-01,"['Portico Quartet feat. Cornelia ', ' Duncan Bellamy ', ' Jack Wyllie ', ' Milo Fitzpatrick ', ' Keir Vine ', ' Cornelia ']",Electronic
+Zürich,Monster-Truck,2014-04-01,['Monster Truck '],
+Hasliberg-Hohfluh,Roachford,2014-04-01,['Roachford '],

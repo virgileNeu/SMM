@@ -1,10 +1,10 @@
-,location,event,date,artists,genre
-0,Zürich,The-Kiss-of-Areté,2015-03-03,"[' Theo Kapilidis ', ' Uli Heinzler ', ' Tony Renold ']",
-1,null,Blonde-Redhead,2015-03-03,['Blonde Redhead '],Pop
-2,Zürich,Kelley-McRae-Duo,2015-03-03,['Kelley McRae Duo '],
-3,Zug,Kinzelman-Pianca-Senni-Huber,2015-03-03,"[' Dan Kinzelman ', ' Roberto Pianca ', ' Stefano Senni ', ' Alex Huber ']",
-4,Zürich,Lyambiko,2015-03-03,"['Lyambiko ', ' Lyambiko ', ' Marque Lowenthals ', ' Robin Draganic ', ' Heinrich Koebberling ']",
-5,Basel,Guitarorama,2015-03-03,"[' Tomas Sauter ', ' Daniel Schläppi ']",
-6,Luzern,Christoph-Stiefel's-Isorhythm-Orchestra,2015-03-03,"[' Sarah Buechi ', ' Matthieu Michel ', ' Adrian Mears ', ' Domenic Landolf ', ' Christoph Stiefel ']",
-7,Schaffhausen,Upstairs-&-Loud,2015-03-03,['Dead Neck '],
-8,Lausanne,BRNS,2015-03-03,['BRNS '],Pop
+location,event,date,artists,genre
+Zürich,The-Kiss-of-Areté,2015-03-03,"[' Theo Kapilidis ', ' Uli Heinzler ', ' Tony Renold ']",
+null,Blonde-Redhead,2015-03-03,['Blonde Redhead '],Pop
+Zürich,Kelley-McRae-Duo,2015-03-03,['Kelley McRae Duo '],
+Zug,Kinzelman-Pianca-Senni-Huber,2015-03-03,"[' Dan Kinzelman ', ' Roberto Pianca ', ' Stefano Senni ', ' Alex Huber ']",
+Zürich,Lyambiko,2015-03-03,"['Lyambiko ', ' Lyambiko ', ' Marque Lowenthals ', ' Robin Draganic ', ' Heinrich Koebberling ']",
+Basel,Guitarorama,2015-03-03,"[' Tomas Sauter ', ' Daniel Schläppi ']",
+Luzern,Christoph-Stiefel's-Isorhythm-Orchestra,2015-03-03,"[' Sarah Buechi ', ' Matthieu Michel ', ' Adrian Mears ', ' Domenic Landolf ', ' Christoph Stiefel ']",
+Schaffhausen,Upstairs-&-Loud,2015-03-03,['Dead Neck '],
+Lausanne,BRNS,2015-03-03,['BRNS '],Pop

@@ -1,8 +1,8 @@
-,location,event,date,artists,genre
-0,Lichtensteig,Jazztage-Lichtensteig,2015-08-09,"[' Stephan Holstein ', ' Frank Roberscheuten ', ' Helmut Nieberle ', ' Wolfgnag Kriener ']",
-1,Thun,Bachwochen-Thun-Lachrimae,2015-08-09,"[' Anna Prohaska ', ' conductor: Jonathan Cohen ']",Classic
-2,Saanen,Gstaad-Menuhin-Festival-Pomp-and-Passion,2015-08-09,[' Franco Fagioli '],Classic
-3,Ernen,Musikdorf-Ernen-Kammermusik-Plus,2015-08-09,"['Klaus Dickbauer ', ' Benny Omerszell ', ' Arnulf Ballhorn ', ' works by Johannes Dickbauer ']",Classic
-4,Basel,Orgelmusik-zu-einem-Sommerabend,2015-08-09,['Frantiek Vanicek '],Classic
-5,null,No-Omega,2015-08-09,['No Omega '],
-6,Pratteln,Ill-Niño,2015-08-09,"['Ill Niño ', ' Hed PE ', ' Terror Universal ']",
+location,event,date,artists,genre
+Lichtensteig,Jazztage-Lichtensteig,2015-08-09,"[' Stephan Holstein ', ' Frank Roberscheuten ', ' Helmut Nieberle ', ' Wolfgnag Kriener ']",
+Thun,Bachwochen-Thun-Lachrimae,2015-08-09,"[' Anna Prohaska ', ' conductor: Jonathan Cohen ']",Classic
+Saanen,Gstaad-Menuhin-Festival-Pomp-and-Passion,2015-08-09,[' Franco Fagioli '],Classic
+Ernen,Musikdorf-Ernen-Kammermusik-Plus,2015-08-09,"['Klaus Dickbauer ', ' Benny Omerszell ', ' Arnulf Ballhorn ', ' works by Johannes Dickbauer ']",Classic
+Basel,Orgelmusik-zu-einem-Sommerabend,2015-08-09,['Frantiek Vanicek '],Classic
+null,No-Omega,2015-08-09,['No Omega '],
+Pratteln,Ill-Niño,2015-08-09,"['Ill Niño ', ' Hed PE ', ' Terror Universal ']",

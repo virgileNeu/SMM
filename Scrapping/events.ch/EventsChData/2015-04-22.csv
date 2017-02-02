@@ -1,27 +1,27 @@
-,location,event,date,artists,genre
-0,Basel,Mimiko-La-royale,2015-04-22,"['Elenora Bisevi ', ' Esteban La Rotta ']",Classic
-1,Luzern,Piano-Entertainment,2015-04-22,['Dezsö Balogh '],Classic
-2,Luzern,Sinfoniekonzert-Pan-und-Syrinx,2015-04-22,[' Lawrence Power '],Classic
-3,Zürich,Balthazar,2015-04-22,"['Balthazar ', ' Bed Rugs ']",
-4,null,Migros-Kulturprozent-Classics,2015-04-22,"[' Oliver Schnyder ', ' conductor: Julia Fischer ']",Classic
-5,Zürich,The-Staves,2015-04-22,['The Staves '],
-6,Zürich,Dino-Saluzzi-Group,2015-04-22,['Dino Saluzzi Group '],
-7,Zürich,The-Once,2015-04-22,['The Once '],
-8,Zürich,Calexico,2015-04-22,"['Calexico ', ' Joey Burns ', ' John Convertino ']",
-9,Zürich,The-Virus,2015-04-22,['The Virus '],
-10,null,Dälek,2015-04-22,"['Dälek ', ' Moodie Black ']",
-11,Zürich,Renzo-Spotti-Trio,2015-04-22,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
-12,Luzern,Jam-Night,2015-04-22,"['Emilia Taubic ', ' Christian Winiker ', ' Faruk Muslijevic ', ' Thomas Tavano ', ' Simon Britschgi ']",
-13,Zürich,Jazzbaragge-Wednesday-Jam,2015-04-22,"['Tobias Meier ', ' Dominique Girod ', ' Sheldon Suter ']",
-14,null,Caravane,2015-04-22,"[' Andrea Panitz ', ' Jurij Drole ', ' Geert Dedapper ', ' Martin Mäder ']",
-15,Basel,Jazzfestival-Basel,2015-04-22,"['Anouar Brahem New Group ', ' Klaus Gesing ', ' Anouar Brahem ', ' François Couturiers ', ' Björn Meyer ']",
-16,Baden,Endlich-Mittwoch-Solostunde,2015-04-22,['Michael Flury '],
-17,Winterthur,Ghost-Town-Trio-feat.-Aurel-Hassler,2015-04-22,"[' Aurel Hassler ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Küenzi ']",
-18,Zürich,Bukowski,2015-04-22,['Niagara '],Electronic
-19,Basel,Guitarorama,2015-04-22,"[' Aliéksey Vianna ', ' Stephan Kurmann ', ' Mauro Martins ']",
-20,Zürich,Jenny-Wilson,2015-04-22,['Jenny Wilson '],Pop
-21,Zürich,Ibeyi,2015-04-22,"['Ibeyi ', ' Naomi Diaz ', ' Lisa-Kainda Diaz ']",
-22,Baden,Bernadett-Kleinorchestrale-Jazzmusik,2015-04-22,"[' Daniel Affentranger ', ' Raphael Kalt ', ' Lukas Wyy ', ' Claude Stucki ', ' Mischa Frey ', ' Lukas Blattner ']",
-23,null,Ilenkus,2015-04-22,['Ilenkus '],
-24,Düdingen,Richard-Dawson,2015-04-22,"['Richard Dawson ', ' Merz ']",Pop
-25,Bern,Cosmo-Sheldrake,2015-04-22,['Cosmo Sheldrake '],Electronic
+location,event,date,artists,genre
+Basel,Mimiko-La-royale,2015-04-22,"['Elenora Bisevi ', ' Esteban La Rotta ']",Classic
+Luzern,Piano-Entertainment,2015-04-22,['Dezsö Balogh '],Classic
+Luzern,Sinfoniekonzert-Pan-und-Syrinx,2015-04-22,[' Lawrence Power '],Classic
+Zürich,Balthazar,2015-04-22,"['Balthazar ', ' Bed Rugs ']",
+null,Migros-Kulturprozent-Classics,2015-04-22,"[' Oliver Schnyder ', ' conductor: Julia Fischer ']",Classic
+Zürich,The-Staves,2015-04-22,['The Staves '],
+Zürich,Dino-Saluzzi-Group,2015-04-22,['Dino Saluzzi Group '],
+Zürich,The-Once,2015-04-22,['The Once '],
+Zürich,Calexico,2015-04-22,"['Calexico ', ' Joey Burns ', ' John Convertino ']",
+Zürich,The-Virus,2015-04-22,['The Virus '],
+null,Dälek,2015-04-22,"['Dälek ', ' Moodie Black ']",
+Zürich,Renzo-Spotti-Trio,2015-04-22,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
+Luzern,Jam-Night,2015-04-22,"['Emilia Taubic ', ' Christian Winiker ', ' Faruk Muslijevic ', ' Thomas Tavano ', ' Simon Britschgi ']",
+Zürich,Jazzbaragge-Wednesday-Jam,2015-04-22,"['Tobias Meier ', ' Dominique Girod ', ' Sheldon Suter ']",
+null,Caravane,2015-04-22,"[' Andrea Panitz ', ' Jurij Drole ', ' Geert Dedapper ', ' Martin Mäder ']",
+Basel,Jazzfestival-Basel,2015-04-22,"['Anouar Brahem New Group ', ' Klaus Gesing ', ' Anouar Brahem ', ' François Couturiers ', ' Björn Meyer ']",
+Baden,Endlich-Mittwoch-Solostunde,2015-04-22,['Michael Flury '],
+Winterthur,Ghost-Town-Trio-feat.-Aurel-Hassler,2015-04-22,"[' Aurel Hassler ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Küenzi ']",
+Zürich,Bukowski,2015-04-22,['Niagara '],Electronic
+Basel,Guitarorama,2015-04-22,"[' Aliéksey Vianna ', ' Stephan Kurmann ', ' Mauro Martins ']",
+Zürich,Jenny-Wilson,2015-04-22,['Jenny Wilson '],Pop
+Zürich,Ibeyi,2015-04-22,"['Ibeyi ', ' Naomi Diaz ', ' Lisa-Kainda Diaz ']",
+Baden,Bernadett-Kleinorchestrale-Jazzmusik,2015-04-22,"[' Daniel Affentranger ', ' Raphael Kalt ', ' Lukas Wyy ', ' Claude Stucki ', ' Mischa Frey ', ' Lukas Blattner ']",
+null,Ilenkus,2015-04-22,['Ilenkus '],
+Düdingen,Richard-Dawson,2015-04-22,"['Richard Dawson ', ' Merz ']",Pop
+Bern,Cosmo-Sheldrake,2015-04-22,['Cosmo Sheldrake '],Electronic

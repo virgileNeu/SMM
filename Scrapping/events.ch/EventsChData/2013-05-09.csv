@@ -1,26 +1,26 @@
-,location,event,date,artists,genre
-0,Zürich,Musik-zur-Auffahrt,2013-05-09,"[' Ariane Ursprung ', ' Andreas Berchtold ', ' Annetta Debrunner ']",Classic
-1,Zürich,Frühlingskonzert,2013-05-09,[' Basil Hubatka '],Classic
-2,Eishalle-Wetzikon,null,2013-05-09,['Clawfinger '],Clawfinger
-3,Bern,Internationales-Jazzfestival-Bern,2013-05-09,"['Roy Haynes Fountain of Youth Band ', ' Roy Haynes ', ' Jaleel Shaw ', ' Martin Bejerano ', ' David Wong ']",
-4,Luzern,Idyll-Frühlingskonzert,2013-05-09,[' Katrin Szamatulski '],Classic
-5,Sommercasino,Basel,2013-05-09,"['The Rugged Man ', ' Peter Jackson ']",
-6,Luzern,Salonmusik,2013-05-09,"['Martin Schaefer ', ' Richard Decker ']",Classic
-7,Zürich,The-Capaces,2013-05-09,['The Capaces '],
-8,Sud,Basel,2013-05-09,"[' Otto Normal ', ' Pat Hargreaves ']",MACY
-9,Kloten,Frauen-im-Jazz,2013-05-09,"['Laura Cesar ', ' Isla Eckinger ', ' Beat Baumli ', ' Pius Baschnagel ']",
-10,Winterthur,Girotto-&-Azcano-Duo,2013-05-09,"[' Javier Girotto ', ' Julio Azcano ']",
-11,Zürich,Javier-Ruibal,2013-05-09,"['Javier Ruibal ', ' Javier Ruibal ', ' Andi Pupato ', ' Wolfgang Zwiauer ', ' Tänzer: Isabel Amaya ']",
-12,Basel,Equilbrium,2013-05-09,"[' Sissel Vera Pettersen ', ' Joachim Badenhorst ', ' Mikkel Ploug ']",
-13,ISC-Club,Bern,2013-05-09,['The Raveonettes '],
-14,Baden,Kieran-Halpin,2013-05-09,['Kieran Halpin '],
-15,Baden,Jazz-am-Donnerstag,2013-05-09,"['Ueli Gygli ', ' Roberto Di Martino ', ' Gallus Burkard ']",
-16,Schüür,Luzern,2013-05-09,['Tom Liwa '],
-17,Le-Romandie,Lausanne,2013-05-09,"[' Marvin ', ' Three Second Kiss ']",Marvin
-18,Zürich,Wooden-Wand,2013-05-09,['Wooden Wand '],Pop
-19,Bern,Parenthetical-Girls,2013-05-09,['Parenthetical Girls '],Pop
-20,Vevey,Christophe-Chassol,2013-05-09,['Christophe Chassol '],Pop
-21,Winterthur,Pretty-Mery-K,2013-05-09,['Pretty Mery K '],
-22,Luzern,Jam-Session,2013-05-09,['Richard Decker '],
-23,Bern,Steps-to-Get-It,2013-05-09,['Tromboranga '],
-24,Bern,Internationales-Jazzfestival-Bern,2013-05-09,"['Roy Haynes Fountain of Youth Band ', ' Roy Haynes ', ' Jaleel Shaw ', ' Martin Bejerano ', ' David Wong ']",
+location,event,date,artists,genre
+Zürich,Musik-zur-Auffahrt,2013-05-09,"[' Ariane Ursprung ', ' Andreas Berchtold ', ' Annetta Debrunner ']",Classic
+Zürich,Frühlingskonzert,2013-05-09,[' Basil Hubatka '],Classic
+Eishalle-Wetzikon,null,2013-05-09,['Clawfinger '],Clawfinger
+Bern,Internationales-Jazzfestival-Bern,2013-05-09,"['Roy Haynes Fountain of Youth Band ', ' Roy Haynes ', ' Jaleel Shaw ', ' Martin Bejerano ', ' David Wong ']",
+Luzern,Idyll-Frühlingskonzert,2013-05-09,[' Katrin Szamatulski '],Classic
+Sommercasino,Basel,2013-05-09,"['The Rugged Man ', ' Peter Jackson ']",
+Luzern,Salonmusik,2013-05-09,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Zürich,The-Capaces,2013-05-09,['The Capaces '],
+Sud,Basel,2013-05-09,"[' Otto Normal ', ' Pat Hargreaves ']",MACY
+Kloten,Frauen-im-Jazz,2013-05-09,"['Laura Cesar ', ' Isla Eckinger ', ' Beat Baumli ', ' Pius Baschnagel ']",
+Winterthur,Girotto-&-Azcano-Duo,2013-05-09,"[' Javier Girotto ', ' Julio Azcano ']",
+Zürich,Javier-Ruibal,2013-05-09,"['Javier Ruibal ', ' Javier Ruibal ', ' Andi Pupato ', ' Wolfgang Zwiauer ', ' Tänzer: Isabel Amaya ']",
+Basel,Equilbrium,2013-05-09,"[' Sissel Vera Pettersen ', ' Joachim Badenhorst ', ' Mikkel Ploug ']",
+ISC-Club,Bern,2013-05-09,['The Raveonettes '],
+Baden,Kieran-Halpin,2013-05-09,['Kieran Halpin '],
+Baden,Jazz-am-Donnerstag,2013-05-09,"['Ueli Gygli ', ' Roberto Di Martino ', ' Gallus Burkard ']",
+Schüür,Luzern,2013-05-09,['Tom Liwa '],
+Le-Romandie,Lausanne,2013-05-09,"[' Marvin ', ' Three Second Kiss ']",Marvin
+Zürich,Wooden-Wand,2013-05-09,['Wooden Wand '],Pop
+Bern,Parenthetical-Girls,2013-05-09,['Parenthetical Girls '],Pop
+Vevey,Christophe-Chassol,2013-05-09,['Christophe Chassol '],Pop
+Winterthur,Pretty-Mery-K,2013-05-09,['Pretty Mery K '],
+Luzern,Jam-Session,2013-05-09,['Richard Decker '],
+Bern,Steps-to-Get-It,2013-05-09,['Tromboranga '],
+Bern,Internationales-Jazzfestival-Bern,2013-05-09,"['Roy Haynes Fountain of Youth Band ', ' Roy Haynes ', ' Jaleel Shaw ', ' Martin Bejerano ', ' David Wong ']",

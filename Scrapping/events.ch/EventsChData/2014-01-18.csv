@@ -1,35 +1,35 @@
-,location,event,date,artists,genre
-0,Kriens,Con-voce,2014-01-18,"[' Leo Hofmann ', ' Maren Lena Kessler ']",Classic
-1,Bern,Konzert,2014-01-18,['Kirill Zwegintsow '],Classic
-2,Bern,Bernische-Chopin-Gesellschaft,2014-01-18,['Kirill Zwegintsow '],Classic
-3,Zürich,Kontra(st)punkte-Musik-ist-gemeinsame-Heimat,2014-01-18,"['Tamar Eskenian ', ' Matthias Müller ']",Classic
-4,Luzern,Piano-Entertainment,2014-01-18,['Fabienne Ambühl '],
-5,null,Romantische-Reisen,2014-01-18,[' Christian Lampert '],Classic
-6,null,Romantische-Reisen,2014-01-18,[' Christian Lampert '],Classic
-7,Zürich,Bach-Variationen,2014-01-18,['Jürgen Wolf '],Classic
-8,Zürich,Konzert,2014-01-18,[' Jean-Guihen Queyras '],Classic
-9,Zug,Konzert,2014-01-18,['Martin Stadtfeld '],Classic
-10,Olten,Herbie's-Explo-3000,2014-01-18,"[' Adi Pflugshaupt ', ' Hans Feigenwinter ', ' Pius Baschnagel ', ' Herbie Kopf ']",
-11,Bülach,Orchesterkonzert,2014-01-18,[' Anna Reichert '],Classic
-12,Zürich,Poetry-in-Motion,2014-01-18,['Pierre Favre '],
-13,Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-18,"[' Djemea ', ' Claire Huguenin ', ' Oli Kuster ', ' Kevin Chesham ']",Pop
-14,Wettingen,Opus-8-Klarinetten-tanzen-Salsa,2014-01-18,[' Simon Stettler '],Classic
-15,Zürich,Phantom-Ghost,2014-01-18,['Phantom Ghost '],
-16,Oberengstringen,Jazz-Meets-Classic,2014-01-18,"[' Sophie Lüssi ', ' Leonardo Ferreyra ', ' Rahel Zellweger ', ' Andreas Ochsner ']",
-17,null,Bach-today,2014-01-18,['Stefan Keller '],Classic
-18,Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-18,"[' Greis ', ' Noti ']",Pop
-19,Basel,Evaristo-Pérez-Trio,2014-01-18,"[' Evaristo Pérez ', ' Philippe Brassoud ', ' Marta Themo ']",
-20,Zürich,Gletscher,2014-01-18,['Gletscher '],
-21,Baden,Trash-Town-Rockabilly-Day,2014-01-18,"['The Mean Devils ', "" Rockin' Carbonara ""]",
-22,Thun,Defrage,2014-01-18,['Defrage '],
-23,null,Red-Fang,2014-01-18,"['Red Fang ', ' The Shrine ', ' Lord Dying ']",
-24,Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-18,"[' Pablo Nouvelle ', ' Simon Borer ', ' Mario Hänni ']",
-25,Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-18,"[' Jonathan Maag ', ' Julian Hesse ', ' Andrey Tatarinets ', ' Domi Chansorn ']",
-26,null,Kid-Fonque,2014-01-18,"['Kid Fonque ', ' DJ Oil ']",
-27,Bern,Grossstadtgeflüster,2014-01-18,['Grossstadtgeflüster '],Pop
-28,Lyss,Käptn-Peng-&-Die-Tentakel-von-Delphi,2014-01-18,"['Käptn Peng & Die Tentakel von Delphi ', ' Smith & Smart ']",
-29,Bern,Metric-Rotations-2,2014-01-18,"['Baze ', ' Rico Baumann ', ' Don Li ']",
-30,Bern,Rob-Moir-&-Artlu-Bubble-&-The-Dead-Animal-Gang,2014-01-18,['Rob Moir '],
-31,Bern,Dara,2014-01-18,['Dara '],traditional
-32,null,Babyshambles,2014-01-18,['Babyshambles '],
-33,Lugano,Daddy-G,2014-01-18,['Daddy G '],Electronic
+location,event,date,artists,genre
+Kriens,Con-voce,2014-01-18,"[' Leo Hofmann ', ' Maren Lena Kessler ']",Classic
+Bern,Konzert,2014-01-18,['Kirill Zwegintsow '],Classic
+Bern,Bernische-Chopin-Gesellschaft,2014-01-18,['Kirill Zwegintsow '],Classic
+Zürich,Kontra(st)punkte-Musik-ist-gemeinsame-Heimat,2014-01-18,"['Tamar Eskenian ', ' Matthias Müller ']",Classic
+Luzern,Piano-Entertainment,2014-01-18,['Fabienne Ambühl '],
+null,Romantische-Reisen,2014-01-18,[' Christian Lampert '],Classic
+null,Romantische-Reisen,2014-01-18,[' Christian Lampert '],Classic
+Zürich,Bach-Variationen,2014-01-18,['Jürgen Wolf '],Classic
+Zürich,Konzert,2014-01-18,[' Jean-Guihen Queyras '],Classic
+Zug,Konzert,2014-01-18,['Martin Stadtfeld '],Classic
+Olten,Herbie's-Explo-3000,2014-01-18,"[' Adi Pflugshaupt ', ' Hans Feigenwinter ', ' Pius Baschnagel ', ' Herbie Kopf ']",
+Bülach,Orchesterkonzert,2014-01-18,[' Anna Reichert '],Classic
+Zürich,Poetry-in-Motion,2014-01-18,['Pierre Favre '],
+Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-18,"[' Djemea ', ' Claire Huguenin ', ' Oli Kuster ', ' Kevin Chesham ']",Pop
+Wettingen,Opus-8-Klarinetten-tanzen-Salsa,2014-01-18,[' Simon Stettler '],Classic
+Zürich,Phantom-Ghost,2014-01-18,['Phantom Ghost '],
+Oberengstringen,Jazz-Meets-Classic,2014-01-18,"[' Sophie Lüssi ', ' Leonardo Ferreyra ', ' Rahel Zellweger ', ' Andreas Ochsner ']",
+null,Bach-today,2014-01-18,['Stefan Keller '],Classic
+Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-18,"[' Greis ', ' Noti ']",Pop
+Basel,Evaristo-Pérez-Trio,2014-01-18,"[' Evaristo Pérez ', ' Philippe Brassoud ', ' Marta Themo ']",
+Zürich,Gletscher,2014-01-18,['Gletscher '],
+Baden,Trash-Town-Rockabilly-Day,2014-01-18,"['The Mean Devils ', "" Rockin' Carbonara ""]",
+Thun,Defrage,2014-01-18,['Defrage '],
+null,Red-Fang,2014-01-18,"['Red Fang ', ' The Shrine ', ' Lord Dying ']",
+Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-18,"[' Pablo Nouvelle ', ' Simon Borer ', ' Mario Hänni ']",
+Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-18,"[' Jonathan Maag ', ' Julian Hesse ', ' Andrey Tatarinets ', ' Domi Chansorn ']",
+null,Kid-Fonque,2014-01-18,"['Kid Fonque ', ' DJ Oil ']",
+Bern,Grossstadtgeflüster,2014-01-18,['Grossstadtgeflüster '],Pop
+Lyss,Käptn-Peng-&-Die-Tentakel-von-Delphi,2014-01-18,"['Käptn Peng & Die Tentakel von Delphi ', ' Smith & Smart ']",
+Bern,Metric-Rotations-2,2014-01-18,"['Baze ', ' Rico Baumann ', ' Don Li ']",
+Bern,Rob-Moir-&-Artlu-Bubble-&-The-Dead-Animal-Gang,2014-01-18,['Rob Moir '],
+Bern,Dara,2014-01-18,['Dara '],traditional
+null,Babyshambles,2014-01-18,['Babyshambles '],
+Lugano,Daddy-G,2014-01-18,['Daddy G '],Electronic

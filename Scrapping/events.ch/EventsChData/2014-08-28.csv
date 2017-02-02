@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Luzern,Meisterkurs-Gesang-4.-Tag,2014-08-28,[' Barbara Hannigan '],Classic
-1,Luzern,Debut-3,2014-08-28,"['Alina Ibragimova ', ' Cédric Tiberghien ']",Classic
-2,Glattbrugg,Zürich-Openair,2014-08-28,"['Paolo Nutini ', ' Metronomy ', ' Crystal Fighters ', ' Cut Copy ', ' Crookers ']",Pop
-3,Willisau,Jazz-Festival-Willisau,2014-08-28,"[' Simone Schorro ', ' Michael Tobler ', ' Rahel Kraft ', ' Milena Dürst ']",
-4,Liestal,Grand-Bazaar,2014-08-28,"[' Joel Schmidt ', ' René Rothacher ', ' Pascal Ujak ', ' Lucio Marelli ']",
-5,Basel,Festival-Météo,2014-08-28,"['Durio Zibethinus ', ' Chris Corsano Quartet ', ' Za ', ' Joke Lanz ', ' Durio Zibethinus ', ' Valentin Ceccaldi ', ' Chris Corsano ', ' John Edwards ', ' Mette Rasmussen ']",
-6,Luzern,Sinfoniekonzert-11,2014-08-28,[' Murray Perahia '],Classic
-7,Montreux,Septembre-musical,2014-08-28,[' Alisa Weilerstein '],Classic
-8,Saanen,Menuhin-Festival-Gstaad,2014-08-28,[' Leon Fleisher '],Classic
-9,Murten,Murten-Classics-Sinfoniekonzert,2014-08-28,['Viviane Chassot '],Classic
-10,Willisau,Jazz-Festival-Willisau,2014-08-28,"[' Sylvie Courvoisier ', ' Drew Gress ', ' Kenny Wollesen ']",
-11,Basel,Sarah-Chaksad-Orchestra,2014-08-28,"[' Sarah Chaksad ', ' Julie Fahrer ', ' Mario Schenker ', ' Cedric Gschwind ', ' Fabian Willmann ']",
-12,Baden,Witek-Kornacki-Trio,2014-08-28,"['Witek Kornacki Trio ', ' Witek Kornacki ', ' Toni Donadio ', ' Moreno Donadio ']",
-13,Basel,Masterabsolventen-der-Hochschule-für-Musik-Basel,2014-08-28,"[' Julie Fahrer ', ' Neele Pfleiderer ', ' Sebastian Hirsig ']",
-14,Basel,Salsa-Party,2014-08-28,['DJ Mambito '],
-15,Winterthur,Jazz-Infusion,2014-08-28,"[' Joachim Tillmanns ', ' Richard Schmied ', ' Urs Granacher ', ' Berthold Klein ', ' Thimo Niesterok ', ' John Mumford ', ' Wim Dikstra ']",
+location,event,date,artists,genre
+Luzern,Meisterkurs-Gesang-4.-Tag,2014-08-28,[' Barbara Hannigan '],Classic
+Luzern,Debut-3,2014-08-28,"['Alina Ibragimova ', ' Cédric Tiberghien ']",Classic
+Glattbrugg,Zürich-Openair,2014-08-28,"['Paolo Nutini ', ' Metronomy ', ' Crystal Fighters ', ' Cut Copy ', ' Crookers ']",Pop
+Willisau,Jazz-Festival-Willisau,2014-08-28,"[' Simone Schorro ', ' Michael Tobler ', ' Rahel Kraft ', ' Milena Dürst ']",
+Liestal,Grand-Bazaar,2014-08-28,"[' Joel Schmidt ', ' René Rothacher ', ' Pascal Ujak ', ' Lucio Marelli ']",
+Basel,Festival-Météo,2014-08-28,"['Durio Zibethinus ', ' Chris Corsano Quartet ', ' Za ', ' Joke Lanz ', ' Durio Zibethinus ', ' Valentin Ceccaldi ', ' Chris Corsano ', ' John Edwards ', ' Mette Rasmussen ']",
+Luzern,Sinfoniekonzert-11,2014-08-28,[' Murray Perahia '],Classic
+Montreux,Septembre-musical,2014-08-28,[' Alisa Weilerstein '],Classic
+Saanen,Menuhin-Festival-Gstaad,2014-08-28,[' Leon Fleisher '],Classic
+Murten,Murten-Classics-Sinfoniekonzert,2014-08-28,['Viviane Chassot '],Classic
+Willisau,Jazz-Festival-Willisau,2014-08-28,"[' Sylvie Courvoisier ', ' Drew Gress ', ' Kenny Wollesen ']",
+Basel,Sarah-Chaksad-Orchestra,2014-08-28,"[' Sarah Chaksad ', ' Julie Fahrer ', ' Mario Schenker ', ' Cedric Gschwind ', ' Fabian Willmann ']",
+Baden,Witek-Kornacki-Trio,2014-08-28,"['Witek Kornacki Trio ', ' Witek Kornacki ', ' Toni Donadio ', ' Moreno Donadio ']",
+Basel,Masterabsolventen-der-Hochschule-für-Musik-Basel,2014-08-28,"[' Julie Fahrer ', ' Neele Pfleiderer ', ' Sebastian Hirsig ']",
+Basel,Salsa-Party,2014-08-28,['DJ Mambito '],
+Winterthur,Jazz-Infusion,2014-08-28,"[' Joachim Tillmanns ', ' Richard Schmied ', ' Urs Granacher ', ' Berthold Klein ', ' Thimo Niesterok ', ' John Mumford ', ' Wim Dikstra ']",

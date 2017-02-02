@@ -1,37 +1,37 @@
-,location,event,date,artists,genre
-0,Weggis,Anthony-Caputo,2015-05-01,['Anthony Caputo '],
-1,Luzern,Piano-Entertainment,2015-05-01,['Jozsef Sarkozy '],Classic
-2,Basel,Orgelspiel-zum-Feierabend,2015-05-01,['Jean-Claude Zehnder '],Classic
-3,Dietikon,Feierabendmusik-in-der-Kirche,2015-05-01,['Bernhard Hörler '],Classic
-4,Pratteln,ASP,2015-05-01,"['ASP ', ' Diary of Dreams ', ' Spielbann ']",
-5,Bern,Pahud-und-Mozart,2015-05-01,[' Emmanuel Pahud '],Classic
-6,Zürich,Frühjahrstournee,2015-05-01,[' Pavlos Serassis '],Classic
-7,Zürich,Felix-Gubser-40-Jahre-Kirchenmusiker-an-St.-Peter-und-Paul,2015-05-01,"['Felix Gubser ', ' Hossein Samieian ', ' Kurt Meier ', ' Rita Meier ', ' Arlette Meier ', ' Emanuel Rütsche ']",Classic
-8,Arbon,Mascara-Quartet,2015-05-01,"[' Polona Udovic ', ' Timi Krajnc ', ' Vojko Veligaj ', ' Mitja Rezman ']",
-9,null,Paulo-Alderighi-&-Stephanie-Trick,2015-05-01,"[' Paolo Alderighi ', ' Stephanie Trick ']",
-10,Chur,Tag-der-Arbeiter,2015-05-01,"[' Simon Suter ', ' Mirjam Saxer ']",
-11,Basel,Jazzfestival-Basel,2015-05-01,"['Bassekou Kouyate & Ngoni Ba ', ' Bassoukou Koujate ', ' Amy Sacko ', ' Mamadou Koujate ', ' Moustafa Koujate ', ' Mahamadou Tounkara ']",
-12,Zug,Gäzig,2015-05-01,"[' Christine Lauterburg ', ' Hans Kennel ', ' Regina Steiner ', ' Leo Bachmann ']",traditional
-13,Basel,Ocho-Macho,2015-05-01,['Ocho Macho '],
-14,Zürich,Charlie-Winston,2015-05-01,['Charlie Winston '],Pop
-15,Bern,Viva-La-Vida,2015-05-01,"[' Trio Adelphai ', ' Anna Sophia Lang ', ' Anna Katharina Grote ']",Classic
-16,Zürich,Hübsch-Martel-Zoubek,2015-05-01,"[' Carl Ludwig Hübsch ', ' Pierre Yves Martel ', ' Philip Zoubek ']",
-17,Liebefeld,Losinger-Eser,2015-05-01,"['Losinger-Eser ', ' Ania Losinger ', ' Mats Eser ']",
-18,Basel,Till-Martin-Quintet,2015-05-01,"[' Till Martin ', ' Andreas Höricht ', ' Christian Elsässer ', ' Henning Sieverts ', ' Bastian Jütte ']",
-19,Winterthur,Dollhouse,2015-05-01,['Dollhouse '],
-20,Aarau,Mark-Berube,2015-05-01,['Mark Berube '],Pop
-21,Thun,Lilly-Martin-&-Band,2015-05-01,['Lilly Martin & Band '],
-22,Lenzburg,Ami-Warning,2015-05-01,['Ami Warning '],Pop
-23,Bern,Chris-Jagger,2015-05-01,['Chris Jagger '],
-24,Brugg,Bluecerne,2015-05-01,"[' Renato Cazzaniga ', ' Roli Mosimann ', ' Chris Heule ', ' Michi Bütikofer ', ' Eric Kunz ', ' Patrick Röösli ', ' Martin Scheidegger ']",
-25,Rubigen,Ryan-McGarvey,2015-05-01,['Ryan McGarvey '],
-26,Lyss,Get-Your-Gun,2015-05-01,['Get your Gun '],
-27,Baden,Trash-Town-Rockabilly-Weekender,2015-05-01,"[""Boppin'B ""]",
-28,null,The-Two,2015-05-01,"[' Yannick Nannette ', ' Thierry Jaccard ']",
-29,Sankt-Gallen,She-Keeps-Bees,2015-05-01,"['She Keeps Bees ', ' Matthew E. White ']",
-30,Bern,Auawirleben,2015-05-01,['Denis Jones '],Electronic
-31,Schaffhausen,Suchas,2015-05-01,[' Jaerven '],
-32,null,Retro-Reggae,2015-05-01,"[' I Kong ', ' DJs Gladdy Wax ']",
-33,Bern,Wild-Wild-East,2015-05-01,"['Rotfront ', ' 44 Leningrad ']",
-34,null,Rap-Guerilla,2015-05-01,"['Première ligne ', ' Fils du béton ', ' Missah ', ' Les partisans du Hip-Hop ']",
-35,Aarau,Max-Cooper,2015-05-01,['Max Cooper '],Electronic
+location,event,date,artists,genre
+Weggis,Anthony-Caputo,2015-05-01,['Anthony Caputo '],
+Luzern,Piano-Entertainment,2015-05-01,['Jozsef Sarkozy '],Classic
+Basel,Orgelspiel-zum-Feierabend,2015-05-01,['Jean-Claude Zehnder '],Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2015-05-01,['Bernhard Hörler '],Classic
+Pratteln,ASP,2015-05-01,"['ASP ', ' Diary of Dreams ', ' Spielbann ']",
+Bern,Pahud-und-Mozart,2015-05-01,[' Emmanuel Pahud '],Classic
+Zürich,Frühjahrstournee,2015-05-01,[' Pavlos Serassis '],Classic
+Zürich,Felix-Gubser-40-Jahre-Kirchenmusiker-an-St.-Peter-und-Paul,2015-05-01,"['Felix Gubser ', ' Hossein Samieian ', ' Kurt Meier ', ' Rita Meier ', ' Arlette Meier ', ' Emanuel Rütsche ']",Classic
+Arbon,Mascara-Quartet,2015-05-01,"[' Polona Udovic ', ' Timi Krajnc ', ' Vojko Veligaj ', ' Mitja Rezman ']",
+null,Paulo-Alderighi-&-Stephanie-Trick,2015-05-01,"[' Paolo Alderighi ', ' Stephanie Trick ']",
+Chur,Tag-der-Arbeiter,2015-05-01,"[' Simon Suter ', ' Mirjam Saxer ']",
+Basel,Jazzfestival-Basel,2015-05-01,"['Bassekou Kouyate & Ngoni Ba ', ' Bassoukou Koujate ', ' Amy Sacko ', ' Mamadou Koujate ', ' Moustafa Koujate ', ' Mahamadou Tounkara ']",
+Zug,Gäzig,2015-05-01,"[' Christine Lauterburg ', ' Hans Kennel ', ' Regina Steiner ', ' Leo Bachmann ']",traditional
+Basel,Ocho-Macho,2015-05-01,['Ocho Macho '],
+Zürich,Charlie-Winston,2015-05-01,['Charlie Winston '],Pop
+Bern,Viva-La-Vida,2015-05-01,"[' Trio Adelphai ', ' Anna Sophia Lang ', ' Anna Katharina Grote ']",Classic
+Zürich,Hübsch-Martel-Zoubek,2015-05-01,"[' Carl Ludwig Hübsch ', ' Pierre Yves Martel ', ' Philip Zoubek ']",
+Liebefeld,Losinger-Eser,2015-05-01,"['Losinger-Eser ', ' Ania Losinger ', ' Mats Eser ']",
+Basel,Till-Martin-Quintet,2015-05-01,"[' Till Martin ', ' Andreas Höricht ', ' Christian Elsässer ', ' Henning Sieverts ', ' Bastian Jütte ']",
+Winterthur,Dollhouse,2015-05-01,['Dollhouse '],
+Aarau,Mark-Berube,2015-05-01,['Mark Berube '],Pop
+Thun,Lilly-Martin-&-Band,2015-05-01,['Lilly Martin & Band '],
+Lenzburg,Ami-Warning,2015-05-01,['Ami Warning '],Pop
+Bern,Chris-Jagger,2015-05-01,['Chris Jagger '],
+Brugg,Bluecerne,2015-05-01,"[' Renato Cazzaniga ', ' Roli Mosimann ', ' Chris Heule ', ' Michi Bütikofer ', ' Eric Kunz ', ' Patrick Röösli ', ' Martin Scheidegger ']",
+Rubigen,Ryan-McGarvey,2015-05-01,['Ryan McGarvey '],
+Lyss,Get-Your-Gun,2015-05-01,['Get your Gun '],
+Baden,Trash-Town-Rockabilly-Weekender,2015-05-01,"[""Boppin'B ""]",
+null,The-Two,2015-05-01,"[' Yannick Nannette ', ' Thierry Jaccard ']",
+Sankt-Gallen,She-Keeps-Bees,2015-05-01,"['She Keeps Bees ', ' Matthew E. White ']",
+Bern,Auawirleben,2015-05-01,['Denis Jones '],Electronic
+Schaffhausen,Suchas,2015-05-01,[' Jaerven '],
+null,Retro-Reggae,2015-05-01,"[' I Kong ', ' DJs Gladdy Wax ']",
+Bern,Wild-Wild-East,2015-05-01,"['Rotfront ', ' 44 Leningrad ']",
+null,Rap-Guerilla,2015-05-01,"['Première ligne ', ' Fils du béton ', ' Missah ', ' Les partisans du Hip-Hop ']",
+Aarau,Max-Cooper,2015-05-01,['Max Cooper '],Electronic

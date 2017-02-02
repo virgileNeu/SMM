@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,St.-Moritz,Festival-da-Jazz,2016-07-31,"['Lilly Martin ', ' Lilly Martin ', ' Michael Dolmetsch ', ' Oliver Keller ', ' Markus Fritzsche ', ' Tom Beck ']",
-1,Verbier,Verbier-Festival,2016-07-31,['Christian Tetzlaff '],Classic
-2,Maschwanden,Sommerklänge,2016-07-31,"['Esther Hoppe ', ' Christian Poltera ']",Classic
-3,Saanen,Musique-&-Famille-IX,2016-07-31,"['Maurice Steger ', ' Polina Pasztircsák ', ' Sebastian Kohlhepp ', ' Matthias Winckhler ']",Classic
-4,Zürich,Bruce-Springsteen,2016-07-31,['Bruce Springsteen '],
-5,Verbier,Verbier-Festival,2016-07-31,[' Daniil Trifonov '],Classic
-6,null,Stimmen,2016-07-31,"['Get Well Soon ', ' The Temperance Movement ']",Pop
-7,Zürich,Tarrus-Riley,2016-07-31,['Tarrus Riley '],
-8,Zürich,Radio-Moscow,2016-07-31,['Radio Moscow '],
-9,Bern,Faràndula-salsera-&-Verano-After-Party,2016-07-31,"['DJs Hector ', ' Buena Vista ']",
-10,Verbier,Verbier-Festival,2016-07-31,[' Martin Fröst '],Classic
-11,Pratteln,Blue-Öyster-Cult,2016-07-31,['Blue Öyster Cult '],
-12,Thun,Am-Schluss,2016-07-31,['17 Hippies '],Pop
-13,Zürich,Alexander-Abreu-y-Havana-D'Primera,2016-07-31,"[""Alexander Abreu y Havana D'Primera ""]",
-14,Luzern,Ministry,2016-07-31,['Ministry '],
-15,St.-Moritz,Festival-da-Jazz,2016-07-31,"['Earth Wind & Fire Experience feat. the Al McKay Allstars ', ' Albert McKay ', ' Devere Dukett ', ' Tim Owens ', ' Claude Woods ', ' Ben Dowling ', ' Dean Gant ']",
+location,event,date,artists,genre
+St.-Moritz,Festival-da-Jazz,2016-07-31,"['Lilly Martin ', ' Lilly Martin ', ' Michael Dolmetsch ', ' Oliver Keller ', ' Markus Fritzsche ', ' Tom Beck ']",
+Verbier,Verbier-Festival,2016-07-31,['Christian Tetzlaff '],Classic
+Maschwanden,Sommerklänge,2016-07-31,"['Esther Hoppe ', ' Christian Poltera ']",Classic
+Saanen,Musique-&-Famille-IX,2016-07-31,"['Maurice Steger ', ' Polina Pasztircsák ', ' Sebastian Kohlhepp ', ' Matthias Winckhler ']",Classic
+Zürich,Bruce-Springsteen,2016-07-31,['Bruce Springsteen '],
+Verbier,Verbier-Festival,2016-07-31,[' Daniil Trifonov '],Classic
+null,Stimmen,2016-07-31,"['Get Well Soon ', ' The Temperance Movement ']",Pop
+Zürich,Tarrus-Riley,2016-07-31,['Tarrus Riley '],
+Zürich,Radio-Moscow,2016-07-31,['Radio Moscow '],
+Bern,Faràndula-salsera-&-Verano-After-Party,2016-07-31,"['DJs Hector ', ' Buena Vista ']",
+Verbier,Verbier-Festival,2016-07-31,[' Martin Fröst '],Classic
+Pratteln,Blue-Öyster-Cult,2016-07-31,['Blue Öyster Cult '],
+Thun,Am-Schluss,2016-07-31,['17 Hippies '],Pop
+Zürich,Alexander-Abreu-y-Havana-D'Primera,2016-07-31,"[""Alexander Abreu y Havana D'Primera ""]",
+Luzern,Ministry,2016-07-31,['Ministry '],
+St.-Moritz,Festival-da-Jazz,2016-07-31,"['Earth Wind & Fire Experience feat. the Al McKay Allstars ', ' Albert McKay ', ' Devere Dukett ', ' Tim Owens ', ' Claude Woods ', ' Ben Dowling ', ' Dean Gant ']",

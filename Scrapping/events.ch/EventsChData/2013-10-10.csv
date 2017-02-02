@@ -1,34 +1,34 @@
-,location,event,date,artists,genre
-0,Zürich,World-Mental-Health-Day-Bipolar-Konzert-mit-Lesung,2013-10-10,[' Rudolf Holgerson '],Pop
-1,null,Talhof-Festival,2013-10-10,['The Chickendales '],Pop
-2,Bern,Enigma-Variationen,2013-10-10,[' Martin Fröst '],Classic
-3,Zürich,Konzert,2013-10-10,[' Olga Scheps '],Classic
-4,Volkshaus,Zürich,2013-10-10,['Nek '],Nek
-5,Zürich,Musik-ohne-Strom,2013-10-10,['Milky Chance '],Pop
-6,Zürich,Alpha-Blondy,2013-10-10,['Alpha Blondy '],
-7,Luzern,Salonmusik,2013-10-10,"['Martin Schaefer ', ' Richard Decker ']",Classic
-8,null,Finntroll,2013-10-10,['Finntroll '],
-9,Basel,Mostly-Caccini,2013-10-10,"['Richard Levitt ', ' Sam Chapman ']",Classic
-10,Solothurn,Kvelertak,2013-10-10,"['Kvelertak ', ' Arabrot ']",
-11,Obere-Mühle,Dübendorf,2013-10-10,"[' Jenny Chi ', ' André Siqueira ', ' Ralph Sonderegger ', ' Florian Reichle ']",
-12,Zürich,What-Josephine-Saw,2013-10-10,['What Josephine Saw '],Pop
-13,Winterthur,Seven-Things,2013-10-10,"[' Klaus Koenig ', ' Daniel Schenker ', ' Christoph Merki ', ' Patrick Sommer ', ' Andi Wettstein ']",
-14,Bülach,Five-Decades-Finest-Art-of-Piano-Jazz,2013-10-10,"['Monty Alexander Trio ', ' Monty Alexandr ', ' Hassan JJ Wiggins Shakur ', ' Dennis Mackrel ']",
-15,Kloten,Hot-Shot-Blues-Band,2013-10-10,"[' Peter Hubauer ', ' Gerhard Eisen ', ' Berni Rother ']",
-16,Basel,Chôro-Moderno-Trio,2013-10-10,"[' Rodrigo Botter Maio ', ' Oliver Pellet ', ' Floriano Inàcio Jr. ']",
-17,Bern,The-Tribe-&-Zach-Prather,2013-10-10,"[' Zach Prather ', ' Erich Kunz ', ' Urs Baumerler ']",
-18,Liebefeld,Marcus-Wyatt-Zar-Quartet,2013-10-10,"[' Marcus Wyatt ', ' Domenic Landolf ', ' Bänz Oester ', ' Dominic Egli ']",
-19,Zürich,Black-Widow,2013-10-10,"['Erika Stucky ', ' Erika Stucky ', ' David Coulter ', ' Terry Edwards ', ' Michael Blair ']",
-20,Bern,EF,2013-10-10,['EF '],
-21,Basel,Nausea,2013-10-10,['Nausea '],
-22,Luzern,XL-Target,2013-10-10,"[' Joseph Bowie ', ' KJ Dave Doran ', ' Christy Doran ', ' Dany Trutt ']",
-23,Lausanne,Mozes-and-the-Firstborn,2013-10-10,['Mozes and the Firstborn '],
-24,Reussbühl,Andy-Bilinski,2013-10-10,['Andy Bilinski '],Pop
-25,Aarburg,Toploader,2013-10-10,['Toploader '],
-26,Kriens,Connan-Mockasin,2013-10-10,['Connan Mockasin '],Electronic
-27,Zürich,Dylan-Carlson,2013-10-10,['Dylan Carlson '],
-28,Zürich,Raphael-Jost,2013-10-10,"[' Raphael Jost ', ' Andrina Bollinger ', ' Nils Fischer ', ' Raphael Walser ']",
-29,Luzern,Jam-Session,2013-10-10,['Richard Decker '],
-30,Bern,Heymoonshaker,2013-10-10,['Heymoonshaker '],
-31,Zürich,Blauson,2013-10-10,['Blauson '],Pop
-32,Zürich,The-Move-Ons,2013-10-10,['The Move-Ons '],
+location,event,date,artists,genre
+Zürich,World-Mental-Health-Day-Bipolar-Konzert-mit-Lesung,2013-10-10,[' Rudolf Holgerson '],Pop
+null,Talhof-Festival,2013-10-10,['The Chickendales '],Pop
+Bern,Enigma-Variationen,2013-10-10,[' Martin Fröst '],Classic
+Zürich,Konzert,2013-10-10,[' Olga Scheps '],Classic
+Volkshaus,Zürich,2013-10-10,['Nek '],Nek
+Zürich,Musik-ohne-Strom,2013-10-10,['Milky Chance '],Pop
+Zürich,Alpha-Blondy,2013-10-10,['Alpha Blondy '],
+Luzern,Salonmusik,2013-10-10,"['Martin Schaefer ', ' Richard Decker ']",Classic
+null,Finntroll,2013-10-10,['Finntroll '],
+Basel,Mostly-Caccini,2013-10-10,"['Richard Levitt ', ' Sam Chapman ']",Classic
+Solothurn,Kvelertak,2013-10-10,"['Kvelertak ', ' Arabrot ']",
+Obere-Mühle,Dübendorf,2013-10-10,"[' Jenny Chi ', ' André Siqueira ', ' Ralph Sonderegger ', ' Florian Reichle ']",
+Zürich,What-Josephine-Saw,2013-10-10,['What Josephine Saw '],Pop
+Winterthur,Seven-Things,2013-10-10,"[' Klaus Koenig ', ' Daniel Schenker ', ' Christoph Merki ', ' Patrick Sommer ', ' Andi Wettstein ']",
+Bülach,Five-Decades-Finest-Art-of-Piano-Jazz,2013-10-10,"['Monty Alexander Trio ', ' Monty Alexandr ', ' Hassan JJ Wiggins Shakur ', ' Dennis Mackrel ']",
+Kloten,Hot-Shot-Blues-Band,2013-10-10,"[' Peter Hubauer ', ' Gerhard Eisen ', ' Berni Rother ']",
+Basel,Chôro-Moderno-Trio,2013-10-10,"[' Rodrigo Botter Maio ', ' Oliver Pellet ', ' Floriano Inàcio Jr. ']",
+Bern,The-Tribe-&-Zach-Prather,2013-10-10,"[' Zach Prather ', ' Erich Kunz ', ' Urs Baumerler ']",
+Liebefeld,Marcus-Wyatt-Zar-Quartet,2013-10-10,"[' Marcus Wyatt ', ' Domenic Landolf ', ' Bänz Oester ', ' Dominic Egli ']",
+Zürich,Black-Widow,2013-10-10,"['Erika Stucky ', ' Erika Stucky ', ' David Coulter ', ' Terry Edwards ', ' Michael Blair ']",
+Bern,EF,2013-10-10,['EF '],
+Basel,Nausea,2013-10-10,['Nausea '],
+Luzern,XL-Target,2013-10-10,"[' Joseph Bowie ', ' KJ Dave Doran ', ' Christy Doran ', ' Dany Trutt ']",
+Lausanne,Mozes-and-the-Firstborn,2013-10-10,['Mozes and the Firstborn '],
+Reussbühl,Andy-Bilinski,2013-10-10,['Andy Bilinski '],Pop
+Aarburg,Toploader,2013-10-10,['Toploader '],
+Kriens,Connan-Mockasin,2013-10-10,['Connan Mockasin '],Electronic
+Zürich,Dylan-Carlson,2013-10-10,['Dylan Carlson '],
+Zürich,Raphael-Jost,2013-10-10,"[' Raphael Jost ', ' Andrina Bollinger ', ' Nils Fischer ', ' Raphael Walser ']",
+Luzern,Jam-Session,2013-10-10,['Richard Decker '],
+Bern,Heymoonshaker,2013-10-10,['Heymoonshaker '],
+Zürich,Blauson,2013-10-10,['Blauson '],Pop
+Zürich,The-Move-Ons,2013-10-10,['The Move-Ons '],

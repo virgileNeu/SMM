@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,Zürich,Jazzapero,2013-12-10,"[' Rodrigo Botter Maio ', ' Adrian Frey ']",
-1,Luzern,Piano-Entertainment,2013-12-10,['Mark Tenger '],
-2,Luzern,Satyricon,2013-12-10,['Satyricon '],
-3,Aarau,Unearth,2013-12-10,['Unearth '],
-4,Zürich,The-Toasters,2013-12-10,['The Toasters '],
-5,Basel,Claire,2013-12-10,['Claire '],Pop
-6,Winterthur,Russische-Avantgarde-II,2013-12-10,"['Daniela Müller ', ' Petra Ackermann ', ' Tamriko Kordzaia ', ' David Pia ']",Classic
-7,Bern,Voices-of-Gospel,2013-12-10,['Prince Yelder & Disciples for Christ '],
-8,Zürich,Thierry-Lang-Quintet,2013-12-10,"['Thierry Lang Quintet ', ' Thierry Lang ', ' Matthieu Michel ', ' Glenn Ferris ', ' Heiri Känzig ', ' Kevin Chesham ']",
-9,null,Voices-of-Gospel,2013-12-10,['St. Stephen Baptist Church Choir '],
-10,Zürich,Black-Veil-Brides,2013-12-10,"['Black Veil Brides ', ' Heavens Basement ', ' Strawberry Blondes ']",
-11,null,Culturescapes,2013-12-10,['Bojan Z '],
-12,Luzern,Workshopkonzert,2013-12-10,"[' Martial In-Albon ', ' Flurin Iten ', ' Demian Coca ', ' Claudio Berger ', ' Nicolas Struchen ']",
-13,Zürich,Eric-Bibb-&-North-Country-Far,2013-12-10,"['Eric Bibb & North Country Far ', ' Eric Bibb ', ' Petri Hakala ', ' Olli Haavisto ']",Pop
-14,Düdingen,Blouse,2013-12-10,['Blouse '],
-15,Zürich,Za,2013-12-10,['Za '],
-16,Zürich,Rockstar-From-Hell,2013-12-10,['Wolf Alice '],
+location,event,date,artists,genre
+Zürich,Jazzapero,2013-12-10,"[' Rodrigo Botter Maio ', ' Adrian Frey ']",
+Luzern,Piano-Entertainment,2013-12-10,['Mark Tenger '],
+Luzern,Satyricon,2013-12-10,['Satyricon '],
+Aarau,Unearth,2013-12-10,['Unearth '],
+Zürich,The-Toasters,2013-12-10,['The Toasters '],
+Basel,Claire,2013-12-10,['Claire '],Pop
+Winterthur,Russische-Avantgarde-II,2013-12-10,"['Daniela Müller ', ' Petra Ackermann ', ' Tamriko Kordzaia ', ' David Pia ']",Classic
+Bern,Voices-of-Gospel,2013-12-10,['Prince Yelder & Disciples for Christ '],
+Zürich,Thierry-Lang-Quintet,2013-12-10,"['Thierry Lang Quintet ', ' Thierry Lang ', ' Matthieu Michel ', ' Glenn Ferris ', ' Heiri Känzig ', ' Kevin Chesham ']",
+null,Voices-of-Gospel,2013-12-10,['St. Stephen Baptist Church Choir '],
+Zürich,Black-Veil-Brides,2013-12-10,"['Black Veil Brides ', ' Heavens Basement ', ' Strawberry Blondes ']",
+null,Culturescapes,2013-12-10,['Bojan Z '],
+Luzern,Workshopkonzert,2013-12-10,"[' Martial In-Albon ', ' Flurin Iten ', ' Demian Coca ', ' Claudio Berger ', ' Nicolas Struchen ']",
+Zürich,Eric-Bibb-&-North-Country-Far,2013-12-10,"['Eric Bibb & North Country Far ', ' Eric Bibb ', ' Petri Hakala ', ' Olli Haavisto ']",Pop
+Düdingen,Blouse,2013-12-10,['Blouse '],
+Zürich,Za,2013-12-10,['Za '],
+Zürich,Rockstar-From-Hell,2013-12-10,['Wolf Alice '],

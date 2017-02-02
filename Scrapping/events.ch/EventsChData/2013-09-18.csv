@@ -1,20 +1,20 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-09-18,['Mark Tenger '],
-1,Zürich,Orgelkonzert,2013-09-18,"[' Jörg Ulrich Busch ', ' Hansjörg Albrecht ', ' Iveta Apkalna ']",Classic
-2,Zürich,Tango-Sensations-im-Herbst,2013-09-18,[' Michael Zisman '],Classic
-3,Bern,Meisterkonzert,2013-09-18,['Khatia Buniatishvili '],Classic
-4,Zürich,Jazz-im-Seefeld,2013-09-18,['Christoph Irniger Trio '],
-5,Zürich,Konzert,2013-09-18,[' Alexandre Tharaud '],Classic
-6,null,Oscar-&-The-Wolf,2013-09-18,['Oscar & The Wolf '],
-7,null,Golike-Sco,2013-09-18,"[' Saki Hatzigeorgiou ', ' Dave Maeder ', ' Rolf Caflisch ']",
-8,Basel,Open-Mic,2013-09-18,[' Vic Hofstetter '],Pop
-9,Zürich,Frantic-Flintstones,2013-09-18,['Frantic Flintstones '],
-10,Zürich,Kapelle-Kessler,2013-09-18,"['Kapelle Kessler ', ' Valentin Kessler ', ' Manuel Mengis ', ' Franz Hellmüller ', ' Luca Sisera ', ' Tobias Schramm ']",
-11,Basel,Raphael-Rossé-3-feat.-Malcolm-Braff,2013-09-18,"[' Raphael Rossé ', ' Malcolm Braff ', ' Yannick Tinguely ', ' Fred Heisler ']",
-12,Zürich,Chansons-en-Stok,2013-09-18,"['Daniel Hélin ', ' Daniel Hélin ', ' Margaret Hermant ']",Pop
-13,Baden,Jam-Session,2013-09-18,"['Nic Niedermann ', ' Gregor Loepfe ', ' Thom Wettstein ', ' Eddie Walker ']",
-14,Zürich,Lambs-&-Wolves,2013-09-18,['Lambs & Wolves '],Pop
-15,Zürich,Lucero,2013-09-18,['Lucero '],
-16,Lausanne,Respiria,2013-09-18,['Respiria '],
-17,Zürich,Jazzbaragge-Wednesday-Jam,2013-09-18,"['David Gisler ', ' Valentin Dietrich ', ' David Meier ']",
-18,Basel,Vampisoul-Records-Madrid,2013-09-18,['DJ Frank Castro '],
+location,event,date,artists,genre
+Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-09-18,['Mark Tenger '],
+Zürich,Orgelkonzert,2013-09-18,"[' Jörg Ulrich Busch ', ' Hansjörg Albrecht ', ' Iveta Apkalna ']",Classic
+Zürich,Tango-Sensations-im-Herbst,2013-09-18,[' Michael Zisman '],Classic
+Bern,Meisterkonzert,2013-09-18,['Khatia Buniatishvili '],Classic
+Zürich,Jazz-im-Seefeld,2013-09-18,['Christoph Irniger Trio '],
+Zürich,Konzert,2013-09-18,[' Alexandre Tharaud '],Classic
+null,Oscar-&-The-Wolf,2013-09-18,['Oscar & The Wolf '],
+null,Golike-Sco,2013-09-18,"[' Saki Hatzigeorgiou ', ' Dave Maeder ', ' Rolf Caflisch ']",
+Basel,Open-Mic,2013-09-18,[' Vic Hofstetter '],Pop
+Zürich,Frantic-Flintstones,2013-09-18,['Frantic Flintstones '],
+Zürich,Kapelle-Kessler,2013-09-18,"['Kapelle Kessler ', ' Valentin Kessler ', ' Manuel Mengis ', ' Franz Hellmüller ', ' Luca Sisera ', ' Tobias Schramm ']",
+Basel,Raphael-Rossé-3-feat.-Malcolm-Braff,2013-09-18,"[' Raphael Rossé ', ' Malcolm Braff ', ' Yannick Tinguely ', ' Fred Heisler ']",
+Zürich,Chansons-en-Stok,2013-09-18,"['Daniel Hélin ', ' Daniel Hélin ', ' Margaret Hermant ']",Pop
+Baden,Jam-Session,2013-09-18,"['Nic Niedermann ', ' Gregor Loepfe ', ' Thom Wettstein ', ' Eddie Walker ']",
+Zürich,Lambs-&-Wolves,2013-09-18,['Lambs & Wolves '],Pop
+Zürich,Lucero,2013-09-18,['Lucero '],
+Lausanne,Respiria,2013-09-18,['Respiria '],
+Zürich,Jazzbaragge-Wednesday-Jam,2013-09-18,"['David Gisler ', ' Valentin Dietrich ', ' David Meier ']",
+Basel,Vampisoul-Records-Madrid,2013-09-18,['DJ Frank Castro '],

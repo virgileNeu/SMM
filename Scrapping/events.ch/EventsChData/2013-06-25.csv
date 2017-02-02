@@ -1,12 +1,12 @@
-,location,event,date,artists,genre
-0,Basel,Masterrezital,2013-06-25,[' Alicia Amo '],Classic
-1,Luzern,Piano-Entertainment,2013-06-25,['Mega Horvath '],
-2,null,Goldberg-Variationen,2013-06-25,['Denis Patkovic '],Classic
-3,Sommercasino,Basel,2013-06-25,"['Hatebreed ', ' Bury Your Dead ']",Hatebreed
-4,Zürich,Konzert,2013-06-25,[' Sandrine Piau '],Classic
-5,Luzern,Prong,2013-06-25,['Prong '],
-6,Bern,Jing-Doran,2013-06-25,"[' Yang Jing ', ' Christy Doran ']",
-7,Basel,Masterrezital,2013-06-25,[' Mechthild Karkow '],Classic
-8,Düdingen,Masters-Of-Reality,2013-06-25,['Masters Of Reality '],
-9,Ascona,Jazz-Ascona,2013-06-25,"[' Flavio Boltro ', ' Max Ionata ', ' Dado Moroni ']",
-10,Ascona,Jazz-Ascona,2013-06-25,"[' Reimer von Essen ', ' Horst Schwarz ', ' Frank Selten ']",
+location,event,date,artists,genre
+Basel,Masterrezital,2013-06-25,[' Alicia Amo '],Classic
+Luzern,Piano-Entertainment,2013-06-25,['Mega Horvath '],
+null,Goldberg-Variationen,2013-06-25,['Denis Patkovic '],Classic
+Sommercasino,Basel,2013-06-25,"['Hatebreed ', ' Bury Your Dead ']",Hatebreed
+Zürich,Konzert,2013-06-25,[' Sandrine Piau '],Classic
+Luzern,Prong,2013-06-25,['Prong '],
+Bern,Jing-Doran,2013-06-25,"[' Yang Jing ', ' Christy Doran ']",
+Basel,Masterrezital,2013-06-25,[' Mechthild Karkow '],Classic
+Düdingen,Masters-Of-Reality,2013-06-25,['Masters Of Reality '],
+Ascona,Jazz-Ascona,2013-06-25,"[' Flavio Boltro ', ' Max Ionata ', ' Dado Moroni ']",
+Ascona,Jazz-Ascona,2013-06-25,"[' Reimer von Essen ', ' Horst Schwarz ', ' Frank Selten ']",

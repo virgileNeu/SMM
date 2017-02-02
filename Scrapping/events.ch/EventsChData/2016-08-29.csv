@@ -1,6 +1,6 @@
-,location,event,date,artists,genre
-0,Zürich,Wolf-Alice,2016-08-29,"['Wolf Alice ', ' Gengahr ']",
-1,Luzern,Lucerne-Festival-Sinfoniekonzert-15,2016-08-29,[' Sol Gabetta '],Classic
-2,Zürich,Gentleman,2016-08-29,['Gentleman '],
-3,Zürich,Beau,2016-08-29,['Beau '],Pop
-4,Zürich,The-Jazz-Trio,2016-08-29,"[' Florian Egli ', ' Raphael Walser ', ' Jonas Ruther ']",
+location,event,date,artists,genre
+Zürich,Wolf-Alice,2016-08-29,"['Wolf Alice ', ' Gengahr ']",
+Luzern,Lucerne-Festival-Sinfoniekonzert-15,2016-08-29,[' Sol Gabetta '],Classic
+Zürich,Gentleman,2016-08-29,['Gentleman '],
+Zürich,Beau,2016-08-29,['Beau '],Pop
+Zürich,The-Jazz-Trio,2016-08-29,"[' Florian Egli ', ' Raphael Walser ', ' Jonas Ruther ']",

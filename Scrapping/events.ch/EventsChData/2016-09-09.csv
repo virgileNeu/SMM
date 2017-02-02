@@ -1,39 +1,39 @@
-,location,event,date,artists,genre
-0,Gstaad,Country-Night-Gstaad,2016-09-09,"['Lee Ann Womack ', ' Brett Eldredge ', ' Diamond Rio ']",
-1,Basel,Orgelspiel-zum-Feierabend,2016-09-09,['Christer Lövold '],Classic
-2,Luzern,Lucerne-Festival-Sinfoniekonzert-26,2016-09-09,[' Simone Rubino '],Classic
-3,Dietikon,Feierabendmusik,2016-09-09,"['Olga Stepien ', ' Bernhard Hörler ']",
-4,null,Picknick-mit-Helden,2016-09-09,"['Ten Years After ', ' Chi Coltrane ', ' DeWolff ']",
-5,Basel,Recital,2016-09-09,"['Eungkwng Lee ', ' Soyoung Lee ', ' Muriel Fankhauser ']",Classic
-6,Bern,Music-from-Latin-America,2016-09-09,"[' Anouk Theurillat ', ' Yang Lu ', ' Andreas Graf ', ' Mátyás Vinczi ', ' Peter Fleischlin ']",Classic
-7,Zürich,Orpheum-Young-Soloists-on-Stage,2016-09-09,"['Berfin Aksu ', ' Laura van der Heijden ', ' works by Fazil Say ']",Classic
-8,Zürich,Kunst-Klang-Kirche,2016-09-09,['Ludger Lohmann '],Classic
-9,null,Allotria-Jazz-Band,2016-09-09,"['Allotria Jazz Band ', ' Rainer Sander ', ' Colin T. Dawson ', ' Andrey Lobanov ', ' Mathias Götz ', ' Thilo Wagner ', ' Peter Cischeck ', ' Gregor Beck ']",
-10,Winterthur,FM-Belfast,2016-09-09,['FM Belfast '],
-11,Bern,Carmen,2016-09-09,[' works by Armin Brunner '],Classic
-12,Zürich,Freezy,2016-09-09,['Freezy '],Pop
-13,Bern,Serenadenkonzert,2016-09-09,"[' Esther Feingold ', ' Osvaldo Ovejero ']",Classic
-14,Zürich,Werkstattkonzert,2016-09-09,"[' Satoko Fuji ', ' Natsuki Tamura ', ' Jakob Warmebol ', ' Sebastian Stinning ']",
-15,Winterthur,Furhammer-Blues-Band,2016-09-09,"[' Sven Tschudi ', ' Lars Hermann ', ' Thomas Brühwiler ', ' Marco Scherrer ']",
-16,Basel,Tom-Guarna-Quartet,2016-09-09,"[' Tom Guarna ', ' Danny Grissett ', ' Josh Ginsburg ', ' Francesco Ciniglio ']",
-17,Thalwil,Raphael-Jost-Standards-Trio,2016-09-09,"[' Jonas Ruther ', ' Raphael Jost ', ' Raphael Walser ']",
-18,Zürich,Toumani-Diabaté-&-Kayhan-Kalhor-Duo,2016-09-09,"[' Toumani Diabaté ', ' Kayhan Kalhor ']",
-19,Zürich,Psychosis,2016-09-09,"['Pablo Lienhard ', ' Florian Kolb ', ' Philipp Saner ']",
-20,Baden,Levi-&-Friends,2016-09-09,"[' Levi Bo ', ' Heli Gruber ', ' Markus Schlagi Rahm ']",Pop
-21,Basel,Freitagsbar,2016-09-09,"[' Fiona Grond ', ' Ralph Heidel ', ' Julian Schmidt ', ' Georg Stirnweiss ', ' Flurin Mück ']",
-22,Bern,Eternal-Dance-of-Light-and-Shadows,2016-09-09,"[' Jonas Tschanz ', ' Lydia Opilik ']",Classic
-23,Luzern,Blaer,2016-09-09,"[' Nils Fischer ', ' Claudio von Arx ', ' Maja Nydegger ', ' Emanuel Künzi ']",
-24,Zürich,Zürcher-Orgelnacht,2016-09-09,[' Merit Eichhorn '],Classic
-25,Solothurn,BluezBallz,2016-09-09,"['Jan Bukacek ', ' Thomas L. C. Elsasser ', ' Roger T. ']",
-26,Lausanne,Peaches,2016-09-09,['Peaches '],Electronic
-27,Luzern,Götz-Widmann,2016-09-09,['Götz Widmann '],Pop
-28,Zürich,Luigi-Archett-&-Bo-Wiget,2016-09-09,"[' Luigi Archetti ', ' Bo Wiget ']",Electronic
-29,Luzern,Reks,2016-09-09,"['Reks ', ' Ed O.G. ', ' The Arftifacts ']",
-30,Solothurn,Stonerider,2016-09-09,['Stonerider '],
-31,Rubigen,Tequila-Boys,2016-09-09,['Tequila Boys '],
-32,Zürich,Zürcher-Orgelnacht,2016-09-09,['Andreas Liebig '],Classic
-33,null,D-Soul,2016-09-09,['D Soul '],
-34,Zürich,Zürcher-Orgelnacht,2016-09-09,['Philipp Mestrinel '],Classic
-35,Zürich,Zürcher-Orgelnacht,2016-09-09,['Eun-Hye Lee '],Classic
-36,Zürich,Zürcher-Orgelnacht,2016-09-09,"[' Merit Eichhorn ', ' Frédéric Champion ']",Classic
-37,Zürich,Zürcher-Orgelnacht,2016-09-09,['Simon Menges '],Classic
+location,event,date,artists,genre
+Gstaad,Country-Night-Gstaad,2016-09-09,"['Lee Ann Womack ', ' Brett Eldredge ', ' Diamond Rio ']",
+Basel,Orgelspiel-zum-Feierabend,2016-09-09,['Christer Lövold '],Classic
+Luzern,Lucerne-Festival-Sinfoniekonzert-26,2016-09-09,[' Simone Rubino '],Classic
+Dietikon,Feierabendmusik,2016-09-09,"['Olga Stepien ', ' Bernhard Hörler ']",
+null,Picknick-mit-Helden,2016-09-09,"['Ten Years After ', ' Chi Coltrane ', ' DeWolff ']",
+Basel,Recital,2016-09-09,"['Eungkwng Lee ', ' Soyoung Lee ', ' Muriel Fankhauser ']",Classic
+Bern,Music-from-Latin-America,2016-09-09,"[' Anouk Theurillat ', ' Yang Lu ', ' Andreas Graf ', ' Mátyás Vinczi ', ' Peter Fleischlin ']",Classic
+Zürich,Orpheum-Young-Soloists-on-Stage,2016-09-09,"['Berfin Aksu ', ' Laura van der Heijden ', ' works by Fazil Say ']",Classic
+Zürich,Kunst-Klang-Kirche,2016-09-09,['Ludger Lohmann '],Classic
+null,Allotria-Jazz-Band,2016-09-09,"['Allotria Jazz Band ', ' Rainer Sander ', ' Colin T. Dawson ', ' Andrey Lobanov ', ' Mathias Götz ', ' Thilo Wagner ', ' Peter Cischeck ', ' Gregor Beck ']",
+Winterthur,FM-Belfast,2016-09-09,['FM Belfast '],
+Bern,Carmen,2016-09-09,[' works by Armin Brunner '],Classic
+Zürich,Freezy,2016-09-09,['Freezy '],Pop
+Bern,Serenadenkonzert,2016-09-09,"[' Esther Feingold ', ' Osvaldo Ovejero ']",Classic
+Zürich,Werkstattkonzert,2016-09-09,"[' Satoko Fuji ', ' Natsuki Tamura ', ' Jakob Warmebol ', ' Sebastian Stinning ']",
+Winterthur,Furhammer-Blues-Band,2016-09-09,"[' Sven Tschudi ', ' Lars Hermann ', ' Thomas Brühwiler ', ' Marco Scherrer ']",
+Basel,Tom-Guarna-Quartet,2016-09-09,"[' Tom Guarna ', ' Danny Grissett ', ' Josh Ginsburg ', ' Francesco Ciniglio ']",
+Thalwil,Raphael-Jost-Standards-Trio,2016-09-09,"[' Jonas Ruther ', ' Raphael Jost ', ' Raphael Walser ']",
+Zürich,Toumani-Diabaté-&-Kayhan-Kalhor-Duo,2016-09-09,"[' Toumani Diabaté ', ' Kayhan Kalhor ']",
+Zürich,Psychosis,2016-09-09,"['Pablo Lienhard ', ' Florian Kolb ', ' Philipp Saner ']",
+Baden,Levi-&-Friends,2016-09-09,"[' Levi Bo ', ' Heli Gruber ', ' Markus Schlagi Rahm ']",Pop
+Basel,Freitagsbar,2016-09-09,"[' Fiona Grond ', ' Ralph Heidel ', ' Julian Schmidt ', ' Georg Stirnweiss ', ' Flurin Mück ']",
+Bern,Eternal-Dance-of-Light-and-Shadows,2016-09-09,"[' Jonas Tschanz ', ' Lydia Opilik ']",Classic
+Luzern,Blaer,2016-09-09,"[' Nils Fischer ', ' Claudio von Arx ', ' Maja Nydegger ', ' Emanuel Künzi ']",
+Zürich,Zürcher-Orgelnacht,2016-09-09,[' Merit Eichhorn '],Classic
+Solothurn,BluezBallz,2016-09-09,"['Jan Bukacek ', ' Thomas L. C. Elsasser ', ' Roger T. ']",
+Lausanne,Peaches,2016-09-09,['Peaches '],Electronic
+Luzern,Götz-Widmann,2016-09-09,['Götz Widmann '],Pop
+Zürich,Luigi-Archett-&-Bo-Wiget,2016-09-09,"[' Luigi Archetti ', ' Bo Wiget ']",Electronic
+Luzern,Reks,2016-09-09,"['Reks ', ' Ed O.G. ', ' The Arftifacts ']",
+Solothurn,Stonerider,2016-09-09,['Stonerider '],
+Rubigen,Tequila-Boys,2016-09-09,['Tequila Boys '],
+Zürich,Zürcher-Orgelnacht,2016-09-09,['Andreas Liebig '],Classic
+null,D-Soul,2016-09-09,['D Soul '],
+Zürich,Zürcher-Orgelnacht,2016-09-09,['Philipp Mestrinel '],Classic
+Zürich,Zürcher-Orgelnacht,2016-09-09,['Eun-Hye Lee '],Classic
+Zürich,Zürcher-Orgelnacht,2016-09-09,"[' Merit Eichhorn ', ' Frédéric Champion ']",Classic
+Zürich,Zürcher-Orgelnacht,2016-09-09,['Simon Menges '],Classic

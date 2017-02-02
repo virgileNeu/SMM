@@ -1,9 +1,9 @@
-,location,event,date,artists,genre
-0,Walkringen,Aimer-vous-Brahms,2014-12-29,"['Karel Boeschoten ', ' Kamilla Schatz ', ' Joan Berkhemer ', ' Vladimir Mendelssohn ', ' Anton Vilkhov ', ' Maximilian Hornung ', ' Sayaka Selina ', ' Alexander Boeschoten ']",Classic
-1,Meggen,Klang-Eine-Zeitreise,2014-12-29,"['Alexander Kionke ', ' Hernando Leal ']",Classic
-2,Basel,Rauhe-Nächte-ein-Weihnachtszyklus,2014-12-29,"['Volker Biesenbender ', ' Bernhard Bücker ', ' Michelagelo Rinaldi ']",Classic
-3,Walkringen,Virtuosen,2014-12-29,"['Sarah Kollé ', ' Andrea Kollé ', ' Joan Berkhemer ', ' Sarah Christian ', ' Kamilla Schatz ', ' Karel Boeschoten ', ' Vladimir Mendelssohn ', ' Sayaka Selina ', ' Benjamin Engeli ', ' Alexander Boeschoten ']",Classic
-4,Zürich,Klischée,2014-12-29,"[' William Bejedi ', ' Marena Whitcher ', ' Dominique Dreier ', ' Kilian Spinnler ', ' Theo Känzig ']",Electronic
-5,Schaffhausen,Albie-Donnelly's-Supercharge,2014-12-29,"[""Albie Donnelly's Supercharge ""]",
-6,Luzern,John-Francis,2014-12-29,['John Francis '],Pop
-7,Birsfelden,1981,2014-12-29,"['1981 ', ' Skizophrenia ']",
+location,event,date,artists,genre
+Walkringen,Aimer-vous-Brahms,2014-12-29,"['Karel Boeschoten ', ' Kamilla Schatz ', ' Joan Berkhemer ', ' Vladimir Mendelssohn ', ' Anton Vilkhov ', ' Maximilian Hornung ', ' Sayaka Selina ', ' Alexander Boeschoten ']",Classic
+Meggen,Klang-Eine-Zeitreise,2014-12-29,"['Alexander Kionke ', ' Hernando Leal ']",Classic
+Basel,Rauhe-Nächte-ein-Weihnachtszyklus,2014-12-29,"['Volker Biesenbender ', ' Bernhard Bücker ', ' Michelagelo Rinaldi ']",Classic
+Walkringen,Virtuosen,2014-12-29,"['Sarah Kollé ', ' Andrea Kollé ', ' Joan Berkhemer ', ' Sarah Christian ', ' Kamilla Schatz ', ' Karel Boeschoten ', ' Vladimir Mendelssohn ', ' Sayaka Selina ', ' Benjamin Engeli ', ' Alexander Boeschoten ']",Classic
+Zürich,Klischée,2014-12-29,"[' William Bejedi ', ' Marena Whitcher ', ' Dominique Dreier ', ' Kilian Spinnler ', ' Theo Känzig ']",Electronic
+Schaffhausen,Albie-Donnelly's-Supercharge,2014-12-29,"[""Albie Donnelly's Supercharge ""]",
+Luzern,John-Francis,2014-12-29,['John Francis '],Pop
+Birsfelden,1981,2014-12-29,"['1981 ', ' Skizophrenia ']",

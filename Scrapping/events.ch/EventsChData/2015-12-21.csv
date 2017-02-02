@@ -1,9 +1,9 @@
-,location,event,date,artists,genre
-0,Zürich,The-Deadnotes,2015-12-21,['The Deadnotes '],
-1,Zürich,Liederabend,2015-12-21,"['Piotr Beczala ', ' Sarah Tysman ']",Classic
-2,Zürich,In-die-nativitatis-Bachs-Leipziger-Weihnachtskantaten,2015-12-21,"[' Dorothee Mields ', ' Damien Guillon ', ' Thomas Hobbs ', ' Peter Kooij ']",Classic
-3,null,Goran-Kovacevic-&-Isabella-Pincsek-Huber,2015-12-21,['Goran Kovacevic & Isabella Pincsek-Huber '],Pop
-4,Baden,Me-&-Mobi,2015-12-21,"[' Philipp Schlotter ', ' Lisa Hoppe ', ' Fred Bürki ']",
-5,Zürich,Tripped-Tychon,2015-12-21,"[' Andreas Schaerer ', ' Lucas Niggli ', ' Luciano Biondini ', ' Kalle Kalima ']",
-6,Winterthur,Guilty-Simpson-&-Phat-Kat,2015-12-21,['Guilty Simpson & Phat Kat '],
-7,Zürich,Nik-Bärtsch's-Ronin,2015-12-21,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Sha ', ' Thomy Jordi ']",
+location,event,date,artists,genre
+Zürich,The-Deadnotes,2015-12-21,['The Deadnotes '],
+Zürich,Liederabend,2015-12-21,"['Piotr Beczala ', ' Sarah Tysman ']",Classic
+Zürich,In-die-nativitatis-Bachs-Leipziger-Weihnachtskantaten,2015-12-21,"[' Dorothee Mields ', ' Damien Guillon ', ' Thomas Hobbs ', ' Peter Kooij ']",Classic
+null,Goran-Kovacevic-&-Isabella-Pincsek-Huber,2015-12-21,['Goran Kovacevic & Isabella Pincsek-Huber '],Pop
+Baden,Me-&-Mobi,2015-12-21,"[' Philipp Schlotter ', ' Lisa Hoppe ', ' Fred Bürki ']",
+Zürich,Tripped-Tychon,2015-12-21,"[' Andreas Schaerer ', ' Lucas Niggli ', ' Luciano Biondini ', ' Kalle Kalima ']",
+Winterthur,Guilty-Simpson-&-Phat-Kat,2015-12-21,['Guilty Simpson & Phat Kat '],
+Zürich,Nik-Bärtsch's-Ronin,2015-12-21,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Sha ', ' Thomy Jordi ']",

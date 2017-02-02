@@ -1,31 +1,31 @@
-,location,event,date,artists,genre
-0,Winterthur,20-Jahre-Berg-&-Ruosch,2015-05-23,"['Lisa Berg ', ' David Ruosch ', ' Christoph Grab ']",
-1,Dornach,Die-Sieben-in-der-Zwölf-wohltemperiert,2015-05-23,"['Christian Ginat ', ' Stefan Müller ', ' Johann Sonnleitner ']",Classic
-2,Luzern,Piano-Entertainment,2015-05-23,['Jozsef Sarkozy '],Classic
-3,Weggis,Anthony-Caputo,2015-05-23,['Anthony Caputo '],
-4,Luzern,Master-Abschlusskonzerte,2015-05-23,"['Amadeus Fries ', 'Fabian Hänni ', ' Elio Amberg ', ' Laura Schenk ', ' Duke Gale ', ' Lukas Kohler ']",
-5,Zürich,Murder-By-Death,2015-05-23,['Murder By Death '],
-6,Pratteln,Metal-Attack,2015-05-23,"['Darkmoon ', ' Finsterforst ']",
-7,Zürich,Petite-messe-solennelle,2015-05-23,"[' Rachel Harnisch ', ' Judith Schmid ', ' Martin Zysset ', ' Klaus Mertens ', ' André Briel ']",Classic
-8,Baden,Blues-Festival-Baden,2015-05-23,"['Luca Sestak ', ' Luca Sestak ']",
-9,Zürich,Tyler-The-Creator,2015-05-23,['Tyler The Creator '],
-10,Basel,Sehnsucht,2015-05-23,"['Cristina Branco Quartett ', ' Cristina Branco ', ' Ricardo Dias ', ' Jose Manuel Neto ', ' Bernardo Moreira ']",
-11,Zürich,Gregor-Meyle,2015-05-23,['Gregor Meyle '],Pop
-12,Zürich,Hits-Recycled,2015-05-23,"['Raphael Walser ', ' Roland Wäspe ', ' Urs Müller ', ' David Meier ', ' Roman Nowka ', ' Samuel Kühni ']",
-13,Basel,Together-&-Beyond-Quartet-feat.-James-Uhart,2015-05-23,"[' Gino Sitson ', ' James Uhart ', ' Stephan Kurmann ', ' Julio Barreto ']",
-14,Zürich,During-Walking,2015-05-23,"[' Michael Süess ', ' Nicolas Indlekofer ', ' Basil Zinsli ', ' Daniel Affentranger ', ' Lars Schmid ', ' Pino Zortea ']",
-15,Baden,Azucaribe-Quartett,2015-05-23,"[' Carlos Ramirez ', ' Freddy Benitez ', ' Daniel Portmann ', ' Arthur Furrer ']",
-16,Winterthur,Dead-City-Ruins,2015-05-23,"['Dead City Ruins ', "" Sophie's Earthquake ""]",
-17,Luzern,The-Retro-Festival,2015-05-23,['Mike & the Mechanics '],Pop
-18,Bern,Everton-Coroné-Trio,2015-05-23,['Everton Coroné Trio '],
-19,Zürich,Tango-Tanzabend,2015-05-23,['Live: Quinteto Mulenga '],
-20,Kriens,Weekend-Phantom,2015-05-23,['Weekend Phantom '],
-21,Baden,Wehadtoleave,2015-05-23,['Wehadtoleave '],
-22,Zürich,Big-John-Bates,2015-05-23,['Big John Bates '],
-23,Luzern,Atze-Datze,2015-05-23,['Atze Datze '],
-24,Zug,Galmet,2015-05-23,['Galmet '],
-25,Winterthur,Dirty-Fences,2015-05-23,['Dirty Fences '],
-26,Zürich,Go-Zilla,2015-05-23,['Go Zilla '],
-27,Zürich,District-Five-Quartet,2015-05-23,"['Vojko Huter ', ' Paul Amereller ', ' Xaver Rüegg ', ' Tapiwa Svosve ']",
-28,Zürich,R.-A.-The-Rugged-Man,2015-05-23,"['R. A. The Rugged Man ', ' DJs Texx Be ']",
-29,Solothurn,The-Goddamn-Gallows,2015-05-23,['The Goddamn Gallows '],
+location,event,date,artists,genre
+Winterthur,20-Jahre-Berg-&-Ruosch,2015-05-23,"['Lisa Berg ', ' David Ruosch ', ' Christoph Grab ']",
+Dornach,Die-Sieben-in-der-Zwölf-wohltemperiert,2015-05-23,"['Christian Ginat ', ' Stefan Müller ', ' Johann Sonnleitner ']",Classic
+Luzern,Piano-Entertainment,2015-05-23,['Jozsef Sarkozy '],Classic
+Weggis,Anthony-Caputo,2015-05-23,['Anthony Caputo '],
+Luzern,Master-Abschlusskonzerte,2015-05-23,"['Amadeus Fries ', 'Fabian Hänni ', ' Elio Amberg ', ' Laura Schenk ', ' Duke Gale ', ' Lukas Kohler ']",
+Zürich,Murder-By-Death,2015-05-23,['Murder By Death '],
+Pratteln,Metal-Attack,2015-05-23,"['Darkmoon ', ' Finsterforst ']",
+Zürich,Petite-messe-solennelle,2015-05-23,"[' Rachel Harnisch ', ' Judith Schmid ', ' Martin Zysset ', ' Klaus Mertens ', ' André Briel ']",Classic
+Baden,Blues-Festival-Baden,2015-05-23,"['Luca Sestak ', ' Luca Sestak ']",
+Zürich,Tyler-The-Creator,2015-05-23,['Tyler The Creator '],
+Basel,Sehnsucht,2015-05-23,"['Cristina Branco Quartett ', ' Cristina Branco ', ' Ricardo Dias ', ' Jose Manuel Neto ', ' Bernardo Moreira ']",
+Zürich,Gregor-Meyle,2015-05-23,['Gregor Meyle '],Pop
+Zürich,Hits-Recycled,2015-05-23,"['Raphael Walser ', ' Roland Wäspe ', ' Urs Müller ', ' David Meier ', ' Roman Nowka ', ' Samuel Kühni ']",
+Basel,Together-&-Beyond-Quartet-feat.-James-Uhart,2015-05-23,"[' Gino Sitson ', ' James Uhart ', ' Stephan Kurmann ', ' Julio Barreto ']",
+Zürich,During-Walking,2015-05-23,"[' Michael Süess ', ' Nicolas Indlekofer ', ' Basil Zinsli ', ' Daniel Affentranger ', ' Lars Schmid ', ' Pino Zortea ']",
+Baden,Azucaribe-Quartett,2015-05-23,"[' Carlos Ramirez ', ' Freddy Benitez ', ' Daniel Portmann ', ' Arthur Furrer ']",
+Winterthur,Dead-City-Ruins,2015-05-23,"['Dead City Ruins ', "" Sophie's Earthquake ""]",
+Luzern,The-Retro-Festival,2015-05-23,['Mike & the Mechanics '],Pop
+Bern,Everton-Coroné-Trio,2015-05-23,['Everton Coroné Trio '],
+Zürich,Tango-Tanzabend,2015-05-23,['Live: Quinteto Mulenga '],
+Kriens,Weekend-Phantom,2015-05-23,['Weekend Phantom '],
+Baden,Wehadtoleave,2015-05-23,['Wehadtoleave '],
+Zürich,Big-John-Bates,2015-05-23,['Big John Bates '],
+Luzern,Atze-Datze,2015-05-23,['Atze Datze '],
+Zug,Galmet,2015-05-23,['Galmet '],
+Winterthur,Dirty-Fences,2015-05-23,['Dirty Fences '],
+Zürich,Go-Zilla,2015-05-23,['Go Zilla '],
+Zürich,District-Five-Quartet,2015-05-23,"['Vojko Huter ', ' Paul Amereller ', ' Xaver Rüegg ', ' Tapiwa Svosve ']",
+Zürich,R.-A.-The-Rugged-Man,2015-05-23,"['R. A. The Rugged Man ', ' DJs Texx Be ']",
+Solothurn,The-Goddamn-Gallows,2015-05-23,['The Goddamn Gallows '],

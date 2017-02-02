@@ -1,8 +1,8 @@
-,location,event,date,artists,genre
-0,Zürich,Vom-Winde-bewegt,2016-07-05,[' Sonja Leutwyler '],Classic
-1,Zürich,Buddy-Guy,2016-07-05,"['Buddy Guy ', ' support: Quinn Sullivan ']",
-2,Montreux,Montreux-Jazz-Festival,2016-07-05,"['Selwyn Birchwood ', ' Shemekia Copeland ']",
-3,Zürich,One-Tfu,2016-07-05,"[' Silvio Cadotsch ', ' Marc Mean ', ' Sivan Jeger ', ' Valentin Dietrich ', ' Lukas Mantel ']",
-4,Montreux,Montreux-Jazz-Festival,2016-07-05,"['Aurora ', ' Ry X ', ' M83 ']",Electronic
-5,Montreux,Montreux-Jazz-Festival,2016-07-05,"['Mogwai ', ' Sigur Rós ']",
-6,Zürich,New-York-Ska-Jazz-Ensemble,2016-07-05,['New York Ska-Jazz Ensemble '],
+location,event,date,artists,genre
+Zürich,Vom-Winde-bewegt,2016-07-05,[' Sonja Leutwyler '],Classic
+Zürich,Buddy-Guy,2016-07-05,"['Buddy Guy ', ' support: Quinn Sullivan ']",
+Montreux,Montreux-Jazz-Festival,2016-07-05,"['Selwyn Birchwood ', ' Shemekia Copeland ']",
+Zürich,One-Tfu,2016-07-05,"[' Silvio Cadotsch ', ' Marc Mean ', ' Sivan Jeger ', ' Valentin Dietrich ', ' Lukas Mantel ']",
+Montreux,Montreux-Jazz-Festival,2016-07-05,"['Aurora ', ' Ry X ', ' M83 ']",Electronic
+Montreux,Montreux-Jazz-Festival,2016-07-05,"['Mogwai ', ' Sigur Rós ']",
+Zürich,New-York-Ska-Jazz-Ensemble,2016-07-05,['New York Ska-Jazz Ensemble '],

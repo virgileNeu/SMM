@@ -1,32 +1,32 @@
-,location,event,date,artists,genre
-0,Basel,Kostprobe,2016-11-22,['Maria Joao Pires '],Classic
-1,Zürich,Unerhört,2016-11-22,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-2,Zürich,I-Let-a-Song-Go-Out-of-My-Heart,2016-11-22,"[' Raphael Jost ', ' Christoph Grab ']",
-3,Zürich,Laila-Biali-Trio,2016-11-22,"[' Laila Biala ', ' Pepe Berns ', ' Heinz Lichius ']",
-4,Zürich,Unerhört,2016-11-22,"[' Aly Keïta ', ' Jan Galega Brönnimann ', ' Lucas Niggli ']",
-5,Winterthur,Portraitkonzert,2016-11-22,"[' Michelle Agnes Magalhaes ', ' David Sontòn Caflisch ', ' Urs Walker ', ' David Schnee ', ' Alex Jellici ']",Classic
-6,Zürich,King,2016-11-22,['King '],
-7,Basel,Kammermusik-Basel-Cuarteto-Quiroga,2016-11-22,['Veronika Hagen '],Classic
-8,Basel,Ode-for-St.-Cecilia's-Day,2016-11-22,"[' Cristina Grifone ', ' Hans Jörg Mammel ']",Classic
-9,Luzern,Lucerne-Festival-am-Piano,2016-11-22,"['Vince Benedetti ', ' Luca Filastro ', ' Jean-Baptiste Franc ']",
-10,Zürich,Preoccupations-(CAN),2016-11-22,"['Preoccupations ', ' Joyfultalk ']",
-11,Zürich,Von-Bach-Über-Bach,2016-11-22,"[' Sebastian Knauer ', ' Pascal Schumacher ']",Classic
-12,Aarau,Metalmayhem,2016-11-22,"['Eskimo Callboy ', ' Palisades ', ' Her Name in Blood ']",
-13,Zürich,Anoushka-Shankar,2016-11-22,['Anoushka Shankar '],
-14,Zürich,Billy-Talent-ausverkauft,2016-11-22,['Billy Talent '],
-15,Zürich,Margaret-Glaspy,2016-11-22,['Margaret Glaspy '],Pop
-16,Zürich,Patrice,2016-11-22,['Patrice '],
-17,Zürich,Moodslabor,2016-11-22,"[' Daniel Schenker ', ' Reto Suhner ', ' Christoph Grab ', ' Bernhard Bamert ', ' Thomas Lüscher ']",
-18,Zürich,Arte-Reunido-Flamencofestival,2016-11-22,"[' Albert Cases ', ' Daniel Portmann ', ' Marius Bürgisser ', ' Juan Manuel Gómez ', ' Lukas Knecht ']",
-19,Zürich,Make-War,2016-11-22,"['Make War ', ' support: Cory Call ']",
-20,Bern,The-Singer's-Night,2016-11-22,"['Sebastian Bättig ', ' Johanna Pärli ', ' Nicolas Wolf ']",
-21,Basel,NYC-Five,2016-11-22,"[' Ralph Alessi ', ' Angelika Niescier ', ' Florian Weber ', ' Chris Tordini ', ' Gerald Cleaver ']",
-22,Basel,Laboratorium-für-frei-improvisierte-Musik,2016-11-22,"['Anna Hirsch ', ' Alvin Schwaar ', ' Giovanni Vicari ', ' Kaspar von Grünigen ', ' Michael Anklin ']",
-23,Zürich,Benjamnin-Folke-Thomas,2016-11-22,['Benjamnin Folke Thomas '],
-24,Zürich,Unerhört,2016-11-22,[' Ellery Eskelin '],
-25,Zürich,Malia,2016-11-22,"[' Malia ', ' Alex Wilson ', ' Dimitri Christopoulus ', ' Edwin Sanz ']",
-26,Düdingen,The-Slow-Show,2016-11-22,['The Slow Show '],
-27,Sankt-Gallen,Beak,2016-11-22,"['Beak ', ' Tomaga ']",Electronic
-28,Luzern,Bandage,2016-11-22,['DJ Bandage '],
-29,Zürich,Hans-Söllner,2016-11-22,['Hans Söllner '],Pop
-30,Zürich,Bukowski,2016-11-22,"['Gooch Palms ', ' Unkle Funkle ']",
+location,event,date,artists,genre
+Basel,Kostprobe,2016-11-22,['Maria Joao Pires '],Classic
+Zürich,Unerhört,2016-11-22,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
+Zürich,I-Let-a-Song-Go-Out-of-My-Heart,2016-11-22,"[' Raphael Jost ', ' Christoph Grab ']",
+Zürich,Laila-Biali-Trio,2016-11-22,"[' Laila Biala ', ' Pepe Berns ', ' Heinz Lichius ']",
+Zürich,Unerhört,2016-11-22,"[' Aly Keïta ', ' Jan Galega Brönnimann ', ' Lucas Niggli ']",
+Winterthur,Portraitkonzert,2016-11-22,"[' Michelle Agnes Magalhaes ', ' David Sontòn Caflisch ', ' Urs Walker ', ' David Schnee ', ' Alex Jellici ']",Classic
+Zürich,King,2016-11-22,['King '],
+Basel,Kammermusik-Basel-Cuarteto-Quiroga,2016-11-22,['Veronika Hagen '],Classic
+Basel,Ode-for-St.-Cecilia's-Day,2016-11-22,"[' Cristina Grifone ', ' Hans Jörg Mammel ']",Classic
+Luzern,Lucerne-Festival-am-Piano,2016-11-22,"['Vince Benedetti ', ' Luca Filastro ', ' Jean-Baptiste Franc ']",
+Zürich,Preoccupations-(CAN),2016-11-22,"['Preoccupations ', ' Joyfultalk ']",
+Zürich,Von-Bach-Über-Bach,2016-11-22,"[' Sebastian Knauer ', ' Pascal Schumacher ']",Classic
+Aarau,Metalmayhem,2016-11-22,"['Eskimo Callboy ', ' Palisades ', ' Her Name in Blood ']",
+Zürich,Anoushka-Shankar,2016-11-22,['Anoushka Shankar '],
+Zürich,Billy-Talent-ausverkauft,2016-11-22,['Billy Talent '],
+Zürich,Margaret-Glaspy,2016-11-22,['Margaret Glaspy '],Pop
+Zürich,Patrice,2016-11-22,['Patrice '],
+Zürich,Moodslabor,2016-11-22,"[' Daniel Schenker ', ' Reto Suhner ', ' Christoph Grab ', ' Bernhard Bamert ', ' Thomas Lüscher ']",
+Zürich,Arte-Reunido-Flamencofestival,2016-11-22,"[' Albert Cases ', ' Daniel Portmann ', ' Marius Bürgisser ', ' Juan Manuel Gómez ', ' Lukas Knecht ']",
+Zürich,Make-War,2016-11-22,"['Make War ', ' support: Cory Call ']",
+Bern,The-Singer's-Night,2016-11-22,"['Sebastian Bättig ', ' Johanna Pärli ', ' Nicolas Wolf ']",
+Basel,NYC-Five,2016-11-22,"[' Ralph Alessi ', ' Angelika Niescier ', ' Florian Weber ', ' Chris Tordini ', ' Gerald Cleaver ']",
+Basel,Laboratorium-für-frei-improvisierte-Musik,2016-11-22,"['Anna Hirsch ', ' Alvin Schwaar ', ' Giovanni Vicari ', ' Kaspar von Grünigen ', ' Michael Anklin ']",
+Zürich,Benjamnin-Folke-Thomas,2016-11-22,['Benjamnin Folke Thomas '],
+Zürich,Unerhört,2016-11-22,[' Ellery Eskelin '],
+Zürich,Malia,2016-11-22,"[' Malia ', ' Alex Wilson ', ' Dimitri Christopoulus ', ' Edwin Sanz ']",
+Düdingen,The-Slow-Show,2016-11-22,['The Slow Show '],
+Sankt-Gallen,Beak,2016-11-22,"['Beak ', ' Tomaga ']",Electronic
+Luzern,Bandage,2016-11-22,['DJ Bandage '],
+Zürich,Hans-Söllner,2016-11-22,['Hans Söllner '],Pop
+Zürich,Bukowski,2016-11-22,"['Gooch Palms ', ' Unkle Funkle ']",

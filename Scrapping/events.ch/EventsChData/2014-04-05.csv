@@ -1,37 +1,37 @@
-,location,event,date,artists,genre
-0,Winterthur,In-Guitar-Winterthur,2014-04-05,"[' Pascal Piller ', ' Michael Boner ']",Pop
-1,Basel,In-den-Bergen,2014-04-05,"[' conductor: Irena Müller-Brozovic ', ' Nobert Steinwarz ']",Classic
-2,Luzern,Sinfoniekonzert-1,2014-04-05,[' Gautier Capuçon '],Classic
-3,Bern,M'adam(e),2014-04-05,"[""M'adam"", ' Sophie Adam ', ' Florian Weiss ', ' Anatole Buccella ']",
-4,Aarau,Arcane-Roots,2014-04-05,['Arcane Roots '],
-5,Cully,Cully-Jazz,2014-04-05,"['Aline Frazão ', ' Marcos Alves ', ' Francesco Valente ', ' Marco Pombinho ']",
-6,Basel,Wohlgepflanzter-violinischer-Lustgarten,2014-04-05,"['Plamena Nikitassova ', ' Julian Behr ', ' Jörg-Andreas Bötticher ']",Classic
-7,Oberentfelden,Burn-the-Stage,2014-04-05,['Born from pain '],
-8,Uetikon-am-See,Jahreskonzert-Sing'n'Swing,2014-04-05,[' Gregor Kissling '],
-9,Zürich,3-x-Romantik,2014-04-05,"[' Praxedis Geneviève Hug ', ' Jürg Fehr ', ' Heiner Wanner ']",Classic
-10,Zürich,Il-giardino-armonico,2014-04-05,"[' Andrea Inghisciano ', ' Gawain Glenton ', ' Emiliano Rodolfi ', ' Alberto Guerra ', ' Marco Bianchi ', ' Anaïs Chen ', ' Christoph Urbanetz ', ' Paolo Beschi ', ' Orgel ']",Classic
-11,Winterthur,Saint-Saëns-Klavier-Marathon-2,2014-04-05,[' Kim Da Sol '],Classic
-12,Zürich,Walter-Wolfman-Washington,2014-04-05,['Walter Wolfman Washington '],
-13,Bern,Konzert,2014-04-05,['Rondo Veneziano '],Classic
-14,null,Läärguet,2014-04-05,['Läärguet '],Pop
-15,Zürich,ewz.unplugged,2014-04-05,['Lyeoka '],
-16,Giswil,Hot-Chili-Girls,2014-04-05,['Hot Chili Girls '],
-17,Zürich,Patti-Smith,2014-04-05,['Patti Smith '],
-18,Winterthur,In-Guitar-Winterthur,2014-04-05,['Aniello Desiderio & Quartetto Furioso '],
-19,Winterthur,Musica-aperta-Mahlzeiten,2014-04-05,"[' Ulrike Mayer-Spohn ', ' Javier Hagen ', ' Egidius Streiff ', ' Christophe Schiess ', ' Max E. Keller ']",Classic
-20,Winterthur,Okou,2014-04-05,"[' Tatiana Heintz ', ' Gilbert Trefzger ']",
-21,Basel,Melford-Dresser-Hemingway-Trio,2014-04-05,"[' Myra Melford ', ' Mark Dresser ', ' Gerry Hemingway ']",
-22,Zürich,Tobias-Preisig-Quartet,2014-04-05,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-23,Zürich,Konzert-auf-dem-Spielplatz,2014-04-05,['Ryan Tennis '],
-24,Cully,Cully-Jazz,2014-04-05,"['Medeski-Martin-Wood-Cline ', ' Marc Ribot Ceramic Dog ', ' John Medeski ', ' Chris Wood ', ' Billy Martin ', ' Nels C Cline ']",
-25,Zürich,Chronixx-&-Zinc-Fence-Redemption,2014-04-05,['Chronixx & Zinc Fence Redemption '],
-26,Rubigen,Gabby-Young-&-Other-Animals,2014-04-05,['Gabby Young & Other Animals '],
-27,Thun,Los-Banditos,2014-04-05,['Los Banditos '],
-28,Baden,The-Wave-Pictures,2014-04-05,['The Wave Pictures '],
-29,Bern,Old-Man-Gloom,2014-04-05,"['Old Man Gloom ', ' Circle ', ' Bossk ']",
-30,Heerbrugg,Blues-und-Jazz-Tage,2014-04-05,['Connie Harvey '],
-31,Schaffhausen,Olli-Schulz-&-Band,2014-04-05,['Olli Schulz & Band '],Pop
-32,Zürich,Sedlmeir,2014-04-05,['Sedlmeir '],Pop
-33,Bern,Sonic-Movements-No.-5,2014-04-05,"[' Mik Keusen ', ' Don Li ', ' Jonas Fehr ']",
-34,Sankt-Gallen,Jonwayne,2014-04-05,"['Jonwayne ', ' Kutmah ']",
-35,Basel,Peanut-Butter-Wolf,2014-04-05,['Peanut Butter Wolf '],
+location,event,date,artists,genre
+Winterthur,In-Guitar-Winterthur,2014-04-05,"[' Pascal Piller ', ' Michael Boner ']",Pop
+Basel,In-den-Bergen,2014-04-05,"[' conductor: Irena Müller-Brozovic ', ' Nobert Steinwarz ']",Classic
+Luzern,Sinfoniekonzert-1,2014-04-05,[' Gautier Capuçon '],Classic
+Bern,M'adam(e),2014-04-05,"[""M'adam"", ' Sophie Adam ', ' Florian Weiss ', ' Anatole Buccella ']",
+Aarau,Arcane-Roots,2014-04-05,['Arcane Roots '],
+Cully,Cully-Jazz,2014-04-05,"['Aline Frazão ', ' Marcos Alves ', ' Francesco Valente ', ' Marco Pombinho ']",
+Basel,Wohlgepflanzter-violinischer-Lustgarten,2014-04-05,"['Plamena Nikitassova ', ' Julian Behr ', ' Jörg-Andreas Bötticher ']",Classic
+Oberentfelden,Burn-the-Stage,2014-04-05,['Born from pain '],
+Uetikon-am-See,Jahreskonzert-Sing'n'Swing,2014-04-05,[' Gregor Kissling '],
+Zürich,3-x-Romantik,2014-04-05,"[' Praxedis Geneviève Hug ', ' Jürg Fehr ', ' Heiner Wanner ']",Classic
+Zürich,Il-giardino-armonico,2014-04-05,"[' Andrea Inghisciano ', ' Gawain Glenton ', ' Emiliano Rodolfi ', ' Alberto Guerra ', ' Marco Bianchi ', ' Anaïs Chen ', ' Christoph Urbanetz ', ' Paolo Beschi ', ' Orgel ']",Classic
+Winterthur,Saint-Saëns-Klavier-Marathon-2,2014-04-05,[' Kim Da Sol '],Classic
+Zürich,Walter-Wolfman-Washington,2014-04-05,['Walter Wolfman Washington '],
+Bern,Konzert,2014-04-05,['Rondo Veneziano '],Classic
+null,Läärguet,2014-04-05,['Läärguet '],Pop
+Zürich,ewz.unplugged,2014-04-05,['Lyeoka '],
+Giswil,Hot-Chili-Girls,2014-04-05,['Hot Chili Girls '],
+Zürich,Patti-Smith,2014-04-05,['Patti Smith '],
+Winterthur,In-Guitar-Winterthur,2014-04-05,['Aniello Desiderio & Quartetto Furioso '],
+Winterthur,Musica-aperta-Mahlzeiten,2014-04-05,"[' Ulrike Mayer-Spohn ', ' Javier Hagen ', ' Egidius Streiff ', ' Christophe Schiess ', ' Max E. Keller ']",Classic
+Winterthur,Okou,2014-04-05,"[' Tatiana Heintz ', ' Gilbert Trefzger ']",
+Basel,Melford-Dresser-Hemingway-Trio,2014-04-05,"[' Myra Melford ', ' Mark Dresser ', ' Gerry Hemingway ']",
+Zürich,Tobias-Preisig-Quartet,2014-04-05,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
+Zürich,Konzert-auf-dem-Spielplatz,2014-04-05,['Ryan Tennis '],
+Cully,Cully-Jazz,2014-04-05,"['Medeski-Martin-Wood-Cline ', ' Marc Ribot Ceramic Dog ', ' John Medeski ', ' Chris Wood ', ' Billy Martin ', ' Nels C Cline ']",
+Zürich,Chronixx-&-Zinc-Fence-Redemption,2014-04-05,['Chronixx & Zinc Fence Redemption '],
+Rubigen,Gabby-Young-&-Other-Animals,2014-04-05,['Gabby Young & Other Animals '],
+Thun,Los-Banditos,2014-04-05,['Los Banditos '],
+Baden,The-Wave-Pictures,2014-04-05,['The Wave Pictures '],
+Bern,Old-Man-Gloom,2014-04-05,"['Old Man Gloom ', ' Circle ', ' Bossk ']",
+Heerbrugg,Blues-und-Jazz-Tage,2014-04-05,['Connie Harvey '],
+Schaffhausen,Olli-Schulz-&-Band,2014-04-05,['Olli Schulz & Band '],Pop
+Zürich,Sedlmeir,2014-04-05,['Sedlmeir '],Pop
+Bern,Sonic-Movements-No.-5,2014-04-05,"[' Mik Keusen ', ' Don Li ', ' Jonas Fehr ']",
+Sankt-Gallen,Jonwayne,2014-04-05,"['Jonwayne ', ' Kutmah ']",
+Basel,Peanut-Butter-Wolf,2014-04-05,['Peanut Butter Wolf '],

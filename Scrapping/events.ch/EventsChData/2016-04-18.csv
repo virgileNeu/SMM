@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Zürich,Andy-Gruber-Band,2016-04-18,['Andy Gruber Band '],traditional
-1,Wetzikon,Eric-Sardinas-and-Big-Motor,2016-04-18,"['Eric Sardinas and Big Motor ', ' Blues Touch ']",
-2,Basel,CIS-Cembalomusik-in-Basel,2016-04-18,['Thomas Ragossnig '],Classic
-3,Zürich,Nik-Bärtsch's-Ronin,2016-04-18,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
-4,Pratteln,Saga,2016-04-18,['Saga '],
-5,Zürich,Mariah-Carey,2016-04-18,['Mariah Carey '],Pop
-6,Bern,Lifestream,2016-04-18,"[' Fabian Baur ', ' Simon Rupp ', ' Philipp Bühlmann ', ' Daniel Weber ']",
-7,Basel,Dialog,2016-04-18,['Conrad Steinmann '],Classic
-8,null,Rod-MacDonald,2016-04-18,['Rod MacDonald '],Pop
-9,Zürich,Allen-Stone,2016-04-18,"['Allen Stone ', ' Lawrence Taylor ']",
-10,Baden,Mein-Freund-der-Baum,2016-04-18,"[' Flo Stoffner ', ' Rudi Mahall ', ' Paul Lovens ']",
-11,Zürich,Candice-Gordon,2016-04-18,['Candice Gordon '],
-12,Zürich,Lake-Street-Dive,2016-04-18,"['Lake Street Dive ', ' Rachael Price ', ' Mike McDuck Olson ', ' Bridget Kearny ', ' Mike Calabrese ']",
-13,Winterthur,Il-Tempo-Gigante,2016-04-18,['Il Tempo Gigante '],Pop
-14,Zürich,Contemporaryologies-II,2016-04-18,"[' Ulrike Mayer-Spohn ', ' Javier Hagen ']",Classic
-15,Bern,Gold-Class,2016-04-18,['Gold Class '],
+location,event,date,artists,genre
+Zürich,Andy-Gruber-Band,2016-04-18,['Andy Gruber Band '],traditional
+Wetzikon,Eric-Sardinas-and-Big-Motor,2016-04-18,"['Eric Sardinas and Big Motor ', ' Blues Touch ']",
+Basel,CIS-Cembalomusik-in-Basel,2016-04-18,['Thomas Ragossnig '],Classic
+Zürich,Nik-Bärtsch's-Ronin,2016-04-18,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
+Pratteln,Saga,2016-04-18,['Saga '],
+Zürich,Mariah-Carey,2016-04-18,['Mariah Carey '],Pop
+Bern,Lifestream,2016-04-18,"[' Fabian Baur ', ' Simon Rupp ', ' Philipp Bühlmann ', ' Daniel Weber ']",
+Basel,Dialog,2016-04-18,['Conrad Steinmann '],Classic
+null,Rod-MacDonald,2016-04-18,['Rod MacDonald '],Pop
+Zürich,Allen-Stone,2016-04-18,"['Allen Stone ', ' Lawrence Taylor ']",
+Baden,Mein-Freund-der-Baum,2016-04-18,"[' Flo Stoffner ', ' Rudi Mahall ', ' Paul Lovens ']",
+Zürich,Candice-Gordon,2016-04-18,['Candice Gordon '],
+Zürich,Lake-Street-Dive,2016-04-18,"['Lake Street Dive ', ' Rachael Price ', ' Mike McDuck Olson ', ' Bridget Kearny ', ' Mike Calabrese ']",
+Winterthur,Il-Tempo-Gigante,2016-04-18,['Il Tempo Gigante '],Pop
+Zürich,Contemporaryologies-II,2016-04-18,"[' Ulrike Mayer-Spohn ', ' Javier Hagen ']",Classic
+Bern,Gold-Class,2016-04-18,['Gold Class '],

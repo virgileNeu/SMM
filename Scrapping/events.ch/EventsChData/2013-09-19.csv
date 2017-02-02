@@ -1,33 +1,33 @@
-,location,event,date,artists,genre
-0,Zürich,Marcel-Lüscher-&-Kristinn-Smári-Kristinsson,2013-09-19,"[' Marcel Lüscher ', ' Kristinn Smári Kristinsson ']",
-1,Zürich,Entlang-der-neuen-Seidenstrasse,2013-09-19,['Leitung und Werke von Yang Jing '],Classic
-2,Wetzikon,Viscera,2013-09-19,['Viscera '],
-3,Zürich,Konzert,2013-09-19,[' Alexandre Tharaud '],Classic
-4,Bern,Symphoniekonzert-Ein-Heldenleben,2013-09-19,[' Quero Ramón Ortega '],Classic
-5,Zürich,Momentaufnahme,2013-09-19,"['Gabriela Tanner ', ' Susanne Petersen ', ' Verena Barbara Gohl ', ' Christina Jaccard ']",Pop
-6,Olten,Klavierrezital,2013-09-19,['Alexei Volodin '],Classic
-7,Zürich,Romantischer-Herbst,2013-09-19,"['Mayuko Kamio ', ' Alexander Zemtsov ', ' Orfeo Mandozzi ']",Classic
-8,Basel,AMG-Solistenabende,2013-09-19,"['Maxim Vengerov ', ' Itamar Golan ']",Classic
-9,Bern,Rainhard-Fendrich,2013-09-19,['Rainhard Fendrich '],Pop
-10,Buchs,Emilio-Solla-&-Afines,2013-09-19,"['Emilio Solla & Afines ', ' Emilio Solla ', ' Gorka Benítez ', ' Carlos Morera ', ' David González ', ' David Xirgu ']",
-11,Luzern,Salonmusik,2013-09-19,"['Martin Schaefer ', ' Richard Decker ']",Classic
-12,Aarau,Vinyl-Culture,2013-09-19,['Patric West & Band '],
-13,Winterthur,Oscar-&-The-Wolf,2013-09-19,['Oscar & The Wolf '],
-14,null,Systema-Solar,2013-09-19,['Systema Solar '],Electronic
-15,Wil,Do-as-They-Burn,2013-09-19,['Do as They Burn '],Pop
-16,Winterthur,Get-The-Vibes,2013-09-19,"[' Andres Käch ', ' Christoph Flueler ', ' Frank Rösler ', ' Moritz Meyer ', ' Fredi Schmid ']",
-17,Zürich,Brentanophantasien-Roland-Moser-zum-Siebzigsten,2013-09-19,"['Eva Oltivanyi ', ' Kurt Widmer ', ' Gertrud Schneider ']",Classic
-18,Basel,Au-Revoir-Simone,2013-09-19,['Au Revoir Simone '],Electronic
-19,Lausanne,Grief-Joy,2013-09-19,['Grief Joy '],Electronic
-20,Bern,Uneven-Structure,2013-09-19,"['Uneven Structure ', ' support: The Algorithm ', ' Weaksaw ']",
-21,Zürich,Chansons-en-Stok,2013-09-19,"['Iaross ', ' Nicolas Larossi ', ' Colin Vincent ', ' Germain Lebot ']",
-22,Zürich,Nighthawks,2013-09-19,"['Nighthawks ', ' Reiner Winterschladen ', ' Markus Wienstroer ', ' Jürgen Dahmen ', ' Dal Martino ', ' Thomas Alkier ']",
-23,Luzern,The-Elwins,2013-09-19,['The Elwins '],
-24,Schaffhausen,Christian-Muthspiel-feat.-Steve-Swallow,2013-09-19,"['Christian Muthspiel feat. Steve Swallow ', ' Christian Muthspiel ', ' Matthieu Michel ', ' Franck Tortiller ', ' Steve Swallow ']",
-25,Basel,David-Brühwiler-Quintet,2013-09-19,"[' Carlo Schoeb ', ' Rainer Weber ', ' David Brühwiler ', ' Richard Pechota ', ' Thomas Hiestand ']",
-26,Lugano,Kammermusikalisches-Jazzhighlight,2013-09-19,"['Daniel Schläppi ', ' Marc Copland ']",
-27,Köniz,Mongk,2013-09-19,"[' Dänu Brüggemann ', ' Pesche Enderli ', ' Ueli Enderli ', ' Marc Rossier ']",
-28,Zürich,Delorean,2013-09-19,['Delorean '],Electronic
-29,Reussbühl,The-Knocked-Out-Rhythms,2013-09-19,"[' Sam Gallati ', ' Claudio Strebel ']",
-30,Lausanne,Verveine,2013-09-19,['Verveine '],
-31,Luzern,Jam-Session,2013-09-19,['Richard Decker '],
+location,event,date,artists,genre
+Zürich,Marcel-Lüscher-&-Kristinn-Smári-Kristinsson,2013-09-19,"[' Marcel Lüscher ', ' Kristinn Smári Kristinsson ']",
+Zürich,Entlang-der-neuen-Seidenstrasse,2013-09-19,['Leitung und Werke von Yang Jing '],Classic
+Wetzikon,Viscera,2013-09-19,['Viscera '],
+Zürich,Konzert,2013-09-19,[' Alexandre Tharaud '],Classic
+Bern,Symphoniekonzert-Ein-Heldenleben,2013-09-19,[' Quero Ramón Ortega '],Classic
+Zürich,Momentaufnahme,2013-09-19,"['Gabriela Tanner ', ' Susanne Petersen ', ' Verena Barbara Gohl ', ' Christina Jaccard ']",Pop
+Olten,Klavierrezital,2013-09-19,['Alexei Volodin '],Classic
+Zürich,Romantischer-Herbst,2013-09-19,"['Mayuko Kamio ', ' Alexander Zemtsov ', ' Orfeo Mandozzi ']",Classic
+Basel,AMG-Solistenabende,2013-09-19,"['Maxim Vengerov ', ' Itamar Golan ']",Classic
+Bern,Rainhard-Fendrich,2013-09-19,['Rainhard Fendrich '],Pop
+Buchs,Emilio-Solla-&-Afines,2013-09-19,"['Emilio Solla & Afines ', ' Emilio Solla ', ' Gorka Benítez ', ' Carlos Morera ', ' David González ', ' David Xirgu ']",
+Luzern,Salonmusik,2013-09-19,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Aarau,Vinyl-Culture,2013-09-19,['Patric West & Band '],
+Winterthur,Oscar-&-The-Wolf,2013-09-19,['Oscar & The Wolf '],
+null,Systema-Solar,2013-09-19,['Systema Solar '],Electronic
+Wil,Do-as-They-Burn,2013-09-19,['Do as They Burn '],Pop
+Winterthur,Get-The-Vibes,2013-09-19,"[' Andres Käch ', ' Christoph Flueler ', ' Frank Rösler ', ' Moritz Meyer ', ' Fredi Schmid ']",
+Zürich,Brentanophantasien-Roland-Moser-zum-Siebzigsten,2013-09-19,"['Eva Oltivanyi ', ' Kurt Widmer ', ' Gertrud Schneider ']",Classic
+Basel,Au-Revoir-Simone,2013-09-19,['Au Revoir Simone '],Electronic
+Lausanne,Grief-Joy,2013-09-19,['Grief Joy '],Electronic
+Bern,Uneven-Structure,2013-09-19,"['Uneven Structure ', ' support: The Algorithm ', ' Weaksaw ']",
+Zürich,Chansons-en-Stok,2013-09-19,"['Iaross ', ' Nicolas Larossi ', ' Colin Vincent ', ' Germain Lebot ']",
+Zürich,Nighthawks,2013-09-19,"['Nighthawks ', ' Reiner Winterschladen ', ' Markus Wienstroer ', ' Jürgen Dahmen ', ' Dal Martino ', ' Thomas Alkier ']",
+Luzern,The-Elwins,2013-09-19,['The Elwins '],
+Schaffhausen,Christian-Muthspiel-feat.-Steve-Swallow,2013-09-19,"['Christian Muthspiel feat. Steve Swallow ', ' Christian Muthspiel ', ' Matthieu Michel ', ' Franck Tortiller ', ' Steve Swallow ']",
+Basel,David-Brühwiler-Quintet,2013-09-19,"[' Carlo Schoeb ', ' Rainer Weber ', ' David Brühwiler ', ' Richard Pechota ', ' Thomas Hiestand ']",
+Lugano,Kammermusikalisches-Jazzhighlight,2013-09-19,"['Daniel Schläppi ', ' Marc Copland ']",
+Köniz,Mongk,2013-09-19,"[' Dänu Brüggemann ', ' Pesche Enderli ', ' Ueli Enderli ', ' Marc Rossier ']",
+Zürich,Delorean,2013-09-19,['Delorean '],Electronic
+Reussbühl,The-Knocked-Out-Rhythms,2013-09-19,"[' Sam Gallati ', ' Claudio Strebel ']",
+Lausanne,Verveine,2013-09-19,['Verveine '],
+Luzern,Jam-Session,2013-09-19,['Richard Decker '],

@@ -1,29 +1,29 @@
-,location,event,date,artists,genre
-0,Bern,Sitzkissenkonzert-Bravo-Pulcinella,2016-10-08,"[' Ulrike Lachner ', ' Anna Zimmermann ', ' Christian Holenstein ', ' Daniel Schädeli ']",Classic
-1,Winterthur,Michaela-Rabitsch-&-Robert-Pawlik-Quartett,2016-10-08,"[' Michaela Rabitsch ', ' Robert Pawlik ', ' Stefan Pista Bartus ', ' Dusan Novakov ']",
-2,Zürich,Monte-Carlo,2016-10-08,['Monte Carlo '],Pop
-3,Zürich,Karate-Andi,2016-10-08,['Karate Andi '],
-4,Zürich,Türk-Sanat-Müzigi-Koro-Konseri,2016-10-08,[' Leitung: Funda Öztürk '],
-5,Zürich,Cali-P,2016-10-08,"[' Randy Valentine ', ' Shanique Marie ', ' DJs Chiquidubs ', ' Equiknoxx Sound ', ' Mighty Children Sound ']",
-6,Aarburg,Deep-Sun,2016-10-08,['Deep Sun '],
-7,Pratteln,L'âme-immortelle,2016-10-08,"[""L'âme immortelle ""]",
-8,Bern,Headbangersball,2016-10-08,"[' Rages of Sin ', ' Surrection ']",
-9,Zürich,Katatonia,2016-10-08,['Katatonia '],
-10,Winterthur,Chamber-Soul,2016-10-08,"[' Brandy Butler ', ' Roman Hosek ', ' René Mosele ']",
-11,Zürich,Helldorado,2016-10-08,['Helldorado '],
-12,Stäfa,Lady-Sings-the-Blues,2016-10-08,"[' Christina Jaccard ', ' Dave Ruosch ']",
-13,Aarau,Metalmayhem,2016-10-08,"['Dead Lord ', ' Night Viper ', ' Lizzies ']",
-14,Basel,Mark-Sherman-Quartet,2016-10-08,"[' Mark Sherman ', ' Antonio Farao ', ' Martin Gjakonovski ', ' Andre Cecharelli ']",
-15,Zürich,Haïdouti-Orkestar,2016-10-08,"['Haïdouti Orkestar ', ' Zeki Ayad Cholash ', ' Manel Girard ', ' Krassen Lutzkanov ', ' Jasko Ramic ', ' Denys Danielides ']",
-16,Basel,Jam-Night,2016-10-08,['Andile Yenana '],
-17,Bern,Annakin,2016-10-08,[' Dez Mona '],Pop
-18,Krummenau,Marten-Hørger,2016-10-08,['Marten Hørger '],Electronic
-19,Zürich,Augustines,2016-10-08,['Augustines '],
-20,Thun,Gudrid-Hansdöttir,2016-10-08,['Gudrid Hansdöttir '],Pop
-21,Zürich,No-More,2016-10-08,"['No More ', ' Age Of Heaven ', ' No More ', ' Age Of Heaven ']",
-22,null,Carte-Blanche-a-Max-Jendly,2016-10-08,"[' Max Jendly ', ' Yvan Ischer ', ' Antoine Ogay ', ' Alain Petitmermet ']",
-23,Lausanne,Family-Atlantica,2016-10-08,"['Family Atlantica ', ' Orlando Julius & The Heliocentric ']",
-24,Luzern,Rival-Kings,2016-10-08,['Rival Kings '],Pop
-25,Zürich,Riders-Connection,2016-10-08,"['Riders Connection ', ' Jon and Roy ']",
-26,Bern,Marlene-Dietrich-Eine-Plauderei-Am-Klavier,2016-10-08,"['Heidi Maria Glössner ', ' Bruno Leuschner ']",Pop
-27,Baden,Jorins-Skeleton-Dance,2016-10-08,['DJs Stan Starry '],Electronic
+location,event,date,artists,genre
+Bern,Sitzkissenkonzert-Bravo-Pulcinella,2016-10-08,"[' Ulrike Lachner ', ' Anna Zimmermann ', ' Christian Holenstein ', ' Daniel Schädeli ']",Classic
+Winterthur,Michaela-Rabitsch-&-Robert-Pawlik-Quartett,2016-10-08,"[' Michaela Rabitsch ', ' Robert Pawlik ', ' Stefan Pista Bartus ', ' Dusan Novakov ']",
+Zürich,Monte-Carlo,2016-10-08,['Monte Carlo '],Pop
+Zürich,Karate-Andi,2016-10-08,['Karate Andi '],
+Zürich,Türk-Sanat-Müzigi-Koro-Konseri,2016-10-08,[' Leitung: Funda Öztürk '],
+Zürich,Cali-P,2016-10-08,"[' Randy Valentine ', ' Shanique Marie ', ' DJs Chiquidubs ', ' Equiknoxx Sound ', ' Mighty Children Sound ']",
+Aarburg,Deep-Sun,2016-10-08,['Deep Sun '],
+Pratteln,L'âme-immortelle,2016-10-08,"[""L'âme immortelle ""]",
+Bern,Headbangersball,2016-10-08,"[' Rages of Sin ', ' Surrection ']",
+Zürich,Katatonia,2016-10-08,['Katatonia '],
+Winterthur,Chamber-Soul,2016-10-08,"[' Brandy Butler ', ' Roman Hosek ', ' René Mosele ']",
+Zürich,Helldorado,2016-10-08,['Helldorado '],
+Stäfa,Lady-Sings-the-Blues,2016-10-08,"[' Christina Jaccard ', ' Dave Ruosch ']",
+Aarau,Metalmayhem,2016-10-08,"['Dead Lord ', ' Night Viper ', ' Lizzies ']",
+Basel,Mark-Sherman-Quartet,2016-10-08,"[' Mark Sherman ', ' Antonio Farao ', ' Martin Gjakonovski ', ' Andre Cecharelli ']",
+Zürich,Haïdouti-Orkestar,2016-10-08,"['Haïdouti Orkestar ', ' Zeki Ayad Cholash ', ' Manel Girard ', ' Krassen Lutzkanov ', ' Jasko Ramic ', ' Denys Danielides ']",
+Basel,Jam-Night,2016-10-08,['Andile Yenana '],
+Bern,Annakin,2016-10-08,[' Dez Mona '],Pop
+Krummenau,Marten-Hørger,2016-10-08,['Marten Hørger '],Electronic
+Zürich,Augustines,2016-10-08,['Augustines '],
+Thun,Gudrid-Hansdöttir,2016-10-08,['Gudrid Hansdöttir '],Pop
+Zürich,No-More,2016-10-08,"['No More ', ' Age Of Heaven ', ' No More ', ' Age Of Heaven ']",
+null,Carte-Blanche-a-Max-Jendly,2016-10-08,"[' Max Jendly ', ' Yvan Ischer ', ' Antoine Ogay ', ' Alain Petitmermet ']",
+Lausanne,Family-Atlantica,2016-10-08,"['Family Atlantica ', ' Orlando Julius & The Heliocentric ']",
+Luzern,Rival-Kings,2016-10-08,['Rival Kings '],Pop
+Zürich,Riders-Connection,2016-10-08,"['Riders Connection ', ' Jon and Roy ']",
+Bern,Marlene-Dietrich-Eine-Plauderei-Am-Klavier,2016-10-08,"['Heidi Maria Glössner ', ' Bruno Leuschner ']",Pop
+Baden,Jorins-Skeleton-Dance,2016-10-08,['DJs Stan Starry '],Electronic

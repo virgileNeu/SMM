@@ -1,33 +1,33 @@
-,location,event,date,artists,genre
-0,Luzern,Lucerne-Festival-am-Piano-Debut-2,2016-11-24,['Andrew Tyson '],Classic
-1,Zürich,Unerhört-schön-unerhört-kurz,2016-11-24,[' François Leleux '],Classic
-2,Zürich,Thursday-Night-Jazz,2016-11-24,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-3,Bern,Arcadi-Volodos,2016-11-24,['Arcadi Volodos '],Classic
-4,Luzern,Lucerne-Festival-am-Piano,2016-11-24,[' Maria João Pires '],Classic
-5,Schaffhausen,Irish-Nights,2016-11-24,"['Live: Lynched ', ' Gráinne Holland Band ']",
-6,Zürich,Arte-Reunido-Flamencofestival,2016-11-24,"[' Joaquín Gomez ', ' Vicente Cortés ', ' German Papu Gigena ']",
-7,Zürich,The-Lumineers,2016-11-24,['The Lumineers '],
-8,Bern,Percussion-Art-Ensemble-Bern,2016-11-24,"[' Simon Forster ', ' Urs Peter Schneider ']",Classic
-9,null,Duchess-Says,2016-11-24,"['Duchess Says ', ' Odd Couple ']",
-10,Zürich,Jazz-Meets-Classic,2016-11-24,"[' Katja Baumann ', ' Gregor Loepfe ', ' Richard Pechota ', ' Peter Preibisch ']",
-11,Baden,Larrys-Blues-Band,2016-11-24,"[' Larry Schmuki ', ' Beat Aschwanden ', ' Markus Fritzsche ']",
-12,Dübendorf,Federspiel,2016-11-24,['Federspiel '],
-13,Basel,Gina-Günthard-Trio,2016-11-24,"[' Gina Günthard ', ' Aliéksey Vianna ', ' Roberto Koch ']",
-14,Zürich,Eva-Slongo-Quartet,2016-11-24,"[' Eva Slongo ', ' Joran Cariou ', ' Fabricio Nicolas ', ' Nicolas Charlier ']",
-15,Winterthur,Compulsion,2016-11-24,"[' Marc Ullrich ', ' Adam Taubitz ', ' Simone Bollini ', ' Dominik Schürmann ', ' Christoph Mohler ']",
-16,Bern,Donots,2016-11-24,['Donots '],
-17,Solothurn,Acoustic-Nights,2016-11-24,['Red Moon Road '],
-18,Zürich,Unerhört,2016-11-24,"[' Peter K Frey ', ' Tobias Delius ', ' Joe Williamson ', ' Steve Heather ']",
-19,Thun,Sulk,2016-11-24,['Sulk '],Pop
-20,Liebefeld,Till-Grünewald-Phonosource,2016-11-24,"['Till Grünewald Phonosource ', ' Till Grünewald ', ' Philip Henzi ', ' Lorenz Beyeler ', ' Tobias Friedli ']",
-21,Zürich,Get-The-Blessing,2016-11-24,"['Get The Blessing ', ' Jake McMurchie ', ' Pete Judge ', ' Jim Barr ', ' Clive Deamer ']",
-22,Basel,The-Bass-Viking,2016-11-24,"[' Gary Husband ', ' Per Mathisen ', ' Utsi Zimring ']",Pop
-23,Wallisellen,Keith-Thompson,2016-11-24,['Keith Thompson '],
-24,Baden,Schwalbe-&-Elefant,2016-11-24,"[' Dalia Donadio ', ' Linda Vogel ']",Pop
-25,Zürich,Zurich-Jazz-Orchestra,2016-11-24,"[' Reto Anneler ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas Lüthi ']",
-26,Zürich,Die-Unterwelt-im-Stummfilm,2016-11-24,['The Penalty '],Classic
-27,Rubigen,Dallabanda-abgesagt,2016-11-24,['Dallabanda '],
-28,Zürich,Sarah-Jaffe,2016-11-24,['Sarah Jaffe '],Pop
-29,Winterthur,Sauropod,2016-11-24,['Sauropod '],Pop
-30,Zürich,Gurr,2016-11-24,['Gurr '],
-31,Bern,Luke-Winslow-King,2016-11-24,['Luke Winslow-King '],
+location,event,date,artists,genre
+Luzern,Lucerne-Festival-am-Piano-Debut-2,2016-11-24,['Andrew Tyson '],Classic
+Zürich,Unerhört-schön-unerhört-kurz,2016-11-24,[' François Leleux '],Classic
+Zürich,Thursday-Night-Jazz,2016-11-24,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Bern,Arcadi-Volodos,2016-11-24,['Arcadi Volodos '],Classic
+Luzern,Lucerne-Festival-am-Piano,2016-11-24,[' Maria João Pires '],Classic
+Schaffhausen,Irish-Nights,2016-11-24,"['Live: Lynched ', ' Gráinne Holland Band ']",
+Zürich,Arte-Reunido-Flamencofestival,2016-11-24,"[' Joaquín Gomez ', ' Vicente Cortés ', ' German Papu Gigena ']",
+Zürich,The-Lumineers,2016-11-24,['The Lumineers '],
+Bern,Percussion-Art-Ensemble-Bern,2016-11-24,"[' Simon Forster ', ' Urs Peter Schneider ']",Classic
+null,Duchess-Says,2016-11-24,"['Duchess Says ', ' Odd Couple ']",
+Zürich,Jazz-Meets-Classic,2016-11-24,"[' Katja Baumann ', ' Gregor Loepfe ', ' Richard Pechota ', ' Peter Preibisch ']",
+Baden,Larrys-Blues-Band,2016-11-24,"[' Larry Schmuki ', ' Beat Aschwanden ', ' Markus Fritzsche ']",
+Dübendorf,Federspiel,2016-11-24,['Federspiel '],
+Basel,Gina-Günthard-Trio,2016-11-24,"[' Gina Günthard ', ' Aliéksey Vianna ', ' Roberto Koch ']",
+Zürich,Eva-Slongo-Quartet,2016-11-24,"[' Eva Slongo ', ' Joran Cariou ', ' Fabricio Nicolas ', ' Nicolas Charlier ']",
+Winterthur,Compulsion,2016-11-24,"[' Marc Ullrich ', ' Adam Taubitz ', ' Simone Bollini ', ' Dominik Schürmann ', ' Christoph Mohler ']",
+Bern,Donots,2016-11-24,['Donots '],
+Solothurn,Acoustic-Nights,2016-11-24,['Red Moon Road '],
+Zürich,Unerhört,2016-11-24,"[' Peter K Frey ', ' Tobias Delius ', ' Joe Williamson ', ' Steve Heather ']",
+Thun,Sulk,2016-11-24,['Sulk '],Pop
+Liebefeld,Till-Grünewald-Phonosource,2016-11-24,"['Till Grünewald Phonosource ', ' Till Grünewald ', ' Philip Henzi ', ' Lorenz Beyeler ', ' Tobias Friedli ']",
+Zürich,Get-The-Blessing,2016-11-24,"['Get The Blessing ', ' Jake McMurchie ', ' Pete Judge ', ' Jim Barr ', ' Clive Deamer ']",
+Basel,The-Bass-Viking,2016-11-24,"[' Gary Husband ', ' Per Mathisen ', ' Utsi Zimring ']",Pop
+Wallisellen,Keith-Thompson,2016-11-24,['Keith Thompson '],
+Baden,Schwalbe-&-Elefant,2016-11-24,"[' Dalia Donadio ', ' Linda Vogel ']",Pop
+Zürich,Zurich-Jazz-Orchestra,2016-11-24,"[' Reto Anneler ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas Lüthi ']",
+Zürich,Die-Unterwelt-im-Stummfilm,2016-11-24,['The Penalty '],Classic
+Rubigen,Dallabanda-abgesagt,2016-11-24,['Dallabanda '],
+Zürich,Sarah-Jaffe,2016-11-24,['Sarah Jaffe '],Pop
+Winterthur,Sauropod,2016-11-24,['Sauropod '],Pop
+Zürich,Gurr,2016-11-24,['Gurr '],
+Bern,Luke-Winslow-King,2016-11-24,['Luke Winslow-King '],

@@ -1,20 +1,20 @@
-,location,event,date,artists,genre
-0,Zürich,Werner-und-Company,2016-11-14,['Werner und Company '],Pop
-1,null,Maceo-Parker,2016-11-14,['Maceo Parker '],
-2,Basel,Konzert-auf-historischen-Instrumenten,2016-11-14,"[' Miho Fukui ', ' Ob) Philipp Wagner ']",Classic
-3,Zürich,Being-As-An-Ocean,2016-11-14,"['Being As An Ocean ', ' support: Burning Down Alaska ', ' Capsize ', ' Casey ']",
-4,Luzern,Mariinsky-Orchestra,2016-11-14,[' Leonidas Kavakos '],Classic
-5,Zürich,Spektrumkonzert-Pianoabend,2016-11-14,"['Stephanie Boller ', ' Vladislava Luchenko ', ' Klara Mille ', ' Monika Grimm ', ' Chiara Enderle ']",Classic
-6,Zürich,Orchestermagie,2016-11-14,[' Kristian Bezuidenhout '],Classic
-7,Zürich,Nik-Bärtschs-Ronin,2016-11-14,"[' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
-8,Winterthur,Gabriela-Krapf-&-Horns,2016-11-14,"[' Gabriela Krapf ', ' Silvan Kiser ', '  Raffaele Lunardi ', ' Phil Powell ']",
-9,null,Bodrato-Actis-Dato-Buffa-Mazzucco,2016-11-14,"['Bodrato Actis-Dato Buffa Mazzucco ', ' Fiorenzo Bodrato ', ' Carlo Actis Dato ', ' Andrea Buffa ', ' Dario Mazzuca ']",
-10,Zürich,Jazzarmonics,2016-11-14,[' Andi Szalatnay '],
-11,Basel,Kinder,2016-11-14,"['Georgia Knower ', ' Boris Chnaider ']",Classic
-12,Bern,Latin-Night,2016-11-14,"[' Musikern Antonio Schiavano ', ' Nick Perrin ', ' Flo Reichle ', ' Roland Wäger ']",
-13,Pratteln,Wolfmother,2016-11-14,['Wolfmother '],
-14,Rheinfelden,Buster-Williams-Quartet,2016-11-14,"[' Buster Williams ', ' Jaleel Shaw ', ' Eric Reed ', ' Lenny White ']",
-15,Baden,John-Marshall-Grant-Stewart-Bebop-Quintet,2016-11-14,"[' John Marshall ', ' Grant Stewart ', ' Andrey Zimovets ', ' Stephan Kurmann ', ' Phil Stewart ']",
-16,Rheinfelden,Buster-Williams-Quartet,2016-11-14,"[' Buster Williams ', ' Lenny White ', ' Jaleel Shaw ', ' Eric Reed ']",
-17,Zürich,Alani,2016-11-14,"[' Alani ', ' Rob Updegraff ', ' Claire Galo-Place ', ' Clement Petit ']",
-18,Basel,Bänz-Oester-&-The-Rainmakers,2016-11-14,"[' Afrika Mkhize ', ' Ganesh Geymeier ', ' Bänz Oester ', ' Ayanda Sikade ']",
+location,event,date,artists,genre
+Zürich,Werner-und-Company,2016-11-14,['Werner und Company '],Pop
+null,Maceo-Parker,2016-11-14,['Maceo Parker '],
+Basel,Konzert-auf-historischen-Instrumenten,2016-11-14,"[' Miho Fukui ', ' Ob) Philipp Wagner ']",Classic
+Zürich,Being-As-An-Ocean,2016-11-14,"['Being As An Ocean ', ' support: Burning Down Alaska ', ' Capsize ', ' Casey ']",
+Luzern,Mariinsky-Orchestra,2016-11-14,[' Leonidas Kavakos '],Classic
+Zürich,Spektrumkonzert-Pianoabend,2016-11-14,"['Stephanie Boller ', ' Vladislava Luchenko ', ' Klara Mille ', ' Monika Grimm ', ' Chiara Enderle ']",Classic
+Zürich,Orchestermagie,2016-11-14,[' Kristian Bezuidenhout '],Classic
+Zürich,Nik-Bärtschs-Ronin,2016-11-14,"[' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
+Winterthur,Gabriela-Krapf-&-Horns,2016-11-14,"[' Gabriela Krapf ', ' Silvan Kiser ', '  Raffaele Lunardi ', ' Phil Powell ']",
+null,Bodrato-Actis-Dato-Buffa-Mazzucco,2016-11-14,"['Bodrato Actis-Dato Buffa Mazzucco ', ' Fiorenzo Bodrato ', ' Carlo Actis Dato ', ' Andrea Buffa ', ' Dario Mazzuca ']",
+Zürich,Jazzarmonics,2016-11-14,[' Andi Szalatnay '],
+Basel,Kinder,2016-11-14,"['Georgia Knower ', ' Boris Chnaider ']",Classic
+Bern,Latin-Night,2016-11-14,"[' Musikern Antonio Schiavano ', ' Nick Perrin ', ' Flo Reichle ', ' Roland Wäger ']",
+Pratteln,Wolfmother,2016-11-14,['Wolfmother '],
+Rheinfelden,Buster-Williams-Quartet,2016-11-14,"[' Buster Williams ', ' Jaleel Shaw ', ' Eric Reed ', ' Lenny White ']",
+Baden,John-Marshall-Grant-Stewart-Bebop-Quintet,2016-11-14,"[' John Marshall ', ' Grant Stewart ', ' Andrey Zimovets ', ' Stephan Kurmann ', ' Phil Stewart ']",
+Rheinfelden,Buster-Williams-Quartet,2016-11-14,"[' Buster Williams ', ' Lenny White ', ' Jaleel Shaw ', ' Eric Reed ']",
+Zürich,Alani,2016-11-14,"[' Alani ', ' Rob Updegraff ', ' Claire Galo-Place ', ' Clement Petit ']",
+Basel,Bänz-Oester-&-The-Rainmakers,2016-11-14,"[' Afrika Mkhize ', ' Ganesh Geymeier ', ' Bänz Oester ', ' Ayanda Sikade ']",

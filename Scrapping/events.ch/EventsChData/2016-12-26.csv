@@ -1,8 +1,8 @@
-,location,event,date,artists,genre
-0,Mönchaltorf,Matinée,2016-12-26,"[' Fiorentina Talamo ', ' Laure Perrenoud ', ' Manuela Frescura ']",Classic
-1,Zürich,Drei-festliche-Instrumentalkonzerte,2016-12-26,"['Kaspar Zimmermann ', ' Mary Ellen Woodside ', ' Ulrike-Verena Habel ', ' David Goldzycher ']",Classic
-2,Zürich,Weihnachtskonzert-mit-Videotrack,2016-12-26,[' Andrey Baranov '],Classic
-3,Bern,Sous-les-étoiles,2016-12-26,"[' Dartin Dahanukar ', ' Howald ', ' Philipp Moll ']",
-4,Zürich,Kurdo,2016-12-26,['Kurdo '],
-5,Zürich,Weihnachtskonzert-mit-Videotrack,2016-12-26,[' Alexander Ghindin '],Classic
-6,Zürich,Hendrix,2016-12-26,"[' Erika Stucky ', ' Christy Doran ', ' Thomy Jordi ', ' Fredy Studer ']",
+location,event,date,artists,genre
+Mönchaltorf,Matinée,2016-12-26,"[' Fiorentina Talamo ', ' Laure Perrenoud ', ' Manuela Frescura ']",Classic
+Zürich,Drei-festliche-Instrumentalkonzerte,2016-12-26,"['Kaspar Zimmermann ', ' Mary Ellen Woodside ', ' Ulrike-Verena Habel ', ' David Goldzycher ']",Classic
+Zürich,Weihnachtskonzert-mit-Videotrack,2016-12-26,[' Andrey Baranov '],Classic
+Bern,Sous-les-étoiles,2016-12-26,"[' Dartin Dahanukar ', ' Howald ', ' Philipp Moll ']",
+Zürich,Kurdo,2016-12-26,['Kurdo '],
+Zürich,Weihnachtskonzert-mit-Videotrack,2016-12-26,[' Alexander Ghindin '],Classic
+Zürich,Hendrix,2016-12-26,"[' Erika Stucky ', ' Christy Doran ', ' Thomy Jordi ', ' Fredy Studer ']",

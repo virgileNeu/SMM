@@ -1,10 +1,10 @@
-,location,event,date,artists,genre
-0,Zürich,Steirersound,2014-03-10,['Steirersound '],traditional
-1,Zürich,Frank-Turner-&-The-Sleeping-Souls-ausverkauft,2014-03-10,"['Frank Turner & The Sleeping Souls ', ' Andrew Jackson Jihad ', ' Ducking Punches ']",
-2,Zürich,Old-School-Piano-Blues,2014-03-10,['Andy Boller '],
-3,Zürich,War-da-was-Clara-Schumann-und-Johannes-Brahms,2014-03-10,['Andrea Wiesli '],Classic
-4,Zürich,Götz-Widmann,2014-03-10,['Götz Widmann '],Pop
-5,Zürich,Beethoven-und-Brahms,2014-03-10,"[' Catriona Bühler ', ' Liv Kriesi ', ' Jean Knutti ', ' Samuel Zünd ']",Classic
-6,Baden,Kimm-Trio,2014-03-10,"["" Philipp Z'Rotz "", ' Marc Jenny ', ' Emanuel Künzi ']",
-7,Zürich,Geoff-Berner-&-Corb-Lund,2014-03-10,['Geoff Berner & Corb Lund '],
-8,Zürich,Artist-in-Residence-Karin-Meier,2014-03-10,"[' Karin Meier ', ' Urs Müller ', ' Stefanie Kunckler ', ' Thomas Lüscher ']",
+location,event,date,artists,genre
+Zürich,Steirersound,2014-03-10,['Steirersound '],traditional
+Zürich,Frank-Turner-&-The-Sleeping-Souls-ausverkauft,2014-03-10,"['Frank Turner & The Sleeping Souls ', ' Andrew Jackson Jihad ', ' Ducking Punches ']",
+Zürich,Old-School-Piano-Blues,2014-03-10,['Andy Boller '],
+Zürich,War-da-was-Clara-Schumann-und-Johannes-Brahms,2014-03-10,['Andrea Wiesli '],Classic
+Zürich,Götz-Widmann,2014-03-10,['Götz Widmann '],Pop
+Zürich,Beethoven-und-Brahms,2014-03-10,"[' Catriona Bühler ', ' Liv Kriesi ', ' Jean Knutti ', ' Samuel Zünd ']",Classic
+Baden,Kimm-Trio,2014-03-10,"["" Philipp Z'Rotz "", ' Marc Jenny ', ' Emanuel Künzi ']",
+Zürich,Geoff-Berner-&-Corb-Lund,2014-03-10,['Geoff Berner & Corb Lund '],
+Zürich,Artist-in-Residence-Karin-Meier,2014-03-10,"[' Karin Meier ', ' Urs Müller ', ' Stefanie Kunckler ', ' Thomas Lüscher ']",

@@ -1,20 +1,20 @@
-,location,event,date,artists,genre
-0,Luzern,Lucerne-Festival-am-Piano-Debut-1,2016-11-23,['Louis Schwizgebel '],Classic
-1,Zürich,Unerhört,2016-11-23,"[' Katharina Weber ', ' Erika Radermacher ']",
-2,Zürich,Who-Killed-Bruce-Lee,2016-11-23,['Who Killed Bruce Lee '],
-3,Basel,Martinu-Festtage,2016-11-23,"['Thomas Zehetmair ', ' Ruth Killius ']",Classic
-4,Luzern,Lucerne-Festival-am-Piano,2016-11-23,['Igor Levit '],Classic
-5,Zürich,Orchestermagie,2016-11-23,[' François Leleux '],Classic
-6,Zürich,Unerhört,2016-11-23,"[' Ellery Eskelin ', ' Christian Weber ', ' Michael Griener ']",
-7,Zürich,Henrik-Freischlader-Trio,2016-11-23,"['Henrik Freischlader Trio ', ' Henrik Freischlader ', ' Alex Grube ', ' Carl-Michael Grabinger ']",
-8,Lausanne,Billy-Talent,2016-11-23,"['Billy Talent ', ' Monster Truck ', ' The Dirty Nil ']",
-9,Zürich,Moodslabor,2016-11-23,"[' Daniel Schenker ', ' Reto Suhner ', ' Christoph Grab ', ' Bernhard Bamert ', ' Thomas Lüscher ']",
-10,Zürich,Arte-Reunido-Flamencofestival,2016-11-23,"[' Albert Cases ', ' Jesús Joaquín Puchero ', ' Germán Papu Gigena ']",
-11,Luzern,Jam-Night,2016-11-23,"[' Chiara Schönfeld ', ' Andri Schärli ', ' Kenny Niggli ', ' Florian Bolliger ']",
-12,Bern,Stefan-Aeby-Trio,2016-11-23,['Stefan Aeby Trio '],
-13,Luzern,Psychedelic-Mountain,2016-11-23,"['Christoph Merki ', ' Daniel Schenker ', ' Ramon Ziegler ', ' Lars Carl Schmid ', ' Mario von Holten ', ' Stephan Athanas ', ' Tony Renold ']",
-14,Zürich,Jazzbaragge-Wednesday-Jam,2016-11-23,"['François Lana ', ' Xaver Rüegg ', ' Martin Perret ']",
-15,Basel,NYC-Five,2016-11-23,"[' Ralph Alessi ', ' Angelika Niescier ', ' Florian Weber ', ' Chris Tordini ', ' Gerald Cleaver ']",
-16,Aarau,Sarah-Jaffe,2016-11-23,['Sarah Jaffe '],Pop
-17,Lausanne,Margaret-Glaspy,2016-11-23,['Margaret Glaspy '],
-18,Bern,Beak,2016-11-23,"['Beak ', ' Get The Blessing ']",
+location,event,date,artists,genre
+Luzern,Lucerne-Festival-am-Piano-Debut-1,2016-11-23,['Louis Schwizgebel '],Classic
+Zürich,Unerhört,2016-11-23,"[' Katharina Weber ', ' Erika Radermacher ']",
+Zürich,Who-Killed-Bruce-Lee,2016-11-23,['Who Killed Bruce Lee '],
+Basel,Martinu-Festtage,2016-11-23,"['Thomas Zehetmair ', ' Ruth Killius ']",Classic
+Luzern,Lucerne-Festival-am-Piano,2016-11-23,['Igor Levit '],Classic
+Zürich,Orchestermagie,2016-11-23,[' François Leleux '],Classic
+Zürich,Unerhört,2016-11-23,"[' Ellery Eskelin ', ' Christian Weber ', ' Michael Griener ']",
+Zürich,Henrik-Freischlader-Trio,2016-11-23,"['Henrik Freischlader Trio ', ' Henrik Freischlader ', ' Alex Grube ', ' Carl-Michael Grabinger ']",
+Lausanne,Billy-Talent,2016-11-23,"['Billy Talent ', ' Monster Truck ', ' The Dirty Nil ']",
+Zürich,Moodslabor,2016-11-23,"[' Daniel Schenker ', ' Reto Suhner ', ' Christoph Grab ', ' Bernhard Bamert ', ' Thomas Lüscher ']",
+Zürich,Arte-Reunido-Flamencofestival,2016-11-23,"[' Albert Cases ', ' Jesús Joaquín Puchero ', ' Germán Papu Gigena ']",
+Luzern,Jam-Night,2016-11-23,"[' Chiara Schönfeld ', ' Andri Schärli ', ' Kenny Niggli ', ' Florian Bolliger ']",
+Bern,Stefan-Aeby-Trio,2016-11-23,['Stefan Aeby Trio '],
+Luzern,Psychedelic-Mountain,2016-11-23,"['Christoph Merki ', ' Daniel Schenker ', ' Ramon Ziegler ', ' Lars Carl Schmid ', ' Mario von Holten ', ' Stephan Athanas ', ' Tony Renold ']",
+Zürich,Jazzbaragge-Wednesday-Jam,2016-11-23,"['François Lana ', ' Xaver Rüegg ', ' Martin Perret ']",
+Basel,NYC-Five,2016-11-23,"[' Ralph Alessi ', ' Angelika Niescier ', ' Florian Weber ', ' Chris Tordini ', ' Gerald Cleaver ']",
+Aarau,Sarah-Jaffe,2016-11-23,['Sarah Jaffe '],Pop
+Lausanne,Margaret-Glaspy,2016-11-23,['Margaret Glaspy '],
+Bern,Beak,2016-11-23,"['Beak ', ' Get The Blessing ']",

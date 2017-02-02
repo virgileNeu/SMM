@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Basel,Orgelspiel-zum-Feierabend,2013-01-04,['Marie-Odile Vigreux '],Classic
-1,Zürich,Konzert,2013-01-04,"[' Carola Glaser ', ' Christina Daletska ', ' Rolf Romei ', ' Marian Krejcik ']",Classic
-2,Zürich,77,2013-01-04,"[' support: On-Off ', ' Sin-City ']",
-3,Basel,Alessandro-dell'indie,2013-01-04,"['Robert Crowe ', ' Aude Priya ', ' Joachim Enders ']",Classic
-4,null,Neujahrskonzert,2013-01-04,[' Maria Goldschmidt '],Classic
-5,Winterthur,Swing-de-Paris,2013-01-04,"[' Sophie Lüssi ', ' Felix Brühwiler ', ' Claudio Strebel ', ' David Beglinger ']",
-6,Basel,B-Tonic,2013-01-04,"[' Patricia Kunz ', ' Markus Hürsch ', ' Tomi Schwarzenbach ', ' Mauro Bodio ', ' Dieter Häner ']",
-7,Zürich,The-James-Brown-Tribute-Show-2013,2013-01-04,"['Rich Fonje ', ' Dave Feusi ', ' Fabienne Hoerni ', ' René Mosele ', ' Matthew Savnik ', ' Sam Siegenthaler ']",
-8,Zürich,Céol,2013-01-04,"[' Brendan Wade ', ' Christian Fotsch ', ' Matthias Lincke ']",
-9,Kulturfabrik-Kofmehl,Solothurn,2013-01-04,['Delinquent Habits '],
-10,Frick,Justin-Vali-Trio,2013-01-04,['Justin Vali Trio '],
-11,Mokka,Thun,2013-01-04,['Maria Doyle Kennedy '],
-12,Bern,Smalltown-Casanovas,2013-01-04,['Smalltown Casanovas '],
-13,Kulturfabrik-Kofmehl,Solothurn,2013-01-04,['The Jancee Pornick Casino '],
+location,event,date,artists,genre
+Basel,Orgelspiel-zum-Feierabend,2013-01-04,['Marie-Odile Vigreux '],Classic
+Zürich,Konzert,2013-01-04,"[' Carola Glaser ', ' Christina Daletska ', ' Rolf Romei ', ' Marian Krejcik ']",Classic
+Zürich,77,2013-01-04,"[' support: On-Off ', ' Sin-City ']",
+Basel,Alessandro-dell'indie,2013-01-04,"['Robert Crowe ', ' Aude Priya ', ' Joachim Enders ']",Classic
+null,Neujahrskonzert,2013-01-04,[' Maria Goldschmidt '],Classic
+Winterthur,Swing-de-Paris,2013-01-04,"[' Sophie Lüssi ', ' Felix Brühwiler ', ' Claudio Strebel ', ' David Beglinger ']",
+Basel,B-Tonic,2013-01-04,"[' Patricia Kunz ', ' Markus Hürsch ', ' Tomi Schwarzenbach ', ' Mauro Bodio ', ' Dieter Häner ']",
+Zürich,The-James-Brown-Tribute-Show-2013,2013-01-04,"['Rich Fonje ', ' Dave Feusi ', ' Fabienne Hoerni ', ' René Mosele ', ' Matthew Savnik ', ' Sam Siegenthaler ']",
+Zürich,Céol,2013-01-04,"[' Brendan Wade ', ' Christian Fotsch ', ' Matthias Lincke ']",
+Kulturfabrik-Kofmehl,Solothurn,2013-01-04,['Delinquent Habits '],
+Frick,Justin-Vali-Trio,2013-01-04,['Justin Vali Trio '],
+Mokka,Thun,2013-01-04,['Maria Doyle Kennedy '],
+Bern,Smalltown-Casanovas,2013-01-04,['Smalltown Casanovas '],
+Kulturfabrik-Kofmehl,Solothurn,2013-01-04,['The Jancee Pornick Casino '],

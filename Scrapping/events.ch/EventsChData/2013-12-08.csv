@@ -1,39 +1,39 @@
-,location,event,date,artists,genre
-0,Basel,Klingelingeling,2013-12-08,"[' Vesselina Kasarova ', ' Nuria Rial ', ' Agata Wilewska ', ' Agata Wilewska ']",Classic
-1,Basel,AMG-Sonntagsmatineen,2013-12-08,[' Kit Armstrong '],Classic
-2,Zürich,30-Jahre-Unit-Records-Jubiläumsfestival,2013-12-08,['Robert Morgenthaler '],
-3,Häggenschwil,Trio-Artemis,2013-12-08,"[' Katja Hess ', ' Bettina Macher ', ' Myriam Rusch ']",Classic
-4,Zürich,Konzert,2013-12-08,"['Luka Juhart ', ' Thomas Demenga ']",Classic
-5,Zürich,Brunchkonzert-Chamber-Music,2013-12-08,"[' Laurence Cummings ', ' Anna Stéphany ', ' Julia Riley ', ' Ada Pesch ']",Classic
-6,Dübendorf,Russischer-Adventszauber,2013-12-08,"['Duo Praxedis ', ' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-7,Zürich,30-Jahre-Unit-Records-Jubiläumsfestival,2013-12-08,"[' Jürg Solothurnmann ', ' Beat Unternährer ', ' Christian Hartmann ', ' Dieter Ulrich ']",
-8,Basel,Knabenkantorei-Basel-Adventskonzert,2013-12-08,"['Clemens Flämig ', ' Johannes Lang ', ' Saxophon: Christine Rall ', ' Urban Walser ']",Classic
-9,Bern,Meisterkonzert,2013-12-08,"[' Renaud Capuçon ', ' Gautier Capuçon ', ' Nicholas Angelich ']",Classic
-10,Wettingen,Adventskonzert,2013-12-08,[' Kristina Rohn '],Classic
-11,Basel,Orgelrezital,2013-12-08,['Françoise Matile '],Classic
-12,null,WIM-deZentral,2013-12-08,"['Udo Schindler ', ' Katharina Weber ']",Classic
-13,Zürich,Weihnachtsoratorium,2013-12-08,"[' Christina Daletska ', ' Barbara Erni ', ' Bertrand Bochud ', ' Martin Hensel ']",Classic
-14,Bellinzona,Culturescapes,2013-12-08,['Bojan Z '],
-15,Bolligen,Raindrop-Singers-Jahrskonzert,2013-12-08,['Martin Jufer '],traditional
-16,Winterthur,Weihnächtliches-musikalisches-Bankett,2013-12-08,"[' Elisabeth Waldmeier ', ' Dieter Hubov ']",Classic
-17,Liestal,Es-wird-ein-Stern,2013-12-08,"[' Quartett Gerhard ', ' Carl Wolf ']",Classic
-18,Bern,Die-Amigos,2013-12-08,['Die Amigos '],traditional
-19,null,Vier-Streicher-und-ein-Bläser,2013-12-08,"[' Patrick Genet ', ' François Genet ', ' Hans Egidi ', ' Marc Jaermann ', ' Pascal Moraguès ']",Classic
-20,Zürich,Träume,2013-12-08,"['Katja Peter ', ' Jörg Frei ']",Classic
-21,Basel,Paradise-Lost,2013-12-08,"[' Carmela Konrad ', ' Silke Gäng ', ' Luca Martin ', ' Jakob Pilgram ']",Classic
-22,Gebenstorf,Advent-Songs,2013-12-08,"[' Cornelius Schock ', ' Daniel Schwenger ']",Pop
-23,Alt-St.-Johann,Herbstkonzerte,2013-12-08,[' Sabine Poyé Morel '],Classic
-24,Brütten,On-my-Way,2013-12-08,"[' Christina Jaccard ', ' Dave Ruosch ', ' Daniel Pezzotti ', ' Andreas Schmid ']",
-25,Basel,Stimmen-im-Advent,2013-12-08,['Kitarodia '],Classic
-26,Bern,Hedreich-Nichols-feat.-Nachtfieber-Showband,2013-12-08,"[' Hedreich Nichols ', ' Roman Wyss ', ' André Kunz ', ' Stephan Brunner ', ' Andreas Schnyder ']",
-27,Zürich,Kodaline,2013-12-08,['Kodaline '],
-28,Suhr,Voices-of-Gospel,2013-12-08,['St. Stephen Baptist Church Choir '],
-29,Basel,Culturescapes,2013-12-08,"['Tamara Obrovac Transhistria Ensemble ', ' Tamara Obrovac ', ' Uros Rakovec ', ' Ziga Golob ', ' Fausto Beccalossi ', ' Krunoslav Levacic ']",
-30,Zürich,Shadow-Theater,2013-12-08,"['Tigran Hamasyan ', ' Tigran Hamasyan ', ' Areni Agbabian ', ' Chris Tordini ', ' Charles Altura ', ' Arthur Hnatek ']",
-31,Zürich,Kammermusik-Soiree,2013-12-08,[' Denis Kozhukhin '],Classic
-32,X-tra,Zürich,2013-12-08,['Babyshambles '],Babyshambles
-33,Winterthur,Rumpel-&-Racine,2013-12-08,"[' JoJo Kunz ', ' Marianne Racine ']",
-34,Bern,Za!,2013-12-08,"['Za! ', ' Schnaak & The Rundu Choir ']",
-35,Luzern,Naam,2013-12-08,"['Naam ', ' Aqua Nebula Oscillator ']",
-36,Zürich,V-V-Brown,2013-12-08,['V V Brown '],
-37,Luzern,Crime,2013-12-08,['Crime '],Pop
+location,event,date,artists,genre
+Basel,Klingelingeling,2013-12-08,"[' Vesselina Kasarova ', ' Nuria Rial ', ' Agata Wilewska ', ' Agata Wilewska ']",Classic
+Basel,AMG-Sonntagsmatineen,2013-12-08,[' Kit Armstrong '],Classic
+Zürich,30-Jahre-Unit-Records-Jubiläumsfestival,2013-12-08,['Robert Morgenthaler '],
+Häggenschwil,Trio-Artemis,2013-12-08,"[' Katja Hess ', ' Bettina Macher ', ' Myriam Rusch ']",Classic
+Zürich,Konzert,2013-12-08,"['Luka Juhart ', ' Thomas Demenga ']",Classic
+Zürich,Brunchkonzert-Chamber-Music,2013-12-08,"[' Laurence Cummings ', ' Anna Stéphany ', ' Julia Riley ', ' Ada Pesch ']",Classic
+Dübendorf,Russischer-Adventszauber,2013-12-08,"['Duo Praxedis ', ' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
+Zürich,30-Jahre-Unit-Records-Jubiläumsfestival,2013-12-08,"[' Jürg Solothurnmann ', ' Beat Unternährer ', ' Christian Hartmann ', ' Dieter Ulrich ']",
+Basel,Knabenkantorei-Basel-Adventskonzert,2013-12-08,"['Clemens Flämig ', ' Johannes Lang ', ' Saxophon: Christine Rall ', ' Urban Walser ']",Classic
+Bern,Meisterkonzert,2013-12-08,"[' Renaud Capuçon ', ' Gautier Capuçon ', ' Nicholas Angelich ']",Classic
+Wettingen,Adventskonzert,2013-12-08,[' Kristina Rohn '],Classic
+Basel,Orgelrezital,2013-12-08,['Françoise Matile '],Classic
+null,WIM-deZentral,2013-12-08,"['Udo Schindler ', ' Katharina Weber ']",Classic
+Zürich,Weihnachtsoratorium,2013-12-08,"[' Christina Daletska ', ' Barbara Erni ', ' Bertrand Bochud ', ' Martin Hensel ']",Classic
+Bellinzona,Culturescapes,2013-12-08,['Bojan Z '],
+Bolligen,Raindrop-Singers-Jahrskonzert,2013-12-08,['Martin Jufer '],traditional
+Winterthur,Weihnächtliches-musikalisches-Bankett,2013-12-08,"[' Elisabeth Waldmeier ', ' Dieter Hubov ']",Classic
+Liestal,Es-wird-ein-Stern,2013-12-08,"[' Quartett Gerhard ', ' Carl Wolf ']",Classic
+Bern,Die-Amigos,2013-12-08,['Die Amigos '],traditional
+null,Vier-Streicher-und-ein-Bläser,2013-12-08,"[' Patrick Genet ', ' François Genet ', ' Hans Egidi ', ' Marc Jaermann ', ' Pascal Moraguès ']",Classic
+Zürich,Träume,2013-12-08,"['Katja Peter ', ' Jörg Frei ']",Classic
+Basel,Paradise-Lost,2013-12-08,"[' Carmela Konrad ', ' Silke Gäng ', ' Luca Martin ', ' Jakob Pilgram ']",Classic
+Gebenstorf,Advent-Songs,2013-12-08,"[' Cornelius Schock ', ' Daniel Schwenger ']",Pop
+Alt-St.-Johann,Herbstkonzerte,2013-12-08,[' Sabine Poyé Morel '],Classic
+Brütten,On-my-Way,2013-12-08,"[' Christina Jaccard ', ' Dave Ruosch ', ' Daniel Pezzotti ', ' Andreas Schmid ']",
+Basel,Stimmen-im-Advent,2013-12-08,['Kitarodia '],Classic
+Bern,Hedreich-Nichols-feat.-Nachtfieber-Showband,2013-12-08,"[' Hedreich Nichols ', ' Roman Wyss ', ' André Kunz ', ' Stephan Brunner ', ' Andreas Schnyder ']",
+Zürich,Kodaline,2013-12-08,['Kodaline '],
+Suhr,Voices-of-Gospel,2013-12-08,['St. Stephen Baptist Church Choir '],
+Basel,Culturescapes,2013-12-08,"['Tamara Obrovac Transhistria Ensemble ', ' Tamara Obrovac ', ' Uros Rakovec ', ' Ziga Golob ', ' Fausto Beccalossi ', ' Krunoslav Levacic ']",
+Zürich,Shadow-Theater,2013-12-08,"['Tigran Hamasyan ', ' Tigran Hamasyan ', ' Areni Agbabian ', ' Chris Tordini ', ' Charles Altura ', ' Arthur Hnatek ']",
+Zürich,Kammermusik-Soiree,2013-12-08,[' Denis Kozhukhin '],Classic
+X-tra,Zürich,2013-12-08,['Babyshambles '],Babyshambles
+Winterthur,Rumpel-&-Racine,2013-12-08,"[' JoJo Kunz ', ' Marianne Racine ']",
+Bern,Za!,2013-12-08,"['Za! ', ' Schnaak & The Rundu Choir ']",
+Luzern,Naam,2013-12-08,"['Naam ', ' Aqua Nebula Oscillator ']",
+Zürich,V-V-Brown,2013-12-08,['V V Brown '],
+Luzern,Crime,2013-12-08,['Crime '],Pop

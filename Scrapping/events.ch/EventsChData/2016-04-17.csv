@@ -1,36 +1,36 @@
-,location,event,date,artists,genre
-0,Zürich,Monte-Carlo,2016-04-17,['Monte Carlo '],Pop
-1,Winterthur,Wien-Wien-nur-du-allein,2016-04-17,['Franziska van Ooyen '],Classic
-2,Zürich,Im-Gedenken-an-Nikolaus-Harnoncourt,2016-04-17,"[' Elza van den Heever ', ' Liliana Nikiteanu ', ' Michael Weinius ', ' Georg Zeppenfeld ']",Classic
-3,Zürich,Monte-Carlo,2016-04-17,['Monte Carlo '],Pop
-4,Walkringen,Galeriekonzert,2016-04-17,"['Ludwig Geiger ', ' Christoph Zbinden ']",Classic
-5,Zürich,It-Happens-When-It-Happens,2016-04-17,"[' Tobias Meier ', ' Yves Theiler ', ' David Meier ']",
-6,Mariastein,O-Maria-quam-pulchra-es-Mariasteiner-Konzerte,2016-04-17,"['Beatrice Voellmy ', ' ']",Classic
-7,Bellinzona,Fred-Firth,2016-04-17,['Fred Firth '],
-8,Basel,Der-Kosmos-singt,2016-04-17,"[' Soyoung Yoon ', ' Veit Hertenstein ', ' Antoine Lederlin ']",Classic
-9,Arlesheim,Glorious,2016-04-17,[' Thilo Muster '],Classic
-10,Dornach,Goldberg-Variationen,2016-04-17,"[' Daniel Hauptmann ', ' Horst Hildebrandt ', ' Stéphanie Meyer ']",Classic
-11,Weinfelden,Liederkran-am-Ottenberg,2016-04-17,[' Benjamin Engeli '],Classic
-12,Wil,Amor-in-musica-Das-barocke-Konzerterlebnis,2016-04-17,"['Olivia Heredia ', ' Andreas Betschart ', ' Han-Na Lee ']",Classic
-13,Pratteln,Mozart-Werke-für-Chor-und-Klavier,2016-04-17,[' Carl Wolf '],Classic
-14,Richterswil,Fireworks-Ein-festliches-Potpourri,2016-04-17,"['Andreas Zwingli ', ' Fredi Baumgartner ']",Classic
-15,Winterthur,Oh-That-Cello,2016-04-17,"['Andreas Ochsner ', ' Hisako Kikuchi ']",Classic
-16,Zürich,Französische-Kammermusik,2016-04-17,"['Pernilla Palmberg ', ' Stefanie Schlagenhauf ', ' Benjamin Elsaesser ']",Classic
-17,Winterthur,Organa,2016-04-17,['Lisa Weiss '],Classic
-18,Basel,Christ-ist-erstanden,2016-04-17,['Flemming Dreisig '],Classic
-19,Zürich,Édith-Piaf-Petite-grande-dame,2016-04-17,"['Licia Chery ', ' Sylphe ', ' Alexandre Pelichet ', ' Felix Raffel ', ' g) Felix Haller ', ' g) Florian Arnicas ']",Pop
-20,Solothurn,Ensiferum,2016-04-17,['Ensiferum '],
-21,Zürich,Dixie-Chicks,2016-04-17,['Dixie Chicks '],
-22,Rheinfelden,Bernd-Reiters-New-York-All-Stars,2016-04-17,"[' Eric Alexander ', ' Jim Rotondi ', ' Harold Mabern ', ' Darryl Hall ', ' Bernd Reiter ']",
-23,Basel,Komponistinnen,2016-04-17,"['Nicolas Costantinou ', ' Tytus Miecznikowski ']",Classic
-24,Zürich,Christoph-Stiefel-Septet,2016-04-17,"['Christoph Stiefel Septet ', ' Sarah Buechi ', ' Christoph Stiefel ', ' Bastian Stein ', ' Domenic Landolf ', ' Adrian Mears ']",
-25,Luzern,Compulsion-Jazzquintet,2016-04-17,"[' Adam Taubitz ', ' Marc Ullrich ', ' Simone Bollini ', ' Dominik Schürmann ', ' Christoph Mohler ']",
-26,Brugg,Kaos-Protokoll,2016-04-17,"[' Benedikt Wieland ', ' Marc Stucki ', ' Flo Reichle ']",
-27,Pratteln,Axel-Rudi-Pell,2016-04-17,"['Axel Rudi Pell ', ' Mob Rules ']",
-28,Rorbas-Freienstein,Amine-&-Hamza,2016-04-17,['Amine & Hamza '],
-29,Zürich,Eingespielt,2016-04-17,"['Isabelle Faust ', ' Jean-Guihen Queyras ', ' Alexander Melnikov ']",Classic
-30,Winterthur,Rod-MacDonald-&-Mark-Dann,2016-04-17,"['Rod MacDonald ', ' acc) & Mark Dann ']",
-31,Zürich,Philipp-Dittberner-&-Band,2016-04-17,"['Philipp Dittberner & Band ', ' Ami Warning ']",Pop
-32,Basel,Ausweg,2016-04-17,"[' Raphael Camenisch ', ' Christoph Bösch ', ' Pilar Fontalba ', ' Toshiko Sakakibara ']",Classic
-33,Zürich,Swanky-Mothers-Series,2016-04-17,"['Martina Berther ', ' Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ']",
-34,Zürich,Steve-Wynn,2016-04-17,['Steve Wynn '],
+location,event,date,artists,genre
+Zürich,Monte-Carlo,2016-04-17,['Monte Carlo '],Pop
+Winterthur,Wien-Wien-nur-du-allein,2016-04-17,['Franziska van Ooyen '],Classic
+Zürich,Im-Gedenken-an-Nikolaus-Harnoncourt,2016-04-17,"[' Elza van den Heever ', ' Liliana Nikiteanu ', ' Michael Weinius ', ' Georg Zeppenfeld ']",Classic
+Zürich,Monte-Carlo,2016-04-17,['Monte Carlo '],Pop
+Walkringen,Galeriekonzert,2016-04-17,"['Ludwig Geiger ', ' Christoph Zbinden ']",Classic
+Zürich,It-Happens-When-It-Happens,2016-04-17,"[' Tobias Meier ', ' Yves Theiler ', ' David Meier ']",
+Mariastein,O-Maria-quam-pulchra-es-Mariasteiner-Konzerte,2016-04-17,"['Beatrice Voellmy ', ' ']",Classic
+Bellinzona,Fred-Firth,2016-04-17,['Fred Firth '],
+Basel,Der-Kosmos-singt,2016-04-17,"[' Soyoung Yoon ', ' Veit Hertenstein ', ' Antoine Lederlin ']",Classic
+Arlesheim,Glorious,2016-04-17,[' Thilo Muster '],Classic
+Dornach,Goldberg-Variationen,2016-04-17,"[' Daniel Hauptmann ', ' Horst Hildebrandt ', ' Stéphanie Meyer ']",Classic
+Weinfelden,Liederkran-am-Ottenberg,2016-04-17,[' Benjamin Engeli '],Classic
+Wil,Amor-in-musica-Das-barocke-Konzerterlebnis,2016-04-17,"['Olivia Heredia ', ' Andreas Betschart ', ' Han-Na Lee ']",Classic
+Pratteln,Mozart-Werke-für-Chor-und-Klavier,2016-04-17,[' Carl Wolf '],Classic
+Richterswil,Fireworks-Ein-festliches-Potpourri,2016-04-17,"['Andreas Zwingli ', ' Fredi Baumgartner ']",Classic
+Winterthur,Oh-That-Cello,2016-04-17,"['Andreas Ochsner ', ' Hisako Kikuchi ']",Classic
+Zürich,Französische-Kammermusik,2016-04-17,"['Pernilla Palmberg ', ' Stefanie Schlagenhauf ', ' Benjamin Elsaesser ']",Classic
+Winterthur,Organa,2016-04-17,['Lisa Weiss '],Classic
+Basel,Christ-ist-erstanden,2016-04-17,['Flemming Dreisig '],Classic
+Zürich,Édith-Piaf-Petite-grande-dame,2016-04-17,"['Licia Chery ', ' Sylphe ', ' Alexandre Pelichet ', ' Felix Raffel ', ' g) Felix Haller ', ' g) Florian Arnicas ']",Pop
+Solothurn,Ensiferum,2016-04-17,['Ensiferum '],
+Zürich,Dixie-Chicks,2016-04-17,['Dixie Chicks '],
+Rheinfelden,Bernd-Reiters-New-York-All-Stars,2016-04-17,"[' Eric Alexander ', ' Jim Rotondi ', ' Harold Mabern ', ' Darryl Hall ', ' Bernd Reiter ']",
+Basel,Komponistinnen,2016-04-17,"['Nicolas Costantinou ', ' Tytus Miecznikowski ']",Classic
+Zürich,Christoph-Stiefel-Septet,2016-04-17,"['Christoph Stiefel Septet ', ' Sarah Buechi ', ' Christoph Stiefel ', ' Bastian Stein ', ' Domenic Landolf ', ' Adrian Mears ']",
+Luzern,Compulsion-Jazzquintet,2016-04-17,"[' Adam Taubitz ', ' Marc Ullrich ', ' Simone Bollini ', ' Dominik Schürmann ', ' Christoph Mohler ']",
+Brugg,Kaos-Protokoll,2016-04-17,"[' Benedikt Wieland ', ' Marc Stucki ', ' Flo Reichle ']",
+Pratteln,Axel-Rudi-Pell,2016-04-17,"['Axel Rudi Pell ', ' Mob Rules ']",
+Rorbas-Freienstein,Amine-&-Hamza,2016-04-17,['Amine & Hamza '],
+Zürich,Eingespielt,2016-04-17,"['Isabelle Faust ', ' Jean-Guihen Queyras ', ' Alexander Melnikov ']",Classic
+Winterthur,Rod-MacDonald-&-Mark-Dann,2016-04-17,"['Rod MacDonald ', ' acc) & Mark Dann ']",
+Zürich,Philipp-Dittberner-&-Band,2016-04-17,"['Philipp Dittberner & Band ', ' Ami Warning ']",Pop
+Basel,Ausweg,2016-04-17,"[' Raphael Camenisch ', ' Christoph Bösch ', ' Pilar Fontalba ', ' Toshiko Sakakibara ']",Classic
+Zürich,Swanky-Mothers-Series,2016-04-17,"['Martina Berther ', ' Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ']",
+Zürich,Steve-Wynn,2016-04-17,['Steve Wynn '],

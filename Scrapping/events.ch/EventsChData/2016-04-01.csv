@@ -1,43 +1,43 @@
-,location,event,date,artists,genre
-0,Zürich,Prélude,2016-04-01,"['Moritz Roelcke ', ' Jemma Abrahamyan ', ' Fabienne Früh ', ' Ivan Agafonov ']",Classic
-1,Basel,Orgelspiel-zum-Feierabend,2016-04-01,['Ursina Caflisch '],Classic
-2,Dietikon,Feierabendmusik-in-der-Kirche,2016-04-01,"['Jörg Frei ', ' Bernhard Hörler ']",Classic
-3,Zürich,Disney-in-Concert,2016-04-01,"[' Alexander Klaws ', ' Willemijn Verkaik ', ' Milica Jovanovic ', ' Lars Redlich ']",Classic
-4,Baden,OOAM-&-Inox-Live,2016-04-01,"[' The Bronze Medal ', ' Richard Walters ']",
-5,Bern,Internationales-Jazzfestival-Bern,2016-04-01,['Barbara Morrison '],
-6,Basel,1er-livre-de-Marais,2016-04-01,"['François Joubert-Caillet ', ' Alexandra Ivanova ']",Classic
-7,Basel,Viva-Ginastera,2016-04-01,[' Xavier de Maistre '],Classic
-8,Bern,Dvoraks-Sechste,2016-04-01,"[' Fiona-Aileen Kraege ', ' Olivier Alvarez ']",Classic
-9,Andelfingen,Spiel-mir-das-Lied-vom-Ton,2016-04-01,[' Thomas Demenga '],Classic
-10,Zürich,A-Barbie-Q.-Night,2016-04-01,"['Petra Retelj ', ' Ueli Angstmann ', ' Marcel Benedikt ', ' Imad Barnieh ']",Pop
-11,Basel,Blues-Night,2016-04-01,['Mark Elliott & Kelvin Bullen '],
-12,Zürich,Cut-Killer,2016-04-01,['Cut Killer '],
-13,Zug,Shakra,2016-04-01,[' The New Roses '],
-14,Aristau,Reise-Inspirationen,2016-04-01,[' Sonja Jungblut '],Classic
-15,null,Wizards-of-Creole-Jazz,2016-04-01,"[' Peter Meili ', ' Thomas Gilg ', ' Ruedi ""Santos Kraetzer ', ' Röbi Lässker ', ' Andi Reinhard ']",
-16,null,Sarah-Abrigada-&-Peter-Waters,2016-04-01,"[' Sarah Abrigada ', ' Peter Waters ']",
-17,Aarburg,APA-Punk-Night,2016-04-01,"['Rasta Knast ', ' Alarmsignal ']",
-18,Basel,Une-soirée-musicale-à-la-cour-de-Potsdam,2016-04-01,"['Luis Martínez Pueyo ', ' Alfonso Sebastián Alegre ']",Classic
-19,Bülach,Nicki-Parrott-and-her-Gentlemen-of-Jazz,2016-04-01,"[' Duke Heitger ', ' Engelbert Wrobel ', ' Thilo Wagner ', ' Nicki Parrott ', ' Bernard Flegar ']",
-20,Zürich,Baumann-Baumann-Erel-Kneer,2016-04-01,"[' Christoph Baumann ', ' Franziska Baumann ', ' Korhan Erel ', ' Meinrad Kneer ']",
-21,Winterthur,Müller-Kramis-Baschnagel,2016-04-01,"[' Gregor Müller ', ' Herbert Kramis ', ' Pius Baschnagel ']",
-22,Zürich,The-Birthday-Girls,2016-04-01,['The Birthday Girls '],Pop
-23,Pratteln,Van-Canto,2016-04-01,['Van Canto '],
-24,Zürich,Oum,2016-04-01,"[' Oum ', ' Robin Mansanti ', ' Yacir Rami ', ' Damian Nueva ', ' Inor Sotolongo ']",
-25,Baden,Grand-Pianoramax,2016-04-01,"[' Léo Tardin ', ' Black Cracker ', ' Dom Burkhalter ']",
-26,Baden,Foursome-Blues,2016-04-01,"[' Dani Gugolz ', ' Walter Baumgartner ', ' Hannes Kasehs ', ' Peter Müller ']",
-27,null,Stickerei-Jazz-Trio-&-Tonja-Andenmatten,2016-04-01,"[' Christoph Seitler ', ' Adi Gerlach ', ' Daniel Staub ']",
-28,Worblaufen,10-Jahre-Rolls-Roycebar,2016-04-01,"[' Freda Goodlett ', ' Boris Pilleri ', ' Gary Coleman ', ' Martin Kissling ', ' Claude Barbotte ']",Pop
-29,Schaffhausen,Mungo-Jerry,2016-04-01,['Mungo Jerry '],
-30,Zürich,Renata-Friederich-City-Lights,2016-04-01,"['Renata Friederich ', ' Christoph Grab ', ' Felix Utzinger ', ' Rätus Flisch ', ' Tony Renold ']",
-31,Zürich,Five-on-Fire,2016-04-01,"[' Daniel Gubelmann ', ' Matthias Studer ', ' Mirco Häberli ', ' Peter Preibisch ', ' Laida Alberdi ']",
-32,Brugg,Rostfrei,2016-04-01,"[' Roger Molnar ', ' Djamal Moumene ', ' Marcel Suk ', ' Tobias Suter ']",
-33,Zürich,Beth-Wimmer,2016-04-01,['Beth Wimmer '],
-34,Winterthur,The-Swing-Shouters,2016-04-01,['The Swing Shouters '],
-35,Bern,YRU,2016-04-01,"['YRU ', ' Stefan Caduff ', ' Lars Uebersax ', ' Dave Diston ', ' Alper Akcoltekin ', ' Philipp Beyeler ']",Pop
-36,Aarau,Sebastian-Sturm,2016-04-01,['Sebastian Sturm '],
-37,Buchs,Kaos-Protokoll,2016-04-01,"[' Benedikt Wieland ', ' Marc Stucki ', ' Flo Reichle ']",
-38,Basel,Secret-Sight,2016-04-01,['Secret Sight '],
-39,null,The-Four-Owls,2016-04-01,[' DJs AG '],
-40,Bern,Pyro-One,2016-04-01,"['Pyro One ', ' Spezial-K ', ' Daisy Chain ', ' Refpolk ']",
-41,null,Gangstarr-Foundation,2016-04-01,"['Jeru The Damaja ', ' Afu Ra ', ' Big Shug ', "" Lil'george\t"", ' visuals by Gertrude Tuning ']",
+location,event,date,artists,genre
+Zürich,Prélude,2016-04-01,"['Moritz Roelcke ', ' Jemma Abrahamyan ', ' Fabienne Früh ', ' Ivan Agafonov ']",Classic
+Basel,Orgelspiel-zum-Feierabend,2016-04-01,['Ursina Caflisch '],Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2016-04-01,"['Jörg Frei ', ' Bernhard Hörler ']",Classic
+Zürich,Disney-in-Concert,2016-04-01,"[' Alexander Klaws ', ' Willemijn Verkaik ', ' Milica Jovanovic ', ' Lars Redlich ']",Classic
+Baden,OOAM-&-Inox-Live,2016-04-01,"[' The Bronze Medal ', ' Richard Walters ']",
+Bern,Internationales-Jazzfestival-Bern,2016-04-01,['Barbara Morrison '],
+Basel,1er-livre-de-Marais,2016-04-01,"['François Joubert-Caillet ', ' Alexandra Ivanova ']",Classic
+Basel,Viva-Ginastera,2016-04-01,[' Xavier de Maistre '],Classic
+Bern,Dvoraks-Sechste,2016-04-01,"[' Fiona-Aileen Kraege ', ' Olivier Alvarez ']",Classic
+Andelfingen,Spiel-mir-das-Lied-vom-Ton,2016-04-01,[' Thomas Demenga '],Classic
+Zürich,A-Barbie-Q.-Night,2016-04-01,"['Petra Retelj ', ' Ueli Angstmann ', ' Marcel Benedikt ', ' Imad Barnieh ']",Pop
+Basel,Blues-Night,2016-04-01,['Mark Elliott & Kelvin Bullen '],
+Zürich,Cut-Killer,2016-04-01,['Cut Killer '],
+Zug,Shakra,2016-04-01,[' The New Roses '],
+Aristau,Reise-Inspirationen,2016-04-01,[' Sonja Jungblut '],Classic
+null,Wizards-of-Creole-Jazz,2016-04-01,"[' Peter Meili ', ' Thomas Gilg ', ' Ruedi ""Santos Kraetzer ', ' Röbi Lässker ', ' Andi Reinhard ']",
+null,Sarah-Abrigada-&-Peter-Waters,2016-04-01,"[' Sarah Abrigada ', ' Peter Waters ']",
+Aarburg,APA-Punk-Night,2016-04-01,"['Rasta Knast ', ' Alarmsignal ']",
+Basel,Une-soirée-musicale-à-la-cour-de-Potsdam,2016-04-01,"['Luis Martínez Pueyo ', ' Alfonso Sebastián Alegre ']",Classic
+Bülach,Nicki-Parrott-and-her-Gentlemen-of-Jazz,2016-04-01,"[' Duke Heitger ', ' Engelbert Wrobel ', ' Thilo Wagner ', ' Nicki Parrott ', ' Bernard Flegar ']",
+Zürich,Baumann-Baumann-Erel-Kneer,2016-04-01,"[' Christoph Baumann ', ' Franziska Baumann ', ' Korhan Erel ', ' Meinrad Kneer ']",
+Winterthur,Müller-Kramis-Baschnagel,2016-04-01,"[' Gregor Müller ', ' Herbert Kramis ', ' Pius Baschnagel ']",
+Zürich,The-Birthday-Girls,2016-04-01,['The Birthday Girls '],Pop
+Pratteln,Van-Canto,2016-04-01,['Van Canto '],
+Zürich,Oum,2016-04-01,"[' Oum ', ' Robin Mansanti ', ' Yacir Rami ', ' Damian Nueva ', ' Inor Sotolongo ']",
+Baden,Grand-Pianoramax,2016-04-01,"[' Léo Tardin ', ' Black Cracker ', ' Dom Burkhalter ']",
+Baden,Foursome-Blues,2016-04-01,"[' Dani Gugolz ', ' Walter Baumgartner ', ' Hannes Kasehs ', ' Peter Müller ']",
+null,Stickerei-Jazz-Trio-&-Tonja-Andenmatten,2016-04-01,"[' Christoph Seitler ', ' Adi Gerlach ', ' Daniel Staub ']",
+Worblaufen,10-Jahre-Rolls-Roycebar,2016-04-01,"[' Freda Goodlett ', ' Boris Pilleri ', ' Gary Coleman ', ' Martin Kissling ', ' Claude Barbotte ']",Pop
+Schaffhausen,Mungo-Jerry,2016-04-01,['Mungo Jerry '],
+Zürich,Renata-Friederich-City-Lights,2016-04-01,"['Renata Friederich ', ' Christoph Grab ', ' Felix Utzinger ', ' Rätus Flisch ', ' Tony Renold ']",
+Zürich,Five-on-Fire,2016-04-01,"[' Daniel Gubelmann ', ' Matthias Studer ', ' Mirco Häberli ', ' Peter Preibisch ', ' Laida Alberdi ']",
+Brugg,Rostfrei,2016-04-01,"[' Roger Molnar ', ' Djamal Moumene ', ' Marcel Suk ', ' Tobias Suter ']",
+Zürich,Beth-Wimmer,2016-04-01,['Beth Wimmer '],
+Winterthur,The-Swing-Shouters,2016-04-01,['The Swing Shouters '],
+Bern,YRU,2016-04-01,"['YRU ', ' Stefan Caduff ', ' Lars Uebersax ', ' Dave Diston ', ' Alper Akcoltekin ', ' Philipp Beyeler ']",Pop
+Aarau,Sebastian-Sturm,2016-04-01,['Sebastian Sturm '],
+Buchs,Kaos-Protokoll,2016-04-01,"[' Benedikt Wieland ', ' Marc Stucki ', ' Flo Reichle ']",
+Basel,Secret-Sight,2016-04-01,['Secret Sight '],
+null,The-Four-Owls,2016-04-01,[' DJs AG '],
+Bern,Pyro-One,2016-04-01,"['Pyro One ', ' Spezial-K ', ' Daisy Chain ', ' Refpolk ']",
+null,Gangstarr-Foundation,2016-04-01,"['Jeru The Damaja ', ' Afu Ra ', ' Big Shug ', "" Lil'george\t"", ' visuals by Gertrude Tuning ']",

@@ -1,41 +1,41 @@
-,location,event,date,artists,genre
-0,Luzern,International-Hot-Jazz-Quartet-&-Japanese-Friends,2015-03-15,"[' Duke Heitger ', ' Engelbert Wrobel ', ' Paolo Alderighi ', ' Bernard Flegar ', ' Eiji Hanaoka ']",
-1,Bern,Camerata-Bern,2015-03-15,['Conductor: Anthony Marwood '],Classic
-2,Zürich,Ansambel-Karavanke,2015-03-15,['Ansambel Karavanke '],traditional
-3,Luzern,Beatocello-Benefizkonzert,2015-03-15,['Dr. Beat Richner '],Classic
-4,Zürich,Berg-&-Ruosch,2015-03-15,"[' Lisa Berg ', ' David Ruosch ', ' Curdin Janett ', ' Andreas Schmid ']",Pop
-5,Zürich,Kammermusik-Matinee,2015-03-15,"['Michael Reid ', ' Matthias Rácz ', ' Mischa Greull ', ' Peter McGuire ', ' Christopher Whiting ']",Classic
-6,Zürich,Morgenmusik,2015-03-15,"[' Dela Hüttner ', ' Ernst Buscagne ', ' Andreas Jost ']",Classic
-7,Schaffhausen,Winterreise,2015-03-15,"['Nino Aurelio Gmünder ', ' Miranda de Miguel ']",Classic
-8,Bern,Philipp-Moll,2015-03-15,"[' Klaus Widmer ', ' Philipp Moll ', ' Stewy von Wattenwyl ', ' Pius Baschnagel ']",
-9,Fischingen,Miroir-des-temps,2015-03-15,"[' Bénédicte Wodey ', ' Sarah Hennig ', ' Marc Pauchard ', ' Claire Piganiol ']",Classic
-10,Wettingen,Membra-Jesu-Nostri,2015-03-15,"[' Stephanie Pfeffer ', ' Lisa Weiss ', ' Tobias Knaus ', ' Benjamin Berweger ']",Classic
-11,Aarau,Die-Geburt-der-Sinfonie-aus-der-Oper,2015-03-15,[' Salomo Schweizer '],Classic
-12,Zürich,Orgelkonzert,2015-03-15,['Kathrin Augustiny '],Classic
-13,Bern,Camerata-Bern,2015-03-15,['Conductor: Anthony Marwood '],Classic
-14,Winterthur,Zwischenräume,2015-03-15,"[' Maria Sournatcheva ', ' David Sontòn Caflisch ', ' David Schneebeli ', ' Imke Frank ', ' Simone Keller ']",Classic
-15,Birsfelden,Blockflötenorchester-Frühjahreskonzert,2015-03-15,[' Silvan Purtscher '],Classic
-16,Zürich,Herzog-Blaubarts-Burg,2015-03-15,['Blaubart '],Classic
-17,Zürich,Tonhalle-Orchester-Zürich,2015-03-15,"[' László Fenyö ', ' Monika Leskovar ', ' Maja Bogdanovic ', ' Olga Pasichnyk ']",Classic
-18,Zürich,Komm-mach-mal-Licht!,2015-03-15,"['Barbara Baer ', ' Hanspeter Seipp ']",Classic
-19,Arlesheim,G.-B.-Pergolesi-Stabat-mater,2015-03-15,"[' Deborah Betschart ', ' Jan Börner ']",Classic
-20,Zürich,Die-Vogelfreien,2015-03-15,"[' John Wolf Brennan ', ' Tony Majdalani ']",Pop
-21,Bern,Chorprojekt,2015-03-15,[' Marion Meili '],Classic
-22,Zürich,Rock-Meets-Classic,2015-03-15,"['Ian Gillan ', ' Rick Parfitt ', ' Eric Martin ', ' John Wetton ']",
-23,Zürich,Plymouth,2015-03-15,"['Plymouth ', ' Jamie Saft ', ' Joe Morris ', ' Mary Halvorson ', ' Chris Lightcap ', ' Gerald Cleaver ']",
-24,Zürich,Till-Brönner-Orchestra,2015-03-15,['Till Brönner Orchestra '],
-25,Brugg,Johannes-Maikranz-Sextett,2015-03-15,"[' Andreas Böhlen ', ' Lou Lecaudey ', ' Johannes Maikranz ', ' Hans Feigenwinter ', ' Roberto Koch ', ' Jan Schwinning ']",
-26,Schaffhausen,Downstairs-and-Loud,2015-03-15,"[""Swingin' Utters "", ' Toy Guitar ']",
-27,Schaffhausen,Downstairs-and-Loud,2015-03-15,"[""Swingin' Utters "", ' Toy Guitar ']",
-28,Zürich,Soirée-francofolle,2015-03-15,"['Anais ', ' Karimouche & Band ']",Pop
-29,Pratteln,Finntroll,2015-03-15,"['Finntroll ', ' Hatesphere ']",
-30,Lausanne,Black-Label-Society,2015-03-15,"['Black Label Society ', ' Crobot ', ' Black Tusk ']",
-31,Rubigen,Canned-Heat,2015-03-15,['Canned Heat '],
-32,Basel,Trabant,2015-03-15,"[' Christoph Bösch ', ' Toshiko Sakakibara ', ' Max Asselborn ', ' Michael Büttler ']",Classic
-33,Zürich,Tokio-Hotel,2015-03-15,['Tokio Hotel '],Pop
-34,Zürich,Liebe-und-andere-Absurditäten,2015-03-15,"[' Birgit Hauser ', ' Veronika Ehrensperger-Leutschacher ']",Pop
-35,Zürich,Julia-Biel,2015-03-15,['Julia Biel '],
-36,Zürich,Swanky-Mothers-Series-XXIV,2015-03-15,"[' Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
-37,Zürich,Gemma-Ray,2015-03-15,['Gemma Ray '],Pop
-38,Zürich,Russell-Joslin,2015-03-15,['Russell Joslin '],
-39,Bern,Colin-Vallon,2015-03-15,"[' Colin Vallon ', ' Matthieu Michel ', ' Flo Götte ', ' Domi Chansorn ']",
+location,event,date,artists,genre
+Luzern,International-Hot-Jazz-Quartet-&-Japanese-Friends,2015-03-15,"[' Duke Heitger ', ' Engelbert Wrobel ', ' Paolo Alderighi ', ' Bernard Flegar ', ' Eiji Hanaoka ']",
+Bern,Camerata-Bern,2015-03-15,['Conductor: Anthony Marwood '],Classic
+Zürich,Ansambel-Karavanke,2015-03-15,['Ansambel Karavanke '],traditional
+Luzern,Beatocello-Benefizkonzert,2015-03-15,['Dr. Beat Richner '],Classic
+Zürich,Berg-&-Ruosch,2015-03-15,"[' Lisa Berg ', ' David Ruosch ', ' Curdin Janett ', ' Andreas Schmid ']",Pop
+Zürich,Kammermusik-Matinee,2015-03-15,"['Michael Reid ', ' Matthias Rácz ', ' Mischa Greull ', ' Peter McGuire ', ' Christopher Whiting ']",Classic
+Zürich,Morgenmusik,2015-03-15,"[' Dela Hüttner ', ' Ernst Buscagne ', ' Andreas Jost ']",Classic
+Schaffhausen,Winterreise,2015-03-15,"['Nino Aurelio Gmünder ', ' Miranda de Miguel ']",Classic
+Bern,Philipp-Moll,2015-03-15,"[' Klaus Widmer ', ' Philipp Moll ', ' Stewy von Wattenwyl ', ' Pius Baschnagel ']",
+Fischingen,Miroir-des-temps,2015-03-15,"[' Bénédicte Wodey ', ' Sarah Hennig ', ' Marc Pauchard ', ' Claire Piganiol ']",Classic
+Wettingen,Membra-Jesu-Nostri,2015-03-15,"[' Stephanie Pfeffer ', ' Lisa Weiss ', ' Tobias Knaus ', ' Benjamin Berweger ']",Classic
+Aarau,Die-Geburt-der-Sinfonie-aus-der-Oper,2015-03-15,[' Salomo Schweizer '],Classic
+Zürich,Orgelkonzert,2015-03-15,['Kathrin Augustiny '],Classic
+Bern,Camerata-Bern,2015-03-15,['Conductor: Anthony Marwood '],Classic
+Winterthur,Zwischenräume,2015-03-15,"[' Maria Sournatcheva ', ' David Sontòn Caflisch ', ' David Schneebeli ', ' Imke Frank ', ' Simone Keller ']",Classic
+Birsfelden,Blockflötenorchester-Frühjahreskonzert,2015-03-15,[' Silvan Purtscher '],Classic
+Zürich,Herzog-Blaubarts-Burg,2015-03-15,['Blaubart '],Classic
+Zürich,Tonhalle-Orchester-Zürich,2015-03-15,"[' László Fenyö ', ' Monika Leskovar ', ' Maja Bogdanovic ', ' Olga Pasichnyk ']",Classic
+Zürich,Komm-mach-mal-Licht!,2015-03-15,"['Barbara Baer ', ' Hanspeter Seipp ']",Classic
+Arlesheim,G.-B.-Pergolesi-Stabat-mater,2015-03-15,"[' Deborah Betschart ', ' Jan Börner ']",Classic
+Zürich,Die-Vogelfreien,2015-03-15,"[' John Wolf Brennan ', ' Tony Majdalani ']",Pop
+Bern,Chorprojekt,2015-03-15,[' Marion Meili '],Classic
+Zürich,Rock-Meets-Classic,2015-03-15,"['Ian Gillan ', ' Rick Parfitt ', ' Eric Martin ', ' John Wetton ']",
+Zürich,Plymouth,2015-03-15,"['Plymouth ', ' Jamie Saft ', ' Joe Morris ', ' Mary Halvorson ', ' Chris Lightcap ', ' Gerald Cleaver ']",
+Zürich,Till-Brönner-Orchestra,2015-03-15,['Till Brönner Orchestra '],
+Brugg,Johannes-Maikranz-Sextett,2015-03-15,"[' Andreas Böhlen ', ' Lou Lecaudey ', ' Johannes Maikranz ', ' Hans Feigenwinter ', ' Roberto Koch ', ' Jan Schwinning ']",
+Schaffhausen,Downstairs-and-Loud,2015-03-15,"[""Swingin' Utters "", ' Toy Guitar ']",
+Schaffhausen,Downstairs-and-Loud,2015-03-15,"[""Swingin' Utters "", ' Toy Guitar ']",
+Zürich,Soirée-francofolle,2015-03-15,"['Anais ', ' Karimouche & Band ']",Pop
+Pratteln,Finntroll,2015-03-15,"['Finntroll ', ' Hatesphere ']",
+Lausanne,Black-Label-Society,2015-03-15,"['Black Label Society ', ' Crobot ', ' Black Tusk ']",
+Rubigen,Canned-Heat,2015-03-15,['Canned Heat '],
+Basel,Trabant,2015-03-15,"[' Christoph Bösch ', ' Toshiko Sakakibara ', ' Max Asselborn ', ' Michael Büttler ']",Classic
+Zürich,Tokio-Hotel,2015-03-15,['Tokio Hotel '],Pop
+Zürich,Liebe-und-andere-Absurditäten,2015-03-15,"[' Birgit Hauser ', ' Veronika Ehrensperger-Leutschacher ']",Pop
+Zürich,Julia-Biel,2015-03-15,['Julia Biel '],
+Zürich,Swanky-Mothers-Series-XXIV,2015-03-15,"[' Beat Gisler ', ' Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
+Zürich,Gemma-Ray,2015-03-15,['Gemma Ray '],Pop
+Zürich,Russell-Joslin,2015-03-15,['Russell Joslin '],
+Bern,Colin-Vallon,2015-03-15,"[' Colin Vallon ', ' Matthieu Michel ', ' Flo Götte ', ' Domi Chansorn ']",

@@ -1,47 +1,47 @@
-,location,event,date,artists,genre
-0,Winterthur,Kaleidoscope-String-Quartett,2016-11-19,"[' Simon Heggendorn ', ' Ronny Spiegel ', ' David Schnee ', ' Sebastian Braun ']",
-1,Basel,Baroque-meets-Jazz,2016-11-19,[' conductor: Kevin Griffiths '],Classic
-2,Uitikon-Waldegg,La-Folia-spielt,2016-11-19,[' Sabine Poyé Morel '],Classic
-3,Bern,Magisch-diabolisch-bizarr,2016-11-19,"[' Eva-Rubin Aroutunian ', ' Fabio di Càsola ', ' Ivan Nestic ', ' Philippe Talec ']",Classic
-4,Zürich,Werner-und-Company,2016-11-19,['Werner und Company '],Pop
-5,Luzern,Lucerne-Festival-am-Piano,2016-11-19,['Grigory Sokolov '],Classic
-6,Zug,The-Lurkers,2016-11-19,['The Lurkers '],
-7,Basel,Die-Jahreszeiten,2016-11-19,"[' Felicitas Erb ', ' Michael Feyfar ', ' Konstantin Wolff ']",Classic
-8,Basel,Momens-musicals,2016-11-19,"["" Solenn' Lavanant-Linke "", ' Rani Orenstein ']",Classic
-9,Basel,Klavierrezital,2016-11-19,['Josiane Kneuss '],Classic
-10,Aarau,Missa-dei-Patris,2016-11-19,"[' Nuria Rial ', ' Alex Potter ', ' Hans Jörg Mammel ', ' Martin Bruns ']",Classic
-11,Zürich,Dieter-Thomas-Kuhn,2016-11-19,['Dieter Thomas Kuhn '],Pop
-12,Winterthur,Unerhört,2016-11-19,"[' Tim Berne ', ' Mary Halvorson ', ' Tom Rainey ', ' Skúli Sverrisson ', ' Omri Ziegele ', ' Percy Pursglove ']",
-13,Zürich,Requiem,2016-11-19,"[' Ulrike Hofbauer ', ' Ulrike Andersen ', ' Jakob Pilgram ', ' Thomas Moser ', ' Martin Zimmermann ']",Classic
-14,Zürich,Tage-für-Neue-Musik,2016-11-19,"[' Jacqueline Ott ', ' Boglárka Pecze ', ' Mats Scheidegger ', ' works by Walter Feldmann ', ' Nadir Vassena ', ' Sebastian Gottschick ']",Classic
-15,Basel,An-Evening-with-Art-Lande,2016-11-19,"['Art Lande ', ' Jean-Lou Treboux ', ' Günter Wehinger ']",
-16,Basel,Hommage-à-György-Kurtág,2016-11-19,"[' Céline Wasmer ', ' Susanne Otto ']",Classic
-17,Solothurn,Element-of-Crime,2016-11-19,['Element of Crime '],Pop
-18,Zürich,The-Naghash-Ensemble,2016-11-19,"[' Hasmik Baghdasaryan ', ' Tatevik Movsesyan ', ' Arpine Ter-Petrosyan ', ' John Hodian ']",
-19,null,Della-Miles,2016-11-19,['Della Miles '],
-20,Muttenz,Neues-Orchester-Basel,2016-11-19,[' Anna Abbühl '],Classic
-21,Bern,Patrice,2016-11-19,['Patrice '],
-22,null,Nada-Surf,2016-11-19,['Nada Surf '],
-23,Zürich,Passian-kann-imma-wos,2016-11-19,['Christoph Theussl '],Pop
-24,Solothurn,2.-Kammerkonzert,2016-11-19,"['Victor Kopatchinsky ', ' Ana Oltean ', ' Alexandru Patrascu ', ' Gabriel Duffrau-Vacariu ']",
-25,Pratteln,Fiddler's-Green,2016-11-19,"[""Fiddler's Green ""]",
-26,Baden,Rohchoscht,2016-11-19,"[' René Keller ', ' Oli Diethelm ', ' Setphan Liechti ']",traditional
-27,Winterthur,SanySaidap,2016-11-19,['SanySaidap '],
-28,Basel,Pierre-Omer's-Swing-Revue,2016-11-19,"['Pierre Omer ', ' Jean Philippe Geiser ', ' Christop Gantert ', '  Julien Israelian ']",
-29,Winterthur,The-Skull,2016-11-19,"['The Skull ', ' Ape Shifter ']",
-30,Uster,Pam-Festival,2016-11-19,"[' John Eckhardt ', ' Simone Keller ', ' John Eckhardt ']",
-31,Bern,Halunke-Häni,2016-11-19,"[' Christian Häni ', ' Christian Schürer ', ' Anja Häni ']",Pop
-32,Zürich,Dobranotch,2016-11-19,"[' Mitia Khramtsov ', ' Ilia Gindin ', ' Max Karpychev ', ' Ilya Shneyveys ', ' Evgenii Lizin ', ' Grig Spiridonych ']",
-33,Basel,Enders-Room,2016-11-19,"[' Bastian Stein ', ' Johannes Enders ', ' Karl Ivar Refseth ', ' Wolfgang Zwiauer ', ' Gregor Hilbe ']",
-34,Basel,Lola-Marsh,2016-11-19,"['Lola Marsh ', ' support: Nosoyo ']",Pop
-35,Baden,Trash-Town-Rockabilly,2016-11-19,"['Sandy and The Wild Wombats ', ' The Hub Caps ', ' The Spuny Boys ']",
-36,null,Rebel-Town,2016-11-19,['The Cheating Hearts '],
-37,Luzern,Jeremy-Loops,2016-11-19,['Jeremy Loops '],
-38,Rubigen,Royal-Southern-Brotherhood,2016-11-19,['Royal Southern Brotherhood '],
-39,Zürich,Die-Höchste-Eisenbahn,2016-11-19,"['Die Höchste Eisenbahn ', ' Spaceman Spiff ']",Pop
-40,Luzern,Simon-Grohé,2016-11-19,['Simon Grohé '],Pop
-41,Zürich,Tage-für-Neue-Musik,2016-11-19,"[' Sophia Goidinger-Koch ', ' Manuel Mayr ', ' Thomas Frey ', ' Dominik Fuss ']",
-42,Horw,Maple-Tree-Circus,2016-11-19,['Maple Tree Circus '],
-43,Bern,Peaches,2016-11-19,['Peaches '],Electronic
-44,Sankt-Gallen,Die-Heiterkeit,2016-11-19,"['Die Heiterkeit ', ' Wayes Blood ']",Pop
-45,Lausanne,Drame,2016-11-19,['Drame '],
+location,event,date,artists,genre
+Winterthur,Kaleidoscope-String-Quartett,2016-11-19,"[' Simon Heggendorn ', ' Ronny Spiegel ', ' David Schnee ', ' Sebastian Braun ']",
+Basel,Baroque-meets-Jazz,2016-11-19,[' conductor: Kevin Griffiths '],Classic
+Uitikon-Waldegg,La-Folia-spielt,2016-11-19,[' Sabine Poyé Morel '],Classic
+Bern,Magisch-diabolisch-bizarr,2016-11-19,"[' Eva-Rubin Aroutunian ', ' Fabio di Càsola ', ' Ivan Nestic ', ' Philippe Talec ']",Classic
+Zürich,Werner-und-Company,2016-11-19,['Werner und Company '],Pop
+Luzern,Lucerne-Festival-am-Piano,2016-11-19,['Grigory Sokolov '],Classic
+Zug,The-Lurkers,2016-11-19,['The Lurkers '],
+Basel,Die-Jahreszeiten,2016-11-19,"[' Felicitas Erb ', ' Michael Feyfar ', ' Konstantin Wolff ']",Classic
+Basel,Momens-musicals,2016-11-19,"["" Solenn' Lavanant-Linke "", ' Rani Orenstein ']",Classic
+Basel,Klavierrezital,2016-11-19,['Josiane Kneuss '],Classic
+Aarau,Missa-dei-Patris,2016-11-19,"[' Nuria Rial ', ' Alex Potter ', ' Hans Jörg Mammel ', ' Martin Bruns ']",Classic
+Zürich,Dieter-Thomas-Kuhn,2016-11-19,['Dieter Thomas Kuhn '],Pop
+Winterthur,Unerhört,2016-11-19,"[' Tim Berne ', ' Mary Halvorson ', ' Tom Rainey ', ' Skúli Sverrisson ', ' Omri Ziegele ', ' Percy Pursglove ']",
+Zürich,Requiem,2016-11-19,"[' Ulrike Hofbauer ', ' Ulrike Andersen ', ' Jakob Pilgram ', ' Thomas Moser ', ' Martin Zimmermann ']",Classic
+Zürich,Tage-für-Neue-Musik,2016-11-19,"[' Jacqueline Ott ', ' Boglárka Pecze ', ' Mats Scheidegger ', ' works by Walter Feldmann ', ' Nadir Vassena ', ' Sebastian Gottschick ']",Classic
+Basel,An-Evening-with-Art-Lande,2016-11-19,"['Art Lande ', ' Jean-Lou Treboux ', ' Günter Wehinger ']",
+Basel,Hommage-à-György-Kurtág,2016-11-19,"[' Céline Wasmer ', ' Susanne Otto ']",Classic
+Solothurn,Element-of-Crime,2016-11-19,['Element of Crime '],Pop
+Zürich,The-Naghash-Ensemble,2016-11-19,"[' Hasmik Baghdasaryan ', ' Tatevik Movsesyan ', ' Arpine Ter-Petrosyan ', ' John Hodian ']",
+null,Della-Miles,2016-11-19,['Della Miles '],
+Muttenz,Neues-Orchester-Basel,2016-11-19,[' Anna Abbühl '],Classic
+Bern,Patrice,2016-11-19,['Patrice '],
+null,Nada-Surf,2016-11-19,['Nada Surf '],
+Zürich,Passian-kann-imma-wos,2016-11-19,['Christoph Theussl '],Pop
+Solothurn,2.-Kammerkonzert,2016-11-19,"['Victor Kopatchinsky ', ' Ana Oltean ', ' Alexandru Patrascu ', ' Gabriel Duffrau-Vacariu ']",
+Pratteln,Fiddler's-Green,2016-11-19,"[""Fiddler's Green ""]",
+Baden,Rohchoscht,2016-11-19,"[' René Keller ', ' Oli Diethelm ', ' Setphan Liechti ']",traditional
+Winterthur,SanySaidap,2016-11-19,['SanySaidap '],
+Basel,Pierre-Omer's-Swing-Revue,2016-11-19,"['Pierre Omer ', ' Jean Philippe Geiser ', ' Christop Gantert ', '  Julien Israelian ']",
+Winterthur,The-Skull,2016-11-19,"['The Skull ', ' Ape Shifter ']",
+Uster,Pam-Festival,2016-11-19,"[' John Eckhardt ', ' Simone Keller ', ' John Eckhardt ']",
+Bern,Halunke-Häni,2016-11-19,"[' Christian Häni ', ' Christian Schürer ', ' Anja Häni ']",Pop
+Zürich,Dobranotch,2016-11-19,"[' Mitia Khramtsov ', ' Ilia Gindin ', ' Max Karpychev ', ' Ilya Shneyveys ', ' Evgenii Lizin ', ' Grig Spiridonych ']",
+Basel,Enders-Room,2016-11-19,"[' Bastian Stein ', ' Johannes Enders ', ' Karl Ivar Refseth ', ' Wolfgang Zwiauer ', ' Gregor Hilbe ']",
+Basel,Lola-Marsh,2016-11-19,"['Lola Marsh ', ' support: Nosoyo ']",Pop
+Baden,Trash-Town-Rockabilly,2016-11-19,"['Sandy and The Wild Wombats ', ' The Hub Caps ', ' The Spuny Boys ']",
+null,Rebel-Town,2016-11-19,['The Cheating Hearts '],
+Luzern,Jeremy-Loops,2016-11-19,['Jeremy Loops '],
+Rubigen,Royal-Southern-Brotherhood,2016-11-19,['Royal Southern Brotherhood '],
+Zürich,Die-Höchste-Eisenbahn,2016-11-19,"['Die Höchste Eisenbahn ', ' Spaceman Spiff ']",Pop
+Luzern,Simon-Grohé,2016-11-19,['Simon Grohé '],Pop
+Zürich,Tage-für-Neue-Musik,2016-11-19,"[' Sophia Goidinger-Koch ', ' Manuel Mayr ', ' Thomas Frey ', ' Dominik Fuss ']",
+Horw,Maple-Tree-Circus,2016-11-19,['Maple Tree Circus '],
+Bern,Peaches,2016-11-19,['Peaches '],Electronic
+Sankt-Gallen,Die-Heiterkeit,2016-11-19,"['Die Heiterkeit ', ' Wayes Blood ']",Pop
+Lausanne,Drame,2016-11-19,['Drame '],

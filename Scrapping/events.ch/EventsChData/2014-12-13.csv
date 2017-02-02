@@ -1,46 +1,46 @@
-,location,event,date,artists,genre
-0,Bern,Jimmy-Flitz-Chinder-Wiehnacht,2014-12-13,['Roland Zoss '],Pop
-1,Aarau,Simon-Wyrsch-Quartet,2014-12-13,"[' Simon Wyrsch ', ' Dario Bianchin ', ' Fridolin Blumer ', ' Robert Mark ']",
-2,Luzern,Razzmattazz,2014-12-13,['Razzmattazz '],
-3,Bern,Jimmy-Flitz-Chinder-Wiehnacht,2014-12-13,['Roland Zoss '],Pop
-4,Basel,Magnificat,2014-12-13,"['Stefan Meier ', ' Stephan Jourdan ', ' Alain Pasquier ', ' Mischa Meyer ']",Classic
-5,Basel,Jazz-Soap-in-fünf-Teilen,2014-12-13,"[' Isa Wiss ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-6,Zürich,30-Jahre-Finnischer-Chor-Zürich,2014-12-13,"[' Ulla Westvik ', ' Terhi Kaarina Lampi ']",Classic
-7,Winterthur,A-Child-of-Our-Time,2014-12-13,"[' Ivana Rusko ', ' Anja Powischer ', ' Jan Rusko ', ' Lisandro Abadie ']",Classic
-8,Luzern,The-Wonder-of-Christmas,2014-12-13,"['Anica Defuns ', ' Roger Bucher ', ' Barbara Jost ', ' Martin Heini ', ' Carina Walter ', ' Armin Bachmann ', ' Heinz Saurer ', ' Gregory Flynn ']",Classic
-9,Zofingen,2-x-Magnificat,2014-12-13,"[' Christine Esser ', ' Mirjam Blessing ', ' Erlend Tvinnereim ', ' Ernst Buscagne ']",Classic
-10,Zürich,Konzert,2014-12-13,[' Martin Grubinger '],Classic
-11,null,Camen,2014-12-13,"[' Pascal Camenzind ', ' Mike Kumow ', ' Patrick Bürli ']",
-12,Zürich,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2014-12-13,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes Bärtschi ']",Classic
-13,Zürich,Carte-Blanche-für-Pierre-Mariétan,2014-12-13,"[' Daniela Müller ', ' Petra Ackermann ', ' Karolina Öhman ', ' Tamriko Kordzaia ']",Classic
-14,Laufen,Black-Moth,2014-12-13,"['Black Moth ', ' Antlered Man ']",
-15,Baden,Walking-With-Strangers,2014-12-13,"['Walking With Strangers ', ' Burning Down Alaska ']",
-16,Basel,Les-papillons,2014-12-13,"[' Giovanni Reber ', ' Michael Giertz ']",Pop
-17,Luzern,ö!-meets-Convergence,2014-12-13,[' Ernesto Molinari '],Classic
-18,Solothurn,Seether,2014-12-13,['Seether '],
-19,Solothurn,Seether,2014-12-13,['Seether '],
-20,Bern,Weihnachtskonzert,2014-12-13,['Die Paldauer '],traditional
-21,Rheinfelden,New-Orleans-Hot-Shots,2014-12-13,"[' Jakob Etter ', ' Daniel Gindrat ', ' Johnny Ramseier ']",
-22,Brugg,Noche-latina,2014-12-13,"[' Raymaluz Luis Isolito ', ' Jörg Hurter ', ' Ariel Fundora ', ' Peter Waldner ', ' Michael Neuenschander ']",
-23,Basel,Stille-als-Musik,2014-12-13,['Dafne Vicente-Sandoval '],Classic
-24,Bülach,A-Tribute-to-Mahalia-Jackson,2014-12-13,['Gospel Time in New Orleans feat. Lillian Boutté & Denise Gordon '],
-25,Basel,Roman-Schwaller-Jazzquartet,2014-12-13,"[' Roman Schwaller ', ' Oliver Kent ', ' Thomas Stabenow ', ' Mario Gonzi ']",
-26,Winterthur,Digger-Barnes,2014-12-13,['Digger Barnes '],
-27,Uster,Konzert,2014-12-13,"['Helena Winkelmann ', ' Caspar Frantz ']",Classic
-28,null,Driftwood,2014-12-13,"[' Nik Fehlmann ', ' Kathrin Bünzli ', ' Marcel Fässler ', ' Dalia Donadio ']",Pop
-29,Baden,Éla-Éla,2014-12-13,"[' Bouzouki ', ' Nikos Papadopoulos ', ' Vincent Zurkinden ']",
-30,Frick,Mark-Geary,2014-12-13,['Mark Geary '],Pop
-31,Zürich,Söndörgö,2014-12-13,"['Söndörgö ', ' Áron Eredics ', ' Benjamin Eredics ', ' Dávid Eredics ']",
-32,Zug,Moreland-&-Arbuckle,2014-12-13,['Moreland & Arbuckle '],
-33,Solothurn,El-Ritschi,2014-12-13,[' Richard Blatter '],Pop
-34,-Alte-Kirche,Boswil,2014-12-13,"[' Tobias Gerber ', ' Rafael Rüti ', ' Sebastian Hofmann ']",Classic
-35,Luzern,Monoglot,2014-12-13,"[' Kristinn Smári Kristinsson ', ' Fabian Willmann ', ' Sebastian von Keler ', ' Samuel Sole ', ' Luca Glausen ', ' Francesco Diomaiuta ', ' Raphael Loher ', ' Marc Jenny\r\n', ' Maris Egli ']",
-36,Oberentfelden,Audrey-Horne,2014-12-13,"['Audrey Horne ', "" '77 "", ' Pet the Preacher ']",
-37,Rubigen,Phil-Bates-&-Band,2014-12-13,['Phil Bates & Band '],
-38,Baden,Les-Sauterelles,2014-12-13,"[' Toni Vescoli ', ' Düde Dürst ', ' Freddy Mangili ', ' Peter Glanzmann ']",
-39,Bern,The-Dad-Horse-Experience,2014-12-13,['The Dad Horse Experience '],
-40,Dietikon,Dino-Merlin,2014-12-13,['Dino Merlin '],Pop
-41,Sankt-Gallen,Mulatu-Astatke,2014-12-13,['Mulatu Astatke '],
-42,Zürich,Kejnu,2014-12-13,"[' Nuél Schoch ', ' Ramon Ziegler ', ' James Varghese ', ' Alessandro Giannelli ']",Pop
-43,Kriens,Suchas,2014-12-13,['Suchas '],
-44,Bern,Warfuck,2014-12-13,"['Warfuck ', ' Tuer ']",
+location,event,date,artists,genre
+Bern,Jimmy-Flitz-Chinder-Wiehnacht,2014-12-13,['Roland Zoss '],Pop
+Aarau,Simon-Wyrsch-Quartet,2014-12-13,"[' Simon Wyrsch ', ' Dario Bianchin ', ' Fridolin Blumer ', ' Robert Mark ']",
+Luzern,Razzmattazz,2014-12-13,['Razzmattazz '],
+Bern,Jimmy-Flitz-Chinder-Wiehnacht,2014-12-13,['Roland Zoss '],Pop
+Basel,Magnificat,2014-12-13,"['Stefan Meier ', ' Stephan Jourdan ', ' Alain Pasquier ', ' Mischa Meyer ']",Classic
+Basel,Jazz-Soap-in-fünf-Teilen,2014-12-13,"[' Isa Wiss ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
+Zürich,30-Jahre-Finnischer-Chor-Zürich,2014-12-13,"[' Ulla Westvik ', ' Terhi Kaarina Lampi ']",Classic
+Winterthur,A-Child-of-Our-Time,2014-12-13,"[' Ivana Rusko ', ' Anja Powischer ', ' Jan Rusko ', ' Lisandro Abadie ']",Classic
+Luzern,The-Wonder-of-Christmas,2014-12-13,"['Anica Defuns ', ' Roger Bucher ', ' Barbara Jost ', ' Martin Heini ', ' Carina Walter ', ' Armin Bachmann ', ' Heinz Saurer ', ' Gregory Flynn ']",Classic
+Zofingen,2-x-Magnificat,2014-12-13,"[' Christine Esser ', ' Mirjam Blessing ', ' Erlend Tvinnereim ', ' Ernst Buscagne ']",Classic
+Zürich,Konzert,2014-12-13,[' Martin Grubinger '],Classic
+null,Camen,2014-12-13,"[' Pascal Camenzind ', ' Mike Kumow ', ' Patrick Bürli ']",
+Zürich,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2014-12-13,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes Bärtschi ']",Classic
+Zürich,Carte-Blanche-für-Pierre-Mariétan,2014-12-13,"[' Daniela Müller ', ' Petra Ackermann ', ' Karolina Öhman ', ' Tamriko Kordzaia ']",Classic
+Laufen,Black-Moth,2014-12-13,"['Black Moth ', ' Antlered Man ']",
+Baden,Walking-With-Strangers,2014-12-13,"['Walking With Strangers ', ' Burning Down Alaska ']",
+Basel,Les-papillons,2014-12-13,"[' Giovanni Reber ', ' Michael Giertz ']",Pop
+Luzern,ö!-meets-Convergence,2014-12-13,[' Ernesto Molinari '],Classic
+Solothurn,Seether,2014-12-13,['Seether '],
+Solothurn,Seether,2014-12-13,['Seether '],
+Bern,Weihnachtskonzert,2014-12-13,['Die Paldauer '],traditional
+Rheinfelden,New-Orleans-Hot-Shots,2014-12-13,"[' Jakob Etter ', ' Daniel Gindrat ', ' Johnny Ramseier ']",
+Brugg,Noche-latina,2014-12-13,"[' Raymaluz Luis Isolito ', ' Jörg Hurter ', ' Ariel Fundora ', ' Peter Waldner ', ' Michael Neuenschander ']",
+Basel,Stille-als-Musik,2014-12-13,['Dafne Vicente-Sandoval '],Classic
+Bülach,A-Tribute-to-Mahalia-Jackson,2014-12-13,['Gospel Time in New Orleans feat. Lillian Boutté & Denise Gordon '],
+Basel,Roman-Schwaller-Jazzquartet,2014-12-13,"[' Roman Schwaller ', ' Oliver Kent ', ' Thomas Stabenow ', ' Mario Gonzi ']",
+Winterthur,Digger-Barnes,2014-12-13,['Digger Barnes '],
+Uster,Konzert,2014-12-13,"['Helena Winkelmann ', ' Caspar Frantz ']",Classic
+null,Driftwood,2014-12-13,"[' Nik Fehlmann ', ' Kathrin Bünzli ', ' Marcel Fässler ', ' Dalia Donadio ']",Pop
+Baden,Éla-Éla,2014-12-13,"[' Bouzouki ', ' Nikos Papadopoulos ', ' Vincent Zurkinden ']",
+Frick,Mark-Geary,2014-12-13,['Mark Geary '],Pop
+Zürich,Söndörgö,2014-12-13,"['Söndörgö ', ' Áron Eredics ', ' Benjamin Eredics ', ' Dávid Eredics ']",
+Zug,Moreland-&-Arbuckle,2014-12-13,['Moreland & Arbuckle '],
+Solothurn,El-Ritschi,2014-12-13,[' Richard Blatter '],Pop
+-Alte-Kirche,Boswil,2014-12-13,"[' Tobias Gerber ', ' Rafael Rüti ', ' Sebastian Hofmann ']",Classic
+Luzern,Monoglot,2014-12-13,"[' Kristinn Smári Kristinsson ', ' Fabian Willmann ', ' Sebastian von Keler ', ' Samuel Sole ', ' Luca Glausen ', ' Francesco Diomaiuta ', ' Raphael Loher ', ' Marc Jenny\r\n', ' Maris Egli ']",
+Oberentfelden,Audrey-Horne,2014-12-13,"['Audrey Horne ', "" '77 "", ' Pet the Preacher ']",
+Rubigen,Phil-Bates-&-Band,2014-12-13,['Phil Bates & Band '],
+Baden,Les-Sauterelles,2014-12-13,"[' Toni Vescoli ', ' Düde Dürst ', ' Freddy Mangili ', ' Peter Glanzmann ']",
+Bern,The-Dad-Horse-Experience,2014-12-13,['The Dad Horse Experience '],
+Dietikon,Dino-Merlin,2014-12-13,['Dino Merlin '],Pop
+Sankt-Gallen,Mulatu-Astatke,2014-12-13,['Mulatu Astatke '],
+Zürich,Kejnu,2014-12-13,"[' Nuél Schoch ', ' Ramon Ziegler ', ' James Varghese ', ' Alessandro Giannelli ']",Pop
+Kriens,Suchas,2014-12-13,['Suchas '],
+Bern,Warfuck,2014-12-13,"['Warfuck ', ' Tuer ']",

@@ -1,11 +1,11 @@
-,location,event,date,artists,genre
-0,Zürich,Jazzapero,2014-04-22,['Christina Jaccard '],
-1,Luzern,Piano-Entertainment,2014-04-22,['Daniel Ross '],
-2,Zürich,Rahn-Musikpreis-Preisträgerkonzert,2014-04-22,"[' Beatriz Blanco ', ' Vanessa Hunt Russell ', ' Rustem Monasypov ', ' Miriam Prandi ']",Classic
-3,Zürich,Farbmusik,2014-04-22,['Hanspeter Kruesi '],
-4,Zürich,A-Cyclothymia-of-Songs,2014-04-22,"[' Lander Gyselinck ', ' Corinne Huber ', ' Franziska Bruecker ']",Pop
-5,Zürich,Ambrose-Akinmusire-Quintet,2014-04-22,"[' Ambrose Akinmusire ', ' Walter Smith ', ' Sam Harris ', ' Harish Ragahavan ', ' Justin Brown ']",
-6,Lausanne,True-Widow,2014-04-22,['True Widow '],
-7,Pratteln,The-Dead-Lovers,2014-04-22,['The Dead Lovers '],
-8,Zürich,Will-Henderson,2014-04-22,['Will Henderson '],
-9,Basel,Windhand,2014-04-22,"['Windhand ', ' Inter Arma ']",
+location,event,date,artists,genre
+Zürich,Jazzapero,2014-04-22,['Christina Jaccard '],
+Luzern,Piano-Entertainment,2014-04-22,['Daniel Ross '],
+Zürich,Rahn-Musikpreis-Preisträgerkonzert,2014-04-22,"[' Beatriz Blanco ', ' Vanessa Hunt Russell ', ' Rustem Monasypov ', ' Miriam Prandi ']",Classic
+Zürich,Farbmusik,2014-04-22,['Hanspeter Kruesi '],
+Zürich,A-Cyclothymia-of-Songs,2014-04-22,"[' Lander Gyselinck ', ' Corinne Huber ', ' Franziska Bruecker ']",Pop
+Zürich,Ambrose-Akinmusire-Quintet,2014-04-22,"[' Ambrose Akinmusire ', ' Walter Smith ', ' Sam Harris ', ' Harish Ragahavan ', ' Justin Brown ']",
+Lausanne,True-Widow,2014-04-22,['True Widow '],
+Pratteln,The-Dead-Lovers,2014-04-22,['The Dead Lovers '],
+Zürich,Will-Henderson,2014-04-22,['Will Henderson '],
+Basel,Windhand,2014-04-22,"['Windhand ', ' Inter Arma ']",

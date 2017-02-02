@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Basel,Kennst-du-das-Land,2013-06-26,"['Vera Hiltbrunner ', ' Virginia Rossetti ']",Classic
-1,Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-06-26,['Christian Mettler '],Pop
-2,Basel,Altstadt-Serenaden,2013-06-26,[' Lina Marcela López '],Classic
-3,Zürich,Richard-Wagner-in-Verehrung,2013-06-26,[' András Schiff '],Classic
-4,Basel,Schluss-Konzerte,2013-06-26,"[' Tatiana Khvatova ', ' Ilektra Platiopoulou ', ' Polina Ushakova ', ' Yun Wu ', ' Tommaso Lepore ']",Classic
-5,Zürich,Masters-Of-Reality,2013-06-26,"['Masters Of Reality ', ' Safi ']",
-6,Luzern,Jam-Night,2013-06-26,"['Christian Winiker ', ' Adi Wiss ', ' Mani Zweili ', ' Mike Malloth ']",
-7,Bubendorf,Harfe-Violine-Visuelles,2013-06-26,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-8,Luzern,Shigeto,2013-06-26,['Shigeto '],Electronic
-9,Basel,Masterrezital,2013-06-26,[' Euncho Yeom '],Classic
-10,Zürich,Patchwork,2013-06-26,"[' Fabian Heynen ', ' Stefan Pavelka ', ' Mathias Harter ', ' Felix Kübler ', ' Daniel Disler ']",Pop
-11,Basel,Juarez-Moreira-Quinteto,2013-06-26,"[' Juarez Moreira ', ' Cléber Alves ', ' Ricardo Fiuza ', ' Stephan Kurmann ', ' Esdras Neném Ferreira ']",
-12,Ascona,Jazz-Ascona,2013-06-26,"[' Jimmy Carter ', ' Ricky McKinnie ', ' Ben Moore ']",
-13,Luzern,Third-Seven,2013-06-26,['Third Seven '],
-14,Lausanne,Alejandro-Reyes,2013-06-26,['Alejandro Reyes '],Pop
-15,Ascona,Jazz-Ascona,2013-06-26,"[' Mark Whitfield ', ' Roland Guerin ', ' Troy Davis ']",
+location,event,date,artists,genre
+Basel,Kennst-du-das-Land,2013-06-26,"['Vera Hiltbrunner ', ' Virginia Rossetti ']",Classic
+Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-06-26,['Christian Mettler '],Pop
+Basel,Altstadt-Serenaden,2013-06-26,[' Lina Marcela López '],Classic
+Zürich,Richard-Wagner-in-Verehrung,2013-06-26,[' András Schiff '],Classic
+Basel,Schluss-Konzerte,2013-06-26,"[' Tatiana Khvatova ', ' Ilektra Platiopoulou ', ' Polina Ushakova ', ' Yun Wu ', ' Tommaso Lepore ']",Classic
+Zürich,Masters-Of-Reality,2013-06-26,"['Masters Of Reality ', ' Safi ']",
+Luzern,Jam-Night,2013-06-26,"['Christian Winiker ', ' Adi Wiss ', ' Mani Zweili ', ' Mike Malloth ']",
+Bubendorf,Harfe-Violine-Visuelles,2013-06-26,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
+Luzern,Shigeto,2013-06-26,['Shigeto '],Electronic
+Basel,Masterrezital,2013-06-26,[' Euncho Yeom '],Classic
+Zürich,Patchwork,2013-06-26,"[' Fabian Heynen ', ' Stefan Pavelka ', ' Mathias Harter ', ' Felix Kübler ', ' Daniel Disler ']",Pop
+Basel,Juarez-Moreira-Quinteto,2013-06-26,"[' Juarez Moreira ', ' Cléber Alves ', ' Ricardo Fiuza ', ' Stephan Kurmann ', ' Esdras Neném Ferreira ']",
+Ascona,Jazz-Ascona,2013-06-26,"[' Jimmy Carter ', ' Ricky McKinnie ', ' Ben Moore ']",
+Luzern,Third-Seven,2013-06-26,['Third Seven '],
+Lausanne,Alejandro-Reyes,2013-06-26,['Alejandro Reyes '],Pop
+Ascona,Jazz-Ascona,2013-06-26,"[' Mark Whitfield ', ' Roland Guerin ', ' Troy Davis ']",

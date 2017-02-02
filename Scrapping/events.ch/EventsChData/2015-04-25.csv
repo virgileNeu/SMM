@@ -1,37 +1,37 @@
-,location,event,date,artists,genre
-0,Winterthur,Dreistimmig,2015-04-25,"[' Corin Curschellas ', ' Astrid Alexandre ', ' Ursina Giger ']",Pop
-1,Basel,Orgelkonzert,2015-04-25,['Guy Bovet '],Classic
-2,Zürich,Loudfest,2015-04-25,"['Social Distortion ', ' Jessica Hernandez And The Deltas ', ' Jonny Two Bags ']",
-3,Luzern,Piano-Entertainment,2015-04-25,['Dezsö Balogh '],Classic
-4,Zürich,Unheilig,2015-04-25,['Unheilig '],Pop
-5,Kreuzlingen,Die-Kastelruther-Spatzen,2015-04-25,['Die Kastelruther Spatzen '],traditional
-6,Basel,Mitten-wir-im-Leben-sind-mit-dem-Tod-umfangen,2015-04-25,"[' Katrin Zolnhofer ', ' Laszlo Villanyi ', ' Lukas Briggen ']",Classic
-7,null,Konzert,2015-04-25,[' Pavlos Serassis '],Classic
-8,Bern,Rezital,2015-04-25,['Andras Schiff '],Classic
-9,Prilly,Angus-&-Julia-Stone,2015-04-25,['Angus & Julia Stone '],
-10,Luzern,The-Lord-of-the-Rings,2015-04-25,[' Kaitlyn Lusk '],Classic
-11,Basel,Jazzfestival-Basel,2015-04-25,"[' Christian Zehnder ', ' Gregor Hilbe ', ' Matthias Loibner ']",
-12,Pratteln,Fiddler's-Green,2015-04-25,"[""Fiddler's Green ""]",
-13,null,Honky-Tonk-Festival-St.-Gallen,2015-04-25,['The Led Farmers '],
-14,Bern,Feine-Sahne-Fischfilet,2015-04-25,['Feine Sahne Fischfilet '],
-15,Basel,100-Jahre-Schmerz-und-Hoffnung,2015-04-25,"['Vahan Markaryan ', ' Jryna Krasovska ']",Classic
-16,Basel,Seelentiefe-Romantische-Musik,2015-04-25,"['Ute Petersilge ', ' Enno Kastens ']",Classic
-17,null,Jazzlabor,2015-04-25,"[' Katja Mair ', ' Peter Leuzinger ', ' Chrigel Bosshard ']",
-18,Lausanne,Youssoupha,2015-04-25,['Youssoupha '],
-19,Basel,Peter-Schärli-Trio-feat.-Glenn-Ferris,2015-04-25,"[' Glenn Ferris ', ' Peter Schärli ', ' Hans-Peter Pfammatter ', ' Thomas Dürst ']",
-20,Baden,Dixie-Night,2015-04-25,"[' Peter C. Beyeler ', ' Shilo Buck ', ' Werner Gisin ', ' Heinz Glauser ', ' Max Keller ']",
-21,Winterthur,Tombs,2015-04-25,"['Tombs ', ' Black Anvil ']",
-22,Zürich,Internationales-Jazz-&-Blues-Festival,2015-04-25,['Prima Volta '],
-23,Luzern,Ruarec-Label-Night,2015-04-25,"['Carlos Baez Zerpa ', ' Mister Backliner ', ' Ivo Bättig ']",
-24,Zürich,Randy-Valentine,2015-04-25,"['Randy Valentine ', ' DJs Chiqui Dubs ', ' Balack ']",
-25,Zürich,Scott-Matthew,2015-04-25,['Scott Matthew '],Pop
-26,null,Honky-Tonk-Festival-St.-Gallen,2015-04-25,[' Los Skeleteros '],
-27,null,Soirée-de-soutien-aux-Tanneries,2015-04-25,"['Seal of Quality ', ' Syndrome PWP Metal ', ' Lovataraxx ', ' The Chemist and the Acevities ']",
-28,Vevey,Black-Milk,2015-04-25,"['Black Milk & The Nat Turner ', ' Aaron Abernathy ']",
-29,Kirchberg,Popa-Chubby,2015-04-25,['Popa Chubby '],
-30,Winterthur,Godspeed-You-Black-Emperor,2015-04-25,['Godspeed You Black Emperor '],
-31,Zürich,Tito-&-Tarantula,2015-04-25,"['Tito & Tarantula ', ' Tito Larriva ', ' Peter Atanasoff ', ' Johnny Vatos ', ' Lola Larriva ', ' Victor Ziolkowski ', ' Marcus Praed ']",
-32,Sankt-Gallen,Die-Sterne,2015-04-25,"['Die Sterne ', ' Snoffeltoffs ']",
-33,Aarau,Trovaci,2015-04-25,['Trovaci '],
-34,Zürich,Wicht,2015-04-25,['Wicht '],
-35,Zug,Fratelli-B,2015-04-25,['Fratelli-B '],Pop
+location,event,date,artists,genre
+Winterthur,Dreistimmig,2015-04-25,"[' Corin Curschellas ', ' Astrid Alexandre ', ' Ursina Giger ']",Pop
+Basel,Orgelkonzert,2015-04-25,['Guy Bovet '],Classic
+Zürich,Loudfest,2015-04-25,"['Social Distortion ', ' Jessica Hernandez And The Deltas ', ' Jonny Two Bags ']",
+Luzern,Piano-Entertainment,2015-04-25,['Dezsö Balogh '],Classic
+Zürich,Unheilig,2015-04-25,['Unheilig '],Pop
+Kreuzlingen,Die-Kastelruther-Spatzen,2015-04-25,['Die Kastelruther Spatzen '],traditional
+Basel,Mitten-wir-im-Leben-sind-mit-dem-Tod-umfangen,2015-04-25,"[' Katrin Zolnhofer ', ' Laszlo Villanyi ', ' Lukas Briggen ']",Classic
+null,Konzert,2015-04-25,[' Pavlos Serassis '],Classic
+Bern,Rezital,2015-04-25,['Andras Schiff '],Classic
+Prilly,Angus-&-Julia-Stone,2015-04-25,['Angus & Julia Stone '],
+Luzern,The-Lord-of-the-Rings,2015-04-25,[' Kaitlyn Lusk '],Classic
+Basel,Jazzfestival-Basel,2015-04-25,"[' Christian Zehnder ', ' Gregor Hilbe ', ' Matthias Loibner ']",
+Pratteln,Fiddler's-Green,2015-04-25,"[""Fiddler's Green ""]",
+null,Honky-Tonk-Festival-St.-Gallen,2015-04-25,['The Led Farmers '],
+Bern,Feine-Sahne-Fischfilet,2015-04-25,['Feine Sahne Fischfilet '],
+Basel,100-Jahre-Schmerz-und-Hoffnung,2015-04-25,"['Vahan Markaryan ', ' Jryna Krasovska ']",Classic
+Basel,Seelentiefe-Romantische-Musik,2015-04-25,"['Ute Petersilge ', ' Enno Kastens ']",Classic
+null,Jazzlabor,2015-04-25,"[' Katja Mair ', ' Peter Leuzinger ', ' Chrigel Bosshard ']",
+Lausanne,Youssoupha,2015-04-25,['Youssoupha '],
+Basel,Peter-Schärli-Trio-feat.-Glenn-Ferris,2015-04-25,"[' Glenn Ferris ', ' Peter Schärli ', ' Hans-Peter Pfammatter ', ' Thomas Dürst ']",
+Baden,Dixie-Night,2015-04-25,"[' Peter C. Beyeler ', ' Shilo Buck ', ' Werner Gisin ', ' Heinz Glauser ', ' Max Keller ']",
+Winterthur,Tombs,2015-04-25,"['Tombs ', ' Black Anvil ']",
+Zürich,Internationales-Jazz-&-Blues-Festival,2015-04-25,['Prima Volta '],
+Luzern,Ruarec-Label-Night,2015-04-25,"['Carlos Baez Zerpa ', ' Mister Backliner ', ' Ivo Bättig ']",
+Zürich,Randy-Valentine,2015-04-25,"['Randy Valentine ', ' DJs Chiqui Dubs ', ' Balack ']",
+Zürich,Scott-Matthew,2015-04-25,['Scott Matthew '],Pop
+null,Honky-Tonk-Festival-St.-Gallen,2015-04-25,[' Los Skeleteros '],
+null,Soirée-de-soutien-aux-Tanneries,2015-04-25,"['Seal of Quality ', ' Syndrome PWP Metal ', ' Lovataraxx ', ' The Chemist and the Acevities ']",
+Vevey,Black-Milk,2015-04-25,"['Black Milk & The Nat Turner ', ' Aaron Abernathy ']",
+Kirchberg,Popa-Chubby,2015-04-25,['Popa Chubby '],
+Winterthur,Godspeed-You-Black-Emperor,2015-04-25,['Godspeed You Black Emperor '],
+Zürich,Tito-&-Tarantula,2015-04-25,"['Tito & Tarantula ', ' Tito Larriva ', ' Peter Atanasoff ', ' Johnny Vatos ', ' Lola Larriva ', ' Victor Ziolkowski ', ' Marcus Praed ']",
+Sankt-Gallen,Die-Sterne,2015-04-25,"['Die Sterne ', ' Snoffeltoffs ']",
+Aarau,Trovaci,2015-04-25,['Trovaci '],
+Zürich,Wicht,2015-04-25,['Wicht '],
+Zug,Fratelli-B,2015-04-25,['Fratelli-B '],Pop

@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Schaffhausen,Stars-in-Town,2014-08-07,"['Hurts ', ' Birdy ']",Pop
-1,Zofingen,Volksschlager-Openair,2014-08-07,"[' Die Amigos ', ' Markus Wolfahrt ', ' Die jungen Zillertaler ', ' Fantasy ']",traditional
-2,Rougemont,Menuhin-Festival-Gstaad,2014-08-07,"['Valeryi Sokolov ', ' Eugene Izotov ']",Classic
-3,Lenzerheide,Lai,2014-08-07,['The Italian Tenors '],Pop
-4,null,Status-Quo,2014-08-07,['Status Quo '],
-5,St.-Moritz,Festival-da-Jazz,2014-08-07,"['Jimmy Cliff ', ' Jimmy Cliff ', ' Dwight Richards ', ' Tammi T ', ' Locksley Dixon ', ' Marcus Boothe ', ' Stephen Maxwell ', ' Ottey Lewis ', ' Stephen Depass ', ' Yelluh Ellis ']",
-6,Bern,Budzillus,2014-08-07,['Budzillus '],
-7,Basel,Im-Fluss,2014-08-07,['Boy & Bear '],
-8,Winterthur,Café-Deseado,2014-08-07,"[' Julia Herkert ', ' ', ' Stefan Gschwend ']",
-9,Zürich,Lora-Kulturwoche,2014-08-07,['Hadjy '],
-10,Maggia,Magic-Blues-Festival,2014-08-07,"['Dana Fuch ', ' Treves Blues Band ']",
-11,Zürich,Sons-of-Settlers,2014-08-07,['Sons of Settlers '],
-12,Bern,Delaney-Davidson-&-Band,2014-08-07,['Delaney Davidson & Band '],
-13,St.-Moritz,Festival-da-Jazz,2014-08-07,"[' Philippe Mall ', ' Ueli Gasser ', ' Angelo Signore ', ' Luciano Maranta ', ' Willy Kotoun ', ' Robert Mark ']",
+location,event,date,artists,genre
+Schaffhausen,Stars-in-Town,2014-08-07,"['Hurts ', ' Birdy ']",Pop
+Zofingen,Volksschlager-Openair,2014-08-07,"[' Die Amigos ', ' Markus Wolfahrt ', ' Die jungen Zillertaler ', ' Fantasy ']",traditional
+Rougemont,Menuhin-Festival-Gstaad,2014-08-07,"['Valeryi Sokolov ', ' Eugene Izotov ']",Classic
+Lenzerheide,Lai,2014-08-07,['The Italian Tenors '],Pop
+null,Status-Quo,2014-08-07,['Status Quo '],
+St.-Moritz,Festival-da-Jazz,2014-08-07,"['Jimmy Cliff ', ' Jimmy Cliff ', ' Dwight Richards ', ' Tammi T ', ' Locksley Dixon ', ' Marcus Boothe ', ' Stephen Maxwell ', ' Ottey Lewis ', ' Stephen Depass ', ' Yelluh Ellis ']",
+Bern,Budzillus,2014-08-07,['Budzillus '],
+Basel,Im-Fluss,2014-08-07,['Boy & Bear '],
+Winterthur,Café-Deseado,2014-08-07,"[' Julia Herkert ', ' ', ' Stefan Gschwend ']",
+Zürich,Lora-Kulturwoche,2014-08-07,['Hadjy '],
+Maggia,Magic-Blues-Festival,2014-08-07,"['Dana Fuch ', ' Treves Blues Band ']",
+Zürich,Sons-of-Settlers,2014-08-07,['Sons of Settlers '],
+Bern,Delaney-Davidson-&-Band,2014-08-07,['Delaney Davidson & Band '],
+St.-Moritz,Festival-da-Jazz,2014-08-07,"[' Philippe Mall ', ' Ueli Gasser ', ' Angelo Signore ', ' Luciano Maranta ', ' Willy Kotoun ', ' Robert Mark ']",

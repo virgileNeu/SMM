@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment-Pure-Melodies,2013-02-19,['Oliver Töngi '],
-1,Zürich,Spoerri-Schiltknecht,2013-02-19,"[' Bruno Spoerri ', ' Gabriel Schiltknecht ']",
-2,Zürich,Shimmering-Water,2013-02-19,['Kotaro Fukuma '],Classic
-3,Zürich,Don-Juan-in-Musik-und-Wort,2013-02-19,['Daniel Hope '],Classic
-4,Zürich,Lucy-Rose,2013-02-19,['Lucy Rose '],Pop
-5,Komplex-457,Zürich,2013-02-19,['Amy Macdonald '],
-6,Zürich,Fuzz-Manta,2013-02-19,['Fuzz Manta '],
-7,null,Metz,2013-02-19,['Metz '],
-8,Zürich,Glasperlenspiel,2013-02-19,"['Glasperlenspiel ', ' support: Finn Martin ']",Pop
-9,Zürich,Loriot-Innanen-Piromalli-Weber,2013-02-19,"[' Frantz Loriot ', ' Mikko Innanen ', ' Cédric Piromalli ', ' Christian Weber ']",
-10,Luzern,Kings-Of-Rhythm,2013-02-19,"[' Franz Hellmüller ', ' Stefan Rusconi ', ' Thomy Jordi ', ' Elmar Frey ']",
-11,Zürich,Becca-Stevens-Band,2013-02-19,"['Becca Stevens Band ', ' Becca Stevens ', ' Liam Robinson ', ' Chris Tordini ', ' Jordan Perlson ']",
-12,Zürich,Loch-Lomond,2013-02-19,['Loch Lomond '],
+location,event,date,artists,genre
+Luzern,Piano-Entertainment-Pure-Melodies,2013-02-19,['Oliver Töngi '],
+Zürich,Spoerri-Schiltknecht,2013-02-19,"[' Bruno Spoerri ', ' Gabriel Schiltknecht ']",
+Zürich,Shimmering-Water,2013-02-19,['Kotaro Fukuma '],Classic
+Zürich,Don-Juan-in-Musik-und-Wort,2013-02-19,['Daniel Hope '],Classic
+Zürich,Lucy-Rose,2013-02-19,['Lucy Rose '],Pop
+Komplex-457,Zürich,2013-02-19,['Amy Macdonald '],
+Zürich,Fuzz-Manta,2013-02-19,['Fuzz Manta '],
+null,Metz,2013-02-19,['Metz '],
+Zürich,Glasperlenspiel,2013-02-19,"['Glasperlenspiel ', ' support: Finn Martin ']",Pop
+Zürich,Loriot-Innanen-Piromalli-Weber,2013-02-19,"[' Frantz Loriot ', ' Mikko Innanen ', ' Cédric Piromalli ', ' Christian Weber ']",
+Luzern,Kings-Of-Rhythm,2013-02-19,"[' Franz Hellmüller ', ' Stefan Rusconi ', ' Thomy Jordi ', ' Elmar Frey ']",
+Zürich,Becca-Stevens-Band,2013-02-19,"['Becca Stevens Band ', ' Becca Stevens ', ' Liam Robinson ', ' Chris Tordini ', ' Jordan Perlson ']",
+Zürich,Loch-Lomond,2013-02-19,['Loch Lomond '],

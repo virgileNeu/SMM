@@ -1,21 +1,21 @@
-,location,event,date,artists,genre
-0,Zürich,Brazil-Night-with-Return-of-the-Bossa-Nova-Quartet,2016-09-22,"['Rodrigo Botter Maio ', ' Floriano Inácio Jr ', ' Eduardo ""Dudu"" Penz ', ' Florian Reichle ']",
-1,Luzern,Radio-Pilatus-Music-Night,2016-09-22,[' DJ Bobo '],Classic
-2,null,Auftakt-Symphonie-fantastique,2016-09-22,"['Igor Keller ', ' Fernando Gomes ']",Classic
-3,Bern,Les-Passions-de-l'Âme,2016-09-22,"['Meret Lüthi ', ' Sabine Stoffer ', ' Lucile Chionchini ', ' Linda Mantcheva ', ' Ieva Saliete ', ' Anne Parisot ']",Classic
-4,Zug,Akkordeon-Festival,2016-09-22,"[' Markus Flockiger ', ' Töbi Tobler ']",traditional
-5,Oberentfelden,Dynamite,2016-09-22,['Dynamite '],
-6,Zürich,Chansons-en-Stok,2016-09-22,['Erwan Pinard '],Pop
-7,Basel,Arnold-is-(not)-here,2016-09-22,[' Kai Wessel '],Classic
-8,Zürich,Vis-à-vis-,2016-09-22,"[' Manuella Villiger ', ' Vera Wahl ']",Classic
-9,Winterthur,Esche,2016-09-22,"[' Laura Schuler ', ' Luzius Schuler ', ' Lisa Hoppe ']",
-10,Zürich,Tanga-Zoo,2016-09-22,"[' Marc Jufer ', ' André Kunz ', ' Jean-Pierre Schaller ', ' Andy Brugger ']",
-11,Zürich,Ahyra,2016-09-22,"[' Carla Fellinger ', ' Benjamin Schmid ', ' Jonas Wolf ']",Pop
-12,Baden,Dinner-4,2016-09-22,"[' Sherley Ureña ', ' Mario Diener ', ' Gabriel Stalder ', ' Joël Rehmann ', ' Jonas Glatthard ']",
-13,Basel,Kammerorchester-Basel,2016-09-22,['Viviane Chassot '],Classic
-14,Basel,Perrin-Küffer-Pupato,2016-09-22,"[' Regula Küffer ', ' Nick Perrin ', ' German Papu Gigena ']",
-15,Solothurn,The-Young-Folk,2016-09-22,['The Young Folk '],
-16,Sankt-Gallen,Metá-Metá,2016-09-22,['Metá Metá '],
-17,Basel,Spitting-Nails,2016-09-22,"['Spitting Nails ', ' Confusion Master ']",
-18,Schaffhausen,King-Champion-Sounds,2016-09-22,"['King Champion Sounds ', ' Forest Management ']",
-19,Zürich,Live-Younger-Lovers,2016-09-22,['Live Younger Lovers '],Pop
+location,event,date,artists,genre
+Zürich,Brazil-Night-with-Return-of-the-Bossa-Nova-Quartet,2016-09-22,"['Rodrigo Botter Maio ', ' Floriano Inácio Jr ', ' Eduardo ""Dudu"" Penz ', ' Florian Reichle ']",
+Luzern,Radio-Pilatus-Music-Night,2016-09-22,[' DJ Bobo '],Classic
+null,Auftakt-Symphonie-fantastique,2016-09-22,"['Igor Keller ', ' Fernando Gomes ']",Classic
+Bern,Les-Passions-de-l'Âme,2016-09-22,"['Meret Lüthi ', ' Sabine Stoffer ', ' Lucile Chionchini ', ' Linda Mantcheva ', ' Ieva Saliete ', ' Anne Parisot ']",Classic
+Zug,Akkordeon-Festival,2016-09-22,"[' Markus Flockiger ', ' Töbi Tobler ']",traditional
+Oberentfelden,Dynamite,2016-09-22,['Dynamite '],
+Zürich,Chansons-en-Stok,2016-09-22,['Erwan Pinard '],Pop
+Basel,Arnold-is-(not)-here,2016-09-22,[' Kai Wessel '],Classic
+Zürich,Vis-à-vis-,2016-09-22,"[' Manuella Villiger ', ' Vera Wahl ']",Classic
+Winterthur,Esche,2016-09-22,"[' Laura Schuler ', ' Luzius Schuler ', ' Lisa Hoppe ']",
+Zürich,Tanga-Zoo,2016-09-22,"[' Marc Jufer ', ' André Kunz ', ' Jean-Pierre Schaller ', ' Andy Brugger ']",
+Zürich,Ahyra,2016-09-22,"[' Carla Fellinger ', ' Benjamin Schmid ', ' Jonas Wolf ']",Pop
+Baden,Dinner-4,2016-09-22,"[' Sherley Ureña ', ' Mario Diener ', ' Gabriel Stalder ', ' Joël Rehmann ', ' Jonas Glatthard ']",
+Basel,Kammerorchester-Basel,2016-09-22,['Viviane Chassot '],Classic
+Basel,Perrin-Küffer-Pupato,2016-09-22,"[' Regula Küffer ', ' Nick Perrin ', ' German Papu Gigena ']",
+Solothurn,The-Young-Folk,2016-09-22,['The Young Folk '],
+Sankt-Gallen,Metá-Metá,2016-09-22,['Metá Metá '],
+Basel,Spitting-Nails,2016-09-22,"['Spitting Nails ', ' Confusion Master ']",
+Schaffhausen,King-Champion-Sounds,2016-09-22,"['King Champion Sounds ', ' Forest Management ']",
+Zürich,Live-Younger-Lovers,2016-09-22,['Live Younger Lovers '],Pop

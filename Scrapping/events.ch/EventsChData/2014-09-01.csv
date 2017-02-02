@@ -1,6 +1,6 @@
-,location,event,date,artists,genre
-0,Vevey,Septembre-musical-La-nuit-des-pianistes,2014-09-01,"['Delphine Bardin ', ' Mami Hagiwara ', ' Chihiro Hosokawa ', ' Alexey Ivannikov ', ' Alexander Kutuzov ']",Classic
-1,Basel,AMG-Solistenabende,2014-09-01,['Daniil Trifonov '],Classic
-2,Luzern,Kammermusik-4,2014-09-01,[' Robert Holl '],Classic
-3,Luzern,Moderne-5,2014-09-01,[' Leigh Melrose '],Classic
-4,Zürich,Paul-Ubana-Jones,2014-09-01,['Paul Ubana Jones '],Pop
+location,event,date,artists,genre
+Vevey,Septembre-musical-La-nuit-des-pianistes,2014-09-01,"['Delphine Bardin ', ' Mami Hagiwara ', ' Chihiro Hosokawa ', ' Alexey Ivannikov ', ' Alexander Kutuzov ']",Classic
+Basel,AMG-Solistenabende,2014-09-01,['Daniil Trifonov '],Classic
+Luzern,Kammermusik-4,2014-09-01,[' Robert Holl '],Classic
+Luzern,Moderne-5,2014-09-01,[' Leigh Melrose '],Classic
+Zürich,Paul-Ubana-Jones,2014-09-01,['Paul Ubana Jones '],Pop

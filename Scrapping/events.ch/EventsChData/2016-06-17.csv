@@ -1,32 +1,32 @@
-,location,event,date,artists,genre
-0,Bern,Festival-Polyphonie-der-Kulturen,2016-06-17,[' Pierre-Alain Clerc '],Classic
-1,Hinwil,Rock-the-Ring,2016-06-17,"['Queen & Adam Lambert ', ' Marillion ']",Pop
-2,Kriens,B-Sides-Festival,2016-06-17,['Ginger and the Ghost '],Pop
-3,Kriens,B-Sides-Festival,2016-06-17,['Destroyer '],Pop
-4,Basel,Orgelspiel-zum-Feierabend,2016-06-17,['Susanne Doll '],Classic
-5,Luzern,Goodbye-Irené-und-Henk,2016-06-17,"[' Valentin Baumgartner ', ' Theo Känzig ', ' Simon Iten ']",
-6,Dietikon,Feierabendmusik-in-der-Kirche,2016-06-17,"['Teresa Hackel ', ' Bernhard Hörler ']",Classic
-7,Gerlafingen,Rockabilly-Stomp,2016-06-17,['The Vargas Brothers '],
-8,Zürich,Ken-Boothe,2016-06-17,"['Ken Boothe ', ' House of Riddim ']",
-9,Zürich,Festspiele-Zürich,2016-06-17,"[' Moussa Cissokho ', ' Jan Galega Brönnimann ', ' Omri Hason ']",
-10,Zürich,Festspiele-Zürich-Artist-in-Residence,2016-06-17,[' Lisa Batiashvili '],Classic
-11,Winterthur,Benefizkonzert-Verein-Allegro,2016-06-17,[' Kenneth Henderson '],Classic
-12,Basel,1.-Schlusskonzert,2016-06-17,"[' Giulia Ott ', ' Bastian Loewe Yanez ', ' Lucía Carro Veiga ', ' José Andrés Fernández Camacho ', ' Anna Tcybuleva ']",Classic
-13,Zürich,Royal-Arena-Newcomer,2016-06-17,[' Indigod '],
-14,Zürich,Requiem-in-d-Moll,2016-06-17,"[' Aurea Marston ', ' Susanne Puchegger ', ' Martin Hostettler ', ' Yongfan Chen-Hauser ']",Classic
-15,Winterthur,Encanta,2016-06-17,"[' Tanja Corona ', ' Nadia Fontana ', ' Paola Fontana ']",Pop
-16,Rheinfelden,Echoes-of-Swing,2016-06-17,"[' Colin Dawson ', ' Chris Hopkins ', ' Bernd Lhotzky ', ' Oliver Mewes ']",
-17,Pratteln,Gojira,2016-06-17,['Gojira '],
-18,Zürich,Quattro-stagioni-Aber-anders,2016-06-17,"['Julien Quentin ', ' Martynas Levickis ', ' Rosanne Philippens ']",
-19,Zürich,Allemano-Reisinger-Weber,2016-06-17,"[' Lina Allemano ', ' Wolfgang Reisinger ', ' Christian Weber ']",
-20,Bolligen,Fin-de-curso-Flamencotanz-La-Ursula,2016-06-17,"[' Nick Perrin ', ' Pedro Navarro ']",
-21,Winterthur,Tiago-Barros-Quintett,2016-06-17,"['Tiago Barros Quintett ', ' Tiago Barros ', ' Oliver Pellet ', ' Simone Bollini ', ' Dudu Penz ', ' Mauro Martins ']",
-22,Basel,Enders-Kurmann-Boudreaux,2016-06-17,"[' Johannes Enders ', ' Stephan Kurmann ', ' Jeff Boudreaux ']",
-23,Baden,Bridge-Pipers-Jazz-Band,2016-06-17,"[' Alexander Ette ', ' Denis Liechti ', ' Peter Thomann ', ' Didier Karl ', ' Willy-Marc Schmid ', ' Heinz Hänni ', ' Erwin Bieri ', ' Cornelia Wartenweiler ']",
-24,Winterthur,Within-Destruction,2016-06-17,"['Within Destruction ', ' Gutrectomy ']",
-25,Thun,Schlosskonzerte-Thun-Neue-Töne-aus-Chicago,2016-06-17,"[' Mike Harmon ', ' Peter Manheim ', ' Samuel Mösching ']",
-26,Luzern,EPMD,2016-06-17,['EPMD '],
-27,Frick,Chupacabras,2016-06-17,['Chupacabras '],
-28,Bern,Skip-&-Die,2016-06-17,"['Skip & Die ', ' support: Yawl ']",
-29,null,Matura-Bash-Reverie-live,2016-06-17,['Reverie '],
-30,Zürich,Into-the-Sun,2016-06-17,['DJs Matoma '],
+location,event,date,artists,genre
+Bern,Festival-Polyphonie-der-Kulturen,2016-06-17,[' Pierre-Alain Clerc '],Classic
+Hinwil,Rock-the-Ring,2016-06-17,"['Queen & Adam Lambert ', ' Marillion ']",Pop
+Kriens,B-Sides-Festival,2016-06-17,['Ginger and the Ghost '],Pop
+Kriens,B-Sides-Festival,2016-06-17,['Destroyer '],Pop
+Basel,Orgelspiel-zum-Feierabend,2016-06-17,['Susanne Doll '],Classic
+Luzern,Goodbye-Irené-und-Henk,2016-06-17,"[' Valentin Baumgartner ', ' Theo Känzig ', ' Simon Iten ']",
+Dietikon,Feierabendmusik-in-der-Kirche,2016-06-17,"['Teresa Hackel ', ' Bernhard Hörler ']",Classic
+Gerlafingen,Rockabilly-Stomp,2016-06-17,['The Vargas Brothers '],
+Zürich,Ken-Boothe,2016-06-17,"['Ken Boothe ', ' House of Riddim ']",
+Zürich,Festspiele-Zürich,2016-06-17,"[' Moussa Cissokho ', ' Jan Galega Brönnimann ', ' Omri Hason ']",
+Zürich,Festspiele-Zürich-Artist-in-Residence,2016-06-17,[' Lisa Batiashvili '],Classic
+Winterthur,Benefizkonzert-Verein-Allegro,2016-06-17,[' Kenneth Henderson '],Classic
+Basel,1.-Schlusskonzert,2016-06-17,"[' Giulia Ott ', ' Bastian Loewe Yanez ', ' Lucía Carro Veiga ', ' José Andrés Fernández Camacho ', ' Anna Tcybuleva ']",Classic
+Zürich,Royal-Arena-Newcomer,2016-06-17,[' Indigod '],
+Zürich,Requiem-in-d-Moll,2016-06-17,"[' Aurea Marston ', ' Susanne Puchegger ', ' Martin Hostettler ', ' Yongfan Chen-Hauser ']",Classic
+Winterthur,Encanta,2016-06-17,"[' Tanja Corona ', ' Nadia Fontana ', ' Paola Fontana ']",Pop
+Rheinfelden,Echoes-of-Swing,2016-06-17,"[' Colin Dawson ', ' Chris Hopkins ', ' Bernd Lhotzky ', ' Oliver Mewes ']",
+Pratteln,Gojira,2016-06-17,['Gojira '],
+Zürich,Quattro-stagioni-Aber-anders,2016-06-17,"['Julien Quentin ', ' Martynas Levickis ', ' Rosanne Philippens ']",
+Zürich,Allemano-Reisinger-Weber,2016-06-17,"[' Lina Allemano ', ' Wolfgang Reisinger ', ' Christian Weber ']",
+Bolligen,Fin-de-curso-Flamencotanz-La-Ursula,2016-06-17,"[' Nick Perrin ', ' Pedro Navarro ']",
+Winterthur,Tiago-Barros-Quintett,2016-06-17,"['Tiago Barros Quintett ', ' Tiago Barros ', ' Oliver Pellet ', ' Simone Bollini ', ' Dudu Penz ', ' Mauro Martins ']",
+Basel,Enders-Kurmann-Boudreaux,2016-06-17,"[' Johannes Enders ', ' Stephan Kurmann ', ' Jeff Boudreaux ']",
+Baden,Bridge-Pipers-Jazz-Band,2016-06-17,"[' Alexander Ette ', ' Denis Liechti ', ' Peter Thomann ', ' Didier Karl ', ' Willy-Marc Schmid ', ' Heinz Hänni ', ' Erwin Bieri ', ' Cornelia Wartenweiler ']",
+Winterthur,Within-Destruction,2016-06-17,"['Within Destruction ', ' Gutrectomy ']",
+Thun,Schlosskonzerte-Thun-Neue-Töne-aus-Chicago,2016-06-17,"[' Mike Harmon ', ' Peter Manheim ', ' Samuel Mösching ']",
+Luzern,EPMD,2016-06-17,['EPMD '],
+Frick,Chupacabras,2016-06-17,['Chupacabras '],
+Bern,Skip-&-Die,2016-06-17,"['Skip & Die ', ' support: Yawl ']",
+null,Matura-Bash-Reverie-live,2016-06-17,['Reverie '],
+Zürich,Into-the-Sun,2016-06-17,['DJs Matoma '],

@@ -1,60 +1,60 @@
-,location,event,date,artists,genre
-0,Zürich,Oh-diese-verflixte-Mücke!,2015-10-31,"['Laida Aliberdi ', ' Ana-Cristina Silvestru ', ' Fabienne Skarpetowski ']",Pop
-1,Winterthur,Note-Noire-Quartett,2015-10-31,"[' Ruben Chaviano ', ' Roberto Beneventi ', ' Tommaso Papini ', ' Mirco Capecchi ']",
-2,Zürich,Oh-diese-verflixte-Mücke!,2015-10-31,"['Laida Aliberdi ', ' Ana-Cristina Silvestru ', ' Fabienne Skarpetowski ']",Pop
-3,Zürich,Urban-Love,2015-10-31,"['Kollegah ', ' Blut & Kasse ', ' Lumaraa ']",
-4,Zürich,Jazznojazz,2015-10-31,"[' Stefan Rusconi ', ' Fabian Gisler ', ' Claudio Strüby ', ' Aimée Winzeler ', ' Serafin Kehl ']",
-5,Zürich,Andy-Gruber-Band,2015-10-31,['Andy Gruber Band '],traditional
-6,Bülach,Elias-Oratorium,2015-10-31,"[' Maria Bernius ', ' Anja Powischer ', ' Ralf Simon ', ' Markus Volpert ']",Classic
-7,Basel,Carte-blanche-für-Wilhelm-Bruck,2015-10-31,"[' Wilhelm Bruck ', ' Abril Padilla ', ' Charlotte Torres ', ' Thilo Hirsch ']",Classic
-8,Trimbach,Passionsoratorium-Seliges-Erwägen,2015-10-31,"[' Ruth Achermann ', ' Richard Resch ', ' Tobias König ', ' Patrick Oetterli ', ' Thomas Fluor ']",Classic
-9,Basel,Celo-&-Abdi,2015-10-31,['Celo & Abdi '],
-10,Basel,The-Soul-Refrigerators,2015-10-31,"[' Bianca Dickel ', ' Andreas Mäder ', ' Ingo Hoffarth ', ' Thorsten Jabas ', ' Janic Glatzel ', ' Jochen Künze ']",
-11,Schaffhausen,40-Jahre-Guggenmusik-Bölle-Frässer-Schaffhausen,2015-10-31,[' Tom Alex Band Gottmadingen '],
-12,null,Gramatik,2015-10-31,"['Gramatik ', ' support:The Noisy Freaks ']",Electronic
-13,Basel,Benefizkonzert-Elias,2015-10-31,"[' Miriam Meier ', ' Judith Thielsen ', ' Michael Connaire ', ' Konstantin Heintel ']",Classic
-14,Zürich,Jazznojazz,2015-10-31,"[' Bob James ', ' Chuck Loeb ', ' Nathan East ', ' Harvey Mason ']",
-15,Winterthur,Trio-Sabine-Meyer,2015-10-31,"['Sabine Meyer ', ' Daniel Hope ', ' Sebastian Knauer ']",Classic
-16,Zürich,Gramatik,2015-10-31,"['Gramatik ', ' support:The Noisy Freaks ']",Electronic
-17,Luzern,Messa-da-Requiem,2015-10-31,"[' Violetta Radomirska ', ' Angelo Ferrari ', ' Marc-Olivier Oetterli ']",Classic
-18,Zürich,Sibelius,2015-10-31,[' Lisa Batiashvili '],Classic
-19,Zürich,Donots,2015-10-31,['Donots '],
-20,Dottikon,A-Night-at-the-Movies,2015-10-31,[' Cathryn Lehmann '],Classic
-21,Zürich,Jazznojazz,2015-10-31,"[' Lisa Simone ', ' Hervé Samb ', ' Reggie Washington ', ' Sonny Troupé ']",
-22,Baden,Nature-in-the-City,2015-10-31,['Nature in the City '],Pop
-23,Zürich,Ensemble-für-Neue-Musik-Zürich,2015-10-31,"['Hans-Peter Frehner ', ' Manfred Spitaler ', ' Viktor Müller ', ' Lorenz Haas ', ' Daniela Müller ', ' Nicola Romanò ']",Classic
-24,Zürich,Jenisch-Stubete-mit-Fründe,2015-10-31,['Pascal Birchler '],
-25,Basel,Seat-Music-Session,2015-10-31,"['Michael Grimm ', ' Laith Al-Deen ', ' Shayna Steele ']",Pop
-26,Zürich,I-Visconti-Dimezzati,2015-10-31,"[' Michele Siciliano ', ' Nevio Tebaldi ', ' Florian Lüthi ']",
-27,Bern,Bluezballz,2015-10-31,"[' Jan Bukacek ', ' Thomas L.C. Elsasser ', ' Roger T. ']",
-28,Zug,Konzert-zu-Ehren-von-Carl-Rütti,2015-10-31,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-29,Jona,Mundartrock-mit-Plattentaufe,2015-10-31,[' Garacho '],
-30,Münchenstein,A-Rock-Strings-Night,2015-10-31,[' Exil46 '],
-31,Pratteln,U.F.O.,2015-10-31,['U.F.O. '],
-32,Basel,Zum-100.-Geburtstag-von-Philipp-Eichenwald,2015-10-31,"[' Mirka cepanovic ', ' Matthias Würsch ']",Classic
-33,Zürich,Messer-Chups-&-Zombirella,2015-10-31,['Messer Chups & Zombirella '],Electronic
-34,Zürich,Musik-im-Rausch,2015-10-31,['Conductor: Deborah Marchetti '],Classic
-35,Uster,Steamboat-Switzerland,2015-10-31,"[' Dominik Blum ', ' Marino Pliakas ', ' Lucas Niggli ']",
-36,Baden,Wynavalley-Oldtime-Jazzband,2015-10-31,"[' Peter C. Beyeler ', ' Shilo Buck ', ' Werner Gisin ', ' Heinz Glauser ', ' Max Keller ', ' Walter Daetwyler ', ' Special Guest: Regi Sager ']",
-37,Zug,Kieran-Goss,2015-10-31,['Kieran Goss '],Pop
-38,Frauenfeld,Galgevögel,2015-10-31,['Galgevögel '],Pop
-39,Zürich,Trio-Chemirani,2015-10-31,"[' Keyvan Chemirani ', ' Bijan Chemirani ', ' Djamchid Chemirani ']",
-40,Basel,Bokani-Dyer-Quintet,2015-10-31,"[' Mats Spillmann ', ' Donat Fisch ', ' Bokani Dyer ', ' Stephan Kurmann ', ' Norbert Pfammatter ']",
-41,null,Sarah-McKenzie,2015-10-31,['Sarah McKenzie '],
-42,Feuerthalen,Jade,2015-10-31,"[' Martin Stadelmann ', ' Recha-Maria Daengeli ', ' Dave Scherler ', ' Martin Streule ']",
-43,Visp,Albert-Hammond,2015-10-31,['Albert Hammond '],Pop
-44,Winterthur,Schmutzki,2015-10-31,['Schmutzki '],
-45,Zürich,Adrian-Frey-Trio,2015-10-31,"[' Adrian Frey ', ' Dominique Girod ', ' Tony Renold ']",
-46,Basel,Impro-Duos,2015-10-31,"[' Tassilo Dellers ', ' Thomas Weiss ']",
-47,Sankt-Gallen,Kilbi-im-Fall,2015-10-31,"['Mbongwana Star ', "" Stephen O'Malley "", ' Selvhenter ', ' Sinkane ', ' Du Blonde ', ' DJ Fett ']",
-48,Cham,10-Jahre-Live-in-Cham,2015-10-31,['The Nits '],Pop
-49,Zürich,C.-Gibbs,2015-10-31,['C. Gibbs '],Pop
-50,Chur,Patrice,2015-10-31,['Patrice '],
-51,null,Jeff-Zima-Duo,2015-10-31,"['Jeff Zima Duo ', ' Jeff Zima ', ' Marty Vickers ']",
-52,Zürich,Antun-Opic,2015-10-31,['Antun Opic '],
-53,Zürich,Nishe,2015-10-31,['Nishe '],
-54,null,Kilbi-im-Fall,2015-10-31,"['Mbongwana Star ', "" Stephen O'Malley "", ' Selvhenter ', ' Sinkane ', ' Du Blonde ', ' DJ Fett ']",
-55,Basel,Antiseed,2015-10-31,['DJs Charlton '],Electronic
-56,Zürich,Jazznojazz,2015-10-31,"[' Marcus Miller ', ' Marquis Hill ', ' Alex Han ', ' Adam Agati ', ' Brett Williams ', ' Alex Bailey ', ' Mino Cinelu ']",
-57,Zürich,Amélie-Junes,2015-10-31,"[' Amélie Junes ', ' Michel Spahr ', ' Benjamin Hartwig ', ' Nicolas Stocker ']",
-58,Zürich,Fright-Night-Welcome-to-the-Jungle,2015-10-31,['King Zebra '],
+location,event,date,artists,genre
+Zürich,Oh-diese-verflixte-Mücke!,2015-10-31,"['Laida Aliberdi ', ' Ana-Cristina Silvestru ', ' Fabienne Skarpetowski ']",Pop
+Winterthur,Note-Noire-Quartett,2015-10-31,"[' Ruben Chaviano ', ' Roberto Beneventi ', ' Tommaso Papini ', ' Mirco Capecchi ']",
+Zürich,Oh-diese-verflixte-Mücke!,2015-10-31,"['Laida Aliberdi ', ' Ana-Cristina Silvestru ', ' Fabienne Skarpetowski ']",Pop
+Zürich,Urban-Love,2015-10-31,"['Kollegah ', ' Blut & Kasse ', ' Lumaraa ']",
+Zürich,Jazznojazz,2015-10-31,"[' Stefan Rusconi ', ' Fabian Gisler ', ' Claudio Strüby ', ' Aimée Winzeler ', ' Serafin Kehl ']",
+Zürich,Andy-Gruber-Band,2015-10-31,['Andy Gruber Band '],traditional
+Bülach,Elias-Oratorium,2015-10-31,"[' Maria Bernius ', ' Anja Powischer ', ' Ralf Simon ', ' Markus Volpert ']",Classic
+Basel,Carte-blanche-für-Wilhelm-Bruck,2015-10-31,"[' Wilhelm Bruck ', ' Abril Padilla ', ' Charlotte Torres ', ' Thilo Hirsch ']",Classic
+Trimbach,Passionsoratorium-Seliges-Erwägen,2015-10-31,"[' Ruth Achermann ', ' Richard Resch ', ' Tobias König ', ' Patrick Oetterli ', ' Thomas Fluor ']",Classic
+Basel,Celo-&-Abdi,2015-10-31,['Celo & Abdi '],
+Basel,The-Soul-Refrigerators,2015-10-31,"[' Bianca Dickel ', ' Andreas Mäder ', ' Ingo Hoffarth ', ' Thorsten Jabas ', ' Janic Glatzel ', ' Jochen Künze ']",
+Schaffhausen,40-Jahre-Guggenmusik-Bölle-Frässer-Schaffhausen,2015-10-31,[' Tom Alex Band Gottmadingen '],
+null,Gramatik,2015-10-31,"['Gramatik ', ' support:The Noisy Freaks ']",Electronic
+Basel,Benefizkonzert-Elias,2015-10-31,"[' Miriam Meier ', ' Judith Thielsen ', ' Michael Connaire ', ' Konstantin Heintel ']",Classic
+Zürich,Jazznojazz,2015-10-31,"[' Bob James ', ' Chuck Loeb ', ' Nathan East ', ' Harvey Mason ']",
+Winterthur,Trio-Sabine-Meyer,2015-10-31,"['Sabine Meyer ', ' Daniel Hope ', ' Sebastian Knauer ']",Classic
+Zürich,Gramatik,2015-10-31,"['Gramatik ', ' support:The Noisy Freaks ']",Electronic
+Luzern,Messa-da-Requiem,2015-10-31,"[' Violetta Radomirska ', ' Angelo Ferrari ', ' Marc-Olivier Oetterli ']",Classic
+Zürich,Sibelius,2015-10-31,[' Lisa Batiashvili '],Classic
+Zürich,Donots,2015-10-31,['Donots '],
+Dottikon,A-Night-at-the-Movies,2015-10-31,[' Cathryn Lehmann '],Classic
+Zürich,Jazznojazz,2015-10-31,"[' Lisa Simone ', ' Hervé Samb ', ' Reggie Washington ', ' Sonny Troupé ']",
+Baden,Nature-in-the-City,2015-10-31,['Nature in the City '],Pop
+Zürich,Ensemble-für-Neue-Musik-Zürich,2015-10-31,"['Hans-Peter Frehner ', ' Manfred Spitaler ', ' Viktor Müller ', ' Lorenz Haas ', ' Daniela Müller ', ' Nicola Romanò ']",Classic
+Zürich,Jenisch-Stubete-mit-Fründe,2015-10-31,['Pascal Birchler '],
+Basel,Seat-Music-Session,2015-10-31,"['Michael Grimm ', ' Laith Al-Deen ', ' Shayna Steele ']",Pop
+Zürich,I-Visconti-Dimezzati,2015-10-31,"[' Michele Siciliano ', ' Nevio Tebaldi ', ' Florian Lüthi ']",
+Bern,Bluezballz,2015-10-31,"[' Jan Bukacek ', ' Thomas L.C. Elsasser ', ' Roger T. ']",
+Zug,Konzert-zu-Ehren-von-Carl-Rütti,2015-10-31,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
+Jona,Mundartrock-mit-Plattentaufe,2015-10-31,[' Garacho '],
+Münchenstein,A-Rock-Strings-Night,2015-10-31,[' Exil46 '],
+Pratteln,U.F.O.,2015-10-31,['U.F.O. '],
+Basel,Zum-100.-Geburtstag-von-Philipp-Eichenwald,2015-10-31,"[' Mirka cepanovic ', ' Matthias Würsch ']",Classic
+Zürich,Messer-Chups-&-Zombirella,2015-10-31,['Messer Chups & Zombirella '],Electronic
+Zürich,Musik-im-Rausch,2015-10-31,['Conductor: Deborah Marchetti '],Classic
+Uster,Steamboat-Switzerland,2015-10-31,"[' Dominik Blum ', ' Marino Pliakas ', ' Lucas Niggli ']",
+Baden,Wynavalley-Oldtime-Jazzband,2015-10-31,"[' Peter C. Beyeler ', ' Shilo Buck ', ' Werner Gisin ', ' Heinz Glauser ', ' Max Keller ', ' Walter Daetwyler ', ' Special Guest: Regi Sager ']",
+Zug,Kieran-Goss,2015-10-31,['Kieran Goss '],Pop
+Frauenfeld,Galgevögel,2015-10-31,['Galgevögel '],Pop
+Zürich,Trio-Chemirani,2015-10-31,"[' Keyvan Chemirani ', ' Bijan Chemirani ', ' Djamchid Chemirani ']",
+Basel,Bokani-Dyer-Quintet,2015-10-31,"[' Mats Spillmann ', ' Donat Fisch ', ' Bokani Dyer ', ' Stephan Kurmann ', ' Norbert Pfammatter ']",
+null,Sarah-McKenzie,2015-10-31,['Sarah McKenzie '],
+Feuerthalen,Jade,2015-10-31,"[' Martin Stadelmann ', ' Recha-Maria Daengeli ', ' Dave Scherler ', ' Martin Streule ']",
+Visp,Albert-Hammond,2015-10-31,['Albert Hammond '],Pop
+Winterthur,Schmutzki,2015-10-31,['Schmutzki '],
+Zürich,Adrian-Frey-Trio,2015-10-31,"[' Adrian Frey ', ' Dominique Girod ', ' Tony Renold ']",
+Basel,Impro-Duos,2015-10-31,"[' Tassilo Dellers ', ' Thomas Weiss ']",
+Sankt-Gallen,Kilbi-im-Fall,2015-10-31,"['Mbongwana Star ', "" Stephen O'Malley "", ' Selvhenter ', ' Sinkane ', ' Du Blonde ', ' DJ Fett ']",
+Cham,10-Jahre-Live-in-Cham,2015-10-31,['The Nits '],Pop
+Zürich,C.-Gibbs,2015-10-31,['C. Gibbs '],Pop
+Chur,Patrice,2015-10-31,['Patrice '],
+null,Jeff-Zima-Duo,2015-10-31,"['Jeff Zima Duo ', ' Jeff Zima ', ' Marty Vickers ']",
+Zürich,Antun-Opic,2015-10-31,['Antun Opic '],
+Zürich,Nishe,2015-10-31,['Nishe '],
+null,Kilbi-im-Fall,2015-10-31,"['Mbongwana Star ', "" Stephen O'Malley "", ' Selvhenter ', ' Sinkane ', ' Du Blonde ', ' DJ Fett ']",
+Basel,Antiseed,2015-10-31,['DJs Charlton '],Electronic
+Zürich,Jazznojazz,2015-10-31,"[' Marcus Miller ', ' Marquis Hill ', ' Alex Han ', ' Adam Agati ', ' Brett Williams ', ' Alex Bailey ', ' Mino Cinelu ']",
+Zürich,Amélie-Junes,2015-10-31,"[' Amélie Junes ', ' Michel Spahr ', ' Benjamin Hartwig ', ' Nicolas Stocker ']",
+Zürich,Fright-Night-Welcome-to-the-Jungle,2015-10-31,['King Zebra '],

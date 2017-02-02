@@ -1,29 +1,29 @@
-,location,event,date,artists,genre
-0,Glattbrugg,Zürich-Openair,2014-08-29,"['Deadmau5 ', ' Editors ', ' Woodkid ']",Pop
-1,Luzern,Meisterkurs-Gesang-5.-Tag,2014-08-29,[' Barbara Hannigan '],Classic
-2,Arbon,Summerdays-Festival,2014-08-29,"['Simple Minds ', ' The Australian Pink Floyd Show ', "" Mother's Finest ""]",Pop
-3,Zug,Rock-the-Docks,2014-08-29,"['Russkaja ', ' Tiger Bell ']",
-4,Willisau,Jazz-Festival-Willisau,2014-08-29,"[' Tobias Preisig ', ' Michael Flury ']",
-5,Willisau,Jazz-Festival-Willisau,2014-08-29,"[' Tobias Preisig ', ' Michael Flury ']",
-6,Luzern,Piano-Entertainment,2014-08-29,['Daniel Roos '],Pop
-7,Basel,Orgelspiel-zum-Feierabend,2014-08-29,['Jean-Claude Zehnder '],Classic
-8,Liestal,Trio-Fortuna,2014-08-29,"['Patricia Zanella ', ' Balint Csontos ', ' Wladislav Fortuna ']",Classic
-9,Luzern,Sinfoniekonzert-12,2014-08-29,[' Anja Harteros '],Classic
-10,Saanen,Menuhin-Festival-Gstaad,2014-08-29,"['Julia Fischer ', ' Yuliana Avdeeva ']",Classic
-11,Zürich,Öffentliches-Konzert,2014-08-29,"['Ursula Lörtscher ', ' Sylvie Haug ']",Classic
-12,Montreux,Septembre-musical,2014-08-29,[' conductor: Mikhail Pletnev '],Classic
-13,Willisau,Jazz-Festival-Willisau,2014-08-29,"['Chimaira ', ' Radian Meets Howe Gelb ', ' Philipp Gropper ', ' John Schröder ', ' Oliver Potratz ', ' Alex Huber ']",
-14,Rheinfelden,Casa-Loma-Jazz-Band,2014-08-29,"[' Antoine Bix Moser ', ' Roland Meder ', ' Pierre Bernhard ']",
-15,Solothurn,The-Sounds,2014-08-29,['The Sounds '],Electronic
-16,Zürich,Acoustic-Friday,2014-08-29,['Thomas Hoffmann '],Pop
-17,Thun,Streeo,2014-08-29,"[' Lukas Roos ', ' Andrey Tatarinets ', ' Manuel Pasquinelli ']",Pop
-18,Basel,Masterabsolventen-der-Hochschule-für-Musik-Basel,2014-08-29,"[' Julie Fahrer ', ' Neele Pfleiderer ', ' Sebastian Hirsig ']",
-19,Chur,Riccarda-Vedana,2014-08-29,"['Riccarda Vedana ', ' Ernst Eggenberger ', ' Felix Rüedi ', ' Andreas Ebenkofler ', ' Rolf Caflisch ']",
-20,Baden,Christina-Jaccard,2014-08-29,['Christina Jaccard '],
-21,Nyon,Luna-Classics,2014-08-29,['Menahem Pressler '],Classic
-22,Zürich,Tanya-Stephens,2014-08-29,['Tanya Stephens '],
-23,Uster,Iron-Savior,2014-08-29,['Iron Savior '],
-24,Bar,Bistro,2014-08-29,"[' Daniel Gauthier ', ' Eva Barthas ', ' Koryun Asatryan ', ' Sebastian Pottmeier ', ' Jang Eun Bae ', ' Barbara Hannigan ', ' Huw Watkins ']",Classic
-25,null,The-Bloody-Beetroots,2014-08-29,['The Bloody Beetroots '],Electronic
-26,Lausanne,D-comme-Detroit,2014-08-29,['DJs Jeff Mills '],
-27,Willisau,Jazz-Festival-Willisau,2014-08-29,"[' Vincent Glanzmann ', ' Hans-Peter Pfammatter ', ' Manuel Troller ', ' Mario Hänni ', ' Emanuel Künzi ', ' Lukas Weber ']",
+location,event,date,artists,genre
+Glattbrugg,Zürich-Openair,2014-08-29,"['Deadmau5 ', ' Editors ', ' Woodkid ']",Pop
+Luzern,Meisterkurs-Gesang-5.-Tag,2014-08-29,[' Barbara Hannigan '],Classic
+Arbon,Summerdays-Festival,2014-08-29,"['Simple Minds ', ' The Australian Pink Floyd Show ', "" Mother's Finest ""]",Pop
+Zug,Rock-the-Docks,2014-08-29,"['Russkaja ', ' Tiger Bell ']",
+Willisau,Jazz-Festival-Willisau,2014-08-29,"[' Tobias Preisig ', ' Michael Flury ']",
+Willisau,Jazz-Festival-Willisau,2014-08-29,"[' Tobias Preisig ', ' Michael Flury ']",
+Luzern,Piano-Entertainment,2014-08-29,['Daniel Roos '],Pop
+Basel,Orgelspiel-zum-Feierabend,2014-08-29,['Jean-Claude Zehnder '],Classic
+Liestal,Trio-Fortuna,2014-08-29,"['Patricia Zanella ', ' Balint Csontos ', ' Wladislav Fortuna ']",Classic
+Luzern,Sinfoniekonzert-12,2014-08-29,[' Anja Harteros '],Classic
+Saanen,Menuhin-Festival-Gstaad,2014-08-29,"['Julia Fischer ', ' Yuliana Avdeeva ']",Classic
+Zürich,Öffentliches-Konzert,2014-08-29,"['Ursula Lörtscher ', ' Sylvie Haug ']",Classic
+Montreux,Septembre-musical,2014-08-29,[' conductor: Mikhail Pletnev '],Classic
+Willisau,Jazz-Festival-Willisau,2014-08-29,"['Chimaira ', ' Radian Meets Howe Gelb ', ' Philipp Gropper ', ' John Schröder ', ' Oliver Potratz ', ' Alex Huber ']",
+Rheinfelden,Casa-Loma-Jazz-Band,2014-08-29,"[' Antoine Bix Moser ', ' Roland Meder ', ' Pierre Bernhard ']",
+Solothurn,The-Sounds,2014-08-29,['The Sounds '],Electronic
+Zürich,Acoustic-Friday,2014-08-29,['Thomas Hoffmann '],Pop
+Thun,Streeo,2014-08-29,"[' Lukas Roos ', ' Andrey Tatarinets ', ' Manuel Pasquinelli ']",Pop
+Basel,Masterabsolventen-der-Hochschule-für-Musik-Basel,2014-08-29,"[' Julie Fahrer ', ' Neele Pfleiderer ', ' Sebastian Hirsig ']",
+Chur,Riccarda-Vedana,2014-08-29,"['Riccarda Vedana ', ' Ernst Eggenberger ', ' Felix Rüedi ', ' Andreas Ebenkofler ', ' Rolf Caflisch ']",
+Baden,Christina-Jaccard,2014-08-29,['Christina Jaccard '],
+Nyon,Luna-Classics,2014-08-29,['Menahem Pressler '],Classic
+Zürich,Tanya-Stephens,2014-08-29,['Tanya Stephens '],
+Uster,Iron-Savior,2014-08-29,['Iron Savior '],
+Bar,Bistro,2014-08-29,"[' Daniel Gauthier ', ' Eva Barthas ', ' Koryun Asatryan ', ' Sebastian Pottmeier ', ' Jang Eun Bae ', ' Barbara Hannigan ', ' Huw Watkins ']",Classic
+null,The-Bloody-Beetroots,2014-08-29,['The Bloody Beetroots '],Electronic
+Lausanne,D-comme-Detroit,2014-08-29,['DJs Jeff Mills '],
+Willisau,Jazz-Festival-Willisau,2014-08-29,"[' Vincent Glanzmann ', ' Hans-Peter Pfammatter ', ' Manuel Troller ', ' Mario Hänni ', ' Emanuel Künzi ', ' Lukas Weber ']",

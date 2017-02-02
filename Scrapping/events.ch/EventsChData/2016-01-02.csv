@@ -1,11 +1,11 @@
-,location,event,date,artists,genre
-0,Luzern,Improvisationen-zum-neuen-Jahr,2016-01-02,[' Gabriela Montero '],Classic
-1,null,Eluveitie,2016-01-02,"[' support: Epica ', ' Faun ', ' Krampus ']",
-2,Bern,Neujahrskonzert,2016-01-02,"[' Svetlana Ignatovich ', ' Marie-Claude Chappuis ', ' Uwe Stickert ', ' Robin Adams ']",Classic
-3,Wettingen,Neujahrskonzert,2016-01-02,[' Chiara Enderle '],Classic
-4,Basel,Bach-und...,2016-01-02,['Volker Biesenbender '],Classic
-5,Zürich,Mozart-Heroes,2016-01-02,"['Chris Krebs ', ' Phil Scherrer ']",Classic
-6,Baden,Carmatango,2016-01-02,"['Carmatango ', ' Carlos Ramirez ', ' Marcelo Rossini ']",
-7,Baden,Hier-spricht-Paul,2016-01-02,"[' Andrea Nydegger ', ' Michael Baumann ', ' Bruno Hochstrasser ', ' Vanja Vukelic ', ' Jonas Brügger ', ' Fortunat Häfliger ', ' Lukas Brügger ', ' Tobias Huwyler ']",Pop
-8,Basel,Impro-Duos,2016-01-02,"['Giovanni Saraceno ', ' Kilian Dellers ']",
-9,Basel,Season-Opening,2016-01-02,['DJs Matthias Tanzmann '],Electronic
+location,event,date,artists,genre
+Luzern,Improvisationen-zum-neuen-Jahr,2016-01-02,[' Gabriela Montero '],Classic
+null,Eluveitie,2016-01-02,"[' support: Epica ', ' Faun ', ' Krampus ']",
+Bern,Neujahrskonzert,2016-01-02,"[' Svetlana Ignatovich ', ' Marie-Claude Chappuis ', ' Uwe Stickert ', ' Robin Adams ']",Classic
+Wettingen,Neujahrskonzert,2016-01-02,[' Chiara Enderle '],Classic
+Basel,Bach-und...,2016-01-02,['Volker Biesenbender '],Classic
+Zürich,Mozart-Heroes,2016-01-02,"['Chris Krebs ', ' Phil Scherrer ']",Classic
+Baden,Carmatango,2016-01-02,"['Carmatango ', ' Carlos Ramirez ', ' Marcelo Rossini ']",
+Baden,Hier-spricht-Paul,2016-01-02,"[' Andrea Nydegger ', ' Michael Baumann ', ' Bruno Hochstrasser ', ' Vanja Vukelic ', ' Jonas Brügger ', ' Fortunat Häfliger ', ' Lukas Brügger ', ' Tobias Huwyler ']",Pop
+Basel,Impro-Duos,2016-01-02,"['Giovanni Saraceno ', ' Kilian Dellers ']",
+Basel,Season-Opening,2016-01-02,['DJs Matthias Tanzmann '],Electronic

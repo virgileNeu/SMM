@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Basel,Bachelorkonzert,2013-06-10,[' Victor Hege '],Classic
-1,Basel,Bachelorkonzert,2013-06-10,"[' Michael Ferner ', ' Max Asselborn ']",Classic
-2,Basel,Improvisationskonzert,2013-06-10,[' Elisa Arciniegas Pinilla '],Classic
-3,Basel,Masterrezital,2013-06-10,[' Marc Hood '],Classic
-4,Salzhaus,Winterthur,2013-06-10,['BAP '],BAP
-5,Zürich,Sommerkonzert,2013-06-10,[' Jinsang Lee '],Classic
-6,Zürich,City-And-Colour,2013-06-10,"['City And Colour ', ' Twin Forks ']",Pop
-7,Zürich,A-Jazz-Night,2013-06-10,"['Yumi Jacqueline Ito ', ' Alessandro Pittini ', ' Colin Morton ', ' Roberto Carella ']",
-8,Zürich,Cedell-Davis-&-Brethren,2013-06-10,['Cedell Davis & Brethren '],
-9,Zürich,Ernst-Who-Robi-What-feat.-Emel,2013-06-10,"[' Ernst Wirz ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' Emel ']",
-10,Bern,Phasenprüfung-II,2013-06-10,"['Sibyl Hofstetter ', ' Samuel Spörri ', ' Christophe Dayer ', ' Michael Haudenschild ', ' Muralt ', ' Florian Schwappacher ']",
-11,Winterthur,Rob-Moir,2013-06-10,['Rob Moir '],Pop
-12,Basel,Masterrezital,2013-06-10,[' Mara Miribung '],Classic
-13,Basel,Masterrezital,2013-06-10,[' Jennifer Tauder '],Classic
-14,Zürich,Esrarê-Deyîr,2013-06-10,"['Esrarê Deyîr ', ' Adem Karakoç ', ' Tarik Ordu ', ' Markus Ischer ', ' Stefan Mattig ', ' Sonja Boesnach ']",
-15,Bern,Possessed-By-Paul-James,2013-06-10,['Possessed By Paul James '],
+location,event,date,artists,genre
+Basel,Bachelorkonzert,2013-06-10,[' Victor Hege '],Classic
+Basel,Bachelorkonzert,2013-06-10,"[' Michael Ferner ', ' Max Asselborn ']",Classic
+Basel,Improvisationskonzert,2013-06-10,[' Elisa Arciniegas Pinilla '],Classic
+Basel,Masterrezital,2013-06-10,[' Marc Hood '],Classic
+Salzhaus,Winterthur,2013-06-10,['BAP '],BAP
+Zürich,Sommerkonzert,2013-06-10,[' Jinsang Lee '],Classic
+Zürich,City-And-Colour,2013-06-10,"['City And Colour ', ' Twin Forks ']",Pop
+Zürich,A-Jazz-Night,2013-06-10,"['Yumi Jacqueline Ito ', ' Alessandro Pittini ', ' Colin Morton ', ' Roberto Carella ']",
+Zürich,Cedell-Davis-&-Brethren,2013-06-10,['Cedell Davis & Brethren '],
+Zürich,Ernst-Who-Robi-What-feat.-Emel,2013-06-10,"[' Ernst Wirz ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' Emel ']",
+Bern,Phasenprüfung-II,2013-06-10,"['Sibyl Hofstetter ', ' Samuel Spörri ', ' Christophe Dayer ', ' Michael Haudenschild ', ' Muralt ', ' Florian Schwappacher ']",
+Winterthur,Rob-Moir,2013-06-10,['Rob Moir '],Pop
+Basel,Masterrezital,2013-06-10,[' Mara Miribung '],Classic
+Basel,Masterrezital,2013-06-10,[' Jennifer Tauder '],Classic
+Zürich,Esrarê-Deyîr,2013-06-10,"['Esrarê Deyîr ', ' Adem Karakoç ', ' Tarik Ordu ', ' Markus Ischer ', ' Stefan Mattig ', ' Sonja Boesnach ']",
+Bern,Possessed-By-Paul-James,2013-06-10,['Possessed By Paul James '],

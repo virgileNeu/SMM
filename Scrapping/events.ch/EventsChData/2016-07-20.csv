@@ -1,11 +1,11 @@
-,location,event,date,artists,genre
-0,Nyon,Paléo-Festival,2016-07-20,"['Iron Maiden ', ' Louise Attaque ']",
-1,Zürich,Orgelkonzerte-Sommerzyklus,2016-07-20,['Els Biesemans '],Classic
-2,Zürich,Jazz-Arcades,2016-07-20,"[' Marco Figini ', ' Peter Wagner ', ' Robert Weder ']",
-3,Zürich,Serenade-im-Park:-Trio-Alexander,2016-07-20,"[' Willi Zimmermann ', ' Ruth Killius ', ' Daniel Haefliger ']",Classic
-4,Saanen,Schiffs-Hommage-an-Yehudi-Menuhin-I,2016-07-20,['András Schiff '],Classic
-5,null,Stimmen,2016-07-20,['Jamie Cullum '],Pop
-6,Zürich,Jurassic-5,2016-07-20,"['Jurassic 5 ', ' The Lytics ']",
-7,Basel,Horace-Scope,2016-07-20,"[' Steve Fishwick ', ' Osian Roberts ', ' Claus Raible ', ' Giorgos Antoniou ', ' Steve Brown ']",
-8,Düdingen,Endless-Boogie,2016-07-20,['Endless Boogie '],
-9,null,Kulturfestival-St.-Gallen,2016-07-20,['Dilated Peoples '],
+location,event,date,artists,genre
+Nyon,Paléo-Festival,2016-07-20,"['Iron Maiden ', ' Louise Attaque ']",
+Zürich,Orgelkonzerte-Sommerzyklus,2016-07-20,['Els Biesemans '],Classic
+Zürich,Jazz-Arcades,2016-07-20,"[' Marco Figini ', ' Peter Wagner ', ' Robert Weder ']",
+Zürich,Serenade-im-Park:-Trio-Alexander,2016-07-20,"[' Willi Zimmermann ', ' Ruth Killius ', ' Daniel Haefliger ']",Classic
+Saanen,Schiffs-Hommage-an-Yehudi-Menuhin-I,2016-07-20,['András Schiff '],Classic
+null,Stimmen,2016-07-20,['Jamie Cullum '],Pop
+Zürich,Jurassic-5,2016-07-20,"['Jurassic 5 ', ' The Lytics ']",
+Basel,Horace-Scope,2016-07-20,"[' Steve Fishwick ', ' Osian Roberts ', ' Claus Raible ', ' Giorgos Antoniou ', ' Steve Brown ']",
+Düdingen,Endless-Boogie,2016-07-20,['Endless Boogie '],
+null,Kulturfestival-St.-Gallen,2016-07-20,['Dilated Peoples '],

@@ -1,22 +1,22 @@
-,location,event,date,artists,genre
-0,Basel,Punkt-12-Offene-Orchesterprobe,2015-06-09,"[' Toby Spence ', ' Michael Volle ']",Classic
-1,Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-09,['Polona Pockaj '],Classic
-2,Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-09,['Anna Slezakova '],Classic
-3,Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-09,['Anna Rechbauer '],Classic
-4,Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-09,"['Andrea Recinelli ', ' Francesco Braggio ']",Classic
-5,Zürich,Rezital-Master-Music-Performance-Orchester,2015-06-09,['Diego Merisi '],Classic
-6,Zürich,Zum-500.-Geburtstag-von-Cipriano-de-Rore,2015-06-09,"['Anna Steenhuis ', ' Susanna Saksenvik ', ' Martin Zeller ', ' Jonas Willimann ', ' Gauthier Cristiol ']",Classic
-7,Basel,Masterrezital,2015-06-09,[' Gemma Longoni '],Classic
-8,Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-09,['Luka Stamenkovic '],Classic
-9,Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-09,['Stephanie Pfeffer '],Classic
-10,Zürich,Zürcher-Kammerorchester,2015-06-09,['Conductor: Thomas Zehetmair '],Classic
-11,Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-09,['Anna Gschwend '],Classic
-12,Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-09,['Vojin Kocic '],Classic
-13,Pratteln,Body-Count,2015-06-09,['Body Count '],
-14,Zürich,From-Indian-Lakes,2015-06-09,['From Indian Lakes '],
-15,Zürich,Elmar-Kluth-Trio-feat.-Sarah-Peng,2015-06-09,"[' Sarah Peng ', ' Thomas Hirt ', ' Lukas Meier ', ' Elmar Kluth ']",
-16,Bern,Tinariwen,2015-06-09,['Tinariwen '],
-17,Luzern,Gästival,2015-06-09,"[' Franziska Brücker ', ' Simon Borer ', ' Anna Trauffer ', ' Emanuel Küenzi ']",
-18,Zürich,Ararat-Quintet,2015-06-09,"[' Murat Cevik ', ' Andreas Ambühl ', ' Simon Kessler ', ' Severin Graf ', ' Thomas Sonderegger ']",
-19,null,Daikaiju,2015-06-09,"['Daikaiju ', ' PJ Bond ', ' James Choice & The Bad Decisions ']",
-20,Luzern,Workshopkonzerte,2015-06-09,"[' Yanic Ambach ', ' Michael Hirst ', ' Chiara Crimaudo ', ' Selina Brenner ', ' Joel Banz ', ' Despina Corazza ']",
+location,event,date,artists,genre
+Basel,Punkt-12-Offene-Orchesterprobe,2015-06-09,"[' Toby Spence ', ' Michael Volle ']",Classic
+Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-09,['Polona Pockaj '],Classic
+Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-09,['Anna Slezakova '],Classic
+Zürich,Rezital-Master-Music-Performance-Konzert,2015-06-09,['Anna Rechbauer '],Classic
+Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-09,"['Andrea Recinelli ', ' Francesco Braggio ']",Classic
+Zürich,Rezital-Master-Music-Performance-Orchester,2015-06-09,['Diego Merisi '],Classic
+Zürich,Zum-500.-Geburtstag-von-Cipriano-de-Rore,2015-06-09,"['Anna Steenhuis ', ' Susanna Saksenvik ', ' Martin Zeller ', ' Jonas Willimann ', ' Gauthier Cristiol ']",Classic
+Basel,Masterrezital,2015-06-09,[' Gemma Longoni '],Classic
+Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-09,['Luka Stamenkovic '],Classic
+Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-09,['Stephanie Pfeffer '],Classic
+Zürich,Zürcher-Kammerorchester,2015-06-09,['Conductor: Thomas Zehetmair '],Classic
+Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-09,['Anna Gschwend '],Classic
+Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-09,['Vojin Kocic '],Classic
+Pratteln,Body-Count,2015-06-09,['Body Count '],
+Zürich,From-Indian-Lakes,2015-06-09,['From Indian Lakes '],
+Zürich,Elmar-Kluth-Trio-feat.-Sarah-Peng,2015-06-09,"[' Sarah Peng ', ' Thomas Hirt ', ' Lukas Meier ', ' Elmar Kluth ']",
+Bern,Tinariwen,2015-06-09,['Tinariwen '],
+Luzern,Gästival,2015-06-09,"[' Franziska Brücker ', ' Simon Borer ', ' Anna Trauffer ', ' Emanuel Küenzi ']",
+Zürich,Ararat-Quintet,2015-06-09,"[' Murat Cevik ', ' Andreas Ambühl ', ' Simon Kessler ', ' Severin Graf ', ' Thomas Sonderegger ']",
+null,Daikaiju,2015-06-09,"['Daikaiju ', ' PJ Bond ', ' James Choice & The Bad Decisions ']",
+Luzern,Workshopkonzerte,2015-06-09,"[' Yanic Ambach ', ' Michael Hirst ', ' Chiara Crimaudo ', ' Selina Brenner ', ' Joel Banz ', ' Despina Corazza ']",

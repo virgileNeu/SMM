@@ -1,23 +1,23 @@
-,location,event,date,artists,genre
-0,Marly,Jazz-Parade,2014-07-10,"[' Marc Sturzenegger ', ' Denis Michel ', ' voc) Pierre Ponnaz ', ' bjo) Paul Kapp ', ' voc) Patrick Perrier ', ' Gianni Solinas ']",
-1,Fislisbach,Dinner-Konzert,2014-07-10,"['Tcha Simmons Ensemble ', ' Gino Todesco ', ' Andy Bopp ', ' Eddie Walker ', ' Tcha Simmons ']",
-2,Zürich,Festspiele-Zürich,2014-07-10,"['Trovesi-Coscia ', ' Gianluigi Trovesi ', ' Gianni Coscia ']",
-3,Montreux,Montreux-Jazz-Festival,2014-07-10,"['Booker T. Jones ', ' Sweet Georgia Brown ']",
-4,Hergiswil,Lakeside-Festival,2014-07-10,['Samy Deluxe '],
-5,Marly,Jazz-Parade,2014-07-10,"['The Bootleggers ', ' Paul Lugan ', ' Fredo Bordeneuve ', ' Didier Céré ', ' Nico Lacaze ']",
-6,Lenzburg,Open-Air-Live-@-Isegass,2014-07-10,"[' Ben Sutter ', ' Beat Aschwanden ', ' Philippe Chrétien ', ' Markus Fritzsche ', ' Guest Joël Mesot ']",
-7,Zürich,M.-Ward,2014-07-10,['M. Ward '],Pop
-8,Montreux,Montreux-Jazz-Festival,2014-07-10,"['Massive Attack ', ' Banks ']",Electronic
-9,null,Liechtensteiner-Gitarrentage,2014-07-10,['Roland Dyens '],Classic
-10,Locarno,Moon-and-Stars,2014-07-10,['Laura Pausini '],Pop
-11,Montreux,Montreux-Jazz-Festival,2014-07-10,"['Moderat ', ' Darkside ']",Electronic
-12,Zürich,Live-at-Sunset,2014-07-10,['Rodrigo y Gabriela '],
-13,Basel,La-Box,2014-07-10,"[' Marco Figini ', ' Roland Köppel ', ' Michael Wipf ']",
-14,Lugano,Estival-Jazz-Lugano,2014-07-10,"['Morcheeba ', ' Gregory Porter ']",Pop
-15,Zürich,Julia-Holter,2014-07-10,['Julia Holter '],Pop
-16,St.-Moritz,Festival-da-Jazz,2014-07-10,['Dirty Loops '],
-17,Bern,The-Angry-Cats,2014-07-10,['The Angry Cats '],
-18,Zürich,Slow-Magic,2014-07-10,['Slow Magic '],Electronic
-19,Montreux,Montreux-Jazz-Festival,2014-07-10,"['Manu Lanvin & The Devil Blues ', ' Blues Pills ']",
-20,Pontresina,Mama-Bluegrass-Band,2014-07-10,['Mama Bluegrass Band '],
-21,Zürich,Dosci-Schall-&-Rauch,2014-07-10,[' Simian Keiser '],
+location,event,date,artists,genre
+Marly,Jazz-Parade,2014-07-10,"[' Marc Sturzenegger ', ' Denis Michel ', ' voc) Pierre Ponnaz ', ' bjo) Paul Kapp ', ' voc) Patrick Perrier ', ' Gianni Solinas ']",
+Fislisbach,Dinner-Konzert,2014-07-10,"['Tcha Simmons Ensemble ', ' Gino Todesco ', ' Andy Bopp ', ' Eddie Walker ', ' Tcha Simmons ']",
+Zürich,Festspiele-Zürich,2014-07-10,"['Trovesi-Coscia ', ' Gianluigi Trovesi ', ' Gianni Coscia ']",
+Montreux,Montreux-Jazz-Festival,2014-07-10,"['Booker T. Jones ', ' Sweet Georgia Brown ']",
+Hergiswil,Lakeside-Festival,2014-07-10,['Samy Deluxe '],
+Marly,Jazz-Parade,2014-07-10,"['The Bootleggers ', ' Paul Lugan ', ' Fredo Bordeneuve ', ' Didier Céré ', ' Nico Lacaze ']",
+Lenzburg,Open-Air-Live-@-Isegass,2014-07-10,"[' Ben Sutter ', ' Beat Aschwanden ', ' Philippe Chrétien ', ' Markus Fritzsche ', ' Guest Joël Mesot ']",
+Zürich,M.-Ward,2014-07-10,['M. Ward '],Pop
+Montreux,Montreux-Jazz-Festival,2014-07-10,"['Massive Attack ', ' Banks ']",Electronic
+null,Liechtensteiner-Gitarrentage,2014-07-10,['Roland Dyens '],Classic
+Locarno,Moon-and-Stars,2014-07-10,['Laura Pausini '],Pop
+Montreux,Montreux-Jazz-Festival,2014-07-10,"['Moderat ', ' Darkside ']",Electronic
+Zürich,Live-at-Sunset,2014-07-10,['Rodrigo y Gabriela '],
+Basel,La-Box,2014-07-10,"[' Marco Figini ', ' Roland Köppel ', ' Michael Wipf ']",
+Lugano,Estival-Jazz-Lugano,2014-07-10,"['Morcheeba ', ' Gregory Porter ']",Pop
+Zürich,Julia-Holter,2014-07-10,['Julia Holter '],Pop
+St.-Moritz,Festival-da-Jazz,2014-07-10,['Dirty Loops '],
+Bern,The-Angry-Cats,2014-07-10,['The Angry Cats '],
+Zürich,Slow-Magic,2014-07-10,['Slow Magic '],Electronic
+Montreux,Montreux-Jazz-Festival,2014-07-10,"['Manu Lanvin & The Devil Blues ', ' Blues Pills ']",
+Pontresina,Mama-Bluegrass-Band,2014-07-10,['Mama Bluegrass Band '],
+Zürich,Dosci-Schall-&-Rauch,2014-07-10,[' Simian Keiser '],

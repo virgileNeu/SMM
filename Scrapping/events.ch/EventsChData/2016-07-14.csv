@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,St.-Moritz,Festival-da-Jazz,2016-07-14,"[' Michael Bucher ', ' Thomas Bauser ', ' Sheldon Suter ']",
-1,Münchenstein,Summer-Stage,2016-07-14,"['Cro ', ' Malky ']",
-2,Zürich,Beyoncé,2016-07-14,['Beyoncé '],
-3,Vitznau,Rigi-Musiktage,2016-07-14,[' Diemut Poppen '],Classic
-4,Saanen,Musique-&-Famille-I-Sisters-I,2016-07-14,"['Katia Labèque ', ' Marielle Labèque ']",Classic
-5,Zürich,Zürcher-Orgel-Spiel,2016-07-14,"[' Marco Amherd ', ' Gregor Ehrsam ', ' Harald Feller ', ' Pater Theo Flury ', ' Sacha Rüegg ', ' Min Woo ']",Classic
-6,Locarno,Moon-and-Stars,2016-07-14,"['Earth Wind & Fire ', ' Tom Jones ']",Pop
-7,Montreux,Montreux-Jazz-Festival,2016-07-14,"['Santana ', ' Marcus Miller ']",
-8,Montreux,Montreux-Jazz-Festival,2016-07-14,"['Curtis Stigers ', ' Cécile McLorin Salvant ']",
-9,null,Stimmen,2016-07-14,['Ed Motta '],
-10,Montreux,Montreux-Jazz-Festival,2016-07-14,"['Floating Points ', ' Kiasmos ', ' Four Tet ']",Electronic
-11,null,Pod'Ring,2016-07-14,['Sonido gallo negro '],
-12,Basel,Clovis-Nicolas-Quintet,2016-07-14,"[' Steve Fishwick ', ' Luca Stoll ', ' Laurent Courthaliac ', ' Clovis Nicolas ', ' Luca Santaniello ']",
-13,St.-Moritz,Festival-da-Jazz,2016-07-14,"['Avishai Cohen Quartet ', ' Avishai Cohen ', ' Yonathan Avishai ', ' Nasheet Waits ', ' Yoni Zelnik ']",
-14,null,Kulturfestival-St.-Gallen,2016-07-14,['Balkan Beat Box '],
-15,Bern,View,2016-07-14,['View '],
-16,St.-Moritz,Festival-da-Jazz,2016-07-14,"['Äl Jawala ', ' Steffi Schimmer ', ' Krischan Lukanow ', ' Daniel Verdier ', ' Markus Schumacher ', ' Daniel Pellegrini ']",
+location,event,date,artists,genre
+St.-Moritz,Festival-da-Jazz,2016-07-14,"[' Michael Bucher ', ' Thomas Bauser ', ' Sheldon Suter ']",
+Münchenstein,Summer-Stage,2016-07-14,"['Cro ', ' Malky ']",
+Zürich,Beyoncé,2016-07-14,['Beyoncé '],
+Vitznau,Rigi-Musiktage,2016-07-14,[' Diemut Poppen '],Classic
+Saanen,Musique-&-Famille-I-Sisters-I,2016-07-14,"['Katia Labèque ', ' Marielle Labèque ']",Classic
+Zürich,Zürcher-Orgel-Spiel,2016-07-14,"[' Marco Amherd ', ' Gregor Ehrsam ', ' Harald Feller ', ' Pater Theo Flury ', ' Sacha Rüegg ', ' Min Woo ']",Classic
+Locarno,Moon-and-Stars,2016-07-14,"['Earth Wind & Fire ', ' Tom Jones ']",Pop
+Montreux,Montreux-Jazz-Festival,2016-07-14,"['Santana ', ' Marcus Miller ']",
+Montreux,Montreux-Jazz-Festival,2016-07-14,"['Curtis Stigers ', ' Cécile McLorin Salvant ']",
+null,Stimmen,2016-07-14,['Ed Motta '],
+Montreux,Montreux-Jazz-Festival,2016-07-14,"['Floating Points ', ' Kiasmos ', ' Four Tet ']",Electronic
+null,Pod'Ring,2016-07-14,['Sonido gallo negro '],
+Basel,Clovis-Nicolas-Quintet,2016-07-14,"[' Steve Fishwick ', ' Luca Stoll ', ' Laurent Courthaliac ', ' Clovis Nicolas ', ' Luca Santaniello ']",
+St.-Moritz,Festival-da-Jazz,2016-07-14,"['Avishai Cohen Quartet ', ' Avishai Cohen ', ' Yonathan Avishai ', ' Nasheet Waits ', ' Yoni Zelnik ']",
+null,Kulturfestival-St.-Gallen,2016-07-14,['Balkan Beat Box '],
+Bern,View,2016-07-14,['View '],
+St.-Moritz,Festival-da-Jazz,2016-07-14,"['Äl Jawala ', ' Steffi Schimmer ', ' Krischan Lukanow ', ' Daniel Verdier ', ' Markus Schumacher ', ' Daniel Pellegrini ']",

@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Zürich,Oh-See,2014-07-17,[' Cass McCombs '],
-1,Saanen,Menuhin-Festival-Gstaad,2014-07-17,['Christian Zacharias '],Classic
-2,Montreux,Montreux-Jazz-Festival,2014-07-17,"[""Keb' Mo' "", ' Benjamin Clementine ']",
-3,Montreux,Montreux-Jazz-Festival,2014-07-17,"['Damon Albarn ', ' Michael Kiwanuka ']",
-4,null,Stimmen,2014-07-17,"['John Grant ', ' Joe Bel ']",Pop
-5,null,Kulturfestival-St.-Gallen,2014-07-17,['Amsterdam Klezmer Band '],
-6,Zürich,Live-at-Sunset,2014-07-17,['Backstreet Boys '],Pop
-7,Locarno,Moon-and-Stars,2014-07-17,"['Negramaro ', ' Jessie J ']",
-8,Montreux,Montreux-Jazz-Festival,2014-07-17,"['Babyshambles ', ' Von Pariahs ']",
-9,Basel,Schönhaus-Express-feat.-Lisette-Spinnler,2014-07-17,"[' Lisette Spinnler ', ' Sascha Schönhaus ', ' Hans-Peter Pfammatter ', ' Bänz Oester ', ' Norbert Pfammatter ']",
-10,Maggia,Magic-Blues-Festival,2014-07-17,['The Stepwater Band '],
-11,St.-Moritz,Festival-da-Jazz,2014-07-17,"['Roberta Gambarini ', ' Roberta Gambarini ', ' Sullivan Fortner ', ' Ameen Saleem ', ' Quincy Philipps ']",
-12,Zürich,Milonga,2014-07-17,['Quinteto Beltango '],
-13,St.-Moritz,Festival-da-Jazz,2014-07-17,"['Nicole Jo ', ' Nicole Johänntgen ', ' David Beer ', ' Rodrigo Aravena ', ' Jonas Ruther ']",
+location,event,date,artists,genre
+Zürich,Oh-See,2014-07-17,[' Cass McCombs '],
+Saanen,Menuhin-Festival-Gstaad,2014-07-17,['Christian Zacharias '],Classic
+Montreux,Montreux-Jazz-Festival,2014-07-17,"[""Keb' Mo' "", ' Benjamin Clementine ']",
+Montreux,Montreux-Jazz-Festival,2014-07-17,"['Damon Albarn ', ' Michael Kiwanuka ']",
+null,Stimmen,2014-07-17,"['John Grant ', ' Joe Bel ']",Pop
+null,Kulturfestival-St.-Gallen,2014-07-17,['Amsterdam Klezmer Band '],
+Zürich,Live-at-Sunset,2014-07-17,['Backstreet Boys '],Pop
+Locarno,Moon-and-Stars,2014-07-17,"['Negramaro ', ' Jessie J ']",
+Montreux,Montreux-Jazz-Festival,2014-07-17,"['Babyshambles ', ' Von Pariahs ']",
+Basel,Schönhaus-Express-feat.-Lisette-Spinnler,2014-07-17,"[' Lisette Spinnler ', ' Sascha Schönhaus ', ' Hans-Peter Pfammatter ', ' Bänz Oester ', ' Norbert Pfammatter ']",
+Maggia,Magic-Blues-Festival,2014-07-17,['The Stepwater Band '],
+St.-Moritz,Festival-da-Jazz,2014-07-17,"['Roberta Gambarini ', ' Roberta Gambarini ', ' Sullivan Fortner ', ' Ameen Saleem ', ' Quincy Philipps ']",
+Zürich,Milonga,2014-07-17,['Quinteto Beltango '],
+St.-Moritz,Festival-da-Jazz,2014-07-17,"['Nicole Jo ', ' Nicole Johänntgen ', ' David Beer ', ' Rodrigo Aravena ', ' Jonas Ruther ']",

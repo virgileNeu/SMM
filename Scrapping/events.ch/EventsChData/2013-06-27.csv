@@ -1,21 +1,21 @@
-,location,event,date,artists,genre
-0,Greifensee,Voces-de-mi-tierra,2013-06-27,"['Barbara Zollinger-Widmer ', ' Werner Bader ', ' Bernhard Göttert ']",Classic
-1,Sommercasino,Basel,2013-06-27,['Unearth '],Unearth
-2,null,Verdi-Wagner-Projekt,2013-06-27,"[' Maria Riccarda Wesseling ', ' Igor Keller ']",Classic
-3,Winterthur,Extrakonzert-Welcome-Back,2013-06-27,[' Mikhail Pletnev '],Classic
-4,Zürich,Richard-Wagner-in-Verehrung,2013-06-27,[' András Schiff '],Classic
-5,Feuerthalen,Insect-Surfers,2013-06-27,['Insect Surfers '],
-6,Winterthur,A-Cappella-Festival,2013-06-27,['Aquabella '],Pop
-7,Openair-St.-Gallen,null,2013-06-27,"['Klangkarussell ', ' Die Antwoord ', ' Royal Republic ']",
-8,Volkshaus,Zürich,2013-06-27,"['Cat Power ', ' support: X Ray Eyeballs ']",
-9,Luzern,Salonmusik,2013-06-27,"['Martin Schaefer ', ' Richard Decker ']",Classic
-10,Basel,Bachelorkonzert,2013-06-27,[' Eva Soler '],Classic
-11,Winterthur,Rebecca-&-The-Sophistocats,2013-06-27,"[' Rebecca Spiteri ', ' Lukas Gadola ', ' Thom Grüninger ', ' Phil Ackermann ', ' Thomas Bernold ']",
-12,Basel,Juarez-Moreira-Quinteto,2013-06-27,"[' Juarez Moreira ', ' Cléber Alves ', ' Ricardo Fiuza ', ' Stephan Kurmann ', ' Esdras Neném Ferreira ']",
-13,Basel,Afentoula-Razeli-&-Banda,2013-06-27,"[' Afentoula Razeli ', ' Panagiotis Koutsouras ', ' Ioannis Kolovos ', ' Panagiotis Papageorgiou ']",
-14,Lausanne,Krisiun,2013-06-27,"['Krisiun ', ' Misery Index ']",
-15,null,Retox,2013-06-27,"['Retox ', ' Warsawwasraw ']",
-16,Ascona,Jazz-Ascona,2013-06-27,"['Gerald French ', ' Andrew Baham ', ' David Harris ']",
-17,Luzern,Jam-Session,2013-06-27,['Richard Decker '],
-18,Pontresina,Travellin-Brothers,2013-06-27,['Travellin Brothers '],
-19,Kinski,Zürich,2013-06-27,['Karma To Burn '],
+location,event,date,artists,genre
+Greifensee,Voces-de-mi-tierra,2013-06-27,"['Barbara Zollinger-Widmer ', ' Werner Bader ', ' Bernhard Göttert ']",Classic
+Sommercasino,Basel,2013-06-27,['Unearth '],Unearth
+null,Verdi-Wagner-Projekt,2013-06-27,"[' Maria Riccarda Wesseling ', ' Igor Keller ']",Classic
+Winterthur,Extrakonzert-Welcome-Back,2013-06-27,[' Mikhail Pletnev '],Classic
+Zürich,Richard-Wagner-in-Verehrung,2013-06-27,[' András Schiff '],Classic
+Feuerthalen,Insect-Surfers,2013-06-27,['Insect Surfers '],
+Winterthur,A-Cappella-Festival,2013-06-27,['Aquabella '],Pop
+Openair-St.-Gallen,null,2013-06-27,"['Klangkarussell ', ' Die Antwoord ', ' Royal Republic ']",
+Volkshaus,Zürich,2013-06-27,"['Cat Power ', ' support: X Ray Eyeballs ']",
+Luzern,Salonmusik,2013-06-27,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Basel,Bachelorkonzert,2013-06-27,[' Eva Soler '],Classic
+Winterthur,Rebecca-&-The-Sophistocats,2013-06-27,"[' Rebecca Spiteri ', ' Lukas Gadola ', ' Thom Grüninger ', ' Phil Ackermann ', ' Thomas Bernold ']",
+Basel,Juarez-Moreira-Quinteto,2013-06-27,"[' Juarez Moreira ', ' Cléber Alves ', ' Ricardo Fiuza ', ' Stephan Kurmann ', ' Esdras Neném Ferreira ']",
+Basel,Afentoula-Razeli-&-Banda,2013-06-27,"[' Afentoula Razeli ', ' Panagiotis Koutsouras ', ' Ioannis Kolovos ', ' Panagiotis Papageorgiou ']",
+Lausanne,Krisiun,2013-06-27,"['Krisiun ', ' Misery Index ']",
+null,Retox,2013-06-27,"['Retox ', ' Warsawwasraw ']",
+Ascona,Jazz-Ascona,2013-06-27,"['Gerald French ', ' Andrew Baham ', ' David Harris ']",
+Luzern,Jam-Session,2013-06-27,['Richard Decker '],
+Pontresina,Travellin-Brothers,2013-06-27,['Travellin Brothers '],
+Kinski,Zürich,2013-06-27,['Karma To Burn '],

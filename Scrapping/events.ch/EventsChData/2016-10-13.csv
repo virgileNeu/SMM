@@ -1,23 +1,23 @@
-,location,event,date,artists,genre
-0,Zürich,Top-Party-Band,2016-10-13,['Top Party Band '],Pop
-1,Zürich,Spidercrew,2016-10-13,['Spidercrew '],
-2,Zürich,Meisterinterpreten-in-Zürich,2016-10-13,[' conductor: Pinchas Zukerman '],Classic
-3,Zürich,Mozart-Das-musikalische-Vermächtnis-1,2016-10-13,[' Cecilia Bernardini '],Classic
-4,null,La-presque-colonie-de-vacances,2016-10-13,"['Francky Goes to Point a Pitre ', ' Papier Tigre ', ' Pneu ', ' Electric Electric ']",Electronic
-5,Luzern,Don-Broco,2016-10-13,['Don Broco '],
-6,Bad-Ragaz,MusicConnects,2016-10-13,"[' Andrei Ionita ', ' Yury Revich ', ' Petrit Ceku ']",Classic
-7,Winterthur,Bonafide,2016-10-13,['Bonafide '],
-8,Bern,Sivert-Høyem,2016-10-13,['Sivert Høyem '],
-9,Zürich,The-Chainsmokers-Ausverkauft,2016-10-13,['The Chainsmokers '],Electronic
-10,Zürich,Roosevelt,2016-10-13,"['Roosevelt ', ' Bayonne ']",Pop
-11,Winterthur,Straymonk,2016-10-13,"[' Nathanael Su ', ' Gabriel Dalvit ', ' Dominique Girod ', ' Jonas Ruther ']",
-12,Lausanne,The-Baseballs,2016-10-13,['The Baseballs '],
-13,Bern,Cousin-Leonard-&-Peter-Finc,2016-10-13,['Cousin Leonard '],
-14,Basel,Jens-Düppe-Quartett,2016-10-13,"['Jens Düppe Quartett ', ' Jens Düppe ', ' Bastian Stein ', ' Lars Duppler ', ' Christian Ramond ']",
-15,Bern,A-Sick-Sad-World,2016-10-13,['Komfortrauschen '],Electronic
-16,Aarau,Dub-Inc,2016-10-13,['Dub Inc '],
-17,Winterthur,Il-Sogno-Del-Marinaio-feat.-Mike-Watt,2016-10-13,['Il Sogno Del Marinaio feat. Mike Watt '],
-18,Zürich,Jazz-Live-Trio,2016-10-13,"[' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']",
-19,Winterthur,MKW-im-Hof-Die-Geschichte-vom-Soldaten,2016-10-13,"['Rahel Cunz ', ' Kristof Zambo ', ' Armon Stecher ']",Classic
-20,Kriens,Mark-Ernestus-Ndagga-Rhythm-Force,2016-10-13,"['Mark Ernestus - Ndagga Rhythm Force ', ' Mbene Diatta Seck ', ' Bada Seck ', ' Serigne Mamoune Seck ']",
-21,Rubigen,Bettye-La-Vette,2016-10-13,['Bettye LaVette '],
+location,event,date,artists,genre
+Zürich,Top-Party-Band,2016-10-13,['Top Party Band '],Pop
+Zürich,Spidercrew,2016-10-13,['Spidercrew '],
+Zürich,Meisterinterpreten-in-Zürich,2016-10-13,[' conductor: Pinchas Zukerman '],Classic
+Zürich,Mozart-Das-musikalische-Vermächtnis-1,2016-10-13,[' Cecilia Bernardini '],Classic
+null,La-presque-colonie-de-vacances,2016-10-13,"['Francky Goes to Point a Pitre ', ' Papier Tigre ', ' Pneu ', ' Electric Electric ']",Electronic
+Luzern,Don-Broco,2016-10-13,['Don Broco '],
+Bad-Ragaz,MusicConnects,2016-10-13,"[' Andrei Ionita ', ' Yury Revich ', ' Petrit Ceku ']",Classic
+Winterthur,Bonafide,2016-10-13,['Bonafide '],
+Bern,Sivert-Høyem,2016-10-13,['Sivert Høyem '],
+Zürich,The-Chainsmokers-Ausverkauft,2016-10-13,['The Chainsmokers '],Electronic
+Zürich,Roosevelt,2016-10-13,"['Roosevelt ', ' Bayonne ']",Pop
+Winterthur,Straymonk,2016-10-13,"[' Nathanael Su ', ' Gabriel Dalvit ', ' Dominique Girod ', ' Jonas Ruther ']",
+Lausanne,The-Baseballs,2016-10-13,['The Baseballs '],
+Bern,Cousin-Leonard-&-Peter-Finc,2016-10-13,['Cousin Leonard '],
+Basel,Jens-Düppe-Quartett,2016-10-13,"['Jens Düppe Quartett ', ' Jens Düppe ', ' Bastian Stein ', ' Lars Duppler ', ' Christian Ramond ']",
+Bern,A-Sick-Sad-World,2016-10-13,['Komfortrauschen '],Electronic
+Aarau,Dub-Inc,2016-10-13,['Dub Inc '],
+Winterthur,Il-Sogno-Del-Marinaio-feat.-Mike-Watt,2016-10-13,['Il Sogno Del Marinaio feat. Mike Watt '],
+Zürich,Jazz-Live-Trio,2016-10-13,"[' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']",
+Winterthur,MKW-im-Hof-Die-Geschichte-vom-Soldaten,2016-10-13,"['Rahel Cunz ', ' Kristof Zambo ', ' Armon Stecher ']",Classic
+Kriens,Mark-Ernestus-Ndagga-Rhythm-Force,2016-10-13,"['Mark Ernestus - Ndagga Rhythm Force ', ' Mbene Diatta Seck ', ' Bada Seck ', ' Serigne Mamoune Seck ']",
+Rubigen,Bettye-La-Vette,2016-10-13,['Bettye LaVette '],

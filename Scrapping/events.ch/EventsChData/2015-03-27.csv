@@ -1,60 +1,60 @@
-,location,event,date,artists,genre
-0,Basel,Cojazz-invites-Alice-Day,2015-03-27,"[' Alice Day ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Jorge Rossy ']",
-1,Basel,Orgelspiel-zum-Feierabend,2015-03-27,['Susanne Doll '],Classic
-2,Liestal,Gabriel-Benedek,2015-03-27,['Gabriel Benedek '],Pop
-3,Aarau,Chiaroscuro-Bilder-aus-Italien,2015-03-27,[' Maria Korovatskaya '],Classic
-4,Baden,Kolossal,2015-03-27,[' Varvara '],Classic
-5,Zürich,Madrigali-veneziani-Heinrich-Schütz-und-seine-Lehrer,2015-03-27,"[' Seraina Perrenoud ', ' Stephanie Boller ', ' Jan Thomer ', ' Matthias Deger ', ' Giacomo Schiavo ', ' Jedediah Allen ']",Classic
-6,Bern,Zürcher-Kammerorchester,2015-03-27,['Arabella Steinbacher '],Classic
-7,Zürich,Liebe-und-Weisheit,2015-03-27,"[' I. Schnöller ', ' K. Dornbusch ', ' H. Winkelman ']",Classic
-8,Basel,Horizont-Mozart,2015-03-27,"[' Felix Renggli ', ' Heinz Holliger ', ' Esther Hoppe ', ' Jürg Dähler ', ' Daniel Haefliger ']",Classic
-9,Basel,Stein-&-Gas,2015-03-27,"[' David Sontòn Caflisch ', ' Riccarda Caflisch ', ' Christian Hieronymi ']",Classic
-10,Zürich,Frühlingskonzert,2015-03-27,['Pacific Quartet Vienna '],Classic
-11,Zürich,Paul-Simon-&-Sting,2015-03-27,['Paul Simon & Sting '],Pop
-12,Basel,J.S.-Bach-Johannespassion,2015-03-27,"[' Miriam Feuersinger ', ' Barbara Erni ', ' Jakob Pilgram ', ' Fabrice Hayoz ']",Classic
-13,Zürich,Chico-Freeman-Exotica,2015-03-27,"['Chico Freeman Exotica ', ' Chico Freeman ', ' Reto Weber ', ' Stephan Braun ']",
-14,Chur,Opernquerschnitt,2015-03-27,[' Maria Riccarda Wesseling '],Classic
-15,Laufenburg,Saxiano,2015-03-27,"[' Maura Grassi ', ' Rolf Büschi ', ' Christina Frei ']",
-16,Bern,The-Script,2015-03-27,['The Script '],Pop
-17,Winterthur,Querfeldein-musikalischer-Streifzug-durch-Europa,2015-03-27,"[' Jürgen Kupke ', ' Hans Hassler ', ' Markus Lauterburg ']",Classic
-18,Aarau,Sleepmakeswaves,2015-03-27,"['Sleepmakeswaves ', ' Skyharbor ', ' Tides From Nebula ']",
-19,Zürich,Irish-Scottish-Night,2015-03-27,"[' Olaf Owl ', ' Ädu Studer ', ' Savannah Childers ', ' Rino Bollin ', ' Felix Waldispühl ']",
-20,Zürich,Duo-Off-Beat-JazznGroove,2015-03-27,"['Markus Krummenacher ', ' René Kopetschny ']",
-21,Zürich,Acoustic-Friday,2015-03-27,"[' Adrian Lieberherr ', ' g) Philipp Mosimann ', ' Thomas Brühwiler ', ' Carlos Baez Zerpa ', ' Simon Gräzer ']",
-22,Basel,Volver,2015-03-27,['Hilda Herrera '],
-23,null,Raised-Fist,2015-03-27,"['Raised Fist ', ' Netfastcore ']",
-24,Zürich,M4Music,2015-03-27,"['Stu Larsen ', ' Lonely The Brave ']",
-25,Muttenz,Sefora-Nelson,2015-03-27,['Sefora Nelson '],Pop
-26,Winterthur,Guitar-Night,2015-03-27,"[' Zoran Dukic ', ' Pavel Steidl ', ' Thomas Fellow ', ' Reentko ']",
-27,Zürich,Butterfly's-Notebook,2015-03-27,"[' Daniela Müller ', ' Petra Ackermann ', ' Karolina Öhmann ']",Classic
-28,Zürich,M4Music,2015-03-27,"['Awolnation ', ' Jungle ', ' Sohn ']",
-29,Rheinfelden,Newcastle-Jazz-Band,2015-03-27,"[' Robert Antenen ', ' Olivier Labie ', ' Aldo Zanesco ', ' Hubert Mougin ', ' Martin Zuber ', ' Jean-Marc Polier ', ' Didi Glauser ']",
-30,Zürich,Sartorius-Wolfarth,2015-03-27,"[' Julian Sartorius ', ' Christian Wolfarth ']",
-31,Bülach,Tribute-to-The-Worlds-Greatest-Jazzband,2015-03-27,"['Enrico Tomasso ', ' Frank Roberscheuten ', "" Thomas L'Etienne "", ' Bert Boeren ', ' Rossano Sportiello ']",
-32,Winterthur,Gregor-Loepfe-Trio,2015-03-27,"[' Gregor Loepfe ', ' Richard Pechota ', ' Peter Preibisch ']",
-33,Basel,Le-Laudi,2015-03-27,"[' Bénédicte Tauran ', ' Violetta Radomirska ', ' Rolf Romei ', ' Lisandro Abadie ']",Classic
-34,Zürich,Wilkins-Götte,2015-03-27,"[' Luke Wilkins ', ' Martin Götte ']",
-35,Wil,Kleines-Songwriter-Festival,2015-03-27,['Tom James '],Pop
-36,Baden,Kieran-Halpin,2015-03-27,"['Kieran Halpin ', ' Kieran Halpin ', ' Yogi Jockusch ']",Pop
-37,Winterthur,Honningbarna,2015-03-27,"['Honningbarna ', ' Opiliones ']",
-38,Zürich,Zurich-Composers-Collective,2015-03-27,"[' Daniel Schenker ', ' Reto Suhner ', ' Christoph Grab ', ' Bernhard Bamert ', ' Fabian Müller ', ' Dominique Girod ']",
-39,Liestal,Lausch-Neue-alpine-Musik,2015-03-27,"['Barbara Schirmer ', ' Christian Zehnder ']",
-40,Jona,Shirley-Grimes,2015-03-27,"['Shirley Grimes ', ' Shirley Grimes ', ' Wolfgang Zwiauer ', ' Samuel Baur ', ' Stefanie Aeschlimann ']",
-41,Baden,Hommage-an-Edith-Piaf,2015-03-27,"['Stella Luna Palino ', ' Charlotte Torres ']",
-42,Romanshorn,Eva,2015-03-27,"[' Eva Gisler ', ' Angie Luetholf ', ' Markus Bührer ', ' Matthias Spitz ']",Pop
-43,Basel,Jochen-Rueckert-Quartet,2015-03-27,"[' Mark Turner ', ' Lage Lund ', ' Chris Smith ', ' Jochen Rueckert ']",
-44,Feuerthalen,Rudy-Rotta-&-Band,2015-03-27,['Rudy Rotta & Band '],
-45,Worblaufen,Jubiläum,2015-03-27,"[' Pete Borel ', ' Jürg Sidler ', ' Imad Barnieh ']",
-46,Bern,Mark-Kelly,2015-03-27,['Mark Kelly '],Pop
-47,Aarau,Kulturdünger-Die-Ernte,2015-03-27,['Nick Mellow '],Pop
-48,Lausanne,Bad-Breeding,2015-03-27,['Bad Breeding '],
-49,Bern,Mono-Blues-Band,2015-03-27,"[' Beat Trachsel ', ' Fred Hauser ', ' Peter Höfler ', ' Thomas Trees ']",
-50,Basel,Annika-Strand,2015-03-27,"[' Annika Strand ', ' Daniel Kaufmann ']",Pop
-51,Zürich,M4Music,2015-03-27,['Zola Jesus '],Pop
-52,Zürich,Stereo-Total,2015-03-27,['Stereo Total '],
-53,Bern,Jack-Calipso-&-his-red-hot,2015-03-27,['Jack Calipso & his red hot '],
-54,Basel,Punk-&-Melodies,2015-03-27,"['No Weather Talks ', ' Modern Saints ', ' Neon Bone ', ' Burger Weekends ']",
-55,Schaffhausen,Nosferatu-eine-Symphonie-des-Grauens,2015-03-27,[' Live-Vertonung zum Stummfilm von F.W. Murnau '],Classic
-56,Zürich,TOZ-Discover,2015-03-27,"[' Andreas Janke ', ' Gilad Karni ']",Classic
-57,null,Raging-Fyah,2015-03-27,['Raging Fyah '],
-58,null,Lukat-Dem,2015-03-27,"['Lady Leshurr ', ' Nolay ']",
+location,event,date,artists,genre
+Basel,Cojazz-invites-Alice-Day,2015-03-27,"[' Alice Day ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Jorge Rossy ']",
+Basel,Orgelspiel-zum-Feierabend,2015-03-27,['Susanne Doll '],Classic
+Liestal,Gabriel-Benedek,2015-03-27,['Gabriel Benedek '],Pop
+Aarau,Chiaroscuro-Bilder-aus-Italien,2015-03-27,[' Maria Korovatskaya '],Classic
+Baden,Kolossal,2015-03-27,[' Varvara '],Classic
+Zürich,Madrigali-veneziani-Heinrich-Schütz-und-seine-Lehrer,2015-03-27,"[' Seraina Perrenoud ', ' Stephanie Boller ', ' Jan Thomer ', ' Matthias Deger ', ' Giacomo Schiavo ', ' Jedediah Allen ']",Classic
+Bern,Zürcher-Kammerorchester,2015-03-27,['Arabella Steinbacher '],Classic
+Zürich,Liebe-und-Weisheit,2015-03-27,"[' I. Schnöller ', ' K. Dornbusch ', ' H. Winkelman ']",Classic
+Basel,Horizont-Mozart,2015-03-27,"[' Felix Renggli ', ' Heinz Holliger ', ' Esther Hoppe ', ' Jürg Dähler ', ' Daniel Haefliger ']",Classic
+Basel,Stein-&-Gas,2015-03-27,"[' David Sontòn Caflisch ', ' Riccarda Caflisch ', ' Christian Hieronymi ']",Classic
+Zürich,Frühlingskonzert,2015-03-27,['Pacific Quartet Vienna '],Classic
+Zürich,Paul-Simon-&-Sting,2015-03-27,['Paul Simon & Sting '],Pop
+Basel,J.S.-Bach-Johannespassion,2015-03-27,"[' Miriam Feuersinger ', ' Barbara Erni ', ' Jakob Pilgram ', ' Fabrice Hayoz ']",Classic
+Zürich,Chico-Freeman-Exotica,2015-03-27,"['Chico Freeman Exotica ', ' Chico Freeman ', ' Reto Weber ', ' Stephan Braun ']",
+Chur,Opernquerschnitt,2015-03-27,[' Maria Riccarda Wesseling '],Classic
+Laufenburg,Saxiano,2015-03-27,"[' Maura Grassi ', ' Rolf Büschi ', ' Christina Frei ']",
+Bern,The-Script,2015-03-27,['The Script '],Pop
+Winterthur,Querfeldein-musikalischer-Streifzug-durch-Europa,2015-03-27,"[' Jürgen Kupke ', ' Hans Hassler ', ' Markus Lauterburg ']",Classic
+Aarau,Sleepmakeswaves,2015-03-27,"['Sleepmakeswaves ', ' Skyharbor ', ' Tides From Nebula ']",
+Zürich,Irish-Scottish-Night,2015-03-27,"[' Olaf Owl ', ' Ädu Studer ', ' Savannah Childers ', ' Rino Bollin ', ' Felix Waldispühl ']",
+Zürich,Duo-Off-Beat-JazznGroove,2015-03-27,"['Markus Krummenacher ', ' René Kopetschny ']",
+Zürich,Acoustic-Friday,2015-03-27,"[' Adrian Lieberherr ', ' g) Philipp Mosimann ', ' Thomas Brühwiler ', ' Carlos Baez Zerpa ', ' Simon Gräzer ']",
+Basel,Volver,2015-03-27,['Hilda Herrera '],
+null,Raised-Fist,2015-03-27,"['Raised Fist ', ' Netfastcore ']",
+Zürich,M4Music,2015-03-27,"['Stu Larsen ', ' Lonely The Brave ']",
+Muttenz,Sefora-Nelson,2015-03-27,['Sefora Nelson '],Pop
+Winterthur,Guitar-Night,2015-03-27,"[' Zoran Dukic ', ' Pavel Steidl ', ' Thomas Fellow ', ' Reentko ']",
+Zürich,Butterfly's-Notebook,2015-03-27,"[' Daniela Müller ', ' Petra Ackermann ', ' Karolina Öhmann ']",Classic
+Zürich,M4Music,2015-03-27,"['Awolnation ', ' Jungle ', ' Sohn ']",
+Rheinfelden,Newcastle-Jazz-Band,2015-03-27,"[' Robert Antenen ', ' Olivier Labie ', ' Aldo Zanesco ', ' Hubert Mougin ', ' Martin Zuber ', ' Jean-Marc Polier ', ' Didi Glauser ']",
+Zürich,Sartorius-Wolfarth,2015-03-27,"[' Julian Sartorius ', ' Christian Wolfarth ']",
+Bülach,Tribute-to-The-Worlds-Greatest-Jazzband,2015-03-27,"['Enrico Tomasso ', ' Frank Roberscheuten ', "" Thomas L'Etienne "", ' Bert Boeren ', ' Rossano Sportiello ']",
+Winterthur,Gregor-Loepfe-Trio,2015-03-27,"[' Gregor Loepfe ', ' Richard Pechota ', ' Peter Preibisch ']",
+Basel,Le-Laudi,2015-03-27,"[' Bénédicte Tauran ', ' Violetta Radomirska ', ' Rolf Romei ', ' Lisandro Abadie ']",Classic
+Zürich,Wilkins-Götte,2015-03-27,"[' Luke Wilkins ', ' Martin Götte ']",
+Wil,Kleines-Songwriter-Festival,2015-03-27,['Tom James '],Pop
+Baden,Kieran-Halpin,2015-03-27,"['Kieran Halpin ', ' Kieran Halpin ', ' Yogi Jockusch ']",Pop
+Winterthur,Honningbarna,2015-03-27,"['Honningbarna ', ' Opiliones ']",
+Zürich,Zurich-Composers-Collective,2015-03-27,"[' Daniel Schenker ', ' Reto Suhner ', ' Christoph Grab ', ' Bernhard Bamert ', ' Fabian Müller ', ' Dominique Girod ']",
+Liestal,Lausch-Neue-alpine-Musik,2015-03-27,"['Barbara Schirmer ', ' Christian Zehnder ']",
+Jona,Shirley-Grimes,2015-03-27,"['Shirley Grimes ', ' Shirley Grimes ', ' Wolfgang Zwiauer ', ' Samuel Baur ', ' Stefanie Aeschlimann ']",
+Baden,Hommage-an-Edith-Piaf,2015-03-27,"['Stella Luna Palino ', ' Charlotte Torres ']",
+Romanshorn,Eva,2015-03-27,"[' Eva Gisler ', ' Angie Luetholf ', ' Markus Bührer ', ' Matthias Spitz ']",Pop
+Basel,Jochen-Rueckert-Quartet,2015-03-27,"[' Mark Turner ', ' Lage Lund ', ' Chris Smith ', ' Jochen Rueckert ']",
+Feuerthalen,Rudy-Rotta-&-Band,2015-03-27,['Rudy Rotta & Band '],
+Worblaufen,Jubiläum,2015-03-27,"[' Pete Borel ', ' Jürg Sidler ', ' Imad Barnieh ']",
+Bern,Mark-Kelly,2015-03-27,['Mark Kelly '],Pop
+Aarau,Kulturdünger-Die-Ernte,2015-03-27,['Nick Mellow '],Pop
+Lausanne,Bad-Breeding,2015-03-27,['Bad Breeding '],
+Bern,Mono-Blues-Band,2015-03-27,"[' Beat Trachsel ', ' Fred Hauser ', ' Peter Höfler ', ' Thomas Trees ']",
+Basel,Annika-Strand,2015-03-27,"[' Annika Strand ', ' Daniel Kaufmann ']",Pop
+Zürich,M4Music,2015-03-27,['Zola Jesus '],Pop
+Zürich,Stereo-Total,2015-03-27,['Stereo Total '],
+Bern,Jack-Calipso-&-his-red-hot,2015-03-27,['Jack Calipso & his red hot '],
+Basel,Punk-&-Melodies,2015-03-27,"['No Weather Talks ', ' Modern Saints ', ' Neon Bone ', ' Burger Weekends ']",
+Schaffhausen,Nosferatu-eine-Symphonie-des-Grauens,2015-03-27,[' Live-Vertonung zum Stummfilm von F.W. Murnau '],Classic
+Zürich,TOZ-Discover,2015-03-27,"[' Andreas Janke ', ' Gilad Karni ']",Classic
+null,Raging-Fyah,2015-03-27,['Raging Fyah '],
+null,Lukat-Dem,2015-03-27,"['Lady Leshurr ', ' Nolay ']",

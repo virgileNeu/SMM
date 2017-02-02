@@ -1,61 +1,61 @@
-,location,event,date,artists,genre
-0,Zürich,Jazz-für-z'Mittag,2013-10-25,"['Ueli Heiniger ', ' Patrik Horat ', ' Gabriel Stampfli ']",
-1,Zürich,Zürcher-Sehhilfe-Benefizkonzert,2013-10-25,"[' Karin Mazenauer ', ' Federico Ahumada ']",Classic
-2,Basel,Orgelspiel-zum-Feierabend,2013-10-25,['Aki Noda '],Classic
-3,Zürich,Surprise,2013-10-25,"[' Alexander Kuznetsov ', ' Natalia Chybiak ', ' Ketevan Chepkhodze ']",Classic
-4,Dietikon,Feierabendmusik-in-der-Kirche,2013-10-25,['Bernhard Hörler '],Classic
-5,Aarau,Ruffiction,2013-10-25,"['Ruffiction ', ' Recount ']",
-6,Liestal,Colonel-Pablo,2013-10-25,['Colonel Pablo '],
-7,Zürich,Konzert,2013-10-25,[' Maximilian Hornung '],Classic
-8,Bern,Galakonzert,2013-10-25,[' Sabine Meyer '],Classic
-9,Frenkendorf,Beschwingte-Fabelwesen,2013-10-25,"['Michaela Hüttich ', ' Wolfgang Lehner ', ' Toni Illenberger ']",Classic
-10,Zürich,Öffentliches-Konzert-in-der-Mühlehalde,2013-10-25,['Conny Cornelia Mulawarma '],Classic
-11,Bern,Konzert,2013-10-25,['Milos Karadaglic '],Classic
-12,Basel,AMG-Rising-Stars,2013-10-25,['Daniil Trifonov '],Classic
-13,null,Migros-Kulturprozent-Classics-1,2013-10-25,"['Maria Joao Pires ', ' Marysol Schalit ']",Classic
-14,Rheinfelden,Giora-Feidman-&-Chaarts-Verliebte-Nacht,2013-10-25,[' Giora Feidman '],Classic
-15,Zürich,The-Great-Harry-Hillman,2013-10-25,"['The Great Harry Hillman ', ' David Koch ', ' Nils Fischer ', ' Samuel Huwyler ', ' Dominik Mahnig ']",
-16,Aarau,Swallow-the-Sun,2013-10-25,"['Swallow the Sun ', ' Antimatter ', ' Daylight Dies ']",
-17,null,Baloise-Session,2013-10-25,[' Zaz '],Pop
-18,Altikon,Babak-Nemati-Quartet,2013-10-25,"[' Babak Nemati ', ' Carles Peris ', ' Beat Gisler ', ' Olaf Ryter ']",
-19,Zürich,Public-Service-Broadcasting,2013-10-25,['Public Service Broadcasting '],Electronic
-20,null,Schauspiel,2013-10-25,"['Carion ', ' Dóra Seres ', ' Egils Upatnieks ', ' Egls Fers ', ' David Palmquist ', ' Niels Anders Vedsten Larsen ']",Classic
-21,Dietikon,Berner-in-Fusion,2013-10-25,"['Berner in Fusion ', ' Elisabeth Berner ', ' Carl Machado ', ' Alex Kühn ', ' Tony Renold ']",
-22,Zürich,35-Jahre-WIM-Zürich,2013-10-25,"['Claudia Ulla Binder ', ' Sara Maurer ', ' Silvio Cadotsch ', ' Gabriela Friedli ', ' Jürg Gasser ', ' Silvan Jeger ']",
-23,Wettingen,Sehnsucht,2013-10-25,"['Bettina Boller ', ' Walter Prossnitz ']",Classic
-24,Basel,Gamben-&-Orgel,2013-10-25,[' Tobias Lindner '],Classic
-25,null,Seat-Music-Session,2013-10-25,"[' Jenniffer Kae ', ' Johannes Oerding ', ' Jaz Ellington ']",Pop
-26,Bern,Au-bord-du-Lac-Léman,2013-10-25,"[' Christiane Gnägi ', ' Yuka Oechslin ']",Classic
-27,null,Rääs-Symphonic,2013-10-25,"[' Oli Frick ', ' Dani Tribelhorn ', ' Ralph Vogt ', ' Marcel Kaufmann ']",
-28,Rheinfelden,Les-Jazzticots,2013-10-25,"['Les Jazzticots ', ' Aurélie Tropez ', ' Déborah Tropez ', ' Jean Pierre Giraud ']",
-29,Zürich,Schön-wie-es-begann,2013-10-25,"[' Lisa Berg ', ' David Ruosch ', ' Curdin Janett ']",Pop
-30,Winterthur,Nina-Bradlin-&-Band,2013-10-25,"[' Nina Bradlin ', ' Philipp Gloor ', ' Claudio Bergamin ', ' Dominik Schürmann ', ' Michael Turtle ']",
-31,Liebefeld,Hello-Truffle,2013-10-25,"[' Matthias Wenger ', ' Nick Perrin ', ' Philipp Moll ', ' Christoph Steiner ']",
-32,Winterthur,Burst-&-Bloom,2013-10-25,"[' Hessian ', ' Ruined Families ', ' Vvovnds ']",
-33,Basel,Sandro-Schneebelis-Scala-Nobile-feat.-Amstad-&-Pizio,2013-10-25,"[' Bruno Amstad ', ' Max Pizio ', ' Antonello Messina ', ' Sandro Schneebeli ', ' Eduardo Penz ', ' Samuel Baur ', ' Stephan Rigert ']",
-34,Interlaken,Jorge-Rossy-Sextett,2013-10-25,"[' Jorge Rossy ', ' Julian Sanchez ', ' Dominique Girod ', ' Nat Su ', ' Domenic Landolf ', ' Carlos Falanga ']",
-35,Uster,René-Scholl-Jazztett,2013-10-25,"[' Bruno Bosshardt ', ' René Bondt ', ' Reto Grundbacher ', ' Ivan Kubias ', ' Elisabeth Praxmarer ']",
-36,Zürich,Stefan-Aeby-Trio,2013-10-25,"[' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-37,Zürich,Kristoffer-&-The-Harbour-Heads,2013-10-25,['Kristoffer & The Harbour Heads '],Pop
-38,null,Barnakustica,2013-10-25,['Barnakustica '],
-39,Lausanne,Psy-4-De-La-Rime,2013-10-25,['Psy 4 De La Rime '],
-40,Kriens,Guy-Vincent,2013-10-25,['Guy Vincent '],
-41,Basel,Megaloh,2013-10-25,['Megaloh '],
-42,Baden,Total-Heels,2013-10-25,['Total Heels '],
-43,Zürich,3-Landstrio,2013-10-25,"[' David Gratzer ', ' Colin Morton ', ' Martin Grabher ']",
-44,Bern,Helldorado,2013-10-25,['Helldorado '],
-45,Zürich,Flow-&-Skillz,2013-10-25,['Olli Banjo '],
-46,Bern,Mariam-The-Believer,2013-10-25,"['Mariam The Believer ', ' UMA ']",Pop
-47,Basel,Trio-Räss,2013-10-25,"[' Erich Fischer ', ' Hannes Giger ', ' Belisa Mang ']",traditional
-48,Winterthur,Jungkunst,2013-10-25,['Walk '],Pop
-49,Stans,Joe-Driscoll-&-Sekou-Koyate,2013-10-25,['Joe Driscoll & Sekou Koyate '],
-50,Basel,Kapoolas,2013-10-25,"['Kapoolas ', ' Beni Gut ', ' Florian Haas-Schneider ', ' Thomas Lüthy ', ' Philipp Gut ', ' Luka Corman ']",
-51,Münchenstein,Grand-Pianoramax,2013-10-25,['Grand Pianoramax '],
-52,Sankt-Gallen,Clinic,2013-10-25,['Clinic '],
-53,Luzern,Tropical-Masters,2013-10-25,['DJs MC Bola '],
-54,Zürich,Nguzunguzu,2013-10-25,['Nguzunguzu '],Electronic
-55,null,Matthieu-Llodra-Trio,2013-10-25,"[' Matthieu Llodra ', ' Maxence Sibille ', ' Fabien Lannone ']",
-56,Zürich,Peter-Katz-&-Royal-Wood,2013-10-25,['Peter Katz & Royal Wood '],
-57,Zürich,Punkt-3,2013-10-25,"[' Tobias Pfister ', ' Noah Punkt ', ' Ramón Oliveras ']",
-58,Zürich,All-Killer-No-Filler-Presents,2013-10-25,[' Sentinel Sound '],
-59,Zürich,Movits,2013-10-25,['Movits '],Electronic
+location,event,date,artists,genre
+Zürich,Jazz-für-z'Mittag,2013-10-25,"['Ueli Heiniger ', ' Patrik Horat ', ' Gabriel Stampfli ']",
+Zürich,Zürcher-Sehhilfe-Benefizkonzert,2013-10-25,"[' Karin Mazenauer ', ' Federico Ahumada ']",Classic
+Basel,Orgelspiel-zum-Feierabend,2013-10-25,['Aki Noda '],Classic
+Zürich,Surprise,2013-10-25,"[' Alexander Kuznetsov ', ' Natalia Chybiak ', ' Ketevan Chepkhodze ']",Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2013-10-25,['Bernhard Hörler '],Classic
+Aarau,Ruffiction,2013-10-25,"['Ruffiction ', ' Recount ']",
+Liestal,Colonel-Pablo,2013-10-25,['Colonel Pablo '],
+Zürich,Konzert,2013-10-25,[' Maximilian Hornung '],Classic
+Bern,Galakonzert,2013-10-25,[' Sabine Meyer '],Classic
+Frenkendorf,Beschwingte-Fabelwesen,2013-10-25,"['Michaela Hüttich ', ' Wolfgang Lehner ', ' Toni Illenberger ']",Classic
+Zürich,Öffentliches-Konzert-in-der-Mühlehalde,2013-10-25,['Conny Cornelia Mulawarma '],Classic
+Bern,Konzert,2013-10-25,['Milos Karadaglic '],Classic
+Basel,AMG-Rising-Stars,2013-10-25,['Daniil Trifonov '],Classic
+null,Migros-Kulturprozent-Classics-1,2013-10-25,"['Maria Joao Pires ', ' Marysol Schalit ']",Classic
+Rheinfelden,Giora-Feidman-&-Chaarts-Verliebte-Nacht,2013-10-25,[' Giora Feidman '],Classic
+Zürich,The-Great-Harry-Hillman,2013-10-25,"['The Great Harry Hillman ', ' David Koch ', ' Nils Fischer ', ' Samuel Huwyler ', ' Dominik Mahnig ']",
+Aarau,Swallow-the-Sun,2013-10-25,"['Swallow the Sun ', ' Antimatter ', ' Daylight Dies ']",
+null,Baloise-Session,2013-10-25,[' Zaz '],Pop
+Altikon,Babak-Nemati-Quartet,2013-10-25,"[' Babak Nemati ', ' Carles Peris ', ' Beat Gisler ', ' Olaf Ryter ']",
+Zürich,Public-Service-Broadcasting,2013-10-25,['Public Service Broadcasting '],Electronic
+null,Schauspiel,2013-10-25,"['Carion ', ' Dóra Seres ', ' Egils Upatnieks ', ' Egls Fers ', ' David Palmquist ', ' Niels Anders Vedsten Larsen ']",Classic
+Dietikon,Berner-in-Fusion,2013-10-25,"['Berner in Fusion ', ' Elisabeth Berner ', ' Carl Machado ', ' Alex Kühn ', ' Tony Renold ']",
+Zürich,35-Jahre-WIM-Zürich,2013-10-25,"['Claudia Ulla Binder ', ' Sara Maurer ', ' Silvio Cadotsch ', ' Gabriela Friedli ', ' Jürg Gasser ', ' Silvan Jeger ']",
+Wettingen,Sehnsucht,2013-10-25,"['Bettina Boller ', ' Walter Prossnitz ']",Classic
+Basel,Gamben-&-Orgel,2013-10-25,[' Tobias Lindner '],Classic
+null,Seat-Music-Session,2013-10-25,"[' Jenniffer Kae ', ' Johannes Oerding ', ' Jaz Ellington ']",Pop
+Bern,Au-bord-du-Lac-Léman,2013-10-25,"[' Christiane Gnägi ', ' Yuka Oechslin ']",Classic
+null,Rääs-Symphonic,2013-10-25,"[' Oli Frick ', ' Dani Tribelhorn ', ' Ralph Vogt ', ' Marcel Kaufmann ']",
+Rheinfelden,Les-Jazzticots,2013-10-25,"['Les Jazzticots ', ' Aurélie Tropez ', ' Déborah Tropez ', ' Jean Pierre Giraud ']",
+Zürich,Schön-wie-es-begann,2013-10-25,"[' Lisa Berg ', ' David Ruosch ', ' Curdin Janett ']",Pop
+Winterthur,Nina-Bradlin-&-Band,2013-10-25,"[' Nina Bradlin ', ' Philipp Gloor ', ' Claudio Bergamin ', ' Dominik Schürmann ', ' Michael Turtle ']",
+Liebefeld,Hello-Truffle,2013-10-25,"[' Matthias Wenger ', ' Nick Perrin ', ' Philipp Moll ', ' Christoph Steiner ']",
+Winterthur,Burst-&-Bloom,2013-10-25,"[' Hessian ', ' Ruined Families ', ' Vvovnds ']",
+Basel,Sandro-Schneebelis-Scala-Nobile-feat.-Amstad-&-Pizio,2013-10-25,"[' Bruno Amstad ', ' Max Pizio ', ' Antonello Messina ', ' Sandro Schneebeli ', ' Eduardo Penz ', ' Samuel Baur ', ' Stephan Rigert ']",
+Interlaken,Jorge-Rossy-Sextett,2013-10-25,"[' Jorge Rossy ', ' Julian Sanchez ', ' Dominique Girod ', ' Nat Su ', ' Domenic Landolf ', ' Carlos Falanga ']",
+Uster,René-Scholl-Jazztett,2013-10-25,"[' Bruno Bosshardt ', ' René Bondt ', ' Reto Grundbacher ', ' Ivan Kubias ', ' Elisabeth Praxmarer ']",
+Zürich,Stefan-Aeby-Trio,2013-10-25,"[' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
+Zürich,Kristoffer-&-The-Harbour-Heads,2013-10-25,['Kristoffer & The Harbour Heads '],Pop
+null,Barnakustica,2013-10-25,['Barnakustica '],
+Lausanne,Psy-4-De-La-Rime,2013-10-25,['Psy 4 De La Rime '],
+Kriens,Guy-Vincent,2013-10-25,['Guy Vincent '],
+Basel,Megaloh,2013-10-25,['Megaloh '],
+Baden,Total-Heels,2013-10-25,['Total Heels '],
+Zürich,3-Landstrio,2013-10-25,"[' David Gratzer ', ' Colin Morton ', ' Martin Grabher ']",
+Bern,Helldorado,2013-10-25,['Helldorado '],
+Zürich,Flow-&-Skillz,2013-10-25,['Olli Banjo '],
+Bern,Mariam-The-Believer,2013-10-25,"['Mariam The Believer ', ' UMA ']",Pop
+Basel,Trio-Räss,2013-10-25,"[' Erich Fischer ', ' Hannes Giger ', ' Belisa Mang ']",traditional
+Winterthur,Jungkunst,2013-10-25,['Walk '],Pop
+Stans,Joe-Driscoll-&-Sekou-Koyate,2013-10-25,['Joe Driscoll & Sekou Koyate '],
+Basel,Kapoolas,2013-10-25,"['Kapoolas ', ' Beni Gut ', ' Florian Haas-Schneider ', ' Thomas Lüthy ', ' Philipp Gut ', ' Luka Corman ']",
+Münchenstein,Grand-Pianoramax,2013-10-25,['Grand Pianoramax '],
+Sankt-Gallen,Clinic,2013-10-25,['Clinic '],
+Luzern,Tropical-Masters,2013-10-25,['DJs MC Bola '],
+Zürich,Nguzunguzu,2013-10-25,['Nguzunguzu '],Electronic
+null,Matthieu-Llodra-Trio,2013-10-25,"[' Matthieu Llodra ', ' Maxence Sibille ', ' Fabien Lannone ']",
+Zürich,Peter-Katz-&-Royal-Wood,2013-10-25,['Peter Katz & Royal Wood '],
+Zürich,Punkt-3,2013-10-25,"[' Tobias Pfister ', ' Noah Punkt ', ' Ramón Oliveras ']",
+Zürich,All-Killer-No-Filler-Presents,2013-10-25,[' Sentinel Sound '],
+Zürich,Movits,2013-10-25,['Movits '],Electronic

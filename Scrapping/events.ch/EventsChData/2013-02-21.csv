@@ -1,28 +1,28 @@
-,location,event,date,artists,genre
-0,Luzern,Lunchkonzert,2013-02-21,"[' Regula Mühlemann ', ' Patricia Ulrich ']",Classic
-1,Zürich,Jazz-Apéro,2013-02-21,['Mike Ryrie '],
-2,X-tra,Zürich,2013-02-21,['Two Door Cinema Club '],
-3,null,7.-Tonhallekonzert,2013-02-21,['Igor Keller '],Classic
-4,Zürich,Konzert,2013-02-21,[' Richard Goode '],Classic
-5,Zürich,Thursday-Night-Jazz,2013-02-21,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-6,Zürich,Flatfoot-56,2013-02-21,['Flatfoot 56 '],
-7,Fri-Son,null,2013-02-21,['BB Brunes '],
-8,Luzern,Salonmusik,2013-02-21,"['Martin Schaefer ', ' Richard Decker ']",Classic
-9,Bern,The-Birthday-Girls,2013-02-21,['The Birthday Girls '],
-10,Zürich,Peter-Crow-C.,2013-02-21,['Peter Crow C. '],
-11,null,Radio-Moscow,2013-02-21,"['Radio Moscow ', "" Eye's Shaker ""]",
-12,Komplex-457,Zürich,2013-02-21,['Amy Macdonald '],
-13,Winterthur,Figures,2013-02-21,"[' Kathrin Bünzli ', ' Maja Nydegger ', ' Franziska Brücker ', ' Laurent Méteau ', ' Marco Helfenberger ', ' Jwan Steiner ']",
-14,Watt,Charlie-Morris-Band,2013-02-21,"[' Charlie Morris ', ' Speedy Jeanrenaud ', ' Dave Clark ', ' Markus Baumer ']",
-15,Baden,Golden-Blues-Band,2013-02-21,"[' Pete Borel ', ' Janos Szenogrady ', ' Imad Barnieh ']",
-16,Zürich,Lauschangriff,2013-02-21,"[' Flo Stoffner ', ' Flo Götte ', ' Luca Ramella ']",
-17,Zürich,Vijay-Iyer-Trio,2013-02-21,"['Vijay Iyer Trio ', ' Vijay Iyer ', ' Stephan Crumb ', ' Marcus Gilmore ']",
-18,Basel,Cojazz-Meets-Bruno-Spoerri,2013-02-21,"[' Bruno Spoerri ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Peter Schmidlin ']",
-19,null,Minino-Garay,2013-02-21,"[' Minino Garay ', ' Manu Codja ', ' Malcolm Braff ', ' Jérôme Regard ']",
-20,Zürich,Esben-and-the-Witch,2013-02-21,['Esben and the Witch '],
-21,Zürich,Whistler-&-Hustler,2013-02-21,['Whistler & Hustler '],Pop
-22,Lausanne,Baden-Baden,2013-02-21,['Baden Baden '],Pop
-23,Luzern,Jam-Session,2013-02-21,['Richard Decker '],
-24,Bar-Rossi,Zürich,2013-02-21,"[' Adina Friis ', ' Amin Mokdad ', ' Matthias Abächerli ', ' Andy Schelker ']",Luumu
-25,Zürich,Quintett-Ikarus,2013-02-21,"[' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Moritz Meyer ', ' Ramón Oliveras ']",
-26,Pontresina,Mama-Bluegrass-Band,2013-02-21,['Mama Bluegrass Band '],
+location,event,date,artists,genre
+Luzern,Lunchkonzert,2013-02-21,"[' Regula Mühlemann ', ' Patricia Ulrich ']",Classic
+Zürich,Jazz-Apéro,2013-02-21,['Mike Ryrie '],
+X-tra,Zürich,2013-02-21,['Two Door Cinema Club '],
+null,7.-Tonhallekonzert,2013-02-21,['Igor Keller '],Classic
+Zürich,Konzert,2013-02-21,[' Richard Goode '],Classic
+Zürich,Thursday-Night-Jazz,2013-02-21,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Zürich,Flatfoot-56,2013-02-21,['Flatfoot 56 '],
+Fri-Son,null,2013-02-21,['BB Brunes '],
+Luzern,Salonmusik,2013-02-21,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Bern,The-Birthday-Girls,2013-02-21,['The Birthday Girls '],
+Zürich,Peter-Crow-C.,2013-02-21,['Peter Crow C. '],
+null,Radio-Moscow,2013-02-21,"['Radio Moscow ', "" Eye's Shaker ""]",
+Komplex-457,Zürich,2013-02-21,['Amy Macdonald '],
+Winterthur,Figures,2013-02-21,"[' Kathrin Bünzli ', ' Maja Nydegger ', ' Franziska Brücker ', ' Laurent Méteau ', ' Marco Helfenberger ', ' Jwan Steiner ']",
+Watt,Charlie-Morris-Band,2013-02-21,"[' Charlie Morris ', ' Speedy Jeanrenaud ', ' Dave Clark ', ' Markus Baumer ']",
+Baden,Golden-Blues-Band,2013-02-21,"[' Pete Borel ', ' Janos Szenogrady ', ' Imad Barnieh ']",
+Zürich,Lauschangriff,2013-02-21,"[' Flo Stoffner ', ' Flo Götte ', ' Luca Ramella ']",
+Zürich,Vijay-Iyer-Trio,2013-02-21,"['Vijay Iyer Trio ', ' Vijay Iyer ', ' Stephan Crumb ', ' Marcus Gilmore ']",
+Basel,Cojazz-Meets-Bruno-Spoerri,2013-02-21,"[' Bruno Spoerri ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Peter Schmidlin ']",
+null,Minino-Garay,2013-02-21,"[' Minino Garay ', ' Manu Codja ', ' Malcolm Braff ', ' Jérôme Regard ']",
+Zürich,Esben-and-the-Witch,2013-02-21,['Esben and the Witch '],
+Zürich,Whistler-&-Hustler,2013-02-21,['Whistler & Hustler '],Pop
+Lausanne,Baden-Baden,2013-02-21,['Baden Baden '],Pop
+Luzern,Jam-Session,2013-02-21,['Richard Decker '],
+Bar-Rossi,Zürich,2013-02-21,"[' Adina Friis ', ' Amin Mokdad ', ' Matthias Abächerli ', ' Andy Schelker ']",Luumu
+Zürich,Quintett-Ikarus,2013-02-21,"[' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Moritz Meyer ', ' Ramón Oliveras ']",
+Pontresina,Mama-Bluegrass-Band,2013-02-21,['Mama Bluegrass Band '],

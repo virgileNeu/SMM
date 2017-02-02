@@ -1,20 +1,20 @@
-,location,event,date,artists,genre
-0,Bern,Zibelesounds-'Schiff-Ahoi!',2016-11-28,['Marc Fitze '],Classic
-1,Basel,AMG-Rising-Stars,2016-11-28,"['Tobias Feldmann ', ' Nikolaus Resa ']",Classic
-2,Zürich,Spektrumkonzert-Mixtett,2016-11-28,"['Marianne Racine ', ' Hans Adolfsen ', ' Bettina Boller ', ' Jojo Kunz ']",Classic
-3,Pratteln,The-Answer-The-Dead-Daisies,2016-11-28,"['The Answer ', ' The Dead Daisies ']",
-4,Zürich,Fanny-Mendelssohn-und-ihr-Bruder-Felix,2016-11-28,['Andrea Wiesli '],Classic
-5,Zürich,Nik-Bärtschs-Ronin,2016-11-28,"[' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
-6,Zürich,Kompakt-18,2016-11-28,"['Gilles Grimaître ', ' Hans-Peter Pfammater ']",Classic
-7,Solothurn,Cimorelli,2016-11-28,['Cimorelli '],Pop
-8,null,Federico-Monetta-Quartet,2016-11-28,"['Federico Monetta Quartet ', ' Federico Monetta ', ' Manuel Promotton ', ' Luca Curcio ', ' Giacomo Reggiani ']",
-9,Zürich,The-Sad-Pumpkins,2016-11-28,"[' Niculin Janett ', ' Noam Szyfer ']",
-10,Zürich,Thomas-Quasthoff-Jazz-Project,2016-11-28,"[' Thomas Quasthoff ', ' Frank Chastenier ', ' Dieter Ilg ', ' Wolfgang Haffner ']",
-11,Basel,Dialog,2016-11-28,['Luca Avanzi '],Classic
-12,Baden,Joe-Haider-Trio,2016-11-28,"[' Joe Haider ', ' Raffaele Bossard ', ' Dominic Egli ']",
-13,Zürich,Hooton-Tennis-Club,2016-11-28,['Hooton Tennis Club '],Pop
-14,Zürich,Winston,2016-11-28,"['Juna Winston ', ' Coleman Goepfert ', ' works by Karlheinz Essl ']",Classic
-15,Zürich,Unplugged,2016-11-28,"[' Aaron Wegmann ', ' Seraphim von Werra ']",Pop
-16,Basel,Ships-on-Neptune,2016-11-28,"[' Lou Lecaudey ', ' Johannes Maikranz ', ' Victor Rosse ', ' Florian Haas Schneider ']",
-17,Zürich,The-Jazz-Trio,2016-11-28,"[' Florian Egli ', ' Raphael Walser ', ' Jonas Ruther ']",
-18,Zürich,Joan-As-Police-Woman-&-Benjamin-Lazar-Davis,2016-11-28,"['Joan As Police Woman & Benjamin Lazar Davis ', ' Fil Bo Riva ']",Pop
+location,event,date,artists,genre
+Bern,Zibelesounds-'Schiff-Ahoi!',2016-11-28,['Marc Fitze '],Classic
+Basel,AMG-Rising-Stars,2016-11-28,"['Tobias Feldmann ', ' Nikolaus Resa ']",Classic
+Zürich,Spektrumkonzert-Mixtett,2016-11-28,"['Marianne Racine ', ' Hans Adolfsen ', ' Bettina Boller ', ' Jojo Kunz ']",Classic
+Pratteln,The-Answer-The-Dead-Daisies,2016-11-28,"['The Answer ', ' The Dead Daisies ']",
+Zürich,Fanny-Mendelssohn-und-ihr-Bruder-Felix,2016-11-28,['Andrea Wiesli '],Classic
+Zürich,Nik-Bärtschs-Ronin,2016-11-28,"[' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
+Zürich,Kompakt-18,2016-11-28,"['Gilles Grimaître ', ' Hans-Peter Pfammater ']",Classic
+Solothurn,Cimorelli,2016-11-28,['Cimorelli '],Pop
+null,Federico-Monetta-Quartet,2016-11-28,"['Federico Monetta Quartet ', ' Federico Monetta ', ' Manuel Promotton ', ' Luca Curcio ', ' Giacomo Reggiani ']",
+Zürich,The-Sad-Pumpkins,2016-11-28,"[' Niculin Janett ', ' Noam Szyfer ']",
+Zürich,Thomas-Quasthoff-Jazz-Project,2016-11-28,"[' Thomas Quasthoff ', ' Frank Chastenier ', ' Dieter Ilg ', ' Wolfgang Haffner ']",
+Basel,Dialog,2016-11-28,['Luca Avanzi '],Classic
+Baden,Joe-Haider-Trio,2016-11-28,"[' Joe Haider ', ' Raffaele Bossard ', ' Dominic Egli ']",
+Zürich,Hooton-Tennis-Club,2016-11-28,['Hooton Tennis Club '],Pop
+Zürich,Winston,2016-11-28,"['Juna Winston ', ' Coleman Goepfert ', ' works by Karlheinz Essl ']",Classic
+Zürich,Unplugged,2016-11-28,"[' Aaron Wegmann ', ' Seraphim von Werra ']",Pop
+Basel,Ships-on-Neptune,2016-11-28,"[' Lou Lecaudey ', ' Johannes Maikranz ', ' Victor Rosse ', ' Florian Haas Schneider ']",
+Zürich,The-Jazz-Trio,2016-11-28,"[' Florian Egli ', ' Raphael Walser ', ' Jonas Ruther ']",
+Zürich,Joan-As-Police-Woman-&-Benjamin-Lazar-Davis,2016-11-28,"['Joan As Police Woman & Benjamin Lazar Davis ', ' Fil Bo Riva ']",Pop

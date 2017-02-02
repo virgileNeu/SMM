@@ -1,10 +1,10 @@
-,location,event,date,artists,genre
-0,Bern,Französische-Melodien-und-Italienische-Schlager,2016-09-19,"['Vilislava Gospodinova ', ' Carlos Nogueira ', ' Zsolt Czetner ']",Classic
-1,Zürich,Argovia-Philharmonic,2016-09-19,['Sophia Jaffé '],Classic
-2,Zürich,Argovia-Philharmonic,2016-09-19,['Sophia Jaffé '],Classic
-3,Pratteln,Steak-Number-Eight,2016-09-19,['Steak Number Eight '],
-4,Zürich,Matthew-Logan-Vasquez,2016-09-19,['Matthew Logan Vasquez '],
-5,null,Jochen-Rueckert-Quartett,2016-09-19,['Jochen Rueckert Quartett '],
-6,Zürich,Barry-Guy,2016-09-19,"['Barry Guy ', ' Barry Guy ', ' Savina Yannatou ', ' Agusti Fernandez ', ' Ben Dwyer ', ' Percy Pursglove ', ' Maya Homburger ']",
-7,Basel,Jeff-Ballard-Trio,2016-09-19,"['Jeff Ballard Trio ', ' Jeff Ballard ', ' Lionel Loueké ', ' Chris Cheek ']",
-8,Zürich,Wiesendanger-Möbus-Hemingway,2016-09-19,"[' Chris Wiesendanger ', ' Frank Möbus ', ' Gerry Hemingway ']",
+location,event,date,artists,genre
+Bern,Französische-Melodien-und-Italienische-Schlager,2016-09-19,"['Vilislava Gospodinova ', ' Carlos Nogueira ', ' Zsolt Czetner ']",Classic
+Zürich,Argovia-Philharmonic,2016-09-19,['Sophia Jaffé '],Classic
+Zürich,Argovia-Philharmonic,2016-09-19,['Sophia Jaffé '],Classic
+Pratteln,Steak-Number-Eight,2016-09-19,['Steak Number Eight '],
+Zürich,Matthew-Logan-Vasquez,2016-09-19,['Matthew Logan Vasquez '],
+null,Jochen-Rueckert-Quartett,2016-09-19,['Jochen Rueckert Quartett '],
+Zürich,Barry-Guy,2016-09-19,"['Barry Guy ', ' Barry Guy ', ' Savina Yannatou ', ' Agusti Fernandez ', ' Ben Dwyer ', ' Percy Pursglove ', ' Maya Homburger ']",
+Basel,Jeff-Ballard-Trio,2016-09-19,"['Jeff Ballard Trio ', ' Jeff Ballard ', ' Lionel Loueké ', ' Chris Cheek ']",
+Zürich,Wiesendanger-Möbus-Hemingway,2016-09-19,"[' Chris Wiesendanger ', ' Frank Möbus ', ' Gerry Hemingway ']",

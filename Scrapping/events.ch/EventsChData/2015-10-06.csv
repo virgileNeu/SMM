@@ -1,16 +1,16 @@
-,location,event,date,artists,genre
-0,Zürich,Top-Party-Band-Krokodili,2015-10-06,['Top Party Band Krokodili '],
-1,Zürich,Benny's-From-Heaven,2015-10-06,"[' Simon Wyrsch ', ' Dave Ruosch ', ' Kalli Gerhards ', ' Martin Meyer ']",
-2,null,Machine-Head,2015-10-06,['Machine Head '],
-3,Zürich,20-Jahre-Amar-Quartett-Oder-die-Liebe-zu-Paul-Hindemith,2015-10-06,"['Maria Riccarda Wesseling ', ' Péter Somodari ']",Classic
-4,Zürich,Richard-Thompson,2015-10-06,['Richard Thompson '],
-5,Zürich,Arcane-Roots,2015-10-06,['Arcane Roots '],
-6,Kriens,ZS,2015-10-06,"['ZS ', ' PC Worship ', ' DJ Sam Hillmer ']",
-7,Zürich,Sophie-Zelmani,2015-10-06,['Sophie Zelmani '],Pop
-8,Solothurn,Glenn-Hughes,2015-10-06,['Glenn Hughes '],
-9,Zürich,Keston-Cobblers-Club,2015-10-06,['Keston Cobblers Club '],Pop
-10,Luzern,Reconception,2015-10-06,"[' Lukas V. Gernet ', ' Martin Gasser ', ' Toni Bechtold ', ' Rafael Jerjen ', ' Sheldon Suter ']",
-11,Zürich,Artist-in-Residence-Markus-Schönholzer,2015-10-06,"[' Markus Schönholzer ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ', ' Christoph Grab ']",
-12,Basel,Brainstorming,2015-10-06,"[' Matthias Kohler ', ' Lukas Wyss ', ' Luzius Schuler ', ' Raphael Walser ', ' Gregor Lisser ']",
-13,Pratteln,Waltari,2015-10-06,['Waltari '],
-14,Zürich,Lady-Lamb,2015-10-06,"['Lady Lamb ', ' La Luz ']",
+location,event,date,artists,genre
+Zürich,Top-Party-Band-Krokodili,2015-10-06,['Top Party Band Krokodili '],
+Zürich,Benny's-From-Heaven,2015-10-06,"[' Simon Wyrsch ', ' Dave Ruosch ', ' Kalli Gerhards ', ' Martin Meyer ']",
+null,Machine-Head,2015-10-06,['Machine Head '],
+Zürich,20-Jahre-Amar-Quartett-Oder-die-Liebe-zu-Paul-Hindemith,2015-10-06,"['Maria Riccarda Wesseling ', ' Péter Somodari ']",Classic
+Zürich,Richard-Thompson,2015-10-06,['Richard Thompson '],
+Zürich,Arcane-Roots,2015-10-06,['Arcane Roots '],
+Kriens,ZS,2015-10-06,"['ZS ', ' PC Worship ', ' DJ Sam Hillmer ']",
+Zürich,Sophie-Zelmani,2015-10-06,['Sophie Zelmani '],Pop
+Solothurn,Glenn-Hughes,2015-10-06,['Glenn Hughes '],
+Zürich,Keston-Cobblers-Club,2015-10-06,['Keston Cobblers Club '],Pop
+Luzern,Reconception,2015-10-06,"[' Lukas V. Gernet ', ' Martin Gasser ', ' Toni Bechtold ', ' Rafael Jerjen ', ' Sheldon Suter ']",
+Zürich,Artist-in-Residence-Markus-Schönholzer,2015-10-06,"[' Markus Schönholzer ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ', ' Christoph Grab ']",
+Basel,Brainstorming,2015-10-06,"[' Matthias Kohler ', ' Lukas Wyss ', ' Luzius Schuler ', ' Raphael Walser ', ' Gregor Lisser ']",
+Pratteln,Waltari,2015-10-06,['Waltari '],
+Zürich,Lady-Lamb,2015-10-06,"['Lady Lamb ', ' La Luz ']",

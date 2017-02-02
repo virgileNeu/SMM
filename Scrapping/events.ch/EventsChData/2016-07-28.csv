@@ -1,16 +1,16 @@
-,location,event,date,artists,genre
-0,Verbier,Verbier-Festival,2016-07-28,"['Daniel Hope ', ' Torleif Thedeen ', ' Marc-André Hamelin ']",Classic
-1,St.-Moritz,Festival-da-Jazz,2016-07-28,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Philipp Ackermann ', ' Michael Jeup ', ' Rolf Lyssy ']",
-2,Verbier,Verbier-Festival,2016-07-28,[' conductor: Andras Schiff '],Classic
-3,Zürich,Animals-As-Leaders,2016-07-28,"['Animals As Leaders ', ' Intervals ', ' Plini ']",
-4,Château-d'Oex,Recital,2016-07-28,"['Arabella Steinbacher ', ' Igor Kamenz ']",Classic
-5,Riehen,Stimmen,2016-07-28,"['Alejandra Ribera ', ' Songbirds Collective ']",Pop
-6,Verbier,Verbier-Festival,2016-07-28,"['Christian Gerhaher ', ' Gerold Huber ']",Classic
-7,null,Lollo-Meier-Quartet,2016-07-28,['Lollo Meier Quartet '],
-8,null,Langnau-Jazz-Nights,2016-07-28,"[' Antonio Sanchez ', ' Thana Alexa ', ' Seamus Blake ', ' John Escreet ']",
-9,Luzern,Blue-Balls-Festival,2016-07-28,['The Corrs '],Pop
-10,Basel,Im-Fluss,2016-07-28,['Xixa '],
-11,St.-Moritz,Festival-da-Jazz,2016-07-28,"['Harold López Nussa ', ' Harold Lopez-Nussa ', ' Alune Wade ', ' Ruy Adrian Lopez-Nussa ']",
-12,Zürich,Jozia,2016-07-28,['Jozia '],Pop
-13,Basel,Basel-Tattoo,2016-07-28,"['Canadiana Celtic Highland Dancers ', ' The Band of HM Royal Marines ', ' Conscript Band of the Finnish Defence Forces ', ' Fanfare du 27ème bataillon de chasseurs alpins ']",traditional
-14,St.-Moritz,Festival-da-Jazz,2016-07-28,"['Bê Ignacio ', ' Bê Ignacio ', ' Oliver Pellet Santos ', ' Edmundo Carneiro ', ' Markus Schmidt ']",Pop
+location,event,date,artists,genre
+Verbier,Verbier-Festival,2016-07-28,"['Daniel Hope ', ' Torleif Thedeen ', ' Marc-André Hamelin ']",Classic
+St.-Moritz,Festival-da-Jazz,2016-07-28,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Philipp Ackermann ', ' Michael Jeup ', ' Rolf Lyssy ']",
+Verbier,Verbier-Festival,2016-07-28,[' conductor: Andras Schiff '],Classic
+Zürich,Animals-As-Leaders,2016-07-28,"['Animals As Leaders ', ' Intervals ', ' Plini ']",
+Château-d'Oex,Recital,2016-07-28,"['Arabella Steinbacher ', ' Igor Kamenz ']",Classic
+Riehen,Stimmen,2016-07-28,"['Alejandra Ribera ', ' Songbirds Collective ']",Pop
+Verbier,Verbier-Festival,2016-07-28,"['Christian Gerhaher ', ' Gerold Huber ']",Classic
+null,Lollo-Meier-Quartet,2016-07-28,['Lollo Meier Quartet '],
+null,Langnau-Jazz-Nights,2016-07-28,"[' Antonio Sanchez ', ' Thana Alexa ', ' Seamus Blake ', ' John Escreet ']",
+Luzern,Blue-Balls-Festival,2016-07-28,['The Corrs '],Pop
+Basel,Im-Fluss,2016-07-28,['Xixa '],
+St.-Moritz,Festival-da-Jazz,2016-07-28,"['Harold López Nussa ', ' Harold Lopez-Nussa ', ' Alune Wade ', ' Ruy Adrian Lopez-Nussa ']",
+Zürich,Jozia,2016-07-28,['Jozia '],Pop
+Basel,Basel-Tattoo,2016-07-28,"['Canadiana Celtic Highland Dancers ', ' The Band of HM Royal Marines ', ' Conscript Band of the Finnish Defence Forces ', ' Fanfare du 27ème bataillon de chasseurs alpins ']",traditional
+St.-Moritz,Festival-da-Jazz,2016-07-28,"['Bê Ignacio ', ' Bê Ignacio ', ' Oliver Pellet Santos ', ' Edmundo Carneiro ', ' Markus Schmidt ']",Pop

@@ -1,29 +1,29 @@
-,location,event,date,artists,genre
-0,Basel,Mittagskonzert,2013-03-07,[' Seul Ki Bae '],Classic
-1,Bern,Grenzgänge(r),2013-03-07,[' Anu Komsi '],Classic
-2,Alte-Kaserne,Zürich,2013-03-07,['11 AM '],
-3,Zürich,Thursday-Night-Jazz,2013-03-07,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-4,Dübendorf,In-vino-musica,2013-03-07,"[' Fabienne Leresche ', ' Patrick Leresche ']",Classic
-5,Uster,Eric-Martin-(MR.BIG)-Solo-Acoustic-Tour,2013-03-07,['Eric Martin '],
-6,Zürich,Christoph-Grabs-Ellingtonality,2013-03-07,"[' Grab ', ' Alessandro dEpiscopo ', ' Haemi Haemmerli ', ' Elmar Frey ']",
-7,Liebefeld,Zisman-Jacomella,2013-03-07,"[' Michael Zisman ', ' Annapaola Jacomella-Zisman ']",
-8,Zürich,State-Radio,2013-03-07,"['State Radio ', ' The Skints ']",
-9,Zürich,Guro-von-Germeten,2013-03-07,['Guro von Germeten '],Pop
-10,Basel,-bis-Von-Engeln-usw.,2013-03-07,[' Hans-Jürg Rickenbacher '],Classic
-11,null,Tränen-Quellen-Veil-of-Tears,2013-03-07,"[' Anne Schmid ', ' Pascale Van Coppenolle ']",Classic
-12,Luzern,Salonmusik,2013-03-07,"['Martin Schaefer ', ' Richard Decker ']",Classic
-13,Basel,Studierendenkonzert,2013-03-07,"[' Simone Aeberhard ', ' Mojca Gal ', ' Bruno Hurtado Gosalvez ', ' Jean-Christophe Dijoux ']",Classic
-14,Frauenfeld,Waidele-&-Friends,2013-03-07,"[' Jürgen Waidele ', ' Alexander Friedrich ', ' Arno Haas ']",
-15,Aarau,Martin-Dahanukar-Quartet,2013-03-07,"[' Martin Dahanukar ', ' Vinz Vonlanthen ', ' Sam Joss ', ' Peter Horisberger ']",
-16,Basel,Thomas-Moeckels-Centrio,2013-03-07,"[' Thomas Moeckel ', ' Dominik Schürmann ', ' Stephan Felber ']",
-17,Schüür,Luzern,2013-03-07,['Kosheen '],Kosheen
-18,Zürich,Daniel-Schläppi-with-Marc-Copland,2013-03-07,"['Daniel Schläppi with Marc Copland ', ' Daniel Schläppi ', ' Marc Copland ']",
-19,Zürich,Flava-Sauce,2013-03-07,"[' Valentin Bächi ', ' Manu Rindlisbacher ', ' Tobias Hunziker ']",
-20,Zürich,Urban-Kicks-&-Inner-Landscapes,2013-03-07,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco Käppeli ', ' Dieter Ulrich ']",
-21,Winterthur,Journeys,2013-03-07,"[' Angelo Signore ', ' Willy Kotoun ', ' Philippe Mall ', ' Robert Mark ', ' Luciano Maranta ', ' Dennis Roshard ']",
-22,Altes-Spital,Solothurn,2013-03-07,['The Bony King of Nowhere '],
-23,Aarau,De-Staat,2013-03-07,['De Staat '],
-24,Solothurn,Expire,2013-03-07,['Expire '],
-25,Luzern,Jam-Session,2013-03-07,['Richard Decker '],
-26,Zürich,Meursault,2013-03-07,['Meursault '],
-27,Zürich,The-Rossi-Jam,2013-03-07,"['Gabriel Spahni ', ' Simon Britschgi ', ' Matthew Savnik ']",Pop
+location,event,date,artists,genre
+Basel,Mittagskonzert,2013-03-07,[' Seul Ki Bae '],Classic
+Bern,Grenzgänge(r),2013-03-07,[' Anu Komsi '],Classic
+Alte-Kaserne,Zürich,2013-03-07,['11 AM '],
+Zürich,Thursday-Night-Jazz,2013-03-07,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Dübendorf,In-vino-musica,2013-03-07,"[' Fabienne Leresche ', ' Patrick Leresche ']",Classic
+Uster,Eric-Martin-(MR.BIG)-Solo-Acoustic-Tour,2013-03-07,['Eric Martin '],
+Zürich,Christoph-Grabs-Ellingtonality,2013-03-07,"[' Grab ', ' Alessandro dEpiscopo ', ' Haemi Haemmerli ', ' Elmar Frey ']",
+Liebefeld,Zisman-Jacomella,2013-03-07,"[' Michael Zisman ', ' Annapaola Jacomella-Zisman ']",
+Zürich,State-Radio,2013-03-07,"['State Radio ', ' The Skints ']",
+Zürich,Guro-von-Germeten,2013-03-07,['Guro von Germeten '],Pop
+Basel,-bis-Von-Engeln-usw.,2013-03-07,[' Hans-Jürg Rickenbacher '],Classic
+null,Tränen-Quellen-Veil-of-Tears,2013-03-07,"[' Anne Schmid ', ' Pascale Van Coppenolle ']",Classic
+Luzern,Salonmusik,2013-03-07,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Basel,Studierendenkonzert,2013-03-07,"[' Simone Aeberhard ', ' Mojca Gal ', ' Bruno Hurtado Gosalvez ', ' Jean-Christophe Dijoux ']",Classic
+Frauenfeld,Waidele-&-Friends,2013-03-07,"[' Jürgen Waidele ', ' Alexander Friedrich ', ' Arno Haas ']",
+Aarau,Martin-Dahanukar-Quartet,2013-03-07,"[' Martin Dahanukar ', ' Vinz Vonlanthen ', ' Sam Joss ', ' Peter Horisberger ']",
+Basel,Thomas-Moeckels-Centrio,2013-03-07,"[' Thomas Moeckel ', ' Dominik Schürmann ', ' Stephan Felber ']",
+Schüür,Luzern,2013-03-07,['Kosheen '],Kosheen
+Zürich,Daniel-Schläppi-with-Marc-Copland,2013-03-07,"['Daniel Schläppi with Marc Copland ', ' Daniel Schläppi ', ' Marc Copland ']",
+Zürich,Flava-Sauce,2013-03-07,"[' Valentin Bächi ', ' Manu Rindlisbacher ', ' Tobias Hunziker ']",
+Zürich,Urban-Kicks-&-Inner-Landscapes,2013-03-07,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco Käppeli ', ' Dieter Ulrich ']",
+Winterthur,Journeys,2013-03-07,"[' Angelo Signore ', ' Willy Kotoun ', ' Philippe Mall ', ' Robert Mark ', ' Luciano Maranta ', ' Dennis Roshard ']",
+Altes-Spital,Solothurn,2013-03-07,['The Bony King of Nowhere '],
+Aarau,De-Staat,2013-03-07,['De Staat '],
+Solothurn,Expire,2013-03-07,['Expire '],
+Luzern,Jam-Session,2013-03-07,['Richard Decker '],
+Zürich,Meursault,2013-03-07,['Meursault '],
+Zürich,The-Rossi-Jam,2013-03-07,"['Gabriel Spahni ', ' Simon Britschgi ', ' Matthew Savnik ']",Pop

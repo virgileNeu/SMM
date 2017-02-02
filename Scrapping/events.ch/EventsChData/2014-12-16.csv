@@ -1,20 +1,20 @@
-,location,event,date,artists,genre
-0,Bern,Lunchkonzert,2014-12-16,['Bogdan Banu '],Classic
-1,Basel,Mittagskonzert,2014-12-16,[' Lucie Cornemillot '],Classic
-2,Zürich,Glantaler-Power-Men,2014-12-16,['Glantaler Power Men '],Pop
-3,Zürich,Jaccard-Ruosch-Gasser,2014-12-16,"[' Christina Jaccard ', ' Dave Ruosch ', ' Lukas Gasser ']",
-4,Zürich,Day-&-Taxi,2014-12-16,"[' Christoph Gallio ', ' Silvan Jeger ', ' David Meier ']",
-5,Worblaufen,Bobby-Johnson,2014-12-16,"[' Bobby Johnson ', ' Claude Barbotte ', ' Franck Barth ']",
-6,Basel,Jauchzen-&-frohlocken,2014-12-16,"[' Valer Sabadus ', ' Terry Wey ', ' Werner Güra ', ' Christian Immler ']",Classic
-7,Zürich,La-douce-France,2014-12-16,"[' Anne Sofie von Otter ', ' Bengan Janson ', ' Antoine Tamestit ', ' Bengt Forsberg ']",Classic
-8,Basel,Syndromics-Variations-No.-1,2014-12-16,"['Matthias Würsch ', ' Camille Emaille ', ' Jérôme Petit ', ' Mirca Scepanovic ', ' Charlotte Huf ', ' Likas Fuchs ', ' Anmari Mëtsa Yabi Wili ']",Classic
-9,Zürich,Hoffmaestro,2014-12-16,['Hoffmaestro '],
-10,Aarau,Metalmayhen,2014-12-16,"['At the Gates ', ' Morbus Chron ']",
-11,Zürich,Elisa,2014-12-16,['Elisa '],Pop
-12,Luzern,The-Harlem-Gospel-Singers,2014-12-16,['The Harlem Gospel Singers '],
-13,Luzern,Dienstagsjazz,2014-12-16,"['Roman Nowka ', ' Samuel Kühni ', ' Tobias Schramm ']",
-14,Zürich,Beatsteaks,2014-12-16,['Beatsteaks '],
-15,Bern,Zatter-Stubete,2014-12-16,['Julian Sartorius '],
-16,Zürich,Andreas-Schaerer-feat.-Arte-Quartett,2014-12-16,"[' Andreas Schaerer ', ' Wolfgang Zwiauer ', ' Beat Hofstetter ', ' Sascha Armbruster ', ' Andrea Formenti ', ' Beat Kappeler ']",
-17,Basel,Honoring-Makaya-Ntshoko,2014-12-16,['Honoring Makaya Ntshoko '],
-18,Luzern,Workshopkonzert,2014-12-16,"[' Noëmi Jufer ', ' Valentin Baumgartner ', ' Mathieu Friz ', ' Stanislaw Sandronov ', ' Timo Wild ']",
+location,event,date,artists,genre
+Bern,Lunchkonzert,2014-12-16,['Bogdan Banu '],Classic
+Basel,Mittagskonzert,2014-12-16,[' Lucie Cornemillot '],Classic
+Zürich,Glantaler-Power-Men,2014-12-16,['Glantaler Power Men '],Pop
+Zürich,Jaccard-Ruosch-Gasser,2014-12-16,"[' Christina Jaccard ', ' Dave Ruosch ', ' Lukas Gasser ']",
+Zürich,Day-&-Taxi,2014-12-16,"[' Christoph Gallio ', ' Silvan Jeger ', ' David Meier ']",
+Worblaufen,Bobby-Johnson,2014-12-16,"[' Bobby Johnson ', ' Claude Barbotte ', ' Franck Barth ']",
+Basel,Jauchzen-&-frohlocken,2014-12-16,"[' Valer Sabadus ', ' Terry Wey ', ' Werner Güra ', ' Christian Immler ']",Classic
+Zürich,La-douce-France,2014-12-16,"[' Anne Sofie von Otter ', ' Bengan Janson ', ' Antoine Tamestit ', ' Bengt Forsberg ']",Classic
+Basel,Syndromics-Variations-No.-1,2014-12-16,"['Matthias Würsch ', ' Camille Emaille ', ' Jérôme Petit ', ' Mirca Scepanovic ', ' Charlotte Huf ', ' Likas Fuchs ', ' Anmari Mëtsa Yabi Wili ']",Classic
+Zürich,Hoffmaestro,2014-12-16,['Hoffmaestro '],
+Aarau,Metalmayhen,2014-12-16,"['At the Gates ', ' Morbus Chron ']",
+Zürich,Elisa,2014-12-16,['Elisa '],Pop
+Luzern,The-Harlem-Gospel-Singers,2014-12-16,['The Harlem Gospel Singers '],
+Luzern,Dienstagsjazz,2014-12-16,"['Roman Nowka ', ' Samuel Kühni ', ' Tobias Schramm ']",
+Zürich,Beatsteaks,2014-12-16,['Beatsteaks '],
+Bern,Zatter-Stubete,2014-12-16,['Julian Sartorius '],
+Zürich,Andreas-Schaerer-feat.-Arte-Quartett,2014-12-16,"[' Andreas Schaerer ', ' Wolfgang Zwiauer ', ' Beat Hofstetter ', ' Sascha Armbruster ', ' Andrea Formenti ', ' Beat Kappeler ']",
+Basel,Honoring-Makaya-Ntshoko,2014-12-16,['Honoring Makaya Ntshoko '],
+Luzern,Workshopkonzert,2014-12-16,"[' Noëmi Jufer ', ' Valentin Baumgartner ', ' Mathieu Friz ', ' Stanislaw Sandronov ', ' Timo Wild ']",

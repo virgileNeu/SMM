@@ -1,40 +1,40 @@
-,location,event,date,artists,genre
-0,Zürich,Zeitlos-modern,2016-03-17,"[' David Goldzycher ', ' Mio Yamamoto ', ' Andrea Wennberg ', ' Carolyn Hopkins Marti ']",Classic
-1,Zürich,Werner-und-Company,2016-03-17,['Werner und Company '],Pop
-2,Baden,After-Work,2016-03-17,"[' Toni Donadio ', ' Nic Niedermann ']",
-3,Basel,Baselworld-Village,2016-03-17,['Bê Betina Ignacio '],
-4,Dübendorf,Dübendorfer-Jazztage,2016-03-17,"[' Ines Mauruschat ', ' Cyprien Rochat ']",
-5,Zürich,Unerhört-schön-unerhört-kurz,2016-03-17,[' Yefim Bronfman '],Classic
-6,Zürich,Madsen,2016-03-17,['Madsen '],Pop
-7,Winterthur,Christian-Zacharias,2016-03-17,[' conductor: Christian Zacharias '],Classic
-8,Bern,Internationales-Jazzfestival-Bern,2016-03-17,['Shemekia Copeland '],
-9,Luzern,Lucerne-Festival-zu-Ostern,2016-03-17,"[' Mark Padmore ', ' Stephan Loges ', ' Hannah Morrison ']",Classic
-10,Zürich,Thursday-Night-Jazz,2016-03-17,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-11,Zürich,Gaspard-de-la-nuit,2016-03-17,['Alexander Yakovlev '],Classic
-12,null,5.-Meisterzykluskonzert,2016-03-17,"[' Pieter Wispelwey ', ' Marc Danel ', ' Gilles Millet ', ' Vlad Bogdanas ', ' Yovan Markovitch ']",Classic
-13,Basel,Kammermusik-um-halb-acht,2016-03-17,"['Vilija Poskute ', ' Tomas Daukantas ']",Classic
-14,Luzern,Against-the-Current,2016-03-17,['Against the Current '],Pop
-15,Basel,Aer-Luft,2016-03-17,"[' Stefka Perifanova ', ' Isabelle Schnöller ', ' Antje Thierbach ']",Classic
-16,null,Tournee-IV,2016-03-17,"[' Renaud Capuçon ', ' Lionel Cottet ']",Classic
-17,null,Saul-Williams,2016-03-17,['Saul Williams '],
-18,Zürich,Marco-Todisco-Trio,2016-03-17,"[' Marco Todisco ', ' Antonello Messina ', ' Andi Pupato ']",
-19,Winterthur,Say-Yes-Dog,2016-03-17,['Say Yes Dog '],Pop
-20,Baden,The-Michael-Musillami-Trio,2016-03-17,"[' Michael Musillami ', ' Joe Fonda ', ' George Schuller ']",
-21,Winterthur,Paintbox,2016-03-17,"[' Jonas Windscheid ', ' Andreas Böhlen ', ' Hans Feigenwinter ', ' Roberto Koch ', ' Silvio Morger ']",
-22,Baden,Sugar-&-The-Josephines,2016-03-17,"[' Marion Weik ', ' Steven Parry ', ' Benno Ernst ', ' Beni Schlapbach ', ' Thomas Blättler ']",
-23,Liebefeld,Membrez-Mantel,2016-03-17,"[' Vincent Membrez ', ' Lukas Mantel ']",
-24,Basel,The-Kilborn-Alley-Blues-Band,2016-03-17,"['The Kilborn Alley Blues Band ', ' Andrew Duncanson ', ' Josh Stimmel ', ' Chris Breen ', "" Ed O'Hara ""]",
-25,Solothurn,Acoustic-Nights,2016-03-17,['Troy Faid '],Pop
-26,Aarau,Steaming-Satellites,2016-03-17,['Steaming Satellites '],
-27,Basel,Get-Well-Soon,2016-03-17,['Get Well Soon '],Pop
-28,Zürich,Ray-Anderson-&-Big-Band-der-Hochschule-Luzern,2016-03-17,"[' Ray Anderson ', ' Naima Gürth ', ' Benjamin Knecht ', ' Noah Arnold ', ' Rafal Jastrzebski ']",
-29,Baden,Sun-Tailor,2016-03-17,['Sun Tailor '],
-30,Basel,Rom-Schaerer-Eberle,2016-03-17,"[' Andreas Schaerer ', ' Martin Eberle ', ' Peter Rom ']",
-31,Dübendorf,Dübendorfer-Jazztage,2016-03-17,"[' Yvonne Moore ', ' Marc Scheidegger ', ' André Pousaz ', ' Arno Troxler ']",
-32,Zürich,Niculin-Janett-Quartett,2016-03-17,"[' Niculin Janett ', ' Rafael Schilt ', ' Lisa Hoppe ', ' Daniel ""D-Flat"" Weber ']",
-33,Zürich,Bukowski-&-The-Straight-and-Narrow,2016-03-17,['The KVB '],Electronic
-34,Zürich,Benjamin-Folke-Thomas,2016-03-17,['Benjamin Folke Thomas '],
-35,Basel,Trinity-Garagenkonzert,2016-03-17,[' Psylence '],
-36,Bern,Calibro-35,2016-03-17,['Calibro 35 '],
-37,Sankt-Gallen,Ghostpoet,2016-03-17,['Ghostpoet '],Pop
-38,Zug,Wahu-Bar,2016-03-17,['Duel '],
+location,event,date,artists,genre
+Zürich,Zeitlos-modern,2016-03-17,"[' David Goldzycher ', ' Mio Yamamoto ', ' Andrea Wennberg ', ' Carolyn Hopkins Marti ']",Classic
+Zürich,Werner-und-Company,2016-03-17,['Werner und Company '],Pop
+Baden,After-Work,2016-03-17,"[' Toni Donadio ', ' Nic Niedermann ']",
+Basel,Baselworld-Village,2016-03-17,['Bê Betina Ignacio '],
+Dübendorf,Dübendorfer-Jazztage,2016-03-17,"[' Ines Mauruschat ', ' Cyprien Rochat ']",
+Zürich,Unerhört-schön-unerhört-kurz,2016-03-17,[' Yefim Bronfman '],Classic
+Zürich,Madsen,2016-03-17,['Madsen '],Pop
+Winterthur,Christian-Zacharias,2016-03-17,[' conductor: Christian Zacharias '],Classic
+Bern,Internationales-Jazzfestival-Bern,2016-03-17,['Shemekia Copeland '],
+Luzern,Lucerne-Festival-zu-Ostern,2016-03-17,"[' Mark Padmore ', ' Stephan Loges ', ' Hannah Morrison ']",Classic
+Zürich,Thursday-Night-Jazz,2016-03-17,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Zürich,Gaspard-de-la-nuit,2016-03-17,['Alexander Yakovlev '],Classic
+null,5.-Meisterzykluskonzert,2016-03-17,"[' Pieter Wispelwey ', ' Marc Danel ', ' Gilles Millet ', ' Vlad Bogdanas ', ' Yovan Markovitch ']",Classic
+Basel,Kammermusik-um-halb-acht,2016-03-17,"['Vilija Poskute ', ' Tomas Daukantas ']",Classic
+Luzern,Against-the-Current,2016-03-17,['Against the Current '],Pop
+Basel,Aer-Luft,2016-03-17,"[' Stefka Perifanova ', ' Isabelle Schnöller ', ' Antje Thierbach ']",Classic
+null,Tournee-IV,2016-03-17,"[' Renaud Capuçon ', ' Lionel Cottet ']",Classic
+null,Saul-Williams,2016-03-17,['Saul Williams '],
+Zürich,Marco-Todisco-Trio,2016-03-17,"[' Marco Todisco ', ' Antonello Messina ', ' Andi Pupato ']",
+Winterthur,Say-Yes-Dog,2016-03-17,['Say Yes Dog '],Pop
+Baden,The-Michael-Musillami-Trio,2016-03-17,"[' Michael Musillami ', ' Joe Fonda ', ' George Schuller ']",
+Winterthur,Paintbox,2016-03-17,"[' Jonas Windscheid ', ' Andreas Böhlen ', ' Hans Feigenwinter ', ' Roberto Koch ', ' Silvio Morger ']",
+Baden,Sugar-&-The-Josephines,2016-03-17,"[' Marion Weik ', ' Steven Parry ', ' Benno Ernst ', ' Beni Schlapbach ', ' Thomas Blättler ']",
+Liebefeld,Membrez-Mantel,2016-03-17,"[' Vincent Membrez ', ' Lukas Mantel ']",
+Basel,The-Kilborn-Alley-Blues-Band,2016-03-17,"['The Kilborn Alley Blues Band ', ' Andrew Duncanson ', ' Josh Stimmel ', ' Chris Breen ', "" Ed O'Hara ""]",
+Solothurn,Acoustic-Nights,2016-03-17,['Troy Faid '],Pop
+Aarau,Steaming-Satellites,2016-03-17,['Steaming Satellites '],
+Basel,Get-Well-Soon,2016-03-17,['Get Well Soon '],Pop
+Zürich,Ray-Anderson-&-Big-Band-der-Hochschule-Luzern,2016-03-17,"[' Ray Anderson ', ' Naima Gürth ', ' Benjamin Knecht ', ' Noah Arnold ', ' Rafal Jastrzebski ']",
+Baden,Sun-Tailor,2016-03-17,['Sun Tailor '],
+Basel,Rom-Schaerer-Eberle,2016-03-17,"[' Andreas Schaerer ', ' Martin Eberle ', ' Peter Rom ']",
+Dübendorf,Dübendorfer-Jazztage,2016-03-17,"[' Yvonne Moore ', ' Marc Scheidegger ', ' André Pousaz ', ' Arno Troxler ']",
+Zürich,Niculin-Janett-Quartett,2016-03-17,"[' Niculin Janett ', ' Rafael Schilt ', ' Lisa Hoppe ', ' Daniel ""D-Flat"" Weber ']",
+Zürich,Bukowski-&-The-Straight-and-Narrow,2016-03-17,['The KVB '],Electronic
+Zürich,Benjamin-Folke-Thomas,2016-03-17,['Benjamin Folke Thomas '],
+Basel,Trinity-Garagenkonzert,2016-03-17,[' Psylence '],
+Bern,Calibro-35,2016-03-17,['Calibro 35 '],
+Sankt-Gallen,Ghostpoet,2016-03-17,['Ghostpoet '],Pop
+Zug,Wahu-Bar,2016-03-17,['Duel '],

@@ -1,39 +1,39 @@
-,location,event,date,artists,genre
-0,null,Zamba-Loca-Die-Bar,2015-10-02,['The Mutants '],Pop
-1,Pratteln,Up-in-Smoke,2015-10-02,"['Karma to Burn ', ' Valient Thorr ', ' Stoned Jesus ', ' Jex Toth ', ' Child ', ' Black Bone ']",
-2,Zürich,Monte-Carlo,2015-10-02,['Monte Carlo '],
-3,Basel,Orgelspiel-zum-Feierabend,2015-10-02,['James Johnstone '],Classic
-4,Dietikon,Feierabendmusik,2015-10-02,"['Franziska Kerler ', ' Stephanie Meitzner ']",Classic
-5,Zürich,Harfe-in-Romantik-und-Impressionismus,2015-10-02,"['Sarah Verrue ', ' Sabine Poyé Morel ', ' Gilad Karni ']",Classic
-6,Münchenstein,D'Bâle-Electronic-Music-Festival,2015-10-02,"['Michel Chion ', ' Trevor Wishart ', ' Gilles Gobeil ', ' David Berezan ']",Electronic
-7,Zürich,Against-The-Current,2015-10-02,['Against The Current '],Pop
-8,null,1.-Meisterzyklus-Konzert-Winterreise,2015-10-02,"[' Daniel Behle ', ' Andreas Janke ', ' Benjamin Nyffenegger ', ' Oliver Schnyder ']",Classic
-9,Zürich,Alumni-Sinfonieorchester-Zürich,2015-10-02,['Marion Ammann '],Classic
-10,Basel,Epicycle-1-Island,2015-10-02,[' Víkingur Ólafsson '],Classic
-11,Bern,Ein-deutsches-Requiem,2015-10-02,"[' Rachel Harnisch ', ' Andrè Schuen ']",Classic
-12,Münchenstein,Degiheugi,2015-10-02,['Degiheugi '],
-13,Wetzikon,Eclipse,2015-10-02,"['Eclipse ', ' Reach ']",
-14,Zürich,Bebel-Gilberto,2015-10-02,['Bebel Gilberto '],
-15,Adelboden,Swiss-Chamber-Music-Festival,2015-10-02,"[' Rute Fernandes ', ' David Silva ', ' Sinforosa Pettrali ', ' Christoph Bürgi ', ' Nicola Katz ', ' Ramon Imlig ', ' Philipp Hösli ']",Classic
-16,Zürich,Echo-vom-Furttal,2015-10-02,"[' Heli ', ' Sales ', ' Heiri ']",
-17,Bülach,Monty-Alexander-Trio,2015-10-02,"[' Monty Alexander ', ' Hassan JJ Wiggins Shakur ', ' Dennis Mackrel ']",
-18,Winterthur,Gabriela-Krapf-&-Horns,2015-10-02,"[' Gabriela Krapf ', ' Silvan Kiser ', ' Raffaele Lunardi ', ' Phil Powell ']",Pop
-19,Zürich,Hojito-Vincent-&-Kocher-Zimmerlin,2015-10-02,"[' Ryoji Hojito ', ' Hugues Vincent ', ' Jonas Kocher ', ' Alfred Zimmerlin ']",
-20,Zürich,Hindi-Zahra,2015-10-02,"['Hindi Zahra ', ' Hindi Zahra ', ' Benoit Medrykowski ', ' Paul Salvagnac ', ' David Dupuis ', ' Jeff Hallam ']",
-21,Aarau,Von-Wegen-Lisbeth-(D),2015-10-02,['Von wegen Lisbeth '],
-22,Basel,Moroni-Bonisolo-Quartet,2015-10-02,"[' Adrian Maers ', ' Dado Moroni ', ' Stephan Kurmann ', ' Enzo Zirilli ']",
-23,Bern,Yokko,2015-10-02,[' Kensington '],Pop
-24,Bern,Helldorado,2015-10-02,"['Helldorado ', ' support: Bar ']",
-25,Winterthur,Beardyman,2015-10-02,['Beardyman '],
-26,Aarau,Meta-&-The-Cornerstones,2015-10-02,['Meta & The Cornerstones '],
-27,Brugg,Funk-Jam-Session,2015-10-02,"[' Christoph Schmid ', ' Thomas Meier ', ' John Forrer ', ' Rahel Schmid ']",
-28,Bern,Young-Fathers,2015-10-02,['Young Fathers '],
-29,Wil,Go-Go-Berlin,2015-10-02,['Go Go Berlin '],Pop
-30,Zürich,Lilabungalow,2015-10-02,['Lilabungalow '],Pop
-31,null,Battalion,2015-10-02,[' Moros '],
-32,Luzern,Jimmy-Wettach's-Swingtett,2015-10-02,"[' Ruedi von Arx ', ' John Service ', ' Thom Grüninger ', ' Jimmy Wettach ', ' Rolli Schärer ']",
-33,Luzern,Uncle-Bard-&-The-Dirty-Bastards,2015-10-02,['Uncle Bard & The Dirty Bastards '],
-34,Zürich,Halbstark,2015-10-02,['Peach Kelli Pop '],
-35,Sankt-Gallen,The-Nightingales,2015-10-02,['The Nightingales '],
-36,Zürich,Neckless,2015-10-02,"[' Marcel Sprenger ', ' Beda Mächler ', ' Daniel Sprenger ', ' Vanja Vukelic ', ' Daniel Eugster ']",Pop
-37,Lyss,Konshens,2015-10-02,['Konshens '],
+location,event,date,artists,genre
+null,Zamba-Loca-Die-Bar,2015-10-02,['The Mutants '],Pop
+Pratteln,Up-in-Smoke,2015-10-02,"['Karma to Burn ', ' Valient Thorr ', ' Stoned Jesus ', ' Jex Toth ', ' Child ', ' Black Bone ']",
+Zürich,Monte-Carlo,2015-10-02,['Monte Carlo '],
+Basel,Orgelspiel-zum-Feierabend,2015-10-02,['James Johnstone '],Classic
+Dietikon,Feierabendmusik,2015-10-02,"['Franziska Kerler ', ' Stephanie Meitzner ']",Classic
+Zürich,Harfe-in-Romantik-und-Impressionismus,2015-10-02,"['Sarah Verrue ', ' Sabine Poyé Morel ', ' Gilad Karni ']",Classic
+Münchenstein,D'Bâle-Electronic-Music-Festival,2015-10-02,"['Michel Chion ', ' Trevor Wishart ', ' Gilles Gobeil ', ' David Berezan ']",Electronic
+Zürich,Against-The-Current,2015-10-02,['Against The Current '],Pop
+null,1.-Meisterzyklus-Konzert-Winterreise,2015-10-02,"[' Daniel Behle ', ' Andreas Janke ', ' Benjamin Nyffenegger ', ' Oliver Schnyder ']",Classic
+Zürich,Alumni-Sinfonieorchester-Zürich,2015-10-02,['Marion Ammann '],Classic
+Basel,Epicycle-1-Island,2015-10-02,[' Víkingur Ólafsson '],Classic
+Bern,Ein-deutsches-Requiem,2015-10-02,"[' Rachel Harnisch ', ' Andrè Schuen ']",Classic
+Münchenstein,Degiheugi,2015-10-02,['Degiheugi '],
+Wetzikon,Eclipse,2015-10-02,"['Eclipse ', ' Reach ']",
+Zürich,Bebel-Gilberto,2015-10-02,['Bebel Gilberto '],
+Adelboden,Swiss-Chamber-Music-Festival,2015-10-02,"[' Rute Fernandes ', ' David Silva ', ' Sinforosa Pettrali ', ' Christoph Bürgi ', ' Nicola Katz ', ' Ramon Imlig ', ' Philipp Hösli ']",Classic
+Zürich,Echo-vom-Furttal,2015-10-02,"[' Heli ', ' Sales ', ' Heiri ']",
+Bülach,Monty-Alexander-Trio,2015-10-02,"[' Monty Alexander ', ' Hassan JJ Wiggins Shakur ', ' Dennis Mackrel ']",
+Winterthur,Gabriela-Krapf-&-Horns,2015-10-02,"[' Gabriela Krapf ', ' Silvan Kiser ', ' Raffaele Lunardi ', ' Phil Powell ']",Pop
+Zürich,Hojito-Vincent-&-Kocher-Zimmerlin,2015-10-02,"[' Ryoji Hojito ', ' Hugues Vincent ', ' Jonas Kocher ', ' Alfred Zimmerlin ']",
+Zürich,Hindi-Zahra,2015-10-02,"['Hindi Zahra ', ' Hindi Zahra ', ' Benoit Medrykowski ', ' Paul Salvagnac ', ' David Dupuis ', ' Jeff Hallam ']",
+Aarau,Von-Wegen-Lisbeth-(D),2015-10-02,['Von wegen Lisbeth '],
+Basel,Moroni-Bonisolo-Quartet,2015-10-02,"[' Adrian Maers ', ' Dado Moroni ', ' Stephan Kurmann ', ' Enzo Zirilli ']",
+Bern,Yokko,2015-10-02,[' Kensington '],Pop
+Bern,Helldorado,2015-10-02,"['Helldorado ', ' support: Bar ']",
+Winterthur,Beardyman,2015-10-02,['Beardyman '],
+Aarau,Meta-&-The-Cornerstones,2015-10-02,['Meta & The Cornerstones '],
+Brugg,Funk-Jam-Session,2015-10-02,"[' Christoph Schmid ', ' Thomas Meier ', ' John Forrer ', ' Rahel Schmid ']",
+Bern,Young-Fathers,2015-10-02,['Young Fathers '],
+Wil,Go-Go-Berlin,2015-10-02,['Go Go Berlin '],Pop
+Zürich,Lilabungalow,2015-10-02,['Lilabungalow '],Pop
+null,Battalion,2015-10-02,[' Moros '],
+Luzern,Jimmy-Wettach's-Swingtett,2015-10-02,"[' Ruedi von Arx ', ' John Service ', ' Thom Grüninger ', ' Jimmy Wettach ', ' Rolli Schärer ']",
+Luzern,Uncle-Bard-&-The-Dirty-Bastards,2015-10-02,['Uncle Bard & The Dirty Bastards '],
+Zürich,Halbstark,2015-10-02,['Peach Kelli Pop '],
+Sankt-Gallen,The-Nightingales,2015-10-02,['The Nightingales '],
+Zürich,Neckless,2015-10-02,"[' Marcel Sprenger ', ' Beda Mächler ', ' Daniel Sprenger ', ' Vanja Vukelic ', ' Daniel Eugster ']",Pop
+Lyss,Konshens,2015-10-02,['Konshens '],

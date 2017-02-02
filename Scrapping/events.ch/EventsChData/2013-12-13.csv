@@ -1,47 +1,47 @@
-,location,event,date,artists,genre
-0,Basel,Mittagskonzert,2013-12-13,"['Péter Jánosházi ', ' Sharon Prushansky ', ' Cory Knight ']",Classic
-1,Basel,Masterrezital,2013-12-13,[' Alberto Azzolini '],Classic
-2,Bern,Star-Gala,2013-12-13,"['Beatrice Egli ', ' Die jungen Zillertaler ', ' Marc Pircher ']",traditional
-3,Luzern,Piano-Entertainment,2013-12-13,['Fabienne Ambühl '],
-4,Basel,Orgelspiel-zum-Feierabend,2013-12-13,['Daniel Leininger '],Classic
-5,Oberengstringen,Musik-und-Wort-zum-Advent,2013-12-13,['Bernhard Hörler '],Classic
-6,Pratteln,Voices-of-Gospel,2013-12-13,['St. Stephen Baptist Church Choir '],
-7,Zürich,Bonebreaker-Ball-Zürich,2013-12-13,[' Lotrify '],
-8,Bern,Also-sprach-Zarathustra,2013-12-13,[' Isabelle van Keulen '],Classic
-9,Basel,Mit-dem-Erbe-in-die-Zukunft,2013-12-13,['Isabelle Schnöller '],Classic
-10,Zürich,Adventskonzert,2013-12-13,[' Nicole Andris '],Classic
-11,Dübendorf,In-vino-musica,2013-12-13,"['Frauke Tometten-Molino ', ' Urs Hofstetter ', ' Atsuko Ikuta ']",Classic
-12,Luzern,Progetto-Vivaldi,2013-12-13,"[' Sol Gabetta ', ' conductor: Andrés Gabetta ']",Classic
-13,Aarau,Adventskonzert-Der-Stern-von-Bethlehem,2013-12-13,"[' Seraina Perrenoud ', ' Jeanne Roth ', ' Ernst Buscagne ']",Classic
-14,Zürich,Summer-Camp,2013-12-13,['Summer Camp '],Electronic
-15,Zürich,Russische-Avantgarde-ll,2013-12-13,"[' Kazuko Nakano ', ' David Pia ']",Classic
-16,Zürich,Voices-of-Gospel,2013-12-13,['Prince Yelder & Disciples for Christ '],
-17,Zürich,Russische-Avantgarde-ll,2013-12-13,"[' Kazuko Nakano ', ' David Pia ']",Classic
-18,Aarau,Romance-is-Dead-Festival,2013-12-13,"[' Coldburn ', ' Taped ']",
-19,Pratteln,Eisbrecher,2013-12-13,"['Eisbrecher ', ' A Life Divided ']",
-20,Burgdorf,Paldauer-Weihnachtskonzert,2013-12-13,['Die Paldauer '],traditional
-21,null,Indochine,2013-12-13,['Indochine '],Pop
-22,Zürich,Kafenion,2013-12-13,"[' Juno Haller ', ' Jorgos Stergiou ', ' Felix Elvetopoulos ', ' David Aebli ']",
-23,Basel,The-Doppelgangaz,2013-12-13,['The Doppelgangaz '],
-24,Winterthur,Chachaloca,2013-12-13,"[' Roman Glaser ', ' Alain von Ritter ', ' Richard Pechota ', ' Jost Müller ']",
-25,Zürich,Nicolai-Röser,2013-12-13,"[' Giancarlo Nicolai ', ' Anna Röser ']",
-26,null,Caravane,2013-12-13,"[' Andrea Tsoro Panitz ', ' Jurij Drole ', ' Geert Dedapper ', ' Martin Mäder ']",
-27,Luzern,Me-&-Mobi,2013-12-13,"[' Philipp Schlotter ', ' Lisa Hoppe ', ' Fred Bürki ', ' Joscha Schraff ', ' Niculin Janett ', ' Moritz Meyer ', ' Paul Amereller ']",
-28,Basel,Michael-Jaeger-Kerouac,2013-12-13,"[' Michael Jaeger ', ' Vincent Membrez ', ' Luca Sisera ', ' Norbert Pfammatter ']",
-29,Winterthur,Gorod,2013-12-13,['Gorod '],
-30,Zürich,Pullup-Orchestra,2013-12-13,"[' Valerie Maerten ', ' Jürg Lerch ', ' Eva Selinger ', ' Adrien Guerne ', ' Niklaus Hürny ', ' Philipp Labhart ']",
-31,null,Pierre-Do,2013-12-13,"[' Pierre-Do ', ' Pauline Gacond ', ' Lise Castella ', ' Anne-Alexandra Jungo ', ' Sébastien Breguet ', ' Martin Descloux ']",
-32,Zürich,Larry-and-his-Flask,2013-12-13,['Larry and his Flask '],
-33,Basel,Freitagsbar,2013-12-13,"[' Annika Francke ', ' Thomas Baumgartner ']",
-34,Basel,John-Smith,2013-12-13,['John Smith '],Pop
-35,Lenzburg,Eliot-Chambers,2013-12-13,['Eliot Chambers '],Pop
-36,null,Joyful-Noise,2013-12-13,['Julian Sartorius '],
-37,Zürich,Andys-Ba6,2013-12-13,"[' Andrea Nydegger ', ' Marc Roos ', ' Valentin Hebel ', ' Simon Raab ', ' Theo Evers ', ' Konstantin König ']",
-38,Bern,Corrections-House,2013-12-13,['Corrections House '],
-39,Aarau,Genetikk,2013-12-13,['Genetikk '],
-40,Basel,The-Black-Panthers,2013-12-13,['The Black Panthers '],
-41,Bern,Selectors'-Choice-Part-5,2013-12-13,['DJs General Levy '],
-42,Zürich,Tall-Tall-Trees,2013-12-13,['Tall Tall Trees '],
-43,Luzern,Experimental-Night,2013-12-13,"['DJs Tonet ', ' live: B. Fleischmann ', ' Ivliss ', ' Gum ']",
-44,Basel,Äl-Jawala,2013-12-13,['Äl Jawala '],
-45,Zürich,Krüttli-Traxel-Perret,2013-12-13,"[' Marie Krüttli ', ' Lukas Traxel ', ' Martin Perret ']",
+location,event,date,artists,genre
+Basel,Mittagskonzert,2013-12-13,"['Péter Jánosházi ', ' Sharon Prushansky ', ' Cory Knight ']",Classic
+Basel,Masterrezital,2013-12-13,[' Alberto Azzolini '],Classic
+Bern,Star-Gala,2013-12-13,"['Beatrice Egli ', ' Die jungen Zillertaler ', ' Marc Pircher ']",traditional
+Luzern,Piano-Entertainment,2013-12-13,['Fabienne Ambühl '],
+Basel,Orgelspiel-zum-Feierabend,2013-12-13,['Daniel Leininger '],Classic
+Oberengstringen,Musik-und-Wort-zum-Advent,2013-12-13,['Bernhard Hörler '],Classic
+Pratteln,Voices-of-Gospel,2013-12-13,['St. Stephen Baptist Church Choir '],
+Zürich,Bonebreaker-Ball-Zürich,2013-12-13,[' Lotrify '],
+Bern,Also-sprach-Zarathustra,2013-12-13,[' Isabelle van Keulen '],Classic
+Basel,Mit-dem-Erbe-in-die-Zukunft,2013-12-13,['Isabelle Schnöller '],Classic
+Zürich,Adventskonzert,2013-12-13,[' Nicole Andris '],Classic
+Dübendorf,In-vino-musica,2013-12-13,"['Frauke Tometten-Molino ', ' Urs Hofstetter ', ' Atsuko Ikuta ']",Classic
+Luzern,Progetto-Vivaldi,2013-12-13,"[' Sol Gabetta ', ' conductor: Andrés Gabetta ']",Classic
+Aarau,Adventskonzert-Der-Stern-von-Bethlehem,2013-12-13,"[' Seraina Perrenoud ', ' Jeanne Roth ', ' Ernst Buscagne ']",Classic
+Zürich,Summer-Camp,2013-12-13,['Summer Camp '],Electronic
+Zürich,Russische-Avantgarde-ll,2013-12-13,"[' Kazuko Nakano ', ' David Pia ']",Classic
+Zürich,Voices-of-Gospel,2013-12-13,['Prince Yelder & Disciples for Christ '],
+Zürich,Russische-Avantgarde-ll,2013-12-13,"[' Kazuko Nakano ', ' David Pia ']",Classic
+Aarau,Romance-is-Dead-Festival,2013-12-13,"[' Coldburn ', ' Taped ']",
+Pratteln,Eisbrecher,2013-12-13,"['Eisbrecher ', ' A Life Divided ']",
+Burgdorf,Paldauer-Weihnachtskonzert,2013-12-13,['Die Paldauer '],traditional
+null,Indochine,2013-12-13,['Indochine '],Pop
+Zürich,Kafenion,2013-12-13,"[' Juno Haller ', ' Jorgos Stergiou ', ' Felix Elvetopoulos ', ' David Aebli ']",
+Basel,The-Doppelgangaz,2013-12-13,['The Doppelgangaz '],
+Winterthur,Chachaloca,2013-12-13,"[' Roman Glaser ', ' Alain von Ritter ', ' Richard Pechota ', ' Jost Müller ']",
+Zürich,Nicolai-Röser,2013-12-13,"[' Giancarlo Nicolai ', ' Anna Röser ']",
+null,Caravane,2013-12-13,"[' Andrea Tsoro Panitz ', ' Jurij Drole ', ' Geert Dedapper ', ' Martin Mäder ']",
+Luzern,Me-&-Mobi,2013-12-13,"[' Philipp Schlotter ', ' Lisa Hoppe ', ' Fred Bürki ', ' Joscha Schraff ', ' Niculin Janett ', ' Moritz Meyer ', ' Paul Amereller ']",
+Basel,Michael-Jaeger-Kerouac,2013-12-13,"[' Michael Jaeger ', ' Vincent Membrez ', ' Luca Sisera ', ' Norbert Pfammatter ']",
+Winterthur,Gorod,2013-12-13,['Gorod '],
+Zürich,Pullup-Orchestra,2013-12-13,"[' Valerie Maerten ', ' Jürg Lerch ', ' Eva Selinger ', ' Adrien Guerne ', ' Niklaus Hürny ', ' Philipp Labhart ']",
+null,Pierre-Do,2013-12-13,"[' Pierre-Do ', ' Pauline Gacond ', ' Lise Castella ', ' Anne-Alexandra Jungo ', ' Sébastien Breguet ', ' Martin Descloux ']",
+Zürich,Larry-and-his-Flask,2013-12-13,['Larry and his Flask '],
+Basel,Freitagsbar,2013-12-13,"[' Annika Francke ', ' Thomas Baumgartner ']",
+Basel,John-Smith,2013-12-13,['John Smith '],Pop
+Lenzburg,Eliot-Chambers,2013-12-13,['Eliot Chambers '],Pop
+null,Joyful-Noise,2013-12-13,['Julian Sartorius '],
+Zürich,Andys-Ba6,2013-12-13,"[' Andrea Nydegger ', ' Marc Roos ', ' Valentin Hebel ', ' Simon Raab ', ' Theo Evers ', ' Konstantin König ']",
+Bern,Corrections-House,2013-12-13,['Corrections House '],
+Aarau,Genetikk,2013-12-13,['Genetikk '],
+Basel,The-Black-Panthers,2013-12-13,['The Black Panthers '],
+Bern,Selectors'-Choice-Part-5,2013-12-13,['DJs General Levy '],
+Zürich,Tall-Tall-Trees,2013-12-13,['Tall Tall Trees '],
+Luzern,Experimental-Night,2013-12-13,"['DJs Tonet ', ' live: B. Fleischmann ', ' Ivliss ', ' Gum ']",
+Basel,Äl-Jawala,2013-12-13,['Äl Jawala '],
+Zürich,Krüttli-Traxel-Perret,2013-12-13,"[' Marie Krüttli ', ' Lukas Traxel ', ' Martin Perret ']",

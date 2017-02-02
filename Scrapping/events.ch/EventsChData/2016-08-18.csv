@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Gampel,Openair-Gampel,2016-08-18,"['Biffy Clyro ', "" Noel Gallagher's High Flying Birds "", ' Sum 41 ', ' Brian Fallon ']",
-1,Gampel,Openair-Gampel,2016-08-18,"['Bosse ', ' K.I.Z. ', ' Alan Walker ', ' The Boxer Rebellion ']",
-2,Zürich,Werner-und-Company,2016-08-18,['Werner und Company '],traditional
-3,Winterthur,Winterthurer-Musikfestwochen,2016-08-18,[' Rusangano Family '],
-4,Spiez,Jürg-Brunner,2016-08-18,['Jürg Brunner '],Classic
-5,Spiez,Jürg-Brunner,2016-08-18,['Jürg Brunner '],Classic
-6,Luzern,Lucerne-Festival-Sinfoniekonzert-5,2016-08-18,[' conductor: Leonidas Kavakos '],Classic
-7,null,Take-Two,2016-08-18,"['Patricia Kopatchinskaja ', ' Anthony Romaniuk ', ' Laurence Dreyfus ']",Classic
-8,Zürich,Elisabeth-Lipiec-Quartett,2016-08-18,"['Elisabeth Lipiec Quartett ', ' Elisabeth Lipiec ', ' Matthias Siegrist ', ' Michi Ochsner ', ' Philipp Scholl ', ' Gast: Richard Lipiec ']",
-9,Winterthur,Mantar,2016-08-18,['Mantar '],
-10,Aarburg,Agnostic-Front,2016-08-18,['Agnostic Front '],
-11,Winterthur,Winterthurer-Musikfestwochen,2016-08-18,['Ben Caplan & The Casual Smokers '],
-12,Baden,Sleepwalkers-Station,2016-08-18,['Sleepwalkers Station '],
-13,Zürich,Mario-Schenker-Quartett,2016-08-18,"[' Mario Schenker ', ' Yves Theiler ', ' Silvan Jeger ', ' Maxime Paratte ']",
-14,Basel,Simon-Spiess-Trio-Featuring-Marc-Méan,2016-08-18,"[' Simon Spiess ', ' Marc Méan ', ' Bänz Oester ', ' Jonas Ruther ']",
-15,Zürich,Zürcher-Theater-Spektakel,2016-08-18,['Onda Vaga '],
+location,event,date,artists,genre
+Gampel,Openair-Gampel,2016-08-18,"['Biffy Clyro ', "" Noel Gallagher's High Flying Birds "", ' Sum 41 ', ' Brian Fallon ']",
+Gampel,Openair-Gampel,2016-08-18,"['Bosse ', ' K.I.Z. ', ' Alan Walker ', ' The Boxer Rebellion ']",
+Zürich,Werner-und-Company,2016-08-18,['Werner und Company '],traditional
+Winterthur,Winterthurer-Musikfestwochen,2016-08-18,[' Rusangano Family '],
+Spiez,Jürg-Brunner,2016-08-18,['Jürg Brunner '],Classic
+Spiez,Jürg-Brunner,2016-08-18,['Jürg Brunner '],Classic
+Luzern,Lucerne-Festival-Sinfoniekonzert-5,2016-08-18,[' conductor: Leonidas Kavakos '],Classic
+null,Take-Two,2016-08-18,"['Patricia Kopatchinskaja ', ' Anthony Romaniuk ', ' Laurence Dreyfus ']",Classic
+Zürich,Elisabeth-Lipiec-Quartett,2016-08-18,"['Elisabeth Lipiec Quartett ', ' Elisabeth Lipiec ', ' Matthias Siegrist ', ' Michi Ochsner ', ' Philipp Scholl ', ' Gast: Richard Lipiec ']",
+Winterthur,Mantar,2016-08-18,['Mantar '],
+Aarburg,Agnostic-Front,2016-08-18,['Agnostic Front '],
+Winterthur,Winterthurer-Musikfestwochen,2016-08-18,['Ben Caplan & The Casual Smokers '],
+Baden,Sleepwalkers-Station,2016-08-18,['Sleepwalkers Station '],
+Zürich,Mario-Schenker-Quartett,2016-08-18,"[' Mario Schenker ', ' Yves Theiler ', ' Silvan Jeger ', ' Maxime Paratte ']",
+Basel,Simon-Spiess-Trio-Featuring-Marc-Méan,2016-08-18,"[' Simon Spiess ', ' Marc Méan ', ' Bänz Oester ', ' Jonas Ruther ']",
+Zürich,Zürcher-Theater-Spektakel,2016-08-18,['Onda Vaga '],

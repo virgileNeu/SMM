@@ -1,12 +1,12 @@
-,location,event,date,artists,genre
-0,Zürich,Jazzapero,2014-03-25,"[' Christoph Grab ', ' Chris Wiesendanger ', ' Silvan Jeger ']",Pop
-1,Luzern,Piano-Entertainment,2014-03-25,['Mark Tenger '],
-2,Zürich,Ceol,2014-03-25,[' Tanzgruppe Éirinn '],
-3,Basel,AMG-Rising-Stars,2014-03-25,"['Noa Wildschut ', ' Yoram Ish-Hurwitz ']",Classic
-4,Lausanne,Watain,2014-03-25,"['Watain ', ' Degial ']",
-5,Solothurn,Amorphis,2014-03-25,['Amorphis '],
-6,Zürich,Konstantin-Wecker,2014-03-25,['Konstantin Wecker '],Pop
-7,Pratteln,Amaranthe,2014-03-25,['Amaranthe '],
-8,Zürich,Sara-Jackson-Holman,2014-03-25,"[' Sara Jackson-Holman ', ' Skyler Norwood ', ' Jessie Dettwiler ', ' Lukas Benjamin ']",Pop
-9,Basel,Caryl-Baker-Quartet,2014-03-25,"[' Daniel Erismann ', ' Caryl Baker ', ' Emanuel Schnyder ', ' Luigi Galati ']",
-10,Zürich,Baby-Cham,2014-03-25,['Baby Cham '],
+location,event,date,artists,genre
+Zürich,Jazzapero,2014-03-25,"[' Christoph Grab ', ' Chris Wiesendanger ', ' Silvan Jeger ']",Pop
+Luzern,Piano-Entertainment,2014-03-25,['Mark Tenger '],
+Zürich,Ceol,2014-03-25,[' Tanzgruppe Éirinn '],
+Basel,AMG-Rising-Stars,2014-03-25,"['Noa Wildschut ', ' Yoram Ish-Hurwitz ']",Classic
+Lausanne,Watain,2014-03-25,"['Watain ', ' Degial ']",
+Solothurn,Amorphis,2014-03-25,['Amorphis '],
+Zürich,Konstantin-Wecker,2014-03-25,['Konstantin Wecker '],Pop
+Pratteln,Amaranthe,2014-03-25,['Amaranthe '],
+Zürich,Sara-Jackson-Holman,2014-03-25,"[' Sara Jackson-Holman ', ' Skyler Norwood ', ' Jessie Dettwiler ', ' Lukas Benjamin ']",Pop
+Basel,Caryl-Baker-Quartet,2014-03-25,"[' Daniel Erismann ', ' Caryl Baker ', ' Emanuel Schnyder ', ' Luigi Galati ']",
+Zürich,Baby-Cham,2014-03-25,['Baby Cham '],

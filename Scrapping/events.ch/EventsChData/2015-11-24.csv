@@ -1,20 +1,20 @@
-,location,event,date,artists,genre
-0,Zürich,Floriano-Inácio-Jr.-Quartet,2015-11-24,"[' Floriano Inácio Jr. ', ' Rodrigo Botter Maio ', ' Dudu Penz ', ' Mauro Martins ']",
-1,Zürich,Richie-Campbell,2015-11-24,['Richie Campbell '],
-2,Zürich,Migros-Kulturprozent-Classics,2015-11-24,[' Hélène Grimaud '],Classic
-3,Solothurn,Andreas-Moe,2015-11-24,['Andreas Moe '],Pop
-4,Zürich,Goldberg-Variationen-einmal-anders,2015-11-24,"[' Luis Magalhães ', ' Nina Schumann ']",Classic
-5,Aarau,Hymne-an-das-Leben,2015-11-24,"[' Jonathan Sells ', ' Alina Ibragimova ', ' Flurina Stucki ']",Classic
-6,Zürich,Zürcher-Kammerorchester,2015-11-24,['Conductor: Giuliano Carmignola '],Classic
-7,Zürich,Machine-Gun-Kelly,2015-11-24,['Machine Gun Kelly '],
-8,Zürich,Ein-gLiederabend,2015-11-24,"['Graziella Rossi ', ' Rea Claudia Kost ', ' Daniel Bentz ', ' Helmut Vogel ', ' Daniel Fueter ']",Pop
-9,Zürich,Sea-&-Air,2015-11-24,['Sea & Air '],Pop
-10,Zürich,Fatoumata-Diawara-&-Roberto-Fonseca-Group,2015-11-24,['Fatoumata Diawara & Roberto Fonseca Group '],
-11,Pratteln,Avatarium,2015-11-24,"['Avatarium ', ' The VIntage Caravan ']",
-12,Zürich,Imagine-Dragons,2015-11-24,"['Imagine Dragons ', ' Sunset Sons ']",
-13,Lugano,Nellinvenzione,2015-11-24,"['Hanna Weinmeister ', ' Jürg Dähler ', ' Thomas Grossenbacher ']",Classic
-14,Basel,Minua-feat.-Skúli-Sverrisson,2015-11-24,"['Minua feat. Skúli Sverrisson ', ' Kristinn Smári Kristinsson ', ' Luca Aaron ', ' Fabian Willmann ', ' Skúli Sverrisson ']",
-15,Zürich,Mats-Up,2015-11-24,"[' Mats Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Rafffaele Bossard ', ' Dominic Egli ']",
-16,Baden,Sizarr-abgesagt,2015-11-24,['Sizarr '],
-17,Basel,Leeway,2015-11-24,['Leeway '],
-18,null,The-Secret-Handshake-Tour,2015-11-24,"['Ramzailech ', ' Langtunes ']",
+location,event,date,artists,genre
+Zürich,Floriano-Inácio-Jr.-Quartet,2015-11-24,"[' Floriano Inácio Jr. ', ' Rodrigo Botter Maio ', ' Dudu Penz ', ' Mauro Martins ']",
+Zürich,Richie-Campbell,2015-11-24,['Richie Campbell '],
+Zürich,Migros-Kulturprozent-Classics,2015-11-24,[' Hélène Grimaud '],Classic
+Solothurn,Andreas-Moe,2015-11-24,['Andreas Moe '],Pop
+Zürich,Goldberg-Variationen-einmal-anders,2015-11-24,"[' Luis Magalhães ', ' Nina Schumann ']",Classic
+Aarau,Hymne-an-das-Leben,2015-11-24,"[' Jonathan Sells ', ' Alina Ibragimova ', ' Flurina Stucki ']",Classic
+Zürich,Zürcher-Kammerorchester,2015-11-24,['Conductor: Giuliano Carmignola '],Classic
+Zürich,Machine-Gun-Kelly,2015-11-24,['Machine Gun Kelly '],
+Zürich,Ein-gLiederabend,2015-11-24,"['Graziella Rossi ', ' Rea Claudia Kost ', ' Daniel Bentz ', ' Helmut Vogel ', ' Daniel Fueter ']",Pop
+Zürich,Sea-&-Air,2015-11-24,['Sea & Air '],Pop
+Zürich,Fatoumata-Diawara-&-Roberto-Fonseca-Group,2015-11-24,['Fatoumata Diawara & Roberto Fonseca Group '],
+Pratteln,Avatarium,2015-11-24,"['Avatarium ', ' The VIntage Caravan ']",
+Zürich,Imagine-Dragons,2015-11-24,"['Imagine Dragons ', ' Sunset Sons ']",
+Lugano,Nellinvenzione,2015-11-24,"['Hanna Weinmeister ', ' Jürg Dähler ', ' Thomas Grossenbacher ']",Classic
+Basel,Minua-feat.-Skúli-Sverrisson,2015-11-24,"['Minua feat. Skúli Sverrisson ', ' Kristinn Smári Kristinsson ', ' Luca Aaron ', ' Fabian Willmann ', ' Skúli Sverrisson ']",
+Zürich,Mats-Up,2015-11-24,"[' Mats Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Rafffaele Bossard ', ' Dominic Egli ']",
+Baden,Sizarr-abgesagt,2015-11-24,['Sizarr '],
+Basel,Leeway,2015-11-24,['Leeway '],
+null,The-Secret-Handshake-Tour,2015-11-24,"['Ramzailech ', ' Langtunes ']",

@@ -1,24 +1,24 @@
-,location,event,date,artists,genre
-0,Basel,Mittagskonzert,2013-11-26,"[' Julia Marion ', ' Joan Boronat Sanz ', ' Euncho Yeom ']",Classic
-1,Zürich,Jazzapero,2013-11-26,"[' Anne Florence Schneider ', ' Floriano Inácio ', ' Dudu Penz ', ' Mauro Martins ']",
-2,Luzern,Piano-Entertainment,2013-11-26,['Mark Tenger '],
-3,Zürich,Feierabendwerkschau,2013-11-26,"[' Christoph Gallio ', ' Andrea Neumann ', ' Ernst Thoma ', ' Dominique Girod ', ' Julian Sartorius ']",
-4,Aarau,Agnostic-Front,2013-11-26,['Agnostic Front '],
-5,Zürich,Klavierabend,2013-11-26,['Lukas Vondracek '],Classic
-6,Riehen,(Alb)traum-eines-Kontrabassisten,2013-11-26,"[' Christian Sutter ', ' Ingolf Turban ', ' Lech Antonio Uszynski ', ' Sebastian Uszynski ']",Classic
-7,Basel,Streichquartette,2013-11-26,['Cuarteto Casals '],Classic
-8,Zürich,Migros-Kulturprozent-Classics,2013-11-26,"[' Rachel Harnisch ', ' Jennifer Johnston ', ' Matthew Rose ', ' William Kendall ', ' Chiara Skerath ']",Classic
-9,Zürich,Unerhört-Ein-Zürcher-Jazzfestival,2013-11-26,"[' Hans Hassler ', ' Gebhard Ullman ', ' Jürgen Kupke ']",
-10,Bern,Sin-Palabras,2013-11-26,"[' Peter Madsen ', ' Dietmar Kirchner ', ' Georgios Mikirozis ']",
-11,Effretikon,Bolschoi-Don-Kosakenchor,2013-11-26,['Bolschoi Don Kosakenchor '],
-12,Zürich,Gogol-Bordello,2013-11-26,"['Gogol Bordello ', ' Man Man ']",
-13,Luzern,Sallie-Ford-&-The-Sound-Outside,2013-11-26,['Sallie Ford & The Sound Outside '],
-14,Stäfa,Jam-Session,2013-11-26,"[' Mario Caspar ', ' Billy Wirz ', ' Per Rosen ', ' Dana Wirz ']",Pop
-15,Zürich,Maria-Farantouri-abgesagt,2013-11-26,['Maria Farantouri '],
-16,Zürich,Bebop-&-More,2013-11-26,"['Jean-Paul Brodbeck ', ' Dominique Girod ', ' Sheldon Suter ']",
-17,Zürich,Fragula,2013-11-26,"[' Muriel Schweizer ', ' Regula Bernays ', ' Michel Münch ', ' Franz Winteler ', ' Hansjürg Fetzer ']",
-18,Basel,Hellmüller-Risso-Zanoli,2013-11-26,"[' Franz Hellmüller ', ' Stefano Risso ', ' Marco Zanoli ']",
-19,Zürich,Samsara-Blues-Experiment,2013-11-26,['Samsara Blues Experiment '],
-20,Chiasso,Jan-Garbarek-Group,2013-11-26,['Jan Garbarek Group '],
-21,Aarburg,Walter-Washington-&-The-Roadmasters,2013-11-26,['Walter Washington & The Roadmasters '],
-22,Zürich,Braids,2013-11-26,['Braids '],
+location,event,date,artists,genre
+Basel,Mittagskonzert,2013-11-26,"[' Julia Marion ', ' Joan Boronat Sanz ', ' Euncho Yeom ']",Classic
+Zürich,Jazzapero,2013-11-26,"[' Anne Florence Schneider ', ' Floriano Inácio ', ' Dudu Penz ', ' Mauro Martins ']",
+Luzern,Piano-Entertainment,2013-11-26,['Mark Tenger '],
+Zürich,Feierabendwerkschau,2013-11-26,"[' Christoph Gallio ', ' Andrea Neumann ', ' Ernst Thoma ', ' Dominique Girod ', ' Julian Sartorius ']",
+Aarau,Agnostic-Front,2013-11-26,['Agnostic Front '],
+Zürich,Klavierabend,2013-11-26,['Lukas Vondracek '],Classic
+Riehen,(Alb)traum-eines-Kontrabassisten,2013-11-26,"[' Christian Sutter ', ' Ingolf Turban ', ' Lech Antonio Uszynski ', ' Sebastian Uszynski ']",Classic
+Basel,Streichquartette,2013-11-26,['Cuarteto Casals '],Classic
+Zürich,Migros-Kulturprozent-Classics,2013-11-26,"[' Rachel Harnisch ', ' Jennifer Johnston ', ' Matthew Rose ', ' William Kendall ', ' Chiara Skerath ']",Classic
+Zürich,Unerhört-Ein-Zürcher-Jazzfestival,2013-11-26,"[' Hans Hassler ', ' Gebhard Ullman ', ' Jürgen Kupke ']",
+Bern,Sin-Palabras,2013-11-26,"[' Peter Madsen ', ' Dietmar Kirchner ', ' Georgios Mikirozis ']",
+Effretikon,Bolschoi-Don-Kosakenchor,2013-11-26,['Bolschoi Don Kosakenchor '],
+Zürich,Gogol-Bordello,2013-11-26,"['Gogol Bordello ', ' Man Man ']",
+Luzern,Sallie-Ford-&-The-Sound-Outside,2013-11-26,['Sallie Ford & The Sound Outside '],
+Stäfa,Jam-Session,2013-11-26,"[' Mario Caspar ', ' Billy Wirz ', ' Per Rosen ', ' Dana Wirz ']",Pop
+Zürich,Maria-Farantouri-abgesagt,2013-11-26,['Maria Farantouri '],
+Zürich,Bebop-&-More,2013-11-26,"['Jean-Paul Brodbeck ', ' Dominique Girod ', ' Sheldon Suter ']",
+Zürich,Fragula,2013-11-26,"[' Muriel Schweizer ', ' Regula Bernays ', ' Michel Münch ', ' Franz Winteler ', ' Hansjürg Fetzer ']",
+Basel,Hellmüller-Risso-Zanoli,2013-11-26,"[' Franz Hellmüller ', ' Stefano Risso ', ' Marco Zanoli ']",
+Zürich,Samsara-Blues-Experiment,2013-11-26,['Samsara Blues Experiment '],
+Chiasso,Jan-Garbarek-Group,2013-11-26,['Jan Garbarek Group '],
+Aarburg,Walter-Washington-&-The-Roadmasters,2013-11-26,['Walter Washington & The Roadmasters '],
+Zürich,Braids,2013-11-26,['Braids '],

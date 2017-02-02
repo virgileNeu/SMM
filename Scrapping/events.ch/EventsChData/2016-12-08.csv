@@ -1,26 +1,26 @@
-,location,event,date,artists,genre
-0,Zürich,Bach-und-die-russische-Moderne,2016-12-08,"[' Andreas Janke ', ' Elisabeth Bundies ', ' Katja Fuchs ', ' Christian Proske ']",Classic
-1,Baden,Afterwork-Live-Musik-Marc'n'Mikeys-Memory,2016-12-08,"['Marc Reinhard ', ' Michael Sokoll ']",Pop
-2,Pratteln,Laurence-Jones,2016-12-08,"['Laurence Jones ', ' Birth of Joy ']",
-3,Basel,Bruckner-&-Cage-und-Haydn,2016-12-08,[' Huw Morgan '],Classic
-4,null,AMG-World-Orchestras,2016-12-08,[' Denis Matsuev '],Classic
-5,Luzern,Kirill-Gerstein-&-James-Gaffigan,2016-12-08,[' Kirill Gerstein '],Classic
-6,Zürich,Vielseitige-Reise-durch-die-Barockmusik,2016-12-08,[' Daniel Hope '],Classic
-7,Zürich,Songs-Across-the-Border,2016-12-08,[' John Wolf Brennan '],Classic
-8,Zürich,Thursday-Night-Jazz,2016-12-08,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-9,Zürich,Orchestermagie,2016-12-08,[' Sir András Schiff '],Classic
-10,Zürich,Elton-John,2016-12-08,['Elton John '],Pop
-11,Winterthur,Turbostaat,2016-12-08,"['Turbostaat ', ' Opiliones ']",
-12,Zürich,Jazz-Via-Brasil-Group,2016-12-08,"[' Rodrigo Botter Maio ', ' Gregor Müller ', ' Dudu Penz ', ' Florian Reichle ', ' Lino Botter Maio ']",
-13,Winterthur,Erich-Fischer-Quartett,2016-12-08,"[' Vasko Atanasovski ', ' Erich Fischer ', ' Silvan Jeger ', ' Benno Kaiser ']",
-14,Basel,Roofer,2016-12-08,"[' Michael Jaeger ', ' Silvio Cadotsch ', ' Yves Theiler ', ' Luca Sisera ', ' Michi Stulz ']",
-15,Olten,Perry-O-Parson,2016-12-08,"[' Perry O Parson ', ' Mario Kircher ', ' Tobias Waldmann']",Pop
-16,Lausanne,La-Femme,2016-12-08,['La Femme '],Pop
-17,Liebefeld,Beck-Landolf-Rossy,2016-12-08,"[' Michael Beck ', ' Domenic Landolf ', ' Jorge Rossy ']",
-18,Zürich,Artist-in-Residence-Vincent-Glanzmann,2016-12-08,"[' Mario Hänni ', ' Vincent Glanzmann ', ' Antoine Läng ', ' Corina Schranz ', ' Christian Wolfarth ']",
-19,Thun,Sweetly-Insane,2016-12-08,['Sweetly Insane '],
-20,Sankt-Gallen,Lubomyr-Melnyk,2016-12-08,['Lubomyr Melnyk '],Pop
-21,Zürich,Mach-mal-lauter-Finnland,2016-12-08,"['Have You Ever Seen The Jane Fonda Aerobic VHS? ', ' The Holy ', ' Jaakko Aukusti ']",Pop
-22,Zürich,David-Hope,2016-12-08,['David Hope '],
-23,Zürich,L.A.-Witch,2016-12-08,['L.A. Witch '],
-24,Lausanne,Balladur,2016-12-08,['Balladur '],Electronic
+location,event,date,artists,genre
+Zürich,Bach-und-die-russische-Moderne,2016-12-08,"[' Andreas Janke ', ' Elisabeth Bundies ', ' Katja Fuchs ', ' Christian Proske ']",Classic
+Baden,Afterwork-Live-Musik-Marc'n'Mikeys-Memory,2016-12-08,"['Marc Reinhard ', ' Michael Sokoll ']",Pop
+Pratteln,Laurence-Jones,2016-12-08,"['Laurence Jones ', ' Birth of Joy ']",
+Basel,Bruckner-&-Cage-und-Haydn,2016-12-08,[' Huw Morgan '],Classic
+null,AMG-World-Orchestras,2016-12-08,[' Denis Matsuev '],Classic
+Luzern,Kirill-Gerstein-&-James-Gaffigan,2016-12-08,[' Kirill Gerstein '],Classic
+Zürich,Vielseitige-Reise-durch-die-Barockmusik,2016-12-08,[' Daniel Hope '],Classic
+Zürich,Songs-Across-the-Border,2016-12-08,[' John Wolf Brennan '],Classic
+Zürich,Thursday-Night-Jazz,2016-12-08,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Zürich,Orchestermagie,2016-12-08,[' Sir András Schiff '],Classic
+Zürich,Elton-John,2016-12-08,['Elton John '],Pop
+Winterthur,Turbostaat,2016-12-08,"['Turbostaat ', ' Opiliones ']",
+Zürich,Jazz-Via-Brasil-Group,2016-12-08,"[' Rodrigo Botter Maio ', ' Gregor Müller ', ' Dudu Penz ', ' Florian Reichle ', ' Lino Botter Maio ']",
+Winterthur,Erich-Fischer-Quartett,2016-12-08,"[' Vasko Atanasovski ', ' Erich Fischer ', ' Silvan Jeger ', ' Benno Kaiser ']",
+Basel,Roofer,2016-12-08,"[' Michael Jaeger ', ' Silvio Cadotsch ', ' Yves Theiler ', ' Luca Sisera ', ' Michi Stulz ']",
+Olten,Perry-O-Parson,2016-12-08,"[' Perry O Parson ', ' Mario Kircher ', ' Tobias Waldmann']",Pop
+Lausanne,La-Femme,2016-12-08,['La Femme '],Pop
+Liebefeld,Beck-Landolf-Rossy,2016-12-08,"[' Michael Beck ', ' Domenic Landolf ', ' Jorge Rossy ']",
+Zürich,Artist-in-Residence-Vincent-Glanzmann,2016-12-08,"[' Mario Hänni ', ' Vincent Glanzmann ', ' Antoine Läng ', ' Corina Schranz ', ' Christian Wolfarth ']",
+Thun,Sweetly-Insane,2016-12-08,['Sweetly Insane '],
+Sankt-Gallen,Lubomyr-Melnyk,2016-12-08,['Lubomyr Melnyk '],Pop
+Zürich,Mach-mal-lauter-Finnland,2016-12-08,"['Have You Ever Seen The Jane Fonda Aerobic VHS? ', ' The Holy ', ' Jaakko Aukusti ']",Pop
+Zürich,David-Hope,2016-12-08,['David Hope '],
+Zürich,L.A.-Witch,2016-12-08,['L.A. Witch '],
+Lausanne,Balladur,2016-12-08,['Balladur '],Electronic

@@ -1,5 +1,5 @@
-,location,event,date,artists,genre
-0,Rougemont,Musique-&-Famille-II-Dynastie-Bach,2016-07-18,['Jean Rondeau '],Classic
-1,Zürich,Nik-Bärtsch's-Ronin,2016-07-18,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
-2,Zürich,Asap-Nast,2016-07-18,['Asap Nast '],
-3,null,Melody-Gardot,2016-07-18,['Melody Gardot '],
+location,event,date,artists,genre
+Rougemont,Musique-&-Famille-II-Dynastie-Bach,2016-07-18,['Jean Rondeau '],Classic
+Zürich,Nik-Bärtsch's-Ronin,2016-07-18,"[' Nik Bärtsch ', ' Kaspar Rast ', ' Thomy Jordi ', ' Sha ']",
+Zürich,Asap-Nast,2016-07-18,['Asap Nast '],
+null,Melody-Gardot,2016-07-18,['Melody Gardot '],

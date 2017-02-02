@@ -1,20 +1,20 @@
-,location,event,date,artists,genre
-0,Zürich,Jazz-im-Seefeld,2016-01-27,"[' Tapiwa Svosve ', ' Vojko Huter ', ' Xaver Rüegg ', ' Paul Amereller ']",
-1,Luzern,Zwischen-Exil-und-Emigration,2016-01-27,[' Christian Poltera '],Classic
-2,Zürich,C.-Coin-G.-Gharabekyan-&-Kammerorchester-I-TEMPI,2016-01-27,[' Christophe Coin '],Classic
-3,Winterthur,Hibagon,2016-01-27,['Hibagon '],
-4,Bern,Klanglandschaften,2016-01-27,"['Willi Grimm ', ' Regula Hannich ']",
-5,Zürich,Branford-Marsalis,2016-01-27,['Branford Marsalis '],
-6,Zürich,Foals,2016-01-27,"['Foals ', ' Everything Everything ']",
-7,Schaffhausen,Therapy-,2016-01-27,"['Therapy? ', ' Flesh Roxon ']",
-8,Frauenfeld,Jazz-Now,2016-01-27,"[' Andreas Tschopp ', ' Benedikt Reising ', ' Marc Stucki ', ' Marc Unternährer ', ' Rico Baumann ']",
-9,Pratteln,Megaherz,2016-01-27,['Megaherz '],
-10,Winterthur,Jazz-am-Mittwoch-Psychedelic-Mountain,2016-01-27,"[' Christoph Merki ', ' Daniel Schenker ', ' Ramon Ziegler ', ' Lars Carl Schmid ']",
-11,Winterthur,Ursina-Giger-&-Ghost-Town-Trio,2016-01-27,"[' Ursina Giger ', ' Urs Vögeli ', ' Claude Meier ', ' Lukas Mantel ']",
-12,Lugano,pour-le-piano,2016-01-27,['Beatrice Rana '],Classic
-13,Zürich,Songcircle-Zürich,2016-01-27,['Andrea Wellard '],Pop
-14,Basel,Yumi-Ito-Quartet,2016-01-27,"[' Yumi Ito ', ' Gabriel Dalvit ', ' Yves Theiler ', ' Grzegorz Wlodarczyk ']",
-15,Zürich,Wolfgang-Muthspiel-New-Music-for-Quintet,2016-01-27,"[' Wolfgang Muthspiel ', ' Ambrose Akinmusire ', ' Brad Mehldau ', ' Larry Grenadier ', ' Brian Blade ']",
-16,Bern,Söndörgö,2016-01-27,['Söndörgö '],
-17,Lausanne,Hinds,2016-01-27,"['Hinds ', ' Sun Club ']",
-18,Bern,Astronauts,2016-01-27,['Astronauts '],
+location,event,date,artists,genre
+Zürich,Jazz-im-Seefeld,2016-01-27,"[' Tapiwa Svosve ', ' Vojko Huter ', ' Xaver Rüegg ', ' Paul Amereller ']",
+Luzern,Zwischen-Exil-und-Emigration,2016-01-27,[' Christian Poltera '],Classic
+Zürich,C.-Coin-G.-Gharabekyan-&-Kammerorchester-I-TEMPI,2016-01-27,[' Christophe Coin '],Classic
+Winterthur,Hibagon,2016-01-27,['Hibagon '],
+Bern,Klanglandschaften,2016-01-27,"['Willi Grimm ', ' Regula Hannich ']",
+Zürich,Branford-Marsalis,2016-01-27,['Branford Marsalis '],
+Zürich,Foals,2016-01-27,"['Foals ', ' Everything Everything ']",
+Schaffhausen,Therapy-,2016-01-27,"['Therapy? ', ' Flesh Roxon ']",
+Frauenfeld,Jazz-Now,2016-01-27,"[' Andreas Tschopp ', ' Benedikt Reising ', ' Marc Stucki ', ' Marc Unternährer ', ' Rico Baumann ']",
+Pratteln,Megaherz,2016-01-27,['Megaherz '],
+Winterthur,Jazz-am-Mittwoch-Psychedelic-Mountain,2016-01-27,"[' Christoph Merki ', ' Daniel Schenker ', ' Ramon Ziegler ', ' Lars Carl Schmid ']",
+Winterthur,Ursina-Giger-&-Ghost-Town-Trio,2016-01-27,"[' Ursina Giger ', ' Urs Vögeli ', ' Claude Meier ', ' Lukas Mantel ']",
+Lugano,pour-le-piano,2016-01-27,['Beatrice Rana '],Classic
+Zürich,Songcircle-Zürich,2016-01-27,['Andrea Wellard '],Pop
+Basel,Yumi-Ito-Quartet,2016-01-27,"[' Yumi Ito ', ' Gabriel Dalvit ', ' Yves Theiler ', ' Grzegorz Wlodarczyk ']",
+Zürich,Wolfgang-Muthspiel-New-Music-for-Quintet,2016-01-27,"[' Wolfgang Muthspiel ', ' Ambrose Akinmusire ', ' Brad Mehldau ', ' Larry Grenadier ', ' Brian Blade ']",
+Bern,Söndörgö,2016-01-27,['Söndörgö '],
+Lausanne,Hinds,2016-01-27,"['Hinds ', ' Sun Club ']",
+Bern,Astronauts,2016-01-27,['Astronauts '],

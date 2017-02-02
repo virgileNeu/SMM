@@ -1,25 +1,25 @@
-,location,event,date,artists,genre
-0,Zürich,Mittagsmusik,2016-09-28,"['Nicolas Senn ', ' Noëlle Grüebler ', ' Jonas Kreienbühl ', ' Andrea Wiesli ']",Classic
-1,Basel,Altstadt-Serenaden-2016,2016-09-28,"[' Susanne Mathé ', ' Isabelle Ladewig ', ' Stella Mahrenholz ', ' Stéphanie Meyer ']",Classic
-2,Luzern,Brass-&-Humour,2016-09-28,[' Leitung: Tine Thing Helseth '],
-3,Schaffhausen,The-Parrots,2016-09-28,['The Parrots '],
-4,Bern,Bars-and-Melody,2016-09-28,"['Bars and Melody ', ' Leondre Devries Charlie Lenehan ']",Pop
-5,Zürich,Straymonk,2016-09-28,"[' Nat Su ', ' Gabriel Dalvit ', ' Dominique Girod ', ' Jonas Ruther ']",
-6,Zürich,Matija-Dedic-Plays-Arsen-Dedic,2016-09-28,['Matija Dedic '],
-7,Luzern,Jam-Night,2016-09-28,"[' Florian Respondek ', ' Christian Winiker ', ' Gregory Schärer ', ' Simon Gautsch ']",
-8,Pratteln,Colliding-Over-Europe,2016-09-28,"['Chaos Divine ', ' Votum ']",
-9,Bern,Eigereye-15,2016-09-28,"[' Barbara Schirmer ', ' Didine Stauffer ']",
-10,Dübendorf,Duo-Praxedis-&-Harry-White,2016-09-28,"['Harry White ', ' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-11,Zürich,Letzte-Liederabende,2016-09-28,['Julian Prégardien '],Classic
-12,Wädenswil,Scope,2016-09-28,"[' Ania Losinger ', ' Mats Eser ', ' Nik Bärtsch ', ' Sha ']",
-13,Luzern,Luca-Sisera-Roofer,2016-09-28,"['Luca Sisera ', ' Michael Jaeger ', ' Silvio Cadotsch ']",
-14,Basel,Quinteros-Descarga,2016-09-28,"[' Yosvany Quintero ', ' Gabriel Walter ', ' Hannes Fankhauser ', ' Benjamin Brodbeck ']",
-15,Basel,Session,2016-09-28,"[' Oli Kuster Kombo mit Oli Kuster ', ' Domenic Landolf ', ' Christoph Utzinger ', ' Kevin Chesham ']",
-16,Basel,Last-Minute-Date,2016-09-28,"[' Kari Ikonen ', ' Olli Rantala ', ' Markku Ounaskari ']",
-17,Zürich,Jazz-Baragge-Wednesday-Jam,2016-09-28,"['Marc Méan ', ' Fabienne Iannone ', ' Paul Amereller ']",
-18,Zürich,Bukowski,2016-09-28,['Pictorial Candi '],Electronic
-19,Düdingen,Pinegroove,2016-09-28,"['Pinegroove ', ' Foreign Diplomats ']",Pop
-20,Lausanne,Operators-&-Nite-Jewel,2016-09-28,"['Operators ', ' Nite Jewel ']",
-21,Basel,Eko-Fresh,2016-09-28,['Eko Fresh '],
-22,Zürich,Slow-Low-Loud,2016-09-28,"[' Daniel Sailer ', ' Flo Götte ']",
-23,Zürich,Feels,2016-09-28,['Feels '],Pop
+location,event,date,artists,genre
+Zürich,Mittagsmusik,2016-09-28,"['Nicolas Senn ', ' Noëlle Grüebler ', ' Jonas Kreienbühl ', ' Andrea Wiesli ']",Classic
+Basel,Altstadt-Serenaden-2016,2016-09-28,"[' Susanne Mathé ', ' Isabelle Ladewig ', ' Stella Mahrenholz ', ' Stéphanie Meyer ']",Classic
+Luzern,Brass-&-Humour,2016-09-28,[' Leitung: Tine Thing Helseth '],
+Schaffhausen,The-Parrots,2016-09-28,['The Parrots '],
+Bern,Bars-and-Melody,2016-09-28,"['Bars and Melody ', ' Leondre Devries Charlie Lenehan ']",Pop
+Zürich,Straymonk,2016-09-28,"[' Nat Su ', ' Gabriel Dalvit ', ' Dominique Girod ', ' Jonas Ruther ']",
+Zürich,Matija-Dedic-Plays-Arsen-Dedic,2016-09-28,['Matija Dedic '],
+Luzern,Jam-Night,2016-09-28,"[' Florian Respondek ', ' Christian Winiker ', ' Gregory Schärer ', ' Simon Gautsch ']",
+Pratteln,Colliding-Over-Europe,2016-09-28,"['Chaos Divine ', ' Votum ']",
+Bern,Eigereye-15,2016-09-28,"[' Barbara Schirmer ', ' Didine Stauffer ']",
+Dübendorf,Duo-Praxedis-&-Harry-White,2016-09-28,"['Harry White ', ' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
+Zürich,Letzte-Liederabende,2016-09-28,['Julian Prégardien '],Classic
+Wädenswil,Scope,2016-09-28,"[' Ania Losinger ', ' Mats Eser ', ' Nik Bärtsch ', ' Sha ']",
+Luzern,Luca-Sisera-Roofer,2016-09-28,"['Luca Sisera ', ' Michael Jaeger ', ' Silvio Cadotsch ']",
+Basel,Quinteros-Descarga,2016-09-28,"[' Yosvany Quintero ', ' Gabriel Walter ', ' Hannes Fankhauser ', ' Benjamin Brodbeck ']",
+Basel,Session,2016-09-28,"[' Oli Kuster Kombo mit Oli Kuster ', ' Domenic Landolf ', ' Christoph Utzinger ', ' Kevin Chesham ']",
+Basel,Last-Minute-Date,2016-09-28,"[' Kari Ikonen ', ' Olli Rantala ', ' Markku Ounaskari ']",
+Zürich,Jazz-Baragge-Wednesday-Jam,2016-09-28,"['Marc Méan ', ' Fabienne Iannone ', ' Paul Amereller ']",
+Zürich,Bukowski,2016-09-28,['Pictorial Candi '],Electronic
+Düdingen,Pinegroove,2016-09-28,"['Pinegroove ', ' Foreign Diplomats ']",Pop
+Lausanne,Operators-&-Nite-Jewel,2016-09-28,"['Operators ', ' Nite Jewel ']",
+Basel,Eko-Fresh,2016-09-28,['Eko Fresh '],
+Zürich,Slow-Low-Loud,2016-09-28,"[' Daniel Sailer ', ' Flo Götte ']",
+Zürich,Feels,2016-09-28,['Feels '],Pop

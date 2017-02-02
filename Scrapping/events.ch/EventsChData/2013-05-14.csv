@@ -1,22 +1,22 @@
-,location,event,date,artists,genre
-0,Basel,Masterrezital,2013-05-14,[' Ami Rossier '],Classic
-1,Zürich,Ballads-and-More,2013-05-14,"[' Raphael Jost ', ' Christoph Grab ', ' Raphael Walser ', ' Pius Baschnagel ']",
-2,Luzern,Blue-Soul-&-Me,2013-05-14,['Mark Tenger '],
-3,Uster,Crashdiet,2013-05-14,"['Crashdiet ', ' Sister ', ' Sleekstain ', ' Fallen Mafia ']",
-4,Zürich,Die-Kunst-der-Transkription,2013-05-14,['Willibald Guggenmoos '],Classic
-5,KKL,Luzern,2013-05-14,['Gianna Nannini '],
-6,Zürich,Konzert,2013-05-14,[' David Fray '],Classic
-7,Zürich,On-An-On,2013-05-14,"['On An On ', ' Swim Deep ']",
-8,Kaufleuten,Zürich,2013-05-14,['Levin '],Levin
-9,Zürich,Slim-Cessna's-Auto-Club,2013-05-14,"[""Slim Cessna's Auto Club ""]",
-10,Zentrum-Paul-Klee,Bern,2013-05-14,['Gonzalo Rubalcaba '],
-11,Bern,Sandpeople,2013-05-14,['Sandpeople '],
-12,Zürich,Shige-Vincent,2013-05-14,"[' Mori Shige ', ' Hugues Vincent ', ' Terrence McManus ', ' Yves Theiler ', ' Lukas Mantel ']",
-13,Basel,Masterrezital,2013-05-14,[' Miguel Ángel García Martín '],Classic
-14,Basel,Bachelorkonzert,2013-05-14,[' Katya Polin '],Classic
-15,Basel,Balakumbala,2013-05-14,"[' Viviane de Farias ', ' Mauro Martins ', ' Andi Pupato ']",
-16,Bierhübeli,Bern,2013-05-14,['Nek '],Nek
-17,Moods,Zürich,2013-05-14,"['Marzel ', ' Roman Nowka ', ' Manu Rindlisbacher ', ' Julian Sartorius ', ' Ephrem Lüchinger ']",
-18,Les-Docks,Lausanne,2013-05-14,['Femi Kuti '],
-19,Zürich,Helhorse,2013-05-14,['Helhorse '],
-20,Rote-Fabrik,Zürich,2013-05-14,['Dear Reader '],
+location,event,date,artists,genre
+Basel,Masterrezital,2013-05-14,[' Ami Rossier '],Classic
+Zürich,Ballads-and-More,2013-05-14,"[' Raphael Jost ', ' Christoph Grab ', ' Raphael Walser ', ' Pius Baschnagel ']",
+Luzern,Blue-Soul-&-Me,2013-05-14,['Mark Tenger '],
+Uster,Crashdiet,2013-05-14,"['Crashdiet ', ' Sister ', ' Sleekstain ', ' Fallen Mafia ']",
+Zürich,Die-Kunst-der-Transkription,2013-05-14,['Willibald Guggenmoos '],Classic
+KKL,Luzern,2013-05-14,['Gianna Nannini '],
+Zürich,Konzert,2013-05-14,[' David Fray '],Classic
+Zürich,On-An-On,2013-05-14,"['On An On ', ' Swim Deep ']",
+Kaufleuten,Zürich,2013-05-14,['Levin '],Levin
+Zürich,Slim-Cessna's-Auto-Club,2013-05-14,"[""Slim Cessna's Auto Club ""]",
+Zentrum-Paul-Klee,Bern,2013-05-14,['Gonzalo Rubalcaba '],
+Bern,Sandpeople,2013-05-14,['Sandpeople '],
+Zürich,Shige-Vincent,2013-05-14,"[' Mori Shige ', ' Hugues Vincent ', ' Terrence McManus ', ' Yves Theiler ', ' Lukas Mantel ']",
+Basel,Masterrezital,2013-05-14,[' Miguel Ángel García Martín '],Classic
+Basel,Bachelorkonzert,2013-05-14,[' Katya Polin '],Classic
+Basel,Balakumbala,2013-05-14,"[' Viviane de Farias ', ' Mauro Martins ', ' Andi Pupato ']",
+Bierhübeli,Bern,2013-05-14,['Nek '],Nek
+Moods,Zürich,2013-05-14,"['Marzel ', ' Roman Nowka ', ' Manu Rindlisbacher ', ' Julian Sartorius ', ' Ephrem Lüchinger ']",
+Les-Docks,Lausanne,2013-05-14,['Femi Kuti '],
+Zürich,Helhorse,2013-05-14,['Helhorse '],
+Rote-Fabrik,Zürich,2013-05-14,['Dear Reader '],

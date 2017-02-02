@@ -1,29 +1,29 @@
-,location,event,date,artists,genre
-0,Verbier,Verbier-Festival,2014-07-23,"['Mischa Maisky ', ' Lily Maisky ']",Classic
-1,Verbier,Verbier-Festival,2014-07-23,"['Mischa Maisky ', ' Lily Maisky ']",Classic
-2,Verbier,Verbier-Festival,2014-07-23,[' Steven Isserlis '],Classic
-3,Nyon,Paléo-Festival,2014-07-23,"['David Lemaitre ', ' Winston McAnuff & Fixi ', ' Cats on Trees ']",Pop
-4,Nyon,Paléo-Festival,2014-07-23,['Von Pariahs '],Pop
-5,Nyon,Paléo-Festival,2014-07-23,"['Ky Mani Marley ', "" Fat Freddy's Drop "", ' Naâmen ']",
-6,Nyon,Paléo-Festival,2014-07-23,"['Frikstailers ', ' La Chiva Gantiva ', ' Meridian Brothers ']",Electronic
-7,Luzern,Blue-Balls-Festival,2014-07-23,['Graine Duffy '],
-8,Luzern,Blue-Balls-Festival,2014-07-23,[' Hudson Taylor '],
-9,Luzern,Blue-Balls-Festival,2014-07-23,"['Hat Fitz & Cara ', ' Niméo ']",
-10,Baden,Luciana-y-Amadeo,2014-07-23,"['Luciana y Amadeo ', ' Luciana Gabriela Miguel ', ' Amadeo Zunino ']",
-11,Luzern,Piano-Entertainment,2014-07-23,['Christian Mettler '],Pop
-12,Nyon,Paléo-Festival,2014-07-23,"['Stromae ', ' Jack Johnson ', ' Seasick Steve ']",Pop
-13,Zürich,Internationale-Orgelkonzerte-Sommerzyklus,2014-07-23,['John Scott Whiteley '],Classic
-14,Samedan,Festival-da-Jazz,2014-07-23,"['The Brand New Heavies ', ' Dawn Joseph ', ' Jim Hunt ', ' Dan Carpenter ', ' Matt Steele ', ' Simon Bartholomew ', ' Andrew Levy ', ' Lily Gonzales ', ' Jan Kincaid ']",
-15,Verbier,Verbier-Festival,2014-07-23,['Evgeny Kissin '],Classic
-16,null,Menuhin-Festival-Gstaad,2014-07-23,"['Maximilian Schmitt ', ' Gerold Huber ']",Classic
-17,Zürich,Serenade-im-Park,2014-07-23,"[' Andrea Kollé ', ' Barbara Stegemann ', ' Heinrich Mätzener ', ' Thomas Müller ', ' Elisabeth Göring ', ' Alexander Boeschoten ']",Classic
-18,Luzern,Blue-Balls-Festival,2014-07-23,['James Blunt '],Pop
-19,Zürich,Michael-von-der-Heide,2014-07-23,"[' Michael von der Heide ', ' Martin Buess ']",Pop
-20,Thun,Am-Schluss,2014-07-23,['Ibibio Sound Machine '],
-21,Verbier,Verbier-Festival,2014-07-23,"['Ray Chen ', ' Arabella Steinbacher ', ' Kirill Troussov ', ' Nancy Wu ', ' Lawrence Power ', ' Adrian Brendel ', ' Leigh Mesh ', ' Sylvia Schwartz ', ' Joaquín Achúcarro ', ' Jan Lisiecki ']",Classic
-22,null,Stimmen,2014-07-23,['Elton John '],Pop
-23,null,Kulturfestival-St.-Gallen,2014-07-23,['Rupa & The April Fishes '],
-24,Basel,Montreux-Jazz-Quartet-feat.-Olivier-Ker-Ourio,2014-07-23,"[' Olivier Ker Ourio ', ' Thomas Dobler ', ' Thierry Lang ', ' Stephan Kurmann ', ' Peter Schmidlin ']",
-25,Zürich,Alborosie,2014-07-23,['Alborosie '],
-26,Luzern,Blue-Balls-Festival,2014-07-23,"['Rita Ora ', ' Maria Mena ']",Pop
-27,Maggia,Magic-Blues-Festival,2014-07-23,"['Henrik Freischlader ', ' Kalle Reuter Power Trio ']",
+location,event,date,artists,genre
+Verbier,Verbier-Festival,2014-07-23,"['Mischa Maisky ', ' Lily Maisky ']",Classic
+Verbier,Verbier-Festival,2014-07-23,"['Mischa Maisky ', ' Lily Maisky ']",Classic
+Verbier,Verbier-Festival,2014-07-23,[' Steven Isserlis '],Classic
+Nyon,Paléo-Festival,2014-07-23,"['David Lemaitre ', ' Winston McAnuff & Fixi ', ' Cats on Trees ']",Pop
+Nyon,Paléo-Festival,2014-07-23,['Von Pariahs '],Pop
+Nyon,Paléo-Festival,2014-07-23,"['Ky Mani Marley ', "" Fat Freddy's Drop "", ' Naâmen ']",
+Nyon,Paléo-Festival,2014-07-23,"['Frikstailers ', ' La Chiva Gantiva ', ' Meridian Brothers ']",Electronic
+Luzern,Blue-Balls-Festival,2014-07-23,['Graine Duffy '],
+Luzern,Blue-Balls-Festival,2014-07-23,[' Hudson Taylor '],
+Luzern,Blue-Balls-Festival,2014-07-23,"['Hat Fitz & Cara ', ' Niméo ']",
+Baden,Luciana-y-Amadeo,2014-07-23,"['Luciana y Amadeo ', ' Luciana Gabriela Miguel ', ' Amadeo Zunino ']",
+Luzern,Piano-Entertainment,2014-07-23,['Christian Mettler '],Pop
+Nyon,Paléo-Festival,2014-07-23,"['Stromae ', ' Jack Johnson ', ' Seasick Steve ']",Pop
+Zürich,Internationale-Orgelkonzerte-Sommerzyklus,2014-07-23,['John Scott Whiteley '],Classic
+Samedan,Festival-da-Jazz,2014-07-23,"['The Brand New Heavies ', ' Dawn Joseph ', ' Jim Hunt ', ' Dan Carpenter ', ' Matt Steele ', ' Simon Bartholomew ', ' Andrew Levy ', ' Lily Gonzales ', ' Jan Kincaid ']",
+Verbier,Verbier-Festival,2014-07-23,['Evgeny Kissin '],Classic
+null,Menuhin-Festival-Gstaad,2014-07-23,"['Maximilian Schmitt ', ' Gerold Huber ']",Classic
+Zürich,Serenade-im-Park,2014-07-23,"[' Andrea Kollé ', ' Barbara Stegemann ', ' Heinrich Mätzener ', ' Thomas Müller ', ' Elisabeth Göring ', ' Alexander Boeschoten ']",Classic
+Luzern,Blue-Balls-Festival,2014-07-23,['James Blunt '],Pop
+Zürich,Michael-von-der-Heide,2014-07-23,"[' Michael von der Heide ', ' Martin Buess ']",Pop
+Thun,Am-Schluss,2014-07-23,['Ibibio Sound Machine '],
+Verbier,Verbier-Festival,2014-07-23,"['Ray Chen ', ' Arabella Steinbacher ', ' Kirill Troussov ', ' Nancy Wu ', ' Lawrence Power ', ' Adrian Brendel ', ' Leigh Mesh ', ' Sylvia Schwartz ', ' Joaquín Achúcarro ', ' Jan Lisiecki ']",Classic
+null,Stimmen,2014-07-23,['Elton John '],Pop
+null,Kulturfestival-St.-Gallen,2014-07-23,['Rupa & The April Fishes '],
+Basel,Montreux-Jazz-Quartet-feat.-Olivier-Ker-Ourio,2014-07-23,"[' Olivier Ker Ourio ', ' Thomas Dobler ', ' Thierry Lang ', ' Stephan Kurmann ', ' Peter Schmidlin ']",
+Zürich,Alborosie,2014-07-23,['Alborosie '],
+Luzern,Blue-Balls-Festival,2014-07-23,"['Rita Ora ', ' Maria Mena ']",Pop
+Maggia,Magic-Blues-Festival,2014-07-23,"['Henrik Freischlader ', ' Kalle Reuter Power Trio ']",

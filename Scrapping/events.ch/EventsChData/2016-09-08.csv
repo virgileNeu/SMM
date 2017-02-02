@@ -1,19 +1,19 @@
-,location,event,date,artists,genre
-0,Zürich,Kammermusik-Lunchkonzert,2016-09-08,"['Felix-Andreas Genner ', ' Mischa Greull ', ' George-Cosmin Banica ', ' David Greenlees ']",Classic
-1,Luzern,Lucerne-Festival-Sinfoniekonzert-25,2016-09-08,[' Sandrine Piau '],Classic
-2,Solothurn,1.-Sinfoniekonzert,2016-09-08,[' Brigitte Hool '],Classic
-3,Zürich,Mother's-Finest,2016-09-08,"[' Joyce Kennedy ', ' Glenn Murdock ', ' Moses Mo ', ' John Hayes ', ' Wyzard ', ' Dion Murdock ']",
-4,null,Picknick-mit-Helden,2016-09-08,"['Tangerine Dream ', ' Frederic Robinson ']",
-5,Winterthur,Vein,2016-09-08,"[' Michael Arbenz ', ' Thomas Lähns ', ' Florian Arbenz ']",
-6,Luzern,Slum-Village,2016-09-08,['Slum Village '],
-7,Bern,Dänu-Brüggemann's-Mongk,2016-09-08,"[' Dänu Brüggemann ', ' Pesche Enderli ', ' Ueli Enderli ', ' Marc Rossier ']",
-8,Aarau,Götz-Widmann,2016-09-08,['Götz Widmann '],Pop
-9,Basel,René-Moseles-Ramblin',2016-09-08,"[' René Mosele ', ' Dave Feusi ', ' Patrick Sommer ', ' Alfred Vogel ']",
-10,Thalwil,The-Red-Hot-Serenaders,2016-09-08,"[' Rainer Wöffler ', ' Tanja Wirz ']",
-11,Zürich,Musik-im-Rausch-Höllensturz,2016-09-08,"['Deborah Marchetti ', ' Christophe Dufaux ', ' Gregor Müller ']",Classic
-12,Zürich,Bukowski,2016-09-08,['Dinner '],Electronic
-13,Baden,Ebb-&-Flow-Trio,2016-09-08,"['Ebb & Flow Trio ', ' Gabby Gordon ', ' Kier Morten ', ' Ronen Gorden ']",
-14,Zürich,Where's-Africa,2016-09-08,"['Omri Ziegele ', ' Yves Theiler ', ' Dario Sisera ']",
-15,Rubigen,Brothers-in-Blues,2016-09-08,['Brothers in Blues '],
-16,Vevey,The-Warlocks,2016-09-08,"['The Warlocks ', ' Dead Rabbits ']",
-17,Schaffhausen,Upstairs-&-Loud,2016-09-08,"['Radioactivity ', ' Bad Sports ']",Pop
+location,event,date,artists,genre
+Zürich,Kammermusik-Lunchkonzert,2016-09-08,"['Felix-Andreas Genner ', ' Mischa Greull ', ' George-Cosmin Banica ', ' David Greenlees ']",Classic
+Luzern,Lucerne-Festival-Sinfoniekonzert-25,2016-09-08,[' Sandrine Piau '],Classic
+Solothurn,1.-Sinfoniekonzert,2016-09-08,[' Brigitte Hool '],Classic
+Zürich,Mother's-Finest,2016-09-08,"[' Joyce Kennedy ', ' Glenn Murdock ', ' Moses Mo ', ' John Hayes ', ' Wyzard ', ' Dion Murdock ']",
+null,Picknick-mit-Helden,2016-09-08,"['Tangerine Dream ', ' Frederic Robinson ']",
+Winterthur,Vein,2016-09-08,"[' Michael Arbenz ', ' Thomas Lähns ', ' Florian Arbenz ']",
+Luzern,Slum-Village,2016-09-08,['Slum Village '],
+Bern,Dänu-Brüggemann's-Mongk,2016-09-08,"[' Dänu Brüggemann ', ' Pesche Enderli ', ' Ueli Enderli ', ' Marc Rossier ']",
+Aarau,Götz-Widmann,2016-09-08,['Götz Widmann '],Pop
+Basel,René-Moseles-Ramblin',2016-09-08,"[' René Mosele ', ' Dave Feusi ', ' Patrick Sommer ', ' Alfred Vogel ']",
+Thalwil,The-Red-Hot-Serenaders,2016-09-08,"[' Rainer Wöffler ', ' Tanja Wirz ']",
+Zürich,Musik-im-Rausch-Höllensturz,2016-09-08,"['Deborah Marchetti ', ' Christophe Dufaux ', ' Gregor Müller ']",Classic
+Zürich,Bukowski,2016-09-08,['Dinner '],Electronic
+Baden,Ebb-&-Flow-Trio,2016-09-08,"['Ebb & Flow Trio ', ' Gabby Gordon ', ' Kier Morten ', ' Ronen Gorden ']",
+Zürich,Where's-Africa,2016-09-08,"['Omri Ziegele ', ' Yves Theiler ', ' Dario Sisera ']",
+Rubigen,Brothers-in-Blues,2016-09-08,['Brothers in Blues '],
+Vevey,The-Warlocks,2016-09-08,"['The Warlocks ', ' Dead Rabbits ']",
+Schaffhausen,Upstairs-&-Loud,2016-09-08,"['Radioactivity ', ' Bad Sports ']",Pop

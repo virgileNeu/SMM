@@ -1,32 +1,32 @@
-,location,event,date,artists,genre
-0,Zürich,Gletscher-Fezzer,2015-11-11,['Gletscher Fezzer '],traditional
-1,Lausanne,Oriental-&-Flamenco-Gypsy-Festival,2015-11-11,"[' Sajeda Obied ', ' Rosetta Lopardo ', ' Sotelo & Campanile ']",
-2,Bern,Bilderbuch,2015-11-11,['Bilderbuch '],
-3,Basel,Coop-Sinfoniekonzert,2015-11-11,[' Noa Wildschut '],Classic
-4,Kriens,Terry-Bozzio,2015-11-11,['Terry Bozzio '],
-5,Winterthur,Socalled,2015-11-11,['Socalled '],
-6,Zürich,Yelawolf,2015-11-11,['Yelawolf '],
-7,null,Konzert,2015-11-11,[' Magali Mosnier '],Classic
-8,Bern,Panaccusticum,2015-11-11,[' Matthias Etter '],Pop
-9,Zürich,Steaming-Satellites,2015-11-11,['Steaming Satellites '],
-10,Solothurn,Cunninlynguists,2015-11-11,['Cunninlynguists '],
-11,Zürich,Swim-Deep,2015-11-11,['Swim Deep '],Pop
-12,Zürich,Yellow-Lounge,2015-11-11,"[' Daniel Hope ', ' Valentina Lisitsa ']",Classic
-13,Luzern,Jam-Night,2015-11-11,"[' Emilia Taubic ', ' Bodo Maier ', ' Christian Winiker', ' Faruk Muslijevic ', ' Thomas Tavano ', ' Sascha Frischknecht ']",
-14,Winterthur,Kiasmos,2015-11-11,['Kiasmos '],Electronic
-15,Basel,Simply-Red,2015-11-11,['Simply Red '],Pop
-16,Zürich,Asbjørn,2015-11-11,"['Asbjørn ', ' support: La Boum Fatale ']",Pop
-17,Zürich,Sinfoniekonzert-Gion-Antoni-Derungs,2015-11-11,[' Andrea Wiesli '],Classic
-18,Zürich,Marilyn-Manson,2015-11-11,['Marilyn Manson '],
-19,null,Backyard-Babies,2015-11-11,['Backyard Babies '],
-20,Winterthur,Jazz-am-Mittwoch,2015-11-11,"[' Andrea Janser ', ' Philipp Mosimann ']",
-21,Winterthur,Ghost-Town-Trio-feat.-Dalia-Donadio,2015-11-11,"[' Dalia Donadio ', ' Urs Müller ', ' Claude Meier ', ' Lukas Mantel ']",
-22,Zürich,Joel-Sarakula,2015-11-11,['Joel Sarakula '],Pop
-23,Luzern,Lauter-Luisen,2015-11-11,"[' Muriel Zemp ', ' Karin Schulthess ', ' Katrin Marti ']",
-24,Basel,Walter-Jauslin-Quintet,2015-11-11,"[' Daniel Blanc ', ' Daniel Schluchter ', ' Walter Jauslin ', ' Giorgos Antoniou ', ' Pius Baschnagel ']",
-25,Basel,Jazzcampus-Session,2015-11-11,"['William Evens ', ' Niko Seibold ', ' Roberto Koch ', ' Jorge Rossy ']",
-26,Zürich,Artist-in-Residence-René-Mosele,2015-11-11,"[' René Mosele ', ' Gauthier Toux ', ' Kenneth Dahl Knudsen ', ' Maxence Sibille ', ' Lukas Thöni ', ' Reto Suhner ']",
-27,Zürich,Jazzbaragge-Wednesday-Jam,2015-11-11,"['Oli Keller ', ' Michael Chylewski ', ' Christian Niederer ']",
-28,Sankt-Gallen,Destroyer,2015-11-11,"['Destroyer ', ' Jennifer Castle ']",
-29,Lausanne,Swervedriver,2015-11-11,['Swervedriver '],
-30,Zürich,Elvis-Perkins,2015-11-11,"['Elvis Perkins ', ' Nick Kinsey ']",
+location,event,date,artists,genre
+Zürich,Gletscher-Fezzer,2015-11-11,['Gletscher Fezzer '],traditional
+Lausanne,Oriental-&-Flamenco-Gypsy-Festival,2015-11-11,"[' Sajeda Obied ', ' Rosetta Lopardo ', ' Sotelo & Campanile ']",
+Bern,Bilderbuch,2015-11-11,['Bilderbuch '],
+Basel,Coop-Sinfoniekonzert,2015-11-11,[' Noa Wildschut '],Classic
+Kriens,Terry-Bozzio,2015-11-11,['Terry Bozzio '],
+Winterthur,Socalled,2015-11-11,['Socalled '],
+Zürich,Yelawolf,2015-11-11,['Yelawolf '],
+null,Konzert,2015-11-11,[' Magali Mosnier '],Classic
+Bern,Panaccusticum,2015-11-11,[' Matthias Etter '],Pop
+Zürich,Steaming-Satellites,2015-11-11,['Steaming Satellites '],
+Solothurn,Cunninlynguists,2015-11-11,['Cunninlynguists '],
+Zürich,Swim-Deep,2015-11-11,['Swim Deep '],Pop
+Zürich,Yellow-Lounge,2015-11-11,"[' Daniel Hope ', ' Valentina Lisitsa ']",Classic
+Luzern,Jam-Night,2015-11-11,"[' Emilia Taubic ', ' Bodo Maier ', ' Christian Winiker', ' Faruk Muslijevic ', ' Thomas Tavano ', ' Sascha Frischknecht ']",
+Winterthur,Kiasmos,2015-11-11,['Kiasmos '],Electronic
+Basel,Simply-Red,2015-11-11,['Simply Red '],Pop
+Zürich,Asbjørn,2015-11-11,"['Asbjørn ', ' support: La Boum Fatale ']",Pop
+Zürich,Sinfoniekonzert-Gion-Antoni-Derungs,2015-11-11,[' Andrea Wiesli '],Classic
+Zürich,Marilyn-Manson,2015-11-11,['Marilyn Manson '],
+null,Backyard-Babies,2015-11-11,['Backyard Babies '],
+Winterthur,Jazz-am-Mittwoch,2015-11-11,"[' Andrea Janser ', ' Philipp Mosimann ']",
+Winterthur,Ghost-Town-Trio-feat.-Dalia-Donadio,2015-11-11,"[' Dalia Donadio ', ' Urs Müller ', ' Claude Meier ', ' Lukas Mantel ']",
+Zürich,Joel-Sarakula,2015-11-11,['Joel Sarakula '],Pop
+Luzern,Lauter-Luisen,2015-11-11,"[' Muriel Zemp ', ' Karin Schulthess ', ' Katrin Marti ']",
+Basel,Walter-Jauslin-Quintet,2015-11-11,"[' Daniel Blanc ', ' Daniel Schluchter ', ' Walter Jauslin ', ' Giorgos Antoniou ', ' Pius Baschnagel ']",
+Basel,Jazzcampus-Session,2015-11-11,"['William Evens ', ' Niko Seibold ', ' Roberto Koch ', ' Jorge Rossy ']",
+Zürich,Artist-in-Residence-René-Mosele,2015-11-11,"[' René Mosele ', ' Gauthier Toux ', ' Kenneth Dahl Knudsen ', ' Maxence Sibille ', ' Lukas Thöni ', ' Reto Suhner ']",
+Zürich,Jazzbaragge-Wednesday-Jam,2015-11-11,"['Oli Keller ', ' Michael Chylewski ', ' Christian Niederer ']",
+Sankt-Gallen,Destroyer,2015-11-11,"['Destroyer ', ' Jennifer Castle ']",
+Lausanne,Swervedriver,2015-11-11,['Swervedriver '],
+Zürich,Elvis-Perkins,2015-11-11,"['Elvis Perkins ', ' Nick Kinsey ']",

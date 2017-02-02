@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Winterthur,Walpurgisnacht-Öffentliche-Generalprobe,2015-09-09,"[' Birgit Remmert ', ' Jörg Dürmüller ', ' Ruben Drole ', ' Reinhard Mailr ', ' Fazil Say ']",Classic
-1,Zürich,Werner-und-Company,2015-09-09,['Werner und Company '],
-2,Zürich,Jazz-Arcades,2015-09-09,"[' Florian Egli ', ' Luzius Schuler ']",
-3,Basel,Altstadt-Serenaden,2015-09-09,"[' Isabelle Schnöller ', '  Matthias Arte ', '  ', ' Lorenz Raths ', ' Matthias Bühlmann ']",Classic
-4,Winterthur,Walpurgisnacht-Saisoneröffnung,2015-09-09,"[' Birgit Remmert ', ' Jörg Dürmüller ', ' Ruben Drole ', ' Reinhard Mailr ', ' Fazil Say ']",Classic
-5,Veytaux,Septembre-musical,2015-09-09,"['Edgar Moreau ', ' Frank Dupree ']",Classic
-6,Aarburg,The-Mahones,2015-09-09,['The Mahones '],
-7,Zürich,William-Basinski,2015-09-09,['William Basinski '],Electronic
-8,Bern,Musikfestival-Bern-Pour-franchir-le-seuil,2015-09-09,[' Petra Hoffmann '],Classic
-9,Basel,3-Neue-Werke-für-3-Traversflöten-und-Perkussion,2015-09-09,"[' Sarah Giger ', ' Nadja Camichel ', ' Sarah van Cornewal ', ' Martin Lorenz ']",Classic
-10,Winterthur,Hundred-Waters,2015-09-09,['Hundred Waters '],Electronic
-11,Winterthur,Anet-Zemp-&-Ghost-Town-Trio,2015-09-09,"[' Anet Zemp ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Künzi ']",
-12,Zürich,Yilian-Cañizares-feat.-Akua-Naru,2015-09-09,"['Yilian Cañizares feat. Akua Naru ', ' Yilian Cañizares ', ' Naru ', ' Daniel Stawinski ', ' David Brito ', ' Inor Sotolongo ', ' Cyril Regamey ']",
-13,Basel,Kevin-Hays'-New-Day-Trio,2015-09-09,"[' Kevin Hays ', ' Matt Brewer ', ' Greg Joseph ']",
-14,Lausanne,Nicole-Maguire,2015-09-09,['Nicole Maguire '],
-15,Luzern,Jam-Night,2015-09-09,"[' Emilia Taubic ', ' Bodo Maier ', ' Christian Winiker ', ' Faruk Muslijevic  ', ' Thomas Tavano ', ' Sascha Frischknecht ']",
+location,event,date,artists,genre
+Winterthur,Walpurgisnacht-Öffentliche-Generalprobe,2015-09-09,"[' Birgit Remmert ', ' Jörg Dürmüller ', ' Ruben Drole ', ' Reinhard Mailr ', ' Fazil Say ']",Classic
+Zürich,Werner-und-Company,2015-09-09,['Werner und Company '],
+Zürich,Jazz-Arcades,2015-09-09,"[' Florian Egli ', ' Luzius Schuler ']",
+Basel,Altstadt-Serenaden,2015-09-09,"[' Isabelle Schnöller ', '  Matthias Arte ', '  ', ' Lorenz Raths ', ' Matthias Bühlmann ']",Classic
+Winterthur,Walpurgisnacht-Saisoneröffnung,2015-09-09,"[' Birgit Remmert ', ' Jörg Dürmüller ', ' Ruben Drole ', ' Reinhard Mailr ', ' Fazil Say ']",Classic
+Veytaux,Septembre-musical,2015-09-09,"['Edgar Moreau ', ' Frank Dupree ']",Classic
+Aarburg,The-Mahones,2015-09-09,['The Mahones '],
+Zürich,William-Basinski,2015-09-09,['William Basinski '],Electronic
+Bern,Musikfestival-Bern-Pour-franchir-le-seuil,2015-09-09,[' Petra Hoffmann '],Classic
+Basel,3-Neue-Werke-für-3-Traversflöten-und-Perkussion,2015-09-09,"[' Sarah Giger ', ' Nadja Camichel ', ' Sarah van Cornewal ', ' Martin Lorenz ']",Classic
+Winterthur,Hundred-Waters,2015-09-09,['Hundred Waters '],Electronic
+Winterthur,Anet-Zemp-&-Ghost-Town-Trio,2015-09-09,"[' Anet Zemp ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Künzi ']",
+Zürich,Yilian-Cañizares-feat.-Akua-Naru,2015-09-09,"['Yilian Cañizares feat. Akua Naru ', ' Yilian Cañizares ', ' Naru ', ' Daniel Stawinski ', ' David Brito ', ' Inor Sotolongo ', ' Cyril Regamey ']",
+Basel,Kevin-Hays'-New-Day-Trio,2015-09-09,"[' Kevin Hays ', ' Matt Brewer ', ' Greg Joseph ']",
+Lausanne,Nicole-Maguire,2015-09-09,['Nicole Maguire '],
+Luzern,Jam-Night,2015-09-09,"[' Emilia Taubic ', ' Bodo Maier ', ' Christian Winiker ', ' Faruk Muslijevic  ', ' Thomas Tavano ', ' Sascha Frischknecht ']",

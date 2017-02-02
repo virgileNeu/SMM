@@ -1,10 +1,10 @@
-,location,event,date,artists,genre
-0,Bern,Sous-les-étoiles,2015-01-12,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
-1,Solothurn,Silvan-Zingg-Trio,2015-01-12,"[' Silvan Zingg ', ' Valerio Felice ', ' Nuno Alexandre ']",
-2,Basel,Eko-Fresh,2015-01-12,['Eko Fresh '],
-3,Zürich,Shakespeare-Songs,2015-01-12,[' Mathias Clausen '],Classic
-4,null,The-Sibyl's-Promise,2015-01-12,"[' Sibyl Hofstetter ', ' Francesco Diomaiuta ', ' Raphael Loher ', ' Daniel Stocker ', ' Maris Egli ']",
-5,Zürich,20-fliegende-Finger-2-zitternde-Flügel,2015-01-12,"[' Frank Muschalle ', ' Dave Ruosch ']",
-6,Basel,Dialog,2015-01-12,['Edicson Ruiz '],Classic
-7,Baden,Blaer,2015-01-12,"[' Nils Fischer ', ' bcl) Claudio von Arx ', ' Maja Nydegger ', ' Simon Iten ', ' Emanuel Künzi ']",
-8,Basel,Jazzkollektiv,2015-01-12,"[' Marco von Orelli ', ' Annika Francke ', ' Marco Nenninger ', ' Samuel Dühsler ']",
+location,event,date,artists,genre
+Bern,Sous-les-étoiles,2015-01-12,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
+Solothurn,Silvan-Zingg-Trio,2015-01-12,"[' Silvan Zingg ', ' Valerio Felice ', ' Nuno Alexandre ']",
+Basel,Eko-Fresh,2015-01-12,['Eko Fresh '],
+Zürich,Shakespeare-Songs,2015-01-12,[' Mathias Clausen '],Classic
+null,The-Sibyl's-Promise,2015-01-12,"[' Sibyl Hofstetter ', ' Francesco Diomaiuta ', ' Raphael Loher ', ' Daniel Stocker ', ' Maris Egli ']",
+Zürich,20-fliegende-Finger-2-zitternde-Flügel,2015-01-12,"[' Frank Muschalle ', ' Dave Ruosch ']",
+Basel,Dialog,2015-01-12,['Edicson Ruiz '],Classic
+Baden,Blaer,2015-01-12,"[' Nils Fischer ', ' bcl) Claudio von Arx ', ' Maja Nydegger ', ' Simon Iten ', ' Emanuel Künzi ']",
+Basel,Jazzkollektiv,2015-01-12,"[' Marco von Orelli ', ' Annika Francke ', ' Marco Nenninger ', ' Samuel Dühsler ']",

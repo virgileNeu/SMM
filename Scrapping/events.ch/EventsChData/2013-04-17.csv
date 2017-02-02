@@ -1,32 +1,32 @@
-,location,event,date,artists,genre
-0,Basel,Hoax,2013-04-17,"['Christian Lozano Sedano ', ' Coleman Goepfert ']",Classic
-1,Zürich,Jon-LeDeau,2013-04-17,['Jon LeDeau '],
-2,Luzern,Blue-Soul-&-Me,2013-04-17,['Mark Tenger '],
-3,X-tra,Zürich,2013-04-17,['Kashmir '],Kashmir
-4,Pratteln,Der-W,2013-04-17,['Der W '],
-5,Bern,Internationales-Jazzfestival-Bern,2013-04-17,"[""Monty Alexander's Triple Treat "", ' Monty Alexander ', ' Russell Malone ', ' Hassan Shakur ', ' Frits Landesbergen ']",
-6,Zürich,Strife,2013-04-17,['Strife '],
-7,Zürich,Daughter,2013-04-17,"['Daughter ', ' Bears Den ']",Pop
-8,Basel,COOP-Sinfoniekonzert,2013-04-17,[' Charlie Siem '],Classic
-9,Aarau,Bleeding-Through,2013-04-17,"['Bleeding Through ', ' This Or The Apocalypse ', ' Hand Of Mercy ']",
-10,Zürich,Leslie-Clio,2013-04-17,['Leslie Clio '],
-11,Sarnen,Harfe-Violine-Visuelles,2013-04-17,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-12,Zürich,Settore-Giada,2013-04-17,['Settore Giada '],Pop
-13,Bern,A.-Spell,2013-04-17,"['A. Spell ', ' Nadja Stoller ', ' Jan Galega Brönnimann ', ' Ronan Skillen ']",Electronic
-14,Zürich,I-Muvrini,2013-04-17,['I Muvrini '],
-15,Baden,Kammermusik,2013-04-17,"[' Carolin Forster Borioli ', ' Luca Borioli ']",Classic
-16,Winterthur,Michael-Fleiner-y-su-Septeto-Internacional,2013-04-17,"[' Nicola Orioli ', ' Thomas Mäder ', ' Leonardo Gavin ', ' Michael Fleiner ', ' Peter Balazs ', ' Jean-Baptiste Baldazza ', ' Eulogio Argüelles ']",
-17,Pratteln,Buddy-Whittington,2013-04-17,['Buddy Whittington '],
-18,Baden,LaBox,2013-04-17,"[' Roland Köppel ', ' Marco Figini ', ' Michi Wipf ']",
-19,Basel,Magno-Alexandre-Quarteto,2013-04-17,"[' Magno Alexandre ', ' Ricardo Fiuza ', ' Stephan Kurmann ', ' Mauro Martins ']",
-20,Bern,A.-Spell,2013-04-17,"[' Nadja Stoller ', ' Jan Galega Brönnimann ', ' Ronan Skillen ']",Electronic
-21,Thalwil,Luke-&-Thom,2013-04-17,"[' Thomas Grüninger ', ' Lukas Heuss ']",Pop
-22,Wädenswil,Balkan-Flavours,2013-04-17,"[' Faruk Muslijevic ', ' Dragan Pijetlovic ', ' Rudy Pfister ', ' Thomas Tavano ', ' Christoph Müller ']",
-23,Zürich,Jazzpreis-der-Zürcher-Kantonalbank,2013-04-17,"[' Raphael Jost ', ' Lukas Thöni ', ' Thierry Kuster ', ' Lukas Brügger ', ' Jonathan Maag ', ' Julian Hesse ']",
-24,Basel,Vampisoul-Records,2013-04-17,['DJ Frank Castro '],
-25,Zürich,Manhigh,2013-04-17,['Manhigh '],
-26,null,Smoke-Or-Fire,2013-04-17,"['Smoke Or Fire ', ' Astpai ']",
-27,Zürich,Jazz-Baragge-Wednesday-Jam,2013-04-17,"['Roberto Pianca ', ' Stefano Senni ', ' Emanuele Maniscalco ']",
-28,Zürich,Sonar,2013-04-17,"[' Stephan Thelen ', ' Bernhard Wagner ', ' Christian Kuntner ', ' Manuel Pasquinelli ']",Electronic
-29,Zürich,John-Parish,2013-04-17,"['John Parish ', ' support: Paul Wallfisch ']",
-30,Bern,Internationales-Jazzfestival-Bern,2013-04-17,"[""Monty Alexander's Triple Treat "", ' Monty Alexander ', ' Russell Malone ', ' Hassan Shakur ', ' Frits Landesbergen ']",
+location,event,date,artists,genre
+Basel,Hoax,2013-04-17,"['Christian Lozano Sedano ', ' Coleman Goepfert ']",Classic
+Zürich,Jon-LeDeau,2013-04-17,['Jon LeDeau '],
+Luzern,Blue-Soul-&-Me,2013-04-17,['Mark Tenger '],
+X-tra,Zürich,2013-04-17,['Kashmir '],Kashmir
+Pratteln,Der-W,2013-04-17,['Der W '],
+Bern,Internationales-Jazzfestival-Bern,2013-04-17,"[""Monty Alexander's Triple Treat "", ' Monty Alexander ', ' Russell Malone ', ' Hassan Shakur ', ' Frits Landesbergen ']",
+Zürich,Strife,2013-04-17,['Strife '],
+Zürich,Daughter,2013-04-17,"['Daughter ', ' Bears Den ']",Pop
+Basel,COOP-Sinfoniekonzert,2013-04-17,[' Charlie Siem '],Classic
+Aarau,Bleeding-Through,2013-04-17,"['Bleeding Through ', ' This Or The Apocalypse ', ' Hand Of Mercy ']",
+Zürich,Leslie-Clio,2013-04-17,['Leslie Clio '],
+Sarnen,Harfe-Violine-Visuelles,2013-04-17,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
+Zürich,Settore-Giada,2013-04-17,['Settore Giada '],Pop
+Bern,A.-Spell,2013-04-17,"['A. Spell ', ' Nadja Stoller ', ' Jan Galega Brönnimann ', ' Ronan Skillen ']",Electronic
+Zürich,I-Muvrini,2013-04-17,['I Muvrini '],
+Baden,Kammermusik,2013-04-17,"[' Carolin Forster Borioli ', ' Luca Borioli ']",Classic
+Winterthur,Michael-Fleiner-y-su-Septeto-Internacional,2013-04-17,"[' Nicola Orioli ', ' Thomas Mäder ', ' Leonardo Gavin ', ' Michael Fleiner ', ' Peter Balazs ', ' Jean-Baptiste Baldazza ', ' Eulogio Argüelles ']",
+Pratteln,Buddy-Whittington,2013-04-17,['Buddy Whittington '],
+Baden,LaBox,2013-04-17,"[' Roland Köppel ', ' Marco Figini ', ' Michi Wipf ']",
+Basel,Magno-Alexandre-Quarteto,2013-04-17,"[' Magno Alexandre ', ' Ricardo Fiuza ', ' Stephan Kurmann ', ' Mauro Martins ']",
+Bern,A.-Spell,2013-04-17,"[' Nadja Stoller ', ' Jan Galega Brönnimann ', ' Ronan Skillen ']",Electronic
+Thalwil,Luke-&-Thom,2013-04-17,"[' Thomas Grüninger ', ' Lukas Heuss ']",Pop
+Wädenswil,Balkan-Flavours,2013-04-17,"[' Faruk Muslijevic ', ' Dragan Pijetlovic ', ' Rudy Pfister ', ' Thomas Tavano ', ' Christoph Müller ']",
+Zürich,Jazzpreis-der-Zürcher-Kantonalbank,2013-04-17,"[' Raphael Jost ', ' Lukas Thöni ', ' Thierry Kuster ', ' Lukas Brügger ', ' Jonathan Maag ', ' Julian Hesse ']",
+Basel,Vampisoul-Records,2013-04-17,['DJ Frank Castro '],
+Zürich,Manhigh,2013-04-17,['Manhigh '],
+null,Smoke-Or-Fire,2013-04-17,"['Smoke Or Fire ', ' Astpai ']",
+Zürich,Jazz-Baragge-Wednesday-Jam,2013-04-17,"['Roberto Pianca ', ' Stefano Senni ', ' Emanuele Maniscalco ']",
+Zürich,Sonar,2013-04-17,"[' Stephan Thelen ', ' Bernhard Wagner ', ' Christian Kuntner ', ' Manuel Pasquinelli ']",Electronic
+Zürich,John-Parish,2013-04-17,"['John Parish ', ' support: Paul Wallfisch ']",
+Bern,Internationales-Jazzfestival-Bern,2013-04-17,"[""Monty Alexander's Triple Treat "", ' Monty Alexander ', ' Russell Malone ', ' Hassan Shakur ', ' Frits Landesbergen ']",

@@ -1,39 +1,39 @@
-,location,event,date,artists,genre
-0,Zürich,Ex-America-lux-Lunchkonzert,2013-10-03,"[' Carin Gilfry ', ' Christopher Whiting ', ' Benjamin Nyffenegger ', ' Elaine Fukunaga ']",Classic
-1,Zürich,Jack-Savoretti,2013-10-03,['Jack Savoretti '],Pop
-2,Luzern,Classical-Gala,2013-10-03,"[' Zora Slokar ', ' Sharon Kam ']",Classic
-3,Zürich,8.-Himmel,2013-10-03,"[' Christine Lather ', ' Roger Girod ']",Pop
-4,null,Das-reisende-Orchester,2013-10-03,[' Matthias Goerne  '],Classic
-5,Chur,Sinfoniekonzert,2013-10-03,[' Maki Wiederkehr '],Classic
-6,Luzern,Salonmusik,2013-10-03,"['Martin Schaefer ', ' Richard Decker ']",Classic
-7,Pratteln,Riverside,2013-10-03,['Riverside '],
-8,Zürich,David-Emanuel,2013-10-03,"[' David Emanuel ', ' Nicolas Wahlen ', ' Mischa Maurer ', ' Gianluca Giger ', ' Joel Studler ']",
-9,Zug,Motion-Trio,2013-10-03,['Motion Trio '],
-10,Zürich,The-Boxer-Rebellion,2013-10-03,"['The Boxer Rebellion ', ' Christof ']",
-11,Luzern,Allie,2013-10-03,"['Allie ', ' Erin Lang ']",Pop
-12,Aarau,Shout-out-Louds,2013-10-03,['Shout out Louds '],
-13,Lausanne,Yoav,2013-10-03,['Yoav '],Electronic
-14,Zürich,10-Jahre-Lebewohlfabrik,2013-10-03,"['Georges Burki ', ' Urs Wäckerli ', ' Fulvio Musso ', ' Thomas Hirt ', ' Christian Wallner ', ' Andrea Panitz ', ' Florent Kirchmeyer ', ' Harald Haerter ']",
-15,Winterthur,Adrian-Mira-Group,2013-10-03,"[' Adrian Mira ', ' Gregor Loepfe ', ' Raetus Flisch ', ' Tony Renold ']",
-16,Luzern,Más-Shake,2013-10-03,['Más Shake '],
-17,Zürich,Heat,2013-10-03,['Heat '],
-18,Uster,Monday-Move-Der-perfekte-Groove,2013-10-03,"[' Matthias Gössi ', ' Jan Hofmann ', ' Rahel Kofmehl ', ' Florian Blaser ', ' Martin Burkhardt ']",
-19,Zürich,Layla-Zoe,2013-10-03,"['Layla Zoe ', ' Layla Zoe ', ' Jan Laacks ', ' Gregor Sonnenberg ', ' Hardy Fischötter ']",
-20,Bern,Isena,2013-10-03,"['Isena ', ' Isena ', ' Claudio von Arx ', ' Dominik Baumgartner ', ' Urs Wittwer ', ' Alberto Carlos Santos ']",
-21,Les-Docks,Lausanne,2013-10-03,"['Kate Nash ', ' support: The Tuts ']",
-22,Basel,Marla-Glen,2013-10-03,['Marla Glen '],
-23,Zürich,Urban-Kicks-&-Inner-Landscapes,2013-10-03,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco Käppeli ', ' Dieter Ulrich ']",
-24,Basel,Chimaira-Quartet,2013-10-03,"[' Philipp Gropper ', ' John Schröder ', ' Oliver Potratz ', ' Alex Huber ']",
-25,Baden,Jazz-Risotto-und-Performance,2013-10-03,"['Mirjam Harzenmoser ', ' Ueli Gygli ', ' Mischa Frey ', ' Alex Merz ']",
-26,Kriens,Manu-Delago-Handmade,2013-10-03,['Manu Delago Handmade '],Electronic
-27,Zürich,Tunng,2013-10-03,"['Tunng ', ' support: Pinkunoizu ']",Pop
-28,Frick,Lilabungalow,2013-10-03,['Lilabungalow '],Electronic
-29,Lausanne,The-Wedding-Present,2013-10-03,['The Wedding Present '],Pop
-30,Bern,The-Lurkers,2013-10-03,"['The Lurkers ', ' The Pikes ']",
-31,Aarburg,Spin-Doctors,2013-10-03,"['Spin Doctors ', ' support: Patricia Vonne ']",
-32,Feuerthalen,Session-Club-Dimitri,2013-10-03,['Mosquito '],Pop
-33,Basel,Cube-Session-Nr.-04,2013-10-03,"[' Phoebe Lin ', ' Benjamin Gregor Smith ']",Classic
-34,Luzern,Jam-Session,2013-10-03,['Richard Decker '],
-35,Zürich,Pommelhorse-Abgesagt,2013-10-03,"[' Joel Graf ', ' Olivier Zurkirchen ', ' Lukas Roos ', ' Jeremias Keller ', ' Gregor Lisser ']",
-36,Zürich,3-Jahre-Frieda's-Büxe,2013-10-03,['Mike Shannon & De Walta '],Electronic
-37,Zürich,Neon,2013-10-03,['Tourist '],
+location,event,date,artists,genre
+Zürich,Ex-America-lux-Lunchkonzert,2013-10-03,"[' Carin Gilfry ', ' Christopher Whiting ', ' Benjamin Nyffenegger ', ' Elaine Fukunaga ']",Classic
+Zürich,Jack-Savoretti,2013-10-03,['Jack Savoretti '],Pop
+Luzern,Classical-Gala,2013-10-03,"[' Zora Slokar ', ' Sharon Kam ']",Classic
+Zürich,8.-Himmel,2013-10-03,"[' Christine Lather ', ' Roger Girod ']",Pop
+null,Das-reisende-Orchester,2013-10-03,[' Matthias Goerne  '],Classic
+Chur,Sinfoniekonzert,2013-10-03,[' Maki Wiederkehr '],Classic
+Luzern,Salonmusik,2013-10-03,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Pratteln,Riverside,2013-10-03,['Riverside '],
+Zürich,David-Emanuel,2013-10-03,"[' David Emanuel ', ' Nicolas Wahlen ', ' Mischa Maurer ', ' Gianluca Giger ', ' Joel Studler ']",
+Zug,Motion-Trio,2013-10-03,['Motion Trio '],
+Zürich,The-Boxer-Rebellion,2013-10-03,"['The Boxer Rebellion ', ' Christof ']",
+Luzern,Allie,2013-10-03,"['Allie ', ' Erin Lang ']",Pop
+Aarau,Shout-out-Louds,2013-10-03,['Shout out Louds '],
+Lausanne,Yoav,2013-10-03,['Yoav '],Electronic
+Zürich,10-Jahre-Lebewohlfabrik,2013-10-03,"['Georges Burki ', ' Urs Wäckerli ', ' Fulvio Musso ', ' Thomas Hirt ', ' Christian Wallner ', ' Andrea Panitz ', ' Florent Kirchmeyer ', ' Harald Haerter ']",
+Winterthur,Adrian-Mira-Group,2013-10-03,"[' Adrian Mira ', ' Gregor Loepfe ', ' Raetus Flisch ', ' Tony Renold ']",
+Luzern,Más-Shake,2013-10-03,['Más Shake '],
+Zürich,Heat,2013-10-03,['Heat '],
+Uster,Monday-Move-Der-perfekte-Groove,2013-10-03,"[' Matthias Gössi ', ' Jan Hofmann ', ' Rahel Kofmehl ', ' Florian Blaser ', ' Martin Burkhardt ']",
+Zürich,Layla-Zoe,2013-10-03,"['Layla Zoe ', ' Layla Zoe ', ' Jan Laacks ', ' Gregor Sonnenberg ', ' Hardy Fischötter ']",
+Bern,Isena,2013-10-03,"['Isena ', ' Isena ', ' Claudio von Arx ', ' Dominik Baumgartner ', ' Urs Wittwer ', ' Alberto Carlos Santos ']",
+Les-Docks,Lausanne,2013-10-03,"['Kate Nash ', ' support: The Tuts ']",
+Basel,Marla-Glen,2013-10-03,['Marla Glen '],
+Zürich,Urban-Kicks-&-Inner-Landscapes,2013-10-03,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco Käppeli ', ' Dieter Ulrich ']",
+Basel,Chimaira-Quartet,2013-10-03,"[' Philipp Gropper ', ' John Schröder ', ' Oliver Potratz ', ' Alex Huber ']",
+Baden,Jazz-Risotto-und-Performance,2013-10-03,"['Mirjam Harzenmoser ', ' Ueli Gygli ', ' Mischa Frey ', ' Alex Merz ']",
+Kriens,Manu-Delago-Handmade,2013-10-03,['Manu Delago Handmade '],Electronic
+Zürich,Tunng,2013-10-03,"['Tunng ', ' support: Pinkunoizu ']",Pop
+Frick,Lilabungalow,2013-10-03,['Lilabungalow '],Electronic
+Lausanne,The-Wedding-Present,2013-10-03,['The Wedding Present '],Pop
+Bern,The-Lurkers,2013-10-03,"['The Lurkers ', ' The Pikes ']",
+Aarburg,Spin-Doctors,2013-10-03,"['Spin Doctors ', ' support: Patricia Vonne ']",
+Feuerthalen,Session-Club-Dimitri,2013-10-03,['Mosquito '],Pop
+Basel,Cube-Session-Nr.-04,2013-10-03,"[' Phoebe Lin ', ' Benjamin Gregor Smith ']",Classic
+Luzern,Jam-Session,2013-10-03,['Richard Decker '],
+Zürich,Pommelhorse-Abgesagt,2013-10-03,"[' Joel Graf ', ' Olivier Zurkirchen ', ' Lukas Roos ', ' Jeremias Keller ', ' Gregor Lisser ']",
+Zürich,3-Jahre-Frieda's-Büxe,2013-10-03,['Mike Shannon & De Walta '],Electronic
+Zürich,Neon,2013-10-03,['Tourist '],

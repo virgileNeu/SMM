@@ -1,30 +1,30 @@
-,location,event,date,artists,genre
-0,Basel,Mimiko-Dans-les-jardins-de-Versailles,2015-10-21,"['Anne Rongy ', ' Nathalie Leuenberger ']",Classic
-1,Zürich,Orgelspiele-Herbstzyklus,2015-10-21,['Rudolph Scheidegger '],Classic
-2,Basel,Streichquartette,2015-10-21,"[' Erich Höbarth ', ' Andrea Bischof ', ' Anita Mitterer ', ' Christophe Coin ', ' David Sinclair ']",Classic
-3,Palais-des-Congrès,null,2015-10-21,[' Giovanni Bellucci '],Classic
-4,Pratteln,Mustasch,2015-10-21,['Mustasch '],
-5,Zürich,John-Mayall,2015-10-21,['John Mayall '],
-6,Basel,Berge,2015-10-21,['Berge '],Pop
-7,null,Get-Your-Gun,2015-10-21,['Get Your Gun '],
-8,Zürich,Angelo-Branduardi,2015-10-21,['Angelo Branduardi '],Pop
-9,Zürich,Hoffmaestro,2015-10-21,['Hoffmaestro '],
-10,Zürich,Heather-Nova,2015-10-21,['Heather Nova '],Pop
-11,Zürich,Ben-Khan,2015-10-21,['Ben Khan '],Electronic
-12,Zürich,KC-Rebell,2015-10-21,['KC Rebell '],
-13,Luzern,Jam-Night,2015-10-21,"[' Muhi Tahiri ', ' Naima Gürth ', ' Daniel Messina ', ' Claudio Berger ', ' Denise Blassig ']",
-14,Zürich,Benjamin-Folke-Thomas,2015-10-21,['Benjamin Folke Thomas '],
-15,Wädenswil,Augen-der-Grossstadt,2015-10-21,"['Sonja Indin ', ' Tino Horat ']",Pop
-16,Zürich,Marc-Perrenoud,2015-10-21,['Marc Perrenoud '],
-17,Bern,Parrot-to-the-Moon,2015-10-21,['Parrot to the Moon '],Electronic
-18,Winterthur,Ghost-Town-Trio-feat.-Franziska-Brücker,2015-10-21,"[' Franziska Brücker ', ' Urs Vögeli ', ' Claude Meier ', ' Lukas Mantel ']",
-19,Zürich,Ensemble-5-Wednesday-4+1-Series,2015-10-21,"['Fridolin Blumer ', ' Heinz Geisser ', ' Robert Morgenthaler ', ' Reto Staub ', ' Alfred Zimmerlin ']",
-20,Baden,Endlich-Mittwoch-Insomnia,2015-10-21,"[' Katrin Szamatulski ', ' Raoul Morat ', ' Vera Wahl ', ' Viviane Hasler ', ' Christoph Boner ', ' Joao Carlos Pacheco ']",Electronic
-21,Bern,Sidsel-Endresen-&-Stian-Westerhus,2015-10-21,['Sidsel Endresen & Stian Westerhus '],
-22,Basel,Alexia-Gardner-Trio,2015-10-21,"[' Alexia Gardner ', ' Beat Baumli ', ' Lorenz Beyeler ']",
-23,Luzern,Alvaro-Soler,2015-10-21,['Alvaro Soler '],
-24,Rubigen,Eric-Gales,2015-10-21,['Eric Gales '],
-25,Basel,Wayne-Shorter-Tribute,2015-10-21,"[' Sebastian Till ', ' Guillaume Schroll ', ' Daniel McAlavy ', ' Noé Franklé ']",
-26,Luzern,Komet,2015-10-21,"[' Otmar Kramis ', ' Kaspar Kramis ', ' Thomas Tavano ', ' Matthias Bucher ']",
-27,Basel,Cult-of-Youth,2015-10-21,"['Cult of Youth ', ' Gran ']",
-28,Zürich,Jazzbaragge-Wednesday-Jam,2015-10-21,"['Philip Eden ', ' Vincent Ruiz ', ' Dominik Burkhalter ']",
+location,event,date,artists,genre
+Basel,Mimiko-Dans-les-jardins-de-Versailles,2015-10-21,"['Anne Rongy ', ' Nathalie Leuenberger ']",Classic
+Zürich,Orgelspiele-Herbstzyklus,2015-10-21,['Rudolph Scheidegger '],Classic
+Basel,Streichquartette,2015-10-21,"[' Erich Höbarth ', ' Andrea Bischof ', ' Anita Mitterer ', ' Christophe Coin ', ' David Sinclair ']",Classic
+Palais-des-Congrès,null,2015-10-21,[' Giovanni Bellucci '],Classic
+Pratteln,Mustasch,2015-10-21,['Mustasch '],
+Zürich,John-Mayall,2015-10-21,['John Mayall '],
+Basel,Berge,2015-10-21,['Berge '],Pop
+null,Get-Your-Gun,2015-10-21,['Get Your Gun '],
+Zürich,Angelo-Branduardi,2015-10-21,['Angelo Branduardi '],Pop
+Zürich,Hoffmaestro,2015-10-21,['Hoffmaestro '],
+Zürich,Heather-Nova,2015-10-21,['Heather Nova '],Pop
+Zürich,Ben-Khan,2015-10-21,['Ben Khan '],Electronic
+Zürich,KC-Rebell,2015-10-21,['KC Rebell '],
+Luzern,Jam-Night,2015-10-21,"[' Muhi Tahiri ', ' Naima Gürth ', ' Daniel Messina ', ' Claudio Berger ', ' Denise Blassig ']",
+Zürich,Benjamin-Folke-Thomas,2015-10-21,['Benjamin Folke Thomas '],
+Wädenswil,Augen-der-Grossstadt,2015-10-21,"['Sonja Indin ', ' Tino Horat ']",Pop
+Zürich,Marc-Perrenoud,2015-10-21,['Marc Perrenoud '],
+Bern,Parrot-to-the-Moon,2015-10-21,['Parrot to the Moon '],Electronic
+Winterthur,Ghost-Town-Trio-feat.-Franziska-Brücker,2015-10-21,"[' Franziska Brücker ', ' Urs Vögeli ', ' Claude Meier ', ' Lukas Mantel ']",
+Zürich,Ensemble-5-Wednesday-4+1-Series,2015-10-21,"['Fridolin Blumer ', ' Heinz Geisser ', ' Robert Morgenthaler ', ' Reto Staub ', ' Alfred Zimmerlin ']",
+Baden,Endlich-Mittwoch-Insomnia,2015-10-21,"[' Katrin Szamatulski ', ' Raoul Morat ', ' Vera Wahl ', ' Viviane Hasler ', ' Christoph Boner ', ' Joao Carlos Pacheco ']",Electronic
+Bern,Sidsel-Endresen-&-Stian-Westerhus,2015-10-21,['Sidsel Endresen & Stian Westerhus '],
+Basel,Alexia-Gardner-Trio,2015-10-21,"[' Alexia Gardner ', ' Beat Baumli ', ' Lorenz Beyeler ']",
+Luzern,Alvaro-Soler,2015-10-21,['Alvaro Soler '],
+Rubigen,Eric-Gales,2015-10-21,['Eric Gales '],
+Basel,Wayne-Shorter-Tribute,2015-10-21,"[' Sebastian Till ', ' Guillaume Schroll ', ' Daniel McAlavy ', ' Noé Franklé ']",
+Luzern,Komet,2015-10-21,"[' Otmar Kramis ', ' Kaspar Kramis ', ' Thomas Tavano ', ' Matthias Bucher ']",
+Basel,Cult-of-Youth,2015-10-21,"['Cult of Youth ', ' Gran ']",
+Zürich,Jazzbaragge-Wednesday-Jam,2015-10-21,"['Philip Eden ', ' Vincent Ruiz ', ' Dominik Burkhalter ']",

@@ -1,26 +1,26 @@
-,location,event,date,artists,genre
-0,Zermatt,Zermatt-Unplugged,2014-04-11,"[""Ronnie Scott's All Stars ""]",
-1,Zermatt,Zermatt-Unplugged,2014-04-11,['Malky '],Pop
-2,Basel,Orgelspiel-zum-Feierabend,2014-04-11,['Susanne Doll '],Classic
-3,Zürich,King-Khan-&-The-Shrines,2014-04-11,"['King Khan & The Shrines ', ' support: The Marinellis ']",
-4,Zermatt,Zermatt-Unplugged,2014-04-11,['Ron Pope '],Pop
-5,Zürich,Konzert,2014-04-11,['Fazil Say '],Classic
-6,Basel,Blues-Festival-Basel,2014-04-11,"['Allen Toussaint ', ' Jessy Martens und Band ', ' Alain Toussaint ', ' Jessy Martens ', ' Jan Fischer ', ' Kai Stuffel ', ' Christian Hon Adameit ', ' Christian Kolf ']",
-7,Zürich,Mediterranean-Music-Festival,2014-04-11,['En Chordais '],
-8,null,Konzert,2014-04-11,"[' Filippo Mineccia ', ' Robin Peter Müller ']",Classic
-9,Interlaken,Nicole-Bernegger,2014-04-11,[' MarieMarie '],Pop
-10,Uster,Swingin'-Birds,2014-04-11,"[' Hansjörg Herzog ', ' Hans von Aesch ', ' Peter Niederer ', ' Philipp Rellstab ', ' Dani Solimine ', ' Fernand Schlumpf ']",
-11,Zermatt,Zermatt-Unplugged,2014-04-11,['Mick Hucknall '],
-12,Basel,Danny-Grissett-Trio,2014-04-11,"[' Darryl Hall ', ' Danny Grissett ', ' Vladimir Kostadinovic ']",
-13,Aarau,Ton-Steine-Scherben,2014-04-11,['Ton Steine Scherben '],
-14,Zürich,Rusconi,2014-04-11,"[' Stefan Rusconi ', ' Fabian Gisler ', ' Claudio Strüby ']",
-15,Luzern,Haïrdrÿer,2014-04-11,['Haïrdrÿer '],
-16,Cully,Cully-Jazz,2014-04-11,"['Weston-Harper ', ' Randy Weston ', ' Billy Harper ']",
-17,Baden,The-Goodnight-Circus,2014-04-11,['The Goodnight Circus '],
-18,Basel,Money-Boy,2014-04-11,['Money Boy '],
-19,Rubigen,Ross-Bon-&-The-Mighty-Blue-Kings-feat.-Sam-Burckhardt,2014-04-11,['Ross Bon & The Mighty Blue Kings feat. Sam Burckhardt '],
-20,Schaffhausen,Skerryvore,2014-04-11,['Skerryvore '],
-21,Zürich,Jeffrey-Foucault-&-Ry-Cavanaugh,2014-04-11,['Jeffrey Foucault & Ry Cavanaugh '],Pop
-22,Bern,Die-Goldenen-Zitronen,2014-04-11,['Die Goldenen Zitronen '],
-23,Zermatt,Zermatt-Unplugged,2014-04-11,['Jamie Scott '],Pop
-24,Zermatt,Zermatt-Unplugged,2014-04-11,['Milow '],Pop
+location,event,date,artists,genre
+Zermatt,Zermatt-Unplugged,2014-04-11,"[""Ronnie Scott's All Stars ""]",
+Zermatt,Zermatt-Unplugged,2014-04-11,['Malky '],Pop
+Basel,Orgelspiel-zum-Feierabend,2014-04-11,['Susanne Doll '],Classic
+Zürich,King-Khan-&-The-Shrines,2014-04-11,"['King Khan & The Shrines ', ' support: The Marinellis ']",
+Zermatt,Zermatt-Unplugged,2014-04-11,['Ron Pope '],Pop
+Zürich,Konzert,2014-04-11,['Fazil Say '],Classic
+Basel,Blues-Festival-Basel,2014-04-11,"['Allen Toussaint ', ' Jessy Martens und Band ', ' Alain Toussaint ', ' Jessy Martens ', ' Jan Fischer ', ' Kai Stuffel ', ' Christian Hon Adameit ', ' Christian Kolf ']",
+Zürich,Mediterranean-Music-Festival,2014-04-11,['En Chordais '],
+null,Konzert,2014-04-11,"[' Filippo Mineccia ', ' Robin Peter Müller ']",Classic
+Interlaken,Nicole-Bernegger,2014-04-11,[' MarieMarie '],Pop
+Uster,Swingin'-Birds,2014-04-11,"[' Hansjörg Herzog ', ' Hans von Aesch ', ' Peter Niederer ', ' Philipp Rellstab ', ' Dani Solimine ', ' Fernand Schlumpf ']",
+Zermatt,Zermatt-Unplugged,2014-04-11,['Mick Hucknall '],
+Basel,Danny-Grissett-Trio,2014-04-11,"[' Darryl Hall ', ' Danny Grissett ', ' Vladimir Kostadinovic ']",
+Aarau,Ton-Steine-Scherben,2014-04-11,['Ton Steine Scherben '],
+Zürich,Rusconi,2014-04-11,"[' Stefan Rusconi ', ' Fabian Gisler ', ' Claudio Strüby ']",
+Luzern,Haïrdrÿer,2014-04-11,['Haïrdrÿer '],
+Cully,Cully-Jazz,2014-04-11,"['Weston-Harper ', ' Randy Weston ', ' Billy Harper ']",
+Baden,The-Goodnight-Circus,2014-04-11,['The Goodnight Circus '],
+Basel,Money-Boy,2014-04-11,['Money Boy '],
+Rubigen,Ross-Bon-&-The-Mighty-Blue-Kings-feat.-Sam-Burckhardt,2014-04-11,['Ross Bon & The Mighty Blue Kings feat. Sam Burckhardt '],
+Schaffhausen,Skerryvore,2014-04-11,['Skerryvore '],
+Zürich,Jeffrey-Foucault-&-Ry-Cavanaugh,2014-04-11,['Jeffrey Foucault & Ry Cavanaugh '],Pop
+Bern,Die-Goldenen-Zitronen,2014-04-11,['Die Goldenen Zitronen '],
+Zermatt,Zermatt-Unplugged,2014-04-11,['Jamie Scott '],Pop
+Zermatt,Zermatt-Unplugged,2014-04-11,['Milow '],Pop

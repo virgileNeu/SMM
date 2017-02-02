@@ -1,19 +1,19 @@
-,location,event,date,artists,genre
-0,Verbier,Verbier-Festival,2014-07-27,['Marc-André Hamelin '],Classic
-1,Hermatswil,Reeds-Festival,2014-07-27,['Angélique Kidjo '],
-2,Verbier,Verbier-Festival,2014-07-27,['Miklós Perényi '],Classic
-3,Nyon,Paléo-Festival,2014-07-27,"['Denge Denge Denge ', ' Chico Trujillo ', ' Che Sudaka ']",Electronic
-4,Nyon,Paléo-Festival,2014-07-27,"['Hollysiz ', ' James Vincent McMorrow ', ' Tinariwen ']",Electronic
-5,Binningen,Vivaldi-alla-Moda,2014-07-27,['Camilla de Falleira '],Classic
-6,Flims-Dorf,Konzert,2014-07-27,['Vital Julian Frey '],Classic
-7,Nyon,Paléo-Festival,2014-07-27,"['Woodkid ', ' Détroit ', ' Joris Delacroix ']",Pop
-8,Saanen,Menuhin-Festival-Gstaad,2014-07-27,"['Alison Balsom ', ' Milos Karadaglic ', ' David Goode ']",Classic
-9,Nyon,Paléo-Festival,2014-07-27,"['Placebo ', ' The National ', ""Youssou N'Dour et le Super Étoile de Dakar ""]",Pop
-10,Verbier,Verbier-Festival,2014-07-27,"[' Alexey Markov ', ' Barbara Frittoli ', ' Thiago Arancam ', ' Ekaterina Semenchuk ', ' Vittorio Grigolo ', ' Lianna Haroutounian ', ' Daniela Barcellona ', ' Alexey Markov ', ' Ildar Abdrazakov ', ' Mikhail Petrenko ']",Classic
-11,Bern,Eva-Ayllon,2014-07-27,['Eva Ayllon '],Pop
-12,null,Stimmen,2014-07-27,['Nneka '],Pop
-13,Verbier,Verbier-Festival,2014-07-27,"['Clemens Hagen ', ' Kitill Gerstein ']",Classic
-14,Thun,Am-Schluss,2014-07-27,['Canteca De Macao '],
-15,Zürich,The-Jon-Spencer-Blues-Explosion,2014-07-27,['The Jon Spencer Blues Explosion '],
-16,Lugano,Longlake-Festival,2014-07-27,['Agnes Obel '],Pop
-17,St.-Moritz,Festival-da-Jazz,2014-07-27,"['New York Voices ', ' Kim Nazarian ', ' Lauren Kinhan ', ' Peter Eldridge ', ' Darmon Meader ', ' Claus Dieter Bandorf ', ' Decebal Badilila ', ' Gabriel Hahn ']",
+location,event,date,artists,genre
+Verbier,Verbier-Festival,2014-07-27,['Marc-André Hamelin '],Classic
+Hermatswil,Reeds-Festival,2014-07-27,['Angélique Kidjo '],
+Verbier,Verbier-Festival,2014-07-27,['Miklós Perényi '],Classic
+Nyon,Paléo-Festival,2014-07-27,"['Denge Denge Denge ', ' Chico Trujillo ', ' Che Sudaka ']",Electronic
+Nyon,Paléo-Festival,2014-07-27,"['Hollysiz ', ' James Vincent McMorrow ', ' Tinariwen ']",Electronic
+Binningen,Vivaldi-alla-Moda,2014-07-27,['Camilla de Falleira '],Classic
+Flims-Dorf,Konzert,2014-07-27,['Vital Julian Frey '],Classic
+Nyon,Paléo-Festival,2014-07-27,"['Woodkid ', ' Détroit ', ' Joris Delacroix ']",Pop
+Saanen,Menuhin-Festival-Gstaad,2014-07-27,"['Alison Balsom ', ' Milos Karadaglic ', ' David Goode ']",Classic
+Nyon,Paléo-Festival,2014-07-27,"['Placebo ', ' The National ', ""Youssou N'Dour et le Super Étoile de Dakar ""]",Pop
+Verbier,Verbier-Festival,2014-07-27,"[' Alexey Markov ', ' Barbara Frittoli ', ' Thiago Arancam ', ' Ekaterina Semenchuk ', ' Vittorio Grigolo ', ' Lianna Haroutounian ', ' Daniela Barcellona ', ' Alexey Markov ', ' Ildar Abdrazakov ', ' Mikhail Petrenko ']",Classic
+Bern,Eva-Ayllon,2014-07-27,['Eva Ayllon '],Pop
+null,Stimmen,2014-07-27,['Nneka '],Pop
+Verbier,Verbier-Festival,2014-07-27,"['Clemens Hagen ', ' Kitill Gerstein ']",Classic
+Thun,Am-Schluss,2014-07-27,['Canteca De Macao '],
+Zürich,The-Jon-Spencer-Blues-Explosion,2014-07-27,['The Jon Spencer Blues Explosion '],
+Lugano,Longlake-Festival,2014-07-27,['Agnes Obel '],Pop
+St.-Moritz,Festival-da-Jazz,2014-07-27,"['New York Voices ', ' Kim Nazarian ', ' Lauren Kinhan ', ' Peter Eldridge ', ' Darmon Meader ', ' Claus Dieter Bandorf ', ' Decebal Badilila ', ' Gabriel Hahn ']",

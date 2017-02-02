@@ -1,27 +1,27 @@
-,location,event,date,artists,genre
-0,Basel,Kostprobe,2015-11-17,[' Sol Gabetta '],Classic
-1,Zürich,Monte-Carlo,2015-11-17,['Monte Carlo '],Pop
-2,Zürich,De-Lá-Pra-Cá,2015-11-17,"[' Floriano Inácio Jr. ', ' João Bastos ', ' Frederico Henning ', ' Alex de Almeida ']",
-3,Bern,Musica-aperta-Piano-Summit,2015-11-17,"['Satoko Inoue ', ' Werner Bärtschi ', ' Moritz Ernst ', ' works by Pierre-André Bovey ']",Classic
-4,Zürich,Tobias-Jesso-Jr.,2015-11-17,['Tobias Jesso Jr. '],
-5,Zürich,Piano-Trios,2015-11-17,"['Won-Ho Kim ', ' Sayaka Selina ', ' Asako Kurita ']",Classic
-6,Zürich,Zürcher-Kammerorchester,2015-11-17,['Pierre-Laurent Aimard '],Classic
-7,Zürich,Tyler-Ward,2015-11-17,['Tyler Ward '],Pop
-8,Basel,Vocal-Jazz-Night,2015-11-17,"['Cecile Mc Lorin Salvant Quintet ', ' Cécile McLorin Salvant ', ' Aaron Diehl ', ' Paul Sikivie ', ' Lawrence Leathers ']",
-9,Zürich,Mariza,2015-11-17,['Mariza '],
-10,Zürich,Danko-Jones,2015-11-17,['Danko Jones '],
-11,Zürich,Carmen,2015-11-17,[' Stummfilm '],Classic
-12,null,Sinfoniekonzert,2015-11-17,['Marc Bouchkov '],Classic
-13,null,Naturstimmen-on-Tour,2015-11-17,"['Mariana Sadovska ', ' Outi Pulkkinen ']",
-14,Aarburg,Pro-Pain,2015-11-17,['Pro Pain '],
-15,Zürich,Antonio-Sanchez-&-Migration,2015-11-17,"[' Antonio Sanchez ', ' Seamus Blake ', ' John Escreet ', ' Matt Brewer ']",
-16,Rheinfelden,Ben-Williams-Quintett,2015-11-17,"[' Ben Williams ', ' Christian Sands ', ' John Davis ', ' Marcus Strickland ', ' Matt Stevens ']",
-17,Lugano,Chamber-Orchestra-of-Europe,2015-11-17,[' Murray Perahia '],Classic
-18,Luzern,Friz-Jerjen-Kuratle,2015-11-17,"[' Mathieu Friz ', ' Rafael Jerjen ', ' Clemens Kuratle ']",
-19,Bern,Trio-Vagón-Tango,2015-11-17,['Trio Vagón Tango '],
-20,Luzern,Kraftwerk-3D,2015-11-17,['Kraftwerk '],Pop
-21,Basel,Sunna-Gunnlaugs-Trio,2015-11-17,"['Sunna Gunnlaugs Trio ', ' Sunna Gunnlaugs ', ' Thorgrimur Jonsson ', ' Scott McLemore ']",
-22,Zürich,David-Krakauer,2015-11-17,"[' David Krakauer ', ' Sara Caswell ', ' Brad Jones ', ' Sheryl Bailey ', ' Rob Schwimmer ', ' John Hadfield ']",
-23,Düdingen,Jacuzzi-Boys,2015-11-17,['Jacuzzi Boys '],
-24,Lausanne,Lower-Dens,2015-11-17,['Lower Dens '],Pop
-25,Basel,Full-Attention,2015-11-17,['Tanya Stephens & Royal Roots Band '],
+location,event,date,artists,genre
+Basel,Kostprobe,2015-11-17,[' Sol Gabetta '],Classic
+Zürich,Monte-Carlo,2015-11-17,['Monte Carlo '],Pop
+Zürich,De-Lá-Pra-Cá,2015-11-17,"[' Floriano Inácio Jr. ', ' João Bastos ', ' Frederico Henning ', ' Alex de Almeida ']",
+Bern,Musica-aperta-Piano-Summit,2015-11-17,"['Satoko Inoue ', ' Werner Bärtschi ', ' Moritz Ernst ', ' works by Pierre-André Bovey ']",Classic
+Zürich,Tobias-Jesso-Jr.,2015-11-17,['Tobias Jesso Jr. '],
+Zürich,Piano-Trios,2015-11-17,"['Won-Ho Kim ', ' Sayaka Selina ', ' Asako Kurita ']",Classic
+Zürich,Zürcher-Kammerorchester,2015-11-17,['Pierre-Laurent Aimard '],Classic
+Zürich,Tyler-Ward,2015-11-17,['Tyler Ward '],Pop
+Basel,Vocal-Jazz-Night,2015-11-17,"['Cecile Mc Lorin Salvant Quintet ', ' Cécile McLorin Salvant ', ' Aaron Diehl ', ' Paul Sikivie ', ' Lawrence Leathers ']",
+Zürich,Mariza,2015-11-17,['Mariza '],
+Zürich,Danko-Jones,2015-11-17,['Danko Jones '],
+Zürich,Carmen,2015-11-17,[' Stummfilm '],Classic
+null,Sinfoniekonzert,2015-11-17,['Marc Bouchkov '],Classic
+null,Naturstimmen-on-Tour,2015-11-17,"['Mariana Sadovska ', ' Outi Pulkkinen ']",
+Aarburg,Pro-Pain,2015-11-17,['Pro Pain '],
+Zürich,Antonio-Sanchez-&-Migration,2015-11-17,"[' Antonio Sanchez ', ' Seamus Blake ', ' John Escreet ', ' Matt Brewer ']",
+Rheinfelden,Ben-Williams-Quintett,2015-11-17,"[' Ben Williams ', ' Christian Sands ', ' John Davis ', ' Marcus Strickland ', ' Matt Stevens ']",
+Lugano,Chamber-Orchestra-of-Europe,2015-11-17,[' Murray Perahia '],Classic
+Luzern,Friz-Jerjen-Kuratle,2015-11-17,"[' Mathieu Friz ', ' Rafael Jerjen ', ' Clemens Kuratle ']",
+Bern,Trio-Vagón-Tango,2015-11-17,['Trio Vagón Tango '],
+Luzern,Kraftwerk-3D,2015-11-17,['Kraftwerk '],Pop
+Basel,Sunna-Gunnlaugs-Trio,2015-11-17,"['Sunna Gunnlaugs Trio ', ' Sunna Gunnlaugs ', ' Thorgrimur Jonsson ', ' Scott McLemore ']",
+Zürich,David-Krakauer,2015-11-17,"[' David Krakauer ', ' Sara Caswell ', ' Brad Jones ', ' Sheryl Bailey ', ' Rob Schwimmer ', ' John Hadfield ']",
+Düdingen,Jacuzzi-Boys,2015-11-17,['Jacuzzi Boys '],
+Lausanne,Lower-Dens,2015-11-17,['Lower Dens '],Pop
+Basel,Full-Attention,2015-11-17,['Tanya Stephens & Royal Roots Band '],

@@ -1,12 +1,12 @@
-,location,event,date,artists,genre
-0,Bern,Musik-&-Wort,2013-08-01,"['Markus Linder ', ' Marc Fitze ', ' Pfr. Ursula Dini ']",Classic
-1,Verbier,Verbier-Festival,2013-08-01,"['Leonidas Kavakos ', ' Yuja Wang ']",Classic
-2,Zürich,Mittags-Intermezzo-Orgelmusik-zur-Mittagszeit,2013-08-01,['Jürgen Sonnentheil '],Classic
-3,Verbier,Verbier-Festival,2013-08-01,"[' Maria Agresta ', ' Daniela Barcellona ', ' Francesco Meli ', ' Ildar Abdrazakov ']",Classic
-4,Verbier,Verbier-Festival,2013-08-01,"['Janine Jansen ', ' David Aaron Carpenter ', ' Frans Helmerson ', ' Eugenia Zukerman ', ' Emmanuel Laville ', ' Martin Fröst ', ' Samuel Blair ', ' David Sullivan ', ' Yuja Wang ']",Classic
-5,Frauenfeld,Sommerloch,2013-08-01,"[' Floriano Hugentobler ', ' Stefan Leuthold ', ' Stefan Leipreicht ', ' Bruno Aloe ']",
-6,Luzern,Salonmusik,2013-08-01,"['Martin Schaefer ', ' Richard Decker ']",Classic
-7,Rathausplatz,Bern,2013-08-01,"[' King Pepe ', ' Benedikt Reising ', ' Marc Stucki ', ' Andreas Tschopp ', ' Marc Unternährer ', ' Christoph Steiner ']",
-8,Lyss,Huecco-abgesagt,2013-08-01,['Huecco '],
-9,Luzern,Jam-Session,2013-08-01,['Richard Decker '],
-10,Pontresina,Mama-Bluegrass-Band,2013-08-01,['Mama Bluegrass Band '],traditional
+location,event,date,artists,genre
+Bern,Musik-&-Wort,2013-08-01,"['Markus Linder ', ' Marc Fitze ', ' Pfr. Ursula Dini ']",Classic
+Verbier,Verbier-Festival,2013-08-01,"['Leonidas Kavakos ', ' Yuja Wang ']",Classic
+Zürich,Mittags-Intermezzo-Orgelmusik-zur-Mittagszeit,2013-08-01,['Jürgen Sonnentheil '],Classic
+Verbier,Verbier-Festival,2013-08-01,"[' Maria Agresta ', ' Daniela Barcellona ', ' Francesco Meli ', ' Ildar Abdrazakov ']",Classic
+Verbier,Verbier-Festival,2013-08-01,"['Janine Jansen ', ' David Aaron Carpenter ', ' Frans Helmerson ', ' Eugenia Zukerman ', ' Emmanuel Laville ', ' Martin Fröst ', ' Samuel Blair ', ' David Sullivan ', ' Yuja Wang ']",Classic
+Frauenfeld,Sommerloch,2013-08-01,"[' Floriano Hugentobler ', ' Stefan Leuthold ', ' Stefan Leipreicht ', ' Bruno Aloe ']",
+Luzern,Salonmusik,2013-08-01,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Rathausplatz,Bern,2013-08-01,"[' King Pepe ', ' Benedikt Reising ', ' Marc Stucki ', ' Andreas Tschopp ', ' Marc Unternährer ', ' Christoph Steiner ']",
+Lyss,Huecco-abgesagt,2013-08-01,['Huecco '],
+Luzern,Jam-Session,2013-08-01,['Richard Decker '],
+Pontresina,Mama-Bluegrass-Band,2013-08-01,['Mama Bluegrass Band '],traditional

@@ -1,38 +1,38 @@
-,location,event,date,artists,genre
-0,Ettiswil,Stimmen-Festival-Ettiswil,2016-05-29,['Alexander Hacke '],Pop
-1,Zürich,Ungarn-Romantisch-volkstümlich-modern,2016-05-29,"[' David Goldzycher ', ' Mio Yamamoto ', ' Andrea Wennberg ', ' Anita Federli-Rutz ', ' Betül Ayaydin ']",Classic
-2,Zürich,Die-Maus-im-Harfenkoffer,2016-05-29,"['Sarah Verrue ', ' Lea Knecht ']",Classic
-3,Stans,Marty-OReilly-and-the-Old-Soul-Orchestra,2016-05-29,['Marty OReilly and the Old Soul Orchestra '],
-4,Zürich,Öffentlichkeitstag-der-Kunstklangkirche,2016-05-29,"[' Anna Gschwend ', ' Davide Fior ', ' Viktor Majszik ']",Classic
-5,Bern,The-Pianos-Trio,2016-05-29,"['Giorgia Tomassi ', ' Carlo Maria Griguoli ', ' Alessandro Stella ']",Classic
-6,Ettiswil,Stimmen-Festival-Ettiswil,2016-05-29,['Quartonal '],Classic
-7,Zürich,Benefizkonzert-Händel-in-England,2016-05-29,"['Aline Burla ', ' Christian Gautschi ', ' Masque Dances ']",Classic
-8,Basel,In-den-Himmel-schafft-man-es-schon-zu-Lebzeiten,2016-05-29,"[' Irina Ungureanu ', ' Riccarda Caflisch ', ' Manfred Spitaler ', ' David Sontòn Caflisch ', ' Genevieve Camenisch ', ' Christian Hieronymi ', ' Asia Ahmetjanova ']",Classic
-9,Köniz,The-Beatles-B-Side,2016-05-29,"[' Andreas Renggli ', ' André Brügger ', '  Martin Kissling ']",Classic
-10,Zürich,Lauter-Festival,2016-05-29,['Fil Bo Riva '],
-11,Laufen,Die-Familie-Bach-Ein-musikalisches-Portrait,2016-05-29,"['Regula Bernath ', ' Annette Unternährer-Gfeller ']",Classic
-12,Basel,Chalumeau-in-concert,2016-05-29,"[' Christian Leitherer ', ' Jessica Jans ']",Classic
-13,Luzern,Blasorchester-Stadtmusik-Luzern,2016-05-29,['Jonathan Salvi & Fabian Ziegler '],Classic
-14,Basel,Musik-der-Spätromantik,2016-05-29,"[' Das Konzert findet zugunsten der Kinderkrippe ""Lar das Crianças Montalegre"" in Recife ']",Classic
-15,Basel,Frühlingskonzert-Missa-de-Homine,2016-05-29,"[' Carmela Konrad ', ' Mathilde Legrand ', ' Jakob Pilgram ', ' Raphael Jud ']",Classic
-16,Zürich,Orgelkonzert,2016-05-29,['Robert Schmid '],Classic
-17,Volketswil,Liederabend,2016-05-29,"['Anja Muth ', ' Daniel Bosshard ']",Classic
-18,Zürich,Kammerorchester-La-Folia,2016-05-29,[' Viviane Hasler '],Classic
-19,Kappel-am-Albis,Musik-und-Wort,2016-05-29,[' Jürg Wenger '],traditional
-20,Zürich,Vogelhochzeit,2016-05-29,[' Remo Crivelli '],Classic
-21,Bern,Giuseppe-Verdi-Requiem,2016-05-29,"[' Benedicte Tauran ', ' Judith Lüpold ', ' José Pazos ', ' Michael Kreis ']",Classic
-22,Zürich,Sturm-und-Licht-aus-der-Romantik,2016-05-29,[' Vladyslava Luchenko '],Classic
-23,Winterthur,Winterthurer-Symphoniker,2016-05-29,['Fabio Di Càsola '],Classic
-24,Winterthur,Winterthurer-Symphoniker,2016-05-29,['Fabio Di Càsola '],Classic
-25,Bern,AC,2016-05-29,['AC/DC '],
-26,Zürich,Basel-Rajoub,2016-05-29,"[' Basel Rajoub ', ' Andrea Piccioni ', ' Lynn Adib ', ' Feras Charestan ']",
-27,Winterthur,Dave-Smalley,2016-05-29,['Dave Smalley '],Pop
-28,Luzern,Tournee-VI,2016-05-29,[' Khatia Buniatishvili '],Classic
-29,Zürich,Zakk-Wylde,2016-05-29,['Zakk Wylde '],
-30,Zürich,Mitreissend-Spanische-Barockmusik,2016-05-29,"['Nils Mönkemeyer ', ' Sabine Erdmann ', ' Andreas Arend ', ' Klaus-Dieter Brandt ']",Classic
-31,Winterthur,Bendorim,2016-05-29,"[' Dela Hüttner ', ' Karin Meier ', ' Stefanie Kunckler ', ' Jürg Luchsinger ']",
-32,Winterthur,The-Paradise-Bangkok-Molam-International-Band,2016-05-29,['The Paradise Bangkok Molam International Band '],
-33,Winterthur,The-Paradise-Bangkok-Molam-International-Band,2016-05-29,['The Paradise Bangkok Molam International Band '],
-34,Zürich,Vielstimmig-vielsaitig-vielversprechend,2016-05-29,"['Sarah Calörtscher ', ' Lisa Kägi ', ' Sarah Krähenbühl ', ' Irene Sibler ', ' Anna-Raphaela Moser ']",Pop
-35,Zürich,Pierre-Favre-mit-Solar-Wheel,2016-05-29,"[' Daniele Di Bonaventura ', ' Pierre Favre ']",
-36,Bern,Baumon-Favre-Jukebox,2016-05-29,"[' Florian Favre ', ' Simon Baumann ']",Electronic
+location,event,date,artists,genre
+Ettiswil,Stimmen-Festival-Ettiswil,2016-05-29,['Alexander Hacke '],Pop
+Zürich,Ungarn-Romantisch-volkstümlich-modern,2016-05-29,"[' David Goldzycher ', ' Mio Yamamoto ', ' Andrea Wennberg ', ' Anita Federli-Rutz ', ' Betül Ayaydin ']",Classic
+Zürich,Die-Maus-im-Harfenkoffer,2016-05-29,"['Sarah Verrue ', ' Lea Knecht ']",Classic
+Stans,Marty-OReilly-and-the-Old-Soul-Orchestra,2016-05-29,['Marty OReilly and the Old Soul Orchestra '],
+Zürich,Öffentlichkeitstag-der-Kunstklangkirche,2016-05-29,"[' Anna Gschwend ', ' Davide Fior ', ' Viktor Majszik ']",Classic
+Bern,The-Pianos-Trio,2016-05-29,"['Giorgia Tomassi ', ' Carlo Maria Griguoli ', ' Alessandro Stella ']",Classic
+Ettiswil,Stimmen-Festival-Ettiswil,2016-05-29,['Quartonal '],Classic
+Zürich,Benefizkonzert-Händel-in-England,2016-05-29,"['Aline Burla ', ' Christian Gautschi ', ' Masque Dances ']",Classic
+Basel,In-den-Himmel-schafft-man-es-schon-zu-Lebzeiten,2016-05-29,"[' Irina Ungureanu ', ' Riccarda Caflisch ', ' Manfred Spitaler ', ' David Sontòn Caflisch ', ' Genevieve Camenisch ', ' Christian Hieronymi ', ' Asia Ahmetjanova ']",Classic
+Köniz,The-Beatles-B-Side,2016-05-29,"[' Andreas Renggli ', ' André Brügger ', '  Martin Kissling ']",Classic
+Zürich,Lauter-Festival,2016-05-29,['Fil Bo Riva '],
+Laufen,Die-Familie-Bach-Ein-musikalisches-Portrait,2016-05-29,"['Regula Bernath ', ' Annette Unternährer-Gfeller ']",Classic
+Basel,Chalumeau-in-concert,2016-05-29,"[' Christian Leitherer ', ' Jessica Jans ']",Classic
+Luzern,Blasorchester-Stadtmusik-Luzern,2016-05-29,['Jonathan Salvi & Fabian Ziegler '],Classic
+Basel,Musik-der-Spätromantik,2016-05-29,"[' Das Konzert findet zugunsten der Kinderkrippe ""Lar das Crianças Montalegre"" in Recife ']",Classic
+Basel,Frühlingskonzert-Missa-de-Homine,2016-05-29,"[' Carmela Konrad ', ' Mathilde Legrand ', ' Jakob Pilgram ', ' Raphael Jud ']",Classic
+Zürich,Orgelkonzert,2016-05-29,['Robert Schmid '],Classic
+Volketswil,Liederabend,2016-05-29,"['Anja Muth ', ' Daniel Bosshard ']",Classic
+Zürich,Kammerorchester-La-Folia,2016-05-29,[' Viviane Hasler '],Classic
+Kappel-am-Albis,Musik-und-Wort,2016-05-29,[' Jürg Wenger '],traditional
+Zürich,Vogelhochzeit,2016-05-29,[' Remo Crivelli '],Classic
+Bern,Giuseppe-Verdi-Requiem,2016-05-29,"[' Benedicte Tauran ', ' Judith Lüpold ', ' José Pazos ', ' Michael Kreis ']",Classic
+Zürich,Sturm-und-Licht-aus-der-Romantik,2016-05-29,[' Vladyslava Luchenko '],Classic
+Winterthur,Winterthurer-Symphoniker,2016-05-29,['Fabio Di Càsola '],Classic
+Winterthur,Winterthurer-Symphoniker,2016-05-29,['Fabio Di Càsola '],Classic
+Bern,AC,2016-05-29,['AC/DC '],
+Zürich,Basel-Rajoub,2016-05-29,"[' Basel Rajoub ', ' Andrea Piccioni ', ' Lynn Adib ', ' Feras Charestan ']",
+Winterthur,Dave-Smalley,2016-05-29,['Dave Smalley '],Pop
+Luzern,Tournee-VI,2016-05-29,[' Khatia Buniatishvili '],Classic
+Zürich,Zakk-Wylde,2016-05-29,['Zakk Wylde '],
+Zürich,Mitreissend-Spanische-Barockmusik,2016-05-29,"['Nils Mönkemeyer ', ' Sabine Erdmann ', ' Andreas Arend ', ' Klaus-Dieter Brandt ']",Classic
+Winterthur,Bendorim,2016-05-29,"[' Dela Hüttner ', ' Karin Meier ', ' Stefanie Kunckler ', ' Jürg Luchsinger ']",
+Winterthur,The-Paradise-Bangkok-Molam-International-Band,2016-05-29,['The Paradise Bangkok Molam International Band '],
+Winterthur,The-Paradise-Bangkok-Molam-International-Band,2016-05-29,['The Paradise Bangkok Molam International Band '],
+Zürich,Vielstimmig-vielsaitig-vielversprechend,2016-05-29,"['Sarah Calörtscher ', ' Lisa Kägi ', ' Sarah Krähenbühl ', ' Irene Sibler ', ' Anna-Raphaela Moser ']",Pop
+Zürich,Pierre-Favre-mit-Solar-Wheel,2016-05-29,"[' Daniele Di Bonaventura ', ' Pierre Favre ']",
+Bern,Baumon-Favre-Jukebox,2016-05-29,"[' Florian Favre ', ' Simon Baumann ']",Electronic

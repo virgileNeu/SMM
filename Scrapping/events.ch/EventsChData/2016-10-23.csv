@@ -1,25 +1,25 @@
-,location,event,date,artists,genre
-0,null,Junges-Podium,2016-10-23,['Gabriele Carcano '],Classic
-1,Zürich,Aus-der-neuen-Welt,2016-10-23,"[' Stewart Goodyear ', ' Angélique Boudeville ']",Classic
-2,Zürich,Kärnzeit,2016-10-23,['Kärnzeit '],Pop
-3,Zürich,Kiwanis-Preisträgerkonzert,2016-10-23,"['Arata Yumi ', ' Christina-Maria Moser ', ' Isabel Gehweiler ', ' Nadja Reich ', ' Yulia Miloslavskaya ', ' Laura Dabels ']",Classic
-4,Basel,Orgel-und-Kammermusik-in-der-Tituskirche,2016-10-23,"['Martin Gebhardt ', ' Roswitha Killian ', ' Susanne Jenne-Linde ']",Classic
-5,Zürich,Herbstkonzert-Feuilles-d'automne,2016-10-23,[' Seline Jetzer '],Classic
-6,Muttenz,ZIKR,2016-10-23,"[' Christian Zehnder ', ' works by Zehnder ']",Classic
-7,null,Herbstkonzert,2016-10-23,"[' Hanna Morell ', ' Cornelius Glaus\t', ' Heinz Bussmann ', ' Ulf Friedrichs ']",Classic
-8,Chur,Canziano,2016-10-23,"['Joshua Broger ', ' Hans Peter Egli ']",Classic
-9,Rapperswil,Konzert-für-den-Frieden,2016-10-23,"['Ljupka Rac ', ' Jovana Radovanovic ']",Classic
-10,null,An-die-Hoffnung,2016-10-23,"['Andreas Müller ', ' Judith Flury ']",Classic
-11,Zürich,20-Jahre-Cantarte-Jubiläumskonzert,2016-10-23,"[' Maeder ', ' Legrand ', ' Bentz ', ' Curo Mani ', ' Cho-Nitschke ']",Classic
-12,Basel,El-calderón-afrolatino,2016-10-23,"[' Roberto Pulido ', ' René Mosele ', ' Bernhard Bamert ', ' Reto Manser ', ' André Buser ', ' Michael Wipf ']",
-13,Luzern,Vulcain-Jazz-Classics,2016-10-23,"[' Dee Dee Bridgewater ', ' Theo Croker ', ' Irwin Hall ', ' Michael King ', ' Erich Wheeler ', ' Kassa Overall ']",
-14,Zürich,Omri-Ziegele-Tomorrow-Trio,2016-10-23,"[' Omri  Ziegele ', ' Christian  Weber ', ' Han  Bennink ']",
-15,Bern,Verbier-Festival-Chamber-Orchestra,2016-10-23,['Regula Mühlemann '],Classic
-16,Zürich,Galakonzert-zu-Nello-Santis-85.-Geburtstag,2016-10-23,[' Adriana Marfisi '],Classic
-17,null,Baloise-Session,2016-10-23,"['Alvaro Soler ', ' Rodrigo y Gabriela ']",
-18,Pratteln,The-Dublin-Legends,2016-10-23,"['The Dublin Legends ', ' Eamonn Campbell ', ' Seán Cannon Gitarre ', "" Gerry O'Connor "", ' Paul Watchorn ']",
-19,Solothurn,The-Janoskians,2016-10-23,['The Janoskians '],Pop
-20,Luzern,New-Model-Army,2016-10-23,['New Model Army '],
-21,null,Gregory-Porter-&-Band,2016-10-23,"['Gregory Porter & Band ', ' Gregory Porter ', ' Tivon Pennicott ', ' Chip Crawford ', ' Jahmal Nichols ', ' Emanuel Harrold ']",
-22,Zürich,Hely,2016-10-23,"[' Lucca Fries ', ' Jonas Ruther ']",
-23,Düdingen,Plaid-and-the-Bee,2016-10-23,['Plaid and the Bee '],Electronic
+location,event,date,artists,genre
+null,Junges-Podium,2016-10-23,['Gabriele Carcano '],Classic
+Zürich,Aus-der-neuen-Welt,2016-10-23,"[' Stewart Goodyear ', ' Angélique Boudeville ']",Classic
+Zürich,Kärnzeit,2016-10-23,['Kärnzeit '],Pop
+Zürich,Kiwanis-Preisträgerkonzert,2016-10-23,"['Arata Yumi ', ' Christina-Maria Moser ', ' Isabel Gehweiler ', ' Nadja Reich ', ' Yulia Miloslavskaya ', ' Laura Dabels ']",Classic
+Basel,Orgel-und-Kammermusik-in-der-Tituskirche,2016-10-23,"['Martin Gebhardt ', ' Roswitha Killian ', ' Susanne Jenne-Linde ']",Classic
+Zürich,Herbstkonzert-Feuilles-d'automne,2016-10-23,[' Seline Jetzer '],Classic
+Muttenz,ZIKR,2016-10-23,"[' Christian Zehnder ', ' works by Zehnder ']",Classic
+null,Herbstkonzert,2016-10-23,"[' Hanna Morell ', ' Cornelius Glaus\t', ' Heinz Bussmann ', ' Ulf Friedrichs ']",Classic
+Chur,Canziano,2016-10-23,"['Joshua Broger ', ' Hans Peter Egli ']",Classic
+Rapperswil,Konzert-für-den-Frieden,2016-10-23,"['Ljupka Rac ', ' Jovana Radovanovic ']",Classic
+null,An-die-Hoffnung,2016-10-23,"['Andreas Müller ', ' Judith Flury ']",Classic
+Zürich,20-Jahre-Cantarte-Jubiläumskonzert,2016-10-23,"[' Maeder ', ' Legrand ', ' Bentz ', ' Curo Mani ', ' Cho-Nitschke ']",Classic
+Basel,El-calderón-afrolatino,2016-10-23,"[' Roberto Pulido ', ' René Mosele ', ' Bernhard Bamert ', ' Reto Manser ', ' André Buser ', ' Michael Wipf ']",
+Luzern,Vulcain-Jazz-Classics,2016-10-23,"[' Dee Dee Bridgewater ', ' Theo Croker ', ' Irwin Hall ', ' Michael King ', ' Erich Wheeler ', ' Kassa Overall ']",
+Zürich,Omri-Ziegele-Tomorrow-Trio,2016-10-23,"[' Omri  Ziegele ', ' Christian  Weber ', ' Han  Bennink ']",
+Bern,Verbier-Festival-Chamber-Orchestra,2016-10-23,['Regula Mühlemann '],Classic
+Zürich,Galakonzert-zu-Nello-Santis-85.-Geburtstag,2016-10-23,[' Adriana Marfisi '],Classic
+null,Baloise-Session,2016-10-23,"['Alvaro Soler ', ' Rodrigo y Gabriela ']",
+Pratteln,The-Dublin-Legends,2016-10-23,"['The Dublin Legends ', ' Eamonn Campbell ', ' Seán Cannon Gitarre ', "" Gerry O'Connor "", ' Paul Watchorn ']",
+Solothurn,The-Janoskians,2016-10-23,['The Janoskians '],Pop
+Luzern,New-Model-Army,2016-10-23,['New Model Army '],
+null,Gregory-Porter-&-Band,2016-10-23,"['Gregory Porter & Band ', ' Gregory Porter ', ' Tivon Pennicott ', ' Chip Crawford ', ' Jahmal Nichols ', ' Emanuel Harrold ']",
+Zürich,Hely,2016-10-23,"[' Lucca Fries ', ' Jonas Ruther ']",
+Düdingen,Plaid-and-the-Bee,2016-10-23,['Plaid and the Bee '],Electronic

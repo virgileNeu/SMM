@@ -1,23 +1,23 @@
-,location,event,date,artists,genre
-0,Basel,Clair-de-lune,2015-03-04,['Yulia Draginda '],Classic
-1,Zürich,Stefis-Geheimnis,2015-03-04,"['Noëlle Grüebler ', ' Andrea Wiesli ']",Classic
-2,Zürich,Dechen-Shak-Dagsay-&-Ensemble,2015-03-04,['Dechen Shak-Dagsay & Ensemble '],
-3,Zürich,Geistliche-und-folkloristische-Chormusik,2015-03-04,['Vokalensemble Voskresenje St. Petersburg '],Classic
-4,Zürich,En-blanc-et-noir,2015-03-04,"[' Jens Bracher ', ' Stephen Menotti ', ' José Navarro ', ' Martin Birnstiel ', ' Victor Barceló ', ' Jannik Giger ']",Classic
-5,Zürich,Internationales-Country-Music-Festival,2015-03-04,['High South '],
-6,Zug,Keynote-Jazz,2015-03-04,"[' Fabienne Ambühl ', ' Vincent Glanzmann ', ' Yuri Goloubev ']",
-7,Zürich,Lilabungalow,2015-03-04,"['Lilabungalow ', ' René Kolditz ', ' David Bönsch ']",Pop
-8,Winterthur,Brns,2015-03-04,['Brns '],Pop
-9,Zürich,Asa,2015-03-04,['Asa '],Pop
-10,Zürich,Jazzbaragge-Wednesday-Jam,2015-03-04,"['Cesar Correa ', ' Rodrigo Aravena ', ' David Stauffacher ']",
-11,Zürich,Pat-&-the-Ricks,2015-03-04,"[' Steffen Arpagaus ', ' Kriz Flew ', ' Michael Felder ', ' Patrick Oriet ', ' Peter Leuzinger ', ' Stefan Blum ']",
-12,Baden,Endlich-Mittwoch-Pianoplus,2015-03-04,"['Rahel Sohn ', ' Max Frankl ']",
-13,Winterthur,Jazz-am-Mittwoch,2015-03-04,"[' Christian Zehnder ', ' Gregor Hilbe ', ' Matthias Loibner ']",
-14,Thalwil,Musique-en-Route,2015-03-04,"[' Tom Tafel ', ' Stefanie Hess ', ' Ronny Spiegel ', ' Ariel Rossi ']",
-15,Basel,Joey-de-Francesco-Trio,2015-03-04,"['Joey de Francesco Trio ', ' Joey De Francesco ', ' Dan Wilson ', ' Jason Brown ']",
-16,Basel,Guitarorama,2015-03-04,"[' Tomas Sauter ', ' Daniel Schläppi ']",
-17,Zürich,The-Kelley-McRae-Duo,2015-03-04,['The Kelley McRae Duo '],
-18,Zürich,Emel-Mathlouthi,2015-03-04,"['Emel Mathlouthi ', ' Emel Mathlouthi ', ' Emmanuel Trouvé ', ' Imed Alibi ', ' Shawn Crowder ']",
-19,Bern,Omer-Klein-Trio,2015-03-04,"['Omer Klein Trio ', ' Omer Klein ', ' Haggai Cohen Milo ', ' Amir Bresler ']",
-20,Baden,Os-Desafinados,2015-03-04,"[' Dalia Donadio ', ' Moreno Donadio ']",
-21,Rubigen,Popa-Chubby,2015-03-04,['Popa Chubby '],
+location,event,date,artists,genre
+Basel,Clair-de-lune,2015-03-04,['Yulia Draginda '],Classic
+Zürich,Stefis-Geheimnis,2015-03-04,"['Noëlle Grüebler ', ' Andrea Wiesli ']",Classic
+Zürich,Dechen-Shak-Dagsay-&-Ensemble,2015-03-04,['Dechen Shak-Dagsay & Ensemble '],
+Zürich,Geistliche-und-folkloristische-Chormusik,2015-03-04,['Vokalensemble Voskresenje St. Petersburg '],Classic
+Zürich,En-blanc-et-noir,2015-03-04,"[' Jens Bracher ', ' Stephen Menotti ', ' José Navarro ', ' Martin Birnstiel ', ' Victor Barceló ', ' Jannik Giger ']",Classic
+Zürich,Internationales-Country-Music-Festival,2015-03-04,['High South '],
+Zug,Keynote-Jazz,2015-03-04,"[' Fabienne Ambühl ', ' Vincent Glanzmann ', ' Yuri Goloubev ']",
+Zürich,Lilabungalow,2015-03-04,"['Lilabungalow ', ' René Kolditz ', ' David Bönsch ']",Pop
+Winterthur,Brns,2015-03-04,['Brns '],Pop
+Zürich,Asa,2015-03-04,['Asa '],Pop
+Zürich,Jazzbaragge-Wednesday-Jam,2015-03-04,"['Cesar Correa ', ' Rodrigo Aravena ', ' David Stauffacher ']",
+Zürich,Pat-&-the-Ricks,2015-03-04,"[' Steffen Arpagaus ', ' Kriz Flew ', ' Michael Felder ', ' Patrick Oriet ', ' Peter Leuzinger ', ' Stefan Blum ']",
+Baden,Endlich-Mittwoch-Pianoplus,2015-03-04,"['Rahel Sohn ', ' Max Frankl ']",
+Winterthur,Jazz-am-Mittwoch,2015-03-04,"[' Christian Zehnder ', ' Gregor Hilbe ', ' Matthias Loibner ']",
+Thalwil,Musique-en-Route,2015-03-04,"[' Tom Tafel ', ' Stefanie Hess ', ' Ronny Spiegel ', ' Ariel Rossi ']",
+Basel,Joey-de-Francesco-Trio,2015-03-04,"['Joey de Francesco Trio ', ' Joey De Francesco ', ' Dan Wilson ', ' Jason Brown ']",
+Basel,Guitarorama,2015-03-04,"[' Tomas Sauter ', ' Daniel Schläppi ']",
+Zürich,The-Kelley-McRae-Duo,2015-03-04,['The Kelley McRae Duo '],
+Zürich,Emel-Mathlouthi,2015-03-04,"['Emel Mathlouthi ', ' Emel Mathlouthi ', ' Emmanuel Trouvé ', ' Imed Alibi ', ' Shawn Crowder ']",
+Bern,Omer-Klein-Trio,2015-03-04,"['Omer Klein Trio ', ' Omer Klein ', ' Haggai Cohen Milo ', ' Amir Bresler ']",
+Baden,Os-Desafinados,2015-03-04,"[' Dalia Donadio ', ' Moreno Donadio ']",
+Rubigen,Popa-Chubby,2015-03-04,['Popa Chubby '],

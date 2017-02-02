@@ -1,13 +1,13 @@
-,location,event,date,artists,genre
-0,Kriens,Tanz-und-Tapir,2015-03-02,"['Marcelo Nisinman ', ' Maurizio Grandinetti ', ' Heiner Reich ']",Classic
-1,Zürich,Konzert,2015-03-02,"['Caroline Goulding ', ' Danae Dörken ']",Classic
-2,Basel,Cis-Cembalomusik-in-Basel,2015-03-02,['E.M. Pollerus '],Classic
-3,Zürich,Musikpodium-der-Stadt-Zürich-Ode-und-Kontrapunkt,2015-03-02,[' Petra Ronner '],Classic
-4,Luzern,Unplugged-Easy-Monday,2015-03-02,"['Lukas Gernet ', ' Lukas Traxel ', ' Sämi Büttiker ', ' Lea Fries ']",Pop
-5,Zürich,Together-Pangea,2015-03-02,['Together Pangea '],
-6,Baden,Christian-Niederer's-Plan,2015-03-02,"[' Oliver Keller ', ' Björn Meyer ', ' Christian Niederer ']",
-7,Zürich,Steve-Wynn-&-Dan-Stuart,2015-03-02,['Steve Wynn & Dan Stuart '],Pop
-8,Aarau,Frontier-Ruckus,2015-03-02,['Frontier Ruckus '],
-9,Zürich,Artist-in-Residence-Herbert-Kramis,2015-03-02,"[' Michael Gassmann ', ' Herbert Kramis ', ' Sophie Lüssi ', ' Martin Bauder ', ' Rahel Zellweger ', ' Andreas Ochsner ']",
-10,Zürich,Courtis-Buess-Peter,2015-03-02,"[' Alan Courtis ', ' Daniel Buess ', ' Thomas Peter ']",
-11,Düdingen,Cult-of-Youth,2015-03-02,['Cult of Youth '],
+location,event,date,artists,genre
+Kriens,Tanz-und-Tapir,2015-03-02,"['Marcelo Nisinman ', ' Maurizio Grandinetti ', ' Heiner Reich ']",Classic
+Zürich,Konzert,2015-03-02,"['Caroline Goulding ', ' Danae Dörken ']",Classic
+Basel,Cis-Cembalomusik-in-Basel,2015-03-02,['E.M. Pollerus '],Classic
+Zürich,Musikpodium-der-Stadt-Zürich-Ode-und-Kontrapunkt,2015-03-02,[' Petra Ronner '],Classic
+Luzern,Unplugged-Easy-Monday,2015-03-02,"['Lukas Gernet ', ' Lukas Traxel ', ' Sämi Büttiker ', ' Lea Fries ']",Pop
+Zürich,Together-Pangea,2015-03-02,['Together Pangea '],
+Baden,Christian-Niederer's-Plan,2015-03-02,"[' Oliver Keller ', ' Björn Meyer ', ' Christian Niederer ']",
+Zürich,Steve-Wynn-&-Dan-Stuart,2015-03-02,['Steve Wynn & Dan Stuart '],Pop
+Aarau,Frontier-Ruckus,2015-03-02,['Frontier Ruckus '],
+Zürich,Artist-in-Residence-Herbert-Kramis,2015-03-02,"[' Michael Gassmann ', ' Herbert Kramis ', ' Sophie Lüssi ', ' Martin Bauder ', ' Rahel Zellweger ', ' Andreas Ochsner ']",
+Zürich,Courtis-Buess-Peter,2015-03-02,"[' Alan Courtis ', ' Daniel Buess ', ' Thomas Peter ']",
+Düdingen,Cult-of-Youth,2015-03-02,['Cult of Youth '],

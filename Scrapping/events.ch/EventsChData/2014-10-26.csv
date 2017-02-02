@@ -1,41 +1,41 @@
-,location,event,date,artists,genre
-0,Basel,Kinderkonzert-für-Klangfüchse,2014-10-26,"[' Matthias Würsch ', ' Mariana Streiff-Doughty ']",Classic
-1,Zürich,Erntedankfest,2014-10-26,"[' Manfred Welti ', ' Niklaus Ziegler ', ' Hans Britschgi ', ' Andreas Jost ', ' Psalmen von Peter Roth ']",Classic
-2,Zürich,Konzert,2014-10-26,"['Katharina Weissenbacher ', ' Dimitri Ashkenazy ', ' Katia Braunschweiler ']",Classic
-3,Aarau,Fröhliche-Werkstatt,2014-10-26,['Ensemble Prisma '],Classic
-4,Winterthur,Hans-im-Glück-Familienkonzert,2014-10-26,[' Leo Bachmann '],Classic
-5,Zürich,Konzert-Matinée,2014-10-26,"['Anja Röhn ', ' Ulrich Koella ']",Classic
-6,Zürich,Zürich-liest-Tango-Galore,2014-10-26,"['Sanna Pietiäinen ', ' Jani Uhlenius ']",
-7,Zürich,Spanische-Lüfte,2014-10-26,"['David Goldzycher ', ' Mio Yamamoto ', ' Andrea Wennberg ', ' Anita Federli-Rutz ', ' Mariam Renno-Boccali ']",
-8,Basel,Kinderkonzert-für-Klangfüchse,2014-10-26,"[' Matthias Würsch ', ' Mariana Streiff-Doughty ']",Classic
-9,Zürich,Operissima,2014-10-26,"['Fabio Di Càsola ', ' Alena Cherny ']",Classic
-10,Zürich,Die-Schlagernacht-des-Jahres,2014-10-26,"['Andreas Gabalier ', ' Hansi Hinterseer ', ' Semino Rossi ']",traditional
-11,Solothurn,Chinderland,2014-10-26,['Chinderland '],Pop
-12,Zürich,Fröhliche-Werkstatt-zum-150.-Geburtstag-von-Richard-Strauss,2014-10-26,[' Ensemble Prisma '],Classic
-13,Basel,Orgel-und-Kammermusik,2014-10-26,"['Cristina Bot ', ' Susanne Jenne-Linde ']",Classic
-14,null,2.-Tonhallekonzert,2014-10-26,['Lawrence Power '],Classic
-15,null,Stradivaris-Geschenk,2014-10-26,"[' Sandro Tigishvili ', ' Kristian Trafelet ']",Classic
-16,-Alte-Kirche,Boswil,2014-10-26,"['Louis Mazetier ', ' Bernd Lhotzky ', ' Chris Hopkins ']",
-17,Zürich,Die-Sintflut,2014-10-26,[' Raffaele Lunardi '],Classic
-18,Zürich,Infinite-Landscapes,2014-10-26,['Immanuel Witschi '],
-19,Zürich,Konzert,2014-10-26,[' Juho Pohjonen '],Classic
-20,Winterthur,Songs-und-so,2014-10-26,"[' Annette Rüegg ', ' Jojo Kunz ', ' Pancha Hämmerli ']",
-21,Waldstatt,Gedenkkonzert-zum-20.-Todestag-Otto-Bruderers,2014-10-26,"['Pamela Stahel ', ' Jasmine Vollmer ']",Classic
-22,Basel,El-calderón-afrolatino,2014-10-26,"[' Roberto Pulido ', ' René Mosele ', ' Bernhard Bamert ', ' Reto Manser ', ' André Buser ', ' Michael Wipf ', ' Sebastién Gagneux ']",
-23,Bazenheid,Harfe-Violine-Visuelles,2014-10-26,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-24,Zürich,Panzerballett,2014-10-26,"['Panzerballet ', ' Jan Zehrfeld ', ' Josef Doblhofer ', ' Alexander von Hagke ', ' Heiko Jung ', ' Sebastian Lanser ']",
-25,Aeugstertal,Harlequin's-Glance,2014-10-26,"[""Harlequin's Glance ""]",
-26,Zürich,Bilal,2014-10-26,"['Bilal ', ' Bilal Oliver ', ' Micah Robinson ', ' Corey Bernhard ', ' Ed Riches ', ' Conley Whitfield Jr. ', ' Steve Mckie ']",Pop
-27,Bern,Migros-Kulturprozent-Classics,2014-10-26,[' Rudolf Buchbinder '],Classic
-28,Winterthur,Wisler-Eberhard,2014-10-26,"[' Dänu Wisler ', ' Jo Eberhard ']",
-29,Bern,Migros-Kulturprozent-Classics,2014-10-26,[' Rudolf Buchbinder '],Classic
-30,Zürich,Tom-Freund,2014-10-26,['Tom Freund '],Pop
-31,Basel,Baloise-Session-Storytellers,2014-10-26,['Amy Macdonald '],Pop
-32,Münchenstein,Metropolis,2014-10-26,[' Stummfilm von Fritz Lang '],Classic
-33,Zürich,Kill-It-Kid,2014-10-26,['Kill It Kid '],
-34,Zürich,Swanky-Mothers'-Series-XIX,2014-10-26,"[' Jonas Labhart ', ' Marius Peyer ', ' Urs Peyer ']",
-35,Bern,Alif-Ensemble,2014-10-26,['Alif Ensemble '],
-36,Bern,Sébastien-Tellier,2014-10-26,['Sébastien Tellier '],Pop
-37,Sankt-Gallen,Andy-Guhl,2014-10-26,[' Femme '],Electronic
-38,Bern,1-a-Grind,2014-10-26,['Humiliation '],
-39,null,Xeno-&-Oaklander,2014-10-26,['Xeno & Oaklander '],Electronic
+location,event,date,artists,genre
+Basel,Kinderkonzert-für-Klangfüchse,2014-10-26,"[' Matthias Würsch ', ' Mariana Streiff-Doughty ']",Classic
+Zürich,Erntedankfest,2014-10-26,"[' Manfred Welti ', ' Niklaus Ziegler ', ' Hans Britschgi ', ' Andreas Jost ', ' Psalmen von Peter Roth ']",Classic
+Zürich,Konzert,2014-10-26,"['Katharina Weissenbacher ', ' Dimitri Ashkenazy ', ' Katia Braunschweiler ']",Classic
+Aarau,Fröhliche-Werkstatt,2014-10-26,['Ensemble Prisma '],Classic
+Winterthur,Hans-im-Glück-Familienkonzert,2014-10-26,[' Leo Bachmann '],Classic
+Zürich,Konzert-Matinée,2014-10-26,"['Anja Röhn ', ' Ulrich Koella ']",Classic
+Zürich,Zürich-liest-Tango-Galore,2014-10-26,"['Sanna Pietiäinen ', ' Jani Uhlenius ']",
+Zürich,Spanische-Lüfte,2014-10-26,"['David Goldzycher ', ' Mio Yamamoto ', ' Andrea Wennberg ', ' Anita Federli-Rutz ', ' Mariam Renno-Boccali ']",
+Basel,Kinderkonzert-für-Klangfüchse,2014-10-26,"[' Matthias Würsch ', ' Mariana Streiff-Doughty ']",Classic
+Zürich,Operissima,2014-10-26,"['Fabio Di Càsola ', ' Alena Cherny ']",Classic
+Zürich,Die-Schlagernacht-des-Jahres,2014-10-26,"['Andreas Gabalier ', ' Hansi Hinterseer ', ' Semino Rossi ']",traditional
+Solothurn,Chinderland,2014-10-26,['Chinderland '],Pop
+Zürich,Fröhliche-Werkstatt-zum-150.-Geburtstag-von-Richard-Strauss,2014-10-26,[' Ensemble Prisma '],Classic
+Basel,Orgel-und-Kammermusik,2014-10-26,"['Cristina Bot ', ' Susanne Jenne-Linde ']",Classic
+null,2.-Tonhallekonzert,2014-10-26,['Lawrence Power '],Classic
+null,Stradivaris-Geschenk,2014-10-26,"[' Sandro Tigishvili ', ' Kristian Trafelet ']",Classic
+-Alte-Kirche,Boswil,2014-10-26,"['Louis Mazetier ', ' Bernd Lhotzky ', ' Chris Hopkins ']",
+Zürich,Die-Sintflut,2014-10-26,[' Raffaele Lunardi '],Classic
+Zürich,Infinite-Landscapes,2014-10-26,['Immanuel Witschi '],
+Zürich,Konzert,2014-10-26,[' Juho Pohjonen '],Classic
+Winterthur,Songs-und-so,2014-10-26,"[' Annette Rüegg ', ' Jojo Kunz ', ' Pancha Hämmerli ']",
+Waldstatt,Gedenkkonzert-zum-20.-Todestag-Otto-Bruderers,2014-10-26,"['Pamela Stahel ', ' Jasmine Vollmer ']",Classic
+Basel,El-calderón-afrolatino,2014-10-26,"[' Roberto Pulido ', ' René Mosele ', ' Bernhard Bamert ', ' Reto Manser ', ' André Buser ', ' Michael Wipf ', ' Sebastién Gagneux ']",
+Bazenheid,Harfe-Violine-Visuelles,2014-10-26,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
+Zürich,Panzerballett,2014-10-26,"['Panzerballet ', ' Jan Zehrfeld ', ' Josef Doblhofer ', ' Alexander von Hagke ', ' Heiko Jung ', ' Sebastian Lanser ']",
+Aeugstertal,Harlequin's-Glance,2014-10-26,"[""Harlequin's Glance ""]",
+Zürich,Bilal,2014-10-26,"['Bilal ', ' Bilal Oliver ', ' Micah Robinson ', ' Corey Bernhard ', ' Ed Riches ', ' Conley Whitfield Jr. ', ' Steve Mckie ']",Pop
+Bern,Migros-Kulturprozent-Classics,2014-10-26,[' Rudolf Buchbinder '],Classic
+Winterthur,Wisler-Eberhard,2014-10-26,"[' Dänu Wisler ', ' Jo Eberhard ']",
+Bern,Migros-Kulturprozent-Classics,2014-10-26,[' Rudolf Buchbinder '],Classic
+Zürich,Tom-Freund,2014-10-26,['Tom Freund '],Pop
+Basel,Baloise-Session-Storytellers,2014-10-26,['Amy Macdonald '],Pop
+Münchenstein,Metropolis,2014-10-26,[' Stummfilm von Fritz Lang '],Classic
+Zürich,Kill-It-Kid,2014-10-26,['Kill It Kid '],
+Zürich,Swanky-Mothers'-Series-XIX,2014-10-26,"[' Jonas Labhart ', ' Marius Peyer ', ' Urs Peyer ']",
+Bern,Alif-Ensemble,2014-10-26,['Alif Ensemble '],
+Bern,Sébastien-Tellier,2014-10-26,['Sébastien Tellier '],Pop
+Sankt-Gallen,Andy-Guhl,2014-10-26,[' Femme '],Electronic
+Bern,1-a-Grind,2014-10-26,['Humiliation '],
+null,Xeno-&-Oaklander,2014-10-26,['Xeno & Oaklander '],Electronic

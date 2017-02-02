@@ -1,35 +1,35 @@
-,location,event,date,artists,genre
-0,Basel,Midi-Musique,2015-12-19,[' Annie Dufresne '],Classic
-1,Winterthur,Samstagsmatinée,2015-12-19,"['Bernhard Bamert ', ' Thomas Lüthi ']",Classic
-2,Zürich,Unvergessliche-Operettenmelodien,2015-12-19,"['John Thade ', ' Annkatrin Isaacs ']",Classic
-3,Zürich,Werner-und-Company,2015-12-19,['Werner und Company '],Pop
-4,Basel,Kammerkonzert,2015-12-19,['Cyprian Kohut '],Classic
-5,Luzern,Carmatango,2015-12-19,['Carmatango '],
-6,Luzern,Messiah-Lucerne-Chamber-Circle,2015-12-19,"[' Sarah Tynan ', ' Lestyn Davies ', ' Stuart Jackson ', ' Neal Davies ']",Classic
-7,Luzern,Linden-Quartett,2015-12-19,"[' Renato Wiedemann ', ' Milena Bonaventurova ', ' Mari Kobayashi ', ' Rupert Hunz ']",Classic
-8,Zürich,Saybia,2015-12-19,['Saybia '],Pop
-9,Basel,Musik-der-Romantik,2015-12-19,"[' Claudia von Tilzer ', ' Tobias Wicky ']",Classic
-10,Aarau,Klavierrezital,2015-12-19,"['Raúl de la Mora ', ' Héctor Ocampo ']",Classic
-11,Zürich,Akademisches-Orchester-Zürich,2015-12-19,['Claire Huangci '],Classic
-12,Zürich,Florence-&-The-Machine,2015-12-19,"['Florence & The Machine ', ' Palma Violets ']",Pop
-13,Rheinfelden,The-Piccadilly-Six,2015-12-19,"[' John Service ', ' Günter Sellenath ', ' Jerry Gabriel ', ' Hermann Bruderhofer ', ' Chris Haskins ', ' Jimmy Garforth ']",
-14,Rheinfelden,The-Picadilly-Six,2015-12-19,"[' John Service ', ' Günter Sellenath ', ' Jerry Gabriel ', ' Herrmann Bruderhofer ']",
-15,Zürich,Édith-Piaf-Petite-grande-dame,2015-12-19,"['Licia Chery ', ' Sylphe ', ' Alexandre Pelichet ', ' Felix Raffel ', ' g) Felix Haller ', ' g) Florian Arnicas ']",Pop
-16,Thun,The-Pelicans,2015-12-19,"[' ', ' Stefan Moser ', ' Sascha Tollardo ', ' Cello Hertner ', ' Reto Vollenweider ']",
-17,Uster,Tripped-Tychon,2015-12-19,"[' Andreas Schaerer ', ' Lucas Niggli ', ' Luciano Biondini ', ' Kalle Kalima ']",
-18,Zürich,Ibrahim-Maalouf,2015-12-19,"[' Ibrahim Maalouf ', ' Mark Turner ', ' Frank Woeste ', ' Scott Colley ', ' Clarence Penn ']",
-19,Basel,Tibor-Elekes-Trio-feat.-Kálmán-Oláh,2015-12-19,"[' Kálmán Oláh ', ' Tibor Elekes ', ' Florian Arbenz ']",
-20,Feuerthalen,Nord-Hofmann-&-Stahel,2015-12-19,"[' Mike Nord ', ' Georg Hofmann ', ' Andreas Stahel ']",
-21,Baden,Éla-Éla,2015-12-19,"[' Akis Savas ', ' Nikos Papadopoulos ', ' Vincent Zurkinden ']",
-22,Zürich,Lissie,2015-12-19,"['Lissie ', "" Ryan O'Reilly ""]",Pop
-23,Thun,Kid-Wise,2015-12-19,['Kid Wise '],Pop
-24,Basel,Impro-Duos,2015-12-19,"[' Jopo ', ' Ingeborg Poffet ']",
-25,Zürich,Heavy-Metal-Thrash-Metal-Night,2015-12-19,['Vex '],
-26,Aarau,Retrogott-&-Hulk-Hodn,2015-12-19,"['Retrogott & Hulk Hodn ', ' Main Concept ', ' Sonne Ra ']",
-27,Schaffhausen,The-Skatalites,2015-12-19,['The Skatalites '],
-28,Zug,20-Jahre-Galvanik,2015-12-19,['Vengaboys '],Pop
-29,Zürich,The-Nozez,2015-12-19,"[' Tarek Beswick ', ' Tome Iliev ', ' Toby Bienz ', ' Seraphim von Werra ', ' Adam Jefrey ', ' Angela Pina Ganzoni ']",
-30,Chur,10-Years-Chocolate-From-Kinston,2015-12-19,"['Cali P ', ' Clay ']",
-31,Bern,Metric-Rotations,2015-12-19,"['Simon Ho ', ' Simon Baumann ', ' Don Li ']",
-32,null,Rap-History-East-Coast-Special,2015-12-19,['Big Daddy Kane '],
-33,Baden,Götterspeise,2015-12-19,['DJs Marc Poppcke '],Electronic
+location,event,date,artists,genre
+Basel,Midi-Musique,2015-12-19,[' Annie Dufresne '],Classic
+Winterthur,Samstagsmatinée,2015-12-19,"['Bernhard Bamert ', ' Thomas Lüthi ']",Classic
+Zürich,Unvergessliche-Operettenmelodien,2015-12-19,"['John Thade ', ' Annkatrin Isaacs ']",Classic
+Zürich,Werner-und-Company,2015-12-19,['Werner und Company '],Pop
+Basel,Kammerkonzert,2015-12-19,['Cyprian Kohut '],Classic
+Luzern,Carmatango,2015-12-19,['Carmatango '],
+Luzern,Messiah-Lucerne-Chamber-Circle,2015-12-19,"[' Sarah Tynan ', ' Lestyn Davies ', ' Stuart Jackson ', ' Neal Davies ']",Classic
+Luzern,Linden-Quartett,2015-12-19,"[' Renato Wiedemann ', ' Milena Bonaventurova ', ' Mari Kobayashi ', ' Rupert Hunz ']",Classic
+Zürich,Saybia,2015-12-19,['Saybia '],Pop
+Basel,Musik-der-Romantik,2015-12-19,"[' Claudia von Tilzer ', ' Tobias Wicky ']",Classic
+Aarau,Klavierrezital,2015-12-19,"['Raúl de la Mora ', ' Héctor Ocampo ']",Classic
+Zürich,Akademisches-Orchester-Zürich,2015-12-19,['Claire Huangci '],Classic
+Zürich,Florence-&-The-Machine,2015-12-19,"['Florence & The Machine ', ' Palma Violets ']",Pop
+Rheinfelden,The-Piccadilly-Six,2015-12-19,"[' John Service ', ' Günter Sellenath ', ' Jerry Gabriel ', ' Hermann Bruderhofer ', ' Chris Haskins ', ' Jimmy Garforth ']",
+Rheinfelden,The-Picadilly-Six,2015-12-19,"[' John Service ', ' Günter Sellenath ', ' Jerry Gabriel ', ' Herrmann Bruderhofer ']",
+Zürich,Édith-Piaf-Petite-grande-dame,2015-12-19,"['Licia Chery ', ' Sylphe ', ' Alexandre Pelichet ', ' Felix Raffel ', ' g) Felix Haller ', ' g) Florian Arnicas ']",Pop
+Thun,The-Pelicans,2015-12-19,"[' ', ' Stefan Moser ', ' Sascha Tollardo ', ' Cello Hertner ', ' Reto Vollenweider ']",
+Uster,Tripped-Tychon,2015-12-19,"[' Andreas Schaerer ', ' Lucas Niggli ', ' Luciano Biondini ', ' Kalle Kalima ']",
+Zürich,Ibrahim-Maalouf,2015-12-19,"[' Ibrahim Maalouf ', ' Mark Turner ', ' Frank Woeste ', ' Scott Colley ', ' Clarence Penn ']",
+Basel,Tibor-Elekes-Trio-feat.-Kálmán-Oláh,2015-12-19,"[' Kálmán Oláh ', ' Tibor Elekes ', ' Florian Arbenz ']",
+Feuerthalen,Nord-Hofmann-&-Stahel,2015-12-19,"[' Mike Nord ', ' Georg Hofmann ', ' Andreas Stahel ']",
+Baden,Éla-Éla,2015-12-19,"[' Akis Savas ', ' Nikos Papadopoulos ', ' Vincent Zurkinden ']",
+Zürich,Lissie,2015-12-19,"['Lissie ', "" Ryan O'Reilly ""]",Pop
+Thun,Kid-Wise,2015-12-19,['Kid Wise '],Pop
+Basel,Impro-Duos,2015-12-19,"[' Jopo ', ' Ingeborg Poffet ']",
+Zürich,Heavy-Metal-Thrash-Metal-Night,2015-12-19,['Vex '],
+Aarau,Retrogott-&-Hulk-Hodn,2015-12-19,"['Retrogott & Hulk Hodn ', ' Main Concept ', ' Sonne Ra ']",
+Schaffhausen,The-Skatalites,2015-12-19,['The Skatalites '],
+Zug,20-Jahre-Galvanik,2015-12-19,['Vengaboys '],Pop
+Zürich,The-Nozez,2015-12-19,"[' Tarek Beswick ', ' Tome Iliev ', ' Toby Bienz ', ' Seraphim von Werra ', ' Adam Jefrey ', ' Angela Pina Ganzoni ']",
+Chur,10-Years-Chocolate-From-Kinston,2015-12-19,"['Cali P ', ' Clay ']",
+Bern,Metric-Rotations,2015-12-19,"['Simon Ho ', ' Simon Baumann ', ' Don Li ']",
+null,Rap-History-East-Coast-Special,2015-12-19,['Big Daddy Kane '],
+Baden,Götterspeise,2015-12-19,['DJs Marc Poppcke '],Electronic

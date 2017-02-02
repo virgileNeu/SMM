@@ -1,34 +1,34 @@
-,location,event,date,artists,genre
-0,Zürich,Art-Band,2016-11-03,['Art Band '],Pop
-1,Baden,After-Work-Live-Musik,2016-11-03,"[' Lilly Thornton ', ' Nic Niedermann ', ' Marcel Vosswinkel ', ' Eddie Walker ', ' Gregor Müller ']",Pop
-2,Zürich,Jazznojazz,2016-11-03,"[' Hindi Zahra ', ' Jérôme Plasseraud ', ' Paul Salvagnac ', ' David Dupuis ', ' Jeff Hallam ']",
-3,Zürich,Liederabend,2016-11-03,"[' Leo Nucci ', ' works by Paolo Marcarini ']",Classic
-4,Zürich,Jazznojazz,2016-11-03,[' Alina Amuri '],
-5,Zürich,Thursday-Night-Jazz,2016-11-03,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-6,Basel,Jazzkollektiv-Basel,2016-11-03,"[' Ilya Alabuzhev ', ' Garðar Eðvaldsson ', ' Linus Eppinger ', ' Alvin Schwaar ', ' Noé Franklé ']",
-7,Basel,Royal-Court-&-Pub,2016-11-03,"[' Carl Rosman ', ' Bastian Pfefferli ']",Classic
-8,Zürich,Caro-Emerald,2016-11-03,['Caro Emerald '],Pop
-9,Zürich,Taylor-Davis,2016-11-03,['Taylor Davis '],Pop
-10,Biglen,Frytig-Jazzband,2016-11-03,"[' Beat Stalder ', ' Peter Baumgartner ', ' Erich Möschler ', ' Bruno Rupp ', ' Hans Peter Schranz ', ' Alfred Zürcher ']",
-11,Winterthur,Trio-Zahg,2016-11-03,"[' Tobias Reinsch ', ' Stefan Berger ', ' Matthias Fischer ']",
-12,Lausanne,Cult-of-Luna-&-Julie-Christmas,2016-11-03,['Cult of Luna & Julie Christmas '],
-13,Zürich,Ach-Luise,2016-11-03,"['Edward Rushton ', ' Nina Ulli ', ' Sämi Zünd ']",
-14,Lausanne,L'Aupaire-abgesagt,2016-11-03,"[""L'Aupaire ""]",Pop
-15,Basel,JJ-Rosa,2016-11-03,['JJ Rosa '],
-16,Baden,Christine-Matter-Hess-&-les-Copains-du-Swing,2016-11-03,"[' Christine Matter ', ' Hans Krauer ', ' René Grimm ']",
-17,Luzern,Philipp-Fankhauser-&-Margie-Evans,2016-11-03,"[' Philipp Fankhauser ', '  Margie Evans ', ' Marco Jencarelli ', ' Hendrix Ackle ', ' Angus Thomas ', ' Richard Spooner ', ' Lukas Thoeni ', ' Thomi Geiger ']",
-18,Liebefeld,676-Nuevotango-Quintett,2016-11-03,"[' Michael Zisman ', ' Daniel Zisman ', ' Sebastien Fulgido ', ' Gerardo Vila ', ' Winfried Holzenkamp ']",
-19,Zürich,Billiger-Bauer-Hymn-for-a-Mindful-Society,2016-11-03,"['Omri Ziegele ', ' Jürg Wickihalder ', ' Marco Von Orelli ']",
-20,Basel,Horace-Andy,2016-11-03,['Horace Andy '],
-21,Zürich,Brandt-Brauer-Frick,2016-11-03,"[' Beaver Sheppard ', ' Daniel Brandt ', ' Jan Brauer ', ' Paul Frick ', ' Josa Peit ', ' Owen Roberts ']",Electronic
-22,Basel,Among-Verticals,2016-11-03,"[' Ben van Gelder ', ' Peter Schlamb ', ' Sam Harris ', ' Rick Rosato ', ' Craig Weinrib ']",
-23,Wallisellen,Brendan-Monaghan,2016-11-03,['Brendan Monaghan '],
-24,Baden,Electro-Deluxe,2016-11-03,['Electro Deluxe '],
-25,Rubigen,Popa-Chubby,2016-11-03,['Popa Chubby '],
-26,Zürich,Milliarden,2016-11-03,"['Milliarden ', ' Raglans ']",Pop
-27,Zürich,Autechre,2016-11-03,['Autechre '],Electronic
-28,Bern,The-Devils,2016-11-03,['The Devils '],
-29,Zürich,Jazznojazz,2016-11-03,"[' Ibrahim Maalouf ', ' Eric Legnini ', ' Francois Delporte ', ' Stephane Galland ']",
-30,Zürich,Annie-Goodchild,2016-11-03,['Annie Goodchild '],
-31,Zürich,Jazznojazz,2016-11-03,"[' Bugge Wesseltoft ', ' Marthe Lea ', ' Oddrun Lilja Jonsdottir ', ' Sanskriti Shrestha ', ' Siv Øyunn Kjenstad ']",
-32,Zürich,Jazznojazz,2016-11-03,"[' Eddie Roberts ', ' Joe Tatton ', ' Pete Shand ', ' Simon Allen ']",
+location,event,date,artists,genre
+Zürich,Art-Band,2016-11-03,['Art Band '],Pop
+Baden,After-Work-Live-Musik,2016-11-03,"[' Lilly Thornton ', ' Nic Niedermann ', ' Marcel Vosswinkel ', ' Eddie Walker ', ' Gregor Müller ']",Pop
+Zürich,Jazznojazz,2016-11-03,"[' Hindi Zahra ', ' Jérôme Plasseraud ', ' Paul Salvagnac ', ' David Dupuis ', ' Jeff Hallam ']",
+Zürich,Liederabend,2016-11-03,"[' Leo Nucci ', ' works by Paolo Marcarini ']",Classic
+Zürich,Jazznojazz,2016-11-03,[' Alina Amuri '],
+Zürich,Thursday-Night-Jazz,2016-11-03,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Basel,Jazzkollektiv-Basel,2016-11-03,"[' Ilya Alabuzhev ', ' Garðar Eðvaldsson ', ' Linus Eppinger ', ' Alvin Schwaar ', ' Noé Franklé ']",
+Basel,Royal-Court-&-Pub,2016-11-03,"[' Carl Rosman ', ' Bastian Pfefferli ']",Classic
+Zürich,Caro-Emerald,2016-11-03,['Caro Emerald '],Pop
+Zürich,Taylor-Davis,2016-11-03,['Taylor Davis '],Pop
+Biglen,Frytig-Jazzband,2016-11-03,"[' Beat Stalder ', ' Peter Baumgartner ', ' Erich Möschler ', ' Bruno Rupp ', ' Hans Peter Schranz ', ' Alfred Zürcher ']",
+Winterthur,Trio-Zahg,2016-11-03,"[' Tobias Reinsch ', ' Stefan Berger ', ' Matthias Fischer ']",
+Lausanne,Cult-of-Luna-&-Julie-Christmas,2016-11-03,['Cult of Luna & Julie Christmas '],
+Zürich,Ach-Luise,2016-11-03,"['Edward Rushton ', ' Nina Ulli ', ' Sämi Zünd ']",
+Lausanne,L'Aupaire-abgesagt,2016-11-03,"[""L'Aupaire ""]",Pop
+Basel,JJ-Rosa,2016-11-03,['JJ Rosa '],
+Baden,Christine-Matter-Hess-&-les-Copains-du-Swing,2016-11-03,"[' Christine Matter ', ' Hans Krauer ', ' René Grimm ']",
+Luzern,Philipp-Fankhauser-&-Margie-Evans,2016-11-03,"[' Philipp Fankhauser ', '  Margie Evans ', ' Marco Jencarelli ', ' Hendrix Ackle ', ' Angus Thomas ', ' Richard Spooner ', ' Lukas Thoeni ', ' Thomi Geiger ']",
+Liebefeld,676-Nuevotango-Quintett,2016-11-03,"[' Michael Zisman ', ' Daniel Zisman ', ' Sebastien Fulgido ', ' Gerardo Vila ', ' Winfried Holzenkamp ']",
+Zürich,Billiger-Bauer-Hymn-for-a-Mindful-Society,2016-11-03,"['Omri Ziegele ', ' Jürg Wickihalder ', ' Marco Von Orelli ']",
+Basel,Horace-Andy,2016-11-03,['Horace Andy '],
+Zürich,Brandt-Brauer-Frick,2016-11-03,"[' Beaver Sheppard ', ' Daniel Brandt ', ' Jan Brauer ', ' Paul Frick ', ' Josa Peit ', ' Owen Roberts ']",Electronic
+Basel,Among-Verticals,2016-11-03,"[' Ben van Gelder ', ' Peter Schlamb ', ' Sam Harris ', ' Rick Rosato ', ' Craig Weinrib ']",
+Wallisellen,Brendan-Monaghan,2016-11-03,['Brendan Monaghan '],
+Baden,Electro-Deluxe,2016-11-03,['Electro Deluxe '],
+Rubigen,Popa-Chubby,2016-11-03,['Popa Chubby '],
+Zürich,Milliarden,2016-11-03,"['Milliarden ', ' Raglans ']",Pop
+Zürich,Autechre,2016-11-03,['Autechre '],Electronic
+Bern,The-Devils,2016-11-03,['The Devils '],
+Zürich,Jazznojazz,2016-11-03,"[' Ibrahim Maalouf ', ' Eric Legnini ', ' Francois Delporte ', ' Stephane Galland ']",
+Zürich,Annie-Goodchild,2016-11-03,['Annie Goodchild '],
+Zürich,Jazznojazz,2016-11-03,"[' Bugge Wesseltoft ', ' Marthe Lea ', ' Oddrun Lilja Jonsdottir ', ' Sanskriti Shrestha ', ' Siv Øyunn Kjenstad ']",
+Zürich,Jazznojazz,2016-11-03,"[' Eddie Roberts ', ' Joe Tatton ', ' Pete Shand ', ' Simon Allen ']",

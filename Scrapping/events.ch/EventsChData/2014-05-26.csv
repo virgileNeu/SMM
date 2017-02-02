@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,Basel,Masterrezital,2014-05-26,[' Sae Bom Byun '],Classic
-1,Basel,Masterrezital,2014-05-26,[' Simon Thompson '],Classic
-2,Zürich,A-Cyclothymia-of-Songs,2014-05-26,"[' Lander Gyselinck ', ' Corinne Huber ', ' Franziska Bruecker ']",Pop
-3,Zürich,Konzert,2014-05-26,[' Esther Hoppe '],Classic
-4,Basel,Masterrezital,2014-05-26,[' Astrig Siranossian '],Classic
-5,Zürich,ZHdK-Masters-of-Pop,2014-05-26,"[' Joël Fonsegrive ', ' Jonas Wolf ']",Pop
-6,Zürich,The-Great-Crusades,2014-05-26,['The Great Crusades '],Pop
-7,Zürich,Big-Deal,2014-05-26,['Big Deal '],
-8,Basel,Dialog,2014-05-26,['Claire Chase '],Classic
-9,Bern,Konzert,2014-05-26,"['Orchester Sinfonietta Sofia ', ' Yana Bukoff ']",Classic
-10,null,Christina-Jaccard-&-The-Dave-Ruosch-Band,2014-05-26,"[' Christina Jaccard ', ' Dave Ruosch ', ' Luca Leombruni ', ' Andreas Schmid ']",
-11,Chur,5.-Abonnementskonzert,2014-05-26,"['Lise de la Salle ', ' Nolwenn Bargin ', ' Cäcilia Chmel ']",Classic
-12,Winterthur,The-Loodies,2014-05-26,['The Loodies '],
+location,event,date,artists,genre
+Basel,Masterrezital,2014-05-26,[' Sae Bom Byun '],Classic
+Basel,Masterrezital,2014-05-26,[' Simon Thompson '],Classic
+Zürich,A-Cyclothymia-of-Songs,2014-05-26,"[' Lander Gyselinck ', ' Corinne Huber ', ' Franziska Bruecker ']",Pop
+Zürich,Konzert,2014-05-26,[' Esther Hoppe '],Classic
+Basel,Masterrezital,2014-05-26,[' Astrig Siranossian '],Classic
+Zürich,ZHdK-Masters-of-Pop,2014-05-26,"[' Joël Fonsegrive ', ' Jonas Wolf ']",Pop
+Zürich,The-Great-Crusades,2014-05-26,['The Great Crusades '],Pop
+Zürich,Big-Deal,2014-05-26,['Big Deal '],
+Basel,Dialog,2014-05-26,['Claire Chase '],Classic
+Bern,Konzert,2014-05-26,"['Orchester Sinfonietta Sofia ', ' Yana Bukoff ']",Classic
+null,Christina-Jaccard-&-The-Dave-Ruosch-Band,2014-05-26,"[' Christina Jaccard ', ' Dave Ruosch ', ' Luca Leombruni ', ' Andreas Schmid ']",
+Chur,5.-Abonnementskonzert,2014-05-26,"['Lise de la Salle ', ' Nolwenn Bargin ', ' Cäcilia Chmel ']",Classic
+Winterthur,The-Loodies,2014-05-26,['The Loodies '],

@@ -1,35 +1,35 @@
-,location,event,date,artists,genre
-0,Basel,Mittagskonzert,2015-10-22,[' Pavla Flámová '],Classic
-1,Baden,After-Work,2015-10-22,"[' Martin Stonee Wettstein ', ' Florian Egli ', ' Markus Schlagi Rahm ']",
-2,Zürich,Uncle-Acid-&-The-Deadbeats,2015-10-22,"['Uncle Acid & The Deadbeats ', ' Spiders ']",
-3,Zürich,Existentielle-Erfahrung,2015-10-22,[' Antoine Tamestit '],Classic
-4,Basel,Duo-Embichadero,2015-10-22,['Duo Embichadero '],
-5,Basel,Querflöte-Violine-Gitarre-und-Oboe-kennenlernen,2015-10-22,"['Andrea Schall ', ' Daniela Müller ', ' Julia Bauer ', ' Wolfgang Hillemann ']",Classic
-6,Zürich,Zermatt-Unplugged-Kaufleuten,2015-10-22,"['Alex Clare ', ' Marlon Roudette ', ' Little Mountain ']",Pop
-7,Lyss,Agnostic-Front,2015-10-22,"['Agnostic Front ', ' support: The Old Firm Casuals ', ' Coldside ']",
-8,Zürich,Sälte-Dihäi,2015-10-22,"[' Brigitt ', ' Pius ', ' Xaver ']",
-9,Zürich,Seat-Music-Session,2015-10-22,"['Michael Grimm ', ' Laith Al-Deen ', ' Shayna Steele ']",Pop
-10,Zürich,Hans-Hassler,2015-10-22,['Hans Hassler '],traditional
-11,Thun,John-Mayall,2015-10-22,['John Mayall '],
-12,Zürich,The-Cat-Empire,2015-10-22,['The Cat Empire '],
-13,Zürich,Gigi-D'Alessio,2015-10-22,"[""Gigi D'Alessio ""]",Pop
-14,Pratteln,Ohrenfeindt,2015-10-22,"['Ohrenfeindt ', ' Double Crush Syndrome ']",
-15,Winterthur,The-Great-Harry-Hillman,2015-10-22,"[' Nils Fischer ', ' David Koch ', ' Samuel Huwyler ', ' Dominik Mahnig ']",
-16,Schaffhausen,The-Dublin-Legends,2015-10-22,['The Dublin Legends '],
-17,Liebefeld,Mark-Soskin-Quartet,2015-10-22,"[' Mark Soskin ', ' Roberto Bossard ', ' Gildas Bocle ', ' Elmar Frey ']",
-18,Basel,This-Is-Pan,2015-10-22,"[' Lukas Thöni ', ' Matthias Kohler ', ' André Pousaz ', ' Gregor Hilbe ']",
-19,Sarnen,Cannonsoul-feat.-Andy-McKee,2015-10-22,"[' Patrick Bianco ', ' Peter Tuscher ', ' Renato Chicco ', ' Andy McKee ', ' Bernd Reiter ']",
-20,Luzern,Sidsel-Endresen-&-Stian-Westerhus,2015-10-22,"[' Sidsel Endresen ', ' Stian Westerhus ']",
-21,Thun,Berge,2015-10-22,['Berge '],Pop
-22,Bern,Mayvie,2015-10-22,"['Mayvie ', ' Nadine Nigg ', ' Kiki Bienz ', ' Sebastian Rotzler ', ' Clemens Kuratle ']",Pop
-23,Baden,Puchunga,2015-10-22,"['Puchunga ', ' Puchunga Fischer ', ' Fabienne Hoerni ', ' Dalia Donadio ', ' Roberto Koch ', ' Benno Kaiser ']",
-24,Pully,Cat-Power,2015-10-22,['Cat Power '],
-25,Zürich,Zurich-Jazz-Orchestra,2015-10-22,"[' Reto Anneler ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas Lüthi ', ' Matthias Tschopp ']",
-26,Solothurn,M.C.-Hansen,2015-10-22,"['M.C. Hansen ', ' Last Ditch On The Left ']",
-27,Winterthur,Dan-Baird-&-Homemade-Sin,2015-10-22,['Dan Baird & Homemade Sin '],
-28,Bern,Claudia-Stephani-&-Flying-Foxes,2015-10-22,"[' Philipp Bühlmann ', ' David Jutzi ', ' Stefan Hodel ', ' Claudia Stephani ']",
-29,Lugano,Alvaro-Soler,2015-10-22,['Alvaro Soler '],
-30,Zürich,Jam-Session,2015-10-22,"[' Silvan Petite ', ' Yhonnie de Miranda ', ' Dani Zihlmann ', ' Mike Ryrie ']",
-31,Bern,Baile-libertario,2015-10-22,['Revolución Guapachosa '],
-32,Zürich,Team-Amateur,2015-10-22,['Team Amateur '],Pop
-33,Zürich,Zermatt-Unplugged-Kaufleuten,2015-10-22,"['Richard Ashcroft ', ' Jan Blomqvist & Band ']",
+location,event,date,artists,genre
+Basel,Mittagskonzert,2015-10-22,[' Pavla Flámová '],Classic
+Baden,After-Work,2015-10-22,"[' Martin Stonee Wettstein ', ' Florian Egli ', ' Markus Schlagi Rahm ']",
+Zürich,Uncle-Acid-&-The-Deadbeats,2015-10-22,"['Uncle Acid & The Deadbeats ', ' Spiders ']",
+Zürich,Existentielle-Erfahrung,2015-10-22,[' Antoine Tamestit '],Classic
+Basel,Duo-Embichadero,2015-10-22,['Duo Embichadero '],
+Basel,Querflöte-Violine-Gitarre-und-Oboe-kennenlernen,2015-10-22,"['Andrea Schall ', ' Daniela Müller ', ' Julia Bauer ', ' Wolfgang Hillemann ']",Classic
+Zürich,Zermatt-Unplugged-Kaufleuten,2015-10-22,"['Alex Clare ', ' Marlon Roudette ', ' Little Mountain ']",Pop
+Lyss,Agnostic-Front,2015-10-22,"['Agnostic Front ', ' support: The Old Firm Casuals ', ' Coldside ']",
+Zürich,Sälte-Dihäi,2015-10-22,"[' Brigitt ', ' Pius ', ' Xaver ']",
+Zürich,Seat-Music-Session,2015-10-22,"['Michael Grimm ', ' Laith Al-Deen ', ' Shayna Steele ']",Pop
+Zürich,Hans-Hassler,2015-10-22,['Hans Hassler '],traditional
+Thun,John-Mayall,2015-10-22,['John Mayall '],
+Zürich,The-Cat-Empire,2015-10-22,['The Cat Empire '],
+Zürich,Gigi-D'Alessio,2015-10-22,"[""Gigi D'Alessio ""]",Pop
+Pratteln,Ohrenfeindt,2015-10-22,"['Ohrenfeindt ', ' Double Crush Syndrome ']",
+Winterthur,The-Great-Harry-Hillman,2015-10-22,"[' Nils Fischer ', ' David Koch ', ' Samuel Huwyler ', ' Dominik Mahnig ']",
+Schaffhausen,The-Dublin-Legends,2015-10-22,['The Dublin Legends '],
+Liebefeld,Mark-Soskin-Quartet,2015-10-22,"[' Mark Soskin ', ' Roberto Bossard ', ' Gildas Bocle ', ' Elmar Frey ']",
+Basel,This-Is-Pan,2015-10-22,"[' Lukas Thöni ', ' Matthias Kohler ', ' André Pousaz ', ' Gregor Hilbe ']",
+Sarnen,Cannonsoul-feat.-Andy-McKee,2015-10-22,"[' Patrick Bianco ', ' Peter Tuscher ', ' Renato Chicco ', ' Andy McKee ', ' Bernd Reiter ']",
+Luzern,Sidsel-Endresen-&-Stian-Westerhus,2015-10-22,"[' Sidsel Endresen ', ' Stian Westerhus ']",
+Thun,Berge,2015-10-22,['Berge '],Pop
+Bern,Mayvie,2015-10-22,"['Mayvie ', ' Nadine Nigg ', ' Kiki Bienz ', ' Sebastian Rotzler ', ' Clemens Kuratle ']",Pop
+Baden,Puchunga,2015-10-22,"['Puchunga ', ' Puchunga Fischer ', ' Fabienne Hoerni ', ' Dalia Donadio ', ' Roberto Koch ', ' Benno Kaiser ']",
+Pully,Cat-Power,2015-10-22,['Cat Power '],
+Zürich,Zurich-Jazz-Orchestra,2015-10-22,"[' Reto Anneler ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas Lüthi ', ' Matthias Tschopp ']",
+Solothurn,M.C.-Hansen,2015-10-22,"['M.C. Hansen ', ' Last Ditch On The Left ']",
+Winterthur,Dan-Baird-&-Homemade-Sin,2015-10-22,['Dan Baird & Homemade Sin '],
+Bern,Claudia-Stephani-&-Flying-Foxes,2015-10-22,"[' Philipp Bühlmann ', ' David Jutzi ', ' Stefan Hodel ', ' Claudia Stephani ']",
+Lugano,Alvaro-Soler,2015-10-22,['Alvaro Soler '],
+Zürich,Jam-Session,2015-10-22,"[' Silvan Petite ', ' Yhonnie de Miranda ', ' Dani Zihlmann ', ' Mike Ryrie ']",
+Bern,Baile-libertario,2015-10-22,['Revolución Guapachosa '],
+Zürich,Team-Amateur,2015-10-22,['Team Amateur '],Pop
+Zürich,Zermatt-Unplugged-Kaufleuten,2015-10-22,"['Richard Ashcroft ', ' Jan Blomqvist & Band ']",

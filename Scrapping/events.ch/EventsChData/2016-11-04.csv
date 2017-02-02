@@ -1,44 +1,44 @@
-,location,event,date,artists,genre
-0,Zürich,Art-Band,2016-11-04,['Art Band '],Pop
-1,Basel,Orgelspiel-zum-Feierabend,2016-11-04,['Susanne Doll '],Classic
-2,Dietikon,Feierabendmusik-in-der-Kirche,2016-11-04,"['Christine Müller ', ' Bernhard Hörler ']",Classic
-3,Basel,The-Cure,2016-11-04,"['The Cure ', ' support: The Twilight Sad ']",
-4,Basel,'Cara-la-Vita-mia',2016-11-04,"[' Francesca Benetti ', ' Giovanna Baviera ', ' Tanja Vogrin ', ' Leitão Pedro ', ' Rui Staehelin ']",Classic
-5,Basel,In-Aeternum,2016-11-04,[' Sarah Giger '],Classic
-6,Basel,Benefizkonzert,2016-11-04,"[' Olivia Allemann ', ' Simone Felber ', ' Remy Burnens ', ' Martin Roth ']",Classic
-7,Luzern,Interstellar,2016-11-04,[' Science-Fiction-Film '],Classic
-8,Solothurn,Perce-the-Veil,2016-11-04,['Perce the Veil '],
-9,Zürich,Jazznojazz,2016-11-04,"[' Leo P ', ' Josh Holcomb ', ' Joshua Gawel ', ' Daro Behroozi ', ' Raphael Buyo ', ' Kevin Congleton ']",
-10,Bern,Galakonzert,2016-11-04,[' Simone Kermes '],Classic
-11,Zürich,Dance'n'Rhythm,2016-11-04,"['Matthias Mueller ', ' Noëmi Schindler ', ' James Alexander ', ' works by Thomas Kessler ', ' Andreas Nick ']",Classic
-12,Basel,1791-Mozarts-letztes-Jahr,2016-11-04,"[' Maya Boog ', ' Heike Werner ', ' David Munderloh ']",Classic
-13,Winterthur,Karma-To-Burn,2016-11-04,['Karma To Burn '],Pop
-14,Basel,Salvatore-Sciarrino-und-Gérard-Grisey,2016-11-04,[' Robert Koller '],Classic
-15,Zürich,Jazznojazz,2016-11-04,"[' Andreas Schaerer ', ' Andreas Tschopp ', ' Matthias Wenger ', ' Benedikt Reising ']",
-16,Bern,Incanto-Chor,2016-11-04,[' Marianne Prato '],Classic
-17,null,From-Jazz-to-Rock,2016-11-04,"[' Birgit Ellmerer ', ' Stefan W. Müller ']",
-18,Zürich,Negura-Bunget,2016-11-04,"['Negura Bunget ', ' Ossific ']",
-19,null,Fabrikjazzlabor,2016-11-04,"['Katja Mair ', ' Peter Leuzinger ']",
-20,Zürich,Werkstattkonzert,2016-11-04,"[' Luise Volkmann ', ' Nusch Werchowska ', ' Mia Zabelka ']",
-21,Wil,L'Aupaire,2016-11-04,"[""L'Aupaire ""]",Pop
-22,Zürich,Tribu-Project,2016-11-04,"['Tribu Project ', ' Juan Elias ', ' Marco Swit ', ' Omar Diadji Seydi ']",
-23,Liebefeld,Max-Frankl-Group,2016-11-04,"['Max Frankl Group ', ' Reto Suhner ', ' Max Frankl ', ' Lionel Friedli ']",
-24,Solothurn,Ben-Zahlers-Songgoing,2016-11-04,"[' Ben Zahler ', ' Jasmin Albash ', ' Thomas Baumgartner ', ' Marco Nenninger ']",
-25,Zürich,Beethoven-trifft-Tolstoi-Musik-im-Rausch,2016-11-04,"[' ', ' Daniel Vaiman ']",Classic
-26,Zürich,Picason,2016-11-04,"[' Ernesto Manuitt ', ' Flavio Arias ', ' Ivan Villalonga ', ' Gabriel Walter ', ' Amik Guerra ', ' Bernhard Schoch ']",
-27,Basel,Nösig-Pukl-Quintet,2016-11-04,"[' Daniel Nösig ', ' Jure Pukl ', ' Tzumo Arpad ', ' Josh Ginsburg ', ' Howard Curtis ']",
-28,Feuerthalen,Brendan-Monaghan,2016-11-04,['Brendan Monaghan '],Pop
-29,Baden,Walts-Blues-Box,2016-11-04,"[' Walter Baumgartner ', ' Elias Bernet ', ' Joel Allison ', ' Andi Schmid ']",
-30,Zürich,Fox-Picture-Music,2016-11-04,[' Kaffboys '],Pop
-31,Bern,The-Monsters,2016-11-04,"['The Monsters ', ' Destination Lonely ']",
-32,Rubigen,Dr.-Feelgood,2016-11-04,['Dr. Feelgood '],
-33,Bern,Klischée,2016-11-04,['Klischée '],Electronic
-34,null,The-Bank,2016-11-04,"[' Léonard Ducry ', ' David Schroeter ', ' Valentin Molliet ', ' Léonard Cordier ', ' Lucien Mullener ']",
-35,Bern,Peep-Turtle,2016-11-04,"[' Christina Willi ', ' Daniel Hofmann ', ' Marc Jundt ']",
-36,Düdingen,It-It-Anita,2016-11-04,"['It It Anita ', ' Lorelle meets The Obsolete ']",Electronic
-37,Zürich,Jazznojazz,2016-11-04,"['St Germain ', ' Ludovic Navarre ', ' Edouard Labor ', ' Guimba Kuyate ', ' Didier Davidas ']",
-38,Lausanne,Ok-Vancouver-Ok,2016-11-04,['Ok Vancouver Ok '],
-39,Luzern,Ampersan,2016-11-04,['Ampersan '],
-40,Zürich,Jazznojazz,2016-11-04,"[' Chris Illingworth ', ' Nick Blacka ', ' Rob Turner ']",
-41,Zürich,Jazznojazz,2016-11-04,"[' Eddie Roberts ', ' Joe Tatton ', ' Pete Shand ', ' Simon Allen ']",
-42,Zürich,Spezialmaterial,2016-11-04,['Matias Aguayo '],Electronic
+location,event,date,artists,genre
+Zürich,Art-Band,2016-11-04,['Art Band '],Pop
+Basel,Orgelspiel-zum-Feierabend,2016-11-04,['Susanne Doll '],Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2016-11-04,"['Christine Müller ', ' Bernhard Hörler ']",Classic
+Basel,The-Cure,2016-11-04,"['The Cure ', ' support: The Twilight Sad ']",
+Basel,'Cara-la-Vita-mia',2016-11-04,"[' Francesca Benetti ', ' Giovanna Baviera ', ' Tanja Vogrin ', ' Leitão Pedro ', ' Rui Staehelin ']",Classic
+Basel,In-Aeternum,2016-11-04,[' Sarah Giger '],Classic
+Basel,Benefizkonzert,2016-11-04,"[' Olivia Allemann ', ' Simone Felber ', ' Remy Burnens ', ' Martin Roth ']",Classic
+Luzern,Interstellar,2016-11-04,[' Science-Fiction-Film '],Classic
+Solothurn,Perce-the-Veil,2016-11-04,['Perce the Veil '],
+Zürich,Jazznojazz,2016-11-04,"[' Leo P ', ' Josh Holcomb ', ' Joshua Gawel ', ' Daro Behroozi ', ' Raphael Buyo ', ' Kevin Congleton ']",
+Bern,Galakonzert,2016-11-04,[' Simone Kermes '],Classic
+Zürich,Dance'n'Rhythm,2016-11-04,"['Matthias Mueller ', ' Noëmi Schindler ', ' James Alexander ', ' works by Thomas Kessler ', ' Andreas Nick ']",Classic
+Basel,1791-Mozarts-letztes-Jahr,2016-11-04,"[' Maya Boog ', ' Heike Werner ', ' David Munderloh ']",Classic
+Winterthur,Karma-To-Burn,2016-11-04,['Karma To Burn '],Pop
+Basel,Salvatore-Sciarrino-und-Gérard-Grisey,2016-11-04,[' Robert Koller '],Classic
+Zürich,Jazznojazz,2016-11-04,"[' Andreas Schaerer ', ' Andreas Tschopp ', ' Matthias Wenger ', ' Benedikt Reising ']",
+Bern,Incanto-Chor,2016-11-04,[' Marianne Prato '],Classic
+null,From-Jazz-to-Rock,2016-11-04,"[' Birgit Ellmerer ', ' Stefan W. Müller ']",
+Zürich,Negura-Bunget,2016-11-04,"['Negura Bunget ', ' Ossific ']",
+null,Fabrikjazzlabor,2016-11-04,"['Katja Mair ', ' Peter Leuzinger ']",
+Zürich,Werkstattkonzert,2016-11-04,"[' Luise Volkmann ', ' Nusch Werchowska ', ' Mia Zabelka ']",
+Wil,L'Aupaire,2016-11-04,"[""L'Aupaire ""]",Pop
+Zürich,Tribu-Project,2016-11-04,"['Tribu Project ', ' Juan Elias ', ' Marco Swit ', ' Omar Diadji Seydi ']",
+Liebefeld,Max-Frankl-Group,2016-11-04,"['Max Frankl Group ', ' Reto Suhner ', ' Max Frankl ', ' Lionel Friedli ']",
+Solothurn,Ben-Zahlers-Songgoing,2016-11-04,"[' Ben Zahler ', ' Jasmin Albash ', ' Thomas Baumgartner ', ' Marco Nenninger ']",
+Zürich,Beethoven-trifft-Tolstoi-Musik-im-Rausch,2016-11-04,"[' ', ' Daniel Vaiman ']",Classic
+Zürich,Picason,2016-11-04,"[' Ernesto Manuitt ', ' Flavio Arias ', ' Ivan Villalonga ', ' Gabriel Walter ', ' Amik Guerra ', ' Bernhard Schoch ']",
+Basel,Nösig-Pukl-Quintet,2016-11-04,"[' Daniel Nösig ', ' Jure Pukl ', ' Tzumo Arpad ', ' Josh Ginsburg ', ' Howard Curtis ']",
+Feuerthalen,Brendan-Monaghan,2016-11-04,['Brendan Monaghan '],Pop
+Baden,Walts-Blues-Box,2016-11-04,"[' Walter Baumgartner ', ' Elias Bernet ', ' Joel Allison ', ' Andi Schmid ']",
+Zürich,Fox-Picture-Music,2016-11-04,[' Kaffboys '],Pop
+Bern,The-Monsters,2016-11-04,"['The Monsters ', ' Destination Lonely ']",
+Rubigen,Dr.-Feelgood,2016-11-04,['Dr. Feelgood '],
+Bern,Klischée,2016-11-04,['Klischée '],Electronic
+null,The-Bank,2016-11-04,"[' Léonard Ducry ', ' David Schroeter ', ' Valentin Molliet ', ' Léonard Cordier ', ' Lucien Mullener ']",
+Bern,Peep-Turtle,2016-11-04,"[' Christina Willi ', ' Daniel Hofmann ', ' Marc Jundt ']",
+Düdingen,It-It-Anita,2016-11-04,"['It It Anita ', ' Lorelle meets The Obsolete ']",Electronic
+Zürich,Jazznojazz,2016-11-04,"['St Germain ', ' Ludovic Navarre ', ' Edouard Labor ', ' Guimba Kuyate ', ' Didier Davidas ']",
+Lausanne,Ok-Vancouver-Ok,2016-11-04,['Ok Vancouver Ok '],
+Luzern,Ampersan,2016-11-04,['Ampersan '],
+Zürich,Jazznojazz,2016-11-04,"[' Chris Illingworth ', ' Nick Blacka ', ' Rob Turner ']",
+Zürich,Jazznojazz,2016-11-04,"[' Eddie Roberts ', ' Joe Tatton ', ' Pete Shand ', ' Simon Allen ']",
+Zürich,Spezialmaterial,2016-11-04,['Matias Aguayo '],Electronic

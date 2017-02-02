@@ -1,29 +1,29 @@
-,location,event,date,artists,genre
-0,Zürich,Monte-Carlo,2016-04-14,['Monte Carlo '],Pop
-1,Lausanne,M4Music,2016-04-14,[' Jesper Munk '],
-2,Winterthur,Jahreszeiten,2016-04-14,"[' Maya Boog ', ' Jörg Dürmüller ', ' Roderick Williams ']",Classic
-3,Basel,Amadeus-Chamber-Orchestra,2016-04-14,['Mario Brunello '],Classic
-4,Bern,Internationales-Jazzfestival-Bern,2016-04-14,"['Joey Alexander Trio ', ' Jon Cleary & The Monster Gentlemen ']",
-5,Zürich,Thursday-Night-Jazz,2016-04-14,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-6,Cully,Cully-Jazz,2016-04-14,['Harleighblu '],
-7,Zürich,Hommage-à-Yehudi-Menuhin-zum-100.-Geburtstag,2016-04-14,[' conductor: Daniel Hope '],Classic
-8,Zürich,AnnenMayKantereit,2016-04-14,['AnnenMayKantereit '],Pop
-9,Zürich,Nisse,2016-04-14,"['Nisse ', ' Lea ']",
-10,null,Robert-Glasper-Experiment,2016-04-14,['Robert Glasper Experiment '],
-11,Zürich,Shayna-Steele,2016-04-14,['Shayna Steele '],
-12,Basel,Aqua-Wasser,2016-04-14,"[' Stefka Perifanova ', ' Helena Winkelman ', ' Manuel Oswald ', "" Alessandro D'Amico "", ' Christoph Dangel ']",Classic
-13,Zürich,5-Jahre-Sichtexot,2016-04-14,"['Eloquent ', ' Luk & Fil ', ' Tufu ']",
-14,Pratteln,Barclay-James-Harvest,2016-04-14,['Barclay James Harvest '],
-15,Winterthur,Molton,2016-04-14,"[' Manuel Felder ', ' Patrik Fet ', ' Patrik Muggli ', ' Philippe Jüttner ', ' Daniel Fet ']",Pop
-16,Winterthur,Questclamationmarks,2016-04-14,"[' Marc Stucki ', ' Benedikt Wieland ', ' Flo Reichle ']",
-17,Cully,Cully-Jazz,2016-04-14,"['Terence Blanchard feat. The E-Collective ', ' Hidden Orchestra ', ' Terence Blanchard ', ' Charles Altura ', ' Fabian Almazan ', ' Donald Ramsey ', ' Oscar Seaton ']",
-18,Zürich,Kris-Bowers-Group,2016-04-14,"[' Kris Bowers ', ' Nick Croes ', ' Glenn Gaddum ', ' Jamie Peet ']",
-19,Bern,Buried-At-Sea,2016-04-14,['Buried At Sea '],
-20,Wil,King-Charles,2016-04-14,['King Charles '],Pop
-21,Basel,Armin-Heitz-Trio-&-Andreas-Wäldele,2016-04-14,"[' Andreas Wäldele ', ' Armin Heitz ', ' Davide Petrocca ', ' Janosch Dörr ']",
-22,Baden,Hausquartett,2016-04-14,"[' Christoph Grab ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-23,Basel,Maria-Doyle-Kennedy,2016-04-14,['Maria Doyle Kennedy '],Pop
-24,Sankt-Gallen,Protomartyr,2016-04-14,['Protomartyr '],
-25,Zürich,Salsamania,2016-04-14,['DJs Frankaly Lavoe '],
-26,Winterthur,Talkative,2016-04-14,['Talkative '],
-27,Cully,Cully-Jazz,2016-04-14,['Bojan Z & Julien Lourau '],
+location,event,date,artists,genre
+Zürich,Monte-Carlo,2016-04-14,['Monte Carlo '],Pop
+Lausanne,M4Music,2016-04-14,[' Jesper Munk '],
+Winterthur,Jahreszeiten,2016-04-14,"[' Maya Boog ', ' Jörg Dürmüller ', ' Roderick Williams ']",Classic
+Basel,Amadeus-Chamber-Orchestra,2016-04-14,['Mario Brunello '],Classic
+Bern,Internationales-Jazzfestival-Bern,2016-04-14,"['Joey Alexander Trio ', ' Jon Cleary & The Monster Gentlemen ']",
+Zürich,Thursday-Night-Jazz,2016-04-14,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Cully,Cully-Jazz,2016-04-14,['Harleighblu '],
+Zürich,Hommage-à-Yehudi-Menuhin-zum-100.-Geburtstag,2016-04-14,[' conductor: Daniel Hope '],Classic
+Zürich,AnnenMayKantereit,2016-04-14,['AnnenMayKantereit '],Pop
+Zürich,Nisse,2016-04-14,"['Nisse ', ' Lea ']",
+null,Robert-Glasper-Experiment,2016-04-14,['Robert Glasper Experiment '],
+Zürich,Shayna-Steele,2016-04-14,['Shayna Steele '],
+Basel,Aqua-Wasser,2016-04-14,"[' Stefka Perifanova ', ' Helena Winkelman ', ' Manuel Oswald ', "" Alessandro D'Amico "", ' Christoph Dangel ']",Classic
+Zürich,5-Jahre-Sichtexot,2016-04-14,"['Eloquent ', ' Luk & Fil ', ' Tufu ']",
+Pratteln,Barclay-James-Harvest,2016-04-14,['Barclay James Harvest '],
+Winterthur,Molton,2016-04-14,"[' Manuel Felder ', ' Patrik Fet ', ' Patrik Muggli ', ' Philippe Jüttner ', ' Daniel Fet ']",Pop
+Winterthur,Questclamationmarks,2016-04-14,"[' Marc Stucki ', ' Benedikt Wieland ', ' Flo Reichle ']",
+Cully,Cully-Jazz,2016-04-14,"['Terence Blanchard feat. The E-Collective ', ' Hidden Orchestra ', ' Terence Blanchard ', ' Charles Altura ', ' Fabian Almazan ', ' Donald Ramsey ', ' Oscar Seaton ']",
+Zürich,Kris-Bowers-Group,2016-04-14,"[' Kris Bowers ', ' Nick Croes ', ' Glenn Gaddum ', ' Jamie Peet ']",
+Bern,Buried-At-Sea,2016-04-14,['Buried At Sea '],
+Wil,King-Charles,2016-04-14,['King Charles '],Pop
+Basel,Armin-Heitz-Trio-&-Andreas-Wäldele,2016-04-14,"[' Andreas Wäldele ', ' Armin Heitz ', ' Davide Petrocca ', ' Janosch Dörr ']",
+Baden,Hausquartett,2016-04-14,"[' Christoph Grab ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
+Basel,Maria-Doyle-Kennedy,2016-04-14,['Maria Doyle Kennedy '],Pop
+Sankt-Gallen,Protomartyr,2016-04-14,['Protomartyr '],
+Zürich,Salsamania,2016-04-14,['DJs Frankaly Lavoe '],
+Winterthur,Talkative,2016-04-14,['Talkative '],
+Cully,Cully-Jazz,2016-04-14,['Bojan Z & Julien Lourau '],

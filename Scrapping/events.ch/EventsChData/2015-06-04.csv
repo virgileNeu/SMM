@@ -1,29 +1,29 @@
-,location,event,date,artists,genre
-0,Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-04,['Stefan du Toit '],Classic
-1,Zürich,Lunchkonzert,2015-06-04,"['Diego Baroni ', ' Peter McGuire ', ' Christopher Whiting ', ' Michel Willi ', ' Gabriele Ardizzone ', ' Yulia Miloslavskaya ']",Classic
-2,Luzern,Lunchkonzert-5,2015-06-04,"['Reinhold Friedrich ', ' Sebastian Küchler-Blessing ']",Classic
-3,Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-04,['Thierry Wey '],Classic
-4,Luzern,Master-Abschlusskonzerte,2015-06-04,"['Bruno Hochstrasser ', ' Heather Brewer ', ' Benjamin Kieser ', ' Alessio Cazzetta ', ' Silvan Schmid ', ' Nicolas Gurtner ']",
-5,Zürich,Tonhalle-Orchester-Zürich,2015-06-04,"['Simon Fuchs ', ' Michael Reid ', ' Matthias Racz ', ' Ivo Gass ']",Classic
-6,Winterthur,Gegensätze-ziehen-sich-an,2015-06-04,[' Kirill Gerstein '],Classic
-7,Luzern,Electric-Force,2015-06-04,"[' Ramon Landolt ', ' Thomas Tavano ', ' Florian Hoesl ']",Electronic
-8,Zürich,Jazz-Happening,2015-06-04,['Thom Grüninger '],
-9,Zürich,Heymoonshaker,2015-06-04,['Heymoonshaker '],
-10,Zürich,Julian-Casablancas-&-The-Voidz,2015-06-04,['Julian Casablancas & The Voidz '],
-11,Basel,Liebesfreud,2015-06-04,"[' Isabelle Schnöller ', ' Francesco Negrini ', ' Helena Winkelman ', ' Mirka epanovi ', ' Lea Bösch ', ' Christoph Dangel ', ' Daniel Sailer ', ' Stefka Perifanova ']",Classic
-12,Winterthur,Stahlwerk,2015-06-04,"[' Dominic Stahl ', ' Francesco Rezzonico ', ' Tobias Schmid ']",
-13,null,L'Hexaler,2015-06-04,"[""L'Hexaler "", ' Omerta Muzik ']",
-14,Lausanne,Moon-King,2015-06-04,['Moon King '],
-15,Aarau,Austronautalis,2015-06-04,"['Austronautalis ', ' We Are The City ']",
-16,Thun,Arstidir,2015-06-04,['Arstidir '],Pop
-17,Zürich,Billiger-Bauer-Triebherde,2015-06-04,"['Omri Ziegele ', ' Jürg Wickihalder ', ' Gutersohn ']",
-18,Baden,Poem-Pot,2015-06-04,"[' Linda Vogel ', ' Dalia Donadio ', ' Urs Müller ', ' Raphael Walser ']",
-19,Wädenswil,Zeit-ist-ein-Arschloch,2015-06-04,['Cora Frost & Gert Thumser '],Pop
-20,Basel,Aldous-Harding,2015-06-04,['Aldous Harding '],Pop
-21,Zürich,Stanley-Jordan,2015-06-04,['Stanley Jordan '],
-22,Liebefeld,Bounce,2015-06-04,"['Bounce ', ' Jonathan Maag ', ' Julian Hesse ', ' Andrey Tatarinets ', ' Domi Chansorn ']",
-23,Zürich,Jam-Session,2015-06-04,"[' Philipp Häfliger ', ' Mike Ryrie ', ' Dani Zihlmann ', ' Leon Duncan ', ' Silvan Petite ']",
-24,Luzern,Thursday-Night-Jazz-Jam,2015-06-04,"[' Roberto Bossard ', ' Jonas Künzli ', ' Florian Schneider ']",
-25,Zürich,Liturgy,2015-06-04,['Liturgy '],
-26,Bern,Baseball-Bat-Boogie-Bastards,2015-06-04,"['Baseball Bat Boogie Bastards ', ' support: Trixie Trainwreck ']",
-27,Basel,Decontrol-Fest-Day,2015-06-04,['Halshug '],
+location,event,date,artists,genre
+Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-04,['Stefan du Toit '],Classic
+Zürich,Lunchkonzert,2015-06-04,"['Diego Baroni ', ' Peter McGuire ', ' Christopher Whiting ', ' Michel Willi ', ' Gabriele Ardizzone ', ' Yulia Miloslavskaya ']",Classic
+Luzern,Lunchkonzert-5,2015-06-04,"['Reinhold Friedrich ', ' Sebastian Küchler-Blessing ']",Classic
+Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-04,['Thierry Wey '],Classic
+Luzern,Master-Abschlusskonzerte,2015-06-04,"['Bruno Hochstrasser ', ' Heather Brewer ', ' Benjamin Kieser ', ' Alessio Cazzetta ', ' Silvan Schmid ', ' Nicolas Gurtner ']",
+Zürich,Tonhalle-Orchester-Zürich,2015-06-04,"['Simon Fuchs ', ' Michael Reid ', ' Matthias Racz ', ' Ivo Gass ']",Classic
+Winterthur,Gegensätze-ziehen-sich-an,2015-06-04,[' Kirill Gerstein '],Classic
+Luzern,Electric-Force,2015-06-04,"[' Ramon Landolt ', ' Thomas Tavano ', ' Florian Hoesl ']",Electronic
+Zürich,Jazz-Happening,2015-06-04,['Thom Grüninger '],
+Zürich,Heymoonshaker,2015-06-04,['Heymoonshaker '],
+Zürich,Julian-Casablancas-&-The-Voidz,2015-06-04,['Julian Casablancas & The Voidz '],
+Basel,Liebesfreud,2015-06-04,"[' Isabelle Schnöller ', ' Francesco Negrini ', ' Helena Winkelman ', ' Mirka epanovi ', ' Lea Bösch ', ' Christoph Dangel ', ' Daniel Sailer ', ' Stefka Perifanova ']",Classic
+Winterthur,Stahlwerk,2015-06-04,"[' Dominic Stahl ', ' Francesco Rezzonico ', ' Tobias Schmid ']",
+null,L'Hexaler,2015-06-04,"[""L'Hexaler "", ' Omerta Muzik ']",
+Lausanne,Moon-King,2015-06-04,['Moon King '],
+Aarau,Austronautalis,2015-06-04,"['Austronautalis ', ' We Are The City ']",
+Thun,Arstidir,2015-06-04,['Arstidir '],Pop
+Zürich,Billiger-Bauer-Triebherde,2015-06-04,"['Omri Ziegele ', ' Jürg Wickihalder ', ' Gutersohn ']",
+Baden,Poem-Pot,2015-06-04,"[' Linda Vogel ', ' Dalia Donadio ', ' Urs Müller ', ' Raphael Walser ']",
+Wädenswil,Zeit-ist-ein-Arschloch,2015-06-04,['Cora Frost & Gert Thumser '],Pop
+Basel,Aldous-Harding,2015-06-04,['Aldous Harding '],Pop
+Zürich,Stanley-Jordan,2015-06-04,['Stanley Jordan '],
+Liebefeld,Bounce,2015-06-04,"['Bounce ', ' Jonathan Maag ', ' Julian Hesse ', ' Andrey Tatarinets ', ' Domi Chansorn ']",
+Zürich,Jam-Session,2015-06-04,"[' Philipp Häfliger ', ' Mike Ryrie ', ' Dani Zihlmann ', ' Leon Duncan ', ' Silvan Petite ']",
+Luzern,Thursday-Night-Jazz-Jam,2015-06-04,"[' Roberto Bossard ', ' Jonas Künzli ', ' Florian Schneider ']",
+Zürich,Liturgy,2015-06-04,['Liturgy '],
+Bern,Baseball-Bat-Boogie-Bastards,2015-06-04,"['Baseball Bat Boogie Bastards ', ' support: Trixie Trainwreck ']",
+Basel,Decontrol-Fest-Day,2015-06-04,['Halshug '],

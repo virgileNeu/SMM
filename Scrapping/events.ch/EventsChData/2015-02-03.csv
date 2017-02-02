@@ -1,17 +1,17 @@
-,location,event,date,artists,genre
-0,Basel,Punkt-12-Offene-Orchesterprobe,2015-02-03,[' Francesco Piemontesi '],Classic
-1,Zürich,Tom-e-Fred-Sextet,2015-02-03,"[' Wolfgang Häuptli ', ' Renzo Spotti ', ' Rolf Winiger ', ' Elmar Kluth ', ' Fredi Schmid ', ' Thomas Hirt ']",
-2,Baden,One-of-a-Million,2015-02-03,[' Low Roar '],
-3,Zürich,Zürcher-Kammerorchester,2015-02-03,['Isabelle Faust '],Classic
-4,Basel,Stephan-Schmidt-und-I-Tempi,2015-02-03,[' Stephan Schmidt '],Classic
-5,Basel,Kammermusik-Basel-Liederabend,2015-02-03,"['Elisabeth Kulman ', ' Eduard Kutrowatz ']",Classic
-6,Zürich,Schneekoenig,2015-02-03,"[' Kurt Söldi ', ' Felix Straumann ', ' Jürg Schneebeli ', ' Peter Leuzinger ', ' Christoph Keller ']",
-7,Zürich,Vertigo-Trombone-Quartet,2015-02-03,"[' Nils Wogram ', ' Bernhard Bamert ', ' Andreas Tschopp ', ' Jan Schreiber ']",
-8,Zürich,Müslüm,2015-02-03,['Müslüm '],Pop
-9,Zürich,Tricky-abgesagt,2015-02-03,['Tricky '],Electronic
-10,Solothurn,Enter-Shikari,2015-02-03,['Enter Shikari '],
-11,Luzern,Dienstags-Jazz,2015-02-03,"[' Benedikt Reising ', ' Marco Müller ', ' Rico Baumann ']",
-12,Dietikon,Roberto-Bossard-New-Group,2015-02-03,"[' Roberto Bossard ', ' Toni Bechtold ', ' Lukas Gernet ', ' Rafaelle Bossard ', ' Jonas Ruther ']",
-13,Zürich,Heiri-Känzigs-Swiss-Mongolian-Project,2015-02-03,"[' Karin Streule ', ' Patricia Dräger ', ' Matthieu Michel ', ' Kaspar Rast ', ' Heiri Känzig ']",
-14,Zürich,Mit-Schirm-Charme-&-Melodie,2015-02-03,"['Andre Desponds ', ' Nina Eleta ', ' Sämi Zünd ']",Pop
-15,Basel,Lisette-Spinnler-Quartet,2015-02-03,"[' Lisette Spinnler ', ' Stefan Aeby ', ' Patrice Moret ', ' Michi Stulz ']",
+location,event,date,artists,genre
+Basel,Punkt-12-Offene-Orchesterprobe,2015-02-03,[' Francesco Piemontesi '],Classic
+Zürich,Tom-e-Fred-Sextet,2015-02-03,"[' Wolfgang Häuptli ', ' Renzo Spotti ', ' Rolf Winiger ', ' Elmar Kluth ', ' Fredi Schmid ', ' Thomas Hirt ']",
+Baden,One-of-a-Million,2015-02-03,[' Low Roar '],
+Zürich,Zürcher-Kammerorchester,2015-02-03,['Isabelle Faust '],Classic
+Basel,Stephan-Schmidt-und-I-Tempi,2015-02-03,[' Stephan Schmidt '],Classic
+Basel,Kammermusik-Basel-Liederabend,2015-02-03,"['Elisabeth Kulman ', ' Eduard Kutrowatz ']",Classic
+Zürich,Schneekoenig,2015-02-03,"[' Kurt Söldi ', ' Felix Straumann ', ' Jürg Schneebeli ', ' Peter Leuzinger ', ' Christoph Keller ']",
+Zürich,Vertigo-Trombone-Quartet,2015-02-03,"[' Nils Wogram ', ' Bernhard Bamert ', ' Andreas Tschopp ', ' Jan Schreiber ']",
+Zürich,Müslüm,2015-02-03,['Müslüm '],Pop
+Zürich,Tricky-abgesagt,2015-02-03,['Tricky '],Electronic
+Solothurn,Enter-Shikari,2015-02-03,['Enter Shikari '],
+Luzern,Dienstags-Jazz,2015-02-03,"[' Benedikt Reising ', ' Marco Müller ', ' Rico Baumann ']",
+Dietikon,Roberto-Bossard-New-Group,2015-02-03,"[' Roberto Bossard ', ' Toni Bechtold ', ' Lukas Gernet ', ' Rafaelle Bossard ', ' Jonas Ruther ']",
+Zürich,Heiri-Känzigs-Swiss-Mongolian-Project,2015-02-03,"[' Karin Streule ', ' Patricia Dräger ', ' Matthieu Michel ', ' Kaspar Rast ', ' Heiri Känzig ']",
+Zürich,Mit-Schirm-Charme-&-Melodie,2015-02-03,"['Andre Desponds ', ' Nina Eleta ', ' Sämi Zünd ']",Pop
+Basel,Lisette-Spinnler-Quartet,2015-02-03,"[' Lisette Spinnler ', ' Stefan Aeby ', ' Patrice Moret ', ' Michi Stulz ']",

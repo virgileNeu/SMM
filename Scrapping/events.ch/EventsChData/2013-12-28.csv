@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment,2013-12-28,['Mark Tenger '],
-1,Zürich,Opera-Box-L'île-de-Tulipatan-&-Monsieur-Choufleury,2013-12-28,"[' Andrea Suter ', ' Chelsey Schill ', ' Maja Hermann ', ' Raimund Wiederkehr ', ' Erich Bieri ']",Classic
-2,Zürich,Konzert,2013-12-28,"[' Elena Fink ', ' Antonio Rivera ']",Classic
-3,Dornach,Die-Kunst-der-Fuge,2013-12-28,['Hristo Kazakov '],Classic
-4,Basel,Pedro-Salvador,2013-12-28,['Pedro Salvador '],Pop
-5,Zürich,Evelinn-Trouble,2013-12-28,"[' Evelynn Trouble ', ' Flo Götte ', ' Domi Chansorn ']",
-6,Sursee,Born-from-Pain,2013-12-28,['Born from Pain '],
-7,Baden,Roy-de-Roy,2013-12-28,['Roy de Roy '],
-8,Basel,Manouby,2013-12-28,['Manouby '],Electronic
-9,Kriens,Taktloss,2013-12-28,['Taktloss '],
-10,Sankt-Gallen,The-Doppelgangaz,2013-12-28,['The Doppelgangaz '],
-11,Zürich,Smith-&-Smart,2013-12-28,['Smith & Smart '],
-12,Lyss,The-Tarantinos,2013-12-28,['The Tarantinos '],
-13,null,Fritz-Kalkbrenner,2013-12-28,['Fritz Kalkbrenner '],
+location,event,date,artists,genre
+Luzern,Piano-Entertainment,2013-12-28,['Mark Tenger '],
+Zürich,Opera-Box-L'île-de-Tulipatan-&-Monsieur-Choufleury,2013-12-28,"[' Andrea Suter ', ' Chelsey Schill ', ' Maja Hermann ', ' Raimund Wiederkehr ', ' Erich Bieri ']",Classic
+Zürich,Konzert,2013-12-28,"[' Elena Fink ', ' Antonio Rivera ']",Classic
+Dornach,Die-Kunst-der-Fuge,2013-12-28,['Hristo Kazakov '],Classic
+Basel,Pedro-Salvador,2013-12-28,['Pedro Salvador '],Pop
+Zürich,Evelinn-Trouble,2013-12-28,"[' Evelynn Trouble ', ' Flo Götte ', ' Domi Chansorn ']",
+Sursee,Born-from-Pain,2013-12-28,['Born from Pain '],
+Baden,Roy-de-Roy,2013-12-28,['Roy de Roy '],
+Basel,Manouby,2013-12-28,['Manouby '],Electronic
+Kriens,Taktloss,2013-12-28,['Taktloss '],
+Sankt-Gallen,The-Doppelgangaz,2013-12-28,['The Doppelgangaz '],
+Zürich,Smith-&-Smart,2013-12-28,['Smith & Smart '],
+Lyss,The-Tarantinos,2013-12-28,['The Tarantinos '],
+null,Fritz-Kalkbrenner,2013-12-28,['Fritz Kalkbrenner '],

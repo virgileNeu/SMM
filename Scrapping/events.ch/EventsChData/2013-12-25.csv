@@ -1,10 +1,10 @@
-,location,event,date,artists,genre
-0,Buchberg,Konzert-im-Gottesdienst,2013-12-25,"['Federico Loy ', ' Christian Gautschi ']",Classic
-1,Zürich,Weihnachtsgottesdienst,2013-12-25,"[' Dela Hüttner ', ' Michaela Unsinn ', ' Michael Feyfar ', ' Chasper-Curò Mani ']",Classic
-2,Luzern,Weihnächtliche-Klänge,2013-12-25,"['Richard Decker ', ' Martin Schaefer ']",Pop
-3,Basel,Mimiko-Weihnachtskonzert,2013-12-25,"['Anna Miklashevich ', ' Rachel Heymans ', ' Esteban La Rotta ']",Classic
-4,Zürich,Weihnachtsmusik,2013-12-25,"[' Dela Hüttner ', ' Michaela Unsinn ', ' Michael Feyfar ', ' Chasper-Curò Mani ']",Classic
-5,Zürich,Weihnachtsgottesdienst,2013-12-25,"['Francesca Benetti ', ' Amir Tiroshi ', "" Teodoro Bau' "", ' Christian Döhring ']",Classic
-6,Basel,Engelsworte-&-Engelsgesang,2013-12-25,"['Dorothee Dieterich ', ' Barbara Neurohr ', ' Susanne Doll ']",Classic
-7,Luzern,Weihnächtliche-Klänge,2013-12-25,"['Richard Decker ', ' Martin Schaefer ']",Pop
-8,Bern,Stage-For-Two-Jazz-&-Beyond,2013-12-25,"['Colin Vallon & Elina Duni ', ' Elina Duni ', ' Colin Vallon ']",
+location,event,date,artists,genre
+Buchberg,Konzert-im-Gottesdienst,2013-12-25,"['Federico Loy ', ' Christian Gautschi ']",Classic
+Zürich,Weihnachtsgottesdienst,2013-12-25,"[' Dela Hüttner ', ' Michaela Unsinn ', ' Michael Feyfar ', ' Chasper-Curò Mani ']",Classic
+Luzern,Weihnächtliche-Klänge,2013-12-25,"['Richard Decker ', ' Martin Schaefer ']",Pop
+Basel,Mimiko-Weihnachtskonzert,2013-12-25,"['Anna Miklashevich ', ' Rachel Heymans ', ' Esteban La Rotta ']",Classic
+Zürich,Weihnachtsmusik,2013-12-25,"[' Dela Hüttner ', ' Michaela Unsinn ', ' Michael Feyfar ', ' Chasper-Curò Mani ']",Classic
+Zürich,Weihnachtsgottesdienst,2013-12-25,"['Francesca Benetti ', ' Amir Tiroshi ', "" Teodoro Bau' "", ' Christian Döhring ']",Classic
+Basel,Engelsworte-&-Engelsgesang,2013-12-25,"['Dorothee Dieterich ', ' Barbara Neurohr ', ' Susanne Doll ']",Classic
+Luzern,Weihnächtliche-Klänge,2013-12-25,"['Richard Decker ', ' Martin Schaefer ']",Pop
+Bern,Stage-For-Two-Jazz-&-Beyond,2013-12-25,"['Colin Vallon & Elina Duni ', ' Elina Duni ', ' Colin Vallon ']",

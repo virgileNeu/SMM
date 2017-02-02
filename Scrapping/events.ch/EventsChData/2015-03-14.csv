@@ -1,45 +1,45 @@
-,location,event,date,artists,genre
-0,Winterthur,Chopin-und-Medtner,2015-03-14,['Yulia Miloslavskaya '],Classic
-1,Zürich,4.-Fastensonntag-Laetare,2015-03-14,"[' Hossein Samieian ', ' Felix Gubser ']",Classic
-2,Zürich,Monte-Carlo,2015-03-14,['Monte Carlo '],Pop
-3,Zürich,Fili-mi-Absalon,2015-03-14,"[' Henryk Böhm ', ' Giovanna Pessi ', ' Jürg Frey ']",Classic
-4,Liestal,Daniel-Wäch,2015-03-14,['Daniel Wäch '],
-5,Zürich,Tonhalle-Orchester-Zürich,2015-03-14,"[' László Fenyö ', ' Monika Leskovar ', ' Maja Bogdanovic ', ' Olga Pasichnyk ']",Classic
-6,Zürich,Internationales-Country-Music-Festival,2015-03-14,"['Johnny Reid & Band ', ' Wayne Law & Band ']",
-7,Zürich,Soko,2015-03-14,['Soko '],Pop
-8,Sarnen,The-Stouts,2015-03-14,"[' Sevi The Brave ', ' MacPeace ', ' MacEarth ', ' MacTube ', ' MacLebowsky ', ' MacStevie ']",
-9,Basel,Tarantacaffe,2015-03-14,['Malìe '],
-10,Zürich,Nena,2015-03-14,['Nena '],Pop
-11,Winterthur,Karnivool,2015-03-14,"['Karnivool ', ' Monumnets ']",
-12,Basel,Vierhändige-Klaviermusik,2015-03-14,"['Marcia Hadjimarkos ', ' Brice Pauset ']",Classic
-13,Pratteln,Black-Label-Society,2015-03-14,['Black Label Society '],
-14,Winterthur,Chorprojekt,2015-03-14,['Marion Meili '],
-15,Oberengstringen,Kappelle-Kessler,2015-03-14,"[' Valentin Kessler ', ' Manuel Mengis ', ' Franz Hellmüller ', ' Luca Sisera ', ' Tobias Schramm ']",
-16,Zürich,Edoardo-Bennato,2015-03-14,['Edoardo Bennato '],Pop
-17,Zürich,Leonard-Bernstein-exzessive-Lebensgier-und-tiefe-Depression,2015-03-14,"['Daniel Schnyder ', ' Marcin Grochowina ']",Classic
-18,Winistorf,Forty-Shades,2015-03-14,['Forty Shades '],
-19,Bülach,Swing-Connects-Three-Continents,2015-03-14,"[' Eiji Hanaoka ', ' Nagome Sakuma ', ' Masato Kobayashi ', ' Duke Heitger ', ' Engelbert Wrobel ']",
-20,Basel,Jazzfestival-Basel,2015-03-14,"[' Buika ', ' Daniel Lopez Vicente ', ' Ramon Suarez Escobar ', ' Jose Manuel Posada ']",
-21,Effretikon,Acoustic-Blues-Jam-Session,2015-03-14,[' Blues for Frets '],
-22,Zug,Skerryvore,2015-03-14,['Skerryvore '],
-23,Zürich,Molotow-Brass-Orkestar,2015-03-14,"[' Gregor Krtschek ', ' Stephan Fröhlicher ', ' Jan Müller ', ' Reimar Walthert ']",
-24,Basel,Femme-Schmidt,2015-03-14,['Femme Schmidt '],Pop
-25,Dübendorf,Dübendorfer-Jazztage-Germany,2015-03-14,"[' Barbara Dennerlein ', ' Marcel Gustke ']",
-26,Winterthur,Mute-Swimmer,2015-03-14,['Mute Swimmer '],
-27,Basel,Cojazz-feat.-Ann-Malcom,2015-03-14,"[' Ann Malcolm ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Jorge Rossy ']",
-28,Solothurn,Sphaer,2015-03-14,"['Barbara Gasser ', ' Sebastian Rotzler ']",
-29,Thun,Gemma-Ray,2015-03-14,['Gemma Ray '],Pop
-30,Zug,Stuberein,2015-03-14,['Stuberein '],Pop
-31,Lyss,Satellite-Stories,2015-03-14,"['Satellite Stories ', ' support: Young Romance ']",
-32,null,Akua-Naru,2015-03-14,"['Akua Naru ', ' Yarah Bravo ']",
-33,Zürich,Bob-Spring-&-The-Calling-Sirens,2015-03-14,['Bob Spring & The Calling Sirens '],
-34,Basel,Cilia-Hunch,2015-03-14,"[' Cilia Hunch ', ' Marvin Trummer ', ' Claude Stucki ', ' Moritz Meyer ', ' Paul Amereller ', ' Melly Reden ', ' Fritz Carmelo Mader ']",
-35,Luzern,Mondscheinkneipe-Vol.-VII,2015-03-14,['Bomba Titinka '],Electronic
-36,Bern,Rooftop-Runners,2015-03-14,['Rooftop Runners '],Pop
-37,Bern,Inhumate,2015-03-14,['Inhumate '],
-38,Zürich,The-Durian-Brothers,2015-03-14,['The Durian Brothers '],Electronic
-39,Baden,Nachtkonzert-New-tête,2015-03-14,"['Charlotte Torres ', ' Oliver Widmer ', ' Beda Ehrensberger ']",
-40,Lausanne,Brodinski,2015-03-14,"['Brodinski ', ' Sam Tiba ']",Electronic
-41,Zürich,Balkankaravan,2015-03-14,[' Spery Spyridoula Stavrou '],
-42,null,Alle-Farben,2015-03-14,['Alle Farben '],Electronic
-43,Zürich,Raid-05,2015-03-14,['DJs Sub Zero '],Electronic
+location,event,date,artists,genre
+Winterthur,Chopin-und-Medtner,2015-03-14,['Yulia Miloslavskaya '],Classic
+Zürich,4.-Fastensonntag-Laetare,2015-03-14,"[' Hossein Samieian ', ' Felix Gubser ']",Classic
+Zürich,Monte-Carlo,2015-03-14,['Monte Carlo '],Pop
+Zürich,Fili-mi-Absalon,2015-03-14,"[' Henryk Böhm ', ' Giovanna Pessi ', ' Jürg Frey ']",Classic
+Liestal,Daniel-Wäch,2015-03-14,['Daniel Wäch '],
+Zürich,Tonhalle-Orchester-Zürich,2015-03-14,"[' László Fenyö ', ' Monika Leskovar ', ' Maja Bogdanovic ', ' Olga Pasichnyk ']",Classic
+Zürich,Internationales-Country-Music-Festival,2015-03-14,"['Johnny Reid & Band ', ' Wayne Law & Band ']",
+Zürich,Soko,2015-03-14,['Soko '],Pop
+Sarnen,The-Stouts,2015-03-14,"[' Sevi The Brave ', ' MacPeace ', ' MacEarth ', ' MacTube ', ' MacLebowsky ', ' MacStevie ']",
+Basel,Tarantacaffe,2015-03-14,['Malìe '],
+Zürich,Nena,2015-03-14,['Nena '],Pop
+Winterthur,Karnivool,2015-03-14,"['Karnivool ', ' Monumnets ']",
+Basel,Vierhändige-Klaviermusik,2015-03-14,"['Marcia Hadjimarkos ', ' Brice Pauset ']",Classic
+Pratteln,Black-Label-Society,2015-03-14,['Black Label Society '],
+Winterthur,Chorprojekt,2015-03-14,['Marion Meili '],
+Oberengstringen,Kappelle-Kessler,2015-03-14,"[' Valentin Kessler ', ' Manuel Mengis ', ' Franz Hellmüller ', ' Luca Sisera ', ' Tobias Schramm ']",
+Zürich,Edoardo-Bennato,2015-03-14,['Edoardo Bennato '],Pop
+Zürich,Leonard-Bernstein-exzessive-Lebensgier-und-tiefe-Depression,2015-03-14,"['Daniel Schnyder ', ' Marcin Grochowina ']",Classic
+Winistorf,Forty-Shades,2015-03-14,['Forty Shades '],
+Bülach,Swing-Connects-Three-Continents,2015-03-14,"[' Eiji Hanaoka ', ' Nagome Sakuma ', ' Masato Kobayashi ', ' Duke Heitger ', ' Engelbert Wrobel ']",
+Basel,Jazzfestival-Basel,2015-03-14,"[' Buika ', ' Daniel Lopez Vicente ', ' Ramon Suarez Escobar ', ' Jose Manuel Posada ']",
+Effretikon,Acoustic-Blues-Jam-Session,2015-03-14,[' Blues for Frets '],
+Zug,Skerryvore,2015-03-14,['Skerryvore '],
+Zürich,Molotow-Brass-Orkestar,2015-03-14,"[' Gregor Krtschek ', ' Stephan Fröhlicher ', ' Jan Müller ', ' Reimar Walthert ']",
+Basel,Femme-Schmidt,2015-03-14,['Femme Schmidt '],Pop
+Dübendorf,Dübendorfer-Jazztage-Germany,2015-03-14,"[' Barbara Dennerlein ', ' Marcel Gustke ']",
+Winterthur,Mute-Swimmer,2015-03-14,['Mute Swimmer '],
+Basel,Cojazz-feat.-Ann-Malcom,2015-03-14,"[' Ann Malcolm ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Jorge Rossy ']",
+Solothurn,Sphaer,2015-03-14,"['Barbara Gasser ', ' Sebastian Rotzler ']",
+Thun,Gemma-Ray,2015-03-14,['Gemma Ray '],Pop
+Zug,Stuberein,2015-03-14,['Stuberein '],Pop
+Lyss,Satellite-Stories,2015-03-14,"['Satellite Stories ', ' support: Young Romance ']",
+null,Akua-Naru,2015-03-14,"['Akua Naru ', ' Yarah Bravo ']",
+Zürich,Bob-Spring-&-The-Calling-Sirens,2015-03-14,['Bob Spring & The Calling Sirens '],
+Basel,Cilia-Hunch,2015-03-14,"[' Cilia Hunch ', ' Marvin Trummer ', ' Claude Stucki ', ' Moritz Meyer ', ' Paul Amereller ', ' Melly Reden ', ' Fritz Carmelo Mader ']",
+Luzern,Mondscheinkneipe-Vol.-VII,2015-03-14,['Bomba Titinka '],Electronic
+Bern,Rooftop-Runners,2015-03-14,['Rooftop Runners '],Pop
+Bern,Inhumate,2015-03-14,['Inhumate '],
+Zürich,The-Durian-Brothers,2015-03-14,['The Durian Brothers '],Electronic
+Baden,Nachtkonzert-New-tête,2015-03-14,"['Charlotte Torres ', ' Oliver Widmer ', ' Beda Ehrensberger ']",
+Lausanne,Brodinski,2015-03-14,"['Brodinski ', ' Sam Tiba ']",Electronic
+Zürich,Balkankaravan,2015-03-14,[' Spery Spyridoula Stavrou '],
+null,Alle-Farben,2015-03-14,['Alle Farben '],Electronic
+Zürich,Raid-05,2015-03-14,['DJs Sub Zero '],Electronic

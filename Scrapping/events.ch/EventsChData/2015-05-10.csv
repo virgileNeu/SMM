@@ -1,39 +1,39 @@
-,location,event,date,artists,genre
-0,Zürich,Musik-hat-Zukunft-Piccolo-concerto-grosso,2015-05-10,[' Simone Keller '],Classic
-1,null,6.-Kammerkonzert,2015-05-10,[' Brigitte Fatton '],Classic
-2,Zumikon,Jazzmatinee,2015-05-10,"[' Andy Harder ', ' Lorenz Beyeler ', ' Tobias Friedli ']",
-3,Basel,AMG-Sonntagsmatinee-zum-Muttertag,2015-05-10,[' Romina Tomasoni '],Classic
-4,Bern,Wiener-Schule-Wiener-Klassik,2015-05-10,"['Wei-Zhong Lu ', ' Wen Lu-Hu ', ' Thomas Korks ', ' Andreas Graf ']",Classic
-5,Luzern,Extrakonzert-zum-Muttertag-Der-Donau-entlang,2015-05-10,"[' Khatia Buniatishvili ', ' Lisa Schatzman ']",Classic
-6,null,Tino-Flautino,2015-05-10,[' conductor: Maurice Steger '],Classic
-7,null,Dover-Quartett,2015-05-10,"['Dover Quartett ', ' Joel Link ', ' Bryan Lee ', ' Milena Pajaro-van de Stadt ', ' Camden Shaw ']",Classic
-8,Zürich,Wahlverwandtschaften-Ein-Schelm-wer-Böses-dabei-denkt,2015-05-10,"['Haika Lübcke ', ' Felix-Andreas Genner ', ' Urs Dengler ', ' Mischa Greull ', ' Peter McGuire ']",Classic
-9,Bern,Philipp-Moll-Trio,2015-05-10,"[' Philipp Moll ', ' Stewy von Wattenwyl ', ' Kevin Chesham ', ' Daniel Woodtli ']",
-10,Weggis,Anthony-Caputo,2015-05-10,['Anthony Caputo '],
-11,null,International-Piano-Series,2015-05-10,"['Alena Baeva ', ' Vadym Kholodenko ']",Classic
-12,Aarau,Visions,2015-05-10,"['Christoph Croisé ', ' Oxana Shevchenko ']",Classic
-13,Thun,Orchestre-de-Chambre-Romand-de-Berne,2015-05-10,['Chiara Enderle '],Classic
-14,Zug,Zeitgenössische-Kammermusik,2015-05-10,"[' Peter Vögeli ', ' Julianna Wetzel ', ' Maurus Conte ', ' Claudia Kienzler ', ' David Sontòn Caflisch ']",Classic
-15,Zürich,Abschiedskonzert,2015-05-10,"[' Sonja Leutwyler ', ' Judith Lüpold ', ' Simon Witzig ', ' Markus Volpert ', ' Patrizio Mazzola ']",Classic
-16,Zürich,Tonhalle-Orchester-Zürich,2015-05-10,['Rudolf Buchbinder '],Classic
-17,Bern,Benefizkonzert-zum-Muttertag,2015-05-10,"['Simona Mango ', ' Irene Hirt ']",Classic
-18,Rapperswil,Muttertagskonzert,2015-05-10,[' Bomi Song '],Classic
-19,null,Il-Maestro-di-Cappella,2015-05-10,"[' Valentina Marghinotti ', ' Santiago Garzon Arredondo ']",Classic
-20,null,Muttertagskonzert,2015-05-10,['Jeannine Camenzind '],
-21,Basel,Evocation,2015-05-10,['Vincent Dubois '],Classic
-22,Winterthur,Amore-è-bandito,2015-05-10,"['Stephanie Boller ', ' Rosario Conte ']",Classic
-23,Zürich,5-Seconds-Of-Summer,2015-05-10,['5 Seconds Of Summer '],Pop
-24,Rain,Liedesfeuer-Chormusik-mit-Gitarre-zum-Muttertag,2015-05-10,[' Anne-Sophie Ferrer '],Classic
-25,Zürich,Omar-Sosa-Quarteto-Afrocubano,2015-05-10,"[' Omar Sosa ', ' Childo Tomas ', ' Leandro Saint-Hill ', ' Ernesto Simpson ']",
-26,null,Moodie-Black,2015-05-10,"['Moodie Black ', ' Oddateee ']",
-27,null,Moodie-Black,2015-05-10,"['Moodie Black ', ' Oddateee ']",
-28,Winterthur,Roll-Down-the-Line,2015-05-10,['Handsome Hank and his Band '],
-29,Zürich,Orgelkonzert,2015-05-10,['John Walthausen '],Classic
-30,Solothurn,Equilibrium,2015-05-10,['Equilibrium '],
-31,Bern,Nicole-Maguire,2015-05-10,['Nicole Maguire '],
-32,Zug,Akkordeonale,2015-05-10,"['Teija Niku ', ' David Yengibarian ', ' Niamh Ní Charra ', ' Thilo Plaesser ']",
-33,Bern,Skip-&-Die,2015-05-10,['Skip & Die '],Electronic
-34,Luzern,Atomic-Bitchwax,2015-05-10,"['Atomic Bitchwax ', ' 1000 Mods ']",
-35,Basel,Jazzfestival-Basel,2015-05-10,"['Dianne Reeves & Band ', ' Dianne Reeves ', ' Peter Martin ', ' Romero Lubambo ', ' Reginald Veal ', ' Terreon Gully ']",
-36,Bern,Elina-Duni-Quartet,2015-05-10,"[' Elina Duni ', ' Colin Vallon ', ' Lukas Traxel ', ' Norbert Pfammatter ']",
-37,Baden,Joy-Wellboy,2015-05-10,['Joy Wellboy '],Electronic
+location,event,date,artists,genre
+Zürich,Musik-hat-Zukunft-Piccolo-concerto-grosso,2015-05-10,[' Simone Keller '],Classic
+null,6.-Kammerkonzert,2015-05-10,[' Brigitte Fatton '],Classic
+Zumikon,Jazzmatinee,2015-05-10,"[' Andy Harder ', ' Lorenz Beyeler ', ' Tobias Friedli ']",
+Basel,AMG-Sonntagsmatinee-zum-Muttertag,2015-05-10,[' Romina Tomasoni '],Classic
+Bern,Wiener-Schule-Wiener-Klassik,2015-05-10,"['Wei-Zhong Lu ', ' Wen Lu-Hu ', ' Thomas Korks ', ' Andreas Graf ']",Classic
+Luzern,Extrakonzert-zum-Muttertag-Der-Donau-entlang,2015-05-10,"[' Khatia Buniatishvili ', ' Lisa Schatzman ']",Classic
+null,Tino-Flautino,2015-05-10,[' conductor: Maurice Steger '],Classic
+null,Dover-Quartett,2015-05-10,"['Dover Quartett ', ' Joel Link ', ' Bryan Lee ', ' Milena Pajaro-van de Stadt ', ' Camden Shaw ']",Classic
+Zürich,Wahlverwandtschaften-Ein-Schelm-wer-Böses-dabei-denkt,2015-05-10,"['Haika Lübcke ', ' Felix-Andreas Genner ', ' Urs Dengler ', ' Mischa Greull ', ' Peter McGuire ']",Classic
+Bern,Philipp-Moll-Trio,2015-05-10,"[' Philipp Moll ', ' Stewy von Wattenwyl ', ' Kevin Chesham ', ' Daniel Woodtli ']",
+Weggis,Anthony-Caputo,2015-05-10,['Anthony Caputo '],
+null,International-Piano-Series,2015-05-10,"['Alena Baeva ', ' Vadym Kholodenko ']",Classic
+Aarau,Visions,2015-05-10,"['Christoph Croisé ', ' Oxana Shevchenko ']",Classic
+Thun,Orchestre-de-Chambre-Romand-de-Berne,2015-05-10,['Chiara Enderle '],Classic
+Zug,Zeitgenössische-Kammermusik,2015-05-10,"[' Peter Vögeli ', ' Julianna Wetzel ', ' Maurus Conte ', ' Claudia Kienzler ', ' David Sontòn Caflisch ']",Classic
+Zürich,Abschiedskonzert,2015-05-10,"[' Sonja Leutwyler ', ' Judith Lüpold ', ' Simon Witzig ', ' Markus Volpert ', ' Patrizio Mazzola ']",Classic
+Zürich,Tonhalle-Orchester-Zürich,2015-05-10,['Rudolf Buchbinder '],Classic
+Bern,Benefizkonzert-zum-Muttertag,2015-05-10,"['Simona Mango ', ' Irene Hirt ']",Classic
+Rapperswil,Muttertagskonzert,2015-05-10,[' Bomi Song '],Classic
+null,Il-Maestro-di-Cappella,2015-05-10,"[' Valentina Marghinotti ', ' Santiago Garzon Arredondo ']",Classic
+null,Muttertagskonzert,2015-05-10,['Jeannine Camenzind '],
+Basel,Evocation,2015-05-10,['Vincent Dubois '],Classic
+Winterthur,Amore-è-bandito,2015-05-10,"['Stephanie Boller ', ' Rosario Conte ']",Classic
+Zürich,5-Seconds-Of-Summer,2015-05-10,['5 Seconds Of Summer '],Pop
+Rain,Liedesfeuer-Chormusik-mit-Gitarre-zum-Muttertag,2015-05-10,[' Anne-Sophie Ferrer '],Classic
+Zürich,Omar-Sosa-Quarteto-Afrocubano,2015-05-10,"[' Omar Sosa ', ' Childo Tomas ', ' Leandro Saint-Hill ', ' Ernesto Simpson ']",
+null,Moodie-Black,2015-05-10,"['Moodie Black ', ' Oddateee ']",
+null,Moodie-Black,2015-05-10,"['Moodie Black ', ' Oddateee ']",
+Winterthur,Roll-Down-the-Line,2015-05-10,['Handsome Hank and his Band '],
+Zürich,Orgelkonzert,2015-05-10,['John Walthausen '],Classic
+Solothurn,Equilibrium,2015-05-10,['Equilibrium '],
+Bern,Nicole-Maguire,2015-05-10,['Nicole Maguire '],
+Zug,Akkordeonale,2015-05-10,"['Teija Niku ', ' David Yengibarian ', ' Niamh Ní Charra ', ' Thilo Plaesser ']",
+Bern,Skip-&-Die,2015-05-10,['Skip & Die '],Electronic
+Luzern,Atomic-Bitchwax,2015-05-10,"['Atomic Bitchwax ', ' 1000 Mods ']",
+Basel,Jazzfestival-Basel,2015-05-10,"['Dianne Reeves & Band ', ' Dianne Reeves ', ' Peter Martin ', ' Romero Lubambo ', ' Reginald Veal ', ' Terreon Gully ']",
+Bern,Elina-Duni-Quartet,2015-05-10,"[' Elina Duni ', ' Colin Vallon ', ' Lukas Traxel ', ' Norbert Pfammatter ']",
+Baden,Joy-Wellboy,2015-05-10,['Joy Wellboy '],Electronic

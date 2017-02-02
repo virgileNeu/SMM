@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Zürich,Sun-da-l'Engiadina,2015-08-30,"[' Curdin Janett ', ' Domenic Janett ', ' Pius Baumgartner ', ' Robert Mark ']",traditional
-1,Zürich,Top-Party-Band-Krokodili,2015-08-30,['Top Party Band Krokodili '],
-2,Murten,Murten-Classics,2015-08-30,"['Kaspar Zehnder ', ' Vital Julian Frey ']",Classic
-3,null,Les-digitales,2015-08-30,[' Murcof '],Electronic
-4,Murten,Murten-Classics,2015-08-30,"['Ana Ioana Oltean ', ' Simon Bucher ']",Classic
-5,Fischingen,Orgel-&-Violoncello,2015-08-30,"['Tobias Willi ', ' Daniel Schaerer ']",Classic
-6,Thun,Bachwochen-Thun-Balkan-baroque,2015-08-30,[' Gilad Harel '],Classic
-7,Basel,Sommer-Konzert,2015-08-30,"['Michael Haslebacher ', ' Sylvia Wilhelm ']",
-8,Luzern,Lucerne-Festival-Festgottesdienst,2015-08-30,"[' Simone Stock ', ' Sebastian Lipp ', ' Samuel Zünd ', ' Elisabeth Zawadke ']",Classic
-9,Zürich,25-Jahre-Orpheum,2015-08-30,"[' Aurélien Pascal ', ' Vadym Kholodenko ', ' works by Valery Kikta ']",Classic
-10,Basel,Jazz-Zeitmaschine,2015-08-30,"[' Dan Vernhettes ', ' Francis Guéro ', ' Tommy Sancton ', ' Siphan Upravan ', ' Yves Buffetrille ', ' Jeff Boudreaux ']",
-11,Zürich,Abendmusik,2015-08-30,[' Christian Döhring '],Classic
-12,Solothurn,Alesana,2015-08-30,['Alesana '],
-13,Murten,Murten-Classics,2015-08-30,[' Brigitte Hool '],Classic
+location,event,date,artists,genre
+Zürich,Sun-da-l'Engiadina,2015-08-30,"[' Curdin Janett ', ' Domenic Janett ', ' Pius Baumgartner ', ' Robert Mark ']",traditional
+Zürich,Top-Party-Band-Krokodili,2015-08-30,['Top Party Band Krokodili '],
+Murten,Murten-Classics,2015-08-30,"['Kaspar Zehnder ', ' Vital Julian Frey ']",Classic
+null,Les-digitales,2015-08-30,[' Murcof '],Electronic
+Murten,Murten-Classics,2015-08-30,"['Ana Ioana Oltean ', ' Simon Bucher ']",Classic
+Fischingen,Orgel-&-Violoncello,2015-08-30,"['Tobias Willi ', ' Daniel Schaerer ']",Classic
+Thun,Bachwochen-Thun-Balkan-baroque,2015-08-30,[' Gilad Harel '],Classic
+Basel,Sommer-Konzert,2015-08-30,"['Michael Haslebacher ', ' Sylvia Wilhelm ']",
+Luzern,Lucerne-Festival-Festgottesdienst,2015-08-30,"[' Simone Stock ', ' Sebastian Lipp ', ' Samuel Zünd ', ' Elisabeth Zawadke ']",Classic
+Zürich,25-Jahre-Orpheum,2015-08-30,"[' Aurélien Pascal ', ' Vadym Kholodenko ', ' works by Valery Kikta ']",Classic
+Basel,Jazz-Zeitmaschine,2015-08-30,"[' Dan Vernhettes ', ' Francis Guéro ', ' Tommy Sancton ', ' Siphan Upravan ', ' Yves Buffetrille ', ' Jeff Boudreaux ']",
+Zürich,Abendmusik,2015-08-30,[' Christian Döhring '],Classic
+Solothurn,Alesana,2015-08-30,['Alesana '],
+Murten,Murten-Classics,2015-08-30,[' Brigitte Hool '],Classic

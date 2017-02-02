@@ -1,45 +1,45 @@
-,location,event,date,artists,genre
-0,Zürich,Konzert-Kult-No.-12,2016-04-16,"['Alexander Boldachev ', ' Tania Pimenova ']",Classic
-1,Bern,Ferdinand-der-Stier,2016-04-16,"['Regula Hunger ', ' Ingrid Schmanke ', ' Christian Holenstein-Mende ', ' Peter Hauser ']",Classic
-2,Cully,Cully-Jazz,2016-04-16,['Gonzalo Rubalcaba '],
-3,Zürich,One-Day-Festival,2016-04-16,"[' Tamás Vásárhelyi ', ' Daniela Timokhine ']",Classic
-4,Zürich,Monte-Carlo,2016-04-16,['Monte Carlo '],Pop
-5,Zürich,Westspiele-One-Day-Festival,2016-04-16,"['Sarah Verrue ', ' Heili Rosin ', ' Ekachai Maskulrat ']",Classic
-6,Liestal,Severin-Jenny,2016-04-16,"[' Severin Jenny ', ' Stefan Gabele ']",
-7,Zürich,Deströyer-666,2016-04-16,"['Deströyer 666 ', ' Trepaneringsritualen ']",
-8,Pratteln,Axel-Rudi-Pell,2016-04-16,"['Axel Rudi Pell ', ' Mob Rules ']",
-9,Basel,Märchenfrühling,2016-04-16,"['Polina Nikiforova ', ' Fiore Favaro ']",Classic
-10,Zürich,Westspiele-One-Day-Festival,2016-04-16,[' Daniela Timokhine '],Classic
-11,Zürich,Kung-Liljekonvalje,2016-04-16,"[' Jenny Högström ', ' Viktor Majzik ']",Classic
-12,Basel,Glorious,2016-04-16,[' Thilo Muster '],Classic
-13,Bern,Internationales-Jazzfestival-Bern,2016-04-16,"['Joey Alexander Trio ', ' Jon Cleary & The Monster Gentlemen ']",
-14,Cully,Cully-Jazz,2016-04-16,"['José James ', ' José James ', ' Takeshi Ohbayashi ', ' Solomon Dorsey ', ' Joe Blaxx ']",
-15,Winterthur,Oratorium-Solomon,2016-04-16,"[' Ivana Rusko ', ' Aurea Marston ', ' Andreas Pehl ', ' Erlend Tvinnereim ', ' Stephan Imboden ']",Classic
-16,Zürich,M4Music,2016-04-16,"[' Brian Fallon & The Crowes ', ' The Boxer Rebellion ', ' DJs Gorgon City ']",
-17,Zürich,M4Music,2016-04-16,"[' Neonschwarz ', ' Rat Boy ']",Pop
-18,Basel,Ausweg,2016-04-16,"[' Raphael Camenisch ', ' Christoph Bösch ', ' Pilar Fontalba ', ' Toshiko Sakakibara ']",Classic
-19,Münchenstein,Deep-Well,2016-04-16,[' Elyria '],
-20,Aarburg,Beborn-Beton-&-Forced-To-Mode,2016-04-16,"['Beborn Beton ', ' Forced To Mode ']",
-21,Basel,AnnenMayKantereit,2016-04-16,['AnnenMayKantereit '],Pop
-22,Basel,Wolfgang-Lackerschmid-Connection,2016-04-16,"[' Ryan Carniaux ', ' Wolfgang Lackerschmid ', ' Stefan Rademacher ', ' Guido May ']",
-23,Solothurn,City-Beyond-the-Ocean,2016-04-16,['City Beyond the Ocean '],
-24,null,Music-for-Films,2016-04-16,"[' Peter Zielmann ', ' Patrick Sommer ', ' Andreas Wettstein ']",Pop
-25,Cully,Cully-Jazz,2016-04-16,"[' Red & Black Light ', ' Ibrahim Maalouf ', ' Eric Legnini ', ' François Delporte ', ' Stéphane Galland ']",
-26,Basel,Closing-Night,2016-04-16,['Andrea Samborski '],Pop
-27,null,Most-of-the-Time,2016-04-16,"['Giuliano Sulzberger ', ' Seraphim von Werra ', ' Felix Müller ']",Pop
-28,Bellinzona,Fred-Firth,2016-04-16,['Fred Firth '],
-29,Bern,Götz-Widmann,2016-04-16,['Götz Widmann '],Pop
-30,Schaffhausen,The-Royal-Dandy's-Drinking-Club,2016-04-16,[' DJs Mr. Fries '],Electronic
-31,Basel,Impro-Duo,2016-04-16,"[' Dominik Schürmann ', ' Samuel Dühsler ']",
-32,Zürich,Bendorim,2016-04-16,"[' Dela Hüttner ', ' Karin Meier ', ' Stefanie Kunckler ', ' Jürg Luchsinger ']",
-33,null,La-Yegros,2016-04-16,['La Yegros '],
-34,Zürich,M4Music,2016-04-16,[' Chefket '],
-35,Cully,Cully-Jazz,2016-04-16,['Gonzalo Rubalcaba '],
-36,Baden,Rock-a-Billy-Part-12,2016-04-16,"['Little Roman and the Dirty Cats ', ' Wise Guyz ']",
-37,Basel,Kalles-Kaviar,2016-04-16,[' Tchicky Monky '],
-38,Bad-Ragaz,The-Sweet-Remains,2016-04-16,"[' Brian Chartrand ', ' Peter Day ', ' Jeff Vallone ']",
-39,Zürich,Kofelgschroa,2016-04-16,['Kofelgschroa '],traditional
-40,Bern,Emily-Wells,2016-04-16,"['Emily Wells ', ' DJ Grrrl in the Garage ']",Pop
-41,Basel,Jucifer,2016-04-16,"['Jucifer ', ' Malm ', ' Echolot ']",
-42,Zürich,M4Music,2016-04-16,"['The Lytics ', ' Villagers ', ' Ok Kid ', ' Kid Simius ']",
-43,Zug,Öz-Ürügülü,2016-04-16,['Öz Ürügülü '],
+location,event,date,artists,genre
+Zürich,Konzert-Kult-No.-12,2016-04-16,"['Alexander Boldachev ', ' Tania Pimenova ']",Classic
+Bern,Ferdinand-der-Stier,2016-04-16,"['Regula Hunger ', ' Ingrid Schmanke ', ' Christian Holenstein-Mende ', ' Peter Hauser ']",Classic
+Cully,Cully-Jazz,2016-04-16,['Gonzalo Rubalcaba '],
+Zürich,One-Day-Festival,2016-04-16,"[' Tamás Vásárhelyi ', ' Daniela Timokhine ']",Classic
+Zürich,Monte-Carlo,2016-04-16,['Monte Carlo '],Pop
+Zürich,Westspiele-One-Day-Festival,2016-04-16,"['Sarah Verrue ', ' Heili Rosin ', ' Ekachai Maskulrat ']",Classic
+Liestal,Severin-Jenny,2016-04-16,"[' Severin Jenny ', ' Stefan Gabele ']",
+Zürich,Deströyer-666,2016-04-16,"['Deströyer 666 ', ' Trepaneringsritualen ']",
+Pratteln,Axel-Rudi-Pell,2016-04-16,"['Axel Rudi Pell ', ' Mob Rules ']",
+Basel,Märchenfrühling,2016-04-16,"['Polina Nikiforova ', ' Fiore Favaro ']",Classic
+Zürich,Westspiele-One-Day-Festival,2016-04-16,[' Daniela Timokhine '],Classic
+Zürich,Kung-Liljekonvalje,2016-04-16,"[' Jenny Högström ', ' Viktor Majzik ']",Classic
+Basel,Glorious,2016-04-16,[' Thilo Muster '],Classic
+Bern,Internationales-Jazzfestival-Bern,2016-04-16,"['Joey Alexander Trio ', ' Jon Cleary & The Monster Gentlemen ']",
+Cully,Cully-Jazz,2016-04-16,"['José James ', ' José James ', ' Takeshi Ohbayashi ', ' Solomon Dorsey ', ' Joe Blaxx ']",
+Winterthur,Oratorium-Solomon,2016-04-16,"[' Ivana Rusko ', ' Aurea Marston ', ' Andreas Pehl ', ' Erlend Tvinnereim ', ' Stephan Imboden ']",Classic
+Zürich,M4Music,2016-04-16,"[' Brian Fallon & The Crowes ', ' The Boxer Rebellion ', ' DJs Gorgon City ']",
+Zürich,M4Music,2016-04-16,"[' Neonschwarz ', ' Rat Boy ']",Pop
+Basel,Ausweg,2016-04-16,"[' Raphael Camenisch ', ' Christoph Bösch ', ' Pilar Fontalba ', ' Toshiko Sakakibara ']",Classic
+Münchenstein,Deep-Well,2016-04-16,[' Elyria '],
+Aarburg,Beborn-Beton-&-Forced-To-Mode,2016-04-16,"['Beborn Beton ', ' Forced To Mode ']",
+Basel,AnnenMayKantereit,2016-04-16,['AnnenMayKantereit '],Pop
+Basel,Wolfgang-Lackerschmid-Connection,2016-04-16,"[' Ryan Carniaux ', ' Wolfgang Lackerschmid ', ' Stefan Rademacher ', ' Guido May ']",
+Solothurn,City-Beyond-the-Ocean,2016-04-16,['City Beyond the Ocean '],
+null,Music-for-Films,2016-04-16,"[' Peter Zielmann ', ' Patrick Sommer ', ' Andreas Wettstein ']",Pop
+Cully,Cully-Jazz,2016-04-16,"[' Red & Black Light ', ' Ibrahim Maalouf ', ' Eric Legnini ', ' François Delporte ', ' Stéphane Galland ']",
+Basel,Closing-Night,2016-04-16,['Andrea Samborski '],Pop
+null,Most-of-the-Time,2016-04-16,"['Giuliano Sulzberger ', ' Seraphim von Werra ', ' Felix Müller ']",Pop
+Bellinzona,Fred-Firth,2016-04-16,['Fred Firth '],
+Bern,Götz-Widmann,2016-04-16,['Götz Widmann '],Pop
+Schaffhausen,The-Royal-Dandy's-Drinking-Club,2016-04-16,[' DJs Mr. Fries '],Electronic
+Basel,Impro-Duo,2016-04-16,"[' Dominik Schürmann ', ' Samuel Dühsler ']",
+Zürich,Bendorim,2016-04-16,"[' Dela Hüttner ', ' Karin Meier ', ' Stefanie Kunckler ', ' Jürg Luchsinger ']",
+null,La-Yegros,2016-04-16,['La Yegros '],
+Zürich,M4Music,2016-04-16,[' Chefket '],
+Cully,Cully-Jazz,2016-04-16,['Gonzalo Rubalcaba '],
+Baden,Rock-a-Billy-Part-12,2016-04-16,"['Little Roman and the Dirty Cats ', ' Wise Guyz ']",
+Basel,Kalles-Kaviar,2016-04-16,[' Tchicky Monky '],
+Bad-Ragaz,The-Sweet-Remains,2016-04-16,"[' Brian Chartrand ', ' Peter Day ', ' Jeff Vallone ']",
+Zürich,Kofelgschroa,2016-04-16,['Kofelgschroa '],traditional
+Bern,Emily-Wells,2016-04-16,"['Emily Wells ', ' DJ Grrrl in the Garage ']",Pop
+Basel,Jucifer,2016-04-16,"['Jucifer ', ' Malm ', ' Echolot ']",
+Zürich,M4Music,2016-04-16,"['The Lytics ', ' Villagers ', ' Ok Kid ', ' Kid Simius ']",
+Zug,Öz-Ürügülü,2016-04-16,['Öz Ürügülü '],

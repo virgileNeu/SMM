@@ -1,36 +1,36 @@
-,location,event,date,artists,genre
-0,Zürich,Monte-Carlo,2016-02-05,['Monte Carlo '],Pop
-1,Basel,Wiener-Musik-soiree,2016-02-05,['Karl Knöpfel '],Classic
-2,Basel,Orgelspiel-zum-Feierabend,2016-02-05,['Heinz Balli '],Classic
-3,Zürich,Quinta-essentia-Aether,2016-02-05,"[' Stefka Perifanova ', ' Isabelle Schnöller ', ' Karin Dornbusch ', ' Helena Winkelman ']",Classic
-4,Lyss,Luca-Turillis-Rhapsody,2016-02-05,"['Luca Turillis Rhapsody ', ' support: Temperance ', ' Quantice ']",
-5,Winterthur,Klassische-Vielsaitigkeit,2016-02-05,"['Selina Cuonz ', ' Marija Wüthrich-Savicevic ', ' Master-Abschlussrezital Florin Grüter ']",Classic
-6,Baden,One-of-a-Million,2016-02-05,['And the Golden Choir '],Pop
-7,Bern,Headbangersball,2016-02-05,['Black Messiah '],
-8,Zürich,Spätwerke,2016-02-05,[' Catriona Bühler '],Classic
-9,Zürich,Parkway-Drive,2016-02-05,['Parkway Drive '],
-10,Zürich,Majoe,2016-02-05,['Majoe '],
-11,Zürich,Ben-Caplan,2016-02-05,['Ben Caplan '],
-12,Bülach,Slidestream,2016-02-05,"[' Danilo Moccia ', ' Vincent Lachat ', ' Stefan Schlegel ', ' Stefan Stahel ', ' Christoph Sprenger ', ' Elmar Frey ']",
-13,Winterthur,Intertwined,2016-02-05,"[' Yumi Ito ', ' Gabriel Dalvit ', ' Yves Theiler ', ' Grzegorz Wlodarczyk ']",
-14,Zürich,Knackeboul-&-Friends,2016-02-05,"['Knackeboul & Friends ', ' Knackeboul ', ' Chocolococolo ', ' Dave Eleanor ', ' Mirco Schwab ']",
-15,Liebefeld,FM-Trio,2016-02-05,"['FM Trio ', ' Fabian Mueller ', ' Kaspar von Grünigen ', ' Fabian Bürgi ']",
-16,Basel,Herring-Alexander-Quintet,2016-02-05,"[' Vincent Herring ', ' Eric Alexander ', ' Victor Gould ', ' Milan Nikolic ', ' Joris Dudli ']",
-17,Baden,Pezzo-Acoustic,2016-02-05,[' Peter Pezzo Tantchev '],
-18,Basel,Deichkind,2016-02-05,['Deichkind '],
-19,Zug,Strings-Attached,2016-02-05,"[' Daniel Gubelmann ', ' Matthias Studer ', ' Mirco Häberli ', ' Peter Preibisch ', ' Laida Alberdi ', ' Mirjam Früh ']",
-20,Zürich,Jeger-Meier-&-Jason-Kahn,2016-02-05,"[' Silvan Jeger ', ' Tobias Meier ', ' Jason Kahn ']",
-21,Zürich,Theo-Kapilidis,2016-02-05,"['Theo Kapilidis ', ' Theo Kapilidis ', ' Florian Egli ', ' Raphael Walser ', ' Maxime Parate ']",
-22,null,Stickerei-Jazz-Trio-&-Pino-Buoro,2016-02-05,"[' Christoph Seitler ', ' Adi Gerlach ', ' Daniel Staub ', ' Pino Buoro ', ' Markus Bittmann ']",
-23,Thun,Mark-Geary,2016-02-05,['Mark Geary '],Pop
-24,Bern,Hänschen-Klein,2016-02-05,"[' Chrigel Dietrich ', ' Tinu Dreyer ', ' Housi Loeffel ', ' Fridu Tanner ', ' Budi Zimmermann ', ' Bädu Zurflüh ']",Pop
-25,null,Bruno-Spoerri-&-Julian-Sartorius,2016-02-05,"[' Bruno Spoerri ', ' Julian Sartorius ']",
-26,Aarau,Hocico,2016-02-05,['Hocico '],
-27,Zürich,The-Paper-Kites,2016-02-05,['The Paper Kites '],
-28,Baden,One-of-a-Million,2016-02-05,"['Bird on Wire ', ' Dans Dans ']",Pop
-29,Bern,Nasty-Bites,2016-02-05,['Epic Schmetterling '],
-30,Basel,Norn,2016-02-05,"['Norn ', ' World Narcosis ']",
-31,Sankt-Gallen,Girls-Names,2016-02-05,"['Girls Names ', ' Gross Net ']",
-32,Bern,Freitagnacht,2016-02-05,['Bacchus '],Pop
-33,Zürich,Zoster,2016-02-05,['Zoster '],Pop
-34,Lyss,Shantel,2016-02-05,['Shantel '],
+location,event,date,artists,genre
+Zürich,Monte-Carlo,2016-02-05,['Monte Carlo '],Pop
+Basel,Wiener-Musik-soiree,2016-02-05,['Karl Knöpfel '],Classic
+Basel,Orgelspiel-zum-Feierabend,2016-02-05,['Heinz Balli '],Classic
+Zürich,Quinta-essentia-Aether,2016-02-05,"[' Stefka Perifanova ', ' Isabelle Schnöller ', ' Karin Dornbusch ', ' Helena Winkelman ']",Classic
+Lyss,Luca-Turillis-Rhapsody,2016-02-05,"['Luca Turillis Rhapsody ', ' support: Temperance ', ' Quantice ']",
+Winterthur,Klassische-Vielsaitigkeit,2016-02-05,"['Selina Cuonz ', ' Marija Wüthrich-Savicevic ', ' Master-Abschlussrezital Florin Grüter ']",Classic
+Baden,One-of-a-Million,2016-02-05,['And the Golden Choir '],Pop
+Bern,Headbangersball,2016-02-05,['Black Messiah '],
+Zürich,Spätwerke,2016-02-05,[' Catriona Bühler '],Classic
+Zürich,Parkway-Drive,2016-02-05,['Parkway Drive '],
+Zürich,Majoe,2016-02-05,['Majoe '],
+Zürich,Ben-Caplan,2016-02-05,['Ben Caplan '],
+Bülach,Slidestream,2016-02-05,"[' Danilo Moccia ', ' Vincent Lachat ', ' Stefan Schlegel ', ' Stefan Stahel ', ' Christoph Sprenger ', ' Elmar Frey ']",
+Winterthur,Intertwined,2016-02-05,"[' Yumi Ito ', ' Gabriel Dalvit ', ' Yves Theiler ', ' Grzegorz Wlodarczyk ']",
+Zürich,Knackeboul-&-Friends,2016-02-05,"['Knackeboul & Friends ', ' Knackeboul ', ' Chocolococolo ', ' Dave Eleanor ', ' Mirco Schwab ']",
+Liebefeld,FM-Trio,2016-02-05,"['FM Trio ', ' Fabian Mueller ', ' Kaspar von Grünigen ', ' Fabian Bürgi ']",
+Basel,Herring-Alexander-Quintet,2016-02-05,"[' Vincent Herring ', ' Eric Alexander ', ' Victor Gould ', ' Milan Nikolic ', ' Joris Dudli ']",
+Baden,Pezzo-Acoustic,2016-02-05,[' Peter Pezzo Tantchev '],
+Basel,Deichkind,2016-02-05,['Deichkind '],
+Zug,Strings-Attached,2016-02-05,"[' Daniel Gubelmann ', ' Matthias Studer ', ' Mirco Häberli ', ' Peter Preibisch ', ' Laida Alberdi ', ' Mirjam Früh ']",
+Zürich,Jeger-Meier-&-Jason-Kahn,2016-02-05,"[' Silvan Jeger ', ' Tobias Meier ', ' Jason Kahn ']",
+Zürich,Theo-Kapilidis,2016-02-05,"['Theo Kapilidis ', ' Theo Kapilidis ', ' Florian Egli ', ' Raphael Walser ', ' Maxime Parate ']",
+null,Stickerei-Jazz-Trio-&-Pino-Buoro,2016-02-05,"[' Christoph Seitler ', ' Adi Gerlach ', ' Daniel Staub ', ' Pino Buoro ', ' Markus Bittmann ']",
+Thun,Mark-Geary,2016-02-05,['Mark Geary '],Pop
+Bern,Hänschen-Klein,2016-02-05,"[' Chrigel Dietrich ', ' Tinu Dreyer ', ' Housi Loeffel ', ' Fridu Tanner ', ' Budi Zimmermann ', ' Bädu Zurflüh ']",Pop
+null,Bruno-Spoerri-&-Julian-Sartorius,2016-02-05,"[' Bruno Spoerri ', ' Julian Sartorius ']",
+Aarau,Hocico,2016-02-05,['Hocico '],
+Zürich,The-Paper-Kites,2016-02-05,['The Paper Kites '],
+Baden,One-of-a-Million,2016-02-05,"['Bird on Wire ', ' Dans Dans ']",Pop
+Bern,Nasty-Bites,2016-02-05,['Epic Schmetterling '],
+Basel,Norn,2016-02-05,"['Norn ', ' World Narcosis ']",
+Sankt-Gallen,Girls-Names,2016-02-05,"['Girls Names ', ' Gross Net ']",
+Bern,Freitagnacht,2016-02-05,['Bacchus '],Pop
+Zürich,Zoster,2016-02-05,['Zoster '],Pop
+Lyss,Shantel,2016-02-05,['Shantel '],

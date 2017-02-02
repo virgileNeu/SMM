@@ -1,49 +1,49 @@
-,location,event,date,artists,genre
-0,Davos,Snow-Jam-Davos,2014-03-15,"[' Cro ', ' Fettes Brot ', ' Prinz Pi ']",
-1,Winterthur,Le-Jazz-et-le-Java,2014-03-15,"[' Céline Rais ', ' Thomas Bloch-Bonhoff ']",
-2,Zürich,Duo-Festival,2014-03-15,"['Agnes Vass ', ' Sébastien Dupuis ', ' Alexander Kuznetsov ', ' Slava Spiridonov ', ' Elena Gonzalez ']",Classic
-3,Winterthur,Wiener-Klassik-lustvoll-und-verspielt,2014-03-15,[' Luisa Splett '],Classic
-4,Zürich,Steirersound,2014-03-15,['Steirersound '],traditional
-5,Zürich,Borknagar,2014-03-15,"['Borknagar ', ' Manegarm ', ' Ereb Altor ', ' Shade Empire ']",
-6,Luzern,Piano-Entertainment,2014-03-15,['Fabienne Ambühl '],
-7,Zürich,Tankcsapda,2014-03-15,['Tankcsapda '],
-8,Zürich,Caribbean-Music,2014-03-15,"[' Marlène Dorcéna ', ' Marcin Grochowina ']",Classic
-9,Luzern,Goran-Bregovic-and-his-Wedding-&-Funeral-Band,2014-03-15,['Goran Bregovic and his Wedding & Funeral Band '],
-10,Zürich,Internationales-Country-Music-Festival,2014-03-15,['The Good Brothers '],
-11,Bern,Rezital,2014-03-15,['Fazil Say '],Classic
-12,Bern,Eros-&-Thanatos-Matutin-der-letzten-Dinge,2014-03-15,[' Ken Zuckerman '],Classic
-13,Zürich,Gavin-DeGraw,2014-03-15,['Gavin DeGraw '],
-14,Zug,Monthly-Assault,2014-03-15,"[' Gutalax ', ' Rectal Smegma ']",
-15,Zürich,Risk-It,2014-03-15,['Risk It '],
-16,Aarau,Nebenschauplätze-der-italienischen-Oper,2014-03-15,[' Raphael Jud '],Classic
-17,Sursee,Exit,2014-03-15,['Exit '],
-18,Münchenstein,Shades-of-Purple,2014-03-15,['Shades of Purple '],
-19,Richterswil,Musique-en-route,2014-03-15,"[' Ronny Spiegel ', ' Tom Tafel ', ' Kanna ', ' Stefanie Hess ', ' Ariel Rossi ']",Pop
-20,Zürich,Tankcsapda,2014-03-15,['Tankcsapda '],
-21,Oberengstringen,Chris-Wiesendanger-Trio,2014-03-15,"[' Christoph Wiesendanger ', ' Dudu Penz ', ' Julio Baretto ']",
-22,Baden,Jazz-geht-Baden,2014-03-15,"[""Django Bates' Belovèd ""]",
-23,Zürich,The-Beauty-of-Gemina,2014-03-15,[' support: The Prostitutes '],
-24,Frick,Dewiisli,2014-03-15,"[' Nadia Dörig ', ' Adrian Dörig ', ' Christa Kölberer ']",traditional
-25,Baden,Arr-ju-launsam-tuneit-,2014-03-15,"[' Thomas Rabenschlag ', ' Max Lässer ']",
-26,Liebefeld,Los-Caracoles,2014-03-15,"[' Rafael de Huelva ', ' Vicente Cortes ', ' Alfredo Palacios ', ' German Papu ']",
-27,Zürich,La-nuit-francofolle,2014-03-15,"['Emily Loizeau ', ' Emily Loizeau ', ' Olivier Koundouno ']",Pop
-28,Feuerthalen,John-Lyons-Band,2014-03-15,"[' John Lyons ', ' Felix Müller ', ' Simon Britschgi ']",
-29,Zug,King-King,2014-03-15,['King King '],
-30,Basel,Jürgen-Hagenlocher-Quintet-feat.-Alex-Sipiagin,2014-03-15,"[' Alex Sipiagin ', ' Jürgen Hagenlocher ', ' Dano Haider ', ' Thomas Bauser ', ' Jörg Eckel ']",
-31,Pratteln,Pat-Mc-Manus,2014-03-15,['Pat Mc Manus '],
-32,null,Deluxe,2014-03-15,['Deluxe '],
-33,null,Herman-Portal,2014-03-15,"[' Yaron Herman ', ' Michel Portal ']",
-34,Rubigen,Heather-Nova,2014-03-15,['Heather Nova '],
-35,Baden,Bild-&-Ton,2014-03-15,"['Grischa Lichtenberger ', ' Senking ']",Electronic
-36,null,Voix-de-fête,2014-03-15,['Erwan Pinard '],Pop
-37,Kriens,Blackbird-Blackbird,2014-03-15,['Blackbird Blackbird '],Electronic
-38,null,Stylo-G,2014-03-15,"['Stylo G ', ' Hya P ']",
-39,Zürich,KKC-Orchestra,2014-03-15,['KKC Orchestra '],
-40,Bern,Drum-Phase-No.-4,2014-03-15,"['Rico Baumann ', ' Simon Baumann ', ' Arno Troxler ', ' Don Li ']",
-41,Sankt-Gallen,Nadine-Shah,2014-03-15,['Nadine Shah '],Pop
-42,null,Prefuse-73,2014-03-15,['Prefuse 73 '],
-43,Bern,Rabe-Fest,2014-03-15,['Dan Le Sac Vs Scroobious Pip '],
-44,Basel,Outlaw,2014-03-15,[' Utopia '],
-45,Basel,Get-Salty-or-Die-Asthmatic,2014-03-15,[' F4ktor '],
-46,Solothurn,Austin-Lucas,2014-03-15,['Austin Lucas '],
-47,Lyss,Delinquent-Habits,2014-03-15,['Delinquent Habits '],
+location,event,date,artists,genre
+Davos,Snow-Jam-Davos,2014-03-15,"[' Cro ', ' Fettes Brot ', ' Prinz Pi ']",
+Winterthur,Le-Jazz-et-le-Java,2014-03-15,"[' Céline Rais ', ' Thomas Bloch-Bonhoff ']",
+Zürich,Duo-Festival,2014-03-15,"['Agnes Vass ', ' Sébastien Dupuis ', ' Alexander Kuznetsov ', ' Slava Spiridonov ', ' Elena Gonzalez ']",Classic
+Winterthur,Wiener-Klassik-lustvoll-und-verspielt,2014-03-15,[' Luisa Splett '],Classic
+Zürich,Steirersound,2014-03-15,['Steirersound '],traditional
+Zürich,Borknagar,2014-03-15,"['Borknagar ', ' Manegarm ', ' Ereb Altor ', ' Shade Empire ']",
+Luzern,Piano-Entertainment,2014-03-15,['Fabienne Ambühl '],
+Zürich,Tankcsapda,2014-03-15,['Tankcsapda '],
+Zürich,Caribbean-Music,2014-03-15,"[' Marlène Dorcéna ', ' Marcin Grochowina ']",Classic
+Luzern,Goran-Bregovic-and-his-Wedding-&-Funeral-Band,2014-03-15,['Goran Bregovic and his Wedding & Funeral Band '],
+Zürich,Internationales-Country-Music-Festival,2014-03-15,['The Good Brothers '],
+Bern,Rezital,2014-03-15,['Fazil Say '],Classic
+Bern,Eros-&-Thanatos-Matutin-der-letzten-Dinge,2014-03-15,[' Ken Zuckerman '],Classic
+Zürich,Gavin-DeGraw,2014-03-15,['Gavin DeGraw '],
+Zug,Monthly-Assault,2014-03-15,"[' Gutalax ', ' Rectal Smegma ']",
+Zürich,Risk-It,2014-03-15,['Risk It '],
+Aarau,Nebenschauplätze-der-italienischen-Oper,2014-03-15,[' Raphael Jud '],Classic
+Sursee,Exit,2014-03-15,['Exit '],
+Münchenstein,Shades-of-Purple,2014-03-15,['Shades of Purple '],
+Richterswil,Musique-en-route,2014-03-15,"[' Ronny Spiegel ', ' Tom Tafel ', ' Kanna ', ' Stefanie Hess ', ' Ariel Rossi ']",Pop
+Zürich,Tankcsapda,2014-03-15,['Tankcsapda '],
+Oberengstringen,Chris-Wiesendanger-Trio,2014-03-15,"[' Christoph Wiesendanger ', ' Dudu Penz ', ' Julio Baretto ']",
+Baden,Jazz-geht-Baden,2014-03-15,"[""Django Bates' Belovèd ""]",
+Zürich,The-Beauty-of-Gemina,2014-03-15,[' support: The Prostitutes '],
+Frick,Dewiisli,2014-03-15,"[' Nadia Dörig ', ' Adrian Dörig ', ' Christa Kölberer ']",traditional
+Baden,Arr-ju-launsam-tuneit-,2014-03-15,"[' Thomas Rabenschlag ', ' Max Lässer ']",
+Liebefeld,Los-Caracoles,2014-03-15,"[' Rafael de Huelva ', ' Vicente Cortes ', ' Alfredo Palacios ', ' German Papu ']",
+Zürich,La-nuit-francofolle,2014-03-15,"['Emily Loizeau ', ' Emily Loizeau ', ' Olivier Koundouno ']",Pop
+Feuerthalen,John-Lyons-Band,2014-03-15,"[' John Lyons ', ' Felix Müller ', ' Simon Britschgi ']",
+Zug,King-King,2014-03-15,['King King '],
+Basel,Jürgen-Hagenlocher-Quintet-feat.-Alex-Sipiagin,2014-03-15,"[' Alex Sipiagin ', ' Jürgen Hagenlocher ', ' Dano Haider ', ' Thomas Bauser ', ' Jörg Eckel ']",
+Pratteln,Pat-Mc-Manus,2014-03-15,['Pat Mc Manus '],
+null,Deluxe,2014-03-15,['Deluxe '],
+null,Herman-Portal,2014-03-15,"[' Yaron Herman ', ' Michel Portal ']",
+Rubigen,Heather-Nova,2014-03-15,['Heather Nova '],
+Baden,Bild-&-Ton,2014-03-15,"['Grischa Lichtenberger ', ' Senking ']",Electronic
+null,Voix-de-fête,2014-03-15,['Erwan Pinard '],Pop
+Kriens,Blackbird-Blackbird,2014-03-15,['Blackbird Blackbird '],Electronic
+null,Stylo-G,2014-03-15,"['Stylo G ', ' Hya P ']",
+Zürich,KKC-Orchestra,2014-03-15,['KKC Orchestra '],
+Bern,Drum-Phase-No.-4,2014-03-15,"['Rico Baumann ', ' Simon Baumann ', ' Arno Troxler ', ' Don Li ']",
+Sankt-Gallen,Nadine-Shah,2014-03-15,['Nadine Shah '],Pop
+null,Prefuse-73,2014-03-15,['Prefuse 73 '],
+Bern,Rabe-Fest,2014-03-15,['Dan Le Sac Vs Scroobious Pip '],
+Basel,Outlaw,2014-03-15,[' Utopia '],
+Basel,Get-Salty-or-Die-Asthmatic,2014-03-15,[' F4ktor '],
+Solothurn,Austin-Lucas,2014-03-15,['Austin Lucas '],
+Lyss,Delinquent-Habits,2014-03-15,['Delinquent Habits '],

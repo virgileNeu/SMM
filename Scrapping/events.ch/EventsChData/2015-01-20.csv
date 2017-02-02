@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Zürich,Spoerri-Dylag,2015-01-20,"[' Bruno Spoerri ', ' Roman Dylag ']",
-1,Basel,AMG-Solistenabende,2015-01-20,['Evgeny Kissin '],Classic
-2,Zürich,Mitteleuropa-trifft-Ukraine,2015-01-20,['Alexey Botvinov '],Classic
-3,Basel,Gedenkkonzert-Rolf-Mäser,2015-01-20,"['Kurt Widmer ', ' Kiyoshi Kasai ', ' Jean-Jacques Dünki ', ' Balz Trümpy ', ' Gérard Wyss ']",Classic
-4,Zürich,Liederabend,2015-01-20,['Olena Tokar '],Classic
-5,Aarau,Auf-nach-Norden,2015-01-20,[' Regula Mühlemann '],Classic
-6,Zürich,Booker-T.-Jones,2015-01-20,"['Booker T. Jones ', ' Booker T Jones ', ' Vernon Black ', ' Ted Jones ', ' Melvin Brannon Jr ', ' Darian Gray ']",
-7,Zürich,Die-Antwoord,2015-01-20,['Die Antwoord '],
-8,Pratteln,Wishbone-Ash,2015-01-20,['Wishbone Ash '],
-9,Luzern,Dienstagsjazz,2015-01-20,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-10,Zürich,Konzert,2015-01-20,[' Sarah Rumer '],Classic
-11,Winterthur,Svavar-Knútur,2015-01-20,['Svavar Knútur '],Pop
-12,Zürich,Duokunst-im-Doppelpack,2015-01-20,"[' Robert Morgenthaler ', ' Urs Röllin ', ' Omri Ziegele ', ' Yves Theiler ']",
-13,Lausanne,Louis-Bertignac,2015-01-20,['Louis Bertignac '],Pop
+location,event,date,artists,genre
+Zürich,Spoerri-Dylag,2015-01-20,"[' Bruno Spoerri ', ' Roman Dylag ']",
+Basel,AMG-Solistenabende,2015-01-20,['Evgeny Kissin '],Classic
+Zürich,Mitteleuropa-trifft-Ukraine,2015-01-20,['Alexey Botvinov '],Classic
+Basel,Gedenkkonzert-Rolf-Mäser,2015-01-20,"['Kurt Widmer ', ' Kiyoshi Kasai ', ' Jean-Jacques Dünki ', ' Balz Trümpy ', ' Gérard Wyss ']",Classic
+Zürich,Liederabend,2015-01-20,['Olena Tokar '],Classic
+Aarau,Auf-nach-Norden,2015-01-20,[' Regula Mühlemann '],Classic
+Zürich,Booker-T.-Jones,2015-01-20,"['Booker T. Jones ', ' Booker T Jones ', ' Vernon Black ', ' Ted Jones ', ' Melvin Brannon Jr ', ' Darian Gray ']",
+Zürich,Die-Antwoord,2015-01-20,['Die Antwoord '],
+Pratteln,Wishbone-Ash,2015-01-20,['Wishbone Ash '],
+Luzern,Dienstagsjazz,2015-01-20,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
+Zürich,Konzert,2015-01-20,[' Sarah Rumer '],Classic
+Winterthur,Svavar-Knútur,2015-01-20,['Svavar Knútur '],Pop
+Zürich,Duokunst-im-Doppelpack,2015-01-20,"[' Robert Morgenthaler ', ' Urs Röllin ', ' Omri Ziegele ', ' Yves Theiler ']",
+Lausanne,Louis-Bertignac,2015-01-20,['Louis Bertignac '],Pop

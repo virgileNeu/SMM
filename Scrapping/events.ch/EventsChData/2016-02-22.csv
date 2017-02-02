@@ -1,14 +1,14 @@
-,location,event,date,artists,genre
-0,null,7.-Tonhallekonzert-Lieder,2016-02-22,['Malin Hartelius '],Classic
-1,Basel,AMG-Solistenabend,2016-02-22,['Kit Armstrong '],Classic
-2,Zürich,Hurts,2016-02-22,['Hurts '],Electronic
-3,Zürich,Mose-Requiem,2016-02-22,"[' Eva Oltiványi ', ' Tino Brütsch ', ' Michael Raschle ']",Classic
-4,Pratteln,My-Sleeping-Karma,2016-02-22,"['My Sleeping Karma ', ' Mammoth Mammoth ']",
-5,Zürich,Vök,2016-02-22,"['Vök ', ' Mani Orrason ']",
-6,Zürich,Saywecanfly,2016-02-22,['Saywecanfly '],Pop
-7,Solothurn,Blues-Pills,2016-02-22,['Blues Pills '],
-8,null,Frank-Kuruc-Quartett,2016-02-22,"[' Frank Kuruc ', ' Gee Hye Lee ', ' Joel Locher ', ' Torsten Krill ']",
-9,Baden,Doppelkonzert,2016-02-22,"['Matthias Spillmann ', ' Tobias Meier ']",
-10,Zürich,Heavy-Metal-Rabbit,2016-02-22,"[' Lucien Dubuis ', ' Barry Guy ', ' Alfred Vogel ']",
-11,Winterthur,Miss-Kenichi,2016-02-22,['Miss Kenichi '],Pop
-12,Luzern,Kleister,2016-02-22,['Kleister '],
+location,event,date,artists,genre
+null,7.-Tonhallekonzert-Lieder,2016-02-22,['Malin Hartelius '],Classic
+Basel,AMG-Solistenabend,2016-02-22,['Kit Armstrong '],Classic
+Zürich,Hurts,2016-02-22,['Hurts '],Electronic
+Zürich,Mose-Requiem,2016-02-22,"[' Eva Oltiványi ', ' Tino Brütsch ', ' Michael Raschle ']",Classic
+Pratteln,My-Sleeping-Karma,2016-02-22,"['My Sleeping Karma ', ' Mammoth Mammoth ']",
+Zürich,Vök,2016-02-22,"['Vök ', ' Mani Orrason ']",
+Zürich,Saywecanfly,2016-02-22,['Saywecanfly '],Pop
+Solothurn,Blues-Pills,2016-02-22,['Blues Pills '],
+null,Frank-Kuruc-Quartett,2016-02-22,"[' Frank Kuruc ', ' Gee Hye Lee ', ' Joel Locher ', ' Torsten Krill ']",
+Baden,Doppelkonzert,2016-02-22,"['Matthias Spillmann ', ' Tobias Meier ']",
+Zürich,Heavy-Metal-Rabbit,2016-02-22,"[' Lucien Dubuis ', ' Barry Guy ', ' Alfred Vogel ']",
+Winterthur,Miss-Kenichi,2016-02-22,['Miss Kenichi '],Pop
+Luzern,Kleister,2016-02-22,['Kleister '],

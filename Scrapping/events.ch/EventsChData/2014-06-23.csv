@@ -1,20 +1,20 @@
-,location,event,date,artists,genre
-0,Basel,Bachelorrezital,2014-06-23,[' Livia Berchtold '],Classic
-1,Basel,Bachelorrezital,2014-06-23,[' Dalila Guzzi '],Classic
-2,Basel,Masterrezital,2014-06-23,[' Sarah Gross '],Classic
-3,Basel,Masterrezital,2014-06-23,[' Babak Mahmudian '],Classic
-4,Basel,Masterrezital,2014-06-23,[' Christoph Herrmann '],Classic
-5,Basel,Masterrezital,2014-06-23,[' Alexander Boeschoten '],Classic
-6,Ascona,Jazz-Ascona,2014-06-23,"['The Duke Ellington Orchestra ', ' Blue Serenaders ', ' Breda Jazz Festival Band ', ' The Original Pinettes Brass Band ', ' New Breed Brass Band ', ' Gumbo Carioca feat. Denise Gordon ', ' Kermit Ruffins and The BBQ Swingers ']",
-7,Zürich,Festspiele-Zürich-Liederabend,2014-06-23,"['Matthias Goerne ', ' Alexander Schmalcz ']",Classic
-8,Basel,Masterrezital,2014-06-23,[' Carolina Rodríguez de Guzmán '],Classic
-9,Basel,Masterrezital,2014-06-23,[' Katharina Heutjer '],Classic
-10,Basel,Neue-Töne-aus-Lettland,2014-06-23,['Iveta Apkalna '],Classic
-11,Zürich,Festspiele-Zürich-Chorkonzert-Zyklus-III,2014-06-23,"[' Yetzabel Arias Fernandez ', ' Maarten Engeltjes ', ' Tilman Lichdi ', ' Klaus Mertens ']",Classic
-12,Basel,Oper-Avenir-Al-fine,2014-06-23,"['Kim-Lillian Strebel ', ' Nathalie Mittelbach ', ' Markus Nykänen ', ' Jason Cox ', ' Rolando Garza ', ' Andrew Murphy ']",Classic
-13,Zürich,The-Brian-Jonestown-Massacre,2014-06-23,['The Brian Jonestown Massacre '],
-14,null,Subrosa,2014-06-23,['Subrosa '],
-15,Zürich,The-Brian-Jonestown-Massacre,2014-06-23,['The Brian Jonestown Massacre '],
-16,Zürich,Hollis-Brown,2014-06-23,['Hollis Brown '],
-17,Luzern,Bachelor-Progjekt-und-Masterabschluss-Konzert,2014-06-23,"[' Fränggi Gehrig ', ' Maria Gehrig ', ' Andreas Gabriel ', ' Andreas Ambühl ', ' Pirmin Huber ']",traditional
-18,Basel,The-Dillinger-Escape-Plan,2014-06-23,"['The Dillinger Escape Plan ', ' Thy Art Is Murder ', ' Letlive ']",
+location,event,date,artists,genre
+Basel,Bachelorrezital,2014-06-23,[' Livia Berchtold '],Classic
+Basel,Bachelorrezital,2014-06-23,[' Dalila Guzzi '],Classic
+Basel,Masterrezital,2014-06-23,[' Sarah Gross '],Classic
+Basel,Masterrezital,2014-06-23,[' Babak Mahmudian '],Classic
+Basel,Masterrezital,2014-06-23,[' Christoph Herrmann '],Classic
+Basel,Masterrezital,2014-06-23,[' Alexander Boeschoten '],Classic
+Ascona,Jazz-Ascona,2014-06-23,"['The Duke Ellington Orchestra ', ' Blue Serenaders ', ' Breda Jazz Festival Band ', ' The Original Pinettes Brass Band ', ' New Breed Brass Band ', ' Gumbo Carioca feat. Denise Gordon ', ' Kermit Ruffins and The BBQ Swingers ']",
+Zürich,Festspiele-Zürich-Liederabend,2014-06-23,"['Matthias Goerne ', ' Alexander Schmalcz ']",Classic
+Basel,Masterrezital,2014-06-23,[' Carolina Rodríguez de Guzmán '],Classic
+Basel,Masterrezital,2014-06-23,[' Katharina Heutjer '],Classic
+Basel,Neue-Töne-aus-Lettland,2014-06-23,['Iveta Apkalna '],Classic
+Zürich,Festspiele-Zürich-Chorkonzert-Zyklus-III,2014-06-23,"[' Yetzabel Arias Fernandez ', ' Maarten Engeltjes ', ' Tilman Lichdi ', ' Klaus Mertens ']",Classic
+Basel,Oper-Avenir-Al-fine,2014-06-23,"['Kim-Lillian Strebel ', ' Nathalie Mittelbach ', ' Markus Nykänen ', ' Jason Cox ', ' Rolando Garza ', ' Andrew Murphy ']",Classic
+Zürich,The-Brian-Jonestown-Massacre,2014-06-23,['The Brian Jonestown Massacre '],
+null,Subrosa,2014-06-23,['Subrosa '],
+Zürich,The-Brian-Jonestown-Massacre,2014-06-23,['The Brian Jonestown Massacre '],
+Zürich,Hollis-Brown,2014-06-23,['Hollis Brown '],
+Luzern,Bachelor-Progjekt-und-Masterabschluss-Konzert,2014-06-23,"[' Fränggi Gehrig ', ' Maria Gehrig ', ' Andreas Gabriel ', ' Andreas Ambühl ', ' Pirmin Huber ']",traditional
+Basel,The-Dillinger-Escape-Plan,2014-06-23,"['The Dillinger Escape Plan ', ' Thy Art Is Murder ', ' Letlive ']",

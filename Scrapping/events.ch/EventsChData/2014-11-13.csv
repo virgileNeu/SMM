@@ -1,33 +1,33 @@
-,location,event,date,artists,genre
-0,Zürich,Glantaler-Power-Men,2014-11-13,['Glantaler Power Men '],Pop
-1,Zürich,Tage-für-Neue-Musik,2014-11-13,"[' Paul Hübner ', ' Erika Öhman ', ' Karolina Öhman ', ' Mirka Scepanovic ', ' Paolo Vignaroli ', ' Kirill Zweginstow ']",Classic
-2,Zürich,Thursday-Night-Jazz,2014-11-13,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-3,null,3.-Tonhallekonzert,2014-11-13,['Fernando Gomes '],Classic
-4,Basel,Zarathustra,2014-11-13,[' Patricia Kopatchinskaja '],Classic
-5,Zürich,Retrogott,2014-11-13,"['Retrogott ', ' Kutmasta Kurt ', ' Motion Man ']",
-6,Basel,Elaiza,2014-11-13,['Elaiza '],
-7,Solothurn,Incognito,2014-11-13,"['Incognito ', ' Bluey ', ' Vanessa Haynes ', ' Tony Momrelle ', ' Katie Leone ', ' Matt Cooper ', ' Sid Gauld ', ' Nigel Hitchcock ']",
-8,Luzern,Salonmusik,2014-11-13,"['Martin Schaefer ', ' Richard Decker ']",Classic
-9,Herisau,Uriah-Heep,2014-11-13,['Uriah Heep '],
-10,Winterthur,Christoph-Grab's-Raw-Vision,2014-11-13,"[' Christoph Grab ', ' Frank Möbus ', ' Bernhard Bamert ', ' Thomas Lüscher ', ' Silvan Jeger ', ' Maxime Paratte ']",
-11,Zürich,Element-of-Crime,2014-11-13,['Element of Crime '],
-12,Pratteln,Dewolff,2014-11-13,['Dewolff '],
-13,Basel,Julio-Azcano-&-Juan-Pablo-Navarro,2014-11-13,"[' Julio Azcano ', ' Juan Pablo Navarro ']",
-14,Zürich,Tigran-Hamasyan-Trio,2014-11-13,"['Tigran Hamasyan Trio ', ' Tigran Hamasyan ', ' Sam Minae ', ' Arthur Hnatek ']",
-15,Bern,Meister-der-Sarod,2014-11-13,"[' Abhisek Lahiri ', ' Partha Sarathi Mukerjee ']",
-16,Luzern,Peter-Licht-Verschoben,2014-11-13,['Peter Licht '],Pop
-17,Basel,Javier-Ruibal,2014-11-13,['Javier Ruibal '],
-18,Lausanne,Einstürzende-Neubauten,2014-11-13,['Einstürzende Neubauten '],
-19,Bern,Triakel,2014-11-13,['Triakel '],
-20,-Maison-du-Peuple,null,2014-11-13,['Maceo Parker '],
-21,null,Sage-Francis,2014-11-13,['Sage Francis '],
-22,Basel,Black-Cop,2014-11-13,"['Black Cop ', ' Famine ', ' The Dog Eggs ']",
-23,Lausanne,Perfume-Genius,2014-11-13,['Perfume Genius '],
-24,Zürich,NGD-&-The-Ginantonics,2014-11-13,"[' Luca Burkhalter ', ' Claude Stucki ', ' Marcel Frautschi ']",Pop
-25,Zürich,Blaudzun,2014-11-13,['Blaudzun '],
-26,Zürich,Falcone-Jam,2014-11-13,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",Pop
-27,null,Thanks,2014-11-13,['Thanks '],
-28,Zürich,Astral-Swans,2014-11-13,['Astral Swans '],
-29,Luzern,Jam-Session,2014-11-13,['Richard Decker '],
-30,Zürich,AC-Vibes,2014-11-13,['AC Vibes '],
-31,Zürich,Stuart-O'Connor,2014-11-13,"[""Stuart O'Connor ""]",Pop
+location,event,date,artists,genre
+Zürich,Glantaler-Power-Men,2014-11-13,['Glantaler Power Men '],Pop
+Zürich,Tage-für-Neue-Musik,2014-11-13,"[' Paul Hübner ', ' Erika Öhman ', ' Karolina Öhman ', ' Mirka Scepanovic ', ' Paolo Vignaroli ', ' Kirill Zweginstow ']",Classic
+Zürich,Thursday-Night-Jazz,2014-11-13,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+null,3.-Tonhallekonzert,2014-11-13,['Fernando Gomes '],Classic
+Basel,Zarathustra,2014-11-13,[' Patricia Kopatchinskaja '],Classic
+Zürich,Retrogott,2014-11-13,"['Retrogott ', ' Kutmasta Kurt ', ' Motion Man ']",
+Basel,Elaiza,2014-11-13,['Elaiza '],
+Solothurn,Incognito,2014-11-13,"['Incognito ', ' Bluey ', ' Vanessa Haynes ', ' Tony Momrelle ', ' Katie Leone ', ' Matt Cooper ', ' Sid Gauld ', ' Nigel Hitchcock ']",
+Luzern,Salonmusik,2014-11-13,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Herisau,Uriah-Heep,2014-11-13,['Uriah Heep '],
+Winterthur,Christoph-Grab's-Raw-Vision,2014-11-13,"[' Christoph Grab ', ' Frank Möbus ', ' Bernhard Bamert ', ' Thomas Lüscher ', ' Silvan Jeger ', ' Maxime Paratte ']",
+Zürich,Element-of-Crime,2014-11-13,['Element of Crime '],
+Pratteln,Dewolff,2014-11-13,['Dewolff '],
+Basel,Julio-Azcano-&-Juan-Pablo-Navarro,2014-11-13,"[' Julio Azcano ', ' Juan Pablo Navarro ']",
+Zürich,Tigran-Hamasyan-Trio,2014-11-13,"['Tigran Hamasyan Trio ', ' Tigran Hamasyan ', ' Sam Minae ', ' Arthur Hnatek ']",
+Bern,Meister-der-Sarod,2014-11-13,"[' Abhisek Lahiri ', ' Partha Sarathi Mukerjee ']",
+Luzern,Peter-Licht-Verschoben,2014-11-13,['Peter Licht '],Pop
+Basel,Javier-Ruibal,2014-11-13,['Javier Ruibal '],
+Lausanne,Einstürzende-Neubauten,2014-11-13,['Einstürzende Neubauten '],
+Bern,Triakel,2014-11-13,['Triakel '],
+-Maison-du-Peuple,null,2014-11-13,['Maceo Parker '],
+null,Sage-Francis,2014-11-13,['Sage Francis '],
+Basel,Black-Cop,2014-11-13,"['Black Cop ', ' Famine ', ' The Dog Eggs ']",
+Lausanne,Perfume-Genius,2014-11-13,['Perfume Genius '],
+Zürich,NGD-&-The-Ginantonics,2014-11-13,"[' Luca Burkhalter ', ' Claude Stucki ', ' Marcel Frautschi ']",Pop
+Zürich,Blaudzun,2014-11-13,['Blaudzun '],
+Zürich,Falcone-Jam,2014-11-13,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",Pop
+null,Thanks,2014-11-13,['Thanks '],
+Zürich,Astral-Swans,2014-11-13,['Astral Swans '],
+Luzern,Jam-Session,2014-11-13,['Richard Decker '],
+Zürich,AC-Vibes,2014-11-13,['AC Vibes '],
+Zürich,Stuart-O'Connor,2014-11-13,"[""Stuart O'Connor ""]",Pop

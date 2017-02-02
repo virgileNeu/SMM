@@ -1,50 +1,50 @@
-,location,event,date,artists,genre
-0,Winterthur,Animationsfilme-mit-Live-Vertonung,2013-11-23,"['Linda Vogel ', ' und Vincent Glanzmann ']",Classic
-1,Bern,Vans-Warped-Tour,2013-11-23,"['Flogging Molly ', ' Parkway Drive ', ' Enter Shikari ', ' Yellowcard ', ' Blood Command ', ' Chiodos ', ' Coheed And Cambria ', ' Escape The Fate ', ' Crossfaith ', ' Like Torches ']",
-2,Uster,Romantik-&-Avantgarde,2013-11-23,"['René Krebs ', ' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",
-3,Zürich,Vorabend-Christkönig,2013-11-23,"['Emanuel Rütsche ', ' Felix Gubser ']",Classic
-4,Thalwil,Salzburger-Kirchenmusik,2013-11-23,"[' Franziska Zimmerli ', ' Alexandra Forster ', ' Daniel Leo Meier ', ' Christian Marthaler ', ' Andreas Schönenberger ']",Classic
-5,-Alte-Kirche,Boswil,2013-11-23,['Daniil Trifonov '],Classic
-6,Kriens,Motorama,2013-11-23,['Motorama '],
-7,Zürich,Winterreise,2013-11-23,"['Christian Tschelebiew ', ' Wilhelm Keitel ']",Classic
-8,Luzern,Rezital-5,2013-11-23,['Lise de la Salle '],Classic
-9,Komplex-457,Zürich,2013-11-23,['Prinz Pi '],
-10,Zürich,Hämatom,2013-11-23,"['Hämatom ', ' Crescent Moon ', ' Maersung ', ' Ihresgleichen ']",
-11,Zürich,Opera-Opera,2013-11-23,[' Adriana Marfisi '],Classic
-12,Zürich,Konzert,2013-11-23,[' Valentin Akçag '],Classic
-13,Bern,The-Sounds,2013-11-23,['The Sounds '],
-14,Zürich,Glanzlichter,2013-11-23,"[' Franziska Lips ', ' Ioanna Seira ', ' Melda Umur ', ' Kathryn Zevenbergen ']",Classic
-15,null,Brahms-Ein-deutsches-Requiem,2013-11-23,"[' Hiroko Haag ', ' Manuel Walser ', ' Wolfgang Wehinger ']",Classic
-16,Zürich,Chakuza,2013-11-23,"['Chakuza ', ' Ken Kenay ']",
-17,Basel,Destoupez-vos-oreilles,2013-11-23,"[' Breno Quinderé ', ' Lior Lavid Leibovici ', ' Ivo Haun ', ' Ziv Braha ']",Classic
-18,Zürich,The-Band-Perry,2013-11-23,['The Band Perry '],
-19,Bern,Uz-Jsme-Doma,2013-11-23,"['Uz Jsme Doma ', ' Merz & Sartorius Drum Ensemble ']",Pop
-20,Burgdorf,Fusion-Square-Garden,2013-11-23,"[' Moró ', ' MC Keen ', ' Matthias Urech ', ' Thomas Amrein ']",
-21,Arbon,Markus-Bischof-Trio,2013-11-23,"[' Markus Bischof ', ' Dietmar Kirchner ', ' Andreas Wettstein ']",
-22,Basel,Appassionato,2013-11-23,[' Aglaia Graf '],Classic
-23,Aarau,Aus-dem-hohen-Norden,2013-11-23,[' Rafael Rütti '],Classic
-24,Zürich,Living-Shape,2013-11-23,['Living Shape '],
-25,Zürich,Meh-Suff,2013-11-23,"['Death ', ' Obscura ']",
-26,Zürich,CulturEscapes,2013-11-23,"['Djecaci ', ' Antonijo Milina ', ' Josco Zizic ', ' Dragan Dokic ']",
-27,Basel,Alan-Broadbent-Trio,2013-11-23,"[' Alan Broadbent ', ' Philipp Stehen ', ' Kai Bussenius ']",
-28,Luzern,Late-Night,2013-11-23,['Momo Kodama '],Classic
-29,Basel,Casseurs-Flowters,2013-11-23,['Casseurs Flowters '],
-30,Herzogenbuchsee,1.-Indienight,2013-11-23,['Famp '],Pop
-31,Thun,Spain,2013-11-23,['Spain '],
-32,Bern,The-Bluesrock-Machine,2013-11-23,"[' Simon Sigg ', ' Tom Denzel ', ' Jürg Viragh ', ' Andreas Niklaus ']",
-33,null,Susanne-Abbuehl,2013-11-23,"[' Susanne Abbuehl ', ' Matthieu Michel ', ' Wolfert Brederode ', ' Olavi Louhivuori ']",
-34,Baden,Trash-Town-Rockabilly-Day,2013-11-23,"[""Lee's Revenge "", ' Carolina and her Rhytm Rockets ']",
-35,Zürich,Run-the-Jewels,2013-11-23,"['Run the Jewels ', ' DJ K-Rim ']",
-36,Laufen,Veto,2013-11-23,['Veto '],
-37,Basel,Festival-Génériq,2013-11-23,['Findlay '],
-38,Bern,Clara-Luzia-,2013-11-23,['Clara Luzia '],
-39,Münchenstein,Apparatschik,2013-11-23,['Apparatschik '],
-40,Zug,Twisted-Reality,2013-11-23,['Askari '],Electronic
-41,Bern,Sonic-Movements-4,2013-11-23,"['Isa Wiss ', ' Werner Hasler ', ' Don Li ']",
-42,Lausanne,Vitalic,2013-11-23,"['Vitalic ', ' Rone ']",Electronic
-43,Sankt-Gallen,Nachtbar-Spezial,2013-11-23,['DJ Baris K '],
-44,Zürich,Volplane,2013-11-23,"[' Toby Ferrari ', ' Jonathan Müller ', ' Michael Ritter ', ' Samuel Schwalm ']",
-45,Zürich,CulturEscapes,2013-11-23,"['S.A.R.S ', ' Zarko Kovacevic ', ' Aleksandar Lukovic ', ' Nenad Djordjevic ', ' Petar Milanovic ', ' Boris Tasev ']",
-46,Zürich,Guts-Pie-Earshot,2013-11-23,['Guts Pie Earshot '],
-47,Lyss,Rednex,2013-11-23,['Rednex '],Pop
-48,Zürich,CulturEscapes,2013-11-23,"['Dubioza Kolektiv ', ' Jakubovic ', ' Vedran Mujagic ', ' Arimin Busatlic ', ' Mario Sevarac ', ' Senad Suta ']",
+location,event,date,artists,genre
+Winterthur,Animationsfilme-mit-Live-Vertonung,2013-11-23,"['Linda Vogel ', ' und Vincent Glanzmann ']",Classic
+Bern,Vans-Warped-Tour,2013-11-23,"['Flogging Molly ', ' Parkway Drive ', ' Enter Shikari ', ' Yellowcard ', ' Blood Command ', ' Chiodos ', ' Coheed And Cambria ', ' Escape The Fate ', ' Crossfaith ', ' Like Torches ']",
+Uster,Romantik-&-Avantgarde,2013-11-23,"['René Krebs ', ' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",
+Zürich,Vorabend-Christkönig,2013-11-23,"['Emanuel Rütsche ', ' Felix Gubser ']",Classic
+Thalwil,Salzburger-Kirchenmusik,2013-11-23,"[' Franziska Zimmerli ', ' Alexandra Forster ', ' Daniel Leo Meier ', ' Christian Marthaler ', ' Andreas Schönenberger ']",Classic
+-Alte-Kirche,Boswil,2013-11-23,['Daniil Trifonov '],Classic
+Kriens,Motorama,2013-11-23,['Motorama '],
+Zürich,Winterreise,2013-11-23,"['Christian Tschelebiew ', ' Wilhelm Keitel ']",Classic
+Luzern,Rezital-5,2013-11-23,['Lise de la Salle '],Classic
+Komplex-457,Zürich,2013-11-23,['Prinz Pi '],
+Zürich,Hämatom,2013-11-23,"['Hämatom ', ' Crescent Moon ', ' Maersung ', ' Ihresgleichen ']",
+Zürich,Opera-Opera,2013-11-23,[' Adriana Marfisi '],Classic
+Zürich,Konzert,2013-11-23,[' Valentin Akçag '],Classic
+Bern,The-Sounds,2013-11-23,['The Sounds '],
+Zürich,Glanzlichter,2013-11-23,"[' Franziska Lips ', ' Ioanna Seira ', ' Melda Umur ', ' Kathryn Zevenbergen ']",Classic
+null,Brahms-Ein-deutsches-Requiem,2013-11-23,"[' Hiroko Haag ', ' Manuel Walser ', ' Wolfgang Wehinger ']",Classic
+Zürich,Chakuza,2013-11-23,"['Chakuza ', ' Ken Kenay ']",
+Basel,Destoupez-vos-oreilles,2013-11-23,"[' Breno Quinderé ', ' Lior Lavid Leibovici ', ' Ivo Haun ', ' Ziv Braha ']",Classic
+Zürich,The-Band-Perry,2013-11-23,['The Band Perry '],
+Bern,Uz-Jsme-Doma,2013-11-23,"['Uz Jsme Doma ', ' Merz & Sartorius Drum Ensemble ']",Pop
+Burgdorf,Fusion-Square-Garden,2013-11-23,"[' Moró ', ' MC Keen ', ' Matthias Urech ', ' Thomas Amrein ']",
+Arbon,Markus-Bischof-Trio,2013-11-23,"[' Markus Bischof ', ' Dietmar Kirchner ', ' Andreas Wettstein ']",
+Basel,Appassionato,2013-11-23,[' Aglaia Graf '],Classic
+Aarau,Aus-dem-hohen-Norden,2013-11-23,[' Rafael Rütti '],Classic
+Zürich,Living-Shape,2013-11-23,['Living Shape '],
+Zürich,Meh-Suff,2013-11-23,"['Death ', ' Obscura ']",
+Zürich,CulturEscapes,2013-11-23,"['Djecaci ', ' Antonijo Milina ', ' Josco Zizic ', ' Dragan Dokic ']",
+Basel,Alan-Broadbent-Trio,2013-11-23,"[' Alan Broadbent ', ' Philipp Stehen ', ' Kai Bussenius ']",
+Luzern,Late-Night,2013-11-23,['Momo Kodama '],Classic
+Basel,Casseurs-Flowters,2013-11-23,['Casseurs Flowters '],
+Herzogenbuchsee,1.-Indienight,2013-11-23,['Famp '],Pop
+Thun,Spain,2013-11-23,['Spain '],
+Bern,The-Bluesrock-Machine,2013-11-23,"[' Simon Sigg ', ' Tom Denzel ', ' Jürg Viragh ', ' Andreas Niklaus ']",
+null,Susanne-Abbuehl,2013-11-23,"[' Susanne Abbuehl ', ' Matthieu Michel ', ' Wolfert Brederode ', ' Olavi Louhivuori ']",
+Baden,Trash-Town-Rockabilly-Day,2013-11-23,"[""Lee's Revenge "", ' Carolina and her Rhytm Rockets ']",
+Zürich,Run-the-Jewels,2013-11-23,"['Run the Jewels ', ' DJ K-Rim ']",
+Laufen,Veto,2013-11-23,['Veto '],
+Basel,Festival-Génériq,2013-11-23,['Findlay '],
+Bern,Clara-Luzia-,2013-11-23,['Clara Luzia '],
+Münchenstein,Apparatschik,2013-11-23,['Apparatschik '],
+Zug,Twisted-Reality,2013-11-23,['Askari '],Electronic
+Bern,Sonic-Movements-4,2013-11-23,"['Isa Wiss ', ' Werner Hasler ', ' Don Li ']",
+Lausanne,Vitalic,2013-11-23,"['Vitalic ', ' Rone ']",Electronic
+Sankt-Gallen,Nachtbar-Spezial,2013-11-23,['DJ Baris K '],
+Zürich,Volplane,2013-11-23,"[' Toby Ferrari ', ' Jonathan Müller ', ' Michael Ritter ', ' Samuel Schwalm ']",
+Zürich,CulturEscapes,2013-11-23,"['S.A.R.S ', ' Zarko Kovacevic ', ' Aleksandar Lukovic ', ' Nenad Djordjevic ', ' Petar Milanovic ', ' Boris Tasev ']",
+Zürich,Guts-Pie-Earshot,2013-11-23,['Guts Pie Earshot '],
+Lyss,Rednex,2013-11-23,['Rednex '],Pop
+Zürich,CulturEscapes,2013-11-23,"['Dubioza Kolektiv ', ' Jakubovic ', ' Vedran Mujagic ', ' Arimin Busatlic ', ' Mario Sevarac ', ' Senad Suta ']",

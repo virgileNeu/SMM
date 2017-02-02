@@ -1,26 +1,26 @@
-,location,event,date,artists,genre
-0,Luzern,Sammy-Rimington-International-Band,2013-05-05,"[' Sammy Rimington ', ' Fredrik John ', ' Emile van Pelt ', ' Brian Turnock ', ' Wouter Nouwens ', ' Norman Emberson ']",
-1,Aarau,Konzertmatinée,2013-05-05,[' Beata Wetli '],Classic
-2,Zürich,Original-und-Bearbeitung,2013-05-05,"[' Andrzej Kilian ', ' Seiko Morishita ', ' Dominik Ostertag ', ' Anita Federli-Rutz ', ' Ewa Grzywna-Groblewska ']",Classic
-3,Kloten,Klassik-im-Museum,2013-05-05,"[' Anja Brühlmann ', ' Sven Schönauer ']",Classic
-4,Zürich,Surprise,2013-05-05,"['Polina Charnetckaia ', ' Laura Marzadori ', ' Aristide du Plessis ']",Classic
-5,Basel,Tango-con-Acordeón,2013-05-05,"['Salomé Jantz ', ' Jens Krüger & Cinthia Labaronne ']",
-6,Zürich,Konzert,2013-05-05,"[' Julia Becker ', ' Rafael Rosenfeld ']",Classic
-7,Basel,Sons-d'or-et-d'argent,2013-05-05,"['Soma Salat-Zakariás ', ' Leonardo Bortolotto ', ' Cécile Mansuy ']",Classic
-8,Haus-zum-Himmel,Pieterlen,2013-05-05,"['Shirley Grimes ', ' Roger Dalrymple ', ' Helt Oncale ']",
-9,Bern,Konzert,2013-05-05,['Francesco Tristano '],Classic
-10,null,Moving-Landscape,2013-05-05,"[' Simon Frick ', ' Monica Tracsay ', ' Klemens Lins ', ' Réka Jaksics ', ' Christian Berger ', ' Dietmar Kirchner ', ' Dominic Doppler ']",
-11,null,The-Socks,2013-05-05,['The Socks '],
-12,Zürich,Night-of-Jazz-Guitars-feat.-Larry-Coryell-&-Airto-Moreira,2013-05-05,"['Night of Jazz Guitars feat. Larry Coryell & Airto Moreira ', ' Larry Coryell ', ' Paulo Morello ', ' Helmut Kagerer ', ' Andreas Dombert ', ' Airto Moreira ']",
-13,null,Maria-in-der-Musik,2013-05-05,"['Karl Raas ', ' Charles Uzor ']",Classic
-14,Winterthur,Trio-Räss,2013-05-05,"[' Erich Vischer ', ' Hannes Giger ', ' Belisa Mang ']",Pop
-15,Feuerthalen,Trio-Klok,2013-05-05,['Trio Klok '],
-16,Basel,Tin-Trails,2013-05-05,['Tin Trails '],
-17,Hallenstadion,Zürich,2013-05-05,['Zucchero '],Zucchero
-18,Winterthur,Ana-Scent,2013-05-05,"[' Ana Scent ', ' Jonas Wolf ']",Pop
-19,Pratteln,Chris-Thompson,2013-05-05,['Chris Thompson '],
-20,Basel,Jazzfestival-Basel,2013-05-05,['Paolo Fresu & Daniele di Buonaventura & Chor A Filetta '],
-21,Les-Docks,Lausanne,2013-05-05,['Maceo Parker '],
-22,Thun,A.-Spell,2013-05-05,"['A. Spell ', ' Nadja Stoller ', ' Jan Galega Brönnimann ', ' Ronan Skillen ']",Electronic
-23,Zürich,Swanky-Mothers-Series-VIII,2013-05-05,"[' Jonas Labhart ', ' Dave Gisler ', ' Marius Peyer ']",
-24,Turnhalle-im-Progr,Bern,2013-05-05,"[' Black Cracker ', ' Leo Tardin ', ' Dominik Burkhalter ']",
+location,event,date,artists,genre
+Luzern,Sammy-Rimington-International-Band,2013-05-05,"[' Sammy Rimington ', ' Fredrik John ', ' Emile van Pelt ', ' Brian Turnock ', ' Wouter Nouwens ', ' Norman Emberson ']",
+Aarau,Konzertmatinée,2013-05-05,[' Beata Wetli '],Classic
+Zürich,Original-und-Bearbeitung,2013-05-05,"[' Andrzej Kilian ', ' Seiko Morishita ', ' Dominik Ostertag ', ' Anita Federli-Rutz ', ' Ewa Grzywna-Groblewska ']",Classic
+Kloten,Klassik-im-Museum,2013-05-05,"[' Anja Brühlmann ', ' Sven Schönauer ']",Classic
+Zürich,Surprise,2013-05-05,"['Polina Charnetckaia ', ' Laura Marzadori ', ' Aristide du Plessis ']",Classic
+Basel,Tango-con-Acordeón,2013-05-05,"['Salomé Jantz ', ' Jens Krüger & Cinthia Labaronne ']",
+Zürich,Konzert,2013-05-05,"[' Julia Becker ', ' Rafael Rosenfeld ']",Classic
+Basel,Sons-d'or-et-d'argent,2013-05-05,"['Soma Salat-Zakariás ', ' Leonardo Bortolotto ', ' Cécile Mansuy ']",Classic
+Haus-zum-Himmel,Pieterlen,2013-05-05,"['Shirley Grimes ', ' Roger Dalrymple ', ' Helt Oncale ']",
+Bern,Konzert,2013-05-05,['Francesco Tristano '],Classic
+null,Moving-Landscape,2013-05-05,"[' Simon Frick ', ' Monica Tracsay ', ' Klemens Lins ', ' Réka Jaksics ', ' Christian Berger ', ' Dietmar Kirchner ', ' Dominic Doppler ']",
+null,The-Socks,2013-05-05,['The Socks '],
+Zürich,Night-of-Jazz-Guitars-feat.-Larry-Coryell-&-Airto-Moreira,2013-05-05,"['Night of Jazz Guitars feat. Larry Coryell & Airto Moreira ', ' Larry Coryell ', ' Paulo Morello ', ' Helmut Kagerer ', ' Andreas Dombert ', ' Airto Moreira ']",
+null,Maria-in-der-Musik,2013-05-05,"['Karl Raas ', ' Charles Uzor ']",Classic
+Winterthur,Trio-Räss,2013-05-05,"[' Erich Vischer ', ' Hannes Giger ', ' Belisa Mang ']",Pop
+Feuerthalen,Trio-Klok,2013-05-05,['Trio Klok '],
+Basel,Tin-Trails,2013-05-05,['Tin Trails '],
+Hallenstadion,Zürich,2013-05-05,['Zucchero '],Zucchero
+Winterthur,Ana-Scent,2013-05-05,"[' Ana Scent ', ' Jonas Wolf ']",Pop
+Pratteln,Chris-Thompson,2013-05-05,['Chris Thompson '],
+Basel,Jazzfestival-Basel,2013-05-05,['Paolo Fresu & Daniele di Buonaventura & Chor A Filetta '],
+Les-Docks,Lausanne,2013-05-05,['Maceo Parker '],
+Thun,A.-Spell,2013-05-05,"['A. Spell ', ' Nadja Stoller ', ' Jan Galega Brönnimann ', ' Ronan Skillen ']",Electronic
+Zürich,Swanky-Mothers-Series-VIII,2013-05-05,"[' Jonas Labhart ', ' Dave Gisler ', ' Marius Peyer ']",
+Turnhalle-im-Progr,Bern,2013-05-05,"[' Black Cracker ', ' Leo Tardin ', ' Dominik Burkhalter ']",

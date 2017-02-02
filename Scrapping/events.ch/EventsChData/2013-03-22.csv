@@ -1,50 +1,50 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-03-22,['Christian Mettler '],Pop
-1,Basel,Orgelspiel-zum-Feierabend,2013-03-22,['Irena Zeitz '],Classic
-2,Winterthur,Ill-Niño,2013-03-22,['Ill Niño '],
-3,Zürich,Osterkonzert-Stabat-mater,2013-03-22,"['Eilana Lappalainen ', ' Svetlana Afonina ', ' \r\nNicola Pisaniello ']",Classic
-4,Zürich,Vingt-regards-sur-l'enfant-Jésus,2013-03-22,['Roger Muraro '],Classic
-5,Hallenstadion,Zürich,2013-03-22,['Justin Bieber '],
-6,Bern,Internationales-Jazzfestival-Bern,2013-03-22,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']",
-7,Basel,Totentanz,2013-03-22,[' Heike Landbeck '],Classic
-8,Zürich,Öffentliches-Konzert,2013-03-22,"[' Ursula Fortin ', ' Dorottya Marosvari ']",Classic
-9,Bern,Voilà,2013-03-22,[' Conrad Tao '],Classic
-10,Zürich,Konzert,2013-03-22,['Tobias Krebs '],Classic
-11,Basel,From-Dowland-to-Gershwin,2013-03-22,"['Theresia Bothe ', ' Peter Croton ']",Classic
-12,Luzern,Johannes-Passion,2013-03-22,"[' Nicolas Mulroy ', ' Andrew Tortise ']",Classic
-13,Zürich,Jake-Bugg,2013-03-22,['Jake Bugg '],
-14,Lausanne,Egyptian-Hip-Hop,2013-03-22,['Egyptian Hip Hop '],Pop
-15,Uster,According-to-Juliet,2013-03-22,"['Beate von Hahn ', ' Alessandra Warnke ', ' Stefanie Schumacher ']",Classic
-16,Schiffbau-10,Zürich,2013-03-22,"['T.E.E.D. ', ' Foals ', ' Jamie Lidell ', ' Stay+ ', ' ME ']",
-17,Zürich,M4Music,2013-03-22,"['ME ', ' Le Corps Mince de Françoise ']",Electronic
-18,Altikon,Morning-Dew,2013-03-22,"[' Tom Borcherding ', ' Dani Frey ', ' Tanja Stephani ', ' Hannes Mäder ']",
-19,Zürich,Secret-Army,2013-03-22,"['Secret Army ', ' Prollsport ']",
-20,Zürich,Pasión-de-Buena-Vista,2013-03-22,['Pasión de Buena Vista '],
-21,Rheinfelden,International-Trio-Plus-One,2013-03-22,"[' David Boeddinghaus ', ' Trevor Richards ', ' Olivier Franc ', ' Reimer von Essen ']",
-22,Zürich,Antiche-Ferrovie-Calabro-Lucane,2013-03-22,['Antiche Ferrovie Calabro-Lucane '],
-23,Uster,King-Lizard,2013-03-22,"['King Lizard ', ' Kingsdown ', ' Dust In Eyes ']",
-24,Basel,UpJazz,2013-03-22,"[' Tobias Meinhart ', ' Markus Brodtbeck ', ' Martin Wyss ', ' Jonas Prina ']",
-25,Zürich,Oriental-&-Flamenco-Gypsy-Festival,2013-03-22,"['Romano Drom ', ' Dhoad ', ' Jerez Puro ', ' Ssassa & Maryam ']",
-26,Esse-Musicbar,Winterthur,2013-03-22,"[' Kurt Söldi ', ' Andreas Schmid ', ' Christian Rösli ', ' Jean-Pierre Dix ']",
-27,Basel,Cojazz-Invites-Alice-Day,2013-03-22,"[' Alice Day ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Peter Schmidlin ']",
-28,Liebefeld,Peña-Flamenca-Los-Caracoles,2013-03-22,"[' Juan Cardenas ', ' Roland Satterwhite ', ' Christophe Bersier ', ' John Flury ']",
-29,Temple-du-Bas,null,2013-03-22,['Dianne Reeves '],
-30,Wallisellen,Fabulous-Daddy,2013-03-22,['Fabulous Daddy '],
-31,Köniz,Slixs,2013-03-22,['Slixs '],Pop
-32,Baden,Rock-&-Pop-Covers,2013-03-22,"[' Pezzo ', ' Plamen Blagoev ', ' Reto Spörli ']",
-33,Wallisellen,Fabulous-Daddy,2013-03-22,['Fabulous Daddy '],
-34,Rote-Fabrik,Zürich,2013-03-22,"[' Irène Schweizer ', ' Pierre Favre ']",
-35,Lugano,Concerti-Dell'auditorio-2013,2013-03-22,['Adriana Marfisi '],Classic
-36,Luzern,Bachelorprojekt-Konzerte,2013-03-22,"[' Claudia Döffinger ', ' Fabian Rosenzweig ', ' Flavio Viazzoli ', ' Beat Rüegsegger ', ' Benjamin Kieser ', ' Valerio Lepori ', ' Colin Morton ', ' Dominic Eschmann ']",
-37,Schauspielhaus-Schiffbau,Zürich,2013-03-22,"['Jamie Lidell ', ' Foals ', ' Totally Enormous Extinct Dinosaurs ']",
-38,Zürich,Sonic-Calligraphy,2013-03-22,"[' Felix Utzinger ', ' Peggy Chew ', ' Adrian Frey ', ' Willy Kotoun ']",
-39,Baronessa,Lenzburg,2013-03-22,"[' Yvonne Moore ', ' Oli Hartung ', ' André Pousaz ', ' Richard Spooner ']",
-40,Musigbistrot,Bern,2013-03-22,['Cody '],Cody
-41,Schauspielhaus-Schiffbau,Zürich,2013-03-22,['Stay+ '],
-42,Moods,Zürich,2013-03-22,"['Wild Belle ', ' Kellerkommando ']",
-43,null,Keine-Kindergartenparty,2013-03-22,['DJs Evil Jared '],
-44,Bern,Internationales-Jazzfestival-Bern,2013-03-22,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']",
-45,Bar-Rossi,Zürich,2013-03-22,"[' Falco Meyer ', ' Wolf Meyer ', ' Meta Amstad ', ' Salome Bossard ', ' Samuel Büttiker ']",
-46,Bern,Ball'n-Chain,2013-03-22,"[""Ball'n Chain ""]",
-47,Zürich,Scratch-Bandits,2013-03-22,['Scratch Bandits '],
-48,Kriens,Veitengruber,2013-03-22,['Veitengruber '],Electronic
+location,event,date,artists,genre
+Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-03-22,['Christian Mettler '],Pop
+Basel,Orgelspiel-zum-Feierabend,2013-03-22,['Irena Zeitz '],Classic
+Winterthur,Ill-Niño,2013-03-22,['Ill Niño '],
+Zürich,Osterkonzert-Stabat-mater,2013-03-22,"['Eilana Lappalainen ', ' Svetlana Afonina ', ' \r\nNicola Pisaniello ']",Classic
+Zürich,Vingt-regards-sur-l'enfant-Jésus,2013-03-22,['Roger Muraro '],Classic
+Hallenstadion,Zürich,2013-03-22,['Justin Bieber '],
+Bern,Internationales-Jazzfestival-Bern,2013-03-22,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']",
+Basel,Totentanz,2013-03-22,[' Heike Landbeck '],Classic
+Zürich,Öffentliches-Konzert,2013-03-22,"[' Ursula Fortin ', ' Dorottya Marosvari ']",Classic
+Bern,Voilà,2013-03-22,[' Conrad Tao '],Classic
+Zürich,Konzert,2013-03-22,['Tobias Krebs '],Classic
+Basel,From-Dowland-to-Gershwin,2013-03-22,"['Theresia Bothe ', ' Peter Croton ']",Classic
+Luzern,Johannes-Passion,2013-03-22,"[' Nicolas Mulroy ', ' Andrew Tortise ']",Classic
+Zürich,Jake-Bugg,2013-03-22,['Jake Bugg '],
+Lausanne,Egyptian-Hip-Hop,2013-03-22,['Egyptian Hip Hop '],Pop
+Uster,According-to-Juliet,2013-03-22,"['Beate von Hahn ', ' Alessandra Warnke ', ' Stefanie Schumacher ']",Classic
+Schiffbau-10,Zürich,2013-03-22,"['T.E.E.D. ', ' Foals ', ' Jamie Lidell ', ' Stay+ ', ' ME ']",
+Zürich,M4Music,2013-03-22,"['ME ', ' Le Corps Mince de Françoise ']",Electronic
+Altikon,Morning-Dew,2013-03-22,"[' Tom Borcherding ', ' Dani Frey ', ' Tanja Stephani ', ' Hannes Mäder ']",
+Zürich,Secret-Army,2013-03-22,"['Secret Army ', ' Prollsport ']",
+Zürich,Pasión-de-Buena-Vista,2013-03-22,['Pasión de Buena Vista '],
+Rheinfelden,International-Trio-Plus-One,2013-03-22,"[' David Boeddinghaus ', ' Trevor Richards ', ' Olivier Franc ', ' Reimer von Essen ']",
+Zürich,Antiche-Ferrovie-Calabro-Lucane,2013-03-22,['Antiche Ferrovie Calabro-Lucane '],
+Uster,King-Lizard,2013-03-22,"['King Lizard ', ' Kingsdown ', ' Dust In Eyes ']",
+Basel,UpJazz,2013-03-22,"[' Tobias Meinhart ', ' Markus Brodtbeck ', ' Martin Wyss ', ' Jonas Prina ']",
+Zürich,Oriental-&-Flamenco-Gypsy-Festival,2013-03-22,"['Romano Drom ', ' Dhoad ', ' Jerez Puro ', ' Ssassa & Maryam ']",
+Esse-Musicbar,Winterthur,2013-03-22,"[' Kurt Söldi ', ' Andreas Schmid ', ' Christian Rösli ', ' Jean-Pierre Dix ']",
+Basel,Cojazz-Invites-Alice-Day,2013-03-22,"[' Alice Day ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Peter Schmidlin ']",
+Liebefeld,Peña-Flamenca-Los-Caracoles,2013-03-22,"[' Juan Cardenas ', ' Roland Satterwhite ', ' Christophe Bersier ', ' John Flury ']",
+Temple-du-Bas,null,2013-03-22,['Dianne Reeves '],
+Wallisellen,Fabulous-Daddy,2013-03-22,['Fabulous Daddy '],
+Köniz,Slixs,2013-03-22,['Slixs '],Pop
+Baden,Rock-&-Pop-Covers,2013-03-22,"[' Pezzo ', ' Plamen Blagoev ', ' Reto Spörli ']",
+Wallisellen,Fabulous-Daddy,2013-03-22,['Fabulous Daddy '],
+Rote-Fabrik,Zürich,2013-03-22,"[' Irène Schweizer ', ' Pierre Favre ']",
+Lugano,Concerti-Dell'auditorio-2013,2013-03-22,['Adriana Marfisi '],Classic
+Luzern,Bachelorprojekt-Konzerte,2013-03-22,"[' Claudia Döffinger ', ' Fabian Rosenzweig ', ' Flavio Viazzoli ', ' Beat Rüegsegger ', ' Benjamin Kieser ', ' Valerio Lepori ', ' Colin Morton ', ' Dominic Eschmann ']",
+Schauspielhaus-Schiffbau,Zürich,2013-03-22,"['Jamie Lidell ', ' Foals ', ' Totally Enormous Extinct Dinosaurs ']",
+Zürich,Sonic-Calligraphy,2013-03-22,"[' Felix Utzinger ', ' Peggy Chew ', ' Adrian Frey ', ' Willy Kotoun ']",
+Baronessa,Lenzburg,2013-03-22,"[' Yvonne Moore ', ' Oli Hartung ', ' André Pousaz ', ' Richard Spooner ']",
+Musigbistrot,Bern,2013-03-22,['Cody '],Cody
+Schauspielhaus-Schiffbau,Zürich,2013-03-22,['Stay+ '],
+Moods,Zürich,2013-03-22,"['Wild Belle ', ' Kellerkommando ']",
+null,Keine-Kindergartenparty,2013-03-22,['DJs Evil Jared '],
+Bern,Internationales-Jazzfestival-Bern,2013-03-22,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']",
+Bar-Rossi,Zürich,2013-03-22,"[' Falco Meyer ', ' Wolf Meyer ', ' Meta Amstad ', ' Salome Bossard ', ' Samuel Büttiker ']",
+Bern,Ball'n-Chain,2013-03-22,"[""Ball'n Chain ""]",
+Zürich,Scratch-Bandits,2013-03-22,['Scratch Bandits '],
+Kriens,Veitengruber,2013-03-22,['Veitengruber '],Electronic

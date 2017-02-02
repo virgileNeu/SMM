@@ -1,13 +1,13 @@
-,location,event,date,artists,genre
-0,Zürich,Jazz-Arcades,2015-09-02,"[' Raphael Jost ', ' Raphael Walser ', ' Jonas Ruther ']",
-1,Basel,Altstadt-Serenaden,2015-09-02,"[' Lluis Castán Cochs ', ' Judith Bardolet Vilaro ', '  Miquel Jordä Saun ', ' Jesus Miralles Roger ']",Classic
-2,Luzern,Lucerne-Festival-40-min-6,2015-09-02,"[' Martin Schelling ', ' Stefan Dünser ', ' Martin Deuring ', ' Goran Kovaevi ']",Classic
-3,Zürich,Franz-Ferdinand-&-Sparks,2015-09-02,['Franz Ferdinand & Sparks '],
-4,Aarau,Metalmayhem,2015-09-02,"['Oceano ', ' Make Them Suffer ']",
-5,Luzern,Lucerne-Festival-Sinfoniekonzert-21,2015-09-02,['Berliner Philharmoniker '],Classic
-6,Zug,Keynote-Jazz,2015-09-02,"[' Philippe Koller ', ' Laurent Frick ', ' Pascal Bruggisser ', ' Benno Blattmann ']",
-7,Zürich,Oddisee-&-Good-Cmpny,2015-09-02,['Oddisee & Good Cmpny '],
-8,Luzern,Jam-Night,2015-09-02,"[' Naima Gürth ', ' Christian Winiker ', ' Claudio Berger ', ' Fabian Hänni ']",
-9,Zürich,Milow,2015-09-02,['Milow '],Pop
-10,Basel,Anissa-Damali,2015-09-02,"[' Anissa Damali ', ' Bodo Maier ', ' Oliver Pellet ', ' Dudu Penz ', ' Samuel Dühsler ']",
-11,Basel,Pau-Lligadas-Project,2015-09-02,"[' Fabian Willmann ', ' Luca Pusch ', ' Pau Lligadas ', ' Arthur Vonfelt ']",
+location,event,date,artists,genre
+Zürich,Jazz-Arcades,2015-09-02,"[' Raphael Jost ', ' Raphael Walser ', ' Jonas Ruther ']",
+Basel,Altstadt-Serenaden,2015-09-02,"[' Lluis Castán Cochs ', ' Judith Bardolet Vilaro ', '  Miquel Jordä Saun ', ' Jesus Miralles Roger ']",Classic
+Luzern,Lucerne-Festival-40-min-6,2015-09-02,"[' Martin Schelling ', ' Stefan Dünser ', ' Martin Deuring ', ' Goran Kovaevi ']",Classic
+Zürich,Franz-Ferdinand-&-Sparks,2015-09-02,['Franz Ferdinand & Sparks '],
+Aarau,Metalmayhem,2015-09-02,"['Oceano ', ' Make Them Suffer ']",
+Luzern,Lucerne-Festival-Sinfoniekonzert-21,2015-09-02,['Berliner Philharmoniker '],Classic
+Zug,Keynote-Jazz,2015-09-02,"[' Philippe Koller ', ' Laurent Frick ', ' Pascal Bruggisser ', ' Benno Blattmann ']",
+Zürich,Oddisee-&-Good-Cmpny,2015-09-02,['Oddisee & Good Cmpny '],
+Luzern,Jam-Night,2015-09-02,"[' Naima Gürth ', ' Christian Winiker ', ' Claudio Berger ', ' Fabian Hänni ']",
+Zürich,Milow,2015-09-02,['Milow '],Pop
+Basel,Anissa-Damali,2015-09-02,"[' Anissa Damali ', ' Bodo Maier ', ' Oliver Pellet ', ' Dudu Penz ', ' Samuel Dühsler ']",
+Basel,Pau-Lligadas-Project,2015-09-02,"[' Fabian Willmann ', ' Luca Pusch ', ' Pau Lligadas ', ' Arthur Vonfelt ']",

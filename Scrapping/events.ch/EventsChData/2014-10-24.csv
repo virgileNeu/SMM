@@ -1,55 +1,55 @@
-,location,event,date,artists,genre
-0,Basel,Orgelspiel-zum-Feierabend,2014-10-24,"['Susanne Doll ', ' Alexandra Stashenko ']",Classic
-1,Luzern,Party,2014-10-24,['Ken Stringfellow '],Pop
-2,Bern,Symphoniekonzert,2014-10-24,[' Alexander Lonquich '],Classic
-3,Zürich,Cello-Rezital,2014-10-24,['Sarah Weilenmann '],Classic
-4,Zürich,Konzert,2014-10-24,"[' Catherine Barondeau-Hollinger ', ' Thierry Walter ']",Classic
-5,Basel,Klavierrezital,2014-10-24,['Irina Georgieva '],Classic
-6,Zürich,Migros-Kulturprozent-Classics,2014-10-24,[' Rudolf Buchbinder '],Classic
-7,Basel,Garlands,2014-10-24,"['Rahel Binetti ', ' Fabian Kristmann ', ' Bernhard Affolter ']",Classic
-8,Zürich,Seat-Music-Session,2014-10-24,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",Pop
-9,Rheinfelden,Creole-Clarinets,2014-10-24,"["" Thomas l'Etienne "", ' Uli Wunner ', ' Mike Goetz ', ' Norman Emberson ', ' Karel Algoed ']",
-10,Bern,Konzert,2014-10-24,"['Gerhard Schertenleib ', ' Christoph Borter ']",Classic
-11,Bern,Reitschulfest,2014-10-24,['Black Strobe '],Electronic
-12,Zürich,Ólöf-Arnalds,2014-10-24,['Ólöf Arnalds '],
-13,Zürich,Who's-Panda,2014-10-24,"[""Who's Panda ""]",
-14,Olten,Chloe-Charles,2014-10-24,['Chloe Charles '],
-15,Zürich,Lindsey-Stirling,2014-10-24,['Lindsey Stirling '],Classic
-16,Zürich,Hubert-von-Goisern,2014-10-24,['Hubert von Goisern '],Pop
-17,Zürich,Kraftklub,2014-10-24,['Kraftklub '],
-18,Zug,Sweet-Oblomow-Suite,2014-10-24,"['Tobias Rutti ', ' Yves Neuhaus ', ' Christian Hieronymi ', ' Raphael Camenisch ', ' Rafael Rutti ']",Classic
-19,Basel,Baloise-Session-Opening-Night,2014-10-24,"['James Blunt ', ' Butterscotch ']",Pop
-20,Winterthur,Noflores,2014-10-24,"[' Tobias Meier ', ' Dave Gisler  ', ' Jonas Ruther ']",
-21,Zürich,Gisler-Peris-Peyer-Vögeli,2014-10-24,"[' Beat Gisler ', ' Carles Peris ', ' Marius Peyer ', ' Urs Vögeli ']",
-22,null,David-Brühwiler-Quintet,2014-10-24,"[' Richard Pechota ', ' Rainer Weber ', ' Carlo Schöb ', ' Thomas Hiestand ', ' David Brühwiler ']",
-23,Bülach,George-Robert-All-Star-Quartet,2014-10-24,"[' George Robert ', ' Dado Moroni ', ' Peter Washington ', ' Jeff Hamilton ']",
-24,Solothurn,Climax-Blues-Bank,2014-10-24,"['Climax Blues Bank ', ' Graham Dee ', ' Lester Hunt ', ' George Glover ', ' Chris Aldridge ', ' Neil Simpson ', ' Roy Adams ']",
-25,Romanshorn,Julia-&-Band,2014-10-24,"[' Julia Zischg ', ' Herwig Hammerl ', ' Daniel Seyr ', ' Martin Grabher ', ' Viola Pfefferkorn ', ' Heidi Caviezel ']",
-26,Zürich,The-Das,2014-10-24,['The Das '],Electronic
-27,Bern,Brothertunes,2014-10-24,['Brothertunes '],
-28,Zürich,Lasse-Matthiessen-&-Band,2014-10-24,['Lasse Matthiessen & Band '],Pop
-29,null,Becca-Stevens-Band-&-Martina-Linn-Band,2014-10-24,['Becca Stevens Band '],
-30,Winterthur,Maximo-Park,2014-10-24,"['Maximo Park ', ' His Clancyness ']",
-31,Basel,Peter-Protschka-Quartet-feat.-Rick-Margitza,2014-10-24,"[' Peter Protschka ', ' Rick Margitza ', ' Martin Sasse ', ' Stephan Kurmann ', ' Tobias Backhaus ']",
-32,Feuerthalen,Will-Wilde-&-Band,2014-10-24,['Will Wilde & Band '],
-33,Zug,American-Cajun-Blues-&-Zydecoo-Festival,2014-10-24,"[""Sarah Savoy's Hell-Raising Hayride "", ' Cajun Roosters ', ' Buddy Flett ']",
-34,Pratteln,Henrik-Freischlader,2014-10-24,['Henrik Freischlader '],
-35,Zürich,Organ-X,2014-10-24,"[' Marcel Thomi ', ' Roberto Bossard ', ' Roland von Flüe ', ' Elmar Frey ']",
-36,Aarau,Marcus-Wiebusch,2014-10-24,['Marcus Wiebusch '],Pop
-37,Baden,Hommage-an-Edith-Piaf,2014-10-24,"[' Stella Palino ', ' Charlotte Torres ']",Pop
-38,Schaffhausen,Sorry-Gilberto,2014-10-24,['Sorry Gilberto '],Pop
-39,Zürich,Dorian-Wood,2014-10-24,"['Dorian Wood ', ' Dorian Wood ', ' Leah Harmon ', ' Alexander Noice ', ' Xavi Muñoz ', ' Marcos Junquera ']",
-40,Zürich,Milonga-mit-Live-Musik,2014-10-24,"[' Leandro Schnaider ', ' Pablo Schiaffino ']",
-41,Baden,Starfish'n'Coffee,2014-10-24,"[' Andrea Beth ', ' Markus Trüb ', ' Matthias Möller ', ' Indy Studer ', ' Georg Edelbacher ']",
-42,Uster,Rhythm-Is-Jazztet-Business,2014-10-24,"[' Philipp Scholl ', ' Fernand Schlumpf ', ' Ivan Kubias ', ' Bruno Bosshardt ', ' René Scholl ', ' René Bondt ', ' Reto Grundbacher ']",
-43,Wil,Feedback-Revival,2014-10-24,['Feedback Revival '],
-44,Wetzikon,Sangre-De-Muerdago,2014-10-24,['Sangre De Muerdago '],
-45,Oberentfelden,The-Intersphere,2014-10-24,"['The Intersphere ', ' Not called Jinx ']",
-46,Zürich,Liars,2014-10-24,['Liars '],
-47,Luzern,Gabriel-Miller-Phillips,2014-10-24,['Gabriel Miller Phillips '],
-48,Basel,Bonaparte,2014-10-24,[' support: Tim Fite '],Pop
-49,Zürich,Bluegrass-Boogiemen,2014-10-24,['Bluegrass Boogiemen '],
-50,Schaffhausen,The-Aggrolites,2014-10-24,"['The Aggrolites ', ' The Beatdown ', ' Jesse Wagner ', ' Roger Rivas ', ' Ricky Chacon ', ' Sean Rainey ', ' Jeffrey Roffredo ']",
-51,null,SW6-Night,2014-10-24,['Sparrow the Movement '],
-52,Chur,Wallis-Bird,2014-10-24,['Wallis Bird '],Pop
-53,Baden,Nachtkonzert,2014-10-24,"[' Corinne Nora Huber ', ' Christoph Huber ', ' Lukas Kohler ', ' Michael Haudenschild ', ' Benjamin Muralt ', ' Lukas Rutzen ']",
+location,event,date,artists,genre
+Basel,Orgelspiel-zum-Feierabend,2014-10-24,"['Susanne Doll ', ' Alexandra Stashenko ']",Classic
+Luzern,Party,2014-10-24,['Ken Stringfellow '],Pop
+Bern,Symphoniekonzert,2014-10-24,[' Alexander Lonquich '],Classic
+Zürich,Cello-Rezital,2014-10-24,['Sarah Weilenmann '],Classic
+Zürich,Konzert,2014-10-24,"[' Catherine Barondeau-Hollinger ', ' Thierry Walter ']",Classic
+Basel,Klavierrezital,2014-10-24,['Irina Georgieva '],Classic
+Zürich,Migros-Kulturprozent-Classics,2014-10-24,[' Rudolf Buchbinder '],Classic
+Basel,Garlands,2014-10-24,"['Rahel Binetti ', ' Fabian Kristmann ', ' Bernhard Affolter ']",Classic
+Zürich,Seat-Music-Session,2014-10-24,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",Pop
+Rheinfelden,Creole-Clarinets,2014-10-24,"["" Thomas l'Etienne "", ' Uli Wunner ', ' Mike Goetz ', ' Norman Emberson ', ' Karel Algoed ']",
+Bern,Konzert,2014-10-24,"['Gerhard Schertenleib ', ' Christoph Borter ']",Classic
+Bern,Reitschulfest,2014-10-24,['Black Strobe '],Electronic
+Zürich,Ólöf-Arnalds,2014-10-24,['Ólöf Arnalds '],
+Zürich,Who's-Panda,2014-10-24,"[""Who's Panda ""]",
+Olten,Chloe-Charles,2014-10-24,['Chloe Charles '],
+Zürich,Lindsey-Stirling,2014-10-24,['Lindsey Stirling '],Classic
+Zürich,Hubert-von-Goisern,2014-10-24,['Hubert von Goisern '],Pop
+Zürich,Kraftklub,2014-10-24,['Kraftklub '],
+Zug,Sweet-Oblomow-Suite,2014-10-24,"['Tobias Rutti ', ' Yves Neuhaus ', ' Christian Hieronymi ', ' Raphael Camenisch ', ' Rafael Rutti ']",Classic
+Basel,Baloise-Session-Opening-Night,2014-10-24,"['James Blunt ', ' Butterscotch ']",Pop
+Winterthur,Noflores,2014-10-24,"[' Tobias Meier ', ' Dave Gisler  ', ' Jonas Ruther ']",
+Zürich,Gisler-Peris-Peyer-Vögeli,2014-10-24,"[' Beat Gisler ', ' Carles Peris ', ' Marius Peyer ', ' Urs Vögeli ']",
+null,David-Brühwiler-Quintet,2014-10-24,"[' Richard Pechota ', ' Rainer Weber ', ' Carlo Schöb ', ' Thomas Hiestand ', ' David Brühwiler ']",
+Bülach,George-Robert-All-Star-Quartet,2014-10-24,"[' George Robert ', ' Dado Moroni ', ' Peter Washington ', ' Jeff Hamilton ']",
+Solothurn,Climax-Blues-Bank,2014-10-24,"['Climax Blues Bank ', ' Graham Dee ', ' Lester Hunt ', ' George Glover ', ' Chris Aldridge ', ' Neil Simpson ', ' Roy Adams ']",
+Romanshorn,Julia-&-Band,2014-10-24,"[' Julia Zischg ', ' Herwig Hammerl ', ' Daniel Seyr ', ' Martin Grabher ', ' Viola Pfefferkorn ', ' Heidi Caviezel ']",
+Zürich,The-Das,2014-10-24,['The Das '],Electronic
+Bern,Brothertunes,2014-10-24,['Brothertunes '],
+Zürich,Lasse-Matthiessen-&-Band,2014-10-24,['Lasse Matthiessen & Band '],Pop
+null,Becca-Stevens-Band-&-Martina-Linn-Band,2014-10-24,['Becca Stevens Band '],
+Winterthur,Maximo-Park,2014-10-24,"['Maximo Park ', ' His Clancyness ']",
+Basel,Peter-Protschka-Quartet-feat.-Rick-Margitza,2014-10-24,"[' Peter Protschka ', ' Rick Margitza ', ' Martin Sasse ', ' Stephan Kurmann ', ' Tobias Backhaus ']",
+Feuerthalen,Will-Wilde-&-Band,2014-10-24,['Will Wilde & Band '],
+Zug,American-Cajun-Blues-&-Zydecoo-Festival,2014-10-24,"[""Sarah Savoy's Hell-Raising Hayride "", ' Cajun Roosters ', ' Buddy Flett ']",
+Pratteln,Henrik-Freischlader,2014-10-24,['Henrik Freischlader '],
+Zürich,Organ-X,2014-10-24,"[' Marcel Thomi ', ' Roberto Bossard ', ' Roland von Flüe ', ' Elmar Frey ']",
+Aarau,Marcus-Wiebusch,2014-10-24,['Marcus Wiebusch '],Pop
+Baden,Hommage-an-Edith-Piaf,2014-10-24,"[' Stella Palino ', ' Charlotte Torres ']",Pop
+Schaffhausen,Sorry-Gilberto,2014-10-24,['Sorry Gilberto '],Pop
+Zürich,Dorian-Wood,2014-10-24,"['Dorian Wood ', ' Dorian Wood ', ' Leah Harmon ', ' Alexander Noice ', ' Xavi Muñoz ', ' Marcos Junquera ']",
+Zürich,Milonga-mit-Live-Musik,2014-10-24,"[' Leandro Schnaider ', ' Pablo Schiaffino ']",
+Baden,Starfish'n'Coffee,2014-10-24,"[' Andrea Beth ', ' Markus Trüb ', ' Matthias Möller ', ' Indy Studer ', ' Georg Edelbacher ']",
+Uster,Rhythm-Is-Jazztet-Business,2014-10-24,"[' Philipp Scholl ', ' Fernand Schlumpf ', ' Ivan Kubias ', ' Bruno Bosshardt ', ' René Scholl ', ' René Bondt ', ' Reto Grundbacher ']",
+Wil,Feedback-Revival,2014-10-24,['Feedback Revival '],
+Wetzikon,Sangre-De-Muerdago,2014-10-24,['Sangre De Muerdago '],
+Oberentfelden,The-Intersphere,2014-10-24,"['The Intersphere ', ' Not called Jinx ']",
+Zürich,Liars,2014-10-24,['Liars '],
+Luzern,Gabriel-Miller-Phillips,2014-10-24,['Gabriel Miller Phillips '],
+Basel,Bonaparte,2014-10-24,[' support: Tim Fite '],Pop
+Zürich,Bluegrass-Boogiemen,2014-10-24,['Bluegrass Boogiemen '],
+Schaffhausen,The-Aggrolites,2014-10-24,"['The Aggrolites ', ' The Beatdown ', ' Jesse Wagner ', ' Roger Rivas ', ' Ricky Chacon ', ' Sean Rainey ', ' Jeffrey Roffredo ']",
+null,SW6-Night,2014-10-24,['Sparrow the Movement '],
+Chur,Wallis-Bird,2014-10-24,['Wallis Bird '],Pop
+Baden,Nachtkonzert,2014-10-24,"[' Corinne Nora Huber ', ' Christoph Huber ', ' Lukas Kohler ', ' Michael Haudenschild ', ' Benjamin Muralt ', ' Lukas Rutzen ']",

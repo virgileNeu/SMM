@@ -11,8 +11,9 @@ if [ $month -eq 1 ]; then
 fi
 last_month_date=$year'-'$month'-'$day
 echo $last_month_date
+
 python3 EventsChDataExtractor.py $last_month_date
 
 python3 AggregateData.py EventsChData EventsCh.csv
 
-python3 expandEventsScript.py EventsCh.csv completeWithCoordinates.csv
+#python3 expandEventsScript.py EventsCh.csv completeWithCoordinates.csv

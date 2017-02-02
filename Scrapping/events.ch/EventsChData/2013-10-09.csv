@@ -1,19 +1,19 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment,2013-10-09,['Mark Tenger '],
-1,Bern,Mira-Mode-Orchestra,2013-10-09,['Mira Mode Orchestra '],
-2,Baden,Sea-+-Air,2013-10-09,['Sea + Air '],Pop
-3,Bern,Françoiz-Breut,2013-10-09,['Françoiz Breut '],Pop
-4,Zürich,East-Cameron-Folkcore,2013-10-09,['East Cameron Folkcore '],
-5,null,Erika-Stucky,2013-10-09,"['Erika Stucky ', ' David Coulter ', ' Terry Edwards ', ' Michael ']",
-6,Zürich,Connan-Mockasin,2013-10-09,['Connan Mockasin '],
-7,Basel,Marcus-Wyatt-Quartet,2013-10-09,"[' Marcus Wyatt ', ' Domenic Landolf ', ' Bänz Oester ', ' Dominic Egli ']",
-8,Lausanne,Iaross,2013-10-09,['Iaross '],Pop
-9,Zürich,Snorri-Helgason-&-Allstar-Band,2013-10-09,['Snorri Helgason & Allstar Band '],Pop
-10,Zürich,Helge-Lien-Trio,2013-10-09,"['Helge Lien Trio ', ' Helge Lien ', ' Frode Berg ', ' Knut Aalefjaer ']",
-11,Feuerthalen,Patricia-Vonne,2013-10-09,['Patricia Vonne '],
-12,Luzern,Mark-Soskin-Quartett,2013-10-09,"[' Mark Soskin ', ' Roberto Bossard ', ' Gildas Boclé ', ' Elmar Frey ']",
-13,Zürich,Jazzbaragge-Wednesday-Jam,2013-10-09,"['Peter Wagner ', ' Thomy Jordi ', ' Christian Niederer ']",
-14,Zürich,Navnlaust-Mønster-Opptog,2013-10-09,['Navnlaust Mønster Opptog '],Electronic
-15,Zürich,Mozes-&-The-Firstborn,2013-10-09,['Mozes & The Firstborn '],Pop
-16,Lausanne,Dylan-Carlson,2013-10-09,['Dylan Carlson '],
-17,Bern,White-Hills,2013-10-09,['White Hills '],
+location,event,date,artists,genre
+Luzern,Piano-Entertainment,2013-10-09,['Mark Tenger '],
+Bern,Mira-Mode-Orchestra,2013-10-09,['Mira Mode Orchestra '],
+Baden,Sea-+-Air,2013-10-09,['Sea + Air '],Pop
+Bern,Françoiz-Breut,2013-10-09,['Françoiz Breut '],Pop
+Zürich,East-Cameron-Folkcore,2013-10-09,['East Cameron Folkcore '],
+null,Erika-Stucky,2013-10-09,"['Erika Stucky ', ' David Coulter ', ' Terry Edwards ', ' Michael ']",
+Zürich,Connan-Mockasin,2013-10-09,['Connan Mockasin '],
+Basel,Marcus-Wyatt-Quartet,2013-10-09,"[' Marcus Wyatt ', ' Domenic Landolf ', ' Bänz Oester ', ' Dominic Egli ']",
+Lausanne,Iaross,2013-10-09,['Iaross '],Pop
+Zürich,Snorri-Helgason-&-Allstar-Band,2013-10-09,['Snorri Helgason & Allstar Band '],Pop
+Zürich,Helge-Lien-Trio,2013-10-09,"['Helge Lien Trio ', ' Helge Lien ', ' Frode Berg ', ' Knut Aalefjaer ']",
+Feuerthalen,Patricia-Vonne,2013-10-09,['Patricia Vonne '],
+Luzern,Mark-Soskin-Quartett,2013-10-09,"[' Mark Soskin ', ' Roberto Bossard ', ' Gildas Boclé ', ' Elmar Frey ']",
+Zürich,Jazzbaragge-Wednesday-Jam,2013-10-09,"['Peter Wagner ', ' Thomy Jordi ', ' Christian Niederer ']",
+Zürich,Navnlaust-Mønster-Opptog,2013-10-09,['Navnlaust Mønster Opptog '],Electronic
+Zürich,Mozes-&-The-Firstborn,2013-10-09,['Mozes & The Firstborn '],Pop
+Lausanne,Dylan-Carlson,2013-10-09,['Dylan Carlson '],
+Bern,White-Hills,2013-10-09,['White Hills '],

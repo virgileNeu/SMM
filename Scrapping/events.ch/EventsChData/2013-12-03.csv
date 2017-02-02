@@ -1,25 +1,25 @@
-,location,event,date,artists,genre
-0,Luzern,Piano-Entertainment,2013-12-03,['Mark Tenger '],
-1,Zürich,Jazzapero,2013-12-03,"[' Peggy Chew ', ' Felix Utzinger ', ' Adrian Frey ', '  Willy Kotoun ']",Pop
-2,Basel,Kammermusik,2013-12-03,"['Carlos Conrad ', ' Jimena Llanos ', ' Alicia Conrad ']",Classic
-3,Zürich,Matthew-Caws,2013-12-03,['Matthew Caws '],Pop
-4,Zürich,Dennis-Russell-Davies-und-Viktoria-Mullova,2013-12-03,[' Viktoria Mullova '],Classic
-5,Bern,Kammermusik,2013-12-03,[' Teo Gheorghiu '],Classic
-6,Winterthur,Voices-of-Gospel,2013-12-03,['St. Stephen Baptist Church Choir '],
-7,Zürich,Villagers,2013-12-03,['Villagers '],
-8,Zürich,Califone,2013-12-03,"['Califone ', ' support: Tony Dekker ']",Pop
-9,Zürich,Niggli-Mirajkar,2013-12-03,"[' Thomas Niggli ', ' Shrirang Mirajkar ']",
-10,Eschlikon,Bolschoi-Don-Kosakenchor,2013-12-03,['Bolschoi Don Kosakenchor '],
-11,Zürich,Uncle-Acid-&-The-Deadbeats,2013-12-03,['Uncle Acid & The Deadbeats '],
-12,null,Jan-Garbarek-Group-feat.-Trilok-Gurtu,2013-12-03,"['Jan Garbarek Group feat. Trilok Gurtu ', ' Jan Garbarek ', ' Rainer Brüninghaus ', ' Juri Daniel ', ' Trilok Gurtu ']",
-13,Zürich,Silly-abgesagt,2013-12-03,['Silly '],
-14,Zürich,Das-griechische-Chanson,2013-12-03,"['Ilektra Platiopoulou ', ' Zoi Tsokanou ']",Pop
-15,Zürich,Goldings-Bernstein-Stewart,2013-12-03,"['Goldings-Bernstein-Stewart ', ' Larry Goldings ', ' Peter Bernstein ', ' Bill Stewart ']",
-16,Dietikon,JazzDietikon,2013-12-03,"['Lilly Thornton ', ' Victor Wanderley ', ' Elisabeth Berner ', ' Tony Renold ']",
-17,Luzern,Workshopkonzert,2013-12-03,"[' Margret Horrer ', ' Lea Nussbaumer ', ' Gabriel Miranda Martinez ', ' Andreas Maeder ', ' Donath Weyeneth ']",
-18,Basel,Peter's-Playstation-feat.-Andy-Scherrer,2013-12-03,"[' Andy Scherrer ', ' Eric Hunziker ', ' Gregor Müller ', ' Silvan Jeger ', ' Peter Preibisch ', ' Chris Jäger Brown ']",
-19,Basel,Sara-Reid,2013-12-03,"['Sara Reid ', ' Mr. Go ', ' Wes Swing ']",Pop
-20,Zürich,Artist-in-Residence-Hans-Peter-Frehner,2013-12-03,"[' Hans-Peter Frehner ', ' Manfred Spitaler ', ' Viktor Müller ', ' Lorenz Hass ', ' Urs Bumbacher ', ' Nicole Romano ']",
-21,Zürich,ZZZ's,2013-12-03,"[""ZZZ's "", ' support: J. C. Satan ']",
-22,Basel,Selvhenter,2013-12-03,['Selvhenter '],
-23,Zürich,Artist-in-Residence-Hans-Peter-Frehner,2013-12-03,"[' Lukas König ', ' Leo Riegler ', ' Christian Weber ', ' Daniel Riegler']",
+location,event,date,artists,genre
+Luzern,Piano-Entertainment,2013-12-03,['Mark Tenger '],
+Zürich,Jazzapero,2013-12-03,"[' Peggy Chew ', ' Felix Utzinger ', ' Adrian Frey ', '  Willy Kotoun ']",Pop
+Basel,Kammermusik,2013-12-03,"['Carlos Conrad ', ' Jimena Llanos ', ' Alicia Conrad ']",Classic
+Zürich,Matthew-Caws,2013-12-03,['Matthew Caws '],Pop
+Zürich,Dennis-Russell-Davies-und-Viktoria-Mullova,2013-12-03,[' Viktoria Mullova '],Classic
+Bern,Kammermusik,2013-12-03,[' Teo Gheorghiu '],Classic
+Winterthur,Voices-of-Gospel,2013-12-03,['St. Stephen Baptist Church Choir '],
+Zürich,Villagers,2013-12-03,['Villagers '],
+Zürich,Califone,2013-12-03,"['Califone ', ' support: Tony Dekker ']",Pop
+Zürich,Niggli-Mirajkar,2013-12-03,"[' Thomas Niggli ', ' Shrirang Mirajkar ']",
+Eschlikon,Bolschoi-Don-Kosakenchor,2013-12-03,['Bolschoi Don Kosakenchor '],
+Zürich,Uncle-Acid-&-The-Deadbeats,2013-12-03,['Uncle Acid & The Deadbeats '],
+null,Jan-Garbarek-Group-feat.-Trilok-Gurtu,2013-12-03,"['Jan Garbarek Group feat. Trilok Gurtu ', ' Jan Garbarek ', ' Rainer Brüninghaus ', ' Juri Daniel ', ' Trilok Gurtu ']",
+Zürich,Silly-abgesagt,2013-12-03,['Silly '],
+Zürich,Das-griechische-Chanson,2013-12-03,"['Ilektra Platiopoulou ', ' Zoi Tsokanou ']",Pop
+Zürich,Goldings-Bernstein-Stewart,2013-12-03,"['Goldings-Bernstein-Stewart ', ' Larry Goldings ', ' Peter Bernstein ', ' Bill Stewart ']",
+Dietikon,JazzDietikon,2013-12-03,"['Lilly Thornton ', ' Victor Wanderley ', ' Elisabeth Berner ', ' Tony Renold ']",
+Luzern,Workshopkonzert,2013-12-03,"[' Margret Horrer ', ' Lea Nussbaumer ', ' Gabriel Miranda Martinez ', ' Andreas Maeder ', ' Donath Weyeneth ']",
+Basel,Peter's-Playstation-feat.-Andy-Scherrer,2013-12-03,"[' Andy Scherrer ', ' Eric Hunziker ', ' Gregor Müller ', ' Silvan Jeger ', ' Peter Preibisch ', ' Chris Jäger Brown ']",
+Basel,Sara-Reid,2013-12-03,"['Sara Reid ', ' Mr. Go ', ' Wes Swing ']",Pop
+Zürich,Artist-in-Residence-Hans-Peter-Frehner,2013-12-03,"[' Hans-Peter Frehner ', ' Manfred Spitaler ', ' Viktor Müller ', ' Lorenz Hass ', ' Urs Bumbacher ', ' Nicole Romano ']",
+Zürich,ZZZ's,2013-12-03,"[""ZZZ's "", ' support: J. C. Satan ']",
+Basel,Selvhenter,2013-12-03,['Selvhenter '],
+Zürich,Artist-in-Residence-Hans-Peter-Frehner,2013-12-03,"[' Lukas König ', ' Leo Riegler ', ' Christian Weber ', ' Daniel Riegler']",

@@ -1,8 +1,8 @@
-,location,event,date,artists,genre
-0,null,Die-Steinkönigin,2016-08-14,"[' Silvia Jost ', ' Kathrin Hartmann ']",Classic
-1,Zofingen,Heitere-Openair,2016-08-14,['James Morrison '],Pop
-2,Gstaad,Abschlusskonzert-der-Jugendorchesterwoche,2016-08-14,['Samuel Niederhauser '],Classic
-3,Zürich,Top-Casino-Band,2016-08-14,[' DJ Andy '],traditional
-4,Aarau,Femmes-fatales-,2016-08-14,[' Christina Daletska '],Classic
-5,Saanen,Ein-Leben-im-Lied,2016-08-14,"['Diana Damrau ', ' Xavier de Maistre ']",Classic
-6,Winterthur,Jersey-Julie-Band,2016-08-14,['Jersey Julie Band '],
+location,event,date,artists,genre
+null,Die-Steinkönigin,2016-08-14,"[' Silvia Jost ', ' Kathrin Hartmann ']",Classic
+Zofingen,Heitere-Openair,2016-08-14,['James Morrison '],Pop
+Gstaad,Abschlusskonzert-der-Jugendorchesterwoche,2016-08-14,['Samuel Niederhauser '],Classic
+Zürich,Top-Casino-Band,2016-08-14,[' DJ Andy '],traditional
+Aarau,Femmes-fatales-,2016-08-14,[' Christina Daletska '],Classic
+Saanen,Ein-Leben-im-Lied,2016-08-14,"['Diana Damrau ', ' Xavier de Maistre ']",Classic
+Winterthur,Jersey-Julie-Band,2016-08-14,['Jersey Julie Band '],

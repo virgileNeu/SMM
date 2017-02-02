@@ -1,30 +1,30 @@
-,location,event,date,artists,genre
-0,Zürich,Art-Band,2015-04-02,['Art Band '],Pop
-1,Luzern,Piano-Entertainment,2015-04-02,['Dezsö Balogh '],Classic
-2,Baden,After-Work,2015-04-02,"[' Lilly Thornton ', ' Nic Niedermann ', ' Eddie Walker ', ' Marcel Vosswinkel ']",Pop
-3,Binningen,Passionsandacht,2015-04-02,"['Olga Machonova-Pavlu ', ' Thomas Leininger ']",Classic
-4,Brugg,Some-Like-It-Hot,2015-04-02,"[' Julie Fahrer ', ' Rita Ekes ', ' Sarah Chaksad ', ' Fabienne Hörni ', ' Corinne Windler ', ' Sonja Ott ']",
-5,Bern,Brahms-Zweite,2015-04-02,"[' Oliver Schnyder ', ' Chloë Hanslip ']",Classic
-6,Zürich,Messiah-Chorkonzert,2015-04-02,"[' Ivana Rusko ', ' Marie-Claude Chappuis ', ' Benjamin Glaubitz ', ' Georg Gädker ']",Classic
-7,Aarau,Passionskonzert-Oratorium-über-Johann-Hus,2015-04-02,"[' Seraina Perrenoud ', ' Mirjam Blessing ', ' Simon Witzig ', ' Richard Helm ']",Classic
-8,Zürich,Flatbush-Zombies,2015-04-02,"['Flatbush Zombies ', ' The Underachievers ']",
-9,Winterthur,Passio-15-Mendelssohn,2015-04-02,"[' Martin Bauder ', ' Annette Birkenmeier ', ' Mika Kamiya Tanner ', ' Emanuel Rütsche ', ' Martina Hofmann ', ' Dorothee Labusch ']",Classic
-10,Zürich,Denn-wie-Mann-sich-bettet-Ein-kurtweilliger-Liederabend,2015-04-02,"['Christian Jott Jenny ', ' Edward Rushton ', ' Markus Notter\r\n ']",Pop
-11,Zürich,Das-Zelt-Zürich,2015-04-02,['Andreas Bourani '],Pop
-12,Zürich,Jazz-Happening-Tribute-to-Billie-Holliday,2015-04-02,"['Virginia Beatrice ', ' Ivan Kubias ', ' Johnny Turi Nagy ', ' Christoph Hei ', ' Hanspeter Hotz ', ' Ivan Hrdina ', ' Miro Steiner ']",
-13,Winterthur,Beck-Landolf-Rossy,2015-04-02,"[' Michael Beck ', ' Domenic Landolf ', ' Jorge Rossy ']",
-14,Baden,Pezzo-Acoustic,2015-04-02,[' Peter Pezzo Tantchev '],
-15,Uster,Adjame-Street,2015-04-02,"[' Aly Keïta ', ' Jan Galega Brönnimann ', ' Lucas Niggli ']",
-16,Basel,Lena-Fennell,2015-04-02,['Lena Fennell '],Pop
-17,Zürich,Max-Frankl-Quartett,2015-04-02,"['Max Frankl Quartett ', ' Max Frankl ', ' Reto Suhner ', ' Lukas Traxel ', ' Lionel Friedli ']",
-18,Wädenswil,Pâqu'son-Musikfestival,2015-04-02,['Horse Raddish '],
-19,Zürich,Triebherde,2015-04-02,"[' Omri Ziegele ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco Käppeli ', ' Dieter Ulrich ']",
-20,Liebefeld,Zisman-Vila,2015-04-02,"[' Daniel Zisman ', ' Gerardo Vila ']",
-21,Winterthur,999,2015-04-02,['999 '],
-22,Bern,Souls-Revival,2015-04-02,"['Souls Revival ', ' Gianni Pontillo ', ' Stefan Schroff ', ' Luca Leombruni ', ' Flavio Mezzodi ']",
-23,Baden,Tom-James,2015-04-02,['Tom James '],
-24,Luzern,Apparatschik,2015-04-02,['Apparatschik '],
-25,Sankt-Gallen,Virginia-Wing,2015-04-02,['Virginia Wing '],
-26,Zürich,The-Ilegales-Show,2015-04-02,['Fulanito '],
-27,Lausanne,The-Avener,2015-04-02,"['The Avener ', ' Claptone ']",Electronic
-28,Luzern,Lost-in-Time,2015-04-02,['DJs Matthias Tanzmann '],Electronic
+location,event,date,artists,genre
+Zürich,Art-Band,2015-04-02,['Art Band '],Pop
+Luzern,Piano-Entertainment,2015-04-02,['Dezsö Balogh '],Classic
+Baden,After-Work,2015-04-02,"[' Lilly Thornton ', ' Nic Niedermann ', ' Eddie Walker ', ' Marcel Vosswinkel ']",Pop
+Binningen,Passionsandacht,2015-04-02,"['Olga Machonova-Pavlu ', ' Thomas Leininger ']",Classic
+Brugg,Some-Like-It-Hot,2015-04-02,"[' Julie Fahrer ', ' Rita Ekes ', ' Sarah Chaksad ', ' Fabienne Hörni ', ' Corinne Windler ', ' Sonja Ott ']",
+Bern,Brahms-Zweite,2015-04-02,"[' Oliver Schnyder ', ' Chloë Hanslip ']",Classic
+Zürich,Messiah-Chorkonzert,2015-04-02,"[' Ivana Rusko ', ' Marie-Claude Chappuis ', ' Benjamin Glaubitz ', ' Georg Gädker ']",Classic
+Aarau,Passionskonzert-Oratorium-über-Johann-Hus,2015-04-02,"[' Seraina Perrenoud ', ' Mirjam Blessing ', ' Simon Witzig ', ' Richard Helm ']",Classic
+Zürich,Flatbush-Zombies,2015-04-02,"['Flatbush Zombies ', ' The Underachievers ']",
+Winterthur,Passio-15-Mendelssohn,2015-04-02,"[' Martin Bauder ', ' Annette Birkenmeier ', ' Mika Kamiya Tanner ', ' Emanuel Rütsche ', ' Martina Hofmann ', ' Dorothee Labusch ']",Classic
+Zürich,Denn-wie-Mann-sich-bettet-Ein-kurtweilliger-Liederabend,2015-04-02,"['Christian Jott Jenny ', ' Edward Rushton ', ' Markus Notter\r\n ']",Pop
+Zürich,Das-Zelt-Zürich,2015-04-02,['Andreas Bourani '],Pop
+Zürich,Jazz-Happening-Tribute-to-Billie-Holliday,2015-04-02,"['Virginia Beatrice ', ' Ivan Kubias ', ' Johnny Turi Nagy ', ' Christoph Hei ', ' Hanspeter Hotz ', ' Ivan Hrdina ', ' Miro Steiner ']",
+Winterthur,Beck-Landolf-Rossy,2015-04-02,"[' Michael Beck ', ' Domenic Landolf ', ' Jorge Rossy ']",
+Baden,Pezzo-Acoustic,2015-04-02,[' Peter Pezzo Tantchev '],
+Uster,Adjame-Street,2015-04-02,"[' Aly Keïta ', ' Jan Galega Brönnimann ', ' Lucas Niggli ']",
+Basel,Lena-Fennell,2015-04-02,['Lena Fennell '],Pop
+Zürich,Max-Frankl-Quartett,2015-04-02,"['Max Frankl Quartett ', ' Max Frankl ', ' Reto Suhner ', ' Lukas Traxel ', ' Lionel Friedli ']",
+Wädenswil,Pâqu'son-Musikfestival,2015-04-02,['Horse Raddish '],
+Zürich,Triebherde,2015-04-02,"[' Omri Ziegele ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco Käppeli ', ' Dieter Ulrich ']",
+Liebefeld,Zisman-Vila,2015-04-02,"[' Daniel Zisman ', ' Gerardo Vila ']",
+Winterthur,999,2015-04-02,['999 '],
+Bern,Souls-Revival,2015-04-02,"['Souls Revival ', ' Gianni Pontillo ', ' Stefan Schroff ', ' Luca Leombruni ', ' Flavio Mezzodi ']",
+Baden,Tom-James,2015-04-02,['Tom James '],
+Luzern,Apparatschik,2015-04-02,['Apparatschik '],
+Sankt-Gallen,Virginia-Wing,2015-04-02,['Virginia Wing '],
+Zürich,The-Ilegales-Show,2015-04-02,['Fulanito '],
+Lausanne,The-Avener,2015-04-02,"['The Avener ', ' Claptone ']",Electronic
+Luzern,Lost-in-Time,2015-04-02,['DJs Matthias Tanzmann '],Electronic

@@ -1,26 +1,26 @@
-,location,event,date,artists,genre
-0,Zürich,Jazzapero,2016-12-06,"[' Dave Ruosch ', ' Luca Leombruni ', ' Steve Grant ']",
-1,Zürich,Northcote,2016-12-06,"['Northcote ', ' support: Matze Rossi ', ' Jon Snodgrass ']",
-2,Zürich,Amina-Figarova-Sextet,2016-12-06,"[' Amina Figarova ', ' Bart Platteau ', ' Alex P. Norris ', ' Wayne Escoffery ', ' Luques Curtis ', ' Jason Brown ']",
-3,Aarau,Metalmayhem,2016-12-06,"['Caliban ', ' Any Given Day ', ' To The Rats And Wolves ']",
-4,Zürich,Musik-an-der-ETH-Von-A-wie-Apollo-bis-Z-wie-Zauberflöte,2016-12-06,"['Manuela Dumfart ', ' Olga Privalova ', ' Thomas Hansen ']",Classic
-5,Zürich,Ry-X,2016-12-06,['Ry X '],Pop
-6,Basel,AMG-Sinfoniekonzerte-Klassik,2016-12-06,[' Ksenija Sidorova '],Classic
-7,Zürich,Shantel-&-Bucovina-Club-Orkestar,2016-12-06,['Shantel & Bucovina Club Orkestar '],
-8,Zürich,Stolen,2016-12-06,['Stolen '],
-9,Winterthur,Ella-Fitzgerald-A-Tribute-to-the-Queen-of-Jazz,2016-12-06,"['Sophie Weiss ', ' Simon Eugster ', ' Manuel Eugster ', ' Martina Amrein ', ' Marc Möckli ', ' Michael Zürcher ']",
-10,Pratteln,Clutch,2016-12-06,['Clutch '],
-11,Zürich,Beartooth,2016-12-06,"['Beartooth ', ' support: Vanna ', ' Trash Boat ']",
-12,Zürich,Wizo,2016-12-06,['Wizo '],
-13,Zürich,Moods-Labor,2016-12-06,"[' Evelinn Trouble ', ' Michael Flury ', ' Bernhard Bamert ', ' Nils Wogram ', ' Colin Vallon ', ' Roman Bruderer ', ' Julian Sartorius ']",
-14,Zürich,Cher-Gérard-zum-75.-Geburtstag-von-Gérard-Zinsstag,2016-12-06,"[' Eva Nievergelt ', ' Bettina Berger ', ' Martin Bliggenstorfer ']",Classic
-15,Zug,Amina-Figarova-Sextet,2016-12-06,"[' Amina Figarova ', ' Bart Platteau ', ' Alex P. Norris ', ' Wayne Escoffery ', ' Luques Curtis ', ' Jason Brown ']",
-16,Basel,Weihnachtskonzert,2016-12-06,"[' Leonid Maximov ', ' Aldo Manetsch ', ' Henryk Polus ']",Classic
-17,Bern,The-Singer's-Night,2016-12-06,"['Sebastian Bättig ', ' Johanna Pärli ', 'Nicolas Wolf ']",
-18,Dietikon,Gregor-Loepfe-Trio-feat.-Katja-Baumann,2016-12-06,"[' Katja Baumann ', ' Gregor Loepfe ', ' Richard Pechota ', ' Peter Preibisch ']",
-19,Luzern,Glenn-Ferris-An-American-in-Paris,2016-12-06,"[' Moritz Anthes ', ' Maria del Mar Ballester ', ' Florian Haug ', ' Raphael Schorro ', ' Florian Bolliger ', ' Patrick Widmer ']",
-20,Zürich,Do-You-Know-Her-,2016-12-06,"[' Naïssam Jalal ', ' Mehdi Chaïb ', ' Karsten Hochapfel ', ' Zacharie Abraham ', ' Arnaud Dolmen ']",
-21,Basel,Eduardo-Machado-Trio,2016-12-06,"['Eduardo Machado Trio ', ' Gil Reis ', ' Eduardo Machado ', ' Fernando Rast ']",
-22,Zürich,Schööf,2016-12-06,"['Christian Zemp ', ' Elio Amberg ', ' Noah Arnold ', ' Amadeus Fries ']",
-23,Zürich,Ikarus,2016-12-06,['Ikarus '],
-24,Zürich,East-Sister,2016-12-06,"['Lorraine Dinkel ', ' Laura Schenk ', ' Amadeus Fries ']",
+location,event,date,artists,genre
+Zürich,Jazzapero,2016-12-06,"[' Dave Ruosch ', ' Luca Leombruni ', ' Steve Grant ']",
+Zürich,Northcote,2016-12-06,"['Northcote ', ' support: Matze Rossi ', ' Jon Snodgrass ']",
+Zürich,Amina-Figarova-Sextet,2016-12-06,"[' Amina Figarova ', ' Bart Platteau ', ' Alex P. Norris ', ' Wayne Escoffery ', ' Luques Curtis ', ' Jason Brown ']",
+Aarau,Metalmayhem,2016-12-06,"['Caliban ', ' Any Given Day ', ' To The Rats And Wolves ']",
+Zürich,Musik-an-der-ETH-Von-A-wie-Apollo-bis-Z-wie-Zauberflöte,2016-12-06,"['Manuela Dumfart ', ' Olga Privalova ', ' Thomas Hansen ']",Classic
+Zürich,Ry-X,2016-12-06,['Ry X '],Pop
+Basel,AMG-Sinfoniekonzerte-Klassik,2016-12-06,[' Ksenija Sidorova '],Classic
+Zürich,Shantel-&-Bucovina-Club-Orkestar,2016-12-06,['Shantel & Bucovina Club Orkestar '],
+Zürich,Stolen,2016-12-06,['Stolen '],
+Winterthur,Ella-Fitzgerald-A-Tribute-to-the-Queen-of-Jazz,2016-12-06,"['Sophie Weiss ', ' Simon Eugster ', ' Manuel Eugster ', ' Martina Amrein ', ' Marc Möckli ', ' Michael Zürcher ']",
+Pratteln,Clutch,2016-12-06,['Clutch '],
+Zürich,Beartooth,2016-12-06,"['Beartooth ', ' support: Vanna ', ' Trash Boat ']",
+Zürich,Wizo,2016-12-06,['Wizo '],
+Zürich,Moods-Labor,2016-12-06,"[' Evelinn Trouble ', ' Michael Flury ', ' Bernhard Bamert ', ' Nils Wogram ', ' Colin Vallon ', ' Roman Bruderer ', ' Julian Sartorius ']",
+Zürich,Cher-Gérard-zum-75.-Geburtstag-von-Gérard-Zinsstag,2016-12-06,"[' Eva Nievergelt ', ' Bettina Berger ', ' Martin Bliggenstorfer ']",Classic
+Zug,Amina-Figarova-Sextet,2016-12-06,"[' Amina Figarova ', ' Bart Platteau ', ' Alex P. Norris ', ' Wayne Escoffery ', ' Luques Curtis ', ' Jason Brown ']",
+Basel,Weihnachtskonzert,2016-12-06,"[' Leonid Maximov ', ' Aldo Manetsch ', ' Henryk Polus ']",Classic
+Bern,The-Singer's-Night,2016-12-06,"['Sebastian Bättig ', ' Johanna Pärli ', 'Nicolas Wolf ']",
+Dietikon,Gregor-Loepfe-Trio-feat.-Katja-Baumann,2016-12-06,"[' Katja Baumann ', ' Gregor Loepfe ', ' Richard Pechota ', ' Peter Preibisch ']",
+Luzern,Glenn-Ferris-An-American-in-Paris,2016-12-06,"[' Moritz Anthes ', ' Maria del Mar Ballester ', ' Florian Haug ', ' Raphael Schorro ', ' Florian Bolliger ', ' Patrick Widmer ']",
+Zürich,Do-You-Know-Her-,2016-12-06,"[' Naïssam Jalal ', ' Mehdi Chaïb ', ' Karsten Hochapfel ', ' Zacharie Abraham ', ' Arnaud Dolmen ']",
+Basel,Eduardo-Machado-Trio,2016-12-06,"['Eduardo Machado Trio ', ' Gil Reis ', ' Eduardo Machado ', ' Fernando Rast ']",
+Zürich,Schööf,2016-12-06,"['Christian Zemp ', ' Elio Amberg ', ' Noah Arnold ', ' Amadeus Fries ']",
+Zürich,Ikarus,2016-12-06,['Ikarus '],
+Zürich,East-Sister,2016-12-06,"['Lorraine Dinkel ', ' Laura Schenk ', ' Amadeus Fries ']",

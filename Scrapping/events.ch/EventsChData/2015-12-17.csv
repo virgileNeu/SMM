@@ -1,21 +1,21 @@
-,location,event,date,artists,genre
-0,Zürich,Werner-und-Company,2015-12-17,['Werner und Company '],Pop
-1,Baden,After-Work-Dell'Amore,2015-12-17,"["" Désirée Dell'amore "", ' Daniel Küffer ', ' Andi Pupato ']",Pop
-2,Baden,Komödiantisches-Erzählkonzert,2015-12-17,"['Cornelia Montani ', ' Daniel Schneider ']",
-3,Zürich,Adventsfenster-Peter's-Doppelleben,2015-12-17,"['Jacqueline Schlegel ', ' Eva Wey ']",Pop
-4,Pratteln,Eisheilige-Nacht,2015-12-17,"['Subway To Sally ', ' Fiddlers Green ', ' Letzte Instanz ', ' Versengold ']",
-5,Binningen,Adventskalender,2015-12-17,['Marco Bartoli '],Classic
-6,Bern,Sinfonieorchester-Basel,2015-12-17,['Veronika Eberle '],Classic
-7,Zürich,Weihnachtskonzert,2015-12-17,"[' Regula Mühlemann ', ' Ulrike Andersen ', ' Fabio Trümpy ', ' Klaus Mertens ']",Classic
-8,Zürich,Thursday-Night-Jazz,2015-12-17,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-9,Baden,Fridolin's-Heritage,2015-12-17,"[' Hank Dust ', ' Mario Piccante ', ' Tony Flowers ', ' Stevie Hammond ', ' Micky Luke ', ' Sid Mercury ']",
-10,Zürich,Interzones,2015-12-17,"[' Franziska Baumann ', ' Christoph Baumann ']",
-11,Zürich,Zappa-Alles-über-Frank,2015-12-17,"['Daniel Rohr ', ' Nicolas de Haen ', ' Gerhard Gerstle ', ' Sebastian Müller ', ' Julius Helm ']",
-12,Kloten,Greg-Gallis-Gang,2015-12-17,"[' Greg Galli ', ' Chris Muzik ', ' Massimo Buonanno ', ' Herbie Kopf ']",
-13,Luzern,Stubete-mit-Gläuffig,2015-12-17,"['Mathias Landtwing ', ' Fränggi Gehrig ', ' Lukas Gernet ', ' Pirmin Huber ']",traditional
-14,Baden,Jatzenkammer,2015-12-17,"[' Sabine Siegrist ', ' Markus Läuppi ', ' Stefan Andreas ', ' Ernst Käser ']",
-15,Zürich,Passion-La-pasión,2015-12-17,"[' Reto Anneler ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas Lüthi ', ' Fischer ', ' Adrian Weber ']",
-16,Bern,Mantar,2015-12-17,"['Mantar ', ' support: Implore ']",
-17,Aarau,Lydmor-&-Bon-Homme,2015-12-17,['Lydmor & Bon Homme '],
-18,Basel,Will-Vinson-Quartet,2015-12-17,"[' William Vinson ', ' Michael Moreno ', ' Richard Rosato ', ' Jeff Ballard ']",
-19,Basel,Pollyester,2015-12-17,['Pollyester '],Pop
+location,event,date,artists,genre
+Zürich,Werner-und-Company,2015-12-17,['Werner und Company '],Pop
+Baden,After-Work-Dell'Amore,2015-12-17,"["" Désirée Dell'amore "", ' Daniel Küffer ', ' Andi Pupato ']",Pop
+Baden,Komödiantisches-Erzählkonzert,2015-12-17,"['Cornelia Montani ', ' Daniel Schneider ']",
+Zürich,Adventsfenster-Peter's-Doppelleben,2015-12-17,"['Jacqueline Schlegel ', ' Eva Wey ']",Pop
+Pratteln,Eisheilige-Nacht,2015-12-17,"['Subway To Sally ', ' Fiddlers Green ', ' Letzte Instanz ', ' Versengold ']",
+Binningen,Adventskalender,2015-12-17,['Marco Bartoli '],Classic
+Bern,Sinfonieorchester-Basel,2015-12-17,['Veronika Eberle '],Classic
+Zürich,Weihnachtskonzert,2015-12-17,"[' Regula Mühlemann ', ' Ulrike Andersen ', ' Fabio Trümpy ', ' Klaus Mertens ']",Classic
+Zürich,Thursday-Night-Jazz,2015-12-17,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Baden,Fridolin's-Heritage,2015-12-17,"[' Hank Dust ', ' Mario Piccante ', ' Tony Flowers ', ' Stevie Hammond ', ' Micky Luke ', ' Sid Mercury ']",
+Zürich,Interzones,2015-12-17,"[' Franziska Baumann ', ' Christoph Baumann ']",
+Zürich,Zappa-Alles-über-Frank,2015-12-17,"['Daniel Rohr ', ' Nicolas de Haen ', ' Gerhard Gerstle ', ' Sebastian Müller ', ' Julius Helm ']",
+Kloten,Greg-Gallis-Gang,2015-12-17,"[' Greg Galli ', ' Chris Muzik ', ' Massimo Buonanno ', ' Herbie Kopf ']",
+Luzern,Stubete-mit-Gläuffig,2015-12-17,"['Mathias Landtwing ', ' Fränggi Gehrig ', ' Lukas Gernet ', ' Pirmin Huber ']",traditional
+Baden,Jatzenkammer,2015-12-17,"[' Sabine Siegrist ', ' Markus Läuppi ', ' Stefan Andreas ', ' Ernst Käser ']",
+Zürich,Passion-La-pasión,2015-12-17,"[' Reto Anneler ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas Lüthi ', ' Fischer ', ' Adrian Weber ']",
+Bern,Mantar,2015-12-17,"['Mantar ', ' support: Implore ']",
+Aarau,Lydmor-&-Bon-Homme,2015-12-17,['Lydmor & Bon Homme '],
+Basel,Will-Vinson-Quartet,2015-12-17,"[' William Vinson ', ' Michael Moreno ', ' Richard Rosato ', ' Jeff Ballard ']",
+Basel,Pollyester,2015-12-17,['Pollyester '],Pop

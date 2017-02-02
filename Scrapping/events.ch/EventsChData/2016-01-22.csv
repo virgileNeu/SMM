@@ -1,34 +1,34 @@
-,location,event,date,artists,genre
-0,Winterthur,Midi-musical-Melodien-&-Musse-über-Mittag,2016-01-22,"['Christina Daletska ', ' Jennifer Kay Aynilian Druey ', ' Florian Läuchli ']",Classic
-1,Bern,Orgelpunkt,2016-01-22,['Marc Fitze '],Classic
-2,null,Sonntags-um-5,2016-01-22,"['Iryna Gintova ', ' Yuko Ishikawa ', ' Barbara Hürlimann ', ' Olga Stepien ']",Classic
-3,Liebefeld,BeJazz-Winterfestival,2016-01-22,"['Roman Tulei Trio ', ' Skyjack ']",
-4,Dietikon,Feierabendmusik,2016-01-22,[' Bernhard Hörler '],Classic
-5,Zürich,Ron-Pope-&-The-Nighthawks,2016-01-22,"['Ron Pope & The Nighthawks ', ' Trevor Hall ']",Pop
-6,Zürich,Punch-Arogunz,2016-01-22,['Punch Arogunz '],
-7,null,Tournee-III,2016-01-22,[' Zakir Hussain '],Classic
-8,Zürich,Musikpodium-Zwei-Tage-Zeit,2016-01-22,"[' Christian Kobi ', ' Harald Kimmig ', ' Mary Oliver ']",Classic
-9,Basel,Alla-turca,2016-01-22,[' Julia Schröder '],Classic
-10,Basel,Alvaro-Soler,2016-01-22,['Alvaro Soler '],Pop
-11,Bülach,Klavierduo-Soos-Haag,2016-01-22,"['Adrienne Soós ', ' Ivo Haag ']",Classic
-12,Luzern,The-Vibrators,2016-01-22,['The Vibrators '],
-13,Winterthur,Hathors,2016-01-22,[' Heads '],
-14,Buchs,Gabriela-Krapf-&-Horns,2016-01-22,"[' Gabriela Krapf ', ' Silvan Kiser ', ' Raffaele Lunardi ', ' Phil Powell ']",Pop
-15,Köniz,Tangokonzert,2016-01-22,"['Marcela Arroyo ', ' Julio Azcano ', ' Gabriel Rivano ', ' Daniel Pezzotti ']",
-16,Luzern,Debbie-Frank,2016-01-22,['Debbie Frank '],
-17,Uster,Die-Welt-in-Klängen-und-ihre-Bilder,2016-01-22,"[' Maki Wiederkehr ', ' Daniel Meller ', ' Flurin Cuonz ']",Classic
-18,Winterthur,Rebecca-&-The-Sophistocats,2016-01-22,"[' Rebecca Spiteri ', ' Lukas Gadola ', ' Thom Grüninger ', ' Hans Peter Künzle ', ' Thomas Bernold ']",
-19,Bülach,Sandy-Patton-Quintet,2016-01-22,"[' Sandy Patton ', ' Franz Biffiger ', ' Michel Poffet ', ' David Elias ', ' Werner Wüthrich ']",
-20,null,Fabrikjazzlabor-abgesagt,2016-01-22,"['Katja Mair ', ' Peter Leuzinger ']",
-21,Zürich,Zurich-Jazz-Orchestra,2016-01-22,"[' Lars Andreas Haug ', ' Christoph Grab ', ' Bernhard Schoch ', ' Wolfgang Häuptli ', ' Patrick Ottiger ']",
-22,Lausanne,Blacko,2016-01-22,['Blacko '],
-23,Basel,Daniel-Blanc-Quartet,2016-01-22,"[' Daniel Blanc ', ' Walter Jauslin ', ' Giorgos Antoniou ', ' Michael Wipf ']",
-24,Zürich,Bamako-BKO-Quintet,2016-01-22,"[' Fassara Sacko ', ' Nfali Diakité ', ' Abdoulaye Koné ', ' Ibrahim Sarr ', ' Aymeric Krol ']",
-25,Lugano,Festival-Strings-Lucerne,2016-01-22,['Daniil Trifonov '],Classic
-26,Bern,Quatre-in-Toulouse,2016-01-22,"[' Heinz Gasser ', ' Adrian Balmer ', ' Florian Widmer ', ' Johann Novell ', ' Peter Trachsel ', ' Cäsar Zurbriggen ', ' Benjamin Reinhart ']",
-27,Zürich,Knarf-Rellöm,2016-01-22,['Knarf Rellöm '],
-28,Luzern,Jimmy-Wettach's-Dixie-Band,2016-01-22,"[' Markus Hechelt ', ' Rolf Treichler ', ' Ruedi von Arx ', ' Edy Kieser ', ' Jimmy Wettach ', ' Hans Brunner ']",
-29,Luzern,Soundbattle,2016-01-22,[' Steve Lewis '],
-30,Thun,William-the-Conqueror,2016-01-22,['William the Conqueror '],
-31,Lyss,J.B.O.,2016-01-22,['J.B.O. '],
-32,Riehen,Aladdin,2016-01-22,['Adam Green '],Pop
+location,event,date,artists,genre
+Winterthur,Midi-musical-Melodien-&-Musse-über-Mittag,2016-01-22,"['Christina Daletska ', ' Jennifer Kay Aynilian Druey ', ' Florian Läuchli ']",Classic
+Bern,Orgelpunkt,2016-01-22,['Marc Fitze '],Classic
+null,Sonntags-um-5,2016-01-22,"['Iryna Gintova ', ' Yuko Ishikawa ', ' Barbara Hürlimann ', ' Olga Stepien ']",Classic
+Liebefeld,BeJazz-Winterfestival,2016-01-22,"['Roman Tulei Trio ', ' Skyjack ']",
+Dietikon,Feierabendmusik,2016-01-22,[' Bernhard Hörler '],Classic
+Zürich,Ron-Pope-&-The-Nighthawks,2016-01-22,"['Ron Pope & The Nighthawks ', ' Trevor Hall ']",Pop
+Zürich,Punch-Arogunz,2016-01-22,['Punch Arogunz '],
+null,Tournee-III,2016-01-22,[' Zakir Hussain '],Classic
+Zürich,Musikpodium-Zwei-Tage-Zeit,2016-01-22,"[' Christian Kobi ', ' Harald Kimmig ', ' Mary Oliver ']",Classic
+Basel,Alla-turca,2016-01-22,[' Julia Schröder '],Classic
+Basel,Alvaro-Soler,2016-01-22,['Alvaro Soler '],Pop
+Bülach,Klavierduo-Soos-Haag,2016-01-22,"['Adrienne Soós ', ' Ivo Haag ']",Classic
+Luzern,The-Vibrators,2016-01-22,['The Vibrators '],
+Winterthur,Hathors,2016-01-22,[' Heads '],
+Buchs,Gabriela-Krapf-&-Horns,2016-01-22,"[' Gabriela Krapf ', ' Silvan Kiser ', ' Raffaele Lunardi ', ' Phil Powell ']",Pop
+Köniz,Tangokonzert,2016-01-22,"['Marcela Arroyo ', ' Julio Azcano ', ' Gabriel Rivano ', ' Daniel Pezzotti ']",
+Luzern,Debbie-Frank,2016-01-22,['Debbie Frank '],
+Uster,Die-Welt-in-Klängen-und-ihre-Bilder,2016-01-22,"[' Maki Wiederkehr ', ' Daniel Meller ', ' Flurin Cuonz ']",Classic
+Winterthur,Rebecca-&-The-Sophistocats,2016-01-22,"[' Rebecca Spiteri ', ' Lukas Gadola ', ' Thom Grüninger ', ' Hans Peter Künzle ', ' Thomas Bernold ']",
+Bülach,Sandy-Patton-Quintet,2016-01-22,"[' Sandy Patton ', ' Franz Biffiger ', ' Michel Poffet ', ' David Elias ', ' Werner Wüthrich ']",
+null,Fabrikjazzlabor-abgesagt,2016-01-22,"['Katja Mair ', ' Peter Leuzinger ']",
+Zürich,Zurich-Jazz-Orchestra,2016-01-22,"[' Lars Andreas Haug ', ' Christoph Grab ', ' Bernhard Schoch ', ' Wolfgang Häuptli ', ' Patrick Ottiger ']",
+Lausanne,Blacko,2016-01-22,['Blacko '],
+Basel,Daniel-Blanc-Quartet,2016-01-22,"[' Daniel Blanc ', ' Walter Jauslin ', ' Giorgos Antoniou ', ' Michael Wipf ']",
+Zürich,Bamako-BKO-Quintet,2016-01-22,"[' Fassara Sacko ', ' Nfali Diakité ', ' Abdoulaye Koné ', ' Ibrahim Sarr ', ' Aymeric Krol ']",
+Lugano,Festival-Strings-Lucerne,2016-01-22,['Daniil Trifonov '],Classic
+Bern,Quatre-in-Toulouse,2016-01-22,"[' Heinz Gasser ', ' Adrian Balmer ', ' Florian Widmer ', ' Johann Novell ', ' Peter Trachsel ', ' Cäsar Zurbriggen ', ' Benjamin Reinhart ']",
+Zürich,Knarf-Rellöm,2016-01-22,['Knarf Rellöm '],
+Luzern,Jimmy-Wettach's-Dixie-Band,2016-01-22,"[' Markus Hechelt ', ' Rolf Treichler ', ' Ruedi von Arx ', ' Edy Kieser ', ' Jimmy Wettach ', ' Hans Brunner ']",
+Luzern,Soundbattle,2016-01-22,[' Steve Lewis '],
+Thun,William-the-Conqueror,2016-01-22,['William the Conqueror '],
+Lyss,J.B.O.,2016-01-22,['J.B.O. '],
+Riehen,Aladdin,2016-01-22,['Adam Green '],Pop

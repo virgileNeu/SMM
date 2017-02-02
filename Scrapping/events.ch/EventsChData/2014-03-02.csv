@@ -1,25 +1,25 @@
-,location,event,date,artists,genre
-0,Zürich,Krankensonntag,2014-03-02,"['Kurt Meier ', ' Felix Gubser ']",Classic
-1,Basel,Durch-alle-Tonarten,2014-03-02,['Urs Peter Schneider '],Classic
-2,Zürich,Expressionismus,2014-03-02,"['Josias Just ', ' Ryszard Groblewsky ', ' Nicola Mosca ', ' Musikwerkeinführung: Willi Zimmermann ']",Classic
-3,-Alte-Kirche,Boswil,2014-03-02,"['Karl-Andreas Kolly ', ' Stefan Tönz ']",Classic
-4,Zürich,Frühschoppen,2014-03-02,['Steirer Quintett '],traditional
-5,Zürich,Kammerkonzert,2014-03-02,"[' Fabio Luisi ', ' Robert Pickup ', ' Ada Pesch ', ' Karen Forster ', ' Claudius Herrmann ']",Classic
-6,Zürich,Grenzen,2014-03-02,['Andreas Janke '],Classic
-7,Basel,Pure-Spielfreude,2014-03-02,[' Babette Mondry '],Classic
-8,Basel,Pure-Spielfreude,2014-03-02,[' Babette Mondry '],Classic
-9,Zürich,Grenzen,2014-03-02,"['Andreas Janke ', ' Luis Esnaola ', ' Katja Fuchs ', ' Ewa Grzywna-Groblewska ', ' Thomas Grossenbacher ']",Classic
-10,Zürich,Steirer-Quintett,2014-03-02,['Steirer Quintett '],traditional
-11,Dornach,Concert-and-Drawings-from-Students-to-Everyone,2014-03-02,"['Narine Gregorian ', ' Hiromi Nishizawa ', ' Arisa Kawasugi ']",Classic
-12,Zürich,Konzert,2014-03-02,[' Sophia Jaffé '],Classic
-13,Zürich,Murat-Cevik's-Ararat-Quintet,2014-03-02,"[""Murat Cevik's Ararat Quintet "", ' Murat Cevhik ', ' Andreas Ambühl ', ' Simon Kessler ', ' Severin Graf ', ' Thomas Sonderegger ']",
-14,Bern,Trio-Konzert,2014-03-02,"['Carolin Forster Borioli ', ' Liisa Tamminen ', ' Albert Hartkamp ']",Classic
-15,Grüningen,Konzert,2014-03-02,"[' Sandro Müller ', ' Barbara Müller-Hämmerli ']",Classic
-16,Bern,Sabat-Mater,2014-03-02,"[' Anne-Florence Marbot ', ' Irène Friedli ', ' Dominik Wortig ', ' Michel Brodard ']",Classic
-17,null,Internationales-Gitarrenfestival,2014-03-02,[' Gabriel Guillén Trio '],
-18,Mühlethurnen,Orgelkonzert,2014-03-02,['Werner Aeschbacher '],Classic
-19,Zürich,Jacques-Schwarz-Bart,2014-03-02,"['Jacques Schwarz-Bart ', ' Jacques Schwarz-Bart ', ' Benjamin Moonlight ', ' Alex Tassel ', ' Greg Privat ', ' Claude Saturne ']",
-20,null,The-Warlocks,2014-03-02,['The Warlocks '],
-21,Winterthur,Hegel,2014-03-02,"[' Lukas Boesch ', ' Doritmay ', ' Rolf Schmid ', ' Heinz Hunziker ']",
-22,Zürich,John-Herzig,2014-03-02,['John Herzig '],traditional
-23,Bern,Mariam-The-Believer,2014-03-02,['Mariam The Believer '],Pop
+location,event,date,artists,genre
+Zürich,Krankensonntag,2014-03-02,"['Kurt Meier ', ' Felix Gubser ']",Classic
+Basel,Durch-alle-Tonarten,2014-03-02,['Urs Peter Schneider '],Classic
+Zürich,Expressionismus,2014-03-02,"['Josias Just ', ' Ryszard Groblewsky ', ' Nicola Mosca ', ' Musikwerkeinführung: Willi Zimmermann ']",Classic
+-Alte-Kirche,Boswil,2014-03-02,"['Karl-Andreas Kolly ', ' Stefan Tönz ']",Classic
+Zürich,Frühschoppen,2014-03-02,['Steirer Quintett '],traditional
+Zürich,Kammerkonzert,2014-03-02,"[' Fabio Luisi ', ' Robert Pickup ', ' Ada Pesch ', ' Karen Forster ', ' Claudius Herrmann ']",Classic
+Zürich,Grenzen,2014-03-02,['Andreas Janke '],Classic
+Basel,Pure-Spielfreude,2014-03-02,[' Babette Mondry '],Classic
+Basel,Pure-Spielfreude,2014-03-02,[' Babette Mondry '],Classic
+Zürich,Grenzen,2014-03-02,"['Andreas Janke ', ' Luis Esnaola ', ' Katja Fuchs ', ' Ewa Grzywna-Groblewska ', ' Thomas Grossenbacher ']",Classic
+Zürich,Steirer-Quintett,2014-03-02,['Steirer Quintett '],traditional
+Dornach,Concert-and-Drawings-from-Students-to-Everyone,2014-03-02,"['Narine Gregorian ', ' Hiromi Nishizawa ', ' Arisa Kawasugi ']",Classic
+Zürich,Konzert,2014-03-02,[' Sophia Jaffé '],Classic
+Zürich,Murat-Cevik's-Ararat-Quintet,2014-03-02,"[""Murat Cevik's Ararat Quintet "", ' Murat Cevhik ', ' Andreas Ambühl ', ' Simon Kessler ', ' Severin Graf ', ' Thomas Sonderegger ']",
+Bern,Trio-Konzert,2014-03-02,"['Carolin Forster Borioli ', ' Liisa Tamminen ', ' Albert Hartkamp ']",Classic
+Grüningen,Konzert,2014-03-02,"[' Sandro Müller ', ' Barbara Müller-Hämmerli ']",Classic
+Bern,Sabat-Mater,2014-03-02,"[' Anne-Florence Marbot ', ' Irène Friedli ', ' Dominik Wortig ', ' Michel Brodard ']",Classic
+null,Internationales-Gitarrenfestival,2014-03-02,[' Gabriel Guillén Trio '],
+Mühlethurnen,Orgelkonzert,2014-03-02,['Werner Aeschbacher '],Classic
+Zürich,Jacques-Schwarz-Bart,2014-03-02,"['Jacques Schwarz-Bart ', ' Jacques Schwarz-Bart ', ' Benjamin Moonlight ', ' Alex Tassel ', ' Greg Privat ', ' Claude Saturne ']",
+null,The-Warlocks,2014-03-02,['The Warlocks '],
+Winterthur,Hegel,2014-03-02,"[' Lukas Boesch ', ' Doritmay ', ' Rolf Schmid ', ' Heinz Hunziker ']",
+Zürich,John-Herzig,2014-03-02,['John Herzig '],traditional
+Bern,Mariam-The-Believer,2014-03-02,['Mariam The Believer '],Pop

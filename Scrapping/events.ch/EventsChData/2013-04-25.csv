@@ -1,45 +1,45 @@
-,location,event,date,artists,genre
-0,Zürich,Les-vendredis,2013-04-25,"['Isabel Neligan ', ' Noémie Rufer Zumstein ', ' Ewa Grzywna-Groblewska ', ' Ioana Geangalau ']",Classic
-1,Basel,Mittagskonzert,2013-04-25,['Babak Mahmudian '],Classic
-2,Kloten,Uslender-Production,2013-04-25,['Uslender Production '],Pop
-3,Luzern,The-Crown-of-India,2013-04-25,[' Anoushka Shankar '],Classic
-4,Zürich,Thursday-Night-Jazz,2013-04-25,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-5,Zürich,Internationales-Dixie-and-Blues-Festival,2013-04-25,"['Kenny ""Blues Boss"" Wayne ']",
-6,Zürich,War-Requiem,2013-04-25,"[' Tatiana Pavlovskaya ', ' Toby Spence ', ' Hanno Müller-Brachmann ']",Classic
-7,Bern,Liebesfreud,2013-04-25,[' Alexis Vincent '],Classic
-8,Bern,Internationales-Jazzfestival-Bern,2013-04-25,"['McCoy Tyner Latin Jazz All-Stars ', ' McCoy Tyner ', ' Gary Bartz ', ' Steve Turre ', ' Claudio Roditi ', ' Gerald Cannon ', ' Ignacio Berroa ', ' Francisco Mela ']",
-9,Bierhübeli,Bern,2013-04-25,['Fun. '],fun.
-10,null,Michel-Jonasz,2013-04-25,['Michel Jonasz '],Pop
-11,Fakt-Kunst-und-Musik,Basel,2013-04-25,"['Polar ', ' Felix Handschin ', ' Adrian Schäublin ']",Polar
-12,null,Konzert,2013-04-25,[' Andreas Staier '],Classic
-13,Luzern,Salonmusik,2013-04-25,"['Martin Schaefer ', ' Richard Decker ']",Classic
-14,Luzern,Mellow-Mood,2013-04-25,['Mellow Mood '],
-15,Härterei-Club,Zürich,2013-04-25,['Newton Faulkner '],
-16,Hinwil,Disco-Night,2013-04-25,['No Lipstick '],
-17,Baden,German-Blues-Project,2013-04-25,['German Blues Project '],
-18,Lebewohlfabrik,Zürich,2013-04-25,"[' Flavia Vasella ', ' Dani Solimine ', ' Manfred Junker ', ' Geri Zumbrunn ']",
-19,Kloten,Smile!,2013-04-25,"[' Düde Dürst ', ' Peter Glanzmann ', ' Markus Fritzsche ']",
-20,Winterthur,Tiago-Barros-Brasil-Quartet,2013-04-25,"[' Tiago Barros ', ' Oliver Pellet Santos ', ' Florian Abt ', ' Fernando Delgado ']",
-21,Seegräben,Farbmusik-Vollmond-Konzert,2013-04-25,['Hanspeter Krüsi '],
-22,Basel,Feigenwinter-Moreira-Schärli,2013-04-25,"[' Peter Schärli ', ' Juarez Moreira ', ' Hans Feigenwinter ']",
-23,Solothurn,Blackberry-Brandies,2013-04-25,['Blackberry Brandies '],
-24,Liebefeld,Troja,2013-04-25,"[' Peter Zihlmann ', ' Patrick Sommer ', ' Tobias Friedli ']",
-25,Zürich,Christoph-Irniger-Artist-in-Residence,2013-04-25,"[' Christoph Irniger ', ' Daniel Studer ', ' Dieter Ulrich ', ' Rafael Schilt ', ' Roberto Pianca ', ' Stefano Senni ', ' Emanuele Maniscalco ']",
-26,Bern,The-Delta-Saints,2013-04-25,['The Delta Saints '],
-27,Zürich,Schaufelberger-Favre-Furh,2013-04-25,"[' Favre ', ' Schaufelberger ', ' Fuhr ']",
-28,Thalwil,The-Grassroot-Ensemble,2013-04-25,"[' Noam Szyfer ', ' Silvan Schmid ', ' Marena Whitcher ', ' Colin Morton ', ' Meyer Matthias ', ' Alessio Cazzetta ', ' Mathieu Voisard ']",
-29,Luzern,The-Grassroot-Ensemble-No.4,2013-04-25,"[' Mathias Spillmann ', ' Dominique Girod ', ' Marena Whitcher ', ' Mathieu Voisard ', ' Silvan Schmid ', ' Noam Szyfer ', ' Alessio Cazzetta ', ' Colin Morton ', ' Meyer Matthias ']",
-30,Baden,Jazz-am-Donnerstag,2013-04-25,"['Ueli Gygli ', ' Andreas Wettstein ', ' Christoph Sprenger ']",
-31,Feuerthalen,Kangaroo-Moon,2013-04-25,['Kangaroo Moon '],
-32,Zürich,Sounds,2013-04-25,"['Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",
-33,Luzern,Radio-Moscow,2013-04-25,['Radio Moscow '],
-34,Aarau,Public-Service-Broadcasting,2013-04-25,['Public Service Broadcasting '],
-35,Basel,Alfatec,2013-04-25,['Alfatec '],
-36,Wil,Gare-Tango,2013-04-25,['Live: Cosae Mandinga '],
-37,Zürich,Young-Fathers,2013-04-25,['Young Fathers '],
-38,Lausanne,Rachel-Sermanni,2013-04-25,['Rachel Sermanni '],Pop
-39,Zürich,The-Great-Harry-Hillman,2013-04-25,"[' Nils Fischer ', ' David Koch ', ' Samuel Huwyler ', ' Dominik Mahnig ']",
-40,Zürich,Chris-Heath,2013-04-25,['Chris Heath '],Pop
-41,Luzern,Jam-Session,2013-04-25,['Richard Decker '],
-42,Bern,Internationales-Jazzfestival-Bern,2013-04-25,"['McCoy Tyner Latin Jazz All-Stars ', ' McCoy Tyner ', ' Gary Bartz ', ' Steve Turre ', ' Claudio Roditi ', ' Gerald Cannon ', ' Ignacio Berroa ', ' Francisco Mela ']",
-43,Basel,Tav-Falco-&-Panther-Burns,2013-04-25,['Tav Falco & Panther Burns '],
+location,event,date,artists,genre
+Zürich,Les-vendredis,2013-04-25,"['Isabel Neligan ', ' Noémie Rufer Zumstein ', ' Ewa Grzywna-Groblewska ', ' Ioana Geangalau ']",Classic
+Basel,Mittagskonzert,2013-04-25,['Babak Mahmudian '],Classic
+Kloten,Uslender-Production,2013-04-25,['Uslender Production '],Pop
+Luzern,The-Crown-of-India,2013-04-25,[' Anoushka Shankar '],Classic
+Zürich,Thursday-Night-Jazz,2013-04-25,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Zürich,Internationales-Dixie-and-Blues-Festival,2013-04-25,"['Kenny ""Blues Boss"" Wayne ']",
+Zürich,War-Requiem,2013-04-25,"[' Tatiana Pavlovskaya ', ' Toby Spence ', ' Hanno Müller-Brachmann ']",Classic
+Bern,Liebesfreud,2013-04-25,[' Alexis Vincent '],Classic
+Bern,Internationales-Jazzfestival-Bern,2013-04-25,"['McCoy Tyner Latin Jazz All-Stars ', ' McCoy Tyner ', ' Gary Bartz ', ' Steve Turre ', ' Claudio Roditi ', ' Gerald Cannon ', ' Ignacio Berroa ', ' Francisco Mela ']",
+Bierhübeli,Bern,2013-04-25,['Fun. '],fun.
+null,Michel-Jonasz,2013-04-25,['Michel Jonasz '],Pop
+Fakt-Kunst-und-Musik,Basel,2013-04-25,"['Polar ', ' Felix Handschin ', ' Adrian Schäublin ']",Polar
+null,Konzert,2013-04-25,[' Andreas Staier '],Classic
+Luzern,Salonmusik,2013-04-25,"['Martin Schaefer ', ' Richard Decker ']",Classic
+Luzern,Mellow-Mood,2013-04-25,['Mellow Mood '],
+Härterei-Club,Zürich,2013-04-25,['Newton Faulkner '],
+Hinwil,Disco-Night,2013-04-25,['No Lipstick '],
+Baden,German-Blues-Project,2013-04-25,['German Blues Project '],
+Lebewohlfabrik,Zürich,2013-04-25,"[' Flavia Vasella ', ' Dani Solimine ', ' Manfred Junker ', ' Geri Zumbrunn ']",
+Kloten,Smile!,2013-04-25,"[' Düde Dürst ', ' Peter Glanzmann ', ' Markus Fritzsche ']",
+Winterthur,Tiago-Barros-Brasil-Quartet,2013-04-25,"[' Tiago Barros ', ' Oliver Pellet Santos ', ' Florian Abt ', ' Fernando Delgado ']",
+Seegräben,Farbmusik-Vollmond-Konzert,2013-04-25,['Hanspeter Krüsi '],
+Basel,Feigenwinter-Moreira-Schärli,2013-04-25,"[' Peter Schärli ', ' Juarez Moreira ', ' Hans Feigenwinter ']",
+Solothurn,Blackberry-Brandies,2013-04-25,['Blackberry Brandies '],
+Liebefeld,Troja,2013-04-25,"[' Peter Zihlmann ', ' Patrick Sommer ', ' Tobias Friedli ']",
+Zürich,Christoph-Irniger-Artist-in-Residence,2013-04-25,"[' Christoph Irniger ', ' Daniel Studer ', ' Dieter Ulrich ', ' Rafael Schilt ', ' Roberto Pianca ', ' Stefano Senni ', ' Emanuele Maniscalco ']",
+Bern,The-Delta-Saints,2013-04-25,['The Delta Saints '],
+Zürich,Schaufelberger-Favre-Furh,2013-04-25,"[' Favre ', ' Schaufelberger ', ' Fuhr ']",
+Thalwil,The-Grassroot-Ensemble,2013-04-25,"[' Noam Szyfer ', ' Silvan Schmid ', ' Marena Whitcher ', ' Colin Morton ', ' Meyer Matthias ', ' Alessio Cazzetta ', ' Mathieu Voisard ']",
+Luzern,The-Grassroot-Ensemble-No.4,2013-04-25,"[' Mathias Spillmann ', ' Dominique Girod ', ' Marena Whitcher ', ' Mathieu Voisard ', ' Silvan Schmid ', ' Noam Szyfer ', ' Alessio Cazzetta ', ' Colin Morton ', ' Meyer Matthias ']",
+Baden,Jazz-am-Donnerstag,2013-04-25,"['Ueli Gygli ', ' Andreas Wettstein ', ' Christoph Sprenger ']",
+Feuerthalen,Kangaroo-Moon,2013-04-25,['Kangaroo Moon '],
+Zürich,Sounds,2013-04-25,"['Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",
+Luzern,Radio-Moscow,2013-04-25,['Radio Moscow '],
+Aarau,Public-Service-Broadcasting,2013-04-25,['Public Service Broadcasting '],
+Basel,Alfatec,2013-04-25,['Alfatec '],
+Wil,Gare-Tango,2013-04-25,['Live: Cosae Mandinga '],
+Zürich,Young-Fathers,2013-04-25,['Young Fathers '],
+Lausanne,Rachel-Sermanni,2013-04-25,['Rachel Sermanni '],Pop
+Zürich,The-Great-Harry-Hillman,2013-04-25,"[' Nils Fischer ', ' David Koch ', ' Samuel Huwyler ', ' Dominik Mahnig ']",
+Zürich,Chris-Heath,2013-04-25,['Chris Heath '],Pop
+Luzern,Jam-Session,2013-04-25,['Richard Decker '],
+Bern,Internationales-Jazzfestival-Bern,2013-04-25,"['McCoy Tyner Latin Jazz All-Stars ', ' McCoy Tyner ', ' Gary Bartz ', ' Steve Turre ', ' Claudio Roditi ', ' Gerald Cannon ', ' Ignacio Berroa ', ' Francisco Mela ']",
+Basel,Tav-Falco-&-Panther-Burns,2013-04-25,['Tav Falco & Panther Burns '],

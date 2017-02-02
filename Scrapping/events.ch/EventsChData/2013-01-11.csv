@@ -1,25 +1,25 @@
-,location,event,date,artists,genre
-0,Basel,Orgelspiel-zum-Feierabend,2013-01-11,['Helga Varadi '],Classic
-1,Zürich,Benefiz-Konzert-für-die-Stadtmission,2013-01-11,"[' Yuta Takase ', ' Eszter Major ', ' Chin-Ting Huang ', ' Sarah Weilenmann ']",Classic
-2,Zürich,Konzert,2013-01-11,[' Emanuel Ax '],Classic
-3,Bern,Nachtgedanken,2013-01-11,"[' Christoph Prégardien ', ' Olivier Darbellay ']",Classic
-4,null,5.-Tonhallekonzert,2013-01-11,['Hans Christoph Begemann '],Classic
-5,Luzern,Baroque-Meets-Rap,2013-01-11,"[' Grégoire Vuilleumier alias Greis ', ' Elisabeth Meyer ', ' Jakob Pilgram ']",Classic
-6,Zürich,Beethoven-im-Kaffeehaus,2013-01-11,"[' Mathias Weibel ', ' Monika Baer ', ' Susanna Hefti ', ' Renate Steinmann ']",Classic
-7,Zürich,Konzert,2013-01-11,"[' Christian Buck ', ' Christian Wolfarth ']",Classic
-8,null,Jim-Boyd,2013-01-11,['Jim Boyd '],
-9,Bern,Drummer's-Delight,2013-01-11,"[' Daniel Buess ', ' Beat Müller ', ' Pascal Viglino ', ' Margrit Rieben ']",
-10,null,Puro-y-vivo,2013-01-11,"[' Rubio de Pruna ', ' Teresa Ríos ', ' Javier Heredia ', ' Paco de Amparo ', ' Ignacio de Amparo ']",
-11,Zürich,Der-Tod-und-das-Mädchen,2013-01-11,"[' Rea Claudia Kost ', ' Simone Keller ']",Classic
-12,Basel,Art-Film-Music,2013-01-11,['Margaret Leng Tan '],Classic
-13,Basel,Afterhours,2013-01-11,[' Giulia del Re '],
-14,Zürich,Scream-Your-Name,2013-01-11,"[' We Set the Sun ', ' Stefan Jaun ', ' Manuel Buser ', ' Micha Krähenbühl ', ' Miguel Müller ']",
-15,Baden,Moon-Rise,2013-01-11,"[' Tom Bodenmann ', ' Ruth Wäger ', ' Christophe Huguenin ', ' Dominique Dieth ']",
-16,Liebefeld,Uptown-Big-Band-feat.-Danilo-Moccia,2013-01-11,[' Danilo Moccia '],
-17,Parterre-One,Basel,2013-01-11,['Maria Doyle Kennedy & Kieran Kennedy '],
-18,Lugano,Concerti-Dell'auditorio-2013,2013-01-11,['Benedetto Lupo '],Classic
-19,Uster,Stimm-Drum,2013-01-11,"[' Andreas Schaerer ', ' Lucas Niggli ']",
-20,Basel,David-Helbock-Trio,2013-01-11,"[' David Helbock ', ' Raphael Preuschl ', ' Herbert Pirker ']",
-21,Bern,Quatre-in-Toulouse,2013-01-11,"[' Heinz Gasser ', ' Adrian Balmer ', ' Florian Widmer ', ' Johann Novell ', ' Peter Trachsel ', ' Cäsar Zurbriggen ', ' Benjamin Reinhart ']",
-22,Mokka,Thun,2013-01-11,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-23,Bern,Mark-Berube,2013-01-11,['Mark Berube '],
+location,event,date,artists,genre
+Basel,Orgelspiel-zum-Feierabend,2013-01-11,['Helga Varadi '],Classic
+Zürich,Benefiz-Konzert-für-die-Stadtmission,2013-01-11,"[' Yuta Takase ', ' Eszter Major ', ' Chin-Ting Huang ', ' Sarah Weilenmann ']",Classic
+Zürich,Konzert,2013-01-11,[' Emanuel Ax '],Classic
+Bern,Nachtgedanken,2013-01-11,"[' Christoph Prégardien ', ' Olivier Darbellay ']",Classic
+null,5.-Tonhallekonzert,2013-01-11,['Hans Christoph Begemann '],Classic
+Luzern,Baroque-Meets-Rap,2013-01-11,"[' Grégoire Vuilleumier alias Greis ', ' Elisabeth Meyer ', ' Jakob Pilgram ']",Classic
+Zürich,Beethoven-im-Kaffeehaus,2013-01-11,"[' Mathias Weibel ', ' Monika Baer ', ' Susanna Hefti ', ' Renate Steinmann ']",Classic
+Zürich,Konzert,2013-01-11,"[' Christian Buck ', ' Christian Wolfarth ']",Classic
+null,Jim-Boyd,2013-01-11,['Jim Boyd '],
+Bern,Drummer's-Delight,2013-01-11,"[' Daniel Buess ', ' Beat Müller ', ' Pascal Viglino ', ' Margrit Rieben ']",
+null,Puro-y-vivo,2013-01-11,"[' Rubio de Pruna ', ' Teresa Ríos ', ' Javier Heredia ', ' Paco de Amparo ', ' Ignacio de Amparo ']",
+Zürich,Der-Tod-und-das-Mädchen,2013-01-11,"[' Rea Claudia Kost ', ' Simone Keller ']",Classic
+Basel,Art-Film-Music,2013-01-11,['Margaret Leng Tan '],Classic
+Basel,Afterhours,2013-01-11,[' Giulia del Re '],
+Zürich,Scream-Your-Name,2013-01-11,"[' We Set the Sun ', ' Stefan Jaun ', ' Manuel Buser ', ' Micha Krähenbühl ', ' Miguel Müller ']",
+Baden,Moon-Rise,2013-01-11,"[' Tom Bodenmann ', ' Ruth Wäger ', ' Christophe Huguenin ', ' Dominique Dieth ']",
+Liebefeld,Uptown-Big-Band-feat.-Danilo-Moccia,2013-01-11,[' Danilo Moccia '],
+Parterre-One,Basel,2013-01-11,['Maria Doyle Kennedy & Kieran Kennedy '],
+Lugano,Concerti-Dell'auditorio-2013,2013-01-11,['Benedetto Lupo '],Classic
+Uster,Stimm-Drum,2013-01-11,"[' Andreas Schaerer ', ' Lucas Niggli ']",
+Basel,David-Helbock-Trio,2013-01-11,"[' David Helbock ', ' Raphael Preuschl ', ' Herbert Pirker ']",
+Bern,Quatre-in-Toulouse,2013-01-11,"[' Heinz Gasser ', ' Adrian Balmer ', ' Florian Widmer ', ' Johann Novell ', ' Peter Trachsel ', ' Cäsar Zurbriggen ', ' Benjamin Reinhart ']",
+Mokka,Thun,2013-01-11,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
+Bern,Mark-Berube,2013-01-11,['Mark Berube '],

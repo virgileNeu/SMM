@@ -1,36 +1,36 @@
-,location,event,date,artists,genre
-0,Luzern,Lucerne-Festival-Moderne-6,2015-09-13,"['SWR Radio-Sinfonieorchesters Stuttgart ', ' SWR Vokalensemble Stuttgart ']",Classic
-1,Basel,ZeitRäume-Basel-Hofkonzerte,2015-09-13,"[' Demetre Gamsachurdia ', ' Wictor Kociuban ', ' Vincent Gühlow ']",Classic
-2,Zürich,Werner-und-Company,2015-09-13,['Werner und Company '],
-3,Zürich,40.-Jubiläum-der-Stiftung-Schweizerischer-Jugendmusikwettbewerb,2015-09-13,"[' Benjamin Engeli ', ' Fabio di Càsola ', ' Thomas Grossenbacher ', ' Jean-Sélim Abdelmoula ']",Classic
-4,null,Hommage-an-Wien,2015-09-13,"[' Susanne Mathé ', ' Isabelle Ladewig ', ' Stella Mahrenholz ', ' Stéphanie Meyer ']",Classic
-5,null,Weihern-Unplugged,2015-09-13,[' Will & The People '],Pop
-6,Basel,ZeitRäume-Basel-RaumQuartett,2015-09-13,"[' Pascal Contet ', ' Etienne Abelin ', ' Rafael Rosenfeld ']",Classic
-7,Fischingen,Von-Wien-bis-Zürich,2015-09-13,"[' Andreas Wiesli ', ' Noëlle Grüebler ', ' Jonas Kreienbühl ']",Classic
-8,Luzern,Lucerne-Festival-Sinfoniekonzert-32,2015-09-13,"['Wiener Philharmoniker ', ' BBC Proms Youth Choir ']",Classic
-9,Basel,TrioPlus-Akkordeon-Begegnung-mit-Musik,2015-09-13,"[' Emilie Haudenschild ', ' Monika Clemann ', ' Emeric Kostyák ', ' Viviane Chassot ']",Classic
-10,Basel,TrioPlus-Akkordeon-Begegnung-mit-Musik,2015-09-13,"[' Emilie Haudenschild ', ' Monika Clemann ', ' Emeric Kostyák ', ' Viviane Chassot ']",Classic
-11,null,Herbstkonzert-mit-dem-MSG-Kammerorchester-Bern,2015-09-13,['Esther Feingold '],Classic
-12,Basel,Neues-Orchester-Basel,2015-09-13,[' Pablo Barragàn '],Classic
-13,Solothurn,Spektrum-Akzente-Viva-España,2015-09-13,"[' Dominique Gisler ', ' Ursula Hächler ', ' Kiyomi Higaki ']",Classic
-14,Zürich,Pre-College-Orchestra,2015-09-13,['Anja-Céline Knecht '],Classic
-15,null,Marienvesper,2015-09-13,"[' Barbara Locher ', ' Nuria Richter ', ' Sebastian Lipp ', ' Hans-Jürg Rickenbacher ', ' Peter Brechbühler ']",Classic
-16,Thun,Sinfoniekonzert,2015-09-13,['Miriam Prandi '],Classic
-17,Zürich,Paris-unvergänglich,2015-09-13,"[' Dominik Melicharek ', ' Francesco Spendolini ', ' Rainer Johannsen ', ' Olivier Picon ']",Classic
-18,null,Jazzin,2015-09-13,"[' Lori Williams ', ' Marcel Schefer ']",
-19,Basel,Klavierabend,2015-09-13,['Bobby Mitchell '],Classic
-20,Winterthur,Artist-in-Resonance,2015-09-13,"['Rahel Cunz ', ' Margareta Benkova ', ' Nicolas Corti ', ' Seraphina Rufer ', ' anschl. Red Sofa mit Andreas Ottensamer ']",Classic
-21,Ettingen,Russische-Philharmonie-St.-Petersburg,2015-09-13,['Indira Koch '],Classic
-22,Brugg,Bibi-Vaplan,2015-09-13,"[' Bibi Vaplan ', ' Andi Schnellmann ', ' Dario Sisera ']",Pop
-23,Luzern,Amina-Figarova-Sextet,2015-09-13,"[' Amina Figarova ', ' Bart Platteau ', ' Wayne Escoffery ', ' Alex Pope Norris ', ' Luques Curtis ', ' Jason Brown ']",
-24,Zürich,Voyage-à-Paris-Place-St.-Sulpice,2015-09-13,"['Monika Baer ', ' Martina Fausch ', ' Simone Keller ']",Classic
-25,Luzern,Amina-Figarova-Sextet,2015-09-13,"[' Amina Figarova ', ' Bart Platteau ', ' Wayne Escoffery ', ' Alex Pope Norris ', ' Luques Curtis ', ' Jason Brown ']",
-26,Zürich,Madjo,2015-09-13,"['Madjo ', ' Madjo ', ' Boro Tripcevic ', ' Arnaud Danjean ', ' Julien Vasnier ']",Electronic
-27,Basel,Extrakonzert-Pierre-Boulez,2015-09-13,[' Kim Kashkashian '],Classic
-28,Pratteln,Audrey-Horne,2015-09-13,"['Audrey Horne ', ' Dead Lord ', ' Dead City Ruins ']",
-29,null,Ordre-Etern,2015-09-13,"['Ordre Etern ', ' Coàgul ']",Electronic
-30,Winterthur,Eva,2015-09-13,"[' Eva Gisler ', ' Angie Lütolf ', ' Tobias Helfenstein ', ' Rainer Fröhlich ']",
-31,Zürich,Jim-Adkins,2015-09-13,['Jim Adkins '],
-32,Zürich,Lucy-Rose,2015-09-13,['Lucy Rose '],Pop
-33,Elgg,Bläserquintett-Consonus,2015-09-13,"['Andrea Schmutz-Wenzlik ', ' Philipp Neukom ', ' Daniel Allenbach ', ' Klara Boszun ', ' Susanne John ']",Classic
-34,Sankt-Gallen,Torres,2015-09-13,"['Torres ', ' Harkin ']",Pop
+location,event,date,artists,genre
+Luzern,Lucerne-Festival-Moderne-6,2015-09-13,"['SWR Radio-Sinfonieorchesters Stuttgart ', ' SWR Vokalensemble Stuttgart ']",Classic
+Basel,ZeitRäume-Basel-Hofkonzerte,2015-09-13,"[' Demetre Gamsachurdia ', ' Wictor Kociuban ', ' Vincent Gühlow ']",Classic
+Zürich,Werner-und-Company,2015-09-13,['Werner und Company '],
+Zürich,40.-Jubiläum-der-Stiftung-Schweizerischer-Jugendmusikwettbewerb,2015-09-13,"[' Benjamin Engeli ', ' Fabio di Càsola ', ' Thomas Grossenbacher ', ' Jean-Sélim Abdelmoula ']",Classic
+null,Hommage-an-Wien,2015-09-13,"[' Susanne Mathé ', ' Isabelle Ladewig ', ' Stella Mahrenholz ', ' Stéphanie Meyer ']",Classic
+null,Weihern-Unplugged,2015-09-13,[' Will & The People '],Pop
+Basel,ZeitRäume-Basel-RaumQuartett,2015-09-13,"[' Pascal Contet ', ' Etienne Abelin ', ' Rafael Rosenfeld ']",Classic
+Fischingen,Von-Wien-bis-Zürich,2015-09-13,"[' Andreas Wiesli ', ' Noëlle Grüebler ', ' Jonas Kreienbühl ']",Classic
+Luzern,Lucerne-Festival-Sinfoniekonzert-32,2015-09-13,"['Wiener Philharmoniker ', ' BBC Proms Youth Choir ']",Classic
+Basel,TrioPlus-Akkordeon-Begegnung-mit-Musik,2015-09-13,"[' Emilie Haudenschild ', ' Monika Clemann ', ' Emeric Kostyák ', ' Viviane Chassot ']",Classic
+Basel,TrioPlus-Akkordeon-Begegnung-mit-Musik,2015-09-13,"[' Emilie Haudenschild ', ' Monika Clemann ', ' Emeric Kostyák ', ' Viviane Chassot ']",Classic
+null,Herbstkonzert-mit-dem-MSG-Kammerorchester-Bern,2015-09-13,['Esther Feingold '],Classic
+Basel,Neues-Orchester-Basel,2015-09-13,[' Pablo Barragàn '],Classic
+Solothurn,Spektrum-Akzente-Viva-España,2015-09-13,"[' Dominique Gisler ', ' Ursula Hächler ', ' Kiyomi Higaki ']",Classic
+Zürich,Pre-College-Orchestra,2015-09-13,['Anja-Céline Knecht '],Classic
+null,Marienvesper,2015-09-13,"[' Barbara Locher ', ' Nuria Richter ', ' Sebastian Lipp ', ' Hans-Jürg Rickenbacher ', ' Peter Brechbühler ']",Classic
+Thun,Sinfoniekonzert,2015-09-13,['Miriam Prandi '],Classic
+Zürich,Paris-unvergänglich,2015-09-13,"[' Dominik Melicharek ', ' Francesco Spendolini ', ' Rainer Johannsen ', ' Olivier Picon ']",Classic
+null,Jazzin,2015-09-13,"[' Lori Williams ', ' Marcel Schefer ']",
+Basel,Klavierabend,2015-09-13,['Bobby Mitchell '],Classic
+Winterthur,Artist-in-Resonance,2015-09-13,"['Rahel Cunz ', ' Margareta Benkova ', ' Nicolas Corti ', ' Seraphina Rufer ', ' anschl. Red Sofa mit Andreas Ottensamer ']",Classic
+Ettingen,Russische-Philharmonie-St.-Petersburg,2015-09-13,['Indira Koch '],Classic
+Brugg,Bibi-Vaplan,2015-09-13,"[' Bibi Vaplan ', ' Andi Schnellmann ', ' Dario Sisera ']",Pop
+Luzern,Amina-Figarova-Sextet,2015-09-13,"[' Amina Figarova ', ' Bart Platteau ', ' Wayne Escoffery ', ' Alex Pope Norris ', ' Luques Curtis ', ' Jason Brown ']",
+Zürich,Voyage-à-Paris-Place-St.-Sulpice,2015-09-13,"['Monika Baer ', ' Martina Fausch ', ' Simone Keller ']",Classic
+Luzern,Amina-Figarova-Sextet,2015-09-13,"[' Amina Figarova ', ' Bart Platteau ', ' Wayne Escoffery ', ' Alex Pope Norris ', ' Luques Curtis ', ' Jason Brown ']",
+Zürich,Madjo,2015-09-13,"['Madjo ', ' Madjo ', ' Boro Tripcevic ', ' Arnaud Danjean ', ' Julien Vasnier ']",Electronic
+Basel,Extrakonzert-Pierre-Boulez,2015-09-13,[' Kim Kashkashian '],Classic
+Pratteln,Audrey-Horne,2015-09-13,"['Audrey Horne ', ' Dead Lord ', ' Dead City Ruins ']",
+null,Ordre-Etern,2015-09-13,"['Ordre Etern ', ' Coàgul ']",Electronic
+Winterthur,Eva,2015-09-13,"[' Eva Gisler ', ' Angie Lütolf ', ' Tobias Helfenstein ', ' Rainer Fröhlich ']",
+Zürich,Jim-Adkins,2015-09-13,['Jim Adkins '],
+Zürich,Lucy-Rose,2015-09-13,['Lucy Rose '],Pop
+Elgg,Bläserquintett-Consonus,2015-09-13,"['Andrea Schmutz-Wenzlik ', ' Philipp Neukom ', ' Daniel Allenbach ', ' Klara Boszun ', ' Susanne John ']",Classic
+Sankt-Gallen,Torres,2015-09-13,"['Torres ', ' Harkin ']",Pop

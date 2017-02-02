@@ -1,18 +1,18 @@
-,location,event,date,artists,genre
-0,Verbier,Verbier-Festival,2016-07-27,"['Daniel Lozakovitj ', ' Frank Dupree ']",Classic
-1,Verbier,Verbier-Festival,2016-07-27,['Alessio Bax '],Classic
-2,Zürich,Jazz-Arcades,2016-07-27,"[' Marianne Racine ', ' Michael Bucher ', ' Patrick Sommer ']",
-3,Luzern,Blue-Balls-Festival,2016-07-27,['Oddisee & Company '],
-4,Zürich,Orgelkonzerte-Sommerzyklus,2016-07-27,['Roman Summereder '],Classic
-5,Verbier,Verbier-Festival,2016-07-27,['Yuja Wang '],Classic
-6,Zürich,Eagulls,2016-07-27,['Eagulls '],
-7,Zürich,Serenade-im-Park:-Ensemble-des-Bayerischen-Staatsorchesters,2016-07-27,"[' Verena-Maria Fitz ', ' José Montón ', ' Adrian Mustea ', ' Yves Savary ', ' Maria Mazo ']",Classic
-8,Basel,Stimmen,2016-07-27,"[' Gabriela Bürgler ', ' Caroline Reitzel ', ' Aline Willi ']",Classic
-9,Luzern,Blue-Balls-Festival,2016-07-27,['Seal '],
-10,Thun,Am-Schluss,2016-07-27,['Iyeoka '],
-11,Zürich,Jimmy-Ragusa,2016-07-27,['Jimmy Ragusa '],Pop
-12,Verbier,Verbier-Festival,2016-07-27,[' Andeas Ottensammer '],Classic
-13,null,Langnau-Jazz-Nights,2016-07-27,"[' Bill Evans ', ' Darryl Jones ', ' Keith Carlock ', ' Bryan Baker ']",
-14,St.-Moritz,Festival-da-Jazz,2016-07-27,['Charles Bradley & His Extraordinaires '],
-15,Zürich,Casa-verde-colectivo,2016-07-27,['Casa verde colectivo '],
-16,Basel,Basel-Tattoo,2016-07-27,"['Canadiana Celtic Highland Dancers ', ' The Band of HM Royal Marines ', ' Conscript Band of the Finnish Defence Forces ', ' Fanfare du 27ème bataillon de chasseurs alpins ']",traditional
+location,event,date,artists,genre
+Verbier,Verbier-Festival,2016-07-27,"['Daniel Lozakovitj ', ' Frank Dupree ']",Classic
+Verbier,Verbier-Festival,2016-07-27,['Alessio Bax '],Classic
+Zürich,Jazz-Arcades,2016-07-27,"[' Marianne Racine ', ' Michael Bucher ', ' Patrick Sommer ']",
+Luzern,Blue-Balls-Festival,2016-07-27,['Oddisee & Company '],
+Zürich,Orgelkonzerte-Sommerzyklus,2016-07-27,['Roman Summereder '],Classic
+Verbier,Verbier-Festival,2016-07-27,['Yuja Wang '],Classic
+Zürich,Eagulls,2016-07-27,['Eagulls '],
+Zürich,Serenade-im-Park:-Ensemble-des-Bayerischen-Staatsorchesters,2016-07-27,"[' Verena-Maria Fitz ', ' José Montón ', ' Adrian Mustea ', ' Yves Savary ', ' Maria Mazo ']",Classic
+Basel,Stimmen,2016-07-27,"[' Gabriela Bürgler ', ' Caroline Reitzel ', ' Aline Willi ']",Classic
+Luzern,Blue-Balls-Festival,2016-07-27,['Seal '],
+Thun,Am-Schluss,2016-07-27,['Iyeoka '],
+Zürich,Jimmy-Ragusa,2016-07-27,['Jimmy Ragusa '],Pop
+Verbier,Verbier-Festival,2016-07-27,[' Andeas Ottensammer '],Classic
+null,Langnau-Jazz-Nights,2016-07-27,"[' Bill Evans ', ' Darryl Jones ', ' Keith Carlock ', ' Bryan Baker ']",
+St.-Moritz,Festival-da-Jazz,2016-07-27,['Charles Bradley & His Extraordinaires '],
+Zürich,Casa-verde-colectivo,2016-07-27,['Casa verde colectivo '],
+Basel,Basel-Tattoo,2016-07-27,"['Canadiana Celtic Highland Dancers ', ' The Band of HM Royal Marines ', ' Conscript Band of the Finnish Defence Forces ', ' Fanfare du 27ème bataillon de chasseurs alpins ']",traditional

@@ -1,28 +1,28 @@
-,location,event,date,artists,genre
-0,Degen,Openair-Lumnezia,2016-07-23,"['Scooter ', ' Bad Religion ', ' The Kooks ', ' The Subways ']",Electronic
-1,Gstaad,Matinée-des-jeunes-étoiles-II,2016-07-23,"['Alexey Stadler ', ' Lukas Vondracek ']",Classic
-2,Verbier,Verbier-Festival,2016-07-23,"['Benjamin Beilmann ', ' Alessio Bax ']",Classic
-3,null,Reeds-Festival,2016-07-23,"['Samory I & Najavibes ', ' I Kong & Najavibes ', ' Ras Demo feat. Mafia & Fluxy Band ', ' Marla Brown feat. Mafia & Fluxy Band ']",
-4,Verbier,Verbier-Festival,2016-07-23,[' Stephan Genz '],Classic
-5,Nyon,Paléo-Festival,2016-07-23,"['The Chemical Brothers ', ' The Shoes ', ' Alain Souchon & Laurent Voulzy ']",Pop
-6,Riniken,Kleinlaut-Festival,2016-07-23,"['Turbostaat ', ' Notilus ', ' Freddy Fudd Pucker ']",
-7,Riehen,Sunset,2016-07-23,['Martin Buttrich '],Electronic
-8,St.-Moritz,Festival-da-Jazz,2016-07-23,"[' Raphael Jost ', ' Lukas Traxel ', ' Pius Baschnagel ']",
-9,Basel,Basel-Tattoo,2016-07-23,"['Canadiana Celtic Highland Dancers ', ' The Band of HM Royal Marines ', ' Conscript Band of the Finnish Defence Forces ', ' Fanfare du 27ème bataillon de chasseurs alpins ']",traditional
-10,Pratteln,Konzerte-im-Hof-'A-Midsummer-Night's-Concert',2016-07-23,"['Corina Marti ', ' Alexandra Nigito ', ' Sterne und Liebe. Abendkasse ab 17 Uhr. ']",Classic
-11,Luzern,Blue-Balls-Festival,2016-07-23,['Gareth Icke '],Pop
-12,Bad-Ragaz,Bar-Unterhaltung,2016-07-23,['Jill Benz Combo '],
-13,Verbier,Verbier-Festival,2016-07-23,"[' Emöke Barath ', ' Ann Hallenberg ']",Classic
-14,Zürich,Friska-Viljor,2016-07-23,['Friska Viljor '],
-15,Saanen,Schiffs-Hommage-an-Yehudi-Menuhin-II,2016-07-23,[' András Schiff '],Classic
-16,Fahrwangen,Openair-Fahrwangen,2016-07-23,"['Boney M. feat. Liz Mitchell ', ' Die Chefs ', ' The Lennerockers ', ' Chris Roberts ']",Pop
-17,Verbier,Verbier-Festival,2016-07-23,"['Milos Karadaglic ', ' Andreas Ottensamer ', ' Ksenija Sidorova ']",Classic
-18,null,Stimmen,2016-07-23,['Revolverheld '],
-19,Luzern,Blue-Balls-Festival,2016-07-23,"[""Keb' Mo' ""]",
-20,Basel,Paul-Cataldo,2016-07-23,['Paul Cataldo '],Pop
-21,Basel,Horace-Scope,2016-07-23,"[' Steve Fishwick ', ' Osian Roberts ', ' Claus Raible ', ' Giorgos Antoniou ', ' Steve Brown ']",
-22,null,Kulturfestival-St.-Gallen,2016-07-23,['Blondage '],Electronic
-23,St.-Moritz,Festival-da-Jazz,2016-07-23,"['Silje Nergaard ', ' Silje Nergaard ', ' Hallgrim Bratberg ', ' Håvar Bendiksen ']",
-24,Thun,Am-Schluss,2016-07-23,['A-Wa '],Pop
-25,Basel,Basel-Tattoo,2016-07-23,"['Canadiana Celtic Highland Dancers ', ' The Band of HM Royal Marines ', ' Conscript Band of the Finnish Defence Forces ', ' Fanfare du 27ème bataillon de chasseurs alpins ']",traditional
-26,St.-Moritz,Festival-da-Jazz,2016-07-23,"['Sheer ', ' Shir Zehavy ', ' Lior Tzemach ', ' Dana Roth ', ' Yogev Gabay ', ' Alon Near ']",Pop
+location,event,date,artists,genre
+Degen,Openair-Lumnezia,2016-07-23,"['Scooter ', ' Bad Religion ', ' The Kooks ', ' The Subways ']",Electronic
+Gstaad,Matinée-des-jeunes-étoiles-II,2016-07-23,"['Alexey Stadler ', ' Lukas Vondracek ']",Classic
+Verbier,Verbier-Festival,2016-07-23,"['Benjamin Beilmann ', ' Alessio Bax ']",Classic
+null,Reeds-Festival,2016-07-23,"['Samory I & Najavibes ', ' I Kong & Najavibes ', ' Ras Demo feat. Mafia & Fluxy Band ', ' Marla Brown feat. Mafia & Fluxy Band ']",
+Verbier,Verbier-Festival,2016-07-23,[' Stephan Genz '],Classic
+Nyon,Paléo-Festival,2016-07-23,"['The Chemical Brothers ', ' The Shoes ', ' Alain Souchon & Laurent Voulzy ']",Pop
+Riniken,Kleinlaut-Festival,2016-07-23,"['Turbostaat ', ' Notilus ', ' Freddy Fudd Pucker ']",
+Riehen,Sunset,2016-07-23,['Martin Buttrich '],Electronic
+St.-Moritz,Festival-da-Jazz,2016-07-23,"[' Raphael Jost ', ' Lukas Traxel ', ' Pius Baschnagel ']",
+Basel,Basel-Tattoo,2016-07-23,"['Canadiana Celtic Highland Dancers ', ' The Band of HM Royal Marines ', ' Conscript Band of the Finnish Defence Forces ', ' Fanfare du 27ème bataillon de chasseurs alpins ']",traditional
+Pratteln,Konzerte-im-Hof-'A-Midsummer-Night's-Concert',2016-07-23,"['Corina Marti ', ' Alexandra Nigito ', ' Sterne und Liebe. Abendkasse ab 17 Uhr. ']",Classic
+Luzern,Blue-Balls-Festival,2016-07-23,['Gareth Icke '],Pop
+Bad-Ragaz,Bar-Unterhaltung,2016-07-23,['Jill Benz Combo '],
+Verbier,Verbier-Festival,2016-07-23,"[' Emöke Barath ', ' Ann Hallenberg ']",Classic
+Zürich,Friska-Viljor,2016-07-23,['Friska Viljor '],
+Saanen,Schiffs-Hommage-an-Yehudi-Menuhin-II,2016-07-23,[' András Schiff '],Classic
+Fahrwangen,Openair-Fahrwangen,2016-07-23,"['Boney M. feat. Liz Mitchell ', ' Die Chefs ', ' The Lennerockers ', ' Chris Roberts ']",Pop
+Verbier,Verbier-Festival,2016-07-23,"['Milos Karadaglic ', ' Andreas Ottensamer ', ' Ksenija Sidorova ']",Classic
+null,Stimmen,2016-07-23,['Revolverheld '],
+Luzern,Blue-Balls-Festival,2016-07-23,"[""Keb' Mo' ""]",
+Basel,Paul-Cataldo,2016-07-23,['Paul Cataldo '],Pop
+Basel,Horace-Scope,2016-07-23,"[' Steve Fishwick ', ' Osian Roberts ', ' Claus Raible ', ' Giorgos Antoniou ', ' Steve Brown ']",
+null,Kulturfestival-St.-Gallen,2016-07-23,['Blondage '],Electronic
+St.-Moritz,Festival-da-Jazz,2016-07-23,"['Silje Nergaard ', ' Silje Nergaard ', ' Hallgrim Bratberg ', ' Håvar Bendiksen ']",
+Thun,Am-Schluss,2016-07-23,['A-Wa '],Pop
+Basel,Basel-Tattoo,2016-07-23,"['Canadiana Celtic Highland Dancers ', ' The Band of HM Royal Marines ', ' Conscript Band of the Finnish Defence Forces ', ' Fanfare du 27ème bataillon de chasseurs alpins ']",traditional
+St.-Moritz,Festival-da-Jazz,2016-07-23,"['Sheer ', ' Shir Zehavy ', ' Lior Tzemach ', ' Dana Roth ', ' Yogev Gabay ', ' Alon Near ']",Pop

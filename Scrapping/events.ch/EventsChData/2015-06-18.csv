@@ -1,31 +1,31 @@
-,location,event,date,artists,genre
-0,Basel,Masterrezital,2015-06-18,['Sebastian Braun '],Classic
-1,Basel,Masterrezital,2015-06-18,['Riccardo Papa '],Classic
-2,Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-18,['Luis Vieira '],Classic
-3,Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-18,['Silvia Berchtold '],Classic
-4,Basel,Masterrezital,2015-06-18,['Carlos Tarancón Mateo '],Classic
-5,Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-18,['Raúl Calvo Royo '],Classic
-6,Bern,High-on-Fire,2015-06-18,['High on Fire '],
-7,Winterthur,Klassisch-romantisch,2015-06-18,[' Ingrid Fliter '],Classic
-8,Basel,Masterrezital,2015-06-18,['Ondrej Sindelár '],Classic
-9,Luzern,Sinfoniekonzert-Messa-da-Requiem,2015-06-18,"[' Maria Agresta ', ' Ekaterina Semenchuk ', ' Giorgio Berrugi ', ' Alexander Tsymbalyuk ']",Classic
-10,null,Julien-Leclerc,2015-06-18,['Julien Leclerc '],Pop
-11,Luzern,Electric-Force,2015-06-18,"[' Timo Wild ', ' Benjamin Kieser ', ' Alex Merz ']",Electronic
-12,Zürich,Lowest-Creature,2015-06-18,"['Lowest Creature ', ' Medea ']",
-13,Luzern,Anybody-Out-There-,2015-06-18,"[' Matthias Nyfeler ', ' Manuel Jordi ', ' Simon\tFreiburghaus ', ' Martin Müller ']",Pop
-14,Dornach,Bärlauch,2015-06-18,"[' Franziska Maria von Arb ', ' David Schönhaus ']",Pop
-15,Thun,Vom-Schlummern-Spotten-und-Schwärmen,2015-06-18,"['Christina Metz ', ' Reto Reichenbach ']",Classic
-16,null,Wu-Tang-Clan,2015-06-18,['Wu Tang Clan '],
-17,Winterthur,Mikrokosmos,2015-06-18,"[' Adrian Frey ', ' Patrick Sommer ', ' Tony Renold ']",
-18,Luzern,Gästival,2015-06-18,"[' Max Christian Graeff ', ' Christov Rolla ', ' Gregory Schärer ', ' Silvan Schmid ', ' Niklaus Mäder ', ' Marc Moscatelli ']",Pop
-19,Basel,Tiago-Barros-e-grupo,2015-06-18,"[' Tiago Barros ', ' Oliver Pellet ', ' Simone Bollini ', ' Dudu Penz ', ' Fernando Delgado ']",
-20,Zürich,Evelinn-Trouble,2015-06-18,"['Evelinn Trouble ', ' Evelinn Trouble ', ' Flo Götte ', ' Domi Chansorn ']",
-21,Lausanne,Two-Kids-on-Holiday,2015-06-18,['Two Kids on Holiday '],
-22,Thun,Stradivari-Quartett-&-Per-Lundberg,2015-06-18,"['Maja Weber ', ' Xiaoming Wang ', ' Sebastian Bohren ', ' Lech Antonio Uszynski ']",Classic
-23,Baden,Erich-Fischer-Quartett,2015-06-18,"[' Erich Fischer ', ' Vasko Atanasovski ', ' Silvan Jeger ', ' Benno Kaiser ']",
-24,Feuerthalen,Tim-O'Connor,2015-06-18,"[""Tim O'Connor ""]",Pop
-25,Zürich,John-Lyons,2015-06-18,['John Lyons '],
-26,Zürich,Doppelkonzert,2015-06-18,['Becky Lee & The Drunk Foot '],
-27,Lausanne,Rocket-Session,2015-06-18,['Brant Bjork and the Low Desert Punk Band '],
-28,Zürich,The-Acharis,2015-06-18,['The Acharis '],
-29,Zürich,Dosci,2015-06-18,"['Neil Diablo ', ' Sebastian Spring ']",Electronic
+location,event,date,artists,genre
+Basel,Masterrezital,2015-06-18,['Sebastian Braun '],Classic
+Basel,Masterrezital,2015-06-18,['Riccardo Papa '],Classic
+Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-18,['Luis Vieira '],Classic
+Zürich,Präsentation-Master-of-Arts-in-Musikpädagogik,2015-06-18,['Silvia Berchtold '],Classic
+Basel,Masterrezital,2015-06-18,['Carlos Tarancón Mateo '],Classic
+Zürich,Rezital-Master-Specialized-Music-Performance-Solist,2015-06-18,['Raúl Calvo Royo '],Classic
+Bern,High-on-Fire,2015-06-18,['High on Fire '],
+Winterthur,Klassisch-romantisch,2015-06-18,[' Ingrid Fliter '],Classic
+Basel,Masterrezital,2015-06-18,['Ondrej Sindelár '],Classic
+Luzern,Sinfoniekonzert-Messa-da-Requiem,2015-06-18,"[' Maria Agresta ', ' Ekaterina Semenchuk ', ' Giorgio Berrugi ', ' Alexander Tsymbalyuk ']",Classic
+null,Julien-Leclerc,2015-06-18,['Julien Leclerc '],Pop
+Luzern,Electric-Force,2015-06-18,"[' Timo Wild ', ' Benjamin Kieser ', ' Alex Merz ']",Electronic
+Zürich,Lowest-Creature,2015-06-18,"['Lowest Creature ', ' Medea ']",
+Luzern,Anybody-Out-There-,2015-06-18,"[' Matthias Nyfeler ', ' Manuel Jordi ', ' Simon\tFreiburghaus ', ' Martin Müller ']",Pop
+Dornach,Bärlauch,2015-06-18,"[' Franziska Maria von Arb ', ' David Schönhaus ']",Pop
+Thun,Vom-Schlummern-Spotten-und-Schwärmen,2015-06-18,"['Christina Metz ', ' Reto Reichenbach ']",Classic
+null,Wu-Tang-Clan,2015-06-18,['Wu Tang Clan '],
+Winterthur,Mikrokosmos,2015-06-18,"[' Adrian Frey ', ' Patrick Sommer ', ' Tony Renold ']",
+Luzern,Gästival,2015-06-18,"[' Max Christian Graeff ', ' Christov Rolla ', ' Gregory Schärer ', ' Silvan Schmid ', ' Niklaus Mäder ', ' Marc Moscatelli ']",Pop
+Basel,Tiago-Barros-e-grupo,2015-06-18,"[' Tiago Barros ', ' Oliver Pellet ', ' Simone Bollini ', ' Dudu Penz ', ' Fernando Delgado ']",
+Zürich,Evelinn-Trouble,2015-06-18,"['Evelinn Trouble ', ' Evelinn Trouble ', ' Flo Götte ', ' Domi Chansorn ']",
+Lausanne,Two-Kids-on-Holiday,2015-06-18,['Two Kids on Holiday '],
+Thun,Stradivari-Quartett-&-Per-Lundberg,2015-06-18,"['Maja Weber ', ' Xiaoming Wang ', ' Sebastian Bohren ', ' Lech Antonio Uszynski ']",Classic
+Baden,Erich-Fischer-Quartett,2015-06-18,"[' Erich Fischer ', ' Vasko Atanasovski ', ' Silvan Jeger ', ' Benno Kaiser ']",
+Feuerthalen,Tim-O'Connor,2015-06-18,"[""Tim O'Connor ""]",Pop
+Zürich,John-Lyons,2015-06-18,['John Lyons '],
+Zürich,Doppelkonzert,2015-06-18,['Becky Lee & The Drunk Foot '],
+Lausanne,Rocket-Session,2015-06-18,['Brant Bjork and the Low Desert Punk Band '],
+Zürich,The-Acharis,2015-06-18,['The Acharis '],
+Zürich,Dosci,2015-06-18,"['Neil Diablo ', ' Sebastian Spring ']",Electronic

@@ -1,23 +1,23 @@
-,location,event,date,artists,genre
-0,Zürich,Mozart-von-Salzburg-nach-Paris-und-zurück,2016-02-25,"['Daniel Hope ', ' Sophie Heinrich ', ' Blythe Teh Engstroem ', ' Daniel Geiss ', ' Jacques Ammon ']",Classic
-1,Bern,Sinfoniekonzert,2016-02-25,['Arkady Shilkloper '],Classic
-2,Basel,Volkssinfoniekonzert,2016-02-25,[' Immanuel Richter '],Classic
-3,Olten,Konzert,2016-02-25,[' Martin Stadtfeld '],Classic
-4,Zürich,Internationales-Country-Music-Festival,2016-02-25,['Dailey & Vincent '],
-5,Aarau,The-Vintage-Caravan,2016-02-25,"['The Vintage Caravan ', ' Dead Lord ', ' Tiebreaker ']",
-6,Zürich,Abschied-und-Neuanfang,2016-02-25,[' Sol Gabetta '],Classic
-7,Zürich,Lionheart,2016-02-25,"['Lionheart ', ' support: Desolated ', ' Kublai Khan ', ' Fallbrawl ']",
-8,null,Daniel-Norgren,2016-02-25,['Daniel Norgren '],
-9,Zürich,Ellingtonality,2016-02-25,"[' Christoph Grab ', "" Alessandro d'Episcopo "", ' Haemi Haemmerli ', ' Elmar Frey ']",
-10,Baden,Sir-Oliver-Mally's-Nu-Yard,2016-02-25,"[' Sir Oliver Mally ', ' Martin Gasselsberger ', ' Alex Meik ', ' Willy Hackl ']",
-11,Bern,Jazzwerkstatt,2016-02-25,[' Django Bates '],
-12,Luzern,Mosaik,2016-02-25,"['Julianna Wetzel ', ' Peter Vögeli ', ' Nicola Katz ', ' Maurus Conte ', ' Martin Huber ', ' David Sontòn Caflisch ']",Classic
-13,Winterthur,Marcel-Lüscher,2016-02-25,"[' Marcel Lüscher ', ' Kristinn Smári Kristinsson ', ' James Varghese ', ' Claudio Strüby ']",
-14,null,Extrakonzert,2016-02-25,[' Katia und Marielle Labeque '],Classic
-15,Bern,Cloud-Cluster-Collective,2016-02-25,"[' Julie Fahrer ', ' Rita Ekes ', ' Sarah Chaksad ', ' ss) Fabien Hörni ']",
-16,Solothurn,Acoustic-Nights-Special,2016-02-25,['Howe Gelb '],
-17,Zürich,Mistura-feat.-Peter-Madsen-&-David-Helbock,2016-02-25,"[' Peter Madsen ', ' David Helbock ', ' Dietmar Kirchner ', ' Andreas Wettstein ']",
-18,Basel,Tony-Renold-Quartet,2016-02-25,"[' Michael Gassmann ', ' Michael Bucher ', ' Patrick Sommer ', ' Tony Renold ']",
-19,Baden,Bonnie-&-The-Groove-Cats,2016-02-25,"[' Bonnie ', ' Didi Meier ', ' Etienne Irscartel ', ' Ueli Hofstetter ']",
-20,Basel,Isaak,2016-02-25,['Isaak '],
-21,Luzern,Aviator,2016-02-25,['Aviator '],
+location,event,date,artists,genre
+Zürich,Mozart-von-Salzburg-nach-Paris-und-zurück,2016-02-25,"['Daniel Hope ', ' Sophie Heinrich ', ' Blythe Teh Engstroem ', ' Daniel Geiss ', ' Jacques Ammon ']",Classic
+Bern,Sinfoniekonzert,2016-02-25,['Arkady Shilkloper '],Classic
+Basel,Volkssinfoniekonzert,2016-02-25,[' Immanuel Richter '],Classic
+Olten,Konzert,2016-02-25,[' Martin Stadtfeld '],Classic
+Zürich,Internationales-Country-Music-Festival,2016-02-25,['Dailey & Vincent '],
+Aarau,The-Vintage-Caravan,2016-02-25,"['The Vintage Caravan ', ' Dead Lord ', ' Tiebreaker ']",
+Zürich,Abschied-und-Neuanfang,2016-02-25,[' Sol Gabetta '],Classic
+Zürich,Lionheart,2016-02-25,"['Lionheart ', ' support: Desolated ', ' Kublai Khan ', ' Fallbrawl ']",
+null,Daniel-Norgren,2016-02-25,['Daniel Norgren '],
+Zürich,Ellingtonality,2016-02-25,"[' Christoph Grab ', "" Alessandro d'Episcopo "", ' Haemi Haemmerli ', ' Elmar Frey ']",
+Baden,Sir-Oliver-Mally's-Nu-Yard,2016-02-25,"[' Sir Oliver Mally ', ' Martin Gasselsberger ', ' Alex Meik ', ' Willy Hackl ']",
+Bern,Jazzwerkstatt,2016-02-25,[' Django Bates '],
+Luzern,Mosaik,2016-02-25,"['Julianna Wetzel ', ' Peter Vögeli ', ' Nicola Katz ', ' Maurus Conte ', ' Martin Huber ', ' David Sontòn Caflisch ']",Classic
+Winterthur,Marcel-Lüscher,2016-02-25,"[' Marcel Lüscher ', ' Kristinn Smári Kristinsson ', ' James Varghese ', ' Claudio Strüby ']",
+null,Extrakonzert,2016-02-25,[' Katia und Marielle Labeque '],Classic
+Bern,Cloud-Cluster-Collective,2016-02-25,"[' Julie Fahrer ', ' Rita Ekes ', ' Sarah Chaksad ', ' ss) Fabien Hörni ']",
+Solothurn,Acoustic-Nights-Special,2016-02-25,['Howe Gelb '],
+Zürich,Mistura-feat.-Peter-Madsen-&-David-Helbock,2016-02-25,"[' Peter Madsen ', ' David Helbock ', ' Dietmar Kirchner ', ' Andreas Wettstein ']",
+Basel,Tony-Renold-Quartet,2016-02-25,"[' Michael Gassmann ', ' Michael Bucher ', ' Patrick Sommer ', ' Tony Renold ']",
+Baden,Bonnie-&-The-Groove-Cats,2016-02-25,"[' Bonnie ', ' Didi Meier ', ' Etienne Irscartel ', ' Ueli Hofstetter ']",
+Basel,Isaak,2016-02-25,['Isaak '],
+Luzern,Aviator,2016-02-25,['Aviator '],

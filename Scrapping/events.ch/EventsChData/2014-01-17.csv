@@ -1,33 +1,33 @@
-,location,event,date,artists,genre
-0,null,Staring-Girl-visuelles-Konzert,2014-01-17,"[' Aline Goffin ', ' Joris Caluwaerts ', ' Frederik Meulyzer ']",Classic
-1,Basel,Orgelspiel-zum-Feierabend,2014-01-17,['John Walthausen '],Classic
-2,Dietikon,Feierabendmusik-in-der-Kirche,2014-01-17,"['Regula Arnitz-Bernhard ', ' Livio Castioni ']",Classic
-3,Kriens,Con-voce,2014-01-17,"[' Sarah Maria Sun ', ' mit Marianthi Papalexandri-Alexandri ']",Classic
-4,Baden,Romantische-Reisen,2014-01-17,[' Christian Lampert '],Classic
-5,Winterthur,Herbie's-Explo-3000,2014-01-17,"[' Adi Pflugshaupt ', ' Hans Feigenwinter ', ' Pius Baschnagel ', ' Herbie Kopf ']",
-6,Winterthur,The-Doodes,2014-01-17,['The Doodes '],
-7,Bern,Klassik-Jazz-Neue-Musik-Ein-etwas-anderer-Liederabend,2014-01-17,"['Eva Nievergelt ', ' Christoph Brunner ']",Classic
-8,Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-17,"[' Andreas Schaerer ', ' Bänz Oester ']",
-9,Zürich,A-Jazz-Duo-Night,2014-01-17,"['Rodrigo Botter Maio ', ' Adrian Frey ']",
-10,Basel,Masterrezital,2014-01-17,[' Tamar Eskenian '],Classic
-11,Winterthur,Gesänge-aus-Bulgarien-Georgien-und-der-Ukraine,2014-01-17,"['Tamar Buadze ', ' Mariana Sadovska ', ' Dessislava Stefanova ']",traditional
-12,Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-17,"[' Domi Chansorn ', ' Julian Hesse ', ' Fabio Pinto ', ' Oliver Zurkirchen ', ' Kevin Chesham ']",
-13,Basel,Evaristo-Pérez-Trio,2014-01-17,"[' Evaristo Pérez ', ' Philippe Brassoud ', ' Marta Themo ']",
-14,Lausanne,Walk-the-Line,2014-01-17,[' The Elecmatics '],
-15,Stäfa,Andy-Egert-Blues-Band-feat.-Dallas-Hodge,2014-01-17,['Andy Egert Blues Band feat. Dallas Hodge '],
-16,Luzern,Oakwith-Maren-Montauk,2014-01-17,"[' Maren Montauk ', ' David Schwarz ', ' Michael Büschelmann ']",
-17,Liebefeld,Uptown-Goes-Downtown,2014-01-17,[' Markus Plattner '],
-18,Vevey,Afghan-Rock-Night,2014-01-17,"['Ariana Delawari ', ' White Page ']",
-19,Thun,Velojet,2014-01-17,['Velojet '],
-20,Luzern,Piano-Allstars,2014-01-17,"[' Christian Mettler ', ' Fabienne Arnet ', ' Patrick Greiner ', ' Mark Tenger ', ' Mega Horvath', ' Herb Miller ']",
-21,Zug,Easy-October,2014-01-17,['Easy October '],Pop
-22,Buchs,States-&-Empires,2014-01-17,"['States & Empires ', ' Taped ']",
-23,Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-17,"[' Claire Huguenin ', ' Luzius Schuler ', ' Christian Spahni ', ' Domi Chansorn ']",
-24,null,KKC-Orchestra,2014-01-17,['KKC Orchestra '],
-25,Baden,Leo-&-the-Lineup,2014-01-17,['Leo & the Lineup '],
-26,Lausanne,Dope-D.O.D.,2014-01-17,"['Dope D.O.D. ', ' DJs Figure ']",
-27,Sankt-Gallen,Happy-Jawbone-Family,2014-01-17,['Happy Jawbone Family '],
-28,Zürich,Iriepathie,2014-01-17,['Iriepathie '],
-29,Zürich,Froggy-&-Paco,2014-01-17,['Froggy & Paco '],Pop
-30,Wetzikon,Käptn-Peng-&-Die-Tentakel-von-Delphi,2014-01-17,"['Käptn Peng & Die Tentakel von Delphi ', ' support: Smith & Smart ']",
-31,Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-17,"[' Lo ', ' Leduc ', ' Lukas Iselin ', ' Christian Maurer ']",
+location,event,date,artists,genre
+null,Staring-Girl-visuelles-Konzert,2014-01-17,"[' Aline Goffin ', ' Joris Caluwaerts ', ' Frederik Meulyzer ']",Classic
+Basel,Orgelspiel-zum-Feierabend,2014-01-17,['John Walthausen '],Classic
+Dietikon,Feierabendmusik-in-der-Kirche,2014-01-17,"['Regula Arnitz-Bernhard ', ' Livio Castioni ']",Classic
+Kriens,Con-voce,2014-01-17,"[' Sarah Maria Sun ', ' mit Marianthi Papalexandri-Alexandri ']",Classic
+Baden,Romantische-Reisen,2014-01-17,[' Christian Lampert '],Classic
+Winterthur,Herbie's-Explo-3000,2014-01-17,"[' Adi Pflugshaupt ', ' Hans Feigenwinter ', ' Pius Baschnagel ', ' Herbie Kopf ']",
+Winterthur,The-Doodes,2014-01-17,['The Doodes '],
+Bern,Klassik-Jazz-Neue-Musik-Ein-etwas-anderer-Liederabend,2014-01-17,"['Eva Nievergelt ', ' Christoph Brunner ']",Classic
+Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-17,"[' Andreas Schaerer ', ' Bänz Oester ']",
+Zürich,A-Jazz-Duo-Night,2014-01-17,"['Rodrigo Botter Maio ', ' Adrian Frey ']",
+Basel,Masterrezital,2014-01-17,[' Tamar Eskenian '],Classic
+Winterthur,Gesänge-aus-Bulgarien-Georgien-und-der-Ukraine,2014-01-17,"['Tamar Buadze ', ' Mariana Sadovska ', ' Dessislava Stefanova ']",traditional
+Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-17,"[' Domi Chansorn ', ' Julian Hesse ', ' Fabio Pinto ', ' Oliver Zurkirchen ', ' Kevin Chesham ']",
+Basel,Evaristo-Pérez-Trio,2014-01-17,"[' Evaristo Pérez ', ' Philippe Brassoud ', ' Marta Themo ']",
+Lausanne,Walk-the-Line,2014-01-17,[' The Elecmatics '],
+Stäfa,Andy-Egert-Blues-Band-feat.-Dallas-Hodge,2014-01-17,['Andy Egert Blues Band feat. Dallas Hodge '],
+Luzern,Oakwith-Maren-Montauk,2014-01-17,"[' Maren Montauk ', ' David Schwarz ', ' Michael Büschelmann ']",
+Liebefeld,Uptown-Goes-Downtown,2014-01-17,[' Markus Plattner '],
+Vevey,Afghan-Rock-Night,2014-01-17,"['Ariana Delawari ', ' White Page ']",
+Thun,Velojet,2014-01-17,['Velojet '],
+Luzern,Piano-Allstars,2014-01-17,"[' Christian Mettler ', ' Fabienne Arnet ', ' Patrick Greiner ', ' Mark Tenger ', ' Mega Horvath', ' Herb Miller ']",
+Zug,Easy-October,2014-01-17,['Easy October '],Pop
+Buchs,States-&-Empires,2014-01-17,"['States & Empires ', ' Taped ']",
+Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-17,"[' Claire Huguenin ', ' Luzius Schuler ', ' Christian Spahni ', ' Domi Chansorn ']",
+null,KKC-Orchestra,2014-01-17,['KKC Orchestra '],
+Baden,Leo-&-the-Lineup,2014-01-17,['Leo & the Lineup '],
+Lausanne,Dope-D.O.D.,2014-01-17,"['Dope D.O.D. ', ' DJs Figure ']",
+Sankt-Gallen,Happy-Jawbone-Family,2014-01-17,['Happy Jawbone Family '],
+Zürich,Iriepathie,2014-01-17,['Iriepathie '],
+Zürich,Froggy-&-Paco,2014-01-17,['Froggy & Paco '],Pop
+Wetzikon,Käptn-Peng-&-Die-Tentakel-von-Delphi,2014-01-17,"['Käptn Peng & Die Tentakel von Delphi ', ' support: Smith & Smart ']",
+Zürich,Züri-Wescht-z'Bärn-Oscht,2014-01-17,"[' Lo ', ' Leduc ', ' Lukas Iselin ', ' Christian Maurer ']",

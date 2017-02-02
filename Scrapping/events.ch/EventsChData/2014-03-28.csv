@@ -1,53 +1,53 @@
-,location,event,date,artists,genre
-0,Basel,Mittagskonzert,2014-03-28,['Gertruda Jerjomenko '],Classic
-1,Winterthur,Midi-musical-Musse-&-Melodien-über-Mittag,2014-03-28,"['Anzhela Golubyeva Staub ', ' Beata Checko-Zimmermann ', ' Chie Tanaka ', ' David Schneebeli ', ' Anikó Illényi ']",Classic
-2,Luzern,Piano-Entertainment,2014-03-28,['Christian Mettler '],Pop
-3,Basel,Orgelspiel-zum-Feierabend,2014-03-28,['Irena Zeitz '],Classic
-4,Zürich,Hallelujah,2014-03-28,[' André Briel '],Classic
-5,Zürich,Klavierrezital,2014-03-28,['Christian Zacharias '],Classic
-6,Arbon,Subnoder,2014-03-28,"[' Raffaele Bossard ', ' Franz Hellmüller ', ' Thomas Bauser ', ' Michi Stulz ']",
-7,Zürich,Öffentliches-Konzert-in-der-Mühlehalde,2014-03-28,"['Franziska Kerler ', ' Stephanie Meitzner ']",Classic
-8,null,4.-Meisterzyklus-Konzert,2014-03-28,"[' Min-Jeong Koh ', ' Sarah Nematallah ', ' Caitlin Boyle ', ' Rachel Desoer ']",Classic
-9,Zürich,M4Music,2014-03-28,"['Who Made Who ', ' Kakkmaddafakka ', ' Left Boy ']",Electronic
-10,Lausanne,Anna-Calvi,2014-03-28,['Anna Calvi '],Pop
-11,null,Georg-Ringsgwandl,2014-03-28,['Georg Ringsgwandl '],Pop
-12,Bern,Konstantin-Wecker,2014-03-28,['Konstantin Wecker '],Pop
-13,Solothurn,Henrik-Freischlader,2014-03-28,['Henrik Freischlader '],Pop
-14,Wetzikon,Burn-8610-Burn,2014-03-28,['Jeyz '],
-15,Luzern,Honky-Tonk-Festival,2014-03-28,['Lilly Martin '],
-16,Sursee,Next-Stop-Horizon,2014-03-28,['Next Stop Horizon '],
-17,null,Devildriver,2014-03-28,['Devildriver '],
-18,Rheinfelden,Hot-Strings,2014-03-28,"[' Fere Scheidegger ', ' Rainer Hagmann ', ' Peter Horisberger ', ' Thomas Dürst ']",
-19,Zürich,M4Music,2014-03-28,"['Fryars ', ' Wye Oak ', ' Thumpers ']",Pop
-20,Winterthur,The-Bacon-Fats,2014-03-28,"[' Jan Hartmann ', ' Sleepy Eddie James ', ' Tobias Wirz ', ' Lukas Meier ']",
-21,null,Hiromi,2014-03-28,['Hiromi '],
-22,Basel,The-Righteous-Fatale,2014-03-28,['Heloise Ph. Palmer '],Classic
-23,Jona,Kach-Arba,2014-03-28,"[' François Thurneysen ', ' Franz Winteler ', ' Philipp Mestrinel ', ' Ulrike Andersen ']",
-24,Baden,Kieran-Goss,2014-03-28,['Kieran Goss '],
-25,null,Roachford,2014-03-28,['Roachford '],
-26,Winterthur,Doppelkonzert,2014-03-28,[' Xuefei Yang '],Classic
-27,Zürich,Il-Tempo-Gigante,2014-03-28,['Il Tempo Gigante '],Pop
-28,Basel,Rudi-Berger-Quintet-feat.-Mike-Clark,2014-03-28,"[' Rudi Berger ', ' Mauro Rodrigues ', ' William Evans ', ' Stephan Kurmann ', ' Mike Clark ']",
-29,Wädenswil,Jokerwoman-Revisited,2014-03-28,"[' Dodo Hug ', ' Evisio Contini ', ' Andreas Kühnrich ']",Pop
-30,Wil,Chi-Coltrane-&-Band,2014-03-28,['Chi Coltrane & Band '],Pop
-31,Zürich,Dream-Abroad,2014-03-28,"[' Daniel Schenker ', ' Felix Utzinger ', ' Adrian Frey ', ' Patrick Sommer ', ' Baschnagel ']",
-32,Lausanne,Fauve,2014-03-28,['Fauve '],
-33,Wetzikon,Sonji-Kimmons,2014-03-28,['Sonji Kimmons '],
-34,Rubigen,Gigi-Moto,2014-03-28,['Gigi Moto '],
-35,Vevey,Tuxedomoon,2014-03-28,['Tuxedomoon '],
-36,null,Kal,2014-03-28,"[' Dragan Ristic ', ' Milos Velickovic ', ' Dejan Jovanovic ', ' Milorad Jevremovic ', ' Ivan Kuzev ']",
-37,Lausanne,Ladylike-Lily,2014-03-28,['Ladylike Lily '],
-38,Baden,Keesel,2014-03-28,['Keesel '],
-39,Thun,The-Soft-Hills,2014-03-28,['The Soft Hills '],
-40,Zürich,Les-Chercheurs-d'Or,2014-03-28,"[""Les Chercheurs d'Or ""]",Pop
-41,Aarau,Matteo-Capreoli,2014-03-28,['Matteo Capreoli '],Pop
-42,Aarau,Solar-Fake,2014-03-28,['Solar Fake '],Pop
-43,Hasliberg-Hohfluh,Jersey-Julie-Band,2014-03-28,['Jersey Julie Band '],
-44,Zug,Defrage,2014-03-28,['Defrage '],
-45,Zürich,M4Music,2014-03-28,"['We Are Scientists ', ' Blood Red Shoes ', ' Tycho ', ' Araab Muzik ']",
-46,null,Fred-Wesley-&-The-New-J.B.'s,2014-03-28,"[""Fred Wesley & The New J.B.'s "", ' Fred Wesley ', ' Gary Winters ', ' Reggie Ward ', ' Phillip Whack ', ' Peter Madsen', ' Dwayne Dolphin ']",
-47,Lausanne,Paws,2014-03-28,['Paws '],
-48,Zürich,M4Music,2014-03-28,"['Mighty Oaks ', ' Ry X ']",
-49,Bern,Krassimir-Orchestar,2014-03-28,['Krassimir Orchestar '],
-50,Zürich,Zentralheizung-of-Death-des-Todes,2014-03-28,['Zentralheizung of Death des Todes '],
-51,Schaffhausen,Ratatöska,2014-03-28,['Ratatöska '],
+location,event,date,artists,genre
+Basel,Mittagskonzert,2014-03-28,['Gertruda Jerjomenko '],Classic
+Winterthur,Midi-musical-Musse-&-Melodien-über-Mittag,2014-03-28,"['Anzhela Golubyeva Staub ', ' Beata Checko-Zimmermann ', ' Chie Tanaka ', ' David Schneebeli ', ' Anikó Illényi ']",Classic
+Luzern,Piano-Entertainment,2014-03-28,['Christian Mettler '],Pop
+Basel,Orgelspiel-zum-Feierabend,2014-03-28,['Irena Zeitz '],Classic
+Zürich,Hallelujah,2014-03-28,[' André Briel '],Classic
+Zürich,Klavierrezital,2014-03-28,['Christian Zacharias '],Classic
+Arbon,Subnoder,2014-03-28,"[' Raffaele Bossard ', ' Franz Hellmüller ', ' Thomas Bauser ', ' Michi Stulz ']",
+Zürich,Öffentliches-Konzert-in-der-Mühlehalde,2014-03-28,"['Franziska Kerler ', ' Stephanie Meitzner ']",Classic
+null,4.-Meisterzyklus-Konzert,2014-03-28,"[' Min-Jeong Koh ', ' Sarah Nematallah ', ' Caitlin Boyle ', ' Rachel Desoer ']",Classic
+Zürich,M4Music,2014-03-28,"['Who Made Who ', ' Kakkmaddafakka ', ' Left Boy ']",Electronic
+Lausanne,Anna-Calvi,2014-03-28,['Anna Calvi '],Pop
+null,Georg-Ringsgwandl,2014-03-28,['Georg Ringsgwandl '],Pop
+Bern,Konstantin-Wecker,2014-03-28,['Konstantin Wecker '],Pop
+Solothurn,Henrik-Freischlader,2014-03-28,['Henrik Freischlader '],Pop
+Wetzikon,Burn-8610-Burn,2014-03-28,['Jeyz '],
+Luzern,Honky-Tonk-Festival,2014-03-28,['Lilly Martin '],
+Sursee,Next-Stop-Horizon,2014-03-28,['Next Stop Horizon '],
+null,Devildriver,2014-03-28,['Devildriver '],
+Rheinfelden,Hot-Strings,2014-03-28,"[' Fere Scheidegger ', ' Rainer Hagmann ', ' Peter Horisberger ', ' Thomas Dürst ']",
+Zürich,M4Music,2014-03-28,"['Fryars ', ' Wye Oak ', ' Thumpers ']",Pop
+Winterthur,The-Bacon-Fats,2014-03-28,"[' Jan Hartmann ', ' Sleepy Eddie James ', ' Tobias Wirz ', ' Lukas Meier ']",
+null,Hiromi,2014-03-28,['Hiromi '],
+Basel,The-Righteous-Fatale,2014-03-28,['Heloise Ph. Palmer '],Classic
+Jona,Kach-Arba,2014-03-28,"[' François Thurneysen ', ' Franz Winteler ', ' Philipp Mestrinel ', ' Ulrike Andersen ']",
+Baden,Kieran-Goss,2014-03-28,['Kieran Goss '],
+null,Roachford,2014-03-28,['Roachford '],
+Winterthur,Doppelkonzert,2014-03-28,[' Xuefei Yang '],Classic
+Zürich,Il-Tempo-Gigante,2014-03-28,['Il Tempo Gigante '],Pop
+Basel,Rudi-Berger-Quintet-feat.-Mike-Clark,2014-03-28,"[' Rudi Berger ', ' Mauro Rodrigues ', ' William Evans ', ' Stephan Kurmann ', ' Mike Clark ']",
+Wädenswil,Jokerwoman-Revisited,2014-03-28,"[' Dodo Hug ', ' Evisio Contini ', ' Andreas Kühnrich ']",Pop
+Wil,Chi-Coltrane-&-Band,2014-03-28,['Chi Coltrane & Band '],Pop
+Zürich,Dream-Abroad,2014-03-28,"[' Daniel Schenker ', ' Felix Utzinger ', ' Adrian Frey ', ' Patrick Sommer ', ' Baschnagel ']",
+Lausanne,Fauve,2014-03-28,['Fauve '],
+Wetzikon,Sonji-Kimmons,2014-03-28,['Sonji Kimmons '],
+Rubigen,Gigi-Moto,2014-03-28,['Gigi Moto '],
+Vevey,Tuxedomoon,2014-03-28,['Tuxedomoon '],
+null,Kal,2014-03-28,"[' Dragan Ristic ', ' Milos Velickovic ', ' Dejan Jovanovic ', ' Milorad Jevremovic ', ' Ivan Kuzev ']",
+Lausanne,Ladylike-Lily,2014-03-28,['Ladylike Lily '],
+Baden,Keesel,2014-03-28,['Keesel '],
+Thun,The-Soft-Hills,2014-03-28,['The Soft Hills '],
+Zürich,Les-Chercheurs-d'Or,2014-03-28,"[""Les Chercheurs d'Or ""]",Pop
+Aarau,Matteo-Capreoli,2014-03-28,['Matteo Capreoli '],Pop
+Aarau,Solar-Fake,2014-03-28,['Solar Fake '],Pop
+Hasliberg-Hohfluh,Jersey-Julie-Band,2014-03-28,['Jersey Julie Band '],
+Zug,Defrage,2014-03-28,['Defrage '],
+Zürich,M4Music,2014-03-28,"['We Are Scientists ', ' Blood Red Shoes ', ' Tycho ', ' Araab Muzik ']",
+null,Fred-Wesley-&-The-New-J.B.'s,2014-03-28,"[""Fred Wesley & The New J.B.'s "", ' Fred Wesley ', ' Gary Winters ', ' Reggie Ward ', ' Phillip Whack ', ' Peter Madsen', ' Dwayne Dolphin ']",
+Lausanne,Paws,2014-03-28,['Paws '],
+Zürich,M4Music,2014-03-28,"['Mighty Oaks ', ' Ry X ']",
+Bern,Krassimir-Orchestar,2014-03-28,['Krassimir Orchestar '],
+Zürich,Zentralheizung-of-Death-des-Todes,2014-03-28,['Zentralheizung of Death des Todes '],
+Schaffhausen,Ratatöska,2014-03-28,['Ratatöska '],

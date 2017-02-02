@@ -1,32 +1,32 @@
-,location,event,date,artists,genre
-0,Winterthur,LimberLumber,2016-01-23,"[' Christian Rösli ', ' Patrick Sommer ', ' Julian Sartorius ']",
-1,Bern,Bernische-Chopin-Gesellschaft,2016-01-23,['Daria Korotkova '],Classic
-2,Zürich,Ursprung,2016-01-23,[' Fabian Jud '],Classic
-3,Bauen,Der-Wegbereiter,2016-01-23,"[' Alina Kubanova ', ' Fjodor Elesin ']",Classic
-4,Liebefeld,BeJazz-Winterfestival,2016-01-23,['Clemens Kuratle '],
-5,Zürich,Kärbholz,2016-01-23,['Kärbholz '],
-6,Zürich,SFEC-Wochenende-Begegnungskonzert,2016-01-23,"[' Barblina Meierhans ', ' Lucia Schneider-Menz ', ' Christian Sturzenegger ', ' works by Andreas Stahel ']",Classic
-7,Zürich,Meisterinterpreten-in-Zürich,2016-01-23,[' Martha Argerich '],Classic
-8,Zürich,Orchester-Le-Phénix,2016-01-23,['Conductor: John Holloway '],Classic
-9,Basel,Kein-Dada-pro-Gramm,2016-01-23,"[' Barbara Schingnitz ', ' Estelle Costanzo ', ' Lanet Flores ']",Classic
-10,Zürich,Sacri-Cuori,2016-01-23,['Sacri Cuori '],Pop
-11,Zürich,Jimmy-Whispers,2016-01-23,['Jimmy Whispers '],
-12,Chur,Alvaro-Soler,2016-01-23,['Alvaro Soler '],Pop
-13,Baden,Konzert,2016-01-23,"[' Jean-Christophe Groffe ', ' Dominik Dolega ']",Classic
-14,Bottmingen,Compulsion-Jazzquintett,2016-01-23,"['Adam Taubitz ', ' Marc Ullrich ', ' Simone Bollini ', ' Dominik Schürmann ', ' Christoph Mohler ']",
-15,Siebnen,Haven-Night,2016-01-23,"["" Rider's Connection ""]",
-16,Zürich,Johanna-Borchert,2016-01-23,"[' Johanna Borchert ', ' Peter Meyer ', ' Jonas Westergaard ', ' Moritz Baumgärtner ']",
-17,Baden,Tonic-Strings,2016-01-23,"[' Toni Donadio ', ' Nic Niedermann ']",
-18,Basel,Daniel-Blanc-Quartet,2016-01-23,"[' Daniel Blanc ', ' Walter Jauslin ', ' Giorgos Antoniou ', ' Michael Wipf ']",
-19,Basel,Lisette-Spinnler-Quartet,2016-01-23,"[' Lisette Spinnler ', ' Stefan Aeby ', ' Patrice Moret ', ' Michi Stulz ']",
-20,Bellinzona,Massimo-Bubola,2016-01-23,['Massimo Bubola '],
-21,Zürich,Jive-55,2016-01-23,"['Dead Elvis & His One Man Grave ', ' Sheriff Perkins ']",
-22,Zürich,Seismogram-This-Difficult-Tree,2016-01-23,"[' Silvan Jeger ', ' Silvan Schmid ', ' Frantz Loriot ', ' Vincent Glanzmann ']",
-23,Basel,K-30,2016-01-23,"[' Annika Francke ', ' Roberto Koch ']",
-24,Baden,Pedestrians,2016-01-23,[' Riders Connection '],Pop
-25,Zürich,Marena-Whitcher's-Shady-Midnight-Orchestra,2016-01-23,"[' Lisa Hasler ', ' Isabelle Ritter ', ' Luzius Schuler ', ' Nicolas Stocker ', ' Marena Whitcher ']",
-26,Schaffhausen,J.B.O.,2016-01-23,['J.B.O. '],
-27,Winterthur,Eigänabou,2016-01-23,['Eigänabou '],Pop
-28,null,Sisyphos,2016-01-23,"[' Peter Scheidegger ', ' Boris Bühler ', ' René Senn ', ' Herman Peter ']",
-29,Bern,Tour-de-Lorraine,2016-01-23,['Smith & Smart '],
-30,Bern,Tour-de-Lorraine,2016-01-23,[' Ivan Ivanovich & The Kreml Krauts '],
+location,event,date,artists,genre
+Winterthur,LimberLumber,2016-01-23,"[' Christian Rösli ', ' Patrick Sommer ', ' Julian Sartorius ']",
+Bern,Bernische-Chopin-Gesellschaft,2016-01-23,['Daria Korotkova '],Classic
+Zürich,Ursprung,2016-01-23,[' Fabian Jud '],Classic
+Bauen,Der-Wegbereiter,2016-01-23,"[' Alina Kubanova ', ' Fjodor Elesin ']",Classic
+Liebefeld,BeJazz-Winterfestival,2016-01-23,['Clemens Kuratle '],
+Zürich,Kärbholz,2016-01-23,['Kärbholz '],
+Zürich,SFEC-Wochenende-Begegnungskonzert,2016-01-23,"[' Barblina Meierhans ', ' Lucia Schneider-Menz ', ' Christian Sturzenegger ', ' works by Andreas Stahel ']",Classic
+Zürich,Meisterinterpreten-in-Zürich,2016-01-23,[' Martha Argerich '],Classic
+Zürich,Orchester-Le-Phénix,2016-01-23,['Conductor: John Holloway '],Classic
+Basel,Kein-Dada-pro-Gramm,2016-01-23,"[' Barbara Schingnitz ', ' Estelle Costanzo ', ' Lanet Flores ']",Classic
+Zürich,Sacri-Cuori,2016-01-23,['Sacri Cuori '],Pop
+Zürich,Jimmy-Whispers,2016-01-23,['Jimmy Whispers '],
+Chur,Alvaro-Soler,2016-01-23,['Alvaro Soler '],Pop
+Baden,Konzert,2016-01-23,"[' Jean-Christophe Groffe ', ' Dominik Dolega ']",Classic
+Bottmingen,Compulsion-Jazzquintett,2016-01-23,"['Adam Taubitz ', ' Marc Ullrich ', ' Simone Bollini ', ' Dominik Schürmann ', ' Christoph Mohler ']",
+Siebnen,Haven-Night,2016-01-23,"["" Rider's Connection ""]",
+Zürich,Johanna-Borchert,2016-01-23,"[' Johanna Borchert ', ' Peter Meyer ', ' Jonas Westergaard ', ' Moritz Baumgärtner ']",
+Baden,Tonic-Strings,2016-01-23,"[' Toni Donadio ', ' Nic Niedermann ']",
+Basel,Daniel-Blanc-Quartet,2016-01-23,"[' Daniel Blanc ', ' Walter Jauslin ', ' Giorgos Antoniou ', ' Michael Wipf ']",
+Basel,Lisette-Spinnler-Quartet,2016-01-23,"[' Lisette Spinnler ', ' Stefan Aeby ', ' Patrice Moret ', ' Michi Stulz ']",
+Bellinzona,Massimo-Bubola,2016-01-23,['Massimo Bubola '],
+Zürich,Jive-55,2016-01-23,"['Dead Elvis & His One Man Grave ', ' Sheriff Perkins ']",
+Zürich,Seismogram-This-Difficult-Tree,2016-01-23,"[' Silvan Jeger ', ' Silvan Schmid ', ' Frantz Loriot ', ' Vincent Glanzmann ']",
+Basel,K-30,2016-01-23,"[' Annika Francke ', ' Roberto Koch ']",
+Baden,Pedestrians,2016-01-23,[' Riders Connection '],Pop
+Zürich,Marena-Whitcher's-Shady-Midnight-Orchestra,2016-01-23,"[' Lisa Hasler ', ' Isabelle Ritter ', ' Luzius Schuler ', ' Nicolas Stocker ', ' Marena Whitcher ']",
+Schaffhausen,J.B.O.,2016-01-23,['J.B.O. '],
+Winterthur,Eigänabou,2016-01-23,['Eigänabou '],Pop
+null,Sisyphos,2016-01-23,"[' Peter Scheidegger ', ' Boris Bühler ', ' René Senn ', ' Herman Peter ']",
+Bern,Tour-de-Lorraine,2016-01-23,['Smith & Smart '],
+Bern,Tour-de-Lorraine,2016-01-23,[' Ivan Ivanovich & The Kreml Krauts '],

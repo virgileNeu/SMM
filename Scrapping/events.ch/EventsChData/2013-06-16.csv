@@ -1,23 +1,23 @@
-,location,event,date,artists,genre
-0,Luzern,Konzert,2013-06-16,[' Renaud Capuçon '],Classic
-1,Basel,Benefizkonzert-für-die-Programm-Zeitung,2013-06-16,"[' Làszlò Fogarassy ', ' Katarzyna Navrotek ']",Classic
-2,Zürich,Ein-Land-vier-Zeiten,2013-06-16,"['Marita Seeger ', ' Delaja Mösinger ', ' Cristina Janett ']",Classic
-3,Zürich,Sommerkonzert-Matinée,2013-06-16,[' Dario Schmid '],Classic
-4,Basel,St.-Markus-Konzerte,2013-06-16,"[' Clotide van Dieren ', ' Edmond Carlier ']",Classic
-5,Bern,Konzert,2013-06-16,"[' Anne-Florence Marbot ', ' Silke Gäng ', ' Pablo Cameselle ', ' Manuel Walser ']",Classic
-6,Zürich,Grosses-Chorkonzert,2013-06-16,"[' Regula Mühlemann ', ' Katrin Frühauf ', ' Dieter Wagner ', ' Michael Mogler ', ' Jean-Luc Waeber ']",Classic
-7,Zürich,Grosses-Chorkonzert,2013-06-16,"[' Regula Mühlemann ', ' Katrin Frühauf ', ' Dieter Wagner ', ' Michael Mogler ', ' Jean-Luc Waeber ']",Classic
-8,Basel,Saisonfinale,2013-06-16,[' Elena Graf '],Classic
-9,Dietikon,Jubilate,2013-06-16,[' Bernhard Hörler '],Classic
-10,Basel,Präludien-und-Fugen,2013-06-16,['Jovanka Marville '],Classic
-11,null,Concentus-rivensis-Sinfoniekonzert,2013-06-16,"['Emil Scheibenreif ', ' Samuel Zünd ']",Classic
-12,Luzern,Konzert,2013-06-16,"[' Sir James Galway ', ' Lady Jeanne Galway ']",Classic
-13,Zürich,Dieter-Ilg-Parsifal,2013-06-16,"['Dieter Ilg - Parsifal ', ' Dieter Ilg ', ' Rainer Böhm ', ' Patrice Héral ']",
-14,Esse-Musicbar,Winterthur,2013-06-16,"[' Miriam Crespo ', ' Stefan Huber ', ' Stephan Grob ', ' Tarzis Müller ', ' Dionys Müller ']",
-15,Kulturhof-Schloss-Köniz,Köniz,2013-06-16,['Span '],Span
-16,Zürich,The-Universe-of-Love,2013-06-16,"['Thomas Koran ', ' Natascha Albash ']",Pop
-17,Orangerie-im-Sarasinpark,Riehen,2013-06-16,['Element of Crime '],
-18,Zürich,Taktlos,2013-06-16,"['Ghédalia Tazartès ', ' Lee Ranaldo and The Dust  ']",
-19,e-198144,,2013-06-16,['Jimmy Cliff '],
-20,Schaffhausen,Obits,2013-06-16,"['Obits ', ' French Nails ']",
-21,Stall-6,Zürich,2013-06-16,['The Veils '],
+location,event,date,artists,genre
+Luzern,Konzert,2013-06-16,[' Renaud Capuçon '],Classic
+Basel,Benefizkonzert-für-die-Programm-Zeitung,2013-06-16,"[' Làszlò Fogarassy ', ' Katarzyna Navrotek ']",Classic
+Zürich,Ein-Land-vier-Zeiten,2013-06-16,"['Marita Seeger ', ' Delaja Mösinger ', ' Cristina Janett ']",Classic
+Zürich,Sommerkonzert-Matinée,2013-06-16,[' Dario Schmid '],Classic
+Basel,St.-Markus-Konzerte,2013-06-16,"[' Clotide van Dieren ', ' Edmond Carlier ']",Classic
+Bern,Konzert,2013-06-16,"[' Anne-Florence Marbot ', ' Silke Gäng ', ' Pablo Cameselle ', ' Manuel Walser ']",Classic
+Zürich,Grosses-Chorkonzert,2013-06-16,"[' Regula Mühlemann ', ' Katrin Frühauf ', ' Dieter Wagner ', ' Michael Mogler ', ' Jean-Luc Waeber ']",Classic
+Zürich,Grosses-Chorkonzert,2013-06-16,"[' Regula Mühlemann ', ' Katrin Frühauf ', ' Dieter Wagner ', ' Michael Mogler ', ' Jean-Luc Waeber ']",Classic
+Basel,Saisonfinale,2013-06-16,[' Elena Graf '],Classic
+Dietikon,Jubilate,2013-06-16,[' Bernhard Hörler '],Classic
+Basel,Präludien-und-Fugen,2013-06-16,['Jovanka Marville '],Classic
+null,Concentus-rivensis-Sinfoniekonzert,2013-06-16,"['Emil Scheibenreif ', ' Samuel Zünd ']",Classic
+Luzern,Konzert,2013-06-16,"[' Sir James Galway ', ' Lady Jeanne Galway ']",Classic
+Zürich,Dieter-Ilg-Parsifal,2013-06-16,"['Dieter Ilg - Parsifal ', ' Dieter Ilg ', ' Rainer Böhm ', ' Patrice Héral ']",
+Esse-Musicbar,Winterthur,2013-06-16,"[' Miriam Crespo ', ' Stefan Huber ', ' Stephan Grob ', ' Tarzis Müller ', ' Dionys Müller ']",
+Kulturhof-Schloss-Köniz,Köniz,2013-06-16,['Span '],Span
+Zürich,The-Universe-of-Love,2013-06-16,"['Thomas Koran ', ' Natascha Albash ']",Pop
+Orangerie-im-Sarasinpark,Riehen,2013-06-16,['Element of Crime '],
+Zürich,Taktlos,2013-06-16,"['Ghédalia Tazartès ', ' Lee Ranaldo and The Dust  ']",
+e-198144,,2013-06-16,['Jimmy Cliff '],
+Schaffhausen,Obits,2013-06-16,"['Obits ', ' French Nails ']",
+Stall-6,Zürich,2013-06-16,['The Veils '],

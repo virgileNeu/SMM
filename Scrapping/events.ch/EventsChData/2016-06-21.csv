@@ -1,16 +1,16 @@
-,location,event,date,artists,genre
-0,Luzern,Master-Abschlusskonzerte,2016-06-21,['Sophie Aeberli '],Classic
-1,Luzern,Master-Abschlusskonzerte,2016-06-21,['Mauro Ursprung '],Classic
-2,Zürich,Festspiele-Zürich-Liederabend,2016-06-21,"['Juan Diego Flórez ', ' Vincenzo Scalera ']",Classic
-3,Luzern,Master-Abschlusskonzerte,2016-06-21,"['Eva Camilla Eikaas Stalheim ', ' Corinna Canzian ', ' Natasha Roqué Alsina ']",Classic
-4,Zürich,Turnstile,2016-06-21,"['Turnstile ', ' Backtrack ', ' support: Slope ']",
-5,Aarau,Metalmayhem,2016-06-21,['Walls of Jericho '],
-6,Luzern,Solistenkonzert,2016-06-21,"[' Eva Camilla Eikaas Stalheim ', ' Corinna Canzian ', ' Natasha Roqué Alsina ']",Classic
-7,Zürich,Festspiele-Zürich-Täuschungsmanöver,2016-06-21,"[' Fazil Say ', ' Gábor Boldoczki ']",Classic
-8,Bern,Zambramor,2016-06-21,"[' Nick Perrin ', ' Matto Saavedra ']",
-9,Zürich,Riflesso,2016-06-21,"[' Joe Le Funk ', ' Olivia Limina ', ' Michele Limina ', ' ', ' Webster ', ' Ali Salvioni ']",
-10,Zürich,Jeremih,2016-06-21,['Jeremih '],
-11,Luzern,Master-Abschlusskonzerte,2016-06-21,['Sunita Abplanalp '],Classic
-12,Zürich,Atreyu,2016-06-21,['Atreyu '],
-13,Zürich,Little-Mix,2016-06-21,['Little Mix '],Pop
-14,Zürich,Explosions-in-the-Sky,2016-06-21,['Explosions in the Sky '],
+location,event,date,artists,genre
+Luzern,Master-Abschlusskonzerte,2016-06-21,['Sophie Aeberli '],Classic
+Luzern,Master-Abschlusskonzerte,2016-06-21,['Mauro Ursprung '],Classic
+Zürich,Festspiele-Zürich-Liederabend,2016-06-21,"['Juan Diego Flórez ', ' Vincenzo Scalera ']",Classic
+Luzern,Master-Abschlusskonzerte,2016-06-21,"['Eva Camilla Eikaas Stalheim ', ' Corinna Canzian ', ' Natasha Roqué Alsina ']",Classic
+Zürich,Turnstile,2016-06-21,"['Turnstile ', ' Backtrack ', ' support: Slope ']",
+Aarau,Metalmayhem,2016-06-21,['Walls of Jericho '],
+Luzern,Solistenkonzert,2016-06-21,"[' Eva Camilla Eikaas Stalheim ', ' Corinna Canzian ', ' Natasha Roqué Alsina ']",Classic
+Zürich,Festspiele-Zürich-Täuschungsmanöver,2016-06-21,"[' Fazil Say ', ' Gábor Boldoczki ']",Classic
+Bern,Zambramor,2016-06-21,"[' Nick Perrin ', ' Matto Saavedra ']",
+Zürich,Riflesso,2016-06-21,"[' Joe Le Funk ', ' Olivia Limina ', ' Michele Limina ', ' ', ' Webster ', ' Ali Salvioni ']",
+Zürich,Jeremih,2016-06-21,['Jeremih '],
+Luzern,Master-Abschlusskonzerte,2016-06-21,['Sunita Abplanalp '],Classic
+Zürich,Atreyu,2016-06-21,['Atreyu '],
+Zürich,Little-Mix,2016-06-21,['Little Mix '],Pop
+Zürich,Explosions-in-the-Sky,2016-06-21,['Explosions in the Sky '],

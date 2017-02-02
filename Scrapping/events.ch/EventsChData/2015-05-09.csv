@@ -1,45 +1,45 @@
-,location,event,date,artists,genre
-0,Zürich,Klaviermatinée,2015-05-09,['Elsbeth Scholtes-Haller '],Classic
-1,Zürich,Nuggi-Konzert,2015-05-09,"['Willi Zimmermann ', ' Jana Karsko ', ' Ryszard Groblewski ', ' Ewa Grzywna-Groblewska ']",Classic
-2,Winterthur,Franziska-Welti-&-Roger-Girod,2015-05-09,"['Franziska Welti ', ' Roger Girod ']",Classic
-3,Zürich,Obenuse-Fest,2015-05-09,"['Title Fight ', ' Milk Teeth ', ' Hysterese ', ' Hell & Back ', ' Risk It ', ' Astpai ', ' Irish Handcuffs ', ' Broadcaster ', ' Antillectual ']",
-4,Zürich,Obenuse-Fest,2015-05-09,"['Title Fight ', ' Milk Teeth ', ' Hysterese ', ' Hell & Back ', ' Risk It ', ' Astpai ', ' Irish Handcuffs ', ' Broadcaster ', ' Antillectual ']",
-5,Zürich,Obenuse-Fest,2015-05-09,"['Title Fight ', ' Milk Teeth ', ' Hysterese ', ' Hell & Back ', ' Risk It ', ' Astpai ', ' Irish Handcuffs ', ' Broadcaster ', ' Antillectual ']",
-6,Zürich,Obenuse-Fest,2015-05-09,"['Title Fight ', ' Milk Teeth ', ' Hysterese ', ' Hell & Back ', ' Risk It ', ' Astpai ', ' Irish Handcuffs ', ' Broadcaster ', ' Antillectual ']",
-7,Zürich,Kammermusik,2015-05-09,"['Willi Zimmermann ', ' Jana Karsko ', ' Ryszard Groblewski ', ' Ewa Grzywna-Groblewska ']",Classic
-8,Dornach,Jeu-divin,2015-05-09,"['Shoko Hayashizaki ', ' Michael Hagemann ']",Classic
-9,Zürich,Lauter-Festival,2015-05-09,"['Freddie Dickson & The Guard ', ' Little Hurricane ', ' Into the Fray ', ' After-Show-Party mit DJs Holger Hecler ', "" Nod One's Head "", ' Pandour ']",
-10,Basel,Masterrezital,2015-05-09,['Ekaterina Sobina '],Classic
-11,Luzern,Piano-Entertainment,2015-05-09,['Jozsef Sarkozy '],Classic
-12,Weggis,Anthony-Caputo,2015-05-09,['Anthony Caputo '],
-13,Zürich,Olexesh,2015-05-09,['Olexesh '],
-14,null,Anders-Miolin;-13-Saitige-Gitarre,2015-05-09,['Anders Miolin '],Classic
-15,Zürich,Tonhalle-Orchester-Zürich,2015-05-09,['Rudolf Buchbinder '],Classic
-16,Basel,Masterrezital,2015-05-09,['Alena Sojer '],Classic
-17,Zürich,Kay-One,2015-05-09,['Kay One '],
-18,null,Muttertagskonzert,2015-05-09,[' Khatia Buniatishvili '],Classic
-19,Pratteln,Sonata-Arctica,2015-05-09,"['Sonata Arctica ', ' Freedom Call ']",
-20,Bern,Fenster-nach-Asien,2015-05-09,"[' Philipp Jundt ', ' Hyunim Yoon ']",Classic
-21,Bern,Sonaer,2015-05-09,"[' Claudia Mettler ', ' Markus Gneupel ', ' Martin Hilti ', ' Lukas Rosenberger ', ' Dani Nietlispach ']",
-22,Zürich,Eliane-Elias,2015-05-09,"['Eliane Elias ', ' Eliane Elias ', ' Marc Johnson ', ' Graham Dechter ', ' Rafael Barata ']",
-23,Basel,Goldberg-Variationen,2015-05-09,['Gérard Wyss '],Classic
-24,null,Classic-meets-Jazz,2015-05-09,"['Gregor Loepfe ', ' Katja Baumann ', ' Richard Pechota ', ' Peter Preibisch ']",
-25,Allschwil,Martin-Ehlers-Asking-the-Moon,2015-05-09,['Martin Ehlers '],
-26,Münchenstein,Ensemble-Phoenix,2015-05-09,"['Christoph Bösch ', ' Toshiko Sakakibara ', ' Remo Schnyder ', ' Jens Bracher ', ' Maurizio Grandinetti ', ' Daniel Buess ']",Classic
-27,Wil,Klashnekoff,2015-05-09,['Klashnekoff '],
-28,Winterthur,Musica-aperta-Super-8-Sänger,2015-05-09,"[' Svea Schildknecht ', ' Francisca Näf ', ' Breno Quinderé ', ' Lior Leibovici ', ' Ivo Haun ', ' works by Mike Svoboda ', ' Jean-Jacques Knutti ']",Classic
-29,Schaffhausen,Schaffhauser-Jazzfestival,2015-05-09,"[' Raw Vision ', ' Schnellertollermeier ']",
-30,Münchenstein,Jazzfestival-Basel,2015-05-09,"['Victoria Tolstoy Duo ', ' Victoria Tolstoy ']",
-31,Winterthur,The-Education-of-Style,2015-05-09,['WTK '],
-32,Basel,Toni-Kitanovski-Trio,2015-05-09,"[' Vasil Hadzimanov ', ' Toni Kitanovski ', ' Aleksandar Sekulovski ']",
-33,Zürich,Muammer-Ketencoglu-&-Balkan-Journey,2015-05-09,"['Muammer Ketencoglu & Balkan Journey ', ' Muammer Ketencoglu ', ' Sakip Songelen ', ' Rahmi Göcmen ', ' Sule Kocaman Saraç ']",
-34,Liestal,Walter-Jauslin-Quintett-Die-Nacht,2015-05-09,"['Walter Jauslin ', ' Daniel Blanc ', ' Daniel Schluchter ', ' Giorgios Antoniou ', ' Pius Baschnagel ']",
-35,Baden,Querbeat,2015-05-09,"[' Egon Egemann ', ' Sascha Lackner ', ' Michael Cohen ', ' Guido Kurth  ', ' Mostafa Kafai Azimi ', ' Urs Huber ']",
-36,Wädenswil,Pour-Maman,2015-05-09,"[' Anne Bennent ', ' Maximilian Schamschula ']",Pop
-37,null,Sandinista-Circus,2015-05-09,"['Tagada Jones ', ' Ramoneurs De Menhirs ', ' Les Punks Sportifs ']",
-38,null,Licia-Chery,2015-05-09,"['Licia Chery ', ' Licia Chery ', ' Pierre Fouqueray ', ' Bruno Pimienta ', ' Cyrille Nobilet ', ' Mathieu Coupat ', ' Anamaria Gonzalez ']",Pop
-39,Schaffhausen,Schaffhauser-Jazzfestival,2015-05-09,['Joscha Schraff Trio '],
-40,null,Afro-Reggae-Night,2015-05-09,"['Saf-Sap ', ' Raggabund & De Luca ']",
-41,Luzern,The-Bulletmonks,2015-05-09,['The Bulletmonks '],
-42,Zug,Kay-One,2015-05-09,['Kay One '],
-43,Lyss,Jungle-Brothers,2015-05-09,"['Jungle Brothers ', ' Cali Agents ']",
+location,event,date,artists,genre
+Zürich,Klaviermatinée,2015-05-09,['Elsbeth Scholtes-Haller '],Classic
+Zürich,Nuggi-Konzert,2015-05-09,"['Willi Zimmermann ', ' Jana Karsko ', ' Ryszard Groblewski ', ' Ewa Grzywna-Groblewska ']",Classic
+Winterthur,Franziska-Welti-&-Roger-Girod,2015-05-09,"['Franziska Welti ', ' Roger Girod ']",Classic
+Zürich,Obenuse-Fest,2015-05-09,"['Title Fight ', ' Milk Teeth ', ' Hysterese ', ' Hell & Back ', ' Risk It ', ' Astpai ', ' Irish Handcuffs ', ' Broadcaster ', ' Antillectual ']",
+Zürich,Obenuse-Fest,2015-05-09,"['Title Fight ', ' Milk Teeth ', ' Hysterese ', ' Hell & Back ', ' Risk It ', ' Astpai ', ' Irish Handcuffs ', ' Broadcaster ', ' Antillectual ']",
+Zürich,Obenuse-Fest,2015-05-09,"['Title Fight ', ' Milk Teeth ', ' Hysterese ', ' Hell & Back ', ' Risk It ', ' Astpai ', ' Irish Handcuffs ', ' Broadcaster ', ' Antillectual ']",
+Zürich,Obenuse-Fest,2015-05-09,"['Title Fight ', ' Milk Teeth ', ' Hysterese ', ' Hell & Back ', ' Risk It ', ' Astpai ', ' Irish Handcuffs ', ' Broadcaster ', ' Antillectual ']",
+Zürich,Kammermusik,2015-05-09,"['Willi Zimmermann ', ' Jana Karsko ', ' Ryszard Groblewski ', ' Ewa Grzywna-Groblewska ']",Classic
+Dornach,Jeu-divin,2015-05-09,"['Shoko Hayashizaki ', ' Michael Hagemann ']",Classic
+Zürich,Lauter-Festival,2015-05-09,"['Freddie Dickson & The Guard ', ' Little Hurricane ', ' Into the Fray ', ' After-Show-Party mit DJs Holger Hecler ', "" Nod One's Head "", ' Pandour ']",
+Basel,Masterrezital,2015-05-09,['Ekaterina Sobina '],Classic
+Luzern,Piano-Entertainment,2015-05-09,['Jozsef Sarkozy '],Classic
+Weggis,Anthony-Caputo,2015-05-09,['Anthony Caputo '],
+Zürich,Olexesh,2015-05-09,['Olexesh '],
+null,Anders-Miolin;-13-Saitige-Gitarre,2015-05-09,['Anders Miolin '],Classic
+Zürich,Tonhalle-Orchester-Zürich,2015-05-09,['Rudolf Buchbinder '],Classic
+Basel,Masterrezital,2015-05-09,['Alena Sojer '],Classic
+Zürich,Kay-One,2015-05-09,['Kay One '],
+null,Muttertagskonzert,2015-05-09,[' Khatia Buniatishvili '],Classic
+Pratteln,Sonata-Arctica,2015-05-09,"['Sonata Arctica ', ' Freedom Call ']",
+Bern,Fenster-nach-Asien,2015-05-09,"[' Philipp Jundt ', ' Hyunim Yoon ']",Classic
+Bern,Sonaer,2015-05-09,"[' Claudia Mettler ', ' Markus Gneupel ', ' Martin Hilti ', ' Lukas Rosenberger ', ' Dani Nietlispach ']",
+Zürich,Eliane-Elias,2015-05-09,"['Eliane Elias ', ' Eliane Elias ', ' Marc Johnson ', ' Graham Dechter ', ' Rafael Barata ']",
+Basel,Goldberg-Variationen,2015-05-09,['Gérard Wyss '],Classic
+null,Classic-meets-Jazz,2015-05-09,"['Gregor Loepfe ', ' Katja Baumann ', ' Richard Pechota ', ' Peter Preibisch ']",
+Allschwil,Martin-Ehlers-Asking-the-Moon,2015-05-09,['Martin Ehlers '],
+Münchenstein,Ensemble-Phoenix,2015-05-09,"['Christoph Bösch ', ' Toshiko Sakakibara ', ' Remo Schnyder ', ' Jens Bracher ', ' Maurizio Grandinetti ', ' Daniel Buess ']",Classic
+Wil,Klashnekoff,2015-05-09,['Klashnekoff '],
+Winterthur,Musica-aperta-Super-8-Sänger,2015-05-09,"[' Svea Schildknecht ', ' Francisca Näf ', ' Breno Quinderé ', ' Lior Leibovici ', ' Ivo Haun ', ' works by Mike Svoboda ', ' Jean-Jacques Knutti ']",Classic
+Schaffhausen,Schaffhauser-Jazzfestival,2015-05-09,"[' Raw Vision ', ' Schnellertollermeier ']",
+Münchenstein,Jazzfestival-Basel,2015-05-09,"['Victoria Tolstoy Duo ', ' Victoria Tolstoy ']",
+Winterthur,The-Education-of-Style,2015-05-09,['WTK '],
+Basel,Toni-Kitanovski-Trio,2015-05-09,"[' Vasil Hadzimanov ', ' Toni Kitanovski ', ' Aleksandar Sekulovski ']",
+Zürich,Muammer-Ketencoglu-&-Balkan-Journey,2015-05-09,"['Muammer Ketencoglu & Balkan Journey ', ' Muammer Ketencoglu ', ' Sakip Songelen ', ' Rahmi Göcmen ', ' Sule Kocaman Saraç ']",
+Liestal,Walter-Jauslin-Quintett-Die-Nacht,2015-05-09,"['Walter Jauslin ', ' Daniel Blanc ', ' Daniel Schluchter ', ' Giorgios Antoniou ', ' Pius Baschnagel ']",
+Baden,Querbeat,2015-05-09,"[' Egon Egemann ', ' Sascha Lackner ', ' Michael Cohen ', ' Guido Kurth  ', ' Mostafa Kafai Azimi ', ' Urs Huber ']",
+Wädenswil,Pour-Maman,2015-05-09,"[' Anne Bennent ', ' Maximilian Schamschula ']",Pop
+null,Sandinista-Circus,2015-05-09,"['Tagada Jones ', ' Ramoneurs De Menhirs ', ' Les Punks Sportifs ']",
+null,Licia-Chery,2015-05-09,"['Licia Chery ', ' Licia Chery ', ' Pierre Fouqueray ', ' Bruno Pimienta ', ' Cyrille Nobilet ', ' Mathieu Coupat ', ' Anamaria Gonzalez ']",Pop
+Schaffhausen,Schaffhauser-Jazzfestival,2015-05-09,['Joscha Schraff Trio '],
+null,Afro-Reggae-Night,2015-05-09,"['Saf-Sap ', ' Raggabund & De Luca ']",
+Luzern,The-Bulletmonks,2015-05-09,['The Bulletmonks '],
+Zug,Kay-One,2015-05-09,['Kay One '],
+Lyss,Jungle-Brothers,2015-05-09,"['Jungle Brothers ', ' Cali Agents ']",

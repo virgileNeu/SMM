@@ -1,22 +1,22 @@
-,location,event,date,artists,genre
-0,Zürich,Lunchkonzert-Chamber-Music,2013-12-09,"[' Laurence Cummings ', ' Anna Stéphany ', ' Julia Riley ', ' Ada Pesch ']",Classic
-1,Lufingen,Adventskonzert,2013-12-09,"[' Andreas Ochsner ', ' Hisako Kikuchi ', ' Franziska Ochsner ']",Classic
-2,Bern,Kammermusik-Konzert,2013-12-09,[' Patricia Kopatchinskaja '],Classic
-3,Zürich,Imagine-Dragons,2013-12-09,"['Imagine Dragons ', ' support: Family of the Year ', ' The Moth and the Flame ']",
-4,Zürich,Liedrezital-Zürich,2013-12-09,"['Maria Riccarda Wesseling ', ' Peter Nilsson ']",Classic
-5,Basel,Silverstein,2013-12-09,"['Silverstein ', ' Dream on Dreamer ', ' Palisades ']",
-6,Basel,Culturescapes,2013-12-09,[' Jelica Mijanovi '],Classic
-7,Monthey,Voices-of-Gospel,2013-12-09,['St. Stephen Baptist Church Choir '],
-8,Zürich,Milos,2013-12-09,['Milos '],
-9,Zürich,Naam,2013-12-09,['Naam '],
-10,Emmenbrücke,Voices-of-Gospel,2013-12-09,['Prince Yelder & Disciples for Christ '],
-11,Zürich,Happy-Monday,2013-12-09,"[' Ernst Wirz ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier  ', ' Chris Muzik ']",
-12,Zürich,Tricky,2013-12-09,['Tricky '],Electronic
-13,Zürich,Claire,2013-12-09,['Claire '],Electronic
-14,Rheinfelden,Hamilton-Goykovich-Quintett,2013-12-09,"[' Scott Hamilton ', ' Dusko Goykovich ', ' Bernhard Pichl ', ' Rudi Engel ', ' Michael Keul ']",
-15,Baden,Erich-Gandet-Quintet,2013-12-09,"[' Erich Gandet ', ' Bruno Gandet ', ' Hans Rothenbühler ', ' Peter Tico Keller ', ' Hannes Hänggli ', ' Thomas Müller ']",
-16,Zürich,Dirty-Beaches,2013-12-09,['Dirty Beaches '],
-17,Zürich,Culturescapes,2013-12-09,['Bojan Z '],
-18,Winterthur,Monomontag,2013-12-09,['Mark Kelly '],
-19,Zürich,Nik-Bärtsch's-Ronin,2013-12-09,"[' Kasper Rast ', ' Thomy Jordi ', ' Sha ', ' Bernhard Wagner ']",
-20,Zürich,Culturescapes,2013-12-09,"['Tamara Obrovac Transhistria Ensemble ', ' Tamara Obrovac ', ' Uros Rakovec ', ' Ziga Golob ', ' Fausto Beccalossi ', ' Krunoslav Levacic ']",
+location,event,date,artists,genre
+Zürich,Lunchkonzert-Chamber-Music,2013-12-09,"[' Laurence Cummings ', ' Anna Stéphany ', ' Julia Riley ', ' Ada Pesch ']",Classic
+Lufingen,Adventskonzert,2013-12-09,"[' Andreas Ochsner ', ' Hisako Kikuchi ', ' Franziska Ochsner ']",Classic
+Bern,Kammermusik-Konzert,2013-12-09,[' Patricia Kopatchinskaja '],Classic
+Zürich,Imagine-Dragons,2013-12-09,"['Imagine Dragons ', ' support: Family of the Year ', ' The Moth and the Flame ']",
+Zürich,Liedrezital-Zürich,2013-12-09,"['Maria Riccarda Wesseling ', ' Peter Nilsson ']",Classic
+Basel,Silverstein,2013-12-09,"['Silverstein ', ' Dream on Dreamer ', ' Palisades ']",
+Basel,Culturescapes,2013-12-09,[' Jelica Mijanovi '],Classic
+Monthey,Voices-of-Gospel,2013-12-09,['St. Stephen Baptist Church Choir '],
+Zürich,Milos,2013-12-09,['Milos '],
+Zürich,Naam,2013-12-09,['Naam '],
+Emmenbrücke,Voices-of-Gospel,2013-12-09,['Prince Yelder & Disciples for Christ '],
+Zürich,Happy-Monday,2013-12-09,"[' Ernst Wirz ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier  ', ' Chris Muzik ']",
+Zürich,Tricky,2013-12-09,['Tricky '],Electronic
+Zürich,Claire,2013-12-09,['Claire '],Electronic
+Rheinfelden,Hamilton-Goykovich-Quintett,2013-12-09,"[' Scott Hamilton ', ' Dusko Goykovich ', ' Bernhard Pichl ', ' Rudi Engel ', ' Michael Keul ']",
+Baden,Erich-Gandet-Quintet,2013-12-09,"[' Erich Gandet ', ' Bruno Gandet ', ' Hans Rothenbühler ', ' Peter Tico Keller ', ' Hannes Hänggli ', ' Thomas Müller ']",
+Zürich,Dirty-Beaches,2013-12-09,['Dirty Beaches '],
+Zürich,Culturescapes,2013-12-09,['Bojan Z '],
+Winterthur,Monomontag,2013-12-09,['Mark Kelly '],
+Zürich,Nik-Bärtsch's-Ronin,2013-12-09,"[' Kasper Rast ', ' Thomy Jordi ', ' Sha ', ' Bernhard Wagner ']",
+Zürich,Culturescapes,2013-12-09,"['Tamara Obrovac Transhistria Ensemble ', ' Tamara Obrovac ', ' Uros Rakovec ', ' Ziga Golob ', ' Fausto Beccalossi ', ' Krunoslav Levacic ']",

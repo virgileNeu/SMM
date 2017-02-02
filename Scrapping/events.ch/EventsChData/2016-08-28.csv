@@ -1,15 +1,15 @@
-,location,event,date,artists,genre
-0,Heerbrugg,Sonntagsmatinee,2016-08-28,"['Takehiro Konoe ', ' Runat Hart ', ' Mayu Konoe ', ' Mario Häring ', ' Marie Spaemann ']",Classic
-1,Luzern,Lucerne-Festival-Nachmittagskonzert,2016-08-28,[' conductor: Gergana Gergova '],Classic
-2,Zürich,Andy-Gruber-Band,2016-08-28,[' DJ Andy '],traditional
-3,Fischingen,Barocke-Orgelkunst,2016-08-28,['Ursina Caflisch '],Classic
-4,Winterthur,Winterthurer-Musikfestwochen,2016-08-28,"['Frank Turner & The Sleeping Souls ', ' Pennywise ', ' Band of Skulls ']",
-5,Zürich,Panflöten-Sommerkonzert,2016-08-28,['Taras Berchtold '],Classic
-6,Kappel-am-Albis,Musik-und-Wort,2016-08-28,"['Elisabeth Berner ', ' John Voirol ']",Classic
-7,Basel,Komm-in-meinen-Garten-meine-Schwester-liebe-Braut.,2016-08-28,"[' Frithjof Smith ', ' Ori Harmelin ', ' Matthias Müller ', ' Jörg-Andreas Bötticher ', ' works by Franck und Schein ']",Classic
-8,Gstaad,Opera-Gala,2016-08-28,"[' Anja Harteros ', ' Bryn Terfel ']",Classic
-9,Winterthur,Winterthurer-Symphoniker,2016-08-28,['Rudolf Koelman '],Classic
-10,Luzern,Lucerne-Festival-Sinfoniekonzert-14,2016-08-28,[' Sol Gabetta '],Classic
-11,Bern,Faraándula-Salsera,2016-08-28,"['DJs Hector ', ' Buena Vista ']",
-12,Zürich,Hely,2016-08-28,"[' Lucca Fries ', ' Jonas Ruther ']",
-13,Luzern,Peter-Katz,2016-08-28,['Peter Katz '],Pop
+location,event,date,artists,genre
+Heerbrugg,Sonntagsmatinee,2016-08-28,"['Takehiro Konoe ', ' Runat Hart ', ' Mayu Konoe ', ' Mario Häring ', ' Marie Spaemann ']",Classic
+Luzern,Lucerne-Festival-Nachmittagskonzert,2016-08-28,[' conductor: Gergana Gergova '],Classic
+Zürich,Andy-Gruber-Band,2016-08-28,[' DJ Andy '],traditional
+Fischingen,Barocke-Orgelkunst,2016-08-28,['Ursina Caflisch '],Classic
+Winterthur,Winterthurer-Musikfestwochen,2016-08-28,"['Frank Turner & The Sleeping Souls ', ' Pennywise ', ' Band of Skulls ']",
+Zürich,Panflöten-Sommerkonzert,2016-08-28,['Taras Berchtold '],Classic
+Kappel-am-Albis,Musik-und-Wort,2016-08-28,"['Elisabeth Berner ', ' John Voirol ']",Classic
+Basel,Komm-in-meinen-Garten-meine-Schwester-liebe-Braut.,2016-08-28,"[' Frithjof Smith ', ' Ori Harmelin ', ' Matthias Müller ', ' Jörg-Andreas Bötticher ', ' works by Franck und Schein ']",Classic
+Gstaad,Opera-Gala,2016-08-28,"[' Anja Harteros ', ' Bryn Terfel ']",Classic
+Winterthur,Winterthurer-Symphoniker,2016-08-28,['Rudolf Koelman '],Classic
+Luzern,Lucerne-Festival-Sinfoniekonzert-14,2016-08-28,[' Sol Gabetta '],Classic
+Bern,Faraándula-Salsera,2016-08-28,"['DJs Hector ', ' Buena Vista ']",
+Zürich,Hely,2016-08-28,"[' Lucca Fries ', ' Jonas Ruther ']",
+Luzern,Peter-Katz,2016-08-28,['Peter Katz '],Pop

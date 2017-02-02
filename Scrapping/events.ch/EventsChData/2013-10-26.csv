@@ -1,52 +1,52 @@
-,location,event,date,artists,genre
-0,Zürich,Celtic-Woman,2013-10-26,['Celtic Woman '],
-1,Basel,Pure-Joyce,2013-10-26,"[' Shirley Grimes ', ' Rob Kloet ']",
-2,Kyburg,Flöten-Quartette,2013-10-26,"['Flavio Puntin ', ' Myrtha Spahr ', ' Marlene Züsli-Spahr ', ' Nadja Straubhaar ']",Classic
-3,Zürich,Harfe-und-Gitarre-für-die-Welt,2013-10-26,"[' Violeta Ramos ', ' Richard Schneider ']",Classic
-4,Zürich,Ane-Brun,2013-10-26,"['Ane Brun ', ' Tonbruket ']",Pop
-5,Sarnen,Bluesballs,2013-10-26,"[' Jan Bukacek ', ' Thomas Elsasser ', ' Sascha Jäggi ']",
-6,Basel,Herbstkonzert-Part-Songs,2013-10-26,[' Reto Reichenbach '],Classic
-7,Zürich,Louis-Mazetier,2013-10-26,['Louis Mazetier '],
-8,null,Ikarus-Pavillon-Konzerte,2013-10-26,"['Urs Brügger ', ' Marosi ', ' Marja Liisa Marosi ']",Classic
-9,Zürich,Karnivool,2013-10-26,['Karnivool '],
-10,null,We-take-this-2-another-lvl,2013-10-26,[' Farewell To Arms '],
-11,Zürich,Verliebte-Nacht,2013-10-26,[' Giora Feidman '],Classic
-12,Basel,Wollen-wir-die-alten-und-neuen-Instrumente-gegeneinander-halten-,2013-10-26,"['Daniel Sepec ', ' Tobias Schabenberger ']",Classic
-13,Zürich,Migros-Kulturprozent-Classics,2013-10-26,"[' Maria João Pires ', ' Marysol Schalit ']",Classic
-14,Frenkendorf,Impressions-de-la-nuit,2013-10-26,"['Regula Konrad ', ' Pamina Blum ', ' Cynthia Oppermann ']",Classic
-15,Zürich,Goldfrapp,2013-10-26,['Goldfrapp '],Pop
-16,Zürich,Jauchzet-Gott-alle-Land,2013-10-26,"[' Kenneth Mauerhofer ', ' Arabella Ristenpart ']",Classic
-17,Basel,Musik-für-zwei-Blockflöten-und-Orgel,2013-10-26,"['Elisabeth Haselberger ', ' Florentin Manetsch ', ' Koichi Kosugi ']",Classic
-18,Zürich,35-Jahre-WIM-Zürich,2013-10-26,"['Hans Koch ', ' Thomas Peter ', ' Christy Doran ', ' Dave Gisler ', ' Alex Huber ', ' Jonas Labhart ']",
-19,Baden,Riddemption,2013-10-26,['Riddemption '],
-20,Baden,Riddemption,2013-10-26,['Riddemption '],
-21,Liestal,Musique-Simili,2013-10-26,"[' Line Loddo ', ' Juliette du Pasquier ', ' Marc Hänsenberger ']",
-22,Aarau,Trafalgar,2013-10-26,"[' Birgit Plankel ', ' Liliane Glanzmann ', ' Tino Brütsch ', ' Robert Koller ']",Classic
-23,Zürich,Stephen-Simmons,2013-10-26,['Stephen Simmons '],
-24,Zürich,Milchmaa,2013-10-26,['Milchmaa '],
-25,Münchenstein,Metropolis,2013-10-26,[' Stummfilm von Fritz Lang '],Classic
-26,null,Seat-Music-Session,2013-10-26,"[' Jenniffer Kae ', ' Johannes Oerding ', ' Jaz Ellington ']",Pop
-27,null,Baloise-Session,2013-10-26,"['Texas ', ' Alex Hepburn ']",Pop
-28,Zürich,Long-Night-of-Great-Singer-Songwriters,2013-10-26,"['Eamon McGrath ', ' Summer Crowd Stereo ']",Pop
-29,Zürich,Kenan-Dogulu,2013-10-26,['Kenan Dogulu '],Pop
-30,Winterthur,Musica-aperta-Neue-Musik-aus-Europa,2013-10-26,"[' Sonia Formenti ', ' Paolo Casiraghi ', ' Lorenzo Gentili-Tedeschi ', ' Paolo Fumagalli ']",Classic
-31,Bülach,Echoes-of-Swing-Orchestra,2013-10-26,"[' Shaunette Hildabrand ', ' Colin Dawson ', ' Frank Roberscheuten ', ' Chris Hopkins ', ' Bernd Lhotzky ', ' Dirk van der Linden ', ' Karel Algoed ', ' Oliver Mewes ']",
-32,Stäfa,Schön-wie-es-begann,2013-10-26,"[' Curdin Janett ', ' David Ruosch ', ' Lisa Berg ']",Pop
-33,Zürich,Agonoize,2013-10-26,"['Agonoize ', ' Suicide Commando ']",
-34,Zug,Lily-Dahab,2013-10-26,['Lily Dahab '],
-35,Zürich,CulturEscapes,2013-10-26,"['Rambo Amadeus & Three Goolivers on One Road ', ' Rambo Amadeus ', ' Ivan Aleksijevic ', ' Igor Malesevic ', ' Miroslav Tovirac ']",
-36,Winterthur,Jucifer,2013-10-26,"['Jucifer ', ' Mangoo ', ' Rescure Rangers ', ' Enos ']",
-37,Basel,Sandro-Schneebelis-Scala-Nobile-feat.-Amstad-&-Pizio,2013-10-26,"[' Bruno Amstad ', ' Max Pizio ', ' Antonello Messina ', ' Sandro Schneebeli ', ' Eduardo Penz ', ' Samuel Baur ', ' Stephan Rigert ']",
-38,Herzogenbuchsee,Chantemoiselle,2013-10-26,"[' Myria Poffet ', ' Michel Poffet ', ' Willy Schnyder ', ' David Elias ']",Pop
-39,Liestal,Jazz-Guitar-in-the-Tradition,2013-10-26,"[' Agostino Di Giorgio ', ' Michael Jeup ', ' Luca Pisani ', ' Alberto Canonico ']",
-40,Olten,Herrenmagazin,2013-10-26,['Herrenmagazin '],Pop
-41,null,Florian-Favre-Trio,2013-10-26,"[' Florian Favre ', ' Manu Hagmann ', ' Alex Maurer ']",
-42,Zürich,Grauton,2013-10-26,[' Karen Geyer '],
-43,Restaurant-Kreuz,Cham,2013-10-26,['Walter Trout '],
-44,Aarau,Peter-Katz,2013-10-26,"['Peter Katz ', ' Royal Wood ']",
-45,Bern,Danceable-Drum-Phase-3,2013-10-26,"['Rico Baumann ', ' Simon Baumann ', ' Don Li ']",Pop
-46,Bern,Reitschule-Fest,2013-10-26,"['Respect My Fist ', ' Iva Nova ']",
-47,Bern,Reitschule-Fest,2013-10-26,['Feine Sahne Fishfilet '],
-48,Basel,Salsa-all-Styles-con-DJ-Ronny,2013-10-26,['DJ Ronny '],
-49,Zürich,Apollo-Brown-&-Guilty-Simpson,2013-10-26,"['Apollo Brown & Guilty Simpson ', ' Torae ']",
-50,Zürich,CulturEscapes,2013-10-26,"['Kal ', ' Dragan Ristic ', ' Boris Kostic ', ' Milorad Jevremovic ', ' Slavisa Pavlovic ', ' Milos Velickovic ']",
+location,event,date,artists,genre
+Zürich,Celtic-Woman,2013-10-26,['Celtic Woman '],
+Basel,Pure-Joyce,2013-10-26,"[' Shirley Grimes ', ' Rob Kloet ']",
+Kyburg,Flöten-Quartette,2013-10-26,"['Flavio Puntin ', ' Myrtha Spahr ', ' Marlene Züsli-Spahr ', ' Nadja Straubhaar ']",Classic
+Zürich,Harfe-und-Gitarre-für-die-Welt,2013-10-26,"[' Violeta Ramos ', ' Richard Schneider ']",Classic
+Zürich,Ane-Brun,2013-10-26,"['Ane Brun ', ' Tonbruket ']",Pop
+Sarnen,Bluesballs,2013-10-26,"[' Jan Bukacek ', ' Thomas Elsasser ', ' Sascha Jäggi ']",
+Basel,Herbstkonzert-Part-Songs,2013-10-26,[' Reto Reichenbach '],Classic
+Zürich,Louis-Mazetier,2013-10-26,['Louis Mazetier '],
+null,Ikarus-Pavillon-Konzerte,2013-10-26,"['Urs Brügger ', ' Marosi ', ' Marja Liisa Marosi ']",Classic
+Zürich,Karnivool,2013-10-26,['Karnivool '],
+null,We-take-this-2-another-lvl,2013-10-26,[' Farewell To Arms '],
+Zürich,Verliebte-Nacht,2013-10-26,[' Giora Feidman '],Classic
+Basel,Wollen-wir-die-alten-und-neuen-Instrumente-gegeneinander-halten-,2013-10-26,"['Daniel Sepec ', ' Tobias Schabenberger ']",Classic
+Zürich,Migros-Kulturprozent-Classics,2013-10-26,"[' Maria João Pires ', ' Marysol Schalit ']",Classic
+Frenkendorf,Impressions-de-la-nuit,2013-10-26,"['Regula Konrad ', ' Pamina Blum ', ' Cynthia Oppermann ']",Classic
+Zürich,Goldfrapp,2013-10-26,['Goldfrapp '],Pop
+Zürich,Jauchzet-Gott-alle-Land,2013-10-26,"[' Kenneth Mauerhofer ', ' Arabella Ristenpart ']",Classic
+Basel,Musik-für-zwei-Blockflöten-und-Orgel,2013-10-26,"['Elisabeth Haselberger ', ' Florentin Manetsch ', ' Koichi Kosugi ']",Classic
+Zürich,35-Jahre-WIM-Zürich,2013-10-26,"['Hans Koch ', ' Thomas Peter ', ' Christy Doran ', ' Dave Gisler ', ' Alex Huber ', ' Jonas Labhart ']",
+Baden,Riddemption,2013-10-26,['Riddemption '],
+Baden,Riddemption,2013-10-26,['Riddemption '],
+Liestal,Musique-Simili,2013-10-26,"[' Line Loddo ', ' Juliette du Pasquier ', ' Marc Hänsenberger ']",
+Aarau,Trafalgar,2013-10-26,"[' Birgit Plankel ', ' Liliane Glanzmann ', ' Tino Brütsch ', ' Robert Koller ']",Classic
+Zürich,Stephen-Simmons,2013-10-26,['Stephen Simmons '],
+Zürich,Milchmaa,2013-10-26,['Milchmaa '],
+Münchenstein,Metropolis,2013-10-26,[' Stummfilm von Fritz Lang '],Classic
+null,Seat-Music-Session,2013-10-26,"[' Jenniffer Kae ', ' Johannes Oerding ', ' Jaz Ellington ']",Pop
+null,Baloise-Session,2013-10-26,"['Texas ', ' Alex Hepburn ']",Pop
+Zürich,Long-Night-of-Great-Singer-Songwriters,2013-10-26,"['Eamon McGrath ', ' Summer Crowd Stereo ']",Pop
+Zürich,Kenan-Dogulu,2013-10-26,['Kenan Dogulu '],Pop
+Winterthur,Musica-aperta-Neue-Musik-aus-Europa,2013-10-26,"[' Sonia Formenti ', ' Paolo Casiraghi ', ' Lorenzo Gentili-Tedeschi ', ' Paolo Fumagalli ']",Classic
+Bülach,Echoes-of-Swing-Orchestra,2013-10-26,"[' Shaunette Hildabrand ', ' Colin Dawson ', ' Frank Roberscheuten ', ' Chris Hopkins ', ' Bernd Lhotzky ', ' Dirk van der Linden ', ' Karel Algoed ', ' Oliver Mewes ']",
+Stäfa,Schön-wie-es-begann,2013-10-26,"[' Curdin Janett ', ' David Ruosch ', ' Lisa Berg ']",Pop
+Zürich,Agonoize,2013-10-26,"['Agonoize ', ' Suicide Commando ']",
+Zug,Lily-Dahab,2013-10-26,['Lily Dahab '],
+Zürich,CulturEscapes,2013-10-26,"['Rambo Amadeus & Three Goolivers on One Road ', ' Rambo Amadeus ', ' Ivan Aleksijevic ', ' Igor Malesevic ', ' Miroslav Tovirac ']",
+Winterthur,Jucifer,2013-10-26,"['Jucifer ', ' Mangoo ', ' Rescure Rangers ', ' Enos ']",
+Basel,Sandro-Schneebelis-Scala-Nobile-feat.-Amstad-&-Pizio,2013-10-26,"[' Bruno Amstad ', ' Max Pizio ', ' Antonello Messina ', ' Sandro Schneebeli ', ' Eduardo Penz ', ' Samuel Baur ', ' Stephan Rigert ']",
+Herzogenbuchsee,Chantemoiselle,2013-10-26,"[' Myria Poffet ', ' Michel Poffet ', ' Willy Schnyder ', ' David Elias ']",Pop
+Liestal,Jazz-Guitar-in-the-Tradition,2013-10-26,"[' Agostino Di Giorgio ', ' Michael Jeup ', ' Luca Pisani ', ' Alberto Canonico ']",
+Olten,Herrenmagazin,2013-10-26,['Herrenmagazin '],Pop
+null,Florian-Favre-Trio,2013-10-26,"[' Florian Favre ', ' Manu Hagmann ', ' Alex Maurer ']",
+Zürich,Grauton,2013-10-26,[' Karen Geyer '],
+Restaurant-Kreuz,Cham,2013-10-26,['Walter Trout '],
+Aarau,Peter-Katz,2013-10-26,"['Peter Katz ', ' Royal Wood ']",
+Bern,Danceable-Drum-Phase-3,2013-10-26,"['Rico Baumann ', ' Simon Baumann ', ' Don Li ']",Pop
+Bern,Reitschule-Fest,2013-10-26,"['Respect My Fist ', ' Iva Nova ']",
+Bern,Reitschule-Fest,2013-10-26,['Feine Sahne Fishfilet '],
+Basel,Salsa-all-Styles-con-DJ-Ronny,2013-10-26,['DJ Ronny '],
+Zürich,Apollo-Brown-&-Guilty-Simpson,2013-10-26,"['Apollo Brown & Guilty Simpson ', ' Torae ']",
+Zürich,CulturEscapes,2013-10-26,"['Kal ', ' Dragan Ristic ', ' Boris Kostic ', ' Milorad Jevremovic ', ' Slavisa Pavlovic ', ' Milos Velickovic ']",

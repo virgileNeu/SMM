@@ -1,12 +1,12 @@
-,location,event,date,artists,genre
-0,Luzern,Lucerne-Festival,2013-09-03,"['Regula Mühlemann ', ' Tatiana Korsunskaya ']",Classic
-1,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-09-03,['Mark Tenger '],
-2,null,Michael-Hirte,2013-09-03,"['Michael Hirte ', ' Vanessa Calcagno ', ' Mario-Frank-Band ']",
-3,Luzern,Lucerne-Festival,2013-09-03,[' Yefim Bronfman '],Classic
-4,Bern,Symphoniekonzert-Missa-Solemnis,2013-09-03,"[' Miriam Clark ', ' Yvonne Naef ', ' Uwe Stickert ', ' Robin Adams ']",Classic
-5,Zürich,Travelers-of-the-21st-Century,2013-09-03,"[' Nehrun Aliev ', ' Monique Lansdorp ', ' Mike Horowitz ', ' Selina Horowitz ']",
-6,Zürich,Oldseed,2013-09-03,['Oldseed '],
-7,Bern,Sole,2013-09-03,['Sole '],
-8,Zürich,Immanuel-Witschi-Trio,2013-09-03,"[' Mathias Goetz ', ' Hanspeter Baldinger ', ' Timon Roth ', ' Immanuel Witschi ']",
-9,Basel,Walter's-Groove-Yard,2013-09-03,"[' Walter Jauslin ', ' Giorgos Antoniou ', ' Michi Wipf ']",
-10,null,Timeshares,2013-09-03,"['Timeshares ', ' Antillectual ']",
+location,event,date,artists,genre
+Luzern,Lucerne-Festival,2013-09-03,"['Regula Mühlemann ', ' Tatiana Korsunskaya ']",Classic
+Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-09-03,['Mark Tenger '],
+null,Michael-Hirte,2013-09-03,"['Michael Hirte ', ' Vanessa Calcagno ', ' Mario-Frank-Band ']",
+Luzern,Lucerne-Festival,2013-09-03,[' Yefim Bronfman '],Classic
+Bern,Symphoniekonzert-Missa-Solemnis,2013-09-03,"[' Miriam Clark ', ' Yvonne Naef ', ' Uwe Stickert ', ' Robin Adams ']",Classic
+Zürich,Travelers-of-the-21st-Century,2013-09-03,"[' Nehrun Aliev ', ' Monique Lansdorp ', ' Mike Horowitz ', ' Selina Horowitz ']",
+Zürich,Oldseed,2013-09-03,['Oldseed '],
+Bern,Sole,2013-09-03,['Sole '],
+Zürich,Immanuel-Witschi-Trio,2013-09-03,"[' Mathias Goetz ', ' Hanspeter Baldinger ', ' Timon Roth ', ' Immanuel Witschi ']",
+Basel,Walter's-Groove-Yard,2013-09-03,"[' Walter Jauslin ', ' Giorgos Antoniou ', ' Michi Wipf ']",
+null,Timeshares,2013-09-03,"['Timeshares ', ' Antillectual ']",

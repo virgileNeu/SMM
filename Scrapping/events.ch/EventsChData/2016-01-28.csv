@@ -1,22 +1,22 @@
-,location,event,date,artists,genre
-0,Baden,ChaChaLoca,2016-01-28,"[' Roman Glaser ', ' Alain von Ritter ', ' Richard Pechota ', ' Jost Müller ']",
-1,Winterthur,The-World-is-a-Beautiful-Place-&-I-am-No-Longer-Afraid-to-Die,2016-01-28,"['The World is a Beautiful Place & I am No Longer Afraid to Die ', ' Mewithoutyou ']",Pop
-2,Basel,AMG-Solistenabend,2016-01-28,[' Martha Argerich '],Classic
-3,Zürich,Thursday-Night-Jazz,2016-01-28,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-4,Basel,Winterreise-Vom-Verlassen-und-Verlassen-werden,2016-01-28,"['Violette Knausz ', ' Daniel Mauerhofer ', ' Kathrin Hartmann ', ' Boris Chnaider ']",Classic
-5,Winterthur,Denn-wie-Mann-sich-bettet-Ein-kurtweilliger-Liederabend,2016-01-28,"['Christian Jott Jenny ', ' Edward Rushton ', ' Othella Dallas ']",Pop
-6,Zürich,Las-Hermanas-Caronni,2016-01-28,['Las Hermanas Caronni '],
-7,Zürich,Elderbrook,2016-01-28,['Elderbrook '],Electronic
-8,Zürich,Winterthurer-Symphoniker,2016-01-28,['David Bruchez '],Classic
-9,Stäfa,Jazztage,2016-01-28,"[' Christoph Stiefel ', ' Arne Huber ', ' Kevin Chesham ', ' Jochen Baldes ', ' Peter Zielmann ', ' Peter Leuzinger ', ' Alberto Canonico ']",Pop
-10,null,The-Jemeel-Moondoc-Quartet,2016-01-28,"['The Jemeel Moondoc Quartet ', ' Jemeel Moondoc ', ' Matthew Shipp ', ' Hillard Greene ', ' Newman Taylor Baker ']",
-11,Winterthur,Drop-Dead-Ugly-Radio,2016-01-28,"[' Marc Stucki ', ' Angel Ontalve ', ' Beat Gisler ', ' Vasco Trilla ']",
-12,Zürich,Musik-muss-sein,2016-01-28,"['Edward Rushton ', ' Nina Eleta ', ' Samuel Zünd ']",
-13,Basel,Roberto-Koch-Group,2016-01-28,"[' Lou Lecaudey ', ' Niko Seibold ', ' Leo Rondón ', ' Roberto Koch ', ' Florian Haas ', ' Manuel Rangel ', ' Paul Lligadas ', ' Arthur Vonfelt ']",
-14,Zürich,FM-Trio,2016-01-28,"[' Fabian M. Mueller ', ' Kaspar von Grüningen ', ' Fabian Bürgi ']",
-15,Aarau,Les-Tambours-du-Bronx,2016-01-28,['Les Tambours du Bronx '],
-16,Schaffhausen,Joshua-Radin,2016-01-28,['Joshua Radin '],Pop
-17,Baden,Zwischen-Balkan-und-Kaukasus,2016-01-28,"[' Andreas Kleiner ', ' Violeta Manojan ', ' Lucius Sigrist ', ' Igor Bogoev ']",
-18,Sankt-Gallen,Tobias-Preisig,2016-01-28,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-19,Basel,Jazz-Meets-Bossa,2016-01-28,"['Ursus Bachthaler ', ' Marco Nenniger ', ' Oliver Santos ']",
-20,Zürich,Youyou,2016-01-28,['Mr. Carmack '],
+location,event,date,artists,genre
+Baden,ChaChaLoca,2016-01-28,"[' Roman Glaser ', ' Alain von Ritter ', ' Richard Pechota ', ' Jost Müller ']",
+Winterthur,The-World-is-a-Beautiful-Place-&-I-am-No-Longer-Afraid-to-Die,2016-01-28,"['The World is a Beautiful Place & I am No Longer Afraid to Die ', ' Mewithoutyou ']",Pop
+Basel,AMG-Solistenabend,2016-01-28,[' Martha Argerich '],Classic
+Zürich,Thursday-Night-Jazz,2016-01-28,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
+Basel,Winterreise-Vom-Verlassen-und-Verlassen-werden,2016-01-28,"['Violette Knausz ', ' Daniel Mauerhofer ', ' Kathrin Hartmann ', ' Boris Chnaider ']",Classic
+Winterthur,Denn-wie-Mann-sich-bettet-Ein-kurtweilliger-Liederabend,2016-01-28,"['Christian Jott Jenny ', ' Edward Rushton ', ' Othella Dallas ']",Pop
+Zürich,Las-Hermanas-Caronni,2016-01-28,['Las Hermanas Caronni '],
+Zürich,Elderbrook,2016-01-28,['Elderbrook '],Electronic
+Zürich,Winterthurer-Symphoniker,2016-01-28,['David Bruchez '],Classic
+Stäfa,Jazztage,2016-01-28,"[' Christoph Stiefel ', ' Arne Huber ', ' Kevin Chesham ', ' Jochen Baldes ', ' Peter Zielmann ', ' Peter Leuzinger ', ' Alberto Canonico ']",Pop
+null,The-Jemeel-Moondoc-Quartet,2016-01-28,"['The Jemeel Moondoc Quartet ', ' Jemeel Moondoc ', ' Matthew Shipp ', ' Hillard Greene ', ' Newman Taylor Baker ']",
+Winterthur,Drop-Dead-Ugly-Radio,2016-01-28,"[' Marc Stucki ', ' Angel Ontalve ', ' Beat Gisler ', ' Vasco Trilla ']",
+Zürich,Musik-muss-sein,2016-01-28,"['Edward Rushton ', ' Nina Eleta ', ' Samuel Zünd ']",
+Basel,Roberto-Koch-Group,2016-01-28,"[' Lou Lecaudey ', ' Niko Seibold ', ' Leo Rondón ', ' Roberto Koch ', ' Florian Haas ', ' Manuel Rangel ', ' Paul Lligadas ', ' Arthur Vonfelt ']",
+Zürich,FM-Trio,2016-01-28,"[' Fabian M. Mueller ', ' Kaspar von Grüningen ', ' Fabian Bürgi ']",
+Aarau,Les-Tambours-du-Bronx,2016-01-28,['Les Tambours du Bronx '],
+Schaffhausen,Joshua-Radin,2016-01-28,['Joshua Radin '],Pop
+Baden,Zwischen-Balkan-und-Kaukasus,2016-01-28,"[' Andreas Kleiner ', ' Violeta Manojan ', ' Lucius Sigrist ', ' Igor Bogoev ']",
+Sankt-Gallen,Tobias-Preisig,2016-01-28,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
+Basel,Jazz-Meets-Bossa,2016-01-28,"['Ursus Bachthaler ', ' Marco Nenniger ', ' Oliver Santos ']",
+Zürich,Youyou,2016-01-28,['Mr. Carmack '],
