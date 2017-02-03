@@ -16,8 +16,8 @@ def clean_artists(artists):
 				result.append(word_list[0])
 			if(len(word_list) > 1):
 				result.extend(word_list)
-    for s in result:
-        s = s.strip('-.[\'\", +*?\n\t\r')
+	for s in result:
+		s = s.strip('-.[\'\", +*?\n\t\r')
 	return result
 	
 def split_string(string):
