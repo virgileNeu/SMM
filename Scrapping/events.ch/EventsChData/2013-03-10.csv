@@ -1,38 +1,38 @@
-location,event,date,artists,genre
-Laufen,Patchwork-Stompers,2013-03-10,"[' Peter ""Kniri Knaus ', ' Robert Merian ', ' ', ' Rene Karlen ', ' Max Wehrli ']",
-null,Schumann-&-Friends,2013-03-10,"[' Madeleine Przybyl ', ' Kerstin Mörk ']",Classic
-Reinach,Basler-Baryton-Trio,2013-03-10,"[' Jessica Horsley ', ' Péter Barczi ', ' Reto Cuonz ']",Classic
-Bern,Contrasts,2013-03-10,"[' Bernhard Röthlisberger ', ' Isabelle Magnenat ', ' Francis Roux ', ' James Alexander ', ' Constantin Negoita ']",Classic
-null,Kammermusik-Konzert,2013-03-10,"['Johanna Baer Wopmann ', ' Polina Peskina ', ' Sophie Laville Minder ', ' Fréderic Carrière ', ' Michael Faivre ']",Classic
-Zürich,Wer-klaut-denn-einen-Ton-,2013-03-10,"['Guillermo Casillas ', ' Romana Kaiser ', ' Andrea Fischer ']",Pop
-Zürich,Napoletanische-Lieder,2013-03-10,['Franco Mayer '],Classic
-null,Tränen-Quellen-Veil-of-Tears,2013-03-10,"[' Anne Schmid ', ' Pascale Van Coppenolle ']",Classic
-Schaffhausen,Jubiläumskonzert,2013-03-10,"[' Gabriela Bürgler ', ' Paolo Vignoli ', ' Thomas Gropper ']",Classic
-Basel,"Französischer-Liederabend-""L'invitation-au-voyage""",2013-03-10,"['Christina Metz ', ' Reto Reichenbach ']",Classic
-Bern,Chorus-America,2013-03-10,[' Franziska Hegi '],Classic
-Wettingen,Requiem-Trauermusik,2013-03-10,"[' Ruth Achermann ', ' Liliane Glanzmann ', ' Tino Brütsch ', ' Michael Raschle ']",Classic
-Luzern,Swiss-Bands-in-Concert,2013-03-10,[' Bill Ramsey  '],Classic
-Thun,Sinfoniekonzert,2013-03-10,['Alexandre Dubach '],Classic
-null,4.-Meisterzykluskonzert,2013-03-10,"[' Frank Peter Zimmermann ', ' Antoine Tamestit ', ' Christian Poltéra ']",Classic
-Allschwil,Kurt-Marti-Jazz-Lokal-Rosa-Lui,2013-03-10,"['Guy Krneta ', ' Ruedi Schmid ']",Classic
--Alte-Kirche,Boswil,2013-03-10,[' Alexander Boeschoten '],Classic
-Baden,Klavierrezital,2013-03-10,['Praxedis Geneviève Hug '],Classic
-Basel,Schwarz-auf-Weiss-Die-Muschelkur-des-Monsieur-Chabre,2013-03-10,[' Desirée Meiser '],Classic
-Aarau,Chor-&-Bündig,2013-03-10,"[' Gregor Loepfe ', ' Jonas Bürgi ']",Pop
-null,Acoustic-Africa,2013-03-10,"['Dobet Gnahoré ', ' Manou Gallo ', ' Kareyce Fotso ']",
-Zug,Konzert,2013-03-10,[' Nicolas Altstaedt '],Classic
-Brugg,David-Hope,2013-03-10,['David Hope '],Pop
-Rheinfelden,Jonathan-Kreisberg-Quartett,2013-03-10,"[' Jonathan Kreisberg ', ' Will Vinson ', ' Rick Rosato ', ' Colin Stranahan ']",
-Zürich,Omri-Ziegele-with-Noisy-Minority-&-Ray-Anderson,2013-03-10,"[' Omri Ziegele ', ' Ray Anderson ', ' Jan Schlegel ', ' Dieter Ulrich ']",
-Moods,Zürich,2013-03-10,"['Tina Dico & Helgi Jonsson ', ' Tina Dico ', ' Helgi Jonsson ']",
-Basel,Lil-Fame-&-Termanology,2013-03-10,['Lil Fame & Termanology '],
-Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-10,"['Tori Amos ', ' Noa ', ' Roger Hodgson ']",
-Esse-Musicbar,Winterthur,2013-03-10,"[' Daniela Sarda ', ' Ralph Sonderegger ', ' Mike Moling ', ' Rico Baumann ']",Sarda
-Zürich,Agrypnie,2013-03-10,"['Agrypnie ', ' Der Weg einer Freiheit ', ' Heretoir ']",
-Komplex-457,Zürich,2013-03-10,['The Darkness '],
-Luzern,GBH,2013-03-10,['GBH '],
-Kaufleuten,Zürich,2013-03-10,['Cody Chesnutt '],
-Bern,Toby-Beard,2013-03-10,['Toby Beard '],
-Volkshaus,Zürich,2013-03-10,['Nelly Furtado '],
-Zürich,Presentimientos,2013-03-10,"[' Daniela Müller ', ' Petra Ackermann ', ' Martin Jaggi ', ' Tamriko Kordzaia ', ' Thomas Peter ']",Classic
-Bern,Kappeler-Zumthor,2013-03-10,"[' Vera Kappeler ', ' Peter Conradin Zumthor ']",
+,location,event,date,artists,genre
+0,Laufen,Patchwork-Stompers,2013-03-10,"[' Peter ""Kniri Knaus ', ' Robert Merian ', ' ', ' Rene Karlen ', ' Max Wehrli ']","['Jazz', 'Blues', 'Soul']"
+1,null,Schumann-&-Friends,2013-03-10,"[' Madeleine Przybyl ', ' Kerstin Mörk ']",['Classic']
+2,Reinach,Basler-Baryton-Trio,2013-03-10,"[' Jessica Horsley ', ' Péter Barczi ', ' Reto Cuonz ']",['Classic']
+3,Bern,Contrasts,2013-03-10,"[' Bernhard Röthlisberger ', ' Isabelle Magnenat ', ' Francis Roux ', ' James Alexander ', ' Constantin Negoita ']",['Classic']
+4,null,Kammermusik-Konzert,2013-03-10,"['Johanna Baer Wopmann ', ' Polina Peskina ', ' Sophie Laville Minder ', ' Fréderic Carrière ', ' Michael Faivre ']",['Classic']
+5,Zürich,Wer-klaut-denn-einen-Ton-,2013-03-10,"['Guillermo Casillas ', ' Romana Kaiser ', ' Andrea Fischer ']",['Pop']
+6,Zürich,Napoletanische-Lieder,2013-03-10,['Franco Mayer '],['Classic']
+7,null,Tränen-Quellen-Veil-of-Tears,2013-03-10,"[' Anne Schmid ', ' Pascale Van Coppenolle ']",['Classic']
+8,Schaffhausen,Jubiläumskonzert,2013-03-10,"[' Gabriela Bürgler ', ' Paolo Vignoli ', ' Thomas Gropper ']",['Classic']
+9,Basel,"Französischer-Liederabend-""L'invitation-au-voyage""",2013-03-10,"['Christina Metz ', ' Reto Reichenbach ']",['Classic']
+10,Bern,Chorus-America,2013-03-10,[' Franziska Hegi '],['Classic']
+11,Wettingen,Requiem-Trauermusik,2013-03-10,"[' Ruth Achermann ', ' Liliane Glanzmann ', ' Tino Brütsch ', ' Michael Raschle ']",['Classic']
+12,Luzern,Swiss-Bands-in-Concert,2013-03-10,[' Bill Ramsey  '],['Classic']
+13,Thun,Sinfoniekonzert,2013-03-10,['Alexandre Dubach '],['Classic']
+14,null,4.-Meisterzykluskonzert,2013-03-10,"[' Frank Peter Zimmermann ', ' Antoine Tamestit ', ' Christian Poltéra ']",['Classic']
+15,Allschwil,Kurt-Marti-Jazz-Lokal-Rosa-Lui,2013-03-10,"['Guy Krneta ', ' Ruedi Schmid ']",['Classic']
+16,-Alte-Kirche,Boswil,2013-03-10,[' Alexander Boeschoten '],['Classic']
+17,Baden,Klavierrezital,2013-03-10,['Praxedis Geneviève Hug '],['Classic']
+18,Basel,Schwarz-auf-Weiss-Die-Muschelkur-des-Monsieur-Chabre,2013-03-10,[' Desirée Meiser '],['Classic']
+19,Aarau,Chor-&-Bündig,2013-03-10,"[' Gregor Loepfe ', ' Jonas Bürgi ']",['Pop']
+20,Zug,Konzert,2013-03-10,[' Nicolas Altstaedt '],['Classic']
+21,Brugg,David-Hope,2013-03-10,['David Hope '],['Pop']
+22,Basel,Lil-Fame-&-Termanology,2013-03-10,['Lil Fame & Termanology '],"['Hip', 'Hop', ""R'n'B""]"
+23,null,Acoustic-Africa,2013-03-10,"['Dobet Gnahoré ', ' Manou Gallo ', ' Kareyce Fotso ']","['world', 'music']"
+24,Rheinfelden,Jonathan-Kreisberg-Quartett,2013-03-10,"[' Jonathan Kreisberg ', ' Will Vinson ', ' Rick Rosato ', ' Colin Stranahan ']","['Jazz', 'Blues', 'Soul']"
+25,Zürich,Omri-Ziegele-with-Noisy-Minority-&-Ray-Anderson,2013-03-10,"[' Omri Ziegele ', ' Ray Anderson ', ' Jan Schlegel ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+26,Moods,Zürich,2013-03-10,"['Tina Dico & Helgi Jonsson ', ' Tina Dico ', ' Helgi Jonsson ']","['Tina', 'Dico']"
+27,Zürich,Agrypnie,2013-03-10,"['Agrypnie ', ' Der Weg einer Freiheit ', ' Heretoir ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-10,"['Tori Amos ', ' Noa ', ' Roger Hodgson ']","['Tori', 'Amos']"
+29,Esse-Musicbar,Winterthur,2013-03-10,"[' Daniela Sarda ', ' Ralph Sonderegger ', ' Mike Moling ', ' Rico Baumann ']",['Sarda']
+30,Volkshaus,Zürich,2013-03-10,['Nelly Furtado '],"['Nelly', 'Furtado']"
+31,Komplex-457,Zürich,2013-03-10,['The Darkness '],"['The', 'Darkness']"
+32,Kaufleuten,Zürich,2013-03-10,['Cody Chesnutt '],"['Cody', 'ChesnuTT']"
+33,Luzern,GBH,2013-03-10,['GBH '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Bern,Toby-Beard,2013-03-10,['Toby Beard '],"['world', 'music']"
+35,Zürich,Presentimientos,2013-03-10,"[' Daniela Müller ', ' Petra Ackermann ', ' Martin Jaggi ', ' Tamriko Kordzaia ', ' Thomas Peter ']",['Classic']
+36,Bern,Kappeler-Zumthor,2013-03-10,"[' Vera Kappeler ', ' Peter Conradin Zumthor ']","['Jazz', 'Blues', 'Soul']"

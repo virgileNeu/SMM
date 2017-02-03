@@ -1,15 +1,15 @@
-location,event,date,artists,genre
-Winterthur,Winterthurer-Musikfestwochen,2014-08-20,['Deine Freunde '],Pop
-Luzern,Piano-Entertainment,2014-08-20,['Mark Tenger '],Pop
-Basel,Altstadt-Serenaden,2014-08-20,"[' Olivia Steimel ', ' Jonas Tschanz ', ' Karolina Öhman ']",Classic
-Winterthur,Winterthurer-Musikfestwochen,2014-08-20,[' Gypsy Hill '],
-Rougemont,Menuhin-Festival-Gstaad,2014-08-20,['Bertrand Chamayou '],Classic
-Luzern,Kammermusik-1,2014-08-20,[' Eriko Takezawa '],Classic
-Murten,Murten-Classics-Serenadenkonzert,2014-08-20,"[' Ana Ioana Oltean ', ' Doris Mende ', ' Linas Valickas ', ' Mindaugas Bakus ']",Classic
-Zürich,Schönholzer-&-Schönholzer,2014-08-20,"[' Markus Schönholzer ', ' Robi Rüdisüll ', ' Selina Schönholzer ']",Pop
-Winterthur,Winterthurer-Musikfestwochen,2014-08-20,['Jan Roth '],Electronic
-Baden,The-Ghana-Cultural-Trio,2014-08-20,"[' Abraham Kwabena Mensah ', ' Beda Ehrensperger ']",
-Basel,Floriano-Inácio-Jr.-Quarteto,2014-08-20,"[' Rodrigo Botter Maio ', ' Floriano Inácio Jr ', ' Dudu Penz ', ' Uccio Gaeta ']",
-Nyon,Luna-Classics,2014-08-20,"['Maxim Vengerov ', ' Vag Papian ']",Classic
-Zürich,Kurt-Vile-&-The-Violators,2014-08-20,['Kurt Vile & The Violators '],Pop
-Münchenwiler,Murten-Classics-Sommernachtskonzert,2014-08-20,"[' Adrienne Soós ', ' Ivo Haag ']",Classic
+,location,event,date,artists,genre
+0,Winterthur,Winterthurer-Musikfestwochen,2014-08-20,['Deine Freunde '],['Pop']
+1,Luzern,Piano-Entertainment,2014-08-20,['Mark Tenger '],['Pop']
+2,Basel,Altstadt-Serenaden,2014-08-20,"[' Olivia Steimel ', ' Jonas Tschanz ', ' Karolina ?hman ']",['Classic']
+3,Winterthur,Winterthurer-Musikfestwochen,2014-08-20,[' Gypsy Hill '],"['world', 'music']"
+4,Luzern,Kammermusik-1,2014-08-20,[' Eriko Takezawa '],['Classic']
+5,Rougemont,Menuhin-Festival-Gstaad,2014-08-20,['Bertrand Chamayou '],['Classic']
+6,Murten,Murten-Classics-Serenadenkonzert,2014-08-20,"[' Ana Ioana Oltean ', ' Doris Mende ', ' Linas Valickas ', ' Mindaugas Bakus ']",['Classic']
+7,Z?rich,Sch?nholzer-&-Sch?nholzer,2014-08-20,"[' Markus Sch?nholzer ', ' Robi R?dis?ll ', ' Selina Sch?nholzer ']",['Pop']
+8,Winterthur,Winterthurer-Musikfestwochen,2014-08-20,['Jan Roth '],['Electronic']
+9,Basel,Floriano-In?cio-Jr.-Quarteto,2014-08-20,"[' Rodrigo Botter Maio ', ' Floriano In?cio Jr ', ' Dudu Penz ', ' Uccio Gaeta ']","['Jazz', 'Blues', 'Soul']"
+10,Baden,The-Ghana-Cultural-Trio,2014-08-20,"[' Abraham Kwabena Mensah ', ' Beda Ehrensperger ']","['world', 'music']"
+11,Nyon,Luna-Classics,2014-08-20,"['Maxim Vengerov ', ' Vag Papian ']",['Classic']
+12,Z?rich,Kurt-Vile-&-The-Violators,2014-08-20,[' The Violators '],['Pop']
+13,M?nchenwiler,Murten-Classics-Sommernachtskonzert,2014-08-20,"[' Adrienne So?s ', ' Ivo Haag ']",['Classic']

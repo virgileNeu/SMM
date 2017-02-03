@@ -1,23 +1,23 @@
-location,event,date,artists,genre
-Basel,Lunchkonzert,2014-02-18,"['Kim-Lillian Strebel ', ' Nathalie Mittelbach ', ' Markus Nykänen ', ' Jason Cox ']",Classic
-Zürich,Jazzapero,2014-02-18,"[' Elmar Kluth ', ' Fredi Schmid ', ' Thomas Hirt ', ' Sarah Peng ']",Pop
-Zürich,Feierabendwerkschau,2014-02-18,"[' Christoph Gallio ', ' Andrea Neumann ', ' Ernst Thoma ', ' Dominique Girod ', ' Julian Sartorius ']",
-Zürich,Satellite-Stories,2014-02-18,['Satellite Stories '],
-Zürich,Beady-Eye,2014-02-18,['Beady Eye '],
-Basel,Streichquartette,2014-02-18,['Belcea Quartet '],Classic
-Basel,AMG-World-Orchestras,2014-02-18,[' Nikolai Lugansky '],Classic
-Pratteln,A-Pale-Horse-Named-Death,2014-02-18,['A Pale Horse Named Death '],
-Basel,Auf's-Auge-Porträtkonzert-Bernhard-Lang,2014-02-18,[' Riccarda Caflisch '],Classic
-Zürich,Hoffmaestro,2014-02-18,['Hoffmaestro '],
-Zürich,Andy-McKee,2014-02-18,['Andy McKee '],Pop
-Aarburg,Eric-Steckel-&-Band,2014-02-18,['Eric Steckel & Band '],
-Zürich,Two-and-Yuna,2014-02-18,"['Chantal Krebs ', ' Luzian Graber ']",Pop
-Chur,Konzert,2014-02-18,['Benjamin Engeli '],Classic
-Thun,Colin-Vallon-Trio,2014-02-18,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-Lausanne,Breton,2014-02-18,"['Breton ', ' Did ']",
-Zürich,Rumpel-&-Racine,2014-02-18,"[' Jojo Kunz ', ' Marianne Racine ']",
-Basel,Eneias-Xavier-Quinteto,2014-02-18,"[' Chico Amaral ', ' Matheus Barbosa ', ' Ricardo Fiuza ', ' Eneias Xavier ', ' Mauro Martins ']",
-null,Howe-Gelb-&-Band,2014-02-18,['Howe Gelb & Band '],
-Zürich,Get-The-Blessing,2014-02-18,"['Get The Blessing ', ' Jack McMurchie ', ' Pete Judge ', ' Jim Barr ', ' Clive Deamer ']",
-Bern,Freak-Sessions,2014-02-18,['Presque Maudit '],
-Zürich,Scott-Kelly-&-The-Road-Home,2014-02-18,['Scott Kelly & The Road Home '],
+,location,event,date,artists,genre
+0,Basel,Lunchkonzert,2014-02-18,"['Kim-Lillian Strebel ', ' Nathalie Mittelbach ', ' Markus Nyk?nen ', ' Jason Cox ']",['Classic']
+1,Z?rich,Jazzapero,2014-02-18,"[' Elmar Kluth ', ' Fredi Schmid ', ' Thomas Hirt ', ' Sarah Peng ']",['Pop']
+2,Z?rich,Feierabendwerkschau,2014-02-18,"[' Christoph Gallio ', ' Andrea Neumann ', ' Ernst Thoma ', ' Dominique Girod ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+3,Z?rich,Satellite-Stories,2014-02-18,['Satellite Stories '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,Beady-Eye,2014-02-18,['Beady Eye '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Basel,Streichquartette,2014-02-18,['Belcea Quartet '],['Classic']
+6,Basel,AMG-World-Orchestras,2014-02-18,[' Nikolai Lugansky '],['Classic']
+7,Pratteln,A-Pale-Horse-Named-Death,2014-02-18,['A Pale Horse Named Death '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Z?rich,Andy-McKee,2014-02-18,['Andy McKee '],['Pop']
+9,Z?rich,Hoffmaestro,2014-02-18,['Hoffmaestro '],"['Hip', 'Hop', ""R'n'B""]"
+10,Z?rich,Two-and-Yuna,2014-02-18,"['Chantal Krebs ', ' Luzian Graber ']",['Pop']
+11,Chur,Konzert,2014-02-18,['Benjamin Engeli '],['Classic']
+12,Aarburg,Eric-Steckel-&-Band,2014-02-18,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Basel,Auf's-Auge-Portr?tkonzert-Bernhard-Lang,2014-02-18,[' Riccarda Caflisch '],['Classic']
+14,Thun,Colin-Vallon-Trio,2014-02-18,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Get-The-Blessing,2014-02-18,"['Get The Blessing ', ' Jack McMurchie ', ' Pete Judge ', ' Jim Barr ', ' Clive Deamer ']","['Jazz', 'Blues', 'Soul']"
+16,Lausanne,Breton,2014-02-18,"['Breton ', ' Did ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Rumpel-&-Racine,2014-02-18,"[' Jojo Kunz ', ' Marianne Racine ']","['Jazz', 'Blues', 'Soul']"
+18,Basel,Eneias-Xavier-Quinteto,2014-02-18,"[' Chico Amaral ', ' Matheus Barbosa ', ' Ricardo Fiuza ', ' Eneias Xavier ', ' Mauro Martins ']","['Jazz', 'Blues', 'Soul']"
+19,null,Howe-Gelb-&-Band,2014-02-18,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Bern,Freak-Sessions,2014-02-18,[' Llamame la Muerte '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Z?rich,Scott-Kelly-&-The-Road-Home,2014-02-18,[' The Road Home '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

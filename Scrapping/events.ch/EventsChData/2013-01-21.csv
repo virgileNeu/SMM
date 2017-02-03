@@ -1,7 +1,7 @@
-location,event,date,artists,genre
-Flawil,Annalise-Bereiter-Quartett,2013-01-21,"[' Erich Tiefenthaler ', ' Annalise Bereiter ', ' Stephan Reinthaler ', ' Reto Giacopuzzi ']",
-Metronom,Zürich,2013-01-21,"[' Marianne Racine ', ' Vera Kappeler ']",Tuliaisia
-Basel,Dialog,2013-01-21,"['Reinhold Friedrich ', ' works by Herbert Willi ']",Classic
-Basel,Masterrezital,2013-01-21,"[' Erika Achermann ', ' Mirjana Reinhard ']",Classic
-Baden,Urban-Spaces-Quartet,2013-01-21,"[' Francis Petter ', ' Edgar Marc Petter ', ' Peter Hunziker ', ' Bruno Huwyler ']",
-Zürich,Studnitzky,2013-01-21,"['Studnitzky ', ' ADHD ', ' Sebastian Studnitzky ', ' Andreas Hourdakis ', ' Paul Kleber ', ' Tommy Baldu ', ' Oskar Gudjonsson ', ' Omar Gudjonsson ']",
+,location,event,date,artists,genre
+0,Metronom,Zürich,2013-01-21,"[' Marianne Racine ', ' Vera Kappeler ']",['Tuliaisia']
+1,Flawil,Annalise-Bereiter-Quartett,2013-01-21,"[' Erich Tiefenthaler ', ' Annalise Bereiter ', ' Stephan Reinthaler ', ' Reto Giacopuzzi ']","['Jazz', 'Blues', 'Soul']"
+2,Basel,Dialog,2013-01-21,"['Reinhold Friedrich ', ' works by Herbert Willi ']",['Classic']
+3,Baden,Urban-Spaces-Quartet,2013-01-21,"[' Francis Petter ', ' Edgar Marc Petter ', ' Peter Hunziker ', ' Bruno Huwyler ']","['Jazz', 'Blues', 'Soul']"
+4,Basel,Masterrezital,2013-01-21,"[' Erika Achermann ', ' Mirjana Reinhard ']",['Classic']
+5,Zürich,Studnitzky,2013-01-21,"['Studnitzky ', ' ADHD ', ' Sebastian Studnitzky ', ' Andreas Hourdakis ', ' Paul Kleber ', ' Tommy Baldu ', ' Oskar Gudjonsson ', ' Omar Gudjonsson ']","['Jazz', 'Blues', 'Soul']"

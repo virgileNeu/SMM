@@ -1,10 +1,10 @@
-location,event,date,artists,genre
-Winterthur,Hell-on-Earth-Tour,2014-09-08,"['Unearth ', ' Shadows Fall ', ' The Acacia Strain ', ' War of Ages ']",
-Zürich,Woods,2014-09-08,"['Woods ', ' Scott H. Biram ']",
-Montreux,Septembre-musical,2014-09-08,"['Youth Orchestra of Bahia ', ' Corey Cerovsek ', ' Colin Currie ']",Classic
-Luzern,Sinfoniekonzert-22,2014-09-08,"['Gewandhausorchester Leipzig ', ' Gerhild Romberger ']",Classic
-Pratteln,Rage,2014-09-08,['Rage '],
-Zürich,Herbert-Kramis'-Guadalcacín,2014-09-08,"['Herbert Kramis ', ' Andrea Kirchhofer ', ' Otmar Kramis ', ' Nick Gutersohn ', ' Christophe Dufaux ', ' Gregor Müller ']",
-Zürich,John-Herzig,2014-09-08,['John Herzig '],traditional
-Zürich,Helge-Schneider,2014-09-08,['Helge Schneider '],Pop
-Düdingen,Marissa-Nadler,2014-09-08,['Marissa Nadler '],Pop
+,location,event,date,artists,genre
+0,Winterthur,Hell-on-Earth-Tour,2014-09-08,"['Unearth ', ' Shadows Fall ', ' The Acacia Strain ', ' War of Ages ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Z?rich,Woods,2014-09-08,"['Woods ', ' Scott H. Biram ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Luzern,Sinfoniekonzert-22,2014-09-08,"['Gewandhausorchester Leipzig ', ' Gerhild Romberger ']",['Classic']
+3,Montreux,Septembre-musical,2014-09-08,"['Youth Orchestra of Bahia ', ' Corey Cerovsek ', ' Colin Currie ']",['Classic']
+4,Z?rich,Helge-Schneider,2014-09-08,['Helge Schneider '],['Pop']
+5,Pratteln,Rage,2014-09-08,['Rage '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Herbert-Kramis'-Guadalcac?n,2014-09-08,"['Herbert Kramis ', ' Andrea Kirchhofer ', ' Otmar Kramis ', ' Nick Gutersohn ', ' Christophe Dufaux ', ' Gregor M?ller ']","['world', 'music']"
+7,Z?rich,John-Herzig,2014-09-08,['John Herzig '],['traditional']
+8,D?dingen,Marissa-Nadler,2014-09-08,['Marissa Nadler '],['Pop']

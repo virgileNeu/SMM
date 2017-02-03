@@ -1,10 +1,9 @@
-location,event,date,artists,genre
-Zürich,Steirersound,2014-03-11,['Steirersound '],traditional
-Zürich,Jazzapero,2014-03-11,"[' Christoph Grab ', ' Marcel Thomi ', ' Pius Baschnagel ']",
-Luzern,Piano-Entertainment,2014-03-11,['Mark Tenger '],
-Zürich,Migros-Kulturprozent-Classics,2014-03-11,"[' Marc-André Hamelin ', ' David Philip Hefti ']",Classic
-Solothurn,John-Mayall-(GB),2014-03-11,['John Mayall '],
-Aarau,Toxic-Holocaust,2014-03-11,"['Toxic Holocaust ', ' Exhumed ']",
-Lausanne,Frank-Turner-&-The-Sleeping-Soul,2014-03-11,"['Frank Turner & The Sleeping Soul ', ' Andrew Jackson Jihad ', ' Ducking Punches ']",
-Zürich,David-Helbock's-Random,2014-03-11,"[""David Helbock's Random/Control "", ' David Helbock ', ' Johannes Bär ', ' Andreas Broger ']",
-Lugano,Romantique,2014-03-11,['Richard Clayderman '],Classic
+,location,event,date,artists,genre
+0,Z?rich,Steirersound,2014-03-11,['Steirersound '],['traditional']
+1,Z?rich,Jazzapero,2014-03-11,"[' Christoph Grab ', ' Marcel Thomi ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Migros-Kulturprozent-Classics,2014-03-11,"[' Marc-Andr? Hamelin ', ' David Philip Hefti ']",['Classic']
+3,Solothurn,John-Mayall-(GB),2014-03-11,['John Mayall '],"['Jazz', 'Blues', 'Soul']"
+4,Aarau,Toxic-Holocaust,2014-03-11,"['Toxic Holocaust ', ' Exhumed ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Lausanne,Frank-Turner-&-The-Sleeping-Soul,2014-03-11,"[' The Sleeping Soul ', ' Andrew Jackson Jihad ', ' Ducking Punches ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,David-Helbock's-Random,2014-03-11,"[""David Helbock's Random/Control "", ' David Helbock ', ' Johannes B?r ', ' Andreas Broger ']","['Jazz', 'Blues', 'Soul']"
+7,Lugano,Romantique,2014-03-11,['Richard Clayderman '],['Classic']

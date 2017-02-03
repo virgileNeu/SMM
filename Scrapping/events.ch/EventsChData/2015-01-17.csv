@@ -1,39 +1,39 @@
-location,event,date,artists,genre
-Bern,Norient-Musikfilm-Festival,2015-01-17,"['Islam Chipsy ', ' Islam Chipsy ', ' Mohamed Karam ', ' Eslam Abdelfattah ']",
-Winterthur,Tomas-Sauter-&-Daniel-Schläppi,2015-01-17,"[' Tomas Sauter ', ' Daniel Schläppi ']",
-Thun,Sinfoniekonzert,2015-01-17,[' Michael Zisman '],Classic
-Zug,Paraphrasen,2015-01-17,"[' Faristamo Susi ', ' Judith Wegmann ']",Classic
-Zürich,Building-Bridges-Sir-András-Schiff-präsentiert,2015-01-17,['Roman Rabinovitch '],Classic
-Wil,Silla,2015-01-17,['Silla '],
-Zürich,Musik-in-der-Blume,2015-01-17,['Ivan Denes '],Classic
-Basel,Mizmorim,2015-01-17,[' Chen Halevi '],Classic
-Zürich,Orgelfest,2015-01-17,['Jean-Christophe Geiser '],Classic
-null,International-Piano-Series,2015-01-17,['Louis Schwizgebel '],Classic
-Zürich,Schwanengesang,2015-01-17,['Mikhail Mordvinov '],Classic
-Winterthur,Jubiläumskonzert,2015-01-17,[' Rudolf Meyer '],Classic
-Luzern,Der-Zauberlehrling,2015-01-17,[' Ivo Gass '],Classic
-Zürich,Konzert,2015-01-17,[' Khatia Buniatishvili '],Classic
-Giswil,Razzmattazz,2015-01-17,['Razzmattazz '],
-Zürich,Blasnost,2015-01-17,"[' Martin Carl ', ' Roger Nickl ', ' Flavio Rohner ', ' Flavio Spirgi ']",
-Baden,Trash-Town-Rockabilly-Day,2015-01-17,"['The Railbones ', ' The Tin Cans ']",
-Basel,Mondnacht-7-Kunigundulakonfiguration,2015-01-17,"[' Beatrice Voellmy ', ' Peter Zimpel ', ' Claudia Weissbarth ']",Classic
-Zürich,Royal-Blood,2015-01-17,"['Royal Blood ', ' Mini Mansions ']",
-Zürich,Anastacia,2015-01-17,['Anastacia '],Pop
-Lichtensteig,Kolsimcha,2015-01-17,"[' Olivier Truan ', ' Michael Heitzler ', ' Ariel Zuckermann ', ' Daniel Fricker ', ' Christoph Staudenmann ']",
-Zürich,Tilia,2015-01-17,['Tilia '],
-null,Sweet-Dreams,2015-01-17,"[' Aja Eberle ', ' Toni Eberle ']",Pop
-Basel,Rainer-Böhm-Quartet,2015-01-17,"[' Johannes Enders ', ' Rainer Böhm ', ' Phil Donkin ', ' Peter Gall ']",
-Zürich,Bajanski-Bal,2015-01-17,"[' Piotr Galtschinkski ', ' Andrej Ichtchenko ', ' Michal Abramski ', ' Juri Welandowki ', ' Bronislaw Barabantchik ']",
-Liestal,Stephanie-Lottermoser-Good-Soul,2015-01-17,"['Stephanie Lottermoser ', ' Kevin Welch ', ' Peter Cudek ', ' Magnus Dauner ']",
-null,Gregor-McEwan-und-Frank-Powers,2015-01-17,['Gregor McEwan '],Pop
-Luzern,Suisse-Diagonales,2015-01-17,"[' Andi Schnellmann ', ' Manuel Troller ', ' David Meier ']",
-Wädenswil,Lausch,2015-01-17,"[' Barbara Schirmer ', ' Christian Zehnder ']",traditional
-Winterthur,Unhold,2015-01-17,[' Gonga '],Electronic
-Solothurn,Anshelle,2015-01-17,"[' Michèle Anne Bachmann ', ' Sandro Marretta ', ' Phil Küffer ', ' Martin Kissling ', ' Marc Hügli ']",Pop
-Luzern,Les-Hay-Babies,2015-01-17,['Les Hay Babies '],
-Sarnen,Keltikon,2015-01-17,"[' Iain Duncan ', ' Olaf Ohl ', ' Ädu Studer ', ' Rino Bollin ', ' Patrick Feuz ']",
-Basel,Smith-&-Smart,2015-01-17,"['Smith & Smart ', ' 4 x Sample ']",
-Basel,Sud-Up,2015-01-17,"['DJs Dan Grey ', ' Jayl Funk ']",
-Schaffhausen,Winteramnesie,2015-01-17,['Artas '],
-null,You-mek-mi-Feel,2015-01-17,"['Kalado ', ' Tiana ']",
-Kriens,Cymbals-Eat-Guitars,2015-01-17,['Cymbals Eat Guitars '],
+,location,event,date,artists,genre
+0,Bern,Norient-Musikfilm-Festival,2015-01-17,"['Islam Chipsy ', ' Islam Chipsy ', ' Mohamed Karam ', ' Eslam Abdelfattah ']","['world', 'music']"
+1,Thun,Sinfoniekonzert,2015-01-17,[' Michael Zisman '],['Classic']
+2,Winterthur,Tomas-Sauter-&-Daniel-Schl?ppi,2015-01-17,"[' Tomas Sauter ', ' Daniel Schl?ppi ']","['Jazz', 'Blues', 'Soul']"
+3,Z?rich,Building-Bridges-Sir-Andr?s-Schiff-pr?sentiert,2015-01-17,['Roman Rabinovitch '],['Classic']
+4,Zug,Paraphrasen,2015-01-17,"[' Faristamo Susi ', ' Judith Wegmann ']",['Classic']
+5,Wil,Silla,2015-01-17,['Silla '],"['Hip', 'Hop', ""R'n'B""]"
+6,Z?rich,Musik-in-der-Blume,2015-01-17,['Ivan Denes '],['Classic']
+7,null,International-Piano-Series,2015-01-17,['Louis Schwizgebel '],['Classic']
+8,Basel,Mizmorim,2015-01-17,[' Chen Halevi '],['Classic']
+9,Luzern,Der-Zauberlehrling,2015-01-17,[' Ivo Gass '],['Classic']
+10,Z?rich,Konzert,2015-01-17,[' Khatia Buniatishvili '],['Classic']
+11,Z?rich,Orgelfest,2015-01-17,['Jean-Christophe Geiser '],['Classic']
+12,Winterthur,Jubil?umskonzert,2015-01-17,[' Rudolf Meyer '],['Classic']
+13,Z?rich,Schwanengesang,2015-01-17,['Mikhail Mordvinov '],['Classic']
+14,Z?rich,Blasnost,2015-01-17,"[' Martin Carl ', ' Roger Nickl ', ' Flavio Rohner ', ' Flavio Spirgi ']","['Jazz', 'Blues', 'Soul']"
+15,Baden,Trash-Town-Rockabilly-Day,2015-01-17,"['The Railbones ', ' The Tin Cans ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Giswil,Razzmattazz,2015-01-17,['Razzmattazz '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Z?rich,Royal-Blood,2015-01-17,"['Royal Blood ', ' Mini Mansions ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Basel,Mondnacht-7-Kunigundulakonfiguration,2015-01-17,"[' Beatrice Voellmy ', ' Peter Zimpel ', ' Claudia Weissbarth ']",['Classic']
+19,Z?rich,Anastacia,2015-01-17,['Anastacia '],['Pop']
+20,Lichtensteig,Kolsimcha,2015-01-17,"[' Olivier Truan ', ' Michael Heitzler ', ' Ariel Zuckermann ', ' Daniel Fricker ', ' Christoph Staudenmann ']","['Jazz', 'Blues', 'Soul']"
+21,Z?rich,Tilia,2015-01-17,['Tilia '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Basel,Rainer-B?hm-Quartet,2015-01-17,"[' Johannes Enders ', ' Rainer B?hm ', ' Phil Donkin ', ' Peter Gall ']","['Jazz', 'Blues', 'Soul']"
+23,Z?rich,Bajanski-Bal,2015-01-17,"[' Piotr Galtschinkski ', ' Andrej Ichtchenko ', ' Michal Abramski ', ' Juri Welandowki ', ' Bronislaw Barabantchik ']","['world', 'music']"
+24,Liestal,Stephanie-Lottermoser-Good-Soul,2015-01-17,"['Stephanie Lottermoser ', ' Kevin Welch ', ' Peter Cudek ', ' Magnus Dauner ']","['Jazz', 'Blues', 'Soul']"
+25,null,Gregor-McEwan-und-Frank-Powers,2015-01-17,['Gregor McEwan '],['Pop']
+26,Luzern,Suisse-Diagonales,2015-01-17,"[' Andi Schnellmann ', ' Manuel Troller ', ' David Meier ']","['Jazz', 'Blues', 'Soul']"
+27,null,Sweet-Dreams,2015-01-17,"[' Aja Eberle ', ' Toni Eberle ']",['Pop']
+28,Winterthur,Unhold,2015-01-17,[' Gonga '],['Electronic']
+29,W?denswil,Lausch,2015-01-17,"[' Barbara Schirmer ', ' Christian Zehnder ']",['traditional']
+30,Solothurn,Anshelle,2015-01-17,"[' Mich?le Anne Bachmann ', ' Sandro Marretta ', ' Phil K?ffer ', ' Martin Kissling ', ' Marc H?gli ']",['Pop']
+31,Luzern,Les-Hay-Babies,2015-01-17,[' The Bowmans '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Sarnen,Keltikon,2015-01-17,"[' Iain Duncan ', ' Olaf Ohl ', ' ?du Studer ', ' Rino Bollin ', ' Patrick Feuz ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Kriens,Cymbals-Eat-Guitars,2015-01-17,['Cymbals Eat Guitars '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Basel,Smith-&-Smart,2015-01-17,"[' Smart ', ' 4 x Sample ']","['Hip', 'Hop', ""R'n'B""]"
+35,Schaffhausen,Winteramnesie,2015-01-17,['Artas '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,null,You-mek-mi-Feel,2015-01-17,"['Kalado ', ' Tiana ']","['Hip', 'Hop', ""R'n'B""]"
+37,Basel,Sud-Up,2015-01-17,"['DJs Dan Grey ', ' Jayl Funk ']","['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

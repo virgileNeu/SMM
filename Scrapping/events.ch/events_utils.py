@@ -83,7 +83,8 @@ def getEventsForDate(date, maxPage=None):
                 split = href.split('/')
                 (artists, date) = subparser.getData()
                 try:
-                    currentDate = datetime.strptime(date, "%a %b %d %Y %H:%M:%S GMT%z (%Z)")
+                    print(date)
+                    currentDate = datetime.strptime(date, "%a %b %d %Y %H:%M:%S GMT%z (CET)")
                     genres = split[2].split('-')
                     location = split[4]
                     festival = split[5]

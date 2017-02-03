@@ -1,20 +1,19 @@
-location,event,date,artists,genre
-Basel,Mimiko-Komponiert-im-Jahre-1851,2014-01-29,"['Reeta Aho ', ' Chantal Largier ']",Classic
-Winterthur,Die-Kultursuppe,2014-01-29,['Srdjan Vukasinovic '],
-Luzern,Piano-Entertainment,2014-01-29,['Mark Tenger '],
-Zürich,Megan-Nicole,2014-01-29,['Megan Nicole '],Pop
-Zürich,Konzert,2014-01-29,[' Stephen Hough '],Classic
-Basel,COOP-Sinfoniekonzert,2014-01-29,[' Igor Kamenz '],Classic
-Pratteln,Primal-Fear,2014-01-29,"['Primal Fear ', ' Bullet ']",
-Zürich,The-Trans-Siberian-Orchestra,2014-01-29,['The Trans-Siberian Orchestra '],
-Luzern,Jam-Night,2014-01-29,"['Mischa Maurer ', ' Martial In Albon ', ' Flurin Iten ', ' Claudio Berger ', ' Simon Gautsch ']",
-Zürich,Didier-Squiban-&-Alain-Trévarin,2014-01-29,['Didier Squiban & Alain Trévarin '],
-null,Ave-Maria,2014-01-29,"['Ursula Ferri ', ' Una Prelle ']",Classic
-Zürich,A-Day-To-Remember,2014-01-29,"['A Day To Remember ', ' Every Time I Die ', ' The Story So Far ']",Pop
-Basel,Lisette-Spinnler-Quintet,2014-01-29,"[' Lisette Spinnler ', ' Alex Hendriksen ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-Wädenswil,Daniel-Schläppi-&-Marc-Copland,2014-01-29,"[' Daniel Schläppi ', ' Marc Copland ']",
-Baden,John-Lester,2014-01-29,['John Lester '],Pop
-Zürich,Madeline-Tasquin,2014-01-29,['Madeline Tasquin '],
-Bern,Bushman's-Revenge,2014-01-29,"[""Bushman's Revenge ""]",
-null,Jam-Session-avec-Matthias-Kolly,2014-01-29,"[' Matthias Kolly ', ' Charlotte Planchou ', ' Julien Minguely ', ' Eduardo Mendez ', ' Aldéric Staehli ', ' Antoine Humberset ']",
-Zürich,Slut-abgesagt,2014-01-29,"['Slut ', ' support: And the Golden Choir ']",
+,location,event,date,artists,genre
+0,Basel,Mimiko-Komponiert-im-Jahre-1851,2014-01-29,"['Reeta Aho ', ' Chantal Largier ']",['Classic']
+1,Winterthur,Die-Kultursuppe,2014-01-29,['Srdjan Vukasinovic '],"['world', 'music']"
+2,Z?rich,Konzert,2014-01-29,[' Stephen Hough '],['Classic']
+3,Basel,COOP-Sinfoniekonzert,2014-01-29,[' Igor Kamenz '],['Classic']
+4,Z?rich,Megan-Nicole,2014-01-29,['Megan Nicole '],['Pop']
+5,Pratteln,Primal-Fear,2014-01-29,"['Primal Fear ', ' Bullet ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,null,Ave-Maria,2014-01-29,"['Ursula Ferri ', ' Una Prelle ']",['Classic']
+7,Z?rich,The-Trans-Siberian-Orchestra,2014-01-29,['The Trans-Siberian Orchestra '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Luzern,Jam-Night,2014-01-29,"['Mischa Maurer ', ' Martial In Albon ', ' Flurin Iten ', ' Claudio Berger ', ' Simon Gautsch ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,A-Day-To-Remember,2014-01-29,"['A Day To Remember ', ' Every Time I Die ', ' The Story So Far ']",['Pop']
+10,Z?rich,Didier-Squiban-&-Alain-Tr?varin,2014-01-29,[' Alain Tr?varin '],"['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Madeline-Tasquin,2014-01-29,['Madeline Tasquin '],"['Jazz', 'Blues', 'Soul']"
+12,Baden,John-Lester,2014-01-29,['John Lester '],['Pop']
+13,Basel,Lisette-Spinnler-Quintet,2014-01-29,"[' Lisette Spinnler ', ' Alex Hendriksen ', ' Stefan Aeby ', ' Andr? Pousaz ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+14,W?denswil,Daniel-Schl?ppi-&-Marc-Copland,2014-01-29,"[' Daniel Schl?ppi ', ' Marc Copland ']","['Jazz', 'Blues', 'Soul']"
+15,Bern,Bushman's-Revenge,2014-01-29,"[""Bushman's Revenge ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,null,Jam-Session-avec-Matthias-Kolly,2014-01-29,"[' Matthias Kolly ', ' Charlotte Planchou ', ' Julien Minguely ', ' Eduardo Mendez ', ' Ald?ric Staehli ', ' Antoine Humberset ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Slut-abgesagt,2014-01-29,"['Slut ', ' support: And the Golden Choir ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

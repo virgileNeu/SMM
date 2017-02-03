@@ -1,36 +1,36 @@
-location,event,date,artists,genre
-Basel,Mittagskonzert,2014-05-30,[' Teodoro Baù '],Classic
-Düdingen,Bad-Bonn-Kilbi,2014-05-30,"['Mogwai ', ' Goat ', ' Angel Olsen ', ' Pond ', ' R. Stevie Moore ', ' Nisennenmondai ', ' Nadine Shah ', ' Son Lux ', ' Com Truise ', ' Phèdre ', ' Marcelle ', ' Kotra ', ' Zavoloka ']",Pop
-Basel,Bachelorkonzert,2014-05-30,[' Sophie Charlotte Nachtsheim '],Classic
-Basel,Masterrezital,2014-05-30,[' Katharina Heutjer '],Classic
-Winterthur,Jam-Session,2014-05-30,"['Lukas Schellenberg ', ' Daniel Müller ', ' Nick Mens ']",
-Basel,Orgelspiel-zum-Feierabend,2014-05-30,['Natalia Sander '],Classic
-La-Sagne,Festival-des-Gouttes,2014-05-30,['Bernard Lavilliers '],Pop
-Zürich,Stimmklangwelten,2014-05-30,['Rea Dubach '],
-Luzern,Abendkonzert-II,2014-05-30,"[' Daniil Trifonov ', ' Daniel Kotlinski ', ' Sergej Radchenko ']",Classic
-Bern,Jubiläumskonzert,2014-05-30,"[' Rudolf Rosen ', ' Rachel Harnisch ']",Classic
-Basel,Masterrezital,2014-05-30,[' Orsolya Sepsi '],Classic
-Zürich,Öffentliches-Konzert-in-der-Mühlehalde,2014-05-30,"['Marija Wüthrich ', ' Margareta Benkova ']",Classic
-Baden,Blues-Festival-Baden,2014-05-30,[' Frank Bey & Anthony Paule Band '],
-Therwil,Europäisches-Jugendchor-Festival-Basel,2014-05-30,[' Jugendchor Hamrahilö '],Classic
-Zürich,Pennywise,2014-05-30,"['Pennywise ', ' Scheisse Minnelli ']",
-Zürich,Vida,2014-05-30,[' Benefizkonzert zugunsten des brasilianischen Altersheims Lar Esperança '],Pop
-Basel,Texas-Blues-Guitar-Battle,2014-05-30,['Texas Blues Guitar Battle '],
-Winterthur,Victoria-Mozalevskaya-Trio,2014-05-30,"[' Victoria Mozalevskaya ', ' Thomas Dürst ', ' Pius Baschnagel ']",
-Zürich,Frantz'-Joyce,2014-05-30,"[' Jason Kahn ', ' Norbert Möslang ']",
-Bern,Sivert-Hoyem,2014-05-30,['Sivert Hoyem '],
-Aarau,Throes-and-the-Shine,2014-05-30,['Throes and the Shine '],
-Liebefeld,Jorge-Rossy-Sextet,2014-05-30,"[' Nat Su ', ' Domenic Landolf ', ' Julian Sanchez ', ' Jorge Rossy ', ' Dominique Girod ', ' Carlos Falanga ']",
-Zürich,Pueblo-Criminal,2014-05-30,['Pueblo Criminal '],
-Pratteln,Larry-Garner-&-Norman-Beaker,2014-05-30,['Larry Garner '],
-Zürich,Carla-Bley-Trio,2014-05-30,"['Carla Bley Trio ', ' Carla Bley ', ' Andy Sheppard ', ' Steve Swallow ']",
-Winterthur,Conan,2014-05-30,"['Conan ', ' Belzebong ', ' Moth ']",
-Basel,Nils-Wogram-Root-70-&-Strings,2014-05-30,"[' Hayden Chisholm ', ' Nils Wogram ', ' Gerdur Gunnarsdottir ', ' Gareth Lubbe ', ' Adrian Brendel ', ' Matt Penman ', ' Dejan Terzic ']",
-Schaffhausen,Iyeoka,2014-05-30,['Iyeoka '],
-Basel,Debrah-Scarlett,2014-05-30,"['Debrah Scarlett ', ' Kristian Kristensen ']",Pop
-null,Les-Fatals-Picards,2014-05-30,"['Les Fatals Picards ', "" Bob's Not Dead ""]",Pop
-Zürich,Noflores,2014-05-30,"[' Jonas Ruther ', ' Dave Gisler ', ' Tobias Meier ']",
-Basel,Moderat,2014-05-30,['Moderat '],Electronic
-Basel,The-Fugitives,2014-05-30,['The Fugitives '],
-Bern,Cunninlynguists,2014-05-30,"['Cunninlynguists ', ' support: Sadistik ', ' Thomax ']",
-null,The-Backyard-Devils,2014-05-30,['The Backyard Devils '],
+,location,event,date,artists,genre
+0,Basel,Mittagskonzert,2014-05-30,[' Teodoro Ba? '],['Classic']
+1,D?dingen,Bad-Bonn-Kilbi,2014-05-30,"['Mogwai ', ' Goat ', ' Angel Olsen ', ' Pond ', ' R. Stevie Moore ', ' Nisennenmondai ', ' Nadine Shah ', ' Son Lux ', ' Com Truise ', ' Ph?dre ', ' Marcelle ', ' Kotra ', ' Zavoloka ']",['Pop']
+2,Basel,Bachelorkonzert,2014-05-30,[' Sophie Charlotte Nachtsheim '],['Classic']
+3,Basel,Masterrezital,2014-05-30,[' Katharina Heutjer '],['Classic']
+4,Winterthur,Jam-Session,2014-05-30,"['Lukas Schellenberg ', ' Daniel M?ller ', ' Nick Mens ']","['Jazz', 'Blues', 'Soul']"
+5,Basel,Orgelspiel-zum-Feierabend,2014-05-30,['Natalia Sander '],['Classic']
+6,La-Sagne,Festival-des-Gouttes,2014-05-30,['Bernard Lavilliers '],['Pop']
+7,Z?rich,Stimmklangwelten,2014-05-30,['Rea Dubach '],"['Jazz', 'Blues', 'Soul']"
+8,Luzern,Abendkonzert-II,2014-05-30,"[' Daniil Trifonov ', ' Daniel Kotlinski ', ' Sergej Radchenko ']",['Classic']
+9,Basel,Masterrezital,2014-05-30,[' Orsolya Sepsi '],['Classic']
+10,Bern,Jubil?umskonzert,2014-05-30,"[' Rudolf Rosen ', ' Rachel Harnisch ']",['Classic']
+11,Z?rich,?ffentliches-Konzert-in-der-M?hlehalde,2014-05-30,"['Marija W?thrich ', ' Margareta Benkova ']",['Classic']
+12,Baden,Blues-Festival-Baden,2014-05-30,[' Anthony Paule Band '],"['Jazz', 'Blues', 'Soul']"
+13,Therwil,Europ?isches-Jugendchor-Festival-Basel,2014-05-30,[' Jugendchor Hamrahil? '],['Classic']
+14,Z?rich,Vida,2014-05-30,[' Benefizkonzert zugunsten des brasilianischen Altersheims Lar Esperan?a '],['Pop']
+15,Z?rich,Pennywise,2014-05-30,"['Pennywise ', ' Scheisse Minnelli ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Basel,Texas-Blues-Guitar-Battle,2014-05-30,['Texas Blues Guitar Battle '],"['Jazz', 'Blues', 'Soul']"
+17,Winterthur,Victoria-Mozalevskaya-Trio,2014-05-30,"[' Victoria Mozalevskaya ', ' Thomas D?rst ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+18,Z?rich,Frantz'-Joyce,2014-05-30,"[' Jason Kahn ', ' Norbert M?slang ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Carla-Bley-Trio,2014-05-30,"['Carla Bley Trio ', ' Carla Bley ', ' Andy Sheppard ', ' Steve Swallow ']","['Jazz', 'Blues', 'Soul']"
+20,Liebefeld,Jorge-Rossy-Sextet,2014-05-30,"[' Nat Su ', ' Domenic Landolf ', ' Julian Sanchez ', ' Jorge Rossy ', ' Dominique Girod ', ' Carlos Falanga ']","['Jazz', 'Blues', 'Soul']"
+21,Aarau,Throes-and-the-Shine,2014-05-30,['Throes and the Shine '],"['world', 'music']"
+22,Winterthur,Conan,2014-05-30,"['Conan ', ' Belzebong ', ' Moth ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Pratteln,Larry-Garner-&-Norman-Beaker,2014-05-30,[' Norman Beaker '],"['Jazz', 'Blues', 'Soul']"
+24,Basel,Nils-Wogram-Root-70-&-Strings,2014-05-30,"[' Hayden Chisholm ', ' Nils Wogram ', ' Gerdur Gunnarsdottir ', ' Gareth Lubbe ', ' Adrian Brendel ', ' Matt Penman ', ' Dejan Terzic ']","['Jazz', 'Blues', 'Soul']"
+25,Bern,Sivert-Hoyem,2014-05-30,['Sivert Hoyem '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Z?rich,Pueblo-Criminal,2014-05-30,['Pueblo Criminal '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Z?rich,Noflores,2014-05-30,"[' Jonas Ruther ', ' Dave Gisler ', ' Tobias Meier ']","['Jazz', 'Blues', 'Soul']"
+28,Basel,Debrah-Scarlett,2014-05-30,"['Debrah Scarlett ', ' Kristian Kristensen ']",['Pop']
+29,Schaffhausen,Iyeoka,2014-05-30,['Iyeoka '],"['Hip', 'Hop', ""R'n'B""]"
+30,Basel,Moderat,2014-05-30,['Moderat '],['Electronic']
+31,null,Les-Fatals-Picards,2014-05-30,"['Les Fatals Picards ', "" Bob's Not Dead ""]",['Pop']
+32,Basel,The-Fugitives,2014-05-30,['The Fugitives '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,null,The-Backyard-Devils,2014-05-30,['The Backyard Devils '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Bern,Cunninlynguists,2014-05-30,"['Cunninlynguists ', ' support: Sadistik ', ' Thomax ']","['Hip', 'Hop', ""R'n'B""]"

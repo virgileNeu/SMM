@@ -1,18 +1,18 @@
-location,event,date,artists,genre
-Bern,Brahms-neu(n)-gehört,2015-02-22,"['Fíona-Aileen Kraege ', ' Julia Malkova ', ' Eva Lüthi ', ' Matteo Burci ', ' Sakura Kindynis ', ' Bernhard Röthlisberger ', ' Gabor Horváth ', ' Heidrun Wirth-Metzler ', ' Olivier Darbellay ']",Classic
-Luzern,Kammermusik-Matinee,2015-02-22,"[' Anja Röhn ', ' Patrizia Pacozzi ', ' Katrin Burger ']",Classic
-Winterthur,Matinée-Panflötenkonzert,2015-02-22,[' Begleitung: Werner Schaffitz '],Pop
-Dornach,Konzert,2015-02-22,"[' Vladimir Guryanov ', ' Cosetta Ponte ', ' Ferdinado Vietti ', ' Andrey Smirnov ']",Classic
-Zürich,Iwan-der-Schreckliche,2015-02-22,"[' Ewa Wolak ', ' Markus Eiche ']",Classic
-Zürich,Magnificat-ein-Abend-mit-Bach-und-Händel,2015-02-22,"[' L. Kiepenheuer ', ' J. Scherrer ', ' A. Powischer ', ' L. Weiss ', ' J. Pilgram ']",Classic
-Solothurn,Überzeugung,2015-02-22,"[' Marisa Waldburger ', ' Marc Bätscher ', ' Ursula Hächler ', ' Jason Paul Peterson ']",Classic
-Baden,Duo-Yakovlev,2015-02-22,"['Marina Yakovleva ', ' Michail Yakovlev ']",Classic
-null,7.-Tonhallekonzert,2015-02-22,"[' Sunhae Im ', ' Tareq Nazmi ']",Classic
-Kappel-am-Albis,Musik-und-Wort,2015-02-22,"[' Aranka Stimec ', ' Ellen Mross ', ' Toni Lauper ', ' Dirk Lenz ']",
-Aarau,Chelsea-Grin,2015-02-22,"['Chelsea Grin ', ' Veil Of Maya ', ' Black Tongue ', ' Oceans Ate Alaska ']",
-Luzern,A-Tribute-to-Hank-Mobley-&-Grant-Green,2015-02-22,"[' Eric Alexander ', ' Helmut Kagerer ', ' Olivier Hutman ', ' Viktor Nyberg ', '  Bernd Reiter  ']",
-Zürich,Living-Being,2015-02-22,"[' Vincent Peirani ', ' Emile Parisien ', ' Julien Herné ', ' Yoann Serra ', ' Tony Paeleman ']",
-null,Mars-Red-Sky,2015-02-22,"['Mars Red Sky ', ' Space Fisters ']",
-Zürich,Kool-Savas,2015-02-22,['Kool Savas '],
-Zürich,Saint-Motel,2015-02-22,['Saint Motel '],Pop
-Zürich,Trio-Ziegele-Theiler-Hemingway,2015-02-22,"[' Omri Ziegele ', ' Yves Theiler ', ' Gerry Hemingway ']",
+,location,event,date,artists,genre
+0,Luzern,Kammermusik-Matinee,2015-02-22,"[' Anja R?hn ', ' Patrizia Pacozzi ', ' Katrin Burger ']",['Classic']
+1,Bern,Brahms-neu(n)-geh?rt,2015-02-22,"['F?ona-Aileen Kraege ', ' Julia Malkova ', ' Eva L?thi ', ' Matteo Burci ', ' Sakura Kindynis ', ' Bernhard R?thlisberger ', ' Gabor Horv?th ', ' Heidrun Wirth-Metzler ', ' Olivier Darbellay ']",['Classic']
+2,Winterthur,Matin?e-Panfl?tenkonzert,2015-02-22,[' Begleitung: Werner Schaffitz '],['Pop']
+3,Dornach,Konzert,2015-02-22,"[' Vladimir Guryanov ', ' Cosetta Ponte ', ' Ferdinado Vietti ', ' Andrey Smirnov ']",['Classic']
+4,null,7.-Tonhallekonzert,2015-02-22,"[' Sunhae Im ', ' Tareq Nazmi ']",['Classic']
+5,Z?rich,Iwan-der-Schreckliche,2015-02-22,"[' Ewa Wolak ', ' Markus Eiche ']",['Classic']
+6,Z?rich,Magnificat-ein-Abend-mit-Bach-und-H?ndel,2015-02-22,"[' L. Kiepenheuer ', ' J. Scherrer ', ' A. Powischer ', ' L. Weiss ', ' J. Pilgram ']",['Classic']
+7,Solothurn,?berzeugung,2015-02-22,"[' Marisa Waldburger ', ' Marc B?tscher ', ' Ursula H?chler ', ' Jason Paul Peterson ']",['Classic']
+8,Baden,Duo-Yakovlev,2015-02-22,"['Marina Yakovleva ', ' Michail Yakovlev ']",['Classic']
+9,Kappel-am-Albis,Musik-und-Wort,2015-02-22,"[' Aranka Stimec ', ' Ellen Mross ', ' Toni Lauper ', ' Dirk Lenz ']","['world', 'music']"
+10,Aarau,Chelsea-Grin,2015-02-22,"['Chelsea Grin ', ' Veil Of Maya ', ' Black Tongue ', ' Oceans Ate Alaska ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,Living-Being,2015-02-22,"[' Vincent Peirani ', ' Emile Parisien ', ' Julien Hern? ', ' Yoann Serra ', ' Tony Paeleman ']","['Jazz', 'Blues', 'Soul']"
+12,Luzern,A-Tribute-to-Hank-Mobley-&-Grant-Green,2015-02-22,"[' Eric Alexander ', ' Helmut Kagerer ', ' Olivier Hutman ', ' Viktor Nyberg ', '  Bernd Reiter  ']","['Jazz', 'Blues', 'Soul']"
+13,null,Mars-Red-Sky,2015-02-22,"['Mars Red Sky ', ' Space Fisters ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Z?rich,Kool-Savas,2015-02-22,['Kool Savas '],"['Hip', 'Hop', ""R'n'B""]"
+15,Z?rich,Saint-Motel,2015-02-22,['Saint Motel '],['Pop']
+16,Z?rich,Trio-Ziegele-Theiler-Hemingway,2015-02-22,"[' Omri Ziegele ', ' Yves Theiler ', ' Gerry Hemingway ']","['Jazz', 'Blues', 'Soul']"

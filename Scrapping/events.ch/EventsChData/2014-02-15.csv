@@ -1,41 +1,40 @@
-location,event,date,artists,genre
-Winterthur,Die-Samstagsmatinée,2014-02-15,['Stefano Severini '],Classic
-Luzern,The-Town-Hall-Tradition,2014-02-15,['Thomas Trotter '],Classic
-Bern,Mike-Pride-Drummer's-Corpse,2014-02-15,"[' Alex Maurer ', ' Flo Reichle ', ' Julian Sartorius ', ' Christoph Steiner ', ' Kevin Chesham ', ' Lionel Friedli ', ' Mike Pride ', ' Fritz Welch ', ' Marissa Perel ', ' Chris Welcome ']",
-Schaffhausen,Futurum-Der-Komponist-als-Prophet,2014-02-15,"[' Stefka Perifanova ', ' Karin Dornbusch ', ' von und mit Helena Winkelman ']",Classic
-Luzern,Piano-Entertainment,2014-02-15,['Mega Horvath '],
-Zürich,Internationales-Country-Music-Festival,2014-02-15,"['High South ', ' Wayne Law & Band ']",
-Zürich,Die-Krönungsmesse,2014-02-15,"[' Reinhold Friedrich ', ' Anica Defuns ', ' Violetta Radomirska ', ' Hans-Jürg Rickenbacher ', ' Marc-Olivier Oetterli ']",Classic
-Vevey,Tarja-Turunen,2014-02-15,['Tarja Turunen '],
-Giswil,Mona-and-her-Moonshiners,2014-02-15,['Mona and her Moonshiners '],
-Frauenfeld,Thurgauer-Akkordeontage,2014-02-15,"[' Daniele di Bonaventura ', ' Paolo Fresu ', ' Pierre Favre ']",
-null,Nordklang-Festival,2014-02-15,"['Penny Police ', ' Antero Lindgren ', ' My Bubba ']",Pop
-Zürich,Esperanza-Fernández,2014-02-15,['Esperanza Fernández '],
-Zürich,Depeche-Mode,2014-02-15,['Depeche Mode '],Electronic
-Sankt-Gallen,Nordklang-Festival,2014-02-15,"['DJs Navneløs ', ' Dad Rocks ']",
-Winterthur,Astro-Zombies,2014-02-15,['Astro Zombies '],
-Bern,Thee-Silver-Mt.-Zion-Memorial-Orchestra,2014-02-15,['Thee Silver Mt. Zion Memorial Orchestra '],
-Frick,David-Philips,2014-02-15,['David Philips '],Pop
-Feuerthalen,What-The-Hell,2014-02-15,['What The Hell '],
-Zürich,Kabaret-Karneval,2014-02-15,"[' Angela Neiman ', ' Leon Schaetti ', ' Martin Kaspar Läuchli ']",
-Montreux,Nolwenn-Leroy,2014-02-15,['Nolwenn Leroy '],Pop
-null,Bernard-Lavilliers,2014-02-15,['Bernard Lavilliers '],Pop
-Basel,Ivan-Paduart-Trio,2014-02-15,"[' Trio Ivan Paduart ', ' Philippe Aerts ', ' Hans Van Oosterhout ']",
-null,David-Hope-and-the-Little-Mammoths,2014-02-15,['David Hope and the Little Mammoths '],
-Zürich,Andrea-Manzoni-Trio,2014-02-15,"['Andrea Manzoni Trio ', ' Andrea Manzoni ', ' Luca Curcio ', ' Andrea Beccaro ']",Pop
-Zürich,Andrea-Manzoni-Trio,2014-02-15,"['Andrea Manzoni Trio ', ' Andrea Manzoni ', ' Luca Curcio ', ' Andrea Beccaro ']",
-null,Nordklang-Festival,2014-02-15,"['Captain Casanova ', ' Honningbarna ']",
-Bern,Lutz-Häfner-Carte-Blanche,2014-02-15,"['Lutz Häfner Carte Blanche ', ' Lutz Häfner ', ' Rainer Böhm ', ' Jeroen Vierdag ', ' Martijn Vink ']",
-Aarau,Retrogott-&-Hulk-Hodn,2014-02-15,"['Retrogott & Hulk Hodn ', ' Mirko Machine & Spax ', ' Eloquent ']",
-Zürich,Call-Me-Kat,2014-02-15,['Call Me Kat '],Pop
-Zürich,Manfred-Junker-s-Journey-Within-feat.-Barbara-Balzan,2014-02-15,"[' Barbara Balzan ', ' Manfred Junker ', ' Christoph Sprenger ', ' Tony Renold ']",
-Thun,Canteca-De-Macao,2014-02-15,['Canteca De Macao '],
-Zürich,Beardyman,2014-02-15,['Beardyman '],
-Oberentfelden,Birdpen,2014-02-15,['Birdpen '],
-Zürich,Antun-Opic,2014-02-15,['Antun Opic '],
-Bern,Some-Will-Die-Animals,2014-02-15,"[' Mike Pride ', ' Chris Welcome ', ' Christian Weber ', ' Fritz Welch ', ' Marissa Perel ', ' Emma Murray ']",
-Winterthur,Das-Leben-ist-kein-Ponyhof,2014-02-15,"['DJs Maral Salmassi ', ' Christian Vogel ']",
-Basel,Hip-Hop-Strikes-Back,2014-02-15,['Gavlyn '],
-Lausanne,Koffi-&-The-Gang-feat.-Winston-Smith,2014-02-15,['Koffi & The Gang feat. Winston Smith '],
-Bern,Werkstatt-Septett,2014-02-15,"[' Yannick Barman ', ' Benedikt Reising ', ' Marc Stucki ', ' Colin Vallon ', ' Manu Mayr ', ' Rico Baumann ', ' Arno Troxler ']",
-Bern,Beatie-Bossy,2014-02-15,"[' Vincent Glanzmann ', ' Hanspeter Pfammatter ', ' Manuel Troller ', ' Mario Hänni ', ' Emanuel Künzi ', ' Lukas Weber ']",
+,location,event,date,artists,genre
+0,Winterthur,Die-Samstagsmatin?e,2014-02-15,['Stefano Severini '],['Classic']
+1,Luzern,The-Town-Hall-Tradition,2014-02-15,['Thomas Trotter '],['Classic']
+2,Bern,Mike-Pride-Drummer's-Corpse,2014-02-15,"[' Alex Maurer ', ' Flo Reichle ', ' Julian Sartorius ', ' Christoph Steiner ', ' Kevin Chesham ', ' Lionel Friedli ', ' Mike Pride ', ' Fritz Welch ', ' Marissa Perel ', ' Chris Welcome ']","['Jazz', 'Blues', 'Soul']"
+3,Schaffhausen,Futurum-Der-Komponist-als-Prophet,2014-02-15,"[' Stefka Perifanova ', ' Karin Dornbusch ', ' von und mit Helena Winkelman ']",['Classic']
+4,Luzern,Piano-Entertainment,2014-02-15,['Mega Horvath '],"['Jazz', 'Blues', 'Soul']"
+5,Z?rich,Die-Kr?nungsmesse,2014-02-15,"[' Reinhold Friedrich ', ' Anica Defuns ', ' Violetta Radomirska ', ' Hans-J?rg Rickenbacher ', ' Marc-Olivier Oetterli ']",['Classic']
+6,Z?rich,Internationales-Country-Music-Festival,2014-02-15,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Frauenfeld,Thurgauer-Akkordeontage,2014-02-15,"[' Daniele di Bonaventura ', ' Paolo Fresu ', ' Pierre Favre ']","['Jazz', 'Blues', 'Soul']"
+8,Z?rich,Depeche-Mode,2014-02-15,['Depeche Mode '],['Electronic']
+9,Vevey,Tarja-Turunen,2014-02-15,['Tarja Turunen '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Z?rich,Esperanza-Fern?ndez,2014-02-15,['Esperanza Fern?ndez '],"['world', 'music']"
+11,Giswil,Mona-and-her-Moonshiners,2014-02-15,['Mona and her Moonshiners '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,null,Nordklang-Festival,2014-02-15,"['Penny Police ', ' Antero Lindgren ', ' My Bubba ']",['Pop']
+13,Sankt-Gallen,Nordklang-Festival,2014-02-15,"['DJs Navnel?s ', ' Dad Rocks ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Z?rich,Andrea-Manzoni-Trio,2014-02-15,"['Andrea Manzoni Trio ', ' Andrea Manzoni ', ' Luca Curcio ', ' Andrea Beccaro ']","['Jazz', 'Blues', 'Soul']"
+15,Winterthur,Astro-Zombies,2014-02-15,['Astro Zombies '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Bern,Thee-Silver-Mt.-Zion-Memorial-Orchestra,2014-02-15,['Thee Silver Mt. Zion Memorial Orchestra '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Frick,David-Philips,2014-02-15,['David Philips '],['Pop']
+18,Feuerthalen,What-The-Hell,2014-02-15,['What The Hell '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Montreux,Nolwenn-Leroy,2014-02-15,['Nolwenn Leroy '],['Pop']
+20,null,Bernard-Lavilliers,2014-02-15,['Bernard Lavilliers '],['Pop']
+21,null,David-Hope-and-the-Little-Mammoths,2014-02-15,['David Hope and the Little Mammoths '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Z?rich,Andrea-Manzoni-Trio,2014-02-15,"['Andrea Manzoni Trio ', ' Andrea Manzoni ', ' Luca Curcio ', ' Andrea Beccaro ']",['Pop']
+23,Basel,Ivan-Paduart-Trio,2014-02-15,"[' Trio Ivan Paduart ', ' Philippe Aerts ', ' Hans Van Oosterhout ']","['Jazz', 'Blues', 'Soul']"
+24,null,Nordklang-Festival,2014-02-15,"['Captain Casanova ', ' Honningbarna ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Z?rich,Kabaret-Karneval,2014-02-15,"[' Angela Neiman ', ' Leon Schaetti ', ' Martin Kaspar L?uchli ']","['world', 'music']"
+26,Bern,Lutz-H?fner-Carte-Blanche,2014-02-15,"['Lutz H?fner Carte Blanche ', ' Lutz H?fner ', ' Rainer B?hm ', ' Jeroen Vierdag ', ' Martijn Vink ']","['Jazz', 'Blues', 'Soul']"
+27,Aarau,Retrogott-&-Hulk-Hodn,2014-02-15,"[' Spax ', ' Eloquent ']","['Hip', 'Hop', ""R'n'B""]"
+28,Z?rich,Call-Me-Kat,2014-02-15,['Call Me Kat '],['Pop']
+29,Z?rich,Manfred-Junker-s-Journey-Within-feat.-Barbara-Balzan,2014-02-15,"[' Barbara Balzan ', ' Manfred Junker ', ' Christoph Sprenger ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+30,Z?rich,Beardyman,2014-02-15,['Beardyman '],"['Hip', 'Hop', ""R'n'B""]"
+31,Oberentfelden,Birdpen,2014-02-15,['Birdpen '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Z?rich,Antun-Opic,2014-02-15,['Antun Opic '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Bern,Some-Will-Die-Animals,2014-02-15,"[' Mike Pride ', ' Chris Welcome ', ' Christian Weber ', ' Fritz Welch ', ' Marissa Perel ', ' Emma Murray ']","['Jazz', 'Blues', 'Soul']"
+34,Winterthur,Das-Leben-ist-kein-Ponyhof,2014-02-15,"['DJs Maral Salmassi ', ' Christian Vogel ']","['Electro', 'Electropop']"
+35,Basel,Hip-Hop-Strikes-Back,2014-02-15,['Gavlyn '],"['Hip', 'Hop', ""R'n'B""]"
+36,Lausanne,Koffi-&-The-Gang-feat.-Winston-Smith,2014-02-15,[' The Gang feat. Winston Smith '],"['Hip', 'Hop', ""R'n'B""]"
+37,Bern,Werkstatt-Septett,2014-02-15,"[' Yannick Barman ', ' Benedikt Reising ', ' Marc Stucki ', ' Colin Vallon ', ' Manu Mayr ', ' Rico Baumann ', ' Arno Troxler ']","['Jazz', 'Blues', 'Soul']"
+38,Bern,Beatie-Bossy,2014-02-15,"[' Vincent Glanzmann ', ' Hanspeter Pfammatter ', ' Manuel Troller ', ' Mario H?nni ', ' Emanuel K?nzi ', ' Lukas Weber ']","['Jazz', 'Blues', 'Soul']"

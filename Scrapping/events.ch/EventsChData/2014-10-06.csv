@@ -1,11 +1,11 @@
-location,event,date,artists,genre
-Zürich,Festkonzert-100-Jahr-Jubiläum-Schweizerischer-Musikerverband,2014-10-06,[' works by Jean-François Michel '],Classic
-Zürich,Kid-Ink,2014-10-06,['Kid Ink '],
-Zürich,Ingrid-Michaelson-abgesagt,2014-10-06,['Ingrid Michaelson '],Pop
-Zürich,Azealia-Banks-abgesagt,2014-10-06,['Azealia Banks '],
-Zürich,Taymir,2014-10-06,['Taymir '],
-Baden,Sandy-Patton,2014-10-06,"['Sandy Patton ', ' Sandy Patton ', ' Franz Biffiger ', ' Michel Poffet ', ' Wege Wüthrich ', ' David Elias ']",
-Zürich,Mick-Harvey,2014-10-06,['Mick Harvey '],
-Zürich,Artist-in-Residence-Florian-Egli,2014-10-06,"[' René Mosele ', ' François Lana ', ' Blaise Hommage ', ' Dominic Egli ', ' Gileno Santana ', ' Dave Gisler ']",
-Basel,Jazzkollektiv,2014-10-06,"['Johannes Gutfleisch ', ' Roberto Koch ', ' Oliver Pellet ']",
-Winterthur,Uma,2014-10-06,['Uma '],Pop
+,location,event,date,artists,genre
+0,Z?rich,Festkonzert-100-Jahr-Jubil?um-Schweizerischer-Musikerverband,2014-10-06,[' works by Jean-Fran?ois Michel '],['Classic']
+1,Z?rich,Azealia-Banks-abgesagt,2014-10-06,['Azealia Banks '],"['Hip', 'Hop', ""R'n'B""]"
+2,Z?rich,Kid-Ink,2014-10-06,['Kid Ink '],"['Hip', 'Hop', ""R'n'B""]"
+3,Z?rich,Ingrid-Michaelson-abgesagt,2014-10-06,['Ingrid Michaelson '],['Pop']
+4,Z?rich,Taymir,2014-10-06,['Taymir '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Baden,Sandy-Patton,2014-10-06,"['Sandy Patton ', ' Sandy Patton ', ' Franz Biffiger ', ' Michel Poffet ', ' Wege W?thrich ', ' David Elias ']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Mick-Harvey,2014-10-06,['Mick Harvey '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Artist-in-Residence-Florian-Egli,2014-10-06,"[' Ren? Mosele ', ' Fran?ois Lana ', ' Blaise Hommage ', ' Dominic Egli ', ' Gileno Santana ', ' Dave Gisler ']","['Jazz', 'Blues', 'Soul']"
+8,Winterthur,Uma,2014-10-06,['Uma '],['Pop']
+9,Basel,Jazzkollektiv,2014-10-06,"['Johannes Gutfleisch ', ' Roberto Koch ', ' Oliver Pellet ']","['Jazz', 'Blues', 'Soul']"

@@ -1,36 +1,36 @@
-location,event,date,artists,genre
-St.-Moritz,Anna-Rossinelli,2014-06-27,"[' Anna Rossinelli ', ' Georg Dillier ', ' Manuel Meisel ', ' Nico Looser ']",
-Basel,Bachelorrezital,2014-06-27,['Flurina Stucki '],Classic
-null,Openair-St.-Gallen,2014-06-27,"[' Prinz Pi ', ' Foals ', ' Ellie Goulding ', ' The Black Keys ', ' Pretty Lights ']",Pop
-null,Openair-St.-Gallen,2014-06-27,"[' George Ezra ', ' London Grammar ', ' The Naked and Famous ', ' Bonobo ', ' Dubioza Kolektiv ', ' Baauer ']",Pop
-Basel,Masterrezital,2014-06-27,[' Jelina Deuter '],Classic
-Lausanne,Inferno-Festival,2014-06-27,"['Gojira ', ' Cul Of Luna ', ' Kylesa ', ' Spirit Carvan ']",
-Winterthur,Jam-Session,2014-06-27,"['Lukas Schellenberg ', ' Daniel Müller ', ' Nick Mens ']",
-Basel,Orgelspiel-zum-Feierabend,2014-06-27,['Vanessa Werner '],Classic
-Dietikon,Feierabendmusik-in-der-Kirche,2014-06-27,"['Simone Walser ', ' Bernhard Hörler ']",
-Rapperswil,Blues'n'Jazz-Rapperswil-Jona,2014-06-27,"['Stina Stenerud & Her Soul Replacement ', ' Jimmy Cliff ']",
-Rapperswil,Blues'n'Jazz-Rapperswil-Jona,2014-06-27,"[' Italian New Orleans All Stars ', ' Davina & The Vagabonds ']",
-Gerlafingen,Rockabilly-Stomp-No8-Rock'n'Roll-Weekender,2014-06-27,[' Jake Calypso and his Red Hot '],
-Zürich,Cruda-Amarilli-Madrigali-dal-quinto-e-sesto-libro,2014-06-27,['Colla Voce '],Classic
-Zürich,Öffentliches-Konzert-in-der-Mühlehalde,2014-06-27,"['Marija  Wüthrich-Savicevic ', ' Gabriele Ardizzone ']",Classic
-Solothurn,Abonnementskonzert,2014-06-27,[' Michael Erni '],Classic
-Basel,Schluss-Konzerte,2014-06-27,"[' Alessio Pianelli ', ' Jan Gazdzicki ', ' Daniele Rinaldo ', ' Astrig Siranossian ']",Classic
-Zürich,Der-angezogene-Irrsinn,2014-06-27,[' Rodolphe Schacher '],Classic
-null,Motörhead,2014-06-27,['Motörhead '],
-Zürich,The-Beach-Boys,2014-06-27,"['The Beach Boys ', ' Mike Love ', ' Bruce Johnston ', ' Christian Love ', ' Randell Kirsch ', ' Tim Bonhomme ']",
-Zürich,Festspiele-Zürich-Omaggio-a-Luigi-Nono,2014-06-27,"[' Simon Lamothe-Falardeau ', ' Susanne Otto ', ' Noa Frenkel ']",Classic
-Ascona,Jazz-Ascona,2014-06-27,"['Uros Perry Perich & The UJO Orchestra With the Divettes feat. Sheila Raye Charles ', ' The Original Pinettes Brass Band ', ' Karima ', ' Mr. Boogie Mitch Wood ', ' The Ella Louie Tribute Band ']",
-Zürich,Acoustic-Friday,2014-06-27,"[' Julien Hofer ', ' Klara Lundén ']",
-Interlaken,Trucker-&-Country-Festival,2014-06-27,"['Bid Dig ', ' Rednex ', ' Her & Kings County ']",
-Rapperswil,Blues'n'Jazz-Rapperswil-Jona,2014-06-27,[' Big Pete Pearson & The Gamblers '],
-Luzern,Karnatik-and-Hindustani,2014-06-27,"['Piu Nandi ', ' Rohan Dasgupta ', ' Arvind Bhargav ', ' Guru Raghvendra ', ' Udai Mazumdar ']",
-Grüningen,Eine-musikalische-Reise,2014-06-27,[' Claudia Tschopp '],Classic
-Zürich,Binder-Reber-Weiss-Wiss,2014-06-27,"[' Claudia Ulla Binder ', ' Marie-Cécile Reber ', ' Sandra Weiss ', ' Isa Wiss ']",
-Winterthur,Motek,2014-06-27,"['Motek ', ' Kurt Söldi ', ' Alain von Ritter ', ' Jean-Pierre Dix ', ' Andreas Schmid ', ' Little Maze ']",
-Baden,Tune-Up,2014-06-27,"[' Marc Reinhard ', ' Sigi Nikitscher ']",
-Bern,Orquesta-Libre,2014-06-27,['Orquesta Libre '],
-Winterthur,The-Bare-Tunes,2014-06-27,"[' Mace Mitchell ', ' Tsering Purtag ']",
-Zürich,Luke-Winslow-King-&-Esther-Rose,2014-06-27,['Luke Winslow King & Esther Rose '],
-Bern,Orquesta-Libre-Plays-Duke,2014-06-27,['Orquesta Libre '],
-Zürich,Cool-Ruler,2014-06-27,['DJs Panza '],
-Zürich,Latin-Touch,2014-06-27,[' dance animation by Alexander Martinez '],
+,location,event,date,artists,genre
+0,St.-Moritz,Anna-Rossinelli,2014-06-27,"[' Anna Rossinelli ', ' Georg Dillier ', ' Manuel Meisel ', ' Nico Looser ']","['Jazz', 'Blues', 'Soul']"
+1,Basel,Bachelorrezital,2014-06-27,['Flurina Stucki '],['Classic']
+2,null,Openair-St.-Gallen,2014-06-27,"[' Prinz Pi ', ' Foals ', ' Ellie Goulding ', ' The Black Keys ', ' Pretty Lights ']",['Pop']
+3,null,Openair-St.-Gallen,2014-06-27,"[' George Ezra ', ' London Grammar ', ' The Naked and Famous ', ' Bonobo ', ' Dubioza Kolektiv ', ' Baauer ']",['Pop']
+4,Basel,Masterrezital,2014-06-27,[' Jelina Deuter '],['Classic']
+5,Lausanne,Inferno-Festival,2014-06-27,"['Gojira ', ' Cul Of Luna ', ' Kylesa ', ' Spirit Carvan ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Winterthur,Jam-Session,2014-06-27,"['Lukas Schellenberg ', ' Daniel M?ller ', ' Nick Mens ']","['Jazz', 'Blues', 'Soul']"
+7,Basel,Orgelspiel-zum-Feierabend,2014-06-27,['Vanessa Werner '],['Classic']
+8,Dietikon,Feierabendmusik-in-der-Kirche,2014-06-27,"['Simone Walser ', ' Bernhard H?rler ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Rapperswil,Blues'n'Jazz-Rapperswil-Jona,2014-06-27,[' The Vagabonds '],"['Jazz', 'Blues', 'Soul']"
+10,Gerlafingen,Rockabilly-Stomp-No8-Rock'n'Roll-Weekender,2014-06-27,[' Jake Calypso and his Red Hot '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Rapperswil,Blues'n'Jazz-Rapperswil-Jona,2014-06-27,"[' Her Soul Replacement ', ' Jimmy Cliff ']","['Jazz', 'Blues', 'Soul']"
+12,Z?rich,Cruda-Amarilli-Madrigali-dal-quinto-e-sesto-libro,2014-06-27,['Colla Voce '],['Classic']
+13,Basel,Schluss-Konzerte,2014-06-27,"[' Alessio Pianelli ', ' Jan Gazdzicki ', ' Daniele Rinaldo ', ' Astrig Siranossian ']",['Classic']
+14,Z?rich,?ffentliches-Konzert-in-der-M?hlehalde,2014-06-27,"['Marija  W?thrich-Savicevic ', ' Gabriele Ardizzone ']",['Classic']
+15,Solothurn,Abonnementskonzert,2014-06-27,[' Michael Erni '],['Classic']
+16,Z?rich,Festspiele-Z?rich-Omaggio-a-Luigi-Nono,2014-06-27,"[' Simon Lamothe-Falardeau ', ' Susanne Otto ', ' Noa Frenkel ']",['Classic']
+17,Luzern,Karnatik-and-Hindustani,2014-06-27,"['Piu Nandi ', ' Rohan Dasgupta ', ' Arvind Bhargav ', ' Guru Raghvendra ', ' Udai Mazumdar ']","['world', 'music']"
+18,Z?rich,Acoustic-Friday,2014-06-27,"[' Julien Hofer ', ' Klara Lund?n ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Ascona,Jazz-Ascona,2014-06-27,"[' The UJO Orchestra With the Divettes feat. Sheila Raye Charles ', ' The Original Pinettes Brass Band ', ' Karima ', ' Mr. Boogie Mitch Wood ', ' The Ella Louie Tribute Band ']","['Jazz', 'Blues', 'Soul']"
+20,Interlaken,Trucker-&-Country-Festival,2014-06-27,[' Kings County '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Z?rich,Der-angezogene-Irrsinn,2014-06-27,[' Rodolphe Schacher '],['Classic']
+22,null,Mot?rhead,2014-06-27,['Mot?rhead '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Rapperswil,Blues'n'Jazz-Rapperswil-Jona,2014-06-27,[' The Gamblers '],"['Jazz', 'Blues', 'Soul']"
+24,Z?rich,The-Beach-Boys,2014-06-27,"['The Beach Boys ', ' Mike Love ', ' Bruce Johnston ', ' Christian Love ', ' Randell Kirsch ', ' Tim Bonhomme ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Gr?ningen,Eine-musikalische-Reise,2014-06-27,[' Claudia Tschopp '],['Classic']
+26,Z?rich,Binder-Reber-Weiss-Wiss,2014-06-27,"[' Claudia Ulla Binder ', ' Marie-C?cile Reber ', ' Sandra Weiss ', ' Isa Wiss ']","['Jazz', 'Blues', 'Soul']"
+27,Winterthur,Motek,2014-06-27,"['Motek ', ' Kurt S?ldi ', ' Alain von Ritter ', ' Jean-Pierre Dix ', ' Andreas Schmid ', ' Little Maze ']","['Jazz', 'Blues', 'Soul']"
+28,Baden,Tune-Up,2014-06-27,"[' Marc Reinhard ', ' Sigi Nikitscher ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Winterthur,The-Bare-Tunes,2014-06-27,"[' Mace Mitchell ', ' Tsering Purtag ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Bern,Orquesta-Libre,2014-06-27,['Orquesta Libre '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Z?rich,Luke-Winslow-King-&-Esther-Rose,2014-06-27,[' Esther Rose '],"['Jazz', 'Blues', 'Soul']"
+32,Bern,Orquesta-Libre-Plays-Duke,2014-06-27,['Orquesta Libre '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Z?rich,Cool-Ruler,2014-06-27,['DJs Panza '],"['Hip', 'Hop', ""R'n'B""]"
+34,Z?rich,Latin-Touch,2014-06-27,[' dance animation by Alexander Martinez '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

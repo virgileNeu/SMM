@@ -1,51 +1,52 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment,2014-09-19,['Christian Mettler '],Pop
-Frenkendorf,Klavierkonzert,2014-09-19,"['Charlotte Torres ', ' Raimund Schall ', ' Regula Wyser ']",Classic
-Basel,Orgelspiel-zum-Feierabend,2014-09-19,['Sergej Tcherepanov '],Classic
-Dietikon,Feierabendmusik,2014-09-19,[' Bernhard Hörler '],Classic
-Liestal,Lucky-the-Girl,2014-09-19,[' Michèle Thommen '],Pop
-Wädenswil,Musikfenster-Wasser,2014-09-19,['Esther Lenherr '],Classic
-Einsiedeln,The-Dark-Circus,2014-09-19,[' The Pussybats '],
-Birsfelden,Inseln,2014-09-19,['Iris Simon '],Classic
-Zürich,Herbst-in-der-Helferei,2014-09-19,['Giuliano Carmignola '],Classic
-Baden,Spektrum-Akzente-Carpe-diem,2014-09-19,"[' Marisa Waldburger ', ' Micaela Grau ', ' Dominique Gisler ', ' Ursula Hächler ', ' Kiyomi Higaki ']",Classic
-null,1.-Tonhallekonzert,2014-09-19,['Nareh Arghamanyan '],Classic
-Zürich,Klassik-der-Zukunft,2014-09-19,"[' Andrea Wiesli ', ' Noëlle Grüebler ', ' Jonas Kreienbühl ']",Classic
-Zürich,Konzert,2014-09-19,"[' Erin Wall ', ' Paul Groves ']",Classic
-Bern,Songs-of-the-Plants,2014-09-19,"['Songs of the Plants ', ' Miguel Guldimann', ' Yerpun Solar ', ' Ruth Untoria ']",
-Oberengstringen,Yves-Reichmuth-Quartett,2014-09-19,"[' Yves Reichmuth ', ' Lucien Dubuis ', ' Silvan Jeger ', ' Lionel Friedli ']",
-Zürich,A-Jazz-Night,2014-09-19,"['Rodrigo Botter Maio ', ' Adrian Frey ']",
-Pratteln,Axel-Rudi-Pell,2014-09-19,['Axel Rudi Pell '],
-Zürich,Christophe-Maé,2014-09-19,['Christophe Maé '],Pop
-Basel,The-Cosmopolitan-Violist,2014-09-19,"['Jessica Horsley ', ' David Blunden ']",Classic
-Basel,Klang-Basel-Musikbiennale,2014-09-19,"[' Marc Ullrich ', ' Daniel Blanc ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Peter Schmidlin ', ' Frank Wenzel ', ' Marian Rivar ']",
-Zürich,Scorpions,2014-09-19,['Scorpions '],
-Zug,Julian-von-Flüe-und-Band,2014-09-19,"[' Julian von Flüe ', ' Richard Hugener ', ' Marc Scheidegger ', ' Lukas von Flüe ']",
-Solothurn,The-Dublin-Legends,2014-09-19,['The Dublin Legends '],
-Brig,L'appartenenza,2014-09-19,"[' Pippo Pollina ', ' Roberto Petroli ', ' Max Kämmerling ']",
-Altikon,Schlosshof-Musikkollektiv,2014-09-19,"[' Urs Vögeli ', ' Carles Peris ', ' Beat Gisler ']",
-Zürich,Allemano-Binder-Schlegel,2014-09-19,"[' Lina Allemano ', ' Claudia Ulla Binder ', ' Jan Schlegel ']",
-Zürich,Duo-Rezital,2014-09-19,"['Ardina Nehring ', ' Gregor Loepfe ']",Classic
-Winterthur,Once,2014-09-19,"[' Jerry Rojas ', ' Ekkehard Sassenhausen ', ' Dominik Burger ']",
-Luzern,New-Tango-Songbook,2014-09-19,"[' Marcela Arroyo ', ' Julio Azcano ', ' Daniel Pezzotti ']",
-Aarau,Ben-Sollee,2014-09-19,['Ben Sollee '],Pop
-null,Ben-Sollee,2014-09-19,['Ben Sollee '],
-Lausanne,Label-Suisse,2014-09-19,[' DJs Dop Live '],Electronic
-Baden,Os-Desafinados,2014-09-19,"[' Dalia Donadio ', ' Moreno Donadio ']",
-Zürich,Chansons-en-Stok,2014-09-19,['Volin '],
-Zürich,Marc-Perrenoud-Trio,2014-09-19,"[' Marc Perrenoud ', ' Marco Müller ', ' Cyril Regamey ']",Pop
-Thun,Mark-Geary,2014-09-19,['Mark Geary '],Pop
-Luzern,Tomi-Leimo-Band,2014-09-19,['Tomi Leimo Band '],
-null,Fiva,2014-09-19,['Fiva '],
-Köniz,Anshelle,2014-09-19,['Anshelle '],Pop
-Münchenstein,Tho-Luong,2014-09-19,[' support: Klara Lundén '],Pop
-Zürich,Isa-Wallin,2014-09-19,"[' Gino Todesco ', ' Giorgio Barbera ']",Pop
-Zürich,The-Besnard-Lakes,2014-09-19,['The Besnard Lakes '],
-Winterthur,Irij,2014-09-19,['Irij '],
-Luzern,Superheaven,2014-09-19,"['Superheaven ', ' Nai Harvest ']",
-Düdingen,Cave,2014-09-19,"['Cave ', ' The Asteroid No 4 ']",
-Basel,Mirko-Machine-&-Aphroe,2014-09-19,['Mirko Machine & Aphroe '],
-Basel,Tropical-Night,2014-09-19,['DJ Komla '],
-Sankt-Gallen,Freddie-Gibbs,2014-09-19,['Freddie Gibbs '],
-Lyss,Xzibit,2014-09-19,[' B-Real & Demrick '],
-Zürich,Edward,2014-09-19,['Edward '],Electronic
+,location,event,date,artists,genre
+0,Luzern,Piano-Entertainment,2014-09-19,['Christian Mettler '],['Pop']
+1,Frenkendorf,Klavierkonzert,2014-09-19,"['Charlotte Torres ', ' Raimund Schall ', ' Regula Wyser ']",['Classic']
+2,Basel,Orgelspiel-zum-Feierabend,2014-09-19,['Sergej Tcherepanov '],['Classic']
+3,Dietikon,Feierabendmusik,2014-09-19,[' Bernhard H?rler '],['Classic']
+4,W?denswil,Musikfenster-Wasser,2014-09-19,['Esther Lenherr '],['Classic']
+5,Liestal,Lucky-the-Girl,2014-09-19,[' Mich?le Thommen '],['Pop']
+6,Einsiedeln,The-Dark-Circus,2014-09-19,[' The Pussybats '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,null,1.-Tonhallekonzert,2014-09-19,['Nareh Arghamanyan '],['Classic']
+8,Birsfelden,Inseln,2014-09-19,['Iris Simon '],['Classic']
+9,Z?rich,Konzert,2014-09-19,"[' Erin Wall ', ' Paul Groves ']",['Classic']
+10,Z?rich,Herbst-in-der-Helferei,2014-09-19,['Giuliano Carmignola '],['Classic']
+11,Baden,Spektrum-Akzente-Carpe-diem,2014-09-19,"[' Marisa Waldburger ', ' Micaela Grau ', ' Dominique Gisler ', ' Ursula H?chler ', ' Kiyomi Higaki ']",['Classic']
+12,Z?rich,Klassik-der-Zukunft,2014-09-19,"[' Andrea Wiesli ', ' No?lle Gr?ebler ', ' Jonas Kreienb?hl ']",['Classic']
+13,Z?rich,Scorpions,2014-09-19,['Scorpions '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Bern,Songs-of-the-Plants,2014-09-19,"['Songs of the Plants ', ' Miguel Guldimann', ' Yerpun Solar ', ' Ruth Untoria ']","['Jazz', 'Blues', 'Soul']"
+15,Solothurn,The-Dublin-Legends,2014-09-19,['The Dublin Legends '],"['world', 'music']"
+16,Z?rich,Christophe-Ma?,2014-09-19,['Christophe Ma? '],['Pop']
+17,Brig,L'appartenenza,2014-09-19,"[' Pippo Pollina ', ' Roberto Petroli ', ' Max K?mmerling ']","['world', 'music']"
+18,Pratteln,Axel-Rudi-Pell,2014-09-19,['Axel Rudi Pell '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Zug,Julian-von-Fl?e-und-Band,2014-09-19,"[' Julian von Fl?e ', ' Richard Hugener ', ' Marc Scheidegger ', ' Lukas von Fl?e ']","['Jazz', 'Blues', 'Soul']"
+20,Basel,The-Cosmopolitan-Violist,2014-09-19,"['Jessica Horsley ', ' David Blunden ']",['Classic']
+21,Altikon,Schlosshof-Musikkollektiv,2014-09-19,"[' Urs V?geli ', ' Carles Peris ', ' Beat Gisler ']","['Jazz', 'Blues', 'Soul']"
+22,Basel,Klang-Basel-Musikbiennale,2014-09-19,"[' Marc Ullrich ', ' Daniel Blanc ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Peter Schmidlin ', ' Frank Wenzel ', ' Marian Rivar ']","['Jazz', 'Blues', 'Soul']"
+23,Z?rich,A-Jazz-Night,2014-09-19,"['Rodrigo Botter Maio ', ' Adrian Frey ']","['Jazz', 'Blues', 'Soul']"
+24,Oberengstringen,Yves-Reichmuth-Quartett,2014-09-19,"[' Yves Reichmuth ', ' Lucien Dubuis ', ' Silvan Jeger ', ' Lionel Friedli ']","['Jazz', 'Blues', 'Soul']"
+25,Winterthur,Once,2014-09-19,"[' Jerry Rojas ', ' Ekkehard Sassenhausen ', ' Dominik Burger ']","['Jazz', 'Blues', 'Soul']"
+26,Z?rich,Duo-Rezital,2014-09-19,"['Ardina Nehring ', ' Gregor Loepfe ']",['Classic']
+27,Z?rich,Allemano-Binder-Schlegel,2014-09-19,"[' Lina Allemano ', ' Claudia Ulla Binder ', ' Jan Schlegel ']","['Jazz', 'Blues', 'Soul']"
+28,Z?rich,Marc-Perrenoud-Trio,2014-09-19,"[' Marc Perrenoud ', ' Marco M?ller ', ' Cyril Regamey ']",['Pop']
+29,Aarau,Ben-Sollee,2014-09-19,['Ben Sollee '],['Pop']
+30,Luzern,New-Tango-Songbook,2014-09-19,"[' Marcela Arroyo ', ' Julio Azcano ', ' Daniel Pezzotti ']","['Jazz', 'Blues', 'Soul']"
+31,Baden,Os-Desafinados,2014-09-19,"[' Dalia Donadio ', ' Moreno Donadio ']","['Hip', 'Hop', ""R'n'B""]"
+32,Z?rich,Chansons-en-Stok,2014-09-19,['Volin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Lausanne,Label-Suisse,2014-09-19,[' DJs Dop Live '],['Electronic']
+34,null,Ben-Sollee,2014-09-19,['Ben Sollee '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Luzern,Superheaven,2014-09-19,"['Superheaven ', ' Nai Harvest ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,K?niz,Anshelle,2014-09-19,['Anshelle '],['Pop']
+37,M?nchenstein,Tho-Luong,2014-09-19,[' support: Klara Lund?n '],['Pop']
+38,Winterthur,Irij,2014-09-19,['Irij '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+39,Luzern,Tomi-Leimo-Band,2014-09-19,['Tomi Leimo Band '],"['Jazz', 'Blues', 'Soul']"
+40,Thun,Mark-Geary,2014-09-19,['Mark Geary '],['Pop']
+41,null,Fiva,2014-09-19,['Fiva '],"['Hip', 'Hop', ""R'n'B""]"
+42,Z?rich,The-Besnard-Lakes,2014-09-19,['The Besnard Lakes '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+43,Z?rich,Isa-Wallin,2014-09-19,"[' Gino Todesco ', ' Giorgio Barbera ']",['Pop']
+44,D?dingen,Cave,2014-09-19,"['Cave ', ' The Asteroid No 4 ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+45,Basel,Mirko-Machine-&-Aphroe,2014-09-19,[' Aphroe '],"['Hip', 'Hop', ""R'n'B""]"
+46,Bern,Metric-Rotations-No.-3,2014-09-19,"[' Simon Ho ', ' Simon B ', ' Don Li ']","['Jazz', 'Blues', 'Soul']"
+47,Basel,Tropical-Night,2014-09-19,['DJ Komla '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+48,Sankt-Gallen,Freddie-Gibbs,2014-09-19,['Freddie Gibbs '],"['Hip', 'Hop', ""R'n'B""]"
+49,Lyss,Xzibit,2014-09-19,[' Demrick '],"['Hip', 'Hop', ""R'n'B""]"
+50,Z?rich,Edward,2014-09-19,['Edward '],['Electronic']

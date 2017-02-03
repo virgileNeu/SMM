@@ -1,21 +1,21 @@
-location,event,date,artists,genre
-Winterthur,Öffentliche-Generalprobe,2015-02-25,"[' Franziska van Ooyen ', ' Innhyuck Cho ', ' Daniele Galaverna ']",Classic
-Baden,La-vie-en-rose,2015-02-25,"[' Milena Bendáková ', ' Dominik Flaig ', ' Urs Nüssli ']",Pop
-Winterthur,Sibelius-3,2015-02-25,"[' Franziska van Ooyen ', ' Innhyuck Cho ', ' Daniele Galaverna ']",Classic
-Zürich,Tonhalle-Orchester-Zürich,2015-02-25,['Yuja Wang '],Classic
-Luzern,Festival-Strings,2015-02-25,['Gautier Capuçon '],Classic
-Zürich,Jazz-im-Seefeld,2015-02-25,"[' Ganesh Geymeyer ', ' Afrika Mkhize ', ' Bänz Oester ', ' Ayanda Sikade ']",
-Bern,Jazzwerkstatt,2015-02-25,[' Pulcinella '],
-Zürich,Ein-gLiederabend,2015-02-25,"['Graziella Rossi ', ' Rea Claudia Kost ', ' Daniel Bentz ', ' Helmut Vogel ', ' Daniel Fueter ']",traditional
-null,On-Broadway,2015-02-25,['The Ten Tenors '],Classic
-Uster,Jeff-Scott-Soto-&-Terry-Ilous,2015-02-25,['Jeff Scott Soto & Terry Ilous '],
-Zürich,Jazzbaragge-Wednesday-Jam,2015-02-25,"['Jörg Enz ', ' Reinhold Hettich ', ' Jörg Bach ']",
-Luzern,Jam-Night,2015-02-25,"[' Emila Taubic ', ' Bodo Maier ', ' Christian Winiker ', ' Faruk Muslijevic ', ' Thomas Tavano ', ' Sascha Frischknecht  ']",
-Chur,Klassik-Forum-Chur,2015-02-25,"[' Willi Zimmermann ', ' conductor: Daniel Hope ']",Classic
-Frauenfeld,Jazz-Now-Solo-Series,2015-02-25,"[' Marianne Racine', ' Daniel Baschnagel ', ' Patrick Sommer ', ' Pius Baschnagel ']",
-Winterthur,Ghost-Town-Trio-feat.-Veronika-Stadler,2015-02-25,"[' Rahel Hadorn ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Küenzi ']",
-Baden,Liederabend,2015-02-25,"['Eva Nievergelt ', ' Christoph Brunner ', ' Regula Stibi ']",Pop
-Zürich,Artist-in-Residence-Martin-Lorenz,2015-02-25,"[' Willy Strehler ', ' Lara Stanic ', ' Bernhard Bamert ', ' David Schnee ', ' Nicola Romanò ']",
-Luzern,Radicium,2015-02-25,"[' John Voirol ', ' Chris Guilfoyle ', ' Michael Arbenz ', ' Rafael Jerjen ', ' Clemens Kuratle ']",
-Lausanne,Ex-Hex,2015-02-25,['Ex Hex '],
-Hasliberg-Hohfluh,Danny-Briant,2015-02-25,['Danny Briant '],
+,location,event,date,artists,genre
+0,Winterthur,?ffentliche-Generalprobe,2015-02-25,"[' Franziska van Ooyen ', ' Innhyuck Cho ', ' Daniele Galaverna ']",['Classic']
+1,Baden,La-vie-en-rose,2015-02-25,"[' Milena Bend?kov? ', ' Dominik Flaig ', ' Urs N?ssli ']",['Pop']
+2,Z?rich,Jazz-im-Seefeld,2015-02-25,"[' Ganesh Geymeyer ', ' Afrika Mkhize ', ' B?nz Oester ', ' Ayanda Sikade ']","['Jazz', 'Blues', 'Soul']"
+3,Luzern,Festival-Strings,2015-02-25,['Gautier Capu?on '],['Classic']
+4,Z?rich,Tonhalle-Orchester-Z?rich,2015-02-25,['Yuja Wang '],['Classic']
+5,Winterthur,Sibelius-3,2015-02-25,"[' Franziska van Ooyen ', ' Innhyuck Cho ', ' Daniele Galaverna ']",['Classic']
+6,null,On-Broadway,2015-02-25,['The Ten Tenors '],['Classic']
+7,Bern,Jazzwerkstatt,2015-02-25,[' Pulcinella '],"['Jazz', 'Blues', 'Soul']"
+8,Luzern,Jam-Night,2015-02-25,"[' Emila Taubic ', ' Bodo Maier ', ' Christian Winiker ', ' Faruk Muslijevic ', ' Thomas Tavano ', ' Sascha Frischknecht  ']","['Hip', 'Hop', ""R'n'B""]"
+9,Z?rich,Jazzbaragge-Wednesday-Jam,2015-02-25,"['J?rg Enz ', ' Reinhold Hettich ', ' J?rg Bach ']","['Jazz', 'Blues', 'Soul']"
+10,Uster,Jeff-Scott-Soto-&-Terry-Ilous,2015-02-25,[' Terry Ilous '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,Ein-gLiederabend,2015-02-25,"['Graziella Rossi ', ' Rea Claudia Kost ', ' Daniel Bentz ', ' Helmut Vogel ', ' Daniel Fueter ']",['traditional']
+12,Chur,Klassik-Forum-Chur,2015-02-25,"[' Willi Zimmermann ', ' conductor: Daniel Hope ']",['Classic']
+13,Frauenfeld,Jazz-Now-Solo-Series,2015-02-25,"[' Marianne Racine', ' Daniel Baschnagel ', ' Patrick Sommer ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+14,Baden,Liederabend,2015-02-25,"['Eva Nievergelt ', ' Christoph Brunner ', ' Regula Stibi ']",['Pop']
+15,Winterthur,Ghost-Town-Trio-feat.-Veronika-Stadler,2015-02-25,"[' Rahel Hadorn ', ' Urs V?geli ', ' Claude Meier ', ' Emanuel K?enzi ']","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Artist-in-Residence-Martin-Lorenz,2015-02-25,"[' Willy Strehler ', ' Lara Stanic ', ' Bernhard Bamert ', ' David Schnee ', ' Nicola Roman? ']","['world', 'music']"
+17,Luzern,Radicium,2015-02-25,"[' John Voirol ', ' Chris Guilfoyle ', ' Michael Arbenz ', ' Rafael Jerjen ', ' Clemens Kuratle ']","['Jazz', 'Blues', 'Soul']"
+18,Lausanne,Ex-Hex,2015-02-25,['Ex Hex '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Hasliberg-Hohfluh,Danny-Briant,2015-02-25,['Danny Briant '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

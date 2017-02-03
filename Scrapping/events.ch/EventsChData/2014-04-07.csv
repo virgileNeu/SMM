@@ -1,16 +1,16 @@
-location,event,date,artists,genre
-Zürich,Lunchkonzert,2014-04-07,"['Robert Pickup ', ' Philip Mahrenholz ', ' Glen Borling ', ' Anne Gerstenberger ', ' Sebastian Wienand ']",Classic
-Zürich,Happy-ol-Mcweasel,2014-04-07,['Happy ol Mcweasel '],
-Zürich,Spektrum-Faust-Sinfonie,2014-04-07,"['Karl-Andreas Kolly ', ' Carl Wolf ']",Classic
-Zürich,Timber-Timbre,2014-04-07,['Timber Timbre '],
-Basel,On-a-Whim-and-More,2014-04-07,"[' Camille Guénot ', ' Adam Rosenblatt ', ' Maria-Jose Jeannin ']",Classic
-Basel,Uncle-Acid-&-The-Deadbeats,2014-04-07,['Uncle Acid & The Deadbeats '],
-Zürich,BAP,2014-04-07,['BAP '],
-Zürich,Ladrones-del-tiempo,2014-04-07,"['Ladrones del tiempo ', ' David Beer ', ' Simon Heggendorn ', ' Rodrigo Aravena ', ' John Flury ']",
-Zürich,Beethoven,2014-04-07,"['Benjamin Jermann ', ' Anton Spronk ']",Classic
-Winterthur,Musica-aperta-Mahlzeiten,2014-04-07,"[' Ulrike Mayer-Spohn ', ' Javier Hagen ', ' Egidius Streiff ']",Classic
-Baden,Once,2014-04-07,"[' Ekkehard Sassenhausen ', ' Jerry Rojas ', ' Dominik Burger ']",
-null,Elysian-Fields,2014-04-07,['Elysian Fields '],
-Cully,Cully-Jazz,2014-04-07,"['Valerie June ', ' Popa Chubby ', ' Valerie June ', ' Peter Ibbetson ', ' Jon Harvey ']",
-Zürich,Artist-in-Residence-Manuel-Perovic,2014-04-07,"[' Zsolt Bende ', ' Adrian Frey ', ' Samuel Rohrer ']",
-Zürich,Joan-As-A-Police-Woman,2014-04-07,"['Joan As A Police Woman ', ' support: Helmut ']",
+,location,event,date,artists,genre
+0,Z?rich,Lunchkonzert,2014-04-07,"['Robert Pickup ', ' Philip Mahrenholz ', ' Glen Borling ', ' Anne Gerstenberger ', ' Sebastian Wienand ']",['Classic']
+1,Z?rich,Happy-ol-Mcweasel,2014-04-07,['Happy ol Mcweasel '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Z?rich,Spektrum-Faust-Sinfonie,2014-04-07,"['Karl-Andreas Kolly ', ' Carl Wolf ']",['Classic']
+3,Z?rich,BAP,2014-04-07,['BAP '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,Timber-Timbre,2014-04-07,['Timber Timbre '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Basel,Uncle-Acid-&-The-Deadbeats,2014-04-07,[' The Deadbeats '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Beethoven,2014-04-07,"['Benjamin Jermann ', ' Anton Spronk ']",['Classic']
+7,Z?rich,Ladrones-del-tiempo,2014-04-07,"['Ladrones del tiempo ', ' David Beer ', ' Simon Heggendorn ', ' Rodrigo Aravena ', ' John Flury ']","['world', 'music']"
+8,Basel,On-a-Whim-and-More,2014-04-07,"[' Camille Gu?not ', ' Adam Rosenblatt ', ' Maria-Jose Jeannin ']",['Classic']
+9,Winterthur,Musica-aperta-Mahlzeiten,2014-04-07,"[' Ulrike Mayer-Spohn ', ' Javier Hagen ', ' Egidius Streiff ']",['Classic']
+10,Baden,Once,2014-04-07,"[' Ekkehard Sassenhausen ', ' Jerry Rojas ', ' Dominik Burger ']","['Jazz', 'Blues', 'Soul']"
+11,null,Elysian-Fields,2014-04-07,['Elysian Fields '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Z?rich,Artist-in-Residence-Manuel-Perovic,2014-04-07,"[' Zsolt Bende ', ' Adrian Frey ', ' Samuel Rohrer ']","['Jazz', 'Blues', 'Soul']"
+13,Cully,Cully-Jazz,2014-04-07,"['Valerie June ', ' Popa Chubby ', ' Valerie June ', ' Peter Ibbetson ', ' Jon Harvey ']","['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Joan-As-A-Police-Woman,2014-04-07,"['Joan As A Police Woman ', ' support: Helmut ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

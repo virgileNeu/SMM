@@ -1,54 +1,52 @@
-location,event,date,artists,genre
-Zürich,Gletscherfezzzer,2014-11-07,['Gletscherfezzzer '],traditional
-Basel,Orgelspiel-zum-Feierabend,2014-11-07,['Christoph Kaufmann '],Classic
-Worblaufen,Tiza-Brown-Trio,2014-11-07,"[' Tiza Brown ', ' Chris Bovet ', ' Marco Jeanrebaud ']",
-Dietikon,Feierabendmusik-in-der-Kirche,2014-11-07,['Bernhard Hörler '],Classic
-Zürich,Glaston,2014-11-07,['Glaston '],
-Zürich,Hammer-Klavierfestival-Pour-la-belle-Josephine,2014-11-07,['Els Biesemans '],Classic
-Dübendorf,Schärli-Moreira-Feigenwinter,2014-11-07,"[' Peter Schärli ', ' Juarez Moreira ', ' Hans Feigenwinter ']",
-Zürich,Konzert,2014-11-07,[' Emanuel Ax '],Classic
-Zürich,Klavierrezital,2014-11-07,['Simon Savoy '],Classic
-null,Konzert,2014-11-07,"[' Seraina Pfenninger ', ' Anne Battegay ', ' Esther Fritzsche ']",Classic
-Luzern,Milow,2014-11-07,"['Milow ', ' support: Luke Sital-Singh ']",Pop
-Basel,La-traviata-Benefizanlass,2014-11-07,"[' Laura Ansaldi ', ' Marco Voleri ', ' Daniele Di Tommaso ']",Classic
-Lausanne,Figures,2014-11-07,"[' Samuel Fried ', ' Yuka Munehisa ']",Classic
-Bern,Galakonzert,2014-11-07,[' Vadim Repin '],Classic
-Lausanne,Metropop,2014-11-07,"[' Danakil ', ' Protoje ']",Pop
-Zürich,The-Place-Waves-Reach-With-Their-Hands,2014-11-07,"[' Stephanie Pfeffer ', ' Rupert Charlesworth ', ' Jonathan Sells ', ' Edward Rushton ']",Classic
-Altikon,Schlosshof-Musikkollektiv,2014-11-07,"[' Beat Gisler ', ' Carles Peris ']",
-Luzern,Seat-Music-Session,2014-11-07,"['Marc Broussard ', ' Saint Lu ', ' Cleo Higgins ']",Pop
-Aarau,Alphorn-&-Nordic-Winds,2014-11-07,"['Eliana Burki ', ' Karoliina Kantelinen ']",
-Zürich,Fink,2014-11-07,"['Fink ', ' Douglas Dare ']",Pop
-Zürich,Francesco-de-Gregori,2014-11-07,['Francesco de Gregori '],
-Basel,Tassilo-Dellers-Jazz-Quartett,2014-11-07,"['Tassilo Dellers Jazz Quartett ', ' Tassilo Dellers ', ' Adrian Schäublin ', ' Florian Abt ', ' Felix Handschin ']",
-Zürich,Dieter-Thomas-Kuhn-&-Band,2014-11-07,['Dieter Thomas Kuhn & Band '],traditional
-Zürich,Dieter-Thomas-Kuhn-&-Band,2014-11-07,['Dieter Thomas Kuhn & Band '],traditional
-Basel,Silvan-Zingg-&-Paolo-Alderighi,2014-11-07,['Silvan Zingg & Paolo Alderighi '],
-Basel,Mozart-Requiem-&-Bach-Magnificat,2014-11-07,"[' Amelia Scicolone ', ' Charlotte Quadt ', ' Michael Mogl ', ' Martin Snell ']",Classic
-Liestal,4410-Music-Nights-Classic,2014-11-07,"['Michael Wendeberg ', ' Etienne Abelin ', ' Flavia Grubenmann ', ' David Schneebeli ', ' Andreas Fleck ']",Classic
-Bülach,Budapest-Swing-Jazz-Steps-Band,2014-11-07,"['Budapest Swing Jazz Steps Band ', ' Istvàn Làzàr ', ' Zoltàn Finok ', ' Tamàs Kovàacs ', ' Balázs Lázár ', ' József Radics ', ' Zoltán Horváth ']",
-Winterthur,Christina-Jaccard,2014-11-07,"[' Christina Jaccard ', ' Christian Rösli ', ' Luca Leombruni ', ' Jonas Ruther ']",
-Zürich,Leon-&-Gargaud-Gomez,2014-11-07,"[' Raphaël Ortis ', ' Louis Schild ', ' Guillaume Gargaud ', ' Jean Philippe Gomez ']",
-Winterthur,Burst-&-Bloom,2014-11-07,"['Empowerment ', ' Ays ']",
-Zürich,Old-Kerry-McKee,2014-11-07,['Old Kerry McKee '],
-Luzern,Mala-&-Fyrmoon,2014-11-07,['Mala & Fyrmoon '],Pop
-Zürich,Tobias-Preisig,2014-11-07,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-Feuerthalen,Kevin-Meisel-&-The-Ragged-Glories,2014-11-07,['Kevin Meisel & The Ragged Glories '],
-Zürich,Tin-Men-and-the-Telephone,2014-11-07,"['Tin Men and the Telephone ', ' Tony Roe ', ' Lucas Dols ', ' Bobby Petrov ']",
-null,Zola-Jesus,2014-11-07,['Zola Jesus '],Pop
-Luzern,DKSJ-All-Stars,2014-11-07,"[' ', ' Nina Reiter ', ' Zacharie Ksyk ', ' Niko Seibold ', ' Elio Amberg ', ' Tobias Pfister ', ' Weiss ', ' Jan Herzog ', ' Julie Campiche ', ' Benjamin Muralt ', ' Pascal Rüegger ', ' Clemens Kuratle ']",
-Liebefeld,Poffet-Trio-feat.-Thomas-Knuchel,2014-11-07,"[' Myria Poffet ', ' Thomas Knuchel ', ' Michel Poffet ', ' David Elias ']",
-Basel,Márcio-Tubino-N'Artet,2014-11-07,"[' Márcio Tubino ', ' Joao Luis Nogueira ', ' Ricardo Fiuza ', ' Ciro Trindade ', ' Fernando Paiva ']",
-Zürich,Vagues-Wellen,2014-11-07,"['Peter Landis ', ' Peter Landis ', ' Jeroen Visser ', ' Christian Weber ', ' Christian Wolfarth ']",
-Zürich,Gramatik,2014-11-07,"['Gramatik ', ' Russ Liquid ', ' Gibbz ']",
-Thun,Maceo-Parker,2014-11-07,['Maceo Parker '],
-null,Waves-like-Walls,2014-11-07,['Waves like Walls '],
-Winterthur,The-Desoto-Caucus,2014-11-07,['The Desoto Caucus '],
-Zürich,Zéphyr-Combo,2014-11-07,"[' Esther Nydegger ', ' Geert Dedapper ', ' Ali Salvioni ', ' Fridolin Blumer ']",
-Münchenstein,Kristoffer-&-The-Harbour-Heads,2014-11-07,['Kristoffer & The Harbour Heads '],Pop
-Winterthur,Internationale-Kurzfilmtage-Winterthur,2014-11-07,[' DJ Marcelle '],Pop
-Basel,Tango-Nacht,2014-11-07,"['Anna Faber ', ' Stefan Preyer ', ' works by Marcelo Nisinman ']",Classic
-Zürich,Latin-Touch,2014-11-07,[' dance animation by Orestes Vega '],
-Basel,Master,2014-11-07,"['Master ', ' Pandemia ', ' Whoresnation ', ' Congreed ']",
-Aarau,In-a-Mellow-Mood,2014-11-07,"[' Marion Weik ', ' Steven Parry ', ' Steven Parry ', ' Thomas Blättler ']",
-Lausanne,Kill-Your-Idols,2014-11-07,['Molly Nilsson '],
+,location,event,date,artists,genre
+0,Z?rich,Gletscherfezzzer,2014-11-07,['Gletscherfezzzer '],['traditional']
+1,Basel,Orgelspiel-zum-Feierabend,2014-11-07,['Christoph Kaufmann '],['Classic']
+2,Worblaufen,Tiza-Brown-Trio,2014-11-07,"[' Tiza Brown ', ' Chris Bovet ', ' Marco Jeanrebaud ']","['Hip', 'Hop', ""R'n'B""]"
+3,Dietikon,Feierabendmusik-in-der-Kirche,2014-11-07,['Bernhard H?rler '],['Classic']
+4,D?bendorf,Sch?rli-Moreira-Feigenwinter,2014-11-07,"[' Peter Sch?rli ', ' Juarez Moreira ', ' Hans Feigenwinter ']","['Jazz', 'Blues', 'Soul']"
+5,Z?rich,Glaston,2014-11-07,['Glaston '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Hammer-Klavierfestival-Pour-la-belle-Josephine,2014-11-07,['Els Biesemans '],['Classic']
+7,null,Konzert,2014-11-07,"[' Seraina Pfenninger ', ' Anne Battegay ', ' Esther Fritzsche ']",['Classic']
+8,Basel,La-traviata-Benefizanlass,2014-11-07,"[' Laura Ansaldi ', ' Marco Voleri ', ' Daniele Di Tommaso ']",['Classic']
+9,Lausanne,Figures,2014-11-07,"[' Samuel Fried ', ' Yuka Munehisa ']",['Classic']
+10,Bern,Galakonzert,2014-11-07,[' Vadim Repin '],['Classic']
+11,Luzern,Milow,2014-11-07,"['Milow ', ' support: Luke Sital-Singh ']",['Pop']
+12,Z?rich,Konzert,2014-11-07,[' Emanuel Ax '],['Classic']
+13,Z?rich,Klavierrezital,2014-11-07,['Simon Savoy '],['Classic']
+14,Lausanne,Metropop,2014-11-07,"[' Danakil ', ' Protoje ']",['Pop']
+15,Altikon,Schlosshof-Musikkollektiv,2014-11-07,"[' Beat Gisler ', ' Carles Peris ']","['Jazz', 'Blues', 'Soul']"
+16,Basel,Mozart-Requiem-&-Bach-Magnificat,2014-11-07,"[' Amelia Scicolone ', ' Charlotte Quadt ', ' Michael Mogl ', ' Martin Snell ']",['Classic']
+17,Aarau,Alphorn-&-Nordic-Winds,2014-11-07,"['Eliana Burki ', ' Karoliina Kantelinen ']","['Jazz', 'Blues', 'Soul']"
+18,Liestal,4410-Music-Nights-Classic,2014-11-07,"['Michael Wendeberg ', ' Etienne Abelin ', ' Flavia Grubenmann ', ' David Schneebeli ', ' Andreas Fleck ']",['Classic']
+19,Basel,Tassilo-Dellers-Jazz-Quartett,2014-11-07,"['Tassilo Dellers Jazz Quartett ', ' Tassilo Dellers ', ' Adrian Sch?ublin ', ' Florian Abt ', ' Felix Handschin ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Francesco-de-Gregori,2014-11-07,['Francesco de Gregori '],"['world', 'music']"
+21,Luzern,Seat-Music-Session,2014-11-07,"['Marc Broussard ', ' Saint Lu ', ' Cleo Higgins ']",['Pop']
+22,Basel,Silvan-Zingg-&-Paolo-Alderighi,2014-11-07,[' Paolo Alderighi '],"['Jazz', 'Blues', 'Soul']"
+23,Z?rich,Fink,2014-11-07,"['Fink ', ' Douglas Dare ']",['Pop']
+24,Z?rich,Dieter-Thomas-Kuhn-&-Band,2014-11-07,[' Band '],['traditional']
+25,Winterthur,Christina-Jaccard,2014-11-07,"[' Christina Jaccard ', ' Christian R?sli ', ' Luca Leombruni ', ' Jonas Ruther ']","['Jazz', 'Blues', 'Soul']"
+26,Z?rich,Leon-&-Gargaud-Gomez,2014-11-07,"[' Rapha?l Ortis ', ' Louis Schild ', ' Guillaume Gargaud ', ' Jean Philippe Gomez ']","['Jazz', 'Blues', 'Soul']"
+27,B?lach,Budapest-Swing-Jazz-Steps-Band,2014-11-07,"['Budapest Swing Jazz Steps Band ', ' Istv?n L?z?r ', ' Zolt?n Finok ', ' Tam?s Kov?acs ', ' Bal?zs L?z?r ', ' J?zsef Radics ', ' Zolt?n Horv?th ']","['Jazz', 'Blues', 'Soul']"
+28,Z?rich,Tin-Men-and-the-Telephone,2014-11-07,"['Tin Men and the Telephone ', ' Tony Roe ', ' Lucas Dols ', ' Bobby Petrov ']","['Jazz', 'Blues', 'Soul']"
+29,Luzern,Mala-&-Fyrmoon,2014-11-07,[' Fyrmoon '],['Pop']
+30,Luzern,DKSJ-All-Stars,2014-11-07,"[' ', ' Nina Reiter ', ' Zacharie Ksyk ', ' Niko Seibold ', ' Elio Amberg ', ' Tobias Pfister ', ' Weiss ', ' Jan Herzog ', ' Julie Campiche ', ' Benjamin Muralt ', ' Pascal R?egger ', ' Clemens Kuratle ']","['Jazz', 'Blues', 'Soul']"
+31,Liebefeld,Poffet-Trio-feat.-Thomas-Knuchel,2014-11-07,"[' Myria Poffet ', ' Thomas Knuchel ', ' Michel Poffet ', ' David Elias ']","['Jazz', 'Blues', 'Soul']"
+32,Basel,M?rcio-Tubino-N'Artet,2014-11-07,"[' M?rcio Tubino ', ' Joao Luis Nogueira ', ' Ricardo Fiuza ', ' Ciro Trindade ', ' Fernando Paiva ']","['Jazz', 'Blues', 'Soul']"
+33,Winterthur,Burst-&-Bloom,2014-11-07,"['Empowerment ', ' Ays ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Z?rich,Old-Kerry-McKee,2014-11-07,['Old Kerry McKee '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Z?rich,Vagues-Wellen,2014-11-07,"['Peter Landis ', ' Peter Landis ', ' Jeroen Visser ', ' Christian Weber ', ' Christian Wolfarth ']","['Jazz', 'Blues', 'Soul']"
+36,null,Zola-Jesus,2014-11-07,['Zola Jesus '],['Pop']
+37,Feuerthalen,Kevin-Meisel-&-The-Ragged-Glories,2014-11-07,[' The Ragged Glories '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+38,Z?rich,Tobias-Preisig,2014-11-07,"[' Tobias Preisig ', ' Stefan Aeby ', ' Andr? Pousaz ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+39,Winterthur,The-Desoto-Caucus,2014-11-07,['The Desoto Caucus '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+40,null,Waves-like-Walls,2014-11-07,['Waves like Walls '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+41,Z?rich,Gramatik,2014-11-07,"['Gramatik ', ' Russ Liquid ', ' Gibbz ']","['Jazz', 'Blues', 'Soul']"
+42,Thun,Maceo-Parker,2014-11-07,['Maceo Parker '],"['Hip', 'Hop', ""R'n'B""]"
+43,Z?rich,Z?phyr-Combo,2014-11-07,"[' Esther Nydegger ', ' Geert Dedapper ', ' Ali Salvioni ', ' Fridolin Blumer ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+44,M?nchenstein,Kristoffer-&-The-Harbour-Heads,2014-11-07,[' The Harbour Heads '],['Pop']
+45,Winterthur,Internationale-Kurzfilmtage-Winterthur,2014-11-07,[' DJ Marcelle '],['Pop']
+46,Z?rich,Latin-Touch,2014-11-07,[' dance animation by Orestes Vega '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+47,Aarau,In-a-Mellow-Mood,2014-11-07,"[' Marion Weik ', ' Steven Parry ', ' Steven Parry ', ' Thomas Bl?ttler ']","['Jazz', 'Blues', 'Soul']"
+48,Basel,Tango-Nacht,2014-11-07,"['Anna Faber ', ' Stefan Preyer ', ' works by Marcelo Nisinman ']",['Classic']
+49,Basel,Master,2014-11-07,"['Master ', ' Pandemia ', ' Whoresnation ', ' Congreed ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+50,Lausanne,Kill-Your-Idols,2014-11-07,['Molly Nilsson '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

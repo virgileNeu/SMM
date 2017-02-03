@@ -1,39 +1,39 @@
-location,event,date,artists,genre
-Zürich,Monte-Carlo,2014-12-05,['Monte Carlo '],Pop
-Basel,Orgelspiel-zum-Feierabend,2014-12-05,['Pascal Reber '],Classic
-Dietikon,Feierabendmusik,2014-12-05,"['Liliane Huber-Müller ', ' Christian Dillig ', ' Bernhard Hörler ']",Classic
-Zürich,Adventskonzert,2014-12-05,"[' Georgia Milanesi ', ' Daria Zappa ', ' Pascal Suter ']",Classic
-Zürich,Vanitas,2014-12-05,"[' Noa Frenkel ', ' Eva Nievergelt ']",Classic
-Stäfa,Le-Retour-de-la-Paix,2014-12-05,[' Dorothee Mields '],Classic
-Olten,Cappella-Gabetta,2014-12-05,"['Simone Kermes ', ' Vivica Genaux ', ' conductor: Andrés Gabetta ']",Classic
-Zürich,Konzert,2014-12-05,[' Martin Fröst '],Classic
-Bern,Prokofjews-Violinkonzert,2014-12-05,[' Veronika Eberle '],Classic
-null,International-Piano-Series,2014-12-05,['Alexei Volodin '],Classic
-Zürich,Adventskonzert,2014-12-05,[' Philippe Litzler '],Classic
-Solothurn,Manfred-Mann's-Earth-Band,2014-12-05,"[""Manfred Mann's Earth Band ""]",
-Bern,Patchwork-Classics,2014-12-05,"[' Giovanni Reber ', ' Michael Giertz ']",Pop
-Zürich,Stromae,2014-12-05,['Stromae '],
-Dübendorf,Gospel-Night,2014-12-05,['Bridgette Campbell & the Gospel Harmonizers '],
-Basel,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2014-12-05,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes Bärtschi ']",Classic
-null,Florent-Pagny,2014-12-05,['Florent Pagny '],Pop
-Zürich,Vhong-Navarro,2014-12-05,['Vhong Navarro '],
-Zürich,My-Groove-Your-Move,2014-12-05,"[' Jeannette Ruch ', ' Martina Hug ', ' Nino Borsotti ', ' Martin Bauer ', ' Oliver Waddell ', ' Xeno Ruch ']",
-Bern,Broilers,2014-12-05,['Broilers '],
-Zürich,Adventskonzert-Weihnachtsoratorium,2014-12-05,"[' Annette Labusch ', ' Daniel Bentz ', ' Sascha Litschi ']",Classic
-Zürich,Fiva,2014-12-05,"['Fiva ', "" support: L'Aupaire ""]",
--Alte-Kirche,Boswil,2014-12-05,"[' Michael Arbenz ', ' Thomas Lähns ', ' Florian Arbenz ', ' Dave Liebman ']",
-Zürich,Ostrowski-Seigner-Zimmerlin,2014-12-05,"[' Matthew Ostrowski ', ' Michel Seigner ', ' Alfred Zimmerlin ']",
-Baden,Bridge-Pipers-Jazz-Band,2014-12-05,"[' Alexander Ette ', ' Denis Liechti ', ' Peter Thomann ', ' Didier Karl ', ' Willy-Marc Schmid ', ' Heinz Hänni ', ' Erwin Bieri ', ' Cornelia Wartenweiler ']",
-null,Vielsittich,2014-12-05,"[' Dodo Hug ', ' Efisio Contini ', ' Andreas Kühnrich ', ' Yvonne Baumer ']",
-Basel,Studnitzky-Strings-Olivia-Trummer,2014-12-05,"[' Olivia Trummer ', ' Sebastian Studnitzky ', ' Paul Kleber ']",
-Zürich,The-Baschnagel-Racine-Avalange-Project,2014-12-05,"[' Marianne Racine ', ' Rodrigo Botter Maio ', ' Gregor Müller ']",
-Lausanne,Morcheeba,2014-12-05,['Morcheeba '],Pop
-Baden,Royal-Psychedelica-Sonic-Jesus,2014-12-05,['Royal Psychedelica Sonic Jesus '],
-Thun,Mundwerk-Crew,2014-12-05,['Mundwerk Crew '],
-null,Christine-and-the-Queens,2014-12-05,['Christine and the Queens '],Pop
-Basel,Sharon-Van-Etten,2014-12-05,"['Sharon Van Etten ', ' support: Marisa Anderson ']",Pop
-Basel,Marathonmann,2014-12-05,"['Marathonmann ', ' The Gogets ', ' Finder ']",
-Zürich,Latin-Touch,2014-12-05,[' dance animation by Orestes Vega '],
-Luzern,Geppetto-&-the-Whales,2014-12-05,['Geppetto & the Whales '],Pop
-null,Soul-Train-Night,2014-12-05,['The Slow Slushy Boys '],
-Bern,Moonbootica,2014-12-05,['Moonbootica '],Electronic
+,location,event,date,artists,genre
+0,Z?rich,Monte-Carlo,2014-12-05,['Monte Carlo '],['Pop']
+1,Basel,Orgelspiel-zum-Feierabend,2014-12-05,['Pascal Reber '],['Classic']
+2,Dietikon,Feierabendmusik,2014-12-05,"['Liliane Huber-M?ller ', ' Christian Dillig ', ' Bernhard H?rler ']",['Classic']
+3,Z?rich,Vanitas,2014-12-05,"[' Noa Frenkel ', ' Eva Nievergelt ']",['Classic']
+4,Z?rich,Adventskonzert,2014-12-05,"[' Georgia Milanesi ', ' Daria Zappa ', ' Pascal Suter ']",['Classic']
+5,null,International-Piano-Series,2014-12-05,['Alexei Volodin '],['Classic']
+6,St?fa,Le-Retour-de-la-Paix,2014-12-05,[' Dorothee Mields '],['Classic']
+7,Olten,Cappella-Gabetta,2014-12-05,"['Simone Kermes ', ' Vivica Genaux ', ' conductor: Andr?s Gabetta ']",['Classic']
+8,Z?rich,Konzert,2014-12-05,[' Martin Fr?st '],['Classic']
+9,Bern,Prokofjews-Violinkonzert,2014-12-05,[' Veronika Eberle '],['Classic']
+10,Z?rich,Vhong-Navarro,2014-12-05,['Vhong Navarro '],"['world', 'music']"
+11,Bern,Patchwork-Classics,2014-12-05,"[' Giovanni Reber ', ' Michael Giertz ']",['Pop']
+12,Z?rich,My-Groove-Your-Move,2014-12-05,"[' Jeannette Ruch ', ' Martina Hug ', ' Nino Borsotti ', ' Martin Bauer ', ' Oliver Waddell ', ' Xeno Ruch ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Adventskonzert,2014-12-05,[' Philippe Litzler '],['Classic']
+14,Solothurn,Manfred-Mann's-Earth-Band,2014-12-05,"[""Manfred Mann's Earth Band ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,null,Florent-Pagny,2014-12-05,['Florent Pagny '],['Pop']
+16,Z?rich,Fiva,2014-12-05,"['Fiva ', "" support: L'Aupaire ""]","['Hip', 'Hop', ""R'n'B""]"
+17,Basel,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2014-12-05,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes B?rtschi ']",['Classic']
+18,Z?rich,Stromae,2014-12-05,['Stromae '],"['Hip', 'Hop', ""R'n'B""]"
+19,D?bendorf,Gospel-Night,2014-12-05,[' the Gospel Harmonizers '],"['world', 'music']"
+20,Bern,Broilers,2014-12-05,['Broilers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Z?rich,Adventskonzert-Weihnachtsoratorium,2014-12-05,"[' Annette Labusch ', ' Daniel Bentz ', ' Sascha Litschi ']",['Classic']
+22,Z?rich,Ostrowski-Seigner-Zimmerlin,2014-12-05,"[' Matthew Ostrowski ', ' Michel Seigner ', ' Alfred Zimmerlin ']","['Jazz', 'Blues', 'Soul']"
+23,-Alte-Kirche,Boswil,2014-12-05,"[' Michael Arbenz ', ' Thomas L?hns ', ' Florian Arbenz ', ' Dave Liebman ']","['Jazz', 'Blues', 'Soul']"
+24,Basel,Studnitzky-Strings-Olivia-Trummer,2014-12-05,"[' Olivia Trummer ', ' Sebastian Studnitzky ', ' Paul Kleber ']","['Jazz', 'Blues', 'Soul']"
+25,Z?rich,The-Baschnagel-Racine-Avalange-Project,2014-12-05,"[' Marianne Racine ', ' Rodrigo Botter Maio ', ' Gregor M?ller ']","['Jazz', 'Blues', 'Soul']"
+26,Baden,Bridge-Pipers-Jazz-Band,2014-12-05,"[' Alexander Ette ', ' Denis Liechti ', ' Peter Thomann ', ' Didier Karl ', ' Willy-Marc Schmid ', ' Heinz H?nni ', ' Erwin Bieri ', ' Cornelia Wartenweiler ']","['Jazz', 'Blues', 'Soul']"
+27,null,Vielsittich,2014-12-05,"[' Dodo Hug ', ' Efisio Contini ', ' Andreas K?hnrich ', ' Yvonne Baumer ']","['world', 'music']"
+28,Thun,Mundwerk-Crew,2014-12-05,['Mundwerk Crew '],"['Hip', 'Hop', ""R'n'B""]"
+29,Lausanne,Morcheeba,2014-12-05,['Morcheeba '],['Pop']
+30,null,Christine-and-the-Queens,2014-12-05,['Christine and the Queens '],['Pop']
+31,Basel,Sharon-Van-Etten,2014-12-05,"['Sharon Van Etten ', ' support: Marisa Anderson ']",['Pop']
+32,Baden,Royal-Psychedelica-Sonic-Jesus,2014-12-05,['Royal Psychedelica Sonic Jesus '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Z?rich,Latin-Touch,2014-12-05,[' dance animation by Orestes Vega '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+34,Luzern,Geppetto-&-the-Whales,2014-12-05,[' the Whales '],['Pop']
+35,Basel,Marathonmann,2014-12-05,"['Marathonmann ', ' The Gogets ', ' Finder ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Bern,Moonbootica,2014-12-05,['Moonbootica '],['Electronic']
+37,null,Soul-Train-Night,2014-12-05,['The Slow Slushy Boys '],"['Hip', 'Hop', ""R'n'B""]"

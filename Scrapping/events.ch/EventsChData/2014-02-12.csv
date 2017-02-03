@@ -1,24 +1,23 @@
-location,event,date,artists,genre
-Basel,Mimiko-Fantasía-baetica,2014-02-12,['Carolina Rodríguez de Guzmán '],Classic
-Zürich,Beethoven-und-Tschaikowski,2014-02-12,[' Sophia Jaffé '],Classic
-Bern,Olivier-Zurkirchen-Ten,2014-02-12,"[' Lukas Thöni ', ' Joel Graf ', ' Jonathan Maag ', ' Lukas Roos ', ' Maro Widmer ', ' Fabio Pinto ', ' Jeremias Keller ']",
-Luzern,Piano-Entertainment,2014-02-12,['Mark Tenger '],
-Zürich,Margrit-Rainer-Hommage-zum-100.-Geburtstag,2014-02-12,"['Christine Lather ', ' Patricia Draeger ']",Pop
-Basel,AMG-Rising-Stars,2014-02-12,"['Solenne Païdassi ', ' Elena Filonova ']",Classic
-Zürich,Bullet-For-My-Valentine,2014-02-12,"['Bullet For My Valentine ', ' support: Coldrain ', ' Callejon ']",
-Bern,Die-grosse-Giuseppe-Verdi-Nacht,2014-02-12,[' Cristian Lanza '],Classic
-Zürich,Sunrise-Avenue,2014-02-12,"['Sunrise Avenue ', ' Ryan Keen ', ' My First Band ']",Pop
-Luzern,Jam-Night,2014-02-12,"['Glauco Cataldo ', ' Matthias Brägger ', ' Camille Bossart ']",
-Pratteln,Axel-Rudi-Pell,2014-02-12,['Axel Rudi Pell '],
-Liestal,Verdi-Gala,2014-02-12,"[' Jeanne Pascale ', ' Michael Pavlu ']",Classic
-Zürich,Jazzbaragge-Wednesday-Jam,2014-02-12,"['Roberto Bosshard ', ' Rafael Jerjen ', ' Elmar Frey ']",
-Zürich,Shanir-Blumenkranz'-Abraxas,2014-02-12,"[""Shanir Blumenkranz' Abraxas "", ' Shanir Blumenkranz ', ' Aram Bajakian ', ' Eyal Maoz ', ' Kenny Grohowski ']",
-Zürich,Zugluft,2014-02-12,"[' Andrea Kirchhofer ', ' Bruno Strüby ', ' Jonas Guggenheim ']",
-Basel,guitars@basel,2014-02-12,"[' Cedric Gschwind ', ' Jonas Windscheid ', ' Fabian Gisler ', ' Daniel Mudrack ']",
-Lausanne,Birdpen,2014-02-12,['Birdpen '],Electronic
-Zürich,Minimalarge-Ensemble,2014-02-12,"[' Dominic Stahl ', ' Andi Bissig ', ' Angelika Büeler ', ' Anna Bernhard ', ' Simon Iten ', ' Patrik Horat ']",
-null,Call-Me-Cat,2014-02-12,['Call Me Cat '],Pop
-Bern,Bubaran,2014-02-12,"[' Matthias Spillmann ', ' Bernhard Bamert ', ' Andreas Tschopp ', ' Ronny Graupe ', ' Julian Sartorius ']",
-Schaffhausen,De-Kift,2014-02-12,['De Kift '],
-Zürich,La-Charanga-Habanera,2014-02-12,['La Charanga Habanera '],
-Bern,Klima-Kalima-feat.-Andreas-Schaerer,2014-02-12,"[' Kalle Kalima ', ' Andreas Schaerer ', ' Oliver Potratz ', ' Oliver Steidle ']",
+,location,event,date,artists,genre
+0,Basel,Mimiko-Fantas?a-baetica,2014-02-12,['Carolina Rodr?guez de Guzm?n '],['Classic']
+1,Bern,Olivier-Zurkirchen-Ten,2014-02-12,"[' Lukas Th?ni ', ' Joel Graf ', ' Jonathan Maag ', ' Lukas Roos ', ' Maro Widmer ', ' Fabio Pinto ', ' Jeremias Keller ']","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Beethoven-und-Tschaikowski,2014-02-12,[' Sophia Jaff? '],['Classic']
+3,Z?rich,Margrit-Rainer-Hommage-zum-100.-Geburtstag,2014-02-12,"['Christine Lather ', ' Patricia Draeger ']",['Pop']
+4,Basel,AMG-Rising-Stars,2014-02-12,"['Solenne Pa?dassi ', ' Elena Filonova ']",['Classic']
+5,Liestal,Verdi-Gala,2014-02-12,"[' Jeanne Pascale ', ' Michael Pavlu ']",['Classic']
+6,Z?rich,Bullet-For-My-Valentine,2014-02-12,"['Bullet For My Valentine ', ' support: Coldrain ', ' Callejon ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Sunrise-Avenue,2014-02-12,"['Sunrise Avenue ', ' Ryan Keen ', ' My First Band ']",['Pop']
+8,Luzern,Jam-Night,2014-02-12,"['Glauco Cataldo ', ' Matthias Br?gger ', ' Camille Bossart ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Pratteln,Axel-Rudi-Pell,2014-02-12,['Axel Rudi Pell '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Bern,Die-grosse-Giuseppe-Verdi-Nacht,2014-02-12,[' Cristian Lanza '],['Classic']
+11,Z?rich,Jazzbaragge-Wednesday-Jam,2014-02-12,"['Roberto Bosshard ', ' Rafael Jerjen ', ' Elmar Frey ']","['Jazz', 'Blues', 'Soul']"
+12,Basel,guitars@basel,2014-02-12,"[' Cedric Gschwind ', ' Jonas Windscheid ', ' Fabian Gisler ', ' Daniel Mudrack ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Zugluft,2014-02-12,"[' Andrea Kirchhofer ', ' Bruno Str?by ', ' Jonas Guggenheim ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Z?rich,Shanir-Blumenkranz'-Abraxas,2014-02-12,"[""Shanir Blumenkranz' Abraxas "", ' Shanir Blumenkranz ', ' Aram Bajakian ', ' Eyal Maoz ', ' Kenny Grohowski ']","['world', 'music']"
+15,Lausanne,Birdpen,2014-02-12,['Birdpen '],['Electronic']
+16,Z?rich,Minimalarge-Ensemble,2014-02-12,"[' Dominic Stahl ', ' Andi Bissig ', ' Angelika B?eler ', ' Anna Bernhard ', ' Simon Iten ', ' Patrik Horat ']","['Jazz', 'Blues', 'Soul']"
+17,null,Call-Me-Cat,2014-02-12,['Call Me Cat '],['Pop']
+18,Bern,Bubaran,2014-02-12,"[' Matthias Spillmann ', ' Bernhard Bamert ', ' Andreas Tschopp ', ' Ronny Graupe ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+19,Schaffhausen,De-Kift,2014-02-12,['De Kift '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Z?rich,La-Charanga-Habanera,2014-02-12,['La Charanga Habanera '],"['world', 'music']"
+21,Bern,Klima-Kalima-feat.-Andreas-Schaerer,2014-02-12,"[' Kalle Kalima ', ' Andreas Schaerer ', ' Oliver Potratz ', ' Oliver Steidle ']","['Jazz', 'Blues', 'Soul']"

@@ -1,16 +1,16 @@
-location,event,date,artists,genre
-Basel,Bachelorrezital,2014-06-24,[' Esther Thommen '],Classic
-Basel,Bachelorrezital,2014-06-24,[' Damiano Pisanello '],Classic
-Basel,Bachelorrezital,2014-06-24,[' Noemi Locher '],Classic
-Zürich,Musik-Passion,2014-06-24,['Tatjana Schaumova '],Classic
-Basel,Masterrezital,2014-06-24,[' Philipp Wagner '],Classic
-Luzern,Piano-Entertainment,2014-06-24,['Mark Tenger '],Pop
-Ascona,Jazz-Ascona,2014-06-24,"['Gegè Telesforo & Renzo Arbore ', ' The Primatics ', ' Breda Jazz Festival Band ', ' Mr. Boogie Mitch Woods ', ' The Ella Louie Tribute Band ']",
-null,St.-Galler-Festspiele-Fantasías-y-danzas-del-siglo-de-oro,2014-06-24,['Xavier Diaz-Latorre '],Classic
-Zürich,Festspiele-Zürich-Orpheus-Eurydike-und-der-Bär,2014-06-24,"[' Stefanie Steger ', ' Marie-Claude Chappuis ']",Classic
-Lausanne,Bad-Religion,2014-06-24,['Bad Religion '],
-Luzern,The-Black-Dahlia-Murder,2014-06-24,['The Black Dahlia Murder '],
-Basel,Masterrezital,2014-06-24,['Lina Manrique '],Classic
-Luzern,Workshopkonzert,2014-06-24,"[' Carlo Menet ', ' Mathieu Friz ', ' Christoph Schlegel ', ' Sascha Frischknecht ']",
-Winterthur,Unida,2014-06-24,['Unida '],
-Zürich,Jamaica's-Finest,2014-06-24,[' Black Phantom Sound '],
+,location,event,date,artists,genre
+0,Basel,Bachelorrezital,2014-06-24,[' Esther Thommen '],['Classic']
+1,Basel,Bachelorrezital,2014-06-24,[' Damiano Pisanello '],['Classic']
+2,Basel,Bachelorrezital,2014-06-24,[' Noemi Locher '],['Classic']
+3,Z?rich,Musik-Passion,2014-06-24,['Tatjana Schaumova '],['Classic']
+4,Basel,Masterrezital,2014-06-24,[' Philipp Wagner '],['Classic']
+5,Ascona,Jazz-Ascona,2014-06-24,"[' Renzo Arbore ', ' The Primatics ', ' Breda Jazz Festival Band ', ' Mr. Boogie Mitch Woods ', ' The Ella Louie Tribute Band ']","['Jazz', 'Blues', 'Soul']"
+6,Luzern,Piano-Entertainment,2014-06-24,['Mark Tenger '],['Pop']
+7,null,St.-Galler-Festspiele-Fantas?as-y-danzas-del-siglo-de-oro,2014-06-24,['Xavier Diaz-Latorre '],['Classic']
+8,Z?rich,Festspiele-Z?rich-Orpheus-Eurydike-und-der-B?r,2014-06-24,"[' Stefanie Steger ', ' Marie-Claude Chappuis ']",['Classic']
+9,Lausanne,Bad-Religion,2014-06-24,['Bad Religion '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Luzern,The-Black-Dahlia-Murder,2014-06-24,['The Black Dahlia Murder '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Basel,Masterrezital,2014-06-24,['Lina Manrique '],['Classic']
+12,Winterthur,Unida,2014-06-24,['Unida '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Luzern,Workshopkonzert,2014-06-24,"[' Carlo Menet ', ' Mathieu Friz ', ' Christoph Schlegel ', ' Sascha Frischknecht ']","['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Jamaica's-Finest,2014-06-24,[' Black Phantom Sound '],"['Hip', 'Hop', ""R'n'B""]"

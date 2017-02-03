@@ -1,38 +1,36 @@
-location,event,date,artists,genre
-Winterthur,Pianoduo,2014-03-01,"[' Doychin Raychev ', ' Miroslav Boyadzhiev ']",Classic
-Zürich,Orgel-Tanz-Spektakel,2014-03-01,"['Andrea Kobi ', ' Alexander Kionke ']",Classic
-Zürich,Orgelkonzert-von-A-bis-Z,2014-03-01,"[' Ueli Angstmann ', ' Christoph Sprenger ', ' Margrit Fluor ']",
-Zürich,Steirer-Quintett,2014-03-01,['Steirer Quintett '],traditional
-Zürich,Musik-fordert-Menschlichkeit,2014-03-01,"['Alexander Scherbakov ', ' Madalina Slav ']",Classic
-Luzern,Piano-Entertainment,2014-03-01,['Fabienne Ambühl '],
-Zürich,Superbonus-Night,2014-03-01,['Dai Kimoto & His Swing Kids '],
-Zürich,Piano-Dinner,2014-03-01,['Benjamin Herger '],Pop
-Zürich,The-4-Windows,2014-03-01,"[' Charlie H. ', ' Henry H. ', ' George C. ', ' Martin N. ', ' Peter James ']",Pop
-Bern,Sabat-Mater,2014-03-01,"[' Anne-Florence Marbot ', ' Irène Friedli ', ' Dominik Wortig ', ' Michel Brodard ']",Classic
-Zürich,Internationales-Country-Music-Festival,2014-03-01,['Shooter Jennings & Band '],
-Zürich,Konzert,2014-03-01,"['Benjamin Beilman ', ' Gabriele Carcano ']",Classic
-Basel,Orgelkonzert-Amsterdam-und-Hamburg,2014-03-01,['Frank van Wijk '],Classic
-Sursee,Metalblast,2014-03-01,[' The Black Passage '],
-Zürich,Mogollar,2014-03-01,"['Mogollar ', ' Cahit Berkay ', ' Taner Öngür ', ' Serhat Ersöz ', ' Emrah Karaca ']",
-Flawil,Take-Berlin,2014-03-01,['Take Berlin '],
-null,Internationales-Gitarrenfestival,2014-03-01,['Quique Sinesi '],
-Liebefeld,Morpho-Luna,2014-03-01,"[' Barbara Gfeller ', ' Oli Müller ']",
-Solothurn,Rhino-Bucket,2014-03-01,['Rhino Bucket '],
-Lyss,Brns,2014-03-01,['Brns '],
-Zürich,The-1975,2014-03-01,['The 1975 '],Pop
-Basel,Not-ill-but-nervous,2014-03-01,"[' Carl Rosman ', ' Anne-May Krüger ']",Classic
-Winterthur,Elements-of-Hip-Hop,2014-03-01,['Lord Lhus '],
-Lichtensteig,Noche-Argentina,2014-03-01,['Juan Esteban Cuacci & Gabriela Bergallo '],
-Zürich,Damien-Jurado,2014-03-01,['Damien Jurado '],Pop
-null,Defrage,2014-03-01,['Defrage '],
-Zürich,Mariam-The-Believer,2014-03-01,"['Mariam The Believer ', ' Mariam Wallentin ', ' Johan Berthling ', ' Tomas Hallonsten ', ' Andras Werliin ']",Pop
-Uster,Dusko-Goykovich-Quintet,2014-03-01,"['Dusko Goykovich Quintet ', ' Dusko Goykovich ', ' Jürgen Seefelder ', ' Olaf Polziehn ', ' Martin Gjakonovski ', ' Vladimir Kostadinovic ']",
-Winterthur,Duara,2014-03-01,['Duara '],
-Zürich,Forest-Swords,2014-03-01,['Forest Swords '],Electronic
-Zürich,Darkside,2014-03-01,"['Darkside ', ' Nicolas Jaar ', ' Dave Harrington ']",Electronic
-Bern,Annika-Strand,2014-03-01,['Annika Strand '],Pop
-null,Hildegard-Lernt-Fliegen,2014-03-01,"[' Andreas Schaerer ', ' Andreas Tschopp  ', ' Matthias Wenger ', ' Marco Müller ', ' Christoph Steiner ']",
-Sankt-Gallen,Cate-Le-Bon,2014-03-01,"['Cate Le Bon ', ' Islands ']",Pop
-Basel,Bscene,2014-03-01,[' Confuzed '],Pop
-Basel,Bscene,2014-03-01,[' Darrow '],
-Schaffhausen,The-Animen,2014-03-01,['The Animen '],
+,location,event,date,artists,genre
+0,Winterthur,Pianoduo,2014-03-01,"[' Doychin Raychev ', ' Miroslav Boyadzhiev ']",['Classic']
+1,Z?rich,Orgel-Tanz-Spektakel,2014-03-01,"['Andrea Kobi ', ' Alexander Kionke ']",['Classic']
+2,Z?rich,Orgelkonzert-von-A-bis-Z,2014-03-01,"[' Ueli Angstmann ', ' Christoph Sprenger ', ' Margrit Fluor ']","['Jazz', 'Blues', 'Soul']"
+3,Z?rich,Steirer-Quintett,2014-03-01,['Steirer Quintett '],['traditional']
+4,Luzern,Piano-Entertainment,2014-03-01,['Fabienne Amb?hl '],"['Jazz', 'Blues', 'Soul']"
+5,Z?rich,Superbonus-Night,2014-03-01,[' His Swing Kids '],"['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Musik-fordert-Menschlichkeit,2014-03-01,"['Alexander Scherbakov ', ' Madalina Slav ']",['Classic']
+7,Z?rich,Piano-Dinner,2014-03-01,['Benjamin Herger '],['Pop']
+8,Z?rich,The-4-Windows,2014-03-01,"[' Charlie H. ', ' Henry H. ', ' George C. ', ' Martin N. ', ' Peter James ']",['Pop']
+9,Basel,Orgelkonzert-Amsterdam-und-Hamburg,2014-03-01,['Frank van Wijk '],['Classic']
+10,Bern,Sabat-Mater,2014-03-01,"[' Anne-Florence Marbot ', ' Ir?ne Friedli ', ' Dominik Wortig ', ' Michel Brodard ']",['Classic']
+11,Z?rich,Konzert,2014-03-01,"['Benjamin Beilman ', ' Gabriele Carcano ']",['Classic']
+12,Sursee,Metalblast,2014-03-01,[' The Black Passage '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Z?rich,Mogollar,2014-03-01,"['Mogollar ', ' Cahit Berkay ', ' Taner ?ng?r ', ' Serhat Ers?z ', ' Emrah Karaca ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Basel,Not-ill-but-nervous,2014-03-01,"[' Carl Rosman ', ' Anne-May Kr?ger ']",['Classic']
+15,Flawil,Take-Berlin,2014-03-01,['Take Berlin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Solothurn,Rhino-Bucket,2014-03-01,['Rhino Bucket '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Z?rich,The-1975,2014-03-01,['The 1975 '],['Pop']
+18,null,Internationales-Gitarrenfestival,2014-03-01,['Quique Sinesi '],"['Jazz', 'Blues', 'Soul']"
+19,Liebefeld,Morpho-Luna,2014-03-01,"[' Barbara Gfeller ', ' Oli M?ller ']","['Jazz', 'Blues', 'Soul']"
+20,Winterthur,Elements-of-Hip-Hop,2014-03-01,['Lord Lhus '],"['Hip', 'Hop', ""R'n'B""]"
+21,Lichtensteig,Noche-Argentina,2014-03-01,[' Gabriela Bergallo '],"['world', 'music']"
+22,Z?rich,Damien-Jurado,2014-03-01,['Damien Jurado '],['Pop']
+23,Uster,Dusko-Goykovich-Quintet,2014-03-01,"['Dusko Goykovich Quintet ', ' Dusko Goykovich ', ' J?rgen Seefelder ', ' Olaf Polziehn ', ' Martin Gjakonovski ', ' Vladimir Kostadinovic ']","['Jazz', 'Blues', 'Soul']"
+24,null,Defrage,2014-03-01,['Defrage '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Z?rich,Mariam-The-Believer,2014-03-01,"['Mariam The Believer ', ' Mariam Wallentin ', ' Johan Berthling ', ' Tomas Hallonsten ', ' Andras Werliin ']",['Pop']
+26,Winterthur,Duara,2014-03-01,['Duara '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Z?rich,Forest-Swords,2014-03-01,['Forest Swords '],['Electronic']
+28,Z?rich,Darkside,2014-03-01,"['Darkside ', ' Nicolas Jaar ', ' Dave Harrington ']",['Electronic']
+29,Bern,Annika-Strand,2014-03-01,['Annika Strand '],['Pop']
+30,Sankt-Gallen,Cate-Le-Bon,2014-03-01,"['Cate Le Bon ', ' Islands ']",['Pop']
+31,null,Hildegard-Lernt-Fliegen,2014-03-01,"[' Andreas Schaerer ', ' Andreas Tschopp  ', ' Matthias Wenger ', ' Marco M?ller ', ' Christoph Steiner ']","['Jazz', 'Blues', 'Soul']"
+32,Basel,Bscene,2014-03-01,[' Confuzed '],['Pop']
+33,Basel,Bscene,2014-03-01,[' Darrow '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Schaffhausen,The-Animen,2014-03-01,['The Animen '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

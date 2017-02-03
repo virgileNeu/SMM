@@ -1,22 +1,22 @@
-location,event,date,artists,genre
-Winterthur,Die-Kultursuppe,2014-12-17,"['Christina Jaccard ', ' Roger Girod ']",
-Basel,Mimiko-Fantasia,2014-12-17,['Ricardo Leitão Pedro '],Classic
-Zürich,Glantaler-Power-Men,2014-12-17,['Glantaler Power Men '],Pop
-Baden,After-Work-Music-Nacht-Tanz,2014-12-17,"[' Sabine Bachmann-Frey ', ' Sven Bachmann ']",
-Zürich,Andrea-Schroeder,2014-12-17,['Andrea Schroeder '],Pop
-Zürich,Jazz-im-Seefeld,2014-12-17,"[' Thomas Grünwald ', ' Daniel Baschnage ', ' Lukas Gernet ', ' Peter Frei ', ' Pius Baschnagel ']",
-Winterthur,Jean-Sibelius-2,2014-12-17,[' Boris Brovtsyn '],Classic
-Schaffhausen,Weihnachten-im-Quartett,2014-12-17,['Salut Salon '],traditional
-Luzern,Jam-Session,2014-12-17,"[' Faruk Muslijevic ', ' Thomas Tavano ', ' Dragan Pijetlovic ', ' Andi Mötz ']",
-Zürich,The-Amazing-Snakeheads,2014-12-17,['The Amazing Snakeheads '],
-Zürich,Jazzbaragge-Wednesday-Jam,2014-12-17,"['François Lana ', ' Fabien Iannone ', ' Jonas Ruther ']",
-Basel,The-Harlem-Gospel-Singers,2014-12-17,['The Harlem Gospel Singers '],
-Zürich,Broilers,2014-12-17,"['Broilers ', ' Feine Sahne Fischfilet ']",
-Winterthur,Radio-Osaka,2014-12-17,"[' Andi Czech ', ' Stephan Thelen ', ' Christian Kuntner ', ' Benno Kaiser ']",
-Lausanne,Jordan-Klassen,2014-12-17,['Jordan Klassen '],
-Bern,Zatter-Stubete,2014-12-17,['Julian Sartorius '],
-Basel,Frederik-Heislers-Magnetband,2014-12-17,"[' Simon Girard ', ' Raphael Rosse ', ' Lou Lecaudey ', ' Florian Möbes ', ' Florian Favre ', ' Emanuel Teschke ', ' Frederik Heisler ']",
-Zürich,Artist-in-Residence-Simon-Berz,2014-12-17,"[' Linda Vogel ', ' Toktek ', ' Flo Stoffner ', ' Vincent Membrez ', ' Simon Berz ']",Pop
-Luzern,Workshopkonzert,2014-12-17,"[' Elio Amberg ', ' Gianluca Giger ', ' Emilio Jose Guim Valencia ', ' Raphael Loher ', ' Sebastian Pietrowiak ']",
-Bern,Moriarty,2014-12-17,"['Moriarty ', ' Rosemary Moriarty ', ' Tom Moriarty ', ' Arthur Moriarty ', ' Charles Moriarty ', ' Zim Moriarty ', ' Vincent Talpaert ']",
-Zürich,Hofmann-Nord-Stahel,2014-12-17,"[' Georg Hofmann ', ' Mike Nord ', ' Andreas Stahel ']",
+,location,event,date,artists,genre
+0,Winterthur,Die-Kultursuppe,2014-12-17,"['Christina Jaccard ', ' Roger Girod ']","['Hip', 'Hop', ""R'n'B""]"
+1,Basel,Mimiko-Fantasia,2014-12-17,['Ricardo Leit?o Pedro '],['Classic']
+2,Z?rich,Glantaler-Power-Men,2014-12-17,['Glantaler Power Men '],['Pop']
+3,Baden,After-Work-Music-Nacht-Tanz,2014-12-17,"[' Sabine Bachmann-Frey ', ' Sven Bachmann ']","['world', 'music']"
+4,Z?rich,Andrea-Schroeder,2014-12-17,['Andrea Schroeder '],['Pop']
+5,Schaffhausen,Weihnachten-im-Quartett,2014-12-17,['Salut Salon '],['traditional']
+6,Winterthur,Jean-Sibelius-2,2014-12-17,[' Boris Brovtsyn '],['Classic']
+7,Z?rich,Jazz-im-Seefeld,2014-12-17,"[' Thomas Gr?nwald ', ' Daniel Baschnage ', ' Lukas Gernet ', ' Peter Frei ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+8,Z?rich,Jazzbaragge-Wednesday-Jam,2014-12-17,"['Fran?ois Lana ', ' Fabien Iannone ', ' Jonas Ruther ']","['Jazz', 'Blues', 'Soul']"
+9,Z?rich,Broilers,2014-12-17,"['Broilers ', ' Feine Sahne Fischfilet ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Basel,The-Harlem-Gospel-Singers,2014-12-17,['The Harlem Gospel Singers '],"['world', 'music']"
+11,Z?rich,The-Amazing-Snakeheads,2014-12-17,['The Amazing Snakeheads '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Luzern,Jam-Session,2014-12-17,"[' Faruk Muslijevic ', ' Thomas Tavano ', ' Dragan Pijetlovic ', ' Andi M?tz ']","['world', 'music']"
+13,Winterthur,Radio-Osaka,2014-12-17,"[' Andi Czech ', ' Stephan Thelen ', ' Christian Kuntner ', ' Benno Kaiser ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Bern,Moriarty,2014-12-17,"['Moriarty ', ' Rosemary Moriarty ', ' Tom Moriarty ', ' Arthur Moriarty ', ' Charles Moriarty ', ' Zim Moriarty ', ' Vincent Talpaert ']","['Jazz', 'Blues', 'Soul']"
+15,Basel,Frederik-Heislers-Magnetband,2014-12-17,"[' Simon Girard ', ' Raphael Rosse ', ' Lou Lecaudey ', ' Florian M?bes ', ' Florian Favre ', ' Emanuel Teschke ', ' Frederik Heisler ']","['Jazz', 'Blues', 'Soul']"
+16,Lausanne,Jordan-Klassen,2014-12-17,['Jordan Klassen '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Z?rich,Artist-in-Residence-Simon-Berz,2014-12-17,"[' Linda Vogel ', ' Toktek ', ' Flo Stoffner ', ' Vincent Membrez ', ' Simon Berz ']",['Pop']
+18,Bern,Zatter-Stubete,2014-12-17,['Julian Sartorius '],"['Jazz', 'Blues', 'Soul']"
+19,Luzern,Workshopkonzert,2014-12-17,"[' Elio Amberg ', ' Gianluca Giger ', ' Emilio Jose Guim Valencia ', ' Raphael Loher ', ' Sebastian Pietrowiak ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Hofmann-Nord-Stahel,2014-12-17,"[' Georg Hofmann ', ' Mike Nord ', ' Andreas Stahel ']","['Jazz', 'Blues', 'Soul']"

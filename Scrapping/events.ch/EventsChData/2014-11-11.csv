@@ -1,19 +1,19 @@
-location,event,date,artists,genre
-Zürich,Glantaler-Power-Men,2014-11-11,['Glantaler Power Men '],Pop
-Zürich,Marianne-Racine's-Stormy-Weather,2014-11-11,"[' Marianne Racine ', ' Raphael Jost ', ' Raphael Walser ', ' Pius Baschnagel ']",
-Luzern,Skindred,2014-11-11,['Skindred '],
-Zürich,Cello-concertante,2014-11-11,[' Gavriel Lipkind '],Classic
-Bern,Wasserspiele,2014-11-11,['Hélène Grimaud '],Classic
-Zürich,Tschechische-Meisterwerke,2014-11-11,"[' Jonathan Gaus ', ' Franziska Ammer ', ' Grzegorz Mackiewicz ']",Classic
-Luzern,Konzert,2014-11-11,"[' Judith Graf ', ' Jordanka Milkova ', ' Kor-Jan Dusseljee ', ' Rudolf Rosen ']",Classic
-Basel,Konzert,2014-11-11,['Maurice Steger '],Classic
-Pratteln,Michael-Schenker,2014-11-11,['Michael Schenker '],
-Basel,Baloise-Session-Border-Crosser,2014-11-11,"['Dr. John feat. Arturo Sandoval & Sarah Morrow ', ' Monty Alexander ']",
-null,Hatebreed,2014-11-11,"['Hatebreed ', ' Napalm Death ']",
-Zürich,Addys-Mercedes,2014-11-11,['Addys Mercedes '],
-Zürich,L'Aupaire,2014-11-11,"[""L'Aupaire ""]",Pop
-Basel,Mike-Del-Ferro-Trio,2014-11-11,"[' Mike del Ferro ', ' Stephan Kurmann ', ' Dejan Terzic ']",
-Zürich,Erland-&-The-Carnival-abgesagt,2014-11-11,['Erland & The Carnival '],
-Luzern,Fraktal,2014-11-11,"[' Pascal Uebelhart ', ' Jan Herzog ', ' Andrea Nydegger ', ' Christof Mahnig ', ' Maja Nydegger ', ' Hannes Fankhauser ', ' Ricardo Castillo ']",
-Zürich,Marcus-Bonfanti,2014-11-11,"['Marcus Bonfanti ', ' Markus Bonfanti ', ' Scott Wiber ', ' Alex Reeves ']",
-Olten,Bibi-Vaplan,2014-11-11,['Bibi Vaplan '],Pop
+,location,event,date,artists,genre
+0,Z?rich,Glantaler-Power-Men,2014-11-11,['Glantaler Power Men '],['Pop']
+1,Z?rich,Marianne-Racine's-Stormy-Weather,2014-11-11,"[' Marianne Racine ', ' Raphael Jost ', ' Raphael Walser ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+2,Luzern,Konzert,2014-11-11,"[' Judith Graf ', ' Jordanka Milkova ', ' Kor-Jan Dusseljee ', ' Rudolf Rosen ']",['Classic']
+3,Basel,Konzert,2014-11-11,['Maurice Steger '],['Classic']
+4,Z?rich,Cello-concertante,2014-11-11,[' Gavriel Lipkind '],['Classic']
+5,Bern,Wasserspiele,2014-11-11,['H?l?ne Grimaud '],['Classic']
+6,Luzern,Skindred,2014-11-11,['Skindred '],"['Hip', 'Hop', ""R'n'B""]"
+7,Z?rich,Tschechische-Meisterwerke,2014-11-11,"[' Jonathan Gaus ', ' Franziska Ammer ', ' Grzegorz Mackiewicz ']",['Classic']
+8,Basel,Baloise-Session-Border-Crosser,2014-11-11,"[' Sarah Morrow ', ' Monty Alexander ']","['Jazz', 'Blues', 'Soul']"
+9,Z?rich,Addys-Mercedes,2014-11-11,['Addys Mercedes '],"['world', 'music']"
+10,Pratteln,Michael-Schenker,2014-11-11,['Michael Schenker '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,L'Aupaire,2014-11-11,"[""L'Aupaire ""]",['Pop']
+12,null,Hatebreed,2014-11-11,"['Hatebreed ', ' Napalm Death ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Luzern,Fraktal,2014-11-11,"[' Pascal Uebelhart ', ' Jan Herzog ', ' Andrea Nydegger ', ' Christof Mahnig ', ' Maja Nydegger ', ' Hannes Fankhauser ', ' Ricardo Castillo ']","['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Marcus-Bonfanti,2014-11-11,"['Marcus Bonfanti ', ' Markus Bonfanti ', ' Scott Wiber ', ' Alex Reeves ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Erland-&-The-Carnival-abgesagt,2014-11-11,[' The Carnival '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Basel,Mike-Del-Ferro-Trio,2014-11-11,"[' Mike del Ferro ', ' Stephan Kurmann ', ' Dejan Terzic ']","['Jazz', 'Blues', 'Soul']"
+17,Olten,Bibi-Vaplan,2014-11-11,['Bibi Vaplan '],['Pop']

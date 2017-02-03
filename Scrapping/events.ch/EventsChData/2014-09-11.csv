@@ -1,16 +1,16 @@
-location,event,date,artists,genre
-Liestal,Offkey,2014-09-11,"[' Marco Faseth ', ' Annika Hemmig ']",Pop
-Luzern,Alte-Musik-2,2014-09-11,[' Cecilia Bartoli '],Classic
-null,Benjamin-Engeli-spielt-mit-den-Akademischen-Orchestern-Zürichs,2014-09-11,[' Benjamin Engeli '],Classic
-Zürich,Konzert,2014-09-11,[' Yuja Wang '],Classic
-Montreux,Septembre-musical,2014-09-11,"['Royal Philharmonic Orchestra London ', ' James Ehnes ']",Classic
-Sargans,Die-Weber,2014-09-11,['Stummfilm '],Classic
-Winterthur,Blue-Bolero,2014-09-11,"[' Silvan Jeger ', ' Valentin Dietrich ', ' Maxime Paratte ']",
-Basel,Müller-Kramis-Baschnagel,2014-09-11,"[' Gregor Müller ', ' Herbert Kramis ', ' Andy Brugger ']",
-null,Marissa-Nadler,2014-09-11,"['Marissa Nadler ', ' Mick Turner ']",Pop
-Pratteln,Fox,2014-09-11,"[' Mark Fox ', ' Tom Naumann ', ' Frank Roessler ', ' Alex Jansen ', ' Markus Kullmann ']",
-Aarau,The-Slow-Show,2014-09-11,['The Slow Show '],
-Baden,Eliot-Chambers,2014-09-11,['Eliot Chambers '],
-Zürich,Sophie-Louise,2014-09-11,['Sophie Louise '],Pop
-Zürich,Birth-of-Joy,2014-09-11,['Birth of Joy '],
-Zürich,Falcone-Jam,2014-09-11,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",Pop
+,location,event,date,artists,genre
+0,Liestal,Offkey,2014-09-11,"[' Marco Faseth ', ' Annika Hemmig ']",['Pop']
+1,Luzern,Alte-Musik-2,2014-09-11,[' Cecilia Bartoli '],['Classic']
+2,null,Benjamin-Engeli-spielt-mit-den-Akademischen-Orchestern-Z?richs,2014-09-11,[' Benjamin Engeli '],['Classic']
+3,Montreux,Septembre-musical,2014-09-11,"['Royal Philharmonic Orchestra London ', ' James Ehnes ']",['Classic']
+4,Z?rich,Konzert,2014-09-11,[' Yuja Wang '],['Classic']
+5,Sargans,Die-Weber,2014-09-11,['Stummfilm '],['Classic']
+6,Winterthur,Blue-Bolero,2014-09-11,"[' Silvan Jeger ', ' Valentin Dietrich ', ' Maxime Paratte ']","['Jazz', 'Blues', 'Soul']"
+7,Baden,Eliot-Chambers,2014-09-11,['Eliot Chambers '],"['Jazz', 'Blues', 'Soul']"
+8,Pratteln,Fox,2014-09-11,"[' Mark Fox ', ' Tom Naumann ', ' Frank Roessler ', ' Alex Jansen ', ' Markus Kullmann ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,null,Marissa-Nadler,2014-09-11,"['Marissa Nadler ', ' Mick Turner ']",['Pop']
+10,Aarau,The-Slow-Show,2014-09-11,['The Slow Show '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Basel,M?ller-Kramis-Baschnagel,2014-09-11,"[' Gregor M?ller ', ' Herbert Kramis ', ' Andy Brugger ']","['Jazz', 'Blues', 'Soul']"
+12,Z?rich,Birth-of-Joy,2014-09-11,['Birth of Joy '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Z?rich,Sophie-Louise,2014-09-11,['Sophie Louise '],['Pop']
+14,Z?rich,Falcone-Jam,2014-09-11,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp H?fliger ', ' Mike Ryrie ']",['Pop']

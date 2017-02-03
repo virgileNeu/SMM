@@ -1,31 +1,31 @@
-location,event,date,artists,genre
-Zürich,Taufe-des-Herrn,2014-01-11,"['Rita Meier ', ' Felix Gubser ']",Classic
-Winterthur,Studierende-als-Solisten,2014-01-11,"[' Norihito Nishinomura ', ' Pei-Jung Wu ']",Classic
-Basel,Vortragsabend,2014-01-11,['Hans Joerg Fink '],Classic
-Illnau,Zauber-der-Musik,2014-01-11,[' Mathias Fuchs '],Classic
-Baden,The-Last-Decay,2014-01-11,[' Andy Rive '],
-Luzern,Piano-Entertainment,2014-01-11,['Christian Mettler '],Pop
-Kaltbrunn,Ave-Maria,2014-01-11,"['Una Prelle ', ' Ursula Ferri ']",Classic
-Zürich,The-Swiss-Celtic-Harp-Ensemble-feat.-Brendan-Wade,2014-01-11,[' Brendan Wade '],
-Zürich,Opera-Box-L'île-de-Tulipatan-&-Monsieur-Choufleury,2014-01-11,"[' Andrea Suter ', ' Chelsey Schill ', ' Maja Hermann ', ' Raimund Wiederkehr ', ' Erich Bieri ']",Classic
-Baden,Die-Winterreise,2014-01-11,[' Daniel Behle '],Classic
-Zürich,Eröffnungskonzert-Liszt-und-Reubke,2014-01-11,['Daniel Zaretzky '],Classic
-Basel,Bach-schweizerisch,2014-01-11,[' Reinhold Friedrich '],Classic
-Zürich,Frank-Powers,2014-01-11,['Frank Powers '],Pop
-Basel,Trommel-mit-Mann,2014-01-11,['Fritz Hauser '],Classic
-Oberengstringen,Albin-Brun-Trio-feat.-Isa-Wiss,2014-01-11,"[' Isa Wiss ', ' Albin Brun ', ' Patricia Dräger ', ' Claudio Strebel ']",
-null,Nik-Bärtschs-Ronin,2014-01-11,"[' Nik Bärtsch ', '  Sha ', ' Thomy Jordi ', ' Kaspar Rast ']",
-Zürich,De-profundis,2014-01-11,"[' Tomoko Akasaka ', ' Patrick Jüdt ', ' works by Friedrich Goldmann ', ' Klaus Lang ', ' Martin Jaggi ']",Classic
-Zürich,Silla,2014-01-11,"['Silla ', ' Liquit Walker & Joka ']",
-Zürich,Irène-Schweizer-&-Pierre-Favre,2014-01-11,['Irène Schweizer & Pierre Favre '],
-Zürich,Big-Bold-Back-Bone,2014-01-11,"[' Luis Lopez ', ' Sheldon Suter ', ' Travassos ', ' Marco von Orelli ']",
-Zürich,Goran-Kovacevic-&-Baro-Drom-Orkestar,2014-01-11,"[' Goran Kovacevic ', ' Modestino Musico ', ' Vieri Bugli ', ' Michele Staino ', ' Gabriele Pozzolini ']",
-Basel,Mario-Schneeberger,2014-01-11,"[' Mario Schneeberger ', ' Freddy Ropélé ', ' Walter Jauslin ', ' Michael Chylewski ', ' Christoph Mohler ']",
-Liestal,Peregrin-Trio,2014-01-11,"[' Tim Ohlsson ', ' Annina Völlmy ', ' Ilja Völmy Kudrjavtsev ']",
-Burgdorf,Marco-Marchi-&-The-Mojo-Workers,2014-01-11,"[' Marco Marchi ', ' Claudio Egli ', ' Fabio Bianchi ', ' Toby Stiftner ']",
-Wetzikon,Christina-Martin,2014-01-11,['Christina Martin '],Pop
-Aarau,Kashmir,2014-01-11,['Kashmir '],
-Sankt-Gallen,Big-Zis,2014-01-11,"[' Waraba ', ' Goormak ']",
-Thun,Maria-Doyle-Kennedy,2014-01-11,['Maria Doyle Kennedy '],
-Zürich,Afghan-Rock-Night,2014-01-11,"['Ariana Delawari ', ' White Page ']",
-Winterthur,Jake-The-Rapper,2014-01-11,"['Jake The Rapper ', ' Sven Dohse ']",
+,location,event,date,artists,genre
+0,Z?rich,Taufe-des-Herrn,2014-01-11,"['Rita Meier ', ' Felix Gubser ']",['Classic']
+1,Basel,Vortragsabend,2014-01-11,['Hans Joerg Fink '],['Classic']
+2,Winterthur,Studierende-als-Solisten,2014-01-11,"[' Norihito Nishinomura ', ' Pei-Jung Wu ']",['Classic']
+3,Luzern,Piano-Entertainment,2014-01-11,['Christian Mettler '],['Pop']
+4,Illnau,Zauber-der-Musik,2014-01-11,[' Mathias Fuchs '],['Classic']
+5,Baden,The-Last-Decay,2014-01-11,[' Andy Rive '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Kaltbrunn,Ave-Maria,2014-01-11,"['Una Prelle ', ' Ursula Ferri ']",['Classic']
+7,Z?rich,Opera-Box-L'?le-de-Tulipatan-&-Monsieur-Choufleury,2014-01-11,"[' Andrea Suter ', ' Chelsey Schill ', ' Maja Hermann ', ' Raimund Wiederkehr ', ' Erich Bieri ']",['Classic']
+8,Z?rich,Frank-Powers,2014-01-11,['Frank Powers '],['Pop']
+9,Z?rich,Er?ffnungskonzert-Liszt-und-Reubke,2014-01-11,['Daniel Zaretzky '],['Classic']
+10,Basel,Bach-schweizerisch,2014-01-11,[' Reinhold Friedrich '],['Classic']
+11,Baden,Die-Winterreise,2014-01-11,[' Daniel Behle '],['Classic']
+12,Z?rich,The-Swiss-Celtic-Harp-Ensemble-feat.-Brendan-Wade,2014-01-11,[' Brendan Wade '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Z?rich,De-profundis,2014-01-11,"[' Tomoko Akasaka ', ' Patrick J?dt ', ' works by Friedrich Goldmann ', ' Klaus Lang ', ' Martin Jaggi ']",['Classic']
+14,Z?rich,Ir?ne-Schweizer-&-Pierre-Favre,2014-01-11,[' Pierre Favre '],"['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Silla,2014-01-11,[' Joka '],"['Hip', 'Hop', ""R'n'B""]"
+16,Oberengstringen,Albin-Brun-Trio-feat.-Isa-Wiss,2014-01-11,"[' Isa Wiss ', ' Albin Brun ', ' Patricia Dr?ger ', ' Claudio Strebel ']","['Jazz', 'Blues', 'Soul']"
+17,null,Nik-B?rtschs-Ronin,2014-01-11,"[' Nik B?rtsch ', '  Sha ', ' Thomy Jordi ', ' Kaspar Rast ']","['Jazz', 'Blues', 'Soul']"
+18,Basel,Trommel-mit-Mann,2014-01-11,['Fritz Hauser '],['Classic']
+19,Z?rich,Big-Bold-Back-Bone,2014-01-11,"[' Luis Lopez ', ' Sheldon Suter ', ' Travassos ', ' Marco von Orelli ']","['Jazz', 'Blues', 'Soul']"
+20,Wetzikon,Christina-Martin,2014-01-11,['Christina Martin '],['Pop']
+21,Liestal,Peregrin-Trio,2014-01-11,"[' Tim Ohlsson ', ' Annina V?llmy ', ' Ilja V?lmy Kudrjavtsev ']","['Jazz', 'Blues', 'Soul']"
+22,Z?rich,Goran-Kovacevic-&-Baro-Drom-Orkestar,2014-01-11,"[' Goran Kovacevic ', ' Modestino Musico ', ' Vieri Bugli ', ' Michele Staino ', ' Gabriele Pozzolini ']","['world', 'music']"
+23,Basel,Mario-Schneeberger,2014-01-11,"[' Mario Schneeberger ', ' Freddy Rop?l? ', ' Walter Jauslin ', ' Michael Chylewski ', ' Christoph Mohler ']","['Jazz', 'Blues', 'Soul']"
+24,Burgdorf,Marco-Marchi-&-The-Mojo-Workers,2014-01-11,"[' Marco Marchi ', ' Claudio Egli ', ' Fabio Bianchi ', ' Toby Stiftner ']","['Jazz', 'Blues', 'Soul']"
+25,Aarau,Kashmir,2014-01-11,['Kashmir '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Sankt-Gallen,Big-Zis,2014-01-11,"[' Waraba ', ' Goormak ']","['Hip', 'Hop', ""R'n'B""]"
+27,Thun,Maria-Doyle-Kennedy,2014-01-11,['Maria Doyle Kennedy '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Z?rich,Afghan-Rock-Night,2014-01-11,"['Ariana Delawari ', ' White Page ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Winterthur,Jake-The-Rapper,2014-01-11,"['Jake The Rapper ', ' Sven Dohse ']","['Hip', 'Hop', ""R'n'B""]"

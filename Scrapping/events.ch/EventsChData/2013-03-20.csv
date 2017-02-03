@@ -1,31 +1,31 @@
-location,event,date,artists,genre
-Winterthur,Ryser-Girod,2013-03-20,"[' Benjamin Ryser ', ' Roger Girod ']",Pop
-Baden,MargotMargot,2013-03-20,"[' Ruth Margot  ', ' Res Margot ']",
-Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-03-20,['Mark Tenger '],
-Villmergen,Heldentaten,2013-03-20,[' Daniel Lichti '],Classic
-Luzern,The-Gospel-According-to-the-Other-Mary,2013-03-20,"["" Kelly O'Connor "", ' Tamara Mumford ', ' Russell Thomas ']",Classic
-Zürich,Konzert,2013-03-20,"[' Rex Lawson ', ' Evgeniya Sotnikova ', ' Anna Goryachova ', ' Goran Juric ']",Classic
-Bern,Internationales-Jazzfestival-Bern,2013-03-20,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']",
-Bern,Meisterzyklus,2013-03-20,[' Giuliano Carmignola '],Classic
-Basel,COOP-Sinfoniekonzert,2013-03-20,"[' Ingolf Wunder ', ' Katrin Wundsam ', ' Kurt Azesberger ', ' Robert Holzer ']",Classic
-Zürich,Electronics,2013-03-20,"[' Leopold Hurt ', ' Experimentalstudio des SWR ', ' Berger ']",Classic
-Palais-des-Congrès,null,2013-03-20,[' Tedi Papavramis '],Classic
-Zürich,Frank-Alpine,2013-03-20,['Frank Alpine '],Electronic
-Luzern,Gipsy-Groove-Band,2013-03-20,"['Gipsy Groove Band ', ' Bajram Kinolli ', ' Faruk Banjska ', ' Ivan Ivanov ', ' Enver Muhamedi ', ' Mirsad Dalipi ']",
-Zürich,Luk-von-Bergen,2013-03-20,['Luk van Bergen '],Pop
-Winterthur,Balthazar,2013-03-20,['Balthazar '],
-Komplex-457,Zürich,2013-03-20,['Black Rebel Motorcycle Club '],
-Winterthur,Der-Wawawa,2013-03-20,"[' Benedikt Reising ', ' Marco Müller ', ' Rico Baumann ']",
-Zürich,Faun,2013-03-20,['Faun '],
-Baden,Jam-mit-Hermans-Swing-Quartet,2013-03-20,"[' Hermann Hauenstein ', ' Gregor Loepfe ', ' Tico Keller ', ' René Grimm ']",
-Moods,Zürich,2013-03-20,"[' Sina ', ' Büne Huber ', ' Adrian Stern ', ' Erika Stucky ', ' Ritschi ', ' Peter Wagner ']",
-Zürich,Jazz-Baragge-Wednesday-Jam,2013-03-20,"['Oliver Keller ', ' Thomas Reineke ', ' Christian Niederer ']",
-Jazzkantine,Luzern,2013-03-20,"[' Valerio Lepori ', ' Nicolas Gurtner ', ' Nino Wenger ', ' Benjamin Danech ', ' Martial In-Albon ', ' Claudio Berger ', ' Flurin Iten ', ' Fabian Hänni ', ' Manuel Siebs ', ' Duke Gale ', ' Mani Bun ', ' Benjamin Kieser ', ' Mischa Maurer ', ' Oliver Jordan ', ' Leonardo Lepori ', ' Fabian Hänni ', ' Duke Gale ', ' Mischa Maurer ', ' Banjamin Muralt ', ' Mathias Meyer ', ' David Bucher ']",
-Winterthur,Kopek,2013-03-20,['Kopek '],
-Basel,Maximilian-Hecker,2013-03-20,['Maximilian Hecker '],Pop
-Wädenswil,Primo-piano,2013-03-20,['Christophe Berruex '],Classic
-Bern,Barbouze-de-chez-fior,2013-03-20,"[' Annick Rody ', ' Camille Stoll ', ' Laurence Crevoisier ', ' Sara Oswald ']",
-Basel,Paolo-Thorsen-Nagel-Projekt-feat.-Johannes-Enders,2013-03-20,"[' Johannes Enders ', ' Paolo Thorsen-Nagel ', ' Marc Méan ', ' Arne Huber ', ' Daniel Mudrack ']",
-Zürich,Nano-Blues-Band,2013-03-20,"[' Nano Kühne ', ' Bobby Rechsteiner ', ' Peter Knüsel ', ' Jochen Melmuka ']",
-Bar-Rossi,Zürich,2013-03-20,['Cody '],Cody
-Bern,Internationales-Jazzfestival-Bern,2013-03-20,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']",
+,location,event,date,artists,genre
+0,Winterthur,Ryser-Girod,2013-03-20,"[' Benjamin Ryser ', ' Roger Girod ']",['Pop']
+1,Baden,MargotMargot,2013-03-20,"[' Ruth Margot  ', ' Res Margot ']","['world', 'music']"
+2,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-03-20,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+3,Villmergen,Heldentaten,2013-03-20,[' Daniel Lichti '],['Classic']
+4,Luzern,The-Gospel-According-to-the-Other-Mary,2013-03-20,"["" Kelly O'Connor "", ' Tamara Mumford ', ' Russell Thomas ']",['Classic']
+5,Zürich,Konzert,2013-03-20,"[' Rex Lawson ', ' Evgeniya Sotnikova ', ' Anna Goryachova ', ' Goran Juric ']",['Classic']
+6,Bern,Internationales-Jazzfestival-Bern,2013-03-20,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']","['Jazz', 'Blues', 'Soul']"
+7,Bern,Meisterzyklus,2013-03-20,[' Giuliano Carmignola '],['Classic']
+8,Basel,COOP-Sinfoniekonzert,2013-03-20,"[' Ingolf Wunder ', ' Katrin Wundsam ', ' Kurt Azesberger ', ' Robert Holzer ']",['Classic']
+9,Komplex-457,Zürich,2013-03-20,['Black Rebel Motorcycle Club '],"['Black', 'Rebel', 'Motorcycle', 'Club']"
+10,Zürich,Electronics,2013-03-20,"[' Leopold Hurt ', ' Experimentalstudio des SWR ', ' Berger ']",['Classic']
+11,Palais-des-Congrès,null,2013-03-20,[' Tedi Papavramis '],['Classic']
+12,Zürich,Luk-von-Bergen,2013-03-20,['Luk van Bergen '],['Pop']
+13,Luzern,Gipsy-Groove-Band,2013-03-20,"['Gipsy Groove Band ', ' Bajram Kinolli ', ' Faruk Banjska ', ' Ivan Ivanov ', ' Enver Muhamedi ', ' Mirsad Dalipi ']","['world', 'music']"
+14,Winterthur,Balthazar,2013-03-20,['Balthazar '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Zürich,Frank-Alpine,2013-03-20,['Frank Alpine '],['Electronic']
+16,Winterthur,Der-Wawawa,2013-03-20,"[' Benedikt Reising ', ' Marco Müller ', ' Rico Baumann ']","['Jazz', 'Blues', 'Soul']"
+17,Baden,Jam-mit-Hermans-Swing-Quartet,2013-03-20,"[' Hermann Hauenstein ', ' Gregor Loepfe ', ' Tico Keller ', ' René Grimm ']","['Jazz', 'Blues', 'Soul']"
+18,Zürich,Jazz-Baragge-Wednesday-Jam,2013-03-20,"['Oliver Keller ', ' Thomas Reineke ', ' Christian Niederer ']","['Jazz', 'Blues', 'Soul']"
+19,Winterthur,Kopek,2013-03-20,['Kopek '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Bern,Barbouze-de-chez-fior,2013-03-20,"[' Annick Rody ', ' Camille Stoll ', ' Laurence Crevoisier ', ' Sara Oswald ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Jazzkantine,Luzern,2013-03-20,"[' Valerio Lepori ', ' Nicolas Gurtner ', ' Nino Wenger ', ' Benjamin Danech ', ' Martial In-Albon ', ' Claudio Berger ', ' Flurin Iten ', ' Fabian Hänni ', ' Manuel Siebs ', ' Duke Gale ', ' Mani Bun ', ' Benjamin Kieser ', ' Mischa Maurer ', ' Oliver Jordan ', ' Leonardo Lepori ', ' Fabian Hänni ', ' Duke Gale ', ' Mischa Maurer ', ' Banjamin Muralt ', ' Mathias Meyer ', ' David Bucher ']","['Dabu', 'Fantastic']"
+22,Moods,Zürich,2013-03-20,"[' Sina ', ' Büne Huber ', ' Adrian Stern ', ' Erika Stucky ', ' Ritschi ', ' Peter Wagner ']","['Adrian', 'Stern']"
+23,Zürich,Faun,2013-03-20,['Faun '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Basel,Paolo-Thorsen-Nagel-Projekt-feat.-Johannes-Enders,2013-03-20,"[' Johannes Enders ', ' Paolo Thorsen-Nagel ', ' Marc Méan ', ' Arne Huber ', ' Daniel Mudrack ']","['Jazz', 'Blues', 'Soul']"
+25,Wädenswil,Primo-piano,2013-03-20,['Christophe Berruex '],['Classic']
+26,Basel,Maximilian-Hecker,2013-03-20,['Maximilian Hecker '],['Pop']
+27,Zürich,Nano-Blues-Band,2013-03-20,"[' Nano Kühne ', ' Bobby Rechsteiner ', ' Peter Knüsel ', ' Jochen Melmuka ']","['Jazz', 'Blues', 'Soul']"
+28,Bar-Rossi,Zürich,2013-03-20,['Cody '],['Cody']
+29,Bern,Internationales-Jazzfestival-Bern,2013-03-20,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']","['Jazz', 'Blues', 'Soul']"

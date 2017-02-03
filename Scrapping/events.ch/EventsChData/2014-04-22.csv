@@ -1,11 +1,11 @@
-location,event,date,artists,genre
-Zürich,Jazzapero,2014-04-22,['Christina Jaccard '],
-Luzern,Piano-Entertainment,2014-04-22,['Daniel Ross '],
-Zürich,Rahn-Musikpreis-Preisträgerkonzert,2014-04-22,"[' Beatriz Blanco ', ' Vanessa Hunt Russell ', ' Rustem Monasypov ', ' Miriam Prandi ']",Classic
-Zürich,Farbmusik,2014-04-22,['Hanspeter Kruesi '],
-Zürich,A-Cyclothymia-of-Songs,2014-04-22,"[' Lander Gyselinck ', ' Corinne Huber ', ' Franziska Bruecker ']",Pop
-Zürich,Ambrose-Akinmusire-Quintet,2014-04-22,"[' Ambrose Akinmusire ', ' Walter Smith ', ' Sam Harris ', ' Harish Ragahavan ', ' Justin Brown ']",
-Lausanne,True-Widow,2014-04-22,['True Widow '],
-Pratteln,The-Dead-Lovers,2014-04-22,['The Dead Lovers '],
-Zürich,Will-Henderson,2014-04-22,['Will Henderson '],
-Basel,Windhand,2014-04-22,"['Windhand ', ' Inter Arma ']",
+,location,event,date,artists,genre
+0,Z?rich,Jazzapero,2014-04-22,['Christina Jaccard '],"['Jazz', 'Blues', 'Soul']"
+1,Z?rich,Rahn-Musikpreis-Preistr?gerkonzert,2014-04-22,"[' Beatriz Blanco ', ' Vanessa Hunt Russell ', ' Rustem Monasypov ', ' Miriam Prandi ']",['Classic']
+2,Z?rich,Kinderszenen-op.-15,2014-04-22,"['Ayumi Kato ', ' Taiki Kato ', ' Andrina Roediger ']",['Classic']
+3,Z?rich,A-Cyclothymia-of-Songs,2014-04-22,"[' Lander Gyselinck ', ' Corinne Huber ', ' Franziska Bruecker ']",['Pop']
+4,Z?rich,Farbmusik,2014-04-22,['Hanspeter Kruesi '],"['Jazz', 'Blues', 'Soul']"
+5,Z?rich,Ambrose-Akinmusire-Quintet,2014-04-22,"[' Ambrose Akinmusire ', ' Walter Smith ', ' Sam Harris ', ' Harish Ragahavan ', ' Justin Brown ']","['Jazz', 'Blues', 'Soul']"
+6,Pratteln,The-Dead-Lovers,2014-04-22,['The Dead Lovers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Lausanne,True-Widow,2014-04-22,['True Widow '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Z?rich,Will-Henderson,2014-04-22,['Will Henderson '],"['world', 'music']"
+9,Basel,Windhand,2014-04-22,"['Windhand ', ' Inter Arma ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

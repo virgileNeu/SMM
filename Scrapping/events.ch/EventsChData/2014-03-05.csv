@@ -1,30 +1,29 @@
-location,event,date,artists,genre
-Winterthur,Ein-Haydn-Spass,2014-03-05,[' Cäcilia Chmel '],Classic
-Basel,Mimiko-Mysteria,2014-03-05,['Ilja Kudrjavtsev '],Classic
-Luzern,Piano-Entertainment,2014-03-05,['Mark Tenger '],
-Winterthur,Ein-Haydn-Spass,2014-03-05,[' Cäcilia Chmel '],Classic
-Zürich,Internationales-Country-Music-Festival,2014-03-05,['Sarah Jory & Band '],
-Zug,Keynote-Jazz,2014-03-05,"[' Dieter Ringli ', ' Dieter Sulzer ']",
-Thun,The-Original-Wailers,2014-03-05,"[' Al Anderson ', ' Tyrone Downie ', ' Chet Samuels ']",
-Zürich,Joshua-Redman-Quartet,2014-03-05,"['Joshua Redman Quartet ', ' Joshua Redman ', ' Aaron Goldberg ', ' Reuben Rogers ', ' Greg Hutchinson ']",
-Zürich,The-Pretty-Reckless,2014-03-05,['The Pretty Reckless '],
-Zürich,Tim-Bendzko-&-Band,2014-03-05,"['Tim Bendzko & Band ', ' support: Tom Klose ']",Pop
-null,Tinariwen,2014-03-05,['Tinariwen '],
-null,Joe-Bonamassa,2014-03-05,['Joe Bonamassa '],
-Zürich,Flo-Mega-&-The-Ruffcats,2014-03-05,['Flo Mega & The Ruffcats '],
-Zürich,Jazzbaragge-Wednesday-Jam,2014-03-05,"['Floriano Ignacio Jr. ', ' Dudu Penz ', ' Florain Reichle ']",
-Winterthur,Jazz-am-Mittwoch,2014-03-05,"[' Gabriela Friedli ', ' Daniel Studer ', ' Dieter Ulrich ']",
-Winterthur,Ghost-Town-Trio-feat.-Brandy-Butler,2014-03-05,"[' Brandy Butler ', ' Urs Vögeli ', ' Claude Meier ', ' Lukas Mantel ']",
-Zürich,Colin-Vallon-Trio,2014-03-05,"['Colin Vallon Trio ', ' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-Baden,Prima-Jam,2014-03-05,"[' Elio Amberg ', ' Claude Stucki ', ' Mathieu Friz ', ' Pascal Eugster ', ' Lukas Blattner ']",
-Zug,Egli-Santana-Group,2014-03-05,"[' Gileno Santana ', ' Florian Egli ', ' Dave Gisler ', ' Raffaele Bossard ', ' Jonas Burgwinkel ']",
-Aarau,The-Gladiators-feat.-Droop-Lion,2014-03-05,['The Gladiators feat. Droop Lion '],
-Basel,guitars@basel,2014-03-05,"[' Marc Ullrich ', ' Adam Taubitz ', ' Simone Bollini ', ' Dominik Schürmann ', ' Christoph Mohler ']",
-Zürich,Tim-Holehouse,2014-03-05,['Tim Holehouse '],
-Zürich,Cloud-Boat,2014-03-05,['Cloud Boat '],
-Zürich,Boy-&-Bear,2014-03-05,['Boy & Bear '],
-Basel,Crystal-Stilts,2014-03-05,['Crystal Stilts '],
-Winterthur,Solrize,2014-03-05,['Solrize '],
-Zürich,Bukowski-&-From-Here-Till-Now,2014-03-05,"['Mode Moderne ', ' Cosmetics ']",
-null,Valley-of-the-Sun,2014-03-05,"['Valley of the Sun ', ' White Miles ']",
-Rubigen,Pippo-Pollina-&-Palermo-Acoustic-Quartett,2014-03-05,['Pippo Pollina & Palermo Acoustic Quartett '],Pop
+,location,event,date,artists,genre
+0,Winterthur,Ein-Haydn-Spass,2014-03-05,[' C?cilia Chmel '],['Classic']
+1,Basel,Mimiko-Mysteria,2014-03-05,['Ilja Kudrjavtsev '],['Classic']
+2,Z?rich,Internationales-Country-Music-Festival,2014-03-05,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Winterthur,Ein-Haydn-Spass,2014-03-05,[' C?cilia Chmel '],['Classic']
+4,Zug,Keynote-Jazz,2014-03-05,"[' Dieter Ringli ', ' Dieter Sulzer ']","['Jazz', 'Blues', 'Soul']"
+5,null,Joe-Bonamassa,2014-03-05,['Joe Bonamassa '],"['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Jazzbaragge-Wednesday-Jam,2014-03-05,"['Floriano Ignacio Jr. ', ' Dudu Penz ', ' Florain Reichle ']","['Jazz', 'Blues', 'Soul']"
+7,null,Tinariwen,2014-03-05,['Tinariwen '],"['world', 'music']"
+8,Z?rich,The-Pretty-Reckless,2014-03-05,['The Pretty Reckless '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Tim-Bendzko-&-Band,2014-03-05,"[' Band ', ' support: Tom Klose ']",['Pop']
+10,Z?rich,Joshua-Redman-Quartet,2014-03-05,"['Joshua Redman Quartet ', ' Joshua Redman ', ' Aaron Goldberg ', ' Reuben Rogers ', ' Greg Hutchinson ']","['Jazz', 'Blues', 'Soul']"
+11,Thun,The-Original-Wailers,2014-03-05,"[' Al Anderson ', ' Tyrone Downie ', ' Chet Samuels ']","['world', 'music']"
+12,Z?rich,Flo-Mega-&-The-Ruffcats,2014-03-05,[' The Ruffcats '],"['Hip', 'Hop', ""R'n'B""]"
+13,Winterthur,Jazz-am-Mittwoch,2014-03-05,"[' Gabriela Friedli ', ' Daniel Studer ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+14,Winterthur,Ghost-Town-Trio-feat.-Brandy-Butler,2014-03-05,"[' Brandy Butler ', ' Urs V?geli ', ' Claude Meier ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Colin-Vallon-Trio,2014-03-05,"['Colin Vallon Trio ', ' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Cloud-Boat,2014-03-05,['Cloud Boat '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Baden,Prima-Jam,2014-03-05,"[' Elio Amberg ', ' Claude Stucki ', ' Mathieu Friz ', ' Pascal Eugster ', ' Lukas Blattner ']","['Jazz', 'Blues', 'Soul']"
+18,Zug,Egli-Santana-Group,2014-03-05,"[' Gileno Santana ', ' Florian Egli ', ' Dave Gisler ', ' Raffaele Bossard ', ' Jonas Burgwinkel ']","['Jazz', 'Blues', 'Soul']"
+19,Basel,guitars@basel,2014-03-05,"[' Marc Ullrich ', ' Adam Taubitz ', ' Simone Bollini ', ' Dominik Sch?rmann ', ' Christoph Mohler ']","['Jazz', 'Blues', 'Soul']"
+20,Basel,guitars@basel,2014-03-05,"[' Marc Ullrich ', ' Adam Taubitz ', ' Simone Bollini ', ' Dominik Sch?rmann ', ' Christoph Mohler ']","['Jazz', 'Blues', 'Soul']"
+21,Z?rich,Tim-Holehouse,2014-03-05,['Tim Holehouse '],"['Jazz', 'Blues', 'Soul']"
+22,Basel,Crystal-Stilts,2014-03-05,['Crystal Stilts '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Winterthur,Solrize,2014-03-05,['Solrize '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Z?rich,Bukowski-&-From-Here-Till-Now,2014-03-05,"['Mode Moderne ', ' Cosmetics ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Aarau,The-Gladiators-feat.-Droop-Lion,2014-03-05,['The Gladiators feat. Droop Lion '],"['world', 'music']"
+26,null,Valley-of-the-Sun,2014-03-05,"['Valley of the Sun ', ' White Miles ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Rubigen,Pippo-Pollina-&-Palermo-Acoustic-Quartett,2014-03-05,[' Palermo Acoustic Quartett '],['Pop']

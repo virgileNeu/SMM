@@ -1,35 +1,36 @@
-location,event,date,artists,genre
-Zürich,Der-Tonräuber-Szenisches-Familienkonzert,2013-01-26,"['Yukiko Ishibashi ', ' Luis Esnaola ', ' Ursula Sarnthein ', ' Christine Hu ']",Classic
-Zürich,Wo-ist-Mami-Krabbel-Konzert,2013-01-26,"['Roman Schmid ', ' Xavier Alig ', ' Naoki Kitaya ', ' Silvan Hürlimann ']",Classic
-Alte-Kaserne,Zürich,2013-01-26,"['Asphyx ', ' 1349 ', ' Vader ', ' Ragnarok ', ' Aborted ', ' Bonded By Blood ']",Aborted
-Aarau,Jazz,2013-01-26,"[' Danilo Boggini ', ' Sandro di Pisa ', ' Alberto Guareschi ', ' Mauro Pesenti ']",
--Halle-1019,Winterthur,2013-01-26,[' Edmauro de Oliveira '],
-Bern,Konzert,2013-01-26,['Claire Huangci '],Classic
-Zürich,"""Feuerzungen""-Jubiläumskonzert",2013-01-26,"['Kammerorchester der Philharmonie Novosibirsk ', ' Martin Heini ', ' Marco Schubiger ']",Classic
-null,Angry-Buddha,2013-01-26,"['Angry Buddha ', ' Drizella ']",
-Buochs,Musikalisches-Opfer,2013-01-26,"['Mazrice Heugen ', ' Bartek Niziol ', ' Alexander Brincken ']",Classic
-Zürich,Konzert,2013-01-26,[' conductor: Alain Altinoglu '],Classic
--Alte-Kirche,Boswil,2013-01-26,"[' Heidi-Maria Makkonen ', ' Olivia Schenkel ', ' Christian Hieronymi ', ' Yvonne Ritter ']",Classic
-Luzern,Giuseppe-Verdi,2013-01-26,"[' Markus Wursch ', ' Ursula Toscheff ', ' Tomi Kuusisto ']",Classic
-Winterthur,Buenos-Aires-Madrigal,2013-01-26,"[' Susanna Moncayo ', ' Furio Zanasi ', ' conductor: Eduardo Egüez ']",Classic
-Thun,Sinfoniekonzert,2013-01-26,"['Charlotte Dentan ', ' Antonios Stoitsoglou ', ' Uwe Schönbeck ']",Classic
-Zürich,Tangoorchester-Las-Mafaldas,2013-01-26,"[' Nina Baredi ', ' Verena Pavoni ', ' Susanne Bretscher ', ' Christine Meier ', ' Annetta Debrunner ', ' Regula Gutierrez ', ' Monika Hächler ', ' Caroline Fahrni ']",
-Basel,Ladies'-Night,2013-01-26,"['Geneviève Strosser ', ' Françoise Rivalland ', ' María Cecilia Muñoz ']",Classic
-Liestal,Winterkonzert,2013-01-26,[' Sumina Studer '],Classic
-Zug,XL-Target,2013-01-26,"[' Joseph Bowie ', ' KJ Christy Doran ', ' Dave Doran ']",
-Zürich,Mutiny-on-the-Bounty,2013-01-26,['Mutiny on the Bounty '],
-Basel,Hildegard-lernt-fliegen,2013-01-26,"['Andreas Schaerer ', ' Benedikt Reising ', ' Matthias Wenger ', ' Andreas Tschopp ', ' Marco Müller ', ' Christoph Steiner ']",
-Baden,Boogie-Connection,2013-01-26,"['Boogie Connection ', ' Thomas Scheytt ', ' Christoph Pfaff ', ' Hiram Mutschler ']",
-Zürich,Kara-Sylla-Ka,2013-01-26,"['Kara Sylla Ka ', ' Maciré Sylla ', ' Kara Sylla Ka ', ' Youssouf Diabate ', ' Franco Casagrande ', ' Koller ', ' Yves Marguet ', ' Bruno Duvall ']",
-KiFF,Aarau,2013-01-26,['Huss & Hodn '],
-Kaserne,Basel,2013-01-26,['Navel '],Navel
-Lausanne,Kendrick-Lamar,2013-01-26,['Kendrick Lamar '],
-null,Elina-Duni-Quartet,2013-01-26,"[' Elina Duni ', ' Colin Vallon ', ' Patrice Moret ', ' Norbert Pfammater ']",
-Thun,Electric-Hellessence,2013-01-26,['Electric Hellessence '],
-Zürich,Love-&-Girls,2013-01-26,['Love & Girls '],
-Lyss,Viva-Punk,2013-01-26,"['Abbruch ', ' Missstand ']",
-KiFF,Aarau,2013-01-26,['Hurricane Dean '],
--Halle-1019,Winterthur,2013-01-26,[' Marilia Vargas '],
-Komplex-457,Zürich,2013-01-26,"['Foreign Beggars ', ' Bare Noize ']",
-Lausanne,2ManyDJs,2013-01-26,['2ManyDJs '],Electronic
-Zürich,Suomi-Disco-Vol.-8,2013-01-26,"['DJs Karpalo ', ' Kersantti Kankkunen ', ' Pikku E ']",
+,location,event,date,artists,genre
+0,Zürich,Der-Tonräuber-Szenisches-Familienkonzert,2013-01-26,"['Yukiko Ishibashi ', ' Luis Esnaola ', ' Ursula Sarnthein ', ' Christine Hu ']",['Classic']
+1,Zürich,Wo-ist-Mami-Krabbel-Konzert,2013-01-26,"['Roman Schmid ', ' Xavier Alig ', ' Naoki Kitaya ', ' Silvan Hürlimann ']",['Classic']
+2,Alte-Kaserne,Zürich,2013-01-26,"['Asphyx ', ' 1349 ', ' Vader ', ' Ragnarok ', ' Aborted ', ' Bonded By Blood ']",['Aborted']
+3,Aarau,Jazz,2013-01-26,"[' Danilo Boggini ', ' Sandro di Pisa ', ' Alberto Guareschi ', ' Mauro Pesenti ']","['Jazz', 'Blues', 'Soul']"
+4,-Halle-1019,Winterthur,2013-01-26,[' Edmauro de Oliveira '],"['world', 'music']"
+5,Bern,Konzert,2013-01-26,['Claire Huangci '],['Classic']
+6,null,Angry-Buddha,2013-01-26,"['Angry Buddha ', ' Drizella ']","['Jazz', 'Blues', 'Soul']"
+7,Buochs,Musikalisches-Opfer,2013-01-26,"['Mazrice Heugen ', ' Bartek Niziol ', ' Alexander Brincken ']",['Classic']
+8,Zürich,"""Feuerzungen""-Jubiläumskonzert",2013-01-26,"['Kammerorchester der Philharmonie Novosibirsk ', ' Martin Heini ', ' Marco Schubiger ']",['Classic']
+9,Winterthur,Buenos-Aires-Madrigal,2013-01-26,"[' Susanna Moncayo ', ' Furio Zanasi ', ' conductor: Eduardo Egüez ']",['Classic']
+10,Zürich,Konzert,2013-01-26,[' conductor: Alain Altinoglu '],['Classic']
+11,Thun,Sinfoniekonzert,2013-01-26,"['Charlotte Dentan ', ' Antonios Stoitsoglou ', ' Uwe Schönbeck ']",['Classic']
+12,-Alte-Kirche,Boswil,2013-01-26,"[' Heidi-Maria Makkonen ', ' Olivia Schenkel ', ' Christian Hieronymi ', ' Yvonne Ritter ']",['Classic']
+13,Luzern,Giuseppe-Verdi,2013-01-26,"[' Markus Wursch ', ' Ursula Toscheff ', ' Tomi Kuusisto ']",['Classic']
+14,Zürich,Tangoorchester-Las-Mafaldas,2013-01-26,"[' Nina Baredi ', ' Verena Pavoni ', ' Susanne Bretscher ', ' Christine Meier ', ' Annetta Debrunner ', ' Regula Gutierrez ', ' Monika Hächler ', ' Caroline Fahrni ']","['world', 'music']"
+15,Zürich,Mutiny-on-the-Bounty,2013-01-26,['Mutiny on the Bounty '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Basel,Ladies'-Night,2013-01-26,"['Geneviève Strosser ', ' Françoise Rivalland ', ' María Cecilia Muñoz ']",['Classic']
+17,Zug,XL-Target,2013-01-26,"[' Joseph Bowie ', ' KJ Christy Doran ', ' Dave Doran ']","['Hip', 'Hop', ""R'n'B""]"
+18,Liestal,Winterkonzert,2013-01-26,[' Sumina Studer '],['Classic']
+19,Basel,Hildegard-lernt-fliegen,2013-01-26,"['Andreas Schaerer ', ' Benedikt Reising ', ' Matthias Wenger ', ' Andreas Tschopp ', ' Marco Müller ', ' Christoph Steiner ']","['Jazz', 'Blues', 'Soul']"
+20,Zürich,Kara-Sylla-Ka,2013-01-26,"['Kara Sylla Ka ', ' Maciré Sylla ', ' Kara Sylla Ka ', ' Youssouf Diabate ', ' Franco Casagrande ', ' Koller ', ' Yves Marguet ', ' Bruno Duvall ']","['world', 'music']"
+21,Baden,Boogie-Connection,2013-01-26,"['Boogie Connection ', ' Thomas Scheytt ', ' Christoph Pfaff ', ' Hiram Mutschler ']","['Jazz', 'Blues', 'Soul']"
+22,Kaserne,Basel,2013-01-26,['Navel '],['Navel']
+23,Lausanne,Kendrick-Lamar,2013-01-26,['Kendrick Lamar '],"['Hip', 'Hop', ""R'n'B""]"
+24,null,Elina-Duni-Quartet,2013-01-26,"[' Elina Duni ', ' Colin Vallon ', ' Patrice Moret ', ' Norbert Pfammater ']","['Jazz', 'Blues', 'Soul']"
+25,KiFF,Aarau,2013-01-26,['Huss & Hodn '],"['Huss', '&', 'Hodn']"
+26,Cham,Alison-Burnside-Express,2013-01-26,['Alison Burnside Express '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Thun,Electric-Hellessence,2013-01-26,['Electric Hellessence '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Lyss,Viva-Punk,2013-01-26,"['Abbruch ', ' Missstand ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Zürich,Love-&-Girls,2013-01-26,['Love & Girls '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,-Halle-1019,Winterthur,2013-01-26,[' Marilia Vargas '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+31,KiFF,Aarau,2013-01-26,['Hurricane Dean '],"['Hurricane', 'Dean']"
+32,Komplex-457,Zürich,2013-01-26,"['Foreign Beggars ', ' Bare Noize ']","['Foreign', 'Beggars']"
+33,Lausanne,2ManyDJs,2013-01-26,['2ManyDJs '],['Electronic']
+34,Zürich,Suomi-Disco-Vol.-8,2013-01-26,"['DJs Karpalo ', ' Kersantti Kankkunen ', ' Pikku E ']","['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

@@ -1,20 +1,20 @@
-location,event,date,artists,genre
-Zürich,Mad-Cobra,2014-08-01,['Mad Cobra '],
-Verbier,Verbier-Festival,2014-08-01,['Haochen Zhang '],Classic
-Brienz,Brienzersee-Rockfestival,2014-08-01,"['Fiddlers Green ', ' Bonafide ', ' Glory Hammer ', ' The New Roses ']",
-Luzern,Piano-Entertainment,2014-08-01,['Daniel Roos '],Pop
-Winterthur,Lenzin-Brothers,2014-08-01,"[' Peter Lenzin ', ' Enrico Lenzin ']",
-Vals,Jenny-Chi,2014-08-01,"[' Jenny Chi ', ' Oliver Pellet ', ' Thomas Silvestri ', ' Ralph Sonderegger ']",
-Basel,Orgelspiel-zum-Feierabend,2014-08-01,['Christoph Lowis '],Classic
-Verbier,Verbier-Festival,2014-08-01,"['Joshua Bell ', ' Pamela Frank ', ' Yuri Bashmet ', ' Nobuko Imai ', ' Steven Isserlis ', ' Ksenia Bashmet ', ' Marc-André Hamelin ']",Classic
-Luzern,The-Dictators,2014-08-01,['The Dictators '],
-Basel,Stimmen,2014-08-01,['Vocalconsort '],Classic
-Verbier,Verbier-Festival,2014-08-01,"['Jerusalem Quartet ', ' Alexander Bedenko ']",Classic
-Bern,Bejazz-Sommer,2014-08-01,"[' Juan Munguía ', ' Gerry López ', ' Bernhard Bamert ', ' Michael Fleiner ', ' Peter Bálázs ', ' Mambi Argüelles-Puey ', ' Jean-Baptiste Baldazza ']",
-Basel,Im-Fluss,2014-08-01,['Karamelo Santo '],
-Zürich,Stadtsommer,2014-08-01,"[' Dimitri Grimm ', ' Fennesz ', ' Dorian Concept ']",Electronic
-St.-Moritz,Festival-da-Jazz,2014-08-01,"[' Othella Dallas ', ' Sina ', ' Thomas Moeckel ', ' Alex Hendricksen ', ' Hannes Bürgi ', ' Urs Müller ', ' Michael Chylewski ', ' Lukas Gasser ']",
-Bern,Chico-Trujillo,2014-08-01,['Chico Trujillo '],
-Basel,Orient-Meets-Occident,2014-08-01,[' Tanz-Show mit Ibraheem Abd Elmaksoud '],
-Lausanne,Agnes-Obel,2014-08-01,['Agnes Obel '],
-St.-Moritz,Festival-da-Jazz,2014-08-01,"[' Greg Galli ', ' Christ Muzik ', ' Javier Gomez ', ' Herbie Kopf ', ' Massimo Buonanno ']",
+,location,event,date,artists,genre
+0,Z?rich,Mad-Cobra,2014-08-01,['Mad Cobra '],"['Hip', 'Hop', ""R'n'B""]"
+1,Verbier,Verbier-Festival,2014-08-01,['Haochen Zhang '],['Classic']
+2,Brienz,Brienzersee-Rockfestival,2014-08-01,"['Fiddlers Green ', ' Bonafide ', ' Glory Hammer ', ' The New Roses ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Vals,Jenny-Chi,2014-08-01,"[' Jenny Chi ', ' Oliver Pellet ', ' Thomas Silvestri ', ' Ralph Sonderegger ']","['Jazz', 'Blues', 'Soul']"
+4,Luzern,Piano-Entertainment,2014-08-01,['Daniel Roos '],['Pop']
+5,Winterthur,Lenzin-Brothers,2014-08-01,"[' Peter Lenzin ', ' Enrico Lenzin ']","['Jazz', 'Blues', 'Soul']"
+6,Basel,Orgelspiel-zum-Feierabend,2014-08-01,['Christoph Lowis '],['Classic']
+7,Verbier,Verbier-Festival,2014-08-01,"['Joshua Bell ', ' Pamela Frank ', ' Yuri Bashmet ', ' Nobuko Imai ', ' Steven Isserlis ', ' Ksenia Bashmet ', ' Marc-Andr? Hamelin ']",['Classic']
+8,Luzern,The-Dictators,2014-08-01,['The Dictators '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Verbier,Verbier-Festival,2014-08-01,"['Jerusalem Quartet ', ' Alexander Bedenko ']",['Classic']
+10,Basel,Stimmen,2014-08-01,['Vocalconsort '],['Classic']
+11,Bern,Bejazz-Sommer,2014-08-01,"[' Juan Mungu?a ', ' Gerry L?pez ', ' Bernhard Bamert ', ' Michael Fleiner ', ' Peter B?l?zs ', ' Mambi Arg?elles-Puey ', ' Jean-Baptiste Baldazza ']","['world', 'music']"
+12,Z?rich,Stadtsommer,2014-08-01,"[' Dimitri Grimm ', ' Fennesz ', ' Dorian Concept ']",['Electronic']
+13,St.-Moritz,Festival-da-Jazz,2014-08-01,"[' Othella Dallas ', ' Sina ', ' Thomas Moeckel ', ' Alex Hendricksen ', ' Hannes B?rgi ', ' Urs M?ller ', ' Michael Chylewski ', ' Lukas Gasser ']","['Jazz', 'Blues', 'Soul']"
+14,Basel,Im-Fluss,2014-08-01,['Karamelo Santo '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Bern,Chico-Trujillo,2014-08-01,['Chico Trujillo '],"['world', 'music']"
+16,Basel,Orient-Meets-Occident,2014-08-01,[' Tanz-Show mit Ibraheem Abd Elmaksoud '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+17,Lausanne,Agnes-Obel,2014-08-01,['Agnes Obel '],"['Jazz', 'Blues', 'Soul']"
+18,St.-Moritz,Festival-da-Jazz,2014-08-01,"[' Greg Galli ', ' Christ Muzik ', ' Javier Gomez ', ' Herbie Kopf ', ' Massimo Buonanno ']","['Jazz', 'Blues', 'Soul']"

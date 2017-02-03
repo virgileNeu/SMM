@@ -1,16 +1,16 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-02-05,['Mark Tenger '],
-Zürich,Spoerri-Girod,2013-02-05,"[' Bruno Spoerri ', ' Roger Girod ']",
-Zürich,Konzert,2013-02-05,"['Viktoria Mullova ', ' Mathew Barley ', ' Paul Clarvis ', ' Julian Joseph ', ' Sam Walton ']",Classic
-Zürich,Black-Light-Burns-feat.-Wes-Borland,2013-02-05,"['Black Light Burns feat. Wes Borland ', ' support: Jayce Lewis ']",
-Komplex-457,Zürich,2013-02-05,"['Dropkick Murphys ', ' Frank Turner And The Sleeping Souls ']",
-Fri-Son,null,2013-02-05,"['The Joy Formidable ', ' Ritzy Bryan ']",
-Volkshaus,Zürich,2013-02-05,['Rea Garvey '],
-Zürich,Bukowski,2013-02-05,['Emily Wells '],
-Bern,Chang-Drouin,2013-02-05,['Chang-Drouin '],
-Zürich,Ensemble-5,2013-02-05,"[' Elliott Levin ', ' Robert Morgenthaler ', ' Reto Staub ', ' Fridolin Blumer ', ' Heinz Geisser ']",
-Luzern,Maren-Kessler,2013-02-05,"[' Maren Kessler ', ' David Schwarz ', ' Michael Büschelmann ']",
-Zürich,Gregory-Porter,2013-02-05,"[' Gregory Porter ', ' Chip Crawfort ', ' Aaron James ', ' Emmanuel Harold ', ' Yosuke Sate ']",
-Reussbühl,Pepe-Stirnimann-Schulz,2013-02-05,"[' Mischa Stirnimann ', ' Arno Schulz ', ' Pistolero Pepe ']",
-Hinterhof,Basel,2013-02-05,['Efterklang '],Efterklang
-Lausanne,Motorama,2013-02-05,['Motorama '],Electronic
+,location,event,date,artists,genre
+0,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-02-05,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+1,Zürich,Spoerri-Girod,2013-02-05,"[' Bruno Spoerri ', ' Roger Girod ']","['Jazz', 'Blues', 'Soul']"
+2,Zürich,Black-Light-Burns-feat.-Wes-Borland,2013-02-05,"['Black Light Burns feat. Wes Borland ', ' support: Jayce Lewis ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Komplex-457,Zürich,2013-02-05,"['Dropkick Murphys ', ' Frank Turner And The Sleeping Souls ']","['Dropkick', 'Murphys']"
+4,Zürich,Konzert,2013-02-05,"['Viktoria Mullova ', ' Mathew Barley ', ' Paul Clarvis ', ' Julian Joseph ', ' Sam Walton ']",['Classic']
+5,Fri-Son,null,2013-02-05,"['The Joy Formidable ', ' Ritzy Bryan ']","['The', 'Joy', 'Formidable']"
+6,Zürich,Bukowski,2013-02-05,['Emily Wells '],"['Hip', 'Hop', ""R'n'B""]"
+7,Volkshaus,Zürich,2013-02-05,['Rea Garvey '],"['Rea', 'Garvey']"
+8,Bern,Chang-Drouin,2013-02-05,['Chang-Drouin '],"['Jazz', 'Blues', 'Soul']"
+9,Zürich,Ensemble-5,2013-02-05,"[' Elliott Levin ', ' Robert Morgenthaler ', ' Reto Staub ', ' Fridolin Blumer ', ' Heinz Geisser ']","['Jazz', 'Blues', 'Soul']"
+10,Zürich,Gregory-Porter,2013-02-05,"[' Gregory Porter ', ' Chip Crawfort ', ' Aaron James ', ' Emmanuel Harold ', ' Yosuke Sate ']","['Jazz', 'Blues', 'Soul']"
+11,Reussbühl,Pepe-Stirnimann-Schulz,2013-02-05,"[' Mischa Stirnimann ', ' Arno Schulz ', ' Pistolero Pepe ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Luzern,Maren-Kessler,2013-02-05,"[' Maren Kessler ', ' David Schwarz ', ' Michael Büschelmann ']","['Jazz', 'Blues', 'Soul']"
+13,Hinterhof,Basel,2013-02-05,['Efterklang '],['Efterklang']
+14,Lausanne,Motorama,2013-02-05,['Motorama '],['Electronic']

@@ -1,40 +1,39 @@
-location,event,date,artists,genre
-Winterthur,Kedem-Ensemble,2014-12-20,"[' Tayla G. A Solan ', ' Antonello Messina ', ' Omri Hason ', ' Zhubin Kalhor ']",
-Basel,MidiMusique,2014-12-20,"[' Alice Borciani ', ' Riccardo Pisani ']",Classic
-Basel,Familienkonzert-Jingle-All-the-Way,2014-12-20,[' Lilia Tripodi '],Classic
-Zürich,Glantaler-Power-Men,2014-12-20,['Glantaler Power Men '],Pop
-Sursee,Hellvetia-Day,2014-12-20,"[' Profanity ', ' Chordotomy ']",
-Luzern,Hardcore-United-Fest-II,2014-12-20,"[' Pathways ', "" Dead Cowboy's Sluts "", ' Sly Old Dog ', ' I Cut Your Own Name ']",
-null,Weihnachtliches-Harfenkonzert,2014-12-20,['Daniela Lorenz '],Classic
-Wabern,Dinner-mit-Frank-Sinatra,2014-12-20,['Sinatra Tribute Band '],
-Hinwil,Adventskonzert,2014-12-20,"['Giuliano Carmignola ', ' Ricardo Doni ']",Classic
-Winterthur,Festliches-Adventskonzert,2014-12-20,"['Corinne Kappeler ', ' Urs Dahinden ', ' Rony Dahinden ']",Classic
-Zürich,Konzert,2014-12-20,"[' Maya Boog ', ' Anne-Florence Marbot ', ' Sonja Leutwyler ', ' Rolf Romei ', ' Jan Martin Mächler ', ' Peter Brechbühler ']",Classic
-Zürich,Classic-Christmas-Tour,2014-12-20,['The Ten Tenors '],Classic
-Brugg,Advent-Songs,2014-12-20,"[' Conny Schock ', ' Daniel Schwenger ']",Pop
-Basel,Magnificat,2014-12-20,"[' Gudrun Sidonie Otto ', ' Ulrike Andersen ', ' David Munderloh ', ' Samuel Hasselhorn ']",Classic
-Hinwil,Adventskonzert,2014-12-20,"['Giuliano Carmignola ', ' Ricardo Doni ']",Classic
-Zürich,Gaspard-de-la-Nuit,2014-12-20,['Timur Gasratov '],Classic
-Luzern,Furbaz-&-Band,2014-12-20,"['Marie Louise Werth ', ' Giusep Quinter ', ' Gion Andrea Casanova ', ' Ursin Defuns ']",Classic
-Dietikon,"Jahresend-Konzert-Circolo-Culturale-""Sandro-Pertini""",2014-12-20,"[' Maria De Lourdes Rodrigues Martins ', ' Alejandro Escobar ']",Classic
-Basel,Chakuza,2014-12-20,['Chakuza '],
-null,Weihnachtslieder-aus-aller-Welt,2014-12-20,"[' Roger Widmer ', ' Sonja Huber ', ' Marc Hunziker ', ' Laura Cesar ', ' Jürg Voney ']",Classic
-Chur,New-York-Ska-Jazz-Ensemble,2014-12-20,['New York Ska Jazz Ensemble '],
-Winterthur,Peter's-Playstation-feat.-Andy-Scherrer,2014-12-20,"[' Andy Scherrer ', ' Eric Hunziker ', ' Gregor Müller ', ' Silvan Jeger ', ' Chris Jäger Brown ', ' Peter Preibisch ']",
-Baden,Alderbuebe,2014-12-20,"[' Walter Alder ', ' Michael Bösch ', ' Willi Valotti ', ' Köbi Schiess ']",traditional
-null,Kol-Kedem,2014-12-20,"[' Talya G. A Solan ', ' Zhubin Kalhor ', ' Antonello Messina ']",
-Winterthur,Burst-&-Bloom,2014-12-20,"['French Nails ', ' Pssgs ', ' Pretty Hurts ']",
-Uster,Zinc,2014-12-20,"[' Hans Feigenwinter ', ' Domenic Landolf ', ' Andreas Tschopp ']",
-Liestal,Bait-Jaffe-Klezmer-Orchestra-Flying-High,2014-12-20,"[' Sascha Schönhaus ', ' Andreas Wäldele ', ' Niculin Christen ']",
-Basel,Su-Brodbeck-Känzig-Stulz,2014-12-20,"[' Nat Su ', ' Jean-Paul Brodbeck ', ' Heiri Känzig ', ' Michael Stulz ']",
-Zürich,Olivia-Pedroli,2014-12-20,"[' Olivia Pedroli ', ' Denis Corboz ', ' Nicolas Bamberger ']",Pop
-Brugg,Mighty-Roots,2014-12-20,"[' MG Florentine ', ' Jörg Bader ', ' Peter Shanti Sterchi ', ' Mani Bun ', ' Ayana ', ' Hans Holliger ', ' Ralf Schick ', ' Doris Kessler ', ' Damian Hersche ', ' Daniel Rapold ']",
-Baden,Jamaram,2014-12-20,['Jamaram '],
-Thun,Gasandji,2014-12-20,['Gasandji '],
-Schaffhausen,M.O.P.,2014-12-20,['M.O.P. '],
-Zürich,Pamplona-Grup,2014-12-20,"[' Diminik Meyer ', ' Fabian Mösch ', ' Benedikt Fischer ']",
-Bern,Zatter-Stubete,2014-12-20,['Julian Sartorius '],
-Basel,Fritz-Kalkbrenner,2014-12-20,['Fritz Kalkbrenner '],Electronic
-Basel,Fritz-Kalkbrenner,2014-12-20,['Fritz Kalkbrenner '],Electronic
-null,La-nuit-blanche,2014-12-20,"['Max The Sax ', ' DJs Badre ']",
-Bern,Trabant-Echo-Orchestra,2014-12-20,"[' Tobias von Glenck ', ' Martin Lorenz ', ' David Schnee ', ' Nicola Romano ', ' Simone Keller ', ' Willy Strehler ']",
+,location,event,date,artists,genre
+0,Basel,MidiMusique,2014-12-20,"[' Alice Borciani ', ' Riccardo Pisani ']",['Classic']
+1,Winterthur,Kedem-Ensemble,2014-12-20,"[' Tayla G. A Solan ', ' Antonello Messina ', ' Omri Hason ', ' Zhubin Kalhor ']","['world', 'music']"
+2,Basel,Familienkonzert-Jingle-All-the-Way,2014-12-20,[' Lilia Tripodi '],['Classic']
+3,Luzern,Hardcore-United-Fest-II,2014-12-20,"[' Pathways ', "" Dead Cowboy's Sluts "", ' Sly Old Dog ', ' I Cut Your Own Name ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,Glantaler-Power-Men,2014-12-20,['Glantaler Power Men '],['Pop']
+5,Sursee,Hellvetia-Day,2014-12-20,"[' Profanity ', ' Chordotomy ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Wabern,Dinner-mit-Frank-Sinatra,2014-12-20,['Sinatra Tribute Band '],"['Jazz', 'Blues', 'Soul']"
+7,null,Weihnachtliches-Harfenkonzert,2014-12-20,['Daniela Lorenz '],['Classic']
+8,Z?rich,Konzert,2014-12-20,"[' Maya Boog ', ' Anne-Florence Marbot ', ' Sonja Leutwyler ', ' Rolf Romei ', ' Jan Martin M?chler ', ' Peter Brechb?hler ']",['Classic']
+9,Brugg,Advent-Songs,2014-12-20,"[' Conny Schock ', ' Daniel Schwenger ']",['Pop']
+10,Luzern,Furbaz-&-Band,2014-12-20,"['Marie Louise Werth ', ' Giusep Quinter ', ' Gion Andrea Casanova ', ' Ursin Defuns ']",['Classic']
+11,Basel,Magnificat,2014-12-20,"[' Gudrun Sidonie Otto ', ' Ulrike Andersen ', ' David Munderloh ', ' Samuel Hasselhorn ']",['Classic']
+12,Winterthur,Festliches-Adventskonzert,2014-12-20,"['Corinne Kappeler ', ' Urs Dahinden ', ' Rony Dahinden ']",['Classic']
+13,Z?rich,Gaspard-de-la-Nuit,2014-12-20,['Timur Gasratov '],['Classic']
+14,Z?rich,Classic-Christmas-Tour,2014-12-20,['The Ten Tenors '],['Classic']
+15,Hinwil,Adventskonzert,2014-12-20,"['Giuliano Carmignola ', ' Ricardo Doni ']",['Classic']
+16,Hinwil,Adventskonzert,2014-12-20,"['Giuliano Carmignola ', ' Ricardo Doni ']",['Classic']
+17,Dietikon,"Jahresend-Konzert-Circolo-Culturale-""Sandro-Pertini""",2014-12-20,"[' Maria De Lourdes Rodrigues Martins ', ' Alejandro Escobar ']",['Classic']
+18,Chur,New-York-Ska-Jazz-Ensemble,2014-12-20,['New York Ska Jazz Ensemble '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,null,Weihnachtslieder-aus-aller-Welt,2014-12-20,"[' Roger Widmer ', ' Sonja Huber ', ' Marc Hunziker ', ' Laura Cesar ', ' J?rg Voney ']",['Classic']
+20,Basel,Chakuza,2014-12-20,['Chakuza '],"['Hip', 'Hop', ""R'n'B""]"
+21,Winterthur,Peter's-Playstation-feat.-Andy-Scherrer,2014-12-20,"[' Andy Scherrer ', ' Eric Hunziker ', ' Gregor M?ller ', ' Silvan Jeger ', ' Chris J?ger Brown ', ' Peter Preibisch ']","['Jazz', 'Blues', 'Soul']"
+22,Basel,Su-Brodbeck-K?nzig-Stulz,2014-12-20,"[' Nat Su ', ' Jean-Paul Brodbeck ', ' Heiri K?nzig ', ' Michael Stulz ']","['Jazz', 'Blues', 'Soul']"
+23,Z?rich,Olivia-Pedroli,2014-12-20,"[' Olivia Pedroli ', ' Denis Corboz ', ' Nicolas Bamberger ']",['Pop']
+24,null,Kol-Kedem,2014-12-20,"[' Talya G. A Solan ', ' Zhubin Kalhor ', ' Antonello Messina ']","['Jazz', 'Blues', 'Soul']"
+25,Baden,Alderbuebe,2014-12-20,"[' Walter Alder ', ' Michael B?sch ', ' Willi Valotti ', ' K?bi Schiess ']",['traditional']
+26,Winterthur,Burst-&-Bloom,2014-12-20,"['French Nails ', ' Pssgs ', ' Pretty Hurts ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Liestal,Bait-Jaffe-Klezmer-Orchestra-Flying-High,2014-12-20,"[' Sascha Sch?nhaus ', ' Andreas W?ldele ', ' Niculin Christen ']","['world', 'music']"
+28,Uster,Zinc,2014-12-20,"[' Hans Feigenwinter ', ' Domenic Landolf ', ' Andreas Tschopp ']","['Jazz', 'Blues', 'Soul']"
+29,Brugg,Mighty-Roots,2014-12-20,"[' MG Florentine ', ' J?rg Bader ', ' Peter Shanti Sterchi ', ' Mani Bun ', ' Ayana ', ' Hans Holliger ', ' Ralf Schick ', ' Doris Kessler ', ' Damian Hersche ', ' Daniel Rapold ']","['Hip', 'Hop', ""R'n'B""]"
+30,Baden,Jamaram,2014-12-20,['Jamaram '],"['Hip', 'Hop', ""R'n'B""]"
+31,Thun,Gasandji,2014-12-20,['Gasandji '],"['Hip', 'Hop', ""R'n'B""]"
+32,null,La-nuit-blanche,2014-12-20,"['Max The Sax ', ' DJs Badre ']","['Jazz', 'Blues', 'Soul']"
+33,Z?rich,Pamplona-Grup,2014-12-20,"[' Diminik Meyer ', ' Fabian M?sch ', ' Benedikt Fischer ']","['Jazz', 'Blues', 'Soul']"
+34,Bern,Zatter-Stubete,2014-12-20,['Julian Sartorius '],"['Jazz', 'Blues', 'Soul']"
+35,Schaffhausen,M.O.P.,2014-12-20,['M.O.P. '],"['Hip', 'Hop', ""R'n'B""]"
+36,Basel,Fritz-Kalkbrenner,2014-12-20,['Fritz Kalkbrenner '],['Electronic']
+37,Bern,Trabant-Echo-Orchestra,2014-12-20,"[' Tobias von Glenck ', ' Martin Lorenz ', ' David Schnee ', ' Nicola Romano ', ' Simone Keller ', ' Willy Strehler ']","['Jazz', 'Blues', 'Soul']"

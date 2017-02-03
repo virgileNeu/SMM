@@ -1,42 +1,42 @@
-location,event,date,artists,genre
-null,Electron-Festival,2013-03-30,"['Baron Oufo ', ' Sogar ']",Electronic
-Winterthur,Duo-Escarlata,2013-03-30,"['Daniela Hunziker ', ' Ina Hofmann ']",Classic
-Männedorf,Harfe-Violine-Visuelles,2013-03-30,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-Luzern,Marks-Special,2013-03-30,"['Martin Schaefer ', ' Mark Tenger ']",
-Zürich,Matthäus-Passion,2013-03-30,"[' Dorothee Mields ', ' Hana Blaíková ', ' Damien Guillon ', ' Robin Blaze ', ' Maximilian Schmitt ']",Classic
-Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-03-30,['Mark Tenger '],
-Uster,Battalion,2013-03-30,[' Sublime Eyes '],
-Zofingen,Passionskonzert,2013-03-30,"[' Dela Hüttner ', ' Mirjam Blessing ', ' Felix Rienth ', ' Peter Mächler ']",Classic
-Bern,Internationales-Jazzfestival-Bern,2013-03-30,['Shemekia Copeland '],
-Dübendorf,Liederabend-zur-Osterzeit,2013-03-30,"['Barbara Zinniker ', ' Roswitha Müller ', ' Valentina Pfister-Modestova ']",Classic
-Zürich,Farbmusik-4-Jahreszeiten-Konzert,2013-03-30,['Hanspeter Kruesi '],
-Chur,Tolis,2013-03-30,['Tolis '],Pop
-Kongresshaus,Zürich,2013-03-30,['The Ten Tenors '],
-Schlieren,Bruno-&-Marrone,2013-03-30,['Bruno & Marrone '],Pop
-Zürich,Andy-Burrows,2013-03-30,['Andy Burrows '],Pop
-Kulturclub-Maison-Pierre,Burgdorf,2013-03-30,"[' Schmidi Schmidhauser ', ' Joel Kaiser ', ' Bernhard Häberlin ', ' Anselmo Torres ', ' Christoph Fluri ', ' Serge Rüfenacht ', ' Daniel ""Y"" Meyer ']",
-null,Les-Hay-Babies,2013-03-30,['Les Hay Babies '],Pop
-Zürich,Kolektif-Istanbul,2013-03-30,"['Kolektif Istanbul ', ' Richard Laniepce ', ' Asli Dogan ', ' Ertan Sahin ', ' Tamer Karaoglu ']",
-Wädenswil,Pâqu'son-Musikfestival,2013-03-30,['Sarah Savoy & The Francadians '],
-Baden,Bonnie-&-the-groove-Cats,2013-03-30,['Bonnie & the groove Cats '],
-Zug,Stuberein,2013-03-30,['Stuberein '],Pop
-Baden,Blues-Blend,2013-03-30,"['Blues Blend ', ' Reinhard Bassenge ', ' Henning Eichler ', ' André Huthmann ', ' Jörn Bösel ', ' Thomas Frömming ']",
-Winterthur,Elizabeth,2013-03-30,[' Daggers '],
-Klosters,Spinnler-Stiefel,2013-03-30,"[' Lisette Spinnler ', ' Christoph Stiefel ']",
-Zürich,Krönungsmesse,2013-03-30,"[' Rechsteiner ', ' Anja Muth ', ' Reto Hofstetter ', ' Jürg Krattinger ']",Classic
-Langenthal,Chornfisch,2013-03-30,"[' Stephan Oberli ', ' Tony Palmieri ', ' Marc Bilat ', ' Christof Erlacher ', ' Küsu Walther ']",
-Villa-Wahnsinn,null,2013-03-30,['Jürgen Drews '],
-Aarau,Crimson-Rain,2013-03-30,['Crimson Rain '],
-Bern,500-10-Unlimited,2013-03-30,"[' Julian Sartorius ', ' Wolfgang Zwiauer ']",Electronic
-Zürich,Navigator,2013-03-30,"[' Gabriel Spahni ', ' James Gruntz ', ' Pablo Vögtli ', ' Simon Britschgi ', ' Giuliano Sulzberger ', ' Matthew Savnik ']",Pop
-Arbon,Unort,2013-03-30,"[' Manuel Diem ', ' Oscar van Hoogevest ']",Pop
-Zürich,Tucano,2013-03-30,['Tucano '],Electronic
-null,Mai-Lan,2013-03-30,"[' Mai Lan ', ' Max Labarthe ', ' Rémi Alexandre ']",
-Cham,Vdelli,2013-03-30,['Vdelli '],
-Rote-Fabrik,Zürich,2013-03-30,['Naked Lunch '],
-Rorschach,El-bachatazo,2013-03-30,"['DJs Sampa ', ' Elvis ']",
-Bern,Internationales-Jazzfestival-Bern,2013-03-30,['Shemekia Copeland '],
-Lyss,Zion-Step,2013-03-30,['Zion Step '],
-Basel,Busy-Signal,2013-03-30,['Busy Signal '],
-Interlaken,Inner-Circle,2013-03-30,['Inner Circle '],
-Zürich,Grupo-Niche,2013-03-30,['Grupo Niche '],
+,location,event,date,artists,genre
+0,null,Electron-Festival,2013-03-30,"['Baron Oufo ', ' Sogar ']",['Electronic']
+1,Winterthur,Duo-Escarlata,2013-03-30,"['Daniela Hunziker ', ' Ina Hofmann ']",['Classic']
+2,Männedorf,Harfe-Violine-Visuelles,2013-03-30,"[' Corinne Kappeler ', ' Daniel Treyer ']",['Classic']
+3,Zürich,Matthäus-Passion,2013-03-30,"[' Dorothee Mields ', ' Hana Blaíková ', ' Damien Guillon ', ' Robin Blaze ', ' Maximilian Schmitt ']",['Classic']
+4,Luzern,Marks-Special,2013-03-30,"['Martin Schaefer ', ' Mark Tenger ']","['Hip', 'Hop', ""R'n'B""]"
+5,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-03-30,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+6,Uster,Battalion,2013-03-30,[' Sublime Eyes '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Zofingen,Passionskonzert,2013-03-30,"[' Dela Hüttner ', ' Mirjam Blessing ', ' Felix Rienth ', ' Peter Mächler ']",['Classic']
+8,Dübendorf,Liederabend-zur-Osterzeit,2013-03-30,"['Barbara Zinniker ', ' Roswitha Müller ', ' Valentina Pfister-Modestova ']",['Classic']
+9,Zürich,Farbmusik-4-Jahreszeiten-Konzert,2013-03-30,['Hanspeter Kruesi '],"['Jazz', 'Blues', 'Soul']"
+10,Bern,Internationales-Jazzfestival-Bern,2013-03-30,['Shemekia Copeland '],"['Jazz', 'Blues', 'Soul']"
+11,Chur,Tolis,2013-03-30,['Tolis '],['Pop']
+12,Kongresshaus,Zürich,2013-03-30,['The Ten Tenors '],"['The', 'Ten', 'Tenors']"
+13,Schlieren,Bruno-&-Marrone,2013-03-30,['Bruno & Marrone '],['Pop']
+14,Zürich,Andy-Burrows,2013-03-30,['Andy Burrows '],['Pop']
+15,Kulturclub-Maison-Pierre,Burgdorf,2013-03-30,"[' Schmidi Schmidhauser ', ' Joel Kaiser ', ' Bernhard Häberlin ', ' Anselmo Torres ', ' Christoph Fluri ', ' Serge Rüfenacht ', ' Daniel ""Y"" Meyer ']","['Chica', 'Torpedo']"
+16,null,Les-Hay-Babies,2013-03-30,['Les Hay Babies '],['Pop']
+17,Winterthur,Elizabeth,2013-03-30,[' Daggers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Baden,Blues-Blend,2013-03-30,"['Blues Blend ', ' Reinhard Bassenge ', ' Henning Eichler ', ' André Huthmann ', ' Jörn Bösel ', ' Thomas Frömming ']","['Jazz', 'Blues', 'Soul']"
+19,Zug,Stuberein,2013-03-30,['Stuberein '],['Pop']
+20,Zürich,Kolektif-Istanbul,2013-03-30,"['Kolektif Istanbul ', ' Richard Laniepce ', ' Asli Dogan ', ' Ertan Sahin ', ' Tamer Karaoglu ']","['world', 'music']"
+21,Wädenswil,Pâqu'son-Musikfestival,2013-03-30,['Sarah Savoy & The Francadians '],"['world', 'music']"
+22,Klosters,Spinnler-Stiefel,2013-03-30,"[' Lisette Spinnler ', ' Christoph Stiefel ']","['Jazz', 'Blues', 'Soul']"
+23,Baden,Bonnie-&-the-groove-Cats,2013-03-30,['Bonnie & the groove Cats '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Zürich,Krönungsmesse,2013-03-30,"[' Rechsteiner ', ' Anja Muth ', ' Reto Hofstetter ', ' Jürg Krattinger ']",['Classic']
+25,Villa-Wahnsinn,null,2013-03-30,['Jürgen Drews '],"['Jürgen', 'Drews']"
+26,null,Mai-Lan,2013-03-30,"[' Mai Lan ', ' Max Labarthe ', ' Rémi Alexandre ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Cham,Vdelli,2013-03-30,['Vdelli '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Zürich,Tucano,2013-03-30,['Tucano '],['Electronic']
+29,Langenthal,Chornfisch,2013-03-30,"[' Stephan Oberli ', ' Tony Palmieri ', ' Marc Bilat ', ' Christof Erlacher ', ' Küsu Walther ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Zürich,Navigator,2013-03-30,"[' Gabriel Spahni ', ' James Gruntz ', ' Pablo Vögtli ', ' Simon Britschgi ', ' Giuliano Sulzberger ', ' Matthew Savnik ']",['Pop']
+31,Aarau,Crimson-Rain,2013-03-30,['Crimson Rain '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Arbon,Unort,2013-03-30,"[' Manuel Diem ', ' Oscar van Hoogevest ']",['Pop']
+33,Bern,500-10-Unlimited,2013-03-30,"[' Julian Sartorius ', ' Wolfgang Zwiauer ']",['Electronic']
+34,Rote-Fabrik,Zürich,2013-03-30,['Naked Lunch '],"['Naked', 'Lunch']"
+35,Lyss,Zion-Step,2013-03-30,['Zion Step '],"['Hip', 'Hop', ""R'n'B""]"
+36,Basel,Busy-Signal,2013-03-30,['Busy Signal '],"['Hip', 'Hop', ""R'n'B""]"
+37,Bern,Internationales-Jazzfestival-Bern,2013-03-30,['Shemekia Copeland '],"['Jazz', 'Blues', 'Soul']"
+38,Rorschach,El-bachatazo,2013-03-30,"['DJs Sampa ', ' Elvis ']","['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+39,Interlaken,Inner-Circle,2013-03-30,['Inner Circle '],"['world', 'music']"
+40,Zürich,Grupo-Niche,2013-03-30,['Grupo Niche '],"['world', 'music']"

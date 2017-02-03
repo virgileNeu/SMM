@@ -1,40 +1,38 @@
-location,event,date,artists,genre
-Winterthur,Konzert,2014-10-04,"[' Anna Gordos ', ' Jaão Bastos ', ' Chelsea Czuchra ', ' Karen Krüttli-Child ', ' Felix Haller ']",Classic
-null,Konzert,2014-10-04,['Evelyn Glennie '],Classic
-Winterthur,Herbstkonzerte,2014-10-04,"['John Thade ', ' Annkatrin Isaacs ']",Classic
-null,Blonde-Redhead,2014-10-04,['Blonde Redhead '],
-Zürich,Angel-Olsen,2014-10-04,"['Angel Olsen ', ' Rodrigo Amarante ']",
-Luzern,Radio-Pilatus-Music-Night,2014-10-04,['Sunrise Avenue '],Pop
-null,Hussy-Hicks,2014-10-04,['Hussy Hicks '],
-Dübendorf,Jazztage-Germany,2014-10-04,"['Three Fall ', ' Lutz Streun ', ' Til Schneider ', ' Sebastian Winne ']",
-Chur,Insomnia-Fest,2014-10-04,"["" Emma's Daydream ""]",
-Zürich,Der-schwarze-Ball,2014-10-04,"['VNV Nation ', ' Torul ']",Pop
-Lausanne,In-Flames,2014-10-04,['In Flames '],
-Chur,Konzert,2014-10-04,['Anna Vinnitskaya '],Classic
-Zürich,Schmaz-and-The-Fabulous-Jukebox,2014-10-04,"[' Gallus Hächler ', ' Marcel Benedikt ', ' Rainer Fröhlich ']",Pop
-Winterthur,Songs-from-Utopia,2014-10-04,"[' Rebekka Zarkava ', ' g) Jura Dolezal ']",
-Feuerthalen,Global-Player-World-Dance-II,2014-10-04,[' SPCZ '],
-Zürich,Carminho,2014-10-04,"['Carminho ', ' Carminho ', ' Luis Guerreiro ', ' Diogo Clemente ', ' Marino de Freitas ']",
-Zürich,Nick-Howard,2014-10-04,"['Nick Howard ', ' Tyrone Wells ']",Pop
-Maur,Harfe-Violine-Visuelles,2014-10-04,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-Zürich,The-Quartet-of-Bash,2014-10-04,"['Lukas Roos ', ' Florian Möbes ', ' Domi Chansorn ']",
-Zürich,Tony-Allen,2014-10-04,"['Tony Allen ', ' Tony Allen ', ' Nicolas Giraud ', ' Yann Jankielewicz ', ' Jean PHi Dary ', ' Indy Dibongue ']",
-Basel,Eduardo-Machado-Quinteto,2014-10-04,"[' Beto Sapio ', ' Vinicius Melo ', ' Gil Reis ', ' Eduardo Machado ', ' Alexandre Cunha ']",
-Uster,La-Triada,2014-10-04,"[' Corin Curschellas ', ' Astrid Alexandre ', ' Ursina Giger ']",
-Schaffhausen,Albert-Hammond,2014-10-04,['Albert Hammond '],Pop
-Winterthur,Alana-Amram-&-The-Rough-Gems,2014-10-04,['Alana Amram & The Rough Gems '],
-Oberentfelden,Eat-the-Gun,2014-10-04,['Eat the Gun '],
-null,Internationales-Gitarrenfestival-Fribourg,2014-10-04,"[' Isabel ', ' Claudio Rugo ', ' Patrick Perrier ']",Pop
-null,Andy-Egert-Blues-Band,2014-10-04,"[' Andy Egert ', ' Robi Schweizer ', ' Jackson Durak ']",
-Dübendorf,Jazztage-Germany,2014-10-04,"['Rolf Kühn & Tri-O ', ' Rolf Kühn ', ' Ronny Graupe ', ' Johannes Fink ', ' Christian Lilinger ']",
-Zürich,Hawelka,2014-10-04,"['Hawelka ', ' Petr Novak ', ' Jan Georg Plavec ', ' Christian Seyffert ']",Pop
-Luzern,Retro-Night,2014-10-04,"[' Oliver Töngi ', ' Christian Mettler ', ' Mario Ineichen ']",Pop
-Lausanne,Holy-Groove-Festival,2014-10-04,"['Hackney Colliery Band ', ' Ebo Taylor ']",
-Herisau,Dana-Fuchs,2014-10-04,['Dana Fuchs '],
-Wil,Chali-2na-of-Jurassic-5,2014-10-04,['Chali 2na of Jurassic 5 '],
-Zürich,Amélie-Junes,2014-10-04,"[' Amélie Junes ', ' Michel Spahr ', ' Benjamin Heart ', ' Nicolas Stocker ']",
-Baden,Alice-Francis,2014-10-04,['Alice Francis '],
-Basel,Snowgoons-&-Nbs,2014-10-04,"['Snowgoons ', ' Nbs ', ' Resolute ']",
-Zürich,Neckless,2014-10-04,[' Me '],
-Basel,Youth-Avoiders,2014-10-04,"['Youth Avoiders ', ' Catholic Guilt ', ' Addenda ']",
-Lyss,Äl-Jawala-(D),2014-10-04,['Äl Jawala '],
+,location,event,date,artists,genre
+0,Winterthur,Konzert,2014-10-04,"[' Anna Gordos ', ' Ja?o Bastos ', ' Chelsea Czuchra ', ' Karen Kr?ttli-Child ', ' Felix Haller ']",['Classic']
+1,null,Konzert,2014-10-04,['Evelyn Glennie '],['Classic']
+2,Winterthur,Herbstkonzerte,2014-10-04,"['John Thade ', ' Annkatrin Isaacs ']",['Classic']
+3,null,Blonde-Redhead,2014-10-04,['Blonde Redhead '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,Angel-Olsen,2014-10-04,"['Angel Olsen ', ' Rodrigo Amarante ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Luzern,Radio-Pilatus-Music-Night,2014-10-04,['Sunrise Avenue '],['Pop']
+6,Winterthur,Songs-from-Utopia,2014-10-04,"[' Rebekka Zarkava ', ' g) Jura Dolezal ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Der-schwarze-Ball,2014-10-04,"['VNV Nation ', ' Torul ']",['Pop']
+8,Chur,Insomnia-Fest,2014-10-04,"["" Emma's Daydream ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Carminho,2014-10-04,"['Carminho ', ' Carminho ', ' Luis Guerreiro ', ' Diogo Clemente ', ' Marino de Freitas ']","['Hip', 'Hop', ""R'n'B""]"
+10,Z?rich,Nick-Howard,2014-10-04,"['Nick Howard ', ' Tyrone Wells ']",['Pop']
+11,Lausanne,In-Flames,2014-10-04,['In Flames '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Chur,Konzert,2014-10-04,['Anna Vinnitskaya '],['Classic']
+13,Maur,Harfe-Violine-Visuelles,2014-10-04,"[' Corinne Kappeler ', ' Daniel Treyer ']",['Classic']
+14,D?bendorf,Jazztage-Germany,2014-10-04,"['Three Fall ', ' Lutz Streun ', ' Til Schneider ', ' Sebastian Winne ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Schmaz-and-The-Fabulous-Jukebox,2014-10-04,"[' Gallus H?chler ', ' Marcel Benedikt ', ' Rainer Fr?hlich ']",['Pop']
+16,Feuerthalen,Global-Player-World-Dance-II,2014-10-04,[' SPCZ '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+17,null,Hussy-Hicks,2014-10-04,['Hussy Hicks '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Basel,Eduardo-Machado-Quinteto,2014-10-04,"[' Beto Sapio ', ' Vinicius Melo ', ' Gil Reis ', ' Eduardo Machado ', ' Alexandre Cunha ']","['Jazz', 'Blues', 'Soul']"
+19,Uster,La-Triada,2014-10-04,"[' Corin Curschellas ', ' Astrid Alexandre ', ' Ursina Giger ']","['world', 'music']"
+20,Z?rich,Tony-Allen,2014-10-04,"['Tony Allen ', ' Tony Allen ', ' Nicolas Giraud ', ' Yann Jankielewicz ', ' Jean PHi Dary ', ' Indy Dibongue ']","['world', 'music']"
+21,Z?rich,The-Quartet-of-Bash,2014-10-04,"['Lukas Roos ', ' Florian M?bes ', ' Domi Chansorn ']","['Jazz', 'Blues', 'Soul']"
+22,Schaffhausen,Albert-Hammond,2014-10-04,['Albert Hammond '],['Pop']
+23,null,Internationales-Gitarrenfestival-Fribourg,2014-10-04,"[' Isabel ', ' Claudio Rugo ', ' Patrick Perrier ']",['Pop']
+24,Oberentfelden,Eat-the-Gun,2014-10-04,['Eat the Gun '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,null,Andy-Egert-Blues-Band,2014-10-04,"[' Andy Egert ', ' Robi Schweizer ', ' Jackson Durak ']","['Jazz', 'Blues', 'Soul']"
+26,D?bendorf,Jazztage-Germany,2014-10-04,"[' Tri-O ', ' Rolf K?hn ', ' Ronny Graupe ', ' Johannes Fink ', ' Christian Lilinger ']","['Jazz', 'Blues', 'Soul']"
+27,Lausanne,Holy-Groove-Festival,2014-10-04,"['Hackney Colliery Band ', ' Ebo Taylor ']","['Jazz', 'Blues', 'Soul']"
+28,Z?rich,Hawelka,2014-10-04,"['Hawelka ', ' Petr Novak ', ' Jan Georg Plavec ', ' Christian Seyffert ']",['Pop']
+29,Luzern,Retro-Night,2014-10-04,"[' Oliver T?ngi ', ' Christian Mettler ', ' Mario Ineichen ']",['Pop']
+30,Herisau,Dana-Fuchs,2014-10-04,['Dana Fuchs '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Z?rich,Neckless,2014-10-04,[' Me '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Z?rich,Am?lie-Junes,2014-10-04,"[' Am?lie Junes ', ' Michel Spahr ', ' Benjamin Heart ', ' Nicolas Stocker ']","['Hip', 'Hop', ""R'n'B""]"
+33,Baden,Alice-Francis,2014-10-04,['Alice Francis '],"['Jazz', 'Blues', 'Soul']"
+34,Basel,Snowgoons-&-Nbs,2014-10-04,"['Snowgoons ', ' Nbs ', ' Resolute ']","['Hip', 'Hop', ""R'n'B""]"
+35,Basel,Youth-Avoiders,2014-10-04,"['Youth Avoiders ', ' Catholic Guilt ', ' Addenda ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Lyss,?l-Jawala-(D),2014-10-04,['?l Jawala '],"['world', 'music']"

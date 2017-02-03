@@ -1,47 +1,47 @@
-location,event,date,artists,genre
-Interlaken,Greenfield-Festival,2014-06-13,['Iron Maiden '],
-Kriens,B-Sides-Festival,2014-06-13,[' Molam International Band '],Pop
-Kriens,B-Sides-Festival,2014-06-13,"['Portugal. The Man ', ' Fucked Up ', ' Pink Mountaintops ']",
-Basel,Masterrezital,2014-06-13,[' Irene Novi '],Classic
-Basel,Masterrezital,2014-06-13,"[' Faristamo Susi ', ' Frank Emanuel Heierli ']",Classic
-Basel,Masterrezital,2014-06-13,[' Greta Insardi '],Classic
-Basel,Masterrezital,2014-06-13,[' Armelle Scholl '],Classic
-null,Festi'neuch,2014-06-13,"['Paul Kalkbrenner ', ' Julien Doré ', ' Yodelice ', ' Yelle ', ' Suuns ', ' After-Party mit Skinnerbox ']",
-Basel,Masterrezital,2014-06-13,[' Alejandro Germán Sarmentero '],Classic
-Basel,Masterrezital,2014-06-13,[' Mina Fred '],Classic
-Luzern,Piano-Entertainment,2014-06-13,['Herb Miller '],
-Aarberg,Stars-of-Sounds-Murten,2014-06-13,['Scorpions '],
-Oberrieden,Openair-Oberrieden,2014-06-13,['Torch '],
-Basel,Orgelspiel-zum-Feierabend,2014-06-13,['Yuka Niitsuma '],Classic
-Dietikon,Feierabendmusik-in-der-Kirche,2014-06-13,['Bernhard Hörler '],Classic
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-13,"['Isabelle Boulay ', ' Marcie ']",Pop
-Zürich,Festspiele-Zürich-Eröffnungskonzert,2014-06-13,[' Barbara Hannigan '],Classic
-Wald,Gitanes-blondes-feat.-Giora-Feidmann,2014-06-13,['Gitanes blondes feat. Giora Feidmann '],
-Bern,Rezital,2014-06-13,['Gabriel Arnold '],Classic
-Winterthur,Film-&-Musik-Festival-Das-Parfum,2014-06-13,"[' Simone Stock ', ' Tom Tykwer ']",Classic
-Basel,Masterrezital,2014-06-13,[' Tommaso Lepore '],Classic
-Basel,Masterrezital,2014-06-13,[' Benjamin Brodbeck '],Classic
-Bern,Neighbours,2014-06-13,['Werkstatt Improvisierte Musik Bern '],
-Baden,3.-Sonderkonzert-James-Bond-007,2014-06-13,[' Mary Carewe '],Classic
-Rebstein,Verführerische-Sommerträume,2014-06-13,"['Marie-Theres Ledergerber ', ' Heltin Guraziu ']",Classic
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-13,"['Lynda Lemay ', ' Alexandre Poulin ']",Pop
-Zürich,Acoustic-Friday,2014-06-13,"[' Lucas Surja Keist ', ' Elio Campanella ', ' Ahmed Samuels Moreno ', ' Ramon Martinez ']",
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-13,"['Salomé Leclerc ', ' Mario Brassard ']",Pop
-Solothurn,KRS-One,2014-06-13,['KRS-One '],
-null,Group-Rhoda,2014-06-13,['Group Rhoda '],Pop
-Zürich,Paul-Thomas-Saunders,2014-06-13,['Paul Thomas Saunders '],Pop
-Winterthur,Musique-en-route,2014-06-13,"[' Ronny Spiegel ', ' Tom Tafel ', ' Ariel Facundo Rossi ', ' Stefanie Hess ']",
-null,St.-Galler-Stoffe,2014-06-13,"['Elena Zhunke ', ' Raissa Zhunke ']",Classic
-Basel,Masterrezital,2014-06-13,[' Andrew Burn '],Classic
-Zürich,Lucas-Niggli-ZHdK-Ensemble-&-Demierre-Leimgruber-Niggli,2014-06-13,"[' Jacques Demierre ', ' Urs Leimgruber ', ' Lucas Niggli ']",
-Bolligen,Fin-de-curso,2014-06-13,"['Alfredo Palacios ', ' Pedro Navarro ']",
-Winterthur,Wyrsch-Diallo,2014-06-13,"[' Linus Wyrsch ', ' Claude Diallo ']",
-Basel,Aliéksey-Vianna-Trio-feat.-Viviane-de-Farias,2014-06-13,"[' Viviane de Farias ', ' Aliéksey Vianna ', ' Stephan Kurmann ', ' Mauro Martins ']",
-Baden,Walter-Schneider-Trio,2014-06-13,"[' Walter Schneider ', ' Petros Tsipoylidis ', ' Massimo Buonanno ']",Pop
-Zürich,Los-Dos-&-Orchestra,2014-06-13,"[' Hansueli Tischhauser ', ' Michael Flury ', ' Xenia Schindler ', ' Vera Kappeler ', ' Ambrosius Huber ']",
-Basel,Tango-barocco,2014-06-13,"['Cristina Rosario ', ' Amélie Chemin ', ' Elitza Riva Djambazova ', ' Michelangelo Rinaldi ']",
-Zug,M.O.P.,2014-06-13,['M.O.P. '],
-Zürich,Latin-Touch,2014-06-13,[' dance animation by Alexander Martinez '],
-Frick,Moussu-T,2014-06-13,['Moussu T '],Pop
-null,Nachtzug-Octango,2014-06-13,"['Andrzej Kowalski ', ' Gregory Gates ', ' Adrian Gavrilescu ', ' conductor: Francisco Obieta ']",Classic
-Basel,A-Pony-Named-Olga,2014-06-13,"['A Pony Named Olga ', ' Hickoids ']",
+,location,event,date,artists,genre
+0,Kriens,B-Sides-Festival,2014-06-13,[' Molam International Band '],['Pop']
+1,Kriens,B-Sides-Festival,2014-06-13,"['Portugal. The Man ', ' Fucked Up ', ' Pink Mountaintops ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Interlaken,Greenfield-Festival,2014-06-13,['Iron Maiden '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Basel,Masterrezital,2014-06-13,[' Irene Novi '],['Classic']
+4,Basel,Masterrezital,2014-06-13,"[' Faristamo Susi ', ' Frank Emanuel Heierli ']",['Classic']
+5,Basel,Masterrezital,2014-06-13,[' Greta Insardi '],['Classic']
+6,Basel,Masterrezital,2014-06-13,[' Armelle Scholl '],['Classic']
+7,null,Festi'neuch,2014-06-13,"['Paul Kalkbrenner ', ' Julien Dor? ', ' Yodelice ', ' Yelle ', ' Suuns ', ' After-Party mit Skinnerbox ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Basel,Masterrezital,2014-06-13,[' Alejandro Germ?n Sarmentero '],['Classic']
+9,Basel,Masterrezital,2014-06-13,[' Mina Fred '],['Classic']
+10,Aarberg,Stars-of-Sounds-Murten,2014-06-13,['Scorpions '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Oberrieden,Openair-Oberrieden,2014-06-13,['Torch '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Luzern,Piano-Entertainment,2014-06-13,['Herb Miller '],"['Jazz', 'Blues', 'Soul']"
+13,Basel,Orgelspiel-zum-Feierabend,2014-06-13,['Yuka Niitsuma '],['Classic']
+14,Dietikon,Feierabendmusik-in-der-Kirche,2014-06-13,['Bernhard H?rler '],['Classic']
+15,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-13,"['Isabelle Boulay ', ' Marcie ']",['Pop']
+16,Baden,3.-Sonderkonzert-James-Bond-007,2014-06-13,[' Mary Carewe '],['Classic']
+17,Wald,Gitanes-blondes-feat.-Giora-Feidmann,2014-06-13,['Gitanes blondes feat. Giora Feidmann '],"['world', 'music']"
+18,Z?rich,Festspiele-Z?rich-Er?ffnungskonzert,2014-06-13,[' Barbara Hannigan '],['Classic']
+19,Bern,Rezital,2014-06-13,['Gabriel Arnold '],['Classic']
+20,Winterthur,Film-&-Musik-Festival-Das-Parfum,2014-06-13,"[' Simone Stock ', ' Tom Tykwer ']",['Classic']
+21,Rebstein,Verf?hrerische-Sommertr?ume,2014-06-13,"['Marie-Theres Ledergerber ', ' Heltin Guraziu ']",['Classic']
+22,Bern,Neighbours,2014-06-13,['Werkstatt Improvisierte Musik Bern '],"['Jazz', 'Blues', 'Soul']"
+23,Basel,Masterrezital,2014-06-13,[' Tommaso Lepore '],['Classic']
+24,Basel,Masterrezital,2014-06-13,[' Benjamin Brodbeck '],['Classic']
+25,Z?rich,Paul-Thomas-Saunders,2014-06-13,['Paul Thomas Saunders '],['Pop']
+26,Solothurn,KRS-One,2014-06-13,['KRS-One '],"['Hip', 'Hop', ""R'n'B""]"
+27,Z?rich,Acoustic-Friday,2014-06-13,"[' Lucas Surja Keist ', ' Elio Campanella ', ' Ahmed Samuels Moreno ', ' Ramon Martinez ']","['world', 'music']"
+28,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-13,"['Lynda Lemay ', ' Alexandre Poulin ']",['Pop']
+29,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-13,"['Salom? Leclerc ', ' Mario Brassard ']",['Pop']
+30,null,Group-Rhoda,2014-06-13,['Group Rhoda '],['Pop']
+31,null,St.-Galler-Stoffe,2014-06-13,"['Elena Zhunke ', ' Raissa Zhunke ']",['Classic']
+32,Winterthur,Musique-en-route,2014-06-13,"[' Ronny Spiegel ', ' Tom Tafel ', ' Ariel Facundo Rossi ', ' Stefanie Hess ']","['world', 'music']"
+33,Z?rich,Lucas-Niggli-ZHdK-Ensemble-&-Demierre-Leimgruber-Niggli,2014-06-13,"[' Jacques Demierre ', ' Urs Leimgruber ', ' Lucas Niggli ']","['Jazz', 'Blues', 'Soul']"
+34,Winterthur,Wyrsch-Diallo,2014-06-13,"[' Linus Wyrsch ', ' Claude Diallo ']","['Jazz', 'Blues', 'Soul']"
+35,Basel,Masterrezital,2014-06-13,[' Andrew Burn '],['Classic']
+36,Bolligen,Fin-de-curso,2014-06-13,"['Alfredo Palacios ', ' Pedro Navarro ']","['world', 'music']"
+37,Z?rich,Los-Dos-&-Orchestra,2014-06-13,"[' Hansueli Tischhauser ', ' Michael Flury ', ' Xenia Schindler ', ' Vera Kappeler ', ' Ambrosius Huber ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+38,Basel,Tango-barocco,2014-06-13,"['Cristina Rosario ', ' Am?lie Chemin ', ' Elitza Riva Djambazova ', ' Michelangelo Rinaldi ']","['world', 'music']"
+39,Basel,Ali?ksey-Vianna-Trio-feat.-Viviane-de-Farias,2014-06-13,"[' Viviane de Farias ', ' Ali?ksey Vianna ', ' Stephan Kurmann ', ' Mauro Martins ']","['Jazz', 'Blues', 'Soul']"
+40,Baden,Walter-Schneider-Trio,2014-06-13,"[' Walter Schneider ', ' Petros Tsipoylidis ', ' Massimo Buonanno ']",['Pop']
+41,Zug,M.O.P.,2014-06-13,['M.O.P. '],"['Hip', 'Hop', ""R'n'B""]"
+42,Frick,Moussu-T,2014-06-13,['Moussu T '],['Pop']
+43,Z?rich,Latin-Touch,2014-06-13,[' dance animation by Alexander Martinez '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+44,null,Nachtzug-Octango,2014-06-13,"['Andrzej Kowalski ', ' Gregory Gates ', ' Adrian Gavrilescu ', ' conductor: Francisco Obieta ']",['Classic']
+45,Basel,A-Pony-Named-Olga,2014-06-13,"['A Pony Named Olga ', ' Hickoids ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

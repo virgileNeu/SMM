@@ -1,17 +1,16 @@
-location,event,date,artists,genre
-Meggen,Klang-Leben-in-Wien,2014-12-28,"[' Sebastian Mihai Tegzesiu ', ' Benjamin Gregor-Smith ', ' Valentin Valentiyev ']",Classic
-Walkringen,Konzert,2014-12-28,"['Ursula Füri-Bernhard ', ' Andrea Kollé ', ' Sarah Christian ', ' Maximilian Hornung ', ' Benjamin Engeli ', ' Alexander Boeschoten ']",Classic
-Zürich,Barockmusik,2014-12-28,"[' Laurent Tinguely ', ' Paul Muff ', ' Konstantin Timokhine ', ' David Bruchez Lalli ', ' Daniela Timokhine ']",Classic
-Zürich,Von-Osten-nach-Westen,2014-12-28,"[' Avital Cohen ', ' Mikayel Hakhnazaryan ', ' Anne-Sophie Vandenbogaerde-Vrignaud ']",Classic
-Rain,Von-fliegenden-Holländern-Tango-Alpsegen-bis-Bolero,2014-12-28,"['Patricia Ott ', ' Andreas Berger ']",Classic
-Laufen,Carl-Philipp-Emanuel-Bach-zum-300.-Geburtstag,2014-12-28,"['Regula Bernath ', ' Annnette Unternährer-Gfeller ']",Classic
-null,A-bailar,2014-12-28,[' Alexander Febles '],
-Zürich,Chica-Torpedo,2014-12-28,"[' Schmidi Schmidhauser ', ' Anselmo Torres ', ' Daniel Meyer ', ' Nina Thöni ', ' Joel Kaiser ']",
-Zürich,Konzert,2014-12-28,[' conductor: Alexander Alexeev '],Classic
-Feuerthalen,Reverend-Rusty-&-The-Case,2014-12-28,['Reverend Rusty & The Case '],
-Rubigen,Albie-Donnellys-Supercharge,2014-12-28,['Albie Donnellys Supercharge '],
-Walkringen,Vom-Hackbrett-bis-zum-Cimbalom,2014-12-28,"['Töbi Tobler ', ' Giani Lincan ', ' Gyula Csik ', ' Csaba Lukács ', ' Gyula Boni ', ' Zsolt Boni ']",Classic
-Zürich,Mit-Schirm-Charme-&-Melodie,2014-12-28,"['Andre Desponds ', ' Nina Eleta ', ' Sämi Zünd ']",Pop
-Bern,Terrorgruppe,2014-12-28,['Terrorgruppe '],
-Zürich,John-Francis,2014-12-28,['John Francis '],
-Thun,Smith-&-Smart,2014-12-28,['Smith & Smart '],
+,location,event,date,artists,genre
+0,Meggen,Klang-Leben-in-Wien,2014-12-28,"[' Sebastian Mihai Tegzesiu ', ' Benjamin Gregor-Smith ', ' Valentin Valentiyev ']",['Classic']
+1,Walkringen,Konzert,2014-12-28,"['Ursula F?ri-Bernhard ', ' Andrea Koll? ', ' Sarah Christian ', ' Maximilian Hornung ', ' Benjamin Engeli ', ' Alexander Boeschoten ']",['Classic']
+2,Z?rich,Barockmusik,2014-12-28,"[' Laurent Tinguely ', ' Paul Muff ', ' Konstantin Timokhine ', ' David Bruchez Lalli ', ' Daniela Timokhine ']",['Classic']
+3,Rain,Von-fliegenden-Holl?ndern-Tango-Alpsegen-bis-Bolero,2014-12-28,"['Patricia Ott ', ' Andreas Berger ']",['Classic']
+4,Z?rich,Von-Osten-nach-Westen,2014-12-28,"[' Avital Cohen ', ' Mikayel Hakhnazaryan ', ' Anne-Sophie Vandenbogaerde-Vrignaud ']",['Classic']
+5,null,A-bailar,2014-12-28,[' Alexander Febles '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+6,Laufen,Carl-Philipp-Emanuel-Bach-zum-300.-Geburtstag,2014-12-28,"['Regula Bernath ', ' Annnette Untern?hrer-Gfeller ']",['Classic']
+7,Z?rich,Konzert,2014-12-28,[' conductor: Alexander Alexeev '],['Classic']
+8,Z?rich,Chica-Torpedo,2014-12-28,"[' Schmidi Schmidhauser ', ' Anselmo Torres ', ' Daniel Meyer ', ' Nina Th?ni ', ' Joel Kaiser ']","['world', 'music']"
+9,Feuerthalen,Reverend-Rusty-&-The-Case,2014-12-28,[' The Case '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Rubigen,Albie-Donnellys-Supercharge,2014-12-28,['Albie Donnellys Supercharge '],"['Jazz', 'Blues', 'Soul']"
+11,Walkringen,Vom-Hackbrett-bis-zum-Cimbalom,2014-12-28,"['T?bi Tobler ', ' Giani Lincan ', ' Gyula Csik ', ' Csaba Luk?cs ', ' Gyula Boni ', ' Zsolt Boni ']",['Classic']
+12,Z?rich,Mit-Schirm-Charme-&-Melodie,2014-12-28,"['Andre Desponds ', ' Nina Eleta ', ' S?mi Z?nd ']",['Pop']
+13,Thun,Smith-&-Smart,2014-12-28,[' Smart '],"['Hip', 'Hop', ""R'n'B""]"
+14,Z?rich,John-Francis,2014-12-28,['John Francis '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

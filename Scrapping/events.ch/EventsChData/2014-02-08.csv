@@ -1,35 +1,33 @@
-location,event,date,artists,genre
-Winterthur,Die-Samstagsmatinée,2014-02-08,"[' Adelina Filli ', ' Barbara Wehrli Wutzl ']",
-Baden,One-of-a-Million,2014-02-08,['Alise Joste '],Pop
-Luzern,Piano-Entertainment,2014-02-08,['Fabienne Ambühl '],
-Baden,One-of-a-Million,2014-02-08,['Markas Palubenka '],Electronic
-Basel,Kirk,2014-02-08,['Kirk '],
-Luzern,The-Artist-Live-in-Concert,2014-02-08,"[' Ludovic Bource ', ' The Artist ']",Classic
-Zürich,Internationales-Country-Music-Festival,2014-02-08,"['Her & Kings County ', ' Dwayne & Texmexplosion ']",
-Grüningen,Little-Mammoths-feat.-David-Hope,2014-02-08,['Little Mammoths feat. David Hope '],
-Uster,Beasto-Blanco,2014-02-08,['Beasto Blanco '],
-Zürich,Incroyable,2014-02-08,"[' Julia Schiwowa ', ' Marcos Buser ', ' Andrei Ichtchenko ', ' Fridolin Blumer ']",Pop
-Bern,Headbangersball-Bern,2014-02-08,"['Severe Torture ', ' Cytotoxin ', ' Rages of Sin ']",
-Zürich,Sezen-Aksu,2014-02-08,['Sezen Aksu '],Pop
-Winterthur,Empty-Handed,2014-02-08,"['Empty Handed ', ' Code Blue Coma ']",
-Zürich,Stephan-Athanas'-Contemparabic-Jazz-Ensemble,2014-02-08,"[""Stephan Athanas' Contemparabic Jazz Ensemble "", ' Samiha Ben Said ', ' Samir Ferjani ', ' Benji Fellous ', ' Bernard Vidal ', ' Dave Feusi ', ' Tony Renold ', ' Stephan Athanas ']",
-Baden,Fetsum,2014-02-08,['Fetsum '],
-Basel,Tango-Crash,2014-02-08,"[' Martin Klingeberg ', ' Christian Gerber ', ' Martin Iannaccone ', ' Daniel Almada ', ' Gregor Hilbe ']",
-null,The-Quest,2014-02-08,[' Christophe Tiberghien '],
-Krummenau,Gavlyn-(USA),2014-02-08,['Gavlyn '],
-Luzern,Juhana,2014-02-08,['Juhana '],Pop
-Wetzikon,Beifuss,2014-02-08,"[' live: Juli Holz ', ' Ira Atari ']",
-Luzern,Bluestouch-Slideband,2014-02-08,['Bluestouch Slideband '],
-Zürich,Digital-Maag,2014-02-08,"['DJs Kavinsky ', ' Gesaffelstein ', ' Booka Shade ', ' Klingande ', ' Frittenbude ', ' The Toxic Avenger ', ' Boys Noize ', ' Julio Bashmore ', ' Sound Of Stereo ']",Electronic
-Zürich,Silent-Neighbours,2014-02-08,"[' Philipp Saner ', ' Tobias Pfister ', ' Daniel Affentranger ', ' Marcel Frautschi ', ' Jan Jossi ']",
-Basel,Mark-Ernestus-presents-Jeri-Jeri,2014-02-08,['Mark Ernestus presents Jeri-Jeri '],
-null,Felix-Laband,2014-02-08,"['Felix Laband ', ' Jon Kennedy ']",
-null,Fred-Raspail,2014-02-08,['Fred Raspail '],Pop
-Zürich,Empire-Escape,2014-02-08,['Empire Escape '],
-Lausanne,Loscil-&-Fieldhead,2014-02-08,['Loscil '],Electronic
-Lyss,Skindred,2014-02-08,"['Skindred ', ' Soil ']",
-Zürich,Volplane,2014-02-08,"[' Toby Ferrari ', ' Jonathan Müller ', ' Michael Ritter ', ' Samuel Schwalm ']",
-Zürich,Ja-Panik,2014-02-08,"[' Panik ', ' support: Bo Candy & His Broken Hearts ']",
-Basel,Deepdrone-Festival,2014-02-08,"['Hexis ', ' Eglise ']",
-Baden,One-of-a-Million,2014-02-08,['Tahiti 80 '],Pop
-Schaffhausen,Matthew-Graye,2014-02-08,['Matthew Graye '],
+,location,event,date,artists,genre
+0,Winterthur,Die-Samstagsmatin?e,2014-02-08,"[' Adelina Filli ', ' Barbara Wehrli Wutzl ']","['Jazz', 'Blues', 'Soul']"
+1,Baden,One-of-a-Million,2014-02-08,['Alise Joste '],['Pop']
+2,Luzern,Piano-Entertainment,2014-02-08,['Fabienne Amb?hl '],"['Jazz', 'Blues', 'Soul']"
+3,Baden,One-of-a-Million,2014-02-08,['Markas Palubenka '],['Electronic']
+4,Basel,Kirk,2014-02-08,['Kirk '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,Internationales-Country-Music-Festival,2014-02-08,[' Texmexplosion '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Gr?ningen,Little-Mammoths-feat.-David-Hope,2014-02-08,['Little Mammoths feat. David Hope '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Luzern,The-Artist-Live-in-Concert,2014-02-08,"[' Ludovic Bource ', ' The Artist ']",['Classic']
+8,Uster,Beasto-Blanco,2014-02-08,['Beasto Blanco '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Incroyable,2014-02-08,"[' Julia Schiwowa ', ' Marcos Buser ', ' Andrei Ichtchenko ', ' Fridolin Blumer ']",['Pop']
+10,Bern,Headbangersball-Bern,2014-02-08,"['Severe Torture ', ' Cytotoxin ', ' Rages of Sin ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,Sezen-Aksu,2014-02-08,['Sezen Aksu '],['Pop']
+12,Basel,Tango-Crash,2014-02-08,"[' Martin Klingeberg ', ' Christian Gerber ', ' Martin Iannaccone ', ' Daniel Almada ', ' Gregor Hilbe ']","['Jazz', 'Blues', 'Soul']"
+13,Winterthur,Empty-Handed,2014-02-08,"['Empty Handed ', ' Code Blue Coma ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Baden,Fetsum,2014-02-08,['Fetsum '],"['Hip', 'Hop', ""R'n'B""]"
+15,Z?rich,Stephan-Athanas'-Contemparabic-Jazz-Ensemble,2014-02-08,"[""Stephan Athanas' Contemparabic Jazz Ensemble "", ' Samiha Ben Said ', ' Samir Ferjani ', ' Benji Fellous ', ' Bernard Vidal ', ' Dave Feusi ', ' Tony Renold ', ' Stephan Athanas ']","['Jazz', 'Blues', 'Soul']"
+16,Wetzikon,Beifuss,2014-02-08,"[' live: Juli Holz ', ' Ira Atari ']","['Electro', 'Electropop']"
+17,Luzern,Bluestouch-Slideband,2014-02-08,['Bluestouch Slideband '],"['Jazz', 'Blues', 'Soul']"
+18,null,The-Quest,2014-02-08,[' Ivor Malherbe '],"['Jazz', 'Blues', 'Soul']"
+19,Krummenau,Gavlyn-(USA),2014-02-08,['Gavlyn '],"['Hip', 'Hop', ""R'n'B""]"
+20,Luzern,Juhana,2014-02-08,['Juhana '],['Pop']
+21,Z?rich,Silent-Neighbours,2014-02-08,"[' Philipp Saner ', ' Tobias Pfister ', ' Daniel Affentranger ', ' Marcel Frautschi ', ' Jan Jossi ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Basel,Mark-Ernestus-presents-Jeri-Jeri,2014-02-08,['Mark Ernestus presents Jeri-Jeri '],"['world', 'music']"
+23,Lausanne,Loscil-&-Fieldhead,2014-02-08,[' Fieldhead '],['Electronic']
+24,null,Felix-Laband,2014-02-08,"['Felix Laband ', ' Jon Kennedy ']","['Hip', 'Hop', ""R'n'B""]"
+25,null,Fred-Raspail,2014-02-08,['Fred Raspail '],['Pop']
+26,Lyss,Skindred,2014-02-08,"['Skindred ', ' Soil ']","['Hip', 'Hop', ""R'n'B""]"
+27,Z?rich,Empire-Escape,2014-02-08,['Empire Escape '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Z?rich,Volplane,2014-02-08,"[' Toby Ferrari ', ' Jonathan M?ller ', ' Michael Ritter ', ' Samuel Schwalm ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Z?rich,Ja-Panik,2014-02-08,[' His Broken Hearts '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Basel,Deepdrone-Festival,2014-02-08,"['Hexis ', ' Eglise ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Baden,One-of-a-Million,2014-02-08,['Tahiti 80 '],['Pop']

@@ -1,18 +1,18 @@
-location,event,date,artists,genre
-Basel,Mimiko-Triptyque,2014-02-05,['Lysiane Salzmann '],Classic
-Winterthur,Turisas,2014-02-05,"['Turisas ', ' Starkill ']",
-Zürich,Natural-Soundsystem-EP-Release,2014-02-05,"['Riders Connection ', ' Bajka ']",Pop
-Zumikon,Konzert,2014-02-05,"['Maria Solozobova ', ' Sayaka Sakurai ']",Classic
-Zürich,Jazzbaragge-Wednesday-Jam,2014-02-05,"['Roberto Bosshard ', ' Rafael Jerjen ', ' Elmar Frey ']",
-Chur,Tanzschlager-der-goldenen-20er-&-30er-Jahre,2014-02-05,[' conductor: Samuel Zünd '],Classic
-Luzern,Jam-Night,2014-02-05,"['Emilia Taubic ', ' Bodo Maier ', ' Christian Winiker ', ' Thomas Tavano ', ' Faruk Muslijevi ', ' Tobias Hunziker ']",
-null,Tunng,2014-02-05,['Tunng '],
-null,Laura-Pausini,2014-02-05,['Laura Pausini '],Pop
-Baden,Stephan-Athanas'-Contemparabic-Jazz-Ensemble,2014-02-05,"[""Stephan Athanas' Contemparabic Jazz Ensemble "", ' Samiha Ben Said ', ' Samir Ferjani ', ' Benji Fellous ', ' Bernard Vidal ', ' Dave Feusi ', ' Tony Renold ', ' Stephan Athanas ']",
-Bern,La-Yegros,2014-02-05,"['La Yegros ', ' Mariana Yegros ', ' Gabriel Ostertag ', ' Nicolas Deluca ', ' David Martinez ']",
-Basel,Daniel-Blanc-Quartet,2014-02-05,"[' Daniel Blanc ', ' Walter Jauslin ', ' Giorgos Antoniou ', ' Michael Wipf ']",
-Zürich,Samuel-Blaser-Consort-in-Motion,2014-02-05,"[' Samuel Blaser ', ' Benoit Delbecq ', ' Masa Kamaguchi ', ' Gerry Hemingway ']",
-Zürich,Little-Mammoths-feat.-David-Hope,2014-02-05,['Little Mammoths feat. David Hope '],
-Baden,One-of-a-Million,2014-02-05,['Ezra Furman & The Boyfriends '],
-Zürich,Beyond-Insane,2014-02-05,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
-Baden,One-of-a-Million,2014-02-05,['Bilderbuch '],
+,location,event,date,artists,genre
+0,Basel,Mimiko-Triptyque,2014-02-05,['Lysiane Salzmann '],['Classic']
+1,Winterthur,Turisas,2014-02-05,"['Turisas ', ' Starkill ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Z?rich,Natural-Soundsystem-EP-Release,2014-02-05,"['Riders Connection ', ' Bajka ']",['Pop']
+3,Zumikon,Konzert,2014-02-05,"['Maria Solozobova ', ' Sayaka Sakurai ']",['Classic']
+4,Chur,Tanzschlager-der-goldenen-20er-&-30er-Jahre,2014-02-05,[' conductor: Samuel Z?nd '],['Classic']
+5,Z?rich,Jazzbaragge-Wednesday-Jam,2014-02-05,"['Roberto Bosshard ', ' Rafael Jerjen ', ' Elmar Frey ']","['Jazz', 'Blues', 'Soul']"
+6,Luzern,Jam-Night,2014-02-05,"['Emilia Taubic ', ' Bodo Maier ', ' Christian Winiker ', ' Thomas Tavano ', ' Faruk Muslijevi ', ' Tobias Hunziker ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,null,Tunng,2014-02-05,['Tunng '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,null,Laura-Pausini,2014-02-05,['Laura Pausini '],['Pop']
+9,Baden,Stephan-Athanas'-Contemparabic-Jazz-Ensemble,2014-02-05,"[""Stephan Athanas' Contemparabic Jazz Ensemble "", ' Samiha Ben Said ', ' Samir Ferjani ', ' Benji Fellous ', ' Bernard Vidal ', ' Dave Feusi ', ' Tony Renold ', ' Stephan Athanas ']","['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Samuel-Blaser-Consort-in-Motion,2014-02-05,"[' Samuel Blaser ', ' Benoit Delbecq ', ' Masa Kamaguchi ', ' Gerry Hemingway ']","['Jazz', 'Blues', 'Soul']"
+11,Bern,La-Yegros,2014-02-05,"['La Yegros ', ' Mariana Yegros ', ' Gabriel Ostertag ', ' Nicolas Deluca ', ' David Martinez ']","['world', 'music']"
+12,Basel,Daniel-Blanc-Quartet,2014-02-05,"[' Daniel Blanc ', ' Walter Jauslin ', ' Giorgos Antoniou ', ' Michael Wipf ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Little-Mammoths-feat.-David-Hope,2014-02-05,['Little Mammoths feat. David Hope '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Baden,One-of-a-Million,2014-02-05,[' The Boyfriends '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Z?rich,Beyond-Insane,2014-02-05,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+16,Baden,One-of-a-Million,2014-02-05,['Bilderbuch '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

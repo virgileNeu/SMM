@@ -1,13 +1,13 @@
-location,event,date,artists,genre
-Luzern,Salzburger-Neujahrskonzert,2014-01-05,[' conductor: Benjamin Schmid '],Classic
--Alte-Kirche,Boswil,2014-01-05,[' Robert Pickup '],Classic
-Zürich,Opera-Box-L'île-de-Tulipatan-&-Monsieur-Choufleury,2014-01-05,"[' Andrea Suter ', ' Chelsey Schill ', ' Maja Hermann ', ' Raimund Wiederkehr ', ' Erich Bieri ']",Classic
-Pieterlen,Prelude,2014-01-05,"['Prelude ', ' Brian Hume ', ' Irene Hume ', ' Ian Vardy ']",
-Zürich,Neujahrskonzert,2014-01-05,"['Fides Auf der Maur ', ' Anna Brunner ', ' Hannes Bärtschi ', ' Christopher Jepson ']",Classic
-null,Sonntags-um-5,2014-01-05,"['Juliana Georgieva ', ' Christian Müller ', ' Emilian Dascal ', ' Anna Tyka Nyffenegger ', ' Stefka Perifanova ']",Classic
-Seuzach,Wien-Wien-Wien,2014-01-05,"['Renée Schüttengruber ', ' Barbara Ciannamea ', ' John Uhlenhopp ', ' Claude Hauri ', ' Leitung und Moderation: Daniel Moos ']",Classic
-Zürich,Das-andere-Neujahrskonzert,2014-01-05,"[' Phillipe Morard ', ' Thomas Weber ', ' works by Dirigent Mario Beretta ']",Classic
-Palais-des-Congrès,null,2014-01-05,"['Carmen Fernandez Castillo ', ' Diego Rocha ']",Classic
-Zürich,30-Jahre-Intakt,2014-01-05,"['Monks Casino ', ' Alexander von Schlippenbach ', ' Axel Dörner ', ' Rudi Mahall ', ' Jan Roder ', ' Uli Jennessen ']",
-Aarau,Neujahrskonzert,2014-01-05,"[' Stephanie Pfeffer ', ' Andreas Scheidegger ']",Classic
-Luzern,Neujahrskonzert-mit-Angelika-Kirchschlager,2014-01-05,[' Angelika Kirchschlager '],Classic
+,location,event,date,artists,genre
+0,Luzern,Salzburger-Neujahrskonzert,2014-01-05,[' conductor: Benjamin Schmid '],['Classic']
+1,-Alte-Kirche,Boswil,2014-01-05,[' Robert Pickup '],['Classic']
+2,Z?rich,30-Jahre-Intakt,2014-01-05,"['Monks Casino ', ' Alexander von Schlippenbach ', ' Axel D?rner ', ' Rudi Mahall ', ' Jan Roder ', ' Uli Jennessen ']","['Jazz', 'Blues', 'Soul']"
+3,Aarau,Neujahrskonzert,2014-01-05,"[' Stephanie Pfeffer ', ' Andreas Scheidegger ']",['Classic']
+4,Z?rich,Opera-Box-L'?le-de-Tulipatan-&-Monsieur-Choufleury,2014-01-05,"[' Andrea Suter ', ' Chelsey Schill ', ' Maja Hermann ', ' Raimund Wiederkehr ', ' Erich Bieri ']",['Classic']
+5,Z?rich,Neujahrskonzert,2014-01-05,"['Fides Auf der Maur ', ' Anna Brunner ', ' Hannes B?rtschi ', ' Christopher Jepson ']",['Classic']
+6,Palais-des-Congr?s,null,2014-01-05,"['Carmen Fernandez Castillo ', ' Diego Rocha ']",['Classic']
+7,Pieterlen,Prelude,2014-01-05,"['Prelude ', ' Brian Hume ', ' Irene Hume ', ' Ian Vardy ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,null,Sonntags-um-5,2014-01-05,"['Juliana Georgieva ', ' Christian M?ller ', ' Emilian Dascal ', ' Anna Tyka Nyffenegger ', ' Stefka Perifanova ']",['Classic']
+9,Seuzach,Wien-Wien-Wien,2014-01-05,"['Ren?e Sch?ttengruber ', ' Barbara Ciannamea ', ' John Uhlenhopp ', ' Claude Hauri ', ' Leitung und Moderation: Daniel Moos ']",['Classic']
+10,Z?rich,Das-andere-Neujahrskonzert,2014-01-05,"[' Phillipe Morard ', ' Thomas Weber ', ' works by Dirigent Mario Beretta ']",['Classic']
+11,Luzern,Neujahrskonzert-mit-Angelika-Kirchschlager,2014-01-05,[' Angelika Kirchschlager '],['Classic']

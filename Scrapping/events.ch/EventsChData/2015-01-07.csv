@@ -1,17 +1,17 @@
-location,event,date,artists,genre
-Winterthur,Öffentliche-Generalprobe,2015-01-07,[' Roberto González Monjas '],Classic
-Basel,Mimiko-Neujahrsklange,2015-01-07,"['Yeon-Jeong Jeong ', ' Mayumi Schmizu ']",Classic
-Zürich,Werner-und-Company,2015-01-07,['Werner und Company '],Pop
-Basel,Klavierkonzert,2015-01-07,['Moritz Ernst '],Classic
-Olten,Basel-Festival-Orchester,2015-01-07,[' Lilia Tripodi '],Classic
-Winterthur,Bach-und-die-Folgen,2015-01-07,[' Roberto González Monjas '],Classic
-Basel,Ostwärts,2015-01-07,"[' Julian Rachlin ', ' Fumiaki Miura ']",Classic
-Zürich,Konzert,2015-01-07,[' Nelson Freire '],Classic
-Zürich,Pools,2015-01-07,"[' Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']",Pop
-Luzern,Jam-Session,2015-01-07,"[' Elian Frei ', ' Benjamin Leuenberger ', ' Martial In ', ' César Gonin ', ' Dennis Blassnig ']",
-Zürich,Jazzbaragge-Wednesday-Jam,2015-01-07,"['Jean-Paul Brodbeck ', ' Arne Huber ', ' Claudio Strüby ']",
-Winterthur,Jazz-am-Mittwoch,2015-01-07,"[' Christoph Irniger ', ' Stefan Aeby ', ' Dave Gisler ', ' Raffaele Bossard ', ' Michi Stulz ']",
-Bern,Evelinn-Trouble,2015-01-07,"[' Evelinn Trouble ', ' Flo Götte ', ' Domi Chansorn ']",
-Luzern,Nordlicht,2015-01-07,"[' Lea Mathis ', ' Thierry Looser ', ' Simon Boss ', ' Alessandro Fiore ', ' Chadi Messmer ', ' Hannes Junker ']",
-Zürich,Mina-Agossi,2015-01-07,"[' Mina Agossi ', ' Phil Reptil ', ' Eric Jacot ', ' Simon Bernier ']",
-Basel,Basler-Jazztradition,2015-01-07,"[' Patricia Kunz ', ' Daniel Schluchter ', ' Michael Jeup ', ' Tomi Schwarzenbach ', ' Dieter Häner ']",
+,location,event,date,artists,genre
+0,Winterthur,?ffentliche-Generalprobe,2015-01-07,[' Roberto Gonz?lez Monjas '],['Classic']
+1,Basel,Mimiko-Neujahrsklange,2015-01-07,"['Yeon-Jeong Jeong ', ' Mayumi Schmizu ']",['Classic']
+2,Z?rich,Werner-und-Company,2015-01-07,['Werner und Company '],['Pop']
+3,Basel,Klavierkonzert,2015-01-07,['Moritz Ernst '],['Classic']
+4,Basel,Ostw?rts,2015-01-07,"[' Julian Rachlin ', ' Fumiaki Miura ']",['Classic']
+5,Olten,Basel-Festival-Orchester,2015-01-07,[' Lilia Tripodi '],['Classic']
+6,Winterthur,Bach-und-die-Folgen,2015-01-07,[' Roberto Gonz?lez Monjas '],['Classic']
+7,Z?rich,Konzert,2015-01-07,[' Nelson Freire '],['Classic']
+8,Luzern,Jam-Session,2015-01-07,"[' Elian Frei ', ' Benjamin Leuenberger ', ' Martial In ', ' C?sar Gonin ', ' Dennis Blassnig ']","['Hip', 'Hop', ""R'n'B""]"
+9,Z?rich,Jazzbaragge-Wednesday-Jam,2015-01-07,"['Jean-Paul Brodbeck ', ' Arne Huber ', ' Claudio Str?by ']","['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Pools,2015-01-07,"[' Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']",['Pop']
+11,Winterthur,Jazz-am-Mittwoch,2015-01-07,"[' Christoph Irniger ', ' Stefan Aeby ', ' Dave Gisler ', ' Raffaele Bossard ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+12,Basel,Basler-Jazztradition,2015-01-07,"[' Patricia Kunz ', ' Daniel Schluchter ', ' Michael Jeup ', ' Tomi Schwarzenbach ', ' Dieter H?ner ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Mina-Agossi,2015-01-07,"[' Mina Agossi ', ' Phil Reptil ', ' Eric Jacot ', ' Simon Bernier ']","['Jazz', 'Blues', 'Soul']"
+14,Luzern,Nordlicht,2015-01-07,"[' Lea Mathis ', ' Thierry Looser ', ' Simon Boss ', ' Alessandro Fiore ', ' Chadi Messmer ', ' Hannes Junker ']","['Jazz', 'Blues', 'Soul']"
+15,Bern,Evelinn-Trouble,2015-01-07,"[' Evelinn Trouble ', ' Flo G?tte ', ' Domi Chansorn ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

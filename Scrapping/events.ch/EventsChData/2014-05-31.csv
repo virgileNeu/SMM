@@ -1,32 +1,32 @@
-location,event,date,artists,genre
-Düdingen,Bad-Bonn-Kilbi,2014-05-31,"['Neutral Milk Hotel ', ' Diamond Version ', ' Jagwar Ma ', ' Meridian Brothers ', ' Birth of Joy ', ' Rodrigo Amarante ', "" Scarlett O'Hanna "", ' Selvhenter ']",Pop
-Malters,Nothing-But-Metal-Festival,2014-05-31,['Hate '],
--Alte-Kirche,Boswil,2014-05-31,"['Fazil Say ', ' Srdjan Vukasinovic ']",Classic
-Luzern,Piano-Entertainment,2014-05-31,['Mega Horvath '],
-Winterthur,5-Jahre-Radio-Stadtfilter,2014-05-31,"['The Brew ', ' Kamchatka ', ' Bulbul ']",
-Zürich,Sottosole,2014-05-31,"[' Lino Mandato ', ' Claudio Stefanizzi ', ' Tommy M. Tedesco ', ' Marcello Staldini ', ' Joe Molino ']",Pop
-Luzern,Abendkonzert-III,2014-05-31,['Gidon Kremer '],Classic
-Basel,Konzert-5,2014-05-31,"[' Lawrence Zazzo ', ' Roberta Invernizzi ']",Classic
-Zürich,The-Robert-Cray-Band,2014-05-31,"['The Robert Cray Band ', ' Robert Cray ', ' Jim Pugh ', ' Richard Cousins ', ' Les Falconer ']",
-Baden,Blues-Festival-Baden,2014-05-31,"['JT Lauritsen & The Buckshot Hunters ', ' A Living History ']",
-Bern,Bernatolien-Festival,2014-05-31,[' mit Yasmina Hunzinger '],Pop
-Zürich,Temples,2014-05-31,['Temples '],
-Zürich,Cunnin-Lynguists,2014-05-31,['Cunnin Lynguists '],
-Zürich,Tori-Amos,2014-05-31,['Tori Amos '],Pop
-Zürich,St.-Vincent,2014-05-31,['St. Vincent '],Pop
-null,Nehad-El-Sayed,2014-05-31,['Nehad El-Sayed '],
-Wetzikon,Pippo-Pollina-&-Palermo-Acoustic-Trio,2014-05-31,['Pippo Pollina & Palermo Acoustic Trio '],Pop
-Basel,Nils-Wogram-Root-70-&-Strings,2014-05-31,"[' Hayden Chisholm ', ' Nils Wogram ', ' Gerdur Gunnarsdottir ', ' Gareth Lubbe ', ' Adrian Brendel ', ' Matt Penman ', ' Dejan Terzic ']",
-Chur,Ruta-Contrabando,2014-05-31,['Ruta Contrabando '],
-Zürich,Dunkelbunt,2014-05-31,"['Dunkelbunt ', ' Hidan Mamudov ', ' Christiane Beinl ', ' Alexander Leuschner ', ' Florian Tavernier ']",Electronic
-Zürich,Bernhard-Schnur,2014-05-31,['Bernhard Schnur '],Pop
-Zürich,Seismogram-23,2014-05-31,"[' Jonas Ruther Solo ', ' Florian Stoffner ', ' Hans Hassler ', ' David Meier ']",
-Luzern,The-Midnight-Ghost-Train,2014-05-31,['The Midnight Ghost Train '],
-Lyss,Die-Apokalyptischen-Reiter,2014-05-31,['Die Apokalyptischen Reiter '],
-Winterthur,Crocodiles,2014-05-31,"['Crocodiles ', ' Pins ']",
-Bern,John-Lyons-Band,2014-05-31,['John Lyons Band '],
-Luzern,Monophona,2014-05-31,['Monophona '],Electronic
-Zürich,The-Fugitives,2014-05-31,"['The Fugitives ', ' Juhanna Livonen\t']",Pop
-Schaffhausen,Dutty-Wine,2014-05-31,['DJs Ulterior '],
-Solothurn,Cyanide-Pills,2014-05-31,['Cyanide Pills '],
-Basel,Salsa-Latino-Party-mit-DJ-Mambito,2014-05-31,['DJ Mambito '],
+,location,event,date,artists,genre
+0,D?dingen,Bad-Bonn-Kilbi,2014-05-31,"['Neutral Milk Hotel ', ' Diamond Version ', ' Jagwar Ma ', ' Meridian Brothers ', ' Birth of Joy ', ' Rodrigo Amarante ', "" Scarlett O'Hanna "", ' Selvhenter ']",['Pop']
+1,Malters,Nothing-But-Metal-Festival,2014-05-31,['Hate '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,-Alte-Kirche,Boswil,2014-05-31,"['Fazil Say ', ' Srdjan Vukasinovic ']",['Classic']
+3,Luzern,Piano-Entertainment,2014-05-31,['Mega Horvath '],"['Jazz', 'Blues', 'Soul']"
+4,Winterthur,5-Jahre-Radio-Stadtfilter,2014-05-31,"['The Brew ', ' Kamchatka ', ' Bulbul ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,Sottosole,2014-05-31,"[' Lino Mandato ', ' Claudio Stefanizzi ', ' Tommy M. Tedesco ', ' Marcello Staldini ', ' Joe Molino ']",['Pop']
+6,Basel,Konzert-5,2014-05-31,"[' Lawrence Zazzo ', ' Roberta Invernizzi ']",['Classic']
+7,Luzern,Abendkonzert-III,2014-05-31,['Gidon Kremer '],['Classic']
+8,Baden,Blues-Festival-Baden,2014-05-31,"[' The Buckshot Hunters ', ' A Living History ']","['Jazz', 'Blues', 'Soul']"
+9,Bern,Bernatolien-Festival,2014-05-31,[' mit Yasmina Hunzinger '],['Pop']
+10,Z?rich,Tori-Amos,2014-05-31,['Tori Amos '],['Pop']
+11,Z?rich,St.-Vincent,2014-05-31,['St. Vincent '],['Pop']
+12,Z?rich,Cunnin-Lynguists,2014-05-31,['Cunnin Lynguists '],"['Hip', 'Hop', ""R'n'B""]"
+13,Z?rich,Temples,2014-05-31,['Temples '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Z?rich,The-Robert-Cray-Band,2014-05-31,"['The Robert Cray Band ', ' Robert Cray ', ' Jim Pugh ', ' Richard Cousins ', ' Les Falconer ']","['Jazz', 'Blues', 'Soul']"
+15,null,Nehad-El-Sayed,2014-05-31,['Nehad El-Sayed '],"['world', 'music']"
+16,Wetzikon,Pippo-Pollina-&-Palermo-Acoustic-Trio,2014-05-31,[' Palermo Acoustic Trio '],['Pop']
+17,Basel,Nils-Wogram-Root-70-&-Strings,2014-05-31,"[' Hayden Chisholm ', ' Nils Wogram ', ' Gerdur Gunnarsdottir ', ' Gareth Lubbe ', ' Adrian Brendel ', ' Matt Penman ', ' Dejan Terzic ']","['Jazz', 'Blues', 'Soul']"
+18,Z?rich,Dunkelbunt,2014-05-31,"['Dunkelbunt ', ' Hidan Mamudov ', ' Christiane Beinl ', ' Alexander Leuschner ', ' Florian Tavernier ']",['Electronic']
+19,Chur,Ruta-Contrabando,2014-05-31,['Ruta Contrabando '],"['Hip', 'Hop', ""R'n'B""]"
+20,Lyss,Die-Apokalyptischen-Reiter,2014-05-31,['Die Apokalyptischen Reiter '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Bern,John-Lyons-Band,2014-05-31,['John Lyons Band '],"['Jazz', 'Blues', 'Soul']"
+22,Luzern,Monophona,2014-05-31,['Monophona '],['Electronic']
+23,Luzern,The-Midnight-Ghost-Train,2014-05-31,['The Midnight Ghost Train '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Winterthur,Crocodiles,2014-05-31,"['Crocodiles ', ' Pins ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Z?rich,Seismogram-23,2014-05-31,"[' Jonas Ruther Solo ', ' Florian Stoffner ', ' Hans Hassler ', ' David Meier ']","['Jazz', 'Blues', 'Soul']"
+26,Z?rich,Bernhard-Schnur,2014-05-31,['Bernhard Schnur '],['Pop']
+27,Z?rich,The-Fugitives,2014-05-31,"['The Fugitives ', ' Juhanna Livonen\t']",['Pop']
+28,Schaffhausen,Dutty-Wine,2014-05-31,['DJs Ulterior '],"['Hip', 'Hop', ""R'n'B""]"
+29,Solothurn,Cyanide-Pills,2014-05-31,['Cyanide Pills '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Basel,Salsa-Latino-Party-mit-DJ-Mambito,2014-05-31,['DJ Mambito '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

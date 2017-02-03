@@ -1,17 +1,17 @@
-location,event,date,artists,genre
-Zürich,Glantaler-Power-Men,2014-12-15,['Glantaler Power Men '],Pop
-Solothurn,Gospel-&-Spirituals,2014-12-15,"[' Lori Glori ', ' Mark Glaser ', ' André Kunz ', ' Stephan Brunner ', ' Andreas Schnyder ']",
-Bern,Sous-les-étoiles,2014-12-15,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
-Zürich,Liederabend,2014-12-15,[' Bejun Mehta '],Classic
-Luzern,Konzert,2014-12-15,[' Sergei Nakariakov '],Classic
-Zürich,Série-jeunes,2014-12-15,"['Ragnhild Hemsing ', ' Tor Espen Aspaas ']",Classic
-Zürich,Mighty-Oaks,2014-12-15,"['Mighty Oaks ', ' Charlie Cunningham ']",
-Pratteln,Molly-Hatchet,2014-12-15,['Molly Hatchet '],
-Lausanne,Meshugga,2014-12-15,['Meshugga '],
-Zürich,Soirée-classique,2014-12-15,"['Nils Mönkemeyer ', ' Klaus-Dieter Brandt ', ' Andreas Arend ', ' Sabine Erdmann ']",Classic
-Lausanne,Samaris,2014-12-15,['Samaris '],Electronic
-Baden,Scherrer-Evans-Kurmann-Rossy,2014-12-15,"[' Andy Scherrer ', ' William Evans ', ' Stephan Kurmann ', ' Jorge Rossy ']",
-Luzern,Aaron-Goldberg-Trio,2014-12-15,"[' Aaron Goldberg ', ' Reuben Rogers ', ' Eric Harland ']",
-Bern,Zatter-Stubete,2014-12-15,['Julian Sartorius '],
-Basel,Jazzkollektiv-Baboo's-Dinysos,2014-12-15,"[' Lukos Briggen ', ' Jos Valland ', ' Kasparos von Grünigen ', ' Jonos Prina ']",
-Zürich,Root-Down,2014-12-15,"[' Tommy Meier ', ' Marco von Orelli ', ' Manuel Mengis ', ' Co Streiff ', ' Peter Landis ', ' Hans Anliker ']",
+,location,event,date,artists,genre
+0,Z?rich,Glantaler-Power-Men,2014-12-15,['Glantaler Power Men '],['Pop']
+1,Solothurn,Gospel-&-Spirituals,2014-12-15,"[' Lori Glori ', ' Mark Glaser ', ' Andr? Kunz ', ' Stephan Brunner ', ' Andreas Schnyder ']","['world', 'music']"
+2,Z?rich,Liederabend,2014-12-15,[' Bejun Mehta '],['Classic']
+3,Bern,Sous-les-?toiles,2014-12-15,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']","['Jazz', 'Blues', 'Soul']"
+4,Z?rich,S?rie-jeunes,2014-12-15,"['Ragnhild Hemsing ', ' Tor Espen Aspaas ']",['Classic']
+5,Luzern,Konzert,2014-12-15,[' Sergei Nakariakov '],['Classic']
+6,Lausanne,Samaris,2014-12-15,['Samaris '],['Electronic']
+7,Z?rich,Soir?e-classique,2014-12-15,"['Nils M?nkemeyer ', ' Klaus-Dieter Brandt ', ' Andreas Arend ', ' Sabine Erdmann ']",['Classic']
+8,Z?rich,Mighty-Oaks,2014-12-15,"['Mighty Oaks ', ' Charlie Cunningham ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Pratteln,Molly-Hatchet,2014-12-15,['Molly Hatchet '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Lausanne,Meshugga,2014-12-15,['Meshugga '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Baden,Scherrer-Evans-Kurmann-Rossy,2014-12-15,"[' Andy Scherrer ', ' William Evans ', ' Stephan Kurmann ', ' Jorge Rossy ']","['Jazz', 'Blues', 'Soul']"
+12,Bern,Zatter-Stubete,2014-12-15,['Julian Sartorius '],"['Jazz', 'Blues', 'Soul']"
+13,Luzern,Aaron-Goldberg-Trio,2014-12-15,"[' Aaron Goldberg ', ' Reuben Rogers ', ' Eric Harland ']","['Jazz', 'Blues', 'Soul']"
+14,Basel,Jazzkollektiv-Baboo's-Dinysos,2014-12-15,"[' Lukos Briggen ', ' Jos Valland ', ' Kasparos von Gr?nigen ', ' Jonos Prina ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Root-Down,2014-12-15,"[' Tommy Meier ', ' Marco von Orelli ', ' Manuel Mengis ', ' Co Streiff ', ' Peter Landis ', ' Hans Anliker ']","['Jazz', 'Blues', 'Soul']"

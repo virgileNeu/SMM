@@ -1,48 +1,44 @@
-location,event,date,artists,genre
-Winterthur,Maja-&-Beat-Oezmen,2014-03-22,"[' Maja Oezmen ', ' Beat Oezmen ']",Pop
-Luzern,Piano-Entertainment,2014-03-22,['Christian Mettler '],Pop
-null,Between-the-Beats,2014-03-22,"['Magic Arm ', ' Spring Offensive ', ' Who Made Who ', ' Wrongkong ']",
-Zürich,Chvrches,2014-03-22,"['Chvrches ', ' Soak ']",Pop
-Aarau,Grand-Magus,2014-03-22,"['Grand Magus ', ' Audrey Horne ', ' Zodiac ', ' The Vintage Caravan ']",
-Zürich,Guru-Ganesha-Band,2014-03-22,['Guru Ganesha Band '],Pop
-Zürich,Die-Schöpfung,2014-03-22,"[' Christina Landshamer ', ' Maximilian Schmitt ', ' Rudolf Rosen ']",Classic
-Luzern,Africa,2014-03-22,"['Leonard Chew ', ' Irène Weis ', ' Raymond Caduff ']",Classic
-null,Mahlers-Fünfte,2014-03-22,[' Lena Neudauer '],Classic
-Luzern,Alice-in-Wonderland-Disney-in-Concert,2014-03-22,[' Alice in Wonderland '],Classic
-Zürich,Internationales-Country-Music-Festival,2014-03-22,['The Bellamy Brothers '],
-Altikon,Folklore-imaginaire,2014-03-22,"['Silvan Schmid ', ' Seraphim von Werra ']",
-Chur,Stevie-Cochran,2014-03-22,['Stevie Cochran '],
-Langnau-am-Albis,Boris-Vian,2014-03-22,"[' Sara Maurer ', ' Yves Raeber ']",Pop
--Festplatz-am-See,Lachen,2014-03-22,['Faun '],
-Chur,Matthäus-Passion-Eine-Russische-Passion-des-21.-Jahrhunderts,2014-03-22,"[' Ali Magomedov ', ' Svetlana Polyanskaya ', ' Franziska Andrea Heinzen ']",Classic
-Pratteln,Deathstars,2014-03-22,['Deathstars '],
-Lenzburg,Jamie-Clarke's-Perfect-(IRL),2014-03-22,"[""Jamie Clarke's Perfect "", ' The Moorings ']",
-Bern,Beth-Hart,2014-03-22,['Beth Hart '],Pop
--Temple-allemand,null,2014-03-22,"[' Hans-Jürg Rickenbacher ', ' Alexandre Beuchat ']",Classic
-Oberengstringen,Ziegele-Theiler,2014-03-22,"[' Omri Ziegele ', ' Yves Theiler ', ' Robert Morgenthaler ', ' Urs Röllin ']",
-Basel,Habib-Koité,2014-03-22,['Habib Koité '],
-Baden,Close-Harmony,2014-03-22,"[' Felix Trachsel ', ' Christoph Horlacher ']",Pop
-Basel,Wiesendanger-Penz-Barreto,2014-03-22,"[' Chris Wiesendanger ', ' Dudu Penz ', ' Julio Barreto ']",
-null,Choeurs-de-Cordoue,2014-03-22,['Souad Massi & Éric Fernandez '],
-Jona,Samborombón,2014-03-22,"[' Antonio Marucci ', ' Claudia Kleiner ', ' Juan Adami ', ' Luciano Jungman ', ' Silvia Solari ']",
-Winterthur,Phraseland,2014-03-22,['Phraseland '],
-Basel,Thomas-Azier,2014-03-22,['Thomas Azier '],Pop
-Zürich,MKZ-Band-Festival,2014-03-22,"[' Lisa Arter ', ' Saskja Weilenmann ', ' Selina Beyeler ', ' Laura Küpfer ']",
-Liestal,Ndiigo,2014-03-22,['Ndiigo '],
-Zürich,Demierre-Kimmig-Koch-Seigner-Zimmerlin-Studer,2014-03-22,"[' Jacques Demierre ', ' Harald Kimmig ', ' Hans Koch ', ' Michel Seigner ', ' Alfred Zimmerlin ', ' Peter K Frey ', ' Daniel Studer ']",
-Luzern,Hans-Söllner,2014-03-22,['Hans Söllner '],Pop
-Sursee,Contorsion,2014-03-22,['Contorsion '],
-Zürich,Brett-Newski,2014-03-22,"['Brett Newski ', ' Owen McGarry ']",
-Thun,Trümmer,2014-03-22,['Trümmer '],
-Schaffhausen,Celtic-Spring-Caravan,2014-03-22,"['Dermot Byrne & Floriane Blancke ', ' Clara Rose ', "" Tommy O'Sullivan & Meabh O'Hare & PJ King ""]",
-Zug,Fiddler's-Green,2014-03-22,"[""Fiddler's Green "", ' support: The Led Farmers ']",
-null,Scott-Hernderson-Trio,2014-03-22,"[' Scott Henderson ', ' Travis Carlton ', ' Alan Hertz ']",
-Laufen,The-Möles,2014-03-22,['The Möles '],
-null,Ostblockschlampen,2014-03-22,['Ostblockschlampen '],Electronic
-null,Rocky-Horror-Picture-Show-Night,2014-03-22,['Bonnie Li '],Pop
-null,Saf-Sap,2014-03-22,['Saf-Sap '],
-Düdingen,Blaudzun,2014-03-22,['Blaudzun '],Pop
-Luzern,Akku-Quintet,2014-03-22,"[' Thierry Lüthy ', ' Markus Ischer ', ' ', ' Andi Schnellmann ', ' Manuel Pasquinelli ']",
-Münchenstein,Incite,2014-03-22,['Incite '],Electronic
-Sankt-Gallen,Demdike-Stare,2014-03-22,['Demdike Stare '],Electronic
-Zürich,Petting,2014-03-22,['Petting '],
+,location,event,date,artists,genre
+0,Winterthur,Maja-&-Beat-Oezmen,2014-03-22,"[' Maja Oezmen ', ' Beat Oezmen ']",['Pop']
+1,Luzern,Piano-Entertainment,2014-03-22,['Christian Mettler '],['Pop']
+2,null,Between-the-Beats,2014-03-22,"['Magic Arm ', ' Spring Offensive ', ' Who Made Who ', ' Wrongkong ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,Chvrches,2014-03-22,"['Chvrches ', ' Soak ']",['Pop']
+4,Z?rich,Guru-Ganesha-Band,2014-03-22,['Guru Ganesha Band '],['Pop']
+5,Luzern,Alice-in-Wonderland-Disney-in-Concert,2014-03-22,[' Alice in Wonderland '],['Classic']
+6,Z?rich,Internationales-Country-Music-Festival,2014-03-22,['The Bellamy Brothers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Aarau,Grand-Magus,2014-03-22,"['Grand Magus ', ' Audrey Horne ', ' Zodiac ', ' The Vintage Caravan ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Z?rich,Die-Sch?pfung,2014-03-22,"[' Christina Landshamer ', ' Maximilian Schmitt ', ' Rudolf Rosen ']",['Classic']
+9,Luzern,Africa,2014-03-22,"['Leonard Chew ', ' Ir?ne Weis ', ' Raymond Caduff ']",['Classic']
+10,null,Mahlers-F?nfte,2014-03-22,[' Lena Neudauer '],['Classic']
+11,Oberengstringen,Ziegele-Theiler,2014-03-22,"[' Omri Ziegele ', ' Yves Theiler ', ' Robert Morgenthaler ', ' Urs R?llin ']","['Jazz', 'Blues', 'Soul']"
+12,Langnau-am-Albis,Boris-Vian,2014-03-22,"[' Sara Maurer ', ' Yves Raeber ']",['Pop']
+13,Chur,Matth?us-Passion-Eine-Russische-Passion-des-21.-Jahrhunderts,2014-03-22,"[' Ali Magomedov ', ' Svetlana Polyanskaya ', ' Franziska Andrea Heinzen ']",['Classic']
+14,Chur,Stevie-Cochran,2014-03-22,['Stevie Cochran '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,-Festplatz-am-See,Lachen,2014-03-22,['Faun '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Bern,Beth-Hart,2014-03-22,['Beth Hart '],['Pop']
+17,Altikon,Folklore-imaginaire,2014-03-22,"['Silvan Schmid ', ' Seraphim von Werra ']","['world', 'music']"
+18,-Temple-allemand,null,2014-03-22,"[' Hans-J?rg Rickenbacher ', ' Alexandre Beuchat ']",['Classic']
+19,Pratteln,Deathstars,2014-03-22,['Deathstars '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Lenzburg,Jamie-Clarke's-Perfect-(IRL),2014-03-22,"[""Jamie Clarke's Perfect "", ' The Moorings ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Basel,Habib-Koit?,2014-03-22,['Habib Koit? '],"['Hip', 'Hop', ""R'n'B""]"
+22,Baden,Close-Harmony,2014-03-22,"[' Felix Trachsel ', ' Christoph Horlacher ']",['Pop']
+23,Basel,Thomas-Azier,2014-03-22,['Thomas Azier '],['Pop']
+24,Basel,Wiesendanger-Penz-Barreto,2014-03-22,"[' Chris Wiesendanger ', ' Dudu Penz ', ' Julio Barreto ']","['Jazz', 'Blues', 'Soul']"
+25,Z?rich,MKZ-Band-Festival,2014-03-22,"[' Lisa Arter ', ' Saskja Weilenmann ', ' Selina Beyeler ', ' Laura K?pfer ']","['Jazz', 'Blues', 'Soul']"
+26,Sursee,Contorsion,2014-03-22,['Contorsion '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Luzern,Hans-S?llner,2014-03-22,['Hans S?llner '],['Pop']
+28,Z?rich,Demierre-Kimmig-Koch-Seigner-Zimmerlin-Studer,2014-03-22,"[' Jacques Demierre ', ' Harald Kimmig ', ' Hans Koch ', ' Michel Seigner ', ' Alfred Zimmerlin ', ' Peter K Frey ', ' Daniel Studer ']","['Jazz', 'Blues', 'Soul']"
+29,Winterthur,Phraseland,2014-03-22,['Phraseland '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,null,Choeurs-de-Cordoue,2014-03-22,[' ?ric Fernandez '],"['world', 'music']"
+31,Jona,Samboromb?n,2014-03-22,"[' Antonio Marucci ', ' Claudia Kleiner ', ' Juan Adami ', ' Luciano Jungman ', ' Silvia Solari ']","['world', 'music']"
+32,Liestal,Ndiigo,2014-03-22,['Ndiigo '],"['world', 'music']"
+33,Zug,Fiddler's-Green,2014-03-22,"[""Fiddler's Green "", ' support: The Led Farmers ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Schaffhausen,Celtic-Spring-Caravan,2014-03-22,[' PJ King '],"['world', 'music']"
+35,Laufen,The-M?les,2014-03-22,['The M?les '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Z?rich,Brett-Newski,2014-03-22,"['Brett Newski ', ' Owen McGarry ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Thun,Tr?mmer,2014-03-22,['Tr?mmer '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+38,null,Scott-Hernderson-Trio,2014-03-22,"[' Scott Henderson ', ' Travis Carlton ', ' Alan Hertz ']","['Jazz', 'Blues', 'Soul']"
+39,Luzern,Akku-Quintet,2014-03-22,"[' Thierry L?thy ', ' Markus Ischer ', ' ', ' Andi Schnellmann ', ' Manuel Pasquinelli ']","['Jazz', 'Blues', 'Soul']"
+40,null,Rocky-Horror-Picture-Show-Night,2014-03-22,['Bonnie Li '],['Pop']
+41,M?nchenstein,Incite,2014-03-22,['Incite '],['Electronic']
+42,Z?rich,Petting,2014-03-22,['Petting '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

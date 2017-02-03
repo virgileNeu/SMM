@@ -1,43 +1,43 @@
-location,event,date,artists,genre
-Basel,Orgelmusik-über-Mittag,2014-09-13,['Andreas Liebig '],Classic
-Binningen,Jahreskonzert,2014-09-13,[' Johanna Tüscher '],Classic
-Zürich,Herbstkonzerte,2014-09-13,"['John Thade ', ' Annkatrin Isaacs ']",Classic
-Einsiedeln,Jubiläumskonzert,2014-09-13,[' Patricia Ulrich '],Classic
-Winterthur,Kurzkonzert,2014-09-13,"[' Simone Keller ', ' Mateusz Szczepkowski ']",Classic
-null,A-Synth-Fest,2014-09-13,"['Wrangler ', ' The Space Lady ', ' Stellar OM Source ', ' Kann denn Liebe Syntie sein ']",Pop
-Luzern,Piano-Entertainment,2014-09-13,['Mark Tenger '],Pop
-Zürich,Jazzduo-Edelschwarz,2014-09-13,"[' Christian Ostermeier ', ' Thomas Ostermeier ']",
-Zürich,Tag-der-offenen-Tür,2014-09-13,[' Yuja Wang '],Classic
-Luzern,Sinfoniekonzert-25,2014-09-13,[' Sergey Khachatryan '],Classic
-Zürich,Chorkonzert-Psalmen-und-Lobgesänge,2014-09-13,"[' Karsten Leykam ', ' conductor: Kantor Matthias Ank ']",Classic
-Eschlikon,Errol-Dixon,2014-09-13,['Errol Dixon '],
-Herzogenbuchsee,Florian-Favre,2014-09-13,[' Paul Ubana '],
-Bern,Die-Schöpfung,2014-09-13,"['Rachel Harnisch ', ' Andreas Scheidegger ', ' Rudolf Rosen ']",Classic
-Zillis,Jubiläumskonzert,2014-09-13,"[' Ursina Brun ', ' Katrin Bamert ']",Classic
-Liestal,Tina-and-the-Fat-Cat,2014-09-13,"[' Tina Martin ', ' Jérôme von Allmen ', ' Otto van Gogh ']",Pop
-Thun,Pastorale,2014-09-13,['Elizabeth Bailey '],Classic
-Zug,Monthly-Assault-Autumn-Autopsy,2014-09-13,"['Antropofagus ', ' Bloodtruth ', ' ', ' Indecent Excision ', ' Mastication of Brutality Uncontrolled ', ' To Feed of Flesh ']",
-Oberengstringen,Pippo-non-lo-sa,2014-09-13,"['Pippo non lo sa ', ' Duilio Galfetti ', ' Danilo Boggini ', ' Pierluigi Ferrari ', ' Marco Ricci ']",
-Basel,Colette-Greder-chante-Piaf,2014-09-13,"[' Colette Greder ', ' Andrei Ichtchenko ']",Pop
-Dornach,Erntedank,2014-09-13,[' Pascal Deuber '],Classic
-Zürich,Die-Evolution,2014-09-13,"[' Kismara Pessatti ', ' Valentin Gloor ']",Classic
-Basel,Gesang-&-Laute,2014-09-13,"['Sarah Satz ', ' Ricardo Leitão Pedro ']",Classic
-Zürich,Nits,2014-09-13,['Nits '],Pop
-null,Sacrum,2014-09-13,"[' Maria Gessler ', ' Susanne Puchegger ', ' Michael Feyfar ', ' Robert Koller ']",Classic
-Zürich,Oratorium-Der-geduldige-und-liebreiche-David,2014-09-13,"[' Franziska Wigger ', ' Daniel Bentz ', ' Christian Marthaler ']",Classic
-Volketswil,Franco-Morone-&-Raffaela-Luna,2014-09-13,['Franco Morone & Raffaela Luna '],Pop
-null,Traumwandlermusik,2014-09-13,"[' Michael Zisman ', ' Pierre Favre ']",
-Basel,Joe-Haider-Quartet,2014-09-13,"[' Domenic Landolf ', ' Joe Haider ', ' Raffaele Bossard ', ' Dominic Egli ']",
-Zürich,Mad-Girl,2014-09-13,"[' Lander Gyselinck ', ' Corinne Huber ', ' Franziska Bruecker ', ' Annina Polivka ']",Pop
-Zürich,Imam-Baildi,2014-09-13,"['Imam Baildi ', ' Orestis Falireas ', ' Lysandros Falireas ', ' Rena Morfi ', ' MC Yinka ', ' Yiannis Diskos ', ' Periklis Aliopis ']",
-Dübendorf,Bee-Johnson,2014-09-13,"[' Andrina Bollinger ', ' Hannah Bissegger ', ' Michel Spahr ', ' Marvin Trummer ', ' Leonie Bradatsch ', ' Ramón Oliveras ']",Pop
-Uster,Blitzkrieg,2014-09-13,['Blitzkrieg '],
-Winterthur,New-Swears,2014-09-13,"['New Swears ', ' support: Dusty Mush ']",
-null,Ricky-Fabian,2014-09-13,['Ricky Fabian '],
-Basel,Mark-Geary,2014-09-13,['Mark Geary '],Pop
-Hasliberg-Hohfluh,Das-Bo-&-DJ-Sepalot,2014-09-13,['Das Bo & DJ Sepalot '],
-null,Eriah,2014-09-13,['Eriah '],
-Kriens,L.A.-Beat-Scene-Generation,2014-09-13,"['Ras G ', ' Low Leaf ', ' Zeroh ']",
-null,Salsa-Village,2014-09-13,[' live: Alexander & Eulises Gonzales '],
-null,Anthony-B,2014-09-13,['Anthony B '],
-Schaffhausen,Dirty-Honkers,2014-09-13,"['Dirty Honkers ', ' DJ Tomahawk ']",Electronic
+,location,event,date,artists,genre
+0,Basel,Orgelmusik-?ber-Mittag,2014-09-13,['Andreas Liebig '],['Classic']
+1,Binningen,Jahreskonzert,2014-09-13,[' Johanna T?scher '],['Classic']
+2,Z?rich,Herbstkonzerte,2014-09-13,"['John Thade ', ' Annkatrin Isaacs ']",['Classic']
+3,Einsiedeln,Jubil?umskonzert,2014-09-13,[' Patricia Ulrich '],['Classic']
+4,Winterthur,Kurzkonzert,2014-09-13,"[' Simone Keller ', ' Mateusz Szczepkowski ']",['Classic']
+5,null,A-Synth-Fest,2014-09-13,[' Kann denn Liebe Syntie sein '],['Pop']
+6,Z?rich,Tag-der-offenen-T?r,2014-09-13,[' Yuja Wang '],['Classic']
+7,Luzern,Piano-Entertainment,2014-09-13,['Mark Tenger '],['Pop']
+8,Z?rich,Jazzduo-Edelschwarz,2014-09-13,"[' Christian Ostermeier ', ' Thomas Ostermeier ']","['Jazz', 'Blues', 'Soul']"
+9,Luzern,Sinfoniekonzert-25,2014-09-13,[' Sergey Khachatryan '],['Classic']
+10,Z?rich,Chorkonzert-Psalmen-und-Lobges?nge,2014-09-13,"[' Karsten Leykam ', ' conductor: Kantor Matthias Ank ']",['Classic']
+11,Eschlikon,Errol-Dixon,2014-09-13,['Errol Dixon '],"['Jazz', 'Blues', 'Soul']"
+12,Zillis,Jubil?umskonzert,2014-09-13,"[' Ursina Brun ', ' Katrin Bamert ']",['Classic']
+13,Herzogenbuchsee,Florian-Favre,2014-09-13,[' Paul Ubana '],"['Jazz', 'Blues', 'Soul']"
+14,Liestal,Tina-and-the-Fat-Cat,2014-09-13,"[' Tina Martin ', ' J?r?me von Allmen ', ' Otto van Gogh ']",['Pop']
+15,Bern,Die-Sch?pfung,2014-09-13,"['Rachel Harnisch ', ' Andreas Scheidegger ', ' Rudolf Rosen ']",['Classic']
+16,Thun,Pastorale,2014-09-13,['Elizabeth Bailey '],['Classic']
+17,Zug,Monthly-Assault-Autumn-Autopsy,2014-09-13,"['Antropofagus ', ' Bloodtruth ', ' ', ' Indecent Excision ', ' Mastication of Brutality Uncontrolled ', ' To Feed of Flesh ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Basel,Gesang-&-Laute,2014-09-13,"['Sarah Satz ', ' Ricardo Leit?o Pedro ']",['Classic']
+19,Basel,Colette-Greder-chante-Piaf,2014-09-13,"[' Colette Greder ', ' Andrei Ichtchenko ']",['Pop']
+20,Oberengstringen,Pippo-non-lo-sa,2014-09-13,"['Pippo non lo sa ', ' Duilio Galfetti ', ' Danilo Boggini ', ' Pierluigi Ferrari ', ' Marco Ricci ']","['Jazz', 'Blues', 'Soul']"
+21,Dornach,Erntedank,2014-09-13,[' Pascal Deuber '],['Classic']
+22,Z?rich,Oratorium-Der-geduldige-und-liebreiche-David,2014-09-13,"[' Franziska Wigger ', ' Daniel Bentz ', ' Christian Marthaler ']",['Classic']
+23,Z?rich,Nits,2014-09-13,['Nits '],['Pop']
+24,Z?rich,Die-Evolution,2014-09-13,"[' Kismara Pessatti ', ' Valentin Gloor ']",['Classic']
+25,Volketswil,Franco-Morone-&-Raffaela-Luna,2014-09-13,[' Raffaela Luna '],['Pop']
+26,null,Sacrum,2014-09-13,"[' Maria Gessler ', ' Susanne Puchegger ', ' Michael Feyfar ', ' Robert Koller ']",['Classic']
+27,null,Traumwandlermusik,2014-09-13,"[' Michael Zisman ', ' Pierre Favre ']","['Jazz', 'Blues', 'Soul']"
+28,Z?rich,Imam-Baildi,2014-09-13,"['Imam Baildi ', ' Orestis Falireas ', ' Lysandros Falireas ', ' Rena Morfi ', ' MC Yinka ', ' Yiannis Diskos ', ' Periklis Aliopis ']","['world', 'music']"
+29,Basel,Joe-Haider-Quartet,2014-09-13,"[' Domenic Landolf ', ' Joe Haider ', ' Raffaele Bossard ', ' Dominic Egli ']","['Jazz', 'Blues', 'Soul']"
+30,D?bendorf,Bee-Johnson,2014-09-13,"[' Andrina Bollinger ', ' Hannah Bissegger ', ' Michel Spahr ', ' Marvin Trummer ', ' Leonie Bradatsch ', ' Ram?n Oliveras ']",['Pop']
+31,Z?rich,Mad-Girl,2014-09-13,"[' Lander Gyselinck ', ' Corinne Huber ', ' Franziska Bruecker ', ' Annina Polivka ']",['Pop']
+32,Uster,Blitzkrieg,2014-09-13,['Blitzkrieg '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Basel,Mark-Geary,2014-09-13,['Mark Geary '],['Pop']
+34,Winterthur,New-Swears,2014-09-13,"['New Swears ', ' support: Dusty Mush ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,null,Ricky-Fabian,2014-09-13,['Ricky Fabian '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Hasliberg-Hohfluh,Das-Bo-&-DJ-Sepalot,2014-09-13,[' DJ Sepalot '],"['Hip', 'Hop', ""R'n'B""]"
+37,null,Eriah,2014-09-13,['Eriah '],"['Hip', 'Hop', ""R'n'B""]"
+38,Kriens,L.A.-Beat-Scene-Generation,2014-09-13,"['Ras G ', ' Low Leaf ', ' Zeroh ']","['Hip', 'Hop', ""R'n'B""]"
+39,null,Salsa-Village,2014-09-13,[' Eulises Gonzales '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+40,null,Anthony-B,2014-09-13,['Anthony B '],"['Hip', 'Hop', ""R'n'B""]"
+41,Schaffhausen,Dirty-Honkers,2014-09-13,"['Dirty Honkers ', ' DJ Tomahawk ']",['Electronic']

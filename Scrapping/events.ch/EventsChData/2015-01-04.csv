@@ -1,14 +1,14 @@
-location,event,date,artists,genre
-Basel,Schtärneföifi,2015-01-04,"[' Boni Koller ', ' Sibylle Aeberli ', ' Adrian Fiechter ', ' Jean Zuber ', ' Thomas Haldimann ']",Pop
-Walkringen,Galeriekonzert-Freunde-der-Musik,2015-01-04,"['Maurice Dentan ', ' Gabriel Fügistaler ', ' Jürg Bitterli ']",Classic
-Aarau,Neujahrskonzert,2015-01-04,[' Karen Gomyo '],Classic
-null,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2015-01-04,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes Bärtschi ']",Classic
-Winterthur,Neujahrskonzert,2015-01-04,[' Alena Cherny '],Classic
-Basel,Neujahreskonzert-Vivaldi-für-Barockfagott-und-Blockflöte,2015-01-04,"[' Miho Fukui ', ' Andreas Böhlen ']",Classic
-Zürich,Denn-wie-man-sich-bettet-Ein-kurtweilliger-Liederabend,2015-01-04,"['Christian Jott Jenny ', ' Edward Rushton ']",Pop
-Klosters,Flöte-und-Geige,2015-01-04,"['Ana de la Vega ', ' Daniel Röhn ']",Classic
-Buchberg,Was-bleibt...-Abschiedskonzert,2015-01-04,['Christian Gautschi '],Pop
-Altikon,Jam-Point,2015-01-04,"[' Bruno Bosshardt ', ' Robert Bosshardt ', ' Hans Sande ', ' Peter Pattynama ', ' Richi Schmied ']",
-Zürich,Gianmaria-Testa,2015-01-04,['Gianmaria Testa '],
-Bern,Wally-und-die-sieben-Geier,2015-01-04,"[' Erika Stucky ', ' Alexander Krenn ', ' Christoph Geza Haider Kroiss ', ' Christian Wieder ', ' Reinhold Bieber ', ' Bernhard Holl ', ' Georg Steiner ', ' Albert Wieder ']",
-Zürich,John-Francis,2015-01-04,['John Francis '],
+,location,event,date,artists,genre
+0,Basel,Scht?rnef?ifi,2015-01-04,"[' Boni Koller ', ' Sibylle Aeberli ', ' Adrian Fiechter ', ' Jean Zuber ', ' Thomas Haldimann ']",['Pop']
+1,Walkringen,Galeriekonzert-Freunde-der-Musik,2015-01-04,"['Maurice Dentan ', ' Gabriel F?gistaler ', ' J?rg Bitterli ']",['Classic']
+2,Winterthur,Neujahrskonzert,2015-01-04,[' Alena Cherny '],['Classic']
+3,Basel,Neujahreskonzert-Vivaldi-f?r-Barockfagott-und-Blockfl?te,2015-01-04,"[' Miho Fukui ', ' Andreas B?hlen ']",['Classic']
+4,null,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2015-01-04,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes B?rtschi ']",['Classic']
+5,Z?rich,Denn-wie-man-sich-bettet-Ein-kurtweilliger-Liederabend,2015-01-04,"['Christian Jott Jenny ', ' Edward Rushton ']",['Pop']
+6,Klosters,Fl?te-und-Geige,2015-01-04,"['Ana de la Vega ', ' Daniel R?hn ']",['Classic']
+7,Aarau,Neujahrskonzert,2015-01-04,[' Karen Gomyo '],['Classic']
+8,Buchberg,Was-bleibt...-Abschiedskonzert,2015-01-04,['Christian Gautschi '],['Pop']
+9,Altikon,Jam-Point,2015-01-04,"[' Bruno Bosshardt ', ' Robert Bosshardt ', ' Hans Sande ', ' Peter Pattynama ', ' Richi Schmied ']","['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Gianmaria-Testa,2015-01-04,['Gianmaria Testa '],"['world', 'music']"
+11,Bern,Wally-und-die-sieben-Geier,2015-01-04,"[' Erika Stucky ', ' Alexander Krenn ', ' Christoph Geza Haider Kroiss ', ' Christian Wieder ', ' Reinhold Bieber ', ' Bernhard Holl ', ' Georg Steiner ', ' Albert Wieder ']","['Jazz', 'Blues', 'Soul']"
+12,Z?rich,John-Francis,2015-01-04,['John Francis '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

@@ -1,17 +1,17 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment,2014-07-16,['Mark Tenger '],
-Baden,After-Work,2014-07-16,"[' Ricky Djurak ', ' Tico Keller ', ' Hannes Hänggli ']",
-Zürich,Internationale-Orgelkonzerte-Sommerzyklus,2014-07-16,['Stefan Engels '],Classic
-Zürich,Serenade-im-Park,2014-07-16,"[' Hyunjong Reents-Kang ', ' Eva Lüthi ', ' Petya Mihneva ']",Classic
-null,Stimmen,2014-07-16,"['Bilal ', ' Flavia Coelho ']",
-Montreux,Montreux-Jazz-Festival,2014-07-16,['Stevie Wonder '],
-null,Kulturfestival-St.-Gallen,2014-07-16,['Julia Biel '],Pop
-Montreux,Montreux-Jazz-Festival,2014-07-16,"['John Scofield Uberjam Band ', ' Dirty Loops ']",
-Montreux,Montreux-Jazz-Festival,2014-07-16,"['Mac Miller ', ' Joey Badass ']",
-Basel,Schönhaus-Express-feat.-Lisette-Spinnler,2014-07-16,"[' Lisette Spinnler ', ' Sascha Schönhaus ', ' Hans-Peter Pfammatter ', ' Bänz Oester ', ' Norbert Pfammatter ']",
-Locarno,Moon-and-Stars,2014-07-16,"['James Blunt ', ' Zaz ']",Pop
-Zürich,Live-at-Sunset,2014-07-16,['Roger Cicero '],
-Maggia,Magic-Blues-Festival,2014-07-16,"['Moreland & Arbuckle ', ' Nerves & Muscles ']",
-St.-Moritz,Festival-da-Jazz,2014-07-16,"['Mike Stern & Bill Evans Band ', ' Mike Stern ', ' Bill Evans ', ' Tom Kennedy ', ' Dennis Chambers ']",
-Zürich,Argies,2014-07-16,['Argies '],
-Montreux,Montreux-Jazz-Festival,2014-07-16,['The Lords of Alamont '],
+,location,event,date,artists,genre
+0,Baden,After-Work,2014-07-16,"[' Ricky Djurak ', ' Tico Keller ', ' Hannes H?nggli ']","['Jazz', 'Blues', 'Soul']"
+1,Luzern,Piano-Entertainment,2014-07-16,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+2,Z?rich,Internationale-Orgelkonzerte-Sommerzyklus,2014-07-16,['Stefan Engels '],['Classic']
+3,Z?rich,Serenade-im-Park,2014-07-16,"[' Hyunjong Reents-Kang ', ' Eva L?thi ', ' Petya Mihneva ']",['Classic']
+4,null,Stimmen,2014-07-16,"['Bilal ', ' Flavia Coelho ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Montreux,Montreux-Jazz-Festival,2014-07-16,['Stevie Wonder '],"['Hip', 'Hop', ""R'n'B""]"
+6,Montreux,Montreux-Jazz-Festival,2014-07-16,"['John Scofield Uberjam Band ', ' Dirty Loops ']","['Jazz', 'Blues', 'Soul']"
+7,null,Kulturfestival-St.-Gallen,2014-07-16,['Julia Biel '],['Pop']
+8,Locarno,Moon-and-Stars,2014-07-16,"['James Blunt ', ' Zaz ']",['Pop']
+9,Montreux,Montreux-Jazz-Festival,2014-07-16,"['Mac Miller ', ' Joey Badass ']","['Hip', 'Hop', ""R'n'B""]"
+10,Z?rich,Live-at-Sunset,2014-07-16,['Roger Cicero '],"['Jazz', 'Blues', 'Soul']"
+11,Basel,Sch?nhaus-Express-feat.-Lisette-Spinnler,2014-07-16,"[' Lisette Spinnler ', ' Sascha Sch?nhaus ', ' Hans-Peter Pfammatter ', ' B?nz Oester ', ' Norbert Pfammatter ']","['Jazz', 'Blues', 'Soul']"
+12,Maggia,Magic-Blues-Festival,2014-07-16,[' Muscles '],"['Jazz', 'Blues', 'Soul']"
+13,St.-Moritz,Festival-da-Jazz,2014-07-16,"[' Bill Evans Band ', ' Mike Stern ', ' Bill Evans ', ' Tom Kennedy ', ' Dennis Chambers ']","['Jazz', 'Blues', 'Soul']"
+14,Montreux,Montreux-Jazz-Festival,2014-07-16,['The Lords of Alamont '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Z?rich,Argies,2014-07-16,['Argies '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

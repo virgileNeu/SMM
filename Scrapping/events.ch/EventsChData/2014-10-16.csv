@@ -1,32 +1,31 @@
-location,event,date,artists,genre
-Luzern,Live-Cover-Night,2014-10-16,"[' Dominik Steegmüller ', ' Pascal P Kaeser ', ' Sam Siegenthaler ', ' JJ Flück ', ' Andreas Renggli ']",
-Zürich,Deepdive-Music-Night,2014-10-16,['These Reigning Days '],
-Liestal,Pink-Pedrazzi,2014-10-16,['Pink Pedrazzi '],Pop
-Aarau,Animals-as-Leaders,2014-10-16,"['Animals as Leaders ', ' Tesseract ']",
-Zürich,Konzert,2014-10-16,[' David Fray '],Classic
-Bern,Symphoniekonzert,2014-10-16,[' Jean-Yves Thibaudet '],Classic
-Luzern,Sinfoniekonzert,2014-10-16,[' Maria João Pires '],Classic
-Zürich,Will-and-the-People,2014-10-16,['Will and the People '],
-Herisau,Sonic-Syndicate,2014-10-16,['Sonic Syndicate '],
-Zürich,Selig,2014-10-16,['Selig '],
-null,Konzert,2014-10-16,"[' Kristian Bezuidenhout ', ' Jacques Zoon ', ' Gottfried von der Goltz ']",Classic
-Zürich,Gäzig,2014-10-16,"[' Christine Lauterburg ', ' Hans Kennel ', ' Regina Steiner ', ' Leo Bachmann ']",traditional
-Zürich,Asaf-Avidan-abgesagt,2014-10-16,['Asaf Avidan '],
-Aarau,Mats-Up,2014-10-16,"[' Matthias Spillmann ', ' Reto Suhner ', ' Stefan Aeby ', ' Dominic Egli ', ' Raffaele Bossard ']",
-Winterthur,Simon-Spiess-Trio,2014-10-16,"[' Simon Spiess ', ' Bänz Oester ', ' Daniel Mudrack ']",
-Frauenfeld,Funky-Staff,2014-10-16,"[' Amelia A. Bruderer ', ' Martin Lehner ', ' Hans Lehmann ', ' Fabian Brenner ', ' Pascal Wallier ', ' Toni Schilter ']",
-Basel,Fox-Street,2014-10-16,['Fox Street '],
-Baden,4-some-Blues,2014-10-16,"[' Walter Baumgartner ', ' Dani Gugolz ', ' Peter Müller ', ' Hannes Kasehs ']",
-Bern,Leo-Stannard,2014-10-16,['Leo Stannard '],Pop
-Bern,The-Shrine,2014-10-16,"['The Shrine ', ' Dirty Fences ', ' Death Alley ']",
-Baden,Baumann-Hämmerli-Renold,2014-10-16,"[' Ch. Baumann ', ' Hämmi Hämmerli ', ' Toni Renold ']",
-Basel,Stewy-von-Wattenwyl-feat.-Nicole-Herzog,2014-10-16,"[' Nicole Herzog ', ' Daniel Bohnenblust ', ' Stewy von Wattenwyl ', ' Christoph Utzinger ', ' Tobias Friedli ']",
-Bern,James-Reindeer,2014-10-16,"['James Reindeer ', ' Asbest the moor king ', ' DJs 2econd Class Citizen ', ' Tekamolo ']",
-Zürich,Falcone-Jam,2014-10-16,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",Pop
-Zürich,Delilahs,2014-10-16,['Delilahs '],Pop
-Lausanne,Mark-Berube,2014-10-16,['Mark Berube '],
-Sankt-Gallen,Christoph-&-Lollo,2014-10-16,['Christoph & Lollo '],Pop
-Basel,Salsa-All-Styles,2014-10-16,[' 20-21 Uhr Tanzkurs Bailar Casino '],
-Bern,Prairies-urbaines,2014-10-16,"['Francesca Benetti ', ' Georg Glasl ', ' Katryn Hasler ', ' Barblina Meierhans ', ' Sabrina Merz ', ' Marcel Zaes ']",
-Zürich,Luka-Bloom,2014-10-16,['Luka Bloom '],Pop
-Zürich,Kreisky,2014-10-16,['Kreisky '],Pop
+,location,event,date,artists,genre
+0,Luzern,Live-Cover-Night,2014-10-16,"[' Dominik Steegm?ller ', ' Pascal P Kaeser ', ' Sam Siegenthaler ', ' JJ Fl?ck ', ' Andreas Renggli ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Z?rich,Deepdive-Music-Night,2014-10-16,['These Reigning Days '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Liestal,Pink-Pedrazzi,2014-10-16,['Pink Pedrazzi '],['Pop']
+3,Aarau,Animals-as-Leaders,2014-10-16,"['Animals as Leaders ', ' Tesseract ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Bern,Symphoniekonzert,2014-10-16,[' Jean-Yves Thibaudet '],['Classic']
+5,Z?rich,Konzert,2014-10-16,[' David Fray '],['Classic']
+6,Luzern,Sinfoniekonzert,2014-10-16,[' Maria Jo?o Pires '],['Classic']
+7,Herisau,Sonic-Syndicate,2014-10-16,['Sonic Syndicate '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Z?rich,G?zig,2014-10-16,"[' Christine Lauterburg ', ' Hans Kennel ', ' Regina Steiner ', ' Leo Bachmann ']",['traditional']
+9,null,Konzert,2014-10-16,"[' Kristian Bezuidenhout ', ' Jacques Zoon ', ' Gottfried von der Goltz ']",['Classic']
+10,Z?rich,Selig,2014-10-16,['Selig '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,Asaf-Avidan-abgesagt,2014-10-16,['Asaf Avidan '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Frauenfeld,Funky-Staff,2014-10-16,"[' Amelia A. Bruderer ', ' Martin Lehner ', ' Hans Lehmann ', ' Fabian Brenner ', ' Pascal Wallier ', ' Toni Schilter ']","['Hip', 'Hop', ""R'n'B""]"
+13,Aarau,Mats-Up,2014-10-16,"[' Matthias Spillmann ', ' Reto Suhner ', ' Stefan Aeby ', ' Dominic Egli ', ' Raffaele Bossard ']","['Jazz', 'Blues', 'Soul']"
+14,Winterthur,Simon-Spiess-Trio,2014-10-16,"[' Simon Spiess ', ' B?nz Oester ', ' Daniel Mudrack ']","['Jazz', 'Blues', 'Soul']"
+15,Bern,Leo-Stannard,2014-10-16,['Leo Stannard '],['Pop']
+16,Basel,Stewy-von-Wattenwyl-feat.-Nicole-Herzog,2014-10-16,"[' Nicole Herzog ', ' Daniel Bohnenblust ', ' Stewy von Wattenwyl ', ' Christoph Utzinger ', ' Tobias Friedli ']","['Jazz', 'Blues', 'Soul']"
+17,Bern,The-Shrine,2014-10-16,"['The Shrine ', ' Dirty Fences ', ' Death Alley ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Baden,4-some-Blues,2014-10-16,"[' Walter Baumgartner ', ' Dani Gugolz ', ' Peter M?ller ', ' Hannes Kasehs ']","['Jazz', 'Blues', 'Soul']"
+19,Baden,Baumann-H?mmerli-Renold,2014-10-16,"[' Ch. Baumann ', ' H?mmi H?mmerli ', ' Toni Renold ']","['Jazz', 'Blues', 'Soul']"
+20,Basel,Fox-Street,2014-10-16,['Fox Street '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Sankt-Gallen,Christoph-&-Lollo,2014-10-16,[' Lollo '],['Pop']
+22,Basel,Salsa-All-Styles,2014-10-16,[' 20-21 Uhr Tanzkurs Bailar Casino '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+23,Lausanne,Mark-Berube,2014-10-16,['Mark Berube '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Bern,James-Reindeer,2014-10-16,"['James Reindeer ', ' Asbest the moor king ', ' DJs 2econd Class Citizen ', ' Tekamolo ']","['Hip', 'Hop', ""R'n'B""]"
+25,Bern,Prairies-urbaines,2014-10-16,"['Francesca Benetti ', ' Georg Glasl ', ' Katryn Hasler ', ' Barblina Meierhans ', ' Sabrina Merz ', ' Marcel Zaes ']","['Jazz', 'Blues', 'Soul']"
+26,Z?rich,Luka-Bloom,2014-10-16,['Luka Bloom '],['Pop']
+27,Z?rich,Delilahs,2014-10-16,['Delilahs '],['Pop']
+28,Z?rich,Falcone-Jam,2014-10-16,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp H?fliger ', ' Mike Ryrie ']",['Pop']
+29,Z?rich,Kreisky,2014-10-16,['Kreisky '],['Pop']

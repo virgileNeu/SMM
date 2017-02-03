@@ -1,27 +1,27 @@
-location,event,date,artists,genre
-Basel,Mimiko-Duo-Down-Under,2014-10-29,"['Jakab Kaufmann ', ' Darija Andjelic-Andzakovic ']",Classic
-Zürich,Werner-und-Company,2014-10-29,['Werner und Company '],Pop
-Zürich,Internationale-Orgelkonzerte-Herbstzyklus,2014-10-29,['Andreas Jost '],Classic
-Zürich,Jazz-im-Seefeld,2014-10-29,"[' Rafael Schilt ', ' Roberto Pianca ', ' Roberto Bortiga ', ' Emanuele Maniscalco ']",
-Zürich,Herbsttournee,2014-10-29,[' Domenico Catalano '],Classic
-Basel,Education-Projekt-Haydns-Jahreszeiten,2014-10-29,"[' Johannette Zomer ', ' Hans Jörg Mammel ', ' Peter Harvey ']",Classic
-Zürich,Jazznojazz,2014-10-29,"[' Al Di Meola ', ' Mario Parmesano ', ' Peter Kaszas ', ' Gumi Ortiz ']",
-Luzern,Puccini-Gala,2014-10-29,"[' Laura Ansaldi ', ' Alessandro Fantoni ', ' Daniele Di Tommaso ']",Classic
-Zürich,Hommage-à-Boris-Mersson,2014-10-29,"[' Mario Hossen ', ' Michel Bourdoncle ', ' Mateusz Szczepkowski ', ' Pi-Chin Chien ']",Classic
-Stäfa,Fuhrwerk,2014-10-29,"['Res Wepfer ', ' Simon Ho ', ' Marc Portmann ', ' Lisa Gretler ']",Pop
-Zürich,The-Boxer-Rebellion,2014-10-29,['The Boxer Rebellion '],
-Aarau,Groundation-(USA),2014-10-29,"['Groundation ', ' Rebelution ']",
-Zürich,Jazzbaragge-Wednesday-Jam,2014-10-29,"['Bugge Wesseltoft ', ' Rätus Fisch ', ' Tony Renold ']",
-Zürich,Kongos,2014-10-29,['Kongos '],
-Zürich,Uto-Kult-zu-Ehren-von-Patti-Smith,2014-10-29,[' Dokumentarfilm Dream of Life von Steven Sebring '],
-Zürich,Jazznojazz,2014-10-29,"[' Lucky Peterson ', ' Tamara Peterson ', ' Marvin Hollie ', ' Shawn Kellerman ', ' Timothy Waites ', ' Raul Valdes ']",
-Frauenfeld,Christoph-Irniger-Trio,2014-10-29,"[' Christoph Irniger ', ' Raffaele Bossard ', ' Ziv Ravitz ']",
-null,Ty-Segall,2014-10-29,"['Ty Segall ', ' JC Satàn ']",Pop
-Wädenswil,Sylvie-Courvoisier-Mark-Feldman-Quartet,2014-10-29,"[' Mark Feldman ', ' Sylvie Courvoisier ', ' Scott Colley ', ' Billy Mintz ']",
-Zürich,Albrecht-Schnider-,2014-10-29,"['Bettina Boller ', ' Walter Prossnitz ']",Classic
-Basel,Natas-Loves-You,2014-10-29,['Natas Loves You '],Electronic
-Baden,Lukas-and-Friends,2014-10-29,"[' Lukas Brunner ', ' Marco Hochstrasser ', ' Reini Muther ', ' Daniel Hauenstein ']",Pop
-Basel,Raul-de-Souza-e-trio-a-vontade,2014-10-29,"[' Raul de Souza ', ' Leonardo Montana ', ' Glauco Solter ', ' Mauro Martins ']",
-Luzern,Andreas-Schaerer-Meets-Arte-Quartet-&-Wolfgang-Zwiauer,2014-10-29,"[' Andreas Schaerer ', ' Wolfgang Zwiauer ', ' Beat Hofstetter ', ' Sascha Armbruster ', ' Andrea Formenti ', ' Beat Kappeler ']",
-Lausanne,Giana-Factory,2014-10-29,['Giana Factory '],
-Zürich,Jazznojazz,2014-10-29,"[' Matthias Tschopp ', ' Yves Theiler ', ' Raffaele Bossard ', ' Alex Huber ']",
+,location,event,date,artists,genre
+0,Basel,Mimiko-Duo-Down-Under,2014-10-29,"['Jakab Kaufmann ', ' Darija Andjelic-Andzakovic ']",['Classic']
+1,Z?rich,Werner-und-Company,2014-10-29,['Werner und Company '],['Pop']
+2,Z?rich,Internationale-Orgelkonzerte-Herbstzyklus,2014-10-29,['Andreas Jost '],['Classic']
+3,Z?rich,Jazznojazz,2014-10-29,"[' Al Di Meola ', ' Mario Parmesano ', ' Peter Kaszas ', ' Gumi Ortiz ']","['Jazz', 'Blues', 'Soul']"
+4,Basel,Education-Projekt-Haydns-Jahreszeiten,2014-10-29,"[' Johannette Zomer ', ' Hans J?rg Mammel ', ' Peter Harvey ']",['Classic']
+5,Z?rich,Jazz-im-Seefeld,2014-10-29,"[' Rafael Schilt ', ' Roberto Pianca ', ' Roberto Bortiga ', ' Emanuele Maniscalco ']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Herbsttournee,2014-10-29,[' Domenico Catalano '],['Classic']
+7,Luzern,Puccini-Gala,2014-10-29,"[' Laura Ansaldi ', ' Alessandro Fantoni ', ' Daniele Di Tommaso ']",['Classic']
+8,Z?rich,Hommage-?-Boris-Mersson,2014-10-29,"[' Mario Hossen ', ' Michel Bourdoncle ', ' Mateusz Szczepkowski ', ' Pi-Chin Chien ']",['Classic']
+9,Z?rich,The-Boxer-Rebellion,2014-10-29,['The Boxer Rebellion '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Aarau,Groundation-(USA),2014-10-29,"['Groundation ', ' Rebelution ']","['Hip', 'Hop', ""R'n'B""]"
+11,Z?rich,Kongos,2014-10-29,['Kongos '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Z?rich,Jazzbaragge-Wednesday-Jam,2014-10-29,"['Bugge Wesseltoft ', ' R?tus Fisch ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+13,St?fa,Fuhrwerk,2014-10-29,"['Res Wepfer ', ' Simon Ho ', ' Marc Portmann ', ' Lisa Gretler ']",['Pop']
+14,Z?rich,Uto-Kult-zu-Ehren-von-Patti-Smith,2014-10-29,[' Dokumentarfilm Dream of Life von Steven Sebring '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Z?rich,Jazznojazz,2014-10-29,"[' Lucky Peterson ', ' Tamara Peterson ', ' Marvin Hollie ', ' Shawn Kellerman ', ' Timothy Waites ', ' Raul Valdes ']","['Jazz', 'Blues', 'Soul']"
+16,Frauenfeld,Christoph-Irniger-Trio,2014-10-29,"[' Christoph Irniger ', ' Raffaele Bossard ', ' Ziv Ravitz ']","['Jazz', 'Blues', 'Soul']"
+17,Basel,Natas-Loves-You,2014-10-29,['Natas Loves You '],['Electronic']
+18,W?denswil,Sylvie-Courvoisier-Mark-Feldman-Quartet,2014-10-29,"[' Mark Feldman ', ' Sylvie Courvoisier ', ' Scott Colley ', ' Billy Mintz ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Albrecht-Schnider-,2014-10-29,"['Bettina Boller ', ' Walter Prossnitz ']",['Classic']
+20,Luzern,Andreas-Schaerer-Meets-Arte-Quartet-&-Wolfgang-Zwiauer,2014-10-29,"[' Andreas Schaerer ', ' Wolfgang Zwiauer ', ' Beat Hofstetter ', ' Sascha Armbruster ', ' Andrea Formenti ', ' Beat Kappeler ']","['Jazz', 'Blues', 'Soul']"
+21,Baden,Lukas-and-Friends,2014-10-29,"[' Lukas Brunner ', ' Marco Hochstrasser ', ' Reini Muther ', ' Daniel Hauenstein ']",['Pop']
+22,Basel,Raul-de-Souza-e-trio-a-vontade,2014-10-29,"[' Raul de Souza ', ' Leonardo Montana ', ' Glauco Solter ', ' Mauro Martins ']","['Jazz', 'Blues', 'Soul']"
+23,null,Ty-Segall,2014-10-29,"['Ty Segall ', ' JC Sat?n ']",['Pop']
+24,Lausanne,Giana-Factory,2014-10-29,['Giana Factory '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Z?rich,Jazznojazz,2014-10-29,"[' Matthias Tschopp ', ' Yves Theiler ', ' Raffaele Bossard ', ' Alex Huber ']","['Jazz', 'Blues', 'Soul']"

@@ -1,26 +1,24 @@
-location,event,date,artists,genre
-Düdingen,Bad-Bonn-Kilbi,2014-05-29,"['Black Lips ', ' Wild Beasts ', ' Superchunk ', ' Jungle ', ' Acid Arab ', ' Bombino ', ' Wooden Shjips ', ' Hospitality ', ' Forest Swords ', ' Larry Gus ', ' Fitz ']",Pop
-null,Novecento-Die-Legende-vom-Ozeanpianisten,2014-05-29,['Thomas Borchert '],Classic
-Zürich,Konzert-zur-Auffahrt,2014-05-29,"[' Brigitte Brouwer ', ' Ariane Ursprung-Iezzi ', ' Andreas Berchtold ', ' Sarah Erlanger ']",Classic
-Zürich,Frühlingskonzert,2014-05-29,[' Roland Küng '],Classic
-Baden,After-Work,2014-05-29,"[' Nic Niedermann ', ' Phillipe Kuhn ', ' Eddie Walker ', ' Thom Wettstein ']",
-La-Sagne,Festival-des-Gouttes,2014-05-29,"['Mike & The Mechanics ', ' Murray Head ']",
-Luzern,Zaubersee-Abendkonzert,2014-05-29,"['Nikolai Lugansky ', ' Alena Baeva ', ' Mischa Maisky ']",Classic
-Zürich,Los-Van-Van,2014-05-29,['Los Van Van '],
-Winterthur,Bonebreaker-Ball-Tour,2014-05-29,[' Death Mechanism '],
-Zürich,Sivert-Høyem,2014-05-29,['Sivert Høyem '],
-Baden,Blues-Festival-Baden,2014-05-29,['Larry Garner &  Norman Beaker Band '],
-Zürich,John-Herzig,2014-05-29,['John Herzig '],traditional
-Winterthur,Pittini-Gonçalves,2014-05-29,"[' Allesandro Pittini ', ' Benjamin Gonçalves ']",
-Liebefeld,676-NuevoTango-Quintett,2014-05-29,"[' Michael Zisman ', ' Daniel Zisman ', ' Gerardo Vila ', ' Sebastien Fulgido ', ' Winfried Holzenkamp ']",
-Zürich,Shooting-Star-III,2014-05-29,['Andreas Kümmert '],Pop
-Baden,JRP,2014-05-29,"[' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-Bern,Discosaster,2014-05-29,['Discosaster '],Pop
-Thun,Carla-Bley-Trio,2014-05-29,"['Carla Bley Trio ', ' Carla Bley ', ' Andy Sheppard ', ' ss) Steve Swallow ']",
-Thun,Loose-Connection,2014-05-29,['Loose Connection '],
-Aarau,Solander,2014-05-29,['Solander '],
-Basel,Nils-Wogram-Trio,2014-05-29,"[' Nils Wogram ', ' Raffaele Bossard ', ' Jonas Ruther ']",
-Zürich,Sting-Operation,2014-05-29,"[' Felix Straumann ', ' Matthias Siegrist ', ' Peter Leuzinger ', ' Peter Preibisch ']",
-Luzern,OJM,2014-05-29,['OJM '],
-Zürich,Zoë-Boekbinder,2014-05-29,['Zoë Boekbinder '],
-null,Toni-Ricci-&-Pygmalion-Crew,2014-05-29,['Toni Ricci & Pygmalion Crew '],Electronic
+,location,event,date,artists,genre
+0,null,Novecento-Die-Legende-vom-Ozeanpianisten,2014-05-29,['Thomas Borchert '],['Classic']
+1,Z?rich,Fr?hlingskonzert,2014-05-29,[' Roland K?ng '],['Classic']
+2,Z?rich,Konzert-zur-Auffahrt,2014-05-29,"[' Brigitte Brouwer ', ' Ariane Ursprung-Iezzi ', ' Andreas Berchtold ', ' Sarah Erlanger ']",['Classic']
+3,Baden,After-Work,2014-05-29,"[' Nic Niedermann ', ' Phillipe Kuhn ', ' Eddie Walker ', ' Thom Wettstein ']","['Jazz', 'Blues', 'Soul']"
+4,La-Sagne,Festival-des-Gouttes,2014-05-29,"[' The Mechanics ', ' Murray Head ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Luzern,Zaubersee-Abendkonzert,2014-05-29,"['Nikolai Lugansky ', ' Alena Baeva ', ' Mischa Maisky ']",['Classic']
+6,Winterthur,Bonebreaker-Ball-Tour,2014-05-29,[' Death Mechanism '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Sivert-H?yem,2014-05-29,['Sivert H?yem '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Z?rich,John-Herzig,2014-05-29,['John Herzig '],['traditional']
+9,Z?rich,Los-Van-Van,2014-05-29,['Los Van Van '],"['world', 'music']"
+10,Baden,Blues-Festival-Baden,2014-05-29,['  Norman Beaker Band '],"['Jazz', 'Blues', 'Soul']"
+11,Winterthur,Pittini-Gon?alves,2014-05-29,"[' Allesandro Pittini ', ' Benjamin Gon?alves ']","['Jazz', 'Blues', 'Soul']"
+12,Liebefeld,676-NuevoTango-Quintett,2014-05-29,"[' Michael Zisman ', ' Daniel Zisman ', ' Gerardo Vila ', ' Sebastien Fulgido ', ' Winfried Holzenkamp ']","['world', 'music']"
+13,Thun,Carla-Bley-Trio,2014-05-29,"['Carla Bley Trio ', ' Carla Bley ', ' Andy Sheppard ', ' ss) Steve Swallow ']","['Jazz', 'Blues', 'Soul']"
+14,Basel,Nils-Wogram-Trio,2014-05-29,"[' Nils Wogram ', ' Raffaele Bossard ', ' Jonas Ruther ']","['Jazz', 'Blues', 'Soul']"
+15,Thun,Loose-Connection,2014-05-29,['Loose Connection '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Baden,JRP,2014-05-29,"[' Christoph Baumann ', ' H?mi H?mmerli ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+17,Bern,Discosaster,2014-05-29,['Discosaster '],['Pop']
+18,Aarau,Solander,2014-05-29,['Solander '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Z?rich,Sting-Operation,2014-05-29,"[' Felix Straumann ', ' Matthias Siegrist ', ' Peter Leuzinger ', ' Peter Preibisch ']","['Jazz', 'Blues', 'Soul']"
+20,Luzern,OJM,2014-05-29,['OJM '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Z?rich,Zo?-Boekbinder,2014-05-29,['Zo? Boekbinder '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,null,Toni-Ricci-&-Pygmalion-Crew,2014-05-29,[' Pygmalion Crew '],['Electronic']

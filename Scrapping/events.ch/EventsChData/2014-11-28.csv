@@ -1,68 +1,67 @@
-location,event,date,artists,genre
-Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Benjamin Grosvenor '],Classic
-Zürich,Werner-und-Company,2014-11-28,['Werner und Company '],Pop
-Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Aaraon Goldberg '],
-Basel,Orgelspiel-zum-Feierabend,2014-11-28,['Douglas Bruce '],Classic
-Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Dirk Raufeisen '],
-Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Ehud Asherie '],
-Dietikon,Feierabendmusik-in-der-Kirche,2014-11-28,"['Olga Stepien ', ' Bernhard Hörler ']",Classic
-Zürich,Angus-&-Julia-Stone,2014-11-28,['Angus & Julia Stone '],
-Zürich,DAF,2014-11-28,"['DAF ', ' support: Schramm ']",Pop
--Alte-Kirche,Boswil,2014-11-28,"[' Egidius Streiff ', ' Daphné Schneider ', ' Mariana Dougthy ', ' Walter Grimmer ']",Classic
-Zürich,Böhmische-Weihnacht,2014-11-28,"[' Leticia Kahraman ', ' Barbara La Faro ', ' Michaela Unsinn ']",Classic
-Bern,Brahms-Vierte,2014-11-28,"[' Sebastian Manz ', ' works by Jean-Luc Darbellay ']",Classic
-Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Paul Lewis '],Classic
-Zürich,Hildegard-erleuchtet,2014-11-28,"[' Ann Allen ', ' Silke Schulz ', ' Corina Marti ', ' Marie Bournisien ', ' Anna Danilevskaia ', ' Anna Miklashevich ', ' Yukie Sato ']",Classic
-Zürich,Konzert,2014-11-28,['Christian Wolfarth '],Classic
-null,Détroit,2014-11-28,['Détroit '],Pop
-Zürich,Iceage,2014-11-28,['Iceage '],
-Thun,Thun-750-Jahre,2014-11-28,"['Alexandre Dubach ', ' Andreas Graf ']",Classic
-Buchs,Das-Grossmütterchen-Hatz-Orkestar,2014-11-28,"[' Franziska Hatz ', ' Richie Winkler ', ' Julian Pieber ', ' Simon Schellnegger ']",
-Unterägeri,Chorkonzert-Es-werde-Licht,2014-11-28,"[' Stephanie Pfeffer ', ' Susannah Haberfeld ']",Classic
-Zürich,Denn-wie-man-sich-bettet-Ein-kurtweilliger-Liederabend,2014-11-28,"['Christian Jott Jenny ', ' Edward Rushton ']",Pop
-Zürich,Angelo-Kelly,2014-11-28,['Angelo Kelly '],Pop
-Aarau,Hellvetica,2014-11-28,['Hellvetica '],
-Zürich,Hannes-Wader,2014-11-28,['Hannes Wader '],Pop
-Zug,Irmelin,2014-11-28,['Irmelin '],Pop
-Altikon,Christy-Doran-New-Bag,2014-11-28,"[' Christy Doran ', ' Sarah Buechi ', ' Vincent Membrez ', ' Lionel Friedli ']",
-Basel,Rhythm-Is-It,2014-11-28,"['Fabien Ruiz ', ' Julio Azcano ', ' Volker Biesenbender ']",
-Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Bernd Lhotzky '],
-Zürich,Unerhört,2014-11-28,"[' Barbara Wehrli Wutzl ', ' Christoph Grab ', ' Reto Suhner ', ' Thomi Geiger ', ' Kris Davis ', ' Chico Freeman ']",
-Dietikon,Cristiano-Araújo,2014-11-28,['Cristiano Araújo '],
-null,Nazareth,2014-11-28,['Nazareth '],
-Kriens,A-Winged-Victory-For-The-Sullen,2014-11-28,['A Winged Victory For The Sullen '],
-null,Fabrik-Jazz-Labor,2014-11-28,"[' Katja Mair ', ' Pater Leuzinger ']",
-Schaffhausen,Irish-Nights,2014-11-28,"['The Lost Brothers ', ' Mundy ']",
-Winterthur,Lukas-Bosshardt-Organ-Band,2014-11-28,"[' Lukas Bosshardt ', ' Sara Cantina ', ' Sacho Fender ', ' Dani L. Schmid ']",
-Zürich,Fischer-Künzi-Pfammatter-&-Maki-Vincent,2014-11-28,"['Fischer-Künzi-Pfammatter & Maki-Vincent ', ' Nils Fischer ', ' Emmanuel Künzi ', ' Hans-Peter Pfammatter ', ' Hachiya Maki ', ' Hugues Vincent ']",
-Winterthur,Holy-Moses,2014-11-28,"['Holy Moses ', ' Insanity Alert ']",
-Zürich,Janetts-Jazzmusik-Baukasten,2014-11-28,"[' Niculin Janett ', ' Marena Whitcher ', ' Lukas Wyss ']",
-Zürich,William-White,2014-11-28,"[' William White ', ' Sacha Unger ', ' Mark Brazil ', ' Olivier Magarotto ', ' Roman Weissert ']",
-Basel,Herbie-Tsoaeli-Quartet,2014-11-28,"[' Donat Fisch ', ' William Evans ', ' Herbie Tsoaeli ', ' Norbert Pfammatter ']",
-Romanshorn,Aja-&-Toni-Eberle,2014-11-28,"[' Aja Eberle ', ' Toni Eberle ']",
-Zürich,Der-Entschluss-Stumme-Lieder-für-Ensemble-und-Performer,2014-11-28,[' works by Anna Trauffer '],Classic
-Basel,Gregor-Meyle,2014-11-28,['Gregor Meyle '],Pop
-Lausanne,Skip-the-Use,2014-11-28,['Skip the Use '],
-Kirchberg,Dr.-Feelgood,2014-11-28,['Dr. Feelgood '],
-Zürich,Der-Nino-aus-Wien,2014-11-28,['Der Nino aus Wien '],Pop
-Nidau,Delayne,2014-11-28,"[' Brigitte Marolf ', ' Roland Sumi ', ' Alexander Balajew ', ' Andreas Renggli ', ' André Brügger ']",
-Rubigen,Animals-&-Friends,2014-11-28,['Animals & Friends '],
-Baden,Umse,2014-11-28,['Umse '],
-Brugg,Soaring-Wizards,2014-11-28,"[' Tobias Rechsteiner ', ' Florian Rechsteiner ', ' Samuel Rechsteiner ']",
-Zürich,She-Keeps-Bees,2014-11-28,['She Keeps Bees '],Pop
-Grenchen,Gift-The-Band,2014-11-28,['Gift The Band '],Pop
-Zürich,Dabu-Fantastic-&-Band,2014-11-28,['Dabu Fantastic & Band '],Pop
-Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Dirk Raufeisen '],
-Baden,Yesterday-Shop,2014-11-28,['Yesterday Shop '],
-Sankt-Gallen,Kilbi-an-der-Grenze,2014-11-28,"['Half Japanese ', ' Courtney Barnett ', ' Ashley Paul ', ' DJ Marcelle ']",Electronic
-Liestal,BackTo,2014-11-28,"[' Paul Erni ', ' Oliver Oesch ', ' Urs Rudin ', ' Reto Schäublin ', ' Daniel Wagner ', ' Alex Watzdorf ']",
-null,Kilbi-an-der-Grenze,2014-11-28,"['Camera ', ' Vessel ']",
-Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Chris Hopkins '],
-Wetzikon,Guts-Pie-Earshot,2014-11-28,['Guts Pie Earshot '],Electronic
-Basel,Suma,2014-11-28,['Suma '],
-Bern,King-Pepe-&-Le-Rex,2014-11-28,['King Pepe & Le Rex '],Pop
-Bern,R.-A.-The-Rugged-Man,2014-11-28,"['R. A. The Rugged Man ', ' support: Locksmith ']",
-Bern,Dollar-Bill,2014-11-28,['Dollar Bill '],Pop
-null,The-Repetitive-Experience,2014-11-28,['Mic Neumann '],Electronic
-Schaffhausen,Mr-Vast-&-The-Vast-Minority,2014-11-28,['Mr Vast & The Vast Minority '],Electronic
-Zürich,Unerhört,2014-11-28,"[' Vincent Glanzmann ', ' Coralie Lonfat ']",
+,location,event,date,artists,genre
+0,Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Benjamin Grosvenor '],['Classic']
+1,Z?rich,Werner-und-Company,2014-11-28,['Werner und Company '],['Pop']
+2,Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Aaraon Goldberg '],"['Jazz', 'Blues', 'Soul']"
+3,Basel,Orgelspiel-zum-Feierabend,2014-11-28,['Douglas Bruce '],['Classic']
+4,Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Dirk Raufeisen '],"['Jazz', 'Blues', 'Soul']"
+5,Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Ehud Asherie '],"['Jazz', 'Blues', 'Soul']"
+6,Dietikon,Feierabendmusik-in-der-Kirche,2014-11-28,"['Olga Stepien ', ' Bernhard H?rler ']",['Classic']
+7,Z?rich,DAF,2014-11-28,"['DAF ', ' support: Schramm ']",['Pop']
+8,Z?rich,Angus-&-Julia-Stone,2014-11-28,[' Julia Stone '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Hildegard-erleuchtet,2014-11-28,"[' Ann Allen ', ' Silke Schulz ', ' Corina Marti ', ' Marie Bournisien ', ' Anna Danilevskaia ', ' Anna Miklashevich ', ' Yukie Sato ']",['Classic']
+10,-Alte-Kirche,Boswil,2014-11-28,"[' Egidius Streiff ', ' Daphn? Schneider ', ' Mariana Dougthy ', ' Walter Grimmer ']",['Classic']
+11,Z?rich,B?hmische-Weihnacht,2014-11-28,"[' Leticia Kahraman ', ' Barbara La Faro ', ' Michaela Unsinn ']",['Classic']
+12,Bern,Brahms-Vierte,2014-11-28,"[' Sebastian Manz ', ' works by Jean-Luc Darbellay ']",['Classic']
+13,Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Paul Lewis '],['Classic']
+14,null,D?troit,2014-11-28,['D?troit '],['Pop']
+15,Altikon,Christy-Doran-New-Bag,2014-11-28,"[' Christy Doran ', ' Sarah Buechi ', ' Vincent Membrez ', ' Lionel Friedli ']","['Jazz', 'Blues', 'Soul']"
+16,Basel,Rhythm-Is-It,2014-11-28,"['Fabien Ruiz ', ' Julio Azcano ', ' Volker Biesenbender ']","['Jazz', 'Blues', 'Soul']"
+17,null,Nazareth,2014-11-28,['Nazareth '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Kriens,A-Winged-Victory-For-The-Sullen,2014-11-28,['A Winged Victory For The Sullen '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Z?rich,Denn-wie-man-sich-bettet-Ein-kurtweilliger-Liederabend,2014-11-28,"['Christian Jott Jenny ', ' Edward Rushton ']",['Pop']
+20,Z?rich,Angelo-Kelly,2014-11-28,['Angelo Kelly '],['Pop']
+21,Z?rich,Konzert,2014-11-28,['Christian Wolfarth '],['Classic']
+22,Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Bernd Lhotzky '],"['Jazz', 'Blues', 'Soul']"
+23,Z?rich,Unerh?rt,2014-11-28,"[' Barbara Wehrli Wutzl ', ' Christoph Grab ', ' Reto Suhner ', ' Thomi Geiger ', ' Kris Davis ', ' Chico Freeman ']","['Jazz', 'Blues', 'Soul']"
+24,Z?rich,Hannes-Wader,2014-11-28,['Hannes Wader '],['Pop']
+25,Thun,Thun-750-Jahre,2014-11-28,"['Alexandre Dubach ', ' Andreas Graf ']",['Classic']
+26,Z?rich,Iceage,2014-11-28,['Iceage '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Unter?geri,Chorkonzert-Es-werde-Licht,2014-11-28,"[' Stephanie Pfeffer ', ' Susannah Haberfeld ']",['Classic']
+28,Dietikon,Cristiano-Ara?jo,2014-11-28,['Cristiano Ara?jo '],"['world', 'music']"
+29,Aarau,Hellvetica,2014-11-28,['Hellvetica '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Buchs,Das-Grossm?tterchen-Hatz-Orkestar,2014-11-28,"[' Franziska Hatz ', ' Richie Winkler ', ' Julian Pieber ', ' Simon Schellnegger ']","['world', 'music']"
+31,Winterthur,Lukas-Bosshardt-Organ-Band,2014-11-28,"[' Lukas Bosshardt ', ' Sara Cantina ', ' Sacho Fender ', ' Dani L. Schmid ']","['Jazz', 'Blues', 'Soul']"
+32,Z?rich,Fischer-K?nzi-Pfammatter-&-Maki-Vincent,2014-11-28,"[' Maki-Vincent ', ' Nils Fischer ', ' Emmanuel K?nzi ', ' Hans-Peter Pfammatter ', ' Hachiya Maki ', ' Hugues Vincent ']","['Jazz', 'Blues', 'Soul']"
+33,null,Fabrik-Jazz-Labor,2014-11-28,"[' Katja Mair ', ' Pater Leuzinger ']","['Jazz', 'Blues', 'Soul']"
+34,Schaffhausen,Irish-Nights,2014-11-28,"['The Lost Brothers ', ' Mundy ']","['world', 'music']"
+35,Basel,Herbie-Tsoaeli-Quartet,2014-11-28,"[' Donat Fisch ', ' William Evans ', ' Herbie Tsoaeli ', ' Norbert Pfammatter ']","['Jazz', 'Blues', 'Soul']"
+36,Winterthur,Holy-Moses,2014-11-28,"['Holy Moses ', ' Insanity Alert ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Romanshorn,Aja-&-Toni-Eberle,2014-11-28,"[' Aja Eberle ', ' Toni Eberle ']","['Jazz', 'Blues', 'Soul']"
+38,Basel,Gregor-Meyle,2014-11-28,['Gregor Meyle '],['Pop']
+39,Z?rich,Janetts-Jazzmusik-Baukasten,2014-11-28,"[' Niculin Janett ', ' Marena Whitcher ', ' Lukas Wyss ']","['Jazz', 'Blues', 'Soul']"
+40,Z?rich,William-White,2014-11-28,"[' William White ', ' Sacha Unger ', ' Mark Brazil ', ' Olivier Magarotto ', ' Roman Weissert ']","['Hip', 'Hop', ""R'n'B""]"
+41,Z?rich,Der-Nino-aus-Wien,2014-11-28,['Der Nino aus Wien '],['Pop']
+42,Baden,Yesterday-Shop,2014-11-28,['Yesterday Shop '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+43,Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Dirk Raufeisen '],"['Jazz', 'Blues', 'Soul']"
+44,Lausanne,Skip-the-Use,2014-11-28,['Skip the Use '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+45,Kirchberg,Dr.-Feelgood,2014-11-28,['Dr. Feelgood '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+46,Z?rich,She-Keeps-Bees,2014-11-28,['She Keeps Bees '],['Pop']
+47,Grenchen,Gift-The-Band,2014-11-28,['Gift The Band '],['Pop']
+48,Nidau,Delayne,2014-11-28,"[' Brigitte Marolf ', ' Roland Sumi ', ' Alexander Balajew ', ' Andreas Renggli ', ' Andr? Br?gger ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+49,Z?rich,Dabu-Fantastic-&-Band,2014-11-28,[' Band '],['Pop']
+50,Baden,Umse,2014-11-28,['Umse '],"['Hip', 'Hop', ""R'n'B""]"
+51,Rubigen,Animals-&-Friends,2014-11-28,[' Friends '],"['Jazz', 'Blues', 'Soul']"
+52,Brugg,Soaring-Wizards,2014-11-28,"[' Tobias Rechsteiner ', ' Florian Rechsteiner ', ' Samuel Rechsteiner ']","['Jazz', 'Blues', 'Soul']"
+53,Sankt-Gallen,Kilbi-an-der-Grenze,2014-11-28,"['Half Japanese ', ' Courtney Barnett ', ' Ashley Paul ', ' DJ Marcelle ']",['Electronic']
+54,Liestal,BackTo,2014-11-28,"[' Paul Erni ', ' Oliver Oesch ', ' Urs Rudin ', ' Reto Sch?ublin ', ' Daniel Wagner ', ' Alex Watzdorf ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+55,Luzern,Lucerne-Festival-am-Piano,2014-11-28,['Chris Hopkins '],"['Jazz', 'Blues', 'Soul']"
+56,null,Kilbi-an-der-Grenze,2014-11-28,"['Camera ', ' Vessel ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+57,Bern,R.-A.-The-Rugged-Man,2014-11-28,"['R. A. The Rugged Man ', ' support: Locksmith ']","['Hip', 'Hop', ""R'n'B""]"
+58,Bern,King-Pepe-&-Le-Rex,2014-11-28,[' Le Rex '],['Pop']
+59,Bern,King-Pepe-&-Le-Rex,2014-11-28,[' Le Rex '],['Pop']
+60,null,The-Repetitive-Experience,2014-11-28,['Mic Neumann '],['Electronic']
+61,Schaffhausen,Mr-Vast-&-The-Vast-Minority,2014-11-28,[' The Vast Minority '],['Electronic']
+62,Basel,Suma,2014-11-28,['Suma '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+63,Bern,Dollar-Bill,2014-11-28,['Dollar Bill '],['Pop']
+64,Wetzikon,Guts-Pie-Earshot,2014-11-28,['Guts Pie Earshot '],['Electronic']
+65,Z?rich,Unerh?rt,2014-11-28,"[' Vincent Glanzmann ', ' Coralie Lonfat ']","['Jazz', 'Blues', 'Soul']"

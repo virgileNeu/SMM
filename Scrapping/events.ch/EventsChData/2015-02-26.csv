@@ -1,33 +1,33 @@
-location,event,date,artists,genre
-Zürich,Lunchkonzert,2015-02-26,"['Sabine Poyé Morel ', ' Isabelle Weilbach-Lambelet ', ' Elizaveta Shnayder-Taub ', ' Ewa Grzywna-Groblewska  ']",Classic
-Baden,After-Work,2015-02-26,"[' Sandra Rippstein ', ' Christoph Heule ']",
-Zürich,Tonhalle-Orchester-Zürich,2015-02-26,['Yuja Wang '],Classic
-Bern,Sinfoniekonzert,2015-02-26,[' Daniel Woodtli '],Classic
-Zürich,Schönholzer-&-Rüdisüli,2015-02-26,"[' Markus Schönholzer ', ' Robi Rüdisüli ']",Pop
-Bern,Klanglandschaften,2015-02-26,"['Willi Grimm ', ' Karl Johannes Rechsteiner ']",
-Zürich,EAV,2015-02-26,['EAV '],Pop
-Winterthur,Musica-aperta-Verantwortung-&-Erinnerung,2015-02-26,"['Egidius Streiff ', ' Mariana Doughty ', ' Kaspar Zwicky ', ' Francesco Carletti ', ' works by Viktor Kalabis ']",Classic
-Kriens,Ode-Gewalt-gespielt-gesprochen,2015-02-26,"['Petra Ronner ', ' Yuka Tsuboi ', ' Sarah Kilchenmann ', ' Hugo Bollschweiler ', ' Julien Kilchenmann ', ' Werke ']",Classic
-null,Griz,2015-02-26,['Griz '],Electronic
-Zürich,Tea-for-Two,2015-02-26,"[' Allegra Zumsteg ', ' Thomas Goralski ']",Pop
-null,On-Broadway,2015-02-26,['The Ten Tenors '],Classic
-Kloten,Larrys-Blues-Band,2015-02-26,"[' Larry Schmuki ', ' Markus Fritzsche ', ' Beat Aschwanden ']",
-Bern,Jazzwerkstatt,2015-02-26,[' Jazzkollektiv Berlin Kollektiv Knights '],
-Zug,My-Darling-Clementine,2015-02-26,['My Darling Clementine '],
-Zürich,The-Subways,2015-02-26,['The Subways '],
-Frauenfeld,Cilia-Hunch,2015-02-26,"[' Fernanda Ramos ', ' Marvin Trummer ', ' Claude Stucki ', ' Moritz Meyer ', ' Paul Amereller ']",
-Zürich,Robi-Weber-Quartet-feat.-Pius-Baumgartner,2015-02-26,"[' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' Pius Baumgartner ']",
-Winterthur,The-Rafael-Jerjen-Concept,2015-02-26,"[' Michael Arbenz ', ' Rafael Jerjen ', ' Sämi Büttiker ']",
-Bern,Kamchatka,2015-02-26,['Kamchatka '],
-Zürich,Avishai-Cohen's-Triveni,2015-02-26,"[""Avishai Cohen's Triveni "", ' Avishai Cohen ', ' Omer Avital ', ' Nasheet Waits ']",
-Baden,6-Handful-of-Blues,2015-02-26,"[' Patrik Schneider ', ' Paul Schneider ', ' Imad Barnieh ']",
-Basel,Mad-Girl,2015-02-26,"[' Lander Gyselinck ', ' Corinne Huber ', ' Franziska Bruecker ', ' Annina Polivka ']",Pop
-Zürich,Robbing-Millions,2015-02-26,['Robbing Millions '],Pop
-Zürich,Silent-Neighbours,2015-02-26,"[' Philipp Saner ', ' Andreas Achermann ', ' Marcel Frautschi ', ' Jan Jossi ']",Pop
-Baden,Jazz-am-Donnerstag,2015-02-26,"['Raphael Kalt ', ' Mathieu Friz ', ' Mischa Frey ', ' Alex Merz ']",
-Basel,Hendriksen-Gisler-Duo,2015-02-26,"[' Alex Hendriksen ', ' Fabian Gisler ']",
-Rubigen,Kinky-Friedman,2015-02-26,['Kinky Friedman '],
-Luzern,We-Steal-Flyers,2015-02-26,['We Steal Flyers '],
-Zürich,Nick-Jaina,2015-02-26,['Nick Jaina '],Pop
-Bern,Juke-Joint-Pimps,2015-02-26,['Juke Joint Pimps '],
-Zürich,Norman-Die,2015-02-26,"[' Kevin Schneeberger ', ' José Paneque ', ' Stefan Zeyer ', ' Pan Aurel Bucher ']",
+,location,event,date,artists,genre
+0,Z?rich,Lunchkonzert,2015-02-26,"['Sabine Poy? Morel ', ' Isabelle Weilbach-Lambelet ', ' Elizaveta Shnayder-Taub ', ' Ewa Grzywna-Groblewska  ']",['Classic']
+1,Baden,After-Work,2015-02-26,"[' Sandra Rippstein ', ' Christoph Heule ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Bern,Sinfoniekonzert,2015-02-26,[' Daniel Woodtli '],['Classic']
+3,Z?rich,Tonhalle-Orchester-Z?rich,2015-02-26,['Yuja Wang '],['Classic']
+4,Bern,Klanglandschaften,2015-02-26,"['Willi Grimm ', ' Karl Johannes Rechsteiner ']","['world', 'music']"
+5,Z?rich,Sch?nholzer-&-R?dis?li,2015-02-26,"[' Markus Sch?nholzer ', ' Robi R?dis?li ']",['Pop']
+6,null,On-Broadway,2015-02-26,['The Ten Tenors '],['Classic']
+7,Bern,Jazzwerkstatt,2015-02-26,[' Jazzkollektiv Berlin Kollektiv Knights '],"['Jazz', 'Blues', 'Soul']"
+8,Z?rich,Tea-for-Two,2015-02-26,"[' Allegra Zumsteg ', ' Thomas Goralski ']",['Pop']
+9,Kloten,Larrys-Blues-Band,2015-02-26,"[' Larry Schmuki ', ' Markus Fritzsche ', ' Beat Aschwanden ']","['Jazz', 'Blues', 'Soul']"
+10,Winterthur,Musica-aperta-Verantwortung-&-Erinnerung,2015-02-26,"['Egidius Streiff ', ' Mariana Doughty ', ' Kaspar Zwicky ', ' Francesco Carletti ', ' works by Viktor Kalabis ']",['Classic']
+11,Kriens,Ode-Gewalt-gespielt-gesprochen,2015-02-26,"['Petra Ronner ', ' Yuka Tsuboi ', ' Sarah Kilchenmann ', ' Hugo Bollschweiler ', ' Julien Kilchenmann ', ' Werke ']",['Classic']
+12,Z?rich,EAV,2015-02-26,['EAV '],['Pop']
+13,Z?rich,The-Subways,2015-02-26,['The Subways '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Zug,My-Darling-Clementine,2015-02-26,['My Darling Clementine '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,null,Griz,2015-02-26,['Griz '],['Electronic']
+16,Z?rich,Robi-Weber-Quartet-feat.-Pius-Baumgartner,2015-02-26,"[' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' Pius Baumgartner ']","['Jazz', 'Blues', 'Soul']"
+17,Winterthur,The-Rafael-Jerjen-Concept,2015-02-26,"[' Michael Arbenz ', ' Rafael Jerjen ', ' S?mi B?ttiker ']","['Jazz', 'Blues', 'Soul']"
+18,Frauenfeld,Cilia-Hunch,2015-02-26,"[' Fernanda Ramos ', ' Marvin Trummer ', ' Claude Stucki ', ' Moritz Meyer ', ' Paul Amereller ']","['Jazz', 'Blues', 'Soul']"
+19,Bern,Kamchatka,2015-02-26,['Kamchatka '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Baden,Jazz-am-Donnerstag,2015-02-26,"['Raphael Kalt ', ' Mathieu Friz ', ' Mischa Frey ', ' Alex Merz ']","['Jazz', 'Blues', 'Soul']"
+21,Basel,Hendriksen-Gisler-Duo,2015-02-26,"[' Alex Hendriksen ', ' Fabian Gisler ']","['Jazz', 'Blues', 'Soul']"
+22,Z?rich,Avishai-Cohen's-Triveni,2015-02-26,"[""Avishai Cohen's Triveni "", ' Avishai Cohen ', ' Omer Avital ', ' Nasheet Waits ']","['Jazz', 'Blues', 'Soul']"
+23,Basel,Mad-Girl,2015-02-26,"[' Lander Gyselinck ', ' Corinne Huber ', ' Franziska Bruecker ', ' Annina Polivka ']",['Pop']
+24,Baden,6-Handful-of-Blues,2015-02-26,"[' Patrik Schneider ', ' Paul Schneider ', ' Imad Barnieh ']","['Jazz', 'Blues', 'Soul']"
+25,Z?rich,Robbing-Millions,2015-02-26,['Robbing Millions '],['Pop']
+26,Z?rich,Silent-Neighbours,2015-02-26,"[' Philipp Saner ', ' Andreas Achermann ', ' Marcel Frautschi ', ' Jan Jossi ']",['Pop']
+27,Rubigen,Kinky-Friedman,2015-02-26,['Kinky Friedman '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Luzern,We-Steal-Flyers,2015-02-26,['We Steal Flyers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Bern,Juke-Joint-Pimps,2015-02-26,['Juke Joint Pimps '],"['Jazz', 'Blues', 'Soul']"
+30,Z?rich,Nick-Jaina,2015-02-26,['Nick Jaina '],['Pop']
+31,Z?rich,Norman-Die,2015-02-26,"[' Kevin Schneeberger ', ' Jos? Paneque ', ' Stefan Zeyer ', ' Pan Aurel Bucher ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

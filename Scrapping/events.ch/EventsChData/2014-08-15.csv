@@ -1,24 +1,23 @@
-location,event,date,artists,genre
-Gampel,Open-Air-Gampel,2014-08-15,"['Scooter ', ' Fettes Brot ', ' Reel Big Fish ', ' Clean Bandit ']",Pop
-Gampel,Open-Air-Gampel,2014-08-15,"[' Heaven Shall Burn ', ' Jimmy Eat World ', ' Bear Hands ']",Pop
-Le-Locle,Rock-Altitude-Festival,2014-08-15,"['Down ', ' Red Fang ', ' Converge ']",
-Avenches,Rock-Oz'Arènes,2014-08-15,"['DJs Hardwell ', ' Dyro ', ' Dannic ', ' Quentin Mosimann ']",
-Avenches,Rock-Oz'Arènes,2014-08-15,"['DJs Thomas Newson ', ' Jay Hardway ']",
-Bern,Brushy-One-String,2014-08-15,['Brushy One String '],
-Basel,Blues-Now,2014-08-15,"['Mannish Boys ', ' Big Pete Band ', ' Sugar Ray Norcia & Friends - Back Porch Blues ']",
-Luzern,Piano-Entertainment,2014-08-15,['Mega Horvath '],Pop
-Schangnau,Zapperlot-Festival,2014-08-15,"[' Morgan Band ', ' DJ Tide ']",
-Basel,Orgelspiel-zum-Feierabend,2014-08-15,['Jule Rosner '],Classic
-Luzern,Eröffnungskonzert,2014-08-15,[' Sara Mingardo '],Classic
-Basel,Maximo-Park,2014-08-15,"['Maximo Park ', ' Fink ']",Pop
-Basel,4.-Sommerkonzert-Orgel-und-Tango,2014-08-15,"[' Cristina Banegas ', ' Roger Helou ']",Classic
-Zürich,Projekt-Itävalta,2014-08-15,[' Adrian Häusler '],Classic
-Murten,Murten-Classics-Sinfoniekonzert,2014-08-15,[' Dmitri Makhtin '],Classic
-Winterthur,Winterthurer-Musikfestwochen,2014-08-15,['Annenmaykantereit '],
-Baden,Carmatango,2014-08-15,"['Carmatango ', ' Carlos Ramirez ', ' Marcelo Rossini ']",
-Basel,Cojazz-feat.-Jorge-Rossy,2014-08-15,"[' Jorge Rossy ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Arthur Vonfel ']",
-Seuzach,Klassik-Open-Air-Seuzach-Eine-Nacht-in-Venedig,2014-08-15,"['Julia Koci ', ' Regula Rosin ', ' Flaviano Rossi ', ' Giovanni Sanvito ', ' Künstlerische Leitung: Daniel Moos ']",Classic
-Zürich,Josh,2014-08-15,['Josh '],Pop
-Winterthur,Sting-Operation,2014-08-15,"[' Felix Straumann ', ' Matthias Siegrist ', ' Peter Leuzinger ', ' Peter Preibisch ', ' Kurt Söldi ']",
-Zürich,Romain-Virgo,2014-08-15,['Romain Virgo '],
-Basel,Im-Fluss,2014-08-15,['Brandt Brauer Frick '],Electronic
+,location,event,date,artists,genre
+0,Gampel,Open-Air-Gampel,2014-08-15,"[' Heaven Shall Burn ', ' Jimmy Eat World ', ' Bear Hands ']",['Pop']
+1,Le-Locle,Rock-Altitude-Festival,2014-08-15,"['Down ', ' Red Fang ', ' Converge ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Avenches,Rock-Oz'Ar?nes,2014-08-15,"['DJs Hardwell ', ' Dyro ', ' Dannic ', ' Quentin Mosimann ']","['Electro', 'Electropop']"
+3,Avenches,Rock-Oz'Ar?nes,2014-08-15,"['DJs Thomas Newson ', ' Jay Hardway ']","['Electro', 'Electropop']"
+4,Basel,Blues-Now,2014-08-15,[' Friends - Back Porch Blues '],"['Jazz', 'Blues', 'Soul']"
+5,Schangnau,Zapperlot-Festival,2014-08-15,"[' Morgan Band ', ' DJ Tide ']","['Jazz', 'Blues', 'Soul']"
+6,Luzern,Piano-Entertainment,2014-08-15,['Mega Horvath '],['Pop']
+7,Bern,Brushy-One-String,2014-08-15,['Brushy One String '],"['world', 'music']"
+8,Basel,Orgelspiel-zum-Feierabend,2014-08-15,['Jule Rosner '],['Classic']
+9,Luzern,Er?ffnungskonzert,2014-08-15,[' Sara Mingardo '],['Classic']
+10,Basel,Maximo-Park,2014-08-15,"['Maximo Park ', ' Fink ']",['Pop']
+11,Basel,4.-Sommerkonzert-Orgel-und-Tango,2014-08-15,"[' Cristina Banegas ', ' Roger Helou ']",['Classic']
+12,Murten,Murten-Classics-Sinfoniekonzert,2014-08-15,[' Dmitri Makhtin '],['Classic']
+13,Z?rich,Projekt-It?valta,2014-08-15,[' Adrian H?usler '],['Classic']
+14,Winterthur,Winterthurer-Musikfestwochen,2014-08-15,['Annenmaykantereit '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Basel,Cojazz-feat.-Jorge-Rossy,2014-08-15,"[' Jorge Rossy ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Arthur Vonfel ']","['Jazz', 'Blues', 'Soul']"
+16,Baden,Carmatango,2014-08-15,"['Carmatango ', ' Carlos Ramirez ', ' Marcelo Rossini ']","['world', 'music']"
+17,Seuzach,Klassik-Open-Air-Seuzach-Eine-Nacht-in-Venedig,2014-08-15,"['Julia Koci ', ' Regula Rosin ', ' Flaviano Rossi ', ' Giovanni Sanvito ', ' K?nstlerische Leitung: Daniel Moos ']",['Classic']
+18,Z?rich,Josh,2014-08-15,['Josh '],['Pop']
+19,Basel,Im-Fluss,2014-08-15,['Brandt Brauer Frick '],['Electronic']
+20,Winterthur,Sting-Operation,2014-08-15,"[' Felix Straumann ', ' Matthias Siegrist ', ' Peter Leuzinger ', ' Peter Preibisch ', ' Kurt S?ldi ']","['Jazz', 'Blues', 'Soul']"
+21,Z?rich,Romain-Virgo,2014-08-15,['Romain Virgo '],"['Hip', 'Hop', ""R'n'B""]"

@@ -1,36 +1,36 @@
-location,event,date,artists,genre
-Thun,Smith-&-Smart,2014-03-06,"['Smith & Smart ', ' After-Party; Elektronix mit Space Rangers ']",Electronic
-Basel,Mittagskonzert,2014-03-06,['Jakab Kaufmann '],Classic
-Zürich,Internationales-Country-Music-Festival,2014-03-06,['Dailey & Vincent '],
-Zürich,Thursday-Night-Jazz,2014-03-06,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Zürich,Gigi-Moto,2014-03-06,['Gigi Moto '],
-Zürich,Freitagsakademie-und-deutsche-Komponisten,2014-03-06,"[' Barbara Tillmann ', ' Ulrike Jacoby ', ' Muriel Schweizer ', ' Anita Jehli ', ' Margarete Kopelent ']",Classic
-Winterthur,Ein-Haydn-Spass,2014-03-06,[' Cäcilia Chmel '],Classic
-Luzern,Laibach,2014-03-06,['Laibach '],
-Bern,Franz-From-Austria,2014-03-06,['Franz From Austria '],Pop
-null,Vinnie-Paz,2014-03-06,['Vinnie Paz '],
-Zug,Klavierkonzert,2014-03-06,[' Martin Helmchen '],Classic
-Zürich,Swing-4-You,2014-03-06,"[' Christof Breitenmoser ', ' Tobias Pestalozzi ', ' Sämi Zünd ', ' Chasper-Curò Mani ', ' Risch Biert ', ' Fridolin Blumer ']",
-Luzern,Salonmusik,2014-03-06,"['Martin Schaefer ', ' Richard Decker ']",Classic
-Dübendorf,James-Connolly-Songs-of-Freedom-Band,2014-03-06,"[' Mat Callahan ', ' Alan Burke ', ' Shannon Callahan ', ' Yvonne Moore ', ' Shirley Grimes ', ' Joe McHugh ']",
-Winterthur,Blues-Corner,2014-03-06,"[' Urs Baumann ', ' Jay Schönenberger ', ' Kurt Auer ', ' Sämi Michel ', ' Max Kiefer ']",
-Zürich,A-Wilhelm-Scream,2014-03-06,"['A Wilhelm Scream ', ' Astpai ']",
-Zürich,Tilbury-&-Rowe,2014-03-06,"['Tilbury & Rowe ', ' Ielasi & Malatesta ', ' John Tilbury ', ' Keith Rowe ', ' Giuseppe Ielasi ', ' Enrico Malatesta ']",
-Lausanne,Midlake,2014-03-06,"['Midlake ', ' Israel Nash ']",
-Baden,Jürg-Metzger-Jazz-Trio,2014-03-06,"[' Thomas Bosshard ', ' Simon Wyrsch ', ' Peter Livers ', ' Bruno Huwyler ', ' Jürg Metzger ']",
-null,Angélique-Kidjo,2014-03-06,['Angélique Kidjo '],
-Liebefeld,Egli-Santana-Group,2014-03-06,"[' Florian Egli ', ' Gileno Santana ', ' Dave Gisler ', ' Raffaele Bossard ', ' Jonas Burgwinkel ']",
-Zürich,Veronika's-Ndiigo,2014-03-06,"[' Veronika Stalder ', ' Moussa Cissokho ', ' Oli Hartung ', ' Toni Schiavano ', ' Sam Baur ']",
-Basel,Cloud-Boat,2014-03-06,['Cloud Boat '],Electronic
-Basel,Stefan-Aeby-Trio,2014-03-06,"[' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-Zürich,A-Good-Slide-for-God's-Sake,2014-03-06,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ']",
-Feuerthalen,The-Razorblades,2014-03-06,['The Razorblades '],
-Baden,Jazz-am-Donnerstag,2014-03-06,"['Raphael Loher ', ' Sara Käser ', ' Vincent Glanzmann ']",
-Zürich,Sleepwalkers-Station,2014-03-06,['Sleepwalkers Station '],Pop
-Luzern,Debbielicious,2014-03-06,"[' Debbie Frank ', ' Andrea Isenegger ']",Pop
-Schaffhausen,The-Original-Wailers,2014-03-06,['The Original Wailers '],
-Zürich,Fanfarlo,2014-03-06,['Fanfarlo '],
-null,Blakat-Jam-Session,2014-03-06,"['Maxence Sibille ', ' Vincent Ruiz ', ' Baptiste Bouli ', ' Sunny Simonet ', ' Matthieu Llodra ']",
-Zürich,Salsamania,2014-03-06,['DJs Frankaly Lavoe '],
-Luzern,Jam-Session,2014-03-06,['Richard Decker '],
-Basel,Scherbenkontrabass,2014-03-06,['Scherbenkontrabass '],
+,location,event,date,artists,genre
+0,Thun,Smith-&-Smart,2014-03-06,"[' Smart ', ' After-Party; Elektronix mit Space Rangers ']",['Electronic']
+1,Basel,Mittagskonzert,2014-03-06,['Jakab Kaufmann '],['Classic']
+2,Z?rich,Internationales-Country-Music-Festival,2014-03-06,[' Vincent '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,Freitagsakademie-und-deutsche-Komponisten,2014-03-06,"[' Barbara Tillmann ', ' Ulrike Jacoby ', ' Muriel Schweizer ', ' Anita Jehli ', ' Margarete Kopelent ']",['Classic']
+4,Z?rich,Thursday-Night-Jazz,2014-03-06,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+5,Winterthur,Ein-Haydn-Spass,2014-03-06,[' C?cilia Chmel '],['Classic']
+6,Z?rich,Gigi-Moto,2014-03-06,['Gigi Moto '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Bern,Franz-From-Austria,2014-03-06,['Franz From Austria '],['Pop']
+8,Luzern,Laibach,2014-03-06,['Laibach '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,null,Vinnie-Paz,2014-03-06,['Vinnie Paz '],"['Hip', 'Hop', ""R'n'B""]"
+10,D?bendorf,James-Connolly-Songs-of-Freedom-Band,2014-03-06,"[' Mat Callahan ', ' Alan Burke ', ' Shannon Callahan ', ' Yvonne Moore ', ' Shirley Grimes ', ' Joe McHugh ']","['world', 'music']"
+11,Luzern,Salonmusik,2014-03-06,"['Martin Schaefer ', ' Richard Decker ']",['Classic']
+12,Z?rich,Swing-4-You,2014-03-06,"[' Christof Breitenmoser ', ' Tobias Pestalozzi ', ' S?mi Z?nd ', ' Chasper-Cur? Mani ', ' Risch Biert ', ' Fridolin Blumer ']","['Jazz', 'Blues', 'Soul']"
+13,Zug,Klavierkonzert,2014-03-06,[' Martin Helmchen '],['Classic']
+14,Winterthur,Blues-Corner,2014-03-06,"[' Urs Baumann ', ' Jay Sch?nenberger ', ' Kurt Auer ', ' S?mi Michel ', ' Max Kiefer ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,A-Wilhelm-Scream,2014-03-06,"['A Wilhelm Scream ', ' Astpai ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Basel,Stefan-Aeby-Trio,2014-03-06,"[' Stefan Aeby ', ' Andr? Pousaz ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,A-Good-Slide-for-God's-Sake,2014-03-06,"[' Omri Ziegele ', ' Isa Wiss ', ' J?rg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ']","['Jazz', 'Blues', 'Soul']"
+18,Basel,Cloud-Boat,2014-03-06,['Cloud Boat '],['Electronic']
+19,Baden,Jazz-am-Donnerstag,2014-03-06,"['Raphael Loher ', ' Sara K?ser ', ' Vincent Glanzmann ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Veronika's-Ndiigo,2014-03-06,"[' Veronika Stalder ', ' Moussa Cissokho ', ' Oli Hartung ', ' Toni Schiavano ', ' Sam Baur ']","['world', 'music']"
+21,Lausanne,Midlake,2014-03-06,"['Midlake ', ' Israel Nash ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Z?rich,Tilbury-&-Rowe,2014-03-06,"[' Malatesta ', ' John Tilbury ', ' Keith Rowe ', ' Giuseppe Ielasi ', ' Enrico Malatesta ']","['Jazz', 'Blues', 'Soul']"
+23,null,Ang?lique-Kidjo,2014-03-06,['Ang?lique Kidjo '],"['Hip', 'Hop', ""R'n'B""]"
+24,Baden,J?rg-Metzger-Jazz-Trio,2014-03-06,"[' Thomas Bosshard ', ' Simon Wyrsch ', ' Peter Livers ', ' Bruno Huwyler ', ' J?rg Metzger ']","['Jazz', 'Blues', 'Soul']"
+25,Feuerthalen,The-Razorblades,2014-03-06,['The Razorblades '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Liebefeld,Egli-Santana-Group,2014-03-06,"[' Florian Egli ', ' Gileno Santana ', ' Dave Gisler ', ' Raffaele Bossard ', ' Jonas Burgwinkel ']","['Jazz', 'Blues', 'Soul']"
+27,Z?rich,Sleepwalkers-Station,2014-03-06,['Sleepwalkers Station '],['Pop']
+28,Luzern,Debbielicious,2014-03-06,"[' Debbie Frank ', ' Andrea Isenegger ']",['Pop']
+29,Schaffhausen,The-Original-Wailers,2014-03-06,['The Original Wailers '],"['Hip', 'Hop', ""R'n'B""]"
+30,Z?rich,Fanfarlo,2014-03-06,['Fanfarlo '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,null,Blakat-Jam-Session,2014-03-06,"['Maxence Sibille ', ' Vincent Ruiz ', ' Baptiste Bouli ', ' Sunny Simonet ', ' Matthieu Llodra ']","['Jazz', 'Blues', 'Soul']"
+32,Z?rich,Salsamania,2014-03-06,['DJs Frankaly Lavoe '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+33,Basel,Scherbenkontrabass,2014-03-06,['Scherbenkontrabass '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Luzern,Jam-Session,2014-03-06,['Richard Decker '],"['Jazz', 'Blues', 'Soul']"

@@ -1,39 +1,39 @@
-location,event,date,artists,genre
-Zürich,Fronleichnam,2014-06-22,[' Felix Gubser '],Classic
-Wohlen,Touch-the-Air,2014-06-22,"['Xavier Naidoo ', ' Curse ', ' Example ']",
-null,Kammermusik-Matinée,2014-06-22,"[' Aina Hickel ', ' Julien Mathieu ', ' Nada Anderwert ', ' Gabriel Wernly ']",Classic
-Zürich,Festspiele-Zürich-Kammermusik-Tag,2014-06-22,"['Andreas Janke ', ' Peter McGuire ', ' Katja Fuchs ', ' Ewa Grzywna-Groblewska ', ' Benjamin Nyffenegger ']",Classic
-Zürich,Festspiele-Zürich-Kammerkonzert,2014-06-22,"[' Michael Laurenz ', ' Irène Friedli ']",Classic
-Zürich,Matinee,2014-06-22,[' Jaël Bertschinger '],Classic
-Schaffhausen,Kontraste,2014-06-22,"['Sara Käser ', ' Mirande de Miguel ']",Classic
-Zürich,Festspiele-Zürich-Kammermusik-Tag,2014-06-22,"['Sabine Poyé Morel ', ' Michael Reid ', ' Matthias Rácz ', ' Hans Agreda ']",Classic
-Zürich,Festspiele-Zürich-Kammermusik-Tag,2014-06-22,"[' Andreas Janke ', ' Elisabeth Bundies ', ' Katja Fuchs ', ' Christian Proske ', ' Yoshiko Iwai ']",Classic
-Hinwil,Rock-the-Ring,2014-06-22,"['ZZ Top ', ' Peter Maffay ', ' Black Label Society ']",
-Zürich,Festspiele-Zürich-Mit-Originalität-gestempelt,2014-06-22,['Preethi de Silva '],Classic
-Zürich,Festspiele-Zürich-Kammermusik-Tag,2014-06-22,"[' Kaspar Zimmermann ', ' Ulrike-Verena Habel ', ' Ute Grewel ', ' Lukas Gamper ']",Classic
-Kappel-am-Albis,Franz-Schuberts-letzte-Kompositionen,2014-06-22,"[' Beatrice Ruchti ', ' Stefania Huonder ', ' Martin Hostettler ', ' Siddique Eggenberger ', ' Yongfan Chen-Hauser ']",Classic
-Zürich,Festspiele-Zürich-Kammermusik-Tag,2014-06-22,"['Elisabeth Harringer-Pignat ', ' Gilad Karni ', ' Xavier Pignat ', ' Benjamin Engeli ']",Classic
-Bern,Wendepunkte,2014-06-22,"['Christian Tetzlaff ', ' conductor: Antje Weithaas ']",Classic
-Arlesheim,Konzert,2014-06-22,"[' Vitalij Kravtchenko ', ' Robert Koller ']",Classic
-Dübendorf,Sommerkonzert,2014-06-22,[' Mariko Takahashi '],Classic
-null,Musique-française-pour-le-voix-de-femme,2014-06-22,[' Stefanie Pfeffer '],Classic
-Zürich,Sommerkonzert-mit-Apéro,2014-06-22,[' Domen Marn '],Classic
-Wabern,Naturton-Hörst-Du-den-Berg,2014-06-22,"['Gérard Widmer ', ' Willi Grimm ', ' Gilbert Paeffgen ']",
-Stein-am-Rhein,Mistero-d'amore,2014-06-22,"[' Fiorentina Talamo ', ' Martin Brenner ', ' Hristo Kouzmanov ']",Classic
-null,St.-Galler-Festspiele-El-órgano-hispánico,2014-06-22,['Willibald Guggenmos '],Classic
-Basel,Sonaten-für-Gamba-und-Cembalo,2014-06-22,"['François Joubert-Caillet ', ' Alexandra Ivanova ']",Classic
-Luzern,Bach-Ensemble-spielt-Händel,2014-06-22,"[' Barbara Böhi ', ' Regula Brugos ', ' Valentin Johannes Gloor ', ' Victor Pulver ']",Classic
-Zürich,Mozart-Requiem,2014-06-22,"[' Katharina Jing An Gebauer ', ' Gianna Lunardi ', ' Daniel Bentz ', ' Chasper Curo Mani ']",Classic
-Zürich,Festspiele-Zürich-Kammermusik-Tag,2014-06-22,"[' Ruth Ziesak ', ' Julia Schröder ', ' Mary Ellen Woodside ', "" Alessandro D'Amico "", ' Rafael Rosenfeld ']",Classic
-Frenkendorf,Die-spanische-Nacht,2014-06-22,"['Josep Bassal ', '  Antonio López ']",
-Ascona,Jazz-Ascona,2014-06-22,"['Stefano Bollani & Irene Grandi ', ' Four of a Kind Plus One ', ' Paolo Alderighi Trio feat. Stephanie Trick ', ' Sugarpie & The Candymen feat. Michael Supnick ', ' The Primatics ', ' Jazz Steps Band ']",
-Zürich,Festspiele-Zürich-Kammermusik-Tag,2014-06-22,"['Martin Frutiger ', ' Ivo Gass ', ' Christian Hartmann ']",Classic
-Zürich,Abendmusik-Schumann-Requiem,2014-06-22,"[' Andrea Suter ', ' Madeleine Merz ', ' Hans-Jürg Rickenbacher ', ' René Perler ']",Classic
-Winterthur,Trio-Todo-Tango-,2014-06-22,"[' Sven Angelo Mindeci ', ' Jojo Kunz ', ' Urs Stirnimann ']",
-Basel,AMG-Solistenabend,2014-06-22,['Grigory Sokolov '],Classic
-Zürich,Festspiele-Zürich-Warum-Halbgott-und-nicht-Vollmensch-,2014-06-22,"[' Rea Claudia Kost ', ' Niklaus Kost ', ' Simone Keller ']",Classic
-null,Clutch,2014-06-22,['Clutch '],
-Aarau,Hieronymus-Praetorius,2014-06-22,[' Thilo Muster '],Classic
-Zürich,John-Herzig,2014-06-22,['John Herzig '],traditional
-Zürich,Festspiele-Zürich-Kammermusik-Tag,2014-06-22,"['Andreas Janke ', ' Peter McGuire ', ' Katja Fuchs ', ' Ewa Grzywna-Groblewska ']",Classic
-Zürich,Duquende-&-Rocío-Márquez,2014-06-22,"['Duquende & Rocío Márquez ', ' Chicuelo ', ' Mathias Weibel ', ' Germán ""El Papu"" ']",
+,location,event,date,artists,genre
+0,Z?rich,Fronleichnam,2014-06-22,[' Felix Gubser '],['Classic']
+1,Wohlen,Touch-the-Air,2014-06-22,"['Xavier Naidoo ', ' Curse ', ' Example ']","['Hip', 'Hop', ""R'n'B""]"
+2,Z?rich,Festspiele-Z?rich-Kammermusik-Tag,2014-06-22,"['Andreas Janke ', ' Peter McGuire ', ' Katja Fuchs ', ' Ewa Grzywna-Groblewska ', ' Benjamin Nyffenegger ']",['Classic']
+3,null,Kammermusik-Matin?e,2014-06-22,"[' Aina Hickel ', ' Julien Mathieu ', ' Nada Anderwert ', ' Gabriel Wernly ']",['Classic']
+4,Z?rich,Festspiele-Z?rich-Kammerkonzert,2014-06-22,"[' Michael Laurenz ', ' Ir?ne Friedli ']",['Classic']
+5,Z?rich,Matinee,2014-06-22,[' Ja?l Bertschinger '],['Classic']
+6,Schaffhausen,Kontraste,2014-06-22,"['Sara K?ser ', ' Mirande de Miguel ']",['Classic']
+7,Z?rich,Festspiele-Z?rich-Kammermusik-Tag,2014-06-22,"['Sabine Poy? Morel ', ' Michael Reid ', ' Matthias R?cz ', ' Hans Agreda ']",['Classic']
+8,Z?rich,Festspiele-Z?rich-Kammermusik-Tag,2014-06-22,"[' Andreas Janke ', ' Elisabeth Bundies ', ' Katja Fuchs ', ' Christian Proske ', ' Yoshiko Iwai ']",['Classic']
+9,Hinwil,Rock-the-Ring,2014-06-22,"['ZZ Top ', ' Peter Maffay ', ' Black Label Society ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Kappel-am-Albis,Franz-Schuberts-letzte-Kompositionen,2014-06-22,"[' Beatrice Ruchti ', ' Stefania Huonder ', ' Martin Hostettler ', ' Siddique Eggenberger ', ' Yongfan Chen-Hauser ']",['Classic']
+11,Z?rich,Festspiele-Z?rich-Mit-Originalit?t-gestempelt,2014-06-22,['Preethi de Silva '],['Classic']
+12,Z?rich,Festspiele-Z?rich-Kammermusik-Tag,2014-06-22,"[' Kaspar Zimmermann ', ' Ulrike-Verena Habel ', ' Ute Grewel ', ' Lukas Gamper ']",['Classic']
+13,Z?rich,Festspiele-Z?rich-Kammermusik-Tag,2014-06-22,"['Elisabeth Harringer-Pignat ', ' Gilad Karni ', ' Xavier Pignat ', ' Benjamin Engeli ']",['Classic']
+14,Z?rich,Sommerkonzert-mit-Ap?ro,2014-06-22,[' Domen Marn '],['Classic']
+15,null,St.-Galler-Festspiele-El-?rgano-hisp?nico,2014-06-22,['Willibald Guggenmos '],['Classic']
+16,D?bendorf,Sommerkonzert,2014-06-22,[' Mariko Takahashi '],['Classic']
+17,Arlesheim,Konzert,2014-06-22,"[' Vitalij Kravtchenko ', ' Robert Koller ']",['Classic']
+18,Wabern,Naturton-H?rst-Du-den-Berg,2014-06-22,"['G?rard Widmer ', ' Willi Grimm ', ' Gilbert Paeffgen ']","['world', 'music']"
+19,null,Musique-fran?aise-pour-le-voix-de-femme,2014-06-22,[' Stefanie Pfeffer '],['Classic']
+20,Basel,Sonaten-f?r-Gamba-und-Cembalo,2014-06-22,"['Fran?ois Joubert-Caillet ', ' Alexandra Ivanova ']",['Classic']
+21,Stein-am-Rhein,Mistero-d'amore,2014-06-22,"[' Fiorentina Talamo ', ' Martin Brenner ', ' Hristo Kouzmanov ']",['Classic']
+22,Bern,Wendepunkte,2014-06-22,"['Christian Tetzlaff ', ' conductor: Antje Weithaas ']",['Classic']
+23,Luzern,Bach-Ensemble-spielt-H?ndel,2014-06-22,"[' Barbara B?hi ', ' Regula Brugos ', ' Valentin Johannes Gloor ', ' Victor Pulver ']",['Classic']
+24,Z?rich,Mozart-Requiem,2014-06-22,"[' Katharina Jing An Gebauer ', ' Gianna Lunardi ', ' Daniel Bentz ', ' Chasper Curo Mani ']",['Classic']
+25,Z?rich,Festspiele-Z?rich-Kammermusik-Tag,2014-06-22,"[' Ruth Ziesak ', ' Julia Schr?der ', ' Mary Ellen Woodside ', "" Alessandro D'Amico "", ' Rafael Rosenfeld ']",['Classic']
+26,Ascona,Jazz-Ascona,2014-06-22,"[' The Candymen feat. Michael Supnick ', ' The Primatics ', ' Jazz Steps Band ']","['Jazz', 'Blues', 'Soul']"
+27,Frenkendorf,Die-spanische-Nacht,2014-06-22,"['Josep Bassal ', '  Antonio L?pez ']","['world', 'music']"
+28,Z?rich,Festspiele-Z?rich-Kammermusik-Tag,2014-06-22,"['Martin Frutiger ', ' Ivo Gass ', ' Christian Hartmann ']",['Classic']
+29,Z?rich,Abendmusik-Schumann-Requiem,2014-06-22,"[' Andrea Suter ', ' Madeleine Merz ', ' Hans-J?rg Rickenbacher ', ' Ren? Perler ']",['Classic']
+30,Basel,AMG-Solistenabend,2014-06-22,['Grigory Sokolov '],['Classic']
+31,Winterthur,Trio-Todo-Tango-,2014-06-22,"[' Sven Angelo Mindeci ', ' Jojo Kunz ', ' Urs Stirnimann ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Z?rich,Festspiele-Z?rich-Warum-Halbgott-und-nicht-Vollmensch-,2014-06-22,"[' Rea Claudia Kost ', ' Niklaus Kost ', ' Simone Keller ']",['Classic']
+33,Z?rich,John-Herzig,2014-06-22,['John Herzig '],['traditional']
+34,null,Clutch,2014-06-22,['Clutch '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Z?rich,Festspiele-Z?rich-Kammermusik-Tag,2014-06-22,"['Andreas Janke ', ' Peter McGuire ', ' Katja Fuchs ', ' Ewa Grzywna-Groblewska ']",['Classic']
+36,Aarau,Hieronymus-Praetorius,2014-06-22,[' Thilo Muster '],['Classic']
+37,Z?rich,Duquende-&-Roc?o-M?rquez,2014-06-22,"[' Roc?o M?rquez ', ' Chicuelo ', ' Mathias Weibel ', ' Germ?n ""El Papu"" ']","['world', 'music']"

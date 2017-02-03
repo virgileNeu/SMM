@@ -1,23 +1,23 @@
-location,event,date,artists,genre
-Zürich,Mit-Geist-und-Fantasie,2014-06-15,"['Plamena Nikitassova ', ' Romina Lischka ', ' Merit Eichhorn ']",Classic
-Luzern,Festival-Strings-Lucerne,2014-06-15,[' Arabella Steinbacher '],Classic
-null,Festi'neuch,2014-06-15,"['Earth Wind & Fire Experience feat. Al McKay ', ' Dub Inc. ', ' Moussu T E Jovents ']",
-Zürich,Festspiele-Zürich-Prometheus-Entfesselung-der-Kräfte,2014-06-15,"[' Oana Zamfir ', ' Mihai Cocea ', ' Iryna Gintova ', ' Sarah Maria Sun ', ' Yulia Miloslavskaya ', ' Arata Yumi ']",Classic
-Zürich,Konzert-Matinée,2014-06-15,"[' Kio Seiler ', ' Simon Wallfisch ', ' Edward Rushton ']",Classic
-Dornach,Erweiterte-Tonalität,2014-06-15,"[' Heinz Bähler ', ' Oskar Peter ', ' Johann Sonnleitner ']",Classic
-Zürich,Sommerkonzerte,2014-06-15,[' Thomas Garcia '],Classic
-Schaffhausen,Bilder-einer-Ausstellung,2014-06-15,[' Katharina Nohl '],Classic
-Zürich,Unterhaltungskonzert,2014-06-15,[' Qiling Chen '],Classic
-Oberrieden,Songs-of-Power-and-Spirit,2014-06-15,"['Carmen Bürgisser ', ' Marcello Mosca ']",Pop
-Kaiserstuhl,Projekt-Mara,2014-06-15,"[' Eleonora Contucci ', ' Christian Poltéra ']",Classic
-Baden,Junge-Talente,2014-06-15,"['Jasmin Schlegel ', ' Ivan Scherstnew ']",Classic
-Basel,Musik-aus-Frankreich,2014-06-15,[' Chiara Pedrazzetti '],Classic
-Zürich,All'-Italia,2014-06-15,[' Harry White '],Classic
-Basel,Saisonfinale,2014-06-15,[' Benjamin Engeli '],Classic
-Riehen,Connaissez-vous,2014-06-15,['Dmitri Demiashkin '],Classic
-Zürich,Trio-Angeluci,2014-06-15,"['Trio Angeluci ', ' Lucia Sachs ', ' Angelika Bauer ', ' Fridolin Berger ']",Pop
-Buchberg,Popmusik-Orgelkonzert,2014-06-15,['Christian Gautschi '],Pop
-Zürich,Freie-Improvisation,2014-06-15,"[' Magda Vogel ', ' Cristina de Simoni ', ' Heini Andermatt ']",
-Luzern,Tausendundeine-Nacht,2014-06-15,[' Dimitry Sitkovetsky '],Classic
-Zürich,Lieb-&-Leid-Lied-&-Leib,2014-06-15,"[' Letizia Ineichen ', ' Stefan Eschmann ', ' Moana N. Labbate ', ' Michael Kessler ']",Classic
-Zürich,Swanky-Mothers-Series-XVIII,2014-06-15,"['Ilvio Cadotsch ', ' Dave Gisler ', ' Jonas Labhart ', ' Marius Peyer ']",
+,location,event,date,artists,genre
+0,Z?rich,Mit-Geist-und-Fantasie,2014-06-15,"['Plamena Nikitassova ', ' Romina Lischka ', ' Merit Eichhorn ']",['Classic']
+1,Luzern,Festival-Strings-Lucerne,2014-06-15,[' Arabella Steinbacher '],['Classic']
+2,null,Festi'neuch,2014-06-15,"[' Fire Experience feat. Al McKay ', ' Dub Inc. ', ' Moussu T E Jovents ']","['Hip', 'Hop', ""R'n'B""]"
+3,Z?rich,Festspiele-Z?rich-Prometheus-Entfesselung-der-Kr?fte,2014-06-15,"[' Oana Zamfir ', ' Mihai Cocea ', ' Iryna Gintova ', ' Sarah Maria Sun ', ' Yulia Miloslavskaya ', ' Arata Yumi ']",['Classic']
+4,Dornach,Erweiterte-Tonalit?t,2014-06-15,"[' Heinz B?hler ', ' Oskar Peter ', ' Johann Sonnleitner ']",['Classic']
+5,Z?rich,Konzert-Matin?e,2014-06-15,"[' Kio Seiler ', ' Simon Wallfisch ', ' Edward Rushton ']",['Classic']
+6,Z?rich,Sommerkonzerte,2014-06-15,[' Thomas Garcia '],['Classic']
+7,Schaffhausen,Bilder-einer-Ausstellung,2014-06-15,[' Katharina Nohl '],['Classic']
+8,Z?rich,Unterhaltungskonzert,2014-06-15,[' Qiling Chen '],['Classic']
+9,Oberrieden,Songs-of-Power-and-Spirit,2014-06-15,"['Carmen B?rgisser ', ' Marcello Mosca ']",['Pop']
+10,Basel,Saisonfinale,2014-06-15,[' Benjamin Engeli '],['Classic']
+11,Riehen,Connaissez-vous,2014-06-15,['Dmitri Demiashkin '],['Classic']
+12,Kaiserstuhl,Projekt-Mara,2014-06-15,"[' Eleonora Contucci ', ' Christian Polt?ra ']",['Classic']
+13,Basel,Musik-aus-Frankreich,2014-06-15,[' Chiara Pedrazzetti '],['Classic']
+14,Baden,Junge-Talente,2014-06-15,"['Jasmin Schlegel ', ' Ivan Scherstnew ']",['Classic']
+15,Z?rich,All'-Italia,2014-06-15,[' Harry White '],['Classic']
+16,Z?rich,Trio-Angeluci,2014-06-15,"['Trio Angeluci ', ' Lucia Sachs ', ' Angelika Bauer ', ' Fridolin Berger ']",['Pop']
+17,Buchberg,Popmusik-Orgelkonzert,2014-06-15,['Christian Gautschi '],['Pop']
+18,Z?rich,Freie-Improvisation,2014-06-15,"[' Magda Vogel ', ' Cristina de Simoni ', ' Heini Andermatt ']","['Jazz', 'Blues', 'Soul']"
+19,Luzern,Tausendundeine-Nacht,2014-06-15,[' Dimitry Sitkovetsky '],['Classic']
+20,Z?rich,Lieb-&-Leid-Lied-&-Leib,2014-06-15,"[' Letizia Ineichen ', ' Stefan Eschmann ', ' Moana N. Labbate ', ' Michael Kessler ']",['Classic']
+21,Z?rich,Swanky-Mothers-Series-XVIII,2014-06-15,"['Ilvio Cadotsch ', ' Dave Gisler ', ' Jonas Labhart ', ' Marius Peyer ']","['Jazz', 'Blues', 'Soul']"

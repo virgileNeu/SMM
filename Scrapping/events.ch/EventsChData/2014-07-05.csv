@@ -1,25 +1,25 @@
-location,event,date,artists,genre
-Thun,29.-Bluegrass-Festival,2014-07-05,"[' Slow Horses ', ' Bluedust Bluegrass Band ', ' Texas Renegade ']",
-Einsiedeln,Musik-in-den-iberischen-Kolonien,2014-07-05,"[' Breno Quinderé ', ' Luiz Alves da Silva ', ' Sebastián Mariño León ']",Classic
-Aarau,Make-the-Hood-Look-Good,2014-07-05,"['Mf Doom ', ' The Beatnuts ', ' Tha Alkaholiks ', ' Torch ', ' Toni L ', ' Mc Rene ', ' Man of Booom ', ' Chefket ']",
-St.-Stephan,Hangar-Rockin',2014-07-05,"[' Trickbag ', ' The Planet Rockers ', ' Rhythm River Trio ', ' DJs Miss She Devil ', ' Aladino ', ' Miss Chazmatazz & Swingin Kitten ', ' Aloha ']",
-Marly,Jazz-Parade,2014-07-05,"[' Marc Sturzenegger ', ' Frédéric Preitner ', ' Adrea Esperti ', ' Pierre Pennaz ', ' Nadir Graa ', ' Théo Missillier ']",
-Wettingen,Openair-Wettingen,2014-07-05,['Satellites '],Pop
-null,Muri-Nights,2014-07-05,"[""Manfred Mann's Earth Band ""]",
-Luzern,Spectacular-Classics,2014-07-05,"[' Dimitri Ashkenazy ', ' Rosa Elvira Sierra ', ' Violetta Radomirska ']",Classic
-null,Voxenstopp,2014-07-05,['Voxenstopp '],Pop
-Zürich,Jeff-Beck,2014-07-05,"['Jeff Beck ', ' Rhonda Smith ', ' Lizzie Ball ', ' Jonathan Joseph ', ' Nicolas Meier ']",
-Marly,Jazz-Parade,2014-07-05,"['UB40 ', ' Amadou Diolo ', ' Iwacu ']",
-Wetzikon,Booze,2014-07-05,['Booze '],Pop
-Wallisellen,Vintage,2014-07-05,[' Stefanie Schlagenhauf '],Classic
-Montreux,Montreux-Jazz-Festival,2014-07-05,['Everlast '],
-Basel,Summer-Slaughter,2014-07-05,[' Casket '],
-Montreux,Montreux-Jazz-Festival,2014-07-05,['Chris Rea '],
--Alte-Kirche,Boswil,2014-07-05,"[' Felix Froschhammer ', ' Nico Prinz ', ' Ivaylo Dimitrov ', ' Asami Uemura ', ' Tashko Tasheff ', ' Aarón Zapico ', ' Daniel Zapico ', ' Pablo Zapico ']",Classic
-Montreux,Montreux-Jazz-Festival,2014-07-05,"['Tiken Jah Fakoly ', ' Selah Sue ']",
-Uster,Lumbago,2014-07-05,"[' Daniel Gubelmann ', ' Andreas Grob ']",
-Basel,Arne-Huber-Quartet,2014-07-05,"[' Domenic Landolf ', ' Rainer Böhm ', ' Arne Huber ', ' Jochen Rückert ']",
-Mendrisio,Estival-Jazz-Lugano,2014-07-05,"['Eric Burdon and the Animals ', ' Ibrahim Maalouf ', ' Toguna ']",
-Basel,Salsa-latino-Party,2014-07-05,['DJ Salsa Latino Alfredo '],
-Montreux,Montreux-Jazz-Festival,2014-07-05,[' Fat White Family '],
-Basel,Ustrinkete,2014-07-05,"['Tørsö ', ' The Boring ']",
+,location,event,date,artists,genre
+0,Thun,29.-Bluegrass-Festival,2014-07-05,"[' Slow Horses ', ' Bluedust Bluegrass Band ', ' Texas Renegade ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Einsiedeln,Musik-in-den-iberischen-Kolonien,2014-07-05,"[' Breno Quinder? ', ' Luiz Alves da Silva ', ' Sebasti?n Mari?o Le?n ']",['Classic']
+2,Aarau,Make-the-Hood-Look-Good,2014-07-05,"['Mf Doom ', ' The Beatnuts ', ' Tha Alkaholiks ', ' Torch ', ' Toni L ', ' Mc Rene ', ' Man of Booom ', ' Chefket ']","['Hip', 'Hop', ""R'n'B""]"
+3,St.-Stephan,Hangar-Rockin',2014-07-05,"[' Swingin Kitten ', ' Aloha ']","['Hip', 'Hop', ""R'n'B""]"
+4,Marly,Jazz-Parade,2014-07-05,"[' Marc Sturzenegger ', ' Fr?d?ric Preitner ', ' Adrea Esperti ', ' Pierre Pennaz ', ' Nadir Graa ', ' Th?o Missillier ']","['Jazz', 'Blues', 'Soul']"
+5,Wettingen,Openair-Wettingen,2014-07-05,['Satellites '],['Pop']
+6,Luzern,Spectacular-Classics,2014-07-05,"[' Dimitri Ashkenazy ', ' Rosa Elvira Sierra ', ' Violetta Radomirska ']",['Classic']
+7,null,Voxenstopp,2014-07-05,['Voxenstopp '],['Pop']
+8,null,Muri-Nights,2014-07-05,"[""Manfred Mann's Earth Band ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Wallisellen,Vintage,2014-07-05,[' Stefanie Schlagenhauf '],['Classic']
+10,Marly,Jazz-Parade,2014-07-05,"['UB40 ', ' Amadou Diolo ', ' Iwacu ']","['Hip', 'Hop', ""R'n'B""]"
+11,Z?rich,Jeff-Beck,2014-07-05,"['Jeff Beck ', ' Rhonda Smith ', ' Lizzie Ball ', ' Jonathan Joseph ', ' Nicolas Meier ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Montreux,Montreux-Jazz-Festival,2014-07-05,['Chris Rea '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Montreux,Montreux-Jazz-Festival,2014-07-05,['Everlast '],"['Jazz', 'Blues', 'Soul']"
+14,Wetzikon,Booze,2014-07-05,['Booze '],['Pop']
+15,Basel,Summer-Slaughter,2014-07-05,[' Casket '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,-Alte-Kirche,Boswil,2014-07-05,"[' Felix Froschhammer ', ' Nico Prinz ', ' Ivaylo Dimitrov ', ' Asami Uemura ', ' Tashko Tasheff ', ' Aar?n Zapico ', ' Daniel Zapico ', ' Pablo Zapico ']",['Classic']
+17,Montreux,Montreux-Jazz-Festival,2014-07-05,"['Tiken Jah Fakoly ', ' Selah Sue ']","['Hip', 'Hop', ""R'n'B""]"
+18,Basel,Arne-Huber-Quartet,2014-07-05,"[' Domenic Landolf ', ' Rainer B?hm ', ' Arne Huber ', ' Jochen R?ckert ']","['Jazz', 'Blues', 'Soul']"
+19,Uster,Lumbago,2014-07-05,"[' Daniel Gubelmann ', ' Andreas Grob ']","['Jazz', 'Blues', 'Soul']"
+20,Mendrisio,Estival-Jazz-Lugano,2014-07-05,"['Eric Burdon and the Animals ', ' Ibrahim Maalouf ', ' Toguna ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Basel,Salsa-latino-Party,2014-07-05,['DJ Salsa Latino Alfredo '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+22,Montreux,Montreux-Jazz-Festival,2014-07-05,[' Fat White Family '],"['Jazz', 'Blues', 'Soul']"
+23,Basel,Ustrinkete,2014-07-05,"['T?rs? ', ' The Boring ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

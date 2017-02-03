@@ -1,31 +1,31 @@
-location,event,date,artists,genre
-Baden,After-Work,2015-01-15,"[' Sandra Guerini ', ' Marcos Conçalves ', ' Willi Hauenstein ']",
-Zürich,Output-Festival-ZHdK,2015-01-15,"[' Tapiva Svosve ', ' Leandro Irarragorrigo ', ' Xaver Rüegg ']",
-Zürich,Hotclub-de-Zurich,2015-01-15,[' Andrea Panitz '],
-Pratteln,Sabaton,2015-01-15,['Sabaton '],
--Alte-Kirche,Boswil,2015-01-15,"['Ulrike Andersen ', ' Thomas Schibler ', ' Werner Bärtschi ', ' Daniel Fueter ']",Classic
-Luzern,Dem-Andenken-eines-Engels,2015-01-15,[' Isabelle Faust '],Classic
-Basel,Volkssinfoniekonzerte,2015-01-15,[' Anastasia Voltchok '],Classic
-Zürich,Orgelfest,2015-01-15,['Roman Perucki '],Classic
-Zürich,Ich-denke-dein,2015-01-15,"[' Lisa Larsson ', ' Rolf Martinsson ']",Classic
-Zürich,Thursday-Night-Jazz,2015-01-15,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Luzern,Electric-Force,2015-01-15,"['Ramon Landolt ', ' Thomas Tavano ', ' Florian Hoesl ']",Electronic
-Liebefeld,BeJazz-Winterfestival,2015-01-15,['Jibcae Quartet '],
-null,Ton-Steine-Scherben,2015-01-15,['Ton Steine Scherben '],
-Zürich,Che-Sudaka,2015-01-15,['Che Sudaka '],
-Zürich,Egli-Santana-Group,2015-01-15,"[' Florian Egli ', ' Gileno Santana ', ' Dave Gisler ', ' Raffaele Bossard ', ' Jonas Burgwinkel ']",
-Winterthur,Talkin'-Jazz,2015-01-15,"[' Adrian Frey ', ' Patrick Sommer ', ' Tony Renold ']",
-Aarau,Hermelin,2015-01-15,"[' Gry E. Knudsen ', ' Erich Fischer ', ' Thomas Blättler ']",
-Basel,The-Sabionari-Guitar-by-Antonio-Stradivari,2015-01-15,['Krishnasol Jiménez '],Classic
-Frick,Suisse-Diagonales-Jazz,2015-01-15,"[' Laurent Méteau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Philipp Schlotter ', ' Samuel Huwyler ', ' Jwan Steiner ']",
-null,Nana-Mouskouri,2015-01-15,['Nana Mouskouri '],
-Zürich,Mathis-Haug,2015-01-15,"[' Mathis Haug ', ' Stephan Notari ']",
-Basel,Christian-Niederer's-Plan,2015-01-15,"[' Björn Meyer ', ' Oliver Keller ', ' Christian Niederer ']",
-Luzern,Workshopkonzerte,2015-01-15,"[' Alessandra Murer ', ' Sebastian Pietrowiak ', ' Jonas Ruppen ', ' Simeon Schwab ', ' Steffen Peters ', ' Alexander Merz ']",
-Baden,Jazz-am-Donnerstag,2015-01-15,"[' Christoph Grab ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Vinz Glanzmann ']",
-null,King-Pepe-&-Le-Rex,2015-01-15,"[' King Pepe ', ' Benedikt Reising ', ' Marc Stucki ', ' Andreas Tschopp ', ' Marc Unternährer ', ' Rico Baumann ']",
-Baden,Ost-West-Inspirationen,2015-01-15,"[' Witek Kornacki ', ' Felix Huber ']",
-Bern,Nasty-Rumours,2015-01-15,[' Unholy Preachers '],
-Schaffhausen,Octaves,2015-01-15,"['Octaves ', ' Caravels ']",
-Basel,Trinity,2015-01-15,[' There Will Be Lions '],
-Zürich,Robert-Curgenven,2015-01-15,['Robert Curgenven '],
+,location,event,date,artists,genre
+0,Baden,After-Work,2015-01-15,"[' Sandra Guerini ', ' Marcos Con?alves ', ' Willi Hauenstein ']","['world', 'music']"
+1,Z?rich,Output-Festival-ZHdK,2015-01-15,"[' Tapiva Svosve ', ' Leandro Irarragorrigo ', ' Xaver R?egg ']","['Jazz', 'Blues', 'Soul']"
+2,Pratteln,Sabaton,2015-01-15,['Sabaton '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,Hotclub-de-Zurich,2015-01-15,[' Andrea Panitz '],"['Jazz', 'Blues', 'Soul']"
+4,Z?rich,Ich-denke-dein,2015-01-15,"[' Lisa Larsson ', ' Rolf Martinsson ']",['Classic']
+5,Z?rich,Orgelfest,2015-01-15,['Roman Perucki '],['Classic']
+6,Basel,Volkssinfoniekonzerte,2015-01-15,[' Anastasia Voltchok '],['Classic']
+7,Z?rich,Thursday-Night-Jazz,2015-01-15,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+8,Luzern,Dem-Andenken-eines-Engels,2015-01-15,[' Isabelle Faust '],['Classic']
+9,-Alte-Kirche,Boswil,2015-01-15,"['Ulrike Andersen ', ' Thomas Schibler ', ' Werner B?rtschi ', ' Daniel Fueter ']",['Classic']
+10,null,Ton-Steine-Scherben,2015-01-15,['Ton Steine Scherben '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,Egli-Santana-Group,2015-01-15,"[' Florian Egli ', ' Gileno Santana ', ' Dave Gisler ', ' Raffaele Bossard ', ' Jonas Burgwinkel ']","['Jazz', 'Blues', 'Soul']"
+12,Liebefeld,BeJazz-Winterfestival,2015-01-15,['Jibcae Quartet '],"['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Che-Sudaka,2015-01-15,['Che Sudaka '],"['Hip', 'Hop', ""R'n'B""]"
+14,Luzern,Electric-Force,2015-01-15,"['Ramon Landolt ', ' Thomas Tavano ', ' Florian Hoesl ']",['Electronic']
+15,Basel,The-Sabionari-Guitar-by-Antonio-Stradivari,2015-01-15,['Krishnasol Jim?nez '],['Classic']
+16,Winterthur,Talkin'-Jazz,2015-01-15,"[' Adrian Frey ', ' Patrick Sommer ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+17,Aarau,Hermelin,2015-01-15,"[' Gry E. Knudsen ', ' Erich Fischer ', ' Thomas Bl?ttler ']","['world', 'music']"
+18,null,Nana-Mouskouri,2015-01-15,['Nana Mouskouri '],"['world', 'music']"
+19,null,King-Pepe-&-Le-Rex,2015-01-15,"[' King Pepe ', ' Benedikt Reising ', ' Marc Stucki ', ' Andreas Tschopp ', ' Marc Untern?hrer ', ' Rico Baumann ']","['Jazz', 'Blues', 'Soul']"
+20,Basel,Christian-Niederer's-Plan,2015-01-15,"[' Bj?rn Meyer ', ' Oliver Keller ', ' Christian Niederer ']","['Jazz', 'Blues', 'Soul']"
+21,Z?rich,Mathis-Haug,2015-01-15,"[' Mathis Haug ', ' Stephan Notari ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Baden,Jazz-am-Donnerstag,2015-01-15,"[' Christoph Grab ', ' Christoph Baumann ', ' H?mi H?mmerli ', ' Vinz Glanzmann ']","['Jazz', 'Blues', 'Soul']"
+23,Baden,Ost-West-Inspirationen,2015-01-15,"[' Witek Kornacki ', ' Felix Huber ']","['world', 'music']"
+24,Luzern,Workshopkonzerte,2015-01-15,"[' Alessandra Murer ', ' Sebastian Pietrowiak ', ' Jonas Ruppen ', ' Simeon Schwab ', ' Steffen Peters ', ' Alexander Merz ']","['Jazz', 'Blues', 'Soul']"
+25,Frick,Suisse-Diagonales-Jazz,2015-01-15,"[' Laurent M?teau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Philipp Schlotter ', ' Samuel Huwyler ', ' Jwan Steiner ']","['Jazz', 'Blues', 'Soul']"
+26,Bern,Nasty-Rumours,2015-01-15,[' Unholy Preachers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Basel,Trinity,2015-01-15,[' There Will Be Lions '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Schaffhausen,Octaves,2015-01-15,"['Octaves ', ' Caravels ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Z?rich,Robert-Curgenven,2015-01-15,['Robert Curgenven '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

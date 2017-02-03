@@ -1,40 +1,37 @@
-location,event,date,artists,genre
-Basel,Fasnachtskonzert,2015-02-27,['Susanne Doll '],Classic
-Worblaufen,Ladyva,2015-02-27,"[' Ladyva ', ' Patricia ']",
-Liestal,Gabriel-Benedek,2015-02-27,['Gabriel Benedek '],Pop
-Zürich,Geistesklang,2015-02-27,['Improvisationskonzert mit Pater Theo Flury '],Classic
-Zürich,Internationales-Country-Music-Festival,2015-02-27,['Restless Heart '],
-Zürich,Peace,2015-02-27,['Peace '],
-Zürich,Öffentliches-Konzert-in-der-Mühlehalde,2015-02-27,"[' Ursula Fortin ', ' Dorottya Marosvari ']",Classic
-Dübendorf,Muzikaròmas,2015-02-27,"[' Cindy Oppliger ', ' Andrea Brunner ']",
-Bern,The-Subways,2015-02-27,['The Subways '],
-Zug,Corin-Curschellas-mit-Pflanzplätz-&-Andy-Gabriel,2015-02-27,"[' Corin Curschellas ', ' Andy Gabriel ', ' Thomas Aeschbacher ', ' Simon Dettwiler ', ' Jürg Nietlispach ']",
-Aarau,Comaniac,2015-02-27,['Comaniac '],
-Bern,Jazzwerkstatt,2015-02-27,[' Bach-Beethoven-Brahms '],
-Rheinfelden,Daniel-Bechet-Jazz-Quintet,2015-02-27,"['Daniel Bechet Jazz Quintet ', ' Daniel-Sidney Bechet ', ' Olivier Franc ', ' Jean-Baptiste Franc ', ' Gilles Chevaucherie ', ' Benoît de Flamesnil ']",
-Zürich,Stefano-Bollani,2015-02-27,['Stefano Bollani '],
-Winterthur,Allesandro-d'Episcopo-Trio,2015-02-27,"["" Allesandro d'Episcopo "", ' Hämi Hämmerli ', ' Elmar Frey ']",
-Baden,Liederabend,2015-02-27,"['Eva Nievergelt ', ' Christoph Brunner ', ' Regula Stibi ']",Pop
-Bülach,You-Don't-Know-Me,2015-02-27,"[' Francesca Tandoi ', ' Frits Landesbergen ', ' Frans van Geest ']",
-Zürich,Binder-Marwedel-Philipp-Schliemann,2015-02-27,"[' Claudia Ulla Binder ', ' Dirk Marwedel ', ' Ulrich Philipp ', ' Wolfgang Schliemann ']",
-Mels,Barrelhouse-Jazzband,2015-02-27,['Barrelhouse Jazzband '],
-Zürich,Hevia,2015-02-27,['Hevia '],
-Schaffhausen,Popa-Chubby,2015-02-27,['Popa Chubby '],
-null,Mad-Girl,2015-02-27,"[' Lander Gyselinck ', ' Corinne Huber ', ' Franziska Bruecker ', ' Annina Polivka ']",Pop
-Zürich,Raphael-Jost-&-Lots-of-Horns,2015-02-27,"[' Raphael Jost ', ' Raphael Walser ', ' Jonas Ruther ', ' Lukas Thöni ', ' Thierry Kuster ']",
-Zürich,HKB-Large-Ensemble,2015-02-27,"[' Lucas Niggli ', ' Jonathan Maag ', ' Marc Stucki ', ' Michael Gilsenan ', ' Linus Amstad ']",
-Zürich,New-Tango-Songbook,2015-02-27,['Marcela Arroyo & Julio Azcano '],
-Aarau,Annen-May-Kantereit,2015-02-27,['Annen May Kantereit '],
-Baden,Pezzo,2015-02-27,[' Peter Tantchev  '],Pop
-Romanshorn,Anne-Czichowsly-Quintett,2015-02-27,"[' Anne Czichowsy ', ' Thilo Wagner ', ' Martin Wiedmann ', ' Axel Kühn ', ' Matthias Daneck ']",
-Basel,Eric-Alexander-Bernd-Reiter-Quintet,2015-02-27,"[' Eric Alexander ', ' Helmut Kagerer ', ' Olivier Hutman ', ' Viktor Nyberg ', ' Bernd Reiter ']",
-Sankt-Gallen,Mirel-Wagner,2015-02-27,['Mirel Wagner '],
-Zürich,Kinky-Friedman,2015-02-27,['Kinky Friedman '],
-Zürich,Kinky-Friedman,2015-02-27,['Kinky Friedman '],
-Zug,Apparatschik,2015-02-27,['Apparatschik '],traditional
-Zürich,Froth,2015-02-27,['Froth '],
-Aarau,Dope-D.O.D,2015-02-27,['Dope D.O.D '],
-Aarau,Dope-D.O.D,2015-02-27,['Dope D.O.D '],
-Luzern,Sons-of-Morpheus,2015-02-27,['Sons of Morpheus '],
-Bern,Rockabilly-Night,2015-02-27,[' Low Ranger '],
-Zürich,Yo-soy-dominicano,2015-02-27,"['DJs Jimmy ', ' Banana ']",
+,location,event,date,artists,genre
+0,Basel,Fasnachtskonzert,2015-02-27,['Susanne Doll '],['Classic']
+1,Worblaufen,Ladyva,2015-02-27,"[' Ladyva ', ' Patricia ']","['Jazz', 'Blues', 'Soul']"
+2,Liestal,Gabriel-Benedek,2015-02-27,['Gabriel Benedek '],['Pop']
+3,Z?rich,Geistesklang,2015-02-27,['Improvisationskonzert mit Pater Theo Flury '],['Classic']
+4,Z?rich,Peace,2015-02-27,['Peace '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,Internationales-Country-Music-Festival,2015-02-27,['Restless Heart '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,D?bendorf,Muzikar?mas,2015-02-27,"[' Cindy Oppliger ', ' Andrea Brunner ']","['world', 'music']"
+7,Z?rich,?ffentliches-Konzert-in-der-M?hlehalde,2015-02-27,"[' Ursula Fortin ', ' Dorottya Marosvari ']",['Classic']
+8,Rheinfelden,Daniel-Bechet-Jazz-Quintet,2015-02-27,"['Daniel Bechet Jazz Quintet ', ' Daniel-Sidney Bechet ', ' Olivier Franc ', ' Jean-Baptiste Franc ', ' Gilles Chevaucherie ', ' Beno?t de Flamesnil ']","['Jazz', 'Blues', 'Soul']"
+9,Aarau,Comaniac,2015-02-27,['Comaniac '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Bern,Jazzwerkstatt,2015-02-27,[' Bach-Beethoven-Brahms '],"['Jazz', 'Blues', 'Soul']"
+11,Zug,Corin-Curschellas-mit-Pflanzpl?tz-&-Andy-Gabriel,2015-02-27,"[' Corin Curschellas ', ' Andy Gabriel ', ' Thomas Aeschbacher ', ' Simon Dettwiler ', ' J?rg Nietlispach ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Z?rich,Stefano-Bollani,2015-02-27,['Stefano Bollani '],"['Jazz', 'Blues', 'Soul']"
+13,Bern,The-Subways,2015-02-27,['The Subways '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Z?rich,Binder-Marwedel-Philipp-Schliemann,2015-02-27,"[' Claudia Ulla Binder ', ' Dirk Marwedel ', ' Ulrich Philipp ', ' Wolfgang Schliemann ']","['Jazz', 'Blues', 'Soul']"
+15,Mels,Barrelhouse-Jazzband,2015-02-27,['Barrelhouse Jazzband '],"['Jazz', 'Blues', 'Soul']"
+16,B?lach,You-Don't-Know-Me,2015-02-27,"[' Francesca Tandoi ', ' Frits Landesbergen ', ' Frans van Geest ']","['Jazz', 'Blues', 'Soul']"
+17,Baden,Liederabend,2015-02-27,"['Eva Nievergelt ', ' Christoph Brunner ', ' Regula Stibi ']",['Pop']
+18,Winterthur,Allesandro-d'Episcopo-Trio,2015-02-27,"["" Allesandro d'Episcopo "", ' H?mi H?mmerli ', ' Elmar Frey ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,HKB-Large-Ensemble,2015-02-27,"[' Lucas Niggli ', ' Jonathan Maag ', ' Marc Stucki ', ' Michael Gilsenan ', ' Linus Amstad ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Hevia,2015-02-27,['Hevia '],"['world', 'music']"
+21,null,Mad-Girl,2015-02-27,"[' Lander Gyselinck ', ' Corinne Huber ', ' Franziska Bruecker ', ' Annina Polivka ']",['Pop']
+22,Baden,Pezzo,2015-02-27,[' Peter Tantchev  '],['Pop']
+23,Z?rich,New-Tango-Songbook,2015-02-27,[' Julio Azcano '],"['world', 'music']"
+24,Schaffhausen,Popa-Chubby,2015-02-27,['Popa Chubby '],"['Jazz', 'Blues', 'Soul']"
+25,Z?rich,Raphael-Jost-&-Lots-of-Horns,2015-02-27,"[' Raphael Jost ', ' Raphael Walser ', ' Jonas Ruther ', ' Lukas Th?ni ', ' Thierry Kuster ']","['Jazz', 'Blues', 'Soul']"
+26,Aarau,Annen-May-Kantereit,2015-02-27,['Annen May Kantereit '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Romanshorn,Anne-Czichowsly-Quintett,2015-02-27,"[' Anne Czichowsy ', ' Thilo Wagner ', ' Martin Wiedmann ', ' Axel K?hn ', ' Matthias Daneck ']","['Jazz', 'Blues', 'Soul']"
+28,Sankt-Gallen,Mirel-Wagner,2015-02-27,['Mirel Wagner '],"['Jazz', 'Blues', 'Soul']"
+29,null,Nachtzug-Quintetto-dei-personaggi,2015-02-27,"['Ivan Galluzzi ', ' Davide J?ger ', ' Enrico Cerpelloni ', ' David Maze ', ' Attilio Tomasello ']",['Classic']
+30,Z?rich,Froth,2015-02-27,['Froth '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Zug,Apparatschik,2015-02-27,['Apparatschik '],['traditional']
+32,Z?rich,Kinky-Friedman,2015-02-27,['Kinky Friedman '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Luzern,Sons-of-Morpheus,2015-02-27,['Sons of Morpheus '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Bern,Rockabilly-Night,2015-02-27,[' Low Ranger '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Z?rich,Yo-soy-dominicano,2015-02-27,"['DJs Jimmy ', ' Banana ']","['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

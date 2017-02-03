@@ -1,30 +1,29 @@
-location,event,date,artists,genre
-Basel,Bachelorkonzert,2014-01-22,[' F. Asena Aktop '],Classic
-Basel,Mittagskonzert,2014-01-22,"['Jelina Deuter ', ' Cory Knight ', ' Elina Albach ']",Classic
-Luzern,Piano-Entertainment,2014-01-22,['Mark Tenger '],
-Zürich,Mozart-plus,2014-01-22,[' Stephanie Pfeffer '],Classic
-Zürich,Persistence-Tour,2014-01-22,"['Suicidal Tendencies ', ' Terror ', ' Evergreen Terrace ', ' Strife ', ' Ramallah ']",
-Solothurn,Suicidal-Tendencies,2014-01-22,"['Suicidal Tendencies ', ' Terror ', ' Evergreen Terrace ', ' Strife ']",
-Basel,Sportfreunde-Stiller,2014-01-22,['Sportfreunde Stiller '],
-Basel,Jubeln-sollt-ihr,2014-01-22,[' Fabio Bidini '],Classic
-Bern,Meisterzyklus,2014-01-22,"['Sol Gabetta ', ' Bertrand Chamayou ']",Classic
-Zürich,Sonaten-Abend,2014-01-22,"[' Heidi-Maria Makkonen ', ' Anna Kuvaja ']",Classic
-Z7,Pratteln,2014-01-22,['Iced Earth '],
-Olten,Konzert,2014-01-22,[' Gérard Wyss '],Classic
-Winterthur,Der-Dirigent-als-Komponist,2014-01-22,[' Albrecht Mayer '],Classic
-Aarau,Tesseract,2014-01-22,"['Tesseract ', ' Protest The Hero ', ' The Safety Fire ', ' Intervals ']",
-Zürich,Klassik-pur-im-Prime-Tower,2014-01-22,"['Deborah Marchetti ', ' Edmauro de Oliveira ']",Classic
-Luzern,Jam-Night,2014-01-22,"['Denise Huser ', ' Christian Winiker ', ' Mike Maloth ', ' Thomas Tavano ']",
-Lausanne,Jessica-Pratt,2014-01-22,['Jessica Pratt '],Pop
-Aarau,Am-Bruch-zur-Moderne-Schweizer-Komponisten,2014-01-22,"['Sybille Diethelm ', ' Valentin Johannes Gloor ', ' Edward Rushton ']",Classic
-null,Oak-&-Cayoux,2014-01-22,['Oak & Cayoux '],
-Winterthur,Jazz-am-Mittwoch,2014-01-22,"[' Marc Copland ', ' Daniel Schläppi ']",
-Zürich,Cats-On-Trees,2014-01-22,"['Cats On Trees ', ' Nina Goern ', ' Yohann Hennequin ']",Pop
-Zürich,Baudelaire-Prisma-ein-multimediales-Porträt,2014-01-22,"['Laura Pohl ', ' Samuel Edvardsson Wigervall ']",Classic
-Zürich,Kensington,2014-01-22,['Kensington '],
-Winterthur,Bernard-Allison-Group,2014-01-22,['Bernard Allison Group '],
-Rubigen,Fanfare-Ciocarlia,2014-01-22,['Fanfare Ciocarlia '],
-Luzern,Rue-Royale,2014-01-22,['Rue Royale '],Pop
-Lausanne,Kensington,2014-01-22,['Kensington '],
-Basel,Get-Heavy-Mental,2014-01-22,['Desmadrados Soldados De Ventura '],
-Zürich,DAVV,2014-01-22,['DAVV '],
+,location,event,date,artists,genre
+0,Basel,Bachelorkonzert,2014-01-22,[' F. Asena Aktop '],['Classic']
+1,Basel,Mittagskonzert,2014-01-22,"['Jelina Deuter ', ' Cory Knight ', ' Elina Albach ']",['Classic']
+2,Z?rich,Persistence-Tour,2014-01-22,"['Suicidal Tendencies ', ' Terror ', ' Evergreen Terrace ', ' Strife ', ' Ramallah ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Solothurn,Suicidal-Tendencies,2014-01-22,"['Suicidal Tendencies ', ' Terror ', ' Evergreen Terrace ', ' Strife ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,Mozart-plus,2014-01-22,[' Stephanie Pfeffer '],['Classic']
+5,Basel,Sportfreunde-Stiller,2014-01-22,['Sportfreunde Stiller '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z7,Pratteln,2014-01-22,['Iced Earth '],"['Iced', 'Earth']"
+7,Winterthur,Der-Dirigent-als-Komponist,2014-01-22,[' Albrecht Mayer '],['Classic']
+8,Aarau,Tesseract,2014-01-22,"['Tesseract ', ' Protest The Hero ', ' The Safety Fire ', ' Intervals ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Bern,Meisterzyklus,2014-01-22,"['Sol Gabetta ', ' Bertrand Chamayou ']",['Classic']
+10,Basel,Jubeln-sollt-ihr,2014-01-22,[' Fabio Bidini '],['Classic']
+11,Z?rich,Sonaten-Abend,2014-01-22,"[' Heidi-Maria Makkonen ', ' Anna Kuvaja ']",['Classic']
+12,Olten,Konzert,2014-01-22,[' G?rard Wyss '],['Classic']
+13,Aarau,Am-Bruch-zur-Moderne-Schweizer-Komponisten,2014-01-22,"['Sybille Diethelm ', ' Valentin Johannes Gloor ', ' Edward Rushton ']",['Classic']
+14,Luzern,Jam-Night,2014-01-22,"['Denise Huser ', ' Christian Winiker ', ' Mike Maloth ', ' Thomas Tavano ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Lausanne,Jessica-Pratt,2014-01-22,['Jessica Pratt '],['Pop']
+16,Z?rich,Klassik-pur-im-Prime-Tower,2014-01-22,"['Deborah Marchetti ', ' Edmauro de Oliveira ']",['Classic']
+17,null,Oak-&-Cayoux,2014-01-22,[' Cayoux '],"['Jazz', 'Blues', 'Soul']"
+18,Winterthur,Jazz-am-Mittwoch,2014-01-22,"[' Marc Copland ', ' Daniel Schl?ppi ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Cats-On-Trees,2014-01-22,"['Cats On Trees ', ' Nina Goern ', ' Yohann Hennequin ']",['Pop']
+20,Z?rich,Kensington,2014-01-22,['Kensington '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Winterthur,Bernard-Allison-Group,2014-01-22,['Bernard Allison Group '],"['Jazz', 'Blues', 'Soul']"
+22,Z?rich,Baudelaire-Prisma-ein-multimediales-Portr?t,2014-01-22,"['Laura Pohl ', ' Samuel Edvardsson Wigervall ']",['Classic']
+23,Rubigen,Fanfare-Ciocarlia,2014-01-22,['Fanfare Ciocarlia '],"['Hip', 'Hop', ""R'n'B""]"
+24,Luzern,Rue-Royale,2014-01-22,['Rue Royale '],['Pop']
+25,Lausanne,Kensington,2014-01-22,['Kensington '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Basel,Get-Heavy-Mental,2014-01-22,['Desmadrados Soldados De Ventura '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Z?rich,DAVV,2014-01-22,['DAVV '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

@@ -1,47 +1,48 @@
-location,event,date,artists,genre
-Zürich,Luck-and-Work-l-lll,2014-11-30,"['Monika Brustmann ', ' Jeannine Hirzel ', ' Rea Claudia Kost ', ' Eva Nievergelt ', ' Valentin Johannes Gloor ']",Pop
-Zürich,Werner-und-Company,2014-11-30,['Werner und Company '],Pop
-Zürich,Das-erste-Mal,2014-11-30,[' Lawrence Power '],Classic
-Zürich,Kammermusik-Matinee,2014-11-30,"['Simon Fuchs ', ' Kaspar Zimmermann ', ' Michael Reid ', ' Florian Walser ']",Classic
-Thun,Thun-750-Jahre,2014-11-30,"['Alexandre Dubach ', ' Andreas Graf ']",Classic
-Weggis,1.-Advent,2014-11-30,['Frank Tender '],
-Luzern,Lucerne-Festival-am-Piano,2014-11-30,['Chris Hopkins '],
-Walkringen,Galeriekonzert-Schwanengesang,2014-11-30,"['Ludwig Geiger ', ' Jürg Bitterli ']",Classic
-Zürich,Werner-und-Company,2014-11-30,['Werner und Company '],Pop
-Zürich,Unerhört,2014-11-30,['Luciano Biondini '],
-Baden,Die-Geburt-Christi-Weihnachtsoratorium,2014-11-30,"[' Barbara Böhi ', ' Sara Maurer ', ' Felix Rienth ']",Classic
-Zürich,Freundschaft-Liebe-Tod,2014-11-30,"[' Sophie Klussmann ', ' Jan Thomer ', ' James Elliott ', ' Detlef Roth ', ' Tobias Schabel ']",Classic
-Rafz,Sopran-und-Hammerflügel,2014-11-30,"['Daniela Eaton ', ' Urs Schweizer ']",Classic
-Rapperswil,Musik-im-Schloss-II,2014-11-30,"[' Jan Vogler ', ' conductor: Robin Peter Müller ']",Classic
-Zürich,Luck-and-Work-lV-Vl,2014-11-30,"['Monika Brustmann ', ' Jeannine Hirzel ', ' Rea Claudia Kost ', ' Eva Nievergelt ', ' Niklaus Kost ']",Pop
--Eglise-du-Pasquart,null,2014-11-30,[' Thilo Muster '],Classic
-Zürich,Adventskonzert,2014-11-30,"[' Martin Eigenmann ', ' Winston Blue ', ' Mike Isenegger ', ' Manuel Müller ']",
-Winterthur,Fugerit-invida-aetas,2014-11-30,"[' Anna-Katharina Graf ', ' Donna Molinari ', ' Martin Flüge ']",Classic
-Aarburg,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2014-11-30,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes Bärtschi ']",Classic
-Bern,Konzert,2014-11-30,[' Malwina Sosnowski '],Classic
-Basel,Adventskonzert,2014-11-30,"[' Anita Spiess ', ' Michael Herrmann ', ' Yannik Richert ']",Classic
-Zürich,Konzert,2014-11-30,[' Laurent Tinguely '],Classic
-Winterthur,Magnificat,2014-11-30,"['Andrea Brunner ', ' Alexandra Radici ', ' Lorenz Küchler ', ' Magdalena Dür ', ' Lisa Appenzeller ', ' Yves Brühwiler ']",Classic
-Meggen,Panflötenkonzert-Weihnachts-Melodien-aus-aller-Welt,2014-11-30,"['Dominic Domide ', ' Ariel Rossi ']",traditional
-Luzern,Lucerne-Festival-am-Piano,2014-11-30,['Aaraon Goldberg '],
-Kappel-am-Albis,Musik-und-Wort,2014-11-30,"[' Maki Wiederkehr ', ' Daniel Meller ', ' Flurin Cuonz ']",Classic
-Luzern,Lucerne-Festival-am-Piano,2014-11-30,['Bernd Lhotzky '],
-Mühlethurnen,Jan-Hirte's-Blues-Explosion,2014-11-30,"[""Jan Hirte's Blues Explosion ""]",
-null,The-Shivas,2014-11-30,['The Shivas '],
-Zollikon,Adventskonzert,2014-11-30,"[' Annette Labusch ', ' Daniel Bentz ', ' Sascha Litschi ']",Classic
-Zürich,Gelibte-majn-Lieder-in-Jiddisch,2014-11-30,"[' Dela Hüttner ', ' Karin Meier ', ' Jürg Luchsinger ', ' Stefanie Kunckler ']",
-Luzern,Lucerne-Festival-am-Piano,2014-11-30,['Ehud Asherie '],
-Luzern,Lucerne-Festival-am-Piano,2014-11-30,['Marc-André Hamelin '],Classic
-Luzern,Lucerne-Festival-am-Piano,2014-11-30,['Chris Hopkins '],
-Zürich,Unerhört,2014-11-30,"[' Christoph Irniger ', ' Stefan Aeby ', ' Dave Gisler ', ' Raphaele Bossard ', ' Michi Stulz ', ' Steve Coleman ']",
-Zürich,Patrick-Wolf,2014-11-30,['Patrick Wolf '],
-Rorbas-Freienstein,Hudaki-Village,2014-11-30,['Hudaki Village '],
-null,Ricchi-e-Poveri,2014-11-30,['Ricchi e Poveri '],
-Zürich,The-Hillbilly-Moon-Explosion,2014-11-30,[' support: Dollar Bill '],
-Zürich,A-Night-at-the-Opera,2014-11-30,[' Catriona Bühler '],Classic
-Bern,Utopie-der-Baustelle-Die-Halle,2014-11-30,"['Balts Nill ', ' Katharina Weber ']",
-Bern,Utopie-der-Baustelle-Die-Halle,2014-11-30,"['Balts Nill ', ' Katharina Weber ']",
-Zürich,Joey-Badass,2014-11-30,"['Joey Badass ', ' Waldo ']",
-Aarburg,The-Animals-&-Friends,2014-11-30,['The Animals & Friends '],
-Zug,Eskorzo,2014-11-30,['Eskorzo '],
-null,Salsa-Sunday,2014-11-30,[' Alexander Cachaca '],
+,location,event,date,artists,genre
+0,Z?rich,Luck-and-Work-l-lll,2014-11-30,"['Monika Brustmann ', ' Jeannine Hirzel ', ' Rea Claudia Kost ', ' Eva Nievergelt ', ' Valentin Johannes Gloor ']",['Pop']
+1,Z?rich,Werner-und-Company,2014-11-30,['Werner und Company '],['Pop']
+2,Z?rich,Das-erste-Mal,2014-11-30,[' Lawrence Power '],['Classic']
+3,Z?rich,Kammermusik-Matinee,2014-11-30,"['Simon Fuchs ', ' Kaspar Zimmermann ', ' Michael Reid ', ' Florian Walser ']",['Classic']
+4,Thun,Thun-750-Jahre,2014-11-30,"['Alexandre Dubach ', ' Andreas Graf ']",['Classic']
+5,Weggis,1.-Advent,2014-11-30,['Frank Tender '],"['world', 'music']"
+6,Luzern,Lucerne-Festival-am-Piano,2014-11-30,['Chris Hopkins '],"['Jazz', 'Blues', 'Soul']"
+7,Walkringen,Galeriekonzert-Schwanengesang,2014-11-30,"['Ludwig Geiger ', ' J?rg Bitterli ']",['Classic']
+8,Z?rich,Werner-und-Company,2014-11-30,['Werner und Company '],['Pop']
+9,Baden,Die-Geburt-Christi-Weihnachtsoratorium,2014-11-30,"[' Barbara B?hi ', ' Sara Maurer ', ' Felix Rienth ']",['Classic']
+10,Z?rich,Unerh?rt,2014-11-30,['Luciano Biondini '],"['Jazz', 'Blues', 'Soul']"
+11,Basel,Adventskonzert,2014-11-30,"[' Anita Spiess ', ' Michael Herrmann ', ' Yannik Richert ']",['Classic']
+12,Z?rich,Konzert,2014-11-30,[' Laurent Tinguely '],['Classic']
+13,Winterthur,Magnificat,2014-11-30,"['Andrea Brunner ', ' Alexandra Radici ', ' Lorenz K?chler ', ' Magdalena D?r ', ' Lisa Appenzeller ', ' Yves Br?hwiler ']",['Classic']
+14,null,Adventssingen,2014-11-30,"['Ernst Buscagne ', ' Raphael Jost ']",['Classic']
+15,Z?rich,Luck-and-Work-lV-Vl,2014-11-30,"['Monika Brustmann ', ' Jeannine Hirzel ', ' Rea Claudia Kost ', ' Eva Nievergelt ', ' Niklaus Kost ']",['Pop']
+16,Z?rich,Freundschaft-Liebe-Tod,2014-11-30,"[' Sophie Klussmann ', ' Jan Thomer ', ' James Elliott ', ' Detlef Roth ', ' Tobias Schabel ']",['Classic']
+17,Rafz,Sopran-und-Hammerfl?gel,2014-11-30,"['Daniela Eaton ', ' Urs Schweizer ']",['Classic']
+18,Rapperswil,Musik-im-Schloss-II,2014-11-30,"[' Jan Vogler ', ' conductor: Robin Peter M?ller ']",['Classic']
+19,Luzern,Lucerne-Festival-am-Piano,2014-11-30,['Aaraon Goldberg '],"['Jazz', 'Blues', 'Soul']"
+20,-Eglise-du-Pasquart,null,2014-11-30,[' Thilo Muster '],['Classic']
+21,Winterthur,Fugerit-invida-aetas,2014-11-30,"[' Anna-Katharina Graf ', ' Donna Molinari ', ' Martin Fl?ge ']",['Classic']
+22,Aarburg,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2014-11-30,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes B?rtschi ']",['Classic']
+23,Bern,Konzert,2014-11-30,[' Malwina Sosnowski '],['Classic']
+24,Meggen,Panfl?tenkonzert-Weihnachts-Melodien-aus-aller-Welt,2014-11-30,"['Dominic Domide ', ' Ariel Rossi ']",['traditional']
+25,Z?rich,Adventskonzert,2014-11-30,"[' Martin Eigenmann ', ' Winston Blue ', ' Mike Isenegger ', ' Manuel M?ller ']","['world', 'music']"
+26,Kappel-am-Albis,Musik-und-Wort,2014-11-30,"[' Maki Wiederkehr ', ' Daniel Meller ', ' Flurin Cuonz ']",['Classic']
+27,Luzern,Lucerne-Festival-am-Piano,2014-11-30,['Bernd Lhotzky '],"['Jazz', 'Blues', 'Soul']"
+28,M?hlethurnen,Jan-Hirte's-Blues-Explosion,2014-11-30,"[""Jan Hirte's Blues Explosion ""]","['Jazz', 'Blues', 'Soul']"
+29,Luzern,Lucerne-Festival-am-Piano,2014-11-30,['Ehud Asherie '],"['Jazz', 'Blues', 'Soul']"
+30,null,The-Shivas,2014-11-30,['The Shivas '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Zollikon,Adventskonzert,2014-11-30,"[' Annette Labusch ', ' Daniel Bentz ', ' Sascha Litschi ']",['Classic']
+32,Z?rich,Gelibte-majn-Lieder-in-Jiddisch,2014-11-30,"[' Dela H?ttner ', ' Karin Meier ', ' J?rg Luchsinger ', ' Stefanie Kunckler ']","['Jazz', 'Blues', 'Soul']"
+33,Luzern,Lucerne-Festival-am-Piano,2014-11-30,['Chris Hopkins '],"['Jazz', 'Blues', 'Soul']"
+34,Luzern,Lucerne-Festival-am-Piano,2014-11-30,['Marc-Andr? Hamelin '],['Classic']
+35,Rorbas-Freienstein,Hudaki-Village,2014-11-30,['Hudaki Village '],"['world', 'music']"
+36,Z?rich,Patrick-Wolf,2014-11-30,['Patrick Wolf '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,null,Ricchi-e-Poveri,2014-11-30,['Ricchi e Poveri '],"['world', 'music']"
+38,Z?rich,Unerh?rt,2014-11-30,"[' Christoph Irniger ', ' Stefan Aeby ', ' Dave Gisler ', ' Raphaele Bossard ', ' Michi Stulz ', ' Steve Coleman ']","['Jazz', 'Blues', 'Soul']"
+39,Z?rich,The-Hillbilly-Moon-Explosion,2014-11-30,[' support: Dollar Bill '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+40,Z?rich,A-Night-at-the-Opera,2014-11-30,[' Catriona B?hler '],['Classic']
+41,Z?rich,Joey-Badass,2014-11-30,"['Joey Badass ', ' Waldo ']","['Hip', 'Hop', ""R'n'B""]"
+42,Z?rich,Reinhold-Beckmann-&-Band,2014-11-30,[' Band '],['Pop']
+43,Aarburg,The-Animals-&-Friends,2014-11-30,[' Friends '],"['Jazz', 'Blues', 'Soul']"
+44,Bern,Utopie-der-Baustelle-Die-Halle,2014-11-30,"['Balts Nill ', ' Katharina Weber ']","['Jazz', 'Blues', 'Soul']"
+45,Zug,Eskorzo,2014-11-30,['Eskorzo '],"['world', 'music']"
+46,null,Salsa-Sunday,2014-11-30,[' Alexander Cachaca '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

@@ -1,21 +1,21 @@
-location,event,date,artists,genre
-Zürich,Brazilian-Latin-Jazz-Fourtet,2014-10-21,"[' Leonardo Govin ', ' Gregor Müller ', ' Pius Baschnagel ', ' Dudu Penz ']",
-Winterthur,Saint-Vitus,2014-10-21,"['Saint Vitus ', ' Orange Goblin ', ' Scott Weinrich ', ' Dave Chandler ', ' Mark Adams ', ' Henry Vasquez ']",
-Zürich,ZKO-Meisterzyklus,2014-10-21,['Igor Levit '],Classic
-Basel,Kammermusik-Basel,2014-10-21,['Jack Quartet '],Classic
-Basel,Ensemble-ö!-Flug,2014-10-21,"[' Riccarda Caflisch ', ' David Sontòn Caflisch ', '  Genevieve Camenisch ']",Classic
-Zürich,Emiliana-Torrini,2014-10-21,['Emiliana Torrini '],Pop
-Basel,Kammerorchester,2014-10-21,[' Thomas Demenga '],Classic
-Zug,Seat-Music-Session,2014-10-21,"['Marc Broussard ', ' Saint Lu ', ' Cleo Higgins ']",Pop
-Zürich,Gilberto-Gil,2014-10-21,['Gilberto Gil '],
-Zürich,Helene-Fischer,2014-10-21,['Helene Fischer '],traditional
-Zürich,Chloe-Charles,2014-10-21,['Chloe Charles '],
-Zürich,Smooth-Attack,2014-10-21,"[' Sarignia Bonfà ', ' Martin Akeret ', ' Dionys Jäger ']",Pop
-Zürich,George-Robert-All-Star-Quartet,2014-10-21,"[' George Robert ', ' Dado Moroni ', ' Peter Washington ', ' Jeff Hamilton ']",
-Zürich,Chloe-Charles,2014-10-21,['Chloe Charles '],
-Zürich,Will-Calhoun-Quartet,2014-10-21,"['Will Calhoun Quartet ', ' Will Calhoun ', ' Orrin Evans ', ' Jowee Curtis Omicil ', ' Luques Curtis ']",Pop
-Basel,Luka-Bloom,2014-10-21,['Luka Bloom '],Pop
-Basel,Waynes-World,2014-10-21,"[' Matthias Spillman ', ' Domenic Landolf ', ' Pablo Held ', ' Stephan Kurmann ', ' Jorge Rossy ']",
-null,Kadavar,2014-10-21,"['Kadavar ', ' The Picturebooks ']",
-Düdingen,Strand-of-Oaks,2014-10-21,['Strand of Oaks '],
-Schaffhausen,The-Long-Summer,2014-10-21,"['Bonehouse ', ' Crows an Wra ']",
+,location,event,date,artists,genre
+0,Z?rich,Brazilian-Latin-Jazz-Fourtet,2014-10-21,"[' Leonardo Govin ', ' Gregor M?ller ', ' Pius Baschnagel ', ' Dudu Penz ']","['Jazz', 'Blues', 'Soul']"
+1,Winterthur,Saint-Vitus,2014-10-21,"['Saint Vitus ', ' Orange Goblin ', ' Scott Weinrich ', ' Dave Chandler ', ' Mark Adams ', ' Henry Vasquez ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Z?rich,ZKO-Meisterzyklus,2014-10-21,['Igor Levit '],['Classic']
+3,Basel,Ensemble-?!-Flug,2014-10-21,"[' Riccarda Caflisch ', ' David Sont?n Caflisch ', '  Genevieve Camenisch ']",['Classic']
+4,Z?rich,Emiliana-Torrini,2014-10-21,['Emiliana Torrini '],['Pop']
+5,Basel,Kammermusik-Basel,2014-10-21,['Jack Quartet '],['Classic']
+6,Basel,Kammerorchester,2014-10-21,[' Thomas Demenga '],['Classic']
+7,Z?rich,George-Robert-All-Star-Quartet,2014-10-21,"[' George Robert ', ' Dado Moroni ', ' Peter Washington ', ' Jeff Hamilton ']","['Jazz', 'Blues', 'Soul']"
+8,Z?rich,Smooth-Attack,2014-10-21,"[' Sarignia Bonf? ', ' Martin Akeret ', ' Dionys J?ger ']",['Pop']
+9,Z?rich,Chloe-Charles,2014-10-21,['Chloe Charles '],"['Hip', 'Hop', ""R'n'B""]"
+10,Z?rich,Helene-Fischer,2014-10-21,['Helene Fischer '],['traditional']
+11,Zug,Seat-Music-Session,2014-10-21,"['Marc Broussard ', ' Saint Lu ', ' Cleo Higgins ']",['Pop']
+12,Z?rich,Gilberto-Gil,2014-10-21,['Gilberto Gil '],"['world', 'music']"
+13,Z?rich,Chloe-Charles,2014-10-21,['Chloe Charles '],"['Hip', 'Hop', ""R'n'B""]"
+14,Basel,Luka-Bloom,2014-10-21,['Luka Bloom '],['Pop']
+15,Z?rich,Will-Calhoun-Quartet,2014-10-21,"['Will Calhoun Quartet ', ' Will Calhoun ', ' Orrin Evans ', ' Jowee Curtis Omicil ', ' Luques Curtis ']",['Pop']
+16,null,Kadavar,2014-10-21,"['Kadavar ', ' The Picturebooks ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Basel,Waynes-World,2014-10-21,"[' Matthias Spillman ', ' Domenic Landolf ', ' Pablo Held ', ' Stephan Kurmann ', ' Jorge Rossy ']","['Jazz', 'Blues', 'Soul']"
+18,D?dingen,Strand-of-Oaks,2014-10-21,['Strand of Oaks '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Schaffhausen,The-Long-Summer,2014-10-21,"['Bonehouse ', ' Crows an Wra ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

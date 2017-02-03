@@ -1,15 +1,15 @@
-location,event,date,artists,genre
-Zürich,Terry-Lee-Hale,2014-01-20,['Terry Lee Hale '],Pop
-Zürich,White-Nights-Evening-Recital,2014-01-20,"['Malin Christensson ', ' Simon Lepper ']",Classic
-Basel,Masterrezital,2014-01-20,[' Lucie Cornemillot '],Classic
-Bern,Doppelkonzert,2014-01-20,['Cayoux '],
-Zürich,Kodaline,2014-01-20,['Kodaline '],
-Bern,Groove-Night,2014-01-20,"[' Antonio Schiavano ', ' Rico Baumann ', ' \r\nRoland Wäger ']",
-Basel,Dialog,2014-01-20,['Ernesto Molinari '],Classic
-Zürich,Old-School-Piano-Blues,2014-01-20,['Andy Boller '],
-Baden,Andreas-Schaerer-&-Arte-Quartett-&-Wolfgang-Zwiauer,2014-01-20,"[' Andreas Schaerer ', ' Wolfgang Zwiauer ', ' Beat Hofstetter ', ' Sacha Armbruster ', ' Andrea Formenti ', ' Beat Kappeler ']",
-Zürich,Contrastnacht,2014-01-20,"[' Christoph Irniger ', ' Don Philippe ']",
-Basel,Jam-Session,2014-01-20,"[' Ben Zahler ', ' Annika Francke ', ' Markus Schmied ', ' Pau Lligadas ', ' Florian Krause ']",
-Ascona,Lady-In-Satin,2014-01-20,"[' Tricia Evy ', ' Nicolas Montier ', ' David Fackeure ', ' Thierry Fanfant ', ' Francis Arnaud ']",
-Zürich,Nik-Bärtsch's-Ronin,2014-01-20,"[' Kasper Rast ', ' Thomy Jordi ', ' Sha ', ' Bernhard Wagner ']",
-Zürich,Contrastnacht,2014-01-20,"['ADHD ', ' Oskar Gudjonsson ', ' Omar Gudjonsson ', ' David Thor Jonsson ', ' Magnus Eliassen ']",Pop
+,location,event,date,artists,genre
+0,Z?rich,Terry-Lee-Hale,2014-01-20,['Terry Lee Hale '],['Pop']
+1,Basel,Masterrezital,2014-01-20,[' Lucie Cornemillot '],['Classic']
+2,Z?rich,White-Nights-Evening-Recital,2014-01-20,"['Malin Christensson ', ' Simon Lepper ']",['Classic']
+3,Bern,Groove-Night,2014-01-20,"[' Antonio Schiavano ', ' Rico Baumann ', ' \r\nRoland W?ger ']","['Jazz', 'Blues', 'Soul']"
+4,Basel,Dialog,2014-01-20,['Ernesto Molinari '],['Classic']
+5,Bern,Doppelkonzert,2014-01-20,[' Oak '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Kodaline,2014-01-20,['Kodaline '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Old-School-Piano-Blues,2014-01-20,['Andy Boller '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Baden,Andreas-Schaerer-&-Arte-Quartett-&-Wolfgang-Zwiauer,2014-01-20,"[' Andreas Schaerer ', ' Wolfgang Zwiauer ', ' Beat Hofstetter ', ' Sacha Armbruster ', ' Andrea Formenti ', ' Beat Kappeler ']","['Jazz', 'Blues', 'Soul']"
+9,Ascona,Lady-In-Satin,2014-01-20,"[' Tricia Evy ', ' Nicolas Montier ', ' David Fackeure ', ' Thierry Fanfant ', ' Francis Arnaud ']","['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Contrastnacht,2014-01-20,"[' Christoph Irniger ', ' Don Philippe ']","['Jazz', 'Blues', 'Soul']"
+11,Basel,Jam-Session,2014-01-20,"[' Ben Zahler ', ' Annika Francke ', ' Markus Schmied ', ' Pau Lligadas ', ' Florian Krause ']","['Jazz', 'Blues', 'Soul']"
+12,Z?rich,Nik-B?rtsch's-Ronin,2014-01-20,"[' Kasper Rast ', ' Thomy Jordi ', ' Sha ', ' Bernhard Wagner ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Contrastnacht,2014-01-20,"['ADHD ', ' Oskar Gudjonsson ', ' Omar Gudjonsson ', ' David Thor Jonsson ', ' Magnus Eliassen ']",['Pop']

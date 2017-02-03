@@ -1,23 +1,22 @@
-location,event,date,artists,genre
-Basel,Clair-de-lune,2015-03-04,['Yulia Draginda '],Classic
-Zürich,Stefis-Geheimnis,2015-03-04,"['Noëlle Grüebler ', ' Andrea Wiesli ']",Classic
-Zürich,Dechen-Shak-Dagsay-&-Ensemble,2015-03-04,['Dechen Shak-Dagsay & Ensemble '],
-Zürich,Geistliche-und-folkloristische-Chormusik,2015-03-04,['Vokalensemble Voskresenje St. Petersburg '],Classic
-Zürich,En-blanc-et-noir,2015-03-04,"[' Jens Bracher ', ' Stephen Menotti ', ' José Navarro ', ' Martin Birnstiel ', ' Victor Barceló ', ' Jannik Giger ']",Classic
-Zürich,Internationales-Country-Music-Festival,2015-03-04,['High South '],
-Zug,Keynote-Jazz,2015-03-04,"[' Fabienne Ambühl ', ' Vincent Glanzmann ', ' Yuri Goloubev ']",
-Zürich,Lilabungalow,2015-03-04,"['Lilabungalow ', ' René Kolditz ', ' David Bönsch ']",Pop
-Winterthur,Brns,2015-03-04,['Brns '],Pop
-Zürich,Asa,2015-03-04,['Asa '],Pop
-Zürich,Jazzbaragge-Wednesday-Jam,2015-03-04,"['Cesar Correa ', ' Rodrigo Aravena ', ' David Stauffacher ']",
-Zürich,Pat-&-the-Ricks,2015-03-04,"[' Steffen Arpagaus ', ' Kriz Flew ', ' Michael Felder ', ' Patrick Oriet ', ' Peter Leuzinger ', ' Stefan Blum ']",
-Baden,Endlich-Mittwoch-Pianoplus,2015-03-04,"['Rahel Sohn ', ' Max Frankl ']",
-Winterthur,Jazz-am-Mittwoch,2015-03-04,"[' Christian Zehnder ', ' Gregor Hilbe ', ' Matthias Loibner ']",
-Thalwil,Musique-en-Route,2015-03-04,"[' Tom Tafel ', ' Stefanie Hess ', ' Ronny Spiegel ', ' Ariel Rossi ']",
-Basel,Joey-de-Francesco-Trio,2015-03-04,"['Joey de Francesco Trio ', ' Joey De Francesco ', ' Dan Wilson ', ' Jason Brown ']",
-Basel,Guitarorama,2015-03-04,"[' Tomas Sauter ', ' Daniel Schläppi ']",
-Zürich,The-Kelley-McRae-Duo,2015-03-04,['The Kelley McRae Duo '],
-Zürich,Emel-Mathlouthi,2015-03-04,"['Emel Mathlouthi ', ' Emel Mathlouthi ', ' Emmanuel Trouvé ', ' Imed Alibi ', ' Shawn Crowder ']",
-Bern,Omer-Klein-Trio,2015-03-04,"['Omer Klein Trio ', ' Omer Klein ', ' Haggai Cohen Milo ', ' Amir Bresler ']",
-Baden,Os-Desafinados,2015-03-04,"[' Dalia Donadio ', ' Moreno Donadio ']",
-Rubigen,Popa-Chubby,2015-03-04,['Popa Chubby '],
+,location,event,date,artists,genre
+0,Basel,Clair-de-lune,2015-03-04,['Yulia Draginda '],['Classic']
+1,Z?rich,Stefis-Geheimnis,2015-03-04,"['No?lle Gr?ebler ', ' Andrea Wiesli ']",['Classic']
+2,Z?rich,Dechen-Shak-Dagsay-&-Ensemble,2015-03-04,[' Ensemble '],"['world', 'music']"
+3,Z?rich,En-blanc-et-noir,2015-03-04,"[' Jens Bracher ', ' Stephen Menotti ', ' Jos? Navarro ', ' Martin Birnstiel ', ' Victor Barcel? ', ' Jannik Giger ']",['Classic']
+4,Z?rich,Geistliche-und-folkloristische-Chormusik,2015-03-04,['Vokalensemble Voskresenje St. Petersburg '],['Classic']
+5,Zug,Keynote-Jazz,2015-03-04,"[' Fabienne Amb?hl ', ' Vincent Glanzmann ', ' Yuri Goloubev ']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Pat-&-the-Ricks,2015-03-04,"[' Steffen Arpagaus ', ' Kriz Flew ', ' Michael Felder ', ' Patrick Oriet ', ' Peter Leuzinger ', ' Stefan Blum ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Jazzbaragge-Wednesday-Jam,2015-03-04,"['Cesar Correa ', ' Rodrigo Aravena ', ' David Stauffacher ']","['Jazz', 'Blues', 'Soul']"
+8,Z?rich,Lilabungalow,2015-03-04,"['Lilabungalow ', ' Ren? Kolditz ', ' David B?nsch ']",['Pop']
+9,Z?rich,Asa,2015-03-04,['Asa '],['Pop']
+10,Winterthur,Brns,2015-03-04,['Brns '],['Pop']
+11,Basel,Joey-de-Francesco-Trio,2015-03-04,"['Joey de Francesco Trio ', ' Joey De Francesco ', ' Dan Wilson ', ' Jason Brown ']","['Jazz', 'Blues', 'Soul']"
+12,Thalwil,Musique-en-Route,2015-03-04,"[' Tom Tafel ', ' Stefanie Hess ', ' Ronny Spiegel ', ' Ariel Rossi ']","['world', 'music']"
+13,Baden,Endlich-Mittwoch-Pianoplus,2015-03-04,"['Rahel Sohn ', ' Max Frankl ']","['Jazz', 'Blues', 'Soul']"
+14,Winterthur,Jazz-am-Mittwoch,2015-03-04,"[' Christian Zehnder ', ' Gregor Hilbe ', ' Matthias Loibner ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,The-Kelley-McRae-Duo,2015-03-04,['The Kelley McRae Duo '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Basel,Guitarorama,2015-03-04,"[' Tomas Sauter ', ' Daniel Schl?ppi ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Emel-Mathlouthi,2015-03-04,"['Emel Mathlouthi ', ' Emel Mathlouthi ', ' Emmanuel Trouv? ', ' Imed Alibi ', ' Shawn Crowder ']","['world', 'music']"
+18,Bern,Omer-Klein-Trio,2015-03-04,"['Omer Klein Trio ', ' Omer Klein ', ' Haggai Cohen Milo ', ' Amir Bresler ']","['Jazz', 'Blues', 'Soul']"
+19,Baden,Os-Desafinados,2015-03-04,"[' Dalia Donadio ', ' Moreno Donadio ']","['world', 'music']"
+20,Rubigen,Popa-Chubby,2015-03-04,['Popa Chubby '],"['Jazz', 'Blues', 'Soul']"

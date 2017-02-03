@@ -1,41 +1,39 @@
-location,event,date,artists,genre
-Winterthur,Around-Monk,2014-12-06,"[' und ', ' Peter A.Schmid ']",
-Winterthur,Stummfilmkonzert,2014-12-06,"['Aurora Nealand ', ' Justin Peake ', ' Simon Berz ', "" Charley Bowers' Say Ah-h und There It Is ""]",Classic
-Zürich,Monte-Carlo,2014-12-06,['Monte Carlo '],Pop
-Winterthur,Scherz-Satire-Ironie-und-tiefere-Bedeutung,2014-12-06,"[' Maria Surnacheva ', ' conductor: Roberto González Monjas ']",Classic
-Bern,Meisterkonzert,2014-12-06,"['Alison Balsom ', ' Tom Poster ']",Classic
-Langenthal,Chantez-les-Moiselles,2014-12-06,"[' Willy Schnyder ', ' Michel Poffet ', ' David Elias ', ' Myria Poffet ']",Classic
-Zürich,Messias-Weihnachtsteil-von-G.-F.-Händel,2014-12-06,"[' Anna Pehlken ', ' Julia Husmann ', ' Christoph Waltle ', ' Kevin Gagnon ']",Classic
-Zürich,Il-diario-di-Chiara,2014-12-06,"[' Marina de Liso ', ' conductor: Fabio Biondi ']",Classic
-Zürich,Musical-Night,2014-12-06,[' Dominique Lüthi '],Classic
-Baden,Pedestrians,2014-12-06,['Pedestrians '],
-Dornach,Konzert,2014-12-06,"[' Renato Wiedemann ', ' Jonathan Faulhaber ', ' Marina Vasilyeva ']",Classic
--Temple-allemand,null,2014-12-06,[' Samuel Niederhauser '],Classic
-Zürich,Morcheeba,2014-12-06,"['Morcheeba ', ' Skye Edwards ', ' Ross Godfrey ', ' Paul Godfrey ']",Electronic
-Dornach,Konzert,2014-12-06,['Hristo Kazakov '],Classic
-null,Dobét-Gnahoré,2014-12-06,"['Dobét Gnahoré ', ' Dobet Gnahoré ', ' Colin Laroche de Feline ', ' Clive ', ' Tchango Amontete Kassoung ']",
-Uetikon-am-See,Besinnlich-festliche-Chormusik-zum-Advent,2014-12-06,[' Yoshiko Masaki '],Classic
-Bern,Petting-Goes-Classic,2014-12-06,"[' Stephanie Szanto ', ' Simon Bucher ']",Classic
-Zürich,Denn-wie-man-sich-bettet-Ein-kurtweilliger-Liederabend,2014-12-06,"['Christian Jott Jenny ', ' Edward Rushton ']",Pop
-Thun,Suspenders,2014-12-06,"[' Tom Walter ', ' Lukas Rytz ', ' Simon Vögeli ', ' Fabian Baur ', ' Martin Schmidt ']",
-Zürich,Chorkonzert,2014-12-06,"[' Meret Roth ', ' Schoschana Kobelt ', ' Martin Braun ', ' Johan Michael Blume ']",Classic
-null,Florent-Pagny,2014-12-06,['Florent Pagny '],Pop
-Lichtensteig,Marco-Todisco-&-Band,2014-12-06,"[' Marco Todisco ', ' Samuel Messerli ', ' Flurin Lanfranconi ', ' Michael Jaeger ']",Pop
-Zürich,Harry-Marte-&-Big-Pit,2014-12-06,"[' Harry Marte ', ' Urs Vögeli ', ' Claude Meier ', ' Niklaus Gehrig ', ' Beth Wimmer ']",
-Uster,Schweizer-Favre,2014-12-06,"[' Irène Schweizer ', ' Pierre Favre ']",
-Basel,Studnitzky-Strings-Olivia-Trummer,2014-12-06,"[' Olivia Trummer ', ' Sebastian Studnitzky ', ' Paul Kleber ']",
-Wetzikon,Songs-From-Ireland-Tour,2014-12-06,['Mark Geary & Nicole Maguire '],Pop
-Romanshorn,Café-Deseado,2014-12-06,"[' Julia Herkert ', ' Martin Amstutz ', ' Stefan Gschwend ']",
-Baden,Martin-Baschung-&-Big-B-Tonic,2014-12-06,"[' Martin Baschung ', ' Sandro Vanetti ', ' Jürg Amrein ', ' Imad Barnieh ']",
-null,Vielsittich,2014-12-06,"[' Dodo Hug ', ' Efisio Contini ', ' Andreas Kühnrich ', ' Yvonne Baumer ']",
-Luzern,Mind,2014-12-06,['Leng Tche '],
-null,Nachtzug-Winterreise,2014-12-06,"['Nik Kevin Koch ', ' Wolfgang Fritszsche ']",Classic
-Rubigen,Hells-Belles,2014-12-06,['Hells Belles '],
-St.-Moritz,City-Race-150-Jahre-Wintertourismus,2014-12-06,['Xavier Naidoo '],
-Münchenbuchsee,Mich-Gerber-All-Star-Jam-Band,2014-12-06,"[' Mich Gerber ', ' Al Comet ', ' Wolfgang Zwiauer ', ' Andi Pupato ']",
-Bern,The-Blues-Rock-Machine,2014-12-06,"[' Tom Denzel ', ' Simon Sigg ', ' Jürg Viragh ', ' Andreas Niklaus ']",
-Bern,Nine-Seconds,2014-12-06,['Nine Seconds '],
-Basel,Jimmy-James-&-GG-Peney,2014-12-06,['Jimmy James & GG Peney '],
-null,T.O.K,2014-12-06,['T.O.K '],
-Zürich,The-Pulse,2014-12-06,"[' Andrina Bollinger ', ' Jonas Wolf ', ' Marvin Trummer ']",Pop
-null,Birthday-Party,2014-12-06,"['DJs Friction ', ' Ulterior Motive ', ' Sigha ', ' MC Linguistics ']",Electronic
+,location,event,date,artists,genre
+0,Winterthur,Stummfilmkonzert,2014-12-06,"['Aurora Nealand ', ' Justin Peake ', ' Simon Berz ', "" Charley Bowers' Say Ah-h und There It Is ""]",['Classic']
+1,Winterthur,Around-Monk,2014-12-06,"[' und ', ' Peter A.Schmid ']","['Jazz', 'Blues', 'Soul']"
+2,Winterthur,Scherz-Satire-Ironie-und-tiefere-Bedeutung,2014-12-06,"[' Maria Surnacheva ', ' conductor: Roberto Gonz?lez Monjas ']",['Classic']
+3,Z?rich,Monte-Carlo,2014-12-06,['Monte Carlo '],['Pop']
+4,Bern,Meisterkonzert,2014-12-06,"['Alison Balsom ', ' Tom Poster ']",['Classic']
+5,Langenthal,Chantez-les-Moiselles,2014-12-06,"[' Willy Schnyder ', ' Michel Poffet ', ' David Elias ', ' Myria Poffet ']",['Classic']
+6,Z?rich,Messias-Weihnachtsteil-von-G.-F.-H?ndel,2014-12-06,"[' Anna Pehlken ', ' Julia Husmann ', ' Christoph Waltle ', ' Kevin Gagnon ']",['Classic']
+7,Z?rich,Il-diario-di-Chiara,2014-12-06,"[' Marina de Liso ', ' conductor: Fabio Biondi ']",['Classic']
+8,Z?rich,Musical-Night,2014-12-06,[' Dominique L?thi '],['Classic']
+9,Baden,Pedestrians,2014-12-06,['Pedestrians '],"['Hip', 'Hop', ""R'n'B""]"
+10,Dornach,Konzert,2014-12-06,"[' Renato Wiedemann ', ' Jonathan Faulhaber ', ' Marina Vasilyeva ']",['Classic']
+11,-Temple-allemand,null,2014-12-06,[' Samuel Niederhauser '],['Classic']
+12,Dornach,Konzert,2014-12-06,['Hristo Kazakov '],['Classic']
+13,Z?rich,Denn-wie-man-sich-bettet-Ein-kurtweilliger-Liederabend,2014-12-06,"['Christian Jott Jenny ', ' Edward Rushton ']",['Pop']
+14,Uetikon-am-See,Besinnlich-festliche-Chormusik-zum-Advent,2014-12-06,[' Yoshiko Masaki '],['Classic']
+15,Bern,Petting-Goes-Classic,2014-12-06,"[' Stephanie Szanto ', ' Simon Bucher ']",['Classic']
+16,Thun,Suspenders,2014-12-06,"[' Tom Walter ', ' Lukas Rytz ', ' Simon V?geli ', ' Fabian Baur ', ' Martin Schmidt ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,null,Dob?t-Gnahor?,2014-12-06,"['Dob?t Gnahor? ', ' Dobet Gnahor? ', ' Colin Laroche de Feline ', ' Clive ', ' Tchango Amontete Kassoung ']","['world', 'music']"
+18,null,Florent-Pagny,2014-12-06,['Florent Pagny '],['Pop']
+19,Z?rich,Chorkonzert,2014-12-06,"[' Meret Roth ', ' Schoschana Kobelt ', ' Martin Braun ', ' Johan Michael Blume ']",['Classic']
+20,Lichtensteig,Marco-Todisco-&-Band,2014-12-06,"[' Marco Todisco ', ' Samuel Messerli ', ' Flurin Lanfranconi ', ' Michael Jaeger ']",['Pop']
+21,Luzern,Mind,2014-12-06,['Leng Tche '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Romanshorn,Caf?-Deseado,2014-12-06,"[' Julia Herkert ', ' Martin Amstutz ', ' Stefan Gschwend ']","['world', 'music']"
+23,Baden,Martin-Baschung-&-Big-B-Tonic,2014-12-06,"[' Martin Baschung ', ' Sandro Vanetti ', ' J?rg Amrein ', ' Imad Barnieh ']","['Jazz', 'Blues', 'Soul']"
+24,null,Vielsittich,2014-12-06,"[' Dodo Hug ', ' Efisio Contini ', ' Andreas K?hnrich ', ' Yvonne Baumer ']","['world', 'music']"
+25,Z?rich,Harry-Marte-&-Big-Pit,2014-12-06,"[' Harry Marte ', ' Urs V?geli ', ' Claude Meier ', ' Niklaus Gehrig ', ' Beth Wimmer ']","['Jazz', 'Blues', 'Soul']"
+26,Wetzikon,Songs-From-Ireland-Tour,2014-12-06,[' Nicole Maguire '],['Pop']
+27,Uster,Schweizer-Favre,2014-12-06,"[' Ir?ne Schweizer ', ' Pierre Favre ']","['Jazz', 'Blues', 'Soul']"
+28,Basel,Studnitzky-Strings-Olivia-Trummer,2014-12-06,"[' Olivia Trummer ', ' Sebastian Studnitzky ', ' Paul Kleber ']","['Jazz', 'Blues', 'Soul']"
+29,Bern,The-Blues-Rock-Machine,2014-12-06,"[' Tom Denzel ', ' Simon Sigg ', ' J?rg Viragh ', ' Andreas Niklaus ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Bern,Nine-Seconds,2014-12-06,['Nine Seconds '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,null,Nachtzug-Winterreise,2014-12-06,"['Nik Kevin Koch ', ' Wolfgang Fritszsche ']",['Classic']
+32,M?nchenbuchsee,Mich-Gerber-All-Star-Jam-Band,2014-12-06,"[' Mich Gerber ', ' Al Comet ', ' Wolfgang Zwiauer ', ' Andi Pupato ']","['Jazz', 'Blues', 'Soul']"
+33,Rubigen,Hells-Belles,2014-12-06,['Hells Belles '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,St.-Moritz,City-Race-150-Jahre-Wintertourismus,2014-12-06,['Xavier Naidoo '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Basel,Jimmy-James-&-GG-Peney,2014-12-06,[' GG Peney '],"['Hip', 'Hop', ""R'n'B""]"
+36,Z?rich,The-Pulse,2014-12-06,"[' Andrina Bollinger ', ' Jonas Wolf ', ' Marvin Trummer ']",['Pop']
+37,null,Birthday-Party,2014-12-06,[' MC Linguistics '],['Electronic']

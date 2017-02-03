@@ -1,40 +1,46 @@
-location,event,date,artists,genre
-Zürich,Orgel-Einweihungskonzert,2014-10-10,"['Andreas Jost ', ' Tobias Willi ']",Classic
-Basel,Orgelspiel-zum-Feierabend,2014-10-10,['Cécile Mansuy '],Classic
-Dietikon,Feierabendmusik,2014-10-10,['Bernhard Hörler '],Classic
-Riehen,Ute-Lemper,2014-10-10,['Ute Lemper '],Pop
-Zürich,The-Brew,2014-10-10,['The Brew '],
-Zürich,Kammermusik-Konzert,2014-10-10,"['Gina Maria McGuinness ', ' Daniel Bron ', ' Benjamin Kammerer ']",Classic
-Zürich,Acoustic-Friday,2014-10-10,"[' Christof Mahnig ', ' Lukas Traxel ', ' Laurent Méteau ', ' Emanuel Künzi ']",
-Uster,Helix,2014-10-10,['Helix '],
-Basel,Danner-Krasnovska,2014-10-10,"[' Waltraud Danner ', ' Iryna Krasnovska ']",Pop
-Zürich,Trixie-Whitley,2014-10-10,['Trixie Whitley '],
-Solothurn,Black-Stone-Cherry,2014-10-10,['Black Stone Cherry '],
-Zürich,Harfe-Violine-Visuelles,2014-10-10,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-null,Charles-Aznavour,2014-10-10,['Charles Aznavour '],Pop
-Bülach,Swingin-Trombones,2014-10-10,"[' Danilo Moccia ', ' Paul Haag ', ' Peter Madsen ', ' Isla Eckinger ', ' Peter Schmidlin ']",
-Winterthur,Sauter-Schläppi,2014-10-10,"[' Tomas Sauter ', ' Daniel Schläppi ']",
-Zürich,Hofmann-Rofalski,2014-10-10,"['Hofmann-Rofalski ', ' Alex Hofmann ', ' Roman Rofalski ']",
-Zürich,Lars-Danielsson-Quartet,2014-10-10,"[' Lars Danielsson ', ' Yaron Herman ', ' Gustaf Ljunggren ', ' Xavier Desandre Navarre ']",Pop
-Basel,Johannes-Enders-Quartet-feat.-Billy-Hart,2014-10-10,"[' Johannes Enders ', ' Jean Paul Brodbeck ', ' Milan Nicolic ', ' Billy Hart ']",
-Zug,The-Fretless,2014-10-10,['The Fretless '],
-Liebefeld,Amagong,2014-10-10,['Amagong '],
-Zürich,Theo-Kapilidis,2014-10-10,"[' Theo Kapilidis ', ' Florian Egli ', ' Lukas Traxel ', ' Jonas Ruther ']",
-Aarau,Einar-Stray-Orchestra,2014-10-10,['Einar Stray Orchestra '],Pop
-Zürich,The-Aroostercrats,2014-10-10,['The Aroostercrats '],
-Romanshorn,Jörg-Enz-Organic-Trio,2014-10-10,"[' Jörg Enz ', ' Reinhold Hettich ', ' Jörg Bach ']",
-Zürich,Constant-Deviants,2014-10-10,"['Constant Deviants ', ' Rome ', ' One Speaker Supreme ']",
-Grenchen,Watchtown-Notes,2014-10-10,"[' Angela Hänni ', ' Francesco Michiché ', ' Guy Waechter ', ' Hans-Ruedi Nicklaus ', ' Tinu Oppliger ']",Pop
-Lausanne,Yann-Tiersen,2014-10-10,['Yann Tiersen '],
-Baden,Say-Yes-Dog,2014-10-10,['Say Yes Dog '],Pop
-null,Internationales-Gitarrenfestival-Fribourg,2014-10-10,['Nguyên Lè '],
-Aarau,Dubioza-Kolektiv,2014-10-10,['Dubioza Kolektiv '],
-Schaffhausen,Luka-Bloom,2014-10-10,['Luka Bloom '],Pop
-Zürich,Fuchigami-to-Funato,2014-10-10,['Fuchigami to Funato '],Pop
-Luzern,The-Fate,2014-10-10,['The Fate '],Pop
-Bern,Death-By-Chocolate,2014-10-10,['Death By Chocolate '],
-Wetzikon,Marcelo-Attie-&-Band,2014-10-10,['Marcelo Attie & Band '],
-Bern,Jake-Calypso-&-His-Red-Hot,2014-10-10,['Jake Calypso & His Red Hot '],
-Sankt-Gallen,Fenster,2014-10-10,['Fenster '],Pop
-Lyss,Chali-2na-of-Jurassic-5-(USA),2014-10-10,['Chali 2na of Jurassic 5 '],
-Pontresina,Voices-on-Top,2014-10-10,['Laurence Jones '],
+,location,event,date,artists,genre
+0,Z?rich,Orgel-Einweihungskonzert,2014-10-10,"['Andreas Jost ', ' Tobias Willi ']",['Classic']
+1,Basel,Orgelspiel-zum-Feierabend,2014-10-10,['C?cile Mansuy '],['Classic']
+2,Dietikon,Feierabendmusik,2014-10-10,['Bernhard H?rler '],['Classic']
+3,Z?rich,The-Brew,2014-10-10,['The Brew '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Riehen,Ute-Lemper,2014-10-10,['Ute Lemper '],['Pop']
+5,Z?rich,Beethoven-und-Schumann-Drei-Klavierabende,2014-10-10,['Werner B?rtschi '],['Classic']
+6,Z?rich,Kammermusik-Konzert,2014-10-10,"['Gina Maria McGuinness ', ' Daniel Bron ', ' Benjamin Kammerer ']",['Classic']
+7,Z?rich,Harfe-Violine-Visuelles,2014-10-10,"[' Corinne Kappeler ', ' Daniel Treyer ']",['Classic']
+8,Uster,Helix,2014-10-10,['Helix '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Basel,Danner-Krasnovska,2014-10-10,"[' Waltraud Danner ', ' Iryna Krasnovska ']",['Pop']
+10,Z?rich,Trixie-Whitley,2014-10-10,['Trixie Whitley '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,Acoustic-Friday,2014-10-10,"[' Christof Mahnig ', ' Lukas Traxel ', ' Laurent M?teau ', ' Emanuel K?nzi ']","['Jazz', 'Blues', 'Soul']"
+12,null,Charles-Aznavour,2014-10-10,['Charles Aznavour '],['Pop']
+13,Solothurn,Black-Stone-Cherry,2014-10-10,['Black Stone Cherry '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Z?rich,Hofmann-Rofalski,2014-10-10,"['Hofmann-Rofalski ', ' Alex Hofmann ', ' Roman Rofalski ']","['Jazz', 'Blues', 'Soul']"
+15,B?lach,Swingin-Trombones,2014-10-10,"[' Danilo Moccia ', ' Paul Haag ', ' Peter Madsen ', ' Isla Eckinger ', ' Peter Schmidlin ']","['Jazz', 'Blues', 'Soul']"
+16,Winterthur,Sauter-Schl?ppi,2014-10-10,"[' Tomas Sauter ', ' Daniel Schl?ppi ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Lars-Danielsson-Quartet,2014-10-10,"[' Lars Danielsson ', ' Yaron Herman ', ' Gustaf Ljunggren ', ' Xavier Desandre Navarre ']",['Pop']
+18,Z?rich,Theo-Kapilidis,2014-10-10,"[' Theo Kapilidis ', ' Florian Egli ', ' Lukas Traxel ', ' Jonas Ruther ']","['Jazz', 'Blues', 'Soul']"
+19,Basel,Johannes-Enders-Quartet-feat.-Billy-Hart,2014-10-10,"[' Johannes Enders ', ' Jean Paul Brodbeck ', ' Milan Nicolic ', ' Billy Hart ']","['Jazz', 'Blues', 'Soul']"
+20,Romanshorn,J?rg-Enz-Organic-Trio,2014-10-10,"[' J?rg Enz ', ' Reinhold Hettich ', ' J?rg Bach ']","['Jazz', 'Blues', 'Soul']"
+21,Z?rich,The-Aroostercrats,2014-10-10,['The Aroostercrats '],"['world', 'music']"
+22,Aarau,Einar-Stray-Orchestra,2014-10-10,['Einar Stray Orchestra '],['Pop']
+23,Liebefeld,Amagong,2014-10-10,['Amagong '],"['world', 'music']"
+24,Z?rich,Constant-Deviants,2014-10-10,"['Constant Deviants ', ' Rome ', ' One Speaker Supreme ']","['Hip', 'Hop', ""R'n'B""]"
+25,Grenchen,Watchtown-Notes,2014-10-10,"[' Angela H?nni ', ' Francesco Michich? ', ' Guy Waechter ', ' Hans-Ruedi Nicklaus ', ' Tinu Oppliger ']",['Pop']
+26,Zug,The-Fretless,2014-10-10,['The Fretless '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,null,Me,2014-10-10,['Me '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Aarau,Dubioza-Kolektiv,2014-10-10,['Dubioza Kolektiv '],"['Hip', 'Hop', ""R'n'B""]"
+29,Schaffhausen,Fard-&-Snaga,2014-10-10,[' Snaga '],"['Hip', 'Hop', ""R'n'B""]"
+30,Wil,British-Blues-All-Stars,2014-10-10,['British Blues All Stars '],"['Jazz', 'Blues', 'Soul']"
+31,null,Internationales-Gitarrenfestival-Fribourg,2014-10-10,['Nguy?n L? '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Lausanne,Yann-Tiersen,2014-10-10,['Yann Tiersen '],"['world', 'music']"
+33,Bern,Chicks-on-Speed,2014-10-10,"['Chicks on Speed ', ' UMA ']",['Pop']
+34,Kriens,Hundred-Waters,2014-10-10,"['Hundred Waters ', ' Amen Dunes ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Baden,Say-Yes-Dog,2014-10-10,['Say Yes Dog '],['Pop']
+36,Schaffhausen,Luka-Bloom,2014-10-10,['Luka Bloom '],['Pop']
+37,Z?rich,Fuchigami-to-Funato,2014-10-10,['Fuchigami to Funato '],['Pop']
+38,Wetzikon,Marcelo-Attie-&-Band,2014-10-10,[' Band '],"['world', 'music']"
+39,Luzern,The-Fate,2014-10-10,['The Fate '],['Pop']
+40,Sankt-Gallen,Fenster,2014-10-10,['Fenster '],['Pop']
+41,Bern,Death-By-Chocolate,2014-10-10,['Death By Chocolate '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+42,Bern,Jake-Calypso-&-His-Red-Hot,2014-10-10,[' His Red Hot '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+43,Lyss,Chali-2na-of-Jurassic-5-(USA),2014-10-10,['Chali 2na of Jurassic 5 '],"['Hip', 'Hop', ""R'n'B""]"
+44,Pontresina,Voices-on-Top,2014-10-10,['Laurence Jones '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

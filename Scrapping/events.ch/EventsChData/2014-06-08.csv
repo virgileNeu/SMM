@@ -1,21 +1,21 @@
-location,event,date,artists,genre
-Zürich,Pfingsten,2014-06-08,"['Heiner Wanner ', ' Felix Gubser ']",Classic
-Zürich,Vögel-singen-und-trillilieren,2014-06-08,"['Wolfgang Lehner ', ' Michaela Hüttich ', ' Toni Illenberger ']",Classic
-Zürich,Morgenmusik,2014-06-08,"[' Dela Hüttner ', ' Mirjam Blessing ', ' Michael Mogl ', ' Fabrice Raviola ']",Classic
-Schaffhausen,Männerfreundschaften-Die-etwas-andere-Liedmatinée,2014-06-08,"['Daniel Camille Benz ', ' Chasper Curò Mani ', ' Zoi Tsokanou ']",Classic
-Basel,20-Jahre-Bird's-Eye-Club,2014-06-08,"['Alex Hendriksen Quartet ', ' Christoph Ràcz ']",
-Zug,Monthly-Assault,2014-06-08,"['Parasitic Ejaculation ', ' Craniotmy ', ' Begging for Incest ', ' Goreputation ']",
-null,Konzert,2014-06-08,['Jean-Sélim Abdelmoula '],Classic
-Luzern,Mozart-Gala,2014-06-08,"[' Ludmil Angelov ', '  Adriane Queiroz ', ' Anna Siminska ', ' Peter Mazalan ']",Classic
-Basel,Konzert,2014-06-08,"[' Mariana Flores ', ' Sarah Van der Kemp ', ' Makoto Sakurada ', ' Joseph Barron ']",Classic
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-08,['Claud Michaud et Café Café '],Pop
-Winterthur,Afro-Pfingsten-African-Night,2014-06-08,"['Lindigo ', ' Rachid Taha ', ' Mory Kanté ', ' Magic System ']",
-Zürich,Son-Tag,2014-06-08,['Santiago Son feat. Yaida Jardines Ochoa '],
-Zürich,John-Herzig,2014-06-08,['John Herzig '],traditional
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-08,"['André-Philippe Gagnon ', ' Benoit Paradis Trio ']",
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-08,"['Les Surs Boulay ', ' Ingrid St-Pierre ']",Pop
-Dornach,Dann-sang-der-Engel-seine-Melodie,2014-06-08,"['Marret Winger ', ' Matthias Veit ']",Classic
-Lausanne,Television,2014-06-08,['Television '],
-Basel,Earth-Wind-and-Fire-feat.-Al-McKay,2014-06-08,['Earth Wind and Fire feat. Al McKay '],
-Zürich,Plaid,2014-06-08,['Plaid '],Electronic
-Zürich,Boyahkasha-Bangerz,2014-06-08,"['DJs Romano B. ', ' Judas Mendel ']",
+,location,event,date,artists,genre
+0,Z?rich,Pfingsten,2014-06-08,"['Heiner Wanner ', ' Felix Gubser ']",['Classic']
+1,Z?rich,V?gel-singen-und-trillilieren,2014-06-08,"['Wolfgang Lehner ', ' Michaela H?ttich ', ' Toni Illenberger ']",['Classic']
+2,Z?rich,Morgenmusik,2014-06-08,"[' Dela H?ttner ', ' Mirjam Blessing ', ' Michael Mogl ', ' Fabrice Raviola ']",['Classic']
+3,Schaffhausen,M?nnerfreundschaften-Die-etwas-andere-Liedmatin?e,2014-06-08,"['Daniel Camille Benz ', ' Chasper Cur? Mani ', ' Zoi Tsokanou ']",['Classic']
+4,Basel,20-Jahre-Bird's-Eye-Club,2014-06-08,"['Alex Hendriksen Quartet ', ' Christoph R?cz ']","['Jazz', 'Blues', 'Soul']"
+5,Zug,Monthly-Assault,2014-06-08,"['Parasitic Ejaculation ', ' Craniotmy ', ' Begging for Incest ', ' Goreputation ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,null,Konzert,2014-06-08,['Jean-S?lim Abdelmoula '],['Classic']
+7,Luzern,Mozart-Gala,2014-06-08,"[' Ludmil Angelov ', '  Adriane Queiroz ', ' Anna Siminska ', ' Peter Mazalan ']",['Classic']
+8,Basel,Konzert,2014-06-08,"[' Mariana Flores ', ' Sarah Van der Kemp ', ' Makoto Sakurada ', ' Joseph Barron ']",['Classic']
+9,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-08,['Claud Michaud et Caf? Caf? '],['Pop']
+10,Z?rich,Son-Tag,2014-06-08,['Santiago Son feat. Yaida Jardines Ochoa '],"['world', 'music']"
+11,Winterthur,Afro-Pfingsten-African-Night,2014-06-08,"['Lindigo ', ' Rachid Taha ', ' Mory Kant? ', ' Magic System ']","['world', 'music']"
+12,Lausanne,Television,2014-06-08,['Television '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Z?rich,John-Herzig,2014-06-08,['John Herzig '],['traditional']
+14,Dornach,Dann-sang-der-Engel-seine-Melodie,2014-06-08,"['Marret Winger ', ' Matthias Veit ']",['Classic']
+15,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-08,"['Andr?-Philippe Gagnon ', ' Benoit Paradis Trio ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-08,"['Les Surs Boulay ', ' Ingrid St-Pierre ']",['Pop']
+17,Basel,Earth-Wind-and-Fire-feat.-Al-McKay,2014-06-08,['Earth Wind and Fire feat. Al McKay '],"['Hip', 'Hop', ""R'n'B""]"
+18,Z?rich,Plaid,2014-06-08,['Plaid '],['Electronic']
+19,Z?rich,Boyahkasha-Bangerz,2014-06-08,"['DJs Romano B. ', ' Judas Mendel ']","['Hip', 'Hop', ""R'n'B""]"

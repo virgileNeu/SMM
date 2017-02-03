@@ -1,19 +1,19 @@
-location,event,date,artists,genre
-Stans,Songwriter-Brunch,2014-10-12,"[' Trummer ', ' Nadja Stoller ', ' Samuel Baur ']",Pop
-null,1.-Kammerkonzert,2014-10-12,"['Mikayel Zakaryan ', ' Rolf-Dieter Gangl ', ' Joonas Pitkänen ']",Classic
-Zürich,Liedmatinée-abgesagt,2014-10-12,['Diana Damrau '],Classic
--Alte-Kirche,Boswil,2014-10-12,"['Nicolas Altstaedt ', ' Ilya Gringolts ', ' Benjamin Schmid ', ' Aleksandar Madzar ']",Classic
-Chur,Jubiläumskonzert,2014-10-12,[' Lisha Kim '],Classic
-Basel,Abendmusiken,2014-10-12,"[' Ulrike Hofbauer ', ' Jessica Jans ', ' Dina König ', ' Jacob Pilgram ', ' Daniel Issa ', ' Martin Wistinghausen ']",Classic
-Zürich,Mendi-Singh,2014-10-12,['Mendi Singh '],
-Zürich,Lang-Känzig-Pupato-Trio,2014-10-12,"[' Thierry Lang ', ' Heiri Känzig ', ' Andy Pupato ']",
-null,Fool's-Gold,2014-10-12,"[""Fool's Gold ""]",
-Winterthur,Barth-Roemer,2014-10-12,"['Barth-Roemer ', ' Astrid Barth ', ' Philipp Roemer ', ' Walter Baumgartner ']",
-Zürich,Hardcore-Chamber-Music,2014-10-12,"[' Hans Koch ', ' Martin Schütz ', ' Fredy Studer ']",
-null,Luka-Bloom,2014-10-12,['Luka Bloom '],Pop
-Zürich,Celo-&-Abdi,2014-10-12,['Celo & Abdi '],
-Turgi,Harfe-Violine-Visuelles,2014-10-12,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-Zürich,Monochrome,2014-10-12,['Monochrome '],Pop
-Bern,Vilde-&-Inga,2014-10-12,['Vilde & Inga '],Pop
-Bern,Kill-It-Kid,2014-10-12,['Kill It Kid '],
-Zürich,Capleton-and-The-Prophecy-Band,2014-10-12,['Capleton and The Prophecy Band '],
+,location,event,date,artists,genre
+0,Stans,Songwriter-Brunch,2014-10-12,"[' Trummer ', ' Nadja Stoller ', ' Samuel Baur ']",['Pop']
+1,Z?rich,Liedmatin?e-abgesagt,2014-10-12,['Diana Damrau '],['Classic']
+2,null,1.-Kammerkonzert,2014-10-12,"['Mikayel Zakaryan ', ' Rolf-Dieter Gangl ', ' Joonas Pitk?nen ']",['Classic']
+3,-Alte-Kirche,Boswil,2014-10-12,"['Nicolas Altstaedt ', ' Ilya Gringolts ', ' Benjamin Schmid ', ' Aleksandar Madzar ']",['Classic']
+4,Chur,Jubil?umskonzert,2014-10-12,[' Lisha Kim '],['Classic']
+5,Basel,Abendmusiken,2014-10-12,"[' Ulrike Hofbauer ', ' Jessica Jans ', ' Dina K?nig ', ' Jacob Pilgram ', ' Daniel Issa ', ' Martin Wistinghausen ']",['Classic']
+6,Z?rich,Mendi-Singh,2014-10-12,['Mendi Singh '],"['world', 'music']"
+7,Z?rich,Lang-K?nzig-Pupato-Trio,2014-10-12,"[' Thierry Lang ', ' Heiri K?nzig ', ' Andy Pupato ']","['Jazz', 'Blues', 'Soul']"
+8,null,Fool's-Gold,2014-10-12,"[""Fool's Gold ""]","['world', 'music']"
+9,Winterthur,Barth-Roemer,2014-10-12,"['Barth-Roemer ', ' Astrid Barth ', ' Philipp Roemer ', ' Walter Baumgartner ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Z?rich,Celo-&-Abdi,2014-10-12,[' Abdi '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Turgi,Harfe-Violine-Visuelles,2014-10-12,"[' Corinne Kappeler ', ' Daniel Treyer ']",['Classic']
+12,null,Luka-Bloom,2014-10-12,['Luka Bloom '],['Pop']
+13,Z?rich,Hardcore-Chamber-Music,2014-10-12,"[' Hans Koch ', ' Martin Sch?tz ', ' Fredy Studer ']","['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Monochrome,2014-10-12,['Monochrome '],['Pop']
+15,Bern,Vilde-&-Inga,2014-10-12,[' Inga '],['Pop']
+16,Bern,Kill-It-Kid,2014-10-12,['Kill It Kid '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Z?rich,Capleton-and-The-Prophecy-Band,2014-10-12,['Capleton and The Prophecy Band '],"['Hip', 'Hop', ""R'n'B""]"

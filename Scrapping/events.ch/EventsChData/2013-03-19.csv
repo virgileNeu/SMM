@@ -1,25 +1,25 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment-Pure-Melodies,2013-03-19,['Oliver Töngi '],Pop
-Zürich,Racine-Kappeler,2013-03-19,"[' Marianne Racine ', ' Vera Kappeler ']",
-Kulturfabrik-Kofmehl,Solothurn,2013-03-19,"['Madball ', ' Terror ', ' Comeback Kid ', ' Your Demise ', ' AYS ', ' The Setup ']",
-Basel,Gideon,2013-03-19,"['Gideon ', ' support: Fathoms ', ' Here Lies A Warning ']",
-Zürich,Gewinner-des-Concours-Géza-Anda,2013-03-19,['Varvara Nepomnyashchaya '],Classic
-Luzern,Chorkonzert,2013-03-19,"[' Brigitte Fournier ', ' Rolf Romei ']",Classic
-Aarau,Heldentaten,2013-03-19,[' Daniel Lichti '],Classic
-Luzern,Peter-Hook-&-The-Light,2013-03-19,['Peter Hook & The Light '],
-Bern,Internationales-Jazzfestival-Bern,2013-03-19,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']",
-Aarau,Heldentaten,2013-03-19,[' Daniel Lichti '],Classic
-Zürich,Kvelertak,2013-03-19,"['Kvelertak ', ' Truckfighters ', ' El Doom & The Born Electric ']",
-Zürich,The-Jeff-Hamilton-Trio,2013-03-19,"[' Jeff Hamilton ', ' Tamir Hendelman ', ' Christoph Luty ']",
-X-tra,Zürich,2013-03-19,['-M- '],
-Zürich,Hauschka-&-Samuli-Kosminen,2013-03-19,['Hauschka & Samuli Kosminen '],Pop
-Zürich,Los-Acuña,2013-03-19,['Los Acuña '],
-Zürich,Vinicio-Capossela,2013-03-19,['Vinicio Capossela '],Pop
-Kaufleuten,Zürich,2013-03-19,['Raúl Midón '],
-Basel,Chaotic-moebius,2013-03-19,"['Micaela Grau Durán ', ' ', ' Dominik Dolega ']",Classic
-Zürich,Röser-Flüeler-Susi,2013-03-19,"[' Anna Röser ', ' Jo Flüeler ', ' Faritamo Susi ', ' Rishin Singh ', ' Jason Kahn ']",
-Basel,Paolo-Thorsen-Nagel-Projekt-feat.-Johannes-Enders,2013-03-19,"[' Johannes Enders ', ' Paolo Thorsen-Nagel ', ' Rainer Böhm ', ' Arne Huber ', ' Daniel Mudrack ']",
-Zürich,Hermeto-Pascoal-&-Group,2013-03-19,"['Hermeto Pascoal & Group ', ' Hermeto Pascoal ', ' Aline Morena ', ' Itiberê Zwarg ', ' André Marques ']",
-Luzern,Bachelorprojekt-Konzerte,2013-03-19,"[' Dario Meier ', ' Mathieu Voisard ', ' Benjamin Kieser ', ' Pirmin Huber ', ' Clemens Kuratle ', ' Nino Wenger ', ' Mischa Maurer ', ' Lukas Traxel ', ' Lukas von Flüe ', ' Nino Wenger ', ' Samuel Leipold ', ' Lukas Traxel ']",
-Zürich,Lugares-Vivos,2013-03-19,"[' Jessica Cabrales ', ' Elina Bächlin ', ' Julian Dillier ', ' Lobosch Grüter ', ' Carlo Menet ']",
-Bern,Internationales-Jazzfestival-Bern,2013-03-19,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']",
+,location,event,date,artists,genre
+0,Zürich,Racine-Kappeler,2013-03-19,"[' Marianne Racine ', ' Vera Kappeler ']","['Jazz', 'Blues', 'Soul']"
+1,Luzern,Piano-Entertainment-Pure-Melodies,2013-03-19,['Oliver Töngi '],['Pop']
+2,Basel,Gideon,2013-03-19,"['Gideon ', ' support: Fathoms ', ' Here Lies A Warning ']","['Hip', 'Hop', ""R'n'B""]"
+3,Kulturfabrik-Kofmehl,Solothurn,2013-03-19,"['Madball ', ' Terror ', ' Comeback Kid ', ' Your Demise ', ' AYS ', ' The Setup ']","['Comeback', 'Kid']"
+4,Zürich,Gewinner-des-Concours-Géza-Anda,2013-03-19,['Varvara Nepomnyashchaya '],['Classic']
+5,Luzern,Peter-Hook-&-The-Light,2013-03-19,['Peter Hook & The Light '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Luzern,Chorkonzert,2013-03-19,"[' Brigitte Fournier ', ' Rolf Romei ']",['Classic']
+7,Aarau,Heldentaten,2013-03-19,[' Daniel Lichti '],['Classic']
+8,Bern,Internationales-Jazzfestival-Bern,2013-03-19,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']","['Jazz', 'Blues', 'Soul']"
+9,Aarau,Heldentaten,2013-03-19,[' Daniel Lichti '],['Classic']
+10,Zürich,The-Jeff-Hamilton-Trio,2013-03-19,"[' Jeff Hamilton ', ' Tamir Hendelman ', ' Christoph Luty ']","['Jazz', 'Blues', 'Soul']"
+11,Zürich,Los-Acuña,2013-03-19,['Los Acuña '],"['world', 'music']"
+12,Kaufleuten,Zürich,2013-03-19,['Raúl Midón '],"['Raúl', 'Midón']"
+13,X-tra,Zürich,2013-03-19,['-M- '],"['', 'M', '']"
+14,Zürich,Kvelertak,2013-03-19,"['Kvelertak ', ' Truckfighters ', ' El Doom & The Born Electric ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Zürich,Hauschka-&-Samuli-Kosminen,2013-03-19,['Hauschka & Samuli Kosminen '],['Pop']
+16,Zürich,Vinicio-Capossela,2013-03-19,['Vinicio Capossela '],['Pop']
+17,Zürich,Röser-Flüeler-Susi,2013-03-19,"[' Anna Röser ', ' Jo Flüeler ', ' Faritamo Susi ', ' Rishin Singh ', ' Jason Kahn ']","['Jazz', 'Blues', 'Soul']"
+18,Basel,Chaotic-moebius,2013-03-19,"['Micaela Grau Durán ', ' ', ' Dominik Dolega ']",['Classic']
+19,Luzern,Bachelorprojekt-Konzerte,2013-03-19,"[' Dario Meier ', ' Mathieu Voisard ', ' Benjamin Kieser ', ' Pirmin Huber ', ' Clemens Kuratle ', ' Nino Wenger ', ' Mischa Maurer ', ' Lukas Traxel ', ' Lukas von Flüe ', ' Nino Wenger ', ' Samuel Leipold ', ' Lukas Traxel ']","['Jazz', 'Blues', 'Soul']"
+20,Zürich,Lugares-Vivos,2013-03-19,"[' Jessica Cabrales ', ' Elina Bächlin ', ' Julian Dillier ', ' Lobosch Grüter ', ' Carlo Menet ']","['Jazz', 'Blues', 'Soul']"
+21,Zürich,Hermeto-Pascoal-&-Group,2013-03-19,"['Hermeto Pascoal & Group ', ' Hermeto Pascoal ', ' Aline Morena ', ' Itiberê Zwarg ', ' André Marques ']","['world', 'music']"
+22,Basel,Paolo-Thorsen-Nagel-Projekt-feat.-Johannes-Enders,2013-03-19,"[' Johannes Enders ', ' Paolo Thorsen-Nagel ', ' Rainer Böhm ', ' Arne Huber ', ' Daniel Mudrack ']","['Jazz', 'Blues', 'Soul']"
+23,Bern,Internationales-Jazzfestival-Bern,2013-03-19,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']","['Jazz', 'Blues', 'Soul']"

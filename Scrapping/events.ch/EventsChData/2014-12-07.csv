@@ -1,37 +1,39 @@
-location,event,date,artists,genre
-null,Zmorge-mit-Krüsimusig,2014-12-07,"[' Ursina Kappenberger ', ' Reto Ammann ', ' Damian Benedetti ', ' Babtiste Raffanel ']",
-Solothurn,3.-Kammerkonzert,2014-12-07,"['Polina Peskina ', ' Matthias Walpen ', ' Michael Favre ']",Classic
-Luzern,Adventsmatinee,2014-12-07,"[' Andrew Lawrence-King ', ' Jordi Savall ']",Classic
-null,Young-Artists-Jugendliche-Musizierfreude,2014-12-07,"['Valeria Curti ', ' Carmen Armas Pizzani ']",Classic
-null,Der-Josa-mit-der-Zauberfiedel,2014-12-07,"['Linard Bardill ', ' Rahel Cunz ', ' Jacqueline Ott ', ' Alena Cherny ']",Classic
-Zürich,Monte-Carlo,2014-12-07,['Monte Carlo '],Pop
-Zürich,Monte-Carlo,2014-12-07,['Monte Carlo '],Pop
-Lufingen,Adventskonzert,2014-12-07,"[' Susanne Schaad ', ' Barbara Bohnert ']",Classic
-Bern,Dialog-mit-Brahms,2014-12-07,['Conductor: Antje Weithaas '],Classic
-Zürich,Fantasien,2014-12-07,"['Jörg Frei ', ' Katja Peter ']",
-Binningen,Miracula,2014-12-07,"[' Agnieszka Budziska-Bennett ', ' Kelly Landerkin ', ' Hanna Järveläinen ', ' Baptiste Romain ', ' Deutschland und der Schweiz ']",Classic
-Pieterlen,Kieran-Goss,2014-12-07,['Kieran Goss '],Pop
--Alte-Kirche,Boswil,2014-12-07,"[' Noëmi Sohn Nad ', ' Rahel Sohn Achermann ']",Classic
-null,Messias-Weihnachtsteil-von-G.-F.-Händel,2014-12-07,"[' Anna Pehlken ', ' Julia Husmann ', ' Christoph Waltle ', ' Kevin Gagnon ']",Classic
-Baden,Kammermusikabend-mit-Texten,2014-12-07,"['Nadezhda Korshakova ', ' Peter Laul ']",Classic
-Zürich,Weihnachtskonzert,2014-12-07,"[' Martin Gebhardt ', ' Roswitha Killian ', ' Miriam Moser ', ' Rebecca Firth ']",Classic
-Zürich,Es-kommt-ein-Schiff-geladen,2014-12-07,[' Christian Döhring '],Classic
-Zürich,Requiem,2014-12-07,"[' Christina Daletska ', ' Stefanie Iranyi ', ' Niclas Oettermann ', ' Evgeny Sevastyanov ']",Classic
-null,Adventskonzert,2014-12-07,[' Samuel Niederhauser '],Classic
-Embrach,Besinnlich-festliche-Chormusik-zum-Advent,2014-12-07,[' Yoshiko Masaki '],Classic
-Riehen,O-Magnum-Mysterium,2014-12-07,[' Francesca Benetti '],Classic
-Suhr,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2014-12-07,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes Bärtschi ']",Classic
-Basel,Orgelmusik-Gedichte-Gedanken,2014-12-07,['Françoise Matile '],Classic
-null,2.-Meisterzyklus-Konzert,2014-12-07,"['Miklos Perényi ', ' Dénes Várjon ']",Classic
-Basel,Stimmen-im-Advent,2014-12-07,"[' Julie Fowlis ', ' Duncan Chisholm ', ' Tony Byrne ']",Classic
-Meggen,Rezital,2014-12-07,['Menahehm Pressler '],Classic
-Bern,Rhonda-Dorsey-&-Nachtfieber-Showband,2014-12-07,"[' Rhonda Dorsey ', ' Roman Wyss ', ' André Kunz ', ' Stephan Brunner ', ' Andreas Schnyder ']",
-Brugg,Stella-Cruz,2014-12-07,"[' Stella Cruz ', ' Flurin Lanfranconi ']",Pop
-Zürich,New-York-Ska-Jazz-Ensemble,2014-12-07,"['New York Ska-Jazz Ensemble ', ' Rock Steady Freddie ', ' Kevin Batchelor ', ' Earl Appleton ', ' Alberto Tarin ', ' Ben Basile ', ' Yao Dinizuli ']",
-Luzern,Vein-feat-Dave-Liebman,2014-12-07,"[' Dave Liebman ', ' Michael Arbenz ', ' Thomas Lähns ', ' Florian Arbenz ']",
-Winterthur,The-Nozez,2014-12-07,"[' Tome Iliev ', ' Tarek Beswik ', ' Tobias Bienz ', ' Adrian Böckli ']",Pop
-Langenthal,Chantez-les-Moiselles,2014-12-07,"[' Willy Schnyder ', ' Michel Poffet ', ' David Elias ', ' Myria Poffet ']",Classic
-Zürich,Udo-Jürgens,2014-12-07,['Udo Jürgens '],traditional
-Luzern,Seether,2014-12-07,['Seether '],
-Winterthur,Modus-Quartet,2014-12-07,"[' Antonello Messina ', ' Alkis Zopoglou ', ' Lorenz Beyeler ', ' Omri Hason ']",
-Zürich,Romantische-Sonaten-für-Cello-und-Klavier,2014-12-07,"[' Bram Buitenkant ', ' David Reitz ']",Classic
+,location,event,date,artists,genre
+0,null,Zmorge-mit-Kr?simusig,2014-12-07,"[' Ursina Kappenberger ', ' Reto Ammann ', ' Damian Benedetti ', ' Babtiste Raffanel ']","['Jazz', 'Blues', 'Soul']"
+1,Solothurn,3.-Kammerkonzert,2014-12-07,"['Polina Peskina ', ' Matthias Walpen ', ' Michael Favre ']",['Classic']
+2,Luzern,Adventsmatinee,2014-12-07,"[' Andrew Lawrence-King ', ' Jordi Savall ']",['Classic']
+3,null,Young-Artists-Jugendliche-Musizierfreude,2014-12-07,"['Valeria Curti ', ' Carmen Armas Pizzani ']",['Classic']
+4,Z?rich,Monte-Carlo,2014-12-07,['Monte Carlo '],['Pop']
+5,null,Der-Josa-mit-der-Zauberfiedel,2014-12-07,"['Linard Bardill ', ' Rahel Cunz ', ' Jacqueline Ott ', ' Alena Cherny ']",['Classic']
+6,Z?rich,Monte-Carlo,2014-12-07,['Monte Carlo '],['Pop']
+7,Suhr,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2014-12-07,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes B?rtschi ']",['Classic']
+8,Basel,Orgelmusik-Gedichte-Gedanken,2014-12-07,['Fran?oise Matile '],['Classic']
+9,null,2.-Meisterzyklus-Konzert,2014-12-07,"['Miklos Per?nyi ', ' D?nes V?rjon ']",['Classic']
+10,Lufingen,Adventskonzert,2014-12-07,"[' Susanne Schaad ', ' Barbara Bohnert ']",['Classic']
+11,Bern,Dialog-mit-Brahms,2014-12-07,['Conductor: Antje Weithaas '],['Classic']
+12,Suhr,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2014-12-07,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes B?rtschi ']",['Classic']
+13,null,Messias-Weihnachtsteil-von-G.-F.-H?ndel,2014-12-07,"[' Anna Pehlken ', ' Julia Husmann ', ' Christoph Waltle ', ' Kevin Gagnon ']",['Classic']
+14,Embrach,Besinnlich-festliche-Chormusik-zum-Advent,2014-12-07,[' Yoshiko Masaki '],['Classic']
+15,Z?rich,Requiem,2014-12-07,"[' Christina Daletska ', ' Stefanie Iranyi ', ' Niclas Oettermann ', ' Evgeny Sevastyanov ']",['Classic']
+16,Binningen,Miracula,2014-12-07,"[' Agnieszka Budziska-Bennett ', ' Kelly Landerkin ', ' Hanna J?rvel?inen ', ' Baptiste Romain ', ' Deutschland und der Schweiz ']",['Classic']
+17,Riehen,O-Magnum-Mysterium,2014-12-07,[' Francesca Benetti '],['Classic']
+18,Basel,Orgelmusik-Gedichte-Gedanken,2014-12-07,['Fran?oise Matile '],['Classic']
+19,Baden,Kammermusikabend-mit-Texten,2014-12-07,"['Nadezhda Korshakova ', ' Peter Laul ']",['Classic']
+20,null,Adventskonzert,2014-12-07,[' Samuel Niederhauser '],['Classic']
+21,Lufingen,Adventskonzert,2014-12-07,"[' Susanne Schaad ', ' Barbara Bohnert ']",['Classic']
+22,null,2.-Meisterzyklus-Konzert,2014-12-07,"['Miklos Per?nyi ', ' D?nes V?rjon ']",['Classic']
+23,Pieterlen,Kieran-Goss,2014-12-07,['Kieran Goss '],['Pop']
+24,-Alte-Kirche,Boswil,2014-12-07,"[' No?mi Sohn Nad ', ' Rahel Sohn Achermann ']",['Classic']
+25,Z?rich,Weihnachtskonzert,2014-12-07,"[' Martin Gebhardt ', ' Roswitha Killian ', ' Miriam Moser ', ' Rebecca Firth ']",['Classic']
+26,Basel,Stimmen-im-Advent,2014-12-07,"[' Julie Fowlis ', ' Duncan Chisholm ', ' Tony Byrne ']",['Classic']
+27,Bern,Rhonda-Dorsey-&-Nachtfieber-Showband,2014-12-07,"[' Rhonda Dorsey ', ' Roman Wyss ', ' Andr? Kunz ', ' Stephan Brunner ', ' Andreas Schnyder ']","['Hip', 'Hop', ""R'n'B""]"
+28,Meggen,Rezital,2014-12-07,['Menahehm Pressler '],['Classic']
+29,Brugg,Stella-Cruz,2014-12-07,"[' Stella Cruz ', ' Flurin Lanfranconi ']",['Pop']
+30,Luzern,Vein-feat-Dave-Liebman,2014-12-07,"[' Dave Liebman ', ' Michael Arbenz ', ' Thomas L?hns ', ' Florian Arbenz ']","['Jazz', 'Blues', 'Soul']"
+31,Z?rich,Udo-J?rgens,2014-12-07,['Udo J?rgens '],['traditional']
+32,Luzern,Seether,2014-12-07,['Seether '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Langenthal,Chantez-les-Moiselles,2014-12-07,"[' Willy Schnyder ', ' Michel Poffet ', ' David Elias ', ' Myria Poffet ']",['Classic']
+34,Winterthur,The-Nozez,2014-12-07,"[' Tome Iliev ', ' Tarek Beswik ', ' Tobias Bienz ', ' Adrian B?ckli ']",['Pop']
+35,Z?rich,New-York-Ska-Jazz-Ensemble,2014-12-07,"['New York Ska-Jazz Ensemble ', ' Rock Steady Freddie ', ' Kevin Batchelor ', ' Earl Appleton ', ' Alberto Tarin ', ' Ben Basile ', ' Yao Dinizuli ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Winterthur,Modus-Quartet,2014-12-07,"[' Antonello Messina ', ' Alkis Zopoglou ', ' Lorenz Beyeler ', ' Omri Hason ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Z?rich,Romantische-Sonaten-f?r-Cello-und-Klavier,2014-12-07,"[' Bram Buitenkant ', ' David Reitz ']",['Classic']

@@ -1,24 +1,23 @@
-location,event,date,artists,genre
-Winterthur,Öffentliche-Generalprobe,2014-10-01,[' Anna Vinnitskaya '],Classic
-Basel,Mimiko-Orgelkonzert,2014-10-01,['Yulia Draginda '],Classic
-Basel,Trio-Jazz,2014-10-01,"[' Johannes Walter ', ' Gabriel Walter ', ' André Buser ']",
-Frauenfeld,Saxofour,2014-10-01,['Saxofour '],
-Basel,Duo-Stellamar,2014-10-01,"[' Basso Salerno ', ' Marcel Wyss ']",
-Luzern,Finntroll,2014-10-01,['Finntroll '],
-Basel,COOP-Sinfoniekonzerte,2014-10-01,[' Marc Lachat '],Classic
-Winterthur,Jean-Sibelius-1,2014-10-01,[' Anna Vinnitskaya '],Classic
-Zug,Keynote-Jazz,2014-10-01,"[' Martina Linn ', ' Christian Winiker ', ' Andi Schnellmann ', ' Iwan Steiner ']",
-Zürich,Joe-Bonamassa,2014-10-01,"['Joe Bonamassa ', ' Joe Bonamassa ', ' Gerry O Connor ', ' Mats Wester ', ' Lenny Castro ', ' Derek Sherinian ']",
-Zürich,Falcons,2014-10-01,['Falcons '],Electronic
-Zürich,Kerretta,2014-10-01,['Kerretta '],
-Zürich,Developing-Good-Habits,2014-10-01,"['Vertigo Trombone Quartett ', ' Nils Wogram ', ' Andreas Tschopp ', ' Bernhard Bamert ', ' Jan Schreiner ']",
-Zürich,Jazzbaragge-Wednesday-Jam,2014-10-01,"['Dave Gisler ', ' Raphael Walser ', ' Rico Baumann ']",
-Bern,FM-Belfast,2014-10-01,['FM Belfast '],
-Winterthur,Sean-Price,2014-10-01,['Sean Price '],
-Zürich,Die-Liga-der-gewöhnlichen-Gentlemen,2014-10-01,['Die Liga der gewöhnlichen Gentlemen '],Pop
-Basel,Thea-Hjelmeland,2014-10-01,['Thea Hjelmeland '],Pop
-Zürich,Billy-Cobham,2014-10-01,"['Billy Cobham Band ', ' Billy Cobham ', ' Steve Hamilton ', ' Jean-Marie Ecay ', ' Camelia Ben Naceur ', ' Michael Mondesir ', ' Junior Gill ']",Pop
-Basel,Christian-Muthspiel-4-feat.-Steve-Swallow,2014-10-01,"[' Christian Muthspiel ', ' Matthieu Michel ', ' Franck Tortiller ', ' Steve Swallow ']",
-Frauenfeld,Klaus-König-Trio,2014-10-01,"[' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']",
-Lausanne,Eaux,2014-10-01,"['Darkness Falls ', ' Eaux ']",Electronic
-Kriens,Bombino,2014-10-01,['Bombino '],
+,location,event,date,artists,genre
+0,Winterthur,?ffentliche-Generalprobe,2014-10-01,[' Anna Vinnitskaya '],['Classic']
+1,Basel,Mimiko-Orgelkonzert,2014-10-01,['Yulia Draginda '],['Classic']
+2,Basel,Trio-Jazz,2014-10-01,"[' Johannes Walter ', ' Gabriel Walter ', ' Andr? Buser ']","['Jazz', 'Blues', 'Soul']"
+3,Frauenfeld,Saxofour,2014-10-01,['Saxofour '],"['Jazz', 'Blues', 'Soul']"
+4,Basel,Duo-Stellamar,2014-10-01,"[' Basso Salerno ', ' Marcel Wyss ']","['Jazz', 'Blues', 'Soul']"
+5,Basel,COOP-Sinfoniekonzerte,2014-10-01,[' Marc Lachat '],['Classic']
+6,Luzern,Finntroll,2014-10-01,['Finntroll '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Winterthur,Jean-Sibelius-1,2014-10-01,[' Anna Vinnitskaya '],['Classic']
+8,Zug,Keynote-Jazz,2014-10-01,"[' Martina Linn ', ' Christian Winiker ', ' Andi Schnellmann ', ' Iwan Steiner ']","['Jazz', 'Blues', 'Soul']"
+9,Z?rich,Kerretta,2014-10-01,['Kerretta '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Z?rich,Developing-Good-Habits,2014-10-01,"['Vertigo Trombone Quartett ', ' Nils Wogram ', ' Andreas Tschopp ', ' Bernhard Bamert ', ' Jan Schreiner ']","['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Falcons,2014-10-01,['Falcons '],['Electronic']
+12,Z?rich,Jazzbaragge-Wednesday-Jam,2014-10-01,"['Dave Gisler ', ' Raphael Walser ', ' Rico Baumann ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Die-Liga-der-gew?hnlichen-Gentlemen,2014-10-01,['Die Liga der gew?hnlichen Gentlemen '],['Pop']
+14,Basel,Thea-Hjelmeland,2014-10-01,['Thea Hjelmeland '],['Pop']
+15,Bern,FM-Belfast,2014-10-01,['FM Belfast '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Z?rich,Billy-Cobham,2014-10-01,"['Billy Cobham Band ', ' Billy Cobham ', ' Steve Hamilton ', ' Jean-Marie Ecay ', ' Camelia Ben Naceur ', ' Michael Mondesir ', ' Junior Gill ']",['Pop']
+17,Basel,Christian-Muthspiel-4-feat.-Steve-Swallow,2014-10-01,"[' Christian Muthspiel ', ' Matthieu Michel ', ' Franck Tortiller ', ' Steve Swallow ']","['Jazz', 'Blues', 'Soul']"
+18,Winterthur,Sean-Price,2014-10-01,['Sean Price '],"['Hip', 'Hop', ""R'n'B""]"
+19,Lausanne,Eaux,2014-10-01,"['Darkness Falls ', ' Eaux ']",['Electronic']
+20,Frauenfeld,Klaus-K?nig-Trio,2014-10-01,"[' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']","['Jazz', 'Blues', 'Soul']"
+21,Kriens,Bombino,2014-10-01,['Bombino '],"['world', 'music']"

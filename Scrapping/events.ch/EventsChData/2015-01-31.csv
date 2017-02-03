@@ -1,35 +1,34 @@
-location,event,date,artists,genre
-Winterthur,Bon-voyage,2015-01-31,"[' Cornelia Leuthold ', ' David Talamante ', ' Ronald Pearl ']",Classic
-Baden,One-of-a-Million,2015-01-31,['Tom Hickox '],
-Baden,One-of-a-Million,2015-01-31,['Jeff Beadle '],
-Zürich,4.-Sonntag-im-Jahreskreis,2015-01-31,"['Emanuel Rütsche ', ' Felix Gubser ']",Classic
-Zürich,Glantaler-Power-Men,2015-01-31,['Glantaler Power Men '],traditional
-null,Klavierissimo,2015-01-31,['Cathy Krier '],Classic
-null,Nelsonmesse-Dixit-Dominus-und-7-biblische-Gesänge,2015-01-31,"[' Dorothea Frey ', ' Liliane Glanzmann ', ' Valentin Johannes Gloor ', ' Marcus Niedermeyr ']",Classic
-Baden,One-of-a-Million,2015-01-31,"['Teen Daze ', ' Warm Graves ']",
-Lyss,We-Butter-the-Bread-with-Butter,2015-01-31,['We Butter the Bread with Butter '],
-Zürich,Interpol,2015-01-31,"['Interpol ', ' support: Health ']",
-Zürich,Olson,2015-01-31,"['Olson ', ' support: Sofi de la Torre & Okan Frei ']",
-Zürich,Konzert,2015-01-31,[' Leila Josefowicz '],Classic
-Zürich,Franziskus-Geschichte-Legenden-und-Musik,2015-01-31,"['Anne-Laure Prély Dengler ', ' Beat Schuler ']",Classic
-Zürich,Serenade,2015-01-31,"[' Tino Brütsch ', ' Olivier Darbellay ']",Classic
-Zürich,Internationales-Country-Music-Festival,2015-01-31,['Two Tons of Steel '],
-Zürich,Polnischer-Klavierabend,2015-01-31,['Aleksandra Mikulska '],Classic
-Zürich,Gavlyn-&-Oh-Blimey,2015-01-31,['Gavlyn & Oh Blimey '],
-null,Klavierissimo,2015-01-31,['Jörg Demus '],Classic
-null,IAM,2015-01-31,['IAM '],
-Zürich,Ein-gLiederabend,2015-01-31,"['Graziella Rossi ', ' Rea Claudia Kost ', ' Daniel Bentz ', ' Helmut Vogel ', ' Daniel Fueter ']",traditional
-Aarburg,Rockabilly-Night,2015-01-31,"[""Charlie Hightone & the Rock It's "", ' Jake Calypso and his Red Hot ']",
-Winterthur,Friska-Viljor,2015-01-31,['Friska Viljor '],
-Basel,Cantique,2015-01-31,[' Estelle Revaz '],Classic
-Zürich,Dan-Michaelson-&-The-Coastguards,2015-01-31,['Dan Michaelson & The Coastguards '],
-Burgdorf,Larrys'-Blues-Band,2015-01-31,"[' Larry Schmuki ', ' Markus Fritzsche ', ' Beat Aschwanden ']",
-Zürich,Talking-Drums-feat.-Gabriela-Mendes,2015-01-31,"[' Gabriela Mendes ', ' Simone Sou ', ' Dave Feusi ', ' Sandro Schneebeli ', ' Stephan Rigert ']",
-Baden,Donadio-Family-Band,2015-01-31,"[' Dalia Donadio ', ' Madlen Donadio ', ' Moreno Donadio ', ' Toni Donadio ']",
-Aarau,Sólstafir,2015-01-31,['Sólstafir '],
-null,Unhold,2015-01-31,[' Notions '],
-Pratteln,Bluez-Ballz,2015-01-31,"['Bluez Ballz ', ' Jan Bukacek ', ' Thomas L.C. Elsasser ', ' Roger T. ']",
-Zürich,Cold-Specks,2015-01-31,['Cold Specks '],
-Zürich,Aliev-Bleh-Orkestar,2015-01-31,"[' Marem Aliev ', ' Nehrun Aliev ', ' Alban Lachenmeier ', ' Sebastian Koelman ']",
-Winterthur,LL-Junior,2015-01-31,['LL Junior '],Pop
-Luzern,Une-nuit-à-Paris,2015-01-31,['DJs Watermät '],Pop
+,location,event,date,artists,genre
+0,Winterthur,Bon-voyage,2015-01-31,"[' Cornelia Leuthold ', ' David Talamante ', ' Ronald Pearl ']",['Classic']
+1,Baden,One-of-a-Million,2015-01-31,['Tom Hickox '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Baden,One-of-a-Million,2015-01-31,['Jeff Beadle '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,4.-Sonntag-im-Jahreskreis,2015-01-31,"['Emanuel R?tsche ', ' Felix Gubser ']",['Classic']
+4,null,Klavierissimo,2015-01-31,['Cathy Krier '],['Classic']
+5,Z?rich,Glantaler-Power-Men,2015-01-31,['Glantaler Power Men '],['traditional']
+6,null,Nelsonmesse-Dixit-Dominus-und-7-biblische-Ges?nge,2015-01-31,"[' Dorothea Frey ', ' Liliane Glanzmann ', ' Valentin Johannes Gloor ', ' Marcus Niedermeyr ']",['Classic']
+7,Baden,One-of-a-Million,2015-01-31,"['Teen Daze ', ' Warm Graves ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Lyss,We-Butter-the-Bread-with-Butter,2015-01-31,['We Butter the Bread with Butter '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Interpol,2015-01-31,"['Interpol ', ' support: Health ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Z?rich,Olson,2015-01-31,[' Okan Frei '],"['Hip', 'Hop', ""R'n'B""]"
+11,Z?rich,Konzert,2015-01-31,[' Leila Josefowicz '],['Classic']
+12,Z?rich,Franziskus-Geschichte-Legenden-und-Musik,2015-01-31,"['Anne-Laure Pr?ly Dengler ', ' Beat Schuler ']",['Classic']
+13,Z?rich,Polnischer-Klavierabend,2015-01-31,['Aleksandra Mikulska '],['Classic']
+14,Z?rich,Serenade,2015-01-31,"[' Tino Br?tsch ', ' Olivier Darbellay ']",['Classic']
+15,Winterthur,Friska-Viljor,2015-01-31,['Friska Viljor '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Z?rich,Gavlyn-&-Oh-Blimey,2015-01-31,[' Oh Blimey '],"['Hip', 'Hop', ""R'n'B""]"
+17,Aarburg,Rockabilly-Night,2015-01-31,"["" the Rock It's "", ' Jake Calypso and his Red Hot ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Z?rich,Ein-gLiederabend,2015-01-31,"['Graziella Rossi ', ' Rea Claudia Kost ', ' Daniel Bentz ', ' Helmut Vogel ', ' Daniel Fueter ']",['traditional']
+19,null,IAM,2015-01-31,['IAM '],"['Hip', 'Hop', ""R'n'B""]"
+20,null,Klavierissimo,2015-01-31,['J?rg Demus '],['Classic']
+21,Basel,Cantique,2015-01-31,[' Estelle Revaz '],['Classic']
+22,Z?rich,Dan-Michaelson-&-The-Coastguards,2015-01-31,[' The Coastguards '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Burgdorf,Larrys'-Blues-Band,2015-01-31,"[' Larry Schmuki ', ' Markus Fritzsche ', ' Beat Aschwanden ']","['Jazz', 'Blues', 'Soul']"
+24,Z?rich,Talking-Drums-feat.-Gabriela-Mendes,2015-01-31,"[' Gabriela Mendes ', ' Simone Sou ', ' Dave Feusi ', ' Sandro Schneebeli ', ' Stephan Rigert ']","['world', 'music']"
+25,Baden,Donadio-Family-Band,2015-01-31,"[' Dalia Donadio ', ' Madlen Donadio ', ' Moreno Donadio ', ' Toni Donadio ']","['world', 'music']"
+26,Z?rich,Cold-Specks,2015-01-31,['Cold Specks '],"['Hip', 'Hop', ""R'n'B""]"
+27,null,Unhold,2015-01-31,[' Notions '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Aarau,S?lstafir,2015-01-31,['S?lstafir '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Pratteln,Bluez-Ballz,2015-01-31,"['Bluez Ballz ', ' Jan Bukacek ', ' Thomas L.C. Elsasser ', ' Roger T. ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Bern,Keston-Cobblers-Club,2015-01-31,['Keston Cobblers Club '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Z?rich,Aliev-Bleh-Orkestar,2015-01-31,"[' Marem Aliev ', ' Nehrun Aliev ', ' Alban Lachenmeier ', ' Sebastian Koelman ']","['world', 'music']"
+32,Winterthur,LL-Junior,2015-01-31,['LL Junior '],['Pop']

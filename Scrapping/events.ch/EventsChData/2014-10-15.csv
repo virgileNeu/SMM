@@ -1,26 +1,26 @@
-location,event,date,artists,genre
-Basel,Fokus-frühes-19.-Jahrhundert,2014-10-15,"['Tobias Schabenberger ', ' Chiara Banchini ', ' Käthi Gohl ']",Classic
-Basel,Mimiko-Rastlose-Ferne,2014-10-15,"['Valerio Zanolli ', ' Abelia Nordmann ']",Classic
-Solothurn,Asking-Alexandria,2014-10-15,['Asking Alexandria '],
-Bern,Meisterkonzert,2014-10-15,"['Gautier Capuçon ', ' Frank Braley ']",Classic
-Lausanne,Death-By-Chocolate,2014-10-15,[' These Reigning Days '],
-Basel,Horizont-Bach-Jubiläumskonzert,2014-10-15,"[' Sarah Wegener ', ' Felix Renggli ', ' Heinz Holliger ', ' François Benda ', ' Diego Chenna ', ' Olivier Darbellay ', ' Esther Hoppe ', ' Jürg Dähler ', ' Daniel Haefliger ', ' Martin Müller ']",Classic
-Luzern,Sinfoniekonzert,2014-10-15,[' Maria João Pires '],Classic
-Palais-des-Congrès,null,2014-10-15,"[' Urs Peter Schneider ', ' Urs Peter Schneider ']",Classic
-Zürich,Konzert,2014-10-15,[' David Fray '],Classic
-Rubigen,Focus,2014-10-15,['Focus '],
-Brunnen,Randy-Thompson,2014-10-15,['Randy Thompson '],
-Basel,Yann-Tiersen,2014-10-15,['Yann Tiersen '],
-Zürich,Jazzbaragge-Wednesday-Jam,2014-10-15,"['Florian Favre ', ' Manu Hagmann ', ' Alexander Maurer ']",
-Pratteln,The-69-Eyes,2014-10-15,['The 69 Eyes '],
-Zürich,Benjrose,2014-10-15,['Benjrose '],
-Bern,Kreisky,2014-10-15,['Kreisky '],
-Luzern,Herbie's-Explo-3000,2014-10-15,"[' Herbie Kopf ', ' Adi Pflugshaupt ', ' Hans Feigenwinter ', ' Herbie Kopf ', ' Pius Baschnagel ']",
-Basel,Derendinger-Streiff-Rohner,2014-10-15,"[' Sanshi Ueli Derendinger ', ' Balthasar Streiff ', ' Lukas Rohner ']",
-Schaffhausen,Revolverheld,2014-10-15,"['Revolverheld ', ' The Jog Foggers ']",Pop
-Zürich,Joe-McPhee-&-Chris-Corsano,2014-10-15,"['Joe McPhee & Chris Corsano ', ' Joe McPhee ', ' Chris Corsano ']",
-Bern,Melingo,2014-10-15,['Melingo '],
-Zürich,Artist-in-Residence-Florian-Egli,2014-10-15,"[' Valentin Dietrich ', ' Silvan Jeger ', ' Dominique Girod ', ' Florian Egli ', ' Matthias Spillman ', ' Luzius Schuler ']",
-Basel,Leo-Stannard,2014-10-15,['Leo Stannard '],Pop
-Winterthur,Minot,2014-10-15,['Minot '],
-Zürich,Bukowski,2014-10-15,['Cam '],Pop
+,location,event,date,artists,genre
+0,Basel,Fokus-fr?hes-19.-Jahrhundert,2014-10-15,"['Tobias Schabenberger ', ' Chiara Banchini ', ' K?thi Gohl ']",['Classic']
+1,Basel,Mimiko-Rastlose-Ferne,2014-10-15,"['Valerio Zanolli ', ' Abelia Nordmann ']",['Classic']
+2,Solothurn,Asking-Alexandria,2014-10-15,['Asking Alexandria '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Bern,Meisterkonzert,2014-10-15,"['Gautier Capu?on ', ' Frank Braley ']",['Classic']
+4,Palais-des-Congr?s,null,2014-10-15,"[' Urs Peter Schneider ', ' Urs Peter Schneider ']",['Classic']
+5,Z?rich,Konzert,2014-10-15,[' David Fray '],['Classic']
+6,Lausanne,Death-By-Chocolate,2014-10-15,[' These Reigning Days '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Luzern,Sinfoniekonzert,2014-10-15,[' Maria Jo?o Pires '],['Classic']
+8,Basel,Horizont-Bach-Jubil?umskonzert,2014-10-15,"[' Sarah Wegener ', ' Felix Renggli ', ' Heinz Holliger ', ' Fran?ois Benda ', ' Diego Chenna ', ' Olivier Darbellay ', ' Esther Hoppe ', ' J?rg D?hler ', ' Daniel Haefliger ', ' Martin M?ller ']",['Classic']
+9,Z?rich,Benjrose,2014-10-15,['Benjrose '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Bern,Kreisky,2014-10-15,['Kreisky '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Brunnen,Randy-Thompson,2014-10-15,['Randy Thompson '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Z?rich,Jazzbaragge-Wednesday-Jam,2014-10-15,"['Florian Favre ', ' Manu Hagmann ', ' Alexander Maurer ']","['Jazz', 'Blues', 'Soul']"
+13,Rubigen,Focus,2014-10-15,['Focus '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Basel,Yann-Tiersen,2014-10-15,['Yann Tiersen '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Pratteln,The-69-Eyes,2014-10-15,['The 69 Eyes '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Basel,Derendinger-Streiff-Rohner,2014-10-15,"[' Sanshi Ueli Derendinger ', ' Balthasar Streiff ', ' Lukas Rohner ']","['Jazz', 'Blues', 'Soul']"
+17,Bern,Melingo,2014-10-15,['Melingo '],"['world', 'music']"
+18,Winterthur,Minot,2014-10-15,['Minot '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Z?rich,Artist-in-Residence-Florian-Egli,2014-10-15,"[' Valentin Dietrich ', ' Silvan Jeger ', ' Dominique Girod ', ' Florian Egli ', ' Matthias Spillman ', ' Luzius Schuler ']","['world', 'music']"
+20,Luzern,Herbie's-Explo-3000,2014-10-15,"[' Herbie Kopf ', ' Adi Pflugshaupt ', ' Hans Feigenwinter ', ' Herbie Kopf ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+21,Basel,Leo-Stannard,2014-10-15,['Leo Stannard '],['Pop']
+22,Schaffhausen,Revolverheld,2014-10-15,"['Revolverheld ', ' The Jog Foggers ']",['Pop']
+23,Z?rich,Joe-McPhee-&-Chris-Corsano,2014-10-15,"[' Chris Corsano ', ' Joe McPhee ', ' Chris Corsano ']","['Jazz', 'Blues', 'Soul']"
+24,Z?rich,Bukowski,2014-10-15,['Cam '],['Pop']

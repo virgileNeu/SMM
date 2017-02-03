@@ -1,43 +1,42 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment,2014-02-14,['Christian Mettler '],Pop
-Basel,Orgelspiel-zum-Feierabend,2014-02-14,['Susanne Doll '],Classic
-Zürich,Mayday-Parade,2014-02-14,"['Mayday Parade ', ' Our Last Night ', ' Man Overboard ', ' Secrets ', ' Divided By Friday ']",
-Dietikon,Feierabendmusik-in-der-Kirche,2014-02-14,"['Doris Grossenbacher ', ' Bernhard Hörler ']",Classic
-Luzern,Chopin-2,2014-02-14,[' Nelson Freire '],Classic
-Zürich,Internationales-Country-Music-Festival,2014-02-14,"['Mustang Sally ', ' The Shanes ']",
-null,La-notte-italiana,2014-02-14,[' Cristian Lanza '],Classic
-Schaffhausen,Chopin-und-eine-Romanze-und-verklärte-Nacht,2014-02-14,[' Martin P. Werner '],Classic
-Arbon,Q-tett,2014-02-14,"[' Urs C. Eigenmann ', ' Erwin Pfeifer ', ' Pino Buoro ', ' Nicole Aravena ', ' Berti Lampert ']",
-Zürich,Marcel-Buergi,2014-02-14,['Marcel Buergi '],Pop
-Zürich,Futurum-Der-Komponist-als-Prophet,2014-02-14,"[' Stefka Perifanova ', ' Karin Dornbusch ', ' von und mit Helena Winkelman ']",Classic
-Zürich,A-Valentine's-Dinner-Concert,2014-02-14,"['Rodrigo Botter Maio ', ' Antonela Lucia ']",
-Romanshorn,Stickerei-Jazz-Trio-feat.-Sutter-&-Meyer-&-Tiefenthaler,2014-02-14,"[' Miriam Sutter ', ' Romeo Meyer ', ' Erich Tiefenthaler ', ' Christoph Seitler ', ' Dave Maeder ', ' Adi Gerlach ']",
-Zürich,Acoustic-Friday,2014-02-14,"[""M'Adam"", ' Sophie Adam ', ' Florian Weiss ', ' Anatole Buccella ']",
-Zürich,Depeche-Mode,2014-02-14,['Depeche Mode '],Electronic
-Bern,Boys-Will-Be-Boys,2014-02-14,"[' Mars Williams ', ' Barry Guy ', ' Andreas Schaerer ', ' Lucas Niggli ']",
-Luzern,Riders-Connection,2014-02-14,['Riders Connection '],
-Rüeggisberg,Bachsuiten-und-sonaten,2014-02-14,"['Mauro Valli ', ' Dominik Röglin ']",Classic
-Zürich,Gerard,2014-02-14,['Gerard '],Electronic
-Zürich,Friedli-Irniger-Ravitz,2014-02-14,"[' Gabriela Friedli ', ' Christoph Irniger ', ' Ziv Ravitz ']",
-Zürich,Rembrandt-Frerichs-Trio,2014-02-14,"['Rembrandt Frerichs Trio ', ' Rembrandt Frerichs ', ' Tony Overwater ', ' Vinsent Planjer ']",
-Zürich,Eggs-Laid-By-Tigers,2014-02-14,['Eggs Laid By Tigers '],
-Stäfa,Canteca-De-Macao,2014-02-14,['Canteca De Macao '],
-Feuerthalen,Rudy-Rotta-Band,2014-02-14,['Rudy Rotta Band '],
-Basel,Ivan-Paduart-Trio,2014-02-14,"[' Trio Ivan Paduart ', ' Philippe Aerts ', ' Hans Van Oosterhout ']",
-Zürich,15-Jahre-Kontrabassduo-Studer-Frey,2014-02-14,"['John Butcher ', ' Peter K Frey ', ' Daniel Studer ']",
-Zürich,Brother-&-Bones,2014-02-14,['Brother & Bones '],
-Bern,Dead-Prez,2014-02-14,['Dead Prez '],
-Zürich,Thee-Silver-Mt.-Zion-Memorial-Orchestra,2014-02-14,['Thee Silver Mt. Zion Memorial Orchestra '],
-Thun,David-Philips,2014-02-14,['David Philips '],Pop
-Luzern,Viza,2014-02-14,['Viza '],
-Rubigen,Boppin'-B,2014-02-14,"[""Boppin' B ""]",
-Winterthur,Junip,2014-02-14,['Junip '],
-Bern,Parts-&-Pieces,2014-02-14,"[' Oli Kuster ', ' Claudia Marino ', ' Raphael Heggendorn ', ' Jérémie Jolo ']",
-Wil,Moop-Mama,2014-02-14,['Moop Mama '],
-Solothurn,Die-abstürzenden-Brieftauben,2014-02-14,['Die abstürzenden Brieftauben '],
-Basel,Kalles-Kaviar,2014-02-14,['Kalles Kaviar '],
-Lausanne,Adieu-Gary-Cooper,2014-02-14,['Adieu Gary Cooper '],
-Kriens,Tamikrest,2014-02-14,['Tamikrest '],
-Bern,Los-Terribles-De-Tijuana,2014-02-14,['Los Terribles De Tijuana '],
-Zürich,Philipp-Eden-Trio,2014-02-14,"[' Philipp Eden ', ' Dominique Girod ', ' Nicolas Stocker ']",
-Bern,Inside-The-Baxter-Building,2014-02-14,"[' Simon Petermann ', ' Christian Schütz ', ' Samuel Würgler ', ' Fabian Gutscher ']",
+,location,event,date,artists,genre
+0,Luzern,Piano-Entertainment,2014-02-14,['Christian Mettler '],['Pop']
+1,Basel,Orgelspiel-zum-Feierabend,2014-02-14,['Susanne Doll '],['Classic']
+2,Z?rich,Mayday-Parade,2014-02-14,"['Mayday Parade ', ' Our Last Night ', ' Man Overboard ', ' Secrets ', ' Divided By Friday ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Dietikon,Feierabendmusik-in-der-Kirche,2014-02-14,"['Doris Grossenbacher ', ' Bernhard H?rler ']",['Classic']
+4,Arbon,Q-tett,2014-02-14,"[' Urs C. Eigenmann ', ' Erwin Pfeifer ', ' Pino Buoro ', ' Nicole Aravena ', ' Berti Lampert ']","['Jazz', 'Blues', 'Soul']"
+5,Z?rich,Internationales-Country-Music-Festival,2014-02-14,"['Mustang Sally ', ' The Shanes ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Schaffhausen,Chopin-und-eine-Romanze-und-verkl?rte-Nacht,2014-02-14,[' Martin P. Werner '],['Classic']
+7,Z?rich,Futurum-Der-Komponist-als-Prophet,2014-02-14,"[' Stefka Perifanova ', ' Karin Dornbusch ', ' von und mit Helena Winkelman ']",['Classic']
+8,Luzern,Chopin-2,2014-02-14,[' Nelson Freire '],['Classic']
+9,Z?rich,Marcel-Buergi,2014-02-14,['Marcel Buergi '],['Pop']
+10,null,La-notte-italiana,2014-02-14,[' Cristian Lanza '],['Classic']
+11,Luzern,Riders-Connection,2014-02-14,['Riders Connection '],"['Jazz', 'Blues', 'Soul']"
+12,Z?rich,Gerard,2014-02-14,['Gerard '],['Electronic']
+13,R?eggisberg,Bachsuiten-und-sonaten,2014-02-14,"['Mauro Valli ', ' Dominik R?glin ']",['Classic']
+14,Romanshorn,Stickerei-Jazz-Trio-feat.-Sutter-&-Meyer-&-Tiefenthaler,2014-02-14,"[' Miriam Sutter ', ' Romeo Meyer ', ' Erich Tiefenthaler ', ' Christoph Seitler ', ' Dave Maeder ', ' Adi Gerlach ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,A-Valentine's-Dinner-Concert,2014-02-14,"['Rodrigo Botter Maio ', ' Antonela Lucia ']","['world', 'music']"
+16,Z?rich,Acoustic-Friday,2014-02-14,"[""M'Adam"", ' Sophie Adam ', ' Florian Weiss ', ' Anatole Buccella ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Depeche-Mode,2014-02-14,['Depeche Mode '],['Electronic']
+18,Bern,Boys-Will-Be-Boys,2014-02-14,"[' Mars Williams ', ' Barry Guy ', ' Andreas Schaerer ', ' Lucas Niggli ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Friedli-Irniger-Ravitz,2014-02-14,"[' Gabriela Friedli ', ' Christoph Irniger ', ' Ziv Ravitz ']","['Jazz', 'Blues', 'Soul']"
+20,Basel,Ivan-Paduart-Trio,2014-02-14,"[' Trio Ivan Paduart ', ' Philippe Aerts ', ' Hans Van Oosterhout ']","['Jazz', 'Blues', 'Soul']"
+21,St?fa,Canteca-De-Macao,2014-02-14,['Canteca De Macao '],"['world', 'music']"
+22,Z?rich,15-Jahre-Kontrabassduo-Studer-Frey,2014-02-14,"['John Butcher ', ' Peter K Frey ', ' Daniel Studer ']","['Jazz', 'Blues', 'Soul']"
+23,Z?rich,Eggs-Laid-By-Tigers,2014-02-14,['Eggs Laid By Tigers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Z?rich,Rembrandt-Frerichs-Trio,2014-02-14,"['Rembrandt Frerichs Trio ', ' Rembrandt Frerichs ', ' Tony Overwater ', ' Vinsent Planjer ']","['Jazz', 'Blues', 'Soul']"
+25,Feuerthalen,Rudy-Rotta-Band,2014-02-14,['Rudy Rotta Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Z?rich,Brother-&-Bones,2014-02-14,[' Bones '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Bern,Dead-Prez,2014-02-14,['Dead Prez '],"['Hip', 'Hop', ""R'n'B""]"
+28,Z?rich,Thee-Silver-Mt.-Zion-Memorial-Orchestra,2014-02-14,['Thee Silver Mt. Zion Memorial Orchestra '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Thun,David-Philips,2014-02-14,['David Philips '],['Pop']
+30,Luzern,Viza,2014-02-14,['Viza '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Rubigen,Boppin'-B,2014-02-14,"[""Boppin' B ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Winterthur,Junip,2014-02-14,['Junip '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Bern,Parts-&-Pieces,2014-02-14,"[' Oli Kuster ', ' Claudia Marino ', ' Raphael Heggendorn ', ' J?r?mie Jolo ']","['Jazz', 'Blues', 'Soul']"
+34,Wil,Moop-Mama,2014-02-14,['Moop Mama '],"['Hip', 'Hop', ""R'n'B""]"
+35,Solothurn,Die-abst?rzenden-Brieftauben,2014-02-14,['Die abst?rzenden Brieftauben '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Basel,Kalles-Kaviar,2014-02-14,['Kalles Kaviar '],"['Hip', 'Hop', ""R'n'B""]"
+37,Kriens,Tamikrest,2014-02-14,['Tamikrest '],"['world', 'music']"
+38,Bern,Los-Terribles-De-Tijuana,2014-02-14,['Los Terribles De Tijuana '],"['world', 'music']"
+39,Z?rich,Philipp-Eden-Trio,2014-02-14,"[' Philipp Eden ', ' Dominique Girod ', ' Nicolas Stocker ']","['Jazz', 'Blues', 'Soul']"
+40,Bern,Inside-The-Baxter-Building,2014-02-14,"[' Simon Petermann ', ' Christian Sch?tz ', ' Samuel W?rgler ', ' Fabian Gutscher ']","['Jazz', 'Blues', 'Soul']"

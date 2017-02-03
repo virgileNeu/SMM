@@ -1,51 +1,51 @@
-location,event,date,artists,genre
-Winterthur,Midi-Musical-Musik-über-Mittag,2013-03-08,"[' Cäcilia Chmel ', ' Anikó Illényi ', ' Moritz Huemer ', ' Françoise Schiltknecht ']",Classic
-Cry-d'Er,Crans-Montana,2013-03-08,[' Poni Hoax '],
-Luzern,Piano-Entertainment-Pure-Melodies,2013-03-08,['Oliver Töngi '],Pop
-Basel,Orgelspiel-zum-Feierabend,2013-03-08,['Nadja Becchetta '],Classic
-Worblaufen,Charlie-Morris-Blues-Band,2013-03-08,['Charlie Morris Blues Band '],
-Bern,Grenzgänge(r),2013-03-08,[' Anu Komsi '],Classic
-Zug,Vandercash,2013-03-08,['Vandercash '],
-Basel,AMG-Solistenabend,2013-03-08,[' Angelika Kirchschlager '],Classic
-Winterthur,Tränen-Quellen-Veil-of-Tears,2013-03-08,"[' Anne Schmid ', ' Pascale Van Coppenolle ']",Classic
-Zürich,Un-soir-a-la-cour,2013-03-08,"['Alexander Seidel ', ' Jonathan Rubin ']",Classic
-Basel,Sagenhaft!-Traditionelle-Sagen-und-zeitgenössische-Musik,2013-03-08,"['Mit Sylvia Diethelm-Seeger ', ' Marc Bätscher ']",Classic
-Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-08,"['Peter Doherty ', ' Lou Doillon ', ' M ']",
-Luzern,Exumer,2013-03-08,"['Exumer ', ' support: Vendetta ', ' Scanner ']",
-Winterthur,Konzertreihe-Kulturkoller,2013-03-08,"[' Melinda Stocker ', ' Andrea Sutter ', ' Sebastian Tortosa ']",Classic
-Arlesheim,Lukas-Passion,2013-03-08,"[' Vera Ehrensperger ', ' Dieter Wagner ', ' Michael Jäger ']",Classic
-null,The-Real-Group,2013-03-08,['The Real Group '],Pop
-Winterthur,Mute-Swimmer,2013-03-08,['Mute Swimmer '],Pop
-null,Weltklassik,2013-03-08,[' Francois Leleux '],Classic
-Zürich,Brenda-Mc-Morrow,2013-03-08,['Brenda Mc Morrow '],Pop
-null,The-Real-Group,2013-03-08,['The Real Group '],Pop
-Zürich,Gheorghe-Zamfir-Der-König-der-Panflöte,2013-03-08,"['Gheorghe Zamfir ', ' Christiane Gugger ']",Classic
-Stäfa,Orgelzyklus,2013-03-08,['Michael Pelz '],Classic
-Basel,Blues-Now-John-Németh-Band,2013-03-08,['John Németh Band '],
-Schaffhausen,Murmur,2013-03-08,"[' Tobias Meier ', ' Dave Gisler ', ' Martin Birnstiel ', ' Markus Lauterburg ']",
-Kultur-Cinema,Arbon,2013-03-08,"[' Roberto Bosshard ', ' Andreas Zitz ', ' Pius Baschnagel ', ' Christian Münchinger ']",
-Zürich,China-Moses,2013-03-08,"['China Moses ', ' China Moses ', ' Raphael Lemonnier ', ' Fabien Marcoz ', ' Jean Pierre Derouard ']",
-Salzhaus-Brugg,null,2013-03-08,['Krystle Warren '],
-Baden,Los-Acuña,2013-03-08,"['Los Acuña ', ' Carlos Acuña ', ' Cesar Acuña ', ' Carlos Caniza ', ' Robertoi Gruber ']",
-Zürich,Make-Do-And-Mend,2013-03-08,['Make Do And Mend '],
-Uster,Kaspar-Ewalds-Exorbitantes-Kabinett,2013-03-08,"[' Andrea Formenti ', ' Beat Hofstetter ', ' Beat Kappeler ', ' Bernhard Bamert ', ' Daniel Woodtli ', ' Gregor Hilbe ']",
-Lugano,Concerti-Dell'auditorio-2013,2013-03-08,['Cédric Pescia '],Classic
-Basel,Bert-Joris-Quartet,2013-03-08,"[' Bert Joris ', ' Dado Moroni ', ' Philippe Aerts ', ' Dré Pallemaerts ']",
-Liebefeld,Schläppi-Copland,2013-03-08,"[' Daniel Schläppi ', ' Marc Copland ']",
-Mühlethurnen,Dean-Wilson-and-the-Chilli-Poppers,2013-03-08,"[' Dean Wilson ', ' Will James ', ' Eddy Jones ', ' Jack Spencer ']",
-Bierhübeli,Bern,2013-03-08,['Kosheen '],Kosheen
-LUZ-Seebistro,Luzern,2013-03-08,['Lindsay Ferguson '],
-Basel,3-Jahre-Irie-Shottaz,2013-03-08,[' Phantom Ranks '],
-Les-Docks,Lausanne,2013-03-08,['Yo La Tengo '],
-Moonwalker-Music-Club,Aarburg,2013-03-08,['Rudy Rotta '],
-Zürich,Elmar-Frey-Sextett,2013-03-08,"[' Elmar Frey ', ' Daniel Schenker ', ' Christoph Grab ', ' Stefan Schlegel ', ' Alessandro dEpiscopo ', ' Daniel Fricker ']",
-Kraftfeld,Winterthur,2013-03-08,['De Staat '],
-Bern,Strongt,2013-03-08,"['Strongt ', ' Peter Tièche ', ' Stephan Muendlein ', ' Kurt Leiser ', ' Beat Ernst ', ' Stefu Kurzo ']",
-Hasliberg-Hohfluh,Owen-Temple,2013-03-08,['Owen Temple '],Pop
-Schaffhausen,Micha-Sportelli-Micha-Sportelli-und-Band,2013-03-08,['Micha Sportelli Micha Sportelli und Band '],Pop
-Luzern,Morning-Transfer,2013-03-08,['Morning Transfer '],
-Luzern,The-Jazz-Legends,2013-03-08,"['Joan Faulkner ', ' Csik Gustav ']",
-null,Rhythm-Revolution,2013-03-08,['Tylene '],Electronic
-Zug,Gerda-Blank,2013-03-08,['Gerda Blank '],
-Aarau,Illbilly-Hitec-feat.-Longfingah,2013-03-08,['Illbilly Hitec feat. Longfingah '],
-Zürich,Les-Spadassins,2013-03-08,['Les Spadassins '],
+,location,event,date,artists,genre
+0,Winterthur,Midi-Musical-Musik-über-Mittag,2013-03-08,"[' Cäcilia Chmel ', ' Anikó Illényi ', ' Moritz Huemer ', ' Françoise Schiltknecht ']",['Classic']
+1,Cry-d'Er,Crans-Montana,2013-03-08,[' Poni Hoax '],"['Labrador', 'City']"
+2,Luzern,Piano-Entertainment-Pure-Melodies,2013-03-08,['Oliver Töngi '],['Pop']
+3,Basel,Orgelspiel-zum-Feierabend,2013-03-08,['Nadja Becchetta '],['Classic']
+4,Worblaufen,Charlie-Morris-Blues-Band,2013-03-08,['Charlie Morris Blues Band '],"['Jazz', 'Blues', 'Soul']"
+5,Bern,Grenzgänge(r),2013-03-08,[' Anu Komsi '],['Classic']
+6,Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-08,"['Peter Doherty ', ' Lou Doillon ', ' M ']","['Sophie', 'Hunger']"
+7,Luzern,Exumer,2013-03-08,"['Exumer ', ' support: Vendetta ', ' Scanner ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Basel,AMG-Solistenabend,2013-03-08,[' Angelika Kirchschlager '],['Classic']
+9,Winterthur,Tränen-Quellen-Veil-of-Tears,2013-03-08,"[' Anne Schmid ', ' Pascale Van Coppenolle ']",['Classic']
+10,Zug,Vandercash,2013-03-08,['Vandercash '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Zürich,Un-soir-a-la-cour,2013-03-08,"['Alexander Seidel ', ' Jonathan Rubin ']",['Classic']
+12,Basel,Sagenhaft!-Traditionelle-Sagen-und-zeitgenössische-Musik,2013-03-08,"['Mit Sylvia Diethelm-Seeger ', ' Marc Bätscher ']",['Classic']
+13,Zürich,Gheorghe-Zamfir-Der-König-der-Panflöte,2013-03-08,"['Gheorghe Zamfir ', ' Christiane Gugger ']",['Classic']
+14,Winterthur,Konzertreihe-Kulturkoller,2013-03-08,"[' Melinda Stocker ', ' Andrea Sutter ', ' Sebastian Tortosa ']",['Classic']
+15,null,The-Real-Group,2013-03-08,['The Real Group '],['Pop']
+16,Arlesheim,Lukas-Passion,2013-03-08,"[' Vera Ehrensperger ', ' Dieter Wagner ', ' Michael Jäger ']",['Classic']
+17,Winterthur,Mute-Swimmer,2013-03-08,['Mute Swimmer '],['Pop']
+18,null,Weltklassik,2013-03-08,[' Francois Leleux '],['Classic']
+19,Zürich,Brenda-Mc-Morrow,2013-03-08,['Brenda Mc Morrow '],['Pop']
+20,null,The-Real-Group,2013-03-08,['The Real Group '],['Pop']
+21,Stäfa,Orgelzyklus,2013-03-08,['Michael Pelz '],['Classic']
+22,Basel,Blues-Now-John-Németh-Band,2013-03-08,['John Németh Band '],"['Jazz', 'Blues', 'Soul']"
+23,Salzhaus-Brugg,null,2013-03-08,['Krystle Warren '],"['Krystle', 'Warren']"
+24,Mühlethurnen,Dean-Wilson-and-the-Chilli-Poppers,2013-03-08,"[' Dean Wilson ', ' Will James ', ' Eddy Jones ', ' Jack Spencer ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Uster,Kaspar-Ewalds-Exorbitantes-Kabinett,2013-03-08,"[' Andrea Formenti ', ' Beat Hofstetter ', ' Beat Kappeler ', ' Bernhard Bamert ', ' Daniel Woodtli ', ' Gregor Hilbe ']","['Jazz', 'Blues', 'Soul']"
+26,Baden,Los-Acuña,2013-03-08,"['Los Acuña ', ' Carlos Acuña ', ' Cesar Acuña ', ' Carlos Caniza ', ' Robertoi Gruber ']","['world', 'music']"
+27,Basel,Bert-Joris-Quartet,2013-03-08,"[' Bert Joris ', ' Dado Moroni ', ' Philippe Aerts ', ' Dré Pallemaerts ']","['Jazz', 'Blues', 'Soul']"
+28,Liebefeld,Schläppi-Copland,2013-03-08,"[' Daniel Schläppi ', ' Marc Copland ']","['Jazz', 'Blues', 'Soul']"
+29,Lugano,Concerti-Dell'auditorio-2013,2013-03-08,['Cédric Pescia '],['Classic']
+30,Schaffhausen,Murmur,2013-03-08,"[' Tobias Meier ', ' Dave Gisler ', ' Martin Birnstiel ', ' Markus Lauterburg ']","['Jazz', 'Blues', 'Soul']"
+31,Zürich,Make-Do-And-Mend,2013-03-08,['Make Do And Mend '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Kultur-Cinema,Arbon,2013-03-08,"[' Roberto Bosshard ', ' Andreas Zitz ', ' Pius Baschnagel ', ' Christian Münchinger ']","['Christian', 'Münchinger', 'Quartet']"
+33,Zürich,China-Moses,2013-03-08,"['China Moses ', ' China Moses ', ' Raphael Lemonnier ', ' Fabien Marcoz ', ' Jean Pierre Derouard ']","['Jazz', 'Blues', 'Soul']"
+34,Bierhübeli,Bern,2013-03-08,['Kosheen '],['Kosheen']
+35,LUZ-Seebistro,Luzern,2013-03-08,['Lindsay Ferguson '],"['Lindsay', 'Ferguson']"
+36,Kraftfeld,Winterthur,2013-03-08,['De Staat '],"['Fai', 'Baba']"
+37,Moonwalker-Music-Club,Aarburg,2013-03-08,['Rudy Rotta '],"['Rudy', 'Rotta']"
+38,Zürich,Elmar-Frey-Sextett,2013-03-08,"[' Elmar Frey ', ' Daniel Schenker ', ' Christoph Grab ', ' Stefan Schlegel ', ' Alessandro dEpiscopo ', ' Daniel Fricker ']","['Jazz', 'Blues', 'Soul']"
+39,Basel,3-Jahre-Irie-Shottaz,2013-03-08,[' Phantom Ranks '],"['Hip', 'Hop', ""R'n'B""]"
+40,Bern,Strongt,2013-03-08,"['Strongt ', ' Peter Tièche ', ' Stephan Muendlein ', ' Kurt Leiser ', ' Beat Ernst ', ' Stefu Kurzo ']","['Jazz', 'Blues', 'Soul']"
+41,Les-Docks,Lausanne,2013-03-08,['Yo La Tengo '],"['Yo', 'La', 'Tengo']"
+42,Hasliberg-Hohfluh,Owen-Temple,2013-03-08,['Owen Temple '],['Pop']
+43,Schaffhausen,Micha-Sportelli-Micha-Sportelli-und-Band,2013-03-08,['Micha Sportelli Micha Sportelli und Band '],['Pop']
+44,Luzern,The-Jazz-Legends,2013-03-08,"['Joan Faulkner ', ' Csik Gustav ']","['Jazz', 'Blues', 'Soul']"
+45,Luzern,Morning-Transfer,2013-03-08,['Morning Transfer '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+46,Zug,Gerda-Blank,2013-03-08,['Gerda Blank '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+47,Aarau,Illbilly-Hitec-feat.-Longfingah,2013-03-08,['Illbilly Hitec feat. Longfingah '],"['Hip', 'Hop', ""R'n'B""]"
+48,Zürich,Les-Spadassins,2013-03-08,['Les Spadassins '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+49,null,Rhythm-Revolution,2013-03-08,['Tylene '],['Electronic']

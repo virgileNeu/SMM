@@ -1,12 +1,12 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment,2014-09-30,['Daniel Roos '],
-Frauenfeld,Munich-Saxophone-Family,2014-09-30,"['Munich Saxophone Family ', ' Evan Tate ', ' Jürgen Seefelder ', ' Roman Schwaller ', ' Thomas Zoller ']",
-Bern,The-Led-Farmers-(IRL),2014-09-30,['The Led Farmers '],
-Zürich,The-Jazz-Quartet,2014-09-30,"['Florian Egli ', ' Dave Gisler ', ' Raphael Walser ', ' Dave Meier ']",
-null,Gregor-Huebner-Trio-feat.-Paolo-Fresu,2014-09-30,"[' Paolo Fresu ', ' Gregor Hübner ', ' Veit Hübner ', ' Patrick Manzecchi ']",
-Zürich,Karma-To-Burn,2014-09-30,['Karma To Burn '],
-Basel,Christian-Muthspiel-4-feat.-Steve-Swallow,2014-09-30,"[' Christian Muthspiel ', ' Matthieu Michel ', ' Franck Tortiller ', ' Steve Swallow ']",
-Luzern,Students'-Concert,2014-09-30,"[' Claudia Döffinger ', ' Fabian Rosenzweig ', ' Beat Rüegsegger ', ' Flavio Viazzoli ']",
-Lausanne,Bombino,2014-09-30,['Bombino '],
-Frauenfeld,Klaus-König-Trio,2014-09-30,"[' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']",
-Basel,Wolvserpent,2014-09-30,['Wolvserpent '],
+,location,event,date,artists,genre
+0,Luzern,Piano-Entertainment,2014-09-30,['Daniel Roos '],"['Hip', 'Hop', ""R'n'B""]"
+1,Frauenfeld,Munich-Saxophone-Family,2014-09-30,"['Munich Saxophone Family ', ' Evan Tate ', ' J?rgen Seefelder ', ' Roman Schwaller ', ' Thomas Zoller ']","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Karma-To-Burn,2014-09-30,['Karma To Burn '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Bern,The-Led-Farmers-(IRL),2014-09-30,['The Led Farmers '],"['world', 'music']"
+4,null,Gregor-Huebner-Trio-feat.-Paolo-Fresu,2014-09-30,"[' Paolo Fresu ', ' Gregor H?bner ', ' Veit H?bner ', ' Patrick Manzecchi ']","['Jazz', 'Blues', 'Soul']"
+5,Z?rich,The-Jazz-Quartet,2014-09-30,"['Florian Egli ', ' Dave Gisler ', ' Raphael Walser ', ' Dave Meier ']","['Jazz', 'Blues', 'Soul']"
+6,Basel,Christian-Muthspiel-4-feat.-Steve-Swallow,2014-09-30,"[' Christian Muthspiel ', ' Matthieu Michel ', ' Franck Tortiller ', ' Steve Swallow ']","['Jazz', 'Blues', 'Soul']"
+7,Luzern,Students'-Concert,2014-09-30,"[' Claudia D?ffinger ', ' Fabian Rosenzweig ', ' Beat R?egsegger ', ' Flavio Viazzoli ']","['Jazz', 'Blues', 'Soul']"
+8,Lausanne,Bombino,2014-09-30,['Bombino '],"['Jazz', 'Blues', 'Soul']"
+9,Frauenfeld,Klaus-K?nig-Trio,2014-09-30,"[' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']","['Jazz', 'Blues', 'Soul']"
+10,Basel,Wolvserpent,2014-09-30,['Wolvserpent '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

@@ -1,16 +1,16 @@
-location,event,date,artists,genre
-Zürich,Masterinterpreten-Opus-I,2014-10-08,[' Maria Solozobova '],Classic
-Pratteln,Master,2014-10-08,['Master '],
-null,Internationales-Gitarrenfestival-Fribourg,2014-10-08,['Miyasaki-Lagrost '],
-Zürich,Soja,2014-10-08,"['Soja ', '  Lloyd Yates ']",
-Chur,Folkclub-Chur,2014-10-08,['Randy Thompson Band '],
-Zürich,Jazzbaragge-Wednesday-Jam,2014-10-08,"['Dave Gisler ', ' Raphael Walser ', ' Rico Baumann ']",
-Zürich,Jungle-Soap,2014-10-08,"[' Hansueli Tischhauser ', ' Andreas Wettstein ']",
-Winterthur,Ghost-Town-Trio,2014-10-08,"[' Bettina Klöti ', ' Vera Kappeler ', ' Urs Vögeli ']",
-Zürich,Lurrie-Bell,2014-10-08,"['Lurrie Bell ', ' Lurrie Bell ', ' Melvin Smith ', ' Russell Green ', ' Willie Hayes ']",Pop
-null,Hundred-Waters,2014-10-08,['Hundred Waters '],
-null,Wiedmann-King-Krischkowsky,2014-10-08,"[' Martin Wiedmann ', ' Florian King ', ' Christian Krischkowsky ']",
-null,Swans,2014-10-08,"['Swans ', ' Pharmakon ']",
-Basel,Melanoia,2014-10-08,"[' Hayden Chisholm ', ' Ronnie Graupe ', ' Achim Kaufmann ', ' Dejan Terzic ']",
-Basel,Scratches,2014-10-08,"[' Sarah-Maria Bürgin ', ' Sandro Corbat ']",Pop
-Kriens,ZS,2014-10-08,['ZS '],
+,location,event,date,artists,genre
+0,Pratteln,Master,2014-10-08,['Master '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Z?rich,Masterinterpreten-Opus-I,2014-10-08,[' Maria Solozobova '],['Classic']
+2,Chur,Folkclub-Chur,2014-10-08,['Randy Thompson Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,Soja,2014-10-08,"['Soja ', '  Lloyd Yates ']","['Hip', 'Hop', ""R'n'B""]"
+4,Z?rich,Jungle-Soap,2014-10-08,"[' Hansueli Tischhauser ', ' Andreas Wettstein ']","['Jazz', 'Blues', 'Soul']"
+5,null,Internationales-Gitarrenfestival-Fribourg,2014-10-08,['Miyasaki-Lagrost '],"['world', 'music']"
+6,Z?rich,Jazzbaragge-Wednesday-Jam,2014-10-08,"['Dave Gisler ', ' Raphael Walser ', ' Rico Baumann ']","['Jazz', 'Blues', 'Soul']"
+7,Winterthur,Ghost-Town-Trio,2014-10-08,"[' Bettina Kl?ti ', ' Vera Kappeler ', ' Urs V?geli ']","['Jazz', 'Blues', 'Soul']"
+8,null,Swans,2014-10-08,"['Swans ', ' Pharmakon ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Lurrie-Bell,2014-10-08,"['Lurrie Bell ', ' Lurrie Bell ', ' Melvin Smith ', ' Russell Green ', ' Willie Hayes ']",['Pop']
+10,Basel,Melanoia,2014-10-08,"[' Hayden Chisholm ', ' Ronnie Graupe ', ' Achim Kaufmann ', ' Dejan Terzic ']","['Jazz', 'Blues', 'Soul']"
+11,null,Hundred-Waters,2014-10-08,['Hundred Waters '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,null,Wiedmann-King-Krischkowsky,2014-10-08,"[' Martin Wiedmann ', ' Florian King ', ' Christian Krischkowsky ']","['Jazz', 'Blues', 'Soul']"
+13,Kriens,ZS,2014-10-08,['ZS '],"['Jazz', 'Blues', 'Soul']"
+14,Basel,Scratches,2014-10-08,"[' Sarah-Maria B?rgin ', ' Sandro Corbat ']",['Pop']

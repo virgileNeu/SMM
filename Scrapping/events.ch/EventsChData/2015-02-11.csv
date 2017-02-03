@@ -1,21 +1,20 @@
-location,event,date,artists,genre
-Zürich,Internationales-Country-Music-Festival,2015-02-11,['Michael Ballew & The Damn Good Texas Band '],
-Zürich,Tonhalle-Orchester-Zürich,2015-02-11,['Steven Isserlis '],Classic
-Basel,AMG-Rising-Stars,2015-02-11,['Boris Giltburg '],Classic
-Aarau,Ghost-Brigade,2015-02-11,"['Ghost Brigade ', ' Agrimonia ', ' Talbot ']",
-Zürich,Jazzbaragge-Wednesday-Jam,2015-02-11,"['Colin Vallon ', ' Raphaël Ortis ', ' Raphael Pedroli ']",
-Zürich,D'Angelo,2015-02-11,"[""D'Angelo ""]",
-Luzern,Jam-Night,2015-02-11,"[' Lukas Derungs ', ' Lukas Hatzis ', ' Lukas Jank ']",
-Aarau,En-blanc-et-noir,2015-02-11,"['Susanne Huber ', ' André Thomet ']",Classic
-Winterthur,Ghost-Town-Trio-feat.-Veronika-Stadler,2015-02-11,"[' Rahel Hadorn ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Küenzi ']",
-Zürich,Mantar,2015-02-11,['Mantar '],
-Zürich,Suisse-Diagonales-Jazz,2015-02-11,"[' Marc Méan ', ' Ganesh Geymeier ', ' Maxence Sibille ', ' Nils Fischer ', ' David Koch ', ' Samuel Huwyler ']",
-Winterthur,November-December,2015-02-11,['November December '],Pop
-Zürich,MC-Fitti,2015-02-11,['MC Fitti '],
-Zürich,Ella-Ronen-Duo,2015-02-11,['Ella Ronen Duo '],Pop
-Basel,Donat-Fisch-Quartet,2015-02-11,"[' Donat Fisch ', ' Andy Scherrer ', ' Christian Weber ', ' Norbert Pfammatter ']",
-Wädenswil,Suisse-Diagonales-Jazz,2015-02-11,"[' Dominic Landolt ', ' Ramon Landolt ', ' Mario Hänni ', ' Michael Bucher ', ' Thomas Bauser ', ' Lukas Mantel ']",
-Bern,Maurice-Louca,2015-02-11,['Maurice Louca '],
-Zürich,Violoncello-und-Klavier,2015-02-11,"[' Bram Buitenkant ', ' David Reitz ']",Classic
-Basel,Pink-Pedrazzi,2015-02-11,"[' Oli Hartung ', ' Andi Hug ', ' Peter Wagner ', ' Sandra Merk ']",Pop
-Lausanne,Lydia-Ainsworth,2015-02-11,['Lydia Ainsworth '],Pop
+,location,event,date,artists,genre
+0,Basel,AMG-Rising-Stars,2015-02-11,['Boris Giltburg '],['Classic']
+1,Aarau,Ghost-Brigade,2015-02-11,"['Ghost Brigade ', ' Agrimonia ', ' Talbot ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Z?rich,Tonhalle-Orchester-Z?rich,2015-02-11,['Steven Isserlis '],['Classic']
+3,Luzern,Jam-Night,2015-02-11,"[' Lukas Derungs ', ' Lukas Hatzis ', ' Lukas Jank ']","['Hip', 'Hop', ""R'n'B""]"
+4,Z?rich,Jazzbaragge-Wednesday-Jam,2015-02-11,"['Colin Vallon ', ' Rapha?l Ortis ', ' Raphael Pedroli ']","['Jazz', 'Blues', 'Soul']"
+5,Aarau,En-blanc-et-noir,2015-02-11,"['Susanne Huber ', ' Andr? Thomet ']",['Classic']
+6,Z?rich,D'Angelo,2015-02-11,"[""D'Angelo ""]","['Jazz', 'Blues', 'Soul']"
+7,Winterthur,Ghost-Town-Trio-feat.-Veronika-Stadler,2015-02-11,"[' Rahel Hadorn ', ' Urs V?geli ', ' Claude Meier ', ' Emanuel K?enzi ']","['Jazz', 'Blues', 'Soul']"
+8,Bern,Maurice-Louca,2015-02-11,['Maurice Louca '],"['world', 'music']"
+9,Z?rich,Ella-Ronen-Duo,2015-02-11,['Ella Ronen Duo '],['Pop']
+10,Z?rich,MC-Fitti,2015-02-11,['MC Fitti '],"['Hip', 'Hop', ""R'n'B""]"
+11,Winterthur,November-December,2015-02-11,['November December '],['Pop']
+12,W?denswil,Suisse-Diagonales-Jazz,2015-02-11,"[' Dominic Landolt ', ' Ramon Landolt ', ' Mario H?nni ', ' Michael Bucher ', ' Thomas Bauser ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Violoncello-und-Klavier,2015-02-11,"[' Bram Buitenkant ', ' David Reitz ']",['Classic']
+14,Z?rich,Mantar,2015-02-11,['Mantar '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Basel,Donat-Fisch-Quartet,2015-02-11,"[' Donat Fisch ', ' Andy Scherrer ', ' Christian Weber ', ' Norbert Pfammatter ']","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Suisse-Diagonales-Jazz,2015-02-11,"[' Marc M?an ', ' Ganesh Geymeier ', ' Maxence Sibille ', ' Nils Fischer ', ' David Koch ', ' Samuel Huwyler ']","['Jazz', 'Blues', 'Soul']"
+17,Lausanne,Lydia-Ainsworth,2015-02-11,['Lydia Ainsworth '],['Pop']
+18,Basel,Pink-Pedrazzi,2015-02-11,"[' Oli Hartung ', ' Andi Hug ', ' Peter Wagner ', ' Sandra Merk ']",['Pop']

@@ -1,13 +1,13 @@
-location,event,date,artists,genre
-Zürich,Jazzapero,2014-10-07,"[' Dudu Penz ', ' Mauro Martins ', ' Floriano Inácio Junior ', ' Rodrigo Botter Maio ']",
-Zürich,Konzert,2014-10-07,"[' Dame Evelyn Glennie ', ' Fabian Müller ']",Classic
-Zürich,Erlend-Øye-&-The-Rainbows,2014-10-07,['Erlend Øye & The Rainbows '],Pop
-Bern,Me,2014-10-07,['Me '],
-Zürich,Scherrer-Evans-Kurmann-Rossy,2014-10-07,"[' Andy Scherrer ', ' William Evans ', ' Stephan Kurmann ', ' Jorge Rossy ']",
-Luzern,Tribe-Frowst,2014-10-07,"[' DJs Pascal Eugster ', ' Nicolas Gurtner ', ' Lucien Matthey ']",
-null,Helldorado,2014-10-07,['Helldorado '],
-Luzern,Amplifier,2014-10-07,['Amplifier '],
-Zürich,Hundred-Waters,2014-10-07,['Hundred Waters '],
-Basel,Melanoia,2014-10-07,"[' Hayden Chisholm ', ' Ronnie Graupe ', ' Achim Kaufmann ', ' Dejan Terzic ']",
-Basel,Black-Atlass,2014-10-07,['Black Atlass '],
-null,Swans,2014-10-07,"['Swans ', ' Pharmakon ']",
+,location,event,date,artists,genre
+0,Z?rich,Jazzapero,2014-10-07,"[' Dudu Penz ', ' Mauro Martins ', ' Floriano In?cio Junior ', ' Rodrigo Botter Maio ']","['Jazz', 'Blues', 'Soul']"
+1,Z?rich,Konzert,2014-10-07,"[' Dame Evelyn Glennie ', ' Fabian M?ller ']",['Classic']
+2,Z?rich,Erlend-?ye-&-The-Rainbows,2014-10-07,[' The Rainbows '],['Pop']
+3,Bern,Me,2014-10-07,['Me '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,Scherrer-Evans-Kurmann-Rossy,2014-10-07,"[' Andy Scherrer ', ' William Evans ', ' Stephan Kurmann ', ' Jorge Rossy ']","['Jazz', 'Blues', 'Soul']"
+5,Luzern,Tribe-Frowst,2014-10-07,"[' DJs Pascal Eugster ', ' Nicolas Gurtner ', ' Lucien Matthey ']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Hundred-Waters,2014-10-07,['Hundred Waters '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Luzern,Amplifier,2014-10-07,['Amplifier '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Basel,Melanoia,2014-10-07,"[' Hayden Chisholm ', ' Ronnie Graupe ', ' Achim Kaufmann ', ' Dejan Terzic ']","['Jazz', 'Blues', 'Soul']"
+9,null,Helldorado,2014-10-07,['Helldorado '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,null,Swans,2014-10-07,"['Swans ', ' Pharmakon ']","['Jazz', 'Blues', 'Soul']"
+11,Basel,Black-Atlass,2014-10-07,['Black Atlass '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

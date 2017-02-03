@@ -1,13 +1,13 @@
-location,event,date,artists,genre
-Zürich,Lunchkonzert,2014-02-24,"[' Laurent Weibel ', ' Sebastian Eyb ', ' Barbara Oehm ', ' Sarah Tysman ']",Classic
-Zürich,Steirer-Quintett,2014-02-24,['Steirer Quintett '],traditional
-Zürich,Mit-Schubert-durch-die-Jahreszeiten,2014-02-24,"['Michelle Breedt ', ' Nina Schumann ']",Classic
-Zürich,Spektrum-Schlagzeug-und-Klavier,2014-02-24,"['Yulia Miloslavskaya ', ' Mischa Cheung ', ' Rainer Seegers ', ' Klaus Schwärzler ']",Classic
-Zürich,Old-School-Piano-Blues,2014-02-24,['Andy Boller '],
-Zürich,Truckfighters,2014-02-24,"['Truckfighters ', ' White Miles ', ' Valley Of The Sun ']",
-null,Little-Chevy,2014-02-24,"['Little Chevy ', ' Christoph Schwaninger ', ' Markus Werner ', ' Andy Lang ']",
-Zürich,Howe-Gelb,2014-02-24,['Howe Gelb '],Pop
-Baden,Philm,2014-02-24,"[' Philipp Gropper ', ' Elias Stemeseder ', ' Andreas Lang ', ' Oliver Steidle ']",
-Winterthur,Akin-Soul-Trio,2014-02-24,"[' Corinne Huber ', ' Michael Haudenschild ', ' Christoph Huber ']",
-Winterthur,Take-Berlin,2014-02-24,['Take Berlin '],Pop
-Zürich,Zouk-Matters,2014-02-24,['DJ Libre '],
+,location,event,date,artists,genre
+0,Z?rich,Lunchkonzert,2014-02-24,"[' Laurent Weibel ', ' Sebastian Eyb ', ' Barbara Oehm ', ' Sarah Tysman ']",['Classic']
+1,Z?rich,Steirer-Quintett,2014-02-24,['Steirer Quintett '],['traditional']
+2,Z?rich,Mit-Schubert-durch-die-Jahreszeiten,2014-02-24,"['Michelle Breedt ', ' Nina Schumann ']",['Classic']
+3,Z?rich,Spektrum-Schlagzeug-und-Klavier,2014-02-24,"['Yulia Miloslavskaya ', ' Mischa Cheung ', ' Rainer Seegers ', ' Klaus Schw?rzler ']",['Classic']
+4,Z?rich,Old-School-Piano-Blues,2014-02-24,['Andy Boller '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,Truckfighters,2014-02-24,"['Truckfighters ', ' White Miles ', ' Valley Of The Sun ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,null,Little-Chevy,2014-02-24,"['Little Chevy ', ' Christoph Schwaninger ', ' Markus Werner ', ' Andy Lang ']","['Hip', 'Hop', ""R'n'B""]"
+7,Z?rich,Howe-Gelb,2014-02-24,['Howe Gelb '],['Pop']
+8,Baden,Philm,2014-02-24,"[' Philipp Gropper ', ' Elias Stemeseder ', ' Andreas Lang ', ' Oliver Steidle ']","['Jazz', 'Blues', 'Soul']"
+9,Winterthur,Akin-Soul-Trio,2014-02-24,"[' Corinne Huber ', ' Michael Haudenschild ', ' Christoph Huber ']","['Jazz', 'Blues', 'Soul']"
+10,Winterthur,Take-Berlin,2014-02-24,['Take Berlin '],['Pop']
+11,Z?rich,Zouk-Matters,2014-02-24,['DJ Libre '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

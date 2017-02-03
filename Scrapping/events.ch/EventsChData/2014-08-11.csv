@@ -1,7 +1,7 @@
-location,event,date,artists,genre
-Lyss,August-Burns-Red,2014-08-11,['August Burns Red '],
-Winterthur,Paul-Fogarty,2014-08-11,['Paul Fogarty '],Pop
-Muntelier,Murten-Classics-Apérokonzert,2014-08-11,"[' Jakub Výborný ', ' Bohumír Strnad ', ' Otakar Salajka ', ' Radan Vach ']",Classic
-Zürich,Sha's-Feckel,2014-08-11,[' Joel Gilardini '],Electronic
-Düdingen,Six-Feet-Under,2014-08-11,['Six Feet Under '],
-Zürich,Zouk-Matters,2014-08-11,['DJ Soulz '],
+,location,event,date,artists,genre
+0,Lyss,August-Burns-Red,2014-08-11,['August Burns Red '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Muntelier,Murten-Classics-Ap?rokonzert,2014-08-11,"[' Jakub V?born? ', ' Bohum?r Strnad ', ' Otakar Salajka ', ' Radan Vach ']",['Classic']
+2,Winterthur,Paul-Fogarty,2014-08-11,['Paul Fogarty '],['Pop']
+3,D?dingen,Six-Feet-Under,2014-08-11,['Six Feet Under '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,Sha's-Feckel,2014-08-11,[' Joel Gilardini '],['Electronic']
+5,Z?rich,Zouk-Matters,2014-08-11,['DJ Soulz '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

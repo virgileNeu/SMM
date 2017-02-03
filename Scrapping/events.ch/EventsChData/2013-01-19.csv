@@ -1,34 +1,34 @@
-location,event,date,artists,genre
-Winterthur,Voices-From-the-Desert,2013-01-19,"['Einat Betzalel ', ' Hakim Boukhit ']",
-Winterthur,Virtuoses-Violoncello,2013-01-19,[' Pieter Wispelwey '],Classic
-Dietikon,Psalmen-Starke-Worte-in-bewegenden-Vertonungen,2013-01-19,[' Elisabeth Berner '],Classic
-Basel,Liquid-Land,2013-01-19,"[' Simon Berz ', ' Moose Jackson ', ' Rob Cambre ', ' Justin Peake ', ' Aurora Nealand ']",
-Luzern,Festival-Strings-Lucerne,2013-01-19,"[' Daniel Hope ', ' Christina Fassbender ', ' Vital Julian Frey ']",Classic
-Zürich,Weltklassik-am-Klavier,2013-01-19,['Sunghoon Simon Hwang '],Classic
-Zürich,Blasnost,2013-01-19,"[' Martin Carl ', ' Roger Nickl ', ' Flavio Rohner ', ' Flavio Spirgi ']",
-Liebefeld,Florian-Favre-Trio,2013-01-19,"['Florian Favre Trio ', ' Florian Favre ', ' Manu Hagmann ', ' Kevin Chesham ']",
-Zürich,Betontod,2013-01-19,['Betontod '],
-Luzern,Samuel-Mösching-Trio,2013-01-19,"[' Samuel Mösching ', ' Lisa Hoppe ', ' Carlo Moreni ']",
-Oberengstringen,Marco-von-Orelli-5,2013-01-19,"[' Marco von Orelli ', ' Lukas Briggen ', ' Michel Wintsch ', ' Kaspar von Grünigen ', ' Samuel Dühsler ']",
-Zürich,Herman-Van-Veen,2013-01-19,['Herman Van Veen '],Pop
-Wetzikon,U-Brown,2013-01-19,"['U Brown ', ' Boomrush Backup ']",
-Zürich,Sezen-Aksu,2013-01-19,['Sezen Aksu '],
-Basel,John-Marshall-&-Ferdinand-Povel-Quintet,2013-01-19,"[' John Marshall ', ' Ferdinand Povel ', ' Andrea Pozza ', ' Stephan Kurmann ', ' Peter Schmidlin ']",
-Salle-des-fêtes-de-Thônex,Thônex,2013-01-19,['Caravan Palace '],
-Klosters,Nathalie-Maerten-Quartett,2013-01-19,"[' Nathalie Maerten ', ' Christian Müller ', ' Vito Cadonau ', ' Rolf Caflisch ']",
-Baden,Donadio-Ensemble,2013-01-19,"[' Dalia Donadio ', ' Madlen Donadio ', ' Moreno Donadio ', ' Toni Donadio ', ' Peter Tico Keller ']",
-Bern,Aeywaeg,2013-01-19,"[' Robert Buri ', ' Kevin Buri ', ' Hansueli Oesch ', ' Miro Rutscho ', ' Bobby Wissmann ']",
-Musikzentrum-Sedel,Luzern,2013-01-19,['The Vibrators '],
-Baden,Redska,2013-01-19,['Redska '],
-Reussbühl,The-Pearlbreakers,2013-01-19,"[' Alessandro Rosi ', ' Dominik Eberle ', ' Raphael Felber ', ' Fabian Eberle ']",
-Bern,500-10-Unlimited,2013-01-19,"[' Ania Losinger ', ' Mats Eser ']",Electronic
-Basel,Grindsoirée-Nr.-2,2013-01-19,"['Corrosive ', ' Accion Mutante ', ' Haut & Courte ', ' Mindflaire ', ' Schmand ']",
-Bern,Tour-de-Lorraine,2013-01-19,['Kofelgschroa '],Pop
-Liebefeld,Malcolm-Braff,2013-01-19,"[' Malcolm Braff ', ' Reggie Washington ', ' Lukas König ']",
-Bern,Tour-de-Lorraine,2013-01-19,['Angelika Express '],
-Zürich,Mambo-Swiss-Party,2013-01-19,"['DJs Mango Alemania ', ' Delirio ']",
-Stall-6,Zürich,2013-01-19,['The Great Hans Unstern Swindle '],
-Bar-Rossi,Zürich,2013-01-19,['Einat & Hakim '],Hakim
-Bern,Tour-de-Lorraine,2013-01-19,"['Système D ', ' Lena Stöhrfaktor ']",
-Liebefeld,Kaos-Protokoll,2013-01-19,"[' Marc Stucki ', ' Benedikt Wieland ', ' Rico Baumann ']",
-D!-Club,Lausanne,2013-01-19,['Dada Life '],
+,location,event,date,artists,genre
+0,Winterthur,Voices-From-the-Desert,2013-01-19,"['Einat Betzalel ', ' Hakim Boukhit ']","['world', 'music']"
+1,Winterthur,Virtuoses-Violoncello,2013-01-19,[' Pieter Wispelwey '],['Classic']
+2,Luzern,Festival-Strings-Lucerne,2013-01-19,"[' Daniel Hope ', ' Christina Fassbender ', ' Vital Julian Frey ']",['Classic']
+3,Zürich,Weltklassik-am-Klavier,2013-01-19,['Sunghoon Simon Hwang '],['Classic']
+4,Basel,Liquid-Land,2013-01-19,"[' Simon Berz ', ' Moose Jackson ', ' Rob Cambre ', ' Justin Peake ', ' Aurora Nealand ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Dietikon,Psalmen-Starke-Worte-in-bewegenden-Vertonungen,2013-01-19,[' Elisabeth Berner '],['Classic']
+6,Zürich,Blasnost,2013-01-19,"[' Martin Carl ', ' Roger Nickl ', ' Flavio Rohner ', ' Flavio Spirgi ']","['Jazz', 'Blues', 'Soul']"
+7,Zürich,Sezen-Aksu,2013-01-19,['Sezen Aksu '],"['world', 'music']"
+8,Liebefeld,Florian-Favre-Trio,2013-01-19,"['Florian Favre Trio ', ' Florian Favre ', ' Manu Hagmann ', ' Kevin Chesham ']","['Jazz', 'Blues', 'Soul']"
+9,Oberengstringen,Marco-von-Orelli-5,2013-01-19,"[' Marco von Orelli ', ' Lukas Briggen ', ' Michel Wintsch ', ' Kaspar von Grünigen ', ' Samuel Dühsler ']","['Jazz', 'Blues', 'Soul']"
+10,Zürich,Herman-Van-Veen,2013-01-19,['Herman Van Veen '],['Pop']
+11,Luzern,Samuel-Mösching-Trio,2013-01-19,"[' Samuel Mösching ', ' Lisa Hoppe ', ' Carlo Moreni ']","['Jazz', 'Blues', 'Soul']"
+12,Wetzikon,U-Brown,2013-01-19,"['U Brown ', ' Boomrush Backup ']","['Hip', 'Hop', ""R'n'B""]"
+13,Zürich,Betontod,2013-01-19,['Betontod '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Salle-des-fêtes-de-Thônex,Thônex,2013-01-19,['Caravan Palace '],"['Caravan', 'Palace']"
+15,Basel,John-Marshall-&-Ferdinand-Povel-Quintet,2013-01-19,"[' John Marshall ', ' Ferdinand Povel ', ' Andrea Pozza ', ' Stephan Kurmann ', ' Peter Schmidlin ']","['Jazz', 'Blues', 'Soul']"
+16,Klosters,Nathalie-Maerten-Quartett,2013-01-19,"[' Nathalie Maerten ', ' Christian Müller ', ' Vito Cadonau ', ' Rolf Caflisch ']","['Jazz', 'Blues', 'Soul']"
+17,Baden,Donadio-Ensemble,2013-01-19,"[' Dalia Donadio ', ' Madlen Donadio ', ' Moreno Donadio ', ' Toni Donadio ', ' Peter Tico Keller ']","['world', 'music']"
+18,Reussbühl,The-Pearlbreakers,2013-01-19,"[' Alessandro Rosi ', ' Dominik Eberle ', ' Raphael Felber ', ' Fabian Eberle ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Bern,500-10-Unlimited,2013-01-19,"[' Ania Losinger ', ' Mats Eser ']",['Electronic']
+20,Musikzentrum-Sedel,Luzern,2013-01-19,['The Vibrators '],"['The', 'Vibrators']"
+21,Bern,Aeywaeg,2013-01-19,"[' Robert Buri ', ' Kevin Buri ', ' Hansueli Oesch ', ' Miro Rutscho ', ' Bobby Wissmann ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Baden,Redska,2013-01-19,['Redska '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Basel,Grindsoirée-Nr.-2,2013-01-19,"['Corrosive ', ' Accion Mutante ', ' Haut & Courte ', ' Mindflaire ', ' Schmand ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Bern,Tour-de-Lorraine,2013-01-19,['Kofelgschroa '],['Pop']
+25,Liebefeld,Malcolm-Braff,2013-01-19,"[' Malcolm Braff ', ' Reggie Washington ', ' Lukas König ']","['Jazz', 'Blues', 'Soul']"
+26,Stall-6,Zürich,2013-01-19,['The Great Hans Unstern Swindle '],"['The', 'Great', 'Hans', 'Unstern', 'Swindle']"
+27,Bar-Rossi,Zürich,2013-01-19,['Einat & Hakim '],['Hakim']
+28,Bern,Tour-de-Lorraine,2013-01-19,['Angelika Express '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Zürich,Mambo-Swiss-Party,2013-01-19,"['DJs Mango Alemania ', ' Delirio ']","['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+30,Liebefeld,Kaos-Protokoll,2013-01-19,"[' Marc Stucki ', ' Benedikt Wieland ', ' Rico Baumann ']","['Jazz', 'Blues', 'Soul']"
+31,Bern,Tour-de-Lorraine,2013-01-19,"['Système D ', ' Lena Stöhrfaktor ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,D!-Club,Lausanne,2013-01-19,['Dada Life '],"['Dada', 'Life']"

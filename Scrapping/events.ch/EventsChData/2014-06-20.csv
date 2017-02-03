@@ -1,32 +1,32 @@
-location,event,date,artists,genre
-Wohlen,Touch-the-Air,2014-06-20,"['Tinie Tempah ', ' Dilated Peoples ', ' Funkdoobiest ', ' Irie Revoltes ', ' Alligatoah ', ' Prop Dylan ', ' Zugezogen Maskulin ', ' Chase & Status & Mc Rage Dj Set ']",
-Basel,Masterrezital,2014-06-20,[' Rani Orenstein '],Classic
-null,Parkplatzfest,2014-06-20,"['James Pants ', ' SFV Acid ']",
-Basel,Masterrezital,2014-06-20,[' Constantin Macherel '],Classic
-Hinwil,Rock-the-Ring,2014-06-20,"['Unheilig ', ' HIM ', ' The Rasmus ', ' Walking Papers ']",
-Zürich,Romafestival,2014-06-20,"['Happy ol Mcweasel ', ' Romengo ', ' Cosa Polska ']",
-Luzern,Piano-Entertainment,2014-06-20,['Mega Horvath '],
-Ascona,Jazz-Ascona,2014-06-20,"['Funk como le gusta ', ' The Gunhild Carling ', ' Davina & The Vagabonds ', ' The Ella Louie Tribute Band ', ' New Breed Brass Band ', ' Kermit Ruffins & The BBQ Swingers ', ' Four Of A Kind Plus One ']",
-Basel,Orgelspiel-zum-Feierabend,2014-06-20,['Susanne Doll '],Classic
-Dietikon,Feierabendmusik-in-der-Kirche,2014-06-20,['Bernhard Hörler '],Classic
-Basel,Bachelorrezital,2014-06-20,[' Giulia Ott '],Classic
-Basel,Masterrezital,2014-06-20,[' Sara Jovanovic '],Classic
-Zürich,Konzert,2014-06-20,"[' Bernhard Heinrichs ', ' Rudolf Bamert ']",Classic
-Zürich,Festspiele-Zürich-Beethoven-Zyklus-IV,2014-06-20,[' Christian Zacharias '],Classic
-Basel,Masterrezital,2014-06-20,[' Barceló Suárez '],Classic
-Zürich,Black-Sabbath,2014-06-20,['Black Sabbath '],
-Zürich,Franz-Schuberts-letzte-Kompositionen,2014-06-20,"[' Beatrice Ruchti ', ' Stefania Huonder ', ' Martin Hostettler ', ' Siddique Eggenberger ', ' Yongfan Chen-Hauser ']",Classic
-Schönenbuch,Here's-a-Howdy-Do,2014-06-20,"['Aurea Marston ', ' Emanuel Heitz ', ' Jedediah Allen ', ' Sharon Prushansky ']",Classic
-Rheinfelden,Louisiana-Hot-Seven,2014-06-20,"['Henri Egli ', ' Röbi Leibundgut ', ' Mario Del Conte ']",
-Zürich,Festspiele-Zürich-Vers-la-flamme,2014-06-20,['Stefan Wirth '],Classic
-Meilen,Mozart-Requiem,2014-06-20,"[' Katharina Jing An Gebauer ', ' Gianna Lunardi ', ' Daniel Bentz ', ' Chasper Curo Mani ']",Classic
-Zürich,Acoustic-Friday,2014-06-20,"[' Sarah Abrigada ', ' Erika Schmied ', ' Mischa Frey ', ' Jan Jossi ']",Pop
-Winterthur,Denn-das-Schöne,2014-06-20,"[' Anna Gschwend ', ' Anna-Katharina Graf ', ' Maris Kugis ', ' Marn Domen ', ' Oswin Rodriguez ']",Classic
-Basel,Masterrezital,2014-06-20,[' Christian Handschke '],Classic
-Winterthur,Roberto-Bossard-New-Group,2014-06-20,"[' Roberto Bossard ', ' Lukas Gernet ', ' Toni Bechtold ', ' Raffaele Bossard ', ' Jonas Ruther ']",
-Zürich,Loriot-Niggli-Staub-Weber-Zimmerlin,2014-06-20,"[' Frantz Loriot ', ' Lucas Niggli ', ' Reto Staub ', ' Christian Weber ', ' Alfred Zimmerlin ']",
-Baden,Querbeat,2014-06-20,"['Querbeat ', ' Egon Egemann ', ' Sascha Lackner ', ' Michael Cohen ', ' Guido Kurth ', ' Mostafa Kafai Azimi ', ' Urs Huber ']",
-Basel,Hudaki-Village-Band,2014-06-20,['Hudaki Village Band '],
-Basel,Anne-Zimmermann,2014-06-20,[' DJs Turista Bang Band '],
-Bern,Kid-Simius-feat.-Odara-Sol,2014-06-20,['Kid Simius feat. Odara Sol '],
-Zürich,Latin-Touch,2014-06-20,[' dance animation by Ismaray Aspirina '],
+,location,event,date,artists,genre
+0,Wohlen,Touch-the-Air,2014-06-20,[' Mc Rage Dj Set '],"['Hip', 'Hop', ""R'n'B""]"
+1,null,Parkplatzfest,2014-06-20,"['James Pants ', ' SFV Acid ']","['Hip', 'Hop', ""R'n'B""]"
+2,Basel,Masterrezital,2014-06-20,[' Rani Orenstein '],['Classic']
+3,Basel,Masterrezital,2014-06-20,[' Constantin Macherel '],['Classic']
+4,Hinwil,Rock-the-Ring,2014-06-20,"['Unheilig ', ' HIM ', ' The Rasmus ', ' Walking Papers ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Luzern,Piano-Entertainment,2014-06-20,['Mega Horvath '],"['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Romafestival,2014-06-20,"['Happy ol Mcweasel ', ' Romengo ', ' Cosa Polska ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Ascona,Jazz-Ascona,2014-06-20,"[' The BBQ Swingers ', ' Four Of A Kind Plus One ']","['Jazz', 'Blues', 'Soul']"
+8,Basel,Orgelspiel-zum-Feierabend,2014-06-20,['Susanne Doll '],['Classic']
+9,Dietikon,Feierabendmusik-in-der-Kirche,2014-06-20,['Bernhard H?rler '],['Classic']
+10,Basel,Bachelorrezital,2014-06-20,[' Giulia Ott '],['Classic']
+11,Z?rich,Festspiele-Z?rich-Beethoven-Zyklus-IV,2014-06-20,[' Christian Zacharias '],['Classic']
+12,Basel,Masterrezital,2014-06-20,[' Sara Jovanovic '],['Classic']
+13,Basel,Masterrezital,2014-06-20,[' Barcel? Su?rez '],['Classic']
+14,Z?rich,Konzert,2014-06-20,"[' Bernhard Heinrichs ', ' Rudolf Bamert ']",['Classic']
+15,Sch?nenbuch,Here's-a-Howdy-Do,2014-06-20,"['Aurea Marston ', ' Emanuel Heitz ', ' Jedediah Allen ', ' Sharon Prushansky ']",['Classic']
+16,Z?rich,Black-Sabbath,2014-06-20,['Black Sabbath '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Rheinfelden,Louisiana-Hot-Seven,2014-06-20,"['Henri Egli ', ' R?bi Leibundgut ', ' Mario Del Conte ']","['Jazz', 'Blues', 'Soul']"
+18,Z?rich,Franz-Schuberts-letzte-Kompositionen,2014-06-20,"[' Beatrice Ruchti ', ' Stefania Huonder ', ' Martin Hostettler ', ' Siddique Eggenberger ', ' Yongfan Chen-Hauser ']",['Classic']
+19,Z?rich,Festspiele-Z?rich-Vers-la-flamme,2014-06-20,['Stefan Wirth '],['Classic']
+20,Z?rich,Acoustic-Friday,2014-06-20,"[' Sarah Abrigada ', ' Erika Schmied ', ' Mischa Frey ', ' Jan Jossi ']",['Pop']
+21,Meilen,Mozart-Requiem,2014-06-20,"[' Katharina Jing An Gebauer ', ' Gianna Lunardi ', ' Daniel Bentz ', ' Chasper Curo Mani ']",['Classic']
+22,Winterthur,Denn-das-Sch?ne,2014-06-20,"[' Anna Gschwend ', ' Anna-Katharina Graf ', ' Maris Kugis ', ' Marn Domen ', ' Oswin Rodriguez ']",['Classic']
+23,Z?rich,Loriot-Niggli-Staub-Weber-Zimmerlin,2014-06-20,"[' Frantz Loriot ', ' Lucas Niggli ', ' Reto Staub ', ' Christian Weber ', ' Alfred Zimmerlin ']","['Jazz', 'Blues', 'Soul']"
+24,Winterthur,Roberto-Bossard-New-Group,2014-06-20,"[' Roberto Bossard ', ' Lukas Gernet ', ' Toni Bechtold ', ' Raffaele Bossard ', ' Jonas Ruther ']","['Jazz', 'Blues', 'Soul']"
+25,Basel,Masterrezital,2014-06-20,[' Christian Handschke '],['Classic']
+26,Basel,Hudaki-Village-Band,2014-06-20,['Hudaki Village Band '],"['world', 'music']"
+27,Baden,Querbeat,2014-06-20,"['Querbeat ', ' Egon Egemann ', ' Sascha Lackner ', ' Michael Cohen ', ' Guido Kurth ', ' Mostafa Kafai Azimi ', ' Urs Huber ']","['Jazz', 'Blues', 'Soul']"
+28,Basel,Anne-Zimmermann,2014-06-20,[' DJs Turista Bang Band '],"['Hip', 'Hop', ""R'n'B""]"
+29,Bern,Kid-Simius-feat.-Odara-Sol,2014-06-20,['Kid Simius feat. Odara Sol '],"['Hip', 'Hop', ""R'n'B""]"
+30,Z?rich,Latin-Touch,2014-06-20,[' dance animation by Ismaray Aspirina '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

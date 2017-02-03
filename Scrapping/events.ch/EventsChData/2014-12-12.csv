@@ -1,50 +1,49 @@
-location,event,date,artists,genre
-Luzern,Killer-Boogie,2014-12-12,['Killer Boogie '],Pop
-Basel,Orgelspiel-zum-Feierabend,2014-12-12,['Ludwig Reichl '],Classic
-Dietikon,Feierabendmusik,2014-12-12,"['Inge Rott ', ' works by Bernhard Hörler ']",Classic
-Zürich,Hundreds,2014-12-12,['Hundreds '],
-Wädenswil,Adventskonzert,2014-12-12,"['Stephanie Boller ', ' Armin Bereuter ', ' Esther Lenherr ']",Classic
-Brunnen,Cello-Sonaten,2014-12-12,"['Alexander Neustroev ', ' Dmitri Demiashkin ']",Classic
-Zürich,Extrakonzert,2014-12-12,[' Martin Grubinger '],Classic
-Aarau,2-x-Magnificat,2014-12-12,"[' Christine Esser ', ' Mirjam Blessing ', ' Erlend Tvinnereim ', ' Ernst Buscagne ']",Classic
-null,Konzert,2014-12-12,"[' Daniela Müller ', ' Petra Ackermann ', ' Karolina Öhmann ', ' Tamriko Kordzaia ']",Classic
-Zug,Monthly-Assault-Santa-Slam,2014-12-12,"['Acranius ', ' Korpse ', ' Maximize Bestiality ', ' Gutrectomy ']",
-Winterthur,Asmin,2014-12-12,"[' Gregor Frei ', ' Ran Wehrli ', ' Dave Gisler ', ' Pascal Ujak ', ' Maxime Paratte ']",
-null,Stiller-Has,2014-12-12,"[' Endo Anaconda ', ' Schifer Schafer ', ' Salome Buser ', ' Markus Fürst ']",Pop
-Basel,Duo-du-zoo,2014-12-12,"[' Antoine Joly ', ' Johan Treichel ']",Pop
-Zürich,Bryan-Adams,2014-12-12,['Bryan Adams '],
-Zürich,Wizo,2014-12-12,"['Wizo ', ' Schmutzki ']",
-Bazenheid,Weihnachtskonzert,2014-12-12,['Die Paldauer '],traditional
-Aarau,Webster,2014-12-12,"[' Valon Muhadri ', ' Nathalie Gacond ', ' Reto Weber ', ' Dani Schlosser ', ' Dave Eichenberger ', ' Martin Dürrenmatt ']",
-Basel,Lieder-und-Kammermusik-von-Ernst-Reiter,2014-12-12,"[' Jean-Jacques Dünki ', ' Debora Büttner ', ' Flurina Stucki ']",Classic
-Thun,Hot-&-Rockin,2014-12-12,"[' Tommy Haussener ', ' Patric Hugi ', ' Rafael Eggimann ', ' Bruno Hossmann ']",
-Zug,Wintsch-Weber-Wolfahrt,2014-12-12,"[' Michel Wintsch ', ' Christian Weber ', ' Christian Wolfarth ']",
-Zürich,Frey-Jeger-Wiesendanger,2014-12-12,"[' Peter K Frey ', ' Silvan Jeger ', ' Chris Wiesendanger ']",
-Winterthur,Newbridge,2014-12-12,"[' Brigitte Neumärker ', ' Tobias Müller ', ' Florian Baumann ', ' Christoph Pinter ', ' Lukas von Büren ']",
-Winterthur,Protest-the-Hero,2014-12-12,"['Protest the Hero ', ' The Safety Fire ', ' The Contortionist ', ' Destrage ']",
-Baden,Moreland-and-Arbuckle,2014-12-12,['Moreland and Arbuckle '],
-Liebefeld,Andreas-Schaerer-Meets-Arte-Quartett-&-Wolfgang-Zwiauer,2014-12-12,"['Andreas Schaerer Meets Arte Quartett & Wolfgang Zwiauer ', ' Andreas Schaerer ', ' Wolfgang Zwiauer ', ' Beat Hofstetter ', ' Sascha Armbruster ', ' Andrea Formenti ', ' Beat Kappeler ']",
-Luzern,The-Led-Farmers,2014-12-12,['The Led Farmers '],
-Zürich,King-Pepe-&-Le-Rex,2014-12-12,"['King Pepe & Le Rex ', ' King Pepe ', ' Benedikt Reising ', ' Marc Stucki ', ' Andreas Tschopp ', ' Marc Unternäher ', ' Rico Baumann ']",
-Bern,Tamanaco,2014-12-12,"[' Emilio del Pozo ', ' Barbara del Pozo ', ' Felix Stockar ', ' Toto Guitérrez ']",
-Basel,Acoustic-Soul-Gala,2014-12-12,"[' Josephine Pee ', ' Chris Parrat ', ' Dirk Wochner ', ' Peter Streicher ']",Pop
-Romanshorn,Jazzmelia-&-Funkystaff,2014-12-12,"[' Amelia Bruderer ', ' Martin Lehner ', ' Hans Lehmann ', ' Fabian Brenner ', ' Pascal Wallier ', ' Toni Schilter ']",
-Zürich,Golden-Disko-Ship,2014-12-12,['Golden Disko Ship '],Pop
-Zürich,Musik-im-Rausch-Heisse-Eisen,2014-12-12,"['Deborah Marchetti ', ' Yulia Miloslavskaya ', ' Eldar Saparayev ', ' Edmauro de Oliveira ']",Classic
-Basel,Roman-Schwaller-Jazzquartet,2014-12-12,"[' Roman Schwaller ', ' Oliver Kent ', ' Thomas Stabenow ', ' Mario Gonzi ']",
-Zürich,The-Sibyl's-Promise,2014-12-12,"[' Sibyl Hofstetter ', ' Francesco Diomaiuta ', ' Raphael Loher ']",
-Luzern,Best-of-Swiss-Jazz-Bachelors,2014-12-12,"[' Ewan Dayot ', ' Louis Billette ', ' Léon Phal ', ' Clément Meunier ', ' Duboule ', ' François Lana ', ' Blaise Hommage ', ' Marton Kiss ']",
-Liestal,Scherrer-Evans-Kurmann-Rossi,2014-12-12,"['Andy Scherrer ', ' William Evans ', ' Stephan Kurmann ', ' Jorge Rossy ']",
-Lausanne,Mighty-Oaks,2014-12-12,['Mighty Oaks '],
-Basel,Kalle-Mattson,2014-12-12,['Kalle Mattson '],Pop
-Aarau,Sun-Kil-Moon,2014-12-12,"['Sun Kil Moon ', ' Valon Muhadri ', ' Nathalie Gacond ', ' Reto Weber ', ' Dani Schlosser ', ' Dave Eichenberger ', ' Martin Dürrenmatt ']",
-Zürich,Tuesday-Sheep,2014-12-12,"[' Timon Selinger ', ' Ronny Widmer ', ' Luca Selinger ', ' Lukas Vollenweider ', ' Ramon Selinger ']",
-Kriens,Marash-&-Dave,2014-12-12,['Marash & Dave '],
-Zürich,Guilty-Simpson,2014-12-12,"['Guilty Simpson ', ' Elzhi ', ' Phat Kat ']",
-Zürich,Latin-Touch,2014-12-12,[' dance animation by Alexander Martinez '],
-Aarau,Groove-Night,2014-12-12,"[' Marion Weik ', ' Steven Parry ', ' Benno Ernst ', ' Thomas Blättler.', ' Beni Schlapbach ', ' Roberto Di Martino ']",Pop
-Basel,Culture-Rhythm,2014-12-12,"['DJs Comoustache ', ' Cucurucho ']",
-Bern,Open-Season,2014-12-12,"['Open Season ', ' DJs Arschtritt Lindgren ']",Pop
-Aarau,John-B,2014-12-12,['John B '],Electronic
-Lyss,Death-By-Chocolate,2014-12-12,"[' Mathias Schenk ', ' Thomas Schläppi ', ' Daniel Schläppi ', ' Daniel Wyttenbach ', ' Kevin Chesham ']",
-Lausanne,Gesaffelstein,2014-12-12,"['Gesaffelstein ', ' Maelstrom ']",Electronic
+,location,event,date,artists,genre
+0,Luzern,Killer-Boogie,2014-12-12,['Killer Boogie '],['Pop']
+1,Basel,Orgelspiel-zum-Feierabend,2014-12-12,['Ludwig Reichl '],['Classic']
+2,Dietikon,Feierabendmusik,2014-12-12,"['Inge Rott ', ' works by Bernhard H?rler ']",['Classic']
+3,W?denswil,Adventskonzert,2014-12-12,"['Stephanie Boller ', ' Armin Bereuter ', ' Esther Lenherr ']",['Classic']
+4,Z?rich,Hundreds,2014-12-12,['Hundreds '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,Extrakonzert,2014-12-12,[' Martin Grubinger '],['Classic']
+6,Zug,Monthly-Assault-Santa-Slam,2014-12-12,"['Acranius ', ' Korpse ', ' Maximize Bestiality ', ' Gutrectomy ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Aarau,2-x-Magnificat,2014-12-12,"[' Christine Esser ', ' Mirjam Blessing ', ' Erlend Tvinnereim ', ' Ernst Buscagne ']",['Classic']
+8,Brunnen,Cello-Sonaten,2014-12-12,"['Alexander Neustroev ', ' Dmitri Demiashkin ']",['Classic']
+9,null,Konzert,2014-12-12,"[' Daniela M?ller ', ' Petra Ackermann ', ' Karolina ?hmann ', ' Tamriko Kordzaia ']",['Classic']
+10,Winterthur,Asmin,2014-12-12,"[' Gregor Frei ', ' Ran Wehrli ', ' Dave Gisler ', ' Pascal Ujak ', ' Maxime Paratte ']","['Jazz', 'Blues', 'Soul']"
+11,Zug,Wintsch-Weber-Wolfahrt,2014-12-12,"[' Michel Wintsch ', ' Christian Weber ', ' Christian Wolfarth ']","['Jazz', 'Blues', 'Soul']"
+12,Aarau,Webster,2014-12-12,"[' Valon Muhadri ', ' Nathalie Gacond ', ' Reto Weber ', ' Dani Schlosser ', ' Dave Eichenberger ', ' Martin D?rrenmatt ']","['Jazz', 'Blues', 'Soul']"
+13,Bazenheid,Weihnachtskonzert,2014-12-12,['Die Paldauer '],['traditional']
+14,Z?rich,Bryan-Adams,2014-12-12,['Bryan Adams '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,null,Stiller-Has,2014-12-12,"[' Endo Anaconda ', ' Schifer Schafer ', ' Salome Buser ', ' Markus F?rst ']",['Pop']
+16,Z?rich,Wizo,2014-12-12,"['Wizo ', ' Schmutzki ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Thun,Hot-&-Rockin,2014-12-12,"[' Tommy Haussener ', ' Patric Hugi ', ' Rafael Eggimann ', ' Bruno Hossmann ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Basel,Lieder-und-Kammermusik-von-Ernst-Reiter,2014-12-12,"[' Jean-Jacques D?nki ', ' Debora B?ttner ', ' Flurina Stucki ']",['Classic']
+19,Basel,Duo-du-zoo,2014-12-12,"[' Antoine Joly ', ' Johan Treichel ']",['Pop']
+20,Winterthur,Protest-the-Hero,2014-12-12,"['Protest the Hero ', ' The Safety Fire ', ' The Contortionist ', ' Destrage ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Z?rich,Frey-Jeger-Wiesendanger,2014-12-12,"[' Peter K Frey ', ' Silvan Jeger ', ' Chris Wiesendanger ']","['Jazz', 'Blues', 'Soul']"
+22,Winterthur,Newbridge,2014-12-12,"[' Brigitte Neum?rker ', ' Tobias M?ller ', ' Florian Baumann ', ' Christoph Pinter ', ' Lukas von B?ren ']","['Jazz', 'Blues', 'Soul']"
+23,Basel,Acoustic-Soul-Gala,2014-12-12,"[' Josephine Pee ', ' Chris Parrat ', ' Dirk Wochner ', ' Peter Streicher ']",['Pop']
+24,Z?rich,King-Pepe-&-Le-Rex,2014-12-12,"[' Le Rex ', ' King Pepe ', ' Benedikt Reising ', ' Marc Stucki ', ' Andreas Tschopp ', ' Marc Untern?her ', ' Rico Baumann ']","['Jazz', 'Blues', 'Soul']"
+25,Z?rich,Golden-Disko-Ship,2014-12-12,['Golden Disko Ship '],['Pop']
+26,Z?rich,The-Sibyl's-Promise,2014-12-12,"[' Sibyl Hofstetter ', ' Francesco Diomaiuta ', ' Raphael Loher ']","['Jazz', 'Blues', 'Soul']"
+27,Romanshorn,Jazzmelia-&-Funkystaff,2014-12-12,"[' Amelia Bruderer ', ' Martin Lehner ', ' Hans Lehmann ', ' Fabian Brenner ', ' Pascal Wallier ', ' Toni Schilter ']","['Jazz', 'Blues', 'Soul']"
+28,Liestal,Scherrer-Evans-Kurmann-Rossi,2014-12-12,"['Andy Scherrer ', ' William Evans ', ' Stephan Kurmann ', ' Jorge Rossy ']","['Jazz', 'Blues', 'Soul']"
+29,Bern,Tamanaco,2014-12-12,"[' Emilio del Pozo ', ' Barbara del Pozo ', ' Felix Stockar ', ' Toto Guit?rrez ']","['world', 'music']"
+30,Basel,Roman-Schwaller-Jazzquartet,2014-12-12,"[' Roman Schwaller ', ' Oliver Kent ', ' Thomas Stabenow ', ' Mario Gonzi ']","['Jazz', 'Blues', 'Soul']"
+31,Baden,Moreland-and-Arbuckle,2014-12-12,['Moreland and Arbuckle '],"['Jazz', 'Blues', 'Soul']"
+32,Liebefeld,Andreas-Schaerer-Meets-Arte-Quartett-&-Wolfgang-Zwiauer,2014-12-12,"[' Wolfgang Zwiauer ', ' Andreas Schaerer ', ' Wolfgang Zwiauer ', ' Beat Hofstetter ', ' Sascha Armbruster ', ' Andrea Formenti ', ' Beat Kappeler ']","['Jazz', 'Blues', 'Soul']"
+33,Luzern,The-Led-Farmers,2014-12-12,['The Led Farmers '],"['world', 'music']"
+34,Luzern,Best-of-Swiss-Jazz-Bachelors,2014-12-12,"[' Ewan Dayot ', ' Louis Billette ', ' L?on Phal ', ' Cl?ment Meunier ', ' Duboule ', ' Fran?ois Lana ', ' Blaise Hommage ', ' Marton Kiss ']","['Jazz', 'Blues', 'Soul']"
+35,Z?rich,Musik-im-Rausch-Heisse-Eisen,2014-12-12,"['Deborah Marchetti ', ' Yulia Miloslavskaya ', ' Eldar Saparayev ', ' Edmauro de Oliveira ']",['Classic']
+36,Basel,Kalle-Mattson,2014-12-12,['Kalle Mattson '],['Pop']
+37,Aarau,Sun-Kil-Moon,2014-12-12,"['Sun Kil Moon ', ' Valon Muhadri ', ' Nathalie Gacond ', ' Reto Weber ', ' Dani Schlosser ', ' Dave Eichenberger ', ' Martin D?rrenmatt ']","['Jazz', 'Blues', 'Soul']"
+38,Kriens,Marash-&-Dave,2014-12-12,[' Dave '],"['Hip', 'Hop', ""R'n'B""]"
+39,Z?rich,Tuesday-Sheep,2014-12-12,"[' Timon Selinger ', ' Ronny Widmer ', ' Luca Selinger ', ' Lukas Vollenweider ', ' Ramon Selinger ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+40,Lausanne,Mighty-Oaks,2014-12-12,['Mighty Oaks '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+41,Bern,Open-Season,2014-12-12,"['Open Season ', ' DJs Arschtritt Lindgren ']",['Pop']
+42,Aarau,Groove-Night,2014-12-12,"[' Marion Weik ', ' Steven Parry ', ' Benno Ernst ', ' Thomas Bl?ttler.', ' Beni Schlapbach ', ' Roberto Di Martino ']",['Pop']
+43,Aarau,John-B,2014-12-12,['John B '],['Electronic']
+44,Z?rich,Guilty-Simpson,2014-12-12,"['Guilty Simpson ', ' Elzhi ', ' Phat Kat ']","['Hip', 'Hop', ""R'n'B""]"
+45,Z?rich,Latin-Touch,2014-12-12,[' dance animation by Alexander Martinez '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+46,Lyss,Death-By-Chocolate,2014-12-12,"[' Mathias Schenk ', ' Thomas Schl?ppi ', ' Daniel Schl?ppi ', ' Daniel Wyttenbach ', ' Kevin Chesham ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+47,Lausanne,Gesaffelstein,2014-12-12,"['Gesaffelstein ', ' Maelstrom ']",['Electronic']

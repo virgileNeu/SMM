@@ -1,15 +1,15 @@
-location,event,date,artists,genre
-Zürich,Konzert,2013-03-18,['Urs Güntensperger '],Pop
-Zürich,Meisterinterpreten-in-Zürich,2013-03-18,['Piotr Anderszewski '],Classic
-Luzern,Sinfoniekonzert,2013-03-18,[' Martha Argerich '],Classic
-Mascotte,Zürich,2013-03-18,['Lindi Ortega '],
-Flawil,Little-Chevy,2013-03-18,"[' Little Chevy ', ' Giuseppe Maienza ', ' Andy Lang ']",
-Zürich,Ernst-Who-Robi-What-,2013-03-18,"[' Ernst Wirz ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ']",
-Kulturfabrik-Kofmehl,Solothurn,2013-03-18,['Max Herre '],
-Winterthur,Lestat-Vermon,2013-03-18,['Lestat Vermon '],Pop
-Basel,Dialog,2013-03-18,['Conradin Brotbek '],Classic
-Bern,Internationales-Jazzfestival-Bern,2013-03-18,['Catherine Russel '],
-Baden,Kompost-3,2013-03-18,"[' Martin Eberle ', ' Benny Omerzell ', ' Manu Mayr ', ' Lukas Koenig ']",
-Zürich,Les-Hay-Babies,2013-03-18,['Les Hay Babies '],Pop
-Luzern,Bachelorprojekt-Konzerte,2013-03-18,"[' Freddy Benitez ', ' Toirac Alcides ', ' Nino Wenger ', ' Silvan Schmid ', ' Valerio Lepori ', ' Ricardo Regidor ', ' Gianluca Giger ', ' Dominik Beck ', ' Alexander Febles ', ' Leonardo Govin ', ' Alexis Hernandez ', ' Manuel Siebs ', ' Emilia Taubic ', ' Mischa Maurer ', ' Christian Winiker ', ' Beat Rüegsegger ', ' Lukas Weber ']",
-Lausanne,Troy-von-Balthazar,2013-03-18,['Troy von Balthazar '],
+,location,event,date,artists,genre
+0,Zürich,Konzert,2013-03-18,['Urs Güntensperger '],['Pop']
+1,Zürich,Meisterinterpreten-in-Zürich,2013-03-18,['Piotr Anderszewski '],['Classic']
+2,Mascotte,Zürich,2013-03-18,['Lindi Ortega '],"['Lindi', 'Ortega']"
+3,Luzern,Sinfoniekonzert,2013-03-18,[' Martha Argerich '],['Classic']
+4,Flawil,Little-Chevy,2013-03-18,"[' Little Chevy ', ' Giuseppe Maienza ', ' Andy Lang ']","['Jazz', 'Blues', 'Soul']"
+5,Zürich,Ernst-Who-Robi-What-,2013-03-18,"[' Ernst Wirz ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ']","['Jazz', 'Blues', 'Soul']"
+6,Kulturfabrik-Kofmehl,Solothurn,2013-03-18,['Max Herre '],"['Max', 'Herre']"
+7,Winterthur,Lestat-Vermon,2013-03-18,['Lestat Vermon '],['Pop']
+8,Basel,Dialog,2013-03-18,['Conradin Brotbek '],['Classic']
+9,Bern,Internationales-Jazzfestival-Bern,2013-03-18,['Catherine Russel '],"['Jazz', 'Blues', 'Soul']"
+10,Baden,Kompost-3,2013-03-18,"[' Martin Eberle ', ' Benny Omerzell ', ' Manu Mayr ', ' Lukas Koenig ']","['Jazz', 'Blues', 'Soul']"
+11,Zürich,Les-Hay-Babies,2013-03-18,['Les Hay Babies '],['Pop']
+12,Luzern,Bachelorprojekt-Konzerte,2013-03-18,"[' Freddy Benitez ', ' Toirac Alcides ', ' Nino Wenger ', ' Silvan Schmid ', ' Valerio Lepori ', ' Ricardo Regidor ', ' Gianluca Giger ', ' Dominik Beck ', ' Alexander Febles ', ' Leonardo Govin ', ' Alexis Hernandez ', ' Manuel Siebs ', ' Emilia Taubic ', ' Mischa Maurer ', ' Christian Winiker ', ' Beat Rüegsegger ', ' Lukas Weber ']","['Jazz', 'Blues', 'Soul']"
+13,Lausanne,Troy-von-Balthazar,2013-03-18,['Troy von Balthazar '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

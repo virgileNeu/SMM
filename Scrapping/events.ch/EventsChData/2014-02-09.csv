@@ -1,20 +1,20 @@
-location,event,date,artists,genre
-Zürich,Incroyable,2014-02-09,"[' Julia Schiwowa ', ' Marcos Buser ', ' Andrei Ichtchenko ', ' Fridolin Blumer ']",Pop
-Luzern,The-Artist-Live-in-Concert,2014-02-09,"[' Ludovic Bource ', ' The Artist ']",Classic
-Zürich,Mozart-Festkonzert,2014-02-09,"[' Annelien Van Wauwe ', ' Lorenzo Soulès ']",Classic
-Ettingen,Hauskonzert,2014-02-09,"['Jean Jacques Dünki ', ' Anna Merkulowa ']",Classic
-Rafz,Orgelkonzert,2014-02-09,['Urs Wittwer '],Classic
-null,3.-Meisterzyklus-Konzert,2014-02-09,['Arkadi Volodos '],Classic
--Alte-Kirche,Boswil,2014-02-09,"['Miklós Perényi ', ' Dénes Várjon ']",Classic
-Zürich,Margrit-Rainer-Hommage-zum-100.-Geburtstag,2014-02-09,"['Christine Lather ', ' Patricia Draeger ']",Pop
-Bern,Gisela-Horat-Trio,2014-02-09,"[' Gisela Horat ', ' Peter Preibisch ', ' Richard Pechota ']",
-Zürich,Manu-Katché,2014-02-09,"['Manu Katché ', ' Luca Aquino ', ' Tore Brunborg ', ' Jim Watson ', ' Manu Katché ']",
-Uster,Honest-John-Plain,2014-02-09,['Honest John Plain '],
-Zürich,Ulver,2014-02-09,['Ulver '],
-Zürich,Dr.-Will-&-The-Wizards,2014-02-09,['Dr. Will & The Wizards '],Pop
-Luzern,Mombu,2014-02-09,['Mombu '],
-Bern,Girls-Names,2014-02-09,['Girls Names '],Electronic
-Zürich,Adam-Green,2014-02-09,['Adam Green '],Pop
-Luzern,Valdimar,2014-02-09,['Valdimar '],
-Bern,Shanir-Blumenkranz'-Abraxas,2014-02-09,"[""Shanir Blumenkranz' Abraxas "", ' Shanir Blumenkranz ', ' Aram Bajakian ', ' Eyal Maoz ', ' Kenny Grohowski ']",
-Bern,Girls-Names,2014-02-09,['Girls Names '],Pop
+,location,event,date,artists,genre
+0,Luzern,The-Artist-Live-in-Concert,2014-02-09,"[' Ludovic Bource ', ' The Artist ']",['Classic']
+1,Z?rich,Incroyable,2014-02-09,"[' Julia Schiwowa ', ' Marcos Buser ', ' Andrei Ichtchenko ', ' Fridolin Blumer ']",['Pop']
+2,Z?rich,Mozart-Festkonzert,2014-02-09,"[' Annelien Van Wauwe ', ' Lorenzo Soul?s ']",['Classic']
+3,Ettingen,Hauskonzert,2014-02-09,"['Jean Jacques D?nki ', ' Anna Merkulowa ']",['Classic']
+4,Rafz,Orgelkonzert,2014-02-09,['Urs Wittwer '],['Classic']
+5,null,3.-Meisterzyklus-Konzert,2014-02-09,['Arkadi Volodos '],['Classic']
+6,-Alte-Kirche,Boswil,2014-02-09,"['Mikl?s Per?nyi ', ' D?nes V?rjon ']",['Classic']
+7,Z?rich,Margrit-Rainer-Hommage-zum-100.-Geburtstag,2014-02-09,"['Christine Lather ', ' Patricia Draeger ']",['Pop']
+8,Z?rich,Manu-Katch?,2014-02-09,"['Manu Katch? ', ' Luca Aquino ', ' Tore Brunborg ', ' Jim Watson ', ' Manu Katch? ']","['Jazz', 'Blues', 'Soul']"
+9,Bern,Gisela-Horat-Trio,2014-02-09,"[' Gisela Horat ', ' Peter Preibisch ', ' Richard Pechota ']","['Jazz', 'Blues', 'Soul']"
+10,Uster,Honest-John-Plain,2014-02-09,['Honest John Plain '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,Ulver,2014-02-09,['Ulver '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Z?rich,Dr.-Will-&-The-Wizards,2014-02-09,[' The Wizards '],['Pop']
+13,Luzern,Mombu,2014-02-09,['Mombu '],"['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Adam-Green,2014-02-09,['Adam Green '],['Pop']
+15,Bern,Girls-Names,2014-02-09,['Girls Names '],['Electronic']
+16,Luzern,Valdimar,2014-02-09,['Valdimar '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Bern,Shanir-Blumenkranz'-Abraxas,2014-02-09,"[""Shanir Blumenkranz' Abraxas "", ' Shanir Blumenkranz ', ' Aram Bajakian ', ' Eyal Maoz ', ' Kenny Grohowski ']","['world', 'music']"
+18,Bern,Girls-Names,2014-02-09,['Girls Names '],['Pop']

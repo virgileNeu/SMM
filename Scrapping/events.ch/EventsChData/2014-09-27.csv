@@ -1,55 +1,55 @@
-location,event,date,artists,genre
-Basel,Orgelmusik-über-Mittag,2014-09-27,['Andreas Liebig '],Classic
-Winterthur,Drum-Festival-Switzerland,2014-09-27,"['George Kollias ', ' Thomas Lang ', ' Gergo Borlai ', ' Florian Alexandru-Zorn ', ' Mylious Johnson ', ' Claus Hessler ']",
-Lyss,Carnage-Feast,2014-09-27,"['Bolt Thrower ', ' Morgoth ']",
-Zürich,Bruder-Klaus,2014-09-27,"['Arlette Meier ', ' Felix Gubser ']",Classic
-Zürich,Monte-Carlo,2014-09-27,['Monte Carlo '],Pop
-null,Schwanengesang,2014-09-27,"['Nik Kevin Koch ', ' Wolfgang Fritzsche ']",Classic
-Luzern,Metal-Storm-Vol.-2,2014-09-27,['Wolfheart '],
-Luzern,Piano-Entertainment,2014-09-27,['Christian Mettler '],Pop
-Zürich,Bushido,2014-09-27,"['Bushido ', ' Shindy ']",
-Zürich,Pasta-Cowboys,2014-09-27,"[' Davide Mandato ', ' Daniel Zihlmann ', ' Chris Schelker ', ' Tommaso Tedesco ', ' Sabatino Romano ', ' Domenico Russo Antunez ']",
-Riehen,10-Jahre-Philharmonisches-Orchester-Riehen,2014-09-27,"[' Amélie Gehweiler ', ' Isabel Gehweiler ', ' Marret Popp ']",Classic
-null,Kammerchor-Kaluga,2014-09-27,['Kammerchor Kaluga '],
-null,Konzert,2014-09-27,['Marcel Schmid '],Classic
-Luzern,World-Band-Festival-Tattoo-on-Stage,2014-09-27,"['Orchester der Suworow Militärakademie Moskau ', ' Shanghai Jiangzhou Drum Company ', ' New Zealand Army Band ']",traditional
-Bern,Venezia-Musik-aus-San-Marco,2014-09-27,[' Adrien Pièce '],Classic
-Zürich,Messa-di-Gloria,2014-09-27,"[' Maria C. Schmid ', ' Tino Brütsch ', ' René Perler ']",Classic
-Solothurn,Spektrum-Akzente-Carpe-diem,2014-09-27,"[' Marisa Waldburger ', ' Micaela Grau ', ' Dominique Gisler ', ' Ursula Hächler ']",Classic
-Basel,Ech-Läbä-Noch,2014-09-27,"[' Barbara Böhi ', ' Barbara Schlatter-Wiederkehr ']",Classic
-Zürich,Turbostaat,2014-09-27,['Turbostaat '],
-Frauenfeld,Die-Amigos,2014-09-27,['Die Amigos '],traditional
-Rheinfelden,Rhythm-&-Romance,2014-09-27,[' Thomas Grossenbacher '],Classic
-null,Idle-Class,2014-09-27,"['Idle Class ', ' Signals Midwest ', ' Joe Mcmahon ', ' Resolution ']",
-Solothurn,Beatsteaks,2014-09-27,['Beatsteaks '],
-Basel,Herbst,2014-09-27,"[' Ann Allen ', ' Corina Marti ', ' Caroline Ritchie ']",Classic
-null,Wovenhand,2014-09-27,['Wovenhand '],
-Liestal,Die-Weber,2014-09-27,['Stummfilm '],Classic
-Lenzburg,Mustache-Rocktoberfest,2014-09-27,"['Hackensaw Boys ', ' The Aroostercrats ']",
-Basel,Giocoso,2014-09-27,[' Manuel Leuenberger '],Classic
-Zürich,Oriental-&-Flamenco-Gypsy-Festival,2014-09-27,"['Romano Drom ', ' Juan De Gloria ']",
-Pratteln,Ken-Hensley,2014-09-27,['Ken Hensley '],
-Schaffhausen,Dutch-Swing-College-Band,2014-09-27,"[' Bob Kaper ', ' Keesjan Hoogeboom ', ' Maurits Woudenberg ', ' David Lukács ', ' Ton van Bergeijk ', ' Adrie Braat ', ' Anton Burger ']",
-Zürich,UB40-(GB),2014-09-27,"['UB40 ', ' Duncan Campbell ', ' Robin Campbell ', ' Earl Falconer ', ' James Brown ', ' Brian Travers ', ' Norman Hassan ']",
--KuZeB,null,2014-09-27,"[' Pestpocken ', ' Uprising Punx ', ' Waste of Ammo ']",
-Luzern,Les-Beignets,2014-09-27,['Les Beignets '],
-Zürich,Konzert,2014-09-27,"[' Tomás Gallart ', ' Eva Nievergelt ']",Classic
-Zug,Delilahs,2014-09-27,['Delilahs '],Pop
-null,All-Faces-Down,2014-09-27,['All Faces Down '],
-Zug,Scottish-Colours,2014-09-27,"['Breabach ', ' Maeve MacKinnon Band ']",
-Basel,Stewart-Marshall-Quintet,2014-09-27,"[' Grant Stewart ', ' John Marshall ', ' Leo Lindberg ', ' Kenji Rabson ', ' Phil Stewart ']",
-Winterthur,Hellroom-Projectors,2014-09-27,"['Hellroom Projectors ', ' Trecker ']",
-Ballwil,Channelsix,2014-09-27,['Channelsix '],Pop
-Herzogenbuchsee,Tall-Tall-Trees,2014-09-27,['Tall Tall Trees '],
-Luzern,Lord-Bishop-Rocks,2014-09-27,"['Lord Bishop Rocks ', "" Pimpin' Horus ""]",
-Luzern,Déesse,2014-09-27,['Déesse '],
-Lausanne,Emilie-Simon,2014-09-27,['Emilie Simon '],Pop
-Bern,Emptyset,2014-09-27,"['Emptyset ', ' Porter Ricks ']",Electronic
-null,Richard-Galliano,2014-09-27,['Richard Galliano '],
-Aarau,Sean-Price,2014-09-27,['Sean Price '],
-null,Yoanna,2014-09-27,['Yoanna '],Pop
-Zürich,Anna-&-Stoffner,2014-09-27,['Anna & Stoffner '],
-Basel,Noche-de-fiesta,2014-09-27,[' 21-22 Uhr Crashkurs con Yunaisy & Danger '],
-Basel,Cellophane-Suckers,2014-09-27,['Cellophane Suckers '],
-Bern,Pord,2014-09-27,['Pord '],
-Zürich,Una-noche-loca,2014-09-27,"[' Samuray Kuba ', ' Sean Lopez ', ' El Caobo ', ' Lil Cris ']",
+,location,event,date,artists,genre
+0,Basel,Orgelmusik-?ber-Mittag,2014-09-27,['Andreas Liebig '],['Classic']
+1,Winterthur,Drum-Festival-Switzerland,2014-09-27,"['George Kollias ', ' Thomas Lang ', ' Gergo Borlai ', ' Florian Alexandru-Zorn ', ' Mylious Johnson ', ' Claus Hessler ']","['Jazz', 'Blues', 'Soul']"
+2,Lyss,Carnage-Feast,2014-09-27,"['Bolt Thrower ', ' Morgoth ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,Bruder-Klaus,2014-09-27,"['Arlette Meier ', ' Felix Gubser ']",['Classic']
+4,Z?rich,Monte-Carlo,2014-09-27,['Monte Carlo '],['Pop']
+5,null,Schwanengesang,2014-09-27,"['Nik Kevin Koch ', ' Wolfgang Fritzsche ']",['Classic']
+6,Luzern,Metal-Storm-Vol.-2,2014-09-27,['Wolfheart '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Luzern,Piano-Entertainment,2014-09-27,['Christian Mettler '],['Pop']
+8,Z?rich,Bushido,2014-09-27,"['Bushido ', ' Shindy ']","['Hip', 'Hop', ""R'n'B""]"
+9,Z?rich,Pasta-Cowboys,2014-09-27,"[' Davide Mandato ', ' Daniel Zihlmann ', ' Chris Schelker ', ' Tommaso Tedesco ', ' Sabatino Romano ', ' Domenico Russo Antunez ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,null,Kammerchor-Kaluga,2014-09-27,['Kammerchor Kaluga '],"['world', 'music']"
+11,Riehen,10-Jahre-Philharmonisches-Orchester-Riehen,2014-09-27,"[' Am?lie Gehweiler ', ' Isabel Gehweiler ', ' Marret Popp ']",['Classic']
+12,null,Konzert,2014-09-27,['Marcel Schmid '],['Classic']
+13,Bern,Venezia-Musik-aus-San-Marco,2014-09-27,[' Adrien Pi?ce '],['Classic']
+14,Rheinfelden,Rhythm-&-Romance,2014-09-27,[' Thomas Grossenbacher '],['Classic']
+15,Solothurn,Spektrum-Akzente-Carpe-diem,2014-09-27,"[' Marisa Waldburger ', ' Micaela Grau ', ' Dominique Gisler ', ' Ursula H?chler ']",['Classic']
+16,Z?rich,Messa-di-Gloria,2014-09-27,"[' Maria C. Schmid ', ' Tino Br?tsch ', ' Ren? Perler ']",['Classic']
+17,Basel,Ech-L?b?-Noch,2014-09-27,"[' Barbara B?hi ', ' Barbara Schlatter-Wiederkehr ']",['Classic']
+18,Frauenfeld,Die-Amigos,2014-09-27,['Die Amigos '],['traditional']
+19,Luzern,World-Band-Festival-Tattoo-on-Stage,2014-09-27,"['Orchester der Suworow Milit?rakademie Moskau ', ' Shanghai Jiangzhou Drum Company ', ' New Zealand Army Band ']",['traditional']
+20,Z?rich,Turbostaat,2014-09-27,['Turbostaat '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,null,Idle-Class,2014-09-27,"['Idle Class ', ' Signals Midwest ', ' Joe Mcmahon ', ' Resolution ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Pratteln,Ken-Hensley,2014-09-27,['Ken Hensley '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Z?rich,Konzert,2014-09-27,"[' Tom?s Gallart ', ' Eva Nievergelt ']",['Classic']
+24,Basel,Giocoso,2014-09-27,[' Manuel Leuenberger '],['Classic']
+25,Z?rich,Oriental-&-Flamenco-Gypsy-Festival,2014-09-27,"['Romano Drom ', ' Juan De Gloria ']","['world', 'music']"
+26,Z?rich,UB40-(GB),2014-09-27,"['UB40 ', ' Duncan Campbell ', ' Robin Campbell ', ' Earl Falconer ', ' James Brown ', ' Brian Travers ', ' Norman Hassan ']","['Hip', 'Hop', ""R'n'B""]"
+27,-KuZeB,null,2014-09-27,"[' Pestpocken ', ' Uprising Punx ', ' Waste of Ammo ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Solothurn,Beatsteaks,2014-09-27,['Beatsteaks '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Basel,Herbst,2014-09-27,"[' Ann Allen ', ' Corina Marti ', ' Caroline Ritchie ']",['Classic']
+30,null,Wovenhand,2014-09-27,['Wovenhand '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Liestal,Die-Weber,2014-09-27,['Stummfilm '],['Classic']
+32,Zug,Delilahs,2014-09-27,['Delilahs '],['Pop']
+33,Lenzburg,Mustache-Rocktoberfest,2014-09-27,"['Hackensaw Boys ', ' The Aroostercrats ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Luzern,Les-Beignets,2014-09-27,['Les Beignets '],"['Hip', 'Hop', ""R'n'B""]"
+35,Schaffhausen,Dutch-Swing-College-Band,2014-09-27,"[' Bob Kaper ', ' Keesjan Hoogeboom ', ' Maurits Woudenberg ', ' David Luk?cs ', ' Ton van Bergeijk ', ' Adrie Braat ', ' Anton Burger ']","['Jazz', 'Blues', 'Soul']"
+36,null,All-Faces-Down,2014-09-27,['All Faces Down '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Basel,Stewart-Marshall-Quintet,2014-09-27,"[' Grant Stewart ', ' John Marshall ', ' Leo Lindberg ', ' Kenji Rabson ', ' Phil Stewart ']","['Jazz', 'Blues', 'Soul']"
+38,Winterthur,Hellroom-Projectors,2014-09-27,"['Hellroom Projectors ', ' Trecker ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+39,Ballwil,Channelsix,2014-09-27,['Channelsix '],['Pop']
+40,Zug,Scottish-Colours,2014-09-27,"['Breabach ', ' Maeve MacKinnon Band ']","['world', 'music']"
+41,Luzern,D?esse,2014-09-27,['D?esse '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+42,Luzern,Lord-Bishop-Rocks,2014-09-27,"['Lord Bishop Rocks ', "" Pimpin' Horus ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+43,Lausanne,Emilie-Simon,2014-09-27,['Emilie Simon '],['Pop']
+44,Bern,Emptyset,2014-09-27,"['Emptyset ', ' Porter Ricks ']",['Electronic']
+45,null,Richard-Galliano,2014-09-27,['Richard Galliano '],"['Jazz', 'Blues', 'Soul']"
+46,Herzogenbuchsee,Tall-Tall-Trees,2014-09-27,['Tall Tall Trees '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+47,Aarau,Sean-Price,2014-09-27,['Sean Price '],"['Hip', 'Hop', ""R'n'B""]"
+48,null,Yoanna,2014-09-27,['Yoanna '],['Pop']
+49,Z?rich,Anna-&-Stoffner,2014-09-27,[' Stoffner '],"['Hip', 'Hop', ""R'n'B""]"
+50,Basel,Noche-de-fiesta,2014-09-27,[' Danger '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+51,Basel,Cellophane-Suckers,2014-09-27,['Cellophane Suckers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+52,Bern,Pord,2014-09-27,['Pord '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+53,Z?rich,Una-noche-loca,2014-09-27,"[' Samuray Kuba ', ' Sean Lopez ', ' El Caobo ', ' Lil Cris ']","['Hip', 'Hop', ""R'n'B""]"

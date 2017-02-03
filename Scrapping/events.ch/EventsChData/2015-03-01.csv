@@ -1,34 +1,33 @@
-location,event,date,artists,genre
-Zürich,Krankensonntag,2015-03-01,"[' Kurt Meier ', ' Felix Gubser ']",Classic
-Feuerthalen,Bill-Faster,2015-03-01,['Bill Faster '],
-Winterthur,Jazz-Matinee,2015-03-01,['Barrelhouse Jazzband '],
-Zürich,Ein-Haydn-Spass,2015-03-01,"[' Raphael Nussbaumer ', ' Samuel Niederhauser ', ' Lénard Heugen ']",Classic
-null,5.-Kammerkonzert,2015-03-01,"[' Anne Fatout ', ' Dominique Hongler ', ' Clément Boudrant ', ' Martin Reetz ']",Classic
-Basel,AMG-Sonntagsmatineen,2015-03-01,[' Arabella Steinbacher '],Classic
-Kriens,Tanz-und-Tapir,2015-03-01,"['Marcelo Nisinman ', ' Maurizio Grandinetti ', ' Heiner Reich ']",Classic
-null,Liedmatinée-mit-Brunch,2015-03-01,"['Bastian Thomas Kohl ', ' Laila Barnat ']",Classic
-Zürich,O-schöne-Nacht,2015-03-01,"[' Hans Adolfsen ', ' Peter Baur ', ' Martin Achrainer ']",Classic
-Bern,Jazzwerkstatt,2015-03-01,"[""D'une île à l'autre ""]",
-Bern,Serena-Fisseau,2015-03-01,"['Serena Fisseau ', ' Serena Fisseau ', ' Fred Soul ']",Pop
-Zürich,Stranger-Stranger,2015-03-01,['Stranger Stranger '],Pop
-Basel,Sonaten-aus-Leipziger-Clavichorddrucken,2015-03-01,['Sally Fortino '],Classic
-Zollikerberg,Konzert,2015-03-01,"[' Kurt Meier ', ' Arlette Meier ', ' Josias Just ']",Classic
-Zürich,Licht-&-Schatten,2015-03-01,"['Valeriya Bernikova ', ' Christian Gautschi ']",Classic
-Flawil,Konzert-für-Panflöte-und-Orgel,2015-03-01,"['Jörg Frei ', ' Bernhard Hörler ']",Classic
-Zürich,Ach-wie-mich-das-aufregt,2015-03-01,"['Julia Schürer ', ' Daniel Schnurrenberger ', ' Matthias Fankhauser ']",Pop
-Winterthur,K-&-K-Artist-in-Resonance,2015-03-01,"['Nicolas Altstaedt ', ' Dénes Várjon ', ' Roberto González Monjas ', ' Ryoko Suguri ', ' Pär Näsbom ']",Classic
-Zürich,Auf-Flügeln-des-Gesangs,2015-03-01,['Giancarlo Prossimo '],Classic
-Bern,Meisterkonzert,2015-03-01,"['Steven Isserlis ', ' Robert Levin ']",Classic
-Zürich,Orgelkonzert,2015-03-01,['Patricia Ott '],Classic
-Zürich,Jeff-Ballard-Fairgrounds,2015-03-01,"['Jeff Ballard Fairgrounds ', ' Jeff Ballard ', ' Kevin Hays ', ' Lionel Loueke ']",
-null,Heavy-Trash,2015-03-01,['Heavy Trash '],
-Luzern,9.-Klubkonzert,2015-03-01,"[' Fritz Hegi ', ' Dieter Ulrich ', ' Reto Senn ']",
-null,Heavy-Trash,2015-03-01,['Heavy Trash '],
-Bern,Jazzwerkstatt,2015-03-01,[' Schmieds Puls '],
-Solothurn,Radio-Havanna,2015-03-01,['Radio Havanna '],
-Zürich,Tag-und-Nacht,2015-03-01,"['Wen-Sinn Yang ', ' Werner Bärtschi ']",Classic
-Zürich,Katy-Perry,2015-03-01,['Katy Perry '],Pop
-Basel,Kizomba-Night,2015-03-01,['DJ Adelscott '],
-Pratteln,Erste-Allgemeine-Verunsicherung,2015-03-01,['Erste Allgemeine Verunsicherung '],Pop
-null,Fork,2015-03-01,['Fork '],Pop
-Zürich,Sean-Rowe,2015-03-01,['Sean Rowe '],Pop
+,location,event,date,artists,genre
+0,Z?rich,Krankensonntag,2015-03-01,"[' Kurt Meier ', ' Felix Gubser ']",['Classic']
+1,Winterthur,Jazz-Matinee,2015-03-01,['Barrelhouse Jazzband '],"['Jazz', 'Blues', 'Soul']"
+2,Feuerthalen,Bill-Faster,2015-03-01,['Bill Faster '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Basel,AMG-Sonntagsmatineen,2015-03-01,[' Arabella Steinbacher '],['Classic']
+4,null,5.-Kammerkonzert,2015-03-01,"[' Anne Fatout ', ' Dominique Hongler ', ' Cl?ment Boudrant ', ' Martin Reetz ']",['Classic']
+5,Z?rich,Ein-Haydn-Spass,2015-03-01,"[' Raphael Nussbaumer ', ' Samuel Niederhauser ', ' L?nard Heugen ']",['Classic']
+6,null,Liedmatin?e-mit-Brunch,2015-03-01,"['Bastian Thomas Kohl ', ' Laila Barnat ']",['Classic']
+7,Z?rich,O-sch?ne-Nacht,2015-03-01,"[' Hans Adolfsen ', ' Peter Baur ', ' Martin Achrainer ']",['Classic']
+8,Bern,Serena-Fisseau,2015-03-01,"['Serena Fisseau ', ' Serena Fisseau ', ' Fred Soul ']",['Pop']
+9,Bern,Jazzwerkstatt,2015-03-01,"[""D'une ?le ? l'autre ""]","['Jazz', 'Blues', 'Soul']"
+10,Basel,Sonaten-aus-Leipziger-Clavichorddrucken,2015-03-01,['Sally Fortino '],['Classic']
+11,Z?rich,Stranger-Stranger,2015-03-01,['Stranger Stranger '],['Pop']
+12,Winterthur,K-&-K-Artist-in-Resonance,2015-03-01,"['Nicolas Altstaedt ', ' D?nes V?rjon ', ' Roberto Gonz?lez Monjas ', ' Ryoko Suguri ', ' P?r N?sbom ']",['Classic']
+13,Bern,Meisterkonzert,2015-03-01,"['Steven Isserlis ', ' Robert Levin ']",['Classic']
+14,Z?rich,Ach-wie-mich-das-aufregt,2015-03-01,"['Julia Sch?rer ', ' Daniel Schnurrenberger ', ' Matthias Fankhauser ']",['Pop']
+15,Z?rich,Auf-Fl?geln-des-Gesangs,2015-03-01,['Giancarlo Prossimo '],['Classic']
+16,Z?rich,Orgelkonzert,2015-03-01,['Patricia Ott '],['Classic']
+17,Z?rich,Licht-&-Schatten,2015-03-01,"['Valeriya Bernikova ', ' Christian Gautschi ']",['Classic']
+18,Flawil,Konzert-f?r-Panfl?te-und-Orgel,2015-03-01,"['J?rg Frei ', ' Bernhard H?rler ']",['Classic']
+19,Zollikerberg,Konzert,2015-03-01,"[' Kurt Meier ', ' Arlette Meier ', ' Josias Just ']",['Classic']
+20,null,Heavy-Trash,2015-03-01,['Heavy Trash '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,null,Heavy-Trash,2015-03-01,['Heavy Trash '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Bern,Jazzwerkstatt,2015-03-01,[' Schmieds Puls '],"['Jazz', 'Blues', 'Soul']"
+23,Z?rich,Jeff-Ballard-Fairgrounds,2015-03-01,"['Jeff Ballard Fairgrounds ', ' Jeff Ballard ', ' Kevin Hays ', ' Lionel Loueke ']","['Jazz', 'Blues', 'Soul']"
+24,Luzern,9.-Klubkonzert,2015-03-01,"[' Fritz Hegi ', ' Dieter Ulrich ', ' Reto Senn ']","['Jazz', 'Blues', 'Soul']"
+25,Z?rich,Tag-und-Nacht,2015-03-01,"['Wen-Sinn Yang ', ' Werner B?rtschi ']",['Classic']
+26,Solothurn,Radio-Havanna,2015-03-01,['Radio Havanna '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Z?rich,Katy-Perry,2015-03-01,['Katy Perry '],['Pop']
+28,Pratteln,Erste-Allgemeine-Verunsicherung,2015-03-01,['Erste Allgemeine Verunsicherung '],['Pop']
+29,null,Fork,2015-03-01,['Fork '],['Pop']
+30,Basel,Kizomba-Night,2015-03-01,['DJ Adelscott '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+31,Z?rich,Sean-Rowe,2015-03-01,['Sean Rowe '],['Pop']

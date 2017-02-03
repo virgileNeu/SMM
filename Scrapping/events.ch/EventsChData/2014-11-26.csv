@@ -1,30 +1,24 @@
-location,event,date,artists,genre
-Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Vestard Shimkus '],Classic
-Zürich,Werner-und-Company,2014-11-26,['Werner und Company '],Pop
-Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Ehud Asherie '],
-Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Bernd Lhotzky '],
-Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Dirk Raufeisen '],
-Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Aaraon Goldberg '],
-Zürich,Konzert,2014-11-26,[' Anja Harteros '],Classic
-Zürich,Unerhört,2014-11-26,"[' Luca Sisera ', ' Michael Jaeger ', ' Silvio Cadotsch ', ' Yves Theiler ', ' Michi Stulz ', ' Nils Wogram ', ' Nina Reiter ']",
-Luzern,Lucerne-Festival-am-Piano,2014-11-26,[' conductor: Leif Ove Andsnes '],Classic
-Basel,Jean-Marie-Leclair-für-2-Cembali,2014-11-26,"[' Chani ', ' Nadja Lesaulnier ']",Classic
-Zürich,Symphonie-espagnole,2014-11-26,[' Malwina Sosnowski '],Classic
-Bern,Tiken-Jah-Fakoly,2014-11-26,['Tiken Jah Fakoly '],
-Zürich,Deine-Lakaien,2014-11-26,['Deine Lakaien '],
-Pratteln,Banned-from-Utopia,2014-11-26,['Banned from Utopia '],
-Bern,Triggerfinger,2014-11-26,['Triggerfinger '],
-Luzern,Gnarwolves,2014-11-26,"['Gnarwolves ', ' Prawn ']",Pop
-Zürich,Elvis-The-Show,2014-11-26,['Rio feat. The Tennessee Orchestra & The Vegas Choir '],
-Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Chris Hopkins '],
-Zürich,Unerhört,2014-11-26,"[' Rudresh Mahanthappa ', ' Peter Wagner ', ' Thomy Jordi ', ' Christian Niederer ']",
-Zürich,The-Temperance-Movement,2014-11-26,['The Temperance Movement '],
-Zürich,Eskorzo,2014-11-26,['Eskorzo '],
-Winterthur,Ghost-Town-Trio-feat.-Mara-Miccichè,2014-11-26,"[' Iokoi ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Künzi ']",
-Frauenfeld,Chris-Wiesendanger,2014-11-26,"['Chris Wiesendanger ', ' Patrice Moret ']",
-null,Courtney-Barnett,2014-11-26,"['Courtney Barnett ', ' Money for Rope ']",
-Thônex,Ayo,2014-11-26,['Ayo '],
-Lausanne,Klaxons,2014-11-26,"['Klaxons ', ' Fenech Solar ']",
-null,Paco-de-Lucia-&-Band,2014-11-26,['Paco de Lucia & Band '],
-Bern,Sons-of-Kemet,2014-11-26,['Sons of Kemet '],
-Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Ehud Asherie '],
+,location,event,date,artists,genre
+0,Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Vestard Shimkus '],['Classic']
+1,Z?rich,Werner-und-Company,2014-11-26,['Werner und Company '],['Pop']
+2,Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Bernd Lhotzky '],"['Jazz', 'Blues', 'Soul']"
+3,Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Ehud Asherie '],"['Jazz', 'Blues', 'Soul']"
+4,Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Aaraon Goldberg '],"['Jazz', 'Blues', 'Soul']"
+5,Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Dirk Raufeisen '],"['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Konzert,2014-11-26,[' Anja Harteros '],['Classic']
+7,Luzern,Lucerne-Festival-am-Piano,2014-11-26,[' conductor: Leif Ove Andsnes '],['Classic']
+8,Z?rich,Unerh?rt,2014-11-26,"[' Luca Sisera ', ' Michael Jaeger ', ' Silvio Cadotsch ', ' Yves Theiler ', ' Michi Stulz ', ' Nils Wogram ', ' Nina Reiter ']","['Jazz', 'Blues', 'Soul']"
+9,Basel,Jean-Marie-Leclair-f?r-2-Cembali,2014-11-26,"[' Chani ', ' Nadja Lesaulnier ']",['Classic']
+10,Z?rich,Symphonie-espagnole,2014-11-26,[' Malwina Sosnowski '],['Classic']
+11,Z?rich,The-Temperance-Movement,2014-11-26,['The Temperance Movement '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Z?rich,Eskorzo,2014-11-26,['Eskorzo '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Chris Hopkins '],"['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Unerh?rt,2014-11-26,"[' Rudresh Mahanthappa ', ' Peter Wagner ', ' Thomy Jordi ', ' Christian Niederer ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Deine-Lakaien,2014-11-26,['Deine Lakaien '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Lyss,Skip-the-Use-abgesagt,2014-11-26,['Skip the Use '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Luzern,Gnarwolves,2014-11-26,"['Gnarwolves ', ' Prawn ']",['Pop']
+18,Pratteln,Banned-from-Utopia,2014-11-26,['Banned from Utopia '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Bern,Triggerfinger,2014-11-26,['Triggerfinger '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Z?rich,Elvis-The-Show,2014-11-26,[' The Vegas Choir '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Bern,Sons-of-Kemet,2014-11-26,['Sons of Kemet '],"['Jazz', 'Blues', 'Soul']"
+22,Luzern,Lucerne-Festival-am-Piano,2014-11-26,['Ehud Asherie '],"['Jazz', 'Blues', 'Soul']"

@@ -1,16 +1,14 @@
-location,event,date,artists,genre
-Zürich,Lunchkonzert,2014-03-03,"[' Fabio Luisi ', ' Robert Pickup ', ' Ada Pesch ', ' Karen Forster ', ' Claudius Herrmann ']",Classic
-Solothurn,Bob-Barton-Trio,2014-03-03,"[' Bob Barton ', ' Det Baumann ', ' Thomas Fahrer ']",
-Zürich,Série-jeunes,2014-03-03,['Mahan Esfahani '],Classic
-null,Stonedry-The-Band,2014-03-03,"[' Michael Williams ', ' Marco Puglisi ', ' Stefano Nuñez ', ' Ian Ott ', ' Artur Cavelti ']",
-null,Stonedry-The-Band,2014-03-03,"[' Michael Williams ', ' Marco Puglisi ', ' Stefano Nuñez ', ' Ian Ott ', ' Artur Cavelti ']",
-Zürich,Let's-Jazz,2014-03-03,"[' Simon Wyrsch ', ' Dario Bianchi ', ' Fridolin Blumer ', ' Robert Mark ']",
-Zürich,Matt-Pryor,2014-03-03,"['Matt Pryor ', ' Allison Weiss ']",Pop
-Basel,Söhne-Mannheims,2014-03-03,['Söhne Mannheims '],Pop
-Zürich,Old-School-Piano-Blues,2014-03-03,['Andy Boller '],
-null,Stonedry,2014-03-03,"[' Stefano Nuñez ', ' Ian Ott ', ' Marco Puglisi ', ' Artur Cavelti ']",
-Zürich,Rumpel-&-Racine,2014-03-03,"[' Jojo Kunz ', ' Marianne Racine ']",
-Baden,Rémi-Panossian-Trio-feat.-Nicole-Johänntgen,2014-03-03,"[' Rémi Panossian ', ' Maxime Delporte ', ' Frédéric Petitprez ', ' Nicole Johänntgen ']",
-Basel,Elekes-Gutfleisch-Herrmann,2014-03-03,"[' Tibor Elekes ', ' Johanness Gutfleisch ', ' Andy Hermann ']",
-Luzern,Solrize,2014-03-03,['Solrize '],
-Zürich,Nik-Bärtsch's-Mobile,2014-03-03,"[' Nik Bartsch ', ' Sha ', ' Kaspar Rast ', ' Nicolas Stocker ']",
+,location,event,date,artists,genre
+0,Z?rich,Lunchkonzert,2014-03-03,"[' Fabio Luisi ', ' Robert Pickup ', ' Ada Pesch ', ' Karen Forster ', ' Claudius Herrmann ']",['Classic']
+1,Solothurn,Bob-Barton-Trio,2014-03-03,"[' Bob Barton ', ' Det Baumann ', ' Thomas Fahrer ']","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,S?rie-jeunes,2014-03-03,['Mahan Esfahani '],['Classic']
+3,null,Stonedry-The-Band,2014-03-03,"[' Michael Williams ', ' Marco Puglisi ', ' Stefano Nu?ez ', ' Ian Ott ', ' Artur Cavelti ']","['Hip', 'Hop', ""R'n'B""]"
+4,Z?rich,Rumpel-&-Racine,2014-03-03,"[' Jojo Kunz ', ' Marianne Racine ']","['Jazz', 'Blues', 'Soul']"
+5,Basel,S?hne-Mannheims,2014-03-03,['S?hne Mannheims '],['Pop']
+6,Z?rich,Let's-Jazz,2014-03-03,"[' Simon Wyrsch ', ' Dario Bianchi ', ' Fridolin Blumer ', ' Robert Mark ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Old-School-Piano-Blues,2014-03-03,['Andy Boller '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,null,Stonedry,2014-03-03,"[' Stefano Nu?ez ', ' Ian Ott ', ' Marco Puglisi ', ' Artur Cavelti ']","['Hip', 'Hop', ""R'n'B""]"
+9,Baden,R?mi-Panossian-Trio-feat.-Nicole-Joh?nntgen,2014-03-03,"[' R?mi Panossian ', ' Maxime Delporte ', ' Fr?d?ric Petitprez ', ' Nicole Joh?nntgen ']","['Jazz', 'Blues', 'Soul']"
+10,Basel,Elekes-Gutfleisch-Herrmann,2014-03-03,"[' Tibor Elekes ', ' Johanness Gutfleisch ', ' Andy Hermann ']","['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Nik-B?rtsch's-Mobile,2014-03-03,"[' Nik Bartsch ', ' Sha ', ' Kaspar Rast ', ' Nicolas Stocker ']","['Jazz', 'Blues', 'Soul']"
+12,Luzern,Solrize,2014-03-03,['Solrize '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

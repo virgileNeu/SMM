@@ -1,37 +1,37 @@
-location,event,date,artists,genre
-Zürich,Weisser-Sonntag,2014-05-11,"['Benjamin Gubser ', ' Felix Gubser ']",Classic
-Basel,AMG-Sonntagsmatinee-zum-Muttertag,2014-05-11,"[' Julia Schröder ', ' Anastasia Voltchok ']",Classic
-Luzern,Aus-Oper-und-Konzert-zum-Muttertag,2014-05-11,[' Oliver Schnyder '],Classic
-Zürich,Bela-Balint-Big-Band,2014-05-11,"[' Michael Schlatter ', ' Urs Stucki ', ' Michael Allemand ', ' Markus Stark ', ' Max Helfenstein ']",
-Zürich,Matineé-zum-Muttertag,2014-05-11,"['Julia Sophie Wagner ', ' Michael Reid ', ' Götz Payer ']",Classic
-Zürich,Grenzen-Musik-kennt-keine-Grenzen,2014-05-11,"[' Josef Gazsi ', ' Michel Willi ', ' Kamil Losiewicz ', ' Ahmet Ediz ']",Classic
-Walkringen,Galeriekonzert-zum-Muttertag,2014-05-11,"['Charlotte Pauli ', ' Manuela Wanner ', ' Jürg Bitterli ']",Classic
-Herrliberg,Frühlingskonzert,2014-05-11,[' Jordi Bertran-Sastre '],Classic
-Zürich,Klassische-Gitarre,2014-05-11,['Christian Buck '],Classic
-null,Konzert,2014-05-11,[' Lionel Cottet '],Classic
-null,Energie-Temperament-und-Talent,2014-05-11,"['Nemanja Radulovic ', ' Susan Manoff ']",Classic
-Rapperswil,Muttertagskonzert,2014-05-11,['Roland Küng '],Classic
-Suhr,5.-Symphoniekonzert-Seidenstrasse,2014-05-11,[' Stella Doufexis '],Classic
-Wettingen,Muttertagskonzert,2014-05-11,"[' Ruth Achermann ', ' Stefan Müller ']",Classic
-Basel,Konzert-zum-Muttertag,2014-05-11,[' Fabian Künzli '],Classic
-Zürich,Schubert-&-Schostakowitsch,2014-05-11,"['Konstantin Vardeli ', ' David Pia ', ' Irina Vardeli ']",Classic
-null,Einfach-elegant,2014-05-11,"[' Brigitte Grether ', ' Jasmine Vollmer ']",Classic
-Basel,El-calderón-afrolatino,2014-05-11,"[' Alcides Toirac ', ' Amik Guerra ', ' Ohlê Gagneux ', ' Jorge-Luís Gonzalez ', ' Leonardo Salazar ', ' Sebastien Gagneux ', ' Lizandro Paredes ', ' Jorge Leysan Demestre ']",
-Zürich,Tadah,2014-05-11,"[' Irina Ungureanu ', ' Matthias Spillmann ', ' Vera Kappeler ', ' Urs Vögeli ', ' Dominique Girod ']",
-Uster,Omer-Klein-Trio,2014-05-11,"['Omer Klein Trio ', ' Omer Klein ', ' Haggai Cohen Milo ', ' Amir Bresler ']",
-Frenkendorf,Konzert,2014-05-11,"[' Mátyás Bartha ', ' Laurentius Bonitz ', ' Vahagn Aristakesyan ', ' Carlos Conrad ']",Classic
-Luzern,Muttertags-Konzert,2014-05-11,['Conductor: Jos van Immerseel '],Classic
-Bern,Benefizkonzert-zum-Muttertag,2014-05-11,"['Stefan Meier ', ' Ana Oltean ', ' Tatjana Durisova ', ' Judith Lüpold ', ' Andres de Castillo ']",Classic
-Basel,Passion-Dance,2014-05-11,"[' Volker Biesendender ', ' Julio Azcano ']",
-Uster,Helstar,2014-05-11,['Helstar '],
-Herisau,Ektomorf,2014-05-11,"['Ektomorf ', ' support: Vengince ', ' Cold-Snap ']",
-Zug,Konzert,2014-05-11,"['Regula Mühlemann ', ' Helmut Deutsch ']",Classic
-Zürich,Songsmith,2014-05-11,"['Hank Shizzoe ', ' Hank Shizzoe ', ' Tom Etter ', ' Simon Baumann ']",
-Zürich,Konzert,2014-05-11,['Cameron Carpenter '],Classic
-Zürich,Kammermusik-Soiree,2014-05-11,"[' Yukiko Ishibashi ', ' Ursula Sarnthein ', ' Christine Hu ']",Classic
-Zürich,Eli-Paperboy-Reed,2014-05-11,['Eli Paperboy Reed '],Pop
-Zürich,Némo,2014-05-11,['Némo '],
-null,Sparkassen-Konzert,2014-05-11,"[' Ulrich Isfort ', ' Annette Reisinger ', ' Aroa Sorin ', ' Matthias Diener ']",Classic
-Zürich,Mothers-Series-XVII,2014-05-11,"['Silvio Cadotsch ', ' Dave Gisler ', ' Jonas Labhart ', ' Marius Peyer ']",
-Luzern,Golden-Animals,2014-05-11,['Golden Animals '],
-Lausanne,Eagle-Twin,2014-05-11,['Eagle Twin '],
+,location,event,date,artists,genre
+0,Z?rich,Weisser-Sonntag,2014-05-11,"['Benjamin Gubser ', ' Felix Gubser ']",['Classic']
+1,Basel,AMG-Sonntagsmatinee-zum-Muttertag,2014-05-11,"[' Julia Schr?der ', ' Anastasia Voltchok ']",['Classic']
+2,Luzern,Aus-Oper-und-Konzert-zum-Muttertag,2014-05-11,[' Oliver Schnyder '],['Classic']
+3,Z?rich,Bela-Balint-Big-Band,2014-05-11,"[' Michael Schlatter ', ' Urs Stucki ', ' Michael Allemand ', ' Markus Stark ', ' Max Helfenstein ']","['Jazz', 'Blues', 'Soul']"
+4,Z?rich,Matine?-zum-Muttertag,2014-05-11,"['Julia Sophie Wagner ', ' Michael Reid ', ' G?tz Payer ']",['Classic']
+5,Z?rich,Grenzen-Musik-kennt-keine-Grenzen,2014-05-11,"[' Josef Gazsi ', ' Michel Willi ', ' Kamil Losiewicz ', ' Ahmet Ediz ']",['Classic']
+6,Walkringen,Galeriekonzert-zum-Muttertag,2014-05-11,"['Charlotte Pauli ', ' Manuela Wanner ', ' J?rg Bitterli ']",['Classic']
+7,Herrliberg,Fr?hlingskonzert,2014-05-11,[' Jordi Bertran-Sastre '],['Classic']
+8,Z?rich,Klassische-Gitarre,2014-05-11,['Christian Buck '],['Classic']
+9,null,Konzert,2014-05-11,[' Lionel Cottet '],['Classic']
+10,Basel,Konzert-zum-Muttertag,2014-05-11,[' Fabian K?nzli '],['Classic']
+11,Suhr,5.-Symphoniekonzert-Seidenstrasse,2014-05-11,[' Stella Doufexis '],['Classic']
+12,null,Energie-Temperament-und-Talent,2014-05-11,"['Nemanja Radulovic ', ' Susan Manoff ']",['Classic']
+13,Z?rich,Schubert-&-Schostakowitsch,2014-05-11,"['Konstantin Vardeli ', ' David Pia ', ' Irina Vardeli ']",['Classic']
+14,Wettingen,Muttertagskonzert,2014-05-11,"[' Ruth Achermann ', ' Stefan M?ller ']",['Classic']
+15,Rapperswil,Muttertagskonzert,2014-05-11,['Roland K?ng '],['Classic']
+16,null,Einfach-elegant,2014-05-11,"[' Brigitte Grether ', ' Jasmine Vollmer ']",['Classic']
+17,Uster,Omer-Klein-Trio,2014-05-11,"['Omer Klein Trio ', ' Omer Klein ', ' Haggai Cohen Milo ', ' Amir Bresler ']","['Jazz', 'Blues', 'Soul']"
+18,Basel,El-calder?n-afrolatino,2014-05-11,"[' Alcides Toirac ', ' Amik Guerra ', ' Ohl? Gagneux ', ' Jorge-Lu?s Gonzalez ', ' Leonardo Salazar ', ' Sebastien Gagneux ', ' Lizandro Paredes ', ' Jorge Leysan Demestre ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Tadah,2014-05-11,"[' Irina Ungureanu ', ' Matthias Spillmann ', ' Vera Kappeler ', ' Urs V?geli ', ' Dominique Girod ']","['Jazz', 'Blues', 'Soul']"
+20,Frenkendorf,Konzert,2014-05-11,"[' M?ty?s Bartha ', ' Laurentius Bonitz ', ' Vahagn Aristakesyan ', ' Carlos Conrad ']",['Classic']
+21,Basel,Passion-Dance,2014-05-11,"[' Volker Biesendender ', ' Julio Azcano ']","['world', 'music']"
+22,Luzern,Muttertags-Konzert,2014-05-11,['Conductor: Jos van Immerseel '],['Classic']
+23,Bern,Benefizkonzert-zum-Muttertag,2014-05-11,"['Stefan Meier ', ' Ana Oltean ', ' Tatjana Durisova ', ' Judith L?pold ', ' Andres de Castillo ']",['Classic']
+24,Uster,Helstar,2014-05-11,['Helstar '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Z?rich,Songsmith,2014-05-11,"['Hank Shizzoe ', ' Hank Shizzoe ', ' Tom Etter ', ' Simon Baumann ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Herisau,Ektomorf,2014-05-11,"['Ektomorf ', ' support: Vengince ', ' Cold-Snap ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Zug,Konzert,2014-05-11,"['Regula M?hlemann ', ' Helmut Deutsch ']",['Classic']
+28,Z?rich,Kammermusik-Soiree,2014-05-11,"[' Yukiko Ishibashi ', ' Ursula Sarnthein ', ' Christine Hu ']",['Classic']
+29,Z?rich,Konzert,2014-05-11,['Cameron Carpenter '],['Classic']
+30,null,Sparkassen-Konzert,2014-05-11,"[' Ulrich Isfort ', ' Annette Reisinger ', ' Aroa Sorin ', ' Matthias Diener ']",['Classic']
+31,Z?rich,Eli-Paperboy-Reed,2014-05-11,['Eli Paperboy Reed '],['Pop']
+32,Z?rich,N?mo,2014-05-11,['N?mo '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Z?rich,Mothers-Series-XVII,2014-05-11,"['Silvio Cadotsch ', ' Dave Gisler ', ' Jonas Labhart ', ' Marius Peyer ']","['Jazz', 'Blues', 'Soul']"
+34,Luzern,Golden-Animals,2014-05-11,['Golden Animals '],"['Jazz', 'Blues', 'Soul']"
+35,Lausanne,Eagle-Twin,2014-05-11,['Eagle Twin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

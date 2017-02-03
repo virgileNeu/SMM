@@ -1,38 +1,37 @@
-location,event,date,artists,genre
-Zürich,Ex-America-lux-Lunchkonzert,2014-03-20,"[' Andreas Janke ', ' Elisabeth Bundies ', ' Katja Fuchs ', ' Christian Proske ', ' Ewa Grzywna-Groblewska ']",Classic
-null,Between-the-Beats,2014-03-20,"['Die Höchste Eisenbahn ', ' The Rifles ', ' Trümmer ']",
-Zürich,Bishops-Green,2014-03-20,"['Bishops Green ', ' Aggressive ']",
-Luzern,Soulfly,2014-03-20,['Soulfly '],
--Temple-allemand,null,2014-03-20,"[' Ruth Ziesak ', ' Marc-Olivier Oetterli ']",Classic
-Zürich,Thursday-Night-Jazz,2014-03-20,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Bern,Mahlers-Fünfte,2014-03-20,[' Lena Neudauer '],Classic
-null,8.-Tonhallekonzert-Frühlingssinfonie,2014-03-20,['Simone Lamsma '],Classic
-Zürich,Internationales-Country-Music-Festival,2014-03-20,['Nevada '],
-Zürich,Konzert,2014-03-20,[' works by Werner Bärtschi '],Classic
-Winterthur,Virtuose-Spanien-Impressionen,2014-03-20,[' Alexandra Soumm '],Classic
-Basel,Fantastique,2014-03-20,[' Véronique Gens '],Classic
-Villmergen,Symphoniekonzert-Wien-bleibt-Wien,2014-03-20,[' Andrea Janke '],Classic
-Bern,Rezia,2014-03-20,['Rezia '],
-Zürich,Tabor,2014-03-20,"['Tabor ', ' Piroschka Triska ', ' Roger Moreno ', ' Tsjawo Adell ', ' Moro Adell ', ' Janusch Hallema ']",traditional
-Zürich,Taksim-Trio,2014-03-20,"['Taksim Trio ', ' Husnu Senlendirici ', ' Aytac Dogan ', ' Ismail Tuncbilek ']",
-Uznach,Dobrek-Bistro,2014-03-20,"['Krzysztof Dobrek ', ' Aliosha Biz ', ' Sascha Lackner ', ' Luis Ribeiro ']",
-Dübendorf,Devinition-of-Sound,2014-03-20,"[' Simon Krauer ', ' Thomas Hauser ', ' Raphael Jost ', ' Devi Reith ']",
-Pratteln,Van-Canto,2014-03-20,['Van Canto '],
-Basel,Espace-éloigné,2014-03-20,"[' Martin Bliggenstorfer ', ' Lucas A. Rössner ']",Classic
-Zürich,Die-Evolution,2014-03-20,"[' Kismara Pessatti ', ' Valentin Gloor ']",Classic
-Luzern,Salonmusik,2014-03-20,"['Martin Schaefer ', ' Richard Decker ']",Classic
-Winterthur,European-Jazz-Connection-feat.-Marianne-Racine,2014-03-20,"[' Marianne Racine ', ' Martien Oster ', ' Christoph Sprenger ', ' Alfred Kramer ']",
-Uster,Baldych-Biondini-Quartet,2014-03-20,"[' Adam Baldych ', ' Luciano Biondini ', ' Michel Benita ', ' Philippe Garcia ']",
-Baden,Jazz-am-Donnerstag,2014-03-20,"['Lukas Valentin Gernet ', ' Rafael Jerjen ', ' Sheldon Suter ']",
-Basel,Les-Hay-Babies,2014-03-20,['Les Hay Babies '],
-Zürich,Nick-Howard,2014-03-20,['Nick Howard '],Pop
-Zürich,The-Rhythm-Junks,2014-03-20,['The Rhythm Junks '],
-Zürich,Artist-in-Residence-Karin-Meier,2014-03-20,"[' Karin Meier ', ' Hannes Bürgi ', ' Claude Meier ', ' Milena Buzzo ', ' Estella Wiss ', ' Christoph Steiner ']",Pop
-null,Goran-Bregovic-&-his-Wedding-and-Funeral-Band,2014-03-20,['Goran Bregovic & his Wedding and Funeral Band '],
-Basel,Amina-Figarova-Sextet,2014-03-20,"[' Ernie Hammes ', ' Bart Platteau ', ' Johannes Mueller ', ' Amina Figarova ', ' Jeroen Vierdag ', ' Jason Brown ']",
-Zürich,Lorelle-Meets-The-Obsolete,2014-03-20,"['Lorelle Meets The Obsolete ', ' Lowlakes ']",
-Lausanne,Emily-Jane-White,2014-03-20,['Emily Jane White '],
-null,Ministry-of-Wolves,2014-03-20,['Ministry of Wolves '],
-Luzern,Jam-Session,2014-03-20,['Richard Decker '],
-Bern,Be-Forest,2014-03-20,['Be Forest '],Electronic
-Zürich,Síd,2014-03-20,"[' Rea Dubach ', ' Luzius Schuler ', ' Daniel Weber ']",
+,location,event,date,artists,genre
+0,Z?rich,Ex-America-lux-Lunchkonzert,2014-03-20,"[' Andreas Janke ', ' Elisabeth Bundies ', ' Katja Fuchs ', ' Christian Proske ', ' Ewa Grzywna-Groblewska ']",['Classic']
+1,Luzern,Soulfly,2014-03-20,['Soulfly '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,null,Between-the-Beats,2014-03-20,"['Die H?chste Eisenbahn ', ' The Rifles ', ' Tr?mmer ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Basel,Fantastique,2014-03-20,[' V?ronique Gens '],['Classic']
+4,Basel,Fantastique,2014-03-20,[' V?ronique Gens '],['Classic']
+5,Z?rich,Internationales-Country-Music-Festival,2014-03-20,['Nevada '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,-Temple-allemand,null,2014-03-20,"[' Ruth Ziesak ', ' Marc-Olivier Oetterli ']",['Classic']
+7,Z?rich,Thursday-Night-Jazz,2014-03-20,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+8,Bern,Mahlers-F?nfte,2014-03-20,[' Lena Neudauer '],['Classic']
+9,null,8.-Tonhallekonzert-Fr?hlingssinfonie,2014-03-20,['Simone Lamsma '],['Classic']
+10,Z?rich,Konzert,2014-03-20,[' works by Werner B?rtschi '],['Classic']
+11,Winterthur,Virtuose-Spanien-Impressionen,2014-03-20,[' Alexandra Soumm '],['Classic']
+12,Z?rich,Die-Evolution,2014-03-20,"[' Kismara Pessatti ', ' Valentin Gloor ']",['Classic']
+13,Luzern,Salonmusik,2014-03-20,"['Martin Schaefer ', ' Richard Decker ']",['Classic']
+14,Bern,Rezia,2014-03-20,['Rezia '],"['Hip', 'Hop', ""R'n'B""]"
+15,Pratteln,Van-Canto,2014-03-20,['Van Canto '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,D?bendorf,Devinition-of-Sound,2014-03-20,"[' Simon Krauer ', ' Thomas Hauser ', ' Raphael Jost ', ' Devi Reith ']","['Hip', 'Hop', ""R'n'B""]"
+17,Z?rich,Taksim-Trio,2014-03-20,"['Taksim Trio ', ' Husnu Senlendirici ', ' Aytac Dogan ', ' Ismail Tuncbilek ']","['Jazz', 'Blues', 'Soul']"
+18,Uznach,Dobrek-Bistro,2014-03-20,"['Krzysztof Dobrek ', ' Aliosha Biz ', ' Sascha Lackner ', ' Luis Ribeiro ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Tabor,2014-03-20,"['Tabor ', ' Piroschka Triska ', ' Roger Moreno ', ' Tsjawo Adell ', ' Moro Adell ', ' Janusch Hallema ']",['traditional']
+20,Basel,Espace-?loign?,2014-03-20,"[' Martin Bliggenstorfer ', ' Lucas A. R?ssner ']",['Classic']
+21,Winterthur,European-Jazz-Connection-feat.-Marianne-Racine,2014-03-20,"[' Marianne Racine ', ' Martien Oster ', ' Christoph Sprenger ', ' Alfred Kramer ']","['Jazz', 'Blues', 'Soul']"
+22,Basel,Amina-Figarova-Sextet,2014-03-20,"[' Ernie Hammes ', ' Bart Platteau ', ' Johannes Mueller ', ' Amina Figarova ', ' Jeroen Vierdag ', ' Jason Brown ']","['Jazz', 'Blues', 'Soul']"
+23,Z?rich,Nick-Howard,2014-03-20,['Nick Howard '],['Pop']
+24,null,Goran-Bregovic-&-his-Wedding-and-Funeral-Band,2014-03-20,[' his Wedding and Funeral Band '],"['world', 'music']"
+25,Uster,Baldych-Biondini-Quartet,2014-03-20,"[' Adam Baldych ', ' Luciano Biondini ', ' Michel Benita ', ' Philippe Garcia ']","['Jazz', 'Blues', 'Soul']"
+26,Baden,Jazz-am-Donnerstag,2014-03-20,"['Lukas Valentin Gernet ', ' Rafael Jerjen ', ' Sheldon Suter ']","['Jazz', 'Blues', 'Soul']"
+27,Z?rich,The-Rhythm-Junks,2014-03-20,['The Rhythm Junks '],"['Jazz', 'Blues', 'Soul']"
+28,Z?rich,Artist-in-Residence-Karin-Meier,2014-03-20,"[' Karin Meier ', ' Hannes B?rgi ', ' Claude Meier ', ' Milena Buzzo ', ' Estella Wiss ', ' Christoph Steiner ']",['Pop']
+29,Basel,Les-Hay-Babies,2014-03-20,['Les Hay Babies '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Lausanne,Emily-Jane-White,2014-03-20,['Emily Jane White '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Z?rich,Lorelle-Meets-The-Obsolete,2014-03-20,"['Lorelle Meets The Obsolete ', ' Lowlakes ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,null,Ministry-of-Wolves,2014-03-20,['Ministry of Wolves '],"['Jazz', 'Blues', 'Soul']"
+33,Luzern,Jam-Session,2014-03-20,['Richard Decker '],"['Jazz', 'Blues', 'Soul']"
+34,Bern,Be-Forest,2014-03-20,['Be Forest '],['Electronic']
+35,Z?rich,S?d,2014-03-20,"[' Rea Dubach ', ' Luzius Schuler ', ' Daniel Weber ']","['Jazz', 'Blues', 'Soul']"

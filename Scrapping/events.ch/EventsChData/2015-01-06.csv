@@ -1,11 +1,11 @@
-location,event,date,artists,genre
-Basel,Punkt-12-Offene-Orchesterprobe,2015-01-06,"[' Julian Rachlin ', ' Fumiaki Miura ']",Classic
-Zürich,Werner-und-Company,2015-01-06,['Werner und Company '],Pop
-Zürich,Spoerri-Girod,2015-01-06,"[' Roger Girod ', ' Bruno Spoerri ']",
-Basel,Il-prete-rosso,2015-01-06,[' Giuliano Carmignola '],Classic
-Zürich,Vergessen-,2015-01-06,"['Ulrike Andersen ', ' Thomas Schibler ', ' Werner Bärtschi ']",Classic
-null,Sonne-der-Musik,2015-01-06,"['Sol Gabetta ', ' Bertrand Chamayou ']",Classic
-Dietikon,Laura-Cesar-Quartett,2015-01-06,"[' Laura Cesar ', ' Beat Baumli ', ' Sandy Patton ', ' Pius Baschnagel ']",
-Basel,Basler-Jazztradition,2015-01-06,"[' Fats Frei ', ' Mario Schneeberger ', ' Norbert Drosd ', ' Hans Meier ', ' Ernst Grell ', ' Juanita Smith ', ' Dédé Lendi ', ' Samuel Dühsler ']",
-Zürich,Greasy,2015-01-06,"[' Oliver Keller ', ' Roland Köppel ', ' Massimo Buonanno ']",
-Luzern,Focus-Schweizer-Jazz,2015-01-06,"[' Janina Valko ', ' Bruno Hochstrasser ', ' Andreas Schmid ', ' Valentin Duit ']",
+,location,event,date,artists,genre
+0,Basel,Punkt-12-Offene-Orchesterprobe,2015-01-06,"[' Julian Rachlin ', ' Fumiaki Miura ']",['Classic']
+1,Z?rich,Werner-und-Company,2015-01-06,['Werner und Company '],['Pop']
+2,Z?rich,Spoerri-Girod,2015-01-06,"[' Roger Girod ', ' Bruno Spoerri ']","['Jazz', 'Blues', 'Soul']"
+3,Basel,Il-prete-rosso,2015-01-06,[' Giuliano Carmignola '],['Classic']
+4,Z?rich,Vergessen-,2015-01-06,"['Ulrike Andersen ', ' Thomas Schibler ', ' Werner B?rtschi ']",['Classic']
+5,null,Sonne-der-Musik,2015-01-06,"['Sol Gabetta ', ' Bertrand Chamayou ']",['Classic']
+6,Dietikon,Laura-Cesar-Quartett,2015-01-06,"[' Laura Cesar ', ' Beat Baumli ', ' Sandy Patton ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+7,Basel,Basler-Jazztradition,2015-01-06,"[' Fats Frei ', ' Mario Schneeberger ', ' Norbert Drosd ', ' Hans Meier ', ' Ernst Grell ', ' Juanita Smith ', ' D?d? Lendi ', ' Samuel D?hsler ']","['Jazz', 'Blues', 'Soul']"
+8,Z?rich,Greasy,2015-01-06,"[' Oliver Keller ', ' Roland K?ppel ', ' Massimo Buonanno ']","['Jazz', 'Blues', 'Soul']"
+9,Luzern,Focus-Schweizer-Jazz,2015-01-06,"[' Janina Valko ', ' Bruno Hochstrasser ', ' Andreas Schmid ', ' Valentin Duit ']","['Jazz', 'Blues', 'Soul']"

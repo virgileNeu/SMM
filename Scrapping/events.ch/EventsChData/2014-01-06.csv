@@ -1,5 +1,8 @@
-location,event,date,artists,genre
-Baden,Stefan-Aeby-Trio,2014-01-06,"[' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-Zürich,Tuesday-Sheep,2014-01-06,['Tuesday Sheep '],Pop
-Luzern,Workshopkonzert,2014-01-06,"[' Karl Kalf ', ' Sandro Pedrazzini ', ' Duncan Allbrooke ', ' André Sidler ', ' Josef Kaufmann ', ' René Widmer ']",
-Zürich,Nik-Bärtsch's-Ronin,2014-01-06,"[' Kasper Rast ', ' Thomy Jordi ', ' Sha ', ' Bernhard Wagner ']",
+,location,event,date,artists,genre
+0,Birmensdorf,Dreik?nigssingen,2014-01-06,[' Jardena Lang '],['Classic']
+1,Solothurn,The-Doug-Duffey-International-Soulband,2014-01-06,"[' Doug Duffey ', ' Kelvin Bullen ', ' Sebastian Niessner ', ' Hani Ali ']","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Spektrumkonzert-A-Letter-to-Brahms,2014-01-06,"[' Luis Vieira ', ' Alexander Boldachev ', ' Hans Adolfsen ']",['Classic']
+3,Z?rich,Tuesday-Sheep,2014-01-06,['Tuesday Sheep '],['Pop']
+4,Baden,Stefan-Aeby-Trio,2014-01-06,"[' Stefan Aeby ', ' Andr? Pousaz ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+5,Luzern,Workshopkonzert,2014-01-06,"[' Karl Kalf ', ' Sandro Pedrazzini ', ' Duncan Allbrooke ', ' Andr? Sidler ', ' Josef Kaufmann ', ' Ren? Widmer ']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Nik-B?rtsch's-Ronin,2014-01-06,"[' Kasper Rast ', ' Thomy Jordi ', ' Sha ', ' Bernhard Wagner ']","['Jazz', 'Blues', 'Soul']"

@@ -1,12 +1,10 @@
-location,event,date,artists,genre
-Luzern,Orgelgewitter,2014-08-12,['Wolfgang Sieber '],Classic
-Luzern,Piano-Entertainment,2014-08-12,['Patrick Greiner '],
-Murten,Murten-Classics-Apérokonzert,2014-08-12,"[' Jakub Výborný ', ' Bohumír Strnad ', ' Otakar Salajka ', ' Radan Vach ']",Classic
-Gstaad,Menuhin-Festival-Gstaad,2014-08-12,"['Christoph Dangel ', ' Sergio Ciomei ']",Classic
-Zürich,Sun-Kil-Moon,2014-08-12,['Sun Kil Moon '],
-Pratteln,Steve-Earle,2014-08-12,['Steve Earle '],
-Bern,Eröffnungskonzert,2014-08-12,"[' Nuria Rial ', ' Christian Immler ']",Classic
-Luzern,Orgelsommer,2014-08-12,['Gabriele und Hilmar Gertschen '],Classic
-Zürich,Osmani-Garcia,2014-08-12,['Osmani Garcia '],
-Basel,Im-Fluss,2014-08-12,['Six 60 '],
-Düdingen,Perfect-Pussy,2014-08-12,['Perfect Pussy '],
+,location,event,date,artists,genre
+0,Luzern,Orgelgewitter,2014-08-12,['Wolfgang Sieber '],['Classic']
+1,Luzern,Piano-Entertainment,2014-08-12,['Patrick Greiner '],"['Jazz', 'Blues', 'Soul']"
+2,Gstaad,Menuhin-Festival-Gstaad,2014-08-12,"['Christoph Dangel ', ' Sergio Ciomei ']",['Classic']
+3,Z?rich,Sun-Kil-Moon,2014-08-12,['Sun Kil Moon '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Murten,Murten-Classics-Ap?rokonzert,2014-08-12,"[' Jakub V?born? ', ' Bohum?r Strnad ', ' Otakar Salajka ', ' Radan Vach ']",['Classic']
+5,Bern,Er?ffnungskonzert,2014-08-12,"[' Nuria Rial ', ' Christian Immler ']",['Classic']
+6,Pratteln,Steve-Earle,2014-08-12,['Steve Earle '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Luzern,Orgelsommer,2014-08-12,['Gabriele und Hilmar Gertschen '],['Classic']
+8,Basel,Im-Fluss,2014-08-12,['Six 60 '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

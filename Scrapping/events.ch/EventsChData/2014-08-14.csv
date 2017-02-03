@@ -1,15 +1,14 @@
-location,event,date,artists,genre
-Gampel,Open-Air-Gampel,2014-08-14,"['Turbonegro ', ' Skindred ', ' Royal Blood ', ' Allys Fate ']",
-Gampel,Open-Air-Gampel,2014-08-14,"['Volbeat ', ' Marilyn Manson ', ' A Day to Remember ']",Pop
-Le-Locle,Rock-Altitude-Festival,2014-08-14,"['The Glitch Mob ', ' Truckfighters ']",Electronic
-Avenches,Rock-Oz'Arènes,2014-08-14,"['Within Temptation ', ' Asaf Avidan ', ' Patti Smith ', ' Alex Hepburn ']",Pop
-Winterthur,Winterthurer-Musikfestwochen,2014-08-14,['Käptn Peng & Die Tentakel von Delphi '],
-null,Menuhin-Festival-Gstaad,2014-08-14,"['Vlad Stanculeasa ', ' Ivana Gavric ']",Classic
-Lausanne,Combichrist,2014-08-14,['Combichrist '],
-Baden,Camila-Arrantes,2014-08-14,"['Camila Arrantes ', ' Camilla Arrantes ', ' Marcos Conçalves ', ' Willi Hauenstein ']",
-Winterthur,Winterthurer-Musikfestwochen,2014-08-14,['Napalm Death '],
-Basel,Cojazz-feat.-Blanc-Rossy,2014-08-14,"[' Jorge Rossy ', ' Daniel Blanc ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Arthur Vonfel ']",
-Basel,Salsa-Party,2014-08-14,['DJ Mambito '],
-Zürich,Brushy-One-String,2014-08-14,['Brushy One String '],Pop
-Winterthur,Papercut,2014-08-14,"[' Stephanie Müller ', ' FeeIX ', ' Mike Ryrie ']",
-Winterthur,Winterthurer-Musikfestwochen,2014-08-14,['Smith & Smart '],
+,location,event,date,artists,genre
+0,Gampel,Open-Air-Gampel,2014-08-14,"['Volbeat ', ' Marilyn Manson ', ' A Day to Remember ']",['Pop']
+1,Gampel,Open-Air-Gampel,2014-08-14,"['Turbonegro ', ' Skindred ', ' Royal Blood ', ' Allys Fate ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Le-Locle,Rock-Altitude-Festival,2014-08-14,"['The Glitch Mob ', ' Truckfighters ']",['Electronic']
+3,Avenches,Rock-Oz'Ar?nes,2014-08-14,"['Within Temptation ', ' Asaf Avidan ', ' Patti Smith ', ' Alex Hepburn ']",['Pop']
+4,null,Menuhin-Festival-Gstaad,2014-08-14,"['Vlad Stanculeasa ', ' Ivana Gavric ']",['Classic']
+5,Winterthur,Winterthurer-Musikfestwochen,2014-08-14,['Napalm Death '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Lausanne,Combichrist,2014-08-14,['Combichrist '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Basel,Cojazz-feat.-Blanc-Rossy,2014-08-14,"[' Jorge Rossy ', ' Daniel Blanc ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Arthur Vonfel ']","['Jazz', 'Blues', 'Soul']"
+8,Baden,Camila-Arrantes,2014-08-14,"['Camila Arrantes ', ' Camilla Arrantes ', ' Marcos Con?alves ', ' Willi Hauenstein ']","['world', 'music']"
+9,Z?rich,Brushy-One-String,2014-08-14,['Brushy One String '],['Pop']
+10,Basel,Salsa-Party,2014-08-14,['DJ Mambito '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+11,Winterthur,Papercut,2014-08-14,"[' Stephanie M?ller ', ' FeeIX ', ' Mike Ryrie ']","['Jazz', 'Blues', 'Soul']"
+12,Winterthur,Winterthurer-Musikfestwochen,2014-08-14,[' Smart '],"['Hip', 'Hop', ""R'n'B""]"

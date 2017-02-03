@@ -1,24 +1,23 @@
-location,event,date,artists,genre
-Basel,Mittagskonzert-No-val-das-mais-belas,2014-12-02,"['Manuela Lopes de Castro ', ' Tanja Vogrin ', ' Ricardo Leitão Pedro ']",Classic
-Zürich,Monte-Carlo,2014-12-02,['Monte Carlo '],Pop
-Zürich,Jazzapero,2014-12-02,"[' Elva Bai ', ' Dave Ruosch ', ' Kalli Gerhards ', ' Lukas Gasser ']",
-Zürich,ZKO-Meisterzyklus-Musikalische-Wasserspiele,2014-12-02,['Hélène Grimaud '],Classic
-Basel,Konzert,2014-12-02,"[' Alicia Conrad ', ' Carlos Conrad ']",Classic
-Aarau,Metalmayhen,2014-12-02,"['Dying Fetus ', ' Goathwhore ', ' Malevolence ', ' Fallujah ']",
-Zürich,Linah-Rocio,2014-12-02,"[' Linah Rocio ', ' Ueli Heiniger ', ' Christof Jaussi ']",Pop
-Zürich,Kate-Tempest,2014-12-02,['Kate Tempest '],
-Zug,Schiffbruch,2014-12-02,"['Bruno Ganz ', ' Kirill Gerstein ']",Classic
-Pratteln,Fish,2014-12-02,['Fish '],
-Luzern,King-Pepe-&-Le-Rex,2014-12-02,['King Pepe & Le Rex '],Pop
-Bern,Sauter-Schläppi,2014-12-02,"[' Tomas Sauter ', ' Daniel Schläppi ']",
-Bern,The-Toasters,2014-12-02,['The Toasters '],
-Basel,Noël-Festliche-Barockmusik,2014-12-02,"['R', ' Julia Bauer ', ' Alek Fester ', ' Julia Marion ', ' Junko Takayama ', ' Alexandra Ivanova ']",Classic
-Basel,Chaotic-moebius-Frontton,2014-12-02,"['Yosvany Quintero ', ' Pelayo F. Arrizabalaga ', ' Dominik Dolega ']",Classic
-Lausanne,Little-Dragon,2014-12-02,"['Little Dragon ', ' Nao ']",Electronic
-Luzern,Trio-Diktion,2014-12-02,"[' Antonia Hausmann ', ' Matti Oehl ', ' Lukas Traxel ', ' Philip Frischkorn ', ' Elio Amberg ', ' Sebastian Strinning ', ' Silvan Schmid ', ' Moritz Wesp ', ' Marie  Krüttli ', ' Lukas Traxel ', ' Martin Perret ']",
-Basel,Pascal-Schumacher-Quartet,2014-12-02,"[' Franz von Chossy ', ' Jens Düppe ', ' Pol Belardi ', ' Pascal Schumacher ']",
-Zürich,Owen-Pallett,2014-12-02,"['Owen Pallett ', ' Foxes in Fiction ']",Pop
-null,Sauter-Schläppi,2014-12-02,"[' Tomas Sauter ', ' Daniel Schläppi ']",
-Zürich,Andy-Guhl-&-Aspec(t),2014-12-02,['Andy Guhl & Aspec'],
-Zürich,J-Mascis,2014-12-02,['J Mascis '],
-Düdingen,Juan-Wauters,2014-12-02,['Juan Wauters '],
+,location,event,date,artists,genre
+0,Basel,Mittagskonzert-No-val-das-mais-belas,2014-12-02,"['Manuela Lopes de Castro ', ' Tanja Vogrin ', ' Ricardo Leit?o Pedro ']",['Classic']
+1,Z?rich,Monte-Carlo,2014-12-02,['Monte Carlo '],['Pop']
+2,Z?rich,Jazzapero,2014-12-02,"[' Elva Bai ', ' Dave Ruosch ', ' Kalli Gerhards ', ' Lukas Gasser ']","['Jazz', 'Blues', 'Soul']"
+3,Aarau,Metalmayhen,2014-12-02,"['Dying Fetus ', ' Goathwhore ', ' Malevolence ', ' Fallujah ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,ZKO-Meisterzyklus-Musikalische-Wasserspiele,2014-12-02,['H?l?ne Grimaud '],['Classic']
+5,Basel,Konzert,2014-12-02,"[' Alicia Conrad ', ' Carlos Conrad ']",['Classic']
+6,Z?rich,Linah-Rocio,2014-12-02,"[' Linah Rocio ', ' Ueli Heiniger ', ' Christof Jaussi ']",['Pop']
+7,Basel,No?l-Festliche-Barockmusik,2014-12-02,"['R', ' Julia Bauer ', ' Alek Fester ', ' Julia Marion ', ' Junko Takayama ', ' Alexandra Ivanova ']",['Classic']
+8,Bern,The-Toasters,2014-12-02,['The Toasters '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Bern,Sauter-Schl?ppi,2014-12-02,"[' Tomas Sauter ', ' Daniel Schl?ppi ']","['Jazz', 'Blues', 'Soul']"
+10,Zug,Schiffbruch,2014-12-02,"['Bruno Ganz ', ' Kirill Gerstein ']",['Classic']
+11,Luzern,King-Pepe-&-Le-Rex,2014-12-02,[' Le Rex '],['Pop']
+12,Pratteln,Fish,2014-12-02,['Fish '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Z?rich,Kate-Tempest,2014-12-02,['Kate Tempest '],"['Hip', 'Hop', ""R'n'B""]"
+14,Luzern,Trio-Diktion,2014-12-02,"[' Antonia Hausmann ', ' Matti Oehl ', ' Lukas Traxel ', ' Philip Frischkorn ', ' Elio Amberg ', ' Sebastian Strinning ', ' Silvan Schmid ', ' Moritz Wesp ', ' Marie  Kr?ttli ', ' Lukas Traxel ', ' Martin Perret ']","['Jazz', 'Blues', 'Soul']"
+15,Basel,Pascal-Schumacher-Quartet,2014-12-02,"[' Franz von Chossy ', ' Jens D?ppe ', ' Pol Belardi ', ' Pascal Schumacher ']","['Jazz', 'Blues', 'Soul']"
+16,Lausanne,Little-Dragon,2014-12-02,"['Little Dragon ', ' Nao ']",['Electronic']
+17,Z?rich,Andy-Guhl-&-Aspec(t),2014-12-02,[' Aspec'],"['Jazz', 'Blues', 'Soul']"
+18,Z?rich,Owen-Pallett,2014-12-02,"['Owen Pallett ', ' Foxes in Fiction ']",['Pop']
+19,Z?rich,J-Mascis,2014-12-02,['J Mascis '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,null,Sauter-Schl?ppi,2014-12-02,"[' Tomas Sauter ', ' Daniel Schl?ppi ']","['Jazz', 'Blues', 'Soul']"
+21,D?dingen,Juan-Wauters,2014-12-02,['Juan Wauters '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

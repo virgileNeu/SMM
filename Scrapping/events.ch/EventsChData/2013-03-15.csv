@@ -1,50 +1,51 @@
-location,event,date,artists,genre
-Crans-Montana,Caprices-Festival,2013-03-15,['Vigon and the Dominos '],
-Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-03-15,['Christian Mettler '],Pop
-Basel,Orgelspiel-zum-Feierabend,2013-03-15,['Aurore Baal '],Classic
-Zürich,Kantatenvesper,2013-03-15,"[' Manuela Hager ', ' Christian Marthaler ']",Classic
-Lausanne,Inferno-Festival,2013-03-15,"[' Primordial ', ' Anaal Nathrakh ', ' Wardruna ']",
-Aarau,Bonecrusher-Fest,2013-03-15,"['Job For A Cowboy ', ' Beneath The Massacre ', ' War From Harlots Mouth ', ' Make Them Suffer ', ' As They Burn ', ' Gorod ']",
-Luzern,Rauhnacht,2013-03-15,"['Finsterforst ', ' Silent Stream Of Godless Elegy ']",
-Sursee,Mosh-Festival,2013-03-15,"['Desultory ', ' Pyrexia ', ' Beheaded ', ' Unfathomable Ruination ']",
-Meilen,Preisträgerkonzert,2013-03-15,"[' Laura Herold ', ' Nicole Loretan ']",Classic
-Luzern,Konzert,2013-03-15,"[' Katia Labèque ', ' Marielle Labèque ']",Classic
-Klosters,Dana-Gillespie,2013-03-15,"[' Dana Gillespie ', ' Joachim Palden ']",
-Salzhaus,Winterthur,2013-03-15,['Shadows Fall '],
-null,8.-Tonhallekonzert,2013-03-15,[' Martin Helmchen '],Classic
-Zürich,Johannespassion,2013-03-15,"[' Anne Ellersiek ', ' Petra Noskaiová ', ' Christoph Genz ', ' ', ' Martin Snell ', ' Tijl Faveyts ']",Classic
-Crans-Montana,Caprices-Festival,2013-03-15,['Sven Väth '],Electronic
-Zürich,Johannes-Passion,2013-03-15,"[' Anne Ellersiek ', ' Petra Noskaiová ', ' Christoph Genz ', ' ', ' Martin Snell ', ' Tijl Faveyts ']",Classic
-Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-15,"['Mika ', ' Célien Schneider ', ' Nelly Furtado ']",
-Zürich,Swiss-Bands-in-Concert,2013-03-15,[' Bill Ramsey '],
-Herisau,Keltikon,2013-03-15,"[' Lain Duncan ', ' Olaf Ohl ', ' Rino Bollin ', ' Patrick Feuz ']",
-Zürich,Mighty-Popo,2013-03-15,['Mighty Popo '],
-Burgdorf,The-Busketeers,2013-03-15,"[' Jay Marsh ', ' Ricky Prichard ', ' Mike Woodhouse ', ' Dan Roth ']",Pop
-Z7,Pratteln,2013-03-15,['Living Colour '],
-MAAG-Halle,Zürich,2013-03-15,['Emeli Sandé '],
-Stäfa,Konzert,2013-03-15,"[' Klaidi Sahatci ', ' Andrea Rebaudengo ', ' Sandro Laffranchini ']",Classic
-null,Chorus-America,2013-03-15,[' Franziska Hegi '],Classic
-Winterthur,Swilit,2013-03-15,"[' Mindaugas Vadoklis ', ' Reto Suhner ', ' Dimitrij Golovanov ', ' Herbie Kopf ', ' Marijus Aleksa ']",
-Schaffhausen,Yves-Theiler-Trio,2013-03-15,"[' Yves Theiler ', ' Valelntin Dietrich ', ' Lukas Mantel ']",
-Baden,Jersey-Julie-Band-&-Jeff-Zima,2013-03-15,"['Jersey Julie Band & Jeff Zima ', ' Jersey Julie ', ' Olivier Mas ', ' Stephane Blanc ', ' Jeff Zima ', ' Jersey Juli ']",
-Zürich,Bauchklang,2013-03-15,"['Alexander Bock ', ' Andreas Fränzl ', ' Gerald Huber ', ' Christian Birawsky ', ' Philipp Sageder ']",
-Luzern,Bachelorprojekt-Konzerte,2013-03-15,"[' Noah Arnold ', ' Lucca Fries ', ' Jonas Ruther ', ' Nicolas Gurtner ', ' Sebastian Pietrowiak ', ' Gianluca Giger ', ' Lukas von Flüe ', ' Nino Wenger ', ' Samuel Leipold ', ' Lukas Traxel ', ' Lukas von Flüe ']",
-Lugano,Concerti-Dell'auditorio-2013,2013-03-15,['Detlef Roth '],Classic
-Bar-Tantpis,Zürich,2013-03-15,"[' Regina Kuratle ', ' Chris Wirth ', ' Christian Strässle ', ' Silvan Jeger ']",
-Bern,Diens,2013-03-15,"['Diens ', ' support: Split Prophets & Two Tungs ']",
-null,Susana-Baca,2013-03-15,"[' Susana Baca ', ' Ernesto Hermoza ', ' Maria Elena Pacheco ', ' Oscar Huaranga ', ' Hugo Brava ']",
-Thun,The-Rock'n'Roll-Kamikazes,2013-03-15,"[""The Rock'n'Roll Kamikazes ""]",
-Herzogenbuchsee,St.-Patricks-Day,2013-03-15,['David Hope '],
-LUZ-Seebistro,Luzern,2013-03-15,['Lindsay Ferguson '],
-Grosshöchstetten,Yvonne-Moore-Bluesband,2013-03-15,"[' Yvonne Moore ', ' Marco Jencarelli ', ' André Pousaz ', ' Richard Spooner ']",
-Bern,Aeiou,2013-03-15,"[' Djemeia ', ' Claire Huguenin ', ' Oli Kuster ', ' Kevin Chesham ']",Pop
-Zürich,Noam-Szyfer-Nigunim,2013-03-15,"[' Noam Szyfer ', ' Joscha Schraff ', ' James Varghese ', ' Jannik Till ']",
-Tap-Tab-Musikraum,Schaffhausen,2013-03-15,['Poco Loco Bros '],
-Chur,Skip-&-Die,2013-03-15,['Skip & Die '],Electronic
-Luzern,Agent-Side-Grinder,2013-03-15,['Agent Side Grinder '],Electronic
-Bern,Los-Terribles-de-Tijuana,2013-03-15,['Los Terribles de Tijuana '],
-Baden,Fiddlers-Green,2013-03-15,['Fiddlers Green '],
-Zürich,Movie-Star-Junkies,2013-03-15,['Movie Star Junkies '],
-Lyss,Luk-von-Bergen,2013-03-15,['Luk von Bergen '],Pop
-Kriens,Holy-Other,2013-03-15,['Holy Other '],
-Kulturfabrik-Kofmehl,Solothurn,2013-03-15,['Hi-Fi Spitfires '],
+,location,event,date,artists,genre
+0,Crans-Montana,Caprices-Festival,2013-03-15,['Vigon and the Dominos '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-03-15,['Christian Mettler '],['Pop']
+2,Basel,Orgelspiel-zum-Feierabend,2013-03-15,['Aurore Baal '],['Classic']
+3,Zürich,Kantatenvesper,2013-03-15,"[' Manuela Hager ', ' Christian Marthaler ']",['Classic']
+4,Lausanne,Inferno-Festival,2013-03-15,"[' Primordial ', ' Anaal Nathrakh ', ' Wardruna ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Aarau,Bonecrusher-Fest,2013-03-15,"['Job For A Cowboy ', ' Beneath The Massacre ', ' War From Harlots Mouth ', ' Make Them Suffer ', ' As They Burn ', ' Gorod ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Sursee,Mosh-Festival,2013-03-15,"['Desultory ', ' Pyrexia ', ' Beheaded ', ' Unfathomable Ruination ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Luzern,Rauhnacht,2013-03-15,"['Finsterforst ', ' Silent Stream Of Godless Elegy ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Meilen,Preisträgerkonzert,2013-03-15,"[' Laura Herold ', ' Nicole Loretan ']",['Classic']
+9,Luzern,Konzert,2013-03-15,"[' Katia Labèque ', ' Marielle Labèque ']",['Classic']
+10,Klosters,Dana-Gillespie,2013-03-15,"[' Dana Gillespie ', ' Joachim Palden ']","['Jazz', 'Blues', 'Soul']"
+11,Crans-Montana,Caprices-Festival,2013-03-15,['Sven Väth '],['Electronic']
+12,Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-15,"['Mika ', ' Célien Schneider ', ' Nelly Furtado ']","['Nelly', 'Furtado']"
+13,Zürich,Swiss-Bands-in-Concert,2013-03-15,[' Bill Ramsey '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,null,8.-Tonhallekonzert,2013-03-15,[' Martin Helmchen '],['Classic']
+15,Zürich,Johannespassion,2013-03-15,"[' Anne Ellersiek ', ' Petra Noskaiová ', ' Christoph Genz ', ' ', ' Martin Snell ', ' Tijl Faveyts ']",['Classic']
+16,Salzhaus,Winterthur,2013-03-15,['Shadows Fall '],"['Shadows', 'Fall']"
+17,Zürich,Johannes-Passion,2013-03-15,"[' Anne Ellersiek ', ' Petra Noskaiová ', ' Christoph Genz ', ' ', ' Martin Snell ', ' Tijl Faveyts ']",['Classic']
+18,Z7,Pratteln,2013-03-15,['Living Colour '],"['Living', 'Colour']"
+19,MAAG-Halle,Zürich,2013-03-15,['Emeli Sandé '],"['Emeli', 'Sandé']"
+20,Herisau,Keltikon,2013-03-15,"[' Lain Duncan ', ' Olaf Ohl ', ' Rino Bollin ', ' Patrick Feuz ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Zürich,Mighty-Popo,2013-03-15,['Mighty Popo '],"['world', 'music']"
+22,Burgdorf,The-Busketeers,2013-03-15,"[' Jay Marsh ', ' Ricky Prichard ', ' Mike Woodhouse ', ' Dan Roth ']",['Pop']
+23,Stäfa,Konzert,2013-03-15,"[' Klaidi Sahatci ', ' Andrea Rebaudengo ', ' Sandro Laffranchini ']",['Classic']
+24,Winterthur,Swilit,2013-03-15,"[' Mindaugas Vadoklis ', ' Reto Suhner ', ' Dimitrij Golovanov ', ' Herbie Kopf ', ' Marijus Aleksa ']","['Jazz', 'Blues', 'Soul']"
+25,null,Chorus-America,2013-03-15,[' Franziska Hegi '],['Classic']
+26,Bar-Tantpis,Zürich,2013-03-15,"[' Regina Kuratle ', ' Chris Wirth ', ' Christian Strässle ', ' Silvan Jeger ']","['world', 'music']"
+27,Luzern,Bachelorprojekt-Konzerte,2013-03-15,"[' Noah Arnold ', ' Lucca Fries ', ' Jonas Ruther ', ' Nicolas Gurtner ', ' Sebastian Pietrowiak ', ' Gianluca Giger ', ' Lukas von Flüe ', ' Nino Wenger ', ' Samuel Leipold ', ' Lukas Traxel ', ' Lukas von Flüe ']","['Jazz', 'Blues', 'Soul']"
+28,Zug,Celtic-Spring-Caravan,2013-03-15,"['Vishten ', ' Ryan Mcgiver ', ' Michael O Connell ']","['world', 'music']"
+29,Zürich,Bauchklang,2013-03-15,"['Alexander Bock ', ' Andreas Fränzl ', ' Gerald Huber ', ' Christian Birawsky ', ' Philipp Sageder ']","['Hip', 'Hop', ""R'n'B""]"
+30,Lugano,Concerti-Dell'auditorio-2013,2013-03-15,['Detlef Roth '],['Classic']
+31,Schaffhausen,Yves-Theiler-Trio,2013-03-15,"[' Yves Theiler ', ' Valelntin Dietrich ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"
+32,Baden,Jersey-Julie-Band-&-Jeff-Zima,2013-03-15,"['Jersey Julie Band & Jeff Zima ', ' Jersey Julie ', ' Olivier Mas ', ' Stephane Blanc ', ' Jeff Zima ', ' Jersey Juli ']","['Jazz', 'Blues', 'Soul']"
+33,Herzogenbuchsee,St.-Patricks-Day,2013-03-15,['David Hope '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,null,Susana-Baca,2013-03-15,"[' Susana Baca ', ' Ernesto Hermoza ', ' Maria Elena Pacheco ', ' Oscar Huaranga ', ' Hugo Brava ']","['world', 'music']"
+35,Bern,Diens,2013-03-15,"['Diens ', ' support: Split Prophets & Two Tungs ']","['Hip', 'Hop', ""R'n'B""]"
+36,Thun,The-Rock'n'Roll-Kamikazes,2013-03-15,"[""The Rock'n'Roll Kamikazes ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,LUZ-Seebistro,Luzern,2013-03-15,['Lindsay Ferguson '],"['Lindsay', 'Ferguson']"
+38,Bern,Aeiou,2013-03-15,"[' Djemeia ', ' Claire Huguenin ', ' Oli Kuster ', ' Kevin Chesham ']",['Pop']
+39,Grosshöchstetten,Yvonne-Moore-Bluesband,2013-03-15,"[' Yvonne Moore ', ' Marco Jencarelli ', ' André Pousaz ', ' Richard Spooner ']","['Hip', 'Hop', ""R'n'B""]"
+40,Bern,Los-Terribles-de-Tijuana,2013-03-15,['Los Terribles de Tijuana '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+41,Zürich,Movie-Star-Junkies,2013-03-15,['Movie Star Junkies '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+42,Luzern,Agent-Side-Grinder,2013-03-15,['Agent Side Grinder '],['Electronic']
+43,Tap-Tab-Musikraum,Schaffhausen,2013-03-15,['Poco Loco Bros '],"['DJ', 'Mack', 'Stax']"
+44,Zürich,Noam-Szyfer-Nigunim,2013-03-15,"[' Noam Szyfer ', ' Joscha Schraff ', ' James Varghese ', ' Jannik Till ']","['Jazz', 'Blues', 'Soul']"
+45,Lyss,Luk-von-Bergen,2013-03-15,['Luk von Bergen '],['Pop']
+46,Chur,Skip-&-Die,2013-03-15,['Skip & Die '],['Electronic']
+47,Baden,Fiddlers-Green,2013-03-15,['Fiddlers Green '],"['world', 'music']"
+48,Kriens,Holy-Other,2013-03-15,['Holy Other '],"['Hip', 'Hop', ""R'n'B""]"
+49,Kulturfabrik-Kofmehl,Solothurn,2013-03-15,['Hi-Fi Spitfires '],"['Hi', 'Fi', 'Spitfires', '(GB)']"

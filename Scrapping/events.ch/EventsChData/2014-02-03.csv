@@ -1,12 +1,12 @@
-location,event,date,artists,genre
-Basel,AMG-Sinfoniekonzerte,2014-02-03,[' Stephen Hough '],Classic
-Zürich,Série-jeunes,2014-02-03,['Denis Kozhukhin '],Classic
-null,Moonface,2014-02-03,['Moonface '],
-Zürich,Old-School-Piano-Blues,2014-02-03,['Andy Boller '],
-Zürich,Monster-Magnet,2014-02-03,['Monster Magnet '],
-Zürich,Mi-supera-la-luce,2014-02-03,"['Lena Kiepenheuer ', ' Nils Kohler ', ' Edward Rushton ']",Classic
-Zürich,John-The-Conqueror,2014-02-03,['John The Conqueror '],
-Zürich,Defeater,2014-02-03,['Defeater '],
-Baden,Stephan-Athanas'-Contemparabic-Jazz-Ensemble,2014-02-03,"[""Stephan Athanas' Contemparabic Jazz Ensemble "", ' Samiha Ben Said ', ' Samir Ferjani ', ' Benji Fellous ', ' Bernard Vidal ', ' Dave Feusi ', ' Tony Renold ', ' Stephan Athanas ']",
-Basel,Jazz-im-Parterre:-Wolke-4,2014-02-03,"['Sebastian von Keler ', ' Cédric Vogel ', ' Martin Wyss ']",
-Pratteln,Ready-Set-Fall,2014-02-03,['Ready Set Fall '],
+,location,event,date,artists,genre
+0,Basel,AMG-Sinfoniekonzerte,2014-02-03,[' Stephen Hough '],['Classic']
+1,Z?rich,S?rie-jeunes,2014-02-03,['Denis Kozhukhin '],['Classic']
+2,null,Moonface,2014-02-03,['Moonface '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,Old-School-Piano-Blues,2014-02-03,['Andy Boller '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,Monster-Magnet,2014-02-03,['Monster Magnet '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,John-The-Conqueror,2014-02-03,['John The Conqueror '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Defeater,2014-02-03,['Defeater '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Mi-supera-la-luce,2014-02-03,"['Lena Kiepenheuer ', ' Nils Kohler ', ' Edward Rushton ']",['Classic']
+8,Baden,Stephan-Athanas'-Contemparabic-Jazz-Ensemble,2014-02-03,"[""Stephan Athanas' Contemparabic Jazz Ensemble "", ' Samiha Ben Said ', ' Samir Ferjani ', ' Benji Fellous ', ' Bernard Vidal ', ' Dave Feusi ', ' Tony Renold ', ' Stephan Athanas ']","['Jazz', 'Blues', 'Soul']"
+9,Basel,Jazz-im-Parterre:-Wolke-4,2014-02-03,"['Sebastian von Keler ', ' C?dric Vogel ', ' Martin Wyss ']","['Jazz', 'Blues', 'Soul']"
+10,Pratteln,Ready-Set-Fall,2014-02-03,['Ready Set Fall '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

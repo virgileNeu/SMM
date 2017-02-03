@@ -1,33 +1,32 @@
-location,event,date,artists,genre
-Zürich,Glantaler-Power-Men,2014-12-19,['Glantaler Power Men '],Pop
-Basel,Orgelspiel-zum-Feierabend,2014-12-19,['Alexandra Stashenko '],Classic
-Dietikon,Feierabendmusik,2014-12-19,"['Olga Stepien ', ' Bernhard Hörler ']",Classic
-Zürich,Classic-Christmas-Tour,2014-12-19,['The Ten Tenors '],Classic
-Lausanne,Sabaton,2014-12-19,"['Sabaton ', ' Korpiklaani ', ' Tyr ']",
-Zürich,Weihnachtskonzert,2014-12-19,"[' Roberta Invernizzi ', ' Sonia Prina ', ' Gabriele Cassone ']",Classic
-Zürich,Weihnachtskonzert,2014-12-19,"[' Stephanie Pfeffer ', ' Patricia Bardon ', ' Thomas Hobbs ', ' Neal Davies ']",Classic
-null,Weihnachtsoratorium-Unwrapped,2014-12-19,"[' Jakob Pilgram ', ' Julie Comparini ', ' Philippe Rayot ']",Classic
-Zürich,Chakuza,2014-12-19,['Chakuza '],
-Zürich,Konzert,2014-12-19,"[' Christian Buck ', ' Christian Wolfarth ']",Classic
-Winterthur,Aborted,2014-12-19,"['Aborted ', ' Origin ', ' Exhumed ', ' Miasmal ']",
-Zürich,Weihnachtskonzert,2014-12-19,"[' Carmela Konrad ', ' Karl Jerolitsch ', ' Samuel Zünd ']",Classic
-Altikon,Hofmann-Nord-Stahel,2014-12-19,"[' Georg Hofmann ', ' Mike Nord ', ' Andreas Stahel ']",
-null,Thomas-wartet,2014-12-19,"[' Tilo Nest ', ' Alexander Paeffgen ', ' Christoph Sauer ', ' Holger Rohn ']",Pop
-Olten,5-Years-Mission-8-Das-Konzert,2014-12-19,['The Munitors '],
-Zürich,Tiger-Lillies,2014-12-19,['Tiger Lillies '],Pop
-Zürich,Flüeler-Hein-Weber,2014-12-19,"[' Jo Flüeler ', ' Nicola Hein ', ' Christian Weber ']",
-Basel,Masterrezital,2014-12-19,[' Asako Ito '],Classic
-Zürich,Gasandji,2014-12-19,"['Gasandji ', ' Gasandji ', ' Abdoulaye Kouyaté ', ' Koto Brawa ']",
-Zürich,Pocket-Swing-Orchestra,2014-12-19,"[' Michael Flury ', ' Tobias Preisig ', ' Ephrem Lüchinger ', ' Roman Bruderer ']",
-Romanshorn,Miriam-Sutter-&-Friends,2014-12-19,"[' Miriam Sutter ', ' Dani Rieser ', ' Berti Lampert ', ' Dusan Prusak ', ' Adi Gerlach ']",
-Baden,Fun-On-Stage,2014-12-19,"[' Toni ', ' Nic Niedermann ']",Pop
-Basel,Äl-Javala,2014-12-19,['Äl Javala '],
-Liestal,Bait-Jaffe-Klezmer-Orchestra,2014-12-19,"[' Sascha Schönhaus ', ' Andreas Wäldele ', ' Niculin Christen ']",
-Liebefeld,Michel-Zisman,2014-12-19,"[' Matthieu Michel ', ' Michael Zisman ']",
-Basel,Elina-Duni-Quartet,2014-12-19,"[' Elina Duni ', ' Colin Vallon ', ' Patrice Moret ', ' Norbert Pfammatter ']",
-Zürich,Ngoni,2014-12-19,"[' Mike Daniels ', ' Chineyem Okoloko ', ' Johannes Madritsch ']",
-Bern,Liquidroom,2014-12-19,"[' Markus Eberhard ', ' Urban Schwegler ', ' Marcel Huber ', ' Dominik Marty ', ' Martin Häberli ', ' Tobias Soder ']",Pop
-Düdingen,Grand-Atlas-Mondial,2014-12-19,['Grand Atlas Mondial '],Electronic
-Bern,Zatter-Stubete,2014-12-19,['Julian Sartorius '],
-Zürich,Fritz-Kalkbrenner,2014-12-19,['Fritz Kalkbrenner '],Electronic
-Basel,Tropical-Night,2014-12-19,['DJ Kad '],
+,location,event,date,artists,genre
+0,Z?rich,Glantaler-Power-Men,2014-12-19,['Glantaler Power Men '],['Pop']
+1,Basel,Orgelspiel-zum-Feierabend,2014-12-19,['Alexandra Stashenko '],['Classic']
+2,Dietikon,Feierabendmusik,2014-12-19,"['Olga Stepien ', ' Bernhard H?rler ']",['Classic']
+3,Z?rich,Weihnachtskonzert,2014-12-19,"[' Stephanie Pfeffer ', ' Patricia Bardon ', ' Thomas Hobbs ', ' Neal Davies ']",['Classic']
+4,Z?rich,Classic-Christmas-Tour,2014-12-19,['The Ten Tenors '],['Classic']
+5,Lausanne,Sabaton,2014-12-19,"['Sabaton ', ' Korpiklaani ', ' Tyr ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Weihnachtskonzert,2014-12-19,"[' Roberta Invernizzi ', ' Sonia Prina ', ' Gabriele Cassone ']",['Classic']
+7,null,Thomas-wartet,2014-12-19,"[' Tilo Nest ', ' Alexander Paeffgen ', ' Christoph Sauer ', ' Holger Rohn ']",['Pop']
+8,Z?rich,Tiger-Lillies,2014-12-19,['Tiger Lillies '],['Pop']
+9,Altikon,Hofmann-Nord-Stahel,2014-12-19,"[' Georg Hofmann ', ' Mike Nord ', ' Andreas Stahel ']","['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Chakuza,2014-12-19,['Chakuza '],"['Hip', 'Hop', ""R'n'B""]"
+11,Winterthur,Aborted,2014-12-19,"['Aborted ', ' Origin ', ' Exhumed ', ' Miasmal ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Z?rich,Konzert,2014-12-19,"[' Christian Buck ', ' Christian Wolfarth ']",['Classic']
+13,Z?rich,Weihnachtskonzert,2014-12-19,"[' Carmela Konrad ', ' Karl Jerolitsch ', ' Samuel Z?nd ']",['Classic']
+14,null,Weihnachtsoratorium-Unwrapped,2014-12-19,"[' Jakob Pilgram ', ' Julie Comparini ', ' Philippe Rayot ']",['Classic']
+15,Basel,Masterrezital,2014-12-19,[' Asako Ito '],['Classic']
+16,Z?rich,Fl?eler-Hein-Weber,2014-12-19,"[' Jo Fl?eler ', ' Nicola Hein ', ' Christian Weber ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Pocket-Swing-Orchestra,2014-12-19,"[' Michael Flury ', ' Tobias Preisig ', ' Ephrem L?chinger ', ' Roman Bruderer ']","['Jazz', 'Blues', 'Soul']"
+18,Romanshorn,Miriam-Sutter-&-Friends,2014-12-19,"[' Miriam Sutter ', ' Dani Rieser ', ' Berti Lampert ', ' Dusan Prusak ', ' Adi Gerlach ']","['Jazz', 'Blues', 'Soul']"
+19,Basel,?l-Javala,2014-12-19,['?l Javala '],"['world', 'music']"
+20,Basel,Elina-Duni-Quartet,2014-12-19,"[' Elina Duni ', ' Colin Vallon ', ' Patrice Moret ', ' Norbert Pfammatter ']","['Jazz', 'Blues', 'Soul']"
+21,Z?rich,Gasandji,2014-12-19,"['Gasandji ', ' Gasandji ', ' Abdoulaye Kouyat? ', ' Koto Brawa ']","['world', 'music']"
+22,Liebefeld,Michel-Zisman,2014-12-19,"[' Matthieu Michel ', ' Michael Zisman ']","['Jazz', 'Blues', 'Soul']"
+23,Baden,Fun-On-Stage,2014-12-19,"[' Toni ', ' Nic Niedermann ']",['Pop']
+24,Liestal,Bait-Jaffe-Klezmer-Orchestra,2014-12-19,"[' Sascha Sch?nhaus ', ' Andreas W?ldele ', ' Niculin Christen ']","['world', 'music']"
+25,Bern,Liquidroom,2014-12-19,"[' Markus Eberhard ', ' Urban Schwegler ', ' Marcel Huber ', ' Dominik Marty ', ' Martin H?berli ', ' Tobias Soder ']",['Pop']
+26,Z?rich,Ngoni,2014-12-19,"[' Mike Daniels ', ' Chineyem Okoloko ', ' Johannes Madritsch ']","['Hip', 'Hop', ""R'n'B""]"
+27,D?dingen,Grand-Atlas-Mondial,2014-12-19,['Grand Atlas Mondial '],['Electronic']
+28,Z?rich,Fritz-Kalkbrenner,2014-12-19,['Fritz Kalkbrenner '],['Electronic']
+29,Bern,Zatter-Stubete,2014-12-19,['Julian Sartorius '],"['Jazz', 'Blues', 'Soul']"
+30,Basel,Tropical-Night,2014-12-19,['DJ Kad '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

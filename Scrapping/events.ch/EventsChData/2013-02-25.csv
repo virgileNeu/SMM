@@ -1,13 +1,13 @@
-location,event,date,artists,genre
-Basel,A-Lot-Like-Birds,2013-02-25,"['A Lot Like Birds ', ' support: Violet ']",
-Zürich,Villagers,2013-02-25,"['Villagers ', ' support: Luke Sital-Singh ']",
-Basel,AMG-Solistenabend,2013-02-25,['Evgeny Kissin '],Classic
-Zürich,Série-jeunes,2013-02-25,"['Hyeyoon Park ', ' Nareh Arghamanyan ']",Classic
-Zürich,Spektrum-plus-La-fin,2013-02-25,"['Ken Zuckerman ', ' Sanju Sahai ', ' Fabio di Càsola ', ' Matthias Enderle ', ' Martina Schucan ', ' Eckart Heiligers ']",Classic
-Flawil,Saudade-Nova,2013-02-25,"['Saudade Nova ', ' Thomas-Maria Reck ', ' Max Zentawer ', ' Arno Pfunder ']",
-Les-Docks,Lausanne,2013-02-25,['Lianne La Havas '],
-Bar-Tantpis,Zürich,2013-02-25,"['Voni von Arb ', ' Markus Eugster ', ' Roby Oetiker ', ' Christoph Litz ']",
-Restaurant-Isebähnli,Baden,2013-02-25,"[' Isa Wiss ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",Hausquartett
-Zürich,Watcha-Clan,2013-02-25,"['Watcha Clan ', ' Sista Ka ', ' Suprem Clem ', ' Matt Labesse ', ' Nassim ']",
-Luzern,Workshopkonzert,2013-02-25,"['Feliciano Ponce ', ' Aline Eichenberger ', ' Benno Frischkopf ', ' Balthasar Hürner ', ' Lukas Schmid ', ' Joan Seiler ', ' Yannick Keel ', ' David Inauen ', ' Lobosch Grüter ']",
-Kaserne,Basel,2013-02-25,['Firewater '],Firewater
+,location,event,date,artists,genre
+0,Basel,A-Lot-Like-Birds,2013-02-25,"['A Lot Like Birds ', ' support: Violet ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Basel,AMG-Solistenabend,2013-02-25,['Evgeny Kissin '],['Classic']
+2,Zürich,Villagers,2013-02-25,"['Villagers ', ' support: Luke Sital-Singh ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Zürich,Série-jeunes,2013-02-25,"['Hyeyoon Park ', ' Nareh Arghamanyan ']",['Classic']
+4,Zürich,Spektrum-plus-La-fin,2013-02-25,"['Ken Zuckerman ', ' Sanju Sahai ', ' Fabio di Càsola ', ' Matthias Enderle ', ' Martina Schucan ', ' Eckart Heiligers ']",['Classic']
+5,Bar-Tantpis,Zürich,2013-02-25,"['Voni von Arb ', ' Markus Eugster ', ' Roby Oetiker ', ' Christoph Litz ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Flawil,Saudade-Nova,2013-02-25,"['Saudade Nova ', ' Thomas-Maria Reck ', ' Max Zentawer ', ' Arno Pfunder ']","['world', 'music']"
+7,Les-Docks,Lausanne,2013-02-25,['Lianne La Havas '],"['Lianne', 'La', 'Havas']"
+8,Restaurant-Isebähnli,Baden,2013-02-25,"[' Isa Wiss ', ' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",['Hausquartett']
+9,Luzern,Workshopkonzert,2013-02-25,"['Feliciano Ponce ', ' Aline Eichenberger ', ' Benno Frischkopf ', ' Balthasar Hürner ', ' Lukas Schmid ', ' Joan Seiler ', ' Yannick Keel ', ' David Inauen ', ' Lobosch Grüter ']","['Jazz', 'Blues', 'Soul']"
+10,Zürich,Watcha-Clan,2013-02-25,"['Watcha Clan ', ' Sista Ka ', ' Suprem Clem ', ' Matt Labesse ', ' Nassim ']","['world', 'music']"
+11,Kaserne,Basel,2013-02-25,['Firewater '],['Firewater']

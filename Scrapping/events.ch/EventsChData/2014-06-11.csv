@@ -1,27 +1,27 @@
-location,event,date,artists,genre
-Basel,Mimiko-Chanson-d'amour,2014-06-11,"['Sabrina Hintermann ', ' Alena Sojer ']",Classic
-Basel,Mittagskonzert,2014-06-11,[' Csongor Szanto '],Classic
-Basel,Masterrezital,2014-06-11,[' Sabino Guanci '],Classic
-Basel,Altstadt-Serenaden,2014-06-11,"[' Ioana Ilie ', ' Jiri Nemecek ', ' Adam Mital ']",Classic
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-11,"['Isabelle Boulay ', ' Alexandre Désilets ']",Pop
-Schaffhausen,Eidgenössisch-Moos,2014-06-11,"[' Ruedi Häusermann ', ' Herwig Ursin ', ' Jan Ratschko ']",traditional
-Möriken,3.-Sonderkonzert-James-Bond-007,2014-06-11,[' Mary Carewe '],Classic
-Basel,Masterrezital,2014-06-11,[' Uriel Pascucci '],Classic
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-11,['Alexandre Poulin & Catherine Major '],Pop
-Payerne,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-11,"['Lara Brown ', ' Marcie ']",
-Luzern,Black-Stone-Cherry,2014-06-11,['Black Stone Cherry '],
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-11,"['Marcie ', ' Lina Boudreau ']",Pop
-Baden,Musik-im-Park,2014-06-11,['Jackson Wahengo '],Pop
-null,Slayer,2014-06-11,"['Slayer ', ' Crowbar ']",
-null,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-11,"['Salomé Leclerc ', ' Stéphane Côté ']",
-Zürich,The-Paradise-Bangkok-Molam-International-Band,2014-06-11,['The Paradise Bangkok Molam International Band '],
-Thun,Jupiter-&-Okwess-International,2014-06-11,['Jupiter & Okwess International '],
-Basel,Adrian-Mears-Electric-Trio,2014-06-11,"[' Adrian Mears ', ' Thomas Stieger ', ' Daniel Mudrack ']",
-Winterthur,Hot-Lunch,2014-06-11,['Hot Lunch '],
-Baden,Prima-Jam,2014-06-11,"['Gregor Loepfe ', ' Richard Pechota ', ' Peter Preibisch ']",Pop
-Luzern,Workshopkonzert,2014-06-11,"[' Josh Albisser ', ' Emanuel Wildeisen ', ' Dominik Rohrer ', ' Jonas Albrecht ']",
-Zürich,Arifa,2014-06-11,"['Arifa ', ' Franz von Chossy ', ' Michalis Cholevas ', ' Alex Simu ', ' Sjahin During ']",
-Zürich,Bukowski,2014-06-11,['Daniel Bachman '],Pop
-Lausanne,Acid-King,2014-06-11,"['Acid King ', ' Pet the Preacher ']",
-Zürich,Jazzbaragge-Wednesday-Jam,2014-06-11,"[' Rich Fonje ', ' Dave Feusi ', ' Fabienne Hoerni ', ' René Mosele ', ' Matthew Savnik ']",
-Basel,Poino,2014-06-11,['Poino '],
+,location,event,date,artists,genre
+0,Basel,Mimiko-Chanson-d'amour,2014-06-11,"['Sabrina Hintermann ', ' Alena Sojer ']",['Classic']
+1,Basel,Mittagskonzert,2014-06-11,[' Csongor Szanto '],['Classic']
+2,Basel,Masterrezital,2014-06-11,[' Sabino Guanci '],['Classic']
+3,Basel,Altstadt-Serenaden,2014-06-11,"[' Ioana Ilie ', ' Jiri Nemecek ', ' Adam Mital ']",['Classic']
+4,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-11,"['Isabelle Boulay ', ' Alexandre D?silets ']",['Pop']
+5,M?riken,3.-Sonderkonzert-James-Bond-007,2014-06-11,[' Mary Carewe '],['Classic']
+6,Basel,Masterrezital,2014-06-11,[' Uriel Pascucci '],['Classic']
+7,Schaffhausen,Eidgen?ssisch-Moos,2014-06-11,"[' Ruedi H?usermann ', ' Herwig Ursin ', ' Jan Ratschko ']",['traditional']
+8,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-11,[' Catherine Major '],['Pop']
+9,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-11,"['Marcie ', ' Lina Boudreau ']",['Pop']
+10,null,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-11,"['Salom? Leclerc ', ' St?phane C?t? ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Payerne,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-11,"['Lara Brown ', ' Marcie ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,null,Slayer,2014-06-11,"['Slayer ', ' Crowbar ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Luzern,Black-Stone-Cherry,2014-06-11,['Black Stone Cherry '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Baden,Musik-im-Park,2014-06-11,['Jackson Wahengo '],['Pop']
+15,Z?rich,The-Paradise-Bangkok-Molam-International-Band,2014-06-11,['The Paradise Bangkok Molam International Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Z?rich,Arifa,2014-06-11,"['Arifa ', ' Franz von Chossy ', ' Michalis Cholevas ', ' Alex Simu ', ' Sjahin During ']","['world', 'music']"
+17,Winterthur,Hot-Lunch,2014-06-11,['Hot Lunch '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Basel,Adrian-Mears-Electric-Trio,2014-06-11,"[' Adrian Mears ', ' Thomas Stieger ', ' Daniel Mudrack ']","['Jazz', 'Blues', 'Soul']"
+19,Luzern,Workshopkonzert,2014-06-11,"[' Josh Albisser ', ' Emanuel Wildeisen ', ' Dominik Rohrer ', ' Jonas Albrecht ']","['Jazz', 'Blues', 'Soul']"
+20,Thun,Jupiter-&-Okwess-International,2014-06-11,[' Okwess International '],"['world', 'music']"
+21,Baden,Prima-Jam,2014-06-11,"['Gregor Loepfe ', ' Richard Pechota ', ' Peter Preibisch ']",['Pop']
+22,Z?rich,Bukowski,2014-06-11,['Daniel Bachman '],['Pop']
+23,Lausanne,Acid-King,2014-06-11,"['Acid King ', ' Pet the Preacher ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Z?rich,Jazzbaragge-Wednesday-Jam,2014-06-11,"[' Rich Fonje ', ' Dave Feusi ', ' Fabienne Hoerni ', ' Ren? Mosele ', ' Matthew Savnik ']","['Hip', 'Hop', ""R'n'B""]"
+25,Basel,Poino,2014-06-11,['Poino '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

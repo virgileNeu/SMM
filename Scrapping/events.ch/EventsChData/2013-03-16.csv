@@ -1,56 +1,57 @@
-location,event,date,artists,genre
-Villa-Sträuli,Winterthur,2013-03-16,"[' Helen Iten ', ' Eliane Cueni ', ' Sandra Merk ']",DIRK
-Sursee,Mosh-Festival,2013-03-16,"['Morgoth ', ' Dr. Living Dead! ', ' Profanity ', ' Sudden Death ', ' Death Mechanism ', ' Antropofagus ']",
-Lausanne,Inferno-Festival,2013-03-16,"['Dark Funeral ', ' My Dying Bride ', ' Aura Noir ']",
-Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-03-16,['Mark Tenger '],
-Luzern,Sinfoniekonzert,2013-03-16,[' Martha Argerich '],Classic
-Basel,Liturgie-des-Heiligen-Johannes-Chrysostomus,2013-03-16,[' Luis Conte '],Classic
-Basel,Los-Acuña,2013-03-16,['Los Acuña '],
-Zürich,Konzert,2013-03-16,"[' Emma Kirkby ', ' Rilana Cadruvi ']",Classic
-null,Migros-Kulturprozent-Classics-3,2013-03-16,[' Giuliano Carmignola '],Classic
-Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-16,"['Cypress Hill ', ' Logic ', ' Method Man & Redman ']",Redman
-Crans-Montana,Caprices-Festival,2013-03-16,"['DJs Mr Mike ', ' Mix Master Mike ']",Electronic
-Zürich,Johannespassion,2013-03-16,"[' Anne Ellersiek ', ' Petra Noskaiová ', ' Christoph Genz ', ' ', ' Martin Snell ', ' Tijl Faveyts ']",Classic
-Zürich,Johannes-Passion,2013-03-16,"[' Anne Ellersiek ', ' Petra Noskaiová ', ' Christoph Genz ', ' ', ' Martin Snell ', ' Tijl Faveyts ']",Classic
-Zürich,Konzert,2013-03-16,[' Fabio Di Càsola '],Classic
-Zürich,Poliça,2013-03-16,['Poliça '],Electronic
-Rorschach,A-Cappella-Festival,2013-03-16,"['Zuckerröhren ', ' Mezzotono ', ' Safer Six ', ' Vivat Bacchus ']",Pop
-Otelfingen,Hotel-Bossa-Nova,2013-03-16,"['Hotel Bossa Nova ', ' Liza da Costa ', ' Tilmann Höhn ', ' Alexander Sonntag ', ' Wolfgang Stamm ']",
-Rorschach,A-Cappella-Festival,2013-03-16,"['Zuckerröhren ', ' Mezzotono ', ' Safer Six ', ' Vivat Bacchus ']",Pop
-Rorschach,A-Cappella-Festival,2013-03-16,"['Zuckerröhren ', ' Mezzotono ', ' Safer Six ', ' Vivat Bacchus ']",Pop
-Schüür,Luzern,2013-03-16,['Tunica Dartos '],
-Basel,Mana-dzimtene-Meine-Heimat,2013-03-16,[' Marcis Kuplais '],Classic
-null,Frühlingskonzert,2013-03-16,[' Ariadna Chmelik '],Classic
-Hinwil,Into-the-Wild,2013-03-16,['Django 3000 '],
-Rorschach,A-Cappella-Festival,2013-03-16,"['Zuckerröhren ', ' Mezzotono ', ' Safer Six ', ' Vivat Bacchus ']",Pop
-Allschwil,Der-Messias,2013-03-16,"[' Bernadette Sialm ', ' Heike Werner ', ' Niklaus Rüegg ', ' Robert Koller ', ' Angelika Hirsch ']",Classic
--Alte-Kirche,Boswil,2013-03-16,"[' Eirik Dørsdal ', ' Simon Heggendorn ', ' Anni Elif Egecioglu ', ' Fabian M. Mueller ', ' Kaspar von Grünigen ', ' Øyvind Hegg-Lunde ']",Classic
-Rorschacherberg,A-Cappella-Festival,2013-03-16,"['Zuckerröhren ', ' Mezzotono ', ' Safer Six ', ' Vivat Bacchus ']",Pop
-Oberengstringen,Swilit,2013-03-16,"[' Mindaugas Vadoklis ', ' Reto Suhner ', ' Dimitrij Golovanov ', ' Herbie Kopf ', ' Marijus Aleksa ']",
-Basel,Mondrian-Ensemble:-presentimientos,2013-03-16,"[' Daniela Müller ', ' Petra Ackermann ', ' Martin Jaggi ', ' Tamriko Kordzaia ']",Classic
-Liestal,De-profundis,2013-03-16,[' Ilja Völlmy Kudrjavtsev '],Classic
-Bülach,International-Hot-Jazz-Quartet,2013-03-16,"[' Duke Heitger ', ' Engelbert Wrobel ', ' Paolo Alderighi ', ' Oliver Mewes ']",
-Zürich,Hearings-3.1,2013-03-16,"['Tobias Meier ', ' Jürg Gasser ', ' Silvan Jeger ', ' Gabriela Friedli ', ' Jan Schlegel ', ' Marius Peyer ']",
-Frick,Konzert,2013-03-16,"['Karel Boeschoten ', ' Fulvia Mancini ', ' Kristóf Zámbó ', ' Jürg Luchsinger ', ' Benjamin Engeli ']",Classic
-Zürich,La-nuit-francofolle,2013-03-16,"['Geneviève Toupin ', ' Chouf ', ' Geneviève Toupin ', ' Benoit Morier ', ' Emilie Proulx ', ' Simon Chouf ', ' Yohann Perret ']",
-null,Cortez,2013-03-16,"[' Celeste ', ' Haut et Court ']",
-Aarburg,Third-Attempt,2013-03-16,"[' Oliver Kyas ', ' Holger Kyas ', ' Tarzis Mueller ', ' Gaedan Luescher ', ' Andi Joerin ']",
-null,Anat-Cohen-Quartet,2013-03-16,"[' Anat Cohen ', ' Jason Lindner ', ' Joe Martin ', ' Daniel Freedman ']",
-Vevey,Skip-&-Die,2013-03-16,['Skip & Die '],Electronic
-Mühle-Hunziken,Rubigen,2013-03-16,['Bauchklang '],Bauchklang
-Bern,500-10-Unlimited,2013-03-16,"[' Dom Burkhalter ', ' Christoph Steiner ']",Electronic
-Zürich,Bee-Johnson-&-Band,2013-03-16,"[' Bee Johnson ', ' Andrina Bollinger ', ' Rebecca Marti ', ' Marvin Trummer ', ' Michel Spar ', ' Marcel Frautschi ', ' Ramón Oliveras ']",
-KiFF,Aarau,2013-03-16,['Jon Gomm '],
-Schaffhausen,Celtic-Spring-Caravan,2013-03-16,"['Vishten ', ' Ryan Mcgiver ', ' Michael O Connell ', ' Conor Keane ']",
-Volkshaus-Basel,Basel,2013-03-16,[' Turboweekend '],
-Zug,Reel-Big-Fish,2013-03-16,['Reel Big Fish '],
-null,Fard,2013-03-16,['Fard '],
-Basel,Bscene,2013-03-16,"['Dutchie Gold ', ' Otto Normal ']",
-Basel,Party,2013-03-16,['DJ Michael '],
-null,Village,2013-03-16,[' Alexander Febles '],
-Palace,Sankt-Gallen,2013-03-16,['Jeremiah Jae '],
-Schaffhausen,Umami,2013-03-16,['Umami '],Electronic
-District-4,Zürich,2013-03-16,['Der Dritte Raum '],
-Lausanne,Staer,2013-03-16,['Staer '],
-null,Rockabilly-Party-Show,2013-03-16,[' DJ Super Sam '],Electronic
-Zürich,Subclub,2013-03-16,[' live: Holy Other '],
+,location,event,date,artists,genre
+0,Villa-Sträuli,Winterthur,2013-03-16,"[' Helen Iten ', ' Eliane Cueni ', ' Sandra Merk ']",['DIRK']
+1,Sursee,Mosh-Festival,2013-03-16,"['Morgoth ', ' Dr. Living Dead! ', ' Profanity ', ' Sudden Death ', ' Death Mechanism ', ' Antropofagus ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Lausanne,Inferno-Festival,2013-03-16,"['Dark Funeral ', ' My Dying Bride ', ' Aura Noir ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-03-16,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+4,Luzern,Sinfoniekonzert,2013-03-16,[' Martha Argerich '],['Classic']
+5,Basel,Liturgie-des-Heiligen-Johannes-Chrysostomus,2013-03-16,[' Luis Conte '],['Classic']
+6,Riehen,Brass-Band-Konzert-100-Jahre-Posaunenchor-Riehen,2013-03-16,"['Jennifer Tauder ', ' Michael Büttler ', ' Simon Lilly ']","['Jazz', 'Blues', 'Soul']"
+7,Basel,Los-Acuña,2013-03-16,['Los Acuña '],"['world', 'music']"
+8,Zürich,Konzert,2013-03-16,"[' Emma Kirkby ', ' Rilana Cadruvi ']",['Classic']
+9,null,Migros-Kulturprozent-Classics-3,2013-03-16,[' Giuliano Carmignola '],['Classic']
+10,Zürich,Johannespassion,2013-03-16,"[' Anne Ellersiek ', ' Petra Noskaiová ', ' Christoph Genz ', ' ', ' Martin Snell ', ' Tijl Faveyts ']",['Classic']
+11,Zürich,Johannes-Passion,2013-03-16,"[' Anne Ellersiek ', ' Petra Noskaiová ', ' Christoph Genz ', ' ', ' Martin Snell ', ' Tijl Faveyts ']",['Classic']
+12,Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-16,"['Cypress Hill ', ' Logic ', ' Method Man & Redman ']",['Redman']
+13,Zürich,Konzert,2013-03-16,[' Fabio Di Càsola '],['Classic']
+14,Zürich,Poliça,2013-03-16,['Poliça '],['Electronic']
+15,Crans-Montana,Caprices-Festival,2013-03-16,"['DJs Mr Mike ', ' Mix Master Mike ']",['Electronic']
+16,Rorschach,A-Cappella-Festival,2013-03-16,"['Zuckerröhren ', ' Mezzotono ', ' Safer Six ', ' Vivat Bacchus ']",['Pop']
+17,Hinwil,Into-the-Wild,2013-03-16,['Django 3000 '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Rorschach,A-Cappella-Festival,2013-03-16,"['Zuckerröhren ', ' Mezzotono ', ' Safer Six ', ' Vivat Bacchus ']",['Pop']
+19,Rorschach,A-Cappella-Festival,2013-03-16,"['Zuckerröhren ', ' Mezzotono ', ' Safer Six ', ' Vivat Bacchus ']",['Pop']
+20,Schüür,Luzern,2013-03-16,['Tunica Dartos '],"['Tunica', 'Dartos']"
+21,Otelfingen,Hotel-Bossa-Nova,2013-03-16,"['Hotel Bossa Nova ', ' Liza da Costa ', ' Tilmann Höhn ', ' Alexander Sonntag ', ' Wolfgang Stamm ']","['world', 'music']"
+22,Basel,Mana-dzimtene-Meine-Heimat,2013-03-16,[' Marcis Kuplais '],['Classic']
+23,null,Frühlingskonzert,2013-03-16,[' Ariadna Chmelik '],['Classic']
+24,Oberengstringen,Swilit,2013-03-16,"[' Mindaugas Vadoklis ', ' Reto Suhner ', ' Dimitrij Golovanov ', ' Herbie Kopf ', ' Marijus Aleksa ']","['Jazz', 'Blues', 'Soul']"
+25,Allschwil,Der-Messias,2013-03-16,"[' Bernadette Sialm ', ' Heike Werner ', ' Niklaus Rüegg ', ' Robert Koller ', ' Angelika Hirsch ']",['Classic']
+26,-Alte-Kirche,Boswil,2013-03-16,"[' Eirik Dørsdal ', ' Simon Heggendorn ', ' Anni Elif Egecioglu ', ' Fabian M. Mueller ', ' Kaspar von Grünigen ', ' Øyvind Hegg-Lunde ']",['Classic']
+27,Rorschach,A-Cappella-Festival,2013-03-16,"['Zuckerröhren ', ' Mezzotono ', ' Safer Six ', ' Vivat Bacchus ']",['Pop']
+28,Basel,Mondrian-Ensemble:-presentimientos,2013-03-16,"[' Daniela Müller ', ' Petra Ackermann ', ' Martin Jaggi ', ' Tamriko Kordzaia ']",['Classic']
+29,Rorschacherberg,A-Cappella-Festival,2013-03-16,"['Zuckerröhren ', ' Mezzotono ', ' Safer Six ', ' Vivat Bacchus ']",['Pop']
+30,Liestal,De-profundis,2013-03-16,[' Ilja Völlmy Kudrjavtsev '],['Classic']
+31,Bülach,International-Hot-Jazz-Quartet,2013-03-16,"[' Duke Heitger ', ' Engelbert Wrobel ', ' Paolo Alderighi ', ' Oliver Mewes ']","['Jazz', 'Blues', 'Soul']"
+32,Zürich,Hearings-3.1,2013-03-16,"['Tobias Meier ', ' Jürg Gasser ', ' Silvan Jeger ', ' Gabriela Friedli ', ' Jan Schlegel ', ' Marius Peyer ']","['Jazz', 'Blues', 'Soul']"
+33,Frick,Konzert,2013-03-16,"['Karel Boeschoten ', ' Fulvia Mancini ', ' Kristóf Zámbó ', ' Jürg Luchsinger ', ' Benjamin Engeli ']",['Classic']
+34,Zürich,La-nuit-francofolle,2013-03-16,"['Geneviève Toupin ', ' Chouf ', ' Geneviève Toupin ', ' Benoit Morier ', ' Emilie Proulx ', ' Simon Chouf ', ' Yohann Perret ']","['world', 'music']"
+35,Vevey,Skip-&-Die,2013-03-16,['Skip & Die '],['Electronic']
+36,KiFF,Aarau,2013-03-16,['Jon Gomm '],"['David', 'Howald']"
+37,null,Anat-Cohen-Quartet,2013-03-16,"[' Anat Cohen ', ' Jason Lindner ', ' Joe Martin ', ' Daniel Freedman ']","['Jazz', 'Blues', 'Soul']"
+38,Bern,500-10-Unlimited,2013-03-16,"[' Dom Burkhalter ', ' Christoph Steiner ']",['Electronic']
+39,Schaffhausen,Celtic-Spring-Caravan,2013-03-16,"['Vishten ', ' Ryan Mcgiver ', ' Michael O Connell ', ' Conor Keane ']","['world', 'music']"
+40,Volkshaus-Basel,Basel,2013-03-16,[' Turboweekend '],"['Sheila', 'She', 'Loves', 'You']"
+41,null,Cortez,2013-03-16,"[' Celeste ', ' Haut et Court ']","['Electro', 'Electropop']"
+42,Mühle-Hunziken,Rubigen,2013-03-16,['Bauchklang '],['Bauchklang']
+43,Zürich,Bee-Johnson-&-Band,2013-03-16,"[' Bee Johnson ', ' Andrina Bollinger ', ' Rebecca Marti ', ' Marvin Trummer ', ' Michel Spar ', ' Marcel Frautschi ', ' Ramón Oliveras ']","['Hip', 'Hop', ""R'n'B""]"
+44,Aarburg,Third-Attempt,2013-03-16,"[' Oliver Kyas ', ' Holger Kyas ', ' Tarzis Mueller ', ' Gaedan Luescher ', ' Andi Joerin ']","['Jazz', 'Blues', 'Soul']"
+45,null,Fard,2013-03-16,['Fard '],"['Hip', 'Hop', ""R'n'B""]"
+46,Basel,Bscene,2013-03-16,"['Dutchie Gold ', ' Otto Normal ']","['Hip', 'Hop', ""R'n'B""]"
+47,Zug,Reel-Big-Fish,2013-03-16,['Reel Big Fish '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+48,Palace,Sankt-Gallen,2013-03-16,['Jeremiah Jae '],"['Bit', 'Tuner']"
+49,Basel,Party,2013-03-16,['DJ Michael '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+50,null,Village,2013-03-16,[' Alexander Febles '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+51,Schaffhausen,Umami,2013-03-16,['Umami '],['Electronic']
+52,District-4,Zürich,2013-03-16,['Der Dritte Raum '],"['Der', 'Dritte', 'Raum']"
+53,Lausanne,Staer,2013-03-16,['Staer '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+54,Zürich,Subclub,2013-03-16,[' live: Holy Other '],"['Electro', 'Electropop']"
+55,null,Rockabilly-Party-Show,2013-03-16,[' DJ Super Sam '],['Electronic']

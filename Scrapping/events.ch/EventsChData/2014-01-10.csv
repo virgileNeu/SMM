@@ -1,37 +1,38 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment,2014-01-10,['Mega Horvath '],
-Basel,Orgelspiel-zum-Feierabend,2014-01-10,['Olivier Wyrwas '],Classic
-Aarau,Bonebreaker-Ball,2014-01-10,['Smash Hit Combo '],
-Dübendorf,Klaus-König-Trio,2014-01-10,"[' Klaus König ', ' Patrick Sommer ', ' Andi Wettstein ']",
-Baden,Konzert,2014-01-10,['Oliver Schnyder '],Classic
-Arbon,Trio-Fado,2014-01-10,"[' Maria Carvalho ', ' António de Brito ', ' Daniel Pircher ', ' Benjamin Walbrodt ']",
-Basel,Winterspiele,2014-01-10,"[' Robert Pickup ', ' Paul Hanmer ']",Classic
-Bern,Mozart-Paris,2014-01-10,[' Vardan Mamikonian '],Classic
-null,5.-Tonhallekonzert,2014-01-10,"['Igor Keller ', ' Fernando Gomes ', ' Rosemary Yiameos ', ' John Dieckmann ']",Classic
-Stäfa,Streichtrios,2014-01-10,"['Daniel Sepec ', ' Anne Katharina Schreiber ', ' Roel Dieltiens ']",Classic
-Zürich,Konzert,2014-01-10,[' Christer Johnsson '],Classic
-Basel,Drama,2014-01-10,"['Bastian Pfefferli ', ' Demetre Gamsachurdia ']",Classic
-Altikon,Stefan-Stahel-Jazz-Trio,2014-01-10,"[' Stefan Stahel ', ' Christoph Sprenger ', ' Elmar Frey ']",
-Basel,Der-Marakra-Zyklus,2014-01-10,"[' Christine Simolka ', ' Ursula Seiler ', ' Igor Kombaratov ', ' Markus Stolz ', ' René Wohlhauser ']",Classic
-Basel,Tu-es-lordre,2014-01-10,"['Hansheinz Schneeberger ', ' Marianne Schroeder ']",Classic
-Winterthur,Kashmir,2014-01-10,['Kashmir '],
-Bern,Esche,2014-01-10,"[' Laura Schuler ', ' Luzius Schuler ', ' Elisabeth Hoppe ']",
-Bern,Afghan-Rock-Night,2014-01-10,"['Ariana Delawari ', ' White Page ']",
-null,Manu-Katché,2014-01-10,"['Manu Katché ', ' Manu Katché ', ' Jim Watson ', ' Tore Brunborg ', ' Luca Aquino ']",
-Bülach,Ernst-Gerber-Memorial-Band,2014-01-10,"[' Gustl Mayer ', ' Jürg Morgenthaler ', ' Joe Haider ', ' Stefan Kurmann ', ' Peter Schmidlin ']",
-Zürich,Skudde,2014-01-10,"[' Frantz Loriot ', ' Tobias Meier ', ' Isa Wiss ', ' Christian Wolfarth ']",
-Winterthur,Ducadu,2014-01-10,"[' Simon Schwaninger ', ' Marco Clerc ', ' Alessandro Giannelli ']",
-Liebefeld,Mujer-Klórica,2014-01-10,"[' Alicia Carrasco ', ' Jose Manuel León ', ' Miguel Hiroshi ']",
-Zürich,The-Bianca-Story,2014-01-10,"[' Anna Waibel ', ' Elia Rediger ', ' Fabian Chiquet ', ' Joël Fonsegrive ', ' Lorenz Hunziker ']",Pop
-Basel,Another-Fine-Mess,2014-01-10,"[' Lothar Behr ', ' Daniel Baschnagel ', ' Denis Haas ', ' Thomas Grünwald ', ' Frieder Lang ', ' Raphael Walser ', ' Pius Baschnagel ']",
-Aarau,Lirik,2014-01-10,['Lirik '],
-Luzern,Augustine's-Suspenders,2014-01-10,"[""Augustine's Suspenders ""]",
-Winterthur,Fred-Olson,2014-01-10,['Fred Olson '],
-Rubigen,Marla-Glen-&-Band,2014-01-10,['Marla Glen & Band '],
-Baden,Russischer-Neujahrsball,2014-01-10,['DJ Dunkelbunt '],
-Basel,Maria-Doyle-Kennedy,2014-01-10,['Maria Doyle Kennedy '],Pop
-Luzern,Uncle-Beard-and-the-dirty-Bastards,2014-01-10,['Uncle Beard and the dirty Bastards '],
-Lausanne,Michniak,2014-01-10,['Michniak '],
-Schaffhausen,Doesn't-Rhyme-With-King,2014-01-10,"[""Doesn't Rhyme With King ""]",
-Zürich,Big-Zis,2014-01-10,['Big Zis '],
-Zürich,Snowgoons,2014-01-10,"['Snowgoons ', ' DJs Sicknature ', ' Sean Strange ', ' Illegal ']",
+,location,event,date,artists,genre
+0,Luzern,Piano-Entertainment,2014-01-10,['Mega Horvath '],"['Jazz', 'Blues', 'Soul']"
+1,Basel,Orgelspiel-zum-Feierabend,2014-01-10,['Olivier Wyrwas '],['Classic']
+2,D?bendorf,Klaus-K?nig-Trio,2014-01-10,"[' Klaus K?nig ', ' Patrick Sommer ', ' Andi Wettstein ']","['Jazz', 'Blues', 'Soul']"
+3,Aarau,Bonebreaker-Ball,2014-01-10,['Smash Hit Combo '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,St?fa,Streichtrios,2014-01-10,"['Daniel Sepec ', ' Anne Katharina Schreiber ', ' Roel Dieltiens ']",['Classic']
+5,null,5.-Tonhallekonzert,2014-01-10,"['Igor Keller ', ' Fernando Gomes ', ' Rosemary Yiameos ', ' John Dieckmann ']",['Classic']
+6,Baden,Konzert,2014-01-10,['Oliver Schnyder '],['Classic']
+7,Z?rich,Konzert,2014-01-10,[' Christer Johnsson '],['Classic']
+8,Basel,Winterspiele,2014-01-10,"[' Robert Pickup ', ' Paul Hanmer ']",['Classic']
+9,Arbon,Trio-Fado,2014-01-10,"[' Maria Carvalho ', ' Ant?nio de Brito ', ' Daniel Pircher ', ' Benjamin Walbrodt ']","['world', 'music']"
+10,Bern,Mozart-Paris,2014-01-10,[' Vardan Mamikonian '],['Classic']
+11,Bern,Esche,2014-01-10,"[' Laura Schuler ', ' Luzius Schuler ', ' Elisabeth Hoppe ']","['Jazz', 'Blues', 'Soul']"
+12,Winterthur,Kashmir,2014-01-10,['Kashmir '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Altikon,Stefan-Stahel-Jazz-Trio,2014-01-10,"[' Stefan Stahel ', ' Christoph Sprenger ', ' Elmar Frey ']","['Jazz', 'Blues', 'Soul']"
+14,Bern,Afghan-Rock-Night,2014-01-10,"['Ariana Delawari ', ' White Page ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,null,Manu-Katch?,2014-01-10,"['Manu Katch? ', ' Manu Katch? ', ' Jim Watson ', ' Tore Brunborg ', ' Luca Aquino ']","['Jazz', 'Blues', 'Soul']"
+16,Basel,Tu-es-lordre,2014-01-10,"['Hansheinz Schneeberger ', ' Marianne Schroeder ']",['Classic']
+17,Basel,Drama,2014-01-10,"['Bastian Pfefferli ', ' Demetre Gamsachurdia ']",['Classic']
+18,Basel,Der-Marakra-Zyklus,2014-01-10,"[' Christine Simolka ', ' Ursula Seiler ', ' Igor Kombaratov ', ' Markus Stolz ', ' Ren? Wohlhauser ']",['Classic']
+19,Winterthur,Ducadu,2014-01-10,"[' Simon Schwaninger ', ' Marco Clerc ', ' Alessandro Giannelli ']","['Jazz', 'Blues', 'Soul']"
+20,B?lach,Ernst-Gerber-Memorial-Band,2014-01-10,"[' Gustl Mayer ', ' J?rg Morgenthaler ', ' Joe Haider ', ' Stefan Kurmann ', ' Peter Schmidlin ']","['Jazz', 'Blues', 'Soul']"
+21,Z?rich,Skudde,2014-01-10,"[' Frantz Loriot ', ' Tobias Meier ', ' Isa Wiss ', ' Christian Wolfarth ']","['Jazz', 'Blues', 'Soul']"
+22,Winterthur,Fred-Olson,2014-01-10,['Fred Olson '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Aarau,Lirik,2014-01-10,['Lirik '],"['Hip', 'Hop', ""R'n'B""]"
+24,Liebefeld,Mujer-Kl?rica,2014-01-10,"[' Alicia Carrasco ', ' Jose Manuel Le?n ', ' Miguel Hiroshi ']","['world', 'music']"
+25,Luzern,Augustine's-Suspenders,2014-01-10,"[""Augustine's Suspenders ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Z?rich,The-Bianca-Story,2014-01-10,"[' Anna Waibel ', ' Elia Rediger ', ' Fabian Chiquet ', ' Jo?l Fonsegrive ', ' Lorenz Hunziker ']",['Pop']
+27,Basel,Another-Fine-Mess,2014-01-10,"[' Lothar Behr ', ' Daniel Baschnagel ', ' Denis Haas ', ' Thomas Gr?nwald ', ' Frieder Lang ', ' Raphael Walser ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+28,Rubigen,Marla-Glen-&-Band,2014-01-10,[' Band '],"['Hip', 'Hop', ""R'n'B""]"
+29,Baden,Russischer-Neujahrsball,2014-01-10,['DJ Dunkelbunt '],"['Electro', 'Electropop']"
+30,Basel,Maria-Doyle-Kennedy,2014-01-10,['Maria Doyle Kennedy '],['Pop']
+31,Luzern,Uncle-Beard-and-the-dirty-Bastards,2014-01-10,['Uncle Beard and the dirty Bastards '],"['world', 'music']"
+32,Z?rich,Snowgoons,2014-01-10,"['Snowgoons ', ' DJs Sicknature ', ' Sean Strange ', ' Illegal ']","['Hip', 'Hop', ""R'n'B""]"
+33,Z?rich,Snowgoons,2014-01-10,"['Snowgoons ', ' DJs Sicknature ', ' Sean Strange ', ' Illegal ']","['Hip', 'Hop', ""R'n'B""]"
+34,Z?rich,Big-Zis,2014-01-10,['Big Zis '],"['Hip', 'Hop', ""R'n'B""]"
+35,Lausanne,Michniak,2014-01-10,['Michniak '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Schaffhausen,Doesn't-Rhyme-With-King,2014-01-10,"[""Doesn't Rhyme With King ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

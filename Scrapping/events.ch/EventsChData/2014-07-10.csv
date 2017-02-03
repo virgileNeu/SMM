@@ -1,23 +1,23 @@
-location,event,date,artists,genre
-Marly,Jazz-Parade,2014-07-10,"[' Marc Sturzenegger ', ' Denis Michel ', ' voc) Pierre Ponnaz ', ' bjo) Paul Kapp ', ' voc) Patrick Perrier ', ' Gianni Solinas ']",
-Fislisbach,Dinner-Konzert,2014-07-10,"['Tcha Simmons Ensemble ', ' Gino Todesco ', ' Andy Bopp ', ' Eddie Walker ', ' Tcha Simmons ']",
-Zürich,Festspiele-Zürich,2014-07-10,"['Trovesi-Coscia ', ' Gianluigi Trovesi ', ' Gianni Coscia ']",
-Montreux,Montreux-Jazz-Festival,2014-07-10,"['Booker T. Jones ', ' Sweet Georgia Brown ']",
-Hergiswil,Lakeside-Festival,2014-07-10,['Samy Deluxe '],
-Marly,Jazz-Parade,2014-07-10,"['The Bootleggers ', ' Paul Lugan ', ' Fredo Bordeneuve ', ' Didier Céré ', ' Nico Lacaze ']",
-Lenzburg,Open-Air-Live-@-Isegass,2014-07-10,"[' Ben Sutter ', ' Beat Aschwanden ', ' Philippe Chrétien ', ' Markus Fritzsche ', ' Guest Joël Mesot ']",
-Zürich,M.-Ward,2014-07-10,['M. Ward '],Pop
-Montreux,Montreux-Jazz-Festival,2014-07-10,"['Massive Attack ', ' Banks ']",Electronic
-null,Liechtensteiner-Gitarrentage,2014-07-10,['Roland Dyens '],Classic
-Locarno,Moon-and-Stars,2014-07-10,['Laura Pausini '],Pop
-Montreux,Montreux-Jazz-Festival,2014-07-10,"['Moderat ', ' Darkside ']",Electronic
-Zürich,Live-at-Sunset,2014-07-10,['Rodrigo y Gabriela '],
-Basel,La-Box,2014-07-10,"[' Marco Figini ', ' Roland Köppel ', ' Michael Wipf ']",
-Lugano,Estival-Jazz-Lugano,2014-07-10,"['Morcheeba ', ' Gregory Porter ']",Pop
-Zürich,Julia-Holter,2014-07-10,['Julia Holter '],Pop
-St.-Moritz,Festival-da-Jazz,2014-07-10,['Dirty Loops '],
-Bern,The-Angry-Cats,2014-07-10,['The Angry Cats '],
-Zürich,Slow-Magic,2014-07-10,['Slow Magic '],Electronic
-Montreux,Montreux-Jazz-Festival,2014-07-10,"['Manu Lanvin & The Devil Blues ', ' Blues Pills ']",
-Pontresina,Mama-Bluegrass-Band,2014-07-10,['Mama Bluegrass Band '],
-Zürich,Dosci-Schall-&-Rauch,2014-07-10,[' Simian Keiser '],
+,location,event,date,artists,genre
+0,Marly,Jazz-Parade,2014-07-10,"[' Marc Sturzenegger ', ' Denis Michel ', ' voc) Pierre Ponnaz ', ' bjo) Paul Kapp ', ' voc) Patrick Perrier ', ' Gianni Solinas ']","['Jazz', 'Blues', 'Soul']"
+1,Fislisbach,Dinner-Konzert,2014-07-10,"['Tcha Simmons Ensemble ', ' Gino Todesco ', ' Andy Bopp ', ' Eddie Walker ', ' Tcha Simmons ']","['Hip', 'Hop', ""R'n'B""]"
+2,Z?rich,Festspiele-Z?rich,2014-07-10,"['Trovesi-Coscia ', ' Gianluigi Trovesi ', ' Gianni Coscia ']","['Jazz', 'Blues', 'Soul']"
+3,Marly,Jazz-Parade,2014-07-10,"['The Bootleggers ', ' Paul Lugan ', ' Fredo Bordeneuve ', ' Didier C?r? ', ' Nico Lacaze ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Lenzburg,Open-Air-Live-@-Isegass,2014-07-10,"[' Ben Sutter ', ' Beat Aschwanden ', ' Philippe Chr?tien ', ' Markus Fritzsche ', ' Guest Jo?l Mesot ']","['Jazz', 'Blues', 'Soul']"
+5,Montreux,Montreux-Jazz-Festival,2014-07-10,"['Massive Attack ', ' Banks ']",['Electronic']
+6,Montreux,Montreux-Jazz-Festival,2014-07-10,"['Booker T. Jones ', ' Sweet Georgia Brown ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,M.-Ward,2014-07-10,['M. Ward '],['Pop']
+8,Hergiswil,Lakeside-Festival,2014-07-10,['Samy Deluxe '],"['Hip', 'Hop', ""R'n'B""]"
+9,null,Liechtensteiner-Gitarrentage,2014-07-10,['Roland Dyens '],['Classic']
+10,Locarno,Moon-and-Stars,2014-07-10,['Laura Pausini '],['Pop']
+11,Montreux,Montreux-Jazz-Festival,2014-07-10,"['Moderat ', ' Darkside ']",['Electronic']
+12,Z?rich,Live-at-Sunset,2014-07-10,['Rodrigo y Gabriela '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Basel,La-Box,2014-07-10,"[' Marco Figini ', ' Roland K?ppel ', ' Michael Wipf ']","['Jazz', 'Blues', 'Soul']"
+14,Lugano,Estival-Jazz-Lugano,2014-07-10,"['Morcheeba ', ' Gregory Porter ']",['Pop']
+15,Bern,The-Angry-Cats,2014-07-10,['The Angry Cats '],"['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Slow-Magic,2014-07-10,['Slow Magic '],['Electronic']
+17,Z?rich,Julia-Holter,2014-07-10,['Julia Holter '],['Pop']
+18,St.-Moritz,Festival-da-Jazz,2014-07-10,['Dirty Loops '],"['Funk', 'Jazz', 'Blues', 'Soul']"
+19,Montreux,Montreux-Jazz-Festival,2014-07-10,"[' The Devil Blues ', ' Blues Pills ']","['Jazz', 'Blues', 'Soul']"
+20,Pontresina,Mama-Bluegrass-Band,2014-07-10,['Mama Bluegrass Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Z?rich,Dosci-Schall-&-Rauch,2014-07-10,[' Simian Keiser '],"['Electro', 'Electropop']"

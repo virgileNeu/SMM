@@ -1,30 +1,28 @@
-location,event,date,artists,genre
-Basel,Con-fuoco,2013-02-27,"['Danny Gu ', ' Katia Braunschweiler ']",Classic
-Basel,Im-Dialog,2013-02-27,"['Isabel Wullschleger ', ' Camilla Köhnken ']",Classic
-Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-02-27,['Mark Tenger '],
-Lausanne,Cannibal-Corpse,2013-02-27,['Cannibal Corpse '],
-Zürich,Eskimo-Callboy,2013-02-27,"['Eskimo Callboy ', ' The Browning ', ' Close to Home ', ' Intohimo ']",
-Zürich,Nat-Su-Trio,2013-02-27,"[' Nat Su ', ' Dominque Girod ', ' Dieter Ulrich ']",
-Pratteln,Neal-Morse-Band,2013-02-27,"['Neal Morse Band ', ' The Flower Kings ']",
-Zürich,Konzert-für-Mitglieder-und-Gönner,2013-02-27,[' Rafal Blechacz '],Classic
-Basel,Lichtungen,2013-02-27,"['Claudia Ulla Binder ', ' Sara Maurer ']",Pop
-Luzern,Rhapsody-in-Blue,2013-02-27,[' Kirill Gerstein '],Classic
-Basel,Central-Europe,2013-02-27,"[' Adam Mital ', ' Olimpia Tolan ']",Classic
-Luzern,Jam-Night,2013-02-27,"['Christian Winiker ', ' Mani Zweili ', ' Mike Maloth ']",
-Luzern,Jam-Night,2013-02-27,"['Christian Winiker ', ' Mani Zweili ', ' Mike Maloth ']",
-Volkshaus,Zürich,2013-02-27,['Joe Bonamassa '],
-Olten,Klavierabend,2013-02-27,['Yubo Zhou '],Classic
-Bern,Adjiri-Odametey,2013-02-27,['Adjiri Odametey '],Pop
-null,ArLoKi-Trio-&-Sachko,2013-02-27,"[' Alexander Sachko Wladigeroff ', ' Götz Arens ', ' Florian King ', ' Carlo Lorenzi ']",
-Zürich,Am-Nullpunkt-der-Musik,2013-02-27,['Thomas Bächli '],Classic
-Zürich,Liedkompositionswettbewerb,2013-02-27,"['Sybille Diethelm ', ' Anna Aki ', ' Chasper C. Mani ', ' Edward Rushton ']",Classic
-Eisenwerk,Frauenfeld,2013-02-27,"[' Kurt Söldi ', ' Andreas Schmid ', ' Alain v. Ritter ', ' Christian Rösli ', ' Jean-Pierre Dix ', ' DJ Little Maze ']",Motek
-Baden,Djangology,2013-02-27,"[' Moreno Donadio ', ' Toni Donadio ', ' Kilian Schenker ', ' Peter Keller ']",traditional
-Zürich,Jazz-Baragge-Wednesday-Jam,2013-02-27,"['Hans Feigenwinter ', ' Herbie Kopf ', ' Pius Baschnagel ']",
-Basel,Valgeir-Sigurðsson,2013-02-27,['Valgeir Sigurðsson '],Pop
-Moods,Zürich,2013-02-27,"['Orioxy ', ' Yael Miller ', ' Julie Campiche ', ' Manu Hagmann ', ' Roland Merlinc ']",Orioxy
-Basel,Benedikt-Jahnel-Trio,2013-02-27,"[' Benedikt Jahnel ', ' Antonio Miguel ', ' Owen Howard ']",
-Bern,Endangered-Blood,2013-02-27,['Endangered Blood '],
-Kafi-für-Dich,Zürich,2013-02-27,['Daniel Norgren '],
-Zürich,Booka-Shade,2013-02-27,['Booka Shade '],Electronic
-Sankt-Gallen,Melody's-Echo-Chamber,2013-02-27,"[""Melody's Echo Chamber ""]",Pop
+,location,event,date,artists,genre
+0,Basel,Con-fuoco,2013-02-27,"['Danny Gu ', ' Katia Braunschweiler ']",['Classic']
+1,Basel,Im-Dialog,2013-02-27,"['Isabel Wullschleger ', ' Camilla Köhnken ']",['Classic']
+2,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-02-27,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+3,Zürich,Eskimo-Callboy,2013-02-27,"['Eskimo Callboy ', ' The Browning ', ' Close to Home ', ' Intohimo ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Lausanne,Cannibal-Corpse,2013-02-27,['Cannibal Corpse '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Basel,Lichtungen,2013-02-27,"['Claudia Ulla Binder ', ' Sara Maurer ']",['Pop']
+6,Zürich,Konzert-für-Mitglieder-und-Gönner,2013-02-27,[' Rafal Blechacz '],['Classic']
+7,Pratteln,Neal-Morse-Band,2013-02-27,"['Neal Morse Band ', ' The Flower Kings ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Luzern,Rhapsody-in-Blue,2013-02-27,[' Kirill Gerstein '],['Classic']
+9,Basel,Central-Europe,2013-02-27,"[' Adam Mital ', ' Olimpia Tolan ']",['Classic']
+10,Luzern,Jam-Night,2013-02-27,"['Christian Winiker ', ' Mani Zweili ', ' Mike Maloth ']","['Hip', 'Hop', ""R'n'B""]"
+11,null,ArLoKi-Trio-&-Sachko,2013-02-27,"[' Alexander Sachko Wladigeroff ', ' Götz Arens ', ' Florian King ', ' Carlo Lorenzi ']","['Jazz', 'Blues', 'Soul']"
+12,Bern,Adjiri-Odametey,2013-02-27,['Adjiri Odametey '],['Pop']
+13,Olten,Klavierabend,2013-02-27,['Yubo Zhou '],['Classic']
+14,Zürich,Am-Nullpunkt-der-Musik,2013-02-27,['Thomas Bächli '],['Classic']
+15,Volkshaus,Zürich,2013-02-27,['Joe Bonamassa '],"['Joe', 'Bonamassa']"
+16,Zürich,Liedkompositionswettbewerb,2013-02-27,"['Sybille Diethelm ', ' Anna Aki ', ' Chasper C. Mani ', ' Edward Rushton ']",['Classic']
+17,Eisenwerk,Frauenfeld,2013-02-27,"[' Kurt Söldi ', ' Andreas Schmid ', ' Alain v. Ritter ', ' Christian Rösli ', ' Jean-Pierre Dix ', ' DJ Little Maze ']",['Motek']
+18,Zürich,Jazz-Baragge-Wednesday-Jam,2013-02-27,"['Hans Feigenwinter ', ' Herbie Kopf ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+19,Basel,Valgeir-Sigurðsson,2013-02-27,['Valgeir Sigurðsson '],['Pop']
+20,Baden,Djangology,2013-02-27,"[' Moreno Donadio ', ' Toni Donadio ', ' Kilian Schenker ', ' Peter Keller ']",['traditional']
+21,Moods,Zürich,2013-02-27,"['Orioxy ', ' Yael Miller ', ' Julie Campiche ', ' Manu Hagmann ', ' Roland Merlinc ']",['Orioxy']
+22,Basel,Benedikt-Jahnel-Trio,2013-02-27,"[' Benedikt Jahnel ', ' Antonio Miguel ', ' Owen Howard ']","['Jazz', 'Blues', 'Soul']"
+23,Bern,Endangered-Blood,2013-02-27,['Endangered Blood '],"['Jazz', 'Blues', 'Soul']"
+24,Kafi-für-Dich,Zürich,2013-02-27,['Daniel Norgren '],"['Daniel', 'Norgren']"
+25,Zürich,Booka-Shade,2013-02-27,['Booka Shade '],['Electronic']
+26,Sankt-Gallen,Melody's-Echo-Chamber,2013-02-27,"[""Melody's Echo Chamber ""]",['Pop']

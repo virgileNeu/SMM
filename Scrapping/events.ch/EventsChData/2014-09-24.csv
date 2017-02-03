@@ -1,31 +1,31 @@
-location,event,date,artists,genre
-Zürich,Monte-Carlo,2014-09-24,['Monte Carlo '],Pop
-Luzern,Piano-Entertainment,2014-09-24,['Daniel Roos '],
-Basel,Altstadt-Serenaden,2014-09-24,[' Nils Kohler '],Classic
-Luzern,What-We-Feel,2014-09-24,"['What We Feel ', ' Moscow Death Brigade ']",
-Bern,The-Three-Kings,2014-09-24,"[' Mario Capitanio ', ' Tevfik Kuyas ', ' Bruno Dietrich ']",Pop
-Zürich,Chor-und-Orgelmusik-aus-Europa,2014-09-24,[' Jörg Ulrich Busch '],Classic
-Basel,In-Classical-Mood,2014-09-24,['Rani Orenstein '],Classic
-Luzern,World-Band-Festival,2014-09-24,['Canadian Brass '],traditional
-Wallisellen,Musikfesttage-Wallisellen,2014-09-24,[' Nuria Rial '],Classic
-Zürich,Jazz-im-Seefeld,2014-09-24,"[' Omri Ziegele ', ' Yves Theiler ']",
-Zürich,Väsen,2014-09-24,['Väsen '],
-Zürich,Julia-Biel,2014-09-24,['Julia Biel '],
-null,Kammerchor-Kaluga,2014-09-24,['Kammerchor Kaluga '],
-Lyss,The-Casualties,2014-09-24,['The Casualties '],
-Luzern,Jam-Night,2014-09-24,"[' Claudio Berger ', ' Flurin Iten ', ' Mischa Maurer ', ' Fabian Hänni ']",
-Baden,Pippo-Pollina-Trio,2014-09-24,"[' Pippo Pollina ', ' Roberto Petroli ', ' Max Kämmerling ']",
-Baden,Frühe-Werke-grosser-Meister,2014-09-24,"[' Carolin Forster Borioli ', ' Liisa Tamminen ', ' Cecilia Garcia ']",Classic
-Winterthur,Ghost-Town-Trio-feat.-Marianne-Racine,2014-09-24,"[' Marianne Racine ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Künzi ']",
-Zürich,Haens'che-Weiss-String-Ensemble,2014-09-24,"["" Haens'che Weiss "", ' Holzmanno Winterstein ', ' Vali Mayer ']",
-Baden,Marcos-Davi-Quartett,2014-09-24,"[' Marcos Davi ', ' Dieter Buchwalder ', ' Florian Abt ', ' Fabio Freire ']",
-Luzern,Alumni-Concert,2014-09-24,"[' Sarah Buechi ', ' Stefan Aeby ', ' André Pousaz ', ' Lionel Friedli ']",
-null,Amélie-Junes,2014-09-24,"[' Amélie Junes ', ' Michel Spahr ', ' Benjamin Heart ', ' Nicolas Stocker ']",
-Lausanne,Cats-On-Trees,2014-09-24,['Cats On Trees '],
-Basel,The-Cup,2014-09-24,"[' Florenz Hunziker ', ' Ursus Bachthaler ', ' Peter Wagner ', ' Christoph Mohler ']",
-Wädenswil,Kaama,2014-09-24,"[' Katja Mair ', ' Christy Doran ', ' Hanspeter Pfammatter ', ' Andreas Schnellmann ', ' Marc Halbheer ']",
-Zürich,Super-8-Sänger,2014-09-24,"[' Svea Schildknecht ', ' Francisca Näf ', ' Breno Quinderé ', ' Lior Leibovici ', ' Ivo Haun ', ' conductor: Jean-Jacques Knutti ', ' Jean-Christophe Groffe ']",Classic
-Winterthur,La-Bastard,2014-09-24,['La Bastard '],
-Zürich,Renzo-Spotti-Trio,2014-09-24,"[' Renzo Spotti ', ' Thomi Hirt ', ' Daniel Disler ']",
-Basel,Emilia-Anastazja,2014-09-24,"[' Emilia Anastazja ', ' Eliyah Reichen ', ' Vincent Ruiz ', ' Dominik Burkhalter ']",
-Bern,The-Burning-Hell,2014-09-24,['The Burning Hell '],
+,location,event,date,artists,genre
+0,Z?rich,Monte-Carlo,2014-09-24,['Monte Carlo '],['Pop']
+1,Luzern,Piano-Entertainment,2014-09-24,['Daniel Roos '],"['Hip', 'Hop', ""R'n'B""]"
+2,Basel,Altstadt-Serenaden,2014-09-24,[' Nils Kohler '],['Classic']
+3,Luzern,What-We-Feel,2014-09-24,"['What We Feel ', ' Moscow Death Brigade ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,Chor-und-Orgelmusik-aus-Europa,2014-09-24,[' J?rg Ulrich Busch '],['Classic']
+5,Bern,The-Three-Kings,2014-09-24,"[' Mario Capitanio ', ' Tevfik Kuyas ', ' Bruno Dietrich ']",['Pop']
+6,Luzern,World-Band-Festival,2014-09-24,['Canadian Brass '],['traditional']
+7,Z?rich,Jazz-im-Seefeld,2014-09-24,"[' Omri Ziegele ', ' Yves Theiler ']","['Jazz', 'Blues', 'Soul']"
+8,Basel,In-Classical-Mood,2014-09-24,['Rani Orenstein '],['Classic']
+9,Wallisellen,Musikfesttage-Wallisellen,2014-09-24,[' Nuria Rial '],['Classic']
+10,Baden,Pippo-Pollina-Trio,2014-09-24,"[' Pippo Pollina ', ' Roberto Petroli ', ' Max K?mmerling ']","['world', 'music']"
+11,Lyss,The-Casualties,2014-09-24,['The Casualties '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Luzern,Jam-Night,2014-09-24,"[' Claudio Berger ', ' Flurin Iten ', ' Mischa Maurer ', ' Fabian H?nni ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Baden,Fr?he-Werke-grosser-Meister,2014-09-24,"[' Carolin Forster Borioli ', ' Liisa Tamminen ', ' Cecilia Garcia ']",['Classic']
+14,Z?rich,V?sen,2014-09-24,['V?sen '],"['world', 'music']"
+15,null,Kammerchor-Kaluga,2014-09-24,['Kammerchor Kaluga '],"['world', 'music']"
+16,Z?rich,Julia-Biel,2014-09-24,['Julia Biel '],"['Jazz', 'Blues', 'Soul']"
+17,Winterthur,Ghost-Town-Trio-feat.-Marianne-Racine,2014-09-24,"[' Marianne Racine ', ' Urs V?geli ', ' Claude Meier ', ' Emanuel K?nzi ']","['Jazz', 'Blues', 'Soul']"
+18,Basel,The-Cup,2014-09-24,"[' Florenz Hunziker ', ' Ursus Bachthaler ', ' Peter Wagner ', ' Christoph Mohler ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Super-8-S?nger,2014-09-24,"[' Svea Schildknecht ', ' Francisca N?f ', ' Breno Quinder? ', ' Lior Leibovici ', ' Ivo Haun ', ' conductor: Jean-Jacques Knutti ', ' Jean-Christophe Groffe ']",['Classic']
+20,Winterthur,La-Bastard,2014-09-24,['La Bastard '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Z?rich,Haens'che-Weiss-String-Ensemble,2014-09-24,"["" Haens'che Weiss "", ' Holzmanno Winterstein ', ' Vali Mayer ']","['world', 'music']"
+22,Baden,Marcos-Davi-Quartett,2014-09-24,"[' Marcos Davi ', ' Dieter Buchwalder ', ' Florian Abt ', ' Fabio Freire ']","['Jazz', 'Blues', 'Soul']"
+23,Luzern,Alumni-Concert,2014-09-24,"[' Sarah Buechi ', ' Stefan Aeby ', ' Andr? Pousaz ', ' Lionel Friedli ']","['Jazz', 'Blues', 'Soul']"
+24,W?denswil,Kaama,2014-09-24,"[' Katja Mair ', ' Christy Doran ', ' Hanspeter Pfammatter ', ' Andreas Schnellmann ', ' Marc Halbheer ']","['Jazz', 'Blues', 'Soul']"
+25,null,Am?lie-Junes,2014-09-24,"[' Am?lie Junes ', ' Michel Spahr ', ' Benjamin Heart ', ' Nicolas Stocker ']","['Hip', 'Hop', ""R'n'B""]"
+26,Lausanne,Cats-On-Trees,2014-09-24,['Cats On Trees '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Basel,Emilia-Anastazja,2014-09-24,"[' Emilia Anastazja ', ' Eliyah Reichen ', ' Vincent Ruiz ', ' Dominik Burkhalter ']","['Jazz', 'Blues', 'Soul']"
+28,Z?rich,Renzo-Spotti-Trio,2014-09-24,"[' Renzo Spotti ', ' Thomi Hirt ', ' Daniel Disler ']","['Jazz', 'Blues', 'Soul']"
+29,Bern,The-Burning-Hell,2014-09-24,['The Burning Hell '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

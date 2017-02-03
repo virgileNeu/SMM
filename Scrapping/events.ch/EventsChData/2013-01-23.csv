@@ -1,9 +1,9 @@
-location,event,date,artists,genre
-Luzern,Jam-Night,2013-01-23,"['Aurel Hassler ', ' Christian Winiker ', ' Mani Zweili ', ' Mike Malloth ']",
-Basel,COOP-Sinfoniekonzert,2013-01-23,[' Rossana Rossignoli '],Classic
-Zürich,Konzert,2013-01-23,"[' James Gilchrist ', ' Ryszard Groblewski ', ' Emanuele Forni ']",Classic
-Zürich,Jean-François-Lessard,2013-01-23,['Jean-François Lessard '],
-Merkker,Baden,2013-01-23,['Giantree '],Giantree
-Zürich,Moira,2013-01-23,"[' Carola Wirth ', ' Severin Graf ']",Pop
-Winterthur,Plurism,2013-01-23,"[' Donat Fisch ', ' Raffaele Bossard ', ' Dominic Egli ']",
-Zürich,James-Blood-Ulmer,2013-01-23,"['James Blood Ulmer ', ' James Blood Ulmer ', ' Queen Esther ', ' Mark Peterson ', ' G. Calvin Weston ']",
+,location,event,date,artists,genre
+0,Luzern,Jam-Night,2013-01-23,"['Aurel Hassler ', ' Christian Winiker ', ' Mani Zweili ', ' Mike Malloth ']","['Hip', 'Hop', ""R'n'B""]"
+1,Basel,COOP-Sinfoniekonzert,2013-01-23,[' Rossana Rossignoli '],['Classic']
+2,Zürich,Konzert,2013-01-23,"[' James Gilchrist ', ' Ryszard Groblewski ', ' Emanuele Forni ']",['Classic']
+3,Zürich,Moira,2013-01-23,"[' Carola Wirth ', ' Severin Graf ']",['Pop']
+4,Zürich,Jean-François-Lessard,2013-01-23,['Jean-François Lessard '],"['world', 'music']"
+5,Merkker,Baden,2013-01-23,['Giantree '],['Giantree']
+6,Winterthur,Plurism,2013-01-23,"[' Donat Fisch ', ' Raffaele Bossard ', ' Dominic Egli ']","['Jazz', 'Blues', 'Soul']"
+7,Zürich,James-Blood-Ulmer,2013-01-23,"['James Blood Ulmer ', ' James Blood Ulmer ', ' Queen Esther ', ' Mark Peterson ', ' G. Calvin Weston ']","['Jazz', 'Blues', 'Soul']"

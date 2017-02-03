@@ -1,19 +1,19 @@
-location,event,date,artists,genre
-Bern,Zibelesounds-Let's-dance,2014-11-24,['Marc Fitze '],Pop
-Zürich,Lunchkonzert-Folk-Songs,2014-11-24,[' Anna Stéphany '],Classic
-Zürich,Werner-und-Company,2014-11-24,['Werner und Company '],Pop
-Bern,Sous-les-étoiles,2014-11-24,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
-Luzern,Lucerne-Festival-am-Piano,2014-11-24,[' conductor: Leif Ove Andsnes '],Classic
-Zürich,Konzert,2014-11-24,"['Chad Hoopes ', ' Julien Quentin ']",Classic
-Luzern,Triggerfinger,2014-11-24,['Triggerfinger '],Pop
-Basel,Alternating-Flows,2014-11-24,"['Dominik Dolega ', ' Pelayo Arrizabalaga ', ' Yosvany Quintero ']",Classic
-Zürich,Anti-Mortem,2014-11-24,"['Anti-Mortem ', ' Kyng ']",
-Zürich,The-Baseballs,2014-11-24,['The Baseballs '],
-Pratteln,Tyketto,2014-11-24,"['Tyketto ', ' Pink Cream 69 ']",
-Zürich,Bahamas,2014-11-24,"['Bahamas ', ' Little Mammoths ']",Pop
-Zürich,Unerhört,2014-11-24,"[' Nik Bärtsch ', ' Vijay Iyer ', ' Nina Reiter ']",
-Baden,Christy-Doran's-New-Bag,2014-11-24,"[' Sarah Buechi ', ' Vincent Membrez ', ' Christy Doran ', ' Lionel Friedli ']",
-Zürich,Sam-Amidon,2014-11-24,['Sam Amidon '],
-Zürich,Artist-in-Residence-Gabriela-Friedli,2014-11-24,"[' Susann Wehrli ', ' Karin Ernst ', ' Sebastian Strinning ', ' Gabriela Friedli ', ' Christian Weber ', ' Gerry Hemingway ']",
-Winterthur,Kamikaze,2014-11-24,"[' Fabio Pinto ', ' Claire Huguenin ', ' Jeremias Keller ', ' Alexandre Maurer ']",Electronic
-Ascona,Echoes-of-Swing,2014-11-24,"[' Colin Dawson ', ' Chris Hopkins ', ' Bernd Lhotzky ', ' Oliver Mewes ']",
+,location,event,date,artists,genre
+0,Bern,Zibelesounds-Let's-dance,2014-11-24,['Marc Fitze '],['Pop']
+1,Z?rich,Lunchkonzert-Folk-Songs,2014-11-24,[' Anna St?phany '],['Classic']
+2,Z?rich,Werner-und-Company,2014-11-24,['Werner und Company '],['Pop']
+3,Bern,Sous-les-?toiles,2014-11-24,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']","['Jazz', 'Blues', 'Soul']"
+4,Luzern,Lucerne-Festival-am-Piano,2014-11-24,[' conductor: Leif Ove Andsnes '],['Classic']
+5,Z?rich,Konzert,2014-11-24,"['Chad Hoopes ', ' Julien Quentin ']",['Classic']
+6,Luzern,Triggerfinger,2014-11-24,['Triggerfinger '],['Pop']
+7,Pratteln,Tyketto,2014-11-24,"['Tyketto ', ' Pink Cream 69 ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Basel,Alternating-Flows,2014-11-24,"['Dominik Dolega ', ' Pelayo Arrizabalaga ', ' Yosvany Quintero ']",['Classic']
+9,Z?rich,Unerh?rt,2014-11-24,"[' Nik B?rtsch ', ' Vijay Iyer ', ' Nina Reiter ']","['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Anti-Mortem,2014-11-24,"['Anti-Mortem ', ' Kyng ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,The-Baseballs,2014-11-24,['The Baseballs '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Z?rich,Bahamas,2014-11-24,"['Bahamas ', ' Little Mammoths ']",['Pop']
+13,Baden,Christy-Doran's-New-Bag,2014-11-24,"[' Sarah Buechi ', ' Vincent Membrez ', ' Christy Doran ', ' Lionel Friedli ']","['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Sam-Amidon,2014-11-24,['Sam Amidon '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Winterthur,Kamikaze,2014-11-24,"[' Fabio Pinto ', ' Claire Huguenin ', ' Jeremias Keller ', ' Alexandre Maurer ']",['Electronic']
+16,Ascona,Echoes-of-Swing,2014-11-24,"[' Colin Dawson ', ' Chris Hopkins ', ' Bernd Lhotzky ', ' Oliver Mewes ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Artist-in-Residence-Gabriela-Friedli,2014-11-24,"[' Susann Wehrli ', ' Karin Ernst ', ' Sebastian Strinning ', ' Gabriela Friedli ', ' Christian Weber ', ' Gerry Hemingway ']","['Jazz', 'Blues', 'Soul']"

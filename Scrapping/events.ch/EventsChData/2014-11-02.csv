@@ -1,46 +1,48 @@
-location,event,date,artists,genre
-Zürich,Kammermusik,2014-11-02,"['Anna Tchinaeva ', ' Eldar Saparayev ', ' Suguru Ito ']",Classic
-Basel,Côté-lune,2014-11-02,"['Sophie Chaillot-Hegi ', ' Son Lam Tran ']",Classic
-Zürich,Werner-und-Company,2014-11-02,['Werner und Company '],Pop
-Bern,Low-Brass-Portrait,2014-11-02,"[' Stanley Clark ', ' Justin Clark ', ' Christina Bauer ', ' Daniel Schädeli ']",Classic
-Luzern,Kammermusik-Matinee,2014-11-02,"[' Ulrich Poschner ', ' Christina Gallati ', ' Katrin Burger ']",Classic
-Schaffhausen,Klassik-im-Rüden,2014-11-02,"['Catriona Bühler ', ' Nijolé Abartjé ']",Classic
-Zürich,Morgenmuik-zum-Reformationssonntag,2014-11-02,"[' Michaela Unsinn ', ' Richard Resch ', ' Richard Helm ', ' Andreas Jost ']",Classic
-Zürich,Nuggi-Konzert,2014-11-02,"['Anna Tchinaeva ', ' Eldar Saparayev ', ' Suguru Ito ']",Classic
-Walkringen,Galeriekonzert,2014-11-02,"['Ludwig Geiger ', ' Jürg Bitterli ']",Classic
-Zürich,Werner-und-Company,2014-11-02,['Werner und Company '],Pop
-Basel,1789,2014-11-02,['Sally Fortino '],Classic
-Riehen,Konzert-zu-Allerseelen-Spiel-mir-das-Lied-vom-Leben,2014-11-02,"['Alexander Schmid ', ' Louis van Niekerk ']",Classic
-Fischingen,Kammermusik,2014-11-02,"['Rudolf Lutz ', ' Plamena Nikitassova ']",Classic
-null,Peter-und-der-Wolf,2014-11-02,"[' Claudia Weissbarth ', ' Renato Bizzotto ', ' Jeannot Hunziker ']",Classic
-Widnau,Project-Latino,2014-11-02,"[' Danid Mäder ', ' Daniel Riesser ', ' Hampi Stangl ', ' Rico Alvares ']",
-Wädenswil,Orchesterkonzert,2014-11-02,[' Samuel Mittag '],Classic
-Mariastein,Benefiz-Konzert-zugunsten-HEKS,2014-11-02,[' Julia Baumgartner '],Classic
-Köniz,Kammermusikkonzert,2014-11-02,"['Denis Severin ', ' Tatjana Korsunskaya ']",Classic
-Köniz,Marimba,2014-11-02,"['Raphael Christen ', ' Nicole Frei ']",Classic
-Rafz,Orgel-und-Trompete,2014-11-02,"['Peter Rey ', ' Urs Wittwer ']",Classic
-Windisch,Some-Nights,2014-11-02,"[' Frank Schultz ', ' Conny Schock ', ' Daniel Schwenger ', ' Alexander Sehringer ']",Pop
-Basel,La-Pazza-CD-Taufe,2014-11-02,[' Flavio Ferri Benedetti '],Classic
-Schaffhausen,Konzert,2014-11-02,"[' Dorothea Frey ', ' Bettina Siegfried ', ' Felix Rienth ', ' Michel Brodard ']",Classic
-Rapperswil,Musik-im-Schloss-Eröffnungskonzert-14.-Saison,2014-11-02,"[' conductor: Andreas Janke ', ' Benjamin Nyffenegger ', ' Oliver Schnyder ']",Classic
-Uster,Lift-Up-My-Soul,2014-11-02,[' Peter Freitag '],Classic
-Luzern,Charles-Gounod-Cäcilienmesse,2014-11-02,"[' Regula Mühlemann ', ' Angelo Ferrari ', ' Alexandre Beuchat ']",Classic
-Basel,Vierfältig-Schweizer-Klänge-damals-und-heute,2014-11-02,"[' works by Caroline Charrière ', ' Helena Winkelman ']",Classic
-Liestal,Schubert-in-Liestal,2014-11-02,"[' Felicitas Erb ', ' Marian Dijkhuizen ', ' Jakob Pilgram ', ' Markus Volpert ']",Classic
-Horgen,Jubiläumskonzert,2014-11-02,"[' Philipp Mestrinel ', ' Kelly Landerkin ', ' Melanie Veser ', ' Tino Brütsch ']",Classic
-Zürich,Blues-and-Ballads,2014-11-02,"['Jakob Juchler ', ' Martin Knebel ']",
-Basel,Konzert,2014-11-02,"[' Jardena Flückiger ', ' Ursula Eittinger ', ' Reginaldo Pinheiro ', ' Manuel Walser ']",Classic
-Zürich,Soul-Jazz-Alliance,2014-11-02,"[' Jeremy Pelt ', ' Vincent Herring ', ' Jared Gold ', ' Jesse Van Ruller ', ' Joris Dudli ']",
-null,The-Big-Chris-Barber-Jazz-and-Blues-Band,2014-11-02,['The Big Chris Barber Jazz and Blues Band '],
-Riehen,Musique-de-la-Chambre-du-Roi-mit-Nuria-Rial,2014-11-02,"[' Nuria Rial ', ' Sergio Alvares ', ' Eduardo Egüez ']",Classic
-Zürich,The-Golden-Apes,2014-11-02,"['The Golden Apes ', ' She Past Away ']",
-Winterthur,Jeff-Zima-Trio,2014-11-02,"['Jeff Zima Trio ', ' Jeff Zima ', ' Damien Daigneau ', ' Matthieu Gastaldi ']",
-Basel,Robert-Glasper-Experiment,2014-11-02,['Robert Glasper Experiment '],Pop
-Solothurn,Guano-Apes,2014-11-02,['Guano Apes '],
-Pratteln,Orphaned-Land,2014-11-02,['Orphaned Land '],
-null,No-Crows,2014-11-02,['No Crows '],
-Bern,Barbez,2014-11-02,['Barbez '],
-Altikon,Jam-Point,2014-11-02,"[' Bruno Bosshardt ', ' Robert Bosshardt ', ' Hans Sander ', ' Peter Pattynama ', ' Richi Schmied ']",
-Zürich,Dave-Alvin-&-Phil-Alvin-with-The-Guilty-Ones,2014-11-02,['Dave Alvin & Phil Alvin with The Guilty Ones '],
-Lausanne,Morrissey,2014-11-02,['Morrissey '],Pop
-Sankt-Gallen,Toumani-&-Sidiki-Diabaté,2014-11-02,['Toumani & Sidiki Diabaté '],
+,location,event,date,artists,genre
+0,Bern,Low-Brass-Portrait,2014-11-02,"[' Stanley Clark ', ' Justin Clark ', ' Christina Bauer ', ' Daniel Sch?deli ']",['Classic']
+1,Z?rich,Kammermusik,2014-11-02,"['Anna Tchinaeva ', ' Eldar Saparayev ', ' Suguru Ito ']",['Classic']
+2,Luzern,Kammermusik-Matinee,2014-11-02,"[' Ulrich Poschner ', ' Christina Gallati ', ' Katrin Burger ']",['Classic']
+3,Basel,C?t?-lune,2014-11-02,"['Sophie Chaillot-Hegi ', ' Son Lam Tran ']",['Classic']
+4,Z?rich,Werner-und-Company,2014-11-02,['Werner und Company '],['Pop']
+5,Z?rich,Morgenmuik-zum-Reformationssonntag,2014-11-02,"[' Michaela Unsinn ', ' Richard Resch ', ' Richard Helm ', ' Andreas Jost ']",['Classic']
+6,Schaffhausen,Klassik-im-R?den,2014-11-02,"['Catriona B?hler ', ' Nijol? Abartj? ']",['Classic']
+7,Z?rich,Nuggi-Konzert,2014-11-02,"['Anna Tchinaeva ', ' Eldar Saparayev ', ' Suguru Ito ']",['Classic']
+8,Walkringen,Galeriekonzert,2014-11-02,"['Ludwig Geiger ', ' J?rg Bitterli ']",['Classic']
+9,Z?rich,Werner-und-Company,2014-11-02,['Werner und Company '],['Pop']
+10,Fischingen,Kammermusik,2014-11-02,"['Rudolf Lutz ', ' Plamena Nikitassova ']",['Classic']
+11,Basel,1789,2014-11-02,['Sally Fortino '],['Classic']
+12,Riehen,Konzert-zu-Allerseelen-Spiel-mir-das-Lied-vom-Leben,2014-11-02,"['Alexander Schmid ', ' Louis van Niekerk ']",['Classic']
+13,null,Peter-und-der-Wolf,2014-11-02,"[' Claudia Weissbarth ', ' Renato Bizzotto ', ' Jeannot Hunziker ']",['Classic']
+14,W?denswil,Orchesterkonzert,2014-11-02,[' Samuel Mittag '],['Classic']
+15,Widnau,Project-Latino,2014-11-02,"[' Danid M?der ', ' Daniel Riesser ', ' Hampi Stangl ', ' Rico Alvares ']","['world', 'music']"
+16,Windisch,Some-Nights,2014-11-02,"[' Frank Schultz ', ' Conny Schock ', ' Daniel Schwenger ', ' Alexander Sehringer ']",['Pop']
+17,Basel,Vierf?ltig-Schweizer-Kl?nge-damals-und-heute,2014-11-02,"[' works by Caroline Charri?re ', ' Helena Winkelman ']",['Classic']
+18,Uster,Lift-Up-My-Soul,2014-11-02,[' Peter Freitag '],['Classic']
+19,K?niz,Kammermusikkonzert,2014-11-02,"['Denis Severin ', ' Tatjana Korsunskaya ']",['Classic']
+20,K?niz,Marimba,2014-11-02,"['Raphael Christen ', ' Nicole Frei ']",['Classic']
+21,Rafz,Orgel-und-Trompete,2014-11-02,"['Peter Rey ', ' Urs Wittwer ']",['Classic']
+22,Rapperswil,Musik-im-Schloss-Er?ffnungskonzert-14.-Saison,2014-11-02,"[' conductor: Andreas Janke ', ' Benjamin Nyffenegger ', ' Oliver Schnyder ']",['Classic']
+23,Luzern,Charles-Gounod-C?cilienmesse,2014-11-02,"[' Regula M?hlemann ', ' Angelo Ferrari ', ' Alexandre Beuchat ']",['Classic']
+24,Mariastein,Benefiz-Konzert-zugunsten-HEKS,2014-11-02,[' Julia Baumgartner '],['Classic']
+25,Liestal,Schubert-in-Liestal,2014-11-02,"[' Felicitas Erb ', ' Marian Dijkhuizen ', ' Jakob Pilgram ', ' Markus Volpert ']",['Classic']
+26,Basel,La-Pazza-CD-Taufe,2014-11-02,[' Flavio Ferri Benedetti '],['Classic']
+27,Schaffhausen,Konzert,2014-11-02,"[' Dorothea Frey ', ' Bettina Siegfried ', ' Felix Rienth ', ' Michel Brodard ']",['Classic']
+28,Horgen,Jubil?umskonzert,2014-11-02,"[' Philipp Mestrinel ', ' Kelly Landerkin ', ' Melanie Veser ', ' Tino Br?tsch ']",['Classic']
+29,Z?rich,Blues-and-Ballads,2014-11-02,"['Jakob Juchler ', ' Martin Knebel ']","['Jazz', 'Blues', 'Soul']"
+30,Basel,Konzert,2014-11-02,"[' Jardena Fl?ckiger ', ' Ursula Eittinger ', ' Reginaldo Pinheiro ', ' Manuel Walser ']",['Classic']
+31,null,The-Big-Chris-Barber-Jazz-and-Blues-Band,2014-11-02,['The Big Chris Barber Jazz and Blues Band '],"['Jazz', 'Blues', 'Soul']"
+32,Z?rich,Soul-Jazz-Alliance,2014-11-02,"[' Jeremy Pelt ', ' Vincent Herring ', ' Jared Gold ', ' Jesse Van Ruller ', ' Joris Dudli ']","['Hip', 'Hop', ""R'n'B""]"
+33,Z?rich,The-Golden-Apes,2014-11-02,"['The Golden Apes ', ' She Past Away ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Winterthur,Jeff-Zima-Trio,2014-11-02,"['Jeff Zima Trio ', ' Jeff Zima ', ' Damien Daigneau ', ' Matthieu Gastaldi ']","['Jazz', 'Blues', 'Soul']"
+35,Riehen,Musique-de-la-Chambre-du-Roi-mit-Nuria-Rial,2014-11-02,"[' Nuria Rial ', ' Sergio Alvares ', ' Eduardo Eg?ez ']",['Classic']
+36,Solothurn,Guano-Apes,2014-11-02,['Guano Apes '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Basel,Robert-Glasper-Experiment,2014-11-02,['Robert Glasper Experiment '],['Pop']
+38,Pratteln,Orphaned-Land,2014-11-02,['Orphaned Land '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+39,null,No-Crows,2014-11-02,['No Crows '],"['world', 'music']"
+40,Altikon,Jam-Point,2014-11-02,"[' Bruno Bosshardt ', ' Robert Bosshardt ', ' Hans Sander ', ' Peter Pattynama ', ' Richi Schmied ']","['Jazz', 'Blues', 'Soul']"
+41,Bern,Barbez,2014-11-02,['Barbez '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+42,null,No-Crows,2014-11-02,['No Crows '],"['world', 'music']"
+43,Pratteln,Orphaned-Land,2014-11-02,['Orphaned Land '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+44,Z?rich,Dave-Alvin-&-Phil-Alvin-with-The-Guilty-Ones,2014-11-02,[' Phil Alvin with The Guilty Ones '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+45,Lausanne,Morrissey,2014-11-02,['Morrissey '],['Pop']
+46,Sankt-Gallen,Toumani-&-Sidiki-Diabat?,2014-11-02,[' Sidiki Diabat? '],"['world', 'music']"

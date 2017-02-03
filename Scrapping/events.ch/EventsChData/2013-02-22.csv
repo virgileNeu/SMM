@@ -1,44 +1,45 @@
-location,event,date,artists,genre
-Museum-Tinguely,Basel,2013-02-22,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-Zürich,Protones,2013-02-22,"[' Fritz Nobs ', ' Erwin Boos ', ' Juerg Spoerri ', ' Marc Melliger ']",
-Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-02-22,['Mark Tenger '],
-Zürich,Prélude,2013-02-22,"['Ágnes Vass ', ' Judith Peel ', ' Lucia Granados ', ' Klára Baszun ', ' Gabriele Amarù ', ' Ivan Horvatic ']",Classic
-Basel,Orgelspiel-zum-Feierabend,2013-02-22,"['Susanne Doll ', ' Anita Schönenberger ']",Classic
-Schaffhausen,Benjamin-Britten:-War-Requiem,2013-02-22,"[' Johanna Winkel ', ' Hans Jörg Mammel ', ' Manfred Bittner ']",Classic
-Schaffhausen,War-Requiem,2013-02-22,"[' Johanna Winkel ', ' Hans Jörg Mammel ', ' Manfred Bittner ']",Classic
-Zürich,Konzert,2013-02-22,"[' Richard Goode ', ' Sabine Poyé Morel ', ' Simon Fuchs ']",Classic
-null,7.-Tonhallekonzert,2013-02-22,['Igor Keller '],Classic
-Zürich,Internationales-Country-Music-Festival,2013-02-22,[' LoCash Cowboys '],
-Zürich,Zahlenzauber,2013-02-22,"[' Eketorp ', ' Franklin ', ' Goetschel ']",Classic
-Baden,"Akzente-2013-1.-Konzert-""Nordlichter",2013-02-22,"[' Marielle Oggier ', ' Marc Bätscher ', ' Ursula Hächler ']",Classic
-Zürich,Öffentliches-Konzert,2013-02-22,"['Bianca Luigia Manoleanu ', ' Elisabeth Ganter ', ' Remus Manoleanu ']",Classic
-null,Klavierkonzert,2013-02-22,['Gilles Vonsattel '],Classic
-Rheinfelden,New-Harlem-Ramblers,2013-02-22,"[' Markus Hächler ', ' Rolf Treichler ', ' Nic Engler ', ' Richard Decker ', ' Jurrek Stawarz ', ' Rolf Bänninger ']",
-Schlosshof,Altikon,2013-02-22,"[' Attila Vural ', ' Isam Shéhade ']",
-Bern,Jazzwerkstatt,2013-02-22,['Jazzwerkstatt Wien New Ensemble '],
-Basel,Saturnalia-Temple,2013-02-22,"['Saturnalia Temple ', ' Attic ']",
-Zürich,Devastating-Enemy,2013-02-22,['Devastating Enemy '],
-Komplex-457,Zürich,2013-02-22,"['Yellowcard ', ' Set it Off ', ' Like Torches ']",Yellowcard
-Stäfa,Orgelzyklus,2013-02-22,['Christian Scheifele '],Classic
-Winterthur,Superhorn,2013-02-22,"[' Michael Neuenschwander ', ' Fabienne Hoerni ', ' Matthias Dinkel ']",
-null,Musik-Farben-Emotionen-und-Bilder,2013-02-22,"['Tatjana Nikic ', ' Toni Majdalani ', ' Hanspeter Kruesi ']",
-Zürich,Hocico,2013-02-22,['Hocico '],Electronic
-Mühlethurnen,Wolverines-Jazz-Band-Bern,2013-02-22,"[' Rudolf Knöpfel ', ' Beat Uhlmann ', ' Walter Sterchi ', ' Heinz Geissbühler ', ' Rolf Rebmann ', ' Heinz Bühler ', ' Fred Lüthi ']",
-Zürich,Maxmaber-Orkestar,2013-02-22,['Maxmaber Orkestar '],
-Baden,Erich-Gandet-Quintet,2013-02-22,"[' Erich Gandet ', ' Bruno Gandet ', ' Hans Rothenbühler ', ' Tico Keller ', ' Hannes Hänggli ']",
-Lugano,Concerti-Dell'auditorio-2013,2013-02-22,['Vincent Godel '],Classic
-Schaffhausen,Kappeler-Zumthor-Duo,2013-02-22,"[' Vera Kappeler ', ' Peter Conradin Zumthor ']",
-Zürich,Johannes-Oerding,2013-02-22,['Johannes Oerding '],Pop
-Schaffhausen,Värttinä,2013-02-22,['Värttinä '],
-Zürich,Armen-Donelian-Trio,2013-02-22,"[' Armen Donelian ', ' Rätus Flisch ', ' Pius Baschnagel ']",
-null,Palatino,2013-02-22,"[' Aldo Romano ', ' Glenn Ferris ', ' Michel Benita ', ' Yoann Loustalot ']",
-Reitschule-Dachstock,Bern,2013-02-22,['Firewater '],Firewater
-Lausanne,Kendrick-Lamar,2013-02-22,['Kendrick Lamar '],
-KiFF,Aarau,2013-02-22,['Daniel Norgren '],
-Reussbühl,Freezes-Deyna,2013-02-22,"[' Ripp Robinson ', ' Flow Ryan ', ' Fluffy Chillvan ', ' Dee Razor ']",
-Aarburg,Quintett-Ikarus,2013-02-22,"[' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Moritz Meyer ', ' Ramón Oliveras ']",
-Luzern,General-Lee,2013-02-22,['General Lee '],
-Aarau,Das-Pferd,2013-02-22,[' Bottled in England '],Electronic
-Pontresina,Shakers,2013-02-22,['Shakers '],
-Basel,Tobias-Preisig-In-Transit,2013-02-22,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-Stall-6,Zürich,2013-02-22,['The Amplifetes '],
+,location,event,date,artists,genre
+0,Museum-Tinguely,Basel,2013-02-22,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']","['Tobias', 'Preisig']"
+1,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-02-22,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+2,Zürich,Protones,2013-02-22,"[' Fritz Nobs ', ' Erwin Boos ', ' Juerg Spoerri ', ' Marc Melliger ']","['Jazz', 'Blues', 'Soul']"
+3,Zürich,Prélude,2013-02-22,"['Ágnes Vass ', ' Judith Peel ', ' Lucia Granados ', ' Klára Baszun ', ' Gabriele Amarù ', ' Ivan Horvatic ']",['Classic']
+4,Basel,Orgelspiel-zum-Feierabend,2013-02-22,"['Susanne Doll ', ' Anita Schönenberger ']",['Classic']
+5,Zürich,The-Four-Windows,2013-02-22,"[' Charlie Hoover ', ' Henry Hoover ', ' George Cooper ', ' Magic Max ', ' Peter James ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Schaffhausen,Benjamin-Britten:-War-Requiem,2013-02-22,"[' Johanna Winkel ', ' Hans Jörg Mammel ', ' Manfred Bittner ']",['Classic']
+7,Schaffhausen,War-Requiem,2013-02-22,"[' Johanna Winkel ', ' Hans Jörg Mammel ', ' Manfred Bittner ']",['Classic']
+8,Zürich,Konzert,2013-02-22,"[' Richard Goode ', ' Sabine Poyé Morel ', ' Simon Fuchs ']",['Classic']
+9,null,7.-Tonhallekonzert,2013-02-22,['Igor Keller '],['Classic']
+10,Zürich,Zahlenzauber,2013-02-22,"[' Eketorp ', ' Franklin ', ' Goetschel ']",['Classic']
+11,Baden,"Akzente-2013-1.-Konzert-""Nordlichter",2013-02-22,"[' Marielle Oggier ', ' Marc Bätscher ', ' Ursula Hächler ']",['Classic']
+12,Zürich,Internationales-Country-Music-Festival,2013-02-22,[' LoCash Cowboys '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Zürich,Öffentliches-Konzert,2013-02-22,"['Bianca Luigia Manoleanu ', ' Elisabeth Ganter ', ' Remus Manoleanu ']",['Classic']
+14,Basel,Saturnalia-Temple,2013-02-22,"['Saturnalia Temple ', ' Attic ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Zürich,Devastating-Enemy,2013-02-22,['Devastating Enemy '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Rheinfelden,New-Harlem-Ramblers,2013-02-22,"[' Markus Hächler ', ' Rolf Treichler ', ' Nic Engler ', ' Richard Decker ', ' Jurrek Stawarz ', ' Rolf Bänninger ']","['Jazz', 'Blues', 'Soul']"
+17,Schlosshof,Altikon,2013-02-22,"[' Attila Vural ', ' Isam Shéhade ']","['Attila', 'Vural']"
+18,Komplex-457,Zürich,2013-02-22,"['Yellowcard ', ' Set it Off ', ' Like Torches ']",['Yellowcard']
+19,null,Klavierkonzert,2013-02-22,['Gilles Vonsattel '],['Classic']
+20,Bern,Jazzwerkstatt,2013-02-22,['Jazzwerkstatt Wien New Ensemble '],"['Jazz', 'Blues', 'Soul']"
+21,null,Musik-Farben-Emotionen-und-Bilder,2013-02-22,"['Tatjana Nikic ', ' Toni Majdalani ', ' Hanspeter Kruesi ']","['world', 'music']"
+22,Winterthur,Superhorn,2013-02-22,"[' Michael Neuenschwander ', ' Fabienne Hoerni ', ' Matthias Dinkel ']","['Jazz', 'Blues', 'Soul']"
+23,Stäfa,Orgelzyklus,2013-02-22,['Christian Scheifele '],['Classic']
+24,Baden,Erich-Gandet-Quintet,2013-02-22,"[' Erich Gandet ', ' Bruno Gandet ', ' Hans Rothenbühler ', ' Tico Keller ', ' Hannes Hänggli ']","['Jazz', 'Blues', 'Soul']"
+25,Zürich,Maxmaber-Orkestar,2013-02-22,['Maxmaber Orkestar '],"['world', 'music']"
+26,Lugano,Concerti-Dell'auditorio-2013,2013-02-22,['Vincent Godel '],['Classic']
+27,Zürich,Hocico,2013-02-22,['Hocico '],['Electronic']
+28,Schaffhausen,Kappeler-Zumthor-Duo,2013-02-22,"[' Vera Kappeler ', ' Peter Conradin Zumthor ']","['Jazz', 'Blues', 'Soul']"
+29,Zürich,Johannes-Oerding,2013-02-22,['Johannes Oerding '],['Pop']
+30,Mühlethurnen,Wolverines-Jazz-Band-Bern,2013-02-22,"[' Rudolf Knöpfel ', ' Beat Uhlmann ', ' Walter Sterchi ', ' Heinz Geissbühler ', ' Rolf Rebmann ', ' Heinz Bühler ', ' Fred Lüthi ']","['Jazz', 'Blues', 'Soul']"
+31,Zürich,Armen-Donelian-Trio,2013-02-22,"[' Armen Donelian ', ' Rätus Flisch ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+32,null,Palatino,2013-02-22,"[' Aldo Romano ', ' Glenn Ferris ', ' Michel Benita ', ' Yoann Loustalot ']","['world', 'music']"
+33,Reitschule-Dachstock,Bern,2013-02-22,['Firewater '],['Firewater']
+34,Lausanne,Kendrick-Lamar,2013-02-22,['Kendrick Lamar '],"['Hip', 'Hop', ""R'n'B""]"
+35,Schaffhausen,Värttinä,2013-02-22,['Värttinä '],"['world', 'music']"
+36,Reussbühl,Freezes-Deyna,2013-02-22,"[' Ripp Robinson ', ' Flow Ryan ', ' Fluffy Chillvan ', ' Dee Razor ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Luzern,General-Lee,2013-02-22,['General Lee '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+38,KiFF,Aarau,2013-02-22,['Daniel Norgren '],"['Daniel', 'Norgren']"
+39,Aarburg,Quintett-Ikarus,2013-02-22,"[' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Moritz Meyer ', ' Ramón Oliveras ']","['Jazz', 'Blues', 'Soul']"
+40,Aarau,Das-Pferd,2013-02-22,[' Bottled in England '],['Electronic']
+41,Pontresina,Shakers,2013-02-22,['Shakers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+42,Basel,Tobias-Preisig-In-Transit,2013-02-22,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+43,Stall-6,Zürich,2013-02-22,['The Amplifetes '],"['The', 'Amplifetes']"

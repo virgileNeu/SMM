@@ -1,17 +1,17 @@
-location,event,date,artists,genre
-Zürich,Monte-Carlo,2014-09-23,['Monte Carlo '],Pop
-Luzern,Piano-Entertainment,2014-09-23,['Daniel Roos '],
-null,Konzert,2014-09-23,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-Zürich,Zum-30-Jährigen-Jubiläum-der-Star-AG,2014-09-23,"[' Mikhail Oussov ', ' works by Strauss ']",Classic
-Aarau,Symphoniekonzert-Pathétique,2014-09-23,[' Nicolas Altstaedt '],Classic
-Basel,Das-beste-Rezept-für-Arkadien,2014-09-23,"['Katharina Eicke ', ' Nadia Carboni ', ' Christian Hickel ']",Classic
-Zürich,July-Talk,2014-09-23,['July Talk '],
-Zürich,Renato-Araujo,2014-09-23,"['Renato Araujo ', ' Fisch Althar ', ' Thomas Füllemann ', ' Michael Krummerl ']",
-Basel,Classic-Meets-Jazz,2014-09-23,"[' Dieter Ilg ', ' Enrico Pieranunzi ', ' Gabriele Mirabassi ']",
-Liestal,Lamento-e-furore,2014-09-23,"[' Nuria Rial ', ' Naoki Kitaya ']",Classic
-Steckborn,Kammerchor-Kaluga,2014-09-23,['Kammerchor Kaluga '],
-Zürich,Isaac-Delusion,2014-09-23,['Isaac Delusion '],Pop
-Zürich,Bestehen-&-Vergehen-Ostinatio-und-Variation-im-Frühbarock,2014-09-23,"[' Giulia Breschi ', ' Vincent Flückiger ', ' Sara Souza-Simon ']",Classic
-Basel,The-Cup,2014-09-23,"[' Florenz Hunziker ', ' Ursus Bachthaler ', ' Peter Wagner ', ' Christoph Mohler ']",
-Zürich,Floriano-Inacio-Junior,2014-09-23,"[' Floriano Inacio Junior', ' Rodrigo Botter Maio s', ' Dudu Penz ', ' Mauro Martins ']",
-Luzern,Students'-Concert,2014-09-23,"[' Lukas Gernet ', ' Jonas Künzli ', ' Florian Hoesl ']",
+,location,event,date,artists,genre
+0,Z?rich,Monte-Carlo,2014-09-23,['Monte Carlo '],['Pop']
+1,Luzern,Piano-Entertainment,2014-09-23,['Daniel Roos '],"['Hip', 'Hop', ""R'n'B""]"
+2,null,Konzert,2014-09-23,"[' Praxedis Hug-R?tti ', ' Praxedis Genevi?ve Hug ']",['Classic']
+3,Aarau,Symphoniekonzert-Path?tique,2014-09-23,[' Nicolas Altstaedt '],['Classic']
+4,Basel,Das-beste-Rezept-f?r-Arkadien,2014-09-23,"['Katharina Eicke ', ' Nadia Carboni ', ' Christian Hickel ']",['Classic']
+5,Z?rich,Zum-30-J?hrigen-Jubil?um-der-Star-AG,2014-09-23,"[' Mikhail Oussov ', ' works by Strauss ']",['Classic']
+6,Liestal,Lamento-e-furore,2014-09-23,"[' Nuria Rial ', ' Naoki Kitaya ']",['Classic']
+7,Z?rich,Bestehen-&-Vergehen-Ostinatio-und-Variation-im-Fr?hbarock,2014-09-23,"[' Giulia Breschi ', ' Vincent Fl?ckiger ', ' Sara Souza-Simon ']",['Classic']
+8,Steckborn,Kammerchor-Kaluga,2014-09-23,['Kammerchor Kaluga '],"['world', 'music']"
+9,Z?rich,Renato-Araujo,2014-09-23,"['Renato Araujo ', ' Fisch Althar ', ' Thomas F?llemann ', ' Michael Krummerl ']","['world', 'music']"
+10,Basel,Classic-Meets-Jazz,2014-09-23,"[' Dieter Ilg ', ' Enrico Pieranunzi ', ' Gabriele Mirabassi ']","['Jazz', 'Blues', 'Soul']"
+11,Z?rich,July-Talk,2014-09-23,['July Talk '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Z?rich,Isaac-Delusion,2014-09-23,['Isaac Delusion '],['Pop']
+13,Basel,The-Cup,2014-09-23,"[' Florenz Hunziker ', ' Ursus Bachthaler ', ' Peter Wagner ', ' Christoph Mohler ']","['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Floriano-Inacio-Junior,2014-09-23,"[' Floriano Inacio Junior', ' Rodrigo Botter Maio s', ' Dudu Penz ', ' Mauro Martins ']","['Jazz', 'Blues', 'Soul']"
+15,Luzern,Students'-Concert,2014-09-23,"[' Lukas Gernet ', ' Jonas K?nzli ', ' Florian Hoesl ']","['Jazz', 'Blues', 'Soul']"

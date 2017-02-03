@@ -1,27 +1,27 @@
-location,event,date,artists,genre
-Laufen,Regio-Six-Jazzband,2013-01-20,"[' Norbert Ackermann ', ' Pierre Bernhard ', ' Rolph Dreier ', ' René Marzolf ', ' Roland Meder ', ' Gert Schimak ']",
-Basel,Focus-Das-Leben-als-Ansichtskarte,2013-01-20,['Fritz Hauser '],Classic
-Basel,AMG-Sonntagsmatinee,2013-01-20,[' Pieter Wispelwey '],Classic
-Bern,Matinée-3,2013-01-20,[' Benjamin Schmid '],Classic
-Bern,Wiener-Schule-Wiener-Klassik,2013-01-20,"[' Andreas Graf ', ' Wei-Zhong Lu ', ' Wen Lu-Hu ']",Classic
-Luzern,Lutoslawski-zu-Ehren,2013-01-20,[' Krystian Zimerman '],Classic
-Palais-des-Congrès,null,2013-01-20,"[' Corinne A. Sutter ', ' Bettina Weder ', ' Ricardo Mirabelli ', ' Ulrich S. Eggimann ']",Classic
-Rapperswil,Musik-im-Schloss-III,2013-01-20,"['Jonathan Peek ', ' Naoki Kitaya ', ' Maurice Steger ', ' ']",Classic
-null,Concert-à-la-russe,2013-01-20,"['Alexey Lavrentyev ', ' Sergey Mushtakoff ', ' Igor Morosow ']",Classic
-Winterthur,Warum-nicht-ruhig-sein-Schweizer-Musik-zu-Robert-Walser,2013-01-20,"['L. Pfister ', ' E. Rütsche ', ' R. Rütti ', ' E. Streiff ']",Classic
-Stanzerei,Baden,2013-01-20,"[' David Frühwirth ', ' Johannes Zahlten ']",
-Stettlen,Klavierrezital,2013-01-20,['Silvia Harnisch '],Classic
-Bern,Erlösung-Mozart,2013-01-20,[' Jean-Sélim Abdelmoula '],Classic
-Zürich,André-Desponds,2013-01-20,['André Desponds '],
-Wädenswil,Tanghi-celebri,2013-01-20,"['Karel Boeschoten ', ' Fulvia Mancini ', ' Kristóf Zámbó ', ' Jürg Luchsinger ', ' Benjamin Engeli ']",Classic
-null,Netrebko-Carreras-Schrott,2013-01-20,"['Anna Netrebko ', ' José Carreras ', ' Erwin Schrott ']",Classic
-Luzern,Marshall-Povel-Quintet,2013-01-20,"[' John Marshall ', ' Ferdinand Povel ', ' Andrea Pozza ', ' Stephan Kurmann ', ' Peter Schmidlin ']",
-Liebefeld,Christoph-Stiefel-Isorhythm-Orchestra,2013-01-20,"[' Sarah Büchi ', ' Matthieu Michel ', ' Domenic Landolf ', ' Adrian Mears ', ' Christoph Stiefel ', ' Arne Huber ', ' Kevin Chesham ']",
-Zürich,Dorit-Chrysler,2013-01-20,['Dorit Chrysler '],Electronic
-Zürich,Lilly-Thornten-Quintett,2013-01-20,"['Lilly Thornten Quintett ', ' Lilly Thornton ', ' Christian Meyers ', ' Ull Möck ', ' Jens Loh ', ' Eckhard Stromer ']",
-Zug,Herman-van-Veen,2013-01-20,['Herman van Veen '],Pop
-Basel,Sareena-Overwater,2013-01-20,['Sareena Overwater '],
-Zürich,Kammermusik-Soiree,2013-01-20,"[' András Schiff ', ' Simon Fuchs ', ' Felix-Andreas Genner ', ' Matthias Rácz ', ' Mischa Greull ']",Classic
-Volkshaus,Zürich,2013-01-20,['Conor Oberst '],
-Liebefeld,Le-Rex,2013-01-20,"[' Marc Stucki ', ' Benedikt Reising ', ' Andreas Tschopp ', ' Marc Unternährer ', ' Rico Baumann ']",
-Kulturfabrik-Kofmehl,Solothurn,2013-01-20,['The Vibrators '],
+,location,event,date,artists,genre
+0,Laufen,Regio-Six-Jazzband,2013-01-20,"[' Norbert Ackermann ', ' Pierre Bernhard ', ' Rolph Dreier ', ' René Marzolf ', ' Roland Meder ', ' Gert Schimak ']","['Jazz', 'Blues', 'Soul']"
+1,Basel,AMG-Sonntagsmatinee,2013-01-20,[' Pieter Wispelwey '],['Classic']
+2,Bern,Wiener-Schule-Wiener-Klassik,2013-01-20,"[' Andreas Graf ', ' Wei-Zhong Lu ', ' Wen Lu-Hu ']",['Classic']
+3,Bern,Matinée-3,2013-01-20,[' Benjamin Schmid '],['Classic']
+4,Luzern,Lutoslawski-zu-Ehren,2013-01-20,[' Krystian Zimerman '],['Classic']
+5,Basel,Focus-Das-Leben-als-Ansichtskarte,2013-01-20,['Fritz Hauser '],['Classic']
+6,Rapperswil,Musik-im-Schloss-III,2013-01-20,"['Jonathan Peek ', ' Naoki Kitaya ', ' Maurice Steger ', ' ']",['Classic']
+7,null,Concert-à-la-russe,2013-01-20,"['Alexey Lavrentyev ', ' Sergey Mushtakoff ', ' Igor Morosow ']",['Classic']
+8,Stettlen,Klavierrezital,2013-01-20,['Silvia Harnisch '],['Classic']
+9,Stanzerei,Baden,2013-01-20,"[' David Frühwirth ', ' Johannes Zahlten ']","['Klenze', 'Duo']"
+10,Bern,Erlösung-Mozart,2013-01-20,[' Jean-Sélim Abdelmoula '],['Classic']
+11,Zürich,André-Desponds,2013-01-20,['André Desponds '],"['Jazz', 'Blues', 'Soul']"
+12,Palais-des-Congrès,null,2013-01-20,"[' Corinne A. Sutter ', ' Bettina Weder ', ' Ricardo Mirabelli ', ' Ulrich S. Eggimann ']",['Classic']
+13,Winterthur,Warum-nicht-ruhig-sein-Schweizer-Musik-zu-Robert-Walser,2013-01-20,"['L. Pfister ', ' E. Rütsche ', ' R. Rütti ', ' E. Streiff ']",['Classic']
+14,Wädenswil,Tanghi-celebri,2013-01-20,"['Karel Boeschoten ', ' Fulvia Mancini ', ' Kristóf Zámbó ', ' Jürg Luchsinger ', ' Benjamin Engeli ']",['Classic']
+15,Zürich,Lilly-Thornten-Quintett,2013-01-20,"['Lilly Thornten Quintett ', ' Lilly Thornton ', ' Christian Meyers ', ' Ull Möck ', ' Jens Loh ', ' Eckhard Stromer ']","['Jazz', 'Blues', 'Soul']"
+16,Liebefeld,Christoph-Stiefel-Isorhythm-Orchestra,2013-01-20,"[' Sarah Büchi ', ' Matthieu Michel ', ' Domenic Landolf ', ' Adrian Mears ', ' Christoph Stiefel ', ' Arne Huber ', ' Kevin Chesham ']","['Jazz', 'Blues', 'Soul']"
+17,Luzern,Marshall-Povel-Quintet,2013-01-20,"[' John Marshall ', ' Ferdinand Povel ', ' Andrea Pozza ', ' Stephan Kurmann ', ' Peter Schmidlin ']","['Jazz', 'Blues', 'Soul']"
+18,Zürich,Dorit-Chrysler,2013-01-20,['Dorit Chrysler '],['Electronic']
+19,null,Netrebko-Carreras-Schrott,2013-01-20,"['Anna Netrebko ', ' José Carreras ', ' Erwin Schrott ']",['Classic']
+20,Zug,Herman-van-Veen,2013-01-20,['Herman van Veen '],['Pop']
+21,Zürich,Kammermusik-Soiree,2013-01-20,"[' András Schiff ', ' Simon Fuchs ', ' Felix-Andreas Genner ', ' Matthias Rácz ', ' Mischa Greull ']",['Classic']
+22,Basel,Sareena-Overwater,2013-01-20,['Sareena Overwater '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Volkshaus,Zürich,2013-01-20,['Conor Oberst '],"['Conor', 'Oberst']"
+24,Liebefeld,Le-Rex,2013-01-20,"[' Marc Stucki ', ' Benedikt Reising ', ' Andreas Tschopp ', ' Marc Unternährer ', ' Rico Baumann ']","['Jazz', 'Blues', 'Soul']"
+25,Kulturfabrik-Kofmehl,Solothurn,2013-01-20,['The Vibrators '],"['The', 'Vibrators']"

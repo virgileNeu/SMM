@@ -1,38 +1,38 @@
-location,event,date,artists,genre
-Dübendorf,30-Jahre-Jazz-in-Dübendorf,2014-10-02,"[' Elisabeth Lipiec ', ' Mathias Siegrist ', ' Andres Käch ', ' Michael Ochsner ', ' Phillip Scholl ']",Pop
-Liestal,Pink-Pedrazzi,2014-10-02,['Pink Pedrazzi '],Pop
-Zürich,Die-Happy,2014-10-02,"['Die Happy ', ' Nick & June ']",
-Winterthur,Jean-Sibelius-1,2014-10-02,[' Anna Vinnitskaya '],Classic
-Basel,Volkssinfoniekonzerte,2014-10-02,[' Marc Lachat '],Classic
-Luzern,Radio-Pilatus-Music-Night,2014-10-02,['Sunrise Avenue '],Pop
-Zürich,Konzert,2014-10-02,"[' Markus Brönnimann ', ' Barbara Tillmann ', ' Ulrike Jacoby ', ' Muriel Schweizer ', ' Anita Jehli ']",Classic
-Zürich,Darkness-Falls,2014-10-02,"['Darkness Falls ', ' Eaux ']",Electronic
-Zürich,Watsky,2014-10-02,"['Watsky ', ' The LaFontaines ']",
-null,Planningtorock,2014-10-02,['Planningtorock '],
-Zürich,Juan-Carlos-Zeta,2014-10-02,"['Juan Carlos Zeta ', ' Rocco Wäger ']",
-Zürich,Vogel-Simoni-Andermatt,2014-10-02,"[' Magda Vogel ', ' Cristina de Simoni ', ' Heini Andermatt ']",
-Bern,Eddie-Martin,2014-10-02,['Eddie Martin '],
-Luzern,Greg-Burk,2014-10-02,['Greg Burk '],
-null,Joe-Bonamassa,2014-10-02,['Joe Bonamassa '],
-Zürich,Spezial-Tango-Konzert,2014-10-02,"['Agri-Cuacci-Bergallo ', ' Pablo Agri ', ' Juan Cuacci ', ' Gabriela Bergallo ']",
-Zürich,Niamh-Ni-Charra,2014-10-02,['Niamh Ni Charra '],
-null,Billy-Cobham,2014-10-02,"[' Billy Cobham ', ' Christophe Cravero ', ' Jean-Marie Ecay ', ' Camelia Ben Naceur ', ' Michael Mondesir ']",
-Zürich,Keltikon,2014-10-02,"[' Olaf Ohl ', ' Iain Duncan ', ' Ädu Studer ', ' Rino Bollin ', ' Felix Waldispühl ', ' Patrick Feuz ']",
-Winterthur,Kimm-Trio,2014-10-02,"[' Philipp ZRotz ', ' Marc Jenny ', ' Emanuel Künzi ']",
-Lausen,Harfe-Violine-Visuelles,2014-10-02,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-Zürich,Gesangsschüler-von-Fabian-Heynen,2014-10-02,"['Michael von Babo ', ' Bastian Migge ']",Pop
-Zürich,Atomic,2014-10-02,"['Atomic ', ' Fredrik Ljungkvist ', ' Magnus Broo ', ' Håvard Wilk ', ' Ingebrigt Håker Flaten ', ' Hans Hulbækmo ']",
-Lausanne,Casseurs-Flowters,2014-10-02,['Casseurs Flowters '],Electronic
-Chur,Rooftoprunners,2014-10-02,['Rooftoprunners '],
-Zürich,Billiger-Bauer,2014-10-02,"[' Omri Ziegele ', ' Jürg Wickihalder ', ' Nick Gutersohn ']",
-Aarau,The-Samuel-Jackson-Five,2014-10-02,['The Samuel Jackson Five '],
-Uster,Monday-Move,2014-10-02,"[' ', ' Jan Hofmann ', ' Rahel Kofmehl ', ' Florian Blaser ', ' Martin Burkhardt ']",Pop
-Baden,Songs-mit-Streicheleinheiten,2014-10-02,"[' Miriam Harzenmoser ', ' Ueli Gygli ', ' Burkhard ', ' Alex Merz ']",
-Zürich,Anthony-Joseph,2014-10-02,"['Anthony Joseph ', ' Anthony Joseph ', ' Andrew John ', ' Jonathan Idiagbonya ', ' Eddie Hick ', ' Roger Raspail ']",Pop
-Zürich,Falcone-Jam,2014-10-02,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",Pop
-Luzern,Kaama,2014-10-02,"[' Katja Mair ', ' Christy Doran ', ' Hanspeter Pfammatter ', ' Andreas Schnellmann ', ' Marc Halbheer ']",
-Basel,Salsa-All-Styles,2014-10-02,[' 20-21 Uhr Tanzkurs Bailar Casino '],
-Lausanne,Joke,2014-10-02,['Joke '],Electronic
-Lausanne,Gaspard-Royant,2014-10-02,['Gaspard Royant '],
-Bern,The-Graveltones,2014-10-02,['The Graveltones '],
-Lyss,Greed,2014-10-02,['Greed '],
+,location,event,date,artists,genre
+0,D?bendorf,30-Jahre-Jazz-in-D?bendorf,2014-10-02,"[' Elisabeth Lipiec ', ' Mathias Siegrist ', ' Andres K?ch ', ' Michael Ochsner ', ' Phillip Scholl ']",['Pop']
+1,Z?rich,Die-Happy,2014-10-02,[' June '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Liestal,Pink-Pedrazzi,2014-10-02,['Pink Pedrazzi '],['Pop']
+3,Basel,Volkssinfoniekonzerte,2014-10-02,[' Marc Lachat '],['Classic']
+4,Winterthur,Jean-Sibelius-1,2014-10-02,[' Anna Vinnitskaya '],['Classic']
+5,Luzern,Radio-Pilatus-Music-Night,2014-10-02,['Sunrise Avenue '],['Pop']
+6,Z?rich,Konzert,2014-10-02,"[' Markus Br?nnimann ', ' Barbara Tillmann ', ' Ulrike Jacoby ', ' Muriel Schweizer ', ' Anita Jehli ']",['Classic']
+7,Z?rich,Vogel-Simoni-Andermatt,2014-10-02,"[' Magda Vogel ', ' Cristina de Simoni ', ' Heini Andermatt ']","['Jazz', 'Blues', 'Soul']"
+8,null,Billy-Cobham,2014-10-02,"[' Billy Cobham ', ' Christophe Cravero ', ' Jean-Marie Ecay ', ' Camelia Ben Naceur ', ' Michael Mondesir ']","['Jazz', 'Blues', 'Soul']"
+9,Z?rich,Niamh-Ni-Charra,2014-10-02,['Niamh Ni Charra '],"['world', 'music']"
+10,Bern,Eddie-Martin,2014-10-02,['Eddie Martin '],"['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Juan-Carlos-Zeta,2014-10-02,"['Juan Carlos Zeta ', ' Rocco W?ger ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Luzern,Greg-Burk,2014-10-02,['Greg Burk '],"['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Keltikon,2014-10-02,"[' Olaf Ohl ', ' Iain Duncan ', ' ?du Studer ', ' Rino Bollin ', ' Felix Waldisp?hl ', ' Patrick Feuz ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Z?rich,Darkness-Falls,2014-10-02,"['Darkness Falls ', ' Eaux ']",['Electronic']
+15,null,Joe-Bonamassa,2014-10-02,['Joe Bonamassa '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Z?rich,Watsky,2014-10-02,"['Watsky ', ' The LaFontaines ']","['Hip', 'Hop', ""R'n'B""]"
+17,null,Planningtorock,2014-10-02,['Planningtorock '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Z?rich,Spezial-Tango-Konzert,2014-10-02,"['Agri-Cuacci-Bergallo ', ' Pablo Agri ', ' Juan Cuacci ', ' Gabriela Bergallo ']","['world', 'music']"
+19,Winterthur,Kimm-Trio,2014-10-02,"[' Philipp ZRotz ', ' Marc Jenny ', ' Emanuel K?nzi ']","['Jazz', 'Blues', 'Soul']"
+20,Lausen,Harfe-Violine-Visuelles,2014-10-02,"[' Corinne Kappeler ', ' Daniel Treyer ']",['Classic']
+21,Z?rich,Gesangssch?ler-von-Fabian-Heynen,2014-10-02,"['Michael von Babo ', ' Bastian Migge ']",['Pop']
+22,Z?rich,Anthony-Joseph,2014-10-02,"['Anthony Joseph ', ' Anthony Joseph ', ' Andrew John ', ' Jonathan Idiagbonya ', ' Eddie Hick ', ' Roger Raspail ']",['Pop']
+23,Lausanne,Casseurs-Flowters,2014-10-02,['Casseurs Flowters '],['Electronic']
+24,Z?rich,Atomic,2014-10-02,"['Atomic ', ' Fredrik Ljungkvist ', ' Magnus Broo ', ' H?vard Wilk ', ' Ingebrigt H?ker Flaten ', ' Hans Hulb?kmo ']","['Jazz', 'Blues', 'Soul']"
+25,Aarau,The-Samuel-Jackson-Five,2014-10-02,['The Samuel Jackson Five '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Z?rich,Billiger-Bauer,2014-10-02,"[' Omri Ziegele ', ' J?rg Wickihalder ', ' Nick Gutersohn ']","['Jazz', 'Blues', 'Soul']"
+27,Uster,Monday-Move,2014-10-02,"[' ', ' Jan Hofmann ', ' Rahel Kofmehl ', ' Florian Blaser ', ' Martin Burkhardt ']",['Pop']
+28,Baden,Songs-mit-Streicheleinheiten,2014-10-02,"[' Miriam Harzenmoser ', ' Ueli Gygli ', ' Burkhard ', ' Alex Merz ']","['Jazz', 'Blues', 'Soul']"
+29,Chur,Rooftoprunners,2014-10-02,['Rooftoprunners '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Z?rich,Falcone-Jam,2014-10-02,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp H?fliger ', ' Mike Ryrie ']",['Pop']
+31,Basel,Salsa-All-Styles,2014-10-02,[' 20-21 Uhr Tanzkurs Bailar Casino '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+32,Luzern,Kaama,2014-10-02,"[' Katja Mair ', ' Christy Doran ', ' Hanspeter Pfammatter ', ' Andreas Schnellmann ', ' Marc Halbheer ']","['Jazz', 'Blues', 'Soul']"
+33,Lausanne,Joke,2014-10-02,['Joke '],['Electronic']
+34,Lausanne,Gaspard-Royant,2014-10-02,['Gaspard Royant '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Bern,The-Graveltones,2014-10-02,['The Graveltones '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Lyss,Greed,2014-10-02,['Greed '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

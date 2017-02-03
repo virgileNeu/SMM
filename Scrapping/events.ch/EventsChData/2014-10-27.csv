@@ -1,22 +1,22 @@
-location,event,date,artists,genre
-Zürich,Werner-und-Company,2014-10-27,['Werner und Company '],Pop
-Münchenstein,Metropolis,2014-10-27,[' Stummfilm von Fritz Lang '],Classic
-Basel,Masterrezital,2014-10-27,[' Sara Bagnati '],Classic
-Aarau,After-the-Burial,2014-10-27,"['After the Burial ', ' Monuments ', ' Circles ', ' Tides From Nebula ']",
-Zürich,Konzert,2014-10-27,['Aaron Pilsan '],Classic
-Zürich,Happy-Monday,2014-10-27,"[' Eve Gallagher ', ' Ernst Wirz ', ' Chris Muzik ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ']",
-Basel,Baloise-Session-Back-to-the-Eighties,2014-10-27,"['Lisa Stansfield ', ' Matt Bianco ']",Pop
-Zürich,Kensington,2014-10-27,['Kensington '],
-Zürich,Freunde-des-Dschungels,2014-10-27,"[' Philip Smart ', ' Oliver Smart ', ' Silvio Fuchs ', ' Alex Müller ', ' Luca Stoppa ', ' Julian Truog ', ' Simon Truog ', ' Dario Meier ']",
-Zürich,Sehnsüchte-nach-dem-Sommer,2014-10-27,"['Beatrice Haemig ', ' Hitomi Kutsuzawa ', ' Reinhard Strebel ', ' Kiyomi Higaki ']",Classic
-null,Hubert-von-Goisern,2014-10-27,['Hubert von Goisern '],
-null,Trio-Arazón,2014-10-27,"[' Annette Rüegg ', ' Jojo Kunz ', ' Franziska Hämmerli ']",
-Zürich,Laurent-Meteau's-Metabolism,2014-10-27,"[' Laurent Méteau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Philipp Schlotter ', ' Samuel Huwyler ', ' Jwan Steiner ']",
-Zürich,Tamikrest,2014-10-27,['Tamikrest '],Pop
-null,Seat-Music-Session,2014-10-27,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",Pop
-Lausanne,Soprano,2014-10-27,['Soprano '],
-Baden,Hyperactive-Kid,2014-10-27,"[' Philipp Gropper ', ' Ronny Graupe ', ' Christian Lillinger ']",
-Zürich,Jason-Moran-&-The-Bandwagon,2014-10-27,"[' Jason Moran ', ' Tarus Mateen ', ' Nasheet Waits ']",Pop
-Basel,Jazzkollektiv,2014-10-27,"[' Timmy J. Leiser ', ' Marin Burcea ', ' Razvan Oprea ', ' Lenny Bhorania ']",
-Winterthur,Andy-Billinski,2014-10-27,['Andy Billinski '],
-Pratteln,Dan-Baird-&-Homemade-Sin,2014-10-27,['Dan Baird & Homemade Sin '],
+,location,event,date,artists,genre
+0,Z?rich,Werner-und-Company,2014-10-27,['Werner und Company '],['Pop']
+1,M?nchenstein,Metropolis,2014-10-27,[' Stummfilm von Fritz Lang '],['Classic']
+2,Aarau,After-the-Burial,2014-10-27,"['After the Burial ', ' Monuments ', ' Circles ', ' Tides From Nebula ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,Konzert,2014-10-27,['Aaron Pilsan '],['Classic']
+4,Basel,Masterrezital,2014-10-27,[' Sara Bagnati '],['Classic']
+5,Z?rich,Laurent-Meteau's-Metabolism,2014-10-27,"[' Laurent M?teau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Philipp Schlotter ', ' Samuel Huwyler ', ' Jwan Steiner ']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Freunde-des-Dschungels,2014-10-27,"[' Philip Smart ', ' Oliver Smart ', ' Silvio Fuchs ', ' Alex M?ller ', ' Luca Stoppa ', ' Julian Truog ', ' Simon Truog ', ' Dario Meier ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,null,Hubert-von-Goisern,2014-10-27,['Hubert von Goisern '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Z?rich,Tamikrest,2014-10-27,['Tamikrest '],['Pop']
+9,null,Seat-Music-Session,2014-10-27,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",['Pop']
+10,Z?rich,Kensington,2014-10-27,['Kensington '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Basel,Baloise-Session-Back-to-the-Eighties,2014-10-27,"['Lisa Stansfield ', ' Matt Bianco ']",['Pop']
+12,Z?rich,Sehns?chte-nach-dem-Sommer,2014-10-27,"['Beatrice Haemig ', ' Hitomi Kutsuzawa ', ' Reinhard Strebel ', ' Kiyomi Higaki ']",['Classic']
+13,null,Trio-Araz?n,2014-10-27,"[' Annette R?egg ', ' Jojo Kunz ', ' Franziska H?mmerli ']","['world', 'music']"
+14,Z?rich,Happy-Monday,2014-10-27,"[' Eve Gallagher ', ' Ernst Wirz ', ' Chris Muzik ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ']","['Jazz', 'Blues', 'Soul']"
+15,Baden,Hyperactive-Kid,2014-10-27,"[' Philipp Gropper ', ' Ronny Graupe ', ' Christian Lillinger ']","['Jazz', 'Blues', 'Soul']"
+16,Lausanne,Soprano,2014-10-27,['Soprano '],"['Hip', 'Hop', ""R'n'B""]"
+17,Pratteln,Dan-Baird-&-Homemade-Sin,2014-10-27,[' Homemade Sin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Z?rich,Jason-Moran-&-The-Bandwagon,2014-10-27,"[' Jason Moran ', ' Tarus Mateen ', ' Nasheet Waits ']",['Pop']
+19,Winterthur,Andy-Billinski,2014-10-27,['Andy Billinski '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Basel,Jazzkollektiv,2014-10-27,"[' Timmy J. Leiser ', ' Marin Burcea ', ' Razvan Oprea ', ' Lenny Bhorania ']","['Jazz', 'Blues', 'Soul']"

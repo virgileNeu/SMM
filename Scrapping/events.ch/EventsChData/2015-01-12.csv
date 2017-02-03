@@ -1,10 +1,10 @@
-location,event,date,artists,genre
-Bern,Sous-les-étoiles,2015-01-12,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
-Solothurn,Silvan-Zingg-Trio,2015-01-12,"[' Silvan Zingg ', ' Valerio Felice ', ' Nuno Alexandre ']",
-Basel,Eko-Fresh,2015-01-12,['Eko Fresh '],
-Zürich,Shakespeare-Songs,2015-01-12,[' Mathias Clausen '],Classic
-null,The-Sibyl's-Promise,2015-01-12,"[' Sibyl Hofstetter ', ' Francesco Diomaiuta ', ' Raphael Loher ', ' Daniel Stocker ', ' Maris Egli ']",
-Zürich,20-fliegende-Finger-2-zitternde-Flügel,2015-01-12,"[' Frank Muschalle ', ' Dave Ruosch ']",
-Basel,Dialog,2015-01-12,['Edicson Ruiz '],Classic
-Baden,Blaer,2015-01-12,"[' Nils Fischer ', ' bcl) Claudio von Arx ', ' Maja Nydegger ', ' Simon Iten ', ' Emanuel Künzi ']",
-Basel,Jazzkollektiv,2015-01-12,"[' Marco von Orelli ', ' Annika Francke ', ' Marco Nenninger ', ' Samuel Dühsler ']",
+,location,event,date,artists,genre
+0,Basel,Eko-Fresh,2015-01-12,['Eko Fresh '],"['Hip', 'Hop', ""R'n'B""]"
+1,Bern,Sous-les-?toiles,2015-01-12,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']","['Jazz', 'Blues', 'Soul']"
+2,Solothurn,Silvan-Zingg-Trio,2015-01-12,"[' Silvan Zingg ', ' Valerio Felice ', ' Nuno Alexandre ']","['Jazz', 'Blues', 'Soul']"
+3,Z?rich,Shakespeare-Songs,2015-01-12,[' Mathias Clausen '],['Classic']
+4,null,The-Sibyl's-Promise,2015-01-12,"[' Sibyl Hofstetter ', ' Francesco Diomaiuta ', ' Raphael Loher ', ' Daniel Stocker ', ' Maris Egli ']","['Jazz', 'Blues', 'Soul']"
+5,Z?rich,20-fliegende-Finger-2-zitternde-Fl?gel,2015-01-12,"[' Frank Muschalle ', ' Dave Ruosch ']","['Jazz', 'Blues', 'Soul']"
+6,Basel,Dialog,2015-01-12,['Edicson Ruiz '],['Classic']
+7,Baden,Blaer,2015-01-12,"[' Nils Fischer ', ' bcl) Claudio von Arx ', ' Maja Nydegger ', ' Simon Iten ', ' Emanuel K?nzi ']","['Jazz', 'Blues', 'Soul']"
+8,Basel,Jazzkollektiv,2015-01-12,"[' Marco von Orelli ', ' Annika Francke ', ' Marco Nenninger ', ' Samuel D?hsler ']","['Jazz', 'Blues', 'Soul']"

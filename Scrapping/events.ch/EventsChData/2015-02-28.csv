@@ -1,40 +1,37 @@
-location,event,date,artists,genre
-Winterthur,Stranger-Stranger,2015-02-28,['Stranger Stranger '],Pop
-Bern,Meisterkonzert,2015-02-28,"['Steven Isserlis ', ' Robert Levin ']",Classic
-null,O-schöne-Nacht,2015-02-28,"['Hans Adolfsen ', ' Peter Baur ', ' Martin Achrainer ']",Classic
-Morgins,C'est-l'hiver,2015-02-28,"['Paul Thomson DJ-Set ', ' Dave Rowntree DJ-Set ', ' Coming Soon ']",Pop
-Zürich,The-Decemberists,2015-02-28,['The Decemberists '],
-Bubikon,Konzert-mit-Solisten-des-ZKO,2015-02-28,"[' Solisten: Kurt Meier ', ' Josias Just ', ' Arlette Meier ']",Classic
-Liestal,Karel-de-Matteis,2015-02-28,['Karel de Matteis '],Pop
-Thalwil,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2015-02-28,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes Bärtschi ']",Classic
-Zürich,Bear's-Den,2015-02-28,"[""Bear's Den ""]",
-Zürich,Internationales-Country-Music-Festival,2015-02-28,['Restless Heart '],
-Luzern,Glanzlichter,2015-02-28,"[' Daniel Dodds ', ' Igor Karsko ']",Classic
-Basel,Kammermusik-und-Literatur,2015-02-28,"[' Marisa Waldburger ', ' Marc Bätscher ', ' Ursula Hächler ', ' Jason Paul Peterson ']",Classic
-Zürich,Friend-Master-&-Rival,2015-02-28,['Sébastien Dupuis '],Classic
-Zürich,Kodaline,2015-02-28,['Kodaline '],
-Einsiedeln,The-Pearlbreakers,2015-02-28,[' Lacson '],Pop
-Nyon,Peace,2015-02-28,['Peace '],
-Zürich,Ach-wie-mich-das-aufregt,2015-02-28,"['Julia Schürer ', ' Daniel Schnurrenberger ', ' Matthias Fankhauser ']",Pop
-null,Ez3Kiel,2015-02-28,['Ez3Kiel '],
-null,Konzert,2015-02-28,"[' Philippe Bernhard ', ' Loïc Rio ', ' Laurent Marfaing ', ' François Kieffer ']",Classic
-Oberengstringen,Christoph-Irniger-Trio,2015-02-28,"[' Christoph Irniger ', ' Raffaele Bossard ', ' Dominik Burkhalter\t']",
-Zug,Brutal-Night,2015-02-28,"['Cytotoxin ', ' Placenta Powerfist ']",
-Zürich,Wendy-McNeill,2015-02-28,['Wendy McNeill '],Pop
-Basel,Eric-Alexander-Bernd-Reiter-Quintet,2015-02-28,"[' Eric Alexander ', ' Helmut Kagerer ', ' Olivier Hutman ', ' Viktor Nyberg ', ' Bernd Reiter ']",
-Zürich,Dub-Spencer-&-Trance-Hill-feat.-Jahcoustix,2015-02-28,"[' Julian Dillier ', ' Masi Stalder ', ' Markus Meier ', ' Phi Bu ', ' Jahcoustix ']",
-Baden,Donadio-Family-Band,2015-02-28,"[' Dalia ', ' Moreno ', ' Toni Donadio ']",
-Zürich,Haco,2015-02-28,['Haco '],Electronic
-null,Shayna-Steele-&-Band,2015-02-28,['Shayna Steele & Band '],
-Feuerthalen,Ben-Poole,2015-02-28,['Ben Poole '],
-null,Barbouze-de-chez-Fior,2015-02-28,"[' Annick Rody ', ' Camille Stoll ', ' Laurence Crevoisier ', ' Sarah Oswald ']",
-Winterthur,Greenleaf,2015-02-28,"['Greenleaf ', ' The Midnight Ghost Train ']",
-Münchenbuchsee,Augen-in-der-Grossstadt,2015-02-28,"['Sonja Indin ', ' Isora Castilla ']",Pop
-Thun,Euzen,2015-02-28,['Euzen '],Pop
-Cham,Popa-Chubby,2015-02-28,['Popa Chubby '],
-Düdingen,Mirel-Wagner,2015-02-28,['Mirel Wagner '],
-Rorschach,El-bachatazo-Fiesta-Dominicana,2015-02-28,"['DJs Play ', "" Da'le ""]",
-Sankt-Gallen,Busdriver,2015-02-28,['Busdriver '],
-Zürich,Sebass,2015-02-28,"[' Seraphim von Werra ', ' voc) Nehrun Aliev ', ' Benjamin Schett ', ' Adrian Böckli ', ' Sebastian Zehnder: ', ' Sebastian Koelman ']",
-Zürich,Sebass,2015-02-28,"[' Seraphim von Werra ', ' voc) Nehrun Aliev ', ' Benjamin Schett ', ' Adrian Böckli ', ' Sebastian Zehnder: ', ' Sebastian Koelman ']",
-null,Swollen-Members,2015-02-28,['Swollen Members '],
+,location,event,date,artists,genre
+0,Winterthur,Stranger-Stranger,2015-02-28,['Stranger Stranger '],['Pop']
+1,Bern,Meisterkonzert,2015-02-28,"['Steven Isserlis ', ' Robert Levin ']",['Classic']
+2,Morgins,C'est-l'hiver,2015-02-28,"['Paul Thomson DJ-Set ', ' Dave Rowntree DJ-Set ', ' Coming Soon ']",['Pop']
+3,null,O-sch?ne-Nacht,2015-02-28,"['Hans Adolfsen ', ' Peter Baur ', ' Martin Achrainer ']",['Classic']
+4,Z?rich,The-Decemberists,2015-02-28,['The Decemberists '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Thalwil,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2015-02-28,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes B?rtschi ']",['Classic']
+6,Liestal,Karel-de-Matteis,2015-02-28,['Karel de Matteis '],['Pop']
+7,Bubikon,Konzert-mit-Solisten-des-ZKO,2015-02-28,"[' Solisten: Kurt Meier ', ' Josias Just ', ' Arlette Meier ']",['Classic']
+8,Z?rich,Bear's-Den,2015-02-28,"[""Bear's Den ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Luzern,Glanzlichter,2015-02-28,"[' Daniel Dodds ', ' Igor Karsko ']",['Classic']
+10,Basel,Kammermusik-und-Literatur,2015-02-28,"[' Marisa Waldburger ', ' Marc B?tscher ', ' Ursula H?chler ', ' Jason Paul Peterson ']",['Classic']
+11,Z?rich,Friend-Master-&-Rival,2015-02-28,['S?bastien Dupuis '],['Classic']
+12,Zug,Brutal-Night,2015-02-28,"['Cytotoxin ', ' Placenta Powerfist ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Einsiedeln,The-Pearlbreakers,2015-02-28,[' Lacson '],['Pop']
+14,Z?rich,Ach-wie-mich-das-aufregt,2015-02-28,"['Julia Sch?rer ', ' Daniel Schnurrenberger ', ' Matthias Fankhauser ']",['Pop']
+15,Oberengstringen,Christoph-Irniger-Trio,2015-02-28,"[' Christoph Irniger ', ' Raffaele Bossard ', ' Dominik Burkhalter\t']","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Kodaline,2015-02-28,['Kodaline '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Nyon,Peace,2015-02-28,['Peace '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,null,Konzert,2015-02-28,"[' Philippe Bernhard ', ' Lo?c Rio ', ' Laurent Marfaing ', ' Fran?ois Kieffer ']",['Classic']
+19,null,Ez3Kiel,2015-02-28,['Ez3Kiel '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Z?rich,Wendy-McNeill,2015-02-28,['Wendy McNeill '],['Pop']
+21,Z?rich,Dub-Spencer-&-Trance-Hill-feat.-Jahcoustix,2015-02-28,"[' Julian Dillier ', ' Masi Stalder ', ' Markus Meier ', ' Phi Bu ', ' Jahcoustix ']","['Hip', 'Hop', ""R'n'B""]"
+22,Z?rich,Haco,2015-02-28,['Haco '],['Electronic']
+23,Baden,Donadio-Family-Band,2015-02-28,"[' Dalia ', ' Moreno ', ' Toni Donadio ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Feuerthalen,Ben-Poole,2015-02-28,['Ben Poole '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,null,Shayna-Steele-&-Band,2015-02-28,[' Band '],"['Hip', 'Hop', ""R'n'B""]"
+26,M?nchenbuchsee,Augen-in-der-Grossstadt,2015-02-28,"['Sonja Indin ', ' Isora Castilla ']",['Pop']
+27,null,Barbouze-de-chez-Fior,2015-02-28,"[' Annick Rody ', ' Camille Stoll ', ' Laurence Crevoisier ', ' Sarah Oswald ']","['world', 'music']"
+28,Winterthur,Greenleaf,2015-02-28,"['Greenleaf ', ' The Midnight Ghost Train ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Cham,Popa-Chubby,2015-02-28,['Popa Chubby '],"['Jazz', 'Blues', 'Soul']"
+30,Thun,Euzen,2015-02-28,['Euzen '],['Pop']
+31,D?dingen,Mirel-Wagner,2015-02-28,['Mirel Wagner '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Sankt-Gallen,Busdriver,2015-02-28,['Busdriver '],"['Hip', 'Hop', ""R'n'B""]"
+33,Z?rich,Sebass,2015-02-28,"[' Seraphim von Werra ', ' voc) Nehrun Aliev ', ' Benjamin Schett ', ' Adrian B?ckli ', ' Sebastian Zehnder: ', ' Sebastian Koelman ']","['world', 'music']"
+34,Rorschach,El-bachatazo-Fiesta-Dominicana,2015-02-28,"['DJs Play ', "" Da'le ""]","['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+35,null,Swollen-Members,2015-02-28,['Swollen Members '],"['Hip', 'Hop', ""R'n'B""]"

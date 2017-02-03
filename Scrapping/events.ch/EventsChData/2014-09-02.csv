@@ -1,9 +1,9 @@
-location,event,date,artists,genre
-Luzern,Orgelgewitter,2014-09-02,['Wolfgang Sieber '],Classic
-Luzern,Debut-4,2014-09-02,"['Tine Thing Helseth ', ' Gunnar Flagstad ']",Classic
-Luzern,Piano-Entertainment,2014-09-02,['Daniel Roos '],Pop
-Veytaux,Septembre-musical-La-nuit-des-pianistes,2014-09-02,['Conrad Tao '],Classic
-Zürich,Ensemble-Abend,2014-09-02,"['Joan Retzke ', ' Robert Walker ', ' Michiko Tsuda ']",Classic
-Olten,Kammermusik-Abend,2014-09-02,"['Julia Tramnitz ', ' Daniel Hoffmann ', ' Yubo Zhou ']",Classic
-Luzern,Orgelsommer,2014-09-02,['Giuliana Maccaroni und Martino Pòrcile '],Classic
-Basel,Oliver-Pellet-Quinteto,2014-09-02,"[' Rodrigo Botter Maio ', ' Oliver Pellet ', ' Floriano Inácio Jr. ', ' Stephan Kurmann ', ' Mauro Martins ']",
+,location,event,date,artists,genre
+0,Luzern,Debut-4,2014-09-02,"['Tine Thing Helseth ', ' Gunnar Flagstad ']",['Classic']
+1,Luzern,Orgelgewitter,2014-09-02,['Wolfgang Sieber '],['Classic']
+2,Luzern,Piano-Entertainment,2014-09-02,['Daniel Roos '],['Pop']
+3,Z?rich,Ensemble-Abend,2014-09-02,"['Joan Retzke ', ' Robert Walker ', ' Michiko Tsuda ']",['Classic']
+4,Veytaux,Septembre-musical-La-nuit-des-pianistes,2014-09-02,['Conrad Tao '],['Classic']
+5,Olten,Kammermusik-Abend,2014-09-02,"['Julia Tramnitz ', ' Daniel Hoffmann ', ' Yubo Zhou ']",['Classic']
+6,Luzern,Orgelsommer,2014-09-02,['Giuliana Maccaroni und Martino P?rcile '],['Classic']
+7,Basel,Oliver-Pellet-Quinteto,2014-09-02,"[' Rodrigo Botter Maio ', ' Oliver Pellet ', ' Floriano In?cio Jr. ', ' Stephan Kurmann ', ' Mauro Martins ']","['Jazz', 'Blues', 'Soul']"

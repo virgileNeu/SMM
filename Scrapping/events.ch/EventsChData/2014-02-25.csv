@@ -1,21 +1,20 @@
-location,event,date,artists,genre
-Zürich,Steirer-Quintett,2014-02-25,['Steirer Quintett '],traditional
-Zürich,Jazzapero,2014-02-25,"[' Wolfgang Häuptli ', ' Dani Frei ', ' Rolf Winiger ', ' Elmar Kluth ', ' Fredi Schmid ', ' Thomas Hirt ']",
-Luzern,Piano-Entertainment,2014-02-25,['Mark Tenger '],
-Zürich,The-Wanted,2014-02-25,['The Wanted '],Pop
-Zürich,Klavierrezital,2014-02-25,['Lars Vogt '],Classic
-Zürich,Maximo-Park,2014-02-25,"['Maximo Park ', ' support: His Clancyness ']",
-Basel,Kammermusik,2014-02-25,['Artemis Quartett '],Classic
-Basel,Hommage-Konzert-für-Heinz-Holliger,2014-02-25,"['Daniel Gloger ', ' Nina Janssen-Deinzer ', ' Stefan Hussong ', ' Michinori Dunya ']",Classic
-Zürich,Lindi-Ortega,2014-02-25,['Lindi Ortega '],
-Zürich,Milky-Chance-ausverkauft,2014-02-25,['Milky Chance '],Pop
-Zürich,Schubertiade,2014-02-25,"['Sybille Diethelm ', ' Anina Haug ', ' Christof Breitenmoser ', ' Daniel Bentz ', ' Chasper Mani ']",Classic
-Zürich,Viktor-&-The-Blood,2014-02-25,"['Viktor & The Blood ', ' support: Goodbye Fairground ']",
-Luzern,Cholet-Känzig-Papaux,2014-02-25,"[' Jean-Christophe Cholet ', ' Heiri Känzig ', ' Marcel Papaux ']",
-Herzogenbuchsee,Kamchatka,2014-02-25,['Kamchatka '],
-Zürich,Daniel-Humair-Sweet-&-Sour,2014-02-25,"[' Daniel Humair ', ' Emile Parisien ', ' Vincent Peirani ', ' Jérôme Regard ']",
-Zürich,Der-Wind-hat-mir-ein-Lied-erzählt,2014-02-25,"['Hans Adolfsen ', ' Ulrike Andersen ']",Pop
-Basel,Philm,2014-02-25,"[' Philipp Gropper ', ' Elias Stemeseder ', ' Andreas Lang ', ' Oliver Steidle ']",
-Düdingen,Crystal-Stilts,2014-02-25,"['Crystal Stilts ', ' Warm Graves ']",
-Basel,Mr.-Vertigo-feat.-Andreas-Boehlen,2014-02-25,"[' Ursus Bachthaler ', ' Fabian Gisler ', ' André Bader ']",
-Zürich,Birdpen,2014-02-25,"['Birdpen ', ' Chris Pureka ']",
+,location,event,date,artists,genre
+0,Z?rich,Steirer-Quintett,2014-02-25,['Steirer Quintett '],['traditional']
+1,Z?rich,Jazzapero,2014-02-25,"[' Wolfgang H?uptli ', ' Dani Frei ', ' Rolf Winiger ', ' Elmar Kluth ', ' Fredi Schmid ', ' Thomas Hirt ']","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,The-Wanted,2014-02-25,['The Wanted '],['Pop']
+3,Z?rich,Klavierrezital,2014-02-25,['Lars Vogt '],['Classic']
+4,Basel,Kammermusik,2014-02-25,['Artemis Quartett '],['Classic']
+5,Z?rich,Maximo-Park,2014-02-25,"['Maximo Park ', ' support: His Clancyness ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Lindi-Ortega,2014-02-25,['Lindi Ortega '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Schubertiade,2014-02-25,"['Sybille Diethelm ', ' Anina Haug ', ' Christof Breitenmoser ', ' Daniel Bentz ', ' Chasper Mani ']",['Classic']
+8,Basel,Hommage-Konzert-f?r-Heinz-Holliger,2014-02-25,"['Daniel Gloger ', ' Nina Janssen-Deinzer ', ' Stefan Hussong ', ' Michinori Dunya ']",['Classic']
+9,Z?rich,Milky-Chance-ausverkauft,2014-02-25,['Milky Chance '],['Pop']
+10,Z?rich,Viktor-&-The-Blood,2014-02-25,"[' The Blood ', ' support: Goodbye Fairground ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,Daniel-Humair-Sweet-&-Sour,2014-02-25,"[' Daniel Humair ', ' Emile Parisien ', ' Vincent Peirani ', ' J?r?me Regard ']","['Jazz', 'Blues', 'Soul']"
+12,Basel,Philm,2014-02-25,"[' Philipp Gropper ', ' Elias Stemeseder ', ' Andreas Lang ', ' Oliver Steidle ']","['Jazz', 'Blues', 'Soul']"
+13,Luzern,Cholet-K?nzig-Papaux,2014-02-25,"[' Jean-Christophe Cholet ', ' Heiri K?nzig ', ' Marcel Papaux ']","['Jazz', 'Blues', 'Soul']"
+14,Herzogenbuchsee,Kamchatka,2014-02-25,['Kamchatka '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Z?rich,Der-Wind-hat-mir-ein-Lied-erz?hlt,2014-02-25,"['Hans Adolfsen ', ' Ulrike Andersen ']",['Pop']
+16,D?dingen,Crystal-Stilts,2014-02-25,"['Crystal Stilts ', ' Warm Graves ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Basel,Mr.-Vertigo-feat.-Andreas-Boehlen,2014-02-25,"[' Ursus Bachthaler ', ' Fabian Gisler ', ' Andr? Bader ']","['Jazz', 'Blues', 'Soul']"
+18,Z?rich,Birdpen,2014-02-25,"['Birdpen ', ' Chris Pureka ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

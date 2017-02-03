@@ -1,38 +1,37 @@
-location,event,date,artists,genre
-Zürich,Ex-America-lux-Lunchkonzert,2014-01-16,"['Elisabeth Harringer-Pignat ', ' Antonia Siegers ', ' Johannes Gürth ', ' Gabriele Ardizzone ', ' Ute Grewel ']",Classic
-Luzern,Lunchkonzert-3,2014-01-16,"['Terry Wey ', ' Luca Pianca ', ' Vittorio Ghielmi ']",Classic
-Baden,After-Work,2014-01-16,"['Live: Camila Arantes ', ' Camila Arantes ', ' Marcos Concalves ', ' Willi Hauenstein ']",
-Zürich,Surprise,2014-01-16,"['Tanja Sonc ', ' Cristina Ardizzone ', ' Giorgia Elena Cervini ', ' Tehila Machado ']",Classic
-Basel,Materrezital,2014-01-16,[' Iván Gonzalez Escuder '],Classic
-Luzern,Emilie-und-Don-Juan,2014-01-16,"[' Pia Freund ', ' Martin Fröst ']",Classic
-Zürich,Französische-und-englische-Romantik,2014-01-16,['Roger Sayer '],Classic
-Basel,AMG-Solistenabende,2014-01-16,['Mitsuko Uchida '],Classic
-null,2.-Meisterzyklus-Konzert,2014-01-16,"[' Stephanie Gonley ', ' Laura Samuel ', ' Philip Dukes ', ' Bjorg Lewis ', ' Ian Brown ']",Classic
-Zürich,Thursday-Night-Jazz,2014-01-16,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-null,Ave-Maria,2014-01-16,"['Una Prelle ', ' Ursula Ferri ']",Classic
-Zürich,Am-Bruch-zur-Moderne,2014-01-16,"['Sybille Diethelm ', ' Valentin Johannes Gloor ', ' Edward Rushton ']",Classic
-Zürich,Marcel-Lüscher-&-Kristinn-Smári-Kristinsson,2014-01-16,"[' Marcel Lüscher ', ' Kristinn Smári Kristinsson ']",
-null,Staring-Girl-visuelles-Konzert,2014-01-16,"[' Aline Goffin ', ' Joris Caluwaerts ', ' Frederik Meulyzer ']",Classic
-Sissach,Malewitschklang-Odyssee,2014-01-16,"[' Felix Müller ', ' Chaschper Kron ', ' Ueli Berger ']",
-Zürich,Melch-Däniker-Trio,2014-01-16,"[' Melch Däniker ', ' Kalli Gerhards ', ' Fernand Schlumpf ']",
-Basel,Herbie's-Explo-3000,2014-01-16,"[' Adi Pflugshaupt ', ' Hans Feigenwinter ', ' Pius Baschnagel ', ' Herbie Kopf ']",
-Chur,Pippo-Pollina-&-Palermo-Acoustic-Quartett,2014-01-16,['Pippo Pollina & Palermo Acoustic Quartett '],Pop
-Basel,Anima-Trianguli,2014-01-16,"[' Marcus Weiss ', ' Catalina Vicens ']",Classic
-Zürich,William-White,2014-01-16,['William White '],Pop
-Rheinfelden,Romantische-Reisen,2014-01-16,[' Christian Lampert '],Classic
-Luzern,Salonmusik,2014-01-16,"['Martin Schaefer ', ' Richard Decker ']",Classic
-Zürich,The-Dreadnoughts,2014-01-16,"['The Dreadnoughts ', ' Talco ']",
-Kloten,Rob-Tognoni,2014-01-16,['Rob Tognoni '],
-Baden,Schuller's-Circle-Wide,2014-01-16,"[' George Schuller ', ' Dave Ambrosio ', ' Jason Rigby ', ' Brad Shepik ', ' Tom Beckham ']",
-Basel,Masterrezital,2014-01-16,[' Olga Johana Marulanda Guzmán '],Classic
-Winterthur,Heavy-Hat,2014-01-16,"[' Luca Sisera ', ' Michael Jaeger ', ' Silvio Cadotsch ', ' Yves Theiler ', ' Michi Stulz ']",
-Baden,Jazz-Rice-Performance,2014-01-16,"[' Raphael Loher ', ' Sara Käser ', ' Vincent Glanzmann ']",
-Luzern,Workshopkonzert,2014-01-16,"['Szymon Bialorucki ', ' Alessio Gazzetta ', ' Martin Vinje ', ' Rafael Jerjen ', ' Jonas Burren ']",
-Liebefeld,The-Fence-Quartet,2014-01-16,"[' Tino Tracanna ', ' Gabriele Pezzoli ', ' Simon Quinn ', ' Brian Quinn ']",
-Zürich,Dom-La-Nena,2014-01-16,['Dom La Nena '],
-Bern,Easy-October,2014-01-16,['Easy October '],Pop
-Lausanne,Bettens,2014-01-16,['Bettens '],Pop
-Sankt-Gallen,Son-Lux,2014-01-16,['Son Lux '],Electronic
-Winterthur,Happy-Jawbone-Family-Band,2014-01-16,['Happy Jawbone Family Band '],
-Zürich,Velojet,2014-01-16,['Velojet '],
-Luzern,Jam-Session,2014-01-16,['Richard Decker '],
+,location,event,date,artists,genre
+0,Z?rich,Ex-America-lux-Lunchkonzert,2014-01-16,"['Elisabeth Harringer-Pignat ', ' Antonia Siegers ', ' Johannes G?rth ', ' Gabriele Ardizzone ', ' Ute Grewel ']",['Classic']
+1,Luzern,Lunchkonzert-3,2014-01-16,"['Terry Wey ', ' Luca Pianca ', ' Vittorio Ghielmi ']",['Classic']
+2,Baden,After-Work,2014-01-16,"['Live: Camila Arantes ', ' Camila Arantes ', ' Marcos Concalves ', ' Willi Hauenstein ']","['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+3,Z?rich,Surprise,2014-01-16,"['Tanja Sonc ', ' Cristina Ardizzone ', ' Giorgia Elena Cervini ', ' Tehila Machado ']",['Classic']
+4,Basel,Materrezital,2014-01-16,[' Iv?n Gonzalez Escuder '],['Classic']
+5,Basel,AMG-Solistenabende,2014-01-16,['Mitsuko Uchida '],['Classic']
+6,Z?rich,Thursday-Night-Jazz,2014-01-16,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+7,Luzern,Emilie-und-Don-Juan,2014-01-16,"[' Pia Freund ', ' Martin Fr?st ']",['Classic']
+8,null,2.-Meisterzyklus-Konzert,2014-01-16,"[' Stephanie Gonley ', ' Laura Samuel ', ' Philip Dukes ', ' Bjorg Lewis ', ' Ian Brown ']",['Classic']
+9,Z?rich,Franz?sische-und-englische-Romantik,2014-01-16,['Roger Sayer '],['Classic']
+10,Luzern,Salonmusik,2014-01-16,"['Martin Schaefer ', ' Richard Decker ']",['Classic']
+11,null,Ave-Maria,2014-01-16,"['Una Prelle ', ' Ursula Ferri ']",['Classic']
+12,Basel,Herbie's-Explo-3000,2014-01-16,"[' Adi Pflugshaupt ', ' Hans Feigenwinter ', ' Pius Baschnagel ', ' Herbie Kopf ']","['Jazz', 'Blues', 'Soul']"
+13,Basel,Anima-Trianguli,2014-01-16,"[' Marcus Weiss ', ' Catalina Vicens ']",['Classic']
+14,Z?rich,Am-Bruch-zur-Moderne,2014-01-16,"['Sybille Diethelm ', ' Valentin Johannes Gloor ', ' Edward Rushton ']",['Classic']
+15,Z?rich,William-White,2014-01-16,['William White '],['Pop']
+16,Z?rich,Marcel-L?scher-&-Kristinn-Sm?ri-Kristinsson,2014-01-16,"[' Marcel L?scher ', ' Kristinn Sm?ri Kristinsson ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Melch-D?niker-Trio,2014-01-16,"[' Melch D?niker ', ' Kalli Gerhards ', ' Fernand Schlumpf ']","['Jazz', 'Blues', 'Soul']"
+18,Rheinfelden,Romantische-Reisen,2014-01-16,[' Christian Lampert '],['Classic']
+19,Sissach,Malewitschklang-Odyssee,2014-01-16,"[' Felix M?ller ', ' Chaschper Kron ', ' Ueli Berger ']","['Jazz', 'Blues', 'Soul']"
+20,Chur,Pippo-Pollina-&-Palermo-Acoustic-Quartett,2014-01-16,[' Palermo Acoustic Quartett '],['Pop']
+21,Z?rich,The-Dreadnoughts,2014-01-16,"['The Dreadnoughts ', ' Talco ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Winterthur,Heavy-Hat,2014-01-16,"[' Luca Sisera ', ' Michael Jaeger ', ' Silvio Cadotsch ', ' Yves Theiler ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+23,Baden,Schuller's-Circle-Wide,2014-01-16,"[' George Schuller ', ' Dave Ambrosio ', ' Jason Rigby ', ' Brad Shepik ', ' Tom Beckham ']","['Jazz', 'Blues', 'Soul']"
+24,Basel,Masterrezital,2014-01-16,[' Olga Johana Marulanda Guzm?n '],['Classic']
+25,Kloten,Rob-Tognoni,2014-01-16,['Rob Tognoni '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Bern,Easy-October,2014-01-16,['Easy October '],['Pop']
+27,Z?rich,Dom-La-Nena,2014-01-16,['Dom La Nena '],"['Jazz', 'Blues', 'Soul']"
+28,Luzern,Workshopkonzert,2014-01-16,"['Szymon Bialorucki ', ' Alessio Gazzetta ', ' Martin Vinje ', ' Rafael Jerjen ', ' Jonas Burren ']","['Jazz', 'Blues', 'Soul']"
+29,Liebefeld,The-Fence-Quartet,2014-01-16,"[' Tino Tracanna ', ' Gabriele Pezzoli ', ' Simon Quinn ', ' Brian Quinn ']","['Jazz', 'Blues', 'Soul']"
+30,Baden,Jazz-Rice-Performance,2014-01-16,"[' Raphael Loher ', ' Sara K?ser ', ' Vincent Glanzmann ']","['Jazz', 'Blues', 'Soul']"
+31,Lausanne,Bettens,2014-01-16,['Bettens '],['Pop']
+32,Sankt-Gallen,Son-Lux,2014-01-16,['Son Lux '],['Electronic']
+33,Winterthur,Happy-Jawbone-Family-Band,2014-01-16,['Happy Jawbone Family Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Luzern,Jam-Session,2014-01-16,['Richard Decker '],"['Jazz', 'Blues', 'Soul']"
+35,Z?rich,Velojet,2014-01-16,['Velojet '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

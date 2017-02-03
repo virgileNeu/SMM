@@ -1,42 +1,38 @@
-location,event,date,artists,genre
-Gstaad,Menuhin-Festival-Gstaad,2014-08-30,"[""Elinor d'Melon "", ' Irina Vinogradova ']",Classic
-Willisau,Jazz-Festival-Willisau,2014-08-30,['Roman Nowka '],
-Zug,Rock-the-Docks,2014-08-30,['The Sounds '],
-Luzern,Moderne-3,2014-08-30,[' Felix Renggli '],Classic
-Willisau,Jazz-Festival-Willisau,2014-08-30,"[' Munir Hossn ', ' Toni Schiavano ', ' Flo Reichle ']",
-Glattbrugg,Zürich-Openair,2014-08-30,"['Röyksopp & Robyn ', ' Bloody Beetroots ', ' White Lies ', ' Mo ', ' Fritz Kalkbrenner ', ' Klangkarussell ']",Pop
-Basel,Orgelmusik-über-Mittag,2014-08-30,['Matthias Pech '],Classic
-Arbon,Summerdays-Festival,2014-08-30,"['Jamiroquai ', ' The Boss Hoss ', ' Tim Bendzko ']",Pop
-Willisau,Jazz-Festival-Willisau,2014-08-30,"[' Brian Blade & The Fellowship Band ', ' Gabriela Friedli ', ' Co Streiff ', ' Jan Schlegel ', ' Dieter Ulrich ']",
-null,Les-digitales,2014-08-30,"['Punky ', ' Kaumwald ']",Electronic
-Luzern,Moderne-4,2014-08-30,[' Anu Komsi '],Classic
-Zürich,Orchester-und-Orgelmusik-der-Spätromantik,2014-08-30,[' Jörg Ulrich Busch '],Classic
-Murten,Murten-Classics-Offen-für-Neues,2014-08-30,"['Son Lam Tran ', ' works by Sophie Chaillot ']",Classic
-Luzern,Piano-Entertainment,2014-08-30,['Herb Miller '],
-Frick,Russkaja,2014-08-30,"['Russkaja ', ' No Water Please ', ' Regis Gizavo Trio ']",
-Luzern,Sinfoniekonzert-13,2014-08-30,[' Rudolf Buchbinder '],Classic
-Liestal,Singschule-Liestal,2014-08-30,"[' Yves-Pierre ', ' Martin von Rüte ']",Pop
-Zürich,Jubiläumskonzert,2014-08-30,[' Benjamin Engeli '],Classic
-Luzern,Alte-Musik-1,2014-08-30,"['Valer Sabadus ', ' Axel Wolf ']",Classic
-Gstaad,Menuhin-Festival-Gstaad,2014-08-30,"[' Khatia Buniatishvili ', ' Vilde Frang ']",Classic
-Brunnen,Verzweigt,2014-08-30,"['Luisa Splett ', ' Eva Geiler ']",Classic
-Montreux,Septembre-musical,2014-08-30,[' Mikhail Pletnev '],Classic
-Willisau,Jazz-Festival-Willisau,2014-08-30,"[' Wayside Wayfarer ', ' Bänz Oester ', ' Ganesh Geymeier ', ' Afrika Mkhize ', ' Ayanda Sikade ']",
-Binningen,Alphorn-trifft-Kammerorchester,2014-08-30,[' works by Balthasar Streiff '],Classic
-Bern,Attwenger,2014-08-30,['Attwenger '],
-Murten,Murten-Classics-Sinfoniekonzert,2014-08-30,[' Andrei Korobeïnikov '],Classic
-null,Day-&-Taxi,2014-08-30,"[' Christoph Gallio ', ' Silvan Jeger ', ' David Meier ']",
-Brugg,Da-Cruz,2014-08-30,['Da Cruz '],
-Pratteln,Ryan-McGarvey,2014-08-30,['Ryan McGarvey '],
-Zürich,Rockin'-Chair,2014-08-30,"[' Oliver Martin ', ' Adrian Erne ', ' Hardy Spirig ', ' Max Richner ', ' Andres Schmocker ']",Pop
-Pratteln,Ryan-McGarvey,2014-08-30,"['Ryan McGarvey ', ' Ryan McGarvey ', ' Sam Miller ', ' Chris Hill ']",
-Baden,Donadio-Family-Band,2014-08-30,"[' Dalia ', ' Madlen ', ' Moreno ', ' Toni Donadio ']",
-Chur,Riccarda-Vedana,2014-08-30,"['Riccarda Vedana ', ' Ernst Eggenberger ', ' Felix Rüedi ', ' Andreas Ebenkofler ', ' Rolf Caflisch ']",
-Basel,Masterabsolventen-der-Hochschule-für-Musik-Basel,2014-08-30,"[' Julie Fahrer ', ' Neele Pfleiderer ', ' Sebastian Hirsig ']",
-Nyon,Luna-Classics,2014-08-30,"['Nigel Kennedy ', ' Jean-Luc Ponty ']",Classic
-Aarau,Musig-i-de-Altstadt,2014-08-30,"['Jonas Alaska ', ' The Great Park ']",
-Olten,Curse,2014-08-30,['Curse '],
-Bern,Saisoneröffnung,2014-08-30,['Skip & Die '],
-Luzern,Late-Night-2,2014-08-30,[' Huw Watkins '],Classic
-Schaffhausen,Intersity-Musikfestival,2014-08-30,"['DJs Ahmed Samy ', ' Abdel Hady ']",
-Willisau,Jazz-Festival-Willisau,2014-08-30,"[' Big Zis ', ' Domenico Ferrari ', ' Beni 06 ', ' Luca Ramella ', ' Grappa Inc. ', ' Igor Stepniewski ']",
+,location,event,date,artists,genre
+0,Gstaad,Menuhin-Festival-Gstaad,2014-08-30,"[""Elinor d'Melon "", ' Irina Vinogradova ']",['Classic']
+1,Luzern,Moderne-3,2014-08-30,[' Felix Renggli '],['Classic']
+2,Zug,Rock-the-Docks,2014-08-30,['The Sounds '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Willisau,Jazz-Festival-Willisau,2014-08-30,['Roman Nowka '],"['Jazz', 'Blues', 'Soul']"
+4,Willisau,Jazz-Festival-Willisau,2014-08-30,"[' Munir Hossn ', ' Toni Schiavano ', ' Flo Reichle ']","['world', 'music']"
+5,Basel,Orgelmusik-?ber-Mittag,2014-08-30,['Matthias Pech '],['Classic']
+6,Willisau,Jazz-Festival-Willisau,2014-08-30,"[' The Fellowship Band ', ' Gabriela Friedli ', ' Co Streiff ', ' Jan Schlegel ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+7,null,Les-digitales,2014-08-30,"['Punky ', ' Kaumwald ']",['Electronic']
+8,Luzern,Moderne-4,2014-08-30,[' Anu Komsi '],['Classic']
+9,Murten,Murten-Classics-Offen-f?r-Neues,2014-08-30,"['Son Lam Tran ', ' works by Sophie Chaillot ']",['Classic']
+10,Z?rich,Orchester-und-Orgelmusik-der-Sp?tromantik,2014-08-30,[' J?rg Ulrich Busch '],['Classic']
+11,Luzern,Piano-Entertainment,2014-08-30,['Herb Miller '],"['Jazz', 'Blues', 'Soul']"
+12,Luzern,Sinfoniekonzert-13,2014-08-30,[' Rudolf Buchbinder '],['Classic']
+13,Frick,Russkaja,2014-08-30,"['Russkaja ', ' No Water Please ', ' Regis Gizavo Trio ']","['world', 'music']"
+14,Liestal,Singschule-Liestal,2014-08-30,"[' Yves-Pierre ', ' Martin von R?te ']",['Pop']
+15,Luzern,Alte-Musik-1,2014-08-30,"['Valer Sabadus ', ' Axel Wolf ']",['Classic']
+16,Gstaad,Menuhin-Festival-Gstaad,2014-08-30,"[' Khatia Buniatishvili ', ' Vilde Frang ']",['Classic']
+17,Z?rich,Jubil?umskonzert,2014-08-30,[' Benjamin Engeli '],['Classic']
+18,Montreux,Septembre-musical,2014-08-30,[' Mikhail Pletnev '],['Classic']
+19,Brunnen,Verzweigt,2014-08-30,"['Luisa Splett ', ' Eva Geiler ']",['Classic']
+20,Binningen,Alphorn-trifft-Kammerorchester,2014-08-30,[' works by Balthasar Streiff '],['Classic']
+21,Bern,Attwenger,2014-08-30,['Attwenger '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Murten,Murten-Classics-Sinfoniekonzert,2014-08-30,[' Andrei Korobe?nikov '],['Classic']
+23,Willisau,Jazz-Festival-Willisau,2014-08-30,"[' Wayside Wayfarer ', ' B?nz Oester ', ' Ganesh Geymeier ', ' Afrika Mkhize ', ' Ayanda Sikade ']","['Jazz', 'Blues', 'Soul']"
+24,null,Day-&-Taxi,2014-08-30,"[' Christoph Gallio ', ' Silvan Jeger ', ' David Meier ']","['Jazz', 'Blues', 'Soul']"
+25,Pratteln,Ryan-McGarvey,2014-08-30,['Ryan McGarvey '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Pratteln,Ryan-McGarvey,2014-08-30,"['Ryan McGarvey ', ' Ryan McGarvey ', ' Sam Miller ', ' Chris Hill ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Z?rich,Rockin'-Chair,2014-08-30,"[' Oliver Martin ', ' Adrian Erne ', ' Hardy Spirig ', ' Max Richner ', ' Andres Schmocker ']",['Pop']
+28,Baden,Donadio-Family-Band,2014-08-30,"[' Dalia ', ' Madlen ', ' Moreno ', ' Toni Donadio ']","['world', 'music']"
+29,Chur,Riccarda-Vedana,2014-08-30,"['Riccarda Vedana ', ' Ernst Eggenberger ', ' Felix R?edi ', ' Andreas Ebenkofler ', ' Rolf Caflisch ']","['world', 'music']"
+30,Basel,Masterabsolventen-der-Hochschule-f?r-Musik-Basel,2014-08-30,"[' Julie Fahrer ', ' Neele Pfleiderer ', ' Sebastian Hirsig ']","['Jazz', 'Blues', 'Soul']"
+31,Brugg,Da-Cruz,2014-08-30,['Da Cruz '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Nyon,Luna-Classics,2014-08-30,"['Nigel Kennedy ', ' Jean-Luc Ponty ']",['Classic']
+33,Olten,Curse,2014-08-30,['Curse '],"['Hip', 'Hop', ""R'n'B""]"
+34,Aarau,Musig-i-de-Altstadt,2014-08-30,"['Jonas Alaska ', ' The Great Park ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Luzern,Late-Night-2,2014-08-30,[' Huw Watkins '],['Classic']
+36,Willisau,Jazz-Festival-Willisau,2014-08-30,"[' Big Zis ', ' Domenico Ferrari ', ' Beni 06 ', ' Luca Ramella ', ' Grappa Inc. ', ' Igor Stepniewski ']","['Hip', 'Hop', ""R'n'B""]"

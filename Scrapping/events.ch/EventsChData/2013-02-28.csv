@@ -1,31 +1,31 @@
-location,event,date,artists,genre
-Zürich,Lunchkonzert,2013-02-28,"[' Andreas Janke ', ' Elisabeth Bundies ', ' David Greenlees ', ' Christian Proske ']",Classic
-Zürich,Jazz-Apéro,2013-02-28,['Mike Ryrie '],
-Zürich,Cannibal-Corpse,2013-02-28,"['Cannibal Corpse ', ' Devil Driver ', ' support: The Black Dahlia Murder ', ' Winds Of Plague ']",
-Zürich,Konzert-für-Mitglieder-und-Gönner,2013-02-28,[' Rafal Blechacz '],Classic
-Luzern,Rhapsody-in-Blue,2013-02-28,[' Kirill Gerstein '],Classic
-Zürich,Thursday-Night-Jazz,2013-02-28,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Bern,Requiem-op.-48,2013-02-28,"[' Verena Krause ', ' Andrew Ashwin ']",Classic
-Luzern,Salonmusik,2013-02-28,"['Martin Schaefer ', ' Richard Decker ']",Classic
-Olten,Kammerorchester-Basel,2013-02-28,[' Albrecht Mayer '],Classic
-Hallenstadion,Zürich,2013-02-28,['Paul Kalkbrenner '],
-TaK-Theater-Liechtenstein,null,2013-02-28,"[' Oleksandr Klimas ', ' Oleg Nehls ', ' Tom Auffarth ', ' Jan Zimmermann ']",Talisman
-Basel,Hommage-à-Johann-Sebastian-Bach,2013-02-28,['Magdalena Malec '],Classic
-Zürich,Konzert,2013-02-28,"[' Iryna Gintova ', ' Anton Vilkhov ', ' Magdalena Rosa Dür ']",Classic
-Baden,Duke-Robillard,2013-02-28,['Duke Robillard '],
-Zürich,Liederabend,2013-02-28,"['Olga Kindler ', ' Maksim Maruchek ']",Classic
-Rheinfelden,Bill-Charlap-Trio,2013-02-28,"['Bill Charlap Trio ', ' Bill Charlap ', ' Kenny Washington ', ' Peter Washington ']",
-null,Yang-Jing-&-Christy-Doran,2013-02-28,"['Yang Jing ', ' Christy Doran ']",
-Winterthur,Nigunim,2013-02-28,"[' Noam Szyfer ', ' Flo Baumann ', ' Jannik Till ']",
-Basel,Dominic-Eglis-Plurism,2013-02-28,"[' Donat Fisch ', ' Raffaele Bossard ', ' Dominic Egli ']",
-Liebefeld,Intensivstation,2013-02-28,"[' John Schröder ', ' Wolfgang Zwiauer ', ' Alfred Vogel ']",
-Bazillus,Zürich,2013-02-28,"[' Andi Schnellmann ', ' Manuel Troller ', ' David Meier ']",Schnellertollermeier
-Pratteln,Vdelli,2013-02-28,['Vdelli '],
-Kultwerk,Thalwil,2013-02-28,"[' Hämi Hämmerli ', ' Christoph Baumann ', ' Tony Renold ', ' Isa Wiss ']",Hausquartett
-Bern,Spring-Offensive,2013-02-28,['Spring Offensive '],
-Zürich,Tineke-Postma-Quartet,2013-02-28,"['Tineke Postma Quartet ', ' Tineke Postma ', ' Marc van Roon ', ' Frans van der Hoeven ', ' Martjin Vink ']",
-Hive-Club,Zürich,2013-02-28,['Goose '],Goose
-Sankt-Gallen,Box,2013-02-28,['Box '],Electronic
-Zürich,Konzert,2013-02-28,['Stefan Wittwer '],Classic
-Luzern,Jam-Session,2013-02-28,['Richard Decker '],
-Bar-Rossi,Zürich,2013-02-28,"[' Marion Weik ', ' Steven Parry ', ' Benno Ernst ', ' Beni Schlapbach ', ' Thomas Blättler ']",
+,location,event,date,artists,genre
+0,Zürich,Lunchkonzert,2013-02-28,"[' Andreas Janke ', ' Elisabeth Bundies ', ' David Greenlees ', ' Christian Proske ']",['Classic']
+1,Zürich,Jazz-Apéro,2013-02-28,['Mike Ryrie '],"['Jazz', 'Blues', 'Soul']"
+2,Zürich,Cannibal-Corpse,2013-02-28,"['Cannibal Corpse ', ' Devil Driver ', ' support: The Black Dahlia Murder ', ' Winds Of Plague ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Zürich,Konzert-für-Mitglieder-und-Gönner,2013-02-28,[' Rafal Blechacz '],['Classic']
+4,Luzern,Rhapsody-in-Blue,2013-02-28,[' Kirill Gerstein '],['Classic']
+5,Zürich,Thursday-Night-Jazz,2013-02-28,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+6,Bern,Requiem-op.-48,2013-02-28,"[' Verena Krause ', ' Andrew Ashwin ']",['Classic']
+7,Zürich,Liederabend,2013-02-28,"['Olga Kindler ', ' Maksim Maruchek ']",['Classic']
+8,Luzern,Salonmusik,2013-02-28,"['Martin Schaefer ', ' Richard Decker ']",['Classic']
+9,Hallenstadion,Zürich,2013-02-28,['Paul Kalkbrenner '],"['Paul', 'Kalkbrenner']"
+10,Olten,Kammerorchester-Basel,2013-02-28,[' Albrecht Mayer '],['Classic']
+11,Basel,Hommage-à-Johann-Sebastian-Bach,2013-02-28,['Magdalena Malec '],['Classic']
+12,Zürich,Konzert,2013-02-28,"[' Iryna Gintova ', ' Anton Vilkhov ', ' Magdalena Rosa Dür ']",['Classic']
+13,Baden,Duke-Robillard,2013-02-28,['Duke Robillard '],"['Jazz', 'Blues', 'Soul']"
+14,TaK-Theater-Liechtenstein,null,2013-02-28,"[' Oleksandr Klimas ', ' Oleg Nehls ', ' Tom Auffarth ', ' Jan Zimmermann ']",['Talisman']
+15,Rheinfelden,Bill-Charlap-Trio,2013-02-28,"['Bill Charlap Trio ', ' Bill Charlap ', ' Kenny Washington ', ' Peter Washington ']","['Jazz', 'Blues', 'Soul']"
+16,null,Yang-Jing-&-Christy-Doran,2013-02-28,"['Yang Jing ', ' Christy Doran ']","['Jazz', 'Blues', 'Soul']"
+17,Winterthur,Nigunim,2013-02-28,"[' Noam Szyfer ', ' Flo Baumann ', ' Jannik Till ']","['Jazz', 'Blues', 'Soul']"
+18,Bern,Spring-Offensive,2013-02-28,['Spring Offensive '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Bazillus,Zürich,2013-02-28,"[' Andi Schnellmann ', ' Manuel Troller ', ' David Meier ']",['Schnellertollermeier']
+20,Kultwerk,Thalwil,2013-02-28,"[' Hämi Hämmerli ', ' Christoph Baumann ', ' Tony Renold ', ' Isa Wiss ']",['Hausquartett']
+21,Zürich,Tineke-Postma-Quartet,2013-02-28,"['Tineke Postma Quartet ', ' Tineke Postma ', ' Marc van Roon ', ' Frans van der Hoeven ', ' Martjin Vink ']","['Jazz', 'Blues', 'Soul']"
+22,Pratteln,Vdelli,2013-02-28,['Vdelli '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Basel,Dominic-Eglis-Plurism,2013-02-28,"[' Donat Fisch ', ' Raffaele Bossard ', ' Dominic Egli ']","['Jazz', 'Blues', 'Soul']"
+24,Liebefeld,Intensivstation,2013-02-28,"[' John Schröder ', ' Wolfgang Zwiauer ', ' Alfred Vogel ']","['Jazz', 'Blues', 'Soul']"
+25,Sankt-Gallen,Box,2013-02-28,['Box '],['Electronic']
+26,Zürich,Konzert,2013-02-28,['Stefan Wittwer '],['Classic']
+27,Hive-Club,Zürich,2013-02-28,['Goose '],['Goose']
+28,Luzern,Jam-Session,2013-02-28,['Richard Decker '],"['Jazz', 'Blues', 'Soul']"
+29,Bar-Rossi,Zürich,2013-02-28,"[' Marion Weik ', ' Steven Parry ', ' Benno Ernst ', ' Beni Schlapbach ', ' Thomas Blättler ']","['Sugar', 'and', 'the', 'Josephines']"

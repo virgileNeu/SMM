@@ -1,28 +1,28 @@
-location,event,date,artists,genre
-null,1.-Mittagskonzert,2013-02-08,['Alexej Ljubimov '],Classic
-Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-02-08,['Mark Tenger '],
-Basel,Orgelspiel-zum-Feierabend,2013-02-08,['Brigitte Salvisberg '],Classic
-Dietikon,Feierabendmusik,2013-02-08,['Bernhard Hörler '],Classic
-Zürich,Konzert,2013-02-08,[' Krystian Zimerman '],Classic
-Basel,Violinsonaten,2013-02-08,"['Stefano Delle Donne ', ' Alessandro Tardino ']",Classic
-Casino-Herisau,Herisau,2013-02-08,['Annett Louisan '],
-Zürich,Acoustic-Africa,2013-02-08,['Acoustic Africa '],
-Basel,Trio-Klick,2013-02-08,"[' Fritz Hauser ', ' Lucas Niggli ', ' Peter Conradin Zumthor ']",Classic
-Winterthur,Sophie-Lüssi-String-Quartet,2013-02-08,"[' Sophie Lüssi ', ' Leonardo Ferreyra ', ' Rahel Zellweger ', ' Andreas Ochsner ']",
-Pratteln,Boppin-B.,2013-02-08,['Boppin B. '],
-Lugano,Concerti-Dell'auditorio-2013,2013-02-08,['Pavel Berman '],Classic
-Zürich,Candye-Kane-Band-feat.-Laura-Chavez,2013-02-08,"['Candye Kane Band feat. Laura Chavez ', ' Candye Kane ', ' Laura Chavez ']",
-Basel,Antonio-Faraò-Trio,2013-02-08,"[' Antonio Faraò ', ' Martin Gjakonovski ', ' Vladimir Kostadinovic ']",
-Winterthur,Skolvan,2013-02-08,['Skolvan '],
-Südpol,Kriens,2013-02-08,['Efterklang '],Efterklang
-Jugendkulturhaus-Flösserplatz,Aarau,2013-02-08,['Olli Banjo '],
-Uzwil,Bright,2013-02-08,"[' Stefan Eberhard ', ' Reto Langenegger ', ' Dani Eberhard ', ' Alwin Büchler ']",
-Zürich,Marvin-Trummer-Quartett,2013-02-08,"[' Nicolas Stocker ', ' Niculin Janett ', ' Moritz Mayer ', ' Marvin Trummer ']",
-Buchs,Cancer,2013-02-08,[' I Have None '],
--Sud-des-Alpes,null,2013-02-08,"[' Simon Spiess ', ' Marco Nenniger ', ' Daniel Mudrack ']",
-Zürich,Darkstar,2013-02-08,['Darkstar '],Electronic
-Münchenstein,Emily-Wells,2013-02-08,['Emily Wells '],Pop
-Zürich,Sun-of-Moon,2013-02-08,['Sun of Moon '],Pop
-Bar-Rossi,Zürich,2013-02-08,['Float Fall '],
-Aarau,Ky-Mani-Marley,2013-02-08,['Ky-Mani Marley '],
-Zürich,N.I.C.H.T.S-2.0,2013-02-08,['N.I.C.H.T.S 2.0 '],
+,location,event,date,artists,genre
+0,null,1.-Mittagskonzert,2013-02-08,['Alexej Ljubimov '],['Classic']
+1,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-02-08,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+2,Basel,Orgelspiel-zum-Feierabend,2013-02-08,['Brigitte Salvisberg '],['Classic']
+3,Dietikon,Feierabendmusik,2013-02-08,['Bernhard Hörler '],['Classic']
+4,Zürich,Konzert,2013-02-08,[' Krystian Zimerman '],['Classic']
+5,Basel,Violinsonaten,2013-02-08,"['Stefano Delle Donne ', ' Alessandro Tardino ']",['Classic']
+6,Casino-Herisau,Herisau,2013-02-08,['Annett Louisan '],"['Annett', 'Louisan']"
+7,Basel,Trio-Klick,2013-02-08,"[' Fritz Hauser ', ' Lucas Niggli ', ' Peter Conradin Zumthor ']",['Classic']
+8,Zürich,Acoustic-Africa,2013-02-08,['Acoustic Africa '],"['world', 'music']"
+9,Winterthur,Sophie-Lüssi-String-Quartet,2013-02-08,"[' Sophie Lüssi ', ' Leonardo Ferreyra ', ' Rahel Zellweger ', ' Andreas Ochsner ']","['Jazz', 'Blues', 'Soul']"
+10,Zürich,Candye-Kane-Band-feat.-Laura-Chavez,2013-02-08,"['Candye Kane Band feat. Laura Chavez ', ' Candye Kane ', ' Laura Chavez ']","['Jazz', 'Blues', 'Soul']"
+11,Basel,Antonio-Faraò-Trio,2013-02-08,"[' Antonio Faraò ', ' Martin Gjakonovski ', ' Vladimir Kostadinovic ']","['Jazz', 'Blues', 'Soul']"
+12,Lugano,Concerti-Dell'auditorio-2013,2013-02-08,['Pavel Berman '],['Classic']
+13,Pratteln,Boppin-B.,2013-02-08,['Boppin B. '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Jugendkulturhaus-Flösserplatz,Aarau,2013-02-08,['Olli Banjo '],"['Olli', 'Banjo']"
+15,Uzwil,Bright,2013-02-08,"[' Stefan Eberhard ', ' Reto Langenegger ', ' Dani Eberhard ', ' Alwin Büchler ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Südpol,Kriens,2013-02-08,['Efterklang '],['Efterklang']
+17,Zürich,Marvin-Trummer-Quartett,2013-02-08,"[' Nicolas Stocker ', ' Niculin Janett ', ' Moritz Mayer ', ' Marvin Trummer ']","['Jazz', 'Blues', 'Soul']"
+18,Winterthur,Skolvan,2013-02-08,['Skolvan '],"['Jazz', 'Blues', 'Soul']"
+19,-Sud-des-Alpes,null,2013-02-08,"[' Simon Spiess ', ' Marco Nenniger ', ' Daniel Mudrack ']","['Jazz', 'Blues', 'Soul']"
+20,Zürich,Darkstar,2013-02-08,['Darkstar '],['Electronic']
+21,Buchs,Cancer,2013-02-08,[' I Have None '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Münchenstein,Emily-Wells,2013-02-08,['Emily Wells '],['Pop']
+23,Aarau,Ky-Mani-Marley,2013-02-08,['Ky-Mani Marley '],"['Hip', 'Hop', ""R'n'B""]"
+24,Zürich,Sun-of-Moon,2013-02-08,['Sun of Moon '],['Pop']
+25,Bar-Rossi,Zürich,2013-02-08,['Float Fall '],"['Float', 'Fall']"
+26,Zürich,N.I.C.H.T.S-2.0,2013-02-08,['N.I.C.H.T.S 2.0 '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

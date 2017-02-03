@@ -1,18 +1,18 @@
-location,event,date,artists,genre
-Crans-Montana,Caprices-Festival,2013-03-11,[' Oil '],
-Solothurn,The-Larry-Woodley-Power-Trio,2013-03-11,"[' Larry Woodley ', ' Gaedon Luscher ', ' Salvatore Lombardo ']",
-Zürich,Spektrum-plus-Pling,2013-03-11,['Studierende der ZHdK '],Classic
-Zürich,Liedrezital-Zürich,2013-03-11,"['Laurent Naouri ', ' Sarah Tysman ']",Classic
-Zürich,The-Hunters,2013-03-11,['The Hunters '],
-Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-11,"['Björk ', ' The Weeknd ']",Björk
-Zürich,Example,2013-03-11,['Example '],Pop
-Flawil,Buddha-Scheidegger-Trio,2013-03-11,"[' Wieni Keller ', ' Buddha Scheidegger ', ' Hans Schläpfer ']",
-Kulturfabrik-Kofmehl,Solothurn,2013-03-11,['Stevie Cochran '],
-Winterthur,Nathaniel-Robin-Mann,2013-03-11,['Nathaniel Robin Mann '],Pop
-Chur,Konzert,2013-03-11,"[' Christoph Ess ', ' Timo Steininger ', ' Sebastian Schorr ', ' Stephan Schottstätt ']",Classic
-Baden,Yves-Theiler-Trio,2013-03-11,"[' Yves Theier ', ' Valentin Dietrich ', ' Lukas Mantel ']",
-Zürich,Scarlett-O'Hanna,2013-03-11,"[""Scarlett O'Hanna ""]",Pop
-Luzern,Bachelorprojekt-Konzerte,2013-03-11,"[' Gianluca Giger ', ' Valerio Lepori ', ' Mischa Maurer ', ' Clemens Kuratle ', ' Claudio Berger ', ' Michael Wosahlik ', ' Serge Hauri ', ' Lukas Kurmann ', ' Simon Gautsch ', ' Rea Hunziker ', ' Sascha Frischknecht ']",
-Kuppel,Basel,2013-03-11,"['Tina Dico ', ' Helgi Jonsson ']",
-Zürich,Pierre-Favre-Artist-in-Residence,2013-03-11,"[' Andreas Tschopp ', ' Bernhard Bamert ', ' Nils Wogram ', ' Jan Schreiner ', ' Pierre Favre ', ' Markus Lauterburg ']",
-Basel,John-Scofield-Organ-Trio-feat.-Larry-Goldings,2013-03-11,"[' John Scofield ', ' Larry Goldings ', ' Greg Hutchinson ']",
+,location,event,date,artists,genre
+0,Crans-Montana,Caprices-Festival,2013-03-11,[' Oil '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Solothurn,The-Larry-Woodley-Power-Trio,2013-03-11,"[' Larry Woodley ', ' Gaedon Luscher ', ' Salvatore Lombardo ']","['Jazz', 'Blues', 'Soul']"
+2,Zürich,The-Hunters,2013-03-11,['The Hunters '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-11,"['Björk ', ' The Weeknd ']",['Björk']
+4,Zürich,Spektrum-plus-Pling,2013-03-11,['Studierende der ZHdK '],['Classic']
+5,Zürich,Liedrezital-Zürich,2013-03-11,"['Laurent Naouri ', ' Sarah Tysman ']",['Classic']
+6,Zürich,Example,2013-03-11,['Example '],['Pop']
+7,Kulturfabrik-Kofmehl,Solothurn,2013-03-11,['Stevie Cochran '],"['Stevie', 'Cochran']"
+8,Winterthur,Nathaniel-Robin-Mann,2013-03-11,['Nathaniel Robin Mann '],['Pop']
+9,Flawil,Buddha-Scheidegger-Trio,2013-03-11,"[' Wieni Keller ', ' Buddha Scheidegger ', ' Hans Schläpfer ']","['Jazz', 'Blues', 'Soul']"
+10,Chur,Konzert,2013-03-11,"[' Christoph Ess ', ' Timo Steininger ', ' Sebastian Schorr ', ' Stephan Schottstätt ']",['Classic']
+11,Baden,Yves-Theiler-Trio,2013-03-11,"[' Yves Theier ', ' Valentin Dietrich ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"
+12,Zürich,Scarlett-O'Hanna,2013-03-11,"[""Scarlett O'Hanna ""]",['Pop']
+13,Kuppel,Basel,2013-03-11,"['Tina Dico ', ' Helgi Jonsson ']","['Tina', 'Dico']"
+14,Zürich,Pierre-Favre-Artist-in-Residence,2013-03-11,"[' Andreas Tschopp ', ' Bernhard Bamert ', ' Nils Wogram ', ' Jan Schreiner ', ' Pierre Favre ', ' Markus Lauterburg ']","['Jazz', 'Blues', 'Soul']"
+15,Basel,John-Scofield-Organ-Trio-feat.-Larry-Goldings,2013-03-11,"[' John Scofield ', ' Larry Goldings ', ' Greg Hutchinson ']","['Jazz', 'Blues', 'Soul']"
+16,Luzern,Bachelorprojekt-Konzerte,2013-03-11,"[' Gianluca Giger ', ' Valerio Lepori ', ' Mischa Maurer ', ' Clemens Kuratle ', ' Claudio Berger ', ' Michael Wosahlik ', ' Serge Hauri ', ' Lukas Kurmann ', ' Simon Gautsch ', ' Rea Hunziker ', ' Sascha Frischknecht ']","['Jazz', 'Blues', 'Soul']"

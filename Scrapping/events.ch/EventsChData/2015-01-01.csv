@@ -1,7 +1,7 @@
-location,event,date,artists,genre
-Basel,In-der-Wintersonne-erwärmt-sich-Dein-Traum,2015-01-01,"['Claudia Stark ', ' Jasna Bürgin ', ' Katharina Grünig ', ' Eva Maria Fahrni ']",Classic
-Zürich,Neujahrskonzert,2015-01-01,"[' Vesselina Kasarova ', ' Fabio Di Càsola ']",Classic
-Luzern,Il-regno-di-Napoli,2015-01-01,[' Milo Karadagli '],Classic
-Kappel-am-Albis,Musik-und-Wort-Undine,2015-01-01,"[' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes Bärtschi ']",Classic
-Bern,Neujahrskonzert,2015-01-01,[' Giuliano Carmignola '],Classic
-Horw,Neujahrsjazz,2015-01-01,"[' Benedikt Reising ', ' Marc Stucki ', ' Andreas Tschopp ', ' Marc Unternährer ', ' Rico Baumann ']",
+,location,event,date,artists,genre
+0,Z?rich,Neujahrskonzert,2015-01-01,"[' Vesselina Kasarova ', ' Fabio Di C?sola ']",['Classic']
+1,Luzern,Il-regno-di-Napoli,2015-01-01,[' Milo Karadagli '],['Classic']
+2,Basel,In-der-Wintersonne-erw?rmt-sich-Dein-Traum,2015-01-01,"['Claudia Stark ', ' Jasna B?rgin ', ' Katharina Gr?nig ', ' Eva Maria Fahrni ']",['Classic']
+3,Kappel-am-Albis,Musik-und-Wort-Undine,2015-01-01,"[' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes B?rtschi ']",['Classic']
+4,Bern,Neujahrskonzert,2015-01-01,[' Giuliano Carmignola '],['Classic']
+5,Horw,Neujahrsjazz,2015-01-01,"[' Benedikt Reising ', ' Marc Stucki ', ' Andreas Tschopp ', ' Marc Untern?hrer ', ' Rico Baumann ']","['Jazz', 'Blues', 'Soul']"

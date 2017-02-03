@@ -1,12 +1,10 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment,2014-01-03,['Herb Miller '],
-Basel,Orgelspiel-zum-Feierabend,2014-01-03,['Willi Tittel '],Classic
-Dietikon,Feierabendmusik,2014-01-03,"['Jörg Frei ', ' Bernhard Hörler ']",Classic
-Zürich,Opera-Box-L'île-de-Tulipatan-&-Monsieur-Choufleury,2014-01-03,"[' Andrea Suter ', ' Chelsey Schill ', ' Maja Hermann ', ' Raimund Wiederkehr ', ' Erich Bieri ']",Classic
-null,Heavy-New-Year-Destruction,2014-01-03,"[' Killing Age ', ' Cycle Beating ']",
-null,Neujahrskonzert,2014-01-03,"[' Stephanie Pfeffer ', ' Andreas Scheidegger ']",Classic
-Zürich,Thomas-Lüthi's-Biwak,2014-01-03,"[' Thomas Lüthi ', ' Arne Huber', ' Claudio Strüby']",
-Zürich,The-James-Brown-Tribute-Show,2014-01-03,"['Rich Fonje ', ' Dave Feusi ', ' Fabienne Hoerni ', ' René Mosele ', ' Matthew Savnik ', ' Sam Siegenthaler ']",
-Bern,Long-Distance-Calling,2014-01-03,['Long Distance Calling '],
-Zürich,International-Freestyle-Music-Festival,2014-01-03,['Fernweh & Hautnah '],
-Wetzikon,Circular-Sign,2014-01-03,['Circular Sign '],
+,location,event,date,artists,genre
+0,Basel,Orgelspiel-zum-Feierabend,2014-01-03,['Willi Tittel '],['Classic']
+1,Dietikon,Feierabendmusik,2014-01-03,"['J?rg Frei ', ' Bernhard H?rler ']",['Classic']
+2,Z?rich,Opera-Box-L'?le-de-Tulipatan-&-Monsieur-Choufleury,2014-01-03,"[' Andrea Suter ', ' Chelsey Schill ', ' Maja Hermann ', ' Raimund Wiederkehr ', ' Erich Bieri ']",['Classic']
+3,null,Neujahrskonzert,2014-01-03,"[' Stephanie Pfeffer ', ' Andreas Scheidegger ']",['Classic']
+4,null,Heavy-New-Year-Destruction,2014-01-03,"[' Killing Age ', ' Cycle Beating ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,Thomas-L?thi's-Biwak,2014-01-03,"[' Thomas L?thi ', ' Arne Huber', ' Claudio Str?by']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,The-James-Brown-Tribute-Show,2014-01-03,"['Rich Fonje ', ' Dave Feusi ', ' Fabienne Hoerni ', ' Ren? Mosele ', ' Matthew Savnik ', ' Sam Siegenthaler ']","['Hip', 'Hop', ""R'n'B""]"
+7,Z?rich,International-Freestyle-Music-Festival,2014-01-03,[' Hautnah '],"['Hip', 'Hop', ""R'n'B""]"
+8,Wetzikon,Circular-Sign,2014-01-03,['Circular Sign '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

@@ -1,16 +1,16 @@
-location,event,date,artists,genre
-Zürich,The-Dø,2015-02-18,['The Dø '],Pop
-Zürich,Internationales-Country-Music-Festival,2015-02-18,['Moot Davis & Band '],
-Zürich,Red-City-Radio,2015-02-18,"['Red City Radio ', ' support : Pears ']",
-Luzern,Trophy-Eyes,2015-02-18,"['Trophy Eyes ', ' As It Is ', ' Trash Boat ']",
-Zürich,Looptroop-Rockers,2015-02-18,"['Looptroop Rockers ', ' Eljot Quent ']",
-Solothurn,In-This-Moment,2015-02-18,['In This Moment '],
-Schaffhausen,Candy-Dulfer-&-Band,2015-02-18,['Candy Dulfer & Band '],
-Zürich,Jazzbaragge-Wednesday-Jam,2015-02-18,"['Colin Vallon ', ' Raphaël Ortis ', ' Raphael Pedroli ']",
-Zürich,Ensemble-5-Wednesday-4+1-Series,2015-02-18,"['Fridolin Blumer ', ' Heinz Geisser ', ' Robert Morgenthaler ', ' Reto Staub ', ' Jonas Labhart ']",
-Winterthur,Jazz-am-Mittwoch,2015-02-18,"[' Sarah Buechi ', ' Vincent Membrez ', ' André Pousaz ', ' Lionel Friedli ']",
-Basel,Bänz-Oester-&-The-Rainmakers,2015-02-18,"[' Ganesh Geymeier ', ' Afrika Mkhize ', ' Bänz Oester ', ' Ayanda Sikade ']",
-Zürich,Artist-in-Residence-Martin-Lorenz,2015-02-18,"[' Philipp Gropper ', ' Silke Lange ', ' Martin Lorenz ', ' Béatrice Graf ', ' Coralie Lonfat ']",
-Baden,Jürg-Metzger-Jazz-Trio-&-Mainstream-Jazz,2015-02-18,"[' Thomas Bosshard ', ' flh). Simon Wyrsch ', ' Peter Livers ', ' Jürg Metzger ']",
-Schaffhausen,Upstairs-&-Loud-abgesagt,2015-02-18,"['USA Nails ', ' Heads ']",
-Zürich,My-Brightest-Diamond,2015-02-18,"['My Brightest Diamond ', ' Tim Fite ']",Pop
+,location,event,date,artists,genre
+0,Z?rich,The-D?,2015-02-18,['The D? '],['Pop']
+1,Z?rich,Internationales-Country-Music-Festival,2015-02-18,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Luzern,Trophy-Eyes,2015-02-18,"['Trophy Eyes ', ' As It Is ', ' Trash Boat ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,Red-City-Radio,2015-02-18,"['Red City Radio ', ' support : Pears ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Schaffhausen,Candy-Dulfer-&-Band,2015-02-18,[' Band '],"['Hip', 'Hop', ""R'n'B""]"
+5,Solothurn,In-This-Moment,2015-02-18,['In This Moment '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Looptroop-Rockers,2015-02-18,"['Looptroop Rockers ', ' Eljot Quent ']","['Hip', 'Hop', ""R'n'B""]"
+7,Z?rich,Jazzbaragge-Wednesday-Jam,2015-02-18,"['Colin Vallon ', ' Rapha?l Ortis ', ' Raphael Pedroli ']","['Jazz', 'Blues', 'Soul']"
+8,Z?rich,Ensemble-5-Wednesday-4+1-Series,2015-02-18,"['Fridolin Blumer ', ' Heinz Geisser ', ' Robert Morgenthaler ', ' Reto Staub ', ' Jonas Labhart ']","['Jazz', 'Blues', 'Soul']"
+9,Winterthur,Jazz-am-Mittwoch,2015-02-18,"[' Sarah Buechi ', ' Vincent Membrez ', ' Andr? Pousaz ', ' Lionel Friedli ']","['world', 'music']"
+10,Basel,B?nz-Oester-&-The-Rainmakers,2015-02-18,"[' Ganesh Geymeier ', ' Afrika Mkhize ', ' B?nz Oester ', ' Ayanda Sikade ']","['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Artist-in-Residence-Martin-Lorenz,2015-02-18,"[' Philipp Gropper ', ' Silke Lange ', ' Martin Lorenz ', ' B?atrice Graf ', ' Coralie Lonfat ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Baden,J?rg-Metzger-Jazz-Trio-&-Mainstream-Jazz,2015-02-18,"[' Thomas Bosshard ', ' flh). Simon Wyrsch ', ' Peter Livers ', ' J?rg Metzger ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,My-Brightest-Diamond,2015-02-18,"['My Brightest Diamond ', ' Tim Fite ']",['Pop']
+14,Schaffhausen,Upstairs-&-Loud-abgesagt,2015-02-18,"['USA Nails ', ' Heads ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

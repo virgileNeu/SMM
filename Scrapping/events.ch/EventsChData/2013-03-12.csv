@@ -1,25 +1,25 @@
-location,event,date,artists,genre
-Crans-Montana,Caprices-Festival,2013-03-12,['Lescop '],
-Luzern,Piano-Entertainment-Pure-Melodies,2013-03-12,['Oliver Töngi '],Pop
-Zürich,Racine-&-Dreifuss-Slowmotion,2013-03-12,"[' Marianne Racine ', ' Marco Dreifuss ', ' Jojo Kunz ']",
-Bern,The-Larry-Woodley-Power-Trio,2013-03-12,"[' Larry Woodley ', ' Gaedon Luscher ', ' Salvatore Lombardo ']",
-Zürich,Konzert,2013-03-12,"['Franco Fagioli ', ' Willi Zimmermann ', ' Nicola Mosca ', ' Naoki Kitaya ', ' Emanuele Forni ', ' Kio Seiler ']",Classic
-Aarau,Long-Distance-Calling,2013-03-12,"['Long Distance Calling ', ' support: Solstafir ', ' Sahg ']",
-Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-12,"['Portishead ', ' Baxter Dury ']",Portishead
-Zürich,Momentaufnahme,2013-03-12,"['Gabriela Tanner ', ' Susanne Petersen ', ' Verena Barbara Gohl ', ' Christina Jaccard ']",Pop
-Basel,Peter's-Best,2013-03-12,"['Peter Bucher ', ' Jan Börner ', ' Ulrich Messthaler ']",Classic
-Chur,Katrin-Roush,2013-03-12,['Katrin Roush '],Pop
-Zürich,Christoph-Greuter-&-Peter-Maurer,2013-03-12,"[' Christoph Greuter ', ' Peter Maurer ']",
-Winterthur,Mondrian-Ensemble-:-presentimientos,2013-03-12,"[' Daniela Müller ', ' Petra Ackermann ', ' Martin Jaggi ', ' Tamriko Kordzaia ']",Classic
-Bernexpo,Bern,2013-03-12,['Mumford & Sons '],
-Zürich,John-Scofield-Organic-Trio,2013-03-12,"['John Scofield Organic Trio ', ' John Scofield ', ' Larry Goldings ', ' Greg Hutchinson ', ' Oliver Keller ', ' Thomi Jordi ', ' Kaspar Rast ']",
-Zürich,Claude-Diallo-Situation,2013-03-12,['Claude Diallo Situation '],
-Zürich,Lanz-Wolfarth,2013-03-12,"[' Joke Lanz ', ' Christian Wolfarth ']",
-Zürich,Contrastnacht,2013-03-12,"['Betty Steels ', ' Samuel Jon Samuelsson Big Band ', ' Samuel Jon Samuelsson ', ' Joel Palsson ', ' Steinar Sigurdarson ', ' Oskar Gudjonsson ', ' Kjartan Hakonarson ', ' Snorri Sigurdarson ']",Pop
-Winterthur,Ian-Fischer-&-The-Present,2013-03-12,['Ian Fischer & The Present '],
-Basel,Lisette-&-The-Swing-Thing,2013-03-12,"[' Lisette Spinnler ', ' Christian Gutfleisch ', ' Michael Chylewski ', ' Peter Schmidlin ']",
-Luzern,Bachelorprojekt-Konzerte,2013-03-12,"[' Sebastian Pietrowiak ', ' Mischa Maurer ', ' Gianluca Giger ', ' Clemens Kuratle ', ' Valentin Baumgartner ', ' David Heinzmann ', ' Daniel Stocker ', ' Vincent Glanzmann ', ' Dominik Landolt ', ' Martina Berther ', ' Vince Glanzmann ']",
-Zürich,Lakecia-Benjamin,2013-03-12,['Lakecia Benjamin '],
-Zürich,Schweizer-Holz-Trio,2013-03-12,"[' Hans Koch ', ' Urs Leimgruber ', ' Omri Ziegele ']",
-Basel,Get-Heavy-Mental,2013-03-12,"['Stear ', ' Black Packers ']",Electronic
-Zürich,Frontier-Ruckus,2013-03-12,['Frontier Ruckus '],
+,location,event,date,artists,genre
+0,Crans-Montana,Caprices-Festival,2013-03-12,['Lescop '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Luzern,Piano-Entertainment-Pure-Melodies,2013-03-12,['Oliver Töngi '],['Pop']
+2,Zürich,Racine-&-Dreifuss-Slowmotion,2013-03-12,"[' Marianne Racine ', ' Marco Dreifuss ', ' Jojo Kunz ']","['Jazz', 'Blues', 'Soul']"
+3,Bern,The-Larry-Woodley-Power-Trio,2013-03-12,"[' Larry Woodley ', ' Gaedon Luscher ', ' Salvatore Lombardo ']","['Jazz', 'Blues', 'Soul']"
+4,Zürich,Konzert,2013-03-12,"['Franco Fagioli ', ' Willi Zimmermann ', ' Nicola Mosca ', ' Naoki Kitaya ', ' Emanuele Forni ', ' Kio Seiler ']",['Classic']
+5,Zürich,Momentaufnahme,2013-03-12,"['Gabriela Tanner ', ' Susanne Petersen ', ' Verena Barbara Gohl ', ' Christina Jaccard ']",['Pop']
+6,Basel,Peter's-Best,2013-03-12,"['Peter Bucher ', ' Jan Börner ', ' Ulrich Messthaler ']",['Classic']
+7,Aarau,Long-Distance-Calling,2013-03-12,"['Long Distance Calling ', ' support: Solstafir ', ' Sahg ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-12,"['Portishead ', ' Baxter Dury ']",['Portishead']
+9,Bernexpo,Bern,2013-03-12,['Mumford & Sons '],"['Mumford', '&', 'Sons']"
+10,Chur,Katrin-Roush,2013-03-12,['Katrin Roush '],['Pop']
+11,Winterthur,Mondrian-Ensemble-:-presentimientos,2013-03-12,"[' Daniela Müller ', ' Petra Ackermann ', ' Martin Jaggi ', ' Tamriko Kordzaia ']",['Classic']
+12,Zürich,John-Scofield-Organic-Trio,2013-03-12,"['John Scofield Organic Trio ', ' John Scofield ', ' Larry Goldings ', ' Greg Hutchinson ', ' Oliver Keller ', ' Thomi Jordi ', ' Kaspar Rast ']","['Jazz', 'Blues', 'Soul']"
+13,Zürich,Claude-Diallo-Situation,2013-03-12,['Claude Diallo Situation '],"['Jazz', 'Blues', 'Soul']"
+14,Zürich,Christoph-Greuter-&-Peter-Maurer,2013-03-12,"[' Christoph Greuter ', ' Peter Maurer ']","['world', 'music']"
+15,Zürich,Lanz-Wolfarth,2013-03-12,"[' Joke Lanz ', ' Christian Wolfarth ']","['Jazz', 'Blues', 'Soul']"
+16,Basel,Lisette-&-The-Swing-Thing,2013-03-12,"[' Lisette Spinnler ', ' Christian Gutfleisch ', ' Michael Chylewski ', ' Peter Schmidlin ']","['Jazz', 'Blues', 'Soul']"
+17,Zürich,Contrastnacht,2013-03-12,"['Betty Steels ', ' Samuel Jon Samuelsson Big Band ', ' Samuel Jon Samuelsson ', ' Joel Palsson ', ' Steinar Sigurdarson ', ' Oskar Gudjonsson ', ' Kjartan Hakonarson ', ' Snorri Sigurdarson ']",['Pop']
+18,Luzern,Bachelorprojekt-Konzerte,2013-03-12,"[' Sebastian Pietrowiak ', ' Mischa Maurer ', ' Gianluca Giger ', ' Clemens Kuratle ', ' Valentin Baumgartner ', ' David Heinzmann ', ' Daniel Stocker ', ' Vincent Glanzmann ', ' Dominik Landolt ', ' Martina Berther ', ' Vince Glanzmann ']","['Jazz', 'Blues', 'Soul']"
+19,Zürich,Lakecia-Benjamin,2013-03-12,['Lakecia Benjamin '],"['Jazz', 'Blues', 'Soul']"
+20,Winterthur,Ian-Fischer-&-The-Present,2013-03-12,['Ian Fischer & The Present '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Zürich,Schweizer-Holz-Trio,2013-03-12,"[' Hans Koch ', ' Urs Leimgruber ', ' Omri Ziegele ']","['Jazz', 'Blues', 'Soul']"
+22,Basel,Get-Heavy-Mental,2013-03-12,"['Stear ', ' Black Packers ']",['Electronic']
+23,Zürich,Frontier-Ruckus,2013-03-12,['Frontier Ruckus '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

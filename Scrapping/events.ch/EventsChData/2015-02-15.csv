@@ -1,16 +1,16 @@
-location,event,date,artists,genre
-null,Eine-Nachtmusik-für-Kleine,2015-02-15,"['Iryna Gintova ', ' Gwendoline Rouiller ', ' Birgit D´Amelio ', ' Adrian Gavrilescu ', ' Aline Spaltenstein ']",Classic
-Zürich,Staatskapelle-Halle,2015-02-15,['Sophia Jaffé '],Classic
-Goldau,Tierpark-Konzert,2015-02-15,"['Jean-Philippe Duay ', ' Simone Maffioletti ', ' Markus Muff ']",Classic
-Fischingen,Musikwelt-Basel,2015-02-15,[' Georges Starobinski '],Classic
-Dornach,Klavier-Duo,2015-02-15,"['Hristo Kazakov ', ' Arisa Kawasugi ']",Classic
-Winterthur,Drei-sprudelnde-Quellen,2015-02-15,"[' Noëlle Grüebler ', ' Jonas Kreienbühl ', ' Andrea Wiesli ']",Classic
-Zürich,Shirley-Grimes,2015-02-15,"['Shirley Grimes ', ' Shirley Grimes ', ' Wolfgang Zwiauer ', ' Samuel Baur ', ' Stefanie Aeschlimann ']",
-Luzern,Robi-Weber-Quartet,2015-02-15,"[' Robi Weber ', ' Thomas Dobler ', ' Kalli Gerhards ', ' Curt Treier ']",
-Pratteln,Lordi,2015-02-15,['Lordi '],
-null,Les-Hay-Babies,2015-02-15,['Les Hay Babies '],Pop
-Bern,Lenny-Lashely's-Gang-Of-One,2015-02-15,"[""Lenny Lashely's Gang Of One "", ' support: Jo Bergeron ']",
-null,Betraying-the-Martyrs,2015-02-15,"['Betraying the Martyrs ', ' Polar ', ' Upon this Dawning ', ' More than a thousand ']",
-Lausanne,Paloma-Faith,2015-02-15,['Paloma Faith '],
-Düdingen,The-Fat-White-Family,2015-02-15,['The Fat White Family '],
-Bern,Vincent-Peirani,2015-02-15,['Vincent Peirani '],
+,location,event,date,artists,genre
+0,null,Eine-Nachtmusik-f?r-Kleine,2015-02-15,"['Iryna Gintova ', ' Gwendoline Rouiller ', ' Birgit D?Amelio ', ' Adrian Gavrilescu ', ' Aline Spaltenstein ']",['Classic']
+1,Z?rich,Staatskapelle-Halle,2015-02-15,['Sophia Jaff? '],['Classic']
+2,Goldau,Tierpark-Konzert,2015-02-15,"['Jean-Philippe Duay ', ' Simone Maffioletti ', ' Markus Muff ']",['Classic']
+3,Fischingen,Musikwelt-Basel,2015-02-15,[' Georges Starobinski '],['Classic']
+4,Dornach,Klavier-Duo,2015-02-15,"['Hristo Kazakov ', ' Arisa Kawasugi ']",['Classic']
+5,Winterthur,Drei-sprudelnde-Quellen,2015-02-15,"[' No?lle Gr?ebler ', ' Jonas Kreienb?hl ', ' Andrea Wiesli ']",['Classic']
+6,Luzern,Robi-Weber-Quartet,2015-02-15,"[' Robi Weber ', ' Thomas Dobler ', ' Kalli Gerhards ', ' Curt Treier ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Shirley-Grimes,2015-02-15,"['Shirley Grimes ', ' Shirley Grimes ', ' Wolfgang Zwiauer ', ' Samuel Baur ', ' Stefanie Aeschlimann ']","['world', 'music']"
+8,Pratteln,Lordi,2015-02-15,['Lordi '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Bern,Lenny-Lashely's-Gang-Of-One,2015-02-15,"[""Lenny Lashely's Gang Of One "", ' support: Jo Bergeron ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,null,Les-Hay-Babies,2015-02-15,['Les Hay Babies '],['Pop']
+11,null,Betraying-the-Martyrs,2015-02-15,"['Betraying the Martyrs ', ' Polar ', ' Upon this Dawning ', ' More than a thousand ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,D?dingen,The-Fat-White-Family,2015-02-15,['The Fat White Family '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Lausanne,Paloma-Faith,2015-02-15,['Paloma Faith '],"['Jazz', 'Blues', 'Soul']"
+14,Bern,Vincent-Peirani,2015-02-15,['Vincent Peirani '],"['Jazz', 'Blues', 'Soul']"

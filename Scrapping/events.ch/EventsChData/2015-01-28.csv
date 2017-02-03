@@ -1,25 +1,25 @@
-location,event,date,artists,genre
-Basel,Mimiko-Epigraphes-antiques,2015-01-28,"['Ruth Urech ', ' Nicola Hanck ']",Classic
-Zürich,Glantaler-Power-Men,2015-01-28,['Glantaler Power Men '],traditional
-Zürich,Vivaldi-on-the-Couch-Der-Paganini-der-Blockflöte,2015-01-28,[' Maurice Steger '],Classic
-Bern,Migros-Kulturprozent-Classics,2015-01-28,[' Serena Wang '],Classic
-null,Klavierissimo,2015-01-28,['Angela Hewitt '],Classic
-Luzern,Morgendämmerung-im-Tropenwald,2015-01-28,[' Reto Bieri '],Classic
-Zürich,Jazz-im-Seefeld,2015-01-28,"[' Arne Huber ', ' Domenic Landolf ', ' Rainer Böhm ', ' Jochen Rueckert ']",
-Winterthur,Musikkollegium-Winterthur,2015-01-28,['Radu Lupu '],Classic
-null,Konzert,2015-01-28,['Alexander Melnikov '],Classic
-Zürich,Renzo-Spotti-Trio,2015-01-28,"[' ', ' Tomi Hirt ', ' Dieter Ulrich ']",
-Zürich,Jazzbaragge-Wednesday-Jam,2015-01-28,"['Marie Krüttli ', ' Lukas Traxel ', ' Dominik Burkhalter ']",
-Luzern,Jam-Session,2015-01-28,"[' Emilia Taubic ', ' Christian Winiker ', ' Faruk Muslijevic ', ' Thomas Tavano ', ' Sascha Frischknecht ']",
-Olten,Soirée-classique,2015-01-28,[' Jennifer Larmore '],Classic
-Zürich,Ed-Sheeran,2015-01-28,['Ed Sheeran '],Pop
-Winterthur,Ghost-Town-Trio-feat.-Rahel-Hadorn,2015-01-28,"[' Rahel Hadorn ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Küenzi ']",
-Baden,Vielsittich,2015-01-28,"[' Efisio Contini ', ' Andreas Kühnrich ', ' Yvonne Baumer ', ' Samuel Messerli ']",Pop
-Baden,Sohn-Jungblut-Merker,2015-01-28,"[' Rahel Sohn ', ' Sonja Jungblut ', ' Martin Merker ']",Pop
-Zürich,Lily-Dahab,2015-01-28,"['Lily Dahab ', ' Lily Dahab ', ' Bene Aperdannier ', ' Jo Gehlmann ', ' Andreas Henze ']",
-Baden,Alternate-Takes-feat-Sabine-Siegrist-&-Hanspeter-Stamm,2015-01-28,"[' Wolfgang Baumgartner ', ' Peter Keller ', ' Hannes Hänggli ', ' Sabine Siegrist ', ' Hanspeter Stamm ']",
-Basel,Jeff-Beadle,2015-01-28,['Jeff Beadle '],
-Basel,Mears-Su-Terzic-Moret,2015-01-28,"[' Nat Su ', ' Adrian Mears ', ' Patrice Moret ', ' Dejan Terzic ']",
-Basel,Mears-Su-Terzic-Moret,2015-01-28,"[' Nat Su ', ' Adrian Mears ', ' Patrice Moret ', ' Dejan Terzic ']",
-null,Roger-Hodgson,2015-01-28,['Roger Hodgson '],Pop
-Baden,One-of-a-Million,2015-01-28,['The Blue Van '],
+,location,event,date,artists,genre
+0,Basel,Mimiko-Epigraphes-antiques,2015-01-28,"['Ruth Urech ', ' Nicola Hanck ']",['Classic']
+1,Z?rich,Glantaler-Power-Men,2015-01-28,['Glantaler Power Men '],['traditional']
+2,Bern,Migros-Kulturprozent-Classics,2015-01-28,[' Serena Wang '],['Classic']
+3,Winterthur,Musikkollegium-Winterthur,2015-01-28,['Radu Lupu '],['Classic']
+4,null,Klavierissimo,2015-01-28,['Angela Hewitt '],['Classic']
+5,Luzern,Morgend?mmerung-im-Tropenwald,2015-01-28,[' Reto Bieri '],['Classic']
+6,Z?rich,Vivaldi-on-the-Couch-Der-Paganini-der-Blockfl?te,2015-01-28,[' Maurice Steger '],['Classic']
+7,Z?rich,Jazz-im-Seefeld,2015-01-28,"[' Arne Huber ', ' Domenic Landolf ', ' Rainer B?hm ', ' Jochen Rueckert ']","['Jazz', 'Blues', 'Soul']"
+8,Z?rich,Ed-Sheeran,2015-01-28,['Ed Sheeran '],['Pop']
+9,Olten,Soir?e-classique,2015-01-28,[' Jennifer Larmore '],['Classic']
+10,null,Konzert,2015-01-28,['Alexander Melnikov '],['Classic']
+11,Luzern,Jam-Session,2015-01-28,"[' Emilia Taubic ', ' Christian Winiker ', ' Faruk Muslijevic ', ' Thomas Tavano ', ' Sascha Frischknecht ']","['Hip', 'Hop', ""R'n'B""]"
+12,Z?rich,Jazzbaragge-Wednesday-Jam,2015-01-28,"['Marie Kr?ttli ', ' Lukas Traxel ', ' Dominik Burkhalter ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Renzo-Spotti-Trio,2015-01-28,"[' ', ' Tomi Hirt ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+14,Winterthur,Ghost-Town-Trio-feat.-Rahel-Hadorn,2015-01-28,"[' Rahel Hadorn ', ' Urs V?geli ', ' Claude Meier ', ' Emanuel K?enzi ']","['Jazz', 'Blues', 'Soul']"
+15,Baden,Sohn-Jungblut-Merker,2015-01-28,"[' Rahel Sohn ', ' Sonja Jungblut ', ' Martin Merker ']",['Pop']
+16,Baden,Vielsittich,2015-01-28,"[' Efisio Contini ', ' Andreas K?hnrich ', ' Yvonne Baumer ', ' Samuel Messerli ']",['Pop']
+17,Z?rich,Lily-Dahab,2015-01-28,"['Lily Dahab ', ' Lily Dahab ', ' Bene Aperdannier ', ' Jo Gehlmann ', ' Andreas Henze ']","['Hip', 'Hop', ""R'n'B""]"
+18,Baden,Alternate-Takes-feat-Sabine-Siegrist-&-Hanspeter-Stamm,2015-01-28,"[' Wolfgang Baumgartner ', ' Peter Keller ', ' Hannes H?nggli ', ' Sabine Siegrist ', ' Hanspeter Stamm ']","['Jazz', 'Blues', 'Soul']"
+19,null,Roger-Hodgson,2015-01-28,['Roger Hodgson '],['Pop']
+20,Bern,True,2015-01-28,"[' Daniela Sarda ', ' Rico Baumann ']",['Pop']
+21,Basel,Jeff-Beadle,2015-01-28,['Jeff Beadle '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Basel,Mears-Su-Terzic-Moret,2015-01-28,"[' Nat Su ', ' Adrian Mears ', ' Patrice Moret ', ' Dejan Terzic ']","['Jazz', 'Blues', 'Soul']"
+23,Baden,One-of-a-Million,2015-01-28,['The Blue Van '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

@@ -1,24 +1,23 @@
-location,event,date,artists,genre
-Baden,After-Work,2015-01-22,['Céline Huber '],Pop
-Zürich,Thursday-Night-Jazz,2015-01-22,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-null,3.-Meisterzyklus-Konzert,2015-01-22,"[' Lukas Hagen ', ' Rainer Schmidt ', ' Veronika Hagen ', ' Clemens Hagen ']",Classic
-Rheinfelden,Auf-nach-Norden,2015-01-22,[' Regula Mühlemann '],Classic
-Bern,Dvoráks-Cellokonzert,2015-01-22,[' Truls Mork '],Classic
-Bern,Klanglandschaften,2015-01-22,"['Willi Grimm ', ' Mirjam Kaufmann ']",
-Zürich,Pools,2015-01-22,"[' Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']",
-null,Vita-Bergen,2015-01-22,['Vita Bergen '],
-Zürich,Benny's-From-Heaven,2015-01-22,"[' Simon Wyrsch ', ' Dave Ruosch ', ' Kalli Gerhards ', ' Martin Meyer ']",
-Uster,Festkonzert,2015-01-22,[' Simon Wiener '],Classic
-Solothurn,Ten-Years-After,2015-01-22,"['Ten Years After ', ' Marcus Bonfanti ', ' Chick Churchil ', ' Colin Hodgkinson ', ' Ric Lee ']",
-Solothurn,Fjørt,2015-01-22,['Fjørt '],
-Uster,Aufbassn,2015-01-22,['Martin Schmitt '],
-Winterthur,Dominic-Eglis-Plurism-feat.-Feya-Faku,2015-01-22,"[' Donat Fisch ', ' Raffaele Bossard ', ' Dominic Egli ', ' Feya Faku ']",
-Schaffhausen,Suisse-Diagonales-Jazz,2015-01-22,"[' Laurent Méteau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Philipp Schlotter ', ' Samuel Huwyler ', ' Jwan Steiner ']",
-Solothurn,Ruth-Moody,2015-01-22,['Ruth Moody '],
-Baden,Jazz-am-Donnerstag,2015-01-22,"[' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-Bern,Your-Alltime-Favourites,2015-01-22,"[' Prague Conspiracy ', ' Sour Bitch ']",
-Basel,Christoph-Irniger-meets-Cojazz,2015-01-22,"[' Christoph Irniger ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Jorge Rossy ']",
-Baden,Tonic-Strings,2015-01-22,"[' Toni Donadio ', ' Nic Niedermann ']",
-Zürich,Kimmig-Studer-Zimmerlin-feat.-John-Butcher,2015-01-22,"[' Harald Kimmig ', ' Daniel Studer ', ' Alfred Zimmerlin ', ' John Butcher ']",
-Zürich,Trio-Schmetterling,2015-01-22,"[' Keisuke Matsuno ', ' Alex Binder ', ' Jan Roth ']",
-Schaffhausen,Clemence-Freschard,2015-01-22,"['Clemence Freschard ', ' Stanley Brinks ']",
+,location,event,date,artists,genre
+0,Baden,After-Work,2015-01-22,[' Oliver Fabro '],['Pop']
+1,null,3.-Meisterzyklus-Konzert,2015-01-22,"[' Lukas Hagen ', ' Rainer Schmidt ', ' Veronika Hagen ', ' Clemens Hagen ']",['Classic']
+2,Bern,Dvor?ks-Cellokonzert,2015-01-22,[' Truls Mork '],['Classic']
+3,Z?rich,Thursday-Night-Jazz,2015-01-22,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+4,Rheinfelden,Auf-nach-Norden,2015-01-22,[' Regula M?hlemann '],['Classic']
+5,Solothurn,Ten-Years-After,2015-01-22,"['Ten Years After ', ' Marcus Bonfanti ', ' Chick Churchil ', ' Colin Hodgkinson ', ' Ric Lee ']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Benny's-From-Heaven,2015-01-22,"[' Simon Wyrsch ', ' Dave Ruosch ', ' Kalli Gerhards ', ' Martin Meyer ']","['Jazz', 'Blues', 'Soul']"
+7,null,Vita-Bergen,2015-01-22,['Vita Bergen '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Uster,Festkonzert,2015-01-22,[' Simon Wiener '],['Classic']
+9,Z?rich,Pools,2015-01-22,"[' Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']","['Jazz', 'Blues', 'Soul']"
+10,Solothurn,Fj?rt,2015-01-22,['Fj?rt '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Bern,Klanglandschaften,2015-01-22,"['Willi Grimm ', ' Mirjam Kaufmann ']","['world', 'music']"
+12,Winterthur,Dominic-Eglis-Plurism-feat.-Feya-Faku,2015-01-22,"[' Donat Fisch ', ' Raffaele Bossard ', ' Dominic Egli ', ' Feya Faku ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Kimmig-Studer-Zimmerlin-feat.-John-Butcher,2015-01-22,"[' Harald Kimmig ', ' Daniel Studer ', ' Alfred Zimmerlin ', ' John Butcher ']","['Jazz', 'Blues', 'Soul']"
+14,Basel,Christoph-Irniger-meets-Cojazz,2015-01-22,"[' Christoph Irniger ', ' Andy Scherrer ', ' Stephan Kurmann ', ' Jorge Rossy ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Trio-Schmetterling,2015-01-22,"[' Keisuke Matsuno ', ' Alex Binder ', ' Jan Roth ']","['Jazz', 'Blues', 'Soul']"
+16,Baden,Jazz-am-Donnerstag,2015-01-22,"[' Christoph Baumann ', ' H?mi H?mmerli ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+17,Baden,Tonic-Strings,2015-01-22,"[' Toni Donadio ', ' Nic Niedermann ']","['world', 'music']"
+18,Solothurn,Ruth-Moody,2015-01-22,['Ruth Moody '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Bern,Your-Alltime-Favourites,2015-01-22,"[' Prague Conspiracy ', ' Sour Bitch ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Schaffhausen,Suisse-Diagonales-Jazz,2015-01-22,"[' Laurent M?teau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Philipp Schlotter ', ' Samuel Huwyler ', ' Jwan Steiner ']","['Jazz', 'Blues', 'Soul']"
+21,Schaffhausen,Clemence-Freschard,2015-01-22,"['Clemence Freschard ', ' Stanley Brinks ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

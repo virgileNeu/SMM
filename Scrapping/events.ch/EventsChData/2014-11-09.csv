@@ -1,45 +1,45 @@
-location,event,date,artists,genre
-Bern,Colibri,2014-11-09,"[' Nicole Wiederkehr ', ' Disu Gmünder ', ' Chrigu Rechsteiner ', ' Rolf Huwyler ']",
-Uster,Iberische-Klänge,2014-11-09,"['Edith Pfeuti-Müller ', ' Tivadar Tikviczky ']",Classic
-Zürich,Gletscherfezzzer,2014-11-09,['Gletscherfezzzer '],traditional
-Zürich,Der-Karneval-der-Tiere-und-andere-tierische-Überraschungen,2014-11-09,"[' André Desponds ', ' Mischa Cheung ', ' Raphael Nussbaumer ', ' Moderation: Sandra Studer ']",Classic
-Uster,Jazzorama-Weekend-Apéro-Konzert,2014-11-09,"[' Yumi Ito ', ' Raphael Jost ', ' Alessandro Pittini ', ' Raphael Walser ', ' Pius Baschnagel ']",
-Zürich,Sonntagskonzert,2014-11-09,[' Frank Tender '],traditional
-Zürich,Gletscherfezzzer,2014-11-09,['Gletscherfezzzer '],traditional
-Basel,Szenisches-Familienkonzert,2014-11-09,[' Babette Mondry '],Classic
-Muttenz,YOIK,2014-11-09,"[' Bastian Pfefferli ', ' Aurélien Tschopp ']",Classic
-Volketswil,Serenade,2014-11-09,"['Thomas Ineichen ', ' Mathis Keller ', ' Madeleine Fischer ']",Classic
-Dietikon,Konzert,2014-11-09,[' conductor: Wolfang Böhler '],Classic
-Lufingen,Schottisches-Konzert-Lullaby-and-Farewell,2014-11-09,"['Judith E. Lowrie ', ' Karen van Rekum ', ' Marina Tanner ']",
-Zürich,Lausbuben,2014-11-09,[' Pascal Viglino '],Classic
-Zürich,Ein-Paradies-auf-Erden,2014-11-09,"[' Martin Achrainer ', ' Richard Resch ', ' Seraina Perrenoud ']",Classic
-Luzern,Georg-Friedrich-Händel,2014-11-09,"[' Franz Schaffner ', ' Barbara Zinniker ', ' Naomi Tolksdorf ']",Classic
-Baden,Klavierrezital,2014-11-09,['Geneviève Hug '],Classic
-Luzern,Herbstkonzert,2014-11-09,[' Peter Mutter '],Classic
-Allschwil,Salve-Regina,2014-11-09,"[' Christoph Bösch ', ' Toshiko Sakakibara ']",Classic
-null,Die-8-Jahreszeiten,2014-11-09,"[' Goran Kovacevic ', ' Monica Tarcsay ', ' Clarigna Küng ', ' Gyöngyi Ellensohn ', ' Stefan Susana ', ' Bernd Konzett ']",Classic
-Zürich,Patchwork-Classics,2014-11-09,"[' Giovanni Reber ', ' Michael Giertz ']",Pop
-Schaffhausen,Alphorn-&-Nordic-Winds,2014-11-09,"[' Eliana Burki ', ' Karoliina Kantelinen ']",Classic
-Zürich,Requiem-und-andere-Werke,2014-11-09,"[' Martina Fausch ', ' Marc-Olivier Oetterli ']",Classic
-Mühlethurnen,Mojo-Blues-Band,2014-11-09,['Mojo Blues Band '],
-Zürich,Sommer-im-Weltall,2014-11-09,"['Rolf Sommer ', ' Ken Mallor ']",Pop
-Zürich,Sola-gratia-II,2014-11-09,[' Rafael Baier '],Classic
-Luzern,Swing-Express,2014-11-09,"[' Martin Abbühl ', ' Florent Kirchmeyer ', ' Marco Neri ', ' Thomas Dürst ']",
-null,Salsa-&-Pasta,2014-11-09,['DJs Pedro '],
-Zürich,Peter-Kraus,2014-11-09,['Peter Kraus '],
-Zürich,Artist-in-Residence-Gabriela-Friedli,2014-11-09,"[' Christof Thewes ', ' Co Streiff ', ' Gabriela Friedli ', ' Jan Schlegel ', ' Dieter Ulrich ', ' Rudi Mahall ', ' Jan Roder ']",
-Horgen,Konzert,2014-11-09,[' Olaf Krüger '],Classic
-Basel,Konzert,2014-11-09,"[' Judith Graf ', ' Jordanka Milkova ', ' Kor-Jan Dusseljee ', ' Rudolf Rosen ']",Classic
-Winterthur,Jersey-Julie-Band,2014-11-09,['Jersey Julie Band '],
-Luzern,Stonebride,2014-11-09,['Stonebride '],
-Zürich,257ers,2014-11-09,['257ers '],
-Basel,St.-Vincent,2014-11-09,"['St. Vincent ', ' Coves ']",Pop
-Zürich,Beatsteaks,2014-11-09,['Beatsteaks '],
-Schaffhausen,Mother's-Finest,2014-11-09,"[""Mother's Finest ""]",
-Pratteln,Tommy-Emmanuel,2014-11-09,['Tommy Emmanuel '],Pop
-Luzern,Kyle-LaGrange,2014-11-09,['Kyle LaGrange '],Pop
-Bern,Smith-&-Smart,2014-11-09,['Smith & Smart '],
-Zürich,Merchandise,2014-11-09,['Merchandise '],
-Zürich,The-DeSoto-Caucus,2014-11-09,['The DeSoto Caucus '],
-Thun,Kathrin-de-Boer,2014-11-09,['Kathrin de Boer '],
-Bern,Five-Thirty-Eight,2014-11-09,['Five Thirty-Eight '],Pop
+,location,event,date,artists,genre
+0,Bern,Colibri,2014-11-09,"[' Nicole Wiederkehr ', ' Disu Gm?nder ', ' Chrigu Rechsteiner ', ' Rolf Huwyler ']","['world', 'music']"
+1,Z?rich,Gletscherfezzzer,2014-11-09,['Gletscherfezzzer '],['traditional']
+2,Uster,Iberische-Kl?nge,2014-11-09,"['Edith Pfeuti-M?ller ', ' Tivadar Tikviczky ']",['Classic']
+3,Z?rich,Der-Karneval-der-Tiere-und-andere-tierische-?berraschungen,2014-11-09,"[' Andr? Desponds ', ' Mischa Cheung ', ' Raphael Nussbaumer ', ' Moderation: Sandra Studer ']",['Classic']
+4,Uster,Jazzorama-Weekend-Ap?ro-Konzert,2014-11-09,"[' Yumi Ito ', ' Raphael Jost ', ' Alessandro Pittini ', ' Raphael Walser ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+5,Z?rich,Sonntagskonzert,2014-11-09,[' Frank Tender '],['traditional']
+6,Z?rich,Gletscherfezzzer,2014-11-09,['Gletscherfezzzer '],['traditional']
+7,Muttenz,YOIK,2014-11-09,"[' Bastian Pfefferli ', ' Aur?lien Tschopp ']",['Classic']
+8,Basel,Szenisches-Familienkonzert,2014-11-09,[' Babette Mondry '],['Classic']
+9,Volketswil,Serenade,2014-11-09,"['Thomas Ineichen ', ' Mathis Keller ', ' Madeleine Fischer ']",['Classic']
+10,Dietikon,Konzert,2014-11-09,[' conductor: Wolfang B?hler '],['Classic']
+11,Schaffhausen,Alphorn-&-Nordic-Winds,2014-11-09,"[' Eliana Burki ', ' Karoliina Kantelinen ']",['Classic']
+12,Z?rich,Requiem-und-andere-Werke,2014-11-09,"[' Martina Fausch ', ' Marc-Olivier Oetterli ']",['Classic']
+13,Lufingen,Schottisches-Konzert-Lullaby-and-Farewell,2014-11-09,"['Judith E. Lowrie ', ' Karen van Rekum ', ' Marina Tanner ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Z?rich,Lausbuben,2014-11-09,[' Pascal Viglino '],['Classic']
+15,Z?rich,Ein-Paradies-auf-Erden,2014-11-09,"[' Martin Achrainer ', ' Richard Resch ', ' Seraina Perrenoud ']",['Classic']
+16,Luzern,Georg-Friedrich-H?ndel,2014-11-09,"[' Franz Schaffner ', ' Barbara Zinniker ', ' Naomi Tolksdorf ']",['Classic']
+17,Baden,Klavierrezital,2014-11-09,['Genevi?ve Hug '],['Classic']
+18,Z?rich,Patchwork-Classics,2014-11-09,"[' Giovanni Reber ', ' Michael Giertz ']",['Pop']
+19,Luzern,Herbstkonzert,2014-11-09,[' Peter Mutter '],['Classic']
+20,Allschwil,Salve-Regina,2014-11-09,"[' Christoph B?sch ', ' Toshiko Sakakibara ']",['Classic']
+21,null,Die-8-Jahreszeiten,2014-11-09,"[' Goran Kovacevic ', ' Monica Tarcsay ', ' Clarigna K?ng ', ' Gy?ngyi Ellensohn ', ' Stefan Susana ', ' Bernd Konzett ']",['Classic']
+22,M?hlethurnen,Mojo-Blues-Band,2014-11-09,['Mojo Blues Band '],"['Jazz', 'Blues', 'Soul']"
+23,Z?rich,Sommer-im-Weltall,2014-11-09,"['Rolf Sommer ', ' Ken Mallor ']",['Pop']
+24,Z?rich,Sola-gratia-II,2014-11-09,[' Rafael Baier '],['Classic']
+25,Z?rich,Peter-Kraus,2014-11-09,['Peter Kraus '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Luzern,Swing-Express,2014-11-09,"[' Martin Abb?hl ', ' Florent Kirchmeyer ', ' Marco Neri ', ' Thomas D?rst ']","['Jazz', 'Blues', 'Soul']"
+27,null,Salsa-&-Pasta,2014-11-09,['DJs Pedro '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+28,Z?rich,Artist-in-Residence-Gabriela-Friedli,2014-11-09,"[' Christof Thewes ', ' Co Streiff ', ' Gabriela Friedli ', ' Jan Schlegel ', ' Dieter Ulrich ', ' Rudi Mahall ', ' Jan Roder ']","['Jazz', 'Blues', 'Soul']"
+29,Horgen,Konzert,2014-11-09,[' Olaf Kr?ger '],['Classic']
+30,Winterthur,Jersey-Julie-Band,2014-11-09,['Jersey Julie Band '],"['Jazz', 'Blues', 'Soul']"
+31,Basel,Konzert,2014-11-09,"[' Judith Graf ', ' Jordanka Milkova ', ' Kor-Jan Dusseljee ', ' Rudolf Rosen ']",['Classic']
+32,Z?rich,257ers,2014-11-09,['257ers '],"['Hip', 'Hop', ""R'n'B""]"
+33,Z?rich,Merchandise,2014-11-09,['Merchandise '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Schaffhausen,Mother's-Finest,2014-11-09,"[""Mother's Finest ""]","['Hip', 'Hop', ""R'n'B""]"
+35,Basel,St.-Vincent,2014-11-09,"['St. Vincent ', ' Coves ']",['Pop']
+36,Luzern,Stonebride,2014-11-09,['Stonebride '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Bern,Smith-&-Smart,2014-11-09,[' Smart '],"['Hip', 'Hop', ""R'n'B""]"
+38,Pratteln,Tommy-Emmanuel,2014-11-09,['Tommy Emmanuel '],['Pop']
+39,Luzern,Kyle-LaGrange,2014-11-09,['Kyle LaGrange '],['Pop']
+40,Z?rich,Beatsteaks,2014-11-09,['Beatsteaks '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+41,Z?rich,The-DeSoto-Caucus,2014-11-09,['The DeSoto Caucus '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+42,Thun,Kathrin-de-Boer,2014-11-09,['Kathrin de Boer '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+43,Bern,Five-Thirty-Eight,2014-11-09,['Five Thirty-Eight '],['Pop']

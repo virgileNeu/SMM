@@ -1,31 +1,31 @@
-location,event,date,artists,genre
-Zürich,Steirer-Quintett,2014-02-27,['Steirer Quintett '],traditional
-Baden,After-Work,2014-02-27,"[' Juan Carlos Zeta ', ' Rocco Wäger ']",
-Bern,Symphoniekonzert,2014-02-27,[' David Fray '],Classic
-Zürich,Internationales-Country-Music-Festival,2014-02-27,['Truck Stop '],
-Zürich,Liederabend,2014-02-27,"['Dmitri Hvorostovsky ', ' Ivari Ilja ']",Classic
-Basel,Volkssinfoniekonzert,2014-02-27,[' Benedikt Schobel '],Classic
-Zürich,Konzert,2014-02-27,"[' Sabine Poyé Morel ', ' Simon Fuchs ', ' Michael Reid ', ' Matthias Rácz ', ' Philippe Litzler ']",Classic
-Zürich,Thursday-Night-Jazz,2014-02-27,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Kloten,Fraui,2014-02-27,['Fraui '],Pop
-Zürich,Haim,2014-02-27,['Haim '],Pop
-Bern,Kieran-Halpin,2014-02-27,['Kieran Halpin '],Pop
-Glarus,Vergiiget-Verjuchzet-Verzapft,2014-02-27,['Christine Lauterburg '],
-Basel,Contrasts,2014-02-27,"[' Marianne Aeschbacher ', ' Lanet Flores Otero ', ' Helena Bugallo ', ' Amy Williams ']",Classic
-Zürich,Judith-Zürcher-Quintett,2014-02-27,"[' Judith Zürcher ', ' Janos Knobel ', ' Milan Scheidegger ', ' Mirco Häberli ', ' Remo Borner ']",
-Zürich,William-White,2014-02-27,['William White '],
-Baden,Mike-Wheeler-Band,2014-02-27,"['Mike Wheeler Band ', ' Mike Wheeler ', ' Brian James ', ' Larry Williams ', ' Cloe Cole ']",
-Zürich,Black-Rebel-Motorcycle-Club,2014-02-27,"['Black Rebel Motorcycle Club ', ' Dead Combo ']",
-null,Internationales-Gitarrenfestival,2014-02-27,"['Jing-Doran ', ' Mariano Martín ', ' Yang Jing ', ' Christy Doran ']",
-Zürich,Wandelnde-Sehnsucht,2014-02-27,"['Anna Steiner ', ' Chasper Mani ', ' Jens Fuhr ']",Classic
-Luzern,Salonmusik,2014-02-27,"['Martin Schaefer ', ' Richard Decker ']",Classic
-Basel,Eine-musikalische-Patenschaft,2014-02-27,"[' Shai Kribus ', ' Christian Handschke ', ' Jacopo Raffaele ']",Classic
-Winterthur,Joe-Haider-Quartet,2014-02-27,"[' Joe Haider ', ' Domenic Landolf ', ' Raffaele Bossard ', ' Dominic Egli ']",
-Bern,Christian-Kjellvander,2014-02-27,['Christian Kjellvander '],Pop
-Liebefeld,Trèsohr-König-Dame-Prince,2014-02-27,"['Henriette Blumenau ', ' Maria Demandt ', ' Pascal Goffin ', ' Benedikt Greiner ', ' Andri Schenardi ']",Pop
-Basel,Perpetual-Delirium,2014-02-27,"[' Andreas Schaerer ', ' Beat Hofstetter ', ' Sascha Armbruster ', ' Andrea Formenti ', ' Beat Kappeler ', ' Wolfgang Zwiauer ']",
-Bern,Bluejay,2014-02-27,"[' Victor Ullate ', ' Hans Hegnauer', ' Carl Kick ', ' Jürg Amrein ', ' Elio Dimaio ']",
-Zürich,Zurich-Jazz-Orchestra,2014-02-27,"[' Sandy Patton ', ' Reto Suher ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas Lüthi ']",
-Bern,Take-Berlin,2014-02-27,['Take Berlin '],
-Kriens,Brns,2014-02-27,['Brns '],Pop
-Pontresina,Mama-Bluegrass-Band,2014-02-27,['Mama Bluegrass Band '],
+,location,event,date,artists,genre
+0,Z?rich,Steirer-Quintett,2014-02-27,['Steirer Quintett '],['traditional']
+1,Baden,After-Work,2014-02-27,"[' Juan Carlos Zeta ', ' Rocco W?ger ']","['world', 'music']"
+2,Z?rich,Liederabend,2014-02-27,"['Dmitri Hvorostovsky ', ' Ivari Ilja ']",['Classic']
+3,Z?rich,Thursday-Night-Jazz,2014-02-27,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+4,Z?rich,Internationales-Country-Music-Festival,2014-02-27,['Truck Stop '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Basel,Volkssinfoniekonzert,2014-02-27,[' Benedikt Schobel '],['Classic']
+6,Z?rich,Konzert,2014-02-27,"[' Sabine Poy? Morel ', ' Simon Fuchs ', ' Michael Reid ', ' Matthias R?cz ', ' Philippe Litzler ']",['Classic']
+7,Bern,Symphoniekonzert,2014-02-27,[' David Fray '],['Classic']
+8,Kloten,Fraui,2014-02-27,['Fraui '],['Pop']
+9,Z?rich,Haim,2014-02-27,['Haim '],['Pop']
+10,Bern,Kieran-Halpin,2014-02-27,['Kieran Halpin '],['Pop']
+11,Z?rich,Judith-Z?rcher-Quintett,2014-02-27,"[' Judith Z?rcher ', ' Janos Knobel ', ' Milan Scheidegger ', ' Mirco H?berli ', ' Remo Borner ']","['Jazz', 'Blues', 'Soul']"
+12,Z?rich,William-White,2014-02-27,['William White '],"['Jazz', 'Blues', 'Soul']"
+13,Basel,Contrasts,2014-02-27,"[' Marianne Aeschbacher ', ' Lanet Flores Otero ', ' Helena Bugallo ', ' Amy Williams ']",['Classic']
+14,Baden,Mike-Wheeler-Band,2014-02-27,"['Mike Wheeler Band ', ' Mike Wheeler ', ' Brian James ', ' Larry Williams ', ' Cloe Cole ']","['Jazz', 'Blues', 'Soul']"
+15,null,Internationales-Gitarrenfestival,2014-02-27,"['Jing-Doran ', ' Mariano Mart?n ', ' Yang Jing ', ' Christy Doran ']","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Wandelnde-Sehnsucht,2014-02-27,"['Anna Steiner ', ' Chasper Mani ', ' Jens Fuhr ']",['Classic']
+17,Luzern,Salonmusik,2014-02-27,"['Martin Schaefer ', ' Richard Decker ']",['Classic']
+18,Glarus,Vergiiget-Verjuchzet-Verzapft,2014-02-27,['Christine Lauterburg '],"['world', 'music']"
+19,Z?rich,Black-Rebel-Motorcycle-Club,2014-02-27,"['Black Rebel Motorcycle Club ', ' Dead Combo ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Basel,Eine-musikalische-Patenschaft,2014-02-27,"[' Shai Kribus ', ' Christian Handschke ', ' Jacopo Raffaele ']",['Classic']
+21,Winterthur,Joe-Haider-Quartet,2014-02-27,"[' Joe Haider ', ' Domenic Landolf ', ' Raffaele Bossard ', ' Dominic Egli ']","['Jazz', 'Blues', 'Soul']"
+22,Bern,Bluejay,2014-02-27,"[' Victor Ullate ', ' Hans Hegnauer', ' Carl Kick ', ' J?rg Amrein ', ' Elio Dimaio ']","['Jazz', 'Blues', 'Soul']"
+23,Bern,Christian-Kjellvander,2014-02-27,['Christian Kjellvander '],['Pop']
+24,Liebefeld,Tr?sohr-K?nig-Dame-Prince,2014-02-27,"['Henriette Blumenau ', ' Maria Demandt ', ' Pascal Goffin ', ' Benedikt Greiner ', ' Andri Schenardi ']",['Pop']
+25,Z?rich,Zurich-Jazz-Orchestra,2014-02-27,"[' Sandy Patton ', ' Reto Suher ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas L?thi ']","['Jazz', 'Blues', 'Soul']"
+26,Basel,Perpetual-Delirium,2014-02-27,"[' Andreas Schaerer ', ' Beat Hofstetter ', ' Sascha Armbruster ', ' Andrea Formenti ', ' Beat Kappeler ', ' Wolfgang Zwiauer ']","['Jazz', 'Blues', 'Soul']"
+27,Bern,Take-Berlin,2014-02-27,['Take Berlin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Kriens,Brns,2014-02-27,['Brns '],['Pop']
+29,Pontresina,Mama-Bluegrass-Band,2014-02-27,['Mama Bluegrass Band '],"['Jazz', 'Blues', 'Soul']"

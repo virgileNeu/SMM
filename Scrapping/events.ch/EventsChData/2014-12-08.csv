@@ -1,18 +1,19 @@
-location,event,date,artists,genre
-Bern,Sous-les-étoiles,2014-12-08,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
-Basel,Konzert,2014-12-08,['Andreas Staier '],Classic
-Basel,Dialog,2014-12-08,['Sarah Maria Sun '],Classic
-Bern,Impresiones-intimas,2014-12-08,['Stella Timenova '],Classic
-null,Vera-Kaa,2014-12-08,"[' Vera Kaa ', ' Christian Roffler ', ' Pete Borel ', ' Nicola Galli ']",
-Solothurn,Suicide-Silence,2014-12-08,"['Suicide Silence ', ' Thy Art Is Murder ']",
-Basel,Festival-Giacinto-Scelsi-2015,2014-12-08,"[' Andreas Liebig ', ' Michiko Hirayama ', ' ', ' Kornelia Bruggman ']",Classic
-Lyss,Laibach,2014-12-08,['Laibach '],Pop
-Baden,Hello-Truffle,2014-12-08,"[' Matthias Wenger ', ' Nick Perrin ', ' Philipp Moll ', ' Christoph Steiner ']",
-Zürich,Xylouris-White,2014-12-08,['Xylouris White '],
-Bern,Dan-Webber-Trio-feat.-Rinalda-Caduff,2014-12-08,"[' Andrey Tatarinets ', ' Dirk Raufeisen ', ' Dan Webber ', ' ']",
-Ascona,Lillian-Boutté-&-Friends,2014-12-08,"[' Lillian Boutté ', ' Denise Gordon ', ' Roy Williams ', ' Thomas lEtienne ', ' Kyle Roussell ', ' Kerry Lewis ', ' Walter Harris ']",
-Zürich,Black-Moth,2014-12-08,"['Black Moth ', ' Antlered Man ']",
-Zürich,Black-Moth,2014-12-08,"['Black Moth ', ' Antlered Man ']",
-Zürich,Mos-Def,2014-12-08,['Mos Daf '],
-Winterthur,Earnest-and-Without-You,2014-12-08,['Earnest and Without You '],Electronic
-Bern,The-Wave-Pictures,2014-12-08,['The Wave Pictures '],
+,location,event,date,artists,genre
+0,Bern,Sous-les-?toiles,2014-12-08,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']","['Jazz', 'Blues', 'Soul']"
+1,Z?rich,Liederabend,2014-12-08,"['Junho You ', ' Helmut Deutsch ']",['Classic']
+2,Basel,Konzert,2014-12-08,['Andreas Staier '],['Classic']
+3,null,Vera-Kaa,2014-12-08,"[' Vera Kaa ', ' Christian Roffler ', ' Pete Borel ', ' Nicola Galli ']","['Jazz', 'Blues', 'Soul']"
+4,Bern,Impresiones-intimas,2014-12-08,['Stella Timenova '],['Classic']
+5,Basel,Festival-Giacinto-Scelsi-2015,2014-12-08,"[' Andreas Liebig ', ' Michiko Hirayama ', ' ', ' Kornelia Bruggman ']",['Classic']
+6,Solothurn,Suicide-Silence,2014-12-08,"['Suicide Silence ', ' Thy Art Is Murder ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Lyss,Laibach,2014-12-08,['Laibach '],['Pop']
+8,Basel,Dialog,2014-12-08,['Sarah Maria Sun '],['Classic']
+9,Baden,Hello-Truffle,2014-12-08,"[' Matthias Wenger ', ' Nick Perrin ', ' Philipp Moll ', ' Christoph Steiner ']","['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Xylouris-White,2014-12-08,['Xylouris White '],"['world', 'music']"
+11,Z?rich,Camille-O'Sullivan,2014-12-08,"[""Camille O'Sullivan "", "" Camille O'Sullivan "", ' Feargal Murray ', ' Anthony Law ', ' Paul Byrne ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Winterthur,Earnest-and-Without-You,2014-12-08,['Earnest and Without You '],['Electronic']
+13,Bern,Dan-Webber-Trio-feat.-Rinalda-Caduff,2014-12-08,"[' Andrey Tatarinets ', ' Dirk Raufeisen ', ' Dan Webber ', ' ']","['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Black-Moth,2014-12-08,"['Black Moth ', ' Antlered Man ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Z?rich,Mos-Def,2014-12-08,['Mos Daf '],"['Hip', 'Hop', ""R'n'B""]"
+16,Ascona,Lillian-Boutt?-&-Friends,2014-12-08,"[' Lillian Boutt? ', ' Denise Gordon ', ' Roy Williams ', ' Thomas lEtienne ', ' Kyle Roussell ', ' Kerry Lewis ', ' Walter Harris ']","['Jazz', 'Blues', 'Soul']"
+17,Bern,The-Wave-Pictures,2014-12-08,['The Wave Pictures '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

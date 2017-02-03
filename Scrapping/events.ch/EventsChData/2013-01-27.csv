@@ -1,16 +1,16 @@
-location,event,date,artists,genre
-Zürich,Wo-ist-Mami-Krabbel-Konzert,2013-01-27,"['Roman Schmid ', ' Xavier Alig ', ' Naoki Kitaya ', ' Silvan Hürlimann ']",Classic
-Winterthur,Tino-Flautino-der-Märchenprinz,2013-01-27,"['Maurice Steger ', ' Naoki Kitaya ']",Classic
-Zürich,Zum-Sterben-braucht-man-nur-lebendig-sein,2013-01-27,"['Thomas García ', ' Oscar García ', ' Michel Rouilly ', ' Andreas Sami ', ' Frank Sanderell ']",Classic
-Theater-Rigiblick,Zürich,2013-01-27,"[' Helen Iten ', ' Eliane Cueni ', ' Sandra Merk ']",DIRK
-Basel,Winterkonzert,2013-01-27,[' Sumina Studer '],Classic
--Alte-Kirche,Boswil,2013-01-27,"[' Hille Perl ', ' Robin Peter Müller ']",Classic
-Zürich,Konzert,2013-01-27,[' conductor: Alain Altinoglu '],Classic
-Basel,Holliger-im-Spiegel,2013-01-27,"[' Sarah Wegener ', ' Heinz Holliger ', ' Corinne Chapelle ', ' Daria Zappa ', ' Jürg Dähler ', ' Daniel Haefliger ']",Classic
-Zürich,Jean-Pierre-Magnet-y-Serenata-de-los-Andes,2013-01-27,"['Jean Pierre Magnet y Serenata de los Andes ', ' Andres Velez ', ' Emiliano Arboleda ', ' Erikson Cabrera ', ' Juan Pablo Herrera ', ' Oswal Canales ']",
-Luzern,Winter,2013-01-27,"['Amin Mokdad ', ' Nicola Katz ', ' Lukas Roos ', ' Maurus Conte ', ' Simon Heggendorn ', ' Jonas Iten ', ' André Pousaz ', ' Raphael Christen ', ' Rico Baumann ', ' Luzia von Wyl ']",Classic
-Thun,Sinfoniekonzert,2013-01-27,"['Charlotte Dentan ', ' Antonios Stoitsoglou ', ' Uwe Schönbeck ']",Classic
-Bern,Alexander-Kuhn-Group,2013-01-27,"[' Alexander ""Sandi"" Kuhn ', ' Syberen van Munster ', ' Raphael Walser ', ' Jonas Ruther ']",
-Kaserne,Basel,2013-01-27,['Hidden Orchestra '],
-Bern,Marc-Ducret-Tower-Zero,2013-01-27,['Marc Ducret Tower Zero '],
-Zug,Vivid-Curls,2013-01-27,['Vivid Curls '],
+,location,event,date,artists,genre
+0,Zürich,Wo-ist-Mami-Krabbel-Konzert,2013-01-27,"['Roman Schmid ', ' Xavier Alig ', ' Naoki Kitaya ', ' Silvan Hürlimann ']",['Classic']
+1,Winterthur,Tino-Flautino-der-Märchenprinz,2013-01-27,"['Maurice Steger ', ' Naoki Kitaya ']",['Classic']
+2,Zürich,Zum-Sterben-braucht-man-nur-lebendig-sein,2013-01-27,"['Thomas García ', ' Oscar García ', ' Michel Rouilly ', ' Andreas Sami ', ' Frank Sanderell ']",['Classic']
+3,Zürich,Konzert,2013-01-27,[' conductor: Alain Altinoglu '],['Classic']
+4,Basel,Winterkonzert,2013-01-27,[' Sumina Studer '],['Classic']
+5,-Alte-Kirche,Boswil,2013-01-27,"[' Hille Perl ', ' Robin Peter Müller ']",['Classic']
+6,Basel,Holliger-im-Spiegel,2013-01-27,"[' Sarah Wegener ', ' Heinz Holliger ', ' Corinne Chapelle ', ' Daria Zappa ', ' Jürg Dähler ', ' Daniel Haefliger ']",['Classic']
+7,Theater-Rigiblick,Zürich,2013-01-27,"[' Helen Iten ', ' Eliane Cueni ', ' Sandra Merk ']",['DIRK']
+8,Luzern,Winter,2013-01-27,"['Amin Mokdad ', ' Nicola Katz ', ' Lukas Roos ', ' Maurus Conte ', ' Simon Heggendorn ', ' Jonas Iten ', ' André Pousaz ', ' Raphael Christen ', ' Rico Baumann ', ' Luzia von Wyl ']",['Classic']
+9,Zürich,Jean-Pierre-Magnet-y-Serenata-de-los-Andes,2013-01-27,"['Jean Pierre Magnet y Serenata de los Andes ', ' Andres Velez ', ' Emiliano Arboleda ', ' Erikson Cabrera ', ' Juan Pablo Herrera ', ' Oswal Canales ']","['Jazz', 'Blues', 'Soul']"
+10,Thun,Sinfoniekonzert,2013-01-27,"['Charlotte Dentan ', ' Antonios Stoitsoglou ', ' Uwe Schönbeck ']",['Classic']
+11,Bern,Alexander-Kuhn-Group,2013-01-27,"[' Alexander ""Sandi"" Kuhn ', ' Syberen van Munster ', ' Raphael Walser ', ' Jonas Ruther ']","['Jazz', 'Blues', 'Soul']"
+12,Zug,Vivid-Curls,2013-01-27,['Vivid Curls '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Kaserne,Basel,2013-01-27,['Hidden Orchestra '],"['Hidden', 'Orchestra']"
+14,Bern,Marc-Ducret-Tower-Zero,2013-01-27,['Marc Ducret Tower Zero '],"['Jazz', 'Blues', 'Soul']"

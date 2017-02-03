@@ -1,7 +1,7 @@
-location,event,date,artists,genre
-Lenzerheide,Lai,2014-12-24,"[' Bibi Vaplan ', ' Reto Claudio Gaffuri ', ' Michael Nobel ']",Pop
-Zürich,Bridgette-Campbell-and-The-Gospel-Harmonizers,2014-12-24,['Bridgette Campbell and The Gospel Harmonizers '],
-Bern,Johnny-Troubles-Trio,2014-12-24,['Johnny Troubles Trio '],
-Zürich,Heilige-Nacht,2014-12-24,"['Arlette Meier ', ' Felix Gubser ']",Classic
-Zürich,Christnachtfeier,2014-12-24,[' Andreas Jost '],Classic
-Bern,Omri-Hason-Kedem-Ensemble,2014-12-24,"[' Talya G. A Solan ', ' Zhubin Kalhor ', ' Antonello Messina ', ' Lorenz Beyeler ', ' Omri Hason ']",
+,location,event,date,artists,genre
+0,Lenzerheide,Lai,2014-12-24,"[' Bibi Vaplan ', ' Reto Claudio Gaffuri ', ' Michael Nobel ']",['Pop']
+1,Z?rich,Bridgette-Campbell-and-The-Gospel-Harmonizers,2014-12-24,['Bridgette Campbell and The Gospel Harmonizers '],"['world', 'music']"
+2,Z?rich,Heilige-Nacht,2014-12-24,"['Arlette Meier ', ' Felix Gubser ']",['Classic']
+3,Bern,Johnny-Troubles-Trio,2014-12-24,['Johnny Troubles Trio '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,Christnachtfeier,2014-12-24,[' Andreas Jost '],['Classic']
+5,Bern,Omri-Hason-Kedem-Ensemble,2014-12-24,"[' Talya G. A Solan ', ' Zhubin Kalhor ', ' Antonello Messina ', ' Lorenz Beyeler ', ' Omri Hason ']","['Jazz', 'Blues', 'Soul']"

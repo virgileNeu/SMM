@@ -1,18 +1,18 @@
-location,event,date,artists,genre
-Basel,Neue-Gesänge-aus-Europa,2014-09-03,"[' Christine Simolka ', ' Leitung und Werke von René Wohlhauser ', ' Werke von Rudolf Kelterborn ']",Classic
-Basel,Altstadt-Serenaden,2014-09-03,[' Guillermo Pasterna '],Classic
-Luzern,Sinfoniekonzert-17,2014-09-03,"[' Camilla Tilling ', ' Magdalena Kozená ', ' Topi Lehtipuu ', ' Mark Padmore ', ' Eric Owens ', ' Christian Gerhaher ']",Classic
-Zürich,Orgelmusik-aus-Deutschland,2014-09-03,['Jörg Ulrich Busch '],Classic
-Basel,Tieftonfraktion,2014-09-03,"[' Annika Francke ', ' George Ricci ']",
-Zweisimmen,Menuhin-Festival-Gstaad,2014-09-03,"['Vital Julian Frey ', ' Alicia Lopez ']",Classic
-Veytaux,Septembre-musical,2014-09-03,"['Alexandra Conunova ', ' Lionel Cottet ', ' Jullien Quentin ']",Classic
-Zug,Keynote-Jazz,2014-09-03,"[' Daniel Gubelmann ', ' Marvin Trummer ', ' Mirco Häberli ', ' Peter Preibisch ']",
-Luzern,Jam-Night,2014-09-03,"[' Christian Winiker ', ' Bodo Maier ', ' Faruk Muslijevic ', ' Thomas Tavano ', ' Sasha\tFrischknecht ']",
-Zürich,Sentimental-Journey,2014-09-03,"['The Sam Singers ', ' Samuel Zünd ', ' Catriona Bühler ', ' Julia Schiwowa ', ' Helen Iten ', ' Fridolin Blumer ']",Pop
-Basel,Oliver-Pellet-Quinteto,2014-09-03,"[' Rodrigo Botter Maio ', ' Oliver Pellet ', ' Floriano Inácio Jr. ', ' Stephan Kurmann ', ' Mauro Martins ']",
-Köniz,Skerryvore,2014-09-03,['Skerryvore '],
-Feuerthalen,Bucky-Halker,2014-09-03,['Bucky Halker '],Pop
-Zürich,Nubya,2014-09-03,"['Nubya ', ' Pim Nieuwlands ', ' André Buser ', ' Massimo Buonanno ', ' Oliver Keller ', ' Markus Hauser ']",
-Luzern,Piano-Entertainment,2014-09-03,['Mark Tenger '],Pop
-Zürich,Bukowski,2014-09-03,"['The Burning Hell ', ' Susie Asado ']",
-null,Bill-Ryder-Jones,2014-09-03,['Bill Ryder-Jones '],Pop
+,location,event,date,artists,genre
+0,Basel,Neue-Ges?nge-aus-Europa,2014-09-03,"[' Christine Simolka ', ' Leitung und Werke von Ren? Wohlhauser ', ' Werke von Rudolf Kelterborn ']",['Classic']
+1,Basel,Altstadt-Serenaden,2014-09-03,[' Guillermo Pasterna '],['Classic']
+2,Luzern,Sinfoniekonzert-17,2014-09-03,"[' Camilla Tilling ', ' Magdalena Kozen? ', ' Topi Lehtipuu ', ' Mark Padmore ', ' Eric Owens ', ' Christian Gerhaher ']",['Classic']
+3,Z?rich,Orgelmusik-aus-Deutschland,2014-09-03,['J?rg Ulrich Busch '],['Classic']
+4,Zweisimmen,Menuhin-Festival-Gstaad,2014-09-03,"['Vital Julian Frey ', ' Alicia Lopez ']",['Classic']
+5,Veytaux,Septembre-musical,2014-09-03,"['Alexandra Conunova ', ' Lionel Cottet ', ' Jullien Quentin ']",['Classic']
+6,Basel,Tieftonfraktion,2014-09-03,"[' Annika Francke ', ' George Ricci ']","['Jazz', 'Blues', 'Soul']"
+7,Zug,Keynote-Jazz,2014-09-03,"[' Daniel Gubelmann ', ' Marvin Trummer ', ' Mirco H?berli ', ' Peter Preibisch ']","['Jazz', 'Blues', 'Soul']"
+8,Z?rich,Sentimental-Journey,2014-09-03,"['The Sam Singers ', ' Samuel Z?nd ', ' Catriona B?hler ', ' Julia Schiwowa ', ' Helen Iten ', ' Fridolin Blumer ']",['Pop']
+9,Luzern,Jam-Night,2014-09-03,"[' Christian Winiker ', ' Bodo Maier ', ' Faruk Muslijevic ', ' Thomas Tavano ', ' Sasha\tFrischknecht ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Basel,Oliver-Pellet-Quinteto,2014-09-03,"[' Rodrigo Botter Maio ', ' Oliver Pellet ', ' Floriano In?cio Jr. ', ' Stephan Kurmann ', ' Mauro Martins ']","['Jazz', 'Blues', 'Soul']"
+11,K?niz,Skerryvore,2014-09-03,['Skerryvore '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Feuerthalen,Bucky-Halker,2014-09-03,['Bucky Halker '],['Pop']
+13,Z?rich,Nubya,2014-09-03,"['Nubya ', ' Pim Nieuwlands ', ' Andr? Buser ', ' Massimo Buonanno ', ' Oliver Keller ', ' Markus Hauser ']","['Hip', 'Hop', ""R'n'B""]"
+14,null,Bill-Ryder-Jones,2014-09-03,['Bill Ryder-Jones '],['Pop']
+15,Luzern,Piano-Entertainment,2014-09-03,['Mark Tenger '],['Pop']
+16,Z?rich,Bukowski,2014-09-03,"['The Burning Hell ', ' Susie Asado ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

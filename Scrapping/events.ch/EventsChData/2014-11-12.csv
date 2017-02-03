@@ -1,36 +1,36 @@
-location,event,date,artists,genre
-Winterthur,Öffentliche-Generalprobe,2014-11-12,[' Vilde Frang '],Classic
-Basel,Mimiko-Scherzino,2014-11-12,"['Anne-Lise Teruel ', ' Lionel Andrey ', ' Nicolas Michel ']",Classic
-Zürich,Glantaler-Power-Men,2014-11-12,['Glantaler Power Men '],Pop
-Zürich,Internationale-Orgelkonzerte-Herbstzyklus,2014-11-12,['Monika Henking '],Classic
-Winterthur,Konzert,2014-11-12,[' Vilde Frang '],Classic
-Vevey,Morbid-Angel,2014-11-12,['Morbid Angel '],
-Zürich,The-Gaslight-Anthem,2014-11-12,"['The Gaslight Anthem ', ' support: Deer Tick ', ' Bayside ']",
-Basel,Zarathustra,2014-11-12,[' Patricia Kopatchinskaja '],Classic
-Zürich,Happy-Hour-mit-Jazz-the-4-of-Us,2014-11-12,"[' Simon Wyrsch ', ' Dario Bianchin ', ' Fridolin Blumer ', ' Robert Mark ']",
-Zürich,Jazzbaragge-Wednesday-Jam,2014-11-12,"['Marianne Racine ', ' Patrick Sommer ', ' Pius Baschnagel ']",
-Zürich,Passaggio,2014-11-12,['Lavinia Meijer '],Classic
-Luzern,Thanks,2014-11-12,['Thanks '],
-Zürich,Perfume-Genius,2014-11-12,['Perfume Genius '],Pop
-Zürich,Nonono,2014-11-12,['Nonono '],Pop
-Zürich,Amuras,2014-11-12,"[' Juan Pablo Navarro ', ' Julio Azcano ', ' Marcela Arroyo ']",
-null,Incognito,2014-11-12,"['Incognito ', ' Bluey ', ' Vanessa Haynes ', ' Tony Momrelle ', ' Katie Leone ', ' Matt Cooper ', ' Sid Gauld ', ' Nigel Hitchcock ']",
-Bülach,70th-Birthday-Party,2014-11-12,"[' Monty Alexander ', ' Caterina Zapponi ']",
-Winterthur,Síd,2014-11-12,"[' Rea Dubach ', ' Luzius Schuler ', ' Daniel Weber ']",
-Wädenswil,Christoph-Grab's-Raw-Vision,2014-11-12,"[' Christoph Grab ', ' Frank Möbus ', ' Silvan Jeger ', ' Maxime Paratte ', ' Thomas Lüscher ']",
-Pratteln,Level-42,2014-11-12,['Level 42 '],Pop
-Basel,Sharon-Jones-&-The-Dap-Kings,2014-11-12,"['Sharon Jones & The Dap Kings ', ' support: Luca Sapio ']",
-Aarau,Maybeshewill,2014-11-12,"['Maybeshewill ', ' Flood Of Red ']",
-Basel,Mike-Del-Ferro-Trio,2014-11-12,"[' Mike del Ferro ', ' Stephan Kurmann ', ' Dejan Terzic ']",
-null,Mireille-Mathieu,2014-11-12,['Mireille Mathieu '],Pop
-Luzern,Drifting,2014-11-12,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-Zürich,Sika-Lobi,2014-11-12,"[' Nathalie Sika Maerten ', ' Tobias Degen ', ' Beni Stalder ', ' Sandro Heule ', ' Lukas Weber ', ' Mario Hänni ', ' Gregor Frei ']",
-Zürich,Baby-Copperhead-&-Brent-Arnold,2014-11-12,['Baby Copperhead & Brent Arnold '],Pop
-Winterthur,Horisont,2014-11-12,"['Horisont ', ' Spiders ', ' Vidunder ']",
-Zürich,The-Felice-Brothers,2014-11-12,"['The Felice Brothers ', ' support: Andrew Belle ']",
-Wetzikon,Pray-For-Teeth,2014-11-12,['Pray For Teeth '],
-Zürich,Renzo-Spotti-Trio,2014-11-12,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
-Rubigen,Marcus-Bonfanti-abgesagt,2014-11-12,['Marcus Bonfanti '],
-Zürich,Mush-&-Gem-Andrews,2014-11-12,['Mush & Gem Andrews '],Pop
-Lausanne,Suarez,2014-11-12,['Suarez '],Pop
-Baden,Cloud-Boat,2014-11-12,['Cloud Boat '],Electronic
+,location,event,date,artists,genre
+0,Winterthur,?ffentliche-Generalprobe,2014-11-12,[' Vilde Frang '],['Classic']
+1,Basel,Mimiko-Scherzino,2014-11-12,"['Anne-Lise Teruel ', ' Lionel Andrey ', ' Nicolas Michel ']",['Classic']
+2,Z?rich,Glantaler-Power-Men,2014-11-12,['Glantaler Power Men '],['Pop']
+3,Z?rich,Internationale-Orgelkonzerte-Herbstzyklus,2014-11-12,['Monika Henking '],['Classic']
+4,Basel,Zarathustra,2014-11-12,[' Patricia Kopatchinskaja '],['Classic']
+5,Vevey,Morbid-Angel,2014-11-12,['Morbid Angel '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Winterthur,Konzert,2014-11-12,[' Vilde Frang '],['Classic']
+7,Z?rich,The-Gaslight-Anthem,2014-11-12,"['The Gaslight Anthem ', ' support: Deer Tick ', ' Bayside ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Luzern,Thanks,2014-11-12,['Thanks '],"['Hip', 'Hop', ""R'n'B""]"
+9,Z?rich,Amuras,2014-11-12,"[' Juan Pablo Navarro ', ' Julio Azcano ', ' Marcela Arroyo ']","['Jazz', 'Blues', 'Soul']"
+10,null,Incognito,2014-11-12,"['Incognito ', ' Bluey ', ' Vanessa Haynes ', ' Tony Momrelle ', ' Katie Leone ', ' Matt Cooper ', ' Sid Gauld ', ' Nigel Hitchcock ']","['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Perfume-Genius,2014-11-12,['Perfume Genius '],['Pop']
+12,Z?rich,Passaggio,2014-11-12,['Lavinia Meijer '],['Classic']
+13,Z?rich,Happy-Hour-mit-Jazz-the-4-of-Us,2014-11-12,"[' Simon Wyrsch ', ' Dario Bianchin ', ' Fridolin Blumer ', ' Robert Mark ']","['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Nonono,2014-11-12,['Nonono '],['Pop']
+15,Z?rich,Jazzbaragge-Wednesday-Jam,2014-11-12,"['Marianne Racine ', ' Patrick Sommer ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+16,Winterthur,S?d,2014-11-12,"[' Rea Dubach ', ' Luzius Schuler ', ' Daniel Weber ']","['Jazz', 'Blues', 'Soul']"
+17,B?lach,70th-Birthday-Party,2014-11-12,"[' Monty Alexander ', ' Caterina Zapponi ']","['Jazz', 'Blues', 'Soul']"
+18,W?denswil,Christoph-Grab's-Raw-Vision,2014-11-12,"[' Christoph Grab ', ' Frank M?bus ', ' Silvan Jeger ', ' Maxime Paratte ', ' Thomas L?scher ']","['Jazz', 'Blues', 'Soul']"
+19,Basel,Sharon-Jones-&-The-Dap-Kings,2014-11-12,"[' The Dap Kings ', ' support: Luca Sapio ']","['Hip', 'Hop', ""R'n'B""]"
+20,Basel,Mike-Del-Ferro-Trio,2014-11-12,"[' Mike del Ferro ', ' Stephan Kurmann ', ' Dejan Terzic ']","['Jazz', 'Blues', 'Soul']"
+21,Luzern,Drifting,2014-11-12,"[' Tobias Preisig ', ' Stefan Aeby ', ' Andr? Pousaz ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+22,Pratteln,Level-42,2014-11-12,['Level 42 '],['Pop']
+23,Winterthur,Horisont,2014-11-12,"['Horisont ', ' Spiders ', ' Vidunder ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Z?rich,Sika-Lobi,2014-11-12,"[' Nathalie Sika Maerten ', ' Tobias Degen ', ' Beni Stalder ', ' Sandro Heule ', ' Lukas Weber ', ' Mario H?nni ', ' Gregor Frei ']","['Hip', 'Hop', ""R'n'B""]"
+25,null,Mireille-Mathieu,2014-11-12,['Mireille Mathieu '],['Pop']
+26,Z?rich,Baby-Copperhead-&-Brent-Arnold,2014-11-12,[' Brent Arnold '],['Pop']
+27,Aarau,Maybeshewill,2014-11-12,"['Maybeshewill ', ' Flood Of Red ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Z?rich,The-Felice-Brothers,2014-11-12,"['The Felice Brothers ', ' support: Andrew Belle ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Rubigen,Marcus-Bonfanti-abgesagt,2014-11-12,['Marcus Bonfanti '],"['Jazz', 'Blues', 'Soul']"
+30,Wetzikon,Pray-For-Teeth,2014-11-12,['Pray For Teeth '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Z?rich,Mush-&-Gem-Andrews,2014-11-12,[' Gem Andrews '],['Pop']
+32,Lausanne,Suarez,2014-11-12,['Suarez '],['Pop']
+33,Z?rich,Renzo-Spotti-Trio,2014-11-12,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+34,Baden,Cloud-Boat,2014-11-12,['Cloud Boat '],['Electronic']

@@ -1,21 +1,21 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment,2014-09-10,['Mark Tenger '],
-Zürich,Orgelmusik-aus-Frankreich,2014-09-10,['Sophie-Véronique Cauchefer-Choplin '],Classic
-Palais-des-Congrès,null,2014-09-10,[' Francesco Piemontesi '],Classic
-Winterthur,Mozart-&-Salieri-ein-giftiger-Opernwettstreit,2014-09-10,"[' Sen Guo ', ' Kenneth Tarver ']",Classic
-Luzern,Sinfoniekonzert-23,2014-09-10,[' Joshua Smith '],Classic
-Zürich,Saisoneröffnung,2014-09-10,[' Yuja Wang '],Classic
-Bern,Sommerserenaden,2014-09-10,"[' Sandrine Canova ', ' Yolena Orea ', ' Carlos Rojas ']",Classic
-Basel,Jazz-for-ten-Strings,2014-09-10,"[' Martin Wyss ', ' Luca Aaron ']",
-Montreux,Septembre-musical,2014-09-10,"['Royal Philharmonic Orchestra London ', ' Radu Lupu ']",Classic
-Luzern,Jam-Night,2014-09-10,"[' Gavro Nikolic ', ' Faruk Muslijevic ', ' Arthur Furrer ', ' Christoph Müller ']",
-null,Bizarre-Ride-II-The-Pharcyde,2014-09-10,['The Pharcyde '],
-Zürich,Tutto-amore-Canzoni-italiane,2014-09-10,"['Boguslaw Bidzinski ', ' Yaël Anaïs Dengler ']",Classic
-Winterthur,Ghost-Town-Trio-feat.-Marianne-Racine,2014-09-10,"[' Marianne Racine ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Künzi ']",
-Basel,Inez,2014-09-10,"[' Ines Brodbeck ', ' Michael Garrod ', ' Matthias Siegrist ', ' André Buser ', ' Eric Gut ']",
-null,Soundtrack-for-Burgers,2014-09-10,"[' Josquin Rosset ', ' Dominic Landolt ', ' Carlo Lorenzi ', ' Sandro Heule ']",
-null,Peter-J.-Birch,2014-09-10,['Peter J. Birch '],Pop
-Pratteln,Richie-Kotzen,2014-09-10,['Richie Kotzen '],
-Düdingen,King-Buzzo,2014-09-10,['King Buzzo '],
-Luzern,Siberian,2014-09-10,['Siberian '],
-Zürich,Israel-Nash,2014-09-10,['Israel Nash '],Pop
+,location,event,date,artists,genre
+0,Luzern,Piano-Entertainment,2014-09-10,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+1,Z?rich,Orgelmusik-aus-Frankreich,2014-09-10,['Sophie-V?ronique Cauchefer-Choplin '],['Classic']
+2,Luzern,Sinfoniekonzert-23,2014-09-10,[' Joshua Smith '],['Classic']
+3,Montreux,Septembre-musical,2014-09-10,"['Royal Philharmonic Orchestra London ', ' Radu Lupu ']",['Classic']
+4,Palais-des-Congr?s,null,2014-09-10,[' Francesco Piemontesi '],['Classic']
+5,Z?rich,Saisoner?ffnung,2014-09-10,[' Yuja Wang '],['Classic']
+6,Winterthur,Mozart-&-Salieri-ein-giftiger-Opernwettstreit,2014-09-10,"[' Sen Guo ', ' Kenneth Tarver ']",['Classic']
+7,Basel,Jazz-for-ten-Strings,2014-09-10,"[' Martin Wyss ', ' Luca Aaron ']","['Jazz', 'Blues', 'Soul']"
+8,Bern,Sommerserenaden,2014-09-10,"[' Sandrine Canova ', ' Yolena Orea ', ' Carlos Rojas ']",['Classic']
+9,null,Bizarre-Ride-II-The-Pharcyde,2014-09-10,['The Pharcyde '],"['Hip', 'Hop', ""R'n'B""]"
+10,Luzern,Jam-Night,2014-09-10,"[' Gavro Nikolic ', ' Faruk Muslijevic ', ' Arthur Furrer ', ' Christoph M?ller ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,Tutto-amore-Canzoni-italiane,2014-09-10,"['Boguslaw Bidzinski ', ' Ya?l Ana?s Dengler ']",['Classic']
+12,Winterthur,Ghost-Town-Trio-feat.-Marianne-Racine,2014-09-10,"[' Marianne Racine ', ' Urs V?geli ', ' Claude Meier ', ' Emanuel K?nzi ']","['Jazz', 'Blues', 'Soul']"
+13,Pratteln,Richie-Kotzen,2014-09-10,['Richie Kotzen '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Basel,Inez,2014-09-10,"[' Ines Brodbeck ', ' Michael Garrod ', ' Matthias Siegrist ', ' Andr? Buser ', ' Eric Gut ']","['Jazz', 'Blues', 'Soul']"
+15,null,Peter-J.-Birch,2014-09-10,['Peter J. Birch '],['Pop']
+16,null,Soundtrack-for-Burgers,2014-09-10,"[' Josquin Rosset ', ' Dominic Landolt ', ' Carlo Lorenzi ', ' Sandro Heule ']","['Jazz', 'Blues', 'Soul']"
+17,Luzern,Siberian,2014-09-10,['Siberian '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Z?rich,Israel-Nash,2014-09-10,['Israel Nash '],['Pop']
+19,D?dingen,King-Buzzo,2014-09-10,['King Buzzo '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

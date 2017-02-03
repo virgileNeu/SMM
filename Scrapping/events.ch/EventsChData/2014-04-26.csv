@@ -1,42 +1,40 @@
-location,event,date,artists,genre
-Winterthur,Der-Frühling-will-kommen,2014-04-26,"['Claudia Dieterle ', ' Simon Stettler ', ' Ai Furuya ']",Classic
-Wetzikon,Flapper-Haus-Festival,2014-04-26,"['The Young Punx ', ' Prince Valium ', ' Junge & Mädchen ', ' John Francis ', ' DJs Geert Van Der Wiet ']",
-null,Edith-La-voix-de-La-Môme,2014-04-26,['Jil Aigrot '],Pop
-Basel,Jazzfestival-Basel,2014-04-26,"[' Josefine Cronholm ', ' John Taylor ', ' Anders Jormin ', ' Marilyn Mazur ']",
-Aarau,Entlang-der-neuen-Seidenstrasse-Konzertreihe-mit-Yang-Jing,2014-04-26,['Yang Jing '],Classic
-Zürich,Platzfäscht,2014-04-26,"[' Bryn Terfel ', ' Julie Fuchs ', ' Anna Goryachova ', ' Benjamin Bernheim ']",Classic
-Luzern,Piano-Entertainment,2014-04-26,['Christian Mettler '],Pop
-Basel,Concerts-Aurore-Basel,2014-04-26,['Pierre Goy '],Classic
-Basel,Angelo-Kelly,2014-04-26,['Angelo Kelly '],Pop
-Menziken,Cello-&-Klavier,2014-04-26,"[' David Reitz ', ' Bram Buitenkant ']",Classic
-Zürich,Migros-Kulturprozent-Classics,2014-04-26,"[' Leonidas Kavakos ', ' Anu Komsi ']",Classic
-Ueberstorf,Bleib-steh'n-Abgesagt,2014-04-26,"[' Markus Maria Enggist ', ' Michel Poffet ', ' Stefan W. Müller ']",Pop
-null,Edith-La-voix-de-La-Môme,2014-04-26,['Jil Aigrot '],Pop
-Zürich,Shezoo,2014-04-26,['Shezoo '],
-null,Frühlingskonzert,2014-04-26,['Schlossberg Musikanten Uster '],traditional
-Basel,Mø,2014-04-26,['Mø '],Pop
-Zürich,Samy-Deluxe,2014-04-26,['Samy Deluxe '],
-Zürich,Opas-Diandl,2014-04-26,['Opas Diandl '],traditional
-Zürich,Opas-Diandl,2014-04-26,['Opas Diandl '],traditional
-Zürich,Wo-alles-aufhört-beginnt-das-Spiel,2014-04-26,"['Andrea Wiesli ', ' Mariella Bachmann ', ' Mirjam Tschopp ', ' Katsunobu Hiraki ']",Classic
-Mels,Mich-Gerber-feat.-Al-Comet,2014-04-26,"[' Mich Gerber ', ' Al Comet ', ' Andi Pupato ', ' Wolfgang Zwiauer ']",
-Basel,Laurin-Buser,2014-04-26,"[' Emilia & Julia Taubic ', ' Dominik Beck ', ' Raphael Scheiwiller ', ' Mischa Maurer ', ' Florian Haas ']",
-Zürich,Samuel-Jon-Samuelsson-Big-Band,2014-04-26,"['Samuel Jon Samuelsson Big Band ', ' Jóel Pálsson ', ' Steinar Sigurdarson ', ' Óskar Gudjónsson ', ' Kjartan Hákonarson ', ' Snorri Sigurdarson ']",
-Köniz,Doppelkonzert,2014-04-26,[' Rob McPherson & Jack the Planet '],
-Feuerthalen,Tabea-Anderfuhren's-Tram,2014-04-26,"[' Tabea Anderfuhren ', ' Ruben Minuto ', ' Icaro Gatti ', ' Matteo Ringressi ']",
-null,Honky-Tonk-Festival-St.-Gallen,2014-04-26,['Russkaja '],
-Zürich,Boogarins,2014-04-26,['Boogarins '],
-Zug,Murphy-Left,2014-04-26,['Murphy Left '],Pop
-Zürich,Andrew-Medwed,2014-04-26,['Andrew Medwed '],Pop
-null,Larry-Goldings-Trio,2014-04-26,"[' Larry Goldings ', ' Peter Bernstein ', ' Bill Stewart ']",
-Zürich,Tony-Renold-Quartett,2014-04-26,"[' Michael Gassmann ', ' Michael Bucher ', ' Patrick Sommer ', ' Tony Renold ']",
-Basel,Leo-Stannard,2014-04-26,['Leo Stannard '],Pop
-Luzern,Bad-Condition,2014-04-26,"[' Elio Amberg ', ' Raffael Pochanke ', ' Gregory Schärer ', ' Sascha Frischknecht ']",
-Solothurn,John-Coffey,2014-04-26,['John Coffey '],
-Sankt-Gallen,Kode-9,2014-04-26,['Kode 9 '],
-Zürich,Simon-Kempston,2014-04-26,['Simon Kempston '],
-Lausanne,Jackie-O-Motherfucker,2014-04-26,['Jackie-O Motherfucker '],Electronic
-null,Perfect-feat.-House-of-Riddim-Band,2014-04-26,['Perfect '],
-Basel,Salsa-Latino-Party,2014-04-26,['DJ Francisco '],
-Bern,Lo-&-Leduc,2014-04-26,['Lo & Leduc '],
-Winterthur,Colors,2014-04-26,['Live: Alle Farben '],
+,location,event,date,artists,genre
+0,Winterthur,Der-Fr?hling-will-kommen,2014-04-26,"['Claudia Dieterle ', ' Simon Stettler ', ' Ai Furuya ']",['Classic']
+1,null,Edith-La-voix-de-La-M?me,2014-04-26,['Jil Aigrot '],['Pop']
+2,Basel,Jazzfestival-Basel,2014-04-26,"[' Josefine Cronholm ', ' John Taylor ', ' Anders Jormin ', ' Marilyn Mazur ']","['Jazz', 'Blues', 'Soul']"
+3,Aarau,Entlang-der-neuen-Seidenstrasse-Konzertreihe-mit-Yang-Jing,2014-04-26,['Yang Jing '],['Classic']
+4,Z?rich,Platzf?scht,2014-04-26,"[' Bryn Terfel ', ' Julie Fuchs ', ' Anna Goryachova ', ' Benjamin Bernheim ']",['Classic']
+5,Luzern,Piano-Entertainment,2014-04-26,['Christian Mettler '],['Pop']
+6,Basel,Concerts-Aurore-Basel,2014-04-26,['Pierre Goy '],['Classic']
+7,Basel,Angelo-Kelly,2014-04-26,['Angelo Kelly '],['Pop']
+8,Z?rich,Migros-Kulturprozent-Classics,2014-04-26,"[' Leonidas Kavakos ', ' Anu Komsi ']",['Classic']
+9,Ueberstorf,Bleib-steh'n-Abgesagt,2014-04-26,"[' Markus Maria Enggist ', ' Michel Poffet ', ' Stefan W. M?ller ']",['Pop']
+10,Menziken,Cello-&-Klavier,2014-04-26,"[' David Reitz ', ' Bram Buitenkant ']",['Classic']
+11,null,Edith-La-voix-de-La-M?me,2014-04-26,['Jil Aigrot '],['Pop']
+12,Z?rich,Samy-Deluxe,2014-04-26,['Samy Deluxe '],"['Hip', 'Hop', ""R'n'B""]"
+13,null,Fr?hlingskonzert,2014-04-26,['Schlossberg Musikanten Uster '],['traditional']
+14,Basel,M?,2014-04-26,['M? '],['Pop']
+15,Z?rich,Opas-Diandl,2014-04-26,['Opas Diandl '],['traditional']
+16,Z?rich,Wo-alles-aufh?rt-beginnt-das-Spiel,2014-04-26,"['Andrea Wiesli ', ' Mariella Bachmann ', ' Mirjam Tschopp ', ' Katsunobu Hiraki ']",['Classic']
+17,Z?rich,Shezoo,2014-04-26,['Shezoo '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Mels,Mich-Gerber-feat.-Al-Comet,2014-04-26,"[' Mich Gerber ', ' Al Comet ', ' Andi Pupato ', ' Wolfgang Zwiauer ']","['world', 'music']"
+19,K?niz,Doppelkonzert,2014-04-26,[' Jack the Planet '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Z?rich,Samuel-Jon-Samuelsson-Big-Band,2014-04-26,"['Samuel Jon Samuelsson Big Band ', ' J?el P?lsson ', ' Steinar Sigurdarson ', ' ?skar Gudj?nsson ', ' Kjartan H?konarson ', ' Snorri Sigurdarson ']","['Jazz', 'Blues', 'Soul']"
+21,Basel,Laurin-Buser,2014-04-26,"[' Julia Taubic ', ' Dominik Beck ', ' Raphael Scheiwiller ', ' Mischa Maurer ', ' Florian Haas ']","['Hip', 'Hop', ""R'n'B""]"
+22,Feuerthalen,Tabea-Anderfuhren's-Tram,2014-04-26,"[' Tabea Anderfuhren ', ' Ruben Minuto ', ' Icaro Gatti ', ' Matteo Ringressi ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,null,Honky-Tonk-Festival-St.-Gallen,2014-04-26,['Russkaja '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,null,Larry-Goldings-Trio,2014-04-26,"[' Larry Goldings ', ' Peter Bernstein ', ' Bill Stewart ']","['Jazz', 'Blues', 'Soul']"
+25,Z?rich,Boogarins,2014-04-26,['Boogarins '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Z?rich,Andrew-Medwed,2014-04-26,['Andrew Medwed '],['Pop']
+27,Basel,Leo-Stannard,2014-04-26,['Leo Stannard '],['Pop']
+28,Z?rich,Tony-Renold-Quartett,2014-04-26,"[' Michael Gassmann ', ' Michael Bucher ', ' Patrick Sommer ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+29,Zug,Murphy-Left,2014-04-26,['Murphy Left '],['Pop']
+30,Luzern,Bad-Condition,2014-04-26,"[' Elio Amberg ', ' Raffael Pochanke ', ' Gregory Sch?rer ', ' Sascha Frischknecht ']","['Jazz', 'Blues', 'Soul']"
+31,Solothurn,John-Coffey,2014-04-26,['John Coffey '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Sankt-Gallen,Kode-9,2014-04-26,['Kode 9 '],"['Hip', 'Hop', ""R'n'B""]"
+33,Basel,Salsa-Latino-Party,2014-04-26,['DJ Francisco '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+34,null,Perfect-feat.-House-of-Riddim-Band,2014-04-26,['Perfect '],"['Hip', 'Hop', ""R'n'B""]"
+35,Lausanne,Jackie-O-Motherfucker,2014-04-26,['Jackie-O Motherfucker '],['Electronic']
+36,Z?rich,Simon-Kempston,2014-04-26,['Simon Kempston '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Bern,Lo-&-Leduc,2014-04-26,[' Leduc '],"['Hip', 'Hop', ""R'n'B""]"
+38,Winterthur,Colors,2014-04-26,['Live: Alle Farben '],"['Electro', 'Electropop']"

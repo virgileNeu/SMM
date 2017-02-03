@@ -1,28 +1,29 @@
-location,event,date,artists,genre
-Winterthur,Kova-Zappa,2015-02-21,"[' Mattia Zappa ', ' Ivo Kova ']",
-Aarau,Bucher's-Organ-Book,2015-02-21,"[' Michael Bucher ', ' Thomas Bauser ', ' Lukas Mantel ']",
-Bern,Bernische-Chopin-Gesellschaft,2015-02-21,['Florian Favre '],Classic
-Liestal,Karel-de-Matteis,2015-02-21,['Karel de Matteis '],Pop
-Baden,Überzeugung,2015-02-21,"[' Marisa Waldburger ', ' Marc Bätscher ', ' Ursula Hächler ', ' Jason Paul Peterson ']",Classic
-Zürich,Prager-Kammervirtuosen,2015-02-21,"['Bohuslav Matousek ', ' Petr Adamec ']",Classic
-Zürich,Stuttgarter-Philharmoniker,2015-02-21,"[' Dimitri Ashkenazy ', ' Anica Defuns ', ' Violetta Radomirska ', ' Hans-Jürg Rickenbacher ', ' Marc-Olivier Oetterli ']",Classic
-Zürich,Macy-Gray,2015-02-21,['Macy Gray '],
-null,Veil-of-Maya,2015-02-21,"['Veil of Maya ', ' Chelsea Grin ', ' Black Tongue ', ' Oceans Ate Alaska ']",
-Zug,Disruption,2015-02-21,[' Andy Rive '],
-Zürich,Milky-Chance-ausverkauft,2015-02-21,['Milky Chance '],
-Dübendorf,Los-Acuna,2015-02-21,['Los Acuna '],
-Winterthur,Burst-&-Bloom,2015-02-21,['Brutal Youth '],
-Basel,Kirk-Lightsey-Trio,2015-02-21,"[' Kirk Lighstey ', ' Darryl Hall ', ' Sangoma Everett ']",
-Zug,Polo-Hofer-&-Die-Band,2015-02-21,"[' Polo Hofer ', ' H.P. Brüggemann  ', ' Mario Capitanio ', ' Peter Enderli ', ' Marc Gerber ', ' \r\nAndi Hug ']",
-Zürich,Zimi's-Hot-Swing-Trio,2015-02-21,"[' Andreas Bugs ', ' Hans Ermel ', ' Marcel Zimmermann ']",
-Baden,The-Cordon-Blues-Band,2015-02-21,"[' Marc A.K. ', ' Erich S. ', ' Martin L. ', ' Charlie H. ', ' Henry H. ']",
-Aarau,Antilopen-Gang,2015-02-21,['Antilopen Gang '],
-Aarau,Crowbar,2015-02-21,"['Crowbar ', ' Iron Walrus ']",
-Zürich,Akua-Naru,2015-02-21,"['Akua Naru ', ' Akua Naru ', ' Julian Ritter ', ' Leif Braeutigam ', ' Alexander Roenz ', ' Wendy Milton ']",
-Liebefeld,Pena-flamenca-los-caracoles,2015-02-21,['Murat Coskun '],
-Bern,Candy-Dulfer,2015-02-21,['Candy Dulfer '],
-Zürich,Best-Friends,2015-02-21,"[' Gianpiero Laganá ', ' Evelina Brecht ', ' Luca Pacino ', ' Giusi Basile ', ' Michele Scarfó ', ' Sal Randy ', ' Salvatore Catalano ']",Pop
-null,Spider-Murphy-Gang,2015-02-21,['Spider Murphy Gang '],Pop
-Lausanne,Mutilation-Rites,2015-02-21,"['Mutilation Rites ', ' Hierophant ']",
-Sankt-Gallen,Bohren-und-Der-Club-of-Gore,2015-02-21,['Bohren und Der Club of Gore '],
-Zürich,Benjamin-Heart,2015-02-21,"[' Benjamin Heart ', ' Nicolas Stocker ']",Pop
+,location,event,date,artists,genre
+0,Winterthur,Kova-Zappa,2015-02-21,"[' Mattia Zappa ', ' Ivo Kova ']","['Jazz', 'Blues', 'Soul']"
+1,Aarau,Bucher's-Organ-Book,2015-02-21,"[' Michael Bucher ', ' Thomas Bauser ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"
+2,Bern,Bernische-Chopin-Gesellschaft,2015-02-21,['Florian Favre '],['Classic']
+3,Liestal,Karel-de-Matteis,2015-02-21,['Karel de Matteis '],['Pop']
+4,Z?rich,Macy-Gray,2015-02-21,['Macy Gray '],"['Hip', 'Hop', ""R'n'B""]"
+5,Z?rich,Stuttgarter-Philharmoniker,2015-02-21,"[' Dimitri Ashkenazy ', ' Anica Defuns ', ' Violetta Radomirska ', ' Hans-J?rg Rickenbacher ', ' Marc-Olivier Oetterli ']",['Classic']
+6,Z?rich,Prager-Kammervirtuosen,2015-02-21,"['Bohuslav Matousek ', ' Petr Adamec ']",['Classic']
+7,Baden,?berzeugung,2015-02-21,"[' Marisa Waldburger ', ' Marc B?tscher ', ' Ursula H?chler ', ' Jason Paul Peterson ']",['Classic']
+8,Z?rich,Milky-Chance-ausverkauft,2015-02-21,['Milky Chance '],"['Hip', 'Hop', ""R'n'B""]"
+9,Pratteln,Feuerengel,2015-02-21,['Feuerengel '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,D?bendorf,Los-Acuna,2015-02-21,['Los Acuna '],"['world', 'music']"
+11,Zug,Disruption,2015-02-21,[' Andy Rive '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,null,Veil-of-Maya,2015-02-21,"['Veil of Maya ', ' Chelsea Grin ', ' Black Tongue ', ' Oceans Ate Alaska ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Baden,The-Cordon-Blues-Band,2015-02-21,"[' Marc A.K. ', ' Erich S. ', ' Martin L. ', ' Charlie H. ', ' Henry H. ']","['Jazz', 'Blues', 'Soul']"
+14,Zug,Polo-Hofer-&-Die-Band,2015-02-21,"[' Polo Hofer ', ' H.P. Br?ggemann  ', ' Mario Capitanio ', ' Peter Enderli ', ' Marc Gerber ', ' \r\nAndi Hug ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Z?rich,Zimi's-Hot-Swing-Trio,2015-02-21,"[' Andreas Bugs ', ' Hans Ermel ', ' Marcel Zimmermann ']","['Jazz', 'Blues', 'Soul']"
+16,Aarau,Antilopen-Gang,2015-02-21,['Antilopen Gang '],"['Hip', 'Hop', ""R'n'B""]"
+17,Basel,Kirk-Lightsey-Trio,2015-02-21,"[' Kirk Lighstey ', ' Darryl Hall ', ' Sangoma Everett ']","['Jazz', 'Blues', 'Soul']"
+18,Z?rich,Akua-Naru,2015-02-21,"['Akua Naru ', ' Akua Naru ', ' Julian Ritter ', ' Leif Braeutigam ', ' Alexander Roenz ', ' Wendy Milton ']","['Hip', 'Hop', ""R'n'B""]"
+19,Winterthur,Burst-&-Bloom,2015-02-21,['Brutal Youth '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Liebefeld,Pena-flamenca-los-caracoles,2015-02-21,['Murat Coskun '],"['world', 'music']"
+21,Aarau,Crowbar,2015-02-21,"['Crowbar ', ' Iron Walrus ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Bern,Candy-Dulfer,2015-02-21,['Candy Dulfer '],"['Jazz', 'Blues', 'Soul']"
+23,Z?rich,Best-Friends,2015-02-21,"[' Gianpiero Lagan? ', ' Evelina Brecht ', ' Luca Pacino ', ' Giusi Basile ', ' Michele Scarf? ', ' Sal Randy ', ' Salvatore Catalano ']",['Pop']
+24,Z?rich,Benjamin-Heart,2015-02-21,"[' Benjamin Heart ', ' Nicolas Stocker ']",['Pop']
+25,Sankt-Gallen,Bohren-und-Der-Club-of-Gore,2015-02-21,['Bohren und Der Club of Gore '],"['Jazz', 'Blues', 'Soul']"
+26,null,Spider-Murphy-Gang,2015-02-21,['Spider Murphy Gang '],['Pop']
+27,Lausanne,Mutilation-Rites,2015-02-21,"['Mutilation Rites ', ' Hierophant ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

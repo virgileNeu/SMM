@@ -1,13 +1,12 @@
-location,event,date,artists,genre
-Thun,Neujahrskonzert,2014-01-01,"[' Anne-Florence Marbot ', ' Kevin Koch ']",Classic
-Basel,Konzert,2014-01-01,"['Viviane Chassot ', ' Lisa Wyss ']",Classic
-Bern,Neujahrskonzert,2014-01-01,"[' Sophia Christine Brommer ', ' Yvonne Naef ', ' Tomasz Zagorski ', ' Robin Adams ']",Classic
-Luzern,Neujahrskonzert,2014-01-01,[' works by Strauss '],Classic
-Zürich,Neujahrskonzert,2014-01-01,"[' Lady Jeanne Galway ', ' conductor: Sir James Galway ', ' Strauss ']",Classic
-Zürich,Neue-Klänge-für-das-Neue-Jahr,2014-01-01,"['Ruth Bischofberger ', ' Christian Döhring ']",Classic
-Schneisingen,Neujahrskonzert,2014-01-01,['Panflini & Friends '],
-Aarberg,Neujahrskonzert,2014-01-01,['Panflini & Friends '],
-Luzern,Piano-Entertainment,2014-01-01,['Christian Mettler '],Pop
-Thun,Neujahrskonzert,2014-01-01,"[' Anne-Florence Marbot ', ' Kevin Koch ']",Classic
-Zürich,Lo-puro-del-flamenco,2014-01-01,"[' Rafael Segura ', ' Juan Ramón Caro ']",
-Zürich,International-Freestyle-Music-Festival,2014-01-01,['Polstergruppe '],Pop
+,location,event,date,artists,genre
+0,Thun,Neujahrskonzert,2014-01-01,"[' Anne-Florence Marbot ', ' Kevin Koch ']",['Classic']
+1,Basel,Konzert,2014-01-01,"['Viviane Chassot ', ' Lisa Wyss ']",['Classic']
+2,Schneisingen,Neujahrskonzert,2014-01-01,[' Friends '],"['world', 'music']"
+3,Aarberg,Neujahrskonzert,2014-01-01,[' Friends '],"['world', 'music']"
+4,Luzern,Neujahrskonzert,2014-01-01,[' works by Strauss '],['Classic']
+5,Z?rich,Neujahrskonzert,2014-01-01,"[' Lady Jeanne Galway ', ' conductor: Sir James Galway ', ' Strauss ']",['Classic']
+6,Bern,Neujahrskonzert,2014-01-01,"[' Sophia Christine Brommer ', ' Yvonne Naef ', ' Tomasz Zagorski ', ' Robin Adams ']",['Classic']
+7,Z?rich,Neue-Kl?nge-f?r-das-Neue-Jahr,2014-01-01,"['Ruth Bischofberger ', ' Christian D?hring ']",['Classic']
+8,Luzern,Piano-Entertainment,2014-01-01,['Christian Mettler '],['Pop']
+9,Thun,Neujahrskonzert,2014-01-01,"[' Anne-Florence Marbot ', ' Kevin Koch ']",['Classic']
+10,Z?rich,International-Freestyle-Music-Festival,2014-01-01,['Polstergruppe '],['Pop']

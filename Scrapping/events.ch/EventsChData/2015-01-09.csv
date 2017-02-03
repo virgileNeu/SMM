@@ -1,24 +1,24 @@
-location,event,date,artists,genre
-Zürich,Werner-und-Company,2015-01-09,['Werner und Company '],Pop
-Basel,Orgelspiel-zum-Feierabend,2015-01-09,['Quentin Kozuchowski '],Classic
-Worblaufen,Chris-Zahnd,2015-01-09,['Chris Zahnd '],
-null,5.-Tonhallekonzert,2015-01-09,['Conductor: Howard Shelley '],Classic
-Zürich,Ars-amatoria-Liebeskunst,2015-01-09,"[' Garth Knox ', ' Thomas Demenga ']",Classic
-Zürich,Konzert,2015-01-09,[' Nelson Freire '],Classic
-Zürich,Neujahrskonzert,2015-01-09,"[' Yukiko Ishibashi ', ' Ursula Sarnthein ', ' Christine Hu ', ' Lecolion Washington ']",Classic
-Baden,Solorezital,2015-01-09,['Oliver Schnyder '],Classic
-null,Singin'-Breeze-feat.-Kalpana-Rao-&-Beat-Baumli,2015-01-09,"[' Kalpana Rao ', ' Beat Baumli ']",
-Bern,Konzert,2015-01-09,"['Paolo Vignaroli ', ' Béatrice Zawodnik ', ' Alexandre Babel ', ' Anna Spina ']",Classic
-Basel,Striving-for-Light,2015-01-09,['Michael Leibundgut '],Classic
-Winterthur,Renata-Friederich's-City-Lights,2015-01-09,"[' Renata Friederich ', ' Christoph Grab ', ' Felix Utzinger ', ' Rätus Flisch ', ' Tony Renold ']",
-Zürich,Niggli-Staub,2015-01-09,"[' Lucas Niggli ', ' Reto Staub ']",
-null,Paul-Tiernan,2015-01-09,"['Paul Tiernan ', ' Marja Gaynor ']",
-Baden,Red-Shamrock,2015-01-09,"[' Robert Kreimel ', ' Iris Leutert ', ' Sevan Kirder ', ' David Lüthi ']",
-Basel,Basler-Jazztradition,2015-01-09,"[' Tassilo Dellers ', ' Adrian Schäublin ', ' Florian Abt ', ' Felix Handschin ']",
-Liebefeld,Intermezzo-&-Reflective-Perspectives,2015-01-09,['Sandy Patton '],
-Liestal,Trio-Arazôn-Tango-und-Argentinische-Folklore,2015-01-09,"[' Annette Rüegg ', ' Jojo Kunz ', ' Franziska ""Pancha"" Hämmerli ']",
-Zürich,James-Brown-Tribute-Show,2015-01-09,"['Rich Fonje ', ' Dave Feusi ', ' Fabienne Hoerni ', ' René Mosele ', ' Matthew Savnik ']",
-Romanshorn,Jürgen-Waidele-&-Friends-feat.-Elysa-Key,2015-01-09,"[' Jürgen Waidele ', ' Pele Keller ', ' Rainer Apel ', ' Arno Haas ', ' Alex Friedrich ', ' Elysa Key ']",
-Winterthur,Sweet-Kiss-Momma,2015-01-09,['Sweet Kiss Momma '],
-Winterthur,Rummelsnuff,2015-01-09,['Rummelsnuff '],
-Aarau,Massai,2015-01-09,['Massai '],
+,location,event,date,artists,genre
+0,Z?rich,Werner-und-Company,2015-01-09,['Werner und Company '],['Pop']
+1,Basel,Orgelspiel-zum-Feierabend,2015-01-09,['Quentin Kozuchowski '],['Classic']
+2,Worblaufen,Chris-Zahnd,2015-01-09,['Chris Zahnd '],"['Jazz', 'Blues', 'Soul']"
+3,Z?rich,Neujahrskonzert,2015-01-09,"[' Yukiko Ishibashi ', ' Ursula Sarnthein ', ' Christine Hu ', ' Lecolion Washington ']",['Classic']
+4,Z?rich,Konzert,2015-01-09,[' Nelson Freire '],['Classic']
+5,Z?rich,Ars-amatoria-Liebeskunst,2015-01-09,"[' Garth Knox ', ' Thomas Demenga ']",['Classic']
+6,Baden,Solorezital,2015-01-09,['Oliver Schnyder '],['Classic']
+7,null,5.-Tonhallekonzert,2015-01-09,['Conductor: Howard Shelley '],['Classic']
+8,null,Singin'-Breeze-feat.-Kalpana-Rao-&-Beat-Baumli,2015-01-09,"[' Kalpana Rao ', ' Beat Baumli ']","['Jazz', 'Blues', 'Soul']"
+9,Basel,Striving-for-Light,2015-01-09,['Michael Leibundgut '],['Classic']
+10,Bern,Konzert,2015-01-09,"['Paolo Vignaroli ', ' B?atrice Zawodnik ', ' Alexandre Babel ', ' Anna Spina ']",['Classic']
+11,null,Paul-Tiernan,2015-01-09,"['Paul Tiernan ', ' Marja Gaynor ']","['Jazz', 'Blues', 'Soul']"
+12,Winterthur,Renata-Friederich's-City-Lights,2015-01-09,"[' Renata Friederich ', ' Christoph Grab ', ' Felix Utzinger ', ' R?tus Flisch ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Niggli-Staub,2015-01-09,"[' Lucas Niggli ', ' Reto Staub ']","['Jazz', 'Blues', 'Soul']"
+14,Winterthur,Sweet-Kiss-Momma,2015-01-09,['Sweet Kiss Momma '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Basel,Basler-Jazztradition,2015-01-09,"[' Tassilo Dellers ', ' Adrian Sch?ublin ', ' Florian Abt ', ' Felix Handschin ']","['Jazz', 'Blues', 'Soul']"
+16,Liebefeld,Intermezzo-&-Reflective-Perspectives,2015-01-09,['Sandy Patton '],"['Jazz', 'Blues', 'Soul']"
+17,Z?rich,James-Brown-Tribute-Show,2015-01-09,"['Rich Fonje ', ' Dave Feusi ', ' Fabienne Hoerni ', ' Ren? Mosele ', ' Matthew Savnik ']","['Hip', 'Hop', ""R'n'B""]"
+18,Baden,Red-Shamrock,2015-01-09,"[' Robert Kreimel ', ' Iris Leutert ', ' Sevan Kirder ', ' David L?thi ']","['world', 'music']"
+19,Liestal,Trio-Araz?n-Tango-und-Argentinische-Folklore,2015-01-09,"[' Annette R?egg ', ' Jojo Kunz ', ' Franziska ""Pancha"" H?mmerli ']","['world', 'music']"
+20,Romanshorn,J?rgen-Waidele-&-Friends-feat.-Elysa-Key,2015-01-09,"[' J?rgen Waidele ', ' Pele Keller ', ' Rainer Apel ', ' Arno Haas ', ' Alex Friedrich ', ' Elysa Key ']","['Jazz', 'Blues', 'Soul']"
+21,Winterthur,Rummelsnuff,2015-01-09,['Rummelsnuff '],"['world', 'music']"
+22,Aarau,Massai,2015-01-09,['Massai '],"['Hip', 'Hop', ""R'n'B""]"

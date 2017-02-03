@@ -1,10 +1,10 @@
-location,event,date,artists,genre
-null,Benoit-Dettori,2013-03-04,['Benoit Dettori '],Pop
-Z7,Pratteln,2013-03-04,"['Helloween ', ' Gamma Ray ']",Helloween
-Luzern,Mösching-Djurovic-Moll,2013-03-04,"[' Samuel Mösching ', ' Danilo Djurovic ', ' Phillipp Moll ']",
-Zürich,Landis-Friedli,2013-03-04,"['Landis-Friedli ', ' Peter Landis ', ' Gabriela Friedli ']",
-Flawil,Marco-Marchi-&-the-Mojo-Workers,2013-03-04,"[' Marco Marchi ', ' Claudio Egli ', ' Fabio Bianchi ', ' Toby Stiftner ']",
-Baden,Olivier-Ker-Ourio-Quartet,2013-03-04,"[' Olivier Ker Ourio ', ' Emmanuel Bex ', ' Jérôme Barde ', ' Matthieu Chazarenc ']",
-Zürich,Dandylion,2013-03-04,['Dandylion '],
-Zürich,XL-Target-feat.-Mr.-DeFunkt-Joe-Bowie,2013-03-04,"[' Joseph Bowie ', ' Christy Doran ', ' KJ Dave Doran ', ' Dany Trutt ']",
-Theater-Tuchlaube,Aarau,2013-03-04,['The Bony King of Nowhere '],
+,location,event,date,artists,genre
+0,null,Benoit-Dettori,2013-03-04,['Benoit Dettori '],['Pop']
+1,Z7,Pratteln,2013-03-04,"['Helloween ', ' Gamma Ray ']",['Helloween']
+2,Luzern,Mösching-Djurovic-Moll,2013-03-04,"[' Samuel Mösching ', ' Danilo Djurovic ', ' Phillipp Moll ']","['Jazz', 'Blues', 'Soul']"
+3,Zürich,Landis-Friedli,2013-03-04,"['Landis-Friedli ', ' Peter Landis ', ' Gabriela Friedli ']","['Jazz', 'Blues', 'Soul']"
+4,Flawil,Marco-Marchi-&-the-Mojo-Workers,2013-03-04,"[' Marco Marchi ', ' Claudio Egli ', ' Fabio Bianchi ', ' Toby Stiftner ']","['Jazz', 'Blues', 'Soul']"
+5,Baden,Olivier-Ker-Ourio-Quartet,2013-03-04,"[' Olivier Ker Ourio ', ' Emmanuel Bex ', ' Jérôme Barde ', ' Matthieu Chazarenc ']","['Jazz', 'Blues', 'Soul']"
+6,Zürich,XL-Target-feat.-Mr.-DeFunkt-Joe-Bowie,2013-03-04,"[' Joseph Bowie ', ' Christy Doran ', ' KJ Dave Doran ', ' Dany Trutt ']","['Jazz', 'Blues', 'Soul']"
+7,Zürich,Dandylion,2013-03-04,['Dandylion '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Theater-Tuchlaube,Aarau,2013-03-04,['The Bony King of Nowhere '],"['The', 'Bony', 'King', 'of', 'Nowhere']"

@@ -1,25 +1,25 @@
-location,event,date,artists,genre
-null,Sterne-Zmorge,2014-09-07,"[' Juno Haller ', ' Felix Haller ']",
-Brugg,Matinée,2014-09-07,['Ceferino Marino Chamoux '],
-Rheinfelden,Harfe-Violine-Visuelles,2014-09-07,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-Basel,Concerts-Aurore-Basel,2014-09-07,"[' Ioanna Seira ', ' Jean-Jacques Dünki ', ' Susanne Lang ']",Classic
-Walkringen,Beethoven-Matinee-3-Diabelli-Variationen,2014-09-07,['Benjamin Engeli '],Classic
-Zürich,Sentimental-Journey,2014-09-07,"[' Samuel Zünd ', ' Catriona Bühler ', ' Julia Schiwowa ', ' Helen Iten ', ' Fridolin Blumer ']",Pop
-Basel,Mimiko-Orgelkonzert,2014-09-07,['Yulia Draginda '],Classic
-Liestal,Thomas-Achermann,2014-09-07,"['Thomas Achermann ', ' Andi Seidt ']",Pop
-Luzern,Nachmittagskonzert,2014-09-07,"[' Ivo Gass ', ' Robert Teutsch ']",Classic
-Zürich,Jazzrezital,2014-09-07,['Köbi Juchler '],
-Zürich,Orgelkonzert,2014-09-07,['Kathrin Augustiny '],Classic
-Zürich,Schmaz-and-The-Fabulous-Jukebox,2014-09-07,"[' Gallus Hächler ', ' Marcel Benedikt ', ' Rainer Fröhlich ']",Pop
-Zürich,Witiker-Konzerte,2014-09-07,"[' Martin Huber ', ' Fabio di Càsola ']",Classic
-Basel,Neue-Musik-aus-Litauen,2014-09-07,"[' Ugnius Diinas ', ' Ugne Peistaraite ', ' Robertas Sidiskis ']",Classic
-Zug,Café-Mondial,2014-09-07,['Café Mondial '],
-Basel,Circulum-modorum,2014-09-07,['Sally Fortino '],Classic
--Alte-Kirche,Boswil,2014-09-07,"['Cornelia Kallisch ', ' Rudolf Bamert ', ' Dorothea Galli ', ' Gérard Wyss ']",Classic
-Buchberg,Orgelwunschkonzert,2014-09-07,['Christian Gautschi '],Classic
-Altikon,Jam-Point,2014-09-07,"[' Lorenzo Petrocca ', ' Bruno Bosshardt ', ' Robert Bosshardt ', ' Hans Sander ', ' Peter Pattynama ', ' Richi Schmied ']",
-Montreux,Septembre-musical,2014-09-07,"['Youth Orchestra of Bahia ', ' Martha Argerich ', ' Alexander Gurning ']",Classic
-Zürich,Serenade,2014-09-07,"['Els Biesemans ', ' Gilad Katznelson ']",Classic
-Winterthur,Amherd-Csepregi-Ratonyi,2014-09-07,"[' Eliane Amherd ', ' Gyula Csepregi ', ' Robert Ratonyi ']",
-Luzern,Sinfoniekonzert-21,2014-09-07,"[' Christina Landshamer ', ' Gerhild Romberger ', ' Dmitry Belosselsky ']",Classic
-null,Bad-Cop-Bad-Cop,2014-09-07,['Bad Cop Bad Cop '],
+,location,event,date,artists,genre
+0,null,Sterne-Zmorge,2014-09-07,"[' Juno Haller ', ' Felix Haller ']","['world', 'music']"
+1,Walkringen,Beethoven-Matinee-3-Diabelli-Variationen,2014-09-07,['Benjamin Engeli '],['Classic']
+2,Rheinfelden,Harfe-Violine-Visuelles,2014-09-07,"[' Corinne Kappeler ', ' Daniel Treyer ']",['Classic']
+3,Z?rich,Sentimental-Journey,2014-09-07,"[' Samuel Z?nd ', ' Catriona B?hler ', ' Julia Schiwowa ', ' Helen Iten ', ' Fridolin Blumer ']",['Pop']
+4,Brugg,Matin?e,2014-09-07,['Ceferino Marino Chamoux '],"['world', 'music']"
+5,Basel,Concerts-Aurore-Basel,2014-09-07,"[' Ioanna Seira ', ' Jean-Jacques D?nki ', ' Susanne Lang ']",['Classic']
+6,Basel,Mimiko-Orgelkonzert,2014-09-07,['Yulia Draginda '],['Classic']
+7,Liestal,Thomas-Achermann,2014-09-07,"['Thomas Achermann ', ' Andi Seidt ']",['Pop']
+8,Luzern,Nachmittagskonzert,2014-09-07,"[' Ivo Gass ', ' Robert Teutsch ']",['Classic']
+9,Z?rich,Jazzrezital,2014-09-07,['K?bi Juchler '],"['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Witiker-Konzerte,2014-09-07,"[' Martin Huber ', ' Fabio di C?sola ']",['Classic']
+11,Basel,Neue-Musik-aus-Litauen,2014-09-07,"[' Ugnius Diinas ', ' Ugne Peistaraite ', ' Robertas Sidiskis ']",['Classic']
+12,-Alte-Kirche,Boswil,2014-09-07,"['Cornelia Kallisch ', ' Rudolf Bamert ', ' Dorothea Galli ', ' G?rard Wyss ']",['Classic']
+13,Zug,Caf?-Mondial,2014-09-07,['Caf? Mondial '],"['world', 'music']"
+14,Basel,Circulum-modorum,2014-09-07,['Sally Fortino '],['Classic']
+15,Z?rich,Schmaz-and-The-Fabulous-Jukebox,2014-09-07,"[' Gallus H?chler ', ' Marcel Benedikt ', ' Rainer Fr?hlich ']",['Pop']
+16,Z?rich,Orgelkonzert,2014-09-07,['Kathrin Augustiny '],['Classic']
+17,Buchberg,Orgelwunschkonzert,2014-09-07,['Christian Gautschi '],['Classic']
+18,Montreux,Septembre-musical,2014-09-07,"['Youth Orchestra of Bahia ', ' Martha Argerich ', ' Alexander Gurning ']",['Classic']
+19,Altikon,Jam-Point,2014-09-07,"[' Lorenzo Petrocca ', ' Bruno Bosshardt ', ' Robert Bosshardt ', ' Hans Sander ', ' Peter Pattynama ', ' Richi Schmied ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Serenade,2014-09-07,"['Els Biesemans ', ' Gilad Katznelson ']",['Classic']
+21,Luzern,Sinfoniekonzert-21,2014-09-07,"[' Christina Landshamer ', ' Gerhild Romberger ', ' Dmitry Belosselsky ']",['Classic']
+22,Winterthur,Amherd-Csepregi-Ratonyi,2014-09-07,"[' Eliane Amherd ', ' Gyula Csepregi ', ' Robert Ratonyi ']","['Jazz', 'Blues', 'Soul']"
+23,null,Bad-Cop-Bad-Cop,2014-09-07,['Bad Cop Bad Cop '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

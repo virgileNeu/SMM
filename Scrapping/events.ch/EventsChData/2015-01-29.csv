@@ -1,28 +1,28 @@
-location,event,date,artists,genre
-Zürich,Glantaler-Power-Men,2015-01-29,['Glantaler Power Men '],traditional
-Zürich,Thursday-Night-Jazz,2015-01-29,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Winterthur,Musikkollegium-Winterthur,2015-01-29,['Radu Lupu '],Classic
-null,Migros-Kulturprozent-Classics,2015-01-29,[' Serena Wang '],Classic
-null,Klavierissimo,2015-01-29,['Lisa Smirnova '],Classic
-Basel,Konzert,2015-01-29,"[' Rocío Bolaños ', ' Linda Jankowska ', ' Emma Richards ', ' Alice Purton ', ' Kate Ledger ']",Classic
-Zürich,Ensemble-Turicum,2015-01-29,"['Mathias Weibel ', ' Monika Baer ', ' Mario Huter ', ' Rafael Becerra ']",Classic
-Zürich,Geheimnisvolle-Zeichen,2015-01-29,"[' Eva Nievergelt ', ' Annette Schmucki ']",Classic
-Kloten,Martin-Baschung-&-Big-B-Tonic,2015-01-29,"[' Martin Baschung ', ' Sandro Vanetti ', ' Jürg Amrein ', ' Imad Barnieh ']",
-Sissach,Malewitschklang,2015-01-29,"[' Ueli Berger ', ' Felix Müller ', ' Chaschper Kron ', ' Johny Lippuner ']",
-Zürich,Balkan-Flavours,2015-01-29,"[' Faruk Muslijevic ', ' Dragan Pijetlovic ', ' Rudy Pfister ', ' Thomas Tavano ', ' Andi Mötz ']",
-Zürich,Teesy,2015-01-29,"['Teesy ', ' support: Lot ']",
-Zürich,Zoot-Woman,2015-01-29,['Zoot Woman '],Electronic
-Winterthur,Vein,2015-01-29,"[' Michael Arbenz ', ' Thomas Lähns ', ' Florian Arbenz ']",
-Zürich,Robi-Weber-Quartet-feat.-Patrick-Bianco,2015-01-29,"[' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' Patrick Bianco ']",
-null,Brad-Mehldau,2015-01-29,['Brad Mehldau '],
-Basel,Cléber-Alves-Quarteto,2015-01-29,"[' Cléber Alves ', ' Ricardo Fiúza ', ' Stephan Kurmann ', ' Fernando Paiva ']",
-Bern,The-Blue-Van,2015-01-29,['The Blue Van '],Pop
-Thun,Anna-Maria,2015-01-29,['Anna Maria '],Pop
-Zürich,Barbouze-De-Chez-Fior,2015-01-29,"['Annick Rody ', ' Camille Stoll ', ' Laurence Crevoisier ', ' Sara Oswald ']",Classic
-Aarau,Motorama,2015-01-29,['Motorama '],
-Baden,Lilly-Thornton-Quintet,2015-01-29,"[' Lilly Thornton ', ' Frank Heinz ', ' Ull Möck ', ' German Klaiber ', ' Elmar Frey ']",
-null,James-Blood-Ulmer,2015-01-29,"[' James Blood Ulmer ', ' Calvin Jones ', ' Aubrey Dayle ']",
-Lausanne,My-TV-Is-Dead,2015-01-29,['My TV Is Dead '],Electronic
-Düdingen,Rökkurro,2015-01-29,['Rökkurro '],
-Zürich,Moaning-Cities,2015-01-29,['Moaning Cities '],
-Zürich,Owen-McCall,2015-01-29,['Owen McCall '],Pop
+,location,event,date,artists,genre
+0,Z?rich,Glantaler-Power-Men,2015-01-29,['Glantaler Power Men '],['traditional']
+1,null,Migros-Kulturprozent-Classics,2015-01-29,[' Serena Wang '],['Classic']
+2,Winterthur,Musikkollegium-Winterthur,2015-01-29,['Radu Lupu '],['Classic']
+3,Z?rich,Thursday-Night-Jazz,2015-01-29,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+4,null,Klavierissimo,2015-01-29,['Lisa Smirnova '],['Classic']
+5,Z?rich,Teesy,2015-01-29,"['Teesy ', ' support: Lot ']","['Hip', 'Hop', ""R'n'B""]"
+6,Z?rich,Ensemble-Turicum,2015-01-29,"['Mathias Weibel ', ' Monika Baer ', ' Mario Huter ', ' Rafael Becerra ']",['Classic']
+7,Z?rich,Geheimnisvolle-Zeichen,2015-01-29,"[' Eva Nievergelt ', ' Annette Schmucki ']",['Classic']
+8,Z?rich,Balkan-Flavours,2015-01-29,"[' Faruk Muslijevic ', ' Dragan Pijetlovic ', ' Rudy Pfister ', ' Thomas Tavano ', ' Andi M?tz ']","['world', 'music']"
+9,Sissach,Malewitschklang,2015-01-29,"[' Ueli Berger ', ' Felix M?ller ', ' Chaschper Kron ', ' Johny Lippuner ']","['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Zoot-Woman,2015-01-29,['Zoot Woman '],['Electronic']
+11,Basel,Konzert,2015-01-29,"[' Roc?o Bola?os ', ' Linda Jankowska ', ' Emma Richards ', ' Alice Purton ', ' Kate Ledger ']",['Classic']
+12,Kloten,Martin-Baschung-&-Big-B-Tonic,2015-01-29,"[' Martin Baschung ', ' Sandro Vanetti ', ' J?rg Amrein ', ' Imad Barnieh ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Robi-Weber-Quartet-feat.-Patrick-Bianco,2015-01-29,"[' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' Patrick Bianco ']","['Jazz', 'Blues', 'Soul']"
+14,Winterthur,Vein,2015-01-29,"[' Michael Arbenz ', ' Thomas L?hns ', ' Florian Arbenz ']","['Jazz', 'Blues', 'Soul']"
+15,Aarau,Motorama,2015-01-29,['Motorama '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Baden,Lilly-Thornton-Quintet,2015-01-29,"[' Lilly Thornton ', ' Frank Heinz ', ' Ull M?ck ', ' German Klaiber ', ' Elmar Frey ']","['Jazz', 'Blues', 'Soul']"
+17,Thun,Anna-Maria,2015-01-29,['Anna Maria '],['Pop']
+18,null,James-Blood-Ulmer,2015-01-29,"[' James Blood Ulmer ', ' Calvin Jones ', ' Aubrey Dayle ']","['Jazz', 'Blues', 'Soul']"
+19,null,Brad-Mehldau,2015-01-29,['Brad Mehldau '],"['Jazz', 'Blues', 'Soul']"
+20,Bern,The-Blue-Van,2015-01-29,['The Blue Van '],['Pop']
+21,Basel,Cl?ber-Alves-Quarteto,2015-01-29,"[' Cl?ber Alves ', ' Ricardo Fi?za ', ' Stephan Kurmann ', ' Fernando Paiva ']","['Jazz', 'Blues', 'Soul']"
+22,Z?rich,Barbouze-De-Chez-Fior,2015-01-29,"['Annick Rody ', ' Camille Stoll ', ' Laurence Crevoisier ', ' Sara Oswald ']",['Classic']
+23,Lausanne,My-TV-Is-Dead,2015-01-29,['My TV Is Dead '],['Electronic']
+24,Z?rich,Moaning-Cities,2015-01-29,['Moaning Cities '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,D?dingen,R?kkurro,2015-01-29,['R?kkurro '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Z?rich,Owen-McCall,2015-01-29,['Owen McCall '],['Pop']

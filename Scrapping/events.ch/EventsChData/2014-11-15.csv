@@ -1,55 +1,54 @@
-location,event,date,artists,genre
-Basel,Midi-musique,2014-11-15,"['Marcus Forrer ', ' Megan McBride ', ' Magdalena Welten ', ' Làszlò Fogarassy ', ' Katarzyna Navrotek ']",Classic
-Winterthur,Janetts-Jazzbaukästchen,2014-11-15,"[' Niculin Janett ', ' Marena Whitcher ', ' Philipp Saner ']",
-null,Monstre-Festival,2014-11-15,"['Besoin Dead ', ' Hopopop ', ' Taulard ', ' Trotski nautique ', ' Alligator ', ' Cimetiere De Blond ', ' Besoin Dead ', ' Presque Maudit ', ' Jean Vance ']",
-null,Soweto-Gospel-Choir,2014-11-15,['Soweto Gospel Choir '],
-Aarau,Jazz-Live-Trio,2014-11-15,"[' Klaus König ', ' Patrick Sommer ', ' Andi Wettstein ']",
-Wohlen,Don-Juan-Ballettmusik,2014-11-15,[' Gunhard Mattes '],Classic
-Basel,20jähriges-Jubiläumskonzert,2014-11-15,"[' Roberto Vacca ', ' Cristina Vidoni ', ' Stefania Rizzo ']",Classic
-Zürich,Tage-für-Neue-Musik-Almost-Nowhere,2014-11-15,"[' Stefan Tarara ', ' Annegret Mayer-Lindenberg ', ' Lora Vakova ', ' works by Marco Momi ']",Classic
-Zürich,Glantaler-Power-Men,2014-11-15,['Glantaler Power Men '],Pop
-Rheinfelden,Concerto,2014-11-15,"['Hansheinz Schneeberger ', ' Willy Riechsteiner ']",Classic
-Zürich,Soirée-classique-Konzert-&-Gespräch,2014-11-15,"['Maurice Steger ', ' Naoki Kitaja ', ' Moderation: Susanne Kübler ']",Classic
-Zürich,La-Coka-Nostra,2014-11-15,['La Coka Nostra '],
-Basel,Patrick-Wolf,2014-11-15,['Patrick Wolf '],
-Pratteln,Banchetto-musicale-20-Jahre-Cantabile-Chor,2014-11-15,"[' Carl Wolf ', ' Evi Burkhalter ', ' Philipp Schmidt ']",Classic
-Baden,Badener-Meisterkonzerte-Die-wohltemperierte-Gitarre,2014-11-15,['Pablo Márquez '],Classic
-Zürich,Jubiläumskonzert,2014-11-15,"[' Tabea Herzog ', ' Atsuko Murelli-Murata ']",Classic
-Herrliberg,Konzert,2014-11-15,[' Cécile Grüebler '],Classic
-Zofingen,Händel-Fest,2014-11-15,"[' Maria C. Schmid ', ' Laura R. Binggeli ', ' Daniel C. Bentz ', ' Stefan Rist ']",Classic
-Basel,New-Tango-Songbook,2014-11-15,"['Marcela Arroyo ', ' Julio Azcano ', ' Volker Biesenbender ', ' Günter Wehinger ']",
-Uster,Lizzy-Borden,2014-11-15,"['Lizzy Borden ', ' Tygers of Pan Tang ']",
-Zug,Monthly-Assault-Grind-Night,2014-11-15,"['DJs Inhumate ', ' Warfuck ', ' Ratbomb ']",
-Basel,Slash,2014-11-15,['Slash '],
-Aarau,Threshold,2014-11-15,"['Threshold ', ' Overtures ']",
-null,Soweto-Gospel-Choir,2014-11-15,['Soweto Gospel Choir '],
-Thun,Stiller-Has,2014-11-15,"[' Endo Anaconda ', ' Schifer Schafer ', ' Salome Buser ', ' Markus Fürst ']",Pop
-Sursee,World-&-Dreams,2014-11-15,"['World & Dreams ', ' Desolate x Create ']",
-Bern,Barocke-Klangpracht,2014-11-15,"[' Monika Mauch ', ' Stephanie Pfeffer ']",Classic
-Wetzikon,Konzert-Mendelssohn-&-Schubert,2014-11-15,"[' Bettina Macher ', ' Florian Läuchli ']",Classic
-Zürich,Bassquartett,2014-11-15,"[' Peter K Frey ', ' Jan Schlegel ', ' Daniel Studer ', ' Christian Weber ']",
-Solothurn,Di-Vento-Suoni,2014-11-15,"[' Sandro Schneebeli ', ' Bruno Bieri ']",
-Mels,Konzert,2014-11-15,"[' Barbara Bohnert ', ' Christian Tönz ']",Classic
-Montreux,Serge-Lama,2014-11-15,['Serge Lama '],Pop
-Basel,Andy-Middleton-Quartet,2014-11-15,"[' Andy Middleton ', ' Tino Derado ', ' Paul Imm ', ' Alan Jones ']",
-Rothrist,Head-over-Heels,2014-11-15,"[' Andreas Wüthrich ', ' Marc Anderegg ', ' Joe Schwach ', ' Mario Caspar ']",
-Zürich,Transmundial,2014-11-15,"['Oum ', ' Yasmine Hamdan ']",
-Dietikon,Orgelnacht,2014-11-15,"['Barbara Müller-Hämmerlein ', ' Mayu Okishio ', ' Bernhard Hörler ', ' Simon Nàdasi ']",Classic
-Zürich,Sheppard,2014-11-15,['Sheppard '],Pop
-Rubigen,Madison-Violet,2014-11-15,['Madison Violet '],Pop
-Luzern,Mark-Berube,2014-11-15,['Mark Berube '],
-Zürich,Schwervon,2014-11-15,['Schwervon '],
-Thun,Recha-Maria,2014-11-15,['Recha-Maria '],
-Bad-Ragaz,Voice-meets-Piano-Konzert,2014-11-15,"['Kristina Tajsic ', ' Christoph Hegi ']",Pop
-Basel,E-Light,2014-11-15,['E-Light '],
-Lausanne,St.-Vincent,2014-11-15,"['St. Vincent ', ' Coves ']",Electronic
-Jona,Bee-Johnson,2014-11-15,"[' Andrina Bollinger ', ' Hannah Bissegger ', ' Michel Spahr ', ' Marvin Trummer ', ' Leonie Bradatsch ', ' Ramón Oliveras ']",Pop
-Basel,Vasco-Rossi-Deviazioni-&-Clara-Moroni,2014-11-15,['Vasco Rossi Deviazioni & Clara Moroni '],
-Bern,Klangkarussell,2014-11-15,['Klangkarussell '],Electronic
-Zürich,Witten-Untouchable,2014-11-15,['Witten Untouchable '],
-Zürich,Musique-en-Route,2014-11-15,"[' Ronny Spiegel ', ' Stefanie Hess ', ' Tom Tafel ', ' Ariel Facundo Rossi ', ' Marc Hemantha Hufschmid ']",
-null,Pharoahe-Monch,2014-11-15,['Pharoahe Monch '],
-Bern,60s-Garage-Night,2014-11-15,[' The Anomalys '],
-Bern,Sage-Francis,2014-11-15,"['Sage Francis ', ' support: Sole ']",
-Bern,Andi-Otto,2014-11-15,['Andi Otto '],
-Sankt-Gallen,Fennesz,2014-11-15,['Fennesz '],Electronic
+,location,event,date,artists,genre
+0,Basel,Midi-musique,2014-11-15,"['Marcus Forrer ', ' Megan McBride ', ' Magdalena Welten ', ' L?szl? Fogarassy ', ' Katarzyna Navrotek ']",['Classic']
+1,Winterthur,Janetts-Jazzbauk?stchen,2014-11-15,"[' Niculin Janett ', ' Marena Whitcher ', ' Philipp Saner ']","['Jazz', 'Blues', 'Soul']"
+2,null,Monstre-Festival,2014-11-15,"['Besoin Dead ', ' Hopopop ', ' Taulard ', ' Trotski nautique ', ' Alligator ', ' Cimetiere De Blond ', ' Besoin Dead ', ' Presque Maudit ', ' Jean Vance ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,null,Soweto-Gospel-Choir,2014-11-15,['Soweto Gospel Choir '],"['world', 'music']"
+4,Aarau,Jazz-Live-Trio,2014-11-15,"[' Klaus K?nig ', ' Patrick Sommer ', ' Andi Wettstein ']","['Jazz', 'Blues', 'Soul']"
+5,Wohlen,Don-Juan-Ballettmusik,2014-11-15,[' Gunhard Mattes '],['Classic']
+6,Z?rich,Tage-f?r-Neue-Musik-Almost-Nowhere,2014-11-15,"[' Stefan Tarara ', ' Annegret Mayer-Lindenberg ', ' Lora Vakova ', ' works by Marco Momi ']",['Classic']
+7,Basel,20j?hriges-Jubil?umskonzert,2014-11-15,"[' Roberto Vacca ', ' Cristina Vidoni ', ' Stefania Rizzo ']",['Classic']
+8,Z?rich,Glantaler-Power-Men,2014-11-15,['Glantaler Power Men '],['Pop']
+9,Rheinfelden,Concerto,2014-11-15,"['Hansheinz Schneeberger ', ' Willy Riechsteiner ']",['Classic']
+10,Pratteln,Banchetto-musicale-20-Jahre-Cantabile-Chor,2014-11-15,"[' Carl Wolf ', ' Evi Burkhalter ', ' Philipp Schmidt ']",['Classic']
+11,Z?rich,Soir?e-classique-Konzert-&-Gespr?ch,2014-11-15,"['Maurice Steger ', ' Naoki Kitaja ', ' Moderation: Susanne K?bler ']",['Classic']
+12,Basel,Patrick-Wolf,2014-11-15,['Patrick Wolf '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Z?rich,La-Coka-Nostra,2014-11-15,['La Coka Nostra '],"['Hip', 'Hop', ""R'n'B""]"
+14,Baden,Badener-Meisterkonzerte-Die-wohltemperierte-Gitarre,2014-11-15,['Pablo M?rquez '],['Classic']
+15,Z?rich,Jubil?umskonzert,2014-11-15,"[' Tabea Herzog ', ' Atsuko Murelli-Murata ']",['Classic']
+16,Herrliberg,Konzert,2014-11-15,[' C?cile Gr?ebler '],['Classic']
+17,Zofingen,H?ndel-Fest,2014-11-15,"[' Maria C. Schmid ', ' Laura R. Binggeli ', ' Daniel C. Bentz ', ' Stefan Rist ']",['Classic']
+18,Sursee,World-&-Dreams,2014-11-15,"[' Dreams ', ' Desolate x Create ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Bern,Barocke-Klangpracht,2014-11-15,"[' Monika Mauch ', ' Stephanie Pfeffer ']",['Classic']
+20,Wetzikon,Konzert-Mendelssohn-&-Schubert,2014-11-15,"[' Bettina Macher ', ' Florian L?uchli ']",['Classic']
+21,null,Soweto-Gospel-Choir,2014-11-15,['Soweto Gospel Choir '],"['world', 'music']"
+22,Uster,Lizzy-Borden,2014-11-15,"['Lizzy Borden ', ' Tygers of Pan Tang ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Zug,Monthly-Assault-Grind-Night,2014-11-15,"['DJs Inhumate ', ' Warfuck ', ' Ratbomb ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Basel,Slash,2014-11-15,['Slash '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Basel,New-Tango-Songbook,2014-11-15,"['Marcela Arroyo ', ' Julio Azcano ', ' Volker Biesenbender ', ' G?nter Wehinger ']","['Jazz', 'Blues', 'Soul']"
+26,Thun,Stiller-Has,2014-11-15,"[' Endo Anaconda ', ' Schifer Schafer ', ' Salome Buser ', ' Markus F?rst ']",['Pop']
+27,Aarau,Threshold,2014-11-15,"['Threshold ', ' Overtures ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Mels,Konzert,2014-11-15,"[' Barbara Bohnert ', ' Christian T?nz ']",['Classic']
+29,Solothurn,Di-Vento-Suoni,2014-11-15,"[' Sandro Schneebeli ', ' Bruno Bieri ']","['Jazz', 'Blues', 'Soul']"
+30,Z?rich,Bassquartett,2014-11-15,"[' Peter K Frey ', ' Jan Schlegel ', ' Daniel Studer ', ' Christian Weber ']","['Jazz', 'Blues', 'Soul']"
+31,Basel,Andy-Middleton-Quartet,2014-11-15,"[' Andy Middleton ', ' Tino Derado ', ' Paul Imm ', ' Alan Jones ']","['Jazz', 'Blues', 'Soul']"
+32,Montreux,Serge-Lama,2014-11-15,['Serge Lama '],['Pop']
+33,Rothrist,Head-over-Heels,2014-11-15,"[' Andreas W?thrich ', ' Marc Anderegg ', ' Joe Schwach ', ' Mario Caspar ']","['Jazz', 'Blues', 'Soul']"
+34,Z?rich,Transmundial,2014-11-15,"['Oum ', ' Yasmine Hamdan ']","['world', 'music']"
+35,Basel,E-Light,2014-11-15,['E-Light '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Z?rich,Sheppard,2014-11-15,['Sheppard '],['Pop']
+37,Thun,Recha-Maria,2014-11-15,['Recha-Maria '],"['Hip', 'Hop', ""R'n'B""]"
+38,Lausanne,St.-Vincent,2014-11-15,"['St. Vincent ', ' Coves ']",['Electronic']
+39,Dietikon,Orgelnacht,2014-11-15,"['Barbara M?ller-H?mmerlein ', ' Mayu Okishio ', ' Bernhard H?rler ', ' Simon N?dasi ']",['Classic']
+40,Bad-Ragaz,Voice-meets-Piano-Konzert,2014-11-15,"['Kristina Tajsic ', ' Christoph Hegi ']",['Pop']
+41,Luzern,Mark-Berube,2014-11-15,['Mark Berube '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+42,Z?rich,Schwervon,2014-11-15,['Schwervon '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+43,Basel,Vasco-Rossi-Deviazioni-&-Clara-Moroni,2014-11-15,[' Clara Moroni '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+44,Jona,Bee-Johnson,2014-11-15,"[' Andrina Bollinger ', ' Hannah Bissegger ', ' Michel Spahr ', ' Marvin Trummer ', ' Leonie Bradatsch ', ' Ram?n Oliveras ']",['Pop']
+45,Bern,60s-Garage-Night,2014-11-15,[' The Anomalys '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+46,Bern,Klangkarussell,2014-11-15,['Klangkarussell '],['Electronic']
+47,Bern,Andi-Otto,2014-11-15,['Andi Otto '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+48,Z?rich,Witten-Untouchable,2014-11-15,['Witten Untouchable '],"['Hip', 'Hop', ""R'n'B""]"
+49,null,Pharoahe-Monch,2014-11-15,['Pharoahe Monch '],"['Hip', 'Hop', ""R'n'B""]"
+50,Bern,Sage-Francis,2014-11-15,"['Sage Francis ', ' support: Sole ']","['Hip', 'Hop', ""R'n'B""]"
+51,Sankt-Gallen,Fennesz,2014-11-15,['Fennesz '],['Electronic']
+52,Z?rich,Musique-en-Route,2014-11-15,"[' Ronny Spiegel ', ' Stefanie Hess ', ' Tom Tafel ', ' Ariel Facundo Rossi ', ' Marc Hemantha Hufschmid ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

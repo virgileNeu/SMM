@@ -1,23 +1,22 @@
-location,event,date,artists,genre
-Zürich,Konzert,2014-03-18,"[' Ilya Gringolts ', ' Anahit Kurtikyan ', ' Silvia Simionescu ', ' Claudius Herrmann ']",Classic
-Zürich,Jazzapero,2014-03-18,"[' Raphael Jost ', ' Christoph Grab ']",
-Zürich,Feierabendwerkschau,2014-03-18,"[' Christoph Gallio ', ' Andrea Neumann ', ' Ernst Thoma ', ' Dominique Girod ', ' Julian Sartorius ']",
-Solothurn,Soulfly,2014-03-18,['Soulfly '],
-Zürich,Konzert,2014-03-18,[' conductor: Maurice Steger '],Classic
-Zürich,Eskimo-Callboy,2014-03-18,"['Eskimo Callboy ', ' Iwrestledabearonce ', ' Her Bright Skies ', ' To The Rats And Wolves ']",
-Zürich,Sargeist,2014-03-18,"['Sargeist ', ' Nightbringer ']",
-Luzern,Der-Zauberlehrling,2014-03-18,[' Sebastian Küchler Blessing '],Classic
-Zürich,Deerhoof,2014-03-18,['Deerhoof '],Electronic
-Zürich,Earl-Sweatshirt,2014-03-18,['Earl Sweatshirt '],
-Chur,Auf's-Auge-Porträtkonzert,2014-03-18,[' Jaap Achterberg '],Classic
-null,Goran-Bregovic-&-The-Gypsy-Brass-Band,2014-03-18,"['Goran Bregovic & The Gypsy Brass Band ', ' Goran Bregovic ', ' Muharem Redzepi ', ' Bokan Stankovic ', ' Dalibor Lukic ', ' Stojan Dimov ']",
-Zürich,Magnus-Lindgren,2014-03-18,"['Magnus Lindgren ', ' Magnus Lindgren ', ' Rigmor Gustafsson ', ' Torsten Goods ', ' Christian von Kaphengst ', ' David Haynes ']",
-null,Birth-Of-Joy,2014-03-18,['Birth Of Joy '],
-Basel,Zum-250.-Todesjahr-von-J.-P.-Rameau,2014-03-18,"['Ildikó Sajgó ', ' Amélie Chemin ', ' Cécile Mansuy ']",Classic
-Bern,Konzert,2014-03-18,"[' Annette Labusch ', ' Stefi Spinas ']",Classic
-Basel,Chaotic-moebius-Und-sie-dreht-sich-doch,2014-03-18,"['Olivia Steimel ', ' Josef Mucksch ', ' Nicole Fior ']",Classic
-Thun,Colin-Vallon-Trio,2014-03-18,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-Zürich,SOFIA-Festival,2014-03-18,"[' Karin Ospelt ', ' Laura Schenk ', ' Donath Weyeneth ', ' Amadeus Fries ', ' Hyein Lee ']",
-Basel,Marianne-Racine,2014-03-18,"[' Marianne Racine ', ' Martien Oster ', ' Christoph Sprenger ', ' Alfred Kramer ']",
-Zürich,Ministry-Of-Wolves,2014-03-18,['Ministry Of Wolves '],
-Zürich,SOFIA-Festival,2014-03-18,"['Karin Ospelt ', ' Olga Trofimova ', ' Carla Gaudré ', ' Sophie Baudon ', ' Stevie-Jo Dooley ', ' Katharina Gross ', ' Imogen Gleichauf ']",
+,location,event,date,artists,genre
+0,Z?rich,Konzert,2014-03-18,"[' Ilya Gringolts ', ' Anahit Kurtikyan ', ' Silvia Simionescu ', ' Claudius Herrmann ']",['Classic']
+1,Z?rich,Jazzapero,2014-03-18,"[' Raphael Jost ', ' Christoph Grab ']","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Feierabendwerkschau,2014-03-18,"[' Christoph Gallio ', ' Andrea Neumann ', ' Ernst Thoma ', ' Dominique Girod ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+3,Luzern,Der-Zauberlehrling,2014-03-18,[' Sebastian K?chler Blessing '],['Classic']
+4,Z?rich,Eskimo-Callboy,2014-03-18,"['Eskimo Callboy ', ' Iwrestledabearonce ', ' Her Bright Skies ', ' To The Rats And Wolves ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,Konzert,2014-03-18,[' conductor: Maurice Steger '],['Classic']
+6,Solothurn,Soulfly,2014-03-18,['Soulfly '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Deerhoof,2014-03-18,['Deerhoof '],['Electronic']
+8,Bern,Konzert,2014-03-18,"[' Annette Labusch ', ' Stefi Spinas ']",['Classic']
+9,Z?rich,Earl-Sweatshirt,2014-03-18,['Earl Sweatshirt '],"['Hip', 'Hop', ""R'n'B""]"
+10,null,Birth-Of-Joy,2014-03-18,['Birth Of Joy '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Chur,Auf's-Auge-Portr?tkonzert,2014-03-18,[' Jaap Achterberg '],['Classic']
+12,null,Goran-Bregovic-&-The-Gypsy-Brass-Band,2014-03-18,"[' The Gypsy Brass Band ', ' Goran Bregovic ', ' Muharem Redzepi ', ' Bokan Stankovic ', ' Dalibor Lukic ', ' Stojan Dimov ']","['world', 'music']"
+13,Z?rich,Magnus-Lindgren,2014-03-18,"['Magnus Lindgren ', ' Magnus Lindgren ', ' Rigmor Gustafsson ', ' Torsten Goods ', ' Christian von Kaphengst ', ' David Haynes ']","['Jazz', 'Blues', 'Soul']"
+14,Basel,Zum-250.-Todesjahr-von-J.-P.-Rameau,2014-03-18,"['Ildik? Sajg? ', ' Am?lie Chemin ', ' C?cile Mansuy ']",['Classic']
+15,Basel,Chaotic-moebius-Und-sie-dreht-sich-doch,2014-03-18,"['Olivia Steimel ', ' Josef Mucksch ', ' Nicole Fior ']",['Classic']
+16,Thun,Colin-Vallon-Trio,2014-03-18,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,SOFIA-Festival,2014-03-18,"[' Karin Ospelt ', ' Laura Schenk ', ' Donath Weyeneth ', ' Amadeus Fries ', ' Hyein Lee ']","['Jazz', 'Blues', 'Soul']"
+18,Basel,Marianne-Racine,2014-03-18,"[' Marianne Racine ', ' Martien Oster ', ' Christoph Sprenger ', ' Alfred Kramer ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Ministry-Of-Wolves,2014-03-18,['Ministry Of Wolves '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Z?rich,SOFIA-Festival,2014-03-18,"['Karin Ospelt ', ' Olga Trofimova ', ' Carla Gaudr? ', ' Sophie Baudon ', ' Stevie-Jo Dooley ', ' Katharina Gross ', ' Imogen Gleichauf ']","['Jazz', 'Blues', 'Soul']"

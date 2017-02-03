@@ -1,32 +1,32 @@
-location,event,date,artists,genre
-Basel,Bandura-Beats-Brazil,2014-06-28,['DJs Farrapo '],
-null,Openair-St.-Gallen,2014-06-28,"['Seeed ', ' Skindred ', ' Tom Odell ', ' Casper ', ' C2C ']",
-null,Openair-St.-Gallen,2014-06-28,"[' Bilderbuch ', ' Satellite Stories ', ' The Notwist ', ' Junip ', ' Chvrches ', ' Moderat ', ' Moop Mama ', ' Kavinsky ']",
-Zürich,Patrozinium,2014-06-28,"['Kurt Meier ', ' Felix Gubser ']",Classic
-Basel,Masterrezital,2014-06-28,[' Vinícius de Freitas Pérez '],Classic
-Lausanne,Inferno-Festival,2014-06-28,"['Mayhem ', ' Death ', ' Sólstafir ', ' Death Angel ']",
-Luzern,Piano-Entertainment,2014-06-28,['Fabienne Ambühl '],
-Hochwald,Sternstunde-Klassik-Fusion,2014-06-28,"['Florin Farcas ', ' Lala Ackermann ']",Classic
-Interlaken,Trucker-&-Country-Festival,2014-06-28,"['Danni Leigh ', ' Ray Scott ', ' Darry Worley ', ' Country Sisters ']",
-Fischingen,Serenade,2014-06-28,[' Michel Tirabosco '],Classic
-Rapperswil,Blues'n'Jazz-Rapperswil-Jona,2014-06-28,"['Johnny Cash Roadshow ', ' Matt Bianco ', ' Joe Satriani ']",
-null,Blues'n'Jazz-Rapperswil-Jona,2014-06-28,"['Moreland & Arbuckle ', ' Royal Southern Brotherhood ']",
-Rapperswil,Blues'n'Jazz-Rapperswil-Jona,2014-06-28,"['Davina & The Vagabonds ', ' United Nations Jazz Band ', ' The Ultimate Louis Armstrong Show ']",
-Gerlafingen,Rockabilly-Stomp-Rock'n'Roll-Weekender,2014-06-28,"['Screamin Victor ', ' The Hometown Gamblers ']",
-null,Rob-Zombie,2014-06-28,"['Rob Zombie ', ' support: Avatar ', ' Powerman 5000 ']",
-Basel,Cruda-Amarilli-Madrigali-dal-quinto-e-sesto-libro,2014-06-28,['Colla Voce '],Classic
-Liestal,Liestal-Air,2014-06-28,['Jethro Tulls Ian Anderson '],Pop
-Zürich,Algorave,2014-06-28,['Mico Rex '],Electronic
-Zürich,Minimalmaximal,2014-06-28,"[' Sebastian Hofmann ', ' Rafael Rütti ', ' Tobias Gerber ']",Classic
-Ascona,Jazz-Ascona,2014-06-28,"['Ella & Louie Tribute Band feat. Eileina Dennis & Leon Brown ', ' Mr. Boogie Mitch Woods ', ' Karima ', ' Marcus and Joan Belgrave & Band ', ' Kermit Ruffins & The BBQ Swingers ']",
-Zürich,Der-angezogene-Irrsinn,2014-06-28,[' Rodolphe Schacher '],Classic
-Zürich,Spontankonzert,2014-06-28,"['Christoph Keller ', ' Christoph Homberger ']",Classic
-Rapperswil,Blues'n'Jazz-Rapperswil-Jona,2014-06-28,"['Luke Winslow-King ', ' Marquise Knox ']",
--Alte-Kirche,Boswil,2014-06-28,[' Mona Asuka '],Classic
-Uster,Dukes-of-Harmony,2014-06-28,"[' Kevin Volken ', ' André Kalberer ']",Pop
-Baden,Donadio-Family-Band,2014-06-28,"[' Dalia Donadio ', ' Madlen Donadio ', ' Moreno Donadio ', ' Toni Donadio ']",Pop
-Kyburg,Notturno,2014-06-28,[' Simon Schnorr '],Classic
-Bern,The-Brave-Black-Sea,2014-06-28,['The Brave Black Sea '],
-null,Bart-Norre,2014-06-28,['Bart Norre '],Pop
-Rorschach,El-Bachatazo-Latin-Night,2014-06-28,"['DJs Tony ', "" Da'le ""]",
-Dietikon,Xutos-&-Pontapés,2014-06-28,['Xutos & Pontapés '],
+,location,event,date,artists,genre
+0,Basel,Bandura-Beats-Brazil,2014-06-28,['DJs Farrapo '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+1,null,Openair-St.-Gallen,2014-06-28,"['Seeed ', ' Skindred ', ' Tom Odell ', ' Casper ', ' C2C ']","['Hip', 'Hop', ""R'n'B""]"
+2,null,Openair-St.-Gallen,2014-06-28,"[' Bilderbuch ', ' Satellite Stories ', ' The Notwist ', ' Junip ', ' Chvrches ', ' Moderat ', ' Moop Mama ', ' Kavinsky ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,Patrozinium,2014-06-28,"['Kurt Meier ', ' Felix Gubser ']",['Classic']
+4,Basel,Masterrezital,2014-06-28,[' Vin?cius de Freitas P?rez '],['Classic']
+5,Luzern,Piano-Entertainment,2014-06-28,['Fabienne Amb?hl '],"['Jazz', 'Blues', 'Soul']"
+6,Lausanne,Inferno-Festival,2014-06-28,"['Mayhem ', ' Death ', ' S?lstafir ', ' Death Angel ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Hochwald,Sternstunde-Klassik-Fusion,2014-06-28,"['Florin Farcas ', ' Lala Ackermann ']",['Classic']
+8,Rapperswil,Blues'n'Jazz-Rapperswil-Jona,2014-06-28,"['Johnny Cash Roadshow ', ' Matt Bianco ', ' Joe Satriani ']","['Jazz', 'Blues', 'Soul']"
+9,null,Blues'n'Jazz-Rapperswil-Jona,2014-06-28,"[' Arbuckle ', ' Royal Southern Brotherhood ']","['Jazz', 'Blues', 'Soul']"
+10,Rapperswil,Blues'n'Jazz-Rapperswil-Jona,2014-06-28,"[' The Vagabonds ', ' United Nations Jazz Band ', ' The Ultimate Louis Armstrong Show ']","['Jazz', 'Blues', 'Soul']"
+11,Fischingen,Serenade,2014-06-28,[' Michel Tirabosco '],['Classic']
+12,Interlaken,Trucker-&-Country-Festival,2014-06-28,"['Danni Leigh ', ' Ray Scott ', ' Darry Worley ', ' Country Sisters ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Gerlafingen,Rockabilly-Stomp-Rock'n'Roll-Weekender,2014-06-28,"['Screamin Victor ', ' The Hometown Gamblers ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,null,Rob-Zombie,2014-06-28,"['Rob Zombie ', ' support: Avatar ', ' Powerman 5000 ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Basel,Cruda-Amarilli-Madrigali-dal-quinto-e-sesto-libro,2014-06-28,['Colla Voce '],['Classic']
+16,Rapperswil,Blues'n'Jazz-Rapperswil-Jona,2014-06-28,"['Luke Winslow-King ', ' Marquise Knox ']","['Jazz', 'Blues', 'Soul']"
+17,Liestal,Liestal-Air,2014-06-28,['Jethro Tulls Ian Anderson '],['Pop']
+18,Ascona,Jazz-Ascona,2014-06-28,[' The BBQ Swingers '],"['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Spontankonzert,2014-06-28,"['Christoph Keller ', ' Christoph Homberger ']",['Classic']
+20,Z?rich,Minimalmaximal,2014-06-28,"[' Sebastian Hofmann ', ' Rafael R?tti ', ' Tobias Gerber ']",['Classic']
+21,Z?rich,Der-angezogene-Irrsinn,2014-06-28,[' Rodolphe Schacher '],['Classic']
+22,Z?rich,Algorave,2014-06-28,['Mico Rex '],['Electronic']
+23,-Alte-Kirche,Boswil,2014-06-28,[' Mona Asuka '],['Classic']
+24,Baden,Donadio-Family-Band,2014-06-28,"[' Dalia Donadio ', ' Madlen Donadio ', ' Moreno Donadio ', ' Toni Donadio ']",['Pop']
+25,Uster,Dukes-of-Harmony,2014-06-28,"[' Kevin Volken ', ' Andr? Kalberer ']",['Pop']
+26,Bern,The-Brave-Black-Sea,2014-06-28,['The Brave Black Sea '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Kyburg,Notturno,2014-06-28,[' Simon Schnorr '],['Classic']
+28,null,Bart-Norre,2014-06-28,['Bart Norre '],['Pop']
+29,Rorschach,El-Bachatazo-Latin-Night,2014-06-28,"['DJs Tony ', "" Da'le ""]","['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+30,Dietikon,Xutos-&-Pontap?s,2014-06-28,[' Pontap?s '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

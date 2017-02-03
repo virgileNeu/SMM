@@ -1,39 +1,38 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment,2014-01-24,['Mega Horvath '],
-Basel,Orgelspiel-zum-Feierabend,2014-01-24,['Susanne Doll '],Classic
-Dietikon,Feierabendmusik,2014-01-24,[' Bernhard Hörler '],Classic
-Zürich,Concilia-Nocturna,2014-01-24,[' Solitudo Solemnis '],
-Basel,Chorkonzert-Daseinsfreude,2014-01-24,"[' H. J. Fink ', ' A. Ichtchenko ', ' M. Wamser ']",Classic
-Zürich,St.-Petersburg-Dîner-musical,2014-01-24,[' Alexander Neustroev '],Classic
-Zürich,Hexen,2014-01-24,"['Anna Herbst ', ' Werner Bärtschi ', ' Corinne Kappeler ']",Classic
-Basel,Begegnung-mit-Hans-Huber,2014-01-24,[' Chrsitoph Keller '],Classic
-Zürich,Pop-Rock-Jazz-gegen-Januarloch,2014-01-24,[' Anna Känzig '],Pop
-null,Anna-Depenbusch,2014-01-24,['Anna Depenbusch '],Pop
-Wettingen,Liebe,2014-01-24,"[' Bettina Boller ', ' Judith Gerster ', ' Stefka Perifanova ']",Classic
-Basel,Saltarello,2014-01-24,"['Agnès Vesterman ', ' Sylvain Lemètre ', ' conductor: Garth Knox ']",Classic
-Wetzikon,Konzert,2014-01-24,[' Srdjan Vukasinovic '],Classic
-null,BeJazz-Winterfestival,2014-01-24,"[' ', ' Till Grünewald ', ' Irène Schweizer ', ' Pierre Favre ']",
-Chur,3.-Abonnementskonzert,2014-01-24,[' Albrecht Mayer '],Classic
-Zürich,Ringsgwandl,2014-01-24,['Ringsgwandl '],Pop
-Zürich,Boya,2014-01-24,"['Boya ', ' Dimitar Gougov ', ' Nathalie Tavernier ', ' Etienne Gruel ']",
-Zürich,The-Wildfire,2014-01-24,['The Wildfire '],
-Bülach,Olaf-Polziehn-Quartet-feat.-Scott-Hamilton,2014-01-24,"['Olaf Polziehn Quartet feat. Scott Hamilton ', ' Scott Hamilton ', ' Olaf Polziehn ', ' Ingmar Heller ', ' Steve Brown ']",
-Zürich,Urban-Flux,2014-01-24,"[' Luigi Marino ', ' Marco Colonna ', ' Joke Lanz ', ' Martin Gantenbein ']",
-Basel,Cléber-Alves-Quarteto,2014-01-24,"['Cléber Alves Quarteto ', ' Cléber Alves ', ' Ricardo Fiúza ', ' Stephan Kurmann ', ' André Limão Queiroz ']",
-Liestal,Omri-Hason-Modus-Quartet,2014-01-24,"[' Antonello Messina ', ' Wege Wüthrich ', ' Lorenz Beyeler ', ' Omri Hason ']",
-null,Daniel-Schläppi-&-Marc-Copland,2014-01-24,"[' Daniel Schläppi ', ' Marc Copland ']",
-Zürich,Zurich-Jazz-Orchestra,2014-01-24,"[' Reto Suhner ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas Lüthi ', ' Matthias Tschopp ', ' Adrian Weber ', ' Lukas Wyss ', ' Silvio Cadotsch ']",
-null,Kylesa,2014-01-24,"['Kylesa ', ' Sierra ', ' Jagged Vision ']",
-null,Fred-Bintner,2014-01-24,"[' Fred Bintner ', ' Cédric Ducheman ', ' Gino Chantoiseau ']",
-Winterthur,Coultrain,2014-01-24,['Coultrain '],
-Luzern,Rival-Kings,2014-01-24,['Rival Kings '],Pop
-Luzern,Shotgun-Express,2014-01-24,['Shotgun Express '],
-Zug,Albie-Donnelly's-Supercharge,2014-01-24,"[""Albie Donnelly's Supercharge ""]",
-Bern,Gonga,2014-01-24,['Gonga '],
-Zürich,Mintzkov,2014-01-24,['Mintzkov '],
-Hasliberg-Hohfluh,Gentleman,2014-01-24,['Gentleman '],
-Kriens,Blind-Butcher,2014-01-24,['Blind Butcher '],
-Schaffhausen,Get-Up-And-Boogie,2014-01-24,['Raashan Ahmad & Band '],
-Liebefeld,Ghost-Town-Trio,2014-01-24,"[' Urs Vögeli ', ' Claude Meier ', ' Lukas Mantel ']",
-Bern,Rejjie-Snow,2014-01-24,['Rejjie Snow '],
-Winterthur,Ame,2014-01-24,['Ame '],Electronic
+,location,event,date,artists,genre
+0,Luzern,Piano-Entertainment,2014-01-24,['Mega Horvath '],"['Jazz', 'Blues', 'Soul']"
+1,Basel,Orgelspiel-zum-Feierabend,2014-01-24,['Susanne Doll '],['Classic']
+2,Dietikon,Feierabendmusik,2014-01-24,[' Bernhard H?rler '],['Classic']
+3,Z?rich,Concilia-Nocturna,2014-01-24,[' Solitudo Solemnis '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,St.-Petersburg-D?ner-musical,2014-01-24,[' Alexander Neustroev '],['Classic']
+5,Z?rich,Hexen,2014-01-24,"['Anna Herbst ', ' Werner B?rtschi ', ' Corinne Kappeler ']",['Classic']
+6,Basel,Begegnung-mit-Hans-Huber,2014-01-24,[' Chrsitoph Keller '],['Classic']
+7,Z?rich,Pop-Rock-Jazz-gegen-Januarloch,2014-01-24,[' Anna K?nzig '],['Pop']
+8,Basel,Chorkonzert-Daseinsfreude,2014-01-24,"[' H. J. Fink ', ' A. Ichtchenko ', ' M. Wamser ']",['Classic']
+9,null,BeJazz-Winterfestival,2014-01-24,"[' ', ' Till Gr?newald ', ' Ir?ne Schweizer ', ' Pierre Favre ']","['Jazz', 'Blues', 'Soul']"
+10,null,Anna-Depenbusch,2014-01-24,['Anna Depenbusch '],['Pop']
+11,Wetzikon,Konzert,2014-01-24,[' Srdjan Vukasinovic '],['Classic']
+12,Chur,3.-Abonnementskonzert,2014-01-24,[' Albrecht Mayer '],['Classic']
+13,Z?rich,Boya,2014-01-24,"['Boya ', ' Dimitar Gougov ', ' Nathalie Tavernier ', ' Etienne Gruel ']","['world', 'music']"
+14,Z?rich,Ringsgwandl,2014-01-24,['Ringsgwandl '],['Pop']
+15,Wettingen,Liebe,2014-01-24,"[' Bettina Boller ', ' Judith Gerster ', ' Stefka Perifanova ']",['Classic']
+16,Basel,Saltarello,2014-01-24,"['Agn?s Vesterman ', ' Sylvain Lem?tre ', ' conductor: Garth Knox ']",['Classic']
+17,Z?rich,The-Wildfire,2014-01-24,['The Wildfire '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,B?lach,Olaf-Polziehn-Quartet-feat.-Scott-Hamilton,2014-01-24,"['Olaf Polziehn Quartet feat. Scott Hamilton ', ' Scott Hamilton ', ' Olaf Polziehn ', ' Ingmar Heller ', ' Steve Brown ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Urban-Flux,2014-01-24,"[' Luigi Marino ', ' Marco Colonna ', ' Joke Lanz ', ' Martin Gantenbein ']","['Jazz', 'Blues', 'Soul']"
+20,Liestal,Omri-Hason-Modus-Quartet,2014-01-24,"[' Antonello Messina ', ' Wege W?thrich ', ' Lorenz Beyeler ', ' Omri Hason ']","['world', 'music']"
+21,null,Daniel-Schl?ppi-&-Marc-Copland,2014-01-24,"[' Daniel Schl?ppi ', ' Marc Copland ']","['Jazz', 'Blues', 'Soul']"
+22,Basel,Cl?ber-Alves-Quarteto,2014-01-24,"['Cl?ber Alves Quarteto ', ' Cl?ber Alves ', ' Ricardo Fi?za ', ' Stephan Kurmann ', ' Andr? Lim?o Queiroz ']","['Jazz', 'Blues', 'Soul']"
+23,null,Kylesa,2014-01-24,"['Kylesa ', ' Sierra ', ' Jagged Vision ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Z?rich,Zurich-Jazz-Orchestra,2014-01-24,"[' Reto Suhner ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas L?thi ', ' Matthias Tschopp ', ' Adrian Weber ', ' Lukas Wyss ', ' Silvio Cadotsch ']","['Jazz', 'Blues', 'Soul']"
+25,null,Fred-Bintner,2014-01-24,"[' Fred Bintner ', ' C?dric Ducheman ', ' Gino Chantoiseau ']","['Hip', 'Hop', ""R'n'B""]"
+26,Winterthur,Coultrain,2014-01-24,['Coultrain '],"['Hip', 'Hop', ""R'n'B""]"
+27,Luzern,Rival-Kings,2014-01-24,['Rival Kings '],['Pop']
+28,Luzern,Shotgun-Express,2014-01-24,['Shotgun Express '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Zug,Albie-Donnelly's-Supercharge,2014-01-24,"[""Albie Donnelly's Supercharge ""]","['Hip', 'Hop', ""R'n'B""]"
+30,Z?rich,Mintzkov,2014-01-24,['Mintzkov '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Hasliberg-Hohfluh,Gentleman,2014-01-24,['Gentleman '],"['Hip', 'Hop', ""R'n'B""]"
+32,Kriens,Blind-Butcher,2014-01-24,['Blind Butcher '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Schaffhausen,Get-Up-And-Boogie,2014-01-24,[' Band '],"['Hip', 'Hop', ""R'n'B""]"
+34,Winterthur,Ame,2014-01-24,['Ame '],['Electronic']
+35,Bern,Rejjie-Snow,2014-01-24,['Rejjie Snow '],"['Hip', 'Hop', ""R'n'B""]"
+36,Liebefeld,Ghost-Town-Trio,2014-01-24,"[' Urs V?geli ', ' Claude Meier ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"

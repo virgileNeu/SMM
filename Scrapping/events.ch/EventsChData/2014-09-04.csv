@@ -1,19 +1,19 @@
-location,event,date,artists,genre
-Luzern,Debut-5,2014-09-04,['Mei Yi Foo '],Classic
-Liestal,Offkey,2014-09-04,"[' Marco Faseth ', ' Annika Hemmig ']",Pop
-Zürich,Orpheum,2014-09-04,"[' Iskandar Widjaja ', ' Beatrice Rana ']",Classic
-Bern,Bruckners-Zweite,2014-09-04,[' Conrad Tao '],Classic
-Luzern,Sinfoniekonzert-18,2014-09-04,[' Jean-Yves Thibaudet '],Classic
-Veytaux,Septembre-musical,2014-09-04,"[' Nicolas Van Kuijk ', ' Sylvain Favre ', ' Grégoire Vecchioni ', ' Sébastien Van Kuijk ']",Classic
-Buchs,Al-Pride,2014-09-04,"[' Nico Schulthess ', ' Astrid Füllemann ', ' Luk Schulthess ', ' Nicolas Struchen ', ' Lukas Schlumpf ']",Pop
-Solothurn,Ten-Foot-Pole,2014-09-04,"['Ten Foot Pole ', ' Antillectual ']",
-Zürich,Sentimental-Journey,2014-09-04,"[' Samuel Zünd ', ' Catriona Bühler ', ' Julia Schiwowa ', ' Helen Iten ', ' Fridolin Blumer ']",Pop
-Kloten,Alexia-Gardner,2014-09-04,"[' Alexia Gardner ', ' Beat Baumli ', ' Lorenz Beyeler ']",
-Winterthur,Jantos-Holding,2014-09-04,"[' Jan-Andrea Bard ', ' ', ' Simon Spiess ', ' David Brito ', ' Florian Krause ']",
-Basel,Colin-Vallon-Trio,2014-09-04,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-Zürich,Ape-Crime,2014-09-04,['Ape Crime '],Pop
-Baden,Mystery-Tour,2014-09-04,"[' Karl Marxer ', ' Urs Oettli ', ' Ueli Angstman ', ' Dave Feusi ']",Pop
-Zürich,Billiger-Bauer,2014-09-04,"[' Omri Ziegele ', ' Jürg Wickihalder ', ' Nick Gutersohn ']",
-null,Rapadura,2014-09-04,['Rapadura '],
-Zürich,Falcone-Jam,2014-09-04,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",Pop
-Bern,The-Eastern,2014-09-04,['The Eastern '],
+,location,event,date,artists,genre
+0,Luzern,Debut-5,2014-09-04,['Mei Yi Foo '],['Classic']
+1,Liestal,Offkey,2014-09-04,"[' Marco Faseth ', ' Annika Hemmig ']",['Pop']
+2,Luzern,Sinfoniekonzert-18,2014-09-04,[' Jean-Yves Thibaudet '],['Classic']
+3,Z?rich,Orpheum,2014-09-04,"[' Iskandar Widjaja ', ' Beatrice Rana ']",['Classic']
+4,Veytaux,Septembre-musical,2014-09-04,"[' Nicolas Van Kuijk ', ' Sylvain Favre ', ' Gr?goire Vecchioni ', ' S?bastien Van Kuijk ']",['Classic']
+5,Bern,Bruckners-Zweite,2014-09-04,[' Conrad Tao '],['Classic']
+6,Buchs,Al-Pride,2014-09-04,"[' Nico Schulthess ', ' Astrid F?llemann ', ' Luk Schulthess ', ' Nicolas Struchen ', ' Lukas Schlumpf ']",['Pop']
+7,Z?rich,Sentimental-Journey,2014-09-04,"[' Samuel Z?nd ', ' Catriona B?hler ', ' Julia Schiwowa ', ' Helen Iten ', ' Fridolin Blumer ']",['Pop']
+8,Solothurn,Ten-Foot-Pole,2014-09-04,"['Ten Foot Pole ', ' Antillectual ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Kloten,Alexia-Gardner,2014-09-04,"[' Alexia Gardner ', ' Beat Baumli ', ' Lorenz Beyeler ']","['Jazz', 'Blues', 'Soul']"
+10,Winterthur,Jantos-Holding,2014-09-04,"[' Jan-Andrea Bard ', ' ', ' Simon Spiess ', ' David Brito ', ' Florian Krause ']","['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Ape-Crime,2014-09-04,['Ape Crime '],['Pop']
+12,Basel,Colin-Vallon-Trio,2014-09-04,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Billiger-Bauer,2014-09-04,"[' Omri Ziegele ', ' J?rg Wickihalder ', ' Nick Gutersohn ']","['Jazz', 'Blues', 'Soul']"
+14,Baden,Mystery-Tour,2014-09-04,"[' Karl Marxer ', ' Urs Oettli ', ' Ueli Angstman ', ' Dave Feusi ']",['Pop']
+15,null,Rapadura,2014-09-04,['Rapadura '],"['Hip', 'Hop', ""R'n'B""]"
+16,Z?rich,Falcone-Jam,2014-09-04,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp H?fliger ', ' Mike Ryrie ']",['Pop']
+17,Bern,The-Eastern,2014-09-04,['The Eastern '],"['world', 'music']"

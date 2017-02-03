@@ -1,46 +1,45 @@
-location,event,date,artists,genre
-Basel,Orgelspiel-zum-Feierabend,2014-10-17,['Peter Waldner '],Classic
-Dietikon,Feierabendmusik,2014-10-17,"['Claudia Curatolo ', ' Laura Curatolo ', ' Bernhard Hörler ']",Classic
-Solothurn,Achtsamkeit,2014-10-17,"['Urs Peter Schneider ', ' Urs Peter Schneider ']",Classic
-Zürich,Konzert,2014-10-17,[' David Fray '],Classic
-Wettingen,Liebeszauber,2014-10-17,"[' Christina Daletska ', ' Luciano Jungman ']",Classic
-Bern,Symphoniekonzert,2014-10-17,[' Jean-Yves Thibaudet '],Classic
-Erlach,Sudha-Ragunathan,2014-10-17,"['Sudha Ragunathan ', ' Sudha Ragunathan ', ' Embar Sadagopan Kannan ', ' Raman Ramakrishnan ', ' Skanda Sundararajan Subramanian ']",
-Zug,Bach-Meets-Kennedy,2014-10-17,"['Nigel Kennedy ', ' Adam Czerwinski ', ' Rolf Bussalb ', ' Doug Boyle ', ' Tomasz Kupiec ']",Classic
-Zürich,Acoustic-Friday,2014-10-17,"[' Fabrizio Brusca ', ' Leonardo Grimaudo ', ' Calogero Genco ', ' Carmelo Graceffa ', ' Cinzia Catania ']",Pop
-Lenk-im-Simmental,Geistliches-Chorkonzert,2014-10-17,"[' Eun-Ah Cho-Nitschke ', ' Sarah Maeder ']",Classic
-Zürich,10-Jahre-Stall-6-Tag-1,2014-10-17,"['Mo Kolours ', ' Elektro Guzzi ']",
-Zürich,London-Grammar-ausverkauft,2014-10-17,['London Grammar '],Pop
-Lyss,Arsis-abgesagt,2014-10-17,['Arsis '],
-Vevey,Dark-Fortress,2014-10-17,"['Dark Fortress ', ' Secrets of the Moon ']",
-Zürich,Live-Cover-Night,2014-10-17,"['Dominik Steegmüller ', ' Vanessa Iraci ', ' Pascal P. Kaeser ']",Pop
-Luzern,Fear-of-Men,2014-10-17,['Fear of Men '],
-null,The-Creole-Clarinets,2014-10-17,"["" Thomas l'Etienne "", ' Uli Wunner ', ' Mike Goetz ', ' Karel Algoed ', ' Norman Emberson ']",
-Zürich,Beins-Capece-Küchen-Vogel,2014-10-17,"['Beins-Capece-Küchen-Vogel ', ' Burkhard Beins ', ' Lucio Capece ', ' Martin Küchen ', ' Paul Vogel ']",
-Frick,Fricktaler-Blues-Festival,2014-10-17,"['Grainne Duffy Band ', ' Michael van Merwyk & Bluesoul ']",
-Winterthur,Ivy-Trio,2014-10-17,"[' Jean-Pierre Schaller ', ' Fabienne Hoerni ', ' Felix Bergeron ']",
-Zürich,Rootwords,2014-10-17,"[' Rootwords ', ' Thierry Corboz ', ' Stan Breynaert ', ' Romain Tinguely-Mabillard ', ' Benjamin Riggi ']",
-Baden,Hommage-an-Edith-Piaf,2014-10-17,"[' Stella Palino ', ' Charlotte Torres ']",Pop
-Basel,Miles-Griffith-&-Tony-Pancella-Trio,2014-10-17,"[' Miles Griffith ', ' Tony Pancella ', ' Aldo Vigorito ', ' Pietro Iodice ']",
-Winterthur,Excrementory-Grindfuckers,2014-10-17,['Excrementory Grindfuckers '],
-Zürich,3-Solos,2014-10-17,"['Lê Quan Ninh ', ' Jason Kahn ', ' Gerry Hemingway ']",
-Baden,Texmäx,2014-10-17,"[' René Planzer ', ' Beat Suter ', ' Küse Maurer ', ' Geri Huber ']",
-null,Keltikon,2014-10-17,"[' Iain Duncan ', ' Olaf Ohl ', ' Ädu Studer ', ' Rino Bollin ', ' Patrick Feuz ']",
-Bern,Prairies-urbaines,2014-10-17,"[' Dida Guigan ', ' Marcel Zaes ']",
-null,Kal,2014-10-17,"['Kal ', ' Dragan Ristic ', ' Milos Velickovic ', ' Dejan Jovanovic ', ' Milorad Jevremovic ', ' Ivan Kuzev ']",
-Rubigen,Luka-Bloom,2014-10-17,['Luka Bloom '],
-Zürich,Mouse-DTC,2014-10-17,['Mouse DTC '],Pop
-Winterthur,The-Experimental-Tropic-Blues-Band,2014-10-17,"['The Experimental Tropic Blues Band ', ' Total Heels ']",
-Frick,Casa-Bancale,2014-10-17,['Casa Bancale '],
-Baden,Stuff-Productions,2014-10-17,[' Mundwerk-Crew '],
-Uster,Rob-Tognoni,2014-10-17,['Rob Tognoni '],
-Aarau,Will-and-the-People,2014-10-17,['Will and the People '],
-Wil,Prop-Dylan,2014-10-17,"['Prop Dylan ', ' Fhteod ']",
-null,Saint-Vitus-&-Orange-Goblin,2014-10-17,['Saint Vitus & Orange Goblin '],
-Basel,Tropical-Night-Kizomba-Party-und-Crashkurs,2014-10-17,[' DJ Alemao '],
-Zürich,James-Reindeer,2014-10-17,"['James Reindeer ', ' Asbest the Moor King ']",
-Carouge,El-Gran-Combo-de-Puerto-Rico,2014-10-17,['El Gran Combo de Puerto Rico '],
-Zürich,Inspectah-Deck-Abgesagt,2014-10-17,['Inspectah Deck '],
-Bern,Prairies-urbaines,2014-10-17,"[' Sabrina Merz ', ' Marcel Zaes ']",
-Bern,Dillon,2014-10-17,['Dillon '],Electronic
-Lausanne,Chris-Liebing,2014-10-17,['Chris Liebing '],Electronic
+,location,event,date,artists,genre
+0,Basel,Orgelspiel-zum-Feierabend,2014-10-17,['Peter Waldner '],['Classic']
+1,Dietikon,Feierabendmusik,2014-10-17,"['Claudia Curatolo ', ' Laura Curatolo ', ' Bernhard H?rler ']",['Classic']
+2,Bern,Symphoniekonzert,2014-10-17,[' Jean-Yves Thibaudet '],['Classic']
+3,Z?rich,Konzert,2014-10-17,[' David Fray '],['Classic']
+4,Solothurn,Achtsamkeit,2014-10-17,"['Urs Peter Schneider ', ' Urs Peter Schneider ']",['Classic']
+5,Wettingen,Liebeszauber,2014-10-17,"[' Christina Daletska ', ' Luciano Jungman ']",['Classic']
+6,Z?rich,London-Grammar-ausverkauft,2014-10-17,['London Grammar '],['Pop']
+7,Erlach,Sudha-Ragunathan,2014-10-17,"['Sudha Ragunathan ', ' Sudha Ragunathan ', ' Embar Sadagopan Kannan ', ' Raman Ramakrishnan ', ' Skanda Sundararajan Subramanian ']","['world', 'music']"
+8,Lyss,Arsis-abgesagt,2014-10-17,['Arsis '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Vevey,Dark-Fortress,2014-10-17,"['Dark Fortress ', ' Secrets of the Moon ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Luzern,Fear-of-Men,2014-10-17,['Fear of Men '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,10-Jahre-Stall-6-Tag-1,2014-10-17,"['Mo Kolours ', ' Elektro Guzzi ']","['Electro', 'Electropop']"
+12,Z?rich,Live-Cover-Night,2014-10-17,"['Dominik Steegm?ller ', ' Vanessa Iraci ', ' Pascal P. Kaeser ']",['Pop']
+13,Zug,Bach-Meets-Kennedy,2014-10-17,"['Nigel Kennedy ', ' Adam Czerwinski ', ' Rolf Bussalb ', ' Doug Boyle ', ' Tomasz Kupiec ']",['Classic']
+14,Lenk-im-Simmental,Geistliches-Chorkonzert,2014-10-17,"[' Eun-Ah Cho-Nitschke ', ' Sarah Maeder ']",['Classic']
+15,null,The-Creole-Clarinets,2014-10-17,"["" Thomas l'Etienne "", ' Uli Wunner ', ' Mike Goetz ', ' Karel Algoed ', ' Norman Emberson ']","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Acoustic-Friday,2014-10-17,"[' Fabrizio Brusca ', ' Leonardo Grimaudo ', ' Calogero Genco ', ' Carmelo Graceffa ', ' Cinzia Catania ']",['Pop']
+17,Z?rich,Beins-Capece-K?chen-Vogel,2014-10-17,"['Beins-Capece-K?chen-Vogel ', ' Burkhard Beins ', ' Lucio Capece ', ' Martin K?chen ', ' Paul Vogel ']","['Jazz', 'Blues', 'Soul']"
+18,Frick,Fricktaler-Blues-Festival,2014-10-17,[' Bluesoul '],"['Jazz', 'Blues', 'Soul']"
+19,Winterthur,Ivy-Trio,2014-10-17,"[' Jean-Pierre Schaller ', ' Fabienne Hoerni ', ' Felix Bergeron ']","['Jazz', 'Blues', 'Soul']"
+20,Basel,Miles-Griffith-&-Tony-Pancella-Trio,2014-10-17,"[' Miles Griffith ', ' Tony Pancella ', ' Aldo Vigorito ', ' Pietro Iodice ']","['Jazz', 'Blues', 'Soul']"
+21,Z?rich,Rootwords,2014-10-17,"[' Rootwords ', ' Thierry Corboz ', ' Stan Breynaert ', ' Romain Tinguely-Mabillard ', ' Benjamin Riggi ']","['Hip', 'Hop', ""R'n'B""]"
+22,Baden,Texm?x,2014-10-17,"[' Ren? Planzer ', ' Beat Suter ', ' K?se Maurer ', ' Geri Huber ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Baden,Hommage-an-Edith-Piaf,2014-10-17,"[' Stella Palino ', ' Charlotte Torres ']",['Pop']
+24,Z?rich,3-Solos,2014-10-17,"['L? Quan Ninh ', ' Jason Kahn ', ' Gerry Hemingway ']","['Jazz', 'Blues', 'Soul']"
+25,Winterthur,Excrementory-Grindfuckers,2014-10-17,['Excrementory Grindfuckers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,null,Kal,2014-10-17,"['Kal ', ' Dragan Ristic ', ' Milos Velickovic ', ' Dejan Jovanovic ', ' Milorad Jevremovic ', ' Ivan Kuzev ']","['world', 'music']"
+27,null,Keltikon,2014-10-17,"[' Iain Duncan ', ' Olaf Ohl ', ' ?du Studer ', ' Rino Bollin ', ' Patrick Feuz ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Baden,Stuff-Productions,2014-10-17,[' Mundwerk-Crew '],"['Hip', 'Hop', ""R'n'B""]"
+29,Rubigen,Luka-Bloom,2014-10-17,['Luka Bloom '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Winterthur,The-Experimental-Tropic-Blues-Band,2014-10-17,"['The Experimental Tropic Blues Band ', ' Total Heels ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Bern,Prairies-urbaines,2014-10-17,"[' Dida Guigan ', ' Marcel Zaes ']","['Jazz', 'Blues', 'Soul']"
+32,Z?rich,Mouse-DTC,2014-10-17,[' SWIM '],['Pop']
+33,Aarau,Will-and-the-People,2014-10-17,['Will and the People '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Frick,Casa-Bancale,2014-10-17,['Casa Bancale '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Uster,Rob-Tognoni,2014-10-17,['Rob Tognoni '],"['Jazz', 'Blues', 'Soul']"
+36,Wil,Prop-Dylan,2014-10-17,"['Prop Dylan ', ' Fhteod ']","['Hip', 'Hop', ""R'n'B""]"
+37,null,Saint-Vitus-&-Orange-Goblin,2014-10-17,[' Orange Goblin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+38,Basel,Tropical-Night-Kizomba-Party-und-Crashkurs,2014-10-17,[' DJ Alemao '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+39,Z?rich,James-Reindeer,2014-10-17,"['James Reindeer ', ' Asbest the Moor King ']","['Hip', 'Hop', ""R'n'B""]"
+40,Carouge,El-Gran-Combo-de-Puerto-Rico,2014-10-17,['El Gran Combo de Puerto Rico '],"['world', 'music']"
+41,Bern,Dillon,2014-10-17,['Dillon '],['Electronic']
+42,Lausanne,Chris-Liebing,2014-10-17,['Chris Liebing '],['Electronic']
+43,Bern,Prairies-urbaines,2014-10-17,"[' Sabrina Merz ', ' Marcel Zaes ']","['Jazz', 'Blues', 'Soul']"
