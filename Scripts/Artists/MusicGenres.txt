@@ -1,3 +1,4 @@
+2 tone	caribbean and caribbean-influenced
 2-step garage	electronic
 4-beat	electronic
 acid breaks	electronic
@@ -183,6 +184,7 @@ d-beat	rock
 dance-pop	pop
 dance-punk	electronic
 dance-rock	electronic
+dancehall	caribbean and caribbean-influenced
 dancehall music	caribbean and caribbean-influenced
 dangdut	asian
 dansband music	country
@@ -441,6 +443,7 @@ lo-fi	avant-garde
 louisiana blues	blues
 louisiana swamp pop	pop
 lounge music	easy listening
+lovers rock	caribbean and caribbean-influenced
 low bap	hip hop
 lowercase	electronic
 luk krung	asian
@@ -452,7 +455,6 @@ mainstream jazz	jazz
 makossa	african
 maloya	african
 mambo	latin
-mambo (music)	caribbean and caribbean-influenced
 mandopop	pop
 manila sound	asian
 maracatu	latin
@@ -484,9 +486,11 @@ moombahcore	electronic
 moombahton	electronic
 morlam	asian
 morna	african
+mosambique	caribbean and caribbean-influenced
 motswako	hip hop
 musique concrète	electronic
 mákina	electronic
+méringue	caribbean and caribbean-influenced
 música criolla	latin
 música popular brasileira	latin
 música sertaneja	latin
@@ -590,9 +594,12 @@ psychobilly/punkabilly	country
 punk blues	blues
 punk jazz	jazz
 punk rock	rock
+punta	caribbean and caribbean-influenced
+punta rock	caribbean and caribbean-influenced
 r&b and soul	r&b and soul
 raga rock	rock
 ragga	hip hop
+ragga jungle	caribbean and caribbean-influenced
 raggacore	electronic
 ragini	asian
 ragtime	jazz
@@ -604,11 +611,14 @@ rap opera	hip hop
 rap rock	rock
 rapcore	rock
 rara tech	electronic
+rasin	caribbean and caribbean-influenced
 raï	african
 reactionary bluegrass	country
 rebetiko	pop
 red dirt	country
+reggae	caribbean and caribbean-influenced
 reggae español/spanish reggae	hip hop
+reggae fusion	caribbean and caribbean-influenced
 reggaestep	electronic
 reggaeton	latin
 regional mexican	latin
@@ -619,6 +629,7 @@ rock and roll	rock
 rock en español	latin
 rock in opposition	rock
 rockabilly	country
+rocksteady	caribbean and caribbean-influenced
 rumba	latin
 russian pop	pop
 sadcore	rock
@@ -639,6 +650,7 @@ shangaan electro	african
 shibuya-kei	jazz
 shoegaze	rock
 singer-songwriter movement	folk
+ska	caribbean and caribbean-influenced
 ska jazz	jazz
 ska punk	rock
 skate punk	rock
@@ -648,8 +660,11 @@ slowcore	rock
 sludge metal	rock
 smooth jazz	jazz
 snap music	hip hop
+soca	caribbean and caribbean-influenced
 soft rock	rock
 son	latin
+son cubano	caribbean and caribbean-influenced
+songo	caribbean and caribbean-influenced
 songo-salsa	hip hop
 sophisti-pop	pop
 soukous	african
@@ -724,6 +739,7 @@ truck-driving country	country
 turkish pop	pop
 turntablism	hip hop
 twin cities hip hop	hip hop
+twoubadou	caribbean and caribbean-influenced
 uk funky	electronic
 uk garage	electronic
 uk hardcore	electronic
@@ -752,5 +768,6 @@ wonky pop	pop
 world fusion	rock
 worldbeat	rock
 zouglou cote d'ivoire	african
+zouk	caribbean and caribbean-influenced
 zouk-lambada	latin
 zydeco	country
