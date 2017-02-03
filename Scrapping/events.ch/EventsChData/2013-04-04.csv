@@ -1,32 +1,32 @@
-location,event,date,artists,genre
-Zürich,Ostermusik,2013-04-04,['Rudolf Meyer '],Classic
-Baden,Schälagärrr,2013-04-04,['Sämi Zünd '],traditional
-Winterthur,Hypocrisy,2013-04-04,"['Hypocrisy ', ' Essence ', ' Hate ']",
-Zürich,Tales-Of-Suburbia,2013-04-04,"[' Francis Petter ', ' Bruno Huwyler ', ' Christoph Sprenger ']",
-Zürich,Thursday-Night-Jazz,2013-04-04,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Bern,Internationales-Jazzfestival-Bern,2013-04-04,"[""Lil' Ed & The Blues Imperials ""]",
-Bern,Landschaften-aus-Musik,2013-04-04,[' Thomas Zehetmair '],Classic
-ewz-Unterwerk-Selnau,Zürich,2013-04-04,['The Puppini Sisters '],
-Luzern,Antillectual,2013-04-04,"['Antillectual ', ' Smile & Burn ']",
-Zürich,Franco-Battiato,2013-04-04,['Franco Battiato '],Pop
-Luzern,Nobunny,2013-04-04,"['Nobunny ', ' Bad Sports ']",
-Lyss,Tiemo-Hauer,2013-04-04,['Tiemo Hauer '],Pop
-Solothurn,The-Tackers,2013-04-04,['The Tackers '],
-Winterthur,Musica-aperta-The-Pianessence-Pool,2013-04-04,"['Petra Ronner ', ' Gary Berger ']",Classic
-Kloten,The-Dynamite-Daze,2013-04-04,['The Dynamite Daze '],
-Liebefeld,Michael-Zisman-Quartett,2013-04-04,"[' Michael Zisman ', ' Philip Henzi ', ' Lorenz Beyeler ', ' Tobias Friedli ']",
-Zürich,Palma-Violets,2013-04-04,['Palma Violets '],
-Zürich,Urban-Kicks-&-Inner-Landscapes,2013-04-04,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco Käppeli ', ' Dieter Ulrich ']",
-Moods,Zürich,2013-04-04,"[' Tom Freund ', ' Rodrigo Aravena ', ' Peter Finc ']",
-Thun,Raging-Fyah-feat.-Elijah,2013-04-04,['Raging Fyah feat. Elijah '],
-Basel,Tiny-Ruins,2013-04-04,"['Tiny Ruins ', ' Klara Lundén ']",Pop
-Zürich,Konzert,2013-04-04,"[' Martin Jaggi ', ' Leopold Hurt ']",Classic
-Music-Bar-Galery,Pratteln,2013-04-04,['Elliott Murphy '],
-Winterthur,Petar-Ralchev-mit-Pletenitsa,2013-04-04,['Petar Ralchev mit Pletenitsa '],
-Zürich,Kid-Congo-and-The-Pink-Monkey-Birds,2013-04-04,['Kid Congo and The Pink Monkey Birds '],
-Bern,Two-Tears-for-Barbarella,2013-04-04,['Two Tears for Barbarella '],
-Zürich,Jam-Session,2013-04-04,"['Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",
-Zürich,Canja-Rave,2013-04-04,['Canja Rave '],
-Lausanne,Hipbone-Slim-&-the-Kneetremblers,2013-04-04,['Hipbone Slim & the Kneetremblers '],Pop
-Luzern,Jam-Session,2013-04-04,['Richard Decker '],
-Bern,Internationales-Jazzfestival-Bern,2013-04-04,"[""Lil' Ed & The Blues Imperials ""]",
+,location,event,date,artists,genre
+0,Zürich,Ostermusik,2013-04-04,['Rudolf Meyer '],['Classic']
+1,Baden,Schälagärrr,2013-04-04,['Sämi Zünd '],['traditional']
+2,Winterthur,Hypocrisy,2013-04-04,"['Hypocrisy ', ' Essence ', ' Hate ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Zürich,Tales-Of-Suburbia,2013-04-04,"[' Francis Petter ', ' Bruno Huwyler ', ' Christoph Sprenger ']","['Jazz', 'Blues', 'Soul']"
+4,Zürich,Thursday-Night-Jazz,2013-04-04,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+5,Bern,Internationales-Jazzfestival-Bern,2013-04-04,"[""Lil' Ed & The Blues Imperials ""]","['Jazz', 'Blues', 'Soul']"
+6,Bern,Landschaften-aus-Musik,2013-04-04,[' Thomas Zehetmair '],['Classic']
+7,Luzern,Nobunny,2013-04-04,"['Nobunny ', ' Bad Sports ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,ewz-Unterwerk-Selnau,Zürich,2013-04-04,['The Puppini Sisters '],"['The', 'Puppini', 'Sisters']"
+9,Solothurn,The-Tackers,2013-04-04,['The Tackers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Zürich,Franco-Battiato,2013-04-04,['Franco Battiato '],['Pop']
+11,Lyss,Tiemo-Hauer,2013-04-04,['Tiemo Hauer '],['Pop']
+12,Luzern,Antillectual,2013-04-04,"['Antillectual ', ' Smile & Burn ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Kloten,The-Dynamite-Daze,2013-04-04,['The Dynamite Daze '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Winterthur,Musica-aperta-The-Pianessence-Pool,2013-04-04,"['Petra Ronner ', ' Gary Berger ']",['Classic']
+15,Thun,Raging-Fyah-feat.-Elijah,2013-04-04,['Raging Fyah feat. Elijah '],"['Hip', 'Hop', ""R'n'B""]"
+16,Winterthur,Petar-Ralchev-mit-Pletenitsa,2013-04-04,['Petar Ralchev mit Pletenitsa '],"['world', 'music']"
+17,Music-Bar-Galery,Pratteln,2013-04-04,['Elliott Murphy '],"['Elliott', 'Murphy']"
+18,Zürich,Urban-Kicks-&-Inner-Landscapes,2013-04-04,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco Käppeli ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+19,Moods,Zürich,2013-04-04,"[' Tom Freund ', ' Rodrigo Aravena ', ' Peter Finc ']","['Tom', 'Freund']"
+20,Zürich,Palma-Violets,2013-04-04,['Palma Violets '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Basel,Tiny-Ruins,2013-04-04,"['Tiny Ruins ', ' Klara Lundén ']",['Pop']
+22,Zürich,Konzert,2013-04-04,"[' Martin Jaggi ', ' Leopold Hurt ']",['Classic']
+23,Liebefeld,Michael-Zisman-Quartett,2013-04-04,"[' Michael Zisman ', ' Philip Henzi ', ' Lorenz Beyeler ', ' Tobias Friedli ']","['Jazz', 'Blues', 'Soul']"
+24,Bern,Two-Tears-for-Barbarella,2013-04-04,['Two Tears for Barbarella '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Zürich,Jam-Session,2013-04-04,"['Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']","['Hip', 'Hop', ""R'n'B""]"
+26,Zürich,Kid-Congo-and-The-Pink-Monkey-Birds,2013-04-04,['Kid Congo and The Pink Monkey Birds '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Luzern,Jam-Session,2013-04-04,['Richard Decker '],"['Jazz', 'Blues', 'Soul']"
+28,Lausanne,Hipbone-Slim-&-the-Kneetremblers,2013-04-04,['Hipbone Slim & the Kneetremblers '],['Pop']
+29,Zürich,Canja-Rave,2013-04-04,['Canja Rave '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Bern,Internationales-Jazzfestival-Bern,2013-04-04,"[""Lil' Ed & The Blues Imperials ""]","['Jazz', 'Blues', 'Soul']"

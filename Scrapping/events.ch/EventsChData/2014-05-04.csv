@@ -1,35 +1,35 @@
-location,event,date,artists,genre
-Solothurn,American-Dream,2014-05-04,"[' Marielle Oggier ', ' Marc Bätscher ', ' Ursula Hächler ', ' Jason Paul Peterson ']",Classic
-Riehen,Hommage-à-Schumann,2014-05-04,"[' Ueli Wiget ', ' Nina Janssen-Deinzer ', ' Megumi Kasakawa ', ' Michael M. Kasper ']",Classic
-Luzern,Gladiator-Live-to-Projection,2014-05-04,"[' Lisa Gerrard ', ' Gladiator ']",Classic
-Zürich,Tino-Flautino,2014-05-04,[' conductor: Maurice Steger '],Classic
-Schmidrüti,Bläserzauber-Orgelwonnen,2014-05-04,"[' André Schüpbach ', ' Martin Stöckli ', ' Norihito Nishinomura ', ' Annerös Hulliger ']",Classic
-null,Quatemberkonzerte,2014-05-04,"['Rita Karin Meier & Stephan Britt ', '  Voichita Nica ', ' Anton Rotzetter ']",Classic
-Stans,Stanser-Musiktage,2014-05-04,['Altai Khangai '],
-Basel,Willkommen-und-Abschied-Begegnungen-mit-Franz-Schubert,2014-05-04,"['Stefan Vock ', ' Jan Schultsz ']",Classic
-Bern,Konzert,2014-05-04,"[' Jörg Widmann ', ' conductor: Antje Weithaas ']",Classic
-Hüntwangen,Cello-&-Klavier,2014-05-04,"[' David Reitz ', ' Bram Buitenkant ']",Classic
-Basel,Schubert-Liederabend,2014-05-04,"['Marcus Niedermeyr ', ' Sebastian Wienand ']",Classic
-Gelterkinden,Alles-Kaffee-oder-was-,2014-05-04,"[' Béa Droz ', ' Selina Beltrani ', ' Simon Peter ']",
-Aarau,The-Armed-Man-A-Mass-for-Peace,2014-05-04,"[' Liliane Glanzmann ', ' René Perler ', ' Fadil Asani ']",Classic
-Basel,Klavierrezital,2014-05-04,[' Lukas Loss '],Classic
-Zürich,Klavier-Rezital,2014-05-04,['Yulia Miloslavskaya '],Classic
-Wädenswil,Walzer-und-Walzer-Variationen,2014-05-04,['Werner Bärtschi '],Classic
-Mühlethurnen,Pippo-Pollina-&-Palermo-Acoustic-Trio,2014-05-04,['Pippo Pollina & Palermo Acoustic Trio '],Pop
-Bern,Muttertagskonzert,2014-05-04,['Die Paldauer '],traditional
-Zürich,Tadah,2014-05-04,"[' Florian Egli ', ' Dave Gisler ', ' Martina Berther ', ' Rico Baumann ']",
-Basel,Jazzfestival-Basel,2014-05-04,['Michel Camilo '],
-Häggenschwil,Orgel-A-Z-Eine-Reise-durch-die-Welt-der-Orgelmusik,2014-05-04,"['Alexander Seidel ', ' Albert Schlauri ']",Classic
-Zürich,Konzert,2014-05-04,[' Kristóf Baráti '],Classic
-Luzern,Gladiator-Live-to-Projection,2014-05-04,"[' Lisa Gerrard ', ' Gladiator ']",Classic
-Zürich,Round-4,2014-05-04,"['Simon Spiess Trio ', ' Simon Spiess ', ' Bänz Oester ', ' Daniel Mudrack ']",
-Luzern,Ernie-Watts-European-Quartet,2014-05-04,"[' Ernie Watts ', ' Christof Sänger ', ' Rudi Engel ', ' Heinrich Köbberling ']",
-Winterthur,Ann-Klein-&-Band,2014-05-04,"[' Ann Klein ', ' Klaus Kircher ', ' Robert Kainar ']",
-Feuerthalen,John-Lowell-Band,2014-05-04,"['John Lowell Band ', ' John Lowell ', ' Julie Elkins ', ' Tom Murphy ', ' Thomas Kärner ']",
-Zug,Samúel-Jón-Samúelsson-Big-Band,2014-05-04,['Samúel Jón Samúelsson Big Band '],
-Pratteln,Manfred-Mann's-Earth-Band,2014-05-04,"[""Manfred Mann's Earth Band ""]",
-Köniz,Hank-Shizzoe-Trio,2014-05-04,['Hank Shizzoe Trio '],
-Bern,Mokoomba,2014-05-04,['Mokoomba '],
-Basel,Jazzfestival-Basel,2014-05-04,['Avishai Cohen & Trio '],
-Bern,Invsn-abgesagt,2014-05-04,['Invsn '],
-Zürich,Eamon-McGrath,2014-05-04,['Eamon McGrath '],Pop
+,location,event,date,artists,genre
+0,Luzern,Gladiator-Live-to-Projection,2014-05-04,"[' Lisa Gerrard ', ' Gladiator ']",['Classic']
+1,Solothurn,American-Dream,2014-05-04,"[' Marielle Oggier ', ' Marc B?tscher ', ' Ursula H?chler ', ' Jason Paul Peterson ']",['Classic']
+2,Z?rich,Tino-Flautino,2014-05-04,[' conductor: Maurice Steger '],['Classic']
+3,Riehen,Hommage-?-Schumann,2014-05-04,"[' Ueli Wiget ', ' Nina Janssen-Deinzer ', ' Megumi Kasakawa ', ' Michael M. Kasper ']",['Classic']
+4,Schmidr?ti,Bl?serzauber-Orgelwonnen,2014-05-04,"[' Andr? Sch?pbach ', ' Martin St?ckli ', ' Norihito Nishinomura ', ' Anner?s Hulliger ']",['Classic']
+5,Stans,Stanser-Musiktage,2014-05-04,['Altai Khangai '],"['world', 'music']"
+6,null,Quatemberkonzerte,2014-05-04,"[' Stephan Britt ', '  Voichita Nica ', ' Anton Rotzetter ']",['Classic']
+7,Basel,Schubert-Liederabend,2014-05-04,"['Marcus Niedermeyr ', ' Sebastian Wienand ']",['Classic']
+8,Bern,Konzert,2014-05-04,"[' J?rg Widmann ', ' conductor: Antje Weithaas ']",['Classic']
+9,Aarau,The-Armed-Man-A-Mass-for-Peace,2014-05-04,"[' Liliane Glanzmann ', ' Ren? Perler ', ' Fadil Asani ']",['Classic']
+10,H?ntwangen,Cello-&-Klavier,2014-05-04,"[' David Reitz ', ' Bram Buitenkant ']",['Classic']
+11,Gelterkinden,Alles-Kaffee-oder-was-,2014-05-04,"[' B?a Droz ', ' Selina Beltrani ', ' Simon Peter ']","['world', 'music']"
+12,Z?rich,Klavier-Rezital,2014-05-04,['Yulia Miloslavskaya '],['Classic']
+13,Basel,Klavierrezital,2014-05-04,[' Lukas Loss '],['Classic']
+14,Basel,Willkommen-und-Abschied-Begegnungen-mit-Franz-Schubert,2014-05-04,"['Stefan Vock ', ' Jan Schultsz ']",['Classic']
+15,M?hlethurnen,Pippo-Pollina-&-Palermo-Acoustic-Trio,2014-05-04,[' Palermo Acoustic Trio '],['Pop']
+16,W?denswil,Walzer-und-Walzer-Variationen,2014-05-04,['Werner B?rtschi '],['Classic']
+17,Bern,Muttertagskonzert,2014-05-04,['Die Paldauer '],['traditional']
+18,Z?rich,Tadah,2014-05-04,"[' Florian Egli ', ' Dave Gisler ', ' Martina Berther ', ' Rico Baumann ']","['Jazz', 'Blues', 'Soul']"
+19,Basel,Jazzfestival-Basel,2014-05-04,['Michel Camilo '],"['Jazz', 'Blues', 'Soul']"
+20,Luzern,Gladiator-Live-to-Projection,2014-05-04,"[' Lisa Gerrard ', ' Gladiator ']",['Classic']
+21,H?ggenschwil,Orgel-A-Z-Eine-Reise-durch-die-Welt-der-Orgelmusik,2014-05-04,"['Alexander Seidel ', ' Albert Schlauri ']",['Classic']
+22,Z?rich,Konzert,2014-05-04,[' Krist?f Bar?ti '],['Classic']
+23,Luzern,Ernie-Watts-European-Quartet,2014-05-04,"[' Ernie Watts ', ' Christof S?nger ', ' Rudi Engel ', ' Heinrich K?bberling ']","['Jazz', 'Blues', 'Soul']"
+24,Z?rich,Round-4,2014-05-04,"['Simon Spiess Trio ', ' Simon Spiess ', ' B?nz Oester ', ' Daniel Mudrack ']","['Jazz', 'Blues', 'Soul']"
+25,Feuerthalen,John-Lowell-Band,2014-05-04,"['John Lowell Band ', ' John Lowell ', ' Julie Elkins ', ' Tom Murphy ', ' Thomas K?rner ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Winterthur,Ann-Klein-&-Band,2014-05-04,"[' Ann Klein ', ' Klaus Kircher ', ' Robert Kainar ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Zug,Sam?el-J?n-Sam?elsson-Big-Band,2014-05-04,['Sam?el J?n Sam?elsson Big Band '],"['Hip', 'Hop', ""R'n'B""]"
+28,Pratteln,Manfred-Mann's-Earth-Band,2014-05-04,"[""Manfred Mann's Earth Band ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,K?niz,Hank-Shizzoe-Trio,2014-05-04,['Hank Shizzoe Trio '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Bern,Invsn-abgesagt,2014-05-04,['Invsn '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Basel,Jazzfestival-Basel,2014-05-04,[' Trio '],"['Jazz', 'Blues', 'Soul']"
+32,Bern,Mokoomba,2014-05-04,['Mokoomba '],"['world', 'music']"
+33,Z?rich,Eamon-McGrath,2014-05-04,['Eamon McGrath '],['Pop']

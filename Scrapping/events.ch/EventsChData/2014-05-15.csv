@@ -1,45 +1,45 @@
-location,event,date,artists,genre
-Basel,Masterrezital,2014-05-15,[' Diana Alexandru '],Classic
-Baden,After-Work,2014-05-15,"[' Hans Rothenbühler ', ' Bruno Gandet ', ' Erich Gandet ', ' Tico Keller ', ' Bruno Huwyler ']",
-Basel,Masterrezital,2014-05-15,[' Caterina Comas Hervada '],Classic
-Aarau,Sea-+-Air,2014-05-15,['Sea + Air '],
-Zürich,Beethoven-Zyklus-I,2014-05-15,[' Radu Lupu '],Classic
-Zürich,Frühlingskonzert,2014-05-15,[' Jordi Bertran-Sastre '],Classic
-Luzern,The-Retro-Festival,2014-05-15,['Kim Wilde '],Pop
-null,10.-Tonhallekonzert-Märchenerzählungen,2014-05-15,['Agata Szymczewska '],Classic
-KKL,Luzern,2014-05-15,['Anoushka Shankar '],
-Basel,Masterrezital,2014-05-15,[' Teodor Dimitrov '],Classic
-Bern,Die-Italienische,2014-05-15,[' Sol Gabetta '],Classic
-Zürich,Cherub-abgesagt,2014-05-15,['Cherub '],Pop
-Zürich,Thursday-Night-Jazz,2014-05-15,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Zürich,Soundcane,2014-05-15,['Soundcane '],Pop
-Zürich,Landstreichmusik,2014-05-15,"['Christine Lauterburg ', ' Matthias Lincke ', ' Dide Marfurt ', ' Simon Dettwiler ']",traditional
-Zürich,ZHdK-Masters-of-Jazz,2014-05-15,"[' Lena Minder ', ' Philipp Eden ', ' Ramón Oliveras ']",
-Winterthur,Carmen-Fenk,2014-05-15,"[' Carmen Fenk ', ' Sandro Vetsch ', ' Dani Zihlmann ', ' Nick Mens ', ' Andy Oswald ']",Pop
-Zürich,Takes-Two,2014-05-15,"[' Ruth Bieri ', ' Helen Davey ']",
-Zürich,Songs-from-Utopia,2014-05-15,"['Songs from Utopia ', ' Rebekka Zarkava ', ' Jura Dolezal ']",
-Luzern,Mustasch,2014-05-15,['Mustasch '],
-Zürich,Dan-Wilde,2014-05-15,"['Dan Wilde ', ' Tom Copson ']",
-Zürich,Triggerfinger,2014-05-15,"['Triggerfinger ', ' The Sore Losers ']",
-Winterthur,Theiler-Flisch-Renold,2014-05-15,"[' Yves Theiler ', ' Rätus Flisch ', ' Tony Renold ']",
-Schaffhausen,Schaffhauser-Jazzfestival,2014-05-15,"[' Lukas Roos ', ' Florian Möbes ', ' Domi Chansorn ']",
-Aarau,Yves-Reichmuth-Quartet,2014-05-15,"[' Yves Reichmuth ', ' Lucien Dubuis ', ' Valentin Dietrich ', ' Lukas Mantel ']",
-Frauenfeld,Harry-Marte-&-Big-Pit,2014-05-15,"[' Harry Marte ', ' Urs Vögeli ', ' Claude Meier ', ' Alfred Vogel ']",
-Baden,JRP,2014-05-15,"[' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-null,Chick-Corea,2014-05-15,"['Chick Corea ', ' Michael Zisman ']",
-null,Michaël-Gregorio,2014-05-15,['Michaël Gregorio '],Pop
-Baden,Beth-Wimmer-Trio,2014-05-15,['Beth Wimmer Trio '],
-Bern,Lee-Schornoz-&-Michel-Gorski,2014-05-15,['Lee Schornoz & Michel Gorski '],
-Zürich,Georgia-Anne-Muldrow,2014-05-15,"['Georgia Anne Muldrow ', ' Oh No ', ' DJ Romes ']",
-Thun,Grey-Monday,2014-05-15,['Grey Monday '],
-Basel,Jochen-Baldes-Subnoder,2014-05-15,"[' Jochen Baldes ', ' Franz Hellmüller ', ' Thomas Bauser ', ' Raffaele Bossard ', ' Michi Stulz ']",
-Luzern,Larry-And-His-Flask,2014-05-15,['Larry And His Flask '],
-Zürich,Diane-Cluck,2014-05-15,['Diane Cluck '],
-Zürich,Sofa-Surfers,2014-05-15,['Sofa Surfers '],Electronic
-Rubigen,Meena-Cryle-&-The-Chris-Fillmore-Band,2014-05-15,['Meena Cryle & The Chris Fillmore Band '],
-Winterthur,Ken-Stringfellow,2014-05-15,['Ken Stringfellow '],Pop
-Zürich,David-Rovics,2014-05-15,['David Rovics '],Pop
-Düdingen,O'Brother,2014-05-15,"[""O'Brother ""]",
-Basel,Cube-Session-Frühlingsgefühle,2014-05-15,[' Axel Schacher '],Classic
-Schaffhausen,Schaffhauser-Jazzfestival,2014-05-15,['Gabriel Zufferey '],
-Solothurn,Restorations,2014-05-15,"['Restorations ', ' Astpai ', ' The Smith Street Band ']",Pop
+,location,event,date,artists,genre
+0,Basel,Masterrezital,2014-05-15,[' Diana Alexandru '],['Classic']
+1,Baden,After-Work,2014-05-15,"[' Hans Rothenb?hler ', ' Bruno Gandet ', ' Erich Gandet ', ' Tico Keller ', ' Bruno Huwyler ']","['Jazz', 'Blues', 'Soul']"
+2,Basel,Masterrezital,2014-05-15,[' Caterina Comas Hervada '],['Classic']
+3,Aarau,Sea-+-Air,2014-05-15,['Sea + Air '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Luzern,The-Retro-Festival,2014-05-15,['Kim Wilde '],['Pop']
+5,Basel,Masterrezital,2014-05-15,[' Teodor Dimitrov '],['Classic']
+6,Z?rich,Beethoven-Zyklus-I,2014-05-15,[' Radu Lupu '],['Classic']
+7,Z?rich,Fr?hlingskonzert,2014-05-15,[' Jordi Bertran-Sastre '],['Classic']
+8,KKL,Luzern,2014-05-15,['Anoushka Shankar '],"['Anoushka', 'Shankar']"
+9,Bern,Die-Italienische,2014-05-15,[' Sol Gabetta '],['Classic']
+10,null,10.-Tonhallekonzert-M?rchenerz?hlungen,2014-05-15,['Agata Szymczewska '],['Classic']
+11,Z?rich,Thursday-Night-Jazz,2014-05-15,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+12,Z?rich,Cherub-abgesagt,2014-05-15,['Cherub '],['Pop']
+13,Z?rich,Soundcane,2014-05-15,['Soundcane '],['Pop']
+14,Z?rich,ZHdK-Masters-of-Jazz,2014-05-15,"[' Lena Minder ', ' Philipp Eden ', ' Ram?n Oliveras ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Z?rich,Takes-Two,2014-05-15,"[' Ruth Bieri ', ' Helen Davey ']","['world', 'music']"
+16,Z?rich,Songs-from-Utopia,2014-05-15,"['Songs from Utopia ', ' Rebekka Zarkava ', ' Jura Dolezal ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Winterthur,Carmen-Fenk,2014-05-15,"[' Carmen Fenk ', ' Sandro Vetsch ', ' Dani Zihlmann ', ' Nick Mens ', ' Andy Oswald ']",['Pop']
+18,Z?rich,Dan-Wilde,2014-05-15,"['Dan Wilde ', ' Tom Copson ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Z?rich,Triggerfinger,2014-05-15,"['Triggerfinger ', ' The Sore Losers ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Z?rich,Landstreichmusik,2014-05-15,"['Christine Lauterburg ', ' Matthias Lincke ', ' Dide Marfurt ', ' Simon Dettwiler ']",['traditional']
+21,Luzern,Mustasch,2014-05-15,['Mustasch '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Schaffhausen,Schaffhauser-Jazzfestival,2014-05-15,"[' Lukas Roos ', ' Florian M?bes ', ' Domi Chansorn ']","['Jazz', 'Blues', 'Soul']"
+23,Frauenfeld,Harry-Marte-&-Big-Pit,2014-05-15,"[' Harry Marte ', ' Urs V?geli ', ' Claude Meier ', ' Alfred Vogel ']","['Jazz', 'Blues', 'Soul']"
+24,Winterthur,Theiler-Flisch-Renold,2014-05-15,"[' Yves Theiler ', ' R?tus Flisch ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+25,Aarau,Yves-Reichmuth-Quartet,2014-05-15,"[' Yves Reichmuth ', ' Lucien Dubuis ', ' Valentin Dietrich ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"
+26,Thun,Grey-Monday,2014-05-15,['Grey Monday '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Baden,JRP,2014-05-15,"[' Christoph Baumann ', ' H?mi H?mmerli ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+28,Luzern,Larry-And-His-Flask,2014-05-15,['Larry And His Flask '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Z?rich,Georgia-Anne-Muldrow,2014-05-15,"['Georgia Anne Muldrow ', ' Oh No ', ' DJ Romes ']","['Hip', 'Hop', ""R'n'B""]"
+30,null,Micha?l-Gregorio,2014-05-15,['Micha?l Gregorio '],['Pop']
+31,Baden,Beth-Wimmer-Trio,2014-05-15,['Beth Wimmer Trio '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Bern,Lee-Schornoz-&-Michel-Gorski,2014-05-15,[' Michel Gorski '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,null,Chick-Corea,2014-05-15,"['Chick Corea ', ' Michael Zisman ']","['Jazz', 'Blues', 'Soul']"
+34,Basel,Jochen-Baldes-Subnoder,2014-05-15,"[' Jochen Baldes ', ' Franz Hellm?ller ', ' Thomas Bauser ', ' Raffaele Bossard ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+35,Rubigen,Meena-Cryle-&-The-Chris-Fillmore-Band,2014-05-15,[' The Chris Fillmore Band '],"['Jazz', 'Blues', 'Soul']"
+36,D?dingen,O'Brother,2014-05-15,"[""O'Brother ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Basel,Cube-Session-Fr?hlingsgef?hle,2014-05-15,[' Axel Schacher '],['Classic']
+38,Z?rich,David-Rovics,2014-05-15,['David Rovics '],['Pop']
+39,Winterthur,Ken-Stringfellow,2014-05-15,['Ken Stringfellow '],['Pop']
+40,Z?rich,Diane-Cluck,2014-05-15,['Diane Cluck '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+41,Z?rich,Sofa-Surfers,2014-05-15,['Sofa Surfers '],['Electronic']
+42,Schaffhausen,Schaffhauser-Jazzfestival,2014-05-15,['Gabriel Zufferey '],"['Jazz', 'Blues', 'Soul']"
+43,Solothurn,Restorations,2014-05-15,"['Restorations ', ' Astpai ', ' The Smith Street Band ']",['Pop']

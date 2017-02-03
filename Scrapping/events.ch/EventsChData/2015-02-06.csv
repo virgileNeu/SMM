@@ -1,38 +1,34 @@
-location,event,date,artists,genre
-Ennetbürgen,Bürgenstock-Momente-Winterfestival,2015-02-06,"['Linus Roth ', ' Tomoko Akasaka ', ' Maximilian Hornung ', ' José Gallardo ']",Classic
-Baden,One-of-a-Million,2015-02-06,"[""Woman's Hour ""]",
-Basel,Orgelspiel-zum-Feierabend,2015-02-06,['Derek Clark '],Classic
-Dietikon,Feierabendmusik,2015-02-06,"['Liliane Huber-Müller ', ' Bernhard Hörler ']",Classic
-Luzern,Hundreds,2015-02-06,['Hundreds '],Electronic
-Zürich,Internationales-Country-Music-Festival,2015-02-06,['Tony Lewis & Tuff Love '],
-Zürich,Tonhalle-Orchester-Zürich,2015-02-06,"[' Hana Blazíková ', ' Tilman Lichdi ', ' Andreas Weller ', ' Klaus Mertens ']",Classic
-Aarau,Within-the-Ruins,2015-02-06,"['Within the Ruins ', ' Aversions Crown ']",
-Baden,One-of-a-Million,2015-02-06,['Chuckamuck '],
-Basel,Preisträgerkonzert,2015-02-06,"[' Florian Mitrea ', ' Andrei Ionita ']",Classic
-null,Nordklang-Festival,2015-02-06,['Ida Wenoe '],
-Liestal,Alexia-Gardner,2015-02-06,"[' Mick Kaluzny ', ' Matthias Ammann ', ' Alexie Gardner ']",
-Frauenfeld,Glauser-Quintett,2015-02-06,"[' Daniel R. Schneider ', ' Markus Keller ', ' Martin Schumacher ', ' Fredi Flükiger ']",
-Altikon,Leonardo-Ferreyra-Tango-String-Quartet,2015-02-06,"[' Leonardo Ferreyra ', ' Rahel Zellweger ', ' Sophie Lüssi ', ' Andreas Ochsner ']",
-null,Sonne-der-Musik,2015-02-06,['Sol Gabetta '],Classic
-null,Konzert,2015-02-06,"['Sol Gabetta ', ' Bertrand Chamayou ']",Classic
-Winterthur,Der-Wawawa,2015-02-06,"[' Benedikt Reising ', ' Marco Müller ', ' Rico Baumann ']",
-Zürich,Kunz-Schuster,2015-02-06,"[' Andreas Kunz ', ' Lorenz Schuster ']",
-Zürich,Blue-Bolero,2015-02-06,"[' Silvan Jeger ', ' Valentin Dietrich ', ' Maxime Paratte ', ' Florian Egli ', ' Silvio Cadotsch ', ' Vincent Glanzmann ']",
-Uster,Suisse-Diagonales-Jazz,2015-02-06,"[' Julian Hesse ', ' Jonathan Maag ', ' Andrey Tatarinets ', ' Domi Chansorn ', ' Florian Favre ', ' Manu Hagmann ', ' Kevin Chesham ']",
-Zürich,Steve-Lehman-Octet,2015-02-06,"[' Steve Lehman ', ' Jonathan Finlayson ', ' Mark Shim ', ' Tim Albright ', ' Chris Dingman ']",
-Solothurn,Johnny-Fontane-&-The-Rivals,2015-02-06,"['Johnny Fontane & The Rivals ', ' Tom Marcozzi ', ' Philipp Lüdi ', ' Lukas Zürcher ', ' Christian Spahni ']",
-St.-Margrethen,Jo-&-Lazy-Fellow,2015-02-06,['Jo & Lazy Fellow '],
-Basel,Guitarorama,2015-02-06,"[' Brian Charette ', ' Ronny Graupe ', ' Dejan Terzic ']",
-Birsfelden,Özlem-Yilmaz,2015-02-06,"[' Özlem Yilmaz ', ' Mustafa Göcmen ']",
-Thun,Shayna-Steele,2015-02-06,['Shayna Steele '],
-Thun,Shayna-Steele,2015-02-06,['Shayna Steele '],
-Basel,Orlando-Julius-&-The-Heliocentrics,2015-02-06,"['Orlando Julius & The Heliocentrics ', ' Malcolm Catto ', ' Jake Ferguson ', ' Adrian Owusu ', ' Ollie Parfitt ', ' Jack Yglesias ', ' Jason Yarde ', ' Matt Roberts ', ' Orlando Julius ']",
-Luzern,The-Flow-Magicianz,2015-02-06,['The Flow Magicianz '],
-Rubigen,Joan-Armatrading,2015-02-06,['Joan Armatrading '],
-Baden,One-of-a-Million,2015-02-06,"['Talking to Turtles ', ' Sekuoia ']",
-Wil,Bottled-In-England,2015-02-06,['Bottled In England '],Electronic
-Hasliberg-Hohfluh,Längs-u-Breits,2015-02-06,"[' Pedro Lenz ', ' Werner Aeschbacher ']",Pop
-Zürich,Apparatschik,2015-02-06,['Apparatschik '],
-Zürich,Latin-Touch,2015-02-06,[' dance animation by Orestes Vega '],
-Basel,I'm-Not-A-Band,2015-02-06,"[""I'm Not A Band ""]",Electronic
-Zürich,Kim-Brown,2015-02-06,"['Kim Brown ', ' Silky Raven ']",Electronic
+,location,event,date,artists,genre
+0,Ennetb?rgen,B?rgenstock-Momente-Winterfestival,2015-02-06,"['Linus Roth ', ' Tomoko Akasaka ', ' Maximilian Hornung ', ' Jos? Gallardo ']",['Classic']
+1,Baden,One-of-a-Million,2015-02-06,"[""Woman's Hour ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Basel,Orgelspiel-zum-Feierabend,2015-02-06,['Derek Clark '],['Classic']
+3,Dietikon,Feierabendmusik,2015-02-06,"['Liliane Huber-M?ller ', ' Bernhard H?rler ']",['Classic']
+4,Luzern,Hundreds,2015-02-06,['Hundreds '],['Electronic']
+5,Basel,Preistr?gerkonzert,2015-02-06,"[' Florian Mitrea ', ' Andrei Ionita ']",['Classic']
+6,Aarau,Within-the-Ruins,2015-02-06,"['Within the Ruins ', ' Aversions Crown ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Baden,One-of-a-Million,2015-02-06,['Chuckamuck '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Z?rich,Tonhalle-Orchester-Z?rich,2015-02-06,"[' Hana Blaz?kov? ', ' Tilman Lichdi ', ' Andreas Weller ', ' Klaus Mertens ']",['Classic']
+9,Liestal,Alexia-Gardner,2015-02-06,"[' Mick Kaluzny ', ' Matthias Ammann ', ' Alexie Gardner ']","['Jazz', 'Blues', 'Soul']"
+10,Altikon,Leonardo-Ferreyra-Tango-String-Quartet,2015-02-06,"[' Leonardo Ferreyra ', ' Rahel Zellweger ', ' Sophie L?ssi ', ' Andreas Ochsner ']","['world', 'music']"
+11,null,Konzert,2015-02-06,"['Sol Gabetta ', ' Bertrand Chamayou ']",['Classic']
+12,Frauenfeld,Glauser-Quintett,2015-02-06,"[' Daniel R. Schneider ', ' Markus Keller ', ' Martin Schumacher ', ' Fredi Fl?kiger ']","['Jazz', 'Blues', 'Soul']"
+13,null,Sonne-der-Musik,2015-02-06,['Sol Gabetta '],['Classic']
+14,Z?rich,Kunz-Schuster,2015-02-06,"[' Andreas Kunz ', ' Lorenz Schuster ']","['Jazz', 'Blues', 'Soul']"
+15,Winterthur,Der-Wawawa,2015-02-06,"[' Benedikt Reising ', ' Marco M?ller ', ' Rico Baumann ']","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Blue-Bolero,2015-02-06,"[' Silvan Jeger ', ' Valentin Dietrich ', ' Maxime Paratte ', ' Florian Egli ', ' Silvio Cadotsch ', ' Vincent Glanzmann ']","['Jazz', 'Blues', 'Soul']"
+17,Uster,Suisse-Diagonales-Jazz,2015-02-06,"[' Julian Hesse ', ' Jonathan Maag ', ' Andrey Tatarinets ', ' Domi Chansorn ', ' Florian Favre ', ' Manu Hagmann ', ' Kevin Chesham ']","['Jazz', 'Blues', 'Soul']"
+18,Basel,Guitarorama,2015-02-06,"[' Brian Charette ', ' Ronny Graupe ', ' Dejan Terzic ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Steve-Lehman-Octet,2015-02-06,"[' Steve Lehman ', ' Jonathan Finlayson ', ' Mark Shim ', ' Tim Albright ', ' Chris Dingman ']","['Jazz', 'Blues', 'Soul']"
+20,Solothurn,Johnny-Fontane-&-The-Rivals,2015-02-06,"[' The Rivals ', ' Tom Marcozzi ', ' Philipp L?di ', ' Lukas Z?rcher ', ' Christian Spahni ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,St.-Margrethen,Jo-&-Lazy-Fellow,2015-02-06,[' Lazy Fellow '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Rubigen,Joan-Armatrading,2015-02-06,['Joan Armatrading '],"['Jazz', 'Blues', 'Soul']"
+23,Birsfelden,?zlem-Yilmaz,2015-02-06,"[' ?zlem Yilmaz ', ' Mustafa G?cmen ']","['world', 'music']"
+24,Thun,Shayna-Steele,2015-02-06,['Shayna Steele '],"['Hip', 'Hop', ""R'n'B""]"
+25,Basel,Orlando-Julius-&-The-Heliocentrics,2015-02-06,"[' The Heliocentrics ', ' Malcolm Catto ', ' Jake Ferguson ', ' Adrian Owusu ', ' Ollie Parfitt ', ' Jack Yglesias ', ' Jason Yarde ', ' Matt Roberts ', ' Orlando Julius ']","['world', 'music']"
+26,Wil,Bottled-In-England,2015-02-06,['Bottled In England '],['Electronic']
+27,Baden,One-of-a-Million,2015-02-06,"['Talking to Turtles ', ' Sekuoia ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Hasliberg-Hohfluh,L?ngs-u-Breits,2015-02-06,"[' Pedro Lenz ', ' Werner Aeschbacher ']",['Pop']
+29,Z?rich,Apparatschik,2015-02-06,['Apparatschik '],"['world', 'music']"
+30,Z?rich,Latin-Touch,2015-02-06,[' dance animation by Orestes Vega '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+31,Basel,I'm-Not-A-Band,2015-02-06,"[""I'm Not A Band ""]",['Electronic']
+32,Z?rich,Kim-Brown,2015-02-06,"['Kim Brown ', ' Silky Raven ']",['Electronic']

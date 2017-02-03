@@ -1,37 +1,37 @@
-location,event,date,artists,genre
-Luzern,Isaak,2014-12-11,['Isaak '],
-Basel,Advents-und-Weihnachtslieder-zum-Mitsingen,2014-12-11,"['Ilze Paegle ', ' Françoise Matile ']",Classic
-Zürich,Thursday-Night-Jazz,2014-12-11,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Bern,Zigeunerweisen,2014-12-11,"[' Carlos Johnson ', ' Carolina Krogius ']",Classic
-Aarau,2-x-Magnificat,2014-12-11,"[' Christine Esser ', ' Mirjam Blessing ', ' Erlend Tvinnereim ', ' Ernst Buscagne ']",Classic
-Basel,Weihnachtskonzert,2014-12-11,['Die Paldauer '],traditional
-Zug,Irish-Christmas-Festival,2014-12-11,"['Beoga ', ' The Murphy Beds ', ' Ciara Ryan & Joe McKenna & Alisha McMahon ']",
-null,Dirtmusic,2014-12-11,"['Dirtmusic ', ' Baba Sissoko ']",
-Zürich,A-Concert-With-or-Without-You,2014-12-11,"['Fabian Gisler ', ' Michael Jaeger ', ' San Keller ']",
-Zürich,Shaka-Ponk,2014-12-11,['Shaka Ponk '],
-Zürich,Voices-of-Africa,2014-12-11,"[' Nomandla Hallam ', ' Resistance Maziwisa ', ' Siyabonga Zethu ', ' Sibussio Kili ', ' Mabukane ', ' Siphesihle Makinana ']",Pop
-Basel,Stellamar,2014-12-11,"[' Marcel Kruzi Wyss ', ' Basso Salerno ']",
-Zürich,Sting-Operation,2014-12-11,"[' Felix Straumann ', ' Matthias Siegrist ', ' Peter Leuzinger ', ' Peter Preibisch ']",Pop
-Pratteln,Mastodon,2014-12-11,['Mastodon '],
-Basel,Nils-Landgren,2014-12-11,['Nils Landgren '],
-Baden,Ghost-Town-Trio,2014-12-11,"[' Urs Vögeli ', ' Claude Meier ', ' Lukas Mantel ']",
-Winterthur,The-bianca-Story,2014-12-11,"[' Elia Rediger ', ' Anna Gosteli ', ' Joël Fonsegrive ', ' Fabian Chiquet ', ' Jonas Wolf ', ' Lorenz Hunziker ']",Pop
-Aarau,Rosset-Meyer-Geiger,2014-12-11,"[' Josquin Rosset ', ' Gabriel Meyer ', ' Jan Geiger ']",
-Winterthur,Janetts-Jazzmusik-Baukasten,2014-12-11,"[' Marvin Trummer ', ' Marena Whitcher ', ' Niculin Janett ']",
-Solothurn,Jeffrey-Foucault-&-Billy-Conway,2014-12-11,"['Jeffrey Foucault & Billy Conway ', ' Caitlin Canty ']",
-Bern,Heisskalt,2014-12-11,"['Heisskalt ', ' Blackout Problems ']",
-Zürich,Blick-am-Abend-Shooting-Star-VI,2014-12-11,"['The Love Bülow ', ' Jesper Munk ']",
-Schaffhausen,Ringswandl,2014-12-11,['Ringswandl '],Pop
-Luzern,Workshopkonzerte,2014-12-11,"[' Nina Reiter ', ' Yannick Keel ', ' Stefan Guggisberg ', ' Demian Coca Guzman ', ' Mathias Brandenberger ']",
-Zürich,Heat,2014-12-11,['Heat '],
-Baden,Kieran-Goss,2014-12-11,['Kieran Goss '],Pop
-Liebefeld,Aaron-Goldberg-Trio,2014-12-11,"[' Aaron Goldberg ', ' Reuben Rogers ', ' Eric Harland ']",
-Zürich,Théo-Duboule-Octet,2014-12-11,"[' Louis Billette ', ' Léon Phal ', ' Clément Meunier ']",
-Basel,Scherrer-Evans-Kurmann-Rossy,2014-12-11,"['Andy Scherrer ', ' William Evans ', ' Stephan Kurmann ', ' Jorge Rossy ']",
-Rubigen,Moreland-&-Arbuckle,2014-12-11,['Moreland & Arbuckle '],
-null,Trio-Heinz-Herbert,2014-12-11,[' Melt Trio '],
-Zürich,Little-Tornados,2014-12-11,['Little Tornados '],Pop
-Basel,Nachtstrom-71,2014-12-11,['Eva Zöllner '],Classic
-Zürich,Tom-Russell,2014-12-11,['Tom Russell '],
-Vevey,The-Excitements,2014-12-11,['The Excitements '],
-Zürich,Monoglot,2014-12-11,"[' Kristinn Smári Kristinsson ', ' Fabian Willmann ', ' Sebastian von Keler ']",
+,location,event,date,artists,genre
+0,Luzern,Isaak,2014-12-11,['Isaak '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Basel,Advents-und-Weihnachtslieder-zum-Mitsingen,2014-12-11,"['Ilze Paegle ', ' Fran?oise Matile ']",['Classic']
+2,Z?rich,Thursday-Night-Jazz,2014-12-11,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+3,Bern,Zigeunerweisen,2014-12-11,"[' Carlos Johnson ', ' Carolina Krogius ']",['Classic']
+4,Aarau,2-x-Magnificat,2014-12-11,"[' Christine Esser ', ' Mirjam Blessing ', ' Erlend Tvinnereim ', ' Ernst Buscagne ']",['Classic']
+5,Z?rich,A-Concert-With-or-Without-You,2014-12-11,"['Fabian Gisler ', ' Michael Jaeger ', ' San Keller ']","['Jazz', 'Blues', 'Soul']"
+6,Zug,Irish-Christmas-Festival,2014-12-11,[' Alisha McMahon '],"['world', 'music']"
+7,Z?rich,Shaka-Ponk,2014-12-11,['Shaka Ponk '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Basel,Stellamar,2014-12-11,"[' Marcel Kruzi Wyss ', ' Basso Salerno ']","['Jazz', 'Blues', 'Soul']"
+9,Pratteln,Mastodon,2014-12-11,['Mastodon '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Basel,Nils-Landgren,2014-12-11,['Nils Landgren '],"['Jazz', 'Blues', 'Soul']"
+11,null,Dirtmusic,2014-12-11,"['Dirtmusic ', ' Baba Sissoko ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Z?rich,Voices-of-Africa,2014-12-11,"[' Nomandla Hallam ', ' Resistance Maziwisa ', ' Siyabonga Zethu ', ' Sibussio Kili ', ' Mabukane ', ' Siphesihle Makinana ']",['Pop']
+13,Z?rich,Sting-Operation,2014-12-11,"[' Felix Straumann ', ' Matthias Siegrist ', ' Peter Leuzinger ', ' Peter Preibisch ']",['Pop']
+14,Basel,Weihnachtskonzert,2014-12-11,['Die Paldauer '],['traditional']
+15,Winterthur,The-bianca-Story,2014-12-11,"[' Elia Rediger ', ' Anna Gosteli ', ' Jo?l Fonsegrive ', ' Fabian Chiquet ', ' Jonas Wolf ', ' Lorenz Hunziker ']",['Pop']
+16,Baden,Ghost-Town-Trio,2014-12-11,"[' Urs V?geli ', ' Claude Meier ', ' Lukas Mantel ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Aarau,Rosset-Meyer-Geiger,2014-12-11,"[' Josquin Rosset ', ' Gabriel Meyer ', ' Jan Geiger ']","['Jazz', 'Blues', 'Soul']"
+18,Winterthur,Janetts-Jazzmusik-Baukasten,2014-12-11,"[' Marvin Trummer ', ' Marena Whitcher ', ' Niculin Janett ']","['Jazz', 'Blues', 'Soul']"
+19,Solothurn,Jeffrey-Foucault-&-Billy-Conway,2014-12-11,"[' Billy Conway ', ' Caitlin Canty ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Bern,Heisskalt,2014-12-11,"['Heisskalt ', ' Blackout Problems ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Baden,Kieran-Goss,2014-12-11,['Kieran Goss '],['Pop']
+22,Luzern,Workshopkonzerte,2014-12-11,"[' Nina Reiter ', ' Yannick Keel ', ' Stefan Guggisberg ', ' Demian Coca Guzman ', ' Mathias Brandenberger ']","['Jazz', 'Blues', 'Soul']"
+23,Z?rich,Th?o-Duboule-Octet,2014-12-11,"[' Louis Billette ', ' L?on Phal ', ' Cl?ment Meunier ']","['Jazz', 'Blues', 'Soul']"
+24,Schaffhausen,Ringswandl,2014-12-11,['Ringswandl '],['Pop']
+25,Basel,Scherrer-Evans-Kurmann-Rossy,2014-12-11,"['Andy Scherrer ', ' William Evans ', ' Stephan Kurmann ', ' Jorge Rossy ']","['Jazz', 'Blues', 'Soul']"
+26,Z?rich,Blick-am-Abend-Shooting-Star-VI,2014-12-11,"['The Love B?low ', ' Jesper Munk ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Z?rich,Heat,2014-12-11,['Heat '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Liebefeld,Aaron-Goldberg-Trio,2014-12-11,"[' Aaron Goldberg ', ' Reuben Rogers ', ' Eric Harland ']","['Jazz', 'Blues', 'Soul']"
+29,Z?rich,Little-Tornados,2014-12-11,['Little Tornados '],['Pop']
+30,Z?rich,Tom-Russell,2014-12-11,['Tom Russell '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Rubigen,Moreland-&-Arbuckle,2014-12-11,[' Arbuckle '],"['Jazz', 'Blues', 'Soul']"
+32,Vevey,The-Excitements,2014-12-11,['The Excitements '],"['Hip', 'Hop', ""R'n'B""]"
+33,Basel,Nachtstrom-71,2014-12-11,['Eva Z?llner '],['Classic']
+34,null,Trio-Heinz-Herbert,2014-12-11,[' Melt Trio '],"['Jazz', 'Blues', 'Soul']"
+35,Z?rich,Monoglot,2014-12-11,"[' Kristinn Sm?ri Kristinsson ', ' Fabian Willmann ', ' Sebastian von Keler ']","['Jazz', 'Blues', 'Soul']"

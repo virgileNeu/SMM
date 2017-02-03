@@ -1,28 +1,28 @@
-location,event,date,artists,genre
-null,Nordklang-Festival,2015-02-08,"['Get Your Gun ', ' Lydmor ']",Electronic
-Basel,Basler-Streichquartett,2015-02-08,[' Jan Schultsz '],Classic
-Zürich,Die-Original-jungen-Helden,2015-02-08,['Die Original jungen Helden '],traditional
-Ennetbürgen,Bürgenstock-Momente-Winterfestival,2015-02-08,"['Milos Karadaglic ', ' Linus Roth ', ' Maximilian Hornung ', ' José Gallardo ']",Classic
-Zürich,Brunchkonzert,2015-02-08,"[' Malin Hartelius ', ' Daniel Kagerer ']",Classic
-Bern,Philipp-Moll,2015-02-08,"[' Philipp Moll ', ' Stewy von Wattenwyl ', ' Kevin Chesham ', ' Nick Perrin ']",
-Zürich,Benefizkonzert-für-das-Kinderspital,2015-02-08,"['Xoán Elías ', ' Castiñeira ', ' Timo Langpap ']",
-Allschwil,Musik-und-Wort-Mit-Bach-ohne-Bass-and-der-Kriegsfront-Belgien-1916,2015-02-08,"['Daphné Schneider ', ' John P. MacKeown ']",Classic
-Basel,Winterreise,2015-02-08,"['Jakob Pilgram ', ' Mischa Sutter ']",Classic
-Rafz,Mario-Batkovic,2015-02-08,['Mario Batkovic '],
-Allschwil,Jahreskonzert,2015-02-08,"[' Franziska Kerler ', ' Stephanie Meitzner ']",Classic
-Basel,Clair-de-lune,2015-02-08,['Phillip Lefebvre '],Classic
-Luzern,Klassik-Lounge,2015-02-08,"['Andreas Ottensamer ', ' José Gallardo ', ' Milo Karadaglic ', ' Linus Roth ', ' Christoph Koncz ']",Classic
-Zürich,Artist-in-Residence-Martin-Lorenz,2015-02-08,"[' Christoph Gallio ', ' Jürg Wickihalder ', ' Martin Lorenz ', ' Rafael Rütti ', ' Tobias Gerber ']",Electronic
-Basel,Okou,2015-02-08,"['Okou ', ' Nick Broadhurst ']",Electronic
-null,Salsa-&-Pasta-Special,2015-02-08,['DJ Pedro '],
-Zürich,Kammermusik-Soiree,2015-02-08,"['Klaus Mertens ', ' Ton Koopman ', ' Tini Mathot ']",Classic
-Chur,Wasser-&-Luft,2015-02-08,"['Irina Ungureanu ', ' Riccarda Caflisch ', ' Manfred Spitaler ', ' David Sontòn Caflisch ', ' Christian Hieronymi ', ' Asiya Ahmetjanova ', ' Guy Frisch ']",Classic
-Zürich,Haaga-Folk-Machine,2015-02-08,['Haaga Folk Machine '],
-Bern,Augen-in-der-Grossstadt,2015-02-08,"['Sonja Indin ', ' Isora Castilla ']",Pop
-Basel,Crippled-Symmetry,2015-02-08,"[' Christoph Bösch ', ' Daniel Buess ', ' Jürg Henneberger ']",Classic
-Zürich,Denn-wie-man-sich-bettet-Ein-kurtweilliger-Liederabend,2015-02-08,"['Christian Jott Jenny ', ' Edward Rushton ']",Pop
-null,Wild-Territories,2015-02-08,"['Daniel Koschitzki ', ' Andrea Ritter ', ' Stefan Glaus ', ' Victor Plumettaz ', ' Mischa Cheung ']",Classic
-Bern,Bombino,2015-02-08,['Bombino '],
-Zürich,Swanky-Mothers'-Series-XXIII,2015-02-08,"['Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
-Basel,Enrico-Rava-Quintet-feat.-Giovanni-Giudi,2015-02-08,['Enrico Rava Quintet feat. Giovanni Giudi '],
-Zürich,Benny's-From-Heaven,2015-02-08,"[' Dave Ruosch ', ' Kalli Gerhards ', ' Martin Meyer ', ' Simon Wyrsch ']",
+,location,event,date,artists,genre
+0,null,Nordklang-Festival,2015-02-08,"['Get Your Gun ', ' Lydmor ']",['Electronic']
+1,Ennetb?rgen,B?rgenstock-Momente-Winterfestival,2015-02-08,"['Milos Karadaglic ', ' Linus Roth ', ' Maximilian Hornung ', ' Jos? Gallardo ']",['Classic']
+2,Basel,Basler-Streichquartett,2015-02-08,[' Jan Schultsz '],['Classic']
+3,Z?rich,Die-Original-jungen-Helden,2015-02-08,['Die Original jungen Helden '],['traditional']
+4,Z?rich,Brunchkonzert,2015-02-08,"[' Malin Hartelius ', ' Daniel Kagerer ']",['Classic']
+5,Bern,Philipp-Moll,2015-02-08,"[' Philipp Moll ', ' Stewy von Wattenwyl ', ' Kevin Chesham ', ' Nick Perrin ']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Benefizkonzert-f?r-das-Kinderspital,2015-02-08,"['Xo?n El?as ', ' Casti?eira ', ' Timo Langpap ']","['Jazz', 'Blues', 'Soul']"
+7,Rafz,Mario-Batkovic,2015-02-08,['Mario Batkovic '],"['Jazz', 'Blues', 'Soul']"
+8,Basel,Winterreise,2015-02-08,"['Jakob Pilgram ', ' Mischa Sutter ']",['Classic']
+9,Allschwil,Musik-und-Wort-Mit-Bach-ohne-Bass-and-der-Kriegsfront-Belgien-1916,2015-02-08,"['Daphn? Schneider ', ' John P. MacKeown ']",['Classic']
+10,Allschwil,Jahreskonzert,2015-02-08,"[' Franziska Kerler ', ' Stephanie Meitzner ']",['Classic']
+11,Basel,Clair-de-lune,2015-02-08,['Phillip Lefebvre '],['Classic']
+12,Luzern,Klassik-Lounge,2015-02-08,"['Andreas Ottensamer ', ' Jos? Gallardo ', ' Milo Karadaglic ', ' Linus Roth ', ' Christoph Koncz ']",['Classic']
+13,Z?rich,Artist-in-Residence-Martin-Lorenz,2015-02-08,"[' Christoph Gallio ', ' J?rg Wickihalder ', ' Martin Lorenz ', ' Rafael R?tti ', ' Tobias Gerber ']",['Electronic']
+14,Basel,Okou,2015-02-08,"['Okou ', ' Nick Broadhurst ']",['Electronic']
+15,null,Salsa-&-Pasta-Special,2015-02-08,['DJ Pedro '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+16,Z?rich,Kammermusik-Soiree,2015-02-08,"['Klaus Mertens ', ' Ton Koopman ', ' Tini Mathot ']",['Classic']
+17,Bern,Bombino,2015-02-08,['Bombino '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Chur,Wasser-&-Luft,2015-02-08,"['Irina Ungureanu ', ' Riccarda Caflisch ', ' Manfred Spitaler ', ' David Sont?n Caflisch ', ' Christian Hieronymi ', ' Asiya Ahmetjanova ', ' Guy Frisch ']",['Classic']
+19,null,Wild-Territories,2015-02-08,"['Daniel Koschitzki ', ' Andrea Ritter ', ' Stefan Glaus ', ' Victor Plumettaz ', ' Mischa Cheung ']",['Classic']
+20,Bern,Augen-in-der-Grossstadt,2015-02-08,"['Sonja Indin ', ' Isora Castilla ']",['Pop']
+21,Z?rich,Haaga-Folk-Machine,2015-02-08,['Haaga Folk Machine '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Z?rich,Denn-wie-man-sich-bettet-Ein-kurtweilliger-Liederabend,2015-02-08,"['Christian Jott Jenny ', ' Edward Rushton ']",['Pop']
+23,Basel,Crippled-Symmetry,2015-02-08,"[' Christoph B?sch ', ' Daniel Buess ', ' J?rg Henneberger ']",['Classic']
+24,Z?rich,Swanky-Mothers'-Series-XXIII,2015-02-08,"['Jonas Labhart ', ' Marius Peyer ', ' Urs V?geli ']","['Jazz', 'Blues', 'Soul']"
+25,Basel,Enrico-Rava-Quintet-feat.-Giovanni-Giudi,2015-02-08,['Enrico Rava Quintet feat. Giovanni Giudi '],"['Jazz', 'Blues', 'Soul']"
+26,Z?rich,Benny's-From-Heaven,2015-02-08,"[' Dave Ruosch ', ' Kalli Gerhards ', ' Martin Meyer ', ' Simon Wyrsch ']","['Jazz', 'Blues', 'Soul']"

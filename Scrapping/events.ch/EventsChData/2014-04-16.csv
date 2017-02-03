@@ -1,12 +1,12 @@
-location,event,date,artists,genre
-Brugg,Passionskonzert-Requiem,2014-04-16,"[' Trudy Walter ', ' Ingrid Alexandre ', ' Raimund Wiederkehr ', ' Fabrice Raviola ']",Classic
-Zürich,Shaka-Ponk,2014-04-16,['Shaka Ponk '],
-Zürich,Paolo-Fresu-&-A-Filetta,2014-04-16,['Paolo Fresu & A Filetta '],
-Basel,Reptile-Youth,2014-04-16,['Reptile Youth '],Pop
-Zürich,Justin-Timberlake,2014-04-16,['Justin Timberlake '],Pop
-Winterthur,Jazz-am-Mittwoch,2014-04-16,"[' Fritz Hauser ', ' Lucas Niggli ', ' Peter Conradin Zumthor ']",
-Thun,Barzin,2014-04-16,['Barzin '],
-Aarau,The-Veils,2014-04-16,['The Veils '],
-Zürich,La-Pegatina,2014-04-16,['La Pegatina '],
-Zürich,Klaus-Koenig-Trio,2014-04-16,"[' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']",
-Rubigen,Canned-Heat,2014-04-16,['Canned Heat '],
+,location,event,date,artists,genre
+0,Brugg,Passionskonzert-Requiem,2014-04-16,"[' Trudy Walter ', ' Ingrid Alexandre ', ' Raimund Wiederkehr ', ' Fabrice Raviola ']",['Classic']
+1,Z?rich,Paolo-Fresu-&-A-Filetta,2014-04-16,[' A Filetta '],"['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Shaka-Ponk,2014-04-16,['Shaka Ponk '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,Justin-Timberlake,2014-04-16,['Justin Timberlake '],['Pop']
+4,Basel,Reptile-Youth,2014-04-16,['Reptile Youth '],['Pop']
+5,Winterthur,Jazz-am-Mittwoch,2014-04-16,"[' Fritz Hauser ', ' Lucas Niggli ', ' Peter Conradin Zumthor ']","['Jazz', 'Blues', 'Soul']"
+6,Thun,Barzin,2014-04-16,['Barzin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Aarau,The-Veils,2014-04-16,['The Veils '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Z?rich,La-Pegatina,2014-04-16,['La Pegatina '],"['world', 'music']"
+9,Z?rich,Klaus-Koenig-Trio,2014-04-16,"[' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']","['Jazz', 'Blues', 'Soul']"
+10,Rubigen,Canned-Heat,2014-04-16,['Canned Heat '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

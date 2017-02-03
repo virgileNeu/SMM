@@ -1,24 +1,24 @@
-location,event,date,artists,genre
-Interlaken,Greenfield-Festival,2014-06-12,['Linkin Park '],
-Basel,Masterrezital,2014-06-12,[' Giancarlo Nicolai '],Classic
-Kriens,B-Sides-Festival,2014-06-12,['Caribou '],Electronic
-null,Festi'neuch,2014-06-12,"['The Offspring ', ' The Hives ', ' Brns ']",
-Kriens,B-Sides-Festival,2014-06-12,"['Daniel Bachman ', "" Molam DJ's ""]",
-Basel,Masterrezital,2014-06-12,[' Judith Wegmann '],Classic
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-12,"['Florent Vollant ', ' Samian ']",Pop
-Basel,Masterrezital,2014-06-12,[' Francesco Maria Moncher '],Classic
-Basel,Masterrezital,2014-06-12,[' Faristamo Susi '],Classic
-Bern,Neighbours,2014-06-12,['Werkstatt Improvisierte Musik Bern '],
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-12,['Roch Voisine '],Pop
-Thun,Schlosskonzerte-Thun,2014-06-12,"[' Vilde Frang ', ' Lawrence Power ']",Classic
-Pratteln,Billy-Idol,2014-06-12,['Billy Idol '],
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-12,"['Michel Thériault ', ' Caroline Desbiens ']",Pop
-Basel,Karnatik-and-Hindustani,2014-06-12,"['Piu Nandi ', ' Rohan Dasgupta ', ' Arvind Bhargav ', ' Guru Raghvendra ', ' Udai Mazumdar ']",
-null,Pink-Mountaintops,2014-06-12,"['Pink Mountaintops ', ' Vundabar ']",
-Zürich,Together-Pangea,2014-06-12,['Together Pangea '],
-Winterthur,Traveling-Birds,2014-06-12,"[' Eva Buchmann ', ' Sonja Huber ']",
-Basel,Adrian-Mears-Electric-Trio,2014-06-12,"[' Adrian Mears ', ' Thomas Stieger ', ' Daniel Mudrack ']",
-Zürich,Japrazz,2014-06-12,"[' Pablo Vögtli ', ' Timo Keller ', ' Markus Aregger ', ' Jery Sigrist ', ' Rafael Fluri ', ' Nick Furrer ']",
-Bern,Against-Me,2014-06-12,['Against Me '],
-Zürich,Brian-Smith,2014-06-12,['Brian Smith '],
-Zürich,Mutefish,2014-06-12,['Mutefish '],
+,location,event,date,artists,genre
+0,Interlaken,Greenfield-Festival,2014-06-12,['Linkin Park '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Basel,Masterrezital,2014-06-12,[' Giancarlo Nicolai '],['Classic']
+2,null,Festi'neuch,2014-06-12,"['The Offspring ', ' The Hives ', ' Brns ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Kriens,B-Sides-Festival,2014-06-12,['Caribou '],['Electronic']
+4,Kriens,B-Sides-Festival,2014-06-12,"['Daniel Bachman ', "" Molam DJ's ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Basel,Masterrezital,2014-06-12,[' Judith Wegmann '],['Classic']
+6,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-12,"['Florent Vollant ', ' Samian ']",['Pop']
+7,Basel,Masterrezital,2014-06-12,[' Francesco Maria Moncher '],['Classic']
+8,Basel,Masterrezital,2014-06-12,[' Faristamo Susi '],['Classic']
+9,Pratteln,Billy-Idol,2014-06-12,['Billy Idol '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Z?rich,Together-Pangea,2014-06-12,['Together Pangea '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Thun,Schlosskonzerte-Thun,2014-06-12,"[' Vilde Frang ', ' Lawrence Power ']",['Classic']
+12,Basel,Karnatik-and-Hindustani,2014-06-12,"['Piu Nandi ', ' Rohan Dasgupta ', ' Arvind Bhargav ', ' Guru Raghvendra ', ' Udai Mazumdar ']","['world', 'music']"
+13,null,Pink-Mountaintops,2014-06-12,"['Pink Mountaintops ', ' Vundabar ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Bern,Neighbours,2014-06-12,['Werkstatt Improvisierte Musik Bern '],"['Jazz', 'Blues', 'Soul']"
+15,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-12,['Roch Voisine '],['Pop']
+16,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-12,"['Michel Th?riault ', ' Caroline Desbiens ']",['Pop']
+17,Winterthur,Traveling-Birds,2014-06-12,"[' Eva Buchmann ', ' Sonja Huber ']","['Jazz', 'Blues', 'Soul']"
+18,Z?rich,Japrazz,2014-06-12,"[' Pablo V?gtli ', ' Timo Keller ', ' Markus Aregger ', ' Jery Sigrist ', ' Rafael Fluri ', ' Nick Furrer ']","['Hip', 'Hop', ""R'n'B""]"
+19,Basel,Adrian-Mears-Electric-Trio,2014-06-12,"[' Adrian Mears ', ' Thomas Stieger ', ' Daniel Mudrack ']","['Jazz', 'Blues', 'Soul']"
+20,Bern,Against-Me,2014-06-12,['Against Me '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Z?rich,Brian-Smith,2014-06-12,['Brian Smith '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Z?rich,Mutefish,2014-06-12,['Mutefish '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

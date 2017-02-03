@@ -1,34 +1,33 @@
-location,event,date,artists,genre
-Gstaad,Menuhin-Festival-Gstaad,2014-07-19,"['Charlotte Saluste-Bridoux ', ' Ben Tarlton ', ' So Hyun Park ']",Classic
-Verbier,Verbier-Festival,2014-07-19,"['Arabella Steinbacher ', ' Christian Zacharias ']",Classic
-Basel,Orgelmusik-über-Mittag,2014-07-19,['Tatjana Fuog '],Classic
-Schönbühl,Nek,2014-07-19,['Nek '],
-Verbier,Verbier-Festival,2014-07-19,"['Thomas Allen ', ' Caroline Dowdle ']",Classic
-Zürich,Oh-See,2014-07-19,"['Peggy Sue ', ' Kins ', ' Slut ', ' Gisbert zu Knyphausen & Kid Kopphausen Band ']",Pop
-null,Christophe-Maé-&-Tal,2014-07-19,['Christophe Maé & Tal '],Pop
-Luzern,Piano-Entertainment,2014-07-19,['Daniel Roos '],
-Luzern,Blue-Balls-Festival,2014-07-19,['Sleaford Mods '],
-Luzern,Blue-Balls-Festival,2014-07-19,['The Goon Mat & Lord Benardo '],
-Luzern,Blue-Balls-Festival,2014-07-19,['Thomas Schoeffler Jr. '],
-Uster,Sizilien-ist-überall,2014-07-19,"[' Letizia Fiorenza ', ' David Sautter ']",
-Verbier,Verbier-Festival,2014-07-19,[' Stephen Kovacevich '],Classic
-Verbier,Verbier-Festival,2014-07-19,"['Arabella Steinbacher ', ' Christian Zacharias ']",Classic
-Zürich,Piano-Masters,2014-07-19,['Alexey Lebedev '],Classic
-Luzern,Blue-Balls-Festival,2014-07-19,['Thea Scoti '],
-Feuerthalen,Maxwells-Dead,2014-07-19,"['Maxwells Dead ', ' support: Sean Arnold ']",
-Luzern,Blue-Balls-Festival,2014-07-19,['Passenger '],Pop
-Montreux,Montreux-Jazz-Festival,2014-07-19,['M '],Pop
-Allschwil,Klingende-Schatten,2014-07-19,['Fabian Manuel Müller '],
-Bern,Allan-Taylor,2014-07-19,['Allan Taylor '],Pop
-Montreux,Montreux-Jazz-Festival,2014-07-19,"['Thomas Dutronc ', ' Harri Stojka & Hot Club de Vienne ']",
-null,Stimmen,2014-07-19,['Billy Bragg '],Pop
-Verbier,Verbier-Festival,2014-07-19,"['Anne Sofie von Otter ', ' Bengt Forsberg ', ' Stian Carstensen ']",Pop
-Basel,Moroni-Bonisolo-Quartet,2014-07-19,"[' Robert Bonisolo ', ' Dado Moroni ', ' Stephan Kurmann ', ' Jorge Rossy ']",
-null,Kulturfestival-St.-Gallen,2014-07-19,['Meshell Ndegeocello '],
-Luzern,Blue-Balls-Festival,2014-07-19,['Travis '],Pop
-Montreux,Montreux-Jazz-Festival,2014-07-19,"['Ed Sheeran ', ' Mighty Oaks ']",Pop
-Locarno,Moon-and-Stars,2014-07-19,"['Sunrise Avenue ', ' Family of the Year ']",
-St.-Moritz,Festival-da-Jazz,2014-07-19,"['Mehliana ', ' Brad Mehldau ', ' Mark Guiliana ']",
-Vevey,Montreux-Jazz-Festival,2014-07-19,"['David Greilsammer ', ' Yaron Herman ']",
-Zürich,Abschlussball,2014-07-19,['Sexteto Hyperion '],
-St.-Moritz,Festival-da-Jazz,2014-07-19,"['Alex WIlson Trio ', ' Alex Wilson ', ' Leon Duncan ', ' Marc Halbheer ']",
+,location,event,date,artists,genre
+0,Gstaad,Menuhin-Festival-Gstaad,2014-07-19,"['Charlotte Saluste-Bridoux ', ' Ben Tarlton ', ' So Hyun Park ']",['Classic']
+1,Verbier,Verbier-Festival,2014-07-19,"['Arabella Steinbacher ', ' Christian Zacharias ']",['Classic']
+2,Basel,Orgelmusik-?ber-Mittag,2014-07-19,['Tatjana Fuog '],['Classic']
+3,Sch?nb?hl,Nek,2014-07-19,['Nek '],"['world', 'music']"
+4,Verbier,Verbier-Festival,2014-07-19,"['Thomas Allen ', ' Caroline Dowdle ']",['Classic']
+5,null,Christophe-Ma?-&-Tal,2014-07-19,[' Tal '],['Pop']
+6,Luzern,Blue-Balls-Festival,2014-07-19,['Thomas Schoeffler Jr. '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Luzern,Blue-Balls-Festival,2014-07-19,['Sleaford Mods '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Luzern,Blue-Balls-Festival,2014-07-19,[' Lord Benardo '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Luzern,Piano-Entertainment,2014-07-19,['Daniel Roos '],"['Hip', 'Hop', ""R'n'B""]"
+10,Verbier,Verbier-Festival,2014-07-19,[' Stephen Kovacevich '],['Classic']
+11,Verbier,Verbier-Festival,2014-07-19,"['Arabella Steinbacher ', ' Christian Zacharias ']",['Classic']
+12,Uster,Sizilien-ist-?berall,2014-07-19,"[' Letizia Fiorenza ', ' David Sautter ']","['world', 'music']"
+13,Z?rich,Piano-Masters,2014-07-19,['Alexey Lebedev '],['Classic']
+14,Luzern,Blue-Balls-Festival,2014-07-19,['Thea Scoti '],"['Jazz', 'Blues', 'Soul']"
+15,Verbier,Verbier-Festival,2014-07-19,"['Anne Sofie von Otter ', ' Bengt Forsberg ', ' Stian Carstensen ']",['Pop']
+16,Bern,Allan-Taylor,2014-07-19,['Allan Taylor '],['Pop']
+17,Feuerthalen,Maxwells-Dead,2014-07-19,"['Maxwells Dead ', ' support: Sean Arnold ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,null,Stimmen,2014-07-19,['Billy Bragg '],['Pop']
+19,Luzern,Blue-Balls-Festival,2014-07-19,['Passenger '],['Pop']
+20,Montreux,Montreux-Jazz-Festival,2014-07-19,['M '],['Pop']
+21,Montreux,Montreux-Jazz-Festival,2014-07-19,[' Hot Club de Vienne '],"['Jazz', 'Blues', 'Soul']"
+22,Allschwil,Klingende-Schatten,2014-07-19,['Fabian Manuel M?ller '],"['Jazz', 'Blues', 'Soul']"
+23,Luzern,Blue-Balls-Festival,2014-07-19,['Travis '],['Pop']
+24,Locarno,Moon-and-Stars,2014-07-19,"['Sunrise Avenue ', ' Family of the Year ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Montreux,Montreux-Jazz-Festival,2014-07-19,"['Ed Sheeran ', ' Mighty Oaks ']",['Pop']
+26,null,Kulturfestival-St.-Gallen,2014-07-19,['Meshell Ndegeocello '],"['Hip', 'Hop', ""R'n'B""]"
+27,Basel,Moroni-Bonisolo-Quartet,2014-07-19,"[' Robert Bonisolo ', ' Dado Moroni ', ' Stephan Kurmann ', ' Jorge Rossy ']","['Jazz', 'Blues', 'Soul']"
+28,Vevey,Montreux-Jazz-Festival,2014-07-19,"['David Greilsammer ', ' Yaron Herman ']","['Jazz', 'Blues', 'Soul']"
+29,St.-Moritz,Festival-da-Jazz,2014-07-19,"['Mehliana ', ' Brad Mehldau ', ' Mark Guiliana ']","['Jazz', 'Blues', 'Soul']"
+30,Z?rich,Abschlussball,2014-07-19,['Sexteto Hyperion '],"['world', 'music']"
+31,St.-Moritz,Festival-da-Jazz,2014-07-19,"['Alex WIlson Trio ', ' Alex Wilson ', ' Leon Duncan ', ' Marc Halbheer ']","['Jazz', 'Blues', 'Soul']"

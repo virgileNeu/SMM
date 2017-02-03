@@ -1,32 +1,32 @@
-location,event,date,artists,genre
-Zürich,Ex-America-lux-Lunchkonzert,2014-02-20,"[' Andrzej Kilian ', ' Seiko Morishita ', ' Dominik Ostertag ', ' Anita Federli-Rutz ', ' Bernhard Parz  ']",Classic
-null,Internationales-Gitarrenfestival,2014-02-20,"[' Willy Riechsteiner ', ' Sebastien Fulgido ', ' Michael Zisman ']",
-null,Die-Geschichte-vom-Soldaten,2014-02-20,"['Rivgosch Biel ', ' Heidi Maria Glössner ']",Classic
-Zürich,Thursday-Night-Jazz,2014-02-20,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']",
-null,7.-Tonhallekonzert,2014-02-20,['Conductor: Howard Shelley '],Classic
-Zürich,Konzert,2014-02-20,[' Janine Jansen '],Classic
-Zürich,Internationales-Country-Music-Festival,2014-02-20,['Jo-El Sonnier & T. Graham Brown & Band '],
-Bern,Trompetenkonzert,2014-02-20,[' Tine Thing Helseth '],Classic
-Zürich,Ikarus,2014-02-20,"['Ikarus ', ' Stefanie Suhner ', ' Anderas Lareida ', ' Ramón Oliveras ']",
-Zürich,The-Deep-Dark-Woods,2014-02-20,['The Deep Dark Woods '],
-Zürich,Moderat,2014-02-20,"['Moderat ', ' Anstam ']",Electronic
-null,Nashville-Pussy,2014-02-20,['Nashville Pussy '],
-Basel,Mixed-Blessings,2014-02-20,"[' Samuel Stoll ', ' Moritz Müllenbach ', ' Simone Keller ']",Classic
-Basel,Portrait-Konzert-Balz-Trümpy,2014-02-20,"['Lena Kiepenheuer ', ' Nils Kohler ', ' Edward Rushton ']",Classic
-Luzern,Mondrian-Ensemble-weisse-Aepfel,2014-02-20,"[' Daniela Müller ', ' Petra Ackermann ', ' Karolina Oehman ']",Classic
-Luzern,Salonmusik,2014-02-20,"['Martin Schaefer ', ' Richard Decker ']",Classic
-Zürich,KT-Geier-Quartet-feat.-Georges-Burki,2014-02-20,"[' KT Geier ', ' Sabine Siegrist ', ' Frank Rösler ', ' Fredi Schmid ', ' Georges Burki ']",
-Winterthur,El-sexto-sentido,2014-02-20,[' Stummfilm von Nemesio M. Sobrevila '],
-Winterthur,Sarah-Buechi,2014-02-20,"[' Sarah Buechi ', ' Stefan Aey ', ' André Pousaz ', ' Lionel Friedli ']",
-Zürich,Der-Wawawa,2014-02-20,"[' Benedikt Reising ', ' Marco Müller ', ' Rico Baumann ']",
-Lausanne,Birdy,2014-02-20,['Birdy '],Pop
-Aarau,Isbells,2014-02-20,['Isbells '],
-Pratteln,The-Brew,2014-02-20,['The Brew '],
-Thun,Dirty-Purple-Turtle,2014-02-20,['Dirty Purple Turtle '],Electronic
-Liebefeld,Markus-Moser,2014-02-20,"[' Juan Munguia ', ' Markus Moser ', ' David Brito ', ' Silvano Borzachiello ', ' Cosimo Lampis ']",
-Bern,Santanico,2014-02-20,['Santanico '],
-Baden,Jazz-Rice-Performance,2014-02-20,"[' Lukas Valentin Gernet ', ' Rafael Jerjen ', ' Sheldon Suter ']",
-Zürich,Blockflöte-des-Todes,2014-02-20,['Blockflöte des Todes '],
-Lausanne,Pale-Grey,2014-02-20,['Pale Grey '],Pop
-Luzern,Wisdoom,2014-02-20,['Wisdoom '],
-Pontresina,Los-Latinos,2014-02-20,['Los Latinos '],
+,location,event,date,artists,genre
+0,Z?rich,Ex-America-lux-Lunchkonzert,2014-02-20,"[' Andrzej Kilian ', ' Seiko Morishita ', ' Dominik Ostertag ', ' Anita Federli-Rutz ', ' Bernhard Parz  ']",['Classic']
+1,null,Internationales-Gitarrenfestival,2014-02-20,"[' Willy Riechsteiner ', ' Sebastien Fulgido ', ' Michael Zisman ']","['Jazz', 'Blues', 'Soul']"
+2,null,Die-Geschichte-vom-Soldaten,2014-02-20,"['Rivgosch Biel ', ' Heidi Maria Gl?ssner ']",['Classic']
+3,null,7.-Tonhallekonzert,2014-02-20,['Conductor: Howard Shelley '],['Classic']
+4,Z?rich,Konzert,2014-02-20,[' Janine Jansen '],['Classic']
+5,Bern,Trompetenkonzert,2014-02-20,[' Tine Thing Helseth '],['Classic']
+6,Z?rich,Internationales-Country-Music-Festival,2014-02-20,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Thursday-Night-Jazz,2014-02-20,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+8,Z?rich,KT-Geier-Quartet-feat.-Georges-Burki,2014-02-20,"[' KT Geier ', ' Sabine Siegrist ', ' Frank R?sler ', ' Fredi Schmid ', ' Georges Burki ']","['Jazz', 'Blues', 'Soul']"
+9,Basel,Mixed-Blessings,2014-02-20,"[' Samuel Stoll ', ' Moritz M?llenbach ', ' Simone Keller ']",['Classic']
+10,Basel,Portrait-Konzert-Balz-Tr?mpy,2014-02-20,"['Lena Kiepenheuer ', ' Nils Kohler ', ' Edward Rushton ']",['Classic']
+11,Z?rich,The-Deep-Dark-Woods,2014-02-20,['The Deep Dark Woods '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Winterthur,El-sexto-sentido,2014-02-20,[' Stummfilm von Nemesio M. Sobrevila '],"['Jazz', 'Blues', 'Soul']"
+13,Luzern,Mondrian-Ensemble-weisse-Aepfel,2014-02-20,"[' Daniela M?ller ', ' Petra Ackermann ', ' Karolina Oehman ']",['Classic']
+14,Luzern,Salonmusik,2014-02-20,"['Martin Schaefer ', ' Richard Decker ']",['Classic']
+15,null,Nashville-Pussy,2014-02-20,['Nashville Pussy '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Z?rich,Ikarus,2014-02-20,"['Ikarus ', ' Stefanie Suhner ', ' Anderas Lareida ', ' Ram?n Oliveras ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Moderat,2014-02-20,"['Moderat ', ' Anstam ']",['Electronic']
+18,Winterthur,Sarah-Buechi,2014-02-20,"[' Sarah Buechi ', ' Stefan Aey ', ' Andr? Pousaz ', ' Lionel Friedli ']","['Jazz', 'Blues', 'Soul']"
+19,Baden,Jazz-Rice-Performance,2014-02-20,"[' Lukas Valentin Gernet ', ' Rafael Jerjen ', ' Sheldon Suter ']","['Jazz', 'Blues', 'Soul']"
+20,Lausanne,Birdy,2014-02-20,['Birdy '],['Pop']
+21,Aarau,Isbells,2014-02-20,['Isbells '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Pratteln,The-Brew,2014-02-20,['The Brew '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Z?rich,Der-Wawawa,2014-02-20,"[' Benedikt Reising ', ' Marco M?ller ', ' Rico Baumann ']","['Jazz', 'Blues', 'Soul']"
+24,Bern,Santanico,2014-02-20,['Santanico '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Liebefeld,Markus-Moser,2014-02-20,"[' Juan Munguia ', ' Markus Moser ', ' David Brito ', ' Silvano Borzachiello ', ' Cosimo Lampis ']","['Jazz', 'Blues', 'Soul']"
+26,Thun,Dirty-Purple-Turtle,2014-02-20,['Dirty Purple Turtle '],['Electronic']
+27,Z?rich,Blockfl?te-des-Todes,2014-02-20,['Blockfl?te des Todes '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Lausanne,Pale-Grey,2014-02-20,['Pale Grey '],['Pop']
+29,Luzern,Wisdoom,2014-02-20,['Wisdoom '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Pontresina,Los-Latinos,2014-02-20,['Los Latinos '],"['Hip', 'Hop', ""R'n'B""]"

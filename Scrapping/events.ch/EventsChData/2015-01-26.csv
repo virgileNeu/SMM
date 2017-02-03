@@ -1,16 +1,16 @@
-location,event,date,artists,genre
-Zürich,Glantaler-Power-Men,2015-01-26,['Glantaler Power Men '],traditional
-Zürich,Werkjahrkonzert-Musikkommission-der-Stadt-Zürich,2015-01-26,[' Srdjan Vukasinovic '],Classic
-Bern,Sous-les-étoiles,2015-01-26,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
-Basel,Bachelorkonzert,2015-01-26,[' Ana Maria Fonseca '],Classic
-Zürich,Migros-Kulturprozent-Classics,2015-01-26,[' Mélodie Zhao '],Classic
-Zürich,Mondnacht-7-Kunigundulakonfiguration,2015-01-26,"[' Beatrice Voellmy ', ' Peter Zimpel ', ' Claudia Weissbarth ', ' Max E. Keller ', ' Jean-Luc Darbellay ']",Classic
-null,Akku-Quintet,2015-01-26,"[' Thierry Lüthy ', ' Markus Ischer ', ' Maja Nydegger ', ' Andi Schnellmann ', ' Manuel Pasquinelli ']",
-Zürich,Roger-Hodgson,2015-01-26,['Roger Hodgson '],Pop
-Zürich,Andreas-Bourani,2015-01-26,['Andreas Bourani '],Pop
-Baden,Dominic-Egli's-Plurism-&-Feya-Faku,2015-01-26,"[' Feya Faku ', ' Donat Fisch ', ' Raffaele Bossard ', ' Dominic Egli ']",
-Ascona,Pee-Wee-Ellis-Assembly,2015-01-26,"[' Pee Wee Ellis ', ' Tony Rémy ', ' Peter Madsen ', ' Patrick Scales ', ' Guido May ']",
-Ascona,Pew-Wee-Ellis-Assembly,2015-01-26,"['Pew Wee Ellis Assembly ', ' Pee Wee Ellis ', ' Tony Rémy ', ' Peter Madsen ', ' Guido May ']",
-Winterthur,Jeff-Beadle,2015-01-26,['Jeff Beadle '],
-Basel,Jazzkollektiv,2015-01-26,"[' Ben Zahler ', ' Jasmin Albash ', ' Thomas Baumgartner ', ' Marco Nenninger ']",
-Luzern,David-Hope,2015-01-26,['David Hope '],
+,location,event,date,artists,genre
+0,Z?rich,Glantaler-Power-Men,2015-01-26,['Glantaler Power Men '],['traditional']
+1,Bern,Sous-les-?toiles,2015-01-26,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Werkjahrkonzert-Musikkommission-der-Stadt-Z?rich,2015-01-26,[' Srdjan Vukasinovic '],['Classic']
+3,Z?rich,Migros-Kulturprozent-Classics,2015-01-26,[' M?lodie Zhao '],['Classic']
+4,Z?rich,Mondnacht-7-Kunigundulakonfiguration,2015-01-26,"[' Beatrice Voellmy ', ' Peter Zimpel ', ' Claudia Weissbarth ', ' Max E. Keller ', ' Jean-Luc Darbellay ']",['Classic']
+5,Basel,Bachelorkonzert,2015-01-26,[' Ana Maria Fonseca '],['Classic']
+6,null,Akku-Quintet,2015-01-26,"[' Thierry L?thy ', ' Markus Ischer ', ' Maja Nydegger ', ' Andi Schnellmann ', ' Manuel Pasquinelli ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Andreas-Bourani,2015-01-26,['Andreas Bourani '],['Pop']
+8,Z?rich,Roger-Hodgson,2015-01-26,['Roger Hodgson '],['Pop']
+9,Baden,Dominic-Egli's-Plurism-&-Feya-Faku,2015-01-26,"[' Feya Faku ', ' Donat Fisch ', ' Raffaele Bossard ', ' Dominic Egli ']","['Jazz', 'Blues', 'Soul']"
+10,Ascona,Pee-Wee-Ellis-Assembly,2015-01-26,"[' Pee Wee Ellis ', ' Tony R?my ', ' Peter Madsen ', ' Patrick Scales ', ' Guido May ']","['Jazz', 'Blues', 'Soul']"
+11,Winterthur,Jeff-Beadle,2015-01-26,['Jeff Beadle '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Basel,Jazzkollektiv,2015-01-26,"[' Ben Zahler ', ' Jasmin Albash ', ' Thomas Baumgartner ', ' Marco Nenninger ']","['Jazz', 'Blues', 'Soul']"
+13,Ascona,Pew-Wee-Ellis-Assembly,2015-01-26,"['Pew Wee Ellis Assembly ', ' Pee Wee Ellis ', ' Tony R?my ', ' Peter Madsen ', ' Guido May ']","['Jazz', 'Blues', 'Soul']"
+14,Luzern,David-Hope,2015-01-26,['David Hope '],"['world', 'music']"

@@ -1,37 +1,37 @@
-location,event,date,artists,genre
-Basel,Französischer-Kammermusikabend,2015-03-05,"['Gérard Wyss ', ' Gunta Abele ']",Classic
-Zürich,Internationales-Country-Music-Festival,2015-03-05,['Truck Stop '],
-Zürich,Kitty-Daisy-&-Lewis,2015-03-05,"[' Daisy & Lewis ', ' The Dash ']",
-Winterthur,Aufbruch-in-die-Moderne,2015-03-05,[' Fabio Di Càsola '],Classic
-Bern,Mozart-,2015-03-05,[' Alina Pogostkina '],Classic
-Basel,AMG-Rising-Stars,2015-03-05,['Emanuele Buono '],Classic
-Zürich,Fenster-nach-Osten,2015-03-05,[' Sayaka Selina '],Classic
-Pratteln,Neal-Morse-&-Band,2015-03-05,['Neal Morse & Band '],
-null,Between-the-Beats-Festival,2015-03-05,"['Hundreds ', ' Pond ', ' Only Real ']",Pop
-Zürich,Murs,2015-03-05,['Murs '],
-Luzern,Electric-Force,2015-03-05,"[' Valerio Lepori ', ' Colin Morton ', ' Dominic Eschmann ', ' Benjamin Kieser ', ' Aurel Hassler ', ' Carla Fellinger ']",Electronic
-Zürich,Marcos-Buser-&-Julia-Schiwowa,2015-03-05,"[' Marcos Buser ', ' Andrei Ichtchenko ', ' Fridolin Blumer ', ' Julia Schiwowa ']",Pop
-Basel,Piaf,2015-03-05,"['Katharine Mehrling ', ' Katharine Mehrling ', ' Ferdinand von Seebach ', ' Jo Gehlmann ', ' Vassily Dück ', ' HD Lorenz ', ' Philipp Schmitt ']",Pop
-Zürich,Metronomy,2015-03-05,"['Metronomy ', ' support: Robbing Millions ']",Electronic
-Luzern,Mondnacht,2015-03-05,"['Patricia Brogli ', ' Buddy Stocker ', ' Marc Jaussi ']",Pop
-Luzern,Jeff-Beadle,2015-03-05,['Jeff Beadle '],
-Birsfelden,Abdullah-Shakar,2015-03-05,['Abdullah Shakar '],
-Winterthur,Trio-Wuh,2015-03-05,"[' Skip Wilkins ', ' Frantisek Uhlír ', ' Jaromir Helesic ']",
-Thun,Klangheimlich-Singer-Songwriter-Festival,2015-03-05,[' Roxanne de Bastion '],Pop
-Zürich,Joe-Bowie-&-XL-Target,2015-03-05,"[' KJ Dave Doran ', ' Christy Doran ', ' Joseph Bowie ', ' Dany Trutt ']",
-Liebefeld,Plan,2015-03-05,"[' Oliver Keller ', ' Björn Meyer ', ' Christian Niederer ']",
-Basel,Live-Jazz,2015-03-05,"[' Thomas Moeckel ', ' Dominik Schürmann ', ' Mike Turtle ', ' Walter Jauslin ']",
-Baden,Juan-Carlos-Duo,2015-03-05,"[' Juan Carlos ', ' Roland Waeger ']",
-Winterthur,We-Were-Promised-Jetpacks,2015-03-05,['We Were Promised Jetpacks '],
-Zürich,Triebherde,2015-03-05,"[' Omri Ziegele ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco Käppeli ', ' Dieter Ulrich ']",
-Zürich,Hugo-Brause,2015-03-05,"[' Pablo Lienhard ', ' Simon Boss ', ' Xaver Rüegg ', ' Adrian Böckli ']",
-Aarau,Brns,2015-03-05,['Brns '],Pop
-Baden,Jazz-am-Donnerstag,2015-03-05,"[' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-Basel,Brad-Leali-Claus-Raible-Quartet,2015-03-05,"[' Brad Leali ', ' Claus Raible ', ' Giorgos Antoniou ', ' Darrell Green ']",
-Lausanne,Asa,2015-03-05,['Asa '],
-Luzern,LJO-feat.-Kalle-Kalima,2015-03-05,"[' Karin Meier ', ' Florian Egli ', ' Tobias Meier ', ' Dave Blaser ']",
-Zürich,Weekend-Phantom,2015-03-05,['Weekend Phantom '],Pop
-Lausanne,The-Meatbodies,2015-03-05,['The Meatbodies '],
-Baden,Max-Prosa,2015-03-05,['Max Prosa '],Pop
-Basel,Council-Of-Rats,2015-03-05,['Council Of Rats '],
-Zürich,Phase-4,2015-03-05,"[' Tobias Pfister ', ' Dominik Beck ', ' Pascal Rüegger ', ' Paul Amereller ']",
+,location,event,date,artists,genre
+0,Basel,AMG-Rising-Stars,2015-03-05,['Emanuele Buono '],['Classic']
+1,Winterthur,Aufbruch-in-die-Moderne,2015-03-05,[' Fabio Di C?sola '],['Classic']
+2,Bern,Mozart-,2015-03-05,[' Alina Pogostkina '],['Classic']
+3,Z?rich,Kitty-Daisy-&-Lewis,2015-03-05,"[' Lewis ', ' The Dash ']","['Jazz', 'Blues', 'Soul']"
+4,Z?rich,Internationales-Country-Music-Festival,2015-03-05,['Truck Stop '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Basel,Franz?sischer-Kammermusikabend,2015-03-05,"['G?rard Wyss ', ' Gunta Abele ']",['Classic']
+6,Z?rich,Fenster-nach-Osten,2015-03-05,[' Sayaka Selina '],['Classic']
+7,Z?rich,Metronomy,2015-03-05,"['Metronomy ', ' support: Robbing Millions ']",['Electronic']
+8,null,Between-the-Beats-Festival,2015-03-05,"['Hundreds ', ' Pond ', ' Only Real ']",['Pop']
+9,Pratteln,Neal-Morse-&-Band,2015-03-05,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Birsfelden,Abdullah-Shakar,2015-03-05,['Abdullah Shakar '],"['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Marcos-Buser-&-Julia-Schiwowa,2015-03-05,"[' Marcos Buser ', ' Andrei Ichtchenko ', ' Fridolin Blumer ', ' Julia Schiwowa ']",['Pop']
+12,Luzern,Jeff-Beadle,2015-03-05,['Jeff Beadle '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Luzern,Electric-Force,2015-03-05,"[' Valerio Lepori ', ' Colin Morton ', ' Dominic Eschmann ', ' Benjamin Kieser ', ' Aurel Hassler ', ' Carla Fellinger ']",['Electronic']
+14,Basel,Piaf,2015-03-05,"['Katharine Mehrling ', ' Katharine Mehrling ', ' Ferdinand von Seebach ', ' Jo Gehlmann ', ' Vassily D?ck ', ' HD Lorenz ', ' Philipp Schmitt ']",['Pop']
+15,Z?rich,Murs,2015-03-05,['Murs '],"['Hip', 'Hop', ""R'n'B""]"
+16,Luzern,Mondnacht,2015-03-05,"['Patricia Brogli ', ' Buddy Stocker ', ' Marc Jaussi ']",['Pop']
+17,Winterthur,Trio-Wuh,2015-03-05,"[' Skip Wilkins ', ' Frantisek Uhl?r ', ' Jaromir Helesic ']","['Jazz', 'Blues', 'Soul']"
+18,Thun,Klangheimlich-Singer-Songwriter-Festival,2015-03-05,[' Roxanne de Bastion '],['Pop']
+19,Liebefeld,Plan,2015-03-05,"[' Oliver Keller ', ' Bj?rn Meyer ', ' Christian Niederer ']","['Jazz', 'Blues', 'Soul']"
+20,Baden,Juan-Carlos-Duo,2015-03-05,"[' Juan Carlos ', ' Roland Waeger ']","['world', 'music']"
+21,Z?rich,Hugo-Brause,2015-03-05,"[' Pablo Lienhard ', ' Simon Boss ', ' Xaver R?egg ', ' Adrian B?ckli ']","['Jazz', 'Blues', 'Soul']"
+22,Lausanne,Asa,2015-03-05,['Asa '],"['world', 'music']"
+23,Basel,Live-Jazz,2015-03-05,"[' Thomas Moeckel ', ' Dominik Sch?rmann ', ' Mike Turtle ', ' Walter Jauslin ']","['Jazz', 'Blues', 'Soul']"
+24,Winterthur,We-Were-Promised-Jetpacks,2015-03-05,['We Were Promised Jetpacks '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Luzern,LJO-feat.-Kalle-Kalima,2015-03-05,"[' Karin Meier ', ' Florian Egli ', ' Tobias Meier ', ' Dave Blaser ']","['Jazz', 'Blues', 'Soul']"
+26,Basel,Brad-Leali-Claus-Raible-Quartet,2015-03-05,"[' Brad Leali ', ' Claus Raible ', ' Giorgos Antoniou ', ' Darrell Green ']","['Jazz', 'Blues', 'Soul']"
+27,Baden,Jazz-am-Donnerstag,2015-03-05,"[' Christoph Baumann ', ' H?mi H?mmerli ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+28,Aarau,Brns,2015-03-05,['Brns '],['Pop']
+29,Z?rich,Joe-Bowie-&-XL-Target,2015-03-05,"[' KJ Dave Doran ', ' Christy Doran ', ' Joseph Bowie ', ' Dany Trutt ']","['Jazz', 'Blues', 'Soul']"
+30,Z?rich,Triebherde,2015-03-05,"[' Omri Ziegele ', ' J?rg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco K?ppeli ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+31,Lausanne,The-Meatbodies,2015-03-05,['The Meatbodies '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Baden,Max-Prosa,2015-03-05,['Max Prosa '],['Pop']
+33,Z?rich,Weekend-Phantom,2015-03-05,['Weekend Phantom '],['Pop']
+34,Basel,Council-Of-Rats,2015-03-05,['Council Of Rats '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Z?rich,Phase-4,2015-03-05,"[' Tobias Pfister ', ' Dominik Beck ', ' Pascal R?egger ', ' Paul Amereller ']","['Jazz', 'Blues', 'Soul']"

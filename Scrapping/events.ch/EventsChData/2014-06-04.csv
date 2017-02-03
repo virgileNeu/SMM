@@ -1,37 +1,37 @@
-location,event,date,artists,genre
-Basel,Mimiko-Trois-Epoques,2014-06-04,['Nicolas Venner '],Classic
-Basel,Mittagskonzert-Triple-HHH,2014-06-04,"['René Perler ', ' Tobias Schabenberger ']",Classic
-Basel,Masterrezital,2014-06-04,[' Amalia Lucia Pérez '],Classic
-Basel,Masterrezital,2014-06-04,[' Evgeniya Kossmann '],Classic
-Basel,Minor-Konzert,2014-06-04,"['Austin Kevin ', ' Thompson Simon ']",Classic
-Luzern,Piano-Entertainment,2014-06-04,['Daniel Roos '],
-Zürich,ZHdK-Masterprojekte-Musik-&-Bewegung,2014-06-04,"['Liliana Lafranchi ', ' Elisabeth Wetzel ', ' Martin Wildhaber ']",Classic
-Basel,Altstadt-Serenaden,2014-06-04,[' Lina Marcela López '],Classic
-Luzern,Masterabschluss-Konzert,2014-06-04,"[' Samuel Büttiker ', ' Toni Bechtold ', ' Samuel Leipold ', ' Lukas Traxel ']",
-Zürich,Timothy-Jaromir-feat.-Rykka,2014-06-04,"[' Timothy Jaromir ', ' Rykka ']",
-Basel,Rosenkavaliere,2014-06-04,[' Katia und Marielle Labèque '],Classic
-Bern,Konzert,2014-06-04,[' Nathalie Mittelbach '],Classic
-Basel,Masterrezital,2014-06-04,[' João Carlos Víctor Alves '],Classic
-Zürich,Beethoven-Zyklus-III,2014-06-04,[' Mitsuko Uchida '],Classic
-null,Blake-Worrell,2014-06-04,['Blake Worrell '],
-Zürich,We-Have-Band,2014-06-04,['We Have Band '],Electronic
-Bern,Occam's-Razor,2014-06-04,"[""Occam's Razor ""]",
-Luzern,We-Are-Scientists,2014-06-04,['We Are Scientists '],
-Zürich,Simon-Wyrsch-Quartett,2014-06-04,"[' Simon Wyrsch ', ' Dario Bianchin ', ' Fridolin Blumer ', ' Robert Mark ']",
-Zürich,Nine-Inch-Nails,2014-06-04,['Nine Inch Nails '],
-Basel,Ich-bin-die-Laute,2014-06-04,"['Rebecca Ockenden ', ' Orí Harmelin ']",Classic
-Zürich,Ryan-Keen,2014-06-04,['Ryan Keen '],Pop
-Winterthur,The-Fratellis,2014-06-04,['The Fratellis '],
-Frick,Dominic-Miller-and-Band,2014-06-04,['Dominic Miller and Band '],
-Basel,Masterrezital,2014-06-04,[' Péter Jánosházi '],Classic
-Zürich,The-Builders-&-The-Butchers,2014-06-04,['The Builders & The Butchers '],
-Zürich,De-l'excès-du-son,2014-06-04,"[' Brian Archinal ', ' Séverine Ballon ', ' Gary Berger ', ' Mats Scheidegger ', ' Simone Keller ']",Classic
-Basel,Alex-Hendriksen-Quartet,2014-06-04,"[' Alex Hendriksen ', ' Walter Jauslin ', ' Benedikt von der Mühll ', ' Michi Stulz ']",
-Zürich,Heymoonshakers,2014-06-04,"[' Andrew Balcon ', ' David Crowe ']",
-Zürich,Wo-Fat,2014-06-04,"['Wo Fat ', ' Mothership ']",
-Basel,Les-chercheurs-d'or,2014-06-04,"[""Les chercheurs d'or ""]",
-Lausanne,Disappears,2014-06-04,"['Disappears ', ' Yamantaka // Sonic Titan ']",
-Zürich,Renzo-Spotti-Trio,2014-06-04,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
-Rubigen,Ten-Years-After,2014-06-04,['Ten Years After '],
-Zürich,Jazzbaragge-Wednesday-Jam,2014-06-04,"['Sam Siegenthaler ', ' Pascal Kaeser ', ' J. J. Flueck ']",
-Zürich,Bukowski,2014-06-04,['Zachary Cale '],Pop
+,location,event,date,artists,genre
+0,Basel,Mimiko-Trois-Epoques,2014-06-04,['Nicolas Venner '],['Classic']
+1,Basel,Mittagskonzert-Triple-HHH,2014-06-04,"['Ren? Perler ', ' Tobias Schabenberger ']",['Classic']
+2,Basel,Masterrezital,2014-06-04,[' Amalia Lucia P?rez '],['Classic']
+3,Basel,Masterrezital,2014-06-04,[' Evgeniya Kossmann '],['Classic']
+4,Basel,Minor-Konzert,2014-06-04,"['Austin Kevin ', ' Thompson Simon ']",['Classic']
+5,Z?rich,ZHdK-Masterprojekte-Musik-&-Bewegung,2014-06-04,"['Liliana Lafranchi ', ' Elisabeth Wetzel ', ' Martin Wildhaber ']",['Classic']
+6,Luzern,Piano-Entertainment,2014-06-04,['Daniel Roos '],"['Hip', 'Hop', ""R'n'B""]"
+7,Basel,Altstadt-Serenaden,2014-06-04,[' Lina Marcela L?pez '],['Classic']
+8,Z?rich,Timothy-Jaromir-feat.-Rykka,2014-06-04,"[' Timothy Jaromir ', ' Rykka ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Luzern,Masterabschluss-Konzert,2014-06-04,"[' Samuel B?ttiker ', ' Toni Bechtold ', ' Samuel Leipold ', ' Lukas Traxel ']","['Jazz', 'Blues', 'Soul']"
+10,Basel,Rosenkavaliere,2014-06-04,[' Katia und Marielle Lab?que '],['Classic']
+11,Bern,Konzert,2014-06-04,[' Nathalie Mittelbach '],['Classic']
+12,Z?rich,Beethoven-Zyklus-III,2014-06-04,[' Mitsuko Uchida '],['Classic']
+13,Basel,Masterrezital,2014-06-04,[' Jo?o Carlos V?ctor Alves '],['Classic']
+14,Z?rich,We-Have-Band,2014-06-04,['We Have Band '],['Electronic']
+15,Z?rich,Simon-Wyrsch-Quartett,2014-06-04,"[' Simon Wyrsch ', ' Dario Bianchin ', ' Fridolin Blumer ', ' Robert Mark ']","['Jazz', 'Blues', 'Soul']"
+16,Bern,Occam's-Razor,2014-06-04,"[""Occam's Razor ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Z?rich,Nine-Inch-Nails,2014-06-04,['Nine Inch Nails '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Winterthur,The-Fratellis,2014-06-04,['The Fratellis '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Z?rich,Ryan-Keen,2014-06-04,['Ryan Keen '],['Pop']
+20,Luzern,We-Are-Scientists,2014-06-04,['We Are Scientists '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,null,Blake-Worrell,2014-06-04,['Blake Worrell '],"['Hip', 'Hop', ""R'n'B""]"
+22,Basel,Ich-bin-die-Laute,2014-06-04,"['Rebecca Ockenden ', ' Or? Harmelin ']",['Classic']
+23,Frick,Dominic-Miller-and-Band,2014-06-04,['Dominic Miller and Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Basel,Masterrezital,2014-06-04,[' P?ter J?nosh?zi '],['Classic']
+25,Z?rich,The-Builders-&-The-Butchers,2014-06-04,[' The Butchers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Z?rich,Heymoonshakers,2014-06-04,"[' Andrew Balcon ', ' David Crowe ']","['Hip', 'Hop', ""R'n'B""]"
+27,Basel,Alex-Hendriksen-Quartet,2014-06-04,"[' Alex Hendriksen ', ' Walter Jauslin ', ' Benedikt von der M?hll ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+28,Basel,Les-chercheurs-d'or,2014-06-04,"[""Les chercheurs d'or ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Z?rich,De-l'exc?s-du-son,2014-06-04,"[' Brian Archinal ', ' S?verine Ballon ', ' Gary Berger ', ' Mats Scheidegger ', ' Simone Keller ']",['Classic']
+30,Z?rich,Wo-Fat,2014-06-04,"['Wo Fat ', ' Mothership ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Rubigen,Ten-Years-After,2014-06-04,['Ten Years After '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Z?rich,Renzo-Spotti-Trio,2014-06-04,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+33,Z?rich,Bukowski,2014-06-04,['Zachary Cale '],['Pop']
+34,Lausanne,Disappears,2014-06-04,"['Disappears ', ' Yamantaka // Sonic Titan ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Z?rich,Jazzbaragge-Wednesday-Jam,2014-06-04,"['Sam Siegenthaler ', ' Pascal Kaeser ', ' J. J. Flueck ']","['Jazz', 'Blues', 'Soul']"

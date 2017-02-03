@@ -1,27 +1,27 @@
-location,event,date,artists,genre
-Basel,Mimiko-Adagio-cantabile,2014-12-10,"['Maximilian Haft ', ' Bobby Mitchell ']",Classic
-Luzern,Unter-dem-Kronleuchter-Santa-Lucia,2014-12-10,['Madelaine Wibom '],traditional
-Basel,Konzert,2014-12-10,"[' Daniela Müller ', ' Petra Ackermann ', ' Karolina Öhman ', ' Tamriko Kordzaia ']",Classic
-Basel,Flüssig-ö!-meets-Convergence,2014-12-10,[' Ernesto Molinari '],Classic
-Basel,Weihnachtskonzert-und-offenes-Singen,2014-12-10,[' Benedikt Rudolf von Rohr '],Classic
-Zürich,Jazzbaragge-Wednesday-Jam,2014-12-10,"['François Lana ', ' Fabien Iannone ', ' Jonas Ruther ']",
-Luzern,Jam-Session,2014-12-10,"[' Emilia Taubic ', ' Christian Winiker ', ' Thomas Tavano ', ' Faruk Muslijevic ', ' Sascha Frischknecht ']",
-Chur,Folkclub-Chur,2014-12-10,['Kieran Goss '],Pop
-Zug,Konzert,2014-12-10,['Mikhail Pletnev '],Classic
-null,Konzert,2014-12-10,"[' Beatrix Hülsemann ', ' Petra Müllejans ', ' Gottfried von der Goltz ']",Classic
-Zürich,Shantel-&-Bucovina-Club-Orkestar,2014-12-10,['Shantel & Bucovina Club Orkestar '],
-Zürich,Cafe-Moustache,2014-12-10,"[' Markus Tinner ', ' Mike Ryrie ', ' Philipp Bosshard ', ' Bruno Glaus ', ' Hannes Schneeberger ']",
-Zürich,Spuren,2014-12-10,"[' Anja Brezavscek ', ' Ellen Fallowfield ', ' Frankziska Fleischanderl ', ' Lukas Rickli ', ' works by Martin Wistinghausen ']",Classic
-Zürich,Young-Rebel-Set,2014-12-10,['Young Rebel Set '],
-Winterthur,Ghost-Town-Trio-feat.-Mara-Miccichè,2014-12-10,"[' Iokoi ', ' Urs Vögeli ', ' Claude Meier ', ' Emanuel Künzi ']",
-Bern,Pro-Pain,2014-12-10,"['Pro-Pain ', ' Powerstroke ']",
-Basel,Asmin,2014-12-10,"[' Gregor Frei ', ' Ran Wehrli ', ' Dave Gisler ', ' Pascal Ujak ', ' Maxime Paratte ']",
-null,Protest-the-Hero,2014-12-10,"['Protest the Hero ', ' The Faceless ', ' The Contortionist ']",
-Zürich,Urumchi,2014-12-10,"['Urumchi ', ' Saadet Türköz ', ' Hans Hassler ', ' Alfred Zimmerlin ', ' Freddy Studer ']",
-Winterthur,Isaak,2014-12-10,['Isaak '],
-Zürich,The-Wave-Picture,2014-12-10,['The Wave Picture '],
-Kriens,Salt-Cathedral,2014-12-10,['Salt Cathedral '],Pop
-Zürich,Bukowski,2014-12-10,['Warias '],
-Zürich,Jeffrey-Foucault-&-Billy-Conway,2014-12-10,"['Jeffrey Foucault & Billy Conway ', ' support: Caitlin Canty ']",Pop
-Zürich,Renzo-Spotti-Trio,2014-12-10,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
-Zürich,Vendredi-Soir-Swing,2014-12-10,"['Vendredi Soir Swing ', ' Valentin Baumgartner ', ' David Heizmann ', ' Jonas Künzli ', ' Andreas Bissig ']",
+,location,event,date,artists,genre
+0,Basel,Mimiko-Adagio-cantabile,2014-12-10,"['Maximilian Haft ', ' Bobby Mitchell ']",['Classic']
+1,Luzern,Unter-dem-Kronleuchter-Santa-Lucia,2014-12-10,[' Yvonne Lang '],['traditional']
+2,Basel,Konzert,2014-12-10,"[' Daniela M?ller ', ' Petra Ackermann ', ' Karolina ?hman ', ' Tamriko Kordzaia ']",['Classic']
+3,Basel,Fl?ssig-?!-meets-Convergence,2014-12-10,[' Ernesto Molinari '],['Classic']
+4,Basel,Weihnachtskonzert-und-offenes-Singen,2014-12-10,[' Benedikt Rudolf von Rohr '],['Classic']
+5,Luzern,Jam-Session,2014-12-10,"[' Emilia Taubic ', ' Christian Winiker ', ' Thomas Tavano ', ' Faruk Muslijevic ', ' Sascha Frischknecht ']","['Hip', 'Hop', ""R'n'B""]"
+6,Chur,Folkclub-Chur,2014-12-10,['Kieran Goss '],['Pop']
+7,Z?rich,Cafe-Moustache,2014-12-10,"[' Markus Tinner ', ' Mike Ryrie ', ' Philipp Bosshard ', ' Bruno Glaus ', ' Hannes Schneeberger ']","['Jazz', 'Blues', 'Soul']"
+8,Z?rich,Shantel-&-Bucovina-Club-Orkestar,2014-12-10,[' Bucovina Club Orkestar '],"['world', 'music']"
+9,Z?rich,Young-Rebel-Set,2014-12-10,['Young Rebel Set '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Z?rich,Jazzbaragge-Wednesday-Jam,2014-12-10,"['Fran?ois Lana ', ' Fabien Iannone ', ' Jonas Ruther ']","['Jazz', 'Blues', 'Soul']"
+11,Zug,Konzert,2014-12-10,['Mikhail Pletnev '],['Classic']
+12,Z?rich,Spuren,2014-12-10,"[' Anja Brezavscek ', ' Ellen Fallowfield ', ' Frankziska Fleischanderl ', ' Lukas Rickli ', ' works by Martin Wistinghausen ']",['Classic']
+13,null,Konzert,2014-12-10,"[' Beatrix H?lsemann ', ' Petra M?llejans ', ' Gottfried von der Goltz ']",['Classic']
+14,Winterthur,Ghost-Town-Trio-feat.-Mara-Miccich?,2014-12-10,"[' Iokoi ', ' Urs V?geli ', ' Claude Meier ', ' Emanuel K?nzi ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Urumchi,2014-12-10,"['Urumchi ', ' Saadet T?rk?z ', ' Hans Hassler ', ' Alfred Zimmerlin ', ' Freddy Studer ']","['Jazz', 'Blues', 'Soul']"
+16,Bern,Pro-Pain,2014-12-10,"['Pro-Pain ', ' Powerstroke ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Winterthur,Isaak,2014-12-10,['Isaak '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,null,Protest-the-Hero,2014-12-10,"['Protest the Hero ', ' The Faceless ', ' The Contortionist ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Basel,Asmin,2014-12-10,"[' Gregor Frei ', ' Ran Wehrli ', ' Dave Gisler ', ' Pascal Ujak ', ' Maxime Paratte ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Renzo-Spotti-Trio,2014-12-10,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+21,Z?rich,Jeffrey-Foucault-&-Billy-Conway,2014-12-10,"[' Billy Conway ', ' support: Caitlin Canty ']",['Pop']
+22,Z?rich,Bukowski,2014-12-10,['Warias '],"['world', 'music']"
+23,Z?rich,The-Wave-Picture,2014-12-10,['The Wave Picture '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Kriens,Salt-Cathedral,2014-12-10,['Salt Cathedral '],['Pop']
+25,Z?rich,Vendredi-Soir-Swing,2014-12-10,"['Vendredi Soir Swing ', ' Valentin Baumgartner ', ' David Heizmann ', ' Jonas K?nzli ', ' Andreas Bissig ']","['Jazz', 'Blues', 'Soul']"

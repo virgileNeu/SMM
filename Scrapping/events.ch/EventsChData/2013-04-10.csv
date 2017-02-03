@@ -1,37 +1,37 @@
-location,event,date,artists,genre
-Basel,Paroles-de-violes,2013-04-10,"['Lina Manrique ', ' Giovanna Baviera ']",Classic
-Obere-Matten,Zermatt,2013-04-10,['Faela '],Faela
-Cully,Cully-Jazz-Festival,2013-04-10,['Blitz The Ambassador '],
-Basel,Migros-Kulturproduzent-Classics,2013-04-10,"[' Marie-Nicole Lemieux ', ' Thomas Grossenbacher ']",Classic
-Zürich,Konzert,2013-04-10,[' Christian Tetzlaff '],Classic
-Bern,Unerhört,2013-04-10,"[' Raphael Christen ', ' Thomas Rüedi ', ' Oliver Waespi ']",Classic
-Bern,Internationales-Jazzfestival-Bern,2013-04-10,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']",
-Stans,Stanser-Musiktage,2013-04-10,"['Emily Loizeau ', ' Emily Loizeau ', ' Olivier Koundouno ', ' Csaba Palotai ', ' François Puyalto ', ' Cyril Aveque ']",Pop
-Bern,Metabolism,2013-04-10,"[' Laurent Méteau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Eliyah Reichen ', ' Samuel Huwyler ', ' Jwan Steiner ']",
-St.-Jakobshalle,Basel,2013-04-10,['Bushido '],Bushido
-Kuppel,Basel,2013-04-10,['Call Me Kat '],
-Turgi,Harfe-Violine-Visuelles,2013-04-10,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-null,Roger-Glaus-Trio,2013-04-10,"[' Roger Glaus ', ' Sandro Heule ', ' Mario Söldi ']",
-Komplex-457,Zürich,2013-04-10,"['Black Veil Brides ', "" Heaven's Basement ""]",
-Zürich,Stenson-Danielsson,2013-04-10,"[' Bobo Stenson ', ' Palle Danielsson ']",
-Cully-Jazz-Festival,Cully,2013-04-10,"['Lizz Wright ', ' Meshell Ndegeocello ', ' Kenny Banks ', ' Marvin Sewell ', "" Nicholas D'Amato "", ' Brannen Temple ', ' Michael Jerome ', ' Jebin Bruni ', ' Chris Bruce ']",
-Kammgarn,Schaffhausen,2013-04-10,['Carlos Núñez '],
-Zürich,Artist-in-Residence-Christoph-Irniger,2013-04-10,"[' Christoph Irniger ', ' Omri Ziegele ', ' Pascal Niggenkemper ', ' Alex Huber ']",
-Bern,Erik-Truffaz-Quartet-feat.-Anna-Aaron,2013-04-10,"[' Erik Truffaz ', ' Marcello Guiliani ', ' Marc Erbetta ', ' Benoît Corboz ', ' Anna Aaron ']",
-Obere-Matten,Zermatt,2013-04-10,['Die Fantastischen Vier '],
-Bern,Chris-Jagger-Acoustic-Roots,2013-04-10,['Chris Jagger Acoustic Roots '],
-Basel,Sonic-Calligraphy-feat.-Felix-Utzinger,2013-04-10,"[' Peggy Chew ', ' Felix Utzinger ', ' Adrian Frey ', ' Willy Kotoun ']",
-Zürich,The-Loodies,2013-04-10,['The Loodies '],
-Zürich,Gurus-of-Now,2013-04-10,"[' Fabian Gödri ', ' Philipp Leibacher ', ' Andres Cevallos ', ' Mathis Eigensatz ', ' Moritz Eigensatz ', ' Peter Baracchi ']",
-Cully,Cully-Jazz-Festival,2013-04-10,"[' Gauthier Toux ', ' Blaise Hommage ', ' Axel Lussiez ']",
-Cully,Cully-Jazz-Festival,2013-04-10,"[' Marc Sturzenegger ', ' Denis Michel ', ' Pierre Ponnaz ', ' Paul Kapp ', ' Patrick Perrier ', ' Jean-Jaques Chabloz ']",
-Grabenhalle,null,2013-04-10,['Jon Ladeau '],
-Cully,Cully-Jazz-Festival,2013-04-10,"[' Vincent Millioud ', ' Théo Känzig ', ' Slawek Plizga ', ' Valentin von Fischer ']",
-Zürich,Jazz-Baragge-Wednesday-Jam,2013-04-10,"['Claude Meier ', ' Michael Bucher ', ' Andreas Wettstein ']",
-Bar-3000,Zürich,2013-04-10,['The Great Park '],
-null,Action-Beat,2013-04-10,['Action Beat '],
-Basel,Yosvany-Quintero,2013-04-10,"[' Yosvany Descarga ', ' Markus Schmied ', ' Carlo Menger ', ' Michael Anklin ']",
-Theater-an-der-Mürg,Stans,2013-04-10,"['Get the Blessing ', ' Jake McMurchie ', ' Pete Judge ', ' Jim Barr ', ' Clive Deamer ']",
-Cully,Cully-Jazz-Festival,2013-04-10,"[' Jocelyne Rudasigwa ', ' Mathias Demoulin ', ' Manu Hagmann ', ' Ivor Malherbe ', ' Pierre-François Massy ', ' Jean-Yves Petiot ', ' Fabien Sevilla ']",
-Cully,Cully-Jazz-Festival,2013-04-10,['Bahur Ghazi '],
-Bern,Internationales-Jazzfestival-Bern,2013-04-10,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']",
+,location,event,date,artists,genre
+0,Basel,Paroles-de-violes,2013-04-10,"['Lina Manrique ', ' Giovanna Baviera ']",['Classic']
+1,Obere-Matten,Zermatt,2013-04-10,['Faela '],['Faela']
+2,Bern,Internationales-Jazzfestival-Bern,2013-04-10,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']","['Jazz', 'Blues', 'Soul']"
+3,Zürich,Konzert,2013-04-10,[' Christian Tetzlaff '],['Classic']
+4,Cully,Cully-Jazz-Festival,2013-04-10,['Blitz The Ambassador '],"['world', 'music']"
+5,Basel,Migros-Kulturproduzent-Classics,2013-04-10,"[' Marie-Nicole Lemieux ', ' Thomas Grossenbacher ']",['Classic']
+6,Bern,Unerhört,2013-04-10,"[' Raphael Christen ', ' Thomas Rüedi ', ' Oliver Waespi ']",['Classic']
+7,Bern,Metabolism,2013-04-10,"[' Laurent Méteau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Eliyah Reichen ', ' Samuel Huwyler ', ' Jwan Steiner ']","['Jazz', 'Blues', 'Soul']"
+8,Stans,Stanser-Musiktage,2013-04-10,"['Emily Loizeau ', ' Emily Loizeau ', ' Olivier Koundouno ', ' Csaba Palotai ', ' François Puyalto ', ' Cyril Aveque ']",['Pop']
+9,Komplex-457,Zürich,2013-04-10,"['Black Veil Brides ', "" Heaven's Basement ""]","['Black', 'Veil', 'Brides']"
+10,Turgi,Harfe-Violine-Visuelles,2013-04-10,"[' Corinne Kappeler ', ' Daniel Treyer ']",['Classic']
+11,null,Roger-Glaus-Trio,2013-04-10,"[' Roger Glaus ', ' Sandro Heule ', ' Mario Söldi ']","['Jazz', 'Blues', 'Soul']"
+12,St.-Jakobshalle,Basel,2013-04-10,['Bushido '],['Bushido']
+13,Zürich,Stenson-Danielsson,2013-04-10,"[' Bobo Stenson ', ' Palle Danielsson ']","['Jazz', 'Blues', 'Soul']"
+14,Kuppel,Basel,2013-04-10,['Call Me Kat '],"['Call', 'Me', 'Kat']"
+15,Bern,Chris-Jagger-Acoustic-Roots,2013-04-10,['Chris Jagger Acoustic Roots '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Zürich,Artist-in-Residence-Christoph-Irniger,2013-04-10,"[' Christoph Irniger ', ' Omri Ziegele ', ' Pascal Niggenkemper ', ' Alex Huber ']","['Jazz', 'Blues', 'Soul']"
+17,Bern,Erik-Truffaz-Quartet-feat.-Anna-Aaron,2013-04-10,"[' Erik Truffaz ', ' Marcello Guiliani ', ' Marc Erbetta ', ' Benoît Corboz ', ' Anna Aaron ']","['Jazz', 'Blues', 'Soul']"
+18,Kammgarn,Schaffhausen,2013-04-10,['Carlos Núñez '],"['Carlos', 'Núñez']"
+19,Zürich,The-Loodies,2013-04-10,['The Loodies '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Basel,Sonic-Calligraphy-feat.-Felix-Utzinger,2013-04-10,"[' Peggy Chew ', ' Felix Utzinger ', ' Adrian Frey ', ' Willy Kotoun ']","['Jazz', 'Blues', 'Soul']"
+21,Cully-Jazz-Festival,Cully,2013-04-10,"['Lizz Wright ', ' Meshell Ndegeocello ', ' Kenny Banks ', ' Marvin Sewell ', "" Nicholas D'Amato "", ' Brannen Temple ', ' Michael Jerome ', ' Jebin Bruni ', ' Chris Bruce ']","['Lizz', 'Wright']"
+22,Obere-Matten,Zermatt,2013-04-10,['Die Fantastischen Vier '],"['Die', 'Fantastischen', 'Vier']"
+23,null,Action-Beat,2013-04-10,['Action Beat '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Cully,Cully-Jazz-Festival,2013-04-10,"[' Vincent Millioud ', ' Théo Känzig ', ' Slawek Plizga ', ' Valentin von Fischer ']","['Jazz', 'Blues', 'Soul']"
+25,Zürich,Jazz-Baragge-Wednesday-Jam,2013-04-10,"['Claude Meier ', ' Michael Bucher ', ' Andreas Wettstein ']","['Jazz', 'Blues', 'Soul']"
+26,Cully,Cully-Jazz-Festival,2013-04-10,['Bahur Ghazi '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Zürich,Gurus-of-Now,2013-04-10,"[' Fabian Gödri ', ' Philipp Leibacher ', ' Andres Cevallos ', ' Mathis Eigensatz ', ' Moritz Eigensatz ', ' Peter Baracchi ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Bar-3000,Zürich,2013-04-10,['The Great Park '],"['The', 'Great', 'Park']"
+29,Basel,Yosvany-Quintero,2013-04-10,"[' Yosvany Descarga ', ' Markus Schmied ', ' Carlo Menger ', ' Michael Anklin ']","['Jazz', 'Blues', 'Soul']"
+30,Theater-an-der-Mürg,Stans,2013-04-10,"['Get the Blessing ', ' Jake McMurchie ', ' Pete Judge ', ' Jim Barr ', ' Clive Deamer ']","['Get', 'the', 'Blessing']"
+31,Cully,Cully-Jazz-Festival,2013-04-10,"[' Jocelyne Rudasigwa ', ' Mathias Demoulin ', ' Manu Hagmann ', ' Ivor Malherbe ', ' Pierre-François Massy ', ' Jean-Yves Petiot ', ' Fabien Sevilla ']","['Jazz', 'Blues', 'Soul']"
+32,Cully,Cully-Jazz-Festival,2013-04-10,"[' Gauthier Toux ', ' Blaise Hommage ', ' Axel Lussiez ']","['Jazz', 'Blues', 'Soul']"
+33,Cully,Cully-Jazz-Festival,2013-04-10,"[' Marc Sturzenegger ', ' Denis Michel ', ' Pierre Ponnaz ', ' Paul Kapp ', ' Patrick Perrier ', ' Jean-Jaques Chabloz ']","['Jazz', 'Blues', 'Soul']"
+34,Grabenhalle,null,2013-04-10,['Jon Ladeau '],"['Jon', 'Ladeau']"
+35,Bern,Internationales-Jazzfestival-Bern,2013-04-10,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']","['Jazz', 'Blues', 'Soul']"

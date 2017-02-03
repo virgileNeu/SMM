@@ -1,33 +1,31 @@
-location,event,date,artists,genre
-Baden,After-Work,2015-02-19,"[' Cathryn Lehmann ', ' Thom Thut ']",
-Zürich,Dropkick-Murphys,2015-02-19,['Dropkick Murphys '],
-Brugg,Some-Like-It-Hot,2015-02-19,"[' Julie Fahrer ', ' Rita Ekes ', ' Sarah Chaksad ', ' Fabienne Hörni ', ' Corinne Windler ', ' Sonja Ott ']",
-Zürich,Internationales-Country-Music-Festival,2015-02-19,['The Farm '],
-Lausanne,David-Le-Deunff,2015-02-19,['David Le Deunff '],
-Zürich,Queen-&-Adam-Lambert,2015-02-19,['Queen & Adam Lambert '],
-Bern,The-Dø,2015-02-19,['The Dø '],Pop
-Basel,The-Tiger-Lillies,2015-02-19,['The Tiger Lillies '],
-Zürich,Egemann-&-Querbeat,2015-02-19,"[' Egon Egemann ', ' Sascha Lackner ', ' Guido Kurth ', ' Urs Huber ']",
-Zürich,Pools,2015-02-19,"[' Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']",
-Solothurn,Atlas-Losing-Grip,2015-02-19,['Atlas Losing Grip '],
-Zürich,Element-of-Crime,2015-02-19,['Element of Crime '],
-Winterthur,Molton-Festival,2015-02-19,"[' Ann-Kathrin Lüthi ', ' Daniel Gisler ', ' Matthias Kräutli ', ' Julia Schwob ', ' Benjamin Hartwig ', ' David Schnee ']",Pop
-Baden,The-Claudia-Quintet,2015-02-19,"[' John Hollenbeck ', ' Chris Speed ', ' Matt Moran ', ' Red Wierenga ', ' Drew Gress ']",
-null,Interzone,2015-02-19,['Interzone '],
-Basel,Jim-Snidero-Quartet,2015-02-19,"[' Jim Snidero ', ' Paul Kirby ', ' Sean Pentland ', ' Rick Hollander ']",
-Liebefeld,Bänz-Oester-&-The-Rainmakers,2015-02-19,"[' Ganesh Geymeier ', ' Afrika Mkhize ', ' Bänz Oester ', ' Ayanda Sikade ']",
-Zürich,Zürilieder,2015-02-19,"[' Daniel Fueter ', ' Risch Birt ', ' Rea Claudia Kost ', ' Sämi Zünd ']",Pop
-Baden,Djangology,2015-02-19,[' Moreno & Toni Donadio '],
-Zürich,Candy-Dulfer,2015-02-19,['Candy Dulfer & Band '],
-Zürich,Joscha-Schraff-Trio,2015-02-19,"[' Joscha Schraff ', ' Pascal Rüegger ', ' Paul Amereller ']",
-Baden,Jazz-am-Donnerstag,2015-02-19,"['Franz Hellmüller ', ' Luca Sisera ', ' Tony Renold ']",
-Bern,Jeff-Beadle,2015-02-19,['Jeff Beadle '],
-Luzern,Peter-O'-Malley,2015-02-19,"[""Peter O' Malley ""]",
-Zürich,Spain,2015-02-19,['Spain '],
-Düdingen,My-Brightest-Diamond,2015-02-19,"['My Brightest Diamond ', ' Tim Fite ']",Pop
-null,Red-City-Radio,2015-02-19,"['Red City Radio ', ' Arms Aloft ', ' Pears ']",Pop
-Sankt-Gallen,Der-Nino-aus-Wien,2015-02-19,['Der Nino aus Wien '],Pop
-Sankt-Gallen,Der-Nino-aus-Wien,2015-02-19,['Der Nino aus Wien '],Pop
-Zürich,Last-Train,2015-02-19,['Last Train '],
-Zürich,Johannes-Meissner,2015-02-19,['Johannes Meissner '],Pop
-Zürich,Joscha-Schraff-Quartett,2015-02-19,"[' Joscha Schraff ', ' Niculin Janett ', ' Moritz Meyer ', ' Paul Amereller ']",
+,location,event,date,artists,genre
+0,Baden,After-Work,2015-02-19,"[' Cathryn Lehmann ', ' Thom Thut ']","['Jazz', 'Blues', 'Soul']"
+1,Z?rich,Dropkick-Murphys,2015-02-19,['Dropkick Murphys '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Brugg,Some-Like-It-Hot,2015-02-19,"[' Julie Fahrer ', ' Rita Ekes ', ' Sarah Chaksad ', ' Fabienne H?rni ', ' Corinne Windler ', ' Sonja Ott ']","['Jazz', 'Blues', 'Soul']"
+3,Solothurn,Atlas-Losing-Grip,2015-02-19,['Atlas Losing Grip '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Bern,The-D?,2015-02-19,['The D? '],['Pop']
+5,Z?rich,Element-of-Crime,2015-02-19,['Element of Crime '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Queen-&-Adam-Lambert,2015-02-19,[' Adam Lambert '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Egemann-&-Querbeat,2015-02-19,"[' Egon Egemann ', ' Sascha Lackner ', ' Guido Kurth ', ' Urs Huber ']","['Jazz', 'Blues', 'Soul']"
+8,Basel,The-Tiger-Lillies,2015-02-19,['The Tiger Lillies '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Pools,2015-02-19,"[' Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']","['Jazz', 'Blues', 'Soul']"
+10,Lausanne,David-Le-Deunff,2015-02-19,['David Le Deunff '],"['world', 'music']"
+11,Winterthur,Molton-Festival,2015-02-19,"[' Ann-Kathrin L?thi ', ' Daniel Gisler ', ' Matthias Kr?utli ', ' Julia Schwob ', ' Benjamin Hartwig ', ' David Schnee ']",['Pop']
+12,Baden,The-Claudia-Quintet,2015-02-19,"[' John Hollenbeck ', ' Chris Speed ', ' Matt Moran ', ' Red Wierenga ', ' Drew Gress ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Joscha-Schraff-Trio,2015-02-19,"[' Joscha Schraff ', ' Pascal R?egger ', ' Paul Amereller ']","['Jazz', 'Blues', 'Soul']"
+14,null,Interzone,2015-02-19,['Interzone '],"['world', 'music']"
+15,Z?rich,Z?rilieder,2015-02-19,"[' Daniel Fueter ', ' Risch Birt ', ' Rea Claudia Kost ', ' S?mi Z?nd ']",['Pop']
+16,Baden,Jazz-am-Donnerstag,2015-02-19,"['Franz Hellm?ller ', ' Luca Sisera ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Candy-Dulfer,2015-02-19,[' Band '],"['Hip', 'Hop', ""R'n'B""]"
+18,Basel,Jim-Snidero-Quartet,2015-02-19,"[' Jim Snidero ', ' Paul Kirby ', ' Sean Pentland ', ' Rick Hollander ']","['Jazz', 'Blues', 'Soul']"
+19,Bern,Jeff-Beadle,2015-02-19,['Jeff Beadle '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Liebefeld,B?nz-Oester-&-The-Rainmakers,2015-02-19,"[' Ganesh Geymeier ', ' Afrika Mkhize ', ' B?nz Oester ', ' Ayanda Sikade ']","['Jazz', 'Blues', 'Soul']"
+21,Baden,Djangology,2015-02-19,[' Toni Donadio '],"['world', 'music']"
+22,Luzern,Peter-O'-Malley,2015-02-19,"[""Peter O' Malley ""]","['Jazz', 'Blues', 'Soul']"
+23,D?dingen,My-Brightest-Diamond,2015-02-19,"['My Brightest Diamond ', ' Tim Fite ']",['Pop']
+24,Sankt-Gallen,Der-Nino-aus-Wien,2015-02-19,['Der Nino aus Wien '],['Pop']
+25,null,Red-City-Radio,2015-02-19,"['Red City Radio ', ' Arms Aloft ', ' Pears ']",['Pop']
+26,Z?rich,Spain,2015-02-19,['Spain '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Z?rich,Last-Train,2015-02-19,['Last Train '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Z?rich,Johannes-Meissner,2015-02-19,['Johannes Meissner '],['Pop']
+29,Z?rich,Joscha-Schraff-Quartett,2015-02-19,"[' Joscha Schraff ', ' Niculin Janett ', ' Moritz Meyer ', ' Paul Amereller ']","['Jazz', 'Blues', 'Soul']"

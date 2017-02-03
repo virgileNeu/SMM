@@ -1,58 +1,56 @@
-location,event,date,artists,genre
-Luzern,Lunchkonzert,2014-10-31,"['Martin Achrainer ', ' Maki Namekawa ']",Classic
-Zürich,Werner-und-Company,2014-10-31,['Werner und Company '],Pop
-Basel,Orgelspiel-zum-Feierabend,2014-10-31,[' Benedikt Rudolf von Rohr '],Classic
-Zürich,Rhapsody-in-Blue-Musik-aus-Amerika,2014-10-31,"[' Julie Fuchs ', ' Benjamin Bernheim ', ' Sebastian Knauer ']",Classic
-Zürich,Blackberry-Smoke,2014-10-31,"['Blackberry Smoke ', ' Massive ']",
-Aarau,Save-Your-Last-Breath,2014-10-31,['Save Your Last Breath '],
-Zürich,Musik-und-Wort-zum-Reformationsfest-Grenzenlos-offen-,2014-10-31,"[' Mirjam Blessing ', ' Richard Resch ', ' Richard Helm ']",Classic
-Liestal,Mick-and-Elli,2014-10-31,"[' Elly Kaluzny ', ' Mick Kaluzny ']",Pop
-Zürich,Jazznojazz,2014-10-31,"[' Roger Thomas ', ' Dwight Stewart ', ' Rod Eldridge ', ' Garfield Buckley ', ' Hops ']",
-Bern,Faszination-Arkadien,2014-10-31,"[' Anne Schmid ', ' Giancarlo Pontiggia ']",Classic
-Basel,Musique-de-la-Chambre-du-Roi-mit-Nuria-Rial,2014-10-31,"[' Nuria Rial ', ' Sergio Alvares ', ' Eduardo Egüez ']",Classic
-Kriens,B-Sides-Indoor-Festival,2014-10-31,"['Halls ', ' Ocnotes ', ' Dena ']",
-Zürich,The-War-On-Drugs,2014-10-31,['The War On Drugs '],
-Zürich,Liselottes,2014-10-31,['Liselottes '],Pop
-Basel,Gospelchurch-mit-Breggett-Rideau,2014-10-31,"['Breggett Rideau ', ' das wir selber sind ']",
-Zürich,Bon-Débarras,2014-10-31,['Bon Débarras '],
-Altikon,Day-&-Taxi,2014-10-31,"[' Christoph Gallio ', ' Silvan Jeger ', ' David Meier ']",
-Oberengstringen,Ghost-Town-Trio,2014-10-31,"[' Urs Vögeli ', ' Claude Meier ', ' Emanuel Künzi ']",
-Zürich,Vierfältig-Schweizer-Klänge-damals-und-heute,2014-10-31,"[' works by Caroline Charrière ', ' Helena Winkelman ']",Classic
-Lausanne,Seat-Music-Session,2014-10-31,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",Pop
-Zürich,Schmaz-and-The-Fabulous-Jukebox,2014-10-31,"[' Gallus Hächler ', ' Marcel Benedikt ', ' Rainer Fröhlich ']",Pop
-Basel,Baloise-Session-Sound-Inventors,2014-10-31,"['Bryan Ferry ', ' Schiller ']",
-Uster,Ein-spanisches-Konzert,2014-10-31,"['Beatrice Flückiger ', ' Christian Steiger ']",Classic
-Dübendorf,Irish-Night,2014-10-31,['The Rapparees '],
-Uster,Ein-spanisches-Konzert,2014-10-31,"['Beatrice Flückiger ', ' Christian Steiger ']",Classic
-Zürich,Pan,2014-10-31,[' works by Martin Baumgartner '],Classic
-Zürich,Asap-Mob,2014-10-31,['Asap Mob '],
-Zürich,Jazznojazz,2014-10-31,"['Bugge Wesseltoft & Henrik Schwarz & Dan Berglund Trio ', ' Bugge Wesseltoft ', ' Dan Berglund ', ' Henrik Schwarz ']",
-Zürich,Labhart-Sartorius-Staub-Orelli,2014-10-31,"[' Jonas Labhart ', ' Julian Sartorius ', ' Reto Staub ', ' Marco von Orelli ']",
-Winterthur,Bucher's-Organ-Book,2014-10-31,"[' Michael Bucher ', ' Thomas Bauser ', ' Lukas Mantel ']",
-Pratteln,Jessy-Martens-&-Band,2014-10-31,['Jessy Martens & Band '],
-Zürich,Viajando-Pelo-Brasil,2014-10-31,"['Viajando Pelo Brasil ', ' Alessandro Pittini ', ' Rodrigo Botter Maio ', ' Floriano Inàcio junior ', ' Marcos Goncalves ', ' Michael Krummenerl ']",
-Basel,Taiichi-Kamimura-&-Chris-Wiesendanger-Quartet,2014-10-31,"[' Taiichi Kamimura ', ' Chris Wiesendanger ', ' Hiroshi Yoshino ', ' Manabu Hashimoto ']",
-Solothurn,Schärli-Moreira-Feigenwinter,2014-10-31,"[' Peter Schärli ', ' Juarez Moreira ', ' Hans Feigenwinter ']",
-Feuerthalen,M.-Soul,2014-10-31,['M. Soul '],
-Baden,Donadio-Family-Band,2014-10-31,"[' Dalia ', ' Madlen ', ' Moreno ', ' Toni Donadio ']",Pop
-null,Jazzkantine,2014-10-31,['Jazzkantine '],
-Zug,Blood-Eagle,2014-10-31,['Blood Eagle '],
-Baden,Hommage-an-Edith-Piaf,2014-10-31,"[' Stella Palino ', ' Charlotte Torres ']",Pop
-Zug,Michael-Fleiner-y-su-septeto-internacional,2014-10-31,"[' Michael Fleiner ', ' Nicola Orioli ', ' Thomas Maeder ', ' Leonardo Govin Marin ', ' Peter Balazs ', ' Mambi Eulogio Argüelles-Puey ', ' Jean-Baptiste Baldazza ']",
-Zürich,Blick-am-Abend-Shooting-Star-V,2014-10-31,['Tiemo Hauer '],Pop
-null,Toumani-&-Sidiki-Diabaté,2014-10-31,['Toumani & Sidiki Diabaté '],
-Basel,Comme-il-faut,2014-10-31,"[' Mathis Reichel ', ' Thomas Jaeger ']",
-Wetzikon,Seán-Keane-&-Band,2014-10-31,['Seán Keane & Band '],
-Worblaufen,Rusted-Guns,2014-10-31,"[' Lucas Clay ', ' Lixxy De Cecilia ', ' Luc Hangartner ', ' Andy Portmann ']",
-Winterthur,Micromusic,2014-10-31,"['Meneo ', ' Eat Rabbit ', ' visuals by Entter ', ' C-Men ']",
-Weissbad,Blues-Tage,2014-10-31,"[' Richard Köchli ', ' Michael Dolmetsch ', ' Fausto Medici ']",
-Bern,An-Lár,2014-10-31,['An Lár '],
-Rubigen,Aynsley-Lister,2014-10-31,['Aynsley Lister '],Pop
-Zürich,Click-Click-Decker,2014-10-31,['Click Click Decker '],Pop
-null,Crows-Enough,2014-10-31,"[' Oleg Ponomarev ', ' Felip Carbonell ', ' Anna Houston ', ' Steve Wickham ', ' Ray Coen ']",
-Zürich,Jazznojazz,2014-10-31,['Amp Fiddler '],
-Zürich,Jazznojazz,2014-10-31,['Michael Kiwanuka '],
-Aarau,Worldly-Savages,2014-10-31,['Worldly Savages '],
-Bern,Karsumpu,2014-10-31,['Karsumpu '],Pop
-Zürich,Jazznojazz,2014-10-31,"['Snarky Puppy ', ' Michael League ', ' Robert Searight ', ' Nate Werth ', ' Bob Lanzetti ', ' Bill Laurance ', ' Cory Henry ']",
-null,Bass-Drive,2014-10-31,"['Addison Groove ', ' Fajune ']",
+,location,event,date,artists,genre
+0,Luzern,Lunchkonzert,2014-10-31,"['Martin Achrainer ', ' Maki Namekawa ']",['Classic']
+1,Z?rich,Werner-und-Company,2014-10-31,['Werner und Company '],['Pop']
+2,Basel,Orgelspiel-zum-Feierabend,2014-10-31,[' Benedikt Rudolf von Rohr '],['Classic']
+3,Z?rich,Blackberry-Smoke,2014-10-31,"['Blackberry Smoke ', ' Massive ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,Rhapsody-in-Blue-Musik-aus-Amerika,2014-10-31,"[' Julie Fuchs ', ' Benjamin Bernheim ', ' Sebastian Knauer ']",['Classic']
+5,Liestal,Mick-and-Elli,2014-10-31,"[' Elly Kaluzny ', ' Mick Kaluzny ']",['Pop']
+6,Aarau,Save-Your-Last-Breath,2014-10-31,['Save Your Last Breath '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Musik-und-Wort-zum-Reformationsfest-Grenzenlos-offen-,2014-10-31,"[' Mirjam Blessing ', ' Richard Resch ', ' Richard Helm ']",['Classic']
+8,Z?rich,Jazznojazz,2014-10-31,"[' Roger Thomas ', ' Dwight Stewart ', ' Rod Eldridge ', ' Garfield Buckley ', ' Hops ']","['Jazz', 'Blues', 'Soul']"
+9,Bern,Faszination-Arkadien,2014-10-31,"[' Anne Schmid ', ' Giancarlo Pontiggia ']",['Classic']
+10,Basel,Musique-de-la-Chambre-du-Roi-mit-Nuria-Rial,2014-10-31,"[' Nuria Rial ', ' Sergio Alvares ', ' Eduardo Eg?ez ']",['Classic']
+11,Kriens,B-Sides-Indoor-Festival,2014-10-31,"['Halls ', ' Ocnotes ', ' Dena ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Z?rich,Pan,2014-10-31,[' works by Martin Baumgartner '],['Classic']
+13,Basel,Baloise-Session-Sound-Inventors,2014-10-31,"['Bryan Ferry ', ' Schiller ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Altikon,Day-&-Taxi,2014-10-31,"[' Christoph Gallio ', ' Silvan Jeger ', ' David Meier ']","['Jazz', 'Blues', 'Soul']"
+15,Basel,Gospelchurch-mit-Breggett-Rideau,2014-10-31,"['Breggett Rideau ', ' das wir selber sind ']","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Bon-D?barras,2014-10-31,['Bon D?barras '],"['world', 'music']"
+17,Uster,Ein-spanisches-Konzert,2014-10-31,"['Beatrice Fl?ckiger ', ' Christian Steiger ']",['Classic']
+18,Z?rich,Vierf?ltig-Schweizer-Kl?nge-damals-und-heute,2014-10-31,"[' works by Caroline Charri?re ', ' Helena Winkelman ']",['Classic']
+19,Z?rich,The-War-On-Drugs,2014-10-31,['The War On Drugs '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Z?rich,Jazznojazz,2014-10-31,"[' Dan Berglund Trio ', ' Bugge Wesseltoft ', ' Dan Berglund ', ' Henrik Schwarz ']","['Jazz', 'Blues', 'Soul']"
+21,Lausanne,Seat-Music-Session,2014-10-31,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",['Pop']
+22,Oberengstringen,Ghost-Town-Trio,2014-10-31,"[' Urs V?geli ', ' Claude Meier ', ' Emanuel K?nzi ']","['Jazz', 'Blues', 'Soul']"
+23,D?bendorf,Irish-Night,2014-10-31,['The Rapparees '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Z?rich,Liselottes,2014-10-31,['Liselottes '],['Pop']
+25,Z?rich,Schmaz-and-The-Fabulous-Jukebox,2014-10-31,"[' Gallus H?chler ', ' Marcel Benedikt ', ' Rainer Fr?hlich ']",['Pop']
+26,Z?rich,Asap-Mob,2014-10-31,['Asap Mob '],"['Hip', 'Hop', ""R'n'B""]"
+27,Z?rich,Labhart-Sartorius-Staub-Orelli,2014-10-31,"[' Jonas Labhart ', ' Julian Sartorius ', ' Reto Staub ', ' Marco von Orelli ']","['Jazz', 'Blues', 'Soul']"
+28,Winterthur,Bucher's-Organ-Book,2014-10-31,"[' Michael Bucher ', ' Thomas Bauser ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"
+29,null,Jazzkantine,2014-10-31,['Jazzkantine '],"['Jazz', 'Blues', 'Soul']"
+30,Baden,Donadio-Family-Band,2014-10-31,"[' Dalia ', ' Madlen ', ' Moreno ', ' Toni Donadio ']",['Pop']
+31,Baden,Hommage-an-Edith-Piaf,2014-10-31,"[' Stella Palino ', ' Charlotte Torres ']",['Pop']
+32,Solothurn,Sch?rli-Moreira-Feigenwinter,2014-10-31,"[' Peter Sch?rli ', ' Juarez Moreira ', ' Hans Feigenwinter ']","['Jazz', 'Blues', 'Soul']"
+33,Zug,Michael-Fleiner-y-su-septeto-internacional,2014-10-31,"[' Michael Fleiner ', ' Nicola Orioli ', ' Thomas Maeder ', ' Leonardo Govin Marin ', ' Peter Balazs ', ' Mambi Eulogio Arg?elles-Puey ', ' Jean-Baptiste Baldazza ']","['Jazz', 'Blues', 'Soul']"
+34,Feuerthalen,M.-Soul,2014-10-31,['M. Soul '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Pratteln,Jessy-Martens-&-Band,2014-10-31,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Zug,Blood-Eagle,2014-10-31,['Blood Eagle '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Z?rich,Viajando-Pelo-Brasil,2014-10-31,"['Viajando Pelo Brasil ', ' Alessandro Pittini ', ' Rodrigo Botter Maio ', ' Floriano In?cio junior ', ' Marcos Goncalves ', ' Michael Krummenerl ']","['Jazz', 'Blues', 'Soul']"
+38,Basel,Taiichi-Kamimura-&-Chris-Wiesendanger-Quartet,2014-10-31,"[' Taiichi Kamimura ', ' Chris Wiesendanger ', ' Hiroshi Yoshino ', ' Manabu Hashimoto ']","['Jazz', 'Blues', 'Soul']"
+39,Bern,An-L?r,2014-10-31,['An L?r '],"['world', 'music']"
+40,Winterthur,Micromusic,2014-10-31,"['Meneo ', ' Eat Rabbit ', ' visuals by Entter ', ' C-Men ']","['Electro', 'Electropop']"
+41,Weissbad,Blues-Tage,2014-10-31,"[' Richard K?chli ', ' Michael Dolmetsch ', ' Fausto Medici ']","['Jazz', 'Blues', 'Soul']"
+42,Basel,Comme-il-faut,2014-10-31,"[' Mathis Reichel ', ' Thomas Jaeger ']","['world', 'music']"
+43,Rubigen,Aynsley-Lister,2014-10-31,['Aynsley Lister '],['Pop']
+44,Wetzikon,Se?n-Keane-&-Band,2014-10-31,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+45,null,Toumani-&-Sidiki-Diabat?,2014-10-31,[' Sidiki Diabat? '],"['world', 'music']"
+46,Worblaufen,Rusted-Guns,2014-10-31,"[' Lucas Clay ', ' Lixxy De Cecilia ', ' Luc Hangartner ', ' Andy Portmann ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+47,null,Crows-Enough,2014-10-31,"[' Oleg Ponomarev ', ' Felip Carbonell ', ' Anna Houston ', ' Steve Wickham ', ' Ray Coen ']","['world', 'music']"
+48,Z?rich,Click-Click-Decker,2014-10-31,['Click Click Decker '],['Pop']
+49,Bern,Karsumpu,2014-10-31,['Karsumpu '],['Pop']
+50,Z?rich,Jazznojazz,2014-10-31,['Michael Kiwanuka '],"['Jazz', 'Blues', 'Soul']"
+51,Z?rich,Jazznojazz,2014-10-31,['Amp Fiddler '],"['Jazz', 'Blues', 'Soul']"
+52,Aarau,Worldly-Savages,2014-10-31,['Worldly Savages '],"['world', 'music']"
+53,Z?rich,Jazznojazz,2014-10-31,"['Snarky Puppy ', ' Michael League ', ' Robert Searight ', ' Nate Werth ', ' Bob Lanzetti ', ' Bill Laurance ', ' Cory Henry ']","['Jazz', 'Blues', 'Soul']"
+54,null,Bass-Drive,2014-10-31,"['Addison Groove ', ' Fajune ']","['Hip', 'Hop', ""R'n'B""]"

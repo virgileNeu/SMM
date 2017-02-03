@@ -1,20 +1,18 @@
-location,event,date,artists,genre
-Zürich,Weihnachtskonzert,2014-12-27,"[' Daniela Timokhine ', ' Laurent Tinguely ', ' Paul Muff ', ' Konstantin Timokhine ', ' David Bruchez-Lalli ']",Classic
-Zürich,Klang-Musikgenuss-Dreimal-Bach,2014-12-27,['Ophélie Gaillard '],Classic
-Meggen,Eine-Klangreise,2014-12-27,"[' Kamilla Schatz ', ' Fabio di Càsola ', ' Benjamin Engeli ']",Classic
-Zürich,Booty-Shakerzz,2014-12-27,"[' Toni de la Rocket ', ' Roxxy Royce ', ' Zztick Pimp Daddy ', ' Tambourine T ', ' Champagne Cane ', ' Micky Spider ']",Pop
-Bern,Konzert,2014-12-27,[' conductor: Alexander Alexeev '],Classic
-Walkringen,Notte-italiana,2014-12-27,"['Sarah Kollé ', ' Karel Boeschoten ', ' Lisa Rieder ', ' Anton Vilkhov ', ' Matthias Schranz ', ' Dominic Limburg ']",Classic
-Basel,Rauhe-Nächte-ein-Weihnachtszyklus,2014-12-27,"['Volker Biesenbender ', ' Bernhard Bücker ', ' Michelagelo Rinaldi ']",Classic
-Zürich,Hits-Recycled-Whitney-Houston-vs.-David-Bowie,2014-12-27,"[' Claude Meier ', ' Florian Egli ', ' Andreas Wettstein ', ' Urs Vögeli ', ' Jeremias Keller ', ' Jonathan Maag ', ' Domi Chansorn ', ' Oliver Zurkirchen ']",
-Baden,Donadio-Family-Band,2014-12-27,"[' Dalia ', ' Madlen ', ' Moreno ', ' Toni Donadio ']",Pop
-Bern,Smith-&-Smart,2014-12-27,['Smith & Smart '],
-null,Acoustic-Blues-Drifter,2014-12-27,"[' Walt Baumgartner ', ' Joe Schwach ', ' Gianco Fucito ']",
-Zürich,Not-The-Sensational-Alex-Harvey-Band,2014-12-27,['Not The Sensational Alex Harvey Band '],
-Basel,Sedlmeir,2014-12-27,['Sedlmeir '],Pop
-Zürich,Not-The-Sensational-Alex-Harvey-Band,2014-12-27,['Not The Sensational Alex Harvey Band '],
-Basel,Sedlmeir,2014-12-27,['Sedlmeir '],Pop
-Basel,Noche-colombiana,2014-12-27,['DJ Ronny '],
-Bern,New-York-Ska-Jazz-Ensemble,2014-12-27,['New York Ska Jazz Ensemble '],
-Zürich,Clay,2014-12-27,['Clay '],Electronic
-Buchs,Delinquent-Habits,2014-12-27,['Delinquent Habits '],
+,location,event,date,artists,genre
+0,Z?rich,Weihnachtskonzert,2014-12-27,"[' Daniela Timokhine ', ' Laurent Tinguely ', ' Paul Muff ', ' Konstantin Timokhine ', ' David Bruchez-Lalli ']",['Classic']
+1,Z?rich,Klang-Musikgenuss-Dreimal-Bach,2014-12-27,['Oph?lie Gaillard '],['Classic']
+2,Meggen,Eine-Klangreise,2014-12-27,"[' Kamilla Schatz ', ' Fabio di C?sola ', ' Benjamin Engeli ']",['Classic']
+3,Z?rich,Booty-Shakerzz,2014-12-27,"[' Toni de la Rocket ', ' Roxxy Royce ', ' Zztick Pimp Daddy ', ' Tambourine T ', ' Champagne Cane ', ' Micky Spider ']",['Pop']
+4,Walkringen,Notte-italiana,2014-12-27,"['Sarah Koll? ', ' Karel Boeschoten ', ' Lisa Rieder ', ' Anton Vilkhov ', ' Matthias Schranz ', ' Dominic Limburg ']",['Classic']
+5,Bern,Konzert,2014-12-27,[' conductor: Alexander Alexeev '],['Classic']
+6,Basel,Rauhe-N?chte-ein-Weihnachtszyklus,2014-12-27,"['Volker Biesenbender ', ' Bernhard B?cker ', ' Michelagelo Rinaldi ']",['Classic']
+7,Baden,Donadio-Family-Band,2014-12-27,"[' Dalia ', ' Madlen ', ' Moreno ', ' Toni Donadio ']",['Pop']
+8,Z?rich,Hits-Recycled-Whitney-Houston-vs.-David-Bowie,2014-12-27,"[' Claude Meier ', ' Florian Egli ', ' Andreas Wettstein ', ' Urs V?geli ', ' Jeremias Keller ', ' Jonathan Maag ', ' Domi Chansorn ', ' Oliver Zurkirchen ']","['Jazz', 'Blues', 'Soul']"
+9,Bern,Smith-&-Smart,2014-12-27,[' Smart '],"['Hip', 'Hop', ""R'n'B""]"
+10,null,Acoustic-Blues-Drifter,2014-12-27,"[' Walt Baumgartner ', ' Joe Schwach ', ' Gianco Fucito ']","['Jazz', 'Blues', 'Soul']"
+11,Bern,New-York-Ska-Jazz-Ensemble,2014-12-27,['New York Ska Jazz Ensemble '],"['Jazz', 'Blues', 'Soul']"
+12,Basel,Sedlmeir,2014-12-27,['Sedlmeir '],['Pop']
+13,Z?rich,Clay,2014-12-27,['Clay '],['Electronic']
+14,Buchs,Delinquent-Habits,2014-12-27,['Delinquent Habits '],"['Hip', 'Hop', ""R'n'B""]"
+15,Basel,Noche-colombiana,2014-12-27,['DJ Ronny '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+16,Z?rich,Not-The-Sensational-Alex-Harvey-Band,2014-12-27,['Not The Sensational Alex Harvey Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

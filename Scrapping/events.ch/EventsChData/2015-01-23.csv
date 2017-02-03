@@ -1,32 +1,36 @@
-location,event,date,artists,genre
-Basel,Mittagskonzert,2015-01-23,[' Alberto Miguélez Rouco '],Classic
-Winterthur,Meh-Suff-Winter-Festival,2015-01-23,"['Anaal Nathrakh ', ' Dark Funeral ', ' Primordial ']",
-Basel,Orgelspiel-zum-Feierabend,2015-01-23,['Anna Scholl '],Classic
-Dübendorf,Pasta-&-Piano,2015-01-23,"[' Cléber Alves Tenorsaxophon ', ' Ricardo Fiúza ', ' Stephan Kurmann ', "" André 'Limão' Queiroz ""]",
-Basel,Benefizkonzert,2015-01-23,[' Thomas Demenga '],Classic
-Baden,Auf-nach-Norden,2015-01-23,[' Regula Mühlemann '],Classic
-Bern,Dvoráks-Cellokonzert,2015-01-23,[' Truls Mork '],Classic
-Zürich,Denn-wie-man-sich-bettet-Ein-kurtweilliger-Liederabend,2015-01-23,"['Christian Jott Jenny ', ' Edward Rushton ']",Pop
-Basel,Musik-für-Liebe-und-Freundschaft,2015-01-23,[' Wolfgang Saus '],Classic
-Zürich,barbie-Q.-Unplugged,2015-01-23,"[' Petra Retelj ', ' Ueli Angstmann ', ' Marcel Benedikt ', ' Jurg Schneebeli ', ' Imad Barnieh ']",Pop
-Thun,Pat-Enz,2015-01-23,"[' Patrick Enz ', ' Reimund Gerstner ', ' Abraham Stalder ']",
-Basel,Fabliaux-et-trouvères,2015-01-23,"['Perrine Devillers ', ' Sebastian Marino ', ' Claire Foltzer ', ' Rachel Heymans ']",Classic
-Zürich,Rabih-Abou-Khalil,2015-01-23,"[' Rabih Abou-Khalil ', ' Luciano Biondini ', ' Jarrod Cagwin ']",
-Altikon,Big-Fish,2015-01-23,"[' Lukas Thoeni ', ' Johannes Walter ', ' Reeds: Jochen Baldes ', ' Niculin Janett ']",
-Aarburg,Irish-Night,2015-01-23,['Uncle Bard & The Dirty Bastards '],
-Basel,Masterrezital,2015-01-23,[' Anja Steiner '],Classic
-Zürich,Eichenberg-Fred-Nicolai,2015-01-23,"[' Markus Eichenberger ', ' Mia Fred ', ' Giancario Nicolai ']",
-Winterthur,Jazz-Live-Trio,2015-01-23,"[' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']",
-Stäfa,Talking-Drums-feat.-Gabriela-Mendes,2015-01-23,['Talking-Drums feat. Gabriela Mendes '],
-Uster,Sisyphos,2015-01-23,"[' Peter Scheidegger ', ' Boris Bühler ', ' Herman Peter ', ' René Senn ']",
-Zürich,The-New-Trio,2015-01-23,"[' Günter Wehinger ', ' Daniel Pezzotti ', ' Chris Wiesendanger ']",
-Baden,Bluesaholics,2015-01-23,"[' René Zobi Zobrist ', ' Isabelle Loosli ', ' Levi Bo ', ' Benno Riss ', ' WilliLube Basler ', ' Markus Meck Keller ']",
-Romanshorn,The-Muscats,2015-01-23,"[' Philipp Häfliger ', ' Daniel Zihlmann ', ' Yhoni de Miranda ', ' Nicole Aravena ']",
-Zürich,In-Praise-of-Mose,2015-01-23,"[' Yvonne Moore ', ' André Pousaz ', ' Arno Troxler ', ' Thomas Moeckel ']",
-Basel,Darren-Sigesmund-New-Quintet,2015-01-23,"[' Darren Sigesmund ', ' Mark Feldman ', ' Gary Versace ', ' Jim Vivian ', ' Ethan Ardelli ']",
-null,RB-Trio,2015-01-23,"[' Raphael Brunschweiler ', ' Rafael Jerjen ', ' Matthias Bucher ']",
-Wil,Rökkurró,2015-01-23,['Rökkurró '],Pop
-Zug,Sour-Bitch,2015-01-23,"['Sour Bitch ', ' Prague Conspiracy ']",
-Basel,Valborg,2015-01-23,['Valborg '],
-Zürich,Dqtç,2015-01-23,"[' Lionel Friedli ', ' Vincent Membrez ', ' Antoine Läng ']",
-Zürich,Suomi-Disko,2015-01-23,['DJs Hullu-Jussi '],
+,location,event,date,artists,genre
+0,Basel,Mittagskonzert,2015-01-23,[' Alberto Migu?lez Rouco '],['Classic']
+1,Winterthur,Meh-Suff-Winter-Festival,2015-01-23,"['Anaal Nathrakh ', ' Dark Funeral ', ' Primordial ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Basel,Orgelspiel-zum-Feierabend,2015-01-23,['Anna Scholl '],['Classic']
+3,Basel,Benefizkonzert,2015-01-23,[' Thomas Demenga '],['Classic']
+4,D?bendorf,Pasta-&-Piano,2015-01-23,"[' Cl?ber Alves Tenorsaxophon ', ' Ricardo Fi?za ', ' Stephan Kurmann ', "" Andr? 'Lim?o' Queiroz ""]","['Jazz', 'Blues', 'Soul']"
+5,Baden,Auf-nach-Norden,2015-01-23,[' Regula M?hlemann '],['Classic']
+6,Bern,Dvor?ks-Cellokonzert,2015-01-23,[' Truls Mork '],['Classic']
+7,Aarburg,Irish-Night,2015-01-23,[' The Dirty Bastards '],"['world', 'music']"
+8,Z?rich,Rabih-Abou-Khalil,2015-01-23,"[' Rabih Abou-Khalil ', ' Luciano Biondini ', ' Jarrod Cagwin ']","['Jazz', 'Blues', 'Soul']"
+9,Altikon,Big-Fish,2015-01-23,"[' Lukas Thoeni ', ' Johannes Walter ', ' Reeds: Jochen Baldes ', ' Niculin Janett ']","['Jazz', 'Blues', 'Soul']"
+10,Z?rich,barbie-Q.-Unplugged,2015-01-23,"[' Petra Retelj ', ' Ueli Angstmann ', ' Marcel Benedikt ', ' Jurg Schneebeli ', ' Imad Barnieh ']",['Pop']
+11,Z?rich,Denn-wie-man-sich-bettet-Ein-kurtweilliger-Liederabend,2015-01-23,"['Christian Jott Jenny ', ' Edward Rushton ']",['Pop']
+12,Thun,Pat-Enz,2015-01-23,"[' Patrick Enz ', ' Reimund Gerstner ', ' Abraham Stalder ']","['Jazz', 'Blues', 'Soul']"
+13,Basel,Musik-f?r-Liebe-und-Freundschaft,2015-01-23,[' Wolfgang Saus '],['Classic']
+14,Basel,Fabliaux-et-trouv?res,2015-01-23,"['Perrine Devillers ', ' Sebastian Marino ', ' Claire Foltzer ', ' Rachel Heymans ']",['Classic']
+15,Basel,Masterrezital,2015-01-23,[' Anja Steiner '],['Classic']
+16,Z?rich,Eichenberg-Fred-Nicolai,2015-01-23,"[' Markus Eichenberger ', ' Mia Fred ', ' Giancario Nicolai ']","['Jazz', 'Blues', 'Soul']"
+17,Winterthur,Jazz-Live-Trio,2015-01-23,"[' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']","['Jazz', 'Blues', 'Soul']"
+18,Baden,Bluesaholics,2015-01-23,"[' Ren? Zobi Zobrist ', ' Isabelle Loosli ', ' Levi Bo ', ' Benno Riss ', ' WilliLube Basler ', ' Markus Meck Keller ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,The-New-Trio,2015-01-23,"[' G?nter Wehinger ', ' Daniel Pezzotti ', ' Chris Wiesendanger ']","['Jazz', 'Blues', 'Soul']"
+20,Romanshorn,The-Muscats,2015-01-23,"[' Philipp H?fliger ', ' Daniel Zihlmann ', ' Yhoni de Miranda ', ' Nicole Aravena ']","['Jazz', 'Blues', 'Soul']"
+21,Uster,Sisyphos,2015-01-23,"[' Peter Scheidegger ', ' Boris B?hler ', ' Herman Peter ', ' Ren? Senn ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,St?fa,Talking-Drums-feat.-Gabriela-Mendes,2015-01-23,['Talking-Drums feat. Gabriela Mendes '],"['world', 'music']"
+23,Basel,Darren-Sigesmund-New-Quintet,2015-01-23,"[' Darren Sigesmund ', ' Mark Feldman ', ' Gary Versace ', ' Jim Vivian ', ' Ethan Ardelli ']","['Jazz', 'Blues', 'Soul']"
+24,Z?rich,In-Praise-of-Mose,2015-01-23,"[' Yvonne Moore ', ' Andr? Pousaz ', ' Arno Troxler ', ' Thomas Moeckel ']","['Jazz', 'Blues', 'Soul']"
+25,Basel,Niko-Seibold-Quartett,2015-01-23,"[' Niko Seibold ', ' Raphael Ross? ', ' Roberto Koch ', ' Frederik Heisler ']","['Jazz', 'Blues', 'Soul']"
+26,Z?rich,Tobias-Carshey,2015-01-23,['Tobias Carshey '],['Pop']
+27,null,RB-Trio,2015-01-23,"[' Raphael Brunschweiler ', ' Rafael Jerjen ', ' Matthias Bucher ']","['Jazz', 'Blues', 'Soul']"
+28,Wil,R?kkurr?,2015-01-23,['R?kkurr? '],['Pop']
+29,Z?rich,Vita-Bergen,2015-01-23,['Vita Bergen '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,null,Valdimar,2015-01-23,['Valdimar '],['Pop']
+31,Zug,Sour-Bitch,2015-01-23,"['Sour Bitch ', ' Prague Conspiracy ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Basel,Valborg,2015-01-23,['Valborg '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Z?rich,Dqt?,2015-01-23,"[' Lionel Friedli ', ' Vincent Membrez ', ' Antoine L?ng ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Z?rich,Suomi-Disko,2015-01-23,['DJs Hullu-Jussi '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

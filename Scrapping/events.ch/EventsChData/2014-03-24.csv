@@ -1,18 +1,18 @@
-location,event,date,artists,genre
-Zürich,Rodriguez-ausverkauft,2014-03-24,['Rodriguez '],
-Hallenstadion,Zürich,2014-03-24,['Semino Rossi '],
-Zürich,Zeiten-und-Kulturen,2014-03-24,"[' Sona Shaboyan ', ' Narek Kazazyan ', ' Emmanuel Hovhannisyan ']",Classic
-null,James-Blunt,2014-03-24,['James Blunt '],Pop
-Zürich,John-Herzig,2014-03-24,['John Herzig '],traditional
-Zürich,The-Men,2014-03-24,['The Men '],
-Zürich,Boyce-Avenue,2014-03-24,"['Boyce Avenue ', ' Nick Howard ', ' Hannah Trigwell ']",Pop
-Zürich,Old-School-Piano-Blues,2014-03-24,['Andy Boller '],
-Basel,Dialog,2014-03-24,['Andrew Digby '],Classic
-Zürich,Rea-Garvey,2014-03-24,['Rea Garvey '],Pop
-Winterthur,C.J.-Boyd,2014-03-24,['C.J. Boyd '],
-Baden,Dejan-Terzic-Melanoia,2014-03-24,"[' Hayden Chisholm ', ' Achim Kaufmann ', ' Ronny Graupe ', ' Dejan Terzic ']",
-Winterthur,Plumes,2014-03-24,['Plumes '],Pop
-Basel,Alex-Maksymiw-Trio,2014-03-24,"[' johannes gutfleisch ', ' marco nenniger ', ' alex maksymiw ']",
-Zürich,UMS-'n-JIP,2014-03-24,"[' Ulrike Mayer-Spohn ', ' Javier Hagen ']",
-Zürich,Artist-in-Residence-Karin-Meier,2014-03-24,"[' Karin Meier ', ' Benjamin Hartwig ', ' Stefanie Kunckler ', ' Eva Seliner ', ' Bettina Klöti ']",Pop
-Zürich,Rodriguez-ausverkauft,2014-03-24,['Rodriguez '],
+,location,event,date,artists,genre
+0,Z?rich,Rodriguez-ausverkauft,2014-03-24,['Rodriguez '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Hallenstadion,Z?rich,2014-03-24,['Semino Rossi '],"['Semino', 'Rossi']"
+2,Z?rich,Zeiten-und-Kulturen,2014-03-24,"[' Sona Shaboyan ', ' Narek Kazazyan ', ' Emmanuel Hovhannisyan ']",['Classic']
+3,null,James-Blunt,2014-03-24,['James Blunt '],['Pop']
+4,Z?rich,Old-School-Piano-Blues,2014-03-24,['Andy Boller '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,John-Herzig,2014-03-24,['John Herzig '],['traditional']
+6,Z?rich,Boyce-Avenue,2014-03-24,"['Boyce Avenue ', ' Nick Howard ', ' Hannah Trigwell ']",['Pop']
+7,Z?rich,Rea-Garvey,2014-03-24,['Rea Garvey '],['Pop']
+8,Basel,Dialog,2014-03-24,['Andrew Digby '],['Classic']
+9,Z?rich,The-Men,2014-03-24,['The Men '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Winterthur,C.J.-Boyd,2014-03-24,['C.J. Boyd '],"['Jazz', 'Blues', 'Soul']"
+11,Baden,Dejan-Terzic-Melanoia,2014-03-24,"[' Hayden Chisholm ', ' Achim Kaufmann ', ' Ronny Graupe ', ' Dejan Terzic ']","['Jazz', 'Blues', 'Soul']"
+12,Winterthur,Plumes,2014-03-24,['Plumes '],['Pop']
+13,Z?rich,Artist-in-Residence-Karin-Meier,2014-03-24,"[' Karin Meier ', ' Benjamin Hartwig ', ' Stefanie Kunckler ', ' Eva Seliner ', ' Bettina Kl?ti ']",['Pop']
+14,Basel,Alex-Maksymiw-Trio,2014-03-24,"[' johannes gutfleisch ', ' marco nenniger ', ' alex maksymiw ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,UMS-'n-JIP,2014-03-24,"[' Ulrike Mayer-Spohn ', ' Javier Hagen ']","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Rodriguez-ausverkauft,2014-03-24,['Rodriguez '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

@@ -1,43 +1,43 @@
-location,event,date,artists,genre
-Basel,Orgelspiel-zum-Feierabend,2013-04-05,['Alessandro Valoriani '],Classic
-Dietikon,Feierabendmusik,2013-04-05,"['Heidi Fries ', ' Beat Fries ', ' Bernhard Hörler ']",Classic
-Bern,Internationales-Jazzfestival-Bern,2013-04-05,"[""Lil' Ed & The Blues Imperials ""]",
-Bern,Landschaften-aus-Musik,2013-04-05,[' Thomas Zehetmair '],Classic
-Cully,Cully-Jazz-Festival,2013-04-05,"['Fredrika Stahl ', ' Tony Paeleman ', ' Maeva Le Berre ', ' Dino Trifunovic ', ' Mathieu Gayout ']",Pop
-Zürich,Klassik-hat-Zukunft,2013-04-05,[' Oliver Schnyder '],Classic
-Salzhaus,Winterthur,2013-04-05,['My Name is George '],
-Zug,Konzert,2013-04-05,"['Laura Kinsella ', ' Hans Hassler ', ' Alex Huber ']",
-Zürich,Fard,2013-04-05,['Fard '],
-Uster,The-Order,2013-04-05,[' Absolva '],
-Winterthur,In-Guitar-Winterthur,2013-04-05,['Carmen Linares & Eos Guitar Quartet '],
-Komplex-457,Zürich,2013-04-05,['One Republic '],
-Altikon,Ears-Wide-Shut,2013-04-05,"[' Gregor Müller ', ' Beat Gisler ', ' Daniel L. Schmid ']",
-Zürich,Christian-Zehnder-&-Gregor-Hilbe,2013-04-05,"['Christian Zehnder & Gregor Hilbe ', ' Christian Zehnder ', ' Gregor Hilbe ', ' Amadis Brugnoni ']",Electronic
-Lausanne,Odezenne,2013-04-05,['Odezenne '],Pop
-Liebefeld,Ziegele-Theiler,2013-04-05,"[' Omri Ziegele ', ' Yves Theiler ']",
-Solothurn,Akku-Quintet,2013-04-05,"[' Thierry Lüthy ', ' Maja Nydegger ', ' Markus Ischer ', ' Jeremias Keller ', ' Manuel Pasquinelli ']",Electronic
-Zürich,Virgil-Moorefield-Bicontinental-Pocket-Orchestra,2013-04-05,['Virgil Moorefield Bicontinental Pocket Orchestra '],Electronic
-Cully,Cully-Jazz-Festival,2013-04-05,"['Dave Holland & Pepe Habichuela Flamenco 5tet ', ' Josemi Carmona ', ' Bandolero ', ' Juan Carmona ']",
-Usine,null,2013-04-05,"['Rocket From The Crypt ', ' Blackup ']",
-Aarau,Hi-Grip,2013-04-05,['Hi-Grip '],
-Lausanne,Dominique-A,2013-04-05,['Dominique A '],
-Lausanne,Dominique-A,2013-04-05,['Dominique A '],
-Winterthur,Nive-Nielsen-&-The-Deer-Children,2013-04-05,['Nive Nielsen & The Deer Children '],Pop
-null,Dirty-Sound-Magnet,2013-04-05,"[' Didier Coenegracht ', ' Stavros Dzodzos ', ' Marco Mottolini ', ' Maxime Cosandley ']",
-Winterthur,Reks,2013-04-05,['Reks '],
-Wil,Paul-Basile,2013-04-05,['Paul Basile '],Pop
-Basel,Ras-Manuel,2013-04-05,['Ras Manuel '],
-Cully,Cully-Jazz-Festival,2013-04-05,"[' Olivier Magarotto ', ' Julien Revilloud ', ' Johan Wermeille ']",
-Zürich,Tony-Renold-Quartet,2013-04-05,"[' Michael Gassmann ', ' Michael Bucher ', ' Patrick Sommer ', ' Tony Renold ']",
-Cully,Cully-Jazz-Festival,2013-04-05,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-null,Antipop-Consoritum,2013-04-05,['Antipop Consoritum '],
-Cully,Cully-Jazz-Festival,2013-04-05,"[' Annick Rody ', ' Camille Stoll ', ' Laurence Crevoisier ']",
-Cully,Cully-Jazz-Festival,2013-04-05,"[' Rea Dubach ', ' Luzius Schuler ', ' Daniel Weber ']",
-Luzern,Tusq,2013-04-05,['Tusq '],
-Cully,Cully-Jazz-Festival,2013-04-05,"[' Vincent Millioud ', '  Théo Känzig ', ' Slawek Plizga ', '  Valentin von Fischer ']",
-Cully,Cully-Jazz-Festival,2013-04-05,['Live: Bruk Boogie Kru feat. T-Roy '],
-Reussbühl,Smallkings,2013-04-05,"[' Roger Molnar ', ' Matthias Urech ', ' Marcel Suk ', ' Alexander Balajew ']",
-Grabenhalle,null,2013-04-05,"[' Falco Meyer ', ' Wolf Meyer ', ' Meta Amstad ', ' Salome Bossard ', ' Samuel Büttiker ']",
-Bern,Internationales-Jazzfestival-Bern,2013-04-05,"[""Lil' Ed & The Blues Imperials ""]",
-Bern,Dezmond-Dez,2013-04-05,['Dezmond Dez '],
-Lyss,Busy-Signal,2013-04-05,['Busy Signal '],
+,location,event,date,artists,genre
+0,Basel,Orgelspiel-zum-Feierabend,2013-04-05,['Alessandro Valoriani '],['Classic']
+1,Dietikon,Feierabendmusik,2013-04-05,"['Heidi Fries ', ' Beat Fries ', ' Bernhard Hörler ']",['Classic']
+2,Bern,Landschaften-aus-Musik,2013-04-05,[' Thomas Zehetmair '],['Classic']
+3,Cully,Cully-Jazz-Festival,2013-04-05,"['Fredrika Stahl ', ' Tony Paeleman ', ' Maeva Le Berre ', ' Dino Trifunovic ', ' Mathieu Gayout ']",['Pop']
+4,Bern,Internationales-Jazzfestival-Bern,2013-04-05,"[""Lil' Ed & The Blues Imperials ""]","['Jazz', 'Blues', 'Soul']"
+5,Zürich,Klassik-hat-Zukunft,2013-04-05,[' Oliver Schnyder '],['Classic']
+6,Winterthur,In-Guitar-Winterthur,2013-04-05,['Carmen Linares & Eos Guitar Quartet '],"['world', 'music']"
+7,Zug,Konzert,2013-04-05,"['Laura Kinsella ', ' Hans Hassler ', ' Alex Huber ']","['Jazz', 'Blues', 'Soul']"
+8,Salzhaus,Winterthur,2013-04-05,['My Name is George '],"['My', 'Name', 'is', 'George']"
+9,Altikon,Ears-Wide-Shut,2013-04-05,"[' Gregor Müller ', ' Beat Gisler ', ' Daniel L. Schmid ']","['Jazz', 'Blues', 'Soul']"
+10,Uster,The-Order,2013-04-05,[' Absolva '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Komplex-457,Zürich,2013-04-05,['One Republic '],"['One', 'Republic']"
+12,Solothurn,Akku-Quintet,2013-04-05,"[' Thierry Lüthy ', ' Maja Nydegger ', ' Markus Ischer ', ' Jeremias Keller ', ' Manuel Pasquinelli ']",['Electronic']
+13,Lausanne,Odezenne,2013-04-05,['Odezenne '],['Pop']
+14,Liebefeld,Ziegele-Theiler,2013-04-05,"[' Omri Ziegele ', ' Yves Theiler ']","['Jazz', 'Blues', 'Soul']"
+15,Zürich,Virgil-Moorefield-Bicontinental-Pocket-Orchestra,2013-04-05,['Virgil Moorefield Bicontinental Pocket Orchestra '],['Electronic']
+16,Cully,Cully-Jazz-Festival,2013-04-05,"['Dave Holland & Pepe Habichuela Flamenco 5tet ', ' Josemi Carmona ', ' Bandolero ', ' Juan Carmona ']","['Jazz', 'Blues', 'Soul']"
+17,Zürich,Christian-Zehnder-&-Gregor-Hilbe,2013-04-05,"['Christian Zehnder & Gregor Hilbe ', ' Christian Zehnder ', ' Gregor Hilbe ', ' Amadis Brugnoni ']",['Electronic']
+18,null,Antipop-Consoritum,2013-04-05,['Antipop Consoritum '],"['Hip', 'Hop', ""R'n'B""]"
+19,Basel,Louis-Barabbas-and-the-Bedlam-Six,2013-04-05,['Louis Barabbas and the Bedlam Six '],['Pop']
+20,Winterthur,Nive-Nielsen-&-The-Deer-Children,2013-04-05,['Nive Nielsen & The Deer Children '],['Pop']
+21,Cully,Cully-Jazz-Festival,2013-04-05,"[' Olivier Magarotto ', ' Julien Revilloud ', ' Johan Wermeille ']","['Jazz', 'Blues', 'Soul']"
+22,Zürich,Tony-Renold-Quartet,2013-04-05,"[' Michael Gassmann ', ' Michael Bucher ', ' Patrick Sommer ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+23,Cully,Cully-Jazz-Festival,2013-04-05,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+24,Luzern,Tusq,2013-04-05,['Tusq '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Usine,null,2013-04-05,"['Rocket From The Crypt ', ' Blackup ']","['Rocket', 'from', 'the', 'Crypt']"
+26,Cully,Cully-Jazz-Festival,2013-04-05,"[' Annick Rody ', ' Camille Stoll ', ' Laurence Crevoisier ']","['Jazz', 'Blues', 'Soul']"
+27,Cully,Cully-Jazz-Festival,2013-04-05,"[' Annick Rody ', ' Camille Stoll ', ' Laurence Crevoisier ']","['Jazz', 'Blues', 'Soul']"
+28,Lausanne,Dominique-A,2013-04-05,['Dominique A '],"['world', 'music']"
+29,Wil,Paul-Basile,2013-04-05,['Paul Basile '],['Pop']
+30,Cully,Cully-Jazz-Festival,2013-04-05,"[' Rea Dubach ', ' Luzius Schuler ', ' Daniel Weber ']","['Jazz', 'Blues', 'Soul']"
+31,Aarau,Hi-Grip,2013-04-05,['Hi-Grip '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Winterthur,Reks,2013-04-05,['Reks '],"['Hip', 'Hop', ""R'n'B""]"
+33,null,Dirty-Sound-Magnet,2013-04-05,"[' Didier Coenegracht ', ' Stavros Dzodzos ', ' Marco Mottolini ', ' Maxime Cosandley ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Cully,Cully-Jazz-Festival,2013-04-05,"[' Vincent Millioud ', '  Théo Känzig ', ' Slawek Plizga ', '  Valentin von Fischer ']","['Jazz', 'Blues', 'Soul']"
+35,Basel,Ras-Manuel,2013-04-05,['Ras Manuel '],"['Hip', 'Hop', ""R'n'B""]"
+36,Reussbühl,Smallkings,2013-04-05,"[' Roger Molnar ', ' Matthias Urech ', ' Marcel Suk ', ' Alexander Balajew ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Cully,Cully-Jazz-Festival,2013-04-05,['Live: Bruk Boogie Kru feat. T-Roy '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+38,Grabenhalle,null,2013-04-05,"[' Falco Meyer ', ' Wolf Meyer ', ' Meta Amstad ', ' Salome Bossard ', ' Samuel Büttiker ']","['Murphy', 'Left']"
+39,Bern,Internationales-Jazzfestival-Bern,2013-04-05,"[""Lil' Ed & The Blues Imperials ""]","['Jazz', 'Blues', 'Soul']"
+40,Bern,Dezmond-Dez,2013-04-05,['Dezmond Dez '],"['Hip', 'Hop', ""R'n'B""]"
+41,Lyss,Busy-Signal,2013-04-05,['Busy Signal '],"['Hip', 'Hop', ""R'n'B""]"

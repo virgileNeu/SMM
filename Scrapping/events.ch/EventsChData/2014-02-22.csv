@@ -1,35 +1,35 @@
-location,event,date,artists,genre
-Winterthur,Die-Samstagsmatinée,2014-02-22,"[' Matthieu Michel ', ' Jean-Christophe Cholet ']",
-Bern,Bernische-Chopin-Gesellschaft,2014-02-22,['Tamar Beraia '],Classic
-Winterthur,Panflötenkonzert,2014-02-22,['Werner Schaffitz '],traditional
-Luzern,Piano-Entertainment,2014-02-22,['Fabienne Ambühl '],
-Pratteln,Sepultura,2014-02-22,"['Sepultura ', ' Legion Of The Damned ', ' Flotsam & Jetsam ', ' Mortillery ']",
-Baden,Bonebreaker-Ball,2014-02-22,"[' Waves Like Walls ', ' Larceny ']",
-Zürich,Internationales-Country-Music-Festival,2014-02-22,['Country Sisters '],
-null,Young-Fathers,2014-02-22,['Young Fathers '],
-Basel,Crystal-Antlers,2014-02-22,['Crystal Antlers '],
-null,Internationales-Gitarrenfestival,2014-02-22,"['Ramos-Schneider ', ' Cristobal Pazmiño Trio ', ' Violeta Ramos ', ' Richard Schneider ']",
-Liestal,Winterkonzert,2014-02-22,[' Mi Zhou '],Classic
-Zürich,Take-Berlin,2014-02-22,['Take Berlin '],
-Basel,Céline-Huber-&-Oliver-Fabro,2014-02-22,"[' Céline Huber ', ' Oliver Fabro ']",
-Winterthur,Canaille-Du-Jour,2014-02-22,"[' Christov Rolla ', ' Max Christian Graeff ']",Pop
-Burgdorf,Everybody-Else-Knows,2014-02-22,"[' Michael Wespi ', ' Luzian Graber ', ' Joel D. Allison ']",Pop
-Sursee,Nachtmahr,2014-02-22,"['Nachtmahr ', ' support: A7ie ']",
-Zürich,Bootsy-Collins,2014-02-22,['Bootsy Collins '],
-Buchs,Sina,2014-02-22,"[' Peter Wagner ', ' Michael Chylewski ']",Pop
-Basel,Lackerschmid-Faller-Morello,2014-02-22,"[' Wolfgang Lackerschmid ', ' Sven Faller ', ' Paulo Morello ']",
-Zürich,Christoph-Stiefel-Inner-Language-Trio,2014-02-22,"['Christoph Stiefel Inner Language Trio ', ' Christoph Stiefel ', ' Arne Huber ', ' Kevin Chesham ']",
-Liebefeld,Los-Caracoles,2014-02-22,"['Jesús Castilla ', ' Antonio Flores ']",
-null,Woodkid,2014-02-22,['Woodkid '],Pop
-Cham,Midge-Ure,2014-02-22,['Midge Ure '],Pop
-Zürich,Zugluft,2014-02-22,"[' Andrea Kirchhofer ', ' Bruno Strüby ', ' Jonas Guggenheim ']",
-null,8°6-Crew,2014-02-22,"['8°6 Crew ', ' Quartier Libre ']",
-Luzern,Hellander,2014-02-22,['Hellander '],
-Thun,Danza-kuduro,2014-02-22,['DJs Devil '],
-Solothurn,Crookers,2014-02-22,['Crookers '],Electronic
-null,Tamikrest,2014-02-22,"[' Ousmane Ag Mossa ', ' Aghaly Ag Mohamedine ', ' Paul Salvagnac ', ' Cheikh Ag Tiglia ', ' Wonou Walet Sidati ', ' Ag Ahmed Salim Ibrahim ']",
-Zürich,Schmid-von-Werra,2014-02-22,['Silvan Schmid: Trompete '],traditional
-Rorschach,El-bachatazo-carnaval,2014-02-22,"['DJs Nando ', "" Da'le ""]",
-Zürich,Simeon-Soul-Charger,2014-02-22,['Simeon Soul Charger '],
-null,Dirty-Honkers,2014-02-22,"['Dirty Honkers ', ' DJs Badre ']",Electronic
-Zürich,Gavlyn-(USA),2014-02-22,['Gavlyn '],
+,location,event,date,artists,genre
+0,Winterthur,Die-Samstagsmatin?e,2014-02-22,"[' Matthieu Michel ', ' Jean-Christophe Cholet ']","['Jazz', 'Blues', 'Soul']"
+1,Bern,Bernische-Chopin-Gesellschaft,2014-02-22,['Tamar Beraia '],['Classic']
+2,Winterthur,Panfl?tenkonzert,2014-02-22,['Werner Schaffitz '],['traditional']
+3,Luzern,Piano-Entertainment,2014-02-22,['Fabienne Amb?hl '],"['Jazz', 'Blues', 'Soul']"
+4,Pratteln,Sepultura,2014-02-22,"[' Jetsam ', ' Mortillery ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Baden,Bonebreaker-Ball,2014-02-22,"[' Waves Like Walls ', ' Larceny ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Internationales-Country-Music-Festival,2014-02-22,['Country Sisters '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,null,Young-Fathers,2014-02-22,['Young Fathers '],"['Hip', 'Hop', ""R'n'B""]"
+8,Basel,Crystal-Antlers,2014-02-22,['Crystal Antlers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Take-Berlin,2014-02-22,['Take Berlin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Basel,C?line-Huber-&-Oliver-Fabro,2014-02-22,"[' C?line Huber ', ' Oliver Fabro ']","['Hip', 'Hop', ""R'n'B""]"
+11,Winterthur,Canaille-Du-Jour,2014-02-22,"[' Christov Rolla ', ' Max Christian Graeff ']",['Pop']
+12,Burgdorf,Everybody-Else-Knows,2014-02-22,"[' Michael Wespi ', ' Luzian Graber ', ' Joel D. Allison ']",['Pop']
+13,Sursee,Nachtmahr,2014-02-22,"['Nachtmahr ', ' support: A7ie ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,null,Internationales-Gitarrenfestival,2014-02-22,"['Ramos-Schneider ', ' Cristobal Pazmi?o Trio ', ' Violeta Ramos ', ' Richard Schneider ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Bootsy-Collins,2014-02-22,['Bootsy Collins '],"['Hip', 'Hop', ""R'n'B""]"
+16,Buchs,Sina,2014-02-22,"[' Peter Wagner ', ' Michael Chylewski ']",['Pop']
+17,Liestal,Winterkonzert,2014-02-22,[' Mi Zhou '],['Classic']
+18,Liebefeld,Los-Caracoles,2014-02-22,"['Jes?s Castilla ', ' Antonio Flores ']","['world', 'music']"
+19,Basel,Lackerschmid-Faller-Morello,2014-02-22,"[' Wolfgang Lackerschmid ', ' Sven Faller ', ' Paulo Morello ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Christoph-Stiefel-Inner-Language-Trio,2014-02-22,"['Christoph Stiefel Inner Language Trio ', ' Christoph Stiefel ', ' Arne Huber ', ' Kevin Chesham ']","['Jazz', 'Blues', 'Soul']"
+21,null,Woodkid,2014-02-22,['Woodkid '],['Pop']
+22,Cham,Midge-Ure,2014-02-22,['Midge Ure '],['Pop']
+23,Solothurn,Crookers,2014-02-22,['Crookers '],['Electronic']
+24,null,Tamikrest,2014-02-22,"[' Ousmane Ag Mossa ', ' Aghaly Ag Mohamedine ', ' Paul Salvagnac ', ' Cheikh Ag Tiglia ', ' Wonou Walet Sidati ', ' Ag Ahmed Salim Ibrahim ']","['world', 'music']"
+25,Thun,Danza-kuduro,2014-02-22,['DJs Devil '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+26,Z?rich,Schmid-von-Werra,2014-02-22,['Silvan Schmid: Trompete '],['traditional']
+27,null,8?6-Crew,2014-02-22,"['8?6 Crew ', ' Quartier Libre ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Luzern,Hellander,2014-02-22,['Hellander '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Z?rich,Zugluft,2014-02-22,"[' Andrea Kirchhofer ', ' Bruno Str?by ', ' Jonas Guggenheim ']","['world', 'music']"
+30,Rorschach,El-bachatazo-carnaval,2014-02-22,"['DJs Nando ', "" Da'le ""]","['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+31,Z?rich,Simeon-Soul-Charger,2014-02-22,['Simeon Soul Charger '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,null,Dirty-Honkers,2014-02-22,"['Dirty Honkers ', ' DJs Badre ']",['Electronic']
+33,Z?rich,Gavlyn-(USA),2014-02-22,['Gavlyn '],"['Hip', 'Hop', ""R'n'B""]"

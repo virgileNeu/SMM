@@ -1,44 +1,43 @@
-location,event,date,artists,genre
-Baden,Trash-Town-Rockabilly-Weekender,2014-05-03,"['The Hidden Charms ', ' Foggy Mountain Rockers ', ' The Rob Ryan Roadshow ']",
-Stans,Stanser-Musiktage,2014-05-03,['Joachim Badenhorst '],
-Bern,Classic-Goes-Jazz,2014-05-03,"[' Pawel Mazurkiewicz ', ' Björn Baumgartner ', ' Pius Baschnagel ']",
-Winterthur,Messiah,2014-05-03,"[' Andrea Laureen Brown ', ' Gabriela Bürgler ', ' Alex Potter ', ' David Munderloh ', ' Dominik Wörner ']",Classic
-Luzern,Piano-Entertainment,2014-05-03,['Fabienne Ambühl '],
-Stans,Stanser-Musiktage,2014-05-03,['Seval '],
-Bern,Kammermusik-an-der-Kramgasse,2014-05-03,"[' Beat Anderwert ', ' Curzio Petraglio ', ' François Dinkel ']",Classic
-Gelterkinden,Alles-Kaffee-oder-was-,2014-05-03,"[' Béa Droz ', ' Selina Beltrani ', ' Simon Peter ']",
-Basel,Jahrhundertwende-klassisch,2014-05-03,[' Daniel Sepec '],Classic
-Zürich,Internationales-Jazz-&-Blues-Festival,2014-05-03,['The Three Ladies of Blues '],
-Luzern,Gladiator-Live-to-Projection,2014-05-03,"[' Lisa Gerrard ', ' Gladiator ']",Classic
-Schöftland,Cello-&-Klavier,2014-05-03,"[' David Reitz ', ' Bram Buitenkant ']",Classic
-null,Quatemberkonzerte,2014-05-03,"['Rita Karin Meier & Stephan Britt ', '  Voichita Nica ', ' Anton Rotzetter ']",Classic
-Winistorf,Metal-Night,2014-05-03,['Sons of Disaster '],
-Zürich,Kenny-Barron-&-Dave-Holland-Duo,2014-05-03,"['Kenny Barron & Dave Holland Duo ', ' Kenny Barron ', ' Dave Holland ']",
-Basel,Jazzfestival-Basel,2014-05-03,['Ibrahim Maalouf & Band '],
-Baar,Muttertagskonzert,2014-05-03,['Die Paldauer '],traditional
-Zürich,Love-Bravely-eine-Collage-aus-Opernarien,2014-05-03,['Srdjan Vukasinovic '],Classic
-Basel,Junge-Talente,2014-05-03,"[' Johannes Birth ', ' Gregor Hänssler ']",Classic
-Embrach,Mundo-Piazzolla,2014-05-03,['Gabriela Bergallo '],Classic
-Aarau,The-Armed-Man-A-Mass-for-Peace,2014-05-03,"[' Liliane Glanzmann ', ' René Perler ', ' Fadil Asani ']",Classic
-Zug,Quatuor-Ebène-&-Stacey-Kent,2014-05-03,['Quatuor Ebène & Stacey Kent '],
-Zürich,Isn't-Nits-Nite-Hommage,2014-05-03,['Nits '],Pop
-Stans,Stanser-Musiktage,2014-05-03,['Magnifico & Serbian Army Orchestra '],Pop
-Stans,Stanser-Musiktage,2014-05-03,['Jono McCleery Trio '],Pop
-Mels,Lili-Pastis-Passepartout,2014-05-03,"['Cornelia Montani ', ' Daniel Schneider ', ' Christoph Elsaesser ']",Pop
-Bern,A-l'ancienne,2014-05-03,[' Janina Müller '],Classic
-Basel,Bokani-Dyer-Quintet,2014-05-03,"[' Matthias Spillmann ', ' Donat Fisch ', ' Bokani Dyer ', ' Stephan Kurmann ', ' Norbert Pfammatter ']",
-Ascona,Nocturnen,2014-05-03,['Daniel Levy '],Classic
-Zürich,Mokoomba,2014-05-03,"['Mokoomba ', ' Mathias Muzaza ', ' Ndaba Coster Moyo ', ' Miti Mugande ', ' Trustworth Samende ']",
-Estavayer-le-Lac,Colin-Vallon-Trio,2014-05-03,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-Baden,Death-Vessel,2014-05-03,['Death Vessel '],
-Zürich,Claus-Collective,2014-05-03,"[' ', ' Tobias Pfister ', ' Mathieu Friz ', ' Vincent Ruiz ', ' Paul Amereller ']",
-Frauenfeld,Raphael-Josts-Crazy-Swing-Thing,2014-05-03,"[' Raphael Jost ', ' Andrina Bollinger ', ' Lukas Thöni ', ' Christoph Grab ', ' Raphael Walser ', ' Jonas Ruther ']",
-Luzern,Atze,2014-05-03,['Atze/Datze '],
-Rubigen,Savoy-Brown-feat.-Kim-Simmonds,2014-05-03,['Savoy Brown feat. Kim Simmonds '],
-Thun,Boo-Boo-Davis,2014-05-03,['Boo Boo Davis '],
-Kirchberg,Öpfelboum-und-Palme,2014-05-03,"[' Emmi Lichtenhahn ', ' Simon Britschgi ', ' Lukas Schwengler ', ' Dimitri Kindle ']",Pop
-Zürich,The-Years-Between,2014-05-03,[' Jeremy Mage and the Magi '],
-Stans,Stanser-Musiktage,2014-05-03,['Richard Dawson '],
-Zürich,Fortunat-Häfliger-Quintet,2014-05-03,"[' ', ' Tobias Pfister ', ' Philipp Eden ', ' Colin Morton ', ' Lukas Blattner ']",
-Basel,Jazzfestival-Basel,2014-05-03,['Samúel Jón Samúelsson Big Band '],
-null,Rinse-FM-Night,2014-05-03,"['DJs Plastician\t', ' Youngsta ', ' Faze Miyake ', ' Tom Shorterz ']",Electronic
+,location,event,date,artists,genre
+0,Baden,Trash-Town-Rockabilly-Weekender,2014-05-03,"['The Hidden Charms ', ' Foggy Mountain Rockers ', ' The Rob Ryan Roadshow ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Stans,Stanser-Musiktage,2014-05-03,['Joachim Badenhorst '],"['Jazz', 'Blues', 'Soul']"
+2,Bern,Classic-Goes-Jazz,2014-05-03,"[' Pawel Mazurkiewicz ', ' Bj?rn Baumgartner ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+3,Winterthur,Messiah,2014-05-03,"[' Andrea Laureen Brown ', ' Gabriela B?rgler ', ' Alex Potter ', ' David Munderloh ', ' Dominik W?rner ']",['Classic']
+4,Luzern,Piano-Entertainment,2014-05-03,['Fabienne Amb?hl '],"['Jazz', 'Blues', 'Soul']"
+5,Stans,Stanser-Musiktage,2014-05-03,['Seval '],"['Jazz', 'Blues', 'Soul']"
+6,Bern,Kammermusik-an-der-Kramgasse,2014-05-03,"[' Beat Anderwert ', ' Curzio Petraglio ', ' Fran?ois Dinkel ']",['Classic']
+7,Gelterkinden,Alles-Kaffee-oder-was-,2014-05-03,"[' B?a Droz ', ' Selina Beltrani ', ' Simon Peter ']","['world', 'music']"
+8,null,Quatemberkonzerte,2014-05-03,"[' Stephan Britt ', '  Voichita Nica ', ' Anton Rotzetter ']",['Classic']
+9,Sch?ftland,Cello-&-Klavier,2014-05-03,"[' David Reitz ', ' Bram Buitenkant ']",['Classic']
+10,Basel,Jahrhundertwende-klassisch,2014-05-03,[' Daniel Sepec '],['Classic']
+11,Luzern,Gladiator-Live-to-Projection,2014-05-03,"[' Lisa Gerrard ', ' Gladiator ']",['Classic']
+12,Z?rich,Kenny-Barron-&-Dave-Holland-Duo,2014-05-03,"[' Dave Holland Duo ', ' Kenny Barron ', ' Dave Holland ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Love-Bravely-eine-Collage-aus-Opernarien,2014-05-03,['Srdjan Vukasinovic '],['Classic']
+14,Baar,Muttertagskonzert,2014-05-03,['Die Paldauer '],['traditional']
+15,Winistorf,Metal-Night,2014-05-03,['Sons of Disaster '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Stans,Stanser-Musiktage,2014-05-03,[' Serbian Army Orchestra '],['Pop']
+17,Basel,Junge-Talente,2014-05-03,"[' Johannes Birth ', ' Gregor H?nssler ']",['Classic']
+18,Stans,Stanser-Musiktage,2014-05-03,['Jono McCleery Trio '],['Pop']
+19,Basel,Jazzfestival-Basel,2014-05-03,[' Band '],"['Jazz', 'Blues', 'Soul']"
+20,Aarau,The-Armed-Man-A-Mass-for-Peace,2014-05-03,"[' Liliane Glanzmann ', ' Ren? Perler ', ' Fadil Asani ']",['Classic']
+21,Zug,Quatuor-Eb?ne-&-Stacey-Kent,2014-05-03,[' Stacey Kent '],"['world', 'music']"
+22,Embrach,Mundo-Piazzolla,2014-05-03,['Gabriela Bergallo '],['Classic']
+23,Z?rich,Isn't-Nits-Nite-Hommage,2014-05-03,['Nits '],['Pop']
+24,Bern,A-l'ancienne,2014-05-03,[' Janina M?ller '],['Classic']
+25,Mels,Lili-Pastis-Passepartout,2014-05-03,"['Cornelia Montani ', ' Daniel Schneider ', ' Christoph Elsaesser ']",['Pop']
+26,Basel,Bokani-Dyer-Quintet,2014-05-03,"[' Matthias Spillmann ', ' Donat Fisch ', ' Bokani Dyer ', ' Stephan Kurmann ', ' Norbert Pfammatter ']","['Jazz', 'Blues', 'Soul']"
+27,Ascona,Nocturnen,2014-05-03,['Daniel Levy '],['Classic']
+28,Z?rich,Mokoomba,2014-05-03,"['Mokoomba ', ' Mathias Muzaza ', ' Ndaba Coster Moyo ', ' Miti Mugande ', ' Trustworth Samende ']","['world', 'music']"
+29,Estavayer-le-Lac,Colin-Vallon-Trio,2014-05-03,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+30,Thun,Boo-Boo-Davis,2014-05-03,['Boo Boo Davis '],"['Jazz', 'Blues', 'Soul']"
+31,Baden,Death-Vessel,2014-05-03,['Death Vessel '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Frauenfeld,Raphael-Josts-Crazy-Swing-Thing,2014-05-03,"[' Raphael Jost ', ' Andrina Bollinger ', ' Lukas Th?ni ', ' Christoph Grab ', ' Raphael Walser ', ' Jonas Ruther ']","['Jazz', 'Blues', 'Soul']"
+33,Luzern,Atze,2014-05-03,['Atze/Datze '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Z?rich,Claus-Collective,2014-05-03,"[' ', ' Tobias Pfister ', ' Mathieu Friz ', ' Vincent Ruiz ', ' Paul Amereller ']","['Jazz', 'Blues', 'Soul']"
+35,Rubigen,Savoy-Brown-feat.-Kim-Simmonds,2014-05-03,['Savoy Brown feat. Kim Simmonds '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Kirchberg,?pfelboum-und-Palme,2014-05-03,"[' Emmi Lichtenhahn ', ' Simon Britschgi ', ' Lukas Schwengler ', ' Dimitri Kindle ']",['Pop']
+37,Stans,Stanser-Musiktage,2014-05-03,['Richard Dawson '],"['world', 'music']"
+38,Z?rich,The-Years-Between,2014-05-03,[' Jeremy Mage and the Magi '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+39,Z?rich,Fortunat-H?fliger-Quintet,2014-05-03,"[' ', ' Tobias Pfister ', ' Philipp Eden ', ' Colin Morton ', ' Lukas Blattner ']","['Jazz', 'Blues', 'Soul']"
+40,Basel,Jazzfestival-Basel,2014-05-03,['Sam?el J?n Sam?elsson Big Band '],"['Jazz', 'Blues', 'Soul']"
+41,null,Rinse-FM-Night,2014-05-03,"['DJs Plastician\t', ' Youngsta ', ' Faze Miyake ', ' Tom Shorterz ']",['Electronic']

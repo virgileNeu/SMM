@@ -1,53 +1,53 @@
-location,event,date,artists,genre
-Winterthur,Omri-Ziegele's-Noisy-Minority-&-Ray-Anderson,2014-11-08,"[' Omri Ziegele ', ' Ray Anderson ', ' Jan Schlegel ', ' Dieter Ulrich ']",
-Zürich,Just-Beethoven,2014-11-08,['Michiko Tsuda '],Classic
-Zürich,Gletscherfezzzer,2014-11-08,['Gletscherfezzzer '],traditional
-Winterthur,Zwei-Schlüsselwerke-kammermusikalischer-Kunst,2014-11-08,"['Oliver Schnyder ', ' Maria Surnacheva ', ' Armon Stecher ', ' Kenneth Henderson ', ' Pol Centelles ']",Classic
-Zürich,Hammer-Klavierfestival-Das-Klaviertrio-in-Wien,2014-11-08,"['Mayumi Hirasaki ', ' Christoph Dangel ', ' Els Biesemans ']",Classic
-Zürich,Lausbuben,2014-11-08,[' Pascal Viglino '],Classic
-Luzern,Piano-Entertainment,2014-11-08,['Christian Mettler '],Pop
-Basel,Szenisches-Familienkonzert,2014-11-08,[' Babette Mondry '],Classic
-Basel,Japanische-Nacht-Culturescapes-Tokio,2014-11-08,"['Faust Quartett ', ' Ann Buch ', ' Tobias Wulff ']",Classic
-Dornach,Salve-Regina,2014-11-08,"[' Christoph Bösch ', ' Toshiko Sakakibara ']",Classic
-Zürich,Requiem-und-andere-Werke,2014-11-08,"[' Martina Fausch ', ' Marc-Olivier Oetterli ']",Classic
-Langnau-am-Albis,Vision-of-Paradise-Artconcert,2014-11-08,"[' Ruth Juon ', ' Evi Juon ']",Pop
-Aarau,Sola-gratia-II,2014-11-08,[' Rafael Baier '],Classic
-Rapperswil,Eröffnungskonzert,2014-11-08,"[' Michelle Chang ', ' Amanda Schweri ', ' Charne Rochford ', ' Andreas Dick ', ' Kelly Thomas ']",Classic
-Zürich,Barocke-Leidenschaften,2014-11-08,"['Simone Kermes ', ' Willi Zimmermann ', ' Jana Karsko ', ' Kio Seiler ', ' Nicola Mosca ', ' Hayk Khachatryan ']",Classic
-Zürich,Madégras,2014-11-08,['Madégras '],Pop
-Bern,Kyla-La-Grange,2014-11-08,['Kyla La Grange '],Pop
-Zürich,Kina-Grannis,2014-11-08,"['Kina Grannis ', ' Imaginary Future ']",Pop
-Basel,Alphorn-&-Nordic-Winds,2014-11-08,"['Eliana Burki ', ' Karoliina Kantelinen ']",Classic
-Basel,Dieter-Thomas-Kuhn-&-Band,2014-11-08,['Dieter Thomas Kuhn & Band '],traditional
-Basel,Baloise-Session-Chart-Breakers,2014-11-08,['Leona Lewis '],Pop
-Basel,Dieter-Thomas-Kuhn-&-Band,2014-11-08,['Dieter Thomas Kuhn & Band '],traditional
-Thun,Seat-Music-Session,2014-11-08,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",Pop
-Zürich,Tina-Dico,2014-11-08,['Tina Dico '],Pop
-Bern,Headbangersball,2014-11-08,"['Master ', ' Pandemia ']",
-Pratteln,Ten-Years-After,2014-11-08,"['Ten Years After ', ' Popa Chubby ']",
-Wetzikon,Swingin'-Gipsy,2014-11-08,['DJs Kimska '],
-Basel,YOIK,2014-11-08,"[' Bastian Pfefferli ', ' Aurélien Tschopp ']",Classic
-Zürich,The-Place-Waves-Reach-With-Their-Hands,2014-11-08,"[' Stephanie Pfeffer ', ' Rupert Charlesworth ', ' Jonathan Sells ', ' Edward Rushton ']",Classic
-Basel,Magnificat,2014-11-08,"[' Amelia Scicolone ', ' Charlotte Quadt ', ' Michael Mogl ', ' Martin Snell ']",Classic
-Zürich,Danza-danza,2014-11-08,"['Andreas Kuehnrich ', ' Daniel Sieber ', ' works by Laurie Altman ', ' Anders Miolin ']",Classic
-null,Peter-Kraus,2014-11-08,['Peter Kraus '],
-Oberengstringen,Duke-Seidmann-Quintett,2014-11-08,"[' Duke Seidmann ', ' Dani Solimie ', ' Dave Ruosch ', ' Kali Gerhards ', ' Martin Meyer ']",
-Luzern,Norman-Die,2014-11-08,['Norman Die '],
-Mühlethurnen,No-Crow,2014-11-08,['No Crow '],
-Zürich,Baba-Roga,2014-11-08,"[' Faruk Muslijevi ', ' Gavro Nikoli ', ' Arthur Furrer ', ' Christoph Müller ', ' Muhi Tahiri ', ' Roko Jurevi ']",
-Basel,Márcio-Tubino-N'Artet,2014-11-08,"[' Márcio Tubino ', ' Joao Luis Nogueira ', ' Ricardo Fiuza ', ' Ciro Trindade ', ' Fernando Paiva ']",
-Degersheim,Bluecerne,2014-11-08,"[' Renato Cazzaniga ', ' Patrick Röösli ', ' Beda Wenk ', ' Roli Mosimann ', ' Moby Arnold ', ' Michi Bütikofer ', ' Eric Kunz ']",
-Basel,Phantogram,2014-11-08,['Phantogram '],
-Thun,Ragga-Gröndal,2014-11-08,['Ragga Gröndal '],
-Uster,Jutta-Weinhold-Band,2014-11-08,['Jutta Weinhold Band '],
-Winterthur,Viaticum,2014-11-08,"['Viaticum ', ' Soldat Hans ']",
-Zürich,Gente-di-mare,2014-11-08,"['Sud Sound System ', ' Barabas ']",
-Rubigen,Meena-Cryle-&-The-Chris-Fillmore-Band,2014-11-08,['Meena Cryle & The Chris Fillmore Band '],
-Laufen,And-You-Will-Know-Us-by-the-Trail-of-Dead,2014-11-08,['And You Will Know Us by the Trail of Dead '],
-Basel,Marc-Berube,2014-11-08,['Marc Berube '],Pop
-null,Otto-Normal,2014-11-08,['Otto Normal '],
-Zürich,Das-Hang-eine-Nachtmeditation,2014-11-08,"['Markus Vorspohl ', ' Christian Döhring ']",Classic
-Basel,Bitch-Queens,2014-11-08,"['Bitch Queens ', ' Boy ']",
-Basel,257ers,2014-11-08,['257ers '],
-null,Salsa-Village,2014-11-08,[' Alexander & Eulises Gonzales '],
-Zürich,Lariba,2014-11-08,"[' Roberto Haçaturyan ', ' Simone Santos ', ' Alcides Toirac ']",
+,location,event,date,artists,genre
+0,Z?rich,Just-Beethoven,2014-11-08,['Michiko Tsuda '],['Classic']
+1,Winterthur,Omri-Ziegele's-Noisy-Minority-&-Ray-Anderson,2014-11-08,"[' Omri Ziegele ', ' Ray Anderson ', ' Jan Schlegel ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Lausbuben,2014-11-08,[' Pascal Viglino '],['Classic']
+3,Z?rich,Gletscherfezzzer,2014-11-08,['Gletscherfezzzer '],['traditional']
+4,Winterthur,Zwei-Schl?sselwerke-kammermusikalischer-Kunst,2014-11-08,"['Oliver Schnyder ', ' Maria Surnacheva ', ' Armon Stecher ', ' Kenneth Henderson ', ' Pol Centelles ']",['Classic']
+5,Z?rich,Hammer-Klavierfestival-Das-Klaviertrio-in-Wien,2014-11-08,"['Mayumi Hirasaki ', ' Christoph Dangel ', ' Els Biesemans ']",['Classic']
+6,Basel,Szenisches-Familienkonzert,2014-11-08,[' Babette Mondry '],['Classic']
+7,Luzern,Piano-Entertainment,2014-11-08,['Christian Mettler '],['Pop']
+8,Basel,Japanische-Nacht-Culturescapes-Tokio,2014-11-08,"['Faust Quartett ', ' Ann Buch ', ' Tobias Wulff ']",['Classic']
+9,Dornach,Salve-Regina,2014-11-08,"[' Christoph B?sch ', ' Toshiko Sakakibara ']",['Classic']
+10,Langnau-am-Albis,Vision-of-Paradise-Artconcert,2014-11-08,"[' Ruth Juon ', ' Evi Juon ']",['Pop']
+11,Z?rich,Requiem-und-andere-Werke,2014-11-08,"[' Martina Fausch ', ' Marc-Olivier Oetterli ']",['Classic']
+12,Z?rich,Mad?gras,2014-11-08,['Mad?gras '],['Pop']
+13,Aarau,Sola-gratia-II,2014-11-08,[' Rafael Baier '],['Classic']
+14,Rapperswil,Er?ffnungskonzert,2014-11-08,"[' Michelle Chang ', ' Amanda Schweri ', ' Charne Rochford ', ' Andreas Dick ', ' Kelly Thomas ']",['Classic']
+15,Bern,Kyla-La-Grange,2014-11-08,['Kyla La Grange '],['Pop']
+16,Z?rich,Barocke-Leidenschaften,2014-11-08,"['Simone Kermes ', ' Willi Zimmermann ', ' Jana Karsko ', ' Kio Seiler ', ' Nicola Mosca ', ' Hayk Khachatryan ']",['Classic']
+17,Z?rich,Kina-Grannis,2014-11-08,"['Kina Grannis ', ' Imaginary Future ']",['Pop']
+18,null,Peter-Kraus,2014-11-08,['Peter Kraus '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Z?rich,Danza-danza,2014-11-08,"['Andreas Kuehnrich ', ' Daniel Sieber ', ' works by Laurie Altman ', ' Anders Miolin ']",['Classic']
+20,Basel,Baloise-Session-Chart-Breakers,2014-11-08,['Leona Lewis '],['Pop']
+21,Thun,Seat-Music-Session,2014-11-08,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",['Pop']
+22,Basel,Dieter-Thomas-Kuhn-&-Band,2014-11-08,[' Band '],['traditional']
+23,Z?rich,Tina-Dico,2014-11-08,['Tina Dico '],['Pop']
+24,Basel,Dieter-Thomas-Kuhn-&-Band,2014-11-08,[' Band '],['traditional']
+25,Luzern,Norman-Die,2014-11-08,['Norman Die '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Basel,Alphorn-&-Nordic-Winds,2014-11-08,"['Eliana Burki ', ' Karoliina Kantelinen ']",['Classic']
+27,Oberengstringen,Duke-Seidmann-Quintett,2014-11-08,"[' Duke Seidmann ', ' Dani Solimie ', ' Dave Ruosch ', ' Kali Gerhards ', ' Martin Meyer ']","['Jazz', 'Blues', 'Soul']"
+28,Bern,Headbangersball,2014-11-08,"['Master ', ' Pandemia ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Oberengstringen,Duke-Seidmann-Quintett,2014-11-08,"[' Duke Seidmann ', ' Dani Solimie ', ' Dave Ruosch ', ' Kali Gerhards ', ' Martin Meyer ']","['Jazz', 'Blues', 'Soul']"
+30,Z?rich,Banda-Ancha-Flamenco-Quartett,2014-11-08,"[' Daniel Portmann ', ' Marius B?rgisser ', ' Rafael Paneque ']","['world', 'music']"
+31,Basel,YOIK,2014-11-08,"[' Bastian Pfefferli ', ' Aur?lien Tschopp ']",['Classic']
+32,Basel,Magnificat,2014-11-08,"[' Amelia Scicolone ', ' Charlotte Quadt ', ' Michael Mogl ', ' Martin Snell ']",['Classic']
+33,Pratteln,Ten-Years-After,2014-11-08,"['Ten Years After ', ' Popa Chubby ']","['Jazz', 'Blues', 'Soul']"
+34,Z?rich,Baba-Roga,2014-11-08,"[' Faruk Muslijevi ', ' Gavro Nikoli ', ' Arthur Furrer ', ' Christoph M?ller ', ' Muhi Tahiri ', ' Roko Jurevi ']","['world', 'music']"
+35,Basel,M?rcio-Tubino-N'Artet,2014-11-08,"[' M?rcio Tubino ', ' Joao Luis Nogueira ', ' Ricardo Fiuza ', ' Ciro Trindade ', ' Fernando Paiva ']","['Jazz', 'Blues', 'Soul']"
+36,M?hlethurnen,No-Crow,2014-11-08,['No Crow '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Degersheim,Bluecerne,2014-11-08,"[' Renato Cazzaniga ', ' Patrick R??sli ', ' Beda Wenk ', ' Roli Mosimann ', ' Moby Arnold ', ' Michi B?tikofer ', ' Eric Kunz ']","['Hip', 'Hop', ""R'n'B""]"
+38,null,Otto-Normal,2014-11-08,['Otto Normal '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+39,Z?rich,Gente-di-mare,2014-11-08,"['Sud Sound System ', ' Barabas ']","['Hip', 'Hop', ""R'n'B""]"
+40,Rubigen,Meena-Cryle-&-The-Chris-Fillmore-Band,2014-11-08,[' The Chris Fillmore Band '],"['Hip', 'Hop', ""R'n'B""]"
+41,Basel,Phantogram,2014-11-08,['Phantogram '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+42,Thun,Ragga-Gr?ndal,2014-11-08,['Ragga Gr?ndal '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+43,Z?rich,Das-Hang-eine-Nachtmeditation,2014-11-08,"['Markus Vorspohl ', ' Christian D?hring ']",['Classic']
+44,Uster,Jutta-Weinhold-Band,2014-11-08,['Jutta Weinhold Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+45,Winterthur,Viaticum,2014-11-08,"['Viaticum ', ' Soldat Hans ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+46,Basel,Marc-Berube,2014-11-08,['Marc Berube '],['Pop']
+47,Laufen,And-You-Will-Know-Us-by-the-Trail-of-Dead,2014-11-08,['And You Will Know Us by the Trail of Dead '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+48,Basel,Bitch-Queens,2014-11-08,"['Bitch Queens ', ' Boy ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+49,Basel,257ers,2014-11-08,['257ers '],"['Hip', 'Hop', ""R'n'B""]"
+50,Z?rich,Lariba,2014-11-08,"[' Roberto Ha?aturyan ', ' Simone Santos ', ' Alcides Toirac ']","['world', 'music']"
+51,null,Salsa-Village,2014-11-08,[' Eulises Gonzales '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

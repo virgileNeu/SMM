@@ -1,21 +1,21 @@
-location,event,date,artists,genre
-Baden,After-Work,2015-02-12,"[' Martin Perini ', ' Franziska Perini ', ' Oliver Keller ', ' Martin Sitter ']",
-Bern,Streichquartettabend,2015-02-12,"['Ulrich Poschner ', ' Daniel Kagerer ']",Classic
-null,Crippled-Symmetry,2015-02-12,"[' Christoph Bösch ', ' Daniel Buess ', ' Jürg Henneberger ']",Classic
-Basel,Hans-Huber-Bewunderer-von-Johannes-Brahms,2015-02-12,[' Georges Starobinski '],Classic
-Zürich,Beardyman,2015-02-12,['Beardyman '],
-Zürich,Internationales-Country-Music-Festival,2015-02-12,['Pauline Reese & Band '],
-Zürich,Tonhalle-Orchester-Zürich,2015-02-12,['Steven Isserlis '],Classic
-Bern,Berlioz-en-Italie,2015-02-12,[' Julia Malkova '],Classic
-Zürich,Before-You-Exit,2015-02-12,"['Before You Exit ', ' Christina Grimmie ']",Pop
-Zürich,Benny's-from-Heaven,2015-02-12,"[' Simon Wyrsch ', ' Dave Ruosch ', ' Kalli Gerhard ', ' Martin Meyer ']",
-Basel,Liebesleid-Camerata-variabile,2015-02-12,['Petra Hoffmann '],Classic
-Kloten,Fragula,2015-02-12,"[' Muriel Schweizer ', ' Nathalie Hugentobler ', ' Franz Winteler ', ' Michel Münch ', ' Hansjürg Fetzer ']",
-Winterthur,Renold-Kapillidis-Heinzler,2015-02-12,"[' Theo Kapilidis ', ' Uli Heinzler ', ' Tony Renold ']",
-Zürich,Suisse-Diagonales-Jazz,2015-02-12,"[' Florian Favre ', ' Manu Hagmann ', ' Alexandre Maurer ', ' Dominic Landolt ', ' Ramon Landolt ', ' Mario Hänni ']",
-Basel,Cristina-Braga-Trio,2015-02-12,"[' Cristina Braga ', ' Ricardo Medeiros ', ' Mauro Martins ']",
-Basel,November-December,2015-02-12,['November December '],
-Feuerthalen,Jo-&-Lazy-Fellow,2015-02-12,['Jo & Lazy Fellow '],
-Bern,Easy-October-feat.-Kristofer-Åström,2015-02-12,['Easy October '],Pop
-Baden,Jazz-am-Donnerstag,2015-02-12,"['Raphael Kalt ', ' Claude Stucki ', ' Marius Meier ', '\r\nAlex Merz ']",
-Sankt-Gallen,Lydia-Ainsworth,2015-02-12,['Lydia Ainsworth '],Pop
+,location,event,date,artists,genre
+0,Baden,After-Work,2015-02-12,"[' Martin Perini ', ' Franziska Perini ', ' Oliver Keller ', ' Martin Sitter ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Bern,Streichquartettabend,2015-02-12,"['Ulrich Poschner ', ' Daniel Kagerer ']",['Classic']
+2,null,Crippled-Symmetry,2015-02-12,"[' Christoph B?sch ', ' Daniel Buess ', ' J?rg Henneberger ']",['Classic']
+3,Bern,Berlioz-en-Italie,2015-02-12,[' Julia Malkova '],['Classic']
+4,Z?rich,Beardyman,2015-02-12,['Beardyman '],"['Hip', 'Hop', ""R'n'B""]"
+5,Z?rich,Internationales-Country-Music-Festival,2015-02-12,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Basel,Hans-Huber-Bewunderer-von-Johannes-Brahms,2015-02-12,[' Georges Starobinski '],['Classic']
+7,Z?rich,Tonhalle-Orchester-Z?rich,2015-02-12,['Steven Isserlis '],['Classic']
+8,Basel,Liebesleid-Camerata-variabile,2015-02-12,['Petra Hoffmann '],['Classic']
+9,Z?rich,Benny's-from-Heaven,2015-02-12,"[' Simon Wyrsch ', ' Dave Ruosch ', ' Kalli Gerhard ', ' Martin Meyer ']","['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Before-You-Exit,2015-02-12,"['Before You Exit ', ' Christina Grimmie ']",['Pop']
+11,Winterthur,Renold-Kapillidis-Heinzler,2015-02-12,"[' Theo Kapilidis ', ' Uli Heinzler ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+12,Kloten,Fragula,2015-02-12,"[' Muriel Schweizer ', ' Nathalie Hugentobler ', ' Franz Winteler ', ' Michel M?nch ', ' Hansj?rg Fetzer ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Basel,Cristina-Braga-Trio,2015-02-12,"[' Cristina Braga ', ' Ricardo Medeiros ', ' Mauro Martins ']","['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Suisse-Diagonales-Jazz,2015-02-12,"[' Florian Favre ', ' Manu Hagmann ', ' Alexandre Maurer ', ' Dominic Landolt ', ' Ramon Landolt ', ' Mario H?nni ']","['Jazz', 'Blues', 'Soul']"
+15,Basel,November-December,2015-02-12,['November December '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Feuerthalen,Jo-&-Lazy-Fellow,2015-02-12,[' Lazy Fellow '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Bern,Easy-October-feat.-Kristofer-?str?m,2015-02-12,['Easy October '],['Pop']
+18,Baden,Jazz-am-Donnerstag,2015-02-12,"['Raphael Kalt ', ' Claude Stucki ', ' Marius Meier ', '\r\nAlex Merz ']","['Jazz', 'Blues', 'Soul']"
+19,Sankt-Gallen,Lydia-Ainsworth,2015-02-12,['Lydia Ainsworth '],['Pop']

@@ -1,17 +1,16 @@
-location,event,date,artists,genre
-Solothurn,Nico-Brina-Trio,2014-10-13,"[' Nico Brina ', ' Charlie Weibel ', ' Pete Borel ']",
-Zürich,Konzert,2014-10-13,[' Sophia Jaffé '],Classic
-Riehen,Paganini-trifft-auf-Beethoven-Schumann-und-andere-Genies-Teil-1,2014-10-13,['Ingolf Turban '],Classic
-Luzern,Meisterwerke,2014-10-13,"['Jonas Kaufmann ', ' Helmut Deutsch ']",Classic
-Pratteln,Edguy,2014-10-13,['Edguy '],
-null,Beth-Wimmer,2014-10-13,"[' Beth Wimmer ', ' Jost Müller ', ' Rodrigo Aravena ']",Pop
-Zürich,Ronin-Rhythm-Clan,2014-10-13,"[' Fabian Capaldi ', ' Martial In-Albon ', ' Michael Flury ', ' Manuel Troller ']",
-Zürich,The-Fray,2014-10-13,['The Fray '],
-Zürich,Helmet,2014-10-13,['Helmet '],
-Zürich,Arliss-Nancy,2014-10-13,['Arliss Nancy '],
-Baden,Florian-Favre-Trio,2014-10-13,"[' Florian Favre ', ' Manu Hagmann ', ' Alexandre Maurer ']",
-Zürich,Erika-Stucky-Spidergirl,2014-10-13,"[' Erika Stucky ', ' Terry Edwards ', ' Lucas Niggli ']",
-Basel,Jazzkollektiv,2014-10-13,"['Peter Dieterle ', ' Federico Abraham ', ' Andy Herrmann ']",
-Luzern,DKSJ-All-Stars,2014-10-13,"[' Nina Reiter ', ' Zacharie Ksyk ', ' Niko Seibold ', ' Elio Amberg ', ' Tobias Pfister ']",
-null,Asaf-Avidan,2014-10-13,['Asaf Avidan '],
-Luzern,Take-Berlin,2014-10-13,['Take Berlin '],Pop
+,location,event,date,artists,genre
+0,Solothurn,Nico-Brina-Trio,2014-10-13,"[' Nico Brina ', ' Charlie Weibel ', ' Pete Borel ']","['Jazz', 'Blues', 'Soul']"
+1,Pratteln,Edguy,2014-10-13,['Edguy '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Z?rich,Konzert,2014-10-13,[' Sophia Jaff? '],['Classic']
+3,Luzern,Meisterwerke,2014-10-13,"['Jonas Kaufmann ', ' Helmut Deutsch ']",['Classic']
+4,Z?rich,Ronin-Rhythm-Clan,2014-10-13,"[' Fabian Capaldi ', ' Martial In-Albon ', ' Michael Flury ', ' Manuel Troller ']","['Jazz', 'Blues', 'Soul']"
+5,Z?rich,The-Fray,2014-10-13,['The Fray '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Helmet,2014-10-13,['Helmet '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Arliss-Nancy,2014-10-13,['Arliss Nancy '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,null,Beth-Wimmer,2014-10-13,"[' Beth Wimmer ', ' Jost M?ller ', ' Rodrigo Aravena ']",['Pop']
+9,Baden,Florian-Favre-Trio,2014-10-13,"[' Florian Favre ', ' Manu Hagmann ', ' Alexandre Maurer ']","['Jazz', 'Blues', 'Soul']"
+10,null,Asaf-Avidan,2014-10-13,['Asaf Avidan '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,Erika-Stucky-Spidergirl,2014-10-13,"[' Erika Stucky ', ' Terry Edwards ', ' Lucas Niggli ']","['Jazz', 'Blues', 'Soul']"
+12,Luzern,DKSJ-All-Stars,2014-10-13,"[' Nina Reiter ', ' Zacharie Ksyk ', ' Niko Seibold ', ' Elio Amberg ', ' Tobias Pfister ']","['Jazz', 'Blues', 'Soul']"
+13,Basel,Jazzkollektiv,2014-10-13,"['Peter Dieterle ', ' Federico Abraham ', ' Andy Herrmann ']","['Jazz', 'Blues', 'Soul']"
+14,Luzern,Take-Berlin,2014-10-13,['Take Berlin '],['Pop']

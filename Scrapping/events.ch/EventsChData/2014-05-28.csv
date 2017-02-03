@@ -1,27 +1,25 @@
-location,event,date,artists,genre
-Basel,Mimiko-Crossfade,2014-05-28,"['Estelle Costanzo ', ' Lindsay Buffington ']",Classic
-Basel,Masterrezital,2014-05-28,[' Víctor Barceló Suárez '],Classic
-Zürich,Christi-Himmelfahrt,2014-05-28,"['Hossein Samieian ', ' Felix Gubser ']",Classic
-Basel,Masterrezital,2014-05-28,[' Matías Laborde '],Classic
-Luzern,Piano-Entertainment,2014-05-28,['Mark Tenger '],
-Basel,Altstadt-Serenaden,2014-05-28,[' Miriam Feuersinger '],Classic
-Basel,Masterrezital,2014-05-28,[' Juan Jo Llopico Puig '],Classic
-Winterthur,Classic-Meets-Jazz,2014-05-28,[' Michel Camilo '],Classic
-Zürich,Klangvoller-Frühling,2014-05-28,"[' Lyda Chen-Argerich ', ' Maria Solozobova ', ' Künstlerische Leitung: Yuri Bashmet ']",Classic
-Luzern,Zaubersee-Eröffnungsnacht,2014-05-28,"[' Mischa Maisky ', ' Lily Maisky ', ' Daniil Trifonov ']",Classic
-Zürich,Marc-Sway,2014-05-28,"[' Marc Sway ', ' g) Jeremy Baer ', ' Manolo Winiger ', ' Simon Winiger ']",Pop
-Zürich,ZHdK-Masters-of-Pop,2014-05-28,"[' Benjamin Heart ', ' Miriana Hochreutener ']",Pop
-Baden,Blues-Festival-Baden,2014-05-28,['John Primer '],
-Basel,Kontrapunkt-IGNM-Basel,2014-05-28,"[' works by Thomas Lauck ', ' Alex Buess ', ' Rico Gubler ', ' Daniel Ott ']",Classic
-Feuerthalen,Gary-Nicholson,2014-05-28,['Gary Nicholson '],
-Zürich,The-Loodies,2014-05-28,['The Loodies '],Pop
-Bern,Throes-&-The-Shine,2014-05-28,['Throes & The Shine '],
-Basel,Nostalgia,2014-05-28,"[' Nils Wogram ', ' Arno Krijger ', ' Dejan Terzic ']",
-Baden,Fiona-Boyes,2014-05-28,['Fiona Boyes '],
-Köniz,The-Fugitives,2014-05-28,['The Fugitives '],Pop
-Zürich,Sarah-Macdougall,2014-05-28,['Sarah Macdougall '],Pop
-Zürich,Ema,2014-05-28,"['Ema ', ' support: Colleen Green ']",Pop
-Lausanne,Bleech,2014-05-28,['Bleech '],
-null,Planningtorock,2014-05-28,"['Planningtorock ', ' Gazele Twin ', ' Chevalier Avant Garde ']",Pop
-Zürich,La-grante-notte-italiana,2014-05-28,[' live: Gemelli DiVersi '],
-Basel,Combineharvester,2014-05-28,['Combineharvester '],
+,location,event,date,artists,genre
+0,Basel,Mimiko-Crossfade,2014-05-28,"['Estelle Costanzo ', ' Lindsay Buffington ']",['Classic']
+1,Basel,Masterrezital,2014-05-28,[' V?ctor Barcel? Su?rez '],['Classic']
+2,Z?rich,Christi-Himmelfahrt,2014-05-28,"['Hossein Samieian ', ' Felix Gubser ']",['Classic']
+3,Basel,Masterrezital,2014-05-28,[' Mat?as Laborde '],['Classic']
+4,Basel,Altstadt-Serenaden,2014-05-28,[' Miriam Feuersinger '],['Classic']
+5,Winterthur,Classic-Meets-Jazz,2014-05-28,[' Michel Camilo '],['Classic']
+6,Luzern,Zaubersee-Er?ffnungsnacht,2014-05-28,"[' Mischa Maisky ', ' Lily Maisky ', ' Daniil Trifonov ']",['Classic']
+7,Basel,Masterrezital,2014-05-28,[' Juan Jo Llopico Puig '],['Classic']
+8,Z?rich,Klangvoller-Fr?hling,2014-05-28,"[' Lyda Chen-Argerich ', ' Maria Solozobova ', ' K?nstlerische Leitung: Yuri Bashmet ']",['Classic']
+9,Basel,Kontrapunkt-IGNM-Basel,2014-05-28,"[' works by Thomas Lauck ', ' Alex Buess ', ' Rico Gubler ', ' Daniel Ott ']",['Classic']
+10,Baden,Blues-Festival-Baden,2014-05-28,['John Primer '],"['Jazz', 'Blues', 'Soul']"
+11,Z?rich,ZHdK-Masters-of-Pop,2014-05-28,"[' Benjamin Heart ', ' Miriana Hochreutener ']",['Pop']
+12,Z?rich,The-Loodies,2014-05-28,['The Loodies '],['Pop']
+13,Feuerthalen,Gary-Nicholson,2014-05-28,['Gary Nicholson '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Basel,Nostalgia,2014-05-28,"[' Nils Wogram ', ' Arno Krijger ', ' Dejan Terzic ']","['Jazz', 'Blues', 'Soul']"
+15,K?niz,The-Fugitives,2014-05-28,['The Fugitives '],['Pop']
+16,Bern,Throes-&-The-Shine,2014-05-28,[' The Shine '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Baden,Fiona-Boyes,2014-05-28,['Fiona Boyes '],"['Jazz', 'Blues', 'Soul']"
+18,Z?rich,Sarah-Macdougall,2014-05-28,['Sarah Macdougall '],['Pop']
+19,Z?rich,Ema,2014-05-28,"['Ema ', ' support: Colleen Green ']",['Pop']
+20,Lausanne,Bleech,2014-05-28,['Bleech '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Z?rich,La-grante-notte-italiana,2014-05-28,[' live: Gemelli DiVersi '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+22,null,Planningtorock,2014-05-28,"['Planningtorock ', ' Gazele Twin ', ' Chevalier Avant Garde ']",['Pop']
+23,Basel,Combineharvester,2014-05-28,['Combineharvester '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

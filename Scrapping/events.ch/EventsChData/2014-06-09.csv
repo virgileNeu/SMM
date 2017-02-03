@@ -1,13 +1,13 @@
-location,event,date,artists,genre
-Zürich,Festtags-Matinee,2014-06-09,"['Andreas Janke ', ' Michel Rouilly ', ' Christian Proske ', ' Frank Sanderell ', ' Yoshiko Iwai ']",Classic
-null,20-Jahre-Bird's-Eye-Club,2014-06-09,"['Alex Hendriksen Quartet ', ' Christoph Ràcz ']",
-Zofingen,Retour-an-dich,2014-06-09,"[' Daniela Müller ', ' Petra Ackermann ', ' Tamriko Kordzaia ', ' Karolina Öhmann ']",Classic
-Zürich,Film-&-Musik-Festival-Classic-Comedy-Heroes,2014-06-09,['Martin Christ '],Classic
-Basel,Pfingstkonzert,2014-06-09,"['Andreas Scholl ', ' Babette Mondry ']",Classic
-Luzern,20-Jahre-Schweizer-Jugendchor,2014-06-09,"[' Rudolf Rosen ', ' Ursula Füri-Bernhard ']",Classic
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-09,"['Robert Charlebois ', ' Les Surs Boulay ']",Pop
-Zürich,Kings-of-Leon,2014-06-09,['Kings of Leon '],
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-09,"['Mark Bérubé ', ' Mathieu Lippé ']",Pop
-Zürich,John-Herzig,2014-06-09,['John Herzig '],traditional
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-09,"['Anthony Kavanagh ', ' Klô Pelgag ']",Pop
-Zürich,The-Backyard-Devils,2014-06-09,['The Backyard Devils '],
+,location,event,date,artists,genre
+0,Z?rich,Festtags-Matinee,2014-06-09,"['Andreas Janke ', ' Michel Rouilly ', ' Christian Proske ', ' Frank Sanderell ', ' Yoshiko Iwai ']",['Classic']
+1,null,20-Jahre-Bird's-Eye-Club,2014-06-09,"['Alex Hendriksen Quartet ', ' Christoph R?cz ']","['Jazz', 'Blues', 'Soul']"
+2,Zofingen,Retour-an-dich,2014-06-09,"[' Daniela M?ller ', ' Petra Ackermann ', ' Tamriko Kordzaia ', ' Karolina ?hmann ']",['Classic']
+3,Z?rich,Film-&-Musik-Festival-Classic-Comedy-Heroes,2014-06-09,['Martin Christ '],['Classic']
+4,Basel,Pfingstkonzert,2014-06-09,"['Andreas Scholl ', ' Babette Mondry ']",['Classic']
+5,Luzern,20-Jahre-Schweizer-Jugendchor,2014-06-09,"[' Rudolf Rosen ', ' Ursula F?ri-Bernhard ']",['Classic']
+6,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-09,"['Robert Charlebois ', ' Les Surs Boulay ']",['Pop']
+7,Z?rich,Kings-of-Leon,2014-06-09,['Kings of Leon '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-09,"['Mark B?rub? ', ' Mathieu Lipp? ']",['Pop']
+9,Z?rich,John-Herzig,2014-06-09,['John Herzig '],['traditional']
+10,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-09,"['Anthony Kavanagh ', ' Kl? Pelgag ']",['Pop']
+11,Z?rich,The-Backyard-Devils,2014-06-09,['The Backyard Devils '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

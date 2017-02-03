@@ -1,13 +1,13 @@
-location,event,date,artists,genre
-Zürich,Motettengottesdienst,2014-07-13,[' Andreas Jost '],Classic
-St.-Moritz,Festival-da-Jazz,2014-07-13,"['Bê Ignacio ', ' Bê Ignacio ', ' Oliver Pellet Santos ', ' Edmundo Carneiro ', ' Markus Schmidt ']",
-Birr,Sommer-Brunch,2014-07-13,"[' Gino Todesco ', ' Andy Bopp ', ' Tcha Simmons ']",
-Neuheim,Festival-Sommerklänge,2014-07-13,"[' Ivan Podyomov ', ' Maria Alba Carmona ', ' Diego Chenna ', ' Simon Hartmann ']",Classic
-Marly,Charlie-Morris,2014-07-13,"['Charlie Morris ', ' Charlie Morris ', ' Markus Baumer ', ' David Clarke ', ' Marco Jeanrenaud ']",
-St.-Moritz,Festival-da-Jazz,2014-07-13,"['Bê Ignacio ', ' Bê Ignacio ', ' Oliver Pellet Santos ', ' Edmundo Carneiro ', ' Markus Schmidt ']",
-Montreux,Montreux-Jazz-Festival,2014-07-13,"['Monty Alexander ', ' Mulatu Astatke ']",
-Montreux,Montreux-Jazz-Festival,2014-07-13,"['Robin Thicke ', ' Paloma Faith ']",
-Zürich,La-Tipica-Sanata,2014-07-13,"[' Julien Bondel ', ' Mehdi Al Tinaoui ', ' Estanislao Sanchez ', ' Felipe Nicholls ', ' Roland Carbety ']",
-Zürich,Live-at-Sunset,2014-07-13,['Texas '],
-Montreux,Montreux-Jazz-Festival,2014-07-13,"['Archive ', ' Chet Faker ']",
-Veytaux,Montreux-Jazz-Festival,2014-07-13,"['Burhan Öçal ', ' Leo Tardin ']",
+,location,event,date,artists,genre
+0,Z?rich,Motettengottesdienst,2014-07-13,[' Andreas Jost '],['Classic']
+1,St.-Moritz,Festival-da-Jazz,2014-07-13,"['B? Ignacio ', ' B? Ignacio ', ' Oliver Pellet Santos ', ' Edmundo Carneiro ', ' Markus Schmidt ']","['Jazz', 'Blues', 'Soul']"
+2,Birr,Sommer-Brunch,2014-07-13,"[' Gino Todesco ', ' Andy Bopp ', ' Tcha Simmons ']","['Hip', 'Hop', ""R'n'B""]"
+3,Neuheim,Festival-Sommerkl?nge,2014-07-13,"[' Ivan Podyomov ', ' Maria Alba Carmona ', ' Diego Chenna ', ' Simon Hartmann ']",['Classic']
+4,St.-Moritz,Festival-da-Jazz,2014-07-13,"['B? Ignacio ', ' B? Ignacio ', ' Oliver Pellet Santos ', ' Edmundo Carneiro ', ' Markus Schmidt ']","['Jazz', 'Blues', 'Soul']"
+5,Marly,Charlie-Morris,2014-07-13,"['Charlie Morris ', ' Charlie Morris ', ' Markus Baumer ', ' David Clarke ', ' Marco Jeanrenaud ']","['Jazz', 'Blues', 'Soul']"
+6,Montreux,Montreux-Jazz-Festival,2014-07-13,"['Monty Alexander ', ' Mulatu Astatke ']","['Jazz', 'Blues', 'Soul']"
+7,Montreux,Montreux-Jazz-Festival,2014-07-13,"['Robin Thicke ', ' Paloma Faith ']","['Hip', 'Hop', ""R'n'B""]"
+8,Montreux,Montreux-Jazz-Festival,2014-07-13,"['Archive ', ' Chet Faker ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Live-at-Sunset,2014-07-13,['Texas '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Z?rich,La-Tipica-Sanata,2014-07-13,"[' Julien Bondel ', ' Mehdi Al Tinaoui ', ' Estanislao Sanchez ', ' Felipe Nicholls ', ' Roland Carbety ']","['world', 'music']"
+11,Veytaux,Montreux-Jazz-Festival,2014-07-13,"['Burhan ??al ', ' Leo Tardin ']","['Jazz', 'Blues', 'Soul']"

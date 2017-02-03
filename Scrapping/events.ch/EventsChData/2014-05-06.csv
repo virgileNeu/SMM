@@ -1,24 +1,23 @@
-location,event,date,artists,genre
-Basel,Masterrezital,2014-05-06,['Momoko Kawamoto '],Classic
-Luzern,Piano-Entertainment,2014-05-06,['Daniel Ross '],Pop
-Zürich,Jazzapero,2014-05-06,"[' Rodrigo Botter Maio ', ' Floriano Inácio Jr.', ' Dudu Penz ', ' Florian Reichle ']",
-Zürich,Konzert-um-halb-acht,2014-05-06,['Gregor Ehrsam '],Classic
-null,5.-Meisterzyklus-Konzert,2014-05-06,"['Baiba Skride ', ' Daniel Müller-Schott', ' Xavier de Maistre ']",Classic
-Zürich,Klavierrezital,2014-05-06,['Mikhail Pletnev '],Classic
-Zürich,Sonderkonzert,2014-05-06,"[' Bla Kemperle ', ' Erik Nestler ', ' Alan Luar ', ' David Brand ']",Classic
-Burgdorf,Young-Artists,2014-05-06,"[' Isabelle Ritter ', ' Jakob Hampel ']",Pop
-Zürich,Tarja,2014-05-06,['Tarja '],
-Zürich,Get-Dead,2014-05-06,['Get Dead '],
-Solothurn,MxPx,2014-05-06,['MxPx '],
-null,The-Crazy-World-of-Arthur-Brown,2014-05-06,['The Crazy World of Arthur Brown '],
-Zürich,Sean-Paul,2014-05-06,['Sean Paul '],
-Zürich,Ducadu,2014-05-06,"[' Simon Schwaninger ', ' Silvan Jeger ', ' Martin Perret ']",
-Basel,Bachelorkonzert,2014-05-06,[' Josquin Piguet '],Classic
-Dietikon,JazzDietikon,2014-05-06,"[' Pius Baschnagel ', ' Gregor Müller ', ' Herbert Kramis ']",
-Zürich,Elliott-Sharp-Terraplane,2014-05-06,"['Elliott Sharp Terraplane ', ' Elliott Sharp ', ' Tracie Morris ', ' David Hofstra ', ' Don McKenzie II ']",
-Zürich,Juan-Carlos-Zeta,2014-05-06,['Juan Carlos Zeta '],
-Lausanne,The-Residents,2014-05-06,['The Residents '],
-Basel,Simon-Spiess-Trio-feat.-Lester-Menezes,2014-05-06,"[' Simon Spiess ', ' Lester Menezes ', ' Bänz Oester ', ' Daniel Mudrack ']",
-null,Elway,2014-05-06,"['Elway ', ' John McMahon ']",
-Luzern,Stoned-Jesus,2014-05-06,['Stoned Jesus '],
-Basel,Salsaloca,2014-05-06,[' El Chino '],
+,location,event,date,artists,genre
+0,Basel,Masterrezital,2014-05-06,['Momoko Kawamoto '],['Classic']
+1,Z?rich,Jazzapero,2014-05-06,"[' Rodrigo Botter Maio ', ' Floriano In?cio Jr.', ' Dudu Penz ', ' Florian Reichle ']","['world', 'music']"
+2,null,5.-Meisterzyklus-Konzert,2014-05-06,"['Baiba Skride ', ' Daniel M?ller-Schott', ' Xavier de Maistre ']",['Classic']
+3,Z?rich,Sonderkonzert,2014-05-06,"[' Bla Kemperle ', ' Erik Nestler ', ' Alan Luar ', ' David Brand ']",['Classic']
+4,Z?rich,Klavierrezital,2014-05-06,['Mikhail Pletnev '],['Classic']
+5,Z?rich,Konzert-um-halb-acht,2014-05-06,['Gregor Ehrsam '],['Classic']
+6,Z?rich,Get-Dead,2014-05-06,['Get Dead '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Sean-Paul,2014-05-06,['Sean Paul '],"['Hip', 'Hop', ""R'n'B""]"
+8,Solothurn,MxPx,2014-05-06,['MxPx '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Ducadu,2014-05-06,"[' Simon Schwaninger ', ' Silvan Jeger ', ' Martin Perret ']","['Jazz', 'Blues', 'Soul']"
+10,null,The-Crazy-World-of-Arthur-Brown,2014-05-06,['The Crazy World of Arthur Brown '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Burgdorf,Young-Artists,2014-05-06,"[' Isabelle Ritter ', ' Jakob Hampel ']",['Pop']
+12,Z?rich,Tarja,2014-05-06,['Tarja '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Dietikon,JazzDietikon,2014-05-06,"[' Pius Baschnagel ', ' Gregor M?ller ', ' Herbert Kramis ']","['Jazz', 'Blues', 'Soul']"
+14,Basel,Bachelorkonzert,2014-05-06,[' Josquin Piguet '],['Classic']
+15,Z?rich,Juan-Carlos-Zeta,2014-05-06,['Juan Carlos Zeta '],"['world', 'music']"
+16,Lausanne,The-Residents,2014-05-06,['The Residents '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Basel,Simon-Spiess-Trio-feat.-Lester-Menezes,2014-05-06,"[' Simon Spiess ', ' Lester Menezes ', ' B?nz Oester ', ' Daniel Mudrack ']","['Jazz', 'Blues', 'Soul']"
+18,Z?rich,Elliott-Sharp-Terraplane,2014-05-06,"['Elliott Sharp Terraplane ', ' Elliott Sharp ', ' Tracie Morris ', ' David Hofstra ', ' Don McKenzie II ']","['Jazz', 'Blues', 'Soul']"
+19,Basel,Salsaloca,2014-05-06,[' El Chino '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+20,null,Elway,2014-05-06,"['Elway ', ' John McMahon ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Luzern,Stoned-Jesus,2014-05-06,['Stoned Jesus '],"['Jazz', 'Blues', 'Soul']"

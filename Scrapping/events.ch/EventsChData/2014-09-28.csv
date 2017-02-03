@@ -1,42 +1,42 @@
-location,event,date,artists,genre
-Zürich,175-Jahre-Kirche-Neumünster-1839-Nachklänge,2014-09-28,['Works by Peter Appenzeller '],Classic
-Luzern,World-Band-Festival-Tattoo-on-Stage,2014-09-28,"['Orchester der Suworow Militärakademie Moskau ', ' Shanghai Jiangzhou Drum Company ', ' New Zealand Army Band ']",traditional
-Zürich,Monte-Carlo,2014-09-28,['Monte Carlo '],Pop
-Dielsdorf,Souljazz,2014-09-28,"[' Tatjana Bucher ', ' Daniel Notter ', ' Hannes Hänggli ']",
-Schupfart,Schupfart-Festival,2014-09-28,[' Jürgen Drews '],traditional
-Zürich,Ein-Feuerwerk-für-Trompeten-und-Posaunen,2014-09-28,"['Philippe Litzler ', ' Heinz Saurer ', ' Paulo Muñoz-Toledo ', ' Seth Quistad ', ' Bill Thomas ']",Classic
-Liestal,Thomas-Achermann,2014-09-28,"['Thomas Achermann ', ' Andi Seidt ', ' Martin Zangerl ']",Pop
-Zürich,Monte-Carlo,2014-09-28,['Monte Carlo '],Pop
-Luzern,World-Band-Festival-Tattoo-on-Stage,2014-09-28,"['Orchester der Suworow Militärakademie Moskau ', ' Shanghai Jiangzhou Drum Company ', ' New Zealand Army Band ']",traditional
-Luzern,World-Band-Festival-Praise-Jerusalem,2014-09-28,[' Raphael Christen '],Classic
-Luzern,Bach-Ensemble,2014-09-28,"[' Anna Katharina Künzi ', ' Simon Witzig ']",Classic
-Zürich,Rhythm-&-Romance,2014-09-28,[' Tomas Grossenbacher '],Classic
-null,Heimathome-Fest,2014-09-28,"[' Dead Side ', ' Worn-Out ']",
-Appenzell,Volkhorn-Volkslieder-aus-dem-Herzen-Europas,2014-09-28,[' Renato Kaiser '],Classic
-Zürich,Benefizkonzert-für-das-Albert-Schweitzer-Spital-Haiti,2014-09-28,[' Christiane Engel '],Classic
-Zürich,Giocoso,2014-09-28,[' Manuel Leuenberger '],Classic
-Hochdorf,Die-Amigos,2014-09-28,['Die Amigos '],traditional
-Basel,10-Jahre-Philharmonisches-Orchester-Riehen,2014-09-28,"[' Amélie Gehweiler ', ' Isabel Gehweiler ', ' Marret Popp ']",Classic
-Uster,Konzert,2014-09-28,"[' Sandro Müller ', ' Barbara Müller ']",Classic
-Basel,Venezia-Musik-aus-San-Marco,2014-09-28,[' Adrien Pièce '],Classic
-Zürich,Messa-di-Gloria,2014-09-28,"[' Maria C. Schmid ', ' Tino Brütsch ', ' René Perler ']",Classic
-Dübendorf,Italienischer-Apéro,2014-09-28,"['Res Kielholz ', ' Andreas Pantli ']",Classic
-Frenkendorf,Barocknacht,2014-09-28,"['Regula Konrad ', ' Pamina Blum ', ' Eriko Wakita ']",Classic
-Zürich,Konzert,2014-09-28,"[' Maria C. Schmid ', ' Tino Brütsch ', ' René Perler ']",Classic
-Winterthur,Tänzerische-Serenade,2014-09-28,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-Zürich,Saisoneröffnung,2014-09-28,"[' Daniel Hope ', ' Willi Zimmermann ']",Classic
-Basel,Oriental-&-Flamenco-Gypsy-Festival,2014-09-28,"['Romano Drom ', ' Juan De Gloria ']",
-Zürich,Yaron-Hermann-&-Adam-Baldych-Duo,2014-09-28,"['Yaron Hermann & Adam Baldych Duo ', ' Yaron Hermann ', ' Adam Baldych ']",
-Zürich,Klus-Classics,2014-09-28,"['Benjamin Forster ', ' Klaus Schwärzler ']",Classic
-Basel,Das-6.-goldene-Konzert,2014-09-28,"['Malcolm Bilson ', ' Zvi Meniker ', ' Ruth Holton ']",Classic
-Zürich,Franco-Battiato,2014-09-28,['Franco Battiato '],Pop
-Bern,Ustad-Shafqat-Ali-Khan,2014-09-28,['Ustad Shafqat Ali Khan '],
-Basel,Herbst,2014-09-28,"[' Ann Allen ', ' Corina Marti ', ' Caroline Ritchie ', ' works by Ann Allen ', ' Corina Marti ', ' Caroline Ritchie ']",Classic
-Rafz,Konzert,2014-09-28,"['Jakub Savytsky ', ' Anna Dzialak Savytsky ']",Classic
-Zürich,1.-Philharmonisches-Konzert,2014-09-28,[' Anna Stephány '],Classic
-Bern,Alana-Amram-&-The-Rough-Gems,2014-09-28,['Alana Amram & The Rough Gems '],Pop
-Zürich,Hackensaw-Boys,2014-09-28,['Hackensaw Boys '],
-Bern,Trentemøller,2014-09-28,['Trentemøller '],Electronic
-Bern,Leila-Martial-Baa-Box,2014-09-28,['Leila Martial Baa Box '],
-Zürich,Sylvan-Esso,2014-09-28,['Sylvan Esso '],Pop
-null,Salsa-Sunday,2014-09-28,[' live: Alexander Cachaca '],
+,location,event,date,artists,genre
+0,Z?rich,175-Jahre-Kirche-Neum?nster-1839-Nachkl?nge,2014-09-28,['Works by Peter Appenzeller '],['Classic']
+1,Luzern,World-Band-Festival-Tattoo-on-Stage,2014-09-28,"['Orchester der Suworow Milit?rakademie Moskau ', ' Shanghai Jiangzhou Drum Company ', ' New Zealand Army Band ']",['traditional']
+2,Z?rich,Monte-Carlo,2014-09-28,['Monte Carlo '],['Pop']
+3,Dielsdorf,Souljazz,2014-09-28,"[' Tatjana Bucher ', ' Daniel Notter ', ' Hannes H?nggli ']","['Jazz', 'Blues', 'Soul']"
+4,Schupfart,Schupfart-Festival,2014-09-28,[' J?rgen Drews '],['traditional']
+5,Z?rich,Ein-Feuerwerk-f?r-Trompeten-und-Posaunen,2014-09-28,"['Philippe Litzler ', ' Heinz Saurer ', ' Paulo Mu?oz-Toledo ', ' Seth Quistad ', ' Bill Thomas ']",['Classic']
+6,Liestal,Thomas-Achermann,2014-09-28,"['Thomas Achermann ', ' Andi Seidt ', ' Martin Zangerl ']",['Pop']
+7,Z?rich,Monte-Carlo,2014-09-28,['Monte Carlo '],['Pop']
+8,Z?rich,Giocoso,2014-09-28,[' Manuel Leuenberger '],['Classic']
+9,Basel,10-Jahre-Philharmonisches-Orchester-Riehen,2014-09-28,"[' Am?lie Gehweiler ', ' Isabel Gehweiler ', ' Marret Popp ']",['Classic']
+10,Uster,Konzert,2014-09-28,"[' Sandro M?ller ', ' Barbara M?ller ']",['Classic']
+11,Hochdorf,Die-Amigos,2014-09-28,['Die Amigos '],['traditional']
+12,Luzern,World-Band-Festival-Tattoo-on-Stage,2014-09-28,"['Orchester der Suworow Milit?rakademie Moskau ', ' Shanghai Jiangzhou Drum Company ', ' New Zealand Army Band ']",['traditional']
+13,Luzern,Bach-Ensemble,2014-09-28,"[' Anna Katharina K?nzi ', ' Simon Witzig ']",['Classic']
+14,Appenzell,Volkhorn-Volkslieder-aus-dem-Herzen-Europas,2014-09-28,[' Renato Kaiser '],['Classic']
+15,Luzern,World-Band-Festival-Praise-Jerusalem,2014-09-28,[' Raphael Christen '],['Classic']
+16,Z?rich,Rhythm-&-Romance,2014-09-28,[' Tomas Grossenbacher '],['Classic']
+17,Z?rich,Benefizkonzert-f?r-das-Albert-Schweitzer-Spital-Haiti,2014-09-28,[' Christiane Engel '],['Classic']
+18,null,Heimathome-Fest,2014-09-28,"[' Dead Side ', ' Worn-Out ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Basel,Venezia-Musik-aus-San-Marco,2014-09-28,[' Adrien Pi?ce '],['Classic']
+20,D?bendorf,Italienischer-Ap?ro,2014-09-28,"['Res Kielholz ', ' Andreas Pantli ']",['Classic']
+21,Z?rich,Konzert,2014-09-28,"[' Maria C. Schmid ', ' Tino Br?tsch ', ' Ren? Perler ']",['Classic']
+22,Winterthur,T?nzerische-Serenade,2014-09-28,"[' Praxedis Hug-R?tti ', ' Praxedis Genevi?ve Hug ']",['Classic']
+23,Z?rich,Messa-di-Gloria,2014-09-28,"[' Maria C. Schmid ', ' Tino Br?tsch ', ' Ren? Perler ']",['Classic']
+24,Frenkendorf,Barocknacht,2014-09-28,"['Regula Konrad ', ' Pamina Blum ', ' Eriko Wakita ']",['Classic']
+25,Basel,Oriental-&-Flamenco-Gypsy-Festival,2014-09-28,"['Romano Drom ', ' Juan De Gloria ']","['world', 'music']"
+26,Z?rich,Yaron-Hermann-&-Adam-Baldych-Duo,2014-09-28,"[' Adam Baldych Duo ', ' Yaron Hermann ', ' Adam Baldych ']","['Jazz', 'Blues', 'Soul']"
+27,Z?rich,Saisoner?ffnung,2014-09-28,"[' Daniel Hope ', ' Willi Zimmermann ']",['Classic']
+28,Z?rich,Klus-Classics,2014-09-28,"['Benjamin Forster ', ' Klaus Schw?rzler ']",['Classic']
+29,Basel,Das-6.-goldene-Konzert,2014-09-28,"['Malcolm Bilson ', ' Zvi Meniker ', ' Ruth Holton ']",['Classic']
+30,Bern,Alana-Amram-&-The-Rough-Gems,2014-09-28,[' The Rough Gems '],['Pop']
+31,Z?rich,1.-Philharmonisches-Konzert,2014-09-28,[' Anna Steph?ny '],['Classic']
+32,Bern,Ustad-Shafqat-Ali-Khan,2014-09-28,['Ustad Shafqat Ali Khan '],"['world', 'music']"
+33,Z?rich,Franco-Battiato,2014-09-28,['Franco Battiato '],['Pop']
+34,Rafz,Konzert,2014-09-28,"['Jakub Savytsky ', ' Anna Dzialak Savytsky ']",['Classic']
+35,Basel,Herbst,2014-09-28,"[' Ann Allen ', ' Corina Marti ', ' Caroline Ritchie ', ' works by Ann Allen ', ' Corina Marti ', ' Caroline Ritchie ']",['Classic']
+36,Z?rich,Hackensaw-Boys,2014-09-28,['Hackensaw Boys '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Bern,Trentem?ller,2014-09-28,['Trentem?ller '],['Electronic']
+38,Bern,Leila-Martial-Baa-Box,2014-09-28,['Leila Martial Baa Box '],"['Jazz', 'Blues', 'Soul']"
+39,Z?rich,Sylvan-Esso,2014-09-28,['Sylvan Esso '],['Pop']
+40,null,Salsa-Sunday,2014-09-28,[' live: Alexander Cachaca '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

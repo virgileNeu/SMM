@@ -1,18 +1,18 @@
-location,event,date,artists,genre
-Bern,Hommage-à-Lutoslawski,2013-01-31,[' Ivan Monighetti '],Classic
-Baden,Angelo-Christidis-&-Jens-Krieg,2013-01-31,['Angelo Christidis & Jens Krieg '],
-Zürich,Urs-C.-Eigenmann-Quartet,2013-01-31,"[' Urs C. Eigenmann ', ' Erwin Pfeifer ', ' Beni Leumann ', ' Sebastian Ott ']",
-Basel,Protonwerk,2013-01-31,"[' Àgnes Vass ', ' Martin Bliggenstorfer ', ' Heather Roche ', ' Lucas Rössner ', ' Max Haft ', ' Eva Boesch ', ' Samuel Fried ', ' Estelle Costanzo ']",Classic
-Theater-Ticino,Wädenswil,2013-01-31,"[' Claudia Greber ', ' Fabienne Ambühl ', ' Simon Iten ']",
-Luzern,Lucerne-Jazz-Orchestras,2013-01-31,"[' Karin Meier ', ' Dave Blaser ', ' Linus Hunkeler ', ' Matthias Spillmann ', ' Aurel Nowak ', ' Lukas Wyss ', ' Lukas Briggen ', ' Silvio Cadotsch ', ' Jan Schreiner ', ' Florian Egli ', ' Tobias Meier ', 'Christoph Irniger ', ' Rafael Schilt ', ' Matthias Tschopp ', ' Hannes Bürgi ', ' Davie Gisler ', ' Raffaele Bossard ', ' Dominic Egli ']",
-Liebefeld,Hellmüller-Risso-Papaux,2013-01-31,"[' Franz Hellmüller ', ' Marcel Papaux ']",
-Bern,Scream-Your-Name,2013-01-31,"['Scream Your Name ', ' We Set the Sun ']",
-Basel,Doug-Hammonds-New-Jazz-Quartet,2013-01-31,"[' Félix Rossy ', ' Stephane Payen ', ' Muneer B. Fennell ', ' Doug Hammond ']",
-null,Ana-Moura,2013-01-31,['Ana Moura '],
-Prima-Vista,Baden,2013-01-31,"[' Toni Donadio ', ' Nic Niedermann ', ' Urs Wäckerli ', ' Thomas Hirt ']",
-Teatro-Sociale,Bellinzona,2013-01-31,['Gianmaria Testa '],
-Zürich,Touchy-Mob,2013-01-31,"['Touchy Mob ', ' support: Tellavision ']",
-Zürich,Sweet-N-Tender-Hooligans,2013-01-31,"[' Nick Nobody ', ' Diskomurder ']",Electronic
-Pontresina,Bouganville,2013-01-31,['Bouganville '],
-Zürich,Josh,2013-01-31,"[' Janine Cathrein ', ' Vera Cathrein ', ' Simon Cathrein ', ' Yannick Schmutz ', ' Stefan Aegerter ', ' Paul Märki ']",Pop
-Chur,Born-Gold,2013-01-31,['Born Gold '],Electronic
+,location,event,date,artists,genre
+0,Bern,Hommage-à-Lutoslawski,2013-01-31,[' Ivan Monighetti '],['Classic']
+1,Theater-Ticino,Wädenswil,2013-01-31,"[' Claudia Greber ', ' Fabienne Ambühl ', ' Simon Iten ']","['Harmonie', 'Greber']"
+2,Baden,Angelo-Christidis-&-Jens-Krieg,2013-01-31,['Angelo Christidis & Jens Krieg '],"['Jazz', 'Blues', 'Soul']"
+3,Zürich,Urs-C.-Eigenmann-Quartet,2013-01-31,"[' Urs C. Eigenmann ', ' Erwin Pfeifer ', ' Beni Leumann ', ' Sebastian Ott ']","['Jazz', 'Blues', 'Soul']"
+4,Basel,Protonwerk,2013-01-31,"[' Àgnes Vass ', ' Martin Bliggenstorfer ', ' Heather Roche ', ' Lucas Rössner ', ' Max Haft ', ' Eva Boesch ', ' Samuel Fried ', ' Estelle Costanzo ']",['Classic']
+5,null,Ana-Moura,2013-01-31,['Ana Moura '],"['world', 'music']"
+6,Basel,Doug-Hammonds-New-Jazz-Quartet,2013-01-31,"[' Félix Rossy ', ' Stephane Payen ', ' Muneer B. Fennell ', ' Doug Hammond ']","['Jazz', 'Blues', 'Soul']"
+7,Bern,Scream-Your-Name,2013-01-31,"['Scream Your Name ', ' We Set the Sun ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Liebefeld,Hellmüller-Risso-Papaux,2013-01-31,"[' Franz Hellmüller ', ' Marcel Papaux ']","['Jazz', 'Blues', 'Soul']"
+9,Luzern,Lucerne-Jazz-Orchestras,2013-01-31,"[' Karin Meier ', ' Dave Blaser ', ' Linus Hunkeler ', ' Matthias Spillmann ', ' Aurel Nowak ', ' Lukas Wyss ', ' Lukas Briggen ', ' Silvio Cadotsch ', ' Jan Schreiner ', ' Florian Egli ', ' Tobias Meier ', 'Christoph Irniger ', ' Rafael Schilt ', ' Matthias Tschopp ', ' Hannes Bürgi ', ' Davie Gisler ', ' Raffaele Bossard ', ' Dominic Egli ']","['Jazz', 'Blues', 'Soul']"
+10,Prima-Vista,Baden,2013-01-31,"[' Toni Donadio ', ' Nic Niedermann ', ' Urs Wäckerli ', ' Thomas Hirt ']","['Tonic', 'Strings']"
+11,Teatro-Sociale,Bellinzona,2013-01-31,['Gianmaria Testa '],"['Gianmaria', 'Testa']"
+12,Zürich,Touchy-Mob,2013-01-31,"['Touchy Mob ', ' support: Tellavision ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Pontresina,Bouganville,2013-01-31,['Bouganville '],"['Hip', 'Hop', ""R'n'B""]"
+14,Zürich,Josh,2013-01-31,"[' Janine Cathrein ', ' Vera Cathrein ', ' Simon Cathrein ', ' Yannick Schmutz ', ' Stefan Aegerter ', ' Paul Märki ']",['Pop']
+15,Chur,Born-Gold,2013-01-31,['Born Gold '],['Electronic']
+16,Zürich,Sweet-N-Tender-Hooligans,2013-01-31,"[' Nick Nobody ', ' Diskomurder ']",['Electronic']

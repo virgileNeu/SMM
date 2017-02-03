@@ -1,29 +1,29 @@
-location,event,date,artists,genre
-Luzern,Butch-Miles-Jubilee-Band,2014-03-09,"[' Butch Miles ', ' Duke Heitger ', ' Antti Sarpila ', ' Ian Bateman ', ' Henning Gailing ', ' Mark Shane ']",
-Winterthur,Woodhouse-Jazzband-feat.-Lydia-van-Dam,2014-03-09,['Woodhouse Jazzband feat. Marie Daniels '],
-Dornach,Werkstattkonzert,2014-03-09,"['Christian Ginat ', ' Marcus Gerhardts ']",Classic
-Zürich,Kammermusik,2014-03-09,"['Emanuele Forni ', ' Igor Karsko ', ' Jana Karsko ', ' Frauke Tometten Molino ', ' Nicola Mosca ']",Classic
-Bern,Terzett,2014-03-09,"[' Anouk Theurillat ', ' Isabelle Magnenat ', ' Ulrike Lachner ']",Classic
-null,Die-Welt-der-7-Saiten,2014-03-09,['Jakob David Ratinger '],Classic
-Zürich,Konzert,2014-03-09,[' Krystian Zimerman '],Classic
-Zürich,Nuggi-Konzert,2014-03-09,"['Emanuele Forni ', ' Igor Karsko ', ' Jana Karsko ', ' Frauke Tometten Molino ', ' Nicola Mosca ']",Classic
-Zürich,Spektren-Benefizkonzert,2014-03-09,"['Matthias Weilenmann ', ' Etsuko Nakade ']",Classic
-Zürich,Kaffeehausmusik,2014-03-09,"['Daniela Eaton-Freiburghaus ', ' Katja Peter ']",Classic
-Basel,Clavichord-plus...-ein-Versuch-,2014-03-09,"['Maya Homberger ', ' Andreas Erismann ']",Classic
-Volketswil,Volketswiler-Abendmusik,2014-03-09,"[' Katrin Bamert ', ' Ursina Brun ', ' Domenic Janett ', ' Ruth Michael ', ' Brigitte Brouwer ']",Classic
-Zürich,Ferne-Geliebte-Dichterliebe,2014-03-09,[' Christoph Prégardien '],Classic
-Baden,Klavierrezital,2014-03-09,['Praxedis Geneviève Hug '],Classic
-Winterthur,Trio-Arazón,2014-03-09,"[' Annette Rüegg ', ' Jojo Kunz ', ' Franziska Pancha Hämmerli ']",
-Thalwil,Das-Beste-aus-der-Tonhalle,2014-03-09,"['Julia Becker ', ' Thomas Grossenbacher ']",Classic
-Zürich,Brahms-&-Bruckner,2014-03-09,"[' Bartek Niziol ', ' Claudius Hermann ']",Classic
-Zürich,Kaleidoscope-String-Quartet,2014-03-09,"[' Simon Heggendorn ', ' Ronny Spiegel ', ' David Schnee ', ' Solme Hong ']",
-Zürich,Jovenes-Flamencos,2014-03-09,"['Jovenes Flamencos ', ' Rafael Espejo ', ' Niño Seve ', ' Antonio Flores ']",
-Uster,Royal-Hunt,2014-03-09,"['Royal Hunt ', ' Cloudscape ']",
-Winterthur,Boogie-Fox,2014-03-09,"[' Anet Zemp ', ' Marc Scheidegger ', ' Ralph Sonderegger ']",
-Zürich,Podium-der-jungen-Talente,2014-03-09,"['Elvin Hoxha ', ' Kivanc Tire ', ' Veriko Cumburidze ', ' Nilay Özdemir ', ' Dorukhan Doruk ']",Classic
-Zürich,Jason-Derulo,2014-03-09,['Jason Derulo '],
-Solothurn,Heather-Nova,2014-03-09,['Heather Nova '],Pop
-Rubigen,Blues-Caravan-2014,2014-03-09,"['Laurence Jones ', ' Christina Skjolberg ', ' Albert Castiglia ']",
-Bern,Piano-Vision,2014-03-09,['Aki Hoffmann '],Classic
-null,Glowsun,2014-03-09,"['Glowsun ', ' Robots of next Thuesday ']",
-Basel,Antz-in-the-Pantz-feat.-DJ-Format-&-Mr.-Thing,2014-03-09,['Antz in the Pantz feat. DJ Format & Mr. Thing '],
+,location,event,date,artists,genre
+0,Luzern,Butch-Miles-Jubilee-Band,2014-03-09,"[' Butch Miles ', ' Duke Heitger ', ' Antti Sarpila ', ' Ian Bateman ', ' Henning Gailing ', ' Mark Shane ']","['Jazz', 'Blues', 'Soul']"
+1,Winterthur,Woodhouse-Jazzband-feat.-Lydia-van-Dam,2014-03-09,['Woodhouse Jazzband feat. Marie Daniels '],"['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Kammermusik,2014-03-09,"['Emanuele Forni ', ' Igor Karsko ', ' Jana Karsko ', ' Frauke Tometten Molino ', ' Nicola Mosca ']",['Classic']
+3,Bern,Terzett,2014-03-09,"[' Anouk Theurillat ', ' Isabelle Magnenat ', ' Ulrike Lachner ']",['Classic']
+4,null,Die-Welt-der-7-Saiten,2014-03-09,['Jakob David Ratinger '],['Classic']
+5,Dornach,Werkstattkonzert,2014-03-09,"['Christian Ginat ', ' Marcus Gerhardts ']",['Classic']
+6,Z?rich,Konzert,2014-03-09,[' Krystian Zimerman '],['Classic']
+7,Z?rich,Nuggi-Konzert,2014-03-09,"['Emanuele Forni ', ' Igor Karsko ', ' Jana Karsko ', ' Frauke Tometten Molino ', ' Nicola Mosca ']",['Classic']
+8,Z?rich,Spektren-Benefizkonzert,2014-03-09,"['Matthias Weilenmann ', ' Etsuko Nakade ']",['Classic']
+9,Z?rich,Kaffeehausmusik,2014-03-09,"['Daniela Eaton-Freiburghaus ', ' Katja Peter ']",['Classic']
+10,Thalwil,Das-Beste-aus-der-Tonhalle,2014-03-09,"['Julia Becker ', ' Thomas Grossenbacher ']",['Classic']
+11,Z?rich,Brahms-&-Bruckner,2014-03-09,"[' Bartek Niziol ', ' Claudius Hermann ']",['Classic']
+12,Basel,Clavichord-plus...-ein-Versuch-,2014-03-09,"['Maya Homberger ', ' Andreas Erismann ']",['Classic']
+13,Volketswil,Volketswiler-Abendmusik,2014-03-09,"[' Katrin Bamert ', ' Ursina Brun ', ' Domenic Janett ', ' Ruth Michael ', ' Brigitte Brouwer ']",['Classic']
+14,Z?rich,Ferne-Geliebte-Dichterliebe,2014-03-09,[' Christoph Pr?gardien '],['Classic']
+15,Baden,Klavierrezital,2014-03-09,['Praxedis Genevi?ve Hug '],['Classic']
+16,Winterthur,Trio-Araz?n,2014-03-09,"[' Annette R?egg ', ' Jojo Kunz ', ' Franziska Pancha H?mmerli ']","['world', 'music']"
+17,Z?rich,Jovenes-Flamencos,2014-03-09,"['Jovenes Flamencos ', ' Rafael Espejo ', ' Ni?o Seve ', ' Antonio Flores ']","['world', 'music']"
+18,Z?rich,Kaleidoscope-String-Quartet,2014-03-09,"[' Simon Heggendorn ', ' Ronny Spiegel ', ' David Schnee ', ' Solme Hong ']","['Jazz', 'Blues', 'Soul']"
+19,Uster,Royal-Hunt,2014-03-09,"['Royal Hunt ', ' Cloudscape ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Z?rich,Podium-der-jungen-Talente,2014-03-09,"['Elvin Hoxha ', ' Kivanc Tire ', ' Veriko Cumburidze ', ' Nilay ?zdemir ', ' Dorukhan Doruk ']",['Classic']
+21,Winterthur,Boogie-Fox,2014-03-09,"[' Anet Zemp ', ' Marc Scheidegger ', ' Ralph Sonderegger ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Solothurn,Heather-Nova,2014-03-09,['Heather Nova '],['Pop']
+23,Bern,Piano-Vision,2014-03-09,['Aki Hoffmann '],['Classic']
+24,Rubigen,Blues-Caravan-2014,2014-03-09,"['Laurence Jones ', ' Christina Skjolberg ', ' Albert Castiglia ']","['Jazz', 'Blues', 'Soul']"
+25,Z?rich,Jason-Derulo,2014-03-09,['Jason Derulo '],"['Hip', 'Hop', ""R'n'B""]"
+26,null,Glowsun,2014-03-09,"['Glowsun ', ' Robots of next Thuesday ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Basel,Antz-in-the-Pantz-feat.-DJ-Format-&-Mr.-Thing,2014-03-09,[' Mr. Thing '],"['Hip', 'Hop', ""R'n'B""]"

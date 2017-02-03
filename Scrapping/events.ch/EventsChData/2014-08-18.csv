@@ -1,7 +1,7 @@
-location,event,date,artists,genre
-Winterthur,Winterthurer-Musikfestwochen,2014-08-18,[' Lamuzgueule '],Electronic
-Luzern,Sinfoniekonzert-3,2014-08-18,[' conductor: Daniel Barenboim '],Classic
-Bern,Didjeridu-Klanglandschaften,2014-08-18,[' Willi Grimm '],
-Bern,Les-petits-Mondays,2014-08-18,['Krassimir Orchestar '],
-Zürich,Conor-Oberst,2014-08-18,"['Conor Oberst ', ' support: Dawes ']",Pop
-Zürich,Nik-Bärtsch's-Ronin,2014-08-18,[' Bernhard Wagner '],
+,location,event,date,artists,genre
+0,Winterthur,Winterthurer-Musikfestwochen,2014-08-18,[' Lamuzgueule '],['Electronic']
+1,Luzern,Sinfoniekonzert-3,2014-08-18,[' conductor: Daniel Barenboim '],['Classic']
+2,Bern,Les-petits-Mondays,2014-08-18,['Krassimir Orchestar '],"['world', 'music']"
+3,Bern,Didjeridu-Klanglandschaften,2014-08-18,[' Willi Grimm '],"['world', 'music']"
+4,Z?rich,Conor-Oberst,2014-08-18,"['Conor Oberst ', ' support: Dawes ']",['Pop']
+5,Z?rich,Nik-B?rtsch's-Ronin,2014-08-18,[' Bernhard Wagner '],"['Hip', 'Hop', ""R'n'B""]"

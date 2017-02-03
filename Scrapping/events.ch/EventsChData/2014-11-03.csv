@@ -1,23 +1,21 @@
-location,event,date,artists,genre
-Zürich,Gletscherfezzzer,2014-11-03,['Gletscherfezzzer '],traditional
-null,Faszination-Arkadien,2014-11-03,"[' Anne Schmid ', ' Giancarlo Pontiggia ']",Classic
-Zürich,Pianobar,2014-11-03,['Levin Deger '],
-Pratteln,Insomnium,2014-11-03,['Insomnium '],
-Zürich,Liederabend,2014-11-03,"['Roman Trekel ', ' Oliver Pohl ']",Classic
-Zürich,Who-Made-Who,2014-11-03,"['Who Made Who ', ' support: Those Goddamn Hippies ']",Electronic
-Basel,Spoon,2014-11-03,"['Spoon ', ' support: Swearing At Motorists ']",Pop
-Basel,Baloise-Session-Characters,2014-11-03,[' Beth Hart '],Pop
-Baden,Schnittzone,2014-11-03,"[' Mirjam Lötscher ', ' Peter Vögeli ', ' Nicola Katz ']",Classic
-Zürich,Remi,2014-11-03,['Remi '],
-Zürich,Linkin-Park,2014-11-03,"['Linkin Park ', ' support: Of Mice & Men ']",
-Basel,Dialog,2014-11-03,['Uwe Dierksen '],Classic
-Zürich,Anastacia-verschoben,2014-11-03,['Anastacia '],Pop
-Zürich,Monday-Night-Orchestra-feat.-Tiziana-Gulino-&-Pee-Wee-Ellis,2014-11-03,"[' Tiziana Gulino ', ' Pee Wee Ellis ']",
-Zürich,Slow-Club,2014-11-03,['Slow Club '],Pop
-Baden,Christoph-Irniger-Trio,2014-11-03,"[' Christoph Irniger ', ' Raffaele Bossard ', ' Ziv Ravitz ']",
-Winterthur,Kevin-Meisel-&-The-Ragged-Glories,2014-11-03,"['Kevin Meisel & The Ragged Glories ', ' Kevin Meisel ', ' Alex Anest ', ' Keith Meisel ', ' Jim Latini ']",
-Zürich,The-Growlers,2014-11-03,['The Growlers '],
-null,Nothing,2014-11-03,['Nothing '],
-Winterthur,Adam-Barnes,2014-11-03,['Adam Barnes '],
-Basel,Jazzkollektiv,2014-11-03,"[' Roberto Pianca ', ' Roberto Bordiga ', ' Emanuele Maniscalco ', ' Rafael Schilt ']",
-Zürich,Schärli-Moreira-Feigenwinter,2014-11-03,"['Schärli-Moreira-Feigenwinter ', ' Peter Schärli ', ' Juarez Moreira ', ' Hans Feigenwinter ']",
+,location,event,date,artists,genre
+0,Z?rich,Gletscherfezzzer,2014-11-03,['Gletscherfezzzer '],['traditional']
+1,null,Faszination-Arkadien,2014-11-03,"[' Anne Schmid ', ' Giancarlo Pontiggia ']",['Classic']
+2,Z?rich,Pianobar,2014-11-03,['Levin Deger '],"['Jazz', 'Blues', 'Soul']"
+3,Pratteln,Insomnium,2014-11-03,['Insomnium '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,Liederabend,2014-11-03,"['Roman Trekel ', ' Oliver Pohl ']",['Classic']
+5,Z?rich,Who-Made-Who,2014-11-03,"['Who Made Who ', ' support: Those Goddamn Hippies ']",['Electronic']
+6,Basel,Spoon,2014-11-03,"['Spoon ', ' support: Swearing At Motorists ']",['Pop']
+7,Z?rich,Remi,2014-11-03,['Remi '],"['Hip', 'Hop', ""R'n'B""]"
+8,Z?rich,Anastacia-verschoben,2014-11-03,['Anastacia '],['Pop']
+9,Z?rich,Monday-Night-Orchestra-feat.-Tiziana-Gulino-&-Pee-Wee-Ellis,2014-11-03,"[' Tiziana Gulino ', ' Pee Wee Ellis ']","['Pop', 'Oldies']"
+10,Z?rich,Linkin-Park,2014-11-03,[' Men '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Baden,Schnittzone,2014-11-03,"[' Mirjam L?tscher ', ' Peter V?geli ', ' Nicola Katz ']",['Classic']
+12,Basel,Dialog,2014-11-03,['Uwe Dierksen '],['Classic']
+13,Baden,Christoph-Irniger-Trio,2014-11-03,"[' Christoph Irniger ', ' Raffaele Bossard ', ' Ziv Ravitz ']","['Jazz', 'Blues', 'Soul']"
+14,Winterthur,Kevin-Meisel-&-The-Ragged-Glories,2014-11-03,"[' The Ragged Glories ', ' Kevin Meisel ', ' Alex Anest ', ' Keith Meisel ', ' Jim Latini ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Z?rich,The-Growlers,2014-11-03,['The Growlers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Z?rich,Sch?rli-Moreira-Feigenwinter,2014-11-03,"['Sch?rli-Moreira-Feigenwinter ', ' Peter Sch?rli ', ' Juarez Moreira ', ' Hans Feigenwinter ']","['Jazz', 'Blues', 'Soul']"
+17,null,Nothing,2014-11-03,['Nothing '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Winterthur,Adam-Barnes,2014-11-03,['Adam Barnes '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Basel,Jazzkollektiv,2014-11-03,"[' Roberto Pianca ', ' Roberto Bordiga ', ' Emanuele Maniscalco ', ' Rafael Schilt ']","['Jazz', 'Blues', 'Soul']"

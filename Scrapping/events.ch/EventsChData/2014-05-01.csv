@@ -1,23 +1,23 @@
-location,event,date,artists,genre
-Zürich,Loudfest,2014-05-01,"['Boysetsfire ', ' H2O ', ' Stick To Your Guns ', ' Touché Amoré ', ' Misconduct ', ' The Charm The Fury ']",
-Zürich,Messiah,2014-05-01,"[' Andrea Laureen Brown ', ' Gabriela Bürgler ', ' Alex Potter ', ' David Munderloh ', ' Dominik Wörner ']",Classic
-Basel,Bruno-Schneider-&-I-Tempi,2014-05-01,[' Bruno Schneider '],Classic
-Basel,Jazzfestival-Basel,2014-05-01,['Vein '],
-Luzern,Gläuffig,2014-05-01,"[' Fränggi Gehrig ', ' Matthias Landtwing ', ' Pirmin Huber ']",
-Stans,Stanser-Musiktage,2014-05-01,['Mohammad Reza Mortazavi '],
-Stans,Stanser-Musiktage,2014-05-01,['Mokoomba '],
-Herisau,The-Sweet,2014-05-01,['The Sweet '],
-Winterthur,Pippo-Pollina-Trio,2014-05-01,"['Pippo Pollina Trio ', ' Pippo Pollina ', ' Roberto Petroli ', ' Max Kämmerling ']",Pop
-Bern,Sweetwood,2014-05-01,"[' Michael Kuster ', ' Martina Hofer ', ' Jan Baldesberger ', ' Oli Kuster ']",Pop
-null,Gramatik,2014-05-01,['Gramatik '],Electronic
-Stans,Stanser-Musiktage,2014-05-01,['Leyla McCalla '],
-Zürich,Jazzpreis-der-Zürcher-Kantonalbank,2014-05-01,"[' Bugge Wesseltoft ', ' Reto Suhner ', ' Philip Henzi ', ' Silvan Jeger ', ' Dominic Egli ', ' Bugge Wesseltoft ']",
-Basel,Jazzfestival-Basel,2014-05-01,"['Dave Liebman & Ellery Eskelin Group ', ' Ellery Eskelin ', ' Dave Liebman ', ' Tony Marino ', ' Jim Black ']",
-Baden,JRP,2014-05-01,"[' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-Liebefeld,Dejan-Terzic-Melanoia,2014-05-01,"[' Hayden Chisholm ', ' Ronny Graupe ', ' Achim Kaufmann ', ' Dejan Terzic ']",
-Zürich,A-Good-Slide-for-God's-Sake,2014-05-01,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ']",
-Baden,1.-Mai-Konzert,2014-05-01,['Redska '],
-Basel,guitars@basel,2014-05-01,"[' Herb Robertson ', ' Michael Musillami ', ' Peter Madsen ', ' Joe Fonda ']",
-Bern,Zoder,2014-05-01,['Zoder '],Pop
-Zürich,Pecco-Billo,2014-05-01,['Pecco Billo '],
-Luzern,John-Francis,2014-05-01,['John Francis '],Pop
+,location,event,date,artists,genre
+0,Z?rich,Loudfest,2014-05-01,"['Boysetsfire ', ' H2O ', ' Stick To Your Guns ', ' Touch? Amor? ', ' Misconduct ', ' The Charm The Fury ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Z?rich,Messiah,2014-05-01,"[' Andrea Laureen Brown ', ' Gabriela B?rgler ', ' Alex Potter ', ' David Munderloh ', ' Dominik W?rner ']",['Classic']
+2,Basel,Bruno-Schneider-&-I-Tempi,2014-05-01,[' Bruno Schneider '],['Classic']
+3,Basel,Jazzfestival-Basel,2014-05-01,['Vein '],"['Jazz', 'Blues', 'Soul']"
+4,Stans,Stanser-Musiktage,2014-05-01,['Mohammad Reza Mortazavi '],"['world', 'music']"
+5,Luzern,Gl?uffig,2014-05-01,"[' Fr?nggi Gehrig ', ' Matthias Landtwing ', ' Pirmin Huber ']","['Jazz', 'Blues', 'Soul']"
+6,Herisau,The-Sweet,2014-05-01,['The Sweet '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Stans,Stanser-Musiktage,2014-05-01,['Mokoomba '],"['Hip', 'Hop', ""R'n'B""]"
+8,Stans,Stanser-Musiktage,2014-05-01,['Leyla McCalla '],"['world', 'music']"
+9,Winterthur,Pippo-Pollina-Trio,2014-05-01,"['Pippo Pollina Trio ', ' Pippo Pollina ', ' Roberto Petroli ', ' Max K?mmerling ']",['Pop']
+10,null,Gramatik,2014-05-01,['Gramatik '],['Electronic']
+11,Bern,Sweetwood,2014-05-01,"[' Michael Kuster ', ' Martina Hofer ', ' Jan Baldesberger ', ' Oli Kuster ']",['Pop']
+12,Basel,Jazzfestival-Basel,2014-05-01,"[' Ellery Eskelin Group ', ' Ellery Eskelin ', ' Dave Liebman ', ' Tony Marino ', ' Jim Black ']","['Jazz', 'Blues', 'Soul']"
+13,Basel,guitars@basel,2014-05-01,"[' Herb Robertson ', ' Michael Musillami ', ' Peter Madsen ', ' Joe Fonda ']","['Jazz', 'Blues', 'Soul']"
+14,Baden,1.-Mai-Konzert,2014-05-01,['Redska '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Baden,JRP,2014-05-01,"[' Christoph Baumann ', ' H?mi H?mmerli ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+16,Liebefeld,Dejan-Terzic-Melanoia,2014-05-01,"[' Hayden Chisholm ', ' Ronny Graupe ', ' Achim Kaufmann ', ' Dejan Terzic ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,A-Good-Slide-for-God's-Sake,2014-05-01,"[' Omri Ziegele ', ' Isa Wiss ', ' J?rg Wickihalder ']","['Jazz', 'Blues', 'Soul']"
+18,Z?rich,Jazzpreis-der-Z?rcher-Kantonalbank,2014-05-01,"[' Bugge Wesseltoft ', ' Reto Suhner ', ' Philip Henzi ', ' Silvan Jeger ', ' Dominic Egli ', ' Bugge Wesseltoft ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Pecco-Billo,2014-05-01,['Pecco Billo '],"['Hip', 'Hop', ""R'n'B""]"
+20,Bern,Zoder,2014-05-01,['Zoder '],['Pop']
+21,Luzern,John-Francis,2014-05-01,['John Francis '],['Pop']

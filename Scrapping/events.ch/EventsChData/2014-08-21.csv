@@ -1,20 +1,20 @@
-location,event,date,artists,genre
-Luzern,Debut-1,2014-08-21,"['Narek Hakhnazaryan ', ' Oxana Shevchenko ']",Classic
-Les-Diablerets,Menuhin-Festival-Gstaad,2014-08-21,['Nicolas Altstaedt '],Classic
-Pully,For-Noise,2014-08-21,['Tape Tum '],Electronic
-Liestal,Sacredcow,2014-08-21,"[' Andi Messmer ', ' Face ', ' Mike Turtle ']",
-Pully,For-Noise,2014-08-21,"['Beirut ', ' The Ghost of a Saber Tooth Tiger ']",
-Luzern,Kammermusik-2,2014-08-21,[' Oliver Schnyder '],Classic
-Basel,Cantores-Minores-Domknabenchor-Helsinki,2014-08-21,[' Markus Malmgren '],Classic
-Zürich,Tango-Night,2014-08-21,"[' Julia Herkert ', ' Martin Amstutz ', ' Stefan Gschwend ']",
-Winterthur,Winterthurer-Musikfestwochen,2014-08-21,"['East Cameron Folkcore ', ' Baby in Vain ', ' Larry and his Flask ']",
-Murten,Murten-Classics-Sinfoniekonzert,2014-08-21,[' Henri Demarquette '],Classic
-Solothurn,Posthorn-Serenade,2014-08-21,"[' Elisabeth Nouaille-Degorce ', ' Cornelius Jacobeit ']",Classic
-Pully,For-Noise,2014-08-21,"['Samba de la muerte ', ' Siôn Russell Jones ']",
-Winterthur,Winterthurer-Musikfestwochen,2014-08-21,['Keravá '],
-Basel,Floriano-Inácio-Jr.-Quarteto,2014-08-21,"[' Rodrigo Botter Maio ', ' Floriano Inácio Jr ', ' Dudu Penz ', ' Uccio Gaeta ']",
-Baden,A-felicidade,2014-08-21,"['A felicidade ', ' Fabio Freire ', ' Madlen Donadio ', ' Moreno Donadio ', ' Toni Donadio ']",
-Chur,Gufo-Reale,2014-08-21,"[' Franco Mettler ', ' Thomas Weber ', ' Edmauro de Oliveira ', ' Jojo Kunz ']",
-Luzern,Cancel-the-Sky,2014-08-21,[' Worthwile '],
-Zürich,Zürcher-Theater-Spektakel,2014-08-21,['Taksim Trio '],
-Winterthur,Cannonsoul,2014-08-21,"[' Patrick Bianco ', ' Allesandro dEpiscopo ', ' Christoph Sprenger ', ' Patrick Manzecci ']",
+,location,event,date,artists,genre
+0,Luzern,Debut-1,2014-08-21,"['Narek Hakhnazaryan ', ' Oxana Shevchenko ']",['Classic']
+1,Les-Diablerets,Menuhin-Festival-Gstaad,2014-08-21,['Nicolas Altstaedt '],['Classic']
+2,Pully,For-Noise,2014-08-21,['Tape Tum '],['Electronic']
+3,Pully,For-Noise,2014-08-21,"['Beirut ', ' The Ghost of a Saber Tooth Tiger ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Liestal,Sacredcow,2014-08-21,"[' Andi Messmer ', ' Face ', ' Mike Turtle ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Luzern,Kammermusik-2,2014-08-21,[' Oliver Schnyder '],['Classic']
+6,Murten,Murten-Classics-Sinfoniekonzert,2014-08-21,[' Henri Demarquette '],['Classic']
+7,Solothurn,Posthorn-Serenade,2014-08-21,"[' Elisabeth Nouaille-Degorce ', ' Cornelius Jacobeit ']",['Classic']
+8,Pully,For-Noise,2014-08-21,"['Samba de la muerte ', ' Si?n Russell Jones ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Tango-Night,2014-08-21,"[' Julia Herkert ', ' Martin Amstutz ', ' Stefan Gschwend ']","['world', 'music']"
+10,Basel,Cantores-Minores-Domknabenchor-Helsinki,2014-08-21,[' Markus Malmgren '],['Classic']
+11,Winterthur,Winterthurer-Musikfestwochen,2014-08-21,"['East Cameron Folkcore ', ' Baby in Vain ', ' Larry and his Flask ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Winterthur,Winterthurer-Musikfestwochen,2014-08-21,['Kerav? '],"['world', 'music']"
+13,Basel,Floriano-In?cio-Jr.-Quarteto,2014-08-21,"[' Rodrigo Botter Maio ', ' Floriano In?cio Jr ', ' Dudu Penz ', ' Uccio Gaeta ']","['Jazz', 'Blues', 'Soul']"
+14,Baden,A-felicidade,2014-08-21,"['A felicidade ', ' Fabio Freire ', ' Madlen Donadio ', ' Moreno Donadio ', ' Toni Donadio ']","['world', 'music']"
+15,Z?rich,Z?rcher-Theater-Spektakel,2014-08-21,['Taksim Trio '],"['world', 'music']"
+16,Chur,Gufo-Reale,2014-08-21,"[' Franco Mettler ', ' Thomas Weber ', ' Edmauro de Oliveira ', ' Jojo Kunz ']","['Jazz', 'Blues', 'Soul']"
+17,Luzern,Cancel-the-Sky,2014-08-21,[' Worthwile '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Winterthur,Cannonsoul,2014-08-21,"[' Patrick Bianco ', ' Allesandro dEpiscopo ', ' Christoph Sprenger ', ' Patrick Manzecci ']","['Jazz', 'Blues', 'Soul']"

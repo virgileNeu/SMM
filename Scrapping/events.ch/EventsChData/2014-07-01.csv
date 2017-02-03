@@ -1,11 +1,11 @@
-location,event,date,artists,genre
--Alte-Kirche,Boswil,2014-07-01,"['Claudia Weissbarth ', ' Urs Gloor ', ' Bernhard Kühne ', ' Patrik Lüscher ', ' Karl Fässler ']",Classic
-null,St.-Galler-Festspiele-Concerto-Zapico,2014-07-01,"['Aarón Zapico ', ' Daniel Zapico ', ' Pablo Zapico ']",Classic
-Luzern,Mönch-und-Krieger,2014-07-01,['Konstantin Wecker '],Pop
-Basel,Keith-Burnstein,2014-07-01,['Keith Burnstein '],Pop
-Zürich,Festspiele-Zürich-Fragmente,2014-07-01,"[' Yun Peng Zhao ', ' Guillaume Latour ', ' Franck Chevalier ', ' Pierre Morlet ']",Classic
-Basel,Dramma-per-musica,2014-07-01,['Sonoka Ogawa '],Classic
-Bern,Worldfly,2014-07-01,['Worldfly '],
--Alte-Kirche,Boswil,2014-07-01,"[' Mulo Francel ', ' D.D. Lowka ', ' Andreas Hinterseher ', ' Evelyn Huber ']",Classic
-Zürich,Sofferte-onde-serene,2014-07-01,"['Yulia Miloslavskaya ', ' Carlos Hidalgo ']",Classic
-Lausanne,Limp-Bizkit,2014-07-01,['Limp Bizkit '],
+,location,event,date,artists,genre
+0,-Alte-Kirche,Boswil,2014-07-01,"['Claudia Weissbarth ', ' Urs Gloor ', ' Bernhard K?hne ', ' Patrik L?scher ', ' Karl F?ssler ']",['Classic']
+1,null,St.-Galler-Festspiele-Concerto-Zapico,2014-07-01,"['Aar?n Zapico ', ' Daniel Zapico ', ' Pablo Zapico ']",['Classic']
+2,Luzern,M?nch-und-Krieger,2014-07-01,['Konstantin Wecker '],['Pop']
+3,Z?rich,Festspiele-Z?rich-Fragmente,2014-07-01,"[' Yun Peng Zhao ', ' Guillaume Latour ', ' Franck Chevalier ', ' Pierre Morlet ']",['Classic']
+4,Basel,Keith-Burnstein,2014-07-01,['Keith Burnstein '],['Pop']
+5,Bern,Worldfly,2014-07-01,['Worldfly '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Basel,Dramma-per-musica,2014-07-01,['Sonoka Ogawa '],['Classic']
+7,-Alte-Kirche,Boswil,2014-07-01,"[' Mulo Francel ', ' D.D. Lowka ', ' Andreas Hinterseher ', ' Evelyn Huber ']",['Classic']
+8,Lausanne,Limp-Bizkit,2014-07-01,['Limp Bizkit '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Sofferte-onde-serene,2014-07-01,"['Yulia Miloslavskaya ', ' Carlos Hidalgo ']",['Classic']

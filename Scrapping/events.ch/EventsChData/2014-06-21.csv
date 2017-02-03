@@ -1,28 +1,27 @@
-location,event,date,artists,genre
-Wohlen,Touch-the-Air,2014-06-21,"['Busta Rhymes ', ' DMX ', ' Kool Savas ', ' Hopsin ', ' Ace Hood ', ' M.O.P. ', ' SDP ', ' DCVDNS ']",
-null,Parkplatzfest-draussen,2014-06-21,"[' The Human Jukebox ', ' Kristoffer and the Harbour Heads ']",Pop
-Zürich,Romafestival,2014-06-21,"['Sukar ', ' Vera Bila & Kale ', ' Blood or Whiskey ', ' Barb Wire Dolls ']",
-Luzern,Allmend-rockt,2014-06-21,['The Bosshoss '],
-Hinwil,Rock-the-Ring,2014-06-21,"['Bryan Adams ', ' Alter Bridge ']",
-Winterthur,Viva-l'opera,2014-06-21,"[' Bettina Herrmann ', ' Reto Knöpfel ', ' Sebastian Tortosa ']",Classic
-Basel,Masterrezital,2014-06-21,[' Fred Uhlig '],Classic
-Basel,Concerts-Aurore-Basel,2014-06-21,"['Hansheinz Schneeberger ', ' Conradin Brotbek ', ' Jean-Jacques Dünki ']",Classic
-Luzern,Piano-Entertainment,2014-06-21,['Daniel Roos '],
-Zürich,Der-Rose-Pilgerfahrt,2014-06-21,"['Maria C. Schmid ', ' Nora Kaiser ']",Classic
-Zürich,Der-Klang-der-Glocken,2014-06-21,"[' Sonoe Kato ', ' Akira Tachikawa ']",Classic
-Ascona,Jazz-Ascona,2014-06-21,"['Funk Como le gusta ', ' Davina & The Vagabonds ', ' The Gunhild CarlingInternational Jazzband ', ' Kermit Ruffins & The BBQ Swingers ', ' Paolo Alderighi Trio feat. Stephanie Trick ', ' New Breed Brass Band feat. Travis H ']",
-Zürich,Konzert,2014-06-21,[' Seth Quistad '],Classic
-Riehen,Vokalmusik-aus-Renaissance-Barock-und-Moderne,2014-06-21,"[' Ensemble Vocal Pythagore ', ' Jan Jeroen Bredewold ']",Classic
-Uster,Benno-Huber,2014-06-21,['Urs Hofstetter '],Classic
-Grüningen,Konzert,2014-06-21,[' Yoshika Iwai '],Classic
-Zürich,Made-in-Switzerland,2014-06-21,['Luisa Splett '],Classic
-Basel,Schluss-Konzert,2014-06-21,"[' Yuki Koyama ', ' Olivia Steimel ', ' Hitomi Niikura ', ' Xiaoke Jia ']",Classic
-Merenschwand,Franz-Schuberts-letzte-Kompositionen,2014-06-21,"[' Beatrice Ruchti ', ' Stefania Huonder ', ' Martin Hostettler ', ' Siddique Eggenberger ', ' Yongfan Chen-Hauser ']",Classic
-null,That's-amore,2014-06-21,['The Italian Tenors '],Pop
-Bern,Konzert,2014-06-21,"['Sandra Rehder ', ' Fulvio Paredes ', ' Carlo Lang ']",
-Uster,BE-Beat-&-Ernesto,2014-06-21,"[' Ernesto Voegeli ', ' Beat Binder ']",
-Zürich,The-Guitar-Machine,2014-06-21,['The Guitar Machine '],
-Basel,Kaos,2014-06-21,['Kaos '],
-Baden,Hymne-à-la-vie,2014-06-21,"['Stella Luna Palino ', ' Charlotte Torres ']",Pop
-Baden,Hommage-an-Edith-Piaf,2014-06-21,"['Stella Luna ', ' Charlotte Torres ']",Pop
-null,Parkplatzfest-drinnen,2014-06-21,"[' Ela Orleans ', ' Zentralheizung of Death ']",Pop
+,location,event,date,artists,genre
+0,Wohlen,Touch-the-Air,2014-06-21,"[' SDP ', ' DCVDNS ']","['Hip', 'Hop', ""R'n'B""]"
+1,Z?rich,Romafestival,2014-06-21,"[' Kale ', ' Blood or Whiskey ', ' Barb Wire Dolls ']","['world', 'music']"
+2,Luzern,Allmend-rockt,2014-06-21,['The Bosshoss '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Hinwil,Rock-the-Ring,2014-06-21,"['Bryan Adams ', ' Alter Bridge ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Basel,Masterrezital,2014-06-21,[' Fred Uhlig '],['Classic']
+5,Winterthur,Viva-l'opera,2014-06-21,"[' Bettina Herrmann ', ' Reto Kn?pfel ', ' Sebastian Tortosa ']",['Classic']
+6,Z?rich,Der-Rose-Pilgerfahrt,2014-06-21,"['Maria C. Schmid ', ' Nora Kaiser ']",['Classic']
+7,Ascona,Jazz-Ascona,2014-06-21,"[' The BBQ Swingers ', ' Paolo Alderighi Trio feat. Stephanie Trick ', ' New Breed Brass Band feat. Travis H ']","['Jazz', 'Blues', 'Soul']"
+8,Luzern,Piano-Entertainment,2014-06-21,['Daniel Roos '],"['Jazz', 'Blues', 'Soul']"
+9,Z?rich,Der-Klang-der-Glocken,2014-06-21,"[' Sonoe Kato ', ' Akira Tachikawa ']",['Classic']
+10,Basel,Concerts-Aurore-Basel,2014-06-21,"['Hansheinz Schneeberger ', ' Conradin Brotbek ', ' Jean-Jacques D?nki ']",['Classic']
+11,Z?rich,Konzert,2014-06-21,[' Seth Quistad '],['Classic']
+12,Gr?ningen,Konzert,2014-06-21,[' Yoshika Iwai '],['Classic']
+13,Uster,Benno-Huber,2014-06-21,['Urs Hofstetter '],['Classic']
+14,Basel,Schluss-Konzert,2014-06-21,"[' Yuki Koyama ', ' Olivia Steimel ', ' Hitomi Niikura ', ' Xiaoke Jia ']",['Classic']
+15,Riehen,Vokalmusik-aus-Renaissance-Barock-und-Moderne,2014-06-21,"[' Ensemble Vocal Pythagore ', ' Jan Jeroen Bredewold ']",['Classic']
+16,Z?rich,Made-in-Switzerland,2014-06-21,['Luisa Splett '],['Classic']
+17,Merenschwand,Franz-Schuberts-letzte-Kompositionen,2014-06-21,"[' Beatrice Ruchti ', ' Stefania Huonder ', ' Martin Hostettler ', ' Siddique Eggenberger ', ' Yongfan Chen-Hauser ']",['Classic']
+18,Bern,Konzert,2014-06-21,"['Sandra Rehder ', ' Fulvio Paredes ', ' Carlo Lang ']","['world', 'music']"
+19,null,That's-amore,2014-06-21,['The Italian Tenors '],['Pop']
+20,Uster,BE-Beat-&-Ernesto,2014-06-21,"[' Ernesto Voegeli ', ' Beat Binder ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Z?rich,The-Guitar-Machine,2014-06-21,['The Guitar Machine '],"['world', 'music']"
+22,Basel,Kaos,2014-06-21,['Kaos '],"['Hip', 'Hop', ""R'n'B""]"
+23,Baden,Hommage-an-Edith-Piaf,2014-06-21,"['Stella Luna ', ' Charlotte Torres ']",['Pop']
+24,Baden,Hymne-?-la-vie,2014-06-21,"['Stella Luna Palino ', ' Charlotte Torres ']",['Pop']
+25,null,Parkplatzfest-drinnen,2014-06-21,"[' Ela Orleans ', ' Zentralheizung of Death ']",['Pop']

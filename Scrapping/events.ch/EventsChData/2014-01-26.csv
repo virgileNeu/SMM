@@ -1,31 +1,30 @@
-location,event,date,artists,genre
-Winterthur,Midi-musical-Sonntagsmatinée,2014-01-26,"['Véra Schlatter ', ' Mikael Samsonov ']",Classic
-Zürich,Hottinger-Konzert-Matinée,2014-01-26,"[' Annette-Caroline Schär ', ' Barbara Zollinger-Widmer ']",Classic
-Basel,D-Zyt-isch-do,2014-01-26,"['Georg Commerell ', ' Norbert Bazelli ', ' Lukas von Flüe ']",
-null,Konzert,2014-01-26,['Boris Giltburg '],Classic
-Zürich,Konzert,2014-01-26,"['Hannes Bärtschi ', ' Francesco Corti ', ' works by Thomas Demenga ']",Classic
-Thun,2.-Sinfoniekonzert,2014-01-26,[' Vital Julian Frey '],Classic
-Zürich,Kammermusik,2014-01-26,"['Vera Schnider ', ' Michael Gebauer ', ' Jana Karsko ', ' Hiroko Takehara ', ' Anna Tyka Nyffenegger ']",Classic
-Zürich,Wahlverwandtschaften-Winterreise,2014-01-26,"['Mauro Peter ', ' Noémie Rufer Zumstein ', ' Cathrin Kudelka ', ' Ewa Grzywna-Groblewska ', ' Ioana Geangalau ']",Classic
-Zürich,Brunchkonzert-Kammerkonzert,2014-01-26,"['Ivana Rusko ', ' Andrea Kollé ', ' Heinrich Mätzener ', ' Laurent Weibel ', ' Rumjana Naydenova ']",Classic
-Zürich,Konzert,2014-01-26,"[' Lisa Brunner ', ' Miranda de Miguel ']",Classic
-Zürich,Nuggi-Konzert,2014-01-26,"['Vera Schnider ', ' Michael Gebauer ', ' Jana Karsko ', ' Hiroko Takehara ', ' Anna Tyka Nyffenegger ']",Classic
-Zürich,Das-Musikfenster,2014-01-26,"['Alexander Seidel ', ' Andrea Wiesli ']",Classic
-Lugano,Récital,2014-01-26,['Fazil Say '],Classic
-Zürich,Trio-Konzert,2014-01-26,"['Arlette Hock Meier ', ' Kurt Meier ', ' Felix Gubser ']",Classic
-Kappel-am-Albis,Feenzauber-und-Schweiggesang,2014-01-26,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-null,Celebremus,2014-01-26,"['Gabriele Hierdeis ', ' Ulrike Hofbauer ', ' Jessica Jans ', ' Agnieszka Kowalczyk ']",Classic
-null,Scarlattiana-Eine-musikalische-Reise,2014-01-26,"[' Corina Marti ', ' conductor: Alexandra Nigito ']",Classic
-Zürich,Opus-8-Klarinetten-tanzen-Salsa,2014-01-26,[' Simon Stettler '],Classic
-Luzern,Konzert,2014-01-26,"[' Monika Rebholz ', ' Joachim Moser ']",Classic
-Basel,Benefizkonzert,2014-01-26,"['Maya Wirz ', ' Sergey Aksenov ', ' Ivan Konsulov ', ' Michael Hauenstein ']",Classic
-Riehen,Connaissez-vous-Russische-Musik-im-Westen,2014-01-26,"['Dmitri Demiashkin ', ' Thomas Wicky Stamm ', ' Lev Sivkov ']",Classic
-Bern,Meisterkonzert,2014-01-26,['Piotr Anderszewski '],Classic
-Basel,Tod-Tränen-Verklärung,2014-01-26,"[' Dimitry Ivashchenko ', ' Robert Koller ']",Classic
-Zürich,Angelo-Branduardi,2014-01-26,['Angelo Branduardi '],Pop
-Zürich,Bänz-Oester-&-The-Rainmakers,2014-01-26,"[' Ganesh Geymeier ', ' Afrika Mkhize ', ' Bänz Oester ', ' Ayanda Sikade ']",
-Basel,Mozart-&-Grappelli-Ein-musikalisches-Geburtstagsfest,2014-01-26,"['Julio Azcano ', ' Volker Biesenbender ', ' Patricia Draeger ', ' Wolfgang Fernow ', ' Michelangelo Rinaldi ']",
-Zürich,Royal-Republic-&-The-Nosebreakers,2014-01-26,['Royal Republic & The Nosebreakers '],
-null,Rap-Mayhem,2014-01-26,['Rap Mayhem '],
-Basel,Che-Sudaka,2014-01-26,['Che Sudaka '],
-Zürich,Fettes-Brot,2014-01-26,['Fettes Brot '],
+,location,event,date,artists,genre
+0,Z?rich,Konzert,2014-01-26,"['Hannes B?rtschi ', ' Francesco Corti ', ' works by Thomas Demenga ']",['Classic']
+1,null,Konzert,2014-01-26,['Boris Giltburg '],['Classic']
+2,Thun,2.-Sinfoniekonzert,2014-01-26,[' Vital Julian Frey '],['Classic']
+3,Z?rich,Kammermusik,2014-01-26,"['Vera Schnider ', ' Michael Gebauer ', ' Jana Karsko ', ' Hiroko Takehara ', ' Anna Tyka Nyffenegger ']",['Classic']
+4,Basel,D-Zyt-isch-do,2014-01-26,"['Georg Commerell ', ' Norbert Bazelli ', ' Lukas von Fl?e ']","['Jazz', 'Blues', 'Soul']"
+5,Winterthur,Midi-musical-Sonntagsmatin?e,2014-01-26,"['V?ra Schlatter ', ' Mikael Samsonov ']",['Classic']
+6,Z?rich,Hottinger-Konzert-Matin?e,2014-01-26,"[' Annette-Caroline Sch?r ', ' Barbara Zollinger-Widmer ']",['Classic']
+7,Z?rich,Brunchkonzert-Kammerkonzert,2014-01-26,"['Ivana Rusko ', ' Andrea Koll? ', ' Heinrich M?tzener ', ' Laurent Weibel ', ' Rumjana Naydenova ']",['Classic']
+8,Z?rich,Konzert,2014-01-26,"[' Lisa Brunner ', ' Miranda de Miguel ']",['Classic']
+9,Z?rich,Wahlverwandtschaften-Winterreise,2014-01-26,"['Mauro Peter ', ' No?mie Rufer Zumstein ', ' Cathrin Kudelka ', ' Ewa Grzywna-Groblewska ', ' Ioana Geangalau ']",['Classic']
+10,Z?rich,Nuggi-Konzert,2014-01-26,"['Vera Schnider ', ' Michael Gebauer ', ' Jana Karsko ', ' Hiroko Takehara ', ' Anna Tyka Nyffenegger ']",['Classic']
+11,Z?rich,Das-Musikfenster,2014-01-26,"['Alexander Seidel ', ' Andrea Wiesli ']",['Classic']
+12,null,Celebremus,2014-01-26,"['Gabriele Hierdeis ', ' Ulrike Hofbauer ', ' Jessica Jans ', ' Agnieszka Kowalczyk ']",['Classic']
+13,Z?rich,Opus-8-Klarinetten-tanzen-Salsa,2014-01-26,[' Simon Stettler '],['Classic']
+14,null,Scarlattiana-Eine-musikalische-Reise,2014-01-26,"[' Corina Marti ', ' conductor: Alexandra Nigito ']",['Classic']
+15,Luzern,Konzert,2014-01-26,"[' Monika Rebholz ', ' Joachim Moser ']",['Classic']
+16,Basel,Benefizkonzert,2014-01-26,"['Maya Wirz ', ' Sergey Aksenov ', ' Ivan Konsulov ', ' Michael Hauenstein ']",['Classic']
+17,Riehen,Connaissez-vous-Russische-Musik-im-Westen,2014-01-26,"['Dmitri Demiashkin ', ' Thomas Wicky Stamm ', ' Lev Sivkov ']",['Classic']
+18,Bern,Meisterkonzert,2014-01-26,['Piotr Anderszewski '],['Classic']
+19,Lugano,R?cital,2014-01-26,['Fazil Say '],['Classic']
+20,Z?rich,Trio-Konzert,2014-01-26,"['Arlette Hock Meier ', ' Kurt Meier ', ' Felix Gubser ']",['Classic']
+21,Kappel-am-Albis,Feenzauber-und-Schweiggesang,2014-01-26,"[' Praxedis Hug-R?tti ', ' Praxedis Genevi?ve Hug ']",['Classic']
+22,Z?rich,B?nz-Oester-&-The-Rainmakers,2014-01-26,"[' Ganesh Geymeier ', ' Afrika Mkhize ', ' B?nz Oester ', ' Ayanda Sikade ']","['Jazz', 'Blues', 'Soul']"
+23,Basel,Mozart-&-Grappelli-Ein-musikalisches-Geburtstagsfest,2014-01-26,"['Julio Azcano ', ' Volker Biesenbender ', ' Patricia Draeger ', ' Wolfgang Fernow ', ' Michelangelo Rinaldi ']","['Jazz', 'Blues', 'Soul']"
+24,Basel,Tod-Tr?nen-Verkl?rung,2014-01-26,"[' Dimitry Ivashchenko ', ' Robert Koller ']",['Classic']
+25,Z?rich,Angelo-Branduardi,2014-01-26,['Angelo Branduardi '],['Pop']
+26,Z?rich,Royal-Republic-&-The-Nosebreakers,2014-01-26,[' The Nosebreakers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Z?rich,Fettes-Brot,2014-01-26,['Fettes Brot '],"['Hip', 'Hop', ""R'n'B""]"
+28,Basel,Che-Sudaka,2014-01-26,['Che Sudaka '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

@@ -1,15 +1,15 @@
-location,event,date,artists,genre
-Zürich,Spoerri-Dylag,2015-01-20,"[' Bruno Spoerri ', ' Roman Dylag ']",
-Basel,AMG-Solistenabende,2015-01-20,['Evgeny Kissin '],Classic
-Zürich,Mitteleuropa-trifft-Ukraine,2015-01-20,['Alexey Botvinov '],Classic
-Basel,Gedenkkonzert-Rolf-Mäser,2015-01-20,"['Kurt Widmer ', ' Kiyoshi Kasai ', ' Jean-Jacques Dünki ', ' Balz Trümpy ', ' Gérard Wyss ']",Classic
-Zürich,Liederabend,2015-01-20,['Olena Tokar '],Classic
-Aarau,Auf-nach-Norden,2015-01-20,[' Regula Mühlemann '],Classic
-Zürich,Booker-T.-Jones,2015-01-20,"['Booker T. Jones ', ' Booker T Jones ', ' Vernon Black ', ' Ted Jones ', ' Melvin Brannon Jr ', ' Darian Gray ']",
-Zürich,Die-Antwoord,2015-01-20,['Die Antwoord '],
-Pratteln,Wishbone-Ash,2015-01-20,['Wishbone Ash '],
-Luzern,Dienstagsjazz,2015-01-20,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-Zürich,Konzert,2015-01-20,[' Sarah Rumer '],Classic
-Winterthur,Svavar-Knútur,2015-01-20,['Svavar Knútur '],Pop
-Zürich,Duokunst-im-Doppelpack,2015-01-20,"[' Robert Morgenthaler ', ' Urs Röllin ', ' Omri Ziegele ', ' Yves Theiler ']",
-Lausanne,Louis-Bertignac,2015-01-20,['Louis Bertignac '],Pop
+,location,event,date,artists,genre
+0,Z?rich,Spoerri-Dylag,2015-01-20,"[' Bruno Spoerri ', ' Roman Dylag ']","['Jazz', 'Blues', 'Soul']"
+1,Basel,AMG-Solistenabende,2015-01-20,['Evgeny Kissin '],['Classic']
+2,Z?rich,Liederabend,2015-01-20,['Olena Tokar '],['Classic']
+3,Z?rich,Mitteleuropa-trifft-Ukraine,2015-01-20,['Alexey Botvinov '],['Classic']
+4,Aarau,Auf-nach-Norden,2015-01-20,[' Regula M?hlemann '],['Classic']
+5,Basel,Gedenkkonzert-Rolf-M?ser,2015-01-20,"['Kurt Widmer ', ' Kiyoshi Kasai ', ' Jean-Jacques D?nki ', ' Balz Tr?mpy ', ' G?rard Wyss ']",['Classic']
+6,Z?rich,Konzert,2015-01-20,[' Sarah Rumer '],['Classic']
+7,Z?rich,Booker-T.-Jones,2015-01-20,"['Booker T. Jones ', ' Booker T Jones ', ' Vernon Black ', ' Ted Jones ', ' Melvin Brannon Jr ', ' Darian Gray ']","['Hip', 'Hop', ""R'n'B""]"
+8,Winterthur,Svavar-Kn?tur,2015-01-20,['Svavar Kn?tur '],['Pop']
+9,Pratteln,Wishbone-Ash,2015-01-20,['Wishbone Ash '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Luzern,Dienstagsjazz,2015-01-20,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Die-Antwoord,2015-01-20,['Die Antwoord '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Lausanne,Louis-Bertignac,2015-01-20,['Louis Bertignac '],['Pop']
+13,Z?rich,Duokunst-im-Doppelpack,2015-01-20,"[' Robert Morgenthaler ', ' Urs R?llin ', ' Omri Ziegele ', ' Yves Theiler ']","['Jazz', 'Blues', 'Soul']"

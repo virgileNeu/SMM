@@ -1,15 +1,15 @@
-location,event,date,artists,genre
-Basel,Dr-Colette-iiri-Faasnachtslieder,2013-02-20,"['Colette Greder ', ' Andrei Ichtchenko ']",Pop
-Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-02-20,['Mark Tenger '],
-Zürich,Konzert,2013-02-20,[' Richard Goode '],Classic
-Komplex-457,Zürich,2013-02-20,['Amy Macdonald '],
-Kulturwerk-118,Sursee,2013-02-20,['Loch Lomond '],Kapnorth
-Zürich,Mehldau-Hays,2013-02-20,"[' Brad Mehldau ', ' Kevin Hays ']",
-Zürich,Litha,2013-02-20,['Litha '],
-Luzern,Jam-Night,2013-02-20,"['Christian Winiker ', ' Mani Zweili ', ' Mike Maloth ']",
-Zürich,Lùisa,2013-02-20,['Lùisa '],
-Winterthur,Flying-Contrary-Fellows,2013-02-20,"[' Carles Peris ', ' Jacques Widmer ', ' ']",
-Zürich,Jazz-Baragge-Wednesday-Jam,2013-02-20,"['Hans Feigenwinter ', ' Herbie Kopf ', ' Pius Baschnagel ']",
-Zürich,Anna-Kaenzig,2013-02-20,"['Anna Kaenzig ', ' Anna Kaenzig ', ' Ramon Ziegler ', ' Tobias Röthlin ', ' Giuliano Sulzberger ', ' Lukas Gasser ']",
-Baden,Rostgrün,2013-02-20,"[' Arian de Raeymaeker ', ' Gabriel Duss ', ' Lukas Groth ', ' Marcio de Sousa ']",
-Baden,Close-Harmony,2013-02-20,[' Thomas Müller '],
+,location,event,date,artists,genre
+0,Basel,Dr-Colette-iiri-Faasnachtslieder,2013-02-20,"['Colette Greder ', ' Andrei Ichtchenko ']",['Pop']
+1,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-02-20,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+2,Zürich,Konzert,2013-02-20,[' Richard Goode '],['Classic']
+3,Komplex-457,Zürich,2013-02-20,['Amy Macdonald '],"['Amy', 'Macdonald']"
+4,Zürich,Litha,2013-02-20,['Litha '],"['world', 'music']"
+5,Luzern,Jam-Night,2013-02-20,"['Christian Winiker ', ' Mani Zweili ', ' Mike Maloth ']","['Hip', 'Hop', ""R'n'B""]"
+6,Zürich,Lùisa,2013-02-20,['Lùisa '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Zürich,Mehldau-Hays,2013-02-20,"[' Brad Mehldau ', ' Kevin Hays ']","['Jazz', 'Blues', 'Soul']"
+8,Kulturwerk-118,Sursee,2013-02-20,['Loch Lomond '],['Kapnorth']
+9,Winterthur,Flying-Contrary-Fellows,2013-02-20,"[' Carles Peris ', ' Jacques Widmer ', ' ']","['Jazz', 'Blues', 'Soul']"
+10,Baden,Close-Harmony,2013-02-20,[' Thomas Müller '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Baden,Rostgrün,2013-02-20,"[' Arian de Raeymaeker ', ' Gabriel Duss ', ' Lukas Groth ', ' Marcio de Sousa ']","['Jazz', 'Blues', 'Soul']"
+12,Zürich,Anna-Kaenzig,2013-02-20,"['Anna Kaenzig ', ' Anna Kaenzig ', ' Ramon Ziegler ', ' Tobias Röthlin ', ' Giuliano Sulzberger ', ' Lukas Gasser ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Zürich,Jazz-Baragge-Wednesday-Jam,2013-02-20,"['Hans Feigenwinter ', ' Herbie Kopf ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"

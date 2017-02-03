@@ -1,27 +1,26 @@
-location,event,date,artists,genre
-Basel,Kostprobe-I,2014-09-17,"[' Rachel Harnisch ', ' Gerhild Romberger ', ' Thomas Mohr ', ' Thomas E. Bauer ']",Classic
-Luzern,Piano-Entertainment,2014-09-17,['Patrick Greiner '],
-Zürich,Jazz-the-4-of-Us,2014-09-17,"[' Simon Wyrsch ', ' Dario Bianchin ', ' Fridolin Blumer ', ' Robert Mark ']",
-Zürich,Orgelmusik-aus-den-USA,2014-09-17,['John Ryan '],Classic
-Bern,Sommerserenaden,2014-09-17,[' Daniel Zisman '],Classic
-Zürich,Konzert,2014-09-17,"[' Erin Wall ', ' Paul Groves ']",Classic
-Winterthur,Russische-Romantik,2014-09-17,[' Nareh Arghamanyan '],Classic
-Luzern,Randy-Newman,2014-09-17,['Randy Newman '],Pop
-Basel,Mili-Jang,2014-09-17,['Mili Jang '],
-Zug,Akkordeon-Festival-Zug,2014-09-17,"[' Arnaud Surrel ', ' Luis Cruz ', ' Diadji Seydi ', ' Saskia Lethiec ', ' Jean-Paul Minali-Bella ', ' Eric Levionnois ', ' Yaron Stavi ']",Classic
-Zug,Akkordeon-Festival-Zug,2014-09-17,"[' Arnaud Surrel ', ' Luis Cruz ', ' Diadji Seydi ', ' Saskia Lethiec ', ' Jean-Paul Minali-Bella ', ' Eric Levionnois ', ' Yaron Stavi ']",Classic
-Zürich,Lilly-Wood-&-The-Prick,2014-09-17,['Lilly Wood & The Prick '],Pop
-Bern,The-Movement,2014-09-17,['The Movement '],
-Luzern,Jam-Night,2014-09-17,"[' Glauco Cataldo ', ' Matthias Brägger ', ' Bossart ']",
-Dübendorf,Chrüz-&-quär,2014-09-17,['Das GlasBlasSing Quintett '],Pop
-Luzern,The-Dublin-Legends,2014-09-17,['The Dublin Legends '],
-Zürich,Kimmig-Studer-Zimmerlin-feat.-Vinz-Vonlanthen,2014-09-17,"[' Harald Kimmig ', ' Daniel Studer ', ' Alfred Zimmerlin ', ' Vinz Vonlanthen ']",
-null,White-Hills,2014-09-17,"['White Hills ', ' Dark Horses ']",
-Zürich,Sandro-Schneebeli's-Scala-Nobile-feat.-Paul-McCandless,2014-09-17,"[' Sandro Schneebeli ', ' Paul McCandless ', ' Eduardo Dudu Penz ', ' Antonello Messina ', ' Stephan Rigert ', ' Samuel Baur ']",
-Luzern,Alumni-Concert,2014-09-17,"[' Silvio Cadotsch ', ' Marc Mean ', ' Silvan Jeger ', ' Valentin Dietrich ', ' Lukas Mantel ']",
-Basel,Florian-Favre-Trio,2014-09-17,"[' Florian Favre ', ' Emmanuel Hagmann ', ' Alexandre Maurer ']",
-Düdingen,Bardo-Pond,2014-09-17,['Bardo Pond '],
-Düdingen,Bardo-Pond,2014-09-17,['Bardo Pond '],
-Zürich,Bukowski,2014-09-17,[' Dan Sartain '],Pop
-Zug,Akkordeon-Festival-Zug,2014-09-17,['Chamito '],Pop
-Zug,Akkordeon-Festival-Zug,2014-09-17,"['Chamito ', ' Esteban ""Chamito"" Reyes ', ' Arnaud Surrel ', ' Luis Cruz ', ' Diadji Seydi ']",
+,location,event,date,artists,genre
+0,Basel,Kostprobe-I,2014-09-17,"[' Rachel Harnisch ', ' Gerhild Romberger ', ' Thomas Mohr ', ' Thomas E. Bauer ']",['Classic']
+1,Luzern,Piano-Entertainment,2014-09-17,['Patrick Greiner '],"['Hip', 'Hop', ""R'n'B""]"
+2,Z?rich,Jazz-the-4-of-Us,2014-09-17,"[' Simon Wyrsch ', ' Dario Bianchin ', ' Fridolin Blumer ', ' Robert Mark ']","['Jazz', 'Blues', 'Soul']"
+3,Z?rich,Orgelmusik-aus-den-USA,2014-09-17,['John Ryan '],['Classic']
+4,Basel,Mili-Jang,2014-09-17,['Mili Jang '],"['Jazz', 'Blues', 'Soul']"
+5,Bern,Sommerserenaden,2014-09-17,[' Daniel Zisman '],['Classic']
+6,Luzern,Randy-Newman,2014-09-17,['Randy Newman '],['Pop']
+7,Z?rich,Konzert,2014-09-17,"[' Erin Wall ', ' Paul Groves ']",['Classic']
+8,Winterthur,Russische-Romantik,2014-09-17,[' Nareh Arghamanyan '],['Classic']
+9,D?bendorf,Chr?z-&-qu?r,2014-09-17,['Das GlasBlasSing Quintett '],['Pop']
+10,Zug,Akkordeon-Festival-Zug,2014-09-17,"[' Arnaud Surrel ', ' Luis Cruz ', ' Diadji Seydi ', ' Saskia Lethiec ', ' Jean-Paul Minali-Bella ', ' Eric Levionnois ', ' Yaron Stavi ']",['Classic']
+11,Z?rich,Lilly-Wood-&-The-Prick,2014-09-17,[' The Prick '],['Pop']
+12,Bern,The-Movement,2014-09-17,['The Movement '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Luzern,Jam-Night,2014-09-17,"[' Glauco Cataldo ', ' Matthias Br?gger ', ' Bossart ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Basel,Florian-Favre-Trio,2014-09-17,"[' Florian Favre ', ' Emmanuel Hagmann ', ' Alexandre Maurer ']","['Jazz', 'Blues', 'Soul']"
+15,null,White-Hills,2014-09-17,"['White Hills ', ' Dark Horses ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Z?rich,Sandro-Schneebeli's-Scala-Nobile-feat.-Paul-McCandless,2014-09-17,"[' Sandro Schneebeli ', ' Paul McCandless ', ' Eduardo Dudu Penz ', ' Antonello Messina ', ' Stephan Rigert ', ' Samuel Baur ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Kimmig-Studer-Zimmerlin-feat.-Vinz-Vonlanthen,2014-09-17,"[' Harald Kimmig ', ' Daniel Studer ', ' Alfred Zimmerlin ', ' Vinz Vonlanthen ']","['Jazz', 'Blues', 'Soul']"
+18,Luzern,Alumni-Concert,2014-09-17,"[' Silvio Cadotsch ', ' Marc Mean ', ' Silvan Jeger ', ' Valentin Dietrich ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"
+19,Luzern,The-Dublin-Legends,2014-09-17,['The Dublin Legends '],"['world', 'music']"
+20,D?dingen,Bardo-Pond,2014-09-17,['Bardo Pond '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Zug,Akkordeon-Festival-Zug,2014-09-17,['Chamito '],['Pop']
+22,Z?rich,Bukowski,2014-09-17,[' Dan Sartain '],['Pop']
+23,D?dingen,Bardo-Pond,2014-09-17,['Bardo Pond '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Zug,Akkordeon-Festival-Zug,2014-09-17,"['Chamito ', ' Esteban ""Chamito"" Reyes ', ' Arnaud Surrel ', ' Luis Cruz ', ' Diadji Seydi ']","['world', 'music']"

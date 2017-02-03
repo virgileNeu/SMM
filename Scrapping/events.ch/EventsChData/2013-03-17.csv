@@ -1,37 +1,39 @@
-location,event,date,artists,genre
-Theater-Winterthur,Winterthur,2013-03-17,['The Jackson Singers '],
-Theater-Winterthur,Winterthur,2013-03-17,['The Jackson Singers '],
-Olten,Konzertmatinee,2013-03-17,"[' Hristo Kouzmanov ', ' Marija Wüthrich-Savicevic ']",Classic
-Luzern,Italien-Musikalische-Reisen,2013-03-17,"['Maria Efstathiou ', ' Christina Gallati ', ' Keiko Yamaguchi ', ' Markus Wieser ', ' Sebastian Diezig ']",Classic
-Zürich,Chagall,2013-03-17,"[' conductor: Willi ZImmermann ', ' mit Meret Meyer ', ' Einführung: Kerstin Bitar ']",Classic
-Zürich,Kammermusikmatinée,2013-03-17,"['Irina Vardeli ', ' Lucia Granados ', ' Clara Rada Gomez ']",Classic
-Zürich,Mit-Zupf-und-Strich,2013-03-17,"[' Brigitt Zuberbühler ', ' Stefanie Hess ', ' Benno Muheim ', ' Maurice Berthele ']",Classic
-Zürich,Bach:-Das-Musikalische-Opfer-gestern-und-heute,2013-03-17,"[' Magda Schwerzmann ', ' Brian Dean ', ' Sarah Weilenmann ', ' Sebastian Wienand ']",Classic
-null,Mit-Inbrunst-der-russischen-Seele,2013-03-17,"['Ivan Korenev ', ' Violetta Khachikyan ']",Classic
-Aarau,Heldentaten,2013-03-17,[' Daniel Lichti '],Classic
-Sissach,De-profundis,2013-03-17,[' Ilja Völlmy Kudrjavtsev '],Classic
-Rafz,Orgelkonzert,2013-03-17,['Urs Wittwer '],Classic
-Basel,Begegnung-mit-Musik,2013-03-17,"[' Emilie Haudenschild ', ' Monika Clemann ', ' Emeric Kostyák ']",Classic
-Theater-Rigiblick,Zürich,2013-03-17,"[' Dominik Burger ', ' Ekkehard Sassenhausen ', ' Jerry Rojas ']",Once
-Luzern,Rezital,2013-03-17,['Isabelle Faust '],Classic
-Winterthur,Forellenquintett,2013-03-17,"[' Roberto González Monjas ', ' Jürg Dähler ', ' Cäcilia Chmel ', ' Sophie Lücke ', ' Kit Armstrong ']",Classic
-null,Frühlingserwachen,2013-03-17,"['Annerös Hulliger ', ' Regula Konrad ', ' Hans-Jakob Bollinger ']",Classic
-Zürich,Orgelkonzert,2013-03-17,['Kathrin Augustiny '],Classic
-Rorschach,A-Cappella-Festival,2013-03-17,['Kammerchor Vocale Neuburg '],Pop
-Bern,Chanterelles,2013-03-17,"[' Nik Rindlisbacher ', ' Martin Rindlisbacher ']",Classic
--Alte-Kirche,Boswil,2013-03-17,"['David Riniker ', ' Karl-Andreas Kolly ']",Classic
-Allschwil,Jahreskonzert,2013-03-17,[' Karin Dornbusch '],Classic
-null,Drama-Emperor,2013-03-17,['Drama Emperor '],Electronic
-null,Liederabend-Vom-Himmel-umschlungen,2013-03-17,"['Aurea Marson ', ' Cornelia Lenzin ']",Classic
-Baden,Being-as-an-Ocean,2013-03-17,"['Being as an Ocean ', ' support: Napoleon ']",
-Moods,Zürich,2013-03-17,"['Beady Belle ', ' Beate S. Lech ', ' Marius Reksjø ', ' Jørn Øien ', ' Erik Holm ']",
-Muttenz,Diapsalma-Lama-Asabthani,2013-03-17,"['J. Thommer ', ' K. Prieto ', ' A. Foster ', ' conductor: Thomas Schmid ']",Classic
-Zürich,Die-Stunde-des-Melodrams,2013-03-17,['Andrea Wiesli '],Classic
-Luzern,Jeff-Hamilton-Trio,2013-03-17,"[' Jeff Hamilton ', ' Tamir Hendelman ', ' Christoph Luty ']",
-null,Engelbert-Wrobels-International-Hot-Jazz-Quartet,2013-03-17,"[' Paolo Alderighi ', ' Engelbert Wrobel ', ' Bernard Flegar  ', ' Duke Heitger ']",
-Hallenstadion,Zürich,2013-03-17,"['Paul Rodgers ', ' Eric Bazilian ', ' Steve Augeri ', ' Chris Thompson ', ' Bonnie Tyler ']",
-Bern,Rhyton,2013-03-17,['Rhyton '],
-null,Bass-Drum-Bone,2013-03-17,"[' Ray Anderson ', ' Mark Helias ', ' Gerry Hemingway ']",
-Zürich,Mick-Hucknall,2013-03-17,['Mick Hucknall '],Pop
-Bern,Skip-&-Die,2013-03-17,"['Skip & Die ', ' Cata Pirata ', ' Daniel Rose ', ' Rene Kuhlmann ', ' Gino Bombrini ', ' Nique Quentin ']",Electronic
-Riders-Palace,null,2013-03-17,"['Max Herre ', ' support: Megaloh ']",
+,location,event,date,artists,genre
+0,Theater-Winterthur,Winterthur,2013-03-17,['The Jackson Singers '],"['The', 'Jackson', 'Singers']"
+1,Olten,Konzertmatinee,2013-03-17,"[' Hristo Kouzmanov ', ' Marija Wüthrich-Savicevic ']",['Classic']
+2,Theater-Winterthur,Winterthur,2013-03-17,['The Jackson Singers '],"['The', 'Jackson', 'Singers']"
+3,Luzern,Italien-Musikalische-Reisen,2013-03-17,"['Maria Efstathiou ', ' Christina Gallati ', ' Keiko Yamaguchi ', ' Markus Wieser ', ' Sebastian Diezig ']",['Classic']
+4,Zürich,Chagall,2013-03-17,"[' conductor: Willi ZImmermann ', ' mit Meret Meyer ', ' Einführung: Kerstin Bitar ']",['Classic']
+5,Zürich,Kammermusikmatinée,2013-03-17,"['Irina Vardeli ', ' Lucia Granados ', ' Clara Rada Gomez ']",['Classic']
+6,Zürich,Mit-Zupf-und-Strich,2013-03-17,"[' Brigitt Zuberbühler ', ' Stefanie Hess ', ' Benno Muheim ', ' Maurice Berthele ']",['Classic']
+7,Zürich,Bach:-Das-Musikalische-Opfer-gestern-und-heute,2013-03-17,"[' Magda Schwerzmann ', ' Brian Dean ', ' Sarah Weilenmann ', ' Sebastian Wienand ']",['Classic']
+8,null,Mit-Inbrunst-der-russischen-Seele,2013-03-17,"['Ivan Korenev ', ' Violetta Khachikyan ']",['Classic']
+9,Theater-Rigiblick,Zürich,2013-03-17,"[' Dominik Burger ', ' Ekkehard Sassenhausen ', ' Jerry Rojas ']",['Once']
+10,Aarau,Heldentaten,2013-03-17,[' Daniel Lichti '],['Classic']
+11,Sissach,De-profundis,2013-03-17,[' Ilja Völlmy Kudrjavtsev '],['Classic']
+12,Rafz,Orgelkonzert,2013-03-17,['Urs Wittwer '],['Classic']
+13,Basel,Begegnung-mit-Musik,2013-03-17,"[' Emilie Haudenschild ', ' Monika Clemann ', ' Emeric Kostyák ']",['Classic']
+14,Aarau,Heldentaten,2013-03-17,[' Daniel Lichti '],['Classic']
+15,Basel,Frühlingskonzert,2013-03-17,[' Ariadna Chmelik '],['Classic']
+16,Luzern,Rezital,2013-03-17,['Isabelle Faust '],['Classic']
+17,Winterthur,Forellenquintett,2013-03-17,"[' Roberto González Monjas ', ' Jürg Dähler ', ' Cäcilia Chmel ', ' Sophie Lücke ', ' Kit Armstrong ']",['Classic']
+18,null,Frühlingserwachen,2013-03-17,"['Annerös Hulliger ', ' Regula Konrad ', ' Hans-Jakob Bollinger ']",['Classic']
+19,Zürich,Orgelkonzert,2013-03-17,['Kathrin Augustiny '],['Classic']
+20,Bern,Chanterelles,2013-03-17,"[' Nik Rindlisbacher ', ' Martin Rindlisbacher ']",['Classic']
+21,Rorschach,A-Cappella-Festival,2013-03-17,['Kammerchor Vocale Neuburg '],['Pop']
+22,-Alte-Kirche,Boswil,2013-03-17,"['David Riniker ', ' Karl-Andreas Kolly ']",['Classic']
+23,Allschwil,Jahreskonzert,2013-03-17,[' Karin Dornbusch '],['Classic']
+24,null,Drama-Emperor,2013-03-17,['Drama Emperor '],['Electronic']
+25,null,Liederabend-Vom-Himmel-umschlungen,2013-03-17,"['Aurea Marson ', ' Cornelia Lenzin ']",['Classic']
+26,Baden,Being-as-an-Ocean,2013-03-17,"['Being as an Ocean ', ' support: Napoleon ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Hallenstadion,Zürich,2013-03-17,"['Paul Rodgers ', ' Eric Bazilian ', ' Steve Augeri ', ' Chris Thompson ', ' Bonnie Tyler ']","['Bonnie', 'Tyler']"
+28,Moods,Zürich,2013-03-17,"['Beady Belle ', ' Beate S. Lech ', ' Marius Reksjø ', ' Jørn Øien ', ' Erik Holm ']","['Beady', 'Belle']"
+29,Muttenz,Diapsalma-Lama-Asabthani,2013-03-17,"['J. Thommer ', ' K. Prieto ', ' A. Foster ', ' conductor: Thomas Schmid ']",['Classic']
+30,Luzern,Jeff-Hamilton-Trio,2013-03-17,"[' Jeff Hamilton ', ' Tamir Hendelman ', ' Christoph Luty ']","['Jazz', 'Blues', 'Soul']"
+31,null,Engelbert-Wrobels-International-Hot-Jazz-Quartet,2013-03-17,"[' Paolo Alderighi ', ' Engelbert Wrobel ', ' Bernard Flegar  ', ' Duke Heitger ']","['Jazz', 'Blues', 'Soul']"
+32,Zürich,Die-Stunde-des-Melodrams,2013-03-17,['Andrea Wiesli '],['Classic']
+33,Bern,Rhyton,2013-03-17,['Rhyton '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,null,Bass-Drum-Bone,2013-03-17,"[' Ray Anderson ', ' Mark Helias ', ' Gerry Hemingway ']","['Jazz', 'Blues', 'Soul']"
+35,Zürich,Mick-Hucknall,2013-03-17,['Mick Hucknall '],['Pop']
+36,Bern,Skip-&-Die,2013-03-17,"['Skip & Die ', ' Cata Pirata ', ' Daniel Rose ', ' Rene Kuhlmann ', ' Gino Bombrini ', ' Nique Quentin ']",['Electronic']
+37,Riders-Palace,null,2013-03-17,"['Max Herre ', ' support: Megaloh ']","['Max', 'Herre']"

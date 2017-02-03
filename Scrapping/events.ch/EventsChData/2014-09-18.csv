@@ -1,29 +1,29 @@
-location,event,date,artists,genre
-Liestal,Offkey,2014-09-18,"[' Marco Faseth ', ' Annika Hemmig ']",Pop
-Aarau,The-Dark-Circus,2014-09-18,['Pussybats '],
-null,1.-Tonhallekonzert,2014-09-18,['Nareh Arghamanyan '],Classic
-Zürich,Konzert,2014-09-18,"[' Erin Wall ', ' Paul Groves ']",Classic
-Bern,La-Bicicleta,2014-09-18,['La Bicicleta '],
-Zug,Akkordeon-Festival-Zug,2014-09-18,"['Parisien-Peirani ', ' Émile Parisien ', ' Vincent Peirani ']",Pop
-Zug,Akkordeon-Festival-Zug,2014-09-18,"[' Hans Hassler ', ' Saadet Türköz ']",Pop
-Buchs,Tobias-Preisig-Quartett,2014-09-18,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-Zürich,Jaazztek,2014-09-18,"[' Ernesto Cortazar Lara ', ' Silvan Jeger ', ' Pius Baschnagel ']",
-Winterthur,Die-Weber,2014-09-18,['Stummfilm '],Classic
-Pratteln,The-Dublin-Legends,2014-09-18,['The Dublin Legends '],
-null,Sleepy-Sun,2014-09-18,['Sleepy Sun '],
-Kloten,Pippo-Pollina-&-Palermo-Accoustic-Trio,2014-09-18,['Pippo Pollina & Palermo Accoustic Trio '],Pop
-Winterthur,Adrian-Mira-Group,2014-09-18,"[' Adrian Mira ', ' Yves Theiler ', ' Raetus Flisch ', ' Florian Reichle ']",
-Zürich,Marco-Parente,2014-09-18,['Marco Parente '],Pop
-Zürich,Nighthawks,2014-09-18,"[' Reiner Winterschladen ', ' Dal Martino ', ' Jörg Lehnardt ', ' Markus Wienstoer ', ' Jürgen Dahmen ', ' Thomas Alkier ']",Pop
-Zürich,Chansons-en-Stok,2014-09-18,['TocTocToc '],
-Zürich,Chansons-en-Stok,2014-09-18,['Wladimir Anselme '],Pop
-null,Tarrus-Riley-&-Kanka,2014-09-18,"['Tarrus Riley ', ' Kanka ']",
-Basel,Balzan-Silvestri-Choice,2014-09-18,"[' Barbara Balzan ', ' Michael Gassmann ', ' Thomas Silvestri ', ' Patrick Sommer ', ' Tony Renold ']",
-Liestal,Manouche-Swing-und-Gipsy,2014-09-18,"[' Ulrich Pletscher ', ' Jaro Milko ', ' Martin Medimorec ', ' Benjamin Brodbeck ']",
-Lausanne,Lilly-Wood-&-The-Prick,2014-09-18,['Lilly Wood & The Prick '],Pop
-Stäfa,Mark-Geary,2014-09-18,['Mark Geary '],Pop
-Sankt-Gallen,Sinkane,2014-09-18,['Sinkane '],Pop
-Zug,Akkordeon-Festival-Zug,2014-09-18,"['Attwenger ', ' Markus Binder ', ' Hans Peter Falkner ']",Pop
-Zürich,Falcone-Jam,2014-09-18,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",Pop
-Zürich,Tim-Hecker,2014-09-18,['Tim Hecker '],Electronic
-Zürich,Dark-Horses,2014-09-18,['Dark Horses '],Pop
+,location,event,date,artists,genre
+0,Aarau,The-Dark-Circus,2014-09-18,['Pussybats '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Liestal,Offkey,2014-09-18,"[' Marco Faseth ', ' Annika Hemmig ']",['Pop']
+2,null,1.-Tonhallekonzert,2014-09-18,['Nareh Arghamanyan '],['Classic']
+3,Z?rich,Konzert,2014-09-18,"[' Erin Wall ', ' Paul Groves ']",['Classic']
+4,Winterthur,Die-Weber,2014-09-18,['Stummfilm '],['Classic']
+5,Buchs,Tobias-Preisig-Quartett,2014-09-18,"[' Tobias Preisig ', ' Stefan Aeby ', ' Andr? Pousaz ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Jaazztek,2014-09-18,"[' Ernesto Cortazar Lara ', ' Silvan Jeger ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+7,null,Sleepy-Sun,2014-09-18,['Sleepy Sun '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Zug,Akkordeon-Festival-Zug,2014-09-18,"['Parisien-Peirani ', ' ?mile Parisien ', ' Vincent Peirani ']",['Pop']
+9,Zug,Akkordeon-Festival-Zug,2014-09-18,"[' Hans Hassler ', ' Saadet T?rk?z ']",['Pop']
+10,Pratteln,The-Dublin-Legends,2014-09-18,['The Dublin Legends '],"['world', 'music']"
+11,Bern,La-Bicicleta,2014-09-18,['La Bicicleta '],"['world', 'music']"
+12,Kloten,Pippo-Pollina-&-Palermo-Accoustic-Trio,2014-09-18,[' Palermo Accoustic Trio '],['Pop']
+13,Winterthur,Adrian-Mira-Group,2014-09-18,"[' Adrian Mira ', ' Yves Theiler ', ' Raetus Flisch ', ' Florian Reichle ']","['Jazz', 'Blues', 'Soul']"
+14,null,Tarrus-Riley-&-Kanka,2014-09-18,"['Tarrus Riley ', ' Kanka ']","['Hip', 'Hop', ""R'n'B""]"
+15,Lausanne,Lilly-Wood-&-The-Prick,2014-09-18,[' The Prick '],['Pop']
+16,Basel,Balzan-Silvestri-Choice,2014-09-18,"[' Barbara Balzan ', ' Michael Gassmann ', ' Thomas Silvestri ', ' Patrick Sommer ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Chansons-en-Stok,2014-09-18,['Wladimir Anselme '],['Pop']
+18,Z?rich,Chansons-en-Stok,2014-09-18,['TocTocToc '],"['world', 'music']"
+19,St?fa,Mark-Geary,2014-09-18,['Mark Geary '],['Pop']
+20,Liestal,Manouche-Swing-und-Gipsy,2014-09-18,"[' Ulrich Pletscher ', ' Jaro Milko ', ' Martin Medimorec ', ' Benjamin Brodbeck ']","['world', 'music']"
+21,Z?rich,Marco-Parente,2014-09-18,['Marco Parente '],['Pop']
+22,Z?rich,Nighthawks,2014-09-18,"[' Reiner Winterschladen ', ' Dal Martino ', ' J?rg Lehnardt ', ' Markus Wienstoer ', ' J?rgen Dahmen ', ' Thomas Alkier ']",['Pop']
+23,Sankt-Gallen,Sinkane,2014-09-18,['Sinkane '],['Pop']
+24,Zug,Akkordeon-Festival-Zug,2014-09-18,"['Attwenger ', ' Markus Binder ', ' Hans Peter Falkner ']",['Pop']
+25,Z?rich,Dark-Horses,2014-09-18,['Dark Horses '],['Pop']
+26,Z?rich,Tim-Hecker,2014-09-18,['Tim Hecker '],['Electronic']
+27,Z?rich,Falcone-Jam,2014-09-18,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp H?fliger ', ' Mike Ryrie ']",['Pop']

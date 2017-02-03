@@ -1,12 +1,11 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment,2014-01-04,['Mark Tenger '],
-Zürich,Aus-der-neuen-Welt-Festliches-Neujahrskonzert,2014-01-04,[' Ilya Gringolts '],Classic
-null,Konzert-zum-neuen-Jahr-2014,2014-01-04,['Karl Raa '],Classic
-Zürich,Opera-Box-L'île-de-Tulipatan-&-Monsieur-Choufleury,2014-01-04,"[' Andrea Suter ', ' Chelsey Schill ', ' Maja Hermann ', ' Raimund Wiederkehr ', ' Erich Bieri ']",Classic
-Liestal,Boogie-Connection,2014-01-04,"[' Christoph Pfaff ', ' Thomas Scheytt ', ' Hiram Mutschler ']",
-Solothurn,Sensational-Alex-Harvey-Band,2014-01-04,"[' Hanspeter Staub ', ' Gordon Bell ', ' Andreas Fischlin ', ' Peter Baldinger ']",
-Winterthur,I-Not-Dance,2014-01-04,"['I Not Dance ', ' Circular Sign ']",
-Zürich,Booost,2014-01-04,"[' Reggie Saunders ', ' Thomas Chaillan ', ' Andreas Beer ', ' Simon Hirsiger ', ' Dani Hächler ', ' Marc Schödler ']",
-null,Das-Wilde-Tiger-Ensemble-aus-St.Pauli,2014-01-04,['Das Wilde Tiger Ensemble aus St.Pauli '],Pop
-Basel,Tiz-&-Simsalabim,2014-01-04,[' Schlackus & Das Janneck '],
-Zürich,International-Freestyle-Music-Festival,2014-01-04,['The Best Of '],Pop
+,location,event,date,artists,genre
+0,Z?rich,Aus-der-neuen-Welt-Festliches-Neujahrskonzert,2014-01-04,[' Ilya Gringolts '],['Classic']
+1,null,Konzert-zum-neuen-Jahr-2014,2014-01-04,['Karl Raa '],['Classic']
+2,Z?rich,Opera-Box-L'?le-de-Tulipatan-&-Monsieur-Choufleury,2014-01-04,"[' Andrea Suter ', ' Chelsey Schill ', ' Maja Hermann ', ' Raimund Wiederkehr ', ' Erich Bieri ']",['Classic']
+3,Solothurn,Sensational-Alex-Harvey-Band,2014-01-04,"[' Hanspeter Staub ', ' Gordon Bell ', ' Andreas Fischlin ', ' Peter Baldinger ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Winterthur,I-Not-Dance,2014-01-04,"['I Not Dance ', ' Circular Sign ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Liestal,Boogie-Connection,2014-01-04,"[' Christoph Pfaff ', ' Thomas Scheytt ', ' Hiram Mutschler ']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Booost,2014-01-04,"[' Reggie Saunders ', ' Thomas Chaillan ', ' Andreas Beer ', ' Simon Hirsiger ', ' Dani H?chler ', ' Marc Sch?dler ']","['Hip', 'Hop', ""R'n'B""]"
+7,Basel,Tiz-&-Simsalabim,2014-01-04,[' Das Janneck '],"['Hip', 'Hop', ""R'n'B""]"
+8,null,Das-Wilde-Tiger-Ensemble-aus-St.Pauli,2014-01-04,['Das Wilde Tiger Ensemble aus St.Pauli '],['Pop']
+9,Z?rich,International-Freestyle-Music-Festival,2014-01-04,['The Best Of '],['Pop']

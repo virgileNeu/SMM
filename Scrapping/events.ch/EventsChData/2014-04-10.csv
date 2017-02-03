@@ -1,25 +1,25 @@
-location,event,date,artists,genre
-Zermatt,Zermatt-Unplugged,2014-04-10,['Malky '],Pop
-Zermatt,Zermatt-Unplugged,2014-04-10,['Mark Kelly '],Pop
-Zermatt,Zermatt-Unplugged,2014-04-10,"[""Ronnie Scott's All Stars ""]",
-Zürich,Feierabendwerkschau,2014-04-10,"[' Christoph Gallio ', ' Andrea Neumann ', ' Ernst Thoma ', ' Dominique Girod ', ' Julian Sartorius ']",
-Winterthur,Biohazard,2014-04-10,"['Biohazard ', ' In Arkadia ']",
-Zürich,Black-Feather,2014-04-10,['Black Feather '],
-Zürich,Thursday-Night-Jazz,2014-04-10,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']",
-Basel,More-than-Minimal-II,2014-04-10,"[' Mike Svoboda ', ' Karen Robertson ']",Classic
-Kongresshaus,Zürich,2014-04-10,['Howard Carpendale '],
-Basel,Valium:-Musik-zur-Nacht,2014-04-10,"[' Julian Arp ', ' Johanna Arp & Irène Gayraud & Tal Nitza ']",Classic
-Zürich,Justin-Nozuka,2014-04-10,['Justin Nozuka '],
-Basel,Blues-Festival-Basel,2014-04-10,[' Ruthie Foster Trio '],
-Lausanne,Belleruche,2014-04-10,['Belleruche '],Electronic
-Solothurn,Kieran-Goss,2014-04-10,['Kieran Goss '],
-Jona,Zéphyr-Combo,2014-04-10,"[' Ali Salvioni ', ' Esther Nydegger ', ' Geert Dedapper ', ' Simon Zürrer ']",
-Zürich,Brazilified,2014-04-10,"[' Nelson Faria ', ' Reto Suhner ', ' Lukas Heuss ', ' Adrian Weber ', ' Wolfgang Häuptli ', ' Gregor Müller ', ' Dudu Penz ', ' Pius Baschnagel ']",
-Zermatt,Zermatt-Unplugged,2014-04-10,['Jamie Cullum '],Pop
-Dübendorf,Lina-Allemano-Four,2014-04-10,"[' Lina Allemano ', ' Brodie West ', ' Andrew Downing ', ' Nick Fraser ']",
-Cully,Cully-Jazz,2014-04-10,['Salif Keita '],
-Basel,Charly-Antolini-Special-Delivery,2014-04-10,"[' Florian Truebsbach ', ' Jan Eschke ', ' Andy Kurz ', ' Charly Antolini ']",
-Lausanne,Dirty-Sound-Magnet,2014-04-10,['Dirty Sound Magnet '],
-null,Drenge,2014-04-10,['Drenge '],
-Zürich,We-Invented-Paris,2014-04-10,[' Highasakite '],Pop
-Zermatt,Zermatt-Unplugged,2014-04-10,['Alex Hepburn '],Pop
+,location,event,date,artists,genre
+0,Zermatt,Zermatt-Unplugged,2014-04-10,['Malky '],['Pop']
+1,Zermatt,Zermatt-Unplugged,2014-04-10,['Mark Kelly '],['Pop']
+2,Zermatt,Zermatt-Unplugged,2014-04-10,"[""Ronnie Scott's All Stars ""]","['Jazz', 'Blues', 'Soul']"
+3,Z?rich,Feierabendwerkschau,2014-04-10,"[' Christoph Gallio ', ' Andrea Neumann ', ' Ernst Thoma ', ' Dominique Girod ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+4,Winterthur,Biohazard,2014-04-10,"['Biohazard ', ' In Arkadia ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Basel,More-than-Minimal-II,2014-04-10,"[' Mike Svoboda ', ' Karen Robertson ']",['Classic']
+6,Z?rich,Thursday-Night-Jazz,2014-04-10,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Black-Feather,2014-04-10,['Black Feather '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Kongresshaus,Z?rich,2014-04-10,['Howard Carpendale '],"['Howard', 'Carpendale']"
+9,Z?rich,Justin-Nozuka,2014-04-10,['Justin Nozuka '],"['Hip', 'Hop', ""R'n'B""]"
+10,Lausanne,Belleruche,2014-04-10,['Belleruche '],['Electronic']
+11,Basel,Valium:-Musik-zur-Nacht,2014-04-10,[' Tal Nitza '],['Classic']
+12,Basel,Blues-Festival-Basel,2014-04-10,[' Ruthie Foster Trio '],"['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Brazilified,2014-04-10,"[' Nelson Faria ', ' Reto Suhner ', ' Lukas Heuss ', ' Adrian Weber ', ' Wolfgang H?uptli ', ' Gregor M?ller ', ' Dudu Penz ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+14,Cully,Cully-Jazz,2014-04-10,['Salif Keita '],"['Jazz', 'Blues', 'Soul']"
+15,Solothurn,Kieran-Goss,2014-04-10,['Kieran Goss '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Zermatt,Zermatt-Unplugged,2014-04-10,['Jamie Cullum '],['Pop']
+17,Basel,Charly-Antolini-Special-Delivery,2014-04-10,"[' Florian Truebsbach ', ' Jan Eschke ', ' Andy Kurz ', ' Charly Antolini ']","['Jazz', 'Blues', 'Soul']"
+18,Jona,Z?phyr-Combo,2014-04-10,"[' Ali Salvioni ', ' Esther Nydegger ', ' Geert Dedapper ', ' Simon Z?rrer ']","['world', 'music']"
+19,D?bendorf,Lina-Allemano-Four,2014-04-10,"[' Lina Allemano ', ' Brodie West ', ' Andrew Downing ', ' Nick Fraser ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,We-Invented-Paris,2014-04-10,[' Highasakite '],['Pop']
+21,null,Drenge,2014-04-10,['Drenge '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Lausanne,Dirty-Sound-Magnet,2014-04-10,['Dirty Sound Magnet '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Zermatt,Zermatt-Unplugged,2014-04-10,['Alex Hepburn '],['Pop']

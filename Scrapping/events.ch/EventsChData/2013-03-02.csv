@@ -1,47 +1,46 @@
-location,event,date,artists,genre
-Winterthur,Trio-Troika,2013-03-02,"['Iryna Gorkun ', ' Kateryna Timokhina ', ' Olesya Urusova ']",Classic
-Zürich,Purzel-Konzert-Die-Schnecke-und-der-Buckelwal,2013-03-02,"['Sandra Goldberg ', ' Frauke Tometten Molino ', ' Seon-Deok Baik ', ' Silvan Hürlimann ']",Classic
-Zürich,Mythos-Orpheus-oder-die-Macht-der-Musik,2013-03-02,"['Sebastian Goll ', ' Mergrit Fluor ']",Classic
-Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-03-02,['Christian Mettler '],Pop
-Zürich,Zwischen-zwei-Kriegen,2013-03-02,"[' Christian Jott Jenny ', ' Michael Kreis ', ' Martin de Vargas ']",
-Zürich,Alpine-Klassik,2013-03-02,"[' Mike Maurer ', ' Mathias Stocker ', ' Rainer Walker ']",Classic
-Zürich,Internationales-Country-Music-Festival,2013-03-02,[' The Marshall Tucker Band '],
-Zürich,Konzert,2013-03-02,['Grigory Sokolov '],Classic
-Saanen,Cecilia-Bartoli-Mission,2013-03-02,['Cecilia Bartoli  '],Classic
-Sportplatz-Kellen,Tübach,2013-03-02,['Herbert Grönemeyer '],
-Basel,AMG-Sinfoniekonzert,2013-03-02,"[' Paolo Beltramini ', ' Corrado Giuffredi ']",Classic
-Zürich,Special-ll,2013-03-02,[' Barbara Böhi '],Classic
-Buchs,Journey-To-Ouagadougou,2013-03-02,"['Mory Samb ', ' Bodo Maier ', ' Lino Blöchlinger ']",
-Zürich,Japanische-Lieder,2013-03-02,"['Sonoe Kato ', ' Eriko Kagawa ']",Classic
-Längenbühl,Mösching-Djurovic-Moll,2013-03-02,"[' Samuel Mösching ', ' Danilo Djurovic ', ' Phillipp Moll ']",
-null,Parov-Stelar-Band,2013-03-02,['Parov Stelar Band '],
-Komplex-457,Zürich,2013-03-02,"['Kaizers Orchestra ', ' DJ Ralph Myerz ']",
-Thun,Booost,2013-03-02,"[' Armando ', ' Julien Zosso ', ' Daniel Hächler ', ' Thomas Chaillan ', ' Andreas Beer ', ' Mr. J.R. ', ' Marc Schödler ', ' Reggie ']",
-Basel,Olivier-Ker-Ourio-Quartet,2013-03-02,"[' Olivier Ker Ourio ', ' Emmanuel Bex ', ' Jérôme Barde ', ' Matthieu Chazarenc ']",
-Zürich,Jill-Barber,2013-03-02,"['Jill Barber ', ' Jill Barber ', ' Les Cooper ', ' Robert Grunwald ', ' Stephan Zsirai ']",
-Luzern,Joyful-Noise-29,2013-03-02,"[' Christoph Erb ', ' Achim Escher ', ' Hans Koch ', ' Urs Leimgruber ', ' Fredy Studer ']",
-Alti-Moschti,Mühlethurnen,2013-03-02,"[' Patrizia Martinelli ', ' Philipp Huber ', ' Benjamin Walser ', ' Patrick Kaufmann ', ' Reto Gloor ']",Infunkted
-Parterre-One,Basel,2013-03-02,[' The Bony King of Nowhere '],
-Treibhaus,Luzern,2013-03-02,['Spring Offensive '],Abu
-Rubigen,FM-Laeti,2013-03-02,['FM Laeti '],Pop
-Zürich,Luciano-&-The-UK-Messenjah-Band,2013-03-02,['Luciano & The UK Messenjah Band '],
-Lenzburg,10-Jahre-Apropo,2013-03-02,['Cool Sound Machine '],
-Kaserne,Basel,2013-03-02,['Lilly Wood & The Prick '],
-Winterthur,Jura-Dimitri,2013-03-02,['Jura Dimitri '],Electronic
-Zürich,Zugluft,2013-03-02,"[' Bruno Strüby ', ' Jonas Guggenheim ', ' Andrea Kirchhofer ']",
-Thun,Meursault,2013-03-02,['Meursault '],Pop
-Luzern,Katrin-Roush,2013-03-02,['Katrin Roush '],Pop
-Bern,Movie-Star-Junkies,2013-03-02,['Movie Star Junkies '],
-KiFF,Aarau,2013-03-02,[' Yes Sir Boss '],Traktorkestar
-Düdingen,Mono,2013-03-02,"['Mono ', ' Chris Brokaw ']",
-Reitschule-Dachstock,Bern,2013-03-02,['Puppetmastaz '],Puppetmastaz
-Zürich,Brockdorff-Klang-Labor,2013-03-02,['Brockdorff Klang Labor '],Electronic
-Bern,Those-Capones,2013-03-02,['Those Capones '],
-Hacienda-Sonic,null,2013-03-02,[' A State of Mind '],
-Basel,Mega-Full-Latino,2013-03-02,['Rodry-Go '],
-Sankt-Gallen,Die-Heiterkeit,2013-03-02,['Die Heiterkeit '],
-Bern,Lord-Bishop-Rocks,2013-03-02,"['Lord Bishop Rocks ', ' support: Restless 45 ']",
-Wetzikon,Secret-Story-3,2013-03-02,['DJs Sergio Loop '],
-Zürich,John-Lyons-Band,2013-03-02,"[' John Lyons ', ' Matthew Savnik ', ' Gabriel Spahni ', ' Simon Britschgi ']",
-Schaffhausen,Smoove-&-Turrell,2013-03-02,['Smoove & Turrell '],
-Lyss,Vengaboys,2013-03-02,['Vengaboys '],Pop
+,location,event,date,artists,genre
+0,Winterthur,Trio-Troika,2013-03-02,"['Iryna Gorkun ', ' Kateryna Timokhina ', ' Olesya Urusova ']",['Classic']
+1,Zürich,Purzel-Konzert-Die-Schnecke-und-der-Buckelwal,2013-03-02,"['Sandra Goldberg ', ' Frauke Tometten Molino ', ' Seon-Deok Baik ', ' Silvan Hürlimann ']",['Classic']
+2,Zürich,Mythos-Orpheus-oder-die-Macht-der-Musik,2013-03-02,"['Sebastian Goll ', ' Mergrit Fluor ']",['Classic']
+3,Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-03-02,['Christian Mettler '],['Pop']
+4,Zürich,Zwischen-zwei-Kriegen,2013-03-02,"[' Christian Jott Jenny ', ' Michael Kreis ', ' Martin de Vargas ']","['Jazz', 'Blues', 'Soul']"
+5,Zürich,Alpine-Klassik,2013-03-02,"[' Mike Maurer ', ' Mathias Stocker ', ' Rainer Walker ']",['Classic']
+6,Zürich,Konzert,2013-03-02,['Grigory Sokolov '],['Classic']
+7,Saanen,Cecilia-Bartoli-Mission,2013-03-02,['Cecilia Bartoli  '],['Classic']
+8,Zürich,Internationales-Country-Music-Festival,2013-03-02,[' The Marshall Tucker Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Sportplatz-Kellen,Tübach,2013-03-02,['Herbert Grönemeyer '],"['Herbert', 'Grönemeyer']"
+10,Basel,AMG-Sinfoniekonzert,2013-03-02,"[' Paolo Beltramini ', ' Corrado Giuffredi ']",['Classic']
+11,null,Parov-Stelar-Band,2013-03-02,['Parov Stelar Band '],"['Hip', 'Hop', ""R'n'B""]"
+12,Zürich,Special-ll,2013-03-02,[' Barbara Böhi '],['Classic']
+13,Komplex-457,Zürich,2013-03-02,"['Kaizers Orchestra ', ' DJ Ralph Myerz ']","['Kaizers', 'Orchestra']"
+14,Zürich,Japanische-Lieder,2013-03-02,"['Sonoe Kato ', ' Eriko Kagawa ']",['Classic']
+15,Längenbühl,Mösching-Djurovic-Moll,2013-03-02,"[' Samuel Mösching ', ' Danilo Djurovic ', ' Phillipp Moll ']","['Jazz', 'Blues', 'Soul']"
+16,Buchs,Journey-To-Ouagadougou,2013-03-02,"['Mory Samb ', ' Bodo Maier ', ' Lino Blöchlinger ']","['Hip', 'Hop', ""R'n'B""]"
+17,Basel,Olivier-Ker-Ourio-Quartet,2013-03-02,"[' Olivier Ker Ourio ', ' Emmanuel Bex ', ' Jérôme Barde ', ' Matthieu Chazarenc ']","['Jazz', 'Blues', 'Soul']"
+18,Zürich,Jill-Barber,2013-03-02,"['Jill Barber ', ' Jill Barber ', ' Les Cooper ', ' Robert Grunwald ', ' Stephan Zsirai ']","['Jazz', 'Blues', 'Soul']"
+19,Luzern,Joyful-Noise-29,2013-03-02,"[' Christoph Erb ', ' Achim Escher ', ' Hans Koch ', ' Urs Leimgruber ', ' Fredy Studer ']","['Jazz', 'Blues', 'Soul']"
+20,Thun,Booost,2013-03-02,"[' Armando ', ' Julien Zosso ', ' Daniel Hächler ', ' Thomas Chaillan ', ' Andreas Beer ', ' Mr. J.R. ', ' Marc Schödler ', ' Reggie ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Parterre-One,Basel,2013-03-02,[' The Bony King of Nowhere '],"['The', 'Legendary', 'Lightness']"
+22,Alti-Moschti,Mühlethurnen,2013-03-02,"[' Patrizia Martinelli ', ' Philipp Huber ', ' Benjamin Walser ', ' Patrick Kaufmann ', ' Reto Gloor ']",['Infunkted']
+23,Kaserne,Basel,2013-03-02,['Lilly Wood & The Prick '],"['Lilly', 'Wood', '&', 'the', 'Prick']"
+24,Zürich,Zugluft,2013-03-02,"[' Bruno Strüby ', ' Jonas Guggenheim ', ' Andrea Kirchhofer ']","['world', 'music']"
+25,Winterthur,Jura-Dimitri,2013-03-02,['Jura Dimitri '],['Electronic']
+26,Rubigen,FM-Laeti,2013-03-02,['FM Laeti '],['Pop']
+27,Zürich,Luciano-&-The-UK-Messenjah-Band,2013-03-02,['Luciano & The UK Messenjah Band '],"['Hip', 'Hop', ""R'n'B""]"
+28,Lenzburg,10-Jahre-Apropo,2013-03-02,['Cool Sound Machine '],"['Hip', 'Hop', ""R'n'B""]"
+29,Thun,Meursault,2013-03-02,['Meursault '],['Pop']
+30,KiFF,Aarau,2013-03-02,[' Yes Sir Boss '],['Traktorkestar']
+31,Bern,Movie-Star-Junkies,2013-03-02,['Movie Star Junkies '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Luzern,Katrin-Roush,2013-03-02,['Katrin Roush '],['Pop']
+33,Düdingen,Mono,2013-03-02,"['Mono ', ' Chris Brokaw ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Basel,Mega-Full-Latino,2013-03-02,['Rodry-Go '],"['world', 'music']"
+35,Hacienda-Sonic,null,2013-03-02,[' A State of Mind '],"['Imperial', 'Tiger', 'Orchestra']"
+36,Sankt-Gallen,Die-Heiterkeit,2013-03-02,['Die Heiterkeit '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Bern,Lord-Bishop-Rocks,2013-03-02,"['Lord Bishop Rocks ', ' support: Restless 45 ']","['Hip', 'Hop', ""R'n'B""]"
+38,Schaffhausen,Smoove-&-Turrell,2013-03-02,['Smoove & Turrell '],"['Hip', 'Hop', ""R'n'B""]"
+39,Zürich,John-Lyons-Band,2013-03-02,"[' John Lyons ', ' Matthew Savnik ', ' Gabriel Spahni ', ' Simon Britschgi ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+40,Reitschule-Dachstock,Bern,2013-03-02,['Puppetmastaz '],['Puppetmastaz']
+41,Bern,Those-Capones,2013-03-02,['Those Capones '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+42,Zürich,Brockdorff-Klang-Labor,2013-03-02,['Brockdorff Klang Labor '],['Electronic']
+43,Wetzikon,Secret-Story-3,2013-03-02,['DJs Sergio Loop '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+44,Lyss,Vengaboys,2013-03-02,['Vengaboys '],['Pop']

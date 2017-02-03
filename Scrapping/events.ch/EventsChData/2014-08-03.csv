@@ -1,13 +1,13 @@
-location,event,date,artists,genre
-Gstaad,Menuhin-Festival-Gstaad,2014-08-03,['Florin Olmazu '],Classic
-Weggis,Open-Air-Konzert,2014-08-03,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-Binningen,Songs-&-Airs,2014-08-03,['Alex Potter '],Classic
-Estavayer-le-Lac,Estivale-Openair,2014-08-03,"[' Pascal Obispo ', ' Noa Moon ']",
-Arth,Sommerklänge,2014-08-03,"[' Jan-Frederick Behrend ', ' Andrej Kauffmann ', ' Stephan Krause ', ' Sönke Schreiber ']",Classic
-Saanen,Menuhin-Festival-Gstaad,2014-08-03,"['Sol Gabetta ', ' conductor: Giovanni Antonini ']",Classic
-Verbier,Verbier-Festival,2014-08-03,[' Mikhaïl Pletnev '],Classic
-Winterthur,Deger-Stevens,2014-08-03,"[' Levin Deger ', ' Becca Stevens ']",
-Pratteln,Kansas,2014-08-03,['Kansas '],
-Thun,Am-Schluss,2014-08-03,['Bassekou Kouyate & Ngoni Ba '],
-St.-Moritz,Festival-da-Jazz,2014-08-03,"[""Klaus Doldinger's Passport "", ' Klaus Doldinger ', ' Michael Hornek ', "" Peter O'Mara "", ' Patrick Scales ', ' Biboul Darouiche ', ' Ernst Ströer ', ' Christian Lettner ']",
-St.-Moritz,Festival-da-Jazz,2014-08-03,"[' Delia Mayer ', ' Antonello Messina ', ' David Klein ']",
+,location,event,date,artists,genre
+0,Gstaad,Menuhin-Festival-Gstaad,2014-08-03,['Florin Olmazu '],['Classic']
+1,Weggis,Open-Air-Konzert,2014-08-03,"[' Praxedis Hug-R?tti ', ' Praxedis Genevi?ve Hug ']",['Classic']
+2,Arth,Sommerkl?nge,2014-08-03,"[' Jan-Frederick Behrend ', ' Andrej Kauffmann ', ' Stephan Krause ', ' S?nke Schreiber ']",['Classic']
+3,Binningen,Songs-&-Airs,2014-08-03,['Alex Potter '],['Classic']
+4,Estavayer-le-Lac,Estivale-Openair,2014-08-03,"[' Pascal Obispo ', ' Noa Moon ']","['Hip', 'Hop', ""R'n'B""]"
+5,Saanen,Menuhin-Festival-Gstaad,2014-08-03,"['Sol Gabetta ', ' conductor: Giovanni Antonini ']",['Classic']
+6,Verbier,Verbier-Festival,2014-08-03,[' Mikha?l Pletnev '],['Classic']
+7,Winterthur,Deger-Stevens,2014-08-03,"[' Levin Deger ', ' Becca Stevens ']","['Jazz', 'Blues', 'Soul']"
+8,Thun,Am-Schluss,2014-08-03,[' Ngoni Ba '],"['world', 'music']"
+9,Pratteln,Kansas,2014-08-03,['Kansas '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,St.-Moritz,Festival-da-Jazz,2014-08-03,"[""Klaus Doldinger's Passport "", ' Klaus Doldinger ', ' Michael Hornek ', "" Peter O'Mara "", ' Patrick Scales ', ' Biboul Darouiche ', ' Ernst Str?er ', ' Christian Lettner ']","['Jazz', 'Blues', 'Soul']"
+11,St.-Moritz,Festival-da-Jazz,2014-08-03,"[' Delia Mayer ', ' Antonello Messina ', ' David Klein ']","['Jazz', 'Blues', 'Soul']"

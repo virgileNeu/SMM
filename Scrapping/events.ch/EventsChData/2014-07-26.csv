@@ -1,32 +1,32 @@
-location,event,date,artists,genre
-Uster,Duo-Freddy-Lukas,2014-07-26,"[' Jojo Kunz ', ' Herbert Kramis ']",
-Verbier,Verbier-Festival,2014-07-26,"['István Várdai ', ' Julien Quentin ']",Classic
-Gstaad,Menuhin-Festival-Gstaad,2014-07-26,"['Chiara Enderle ', ' Friedemann Rieger ']",Classic
-Basel,Orgelmusik-über-Mittag,2014-07-26,['Françoise Härdi '],Classic
-Degen,Openair-Lumnezia,2014-07-26,"['Placebo ', ' Irie Révoltés ', ' Blood Red Shoes ', ' Abby ']",
-Stein-am-Rhein,Klingen-Openair,2014-07-26,"[' Cerebral Ballzy ', ' His Electro Blue Voice ']",
-Nyon,Paléo-Festival,2014-07-26,"['Les Innocents ', ' Odezenne ']",
-Nyon,Paléo-Festival,2014-07-26,"['Young Fathers ', ' Fills Monkey ', ' Frànçois & The Atlas Mountains ', ' Akua Naru ']",
-Fahrwangen,Openair-Fahrwangen,2014-07-26,"["" John Lees' Barclay James Harvest ""]",
-Hermatswil,Reeds-Festival,2014-07-26,"['Protoje ', ' Macka B ', ' Chamito ']",
-Etziken,Openair-Etziken,2014-07-26,"['2Raumwohnung ', ' Fiddlers Green ']",Pop
-Nyon,Paléo-Festival,2014-07-26,"['Che Sudaka ', ' El Hijo de la Cumbia feat. la Dame Blanche ', ' La Yegros ']",
-Nyon,Paléo-Festival,2014-07-26,"['Kery James ', ' Mr. Oizo ', ' Casseurs Flowters ', ' The Coup ']",
-Luzern,Piano-Entertainment,2014-07-26,['Herb Miller '],
-Luzern,Blue-Balls-Festival,2014-07-26,"['Blaenavon ', ' Brown Bear & The Bandits ']",
-Luzern,Blue-Balls-Festival,2014-07-26,"['Hellabama Honky Tonks ', ' Soneros de Verdad ']",
-Luzern,Blue-Balls-Festival,2014-07-26,['Brett Newski '],Pop
-Nyon,Paléo-Festival,2014-07-26,"['James Blunt ', ' Vanessa Paradis ', ' Julien Doré ']",Pop
-Verbier,Verbier-Festival,2014-07-26,"[' Ingela Brimberg ', ' Brandon Jovanovich ', ' Evgeny Nikitin ', ' René Pape ', ' Sylvia Schwartz ', ' Bernard Richter ', ' Charles Dekeyser ']",Classic
-Saanen,Menuhin-Festival-Gstaad,2014-07-26,"['Patricia Kopatchinskaja ', ' Sol Gabetta ']",Classic
-Verbier,Verbier-Festival,2014-07-26,[' Blythe Teh Engstroem '],Classic
-Luzern,Blue-Balls-Festival,2014-07-26,"[""Keb'Mo' ""]",
-null,Stimmen,2014-07-26,['The Hives '],
-Luzern,Blue-Balls-Festival,2014-07-26,['Söhne Mannheims Session '],Pop
-null,Kulturfestival-St.-Gallen,2014-07-26,['Iyeoka '],
-Basel,Montreux-Jazz-Quartet-feat.-Olivier-Ker-Ourio,2014-07-26,"[' Olivier Ker Ourio ', ' Thomas Dobler ', ' Thierry Lang ', ' Stephan Kurmann ', ' Peter Schmidlin ']",
-St.-Moritz,Festival-da-Jazz,2014-07-26,"[' China Forbes ', ' Timothy Nishimoto ', ' Gavin Bondy ', ' Antonis Andreou ', ' Nicolas Crosa ', ' Thomas Lauderdale ', ' Dan Faehnle ', ' Phil Baker ', ' Derek Rieth ', ' Anthony Jones ']",
-Zürich,Stadtsommer,2014-07-26,"[' Fabio Andres ', ' Marius Lapagna ', ' Nicolas Sciarrone ', ' Sascha Jösler ', ' Patrik Schmid ']",Pop
-Zürich,Hans-Söllner-&-Bayaman-Sissdem,2014-07-26,['Hans Söllner & Bayaman Sissdem '],Pop
-Rorschach,El-bachatazo-Latin-Night,2014-07-26,"[""DJ Da'le ""]",
-Zürich,Quintron-&-Miss-Pussycat,2014-07-26,['Quintron & Miss Pussycat '],
+,location,event,date,artists,genre
+0,Uster,Duo-Freddy-Lukas,2014-07-26,"[' Jojo Kunz ', ' Herbert Kramis ']","['Jazz', 'Blues', 'Soul']"
+1,Verbier,Verbier-Festival,2014-07-26,"['Istv?n V?rdai ', ' Julien Quentin ']",['Classic']
+2,Gstaad,Menuhin-Festival-Gstaad,2014-07-26,"['Chiara Enderle ', ' Friedemann Rieger ']",['Classic']
+3,Basel,Orgelmusik-?ber-Mittag,2014-07-26,['Fran?oise H?rdi '],['Classic']
+4,Degen,Openair-Lumnezia,2014-07-26,"['Placebo ', ' Irie R?volt?s ', ' Blood Red Shoes ', ' Abby ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Stein-am-Rhein,Klingen-Openair,2014-07-26,"[' Cerebral Ballzy ', ' His Electro Blue Voice ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Hermatswil,Reeds-Festival,2014-07-26,"['Protoje ', ' Macka B ', ' Chamito ']","['Hip', 'Hop', ""R'n'B""]"
+7,Fahrwangen,Openair-Fahrwangen,2014-07-26,"["" John Lees' Barclay James Harvest ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Nyon,Pal?o-Festival,2014-07-26,"[' The Atlas Mountains ', ' Akua Naru ']","['Hip', 'Hop', ""R'n'B""]"
+9,Nyon,Pal?o-Festival,2014-07-26,"['Les Innocents ', ' Odezenne ']","['world', 'music']"
+10,Etziken,Openair-Etziken,2014-07-26,"['2Raumwohnung ', ' Fiddlers Green ']",['Pop']
+11,Nyon,Pal?o-Festival,2014-07-26,"['Che Sudaka ', ' El Hijo de la Cumbia feat. la Dame Blanche ', ' La Yegros ']","['world', 'music']"
+12,Nyon,Pal?o-Festival,2014-07-26,"['Kery James ', ' Mr. Oizo ', ' Casseurs Flowters ', ' The Coup ']","['Hip', 'Hop', ""R'n'B""]"
+13,Luzern,Piano-Entertainment,2014-07-26,['Herb Miller '],"['Jazz', 'Blues', 'Soul']"
+14,Luzern,Blue-Balls-Festival,2014-07-26,['Brett Newski '],['Pop']
+15,Luzern,Blue-Balls-Festival,2014-07-26,[' The Bandits '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Luzern,Blue-Balls-Festival,2014-07-26,"['Hellabama Honky Tonks ', ' Soneros de Verdad ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Nyon,Pal?o-Festival,2014-07-26,"['James Blunt ', ' Vanessa Paradis ', ' Julien Dor? ']",['Pop']
+18,Verbier,Verbier-Festival,2014-07-26,"[' Ingela Brimberg ', ' Brandon Jovanovich ', ' Evgeny Nikitin ', ' Ren? Pape ', ' Sylvia Schwartz ', ' Bernard Richter ', ' Charles Dekeyser ']",['Classic']
+19,Saanen,Menuhin-Festival-Gstaad,2014-07-26,"['Patricia Kopatchinskaja ', ' Sol Gabetta ']",['Classic']
+20,Luzern,Blue-Balls-Festival,2014-07-26,"[""Keb'Mo' ""]","['Jazz', 'Blues', 'Soul']"
+21,null,Stimmen,2014-07-26,['The Hives '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Verbier,Verbier-Festival,2014-07-26,[' Blythe Teh Engstroem '],['Classic']
+23,Luzern,Blue-Balls-Festival,2014-07-26,['S?hne Mannheims Session '],['Pop']
+24,null,Kulturfestival-St.-Gallen,2014-07-26,['Iyeoka '],"['Hip', 'Hop', ""R'n'B""]"
+25,Basel,Montreux-Jazz-Quartet-feat.-Olivier-Ker-Ourio,2014-07-26,"[' Olivier Ker Ourio ', ' Thomas Dobler ', ' Thierry Lang ', ' Stephan Kurmann ', ' Peter Schmidlin ']","['Jazz', 'Blues', 'Soul']"
+26,Z?rich,Stadtsommer,2014-07-26,"[' Fabio Andres ', ' Marius Lapagna ', ' Nicolas Sciarrone ', ' Sascha J?sler ', ' Patrik Schmid ']",['Pop']
+27,St.-Moritz,Festival-da-Jazz,2014-07-26,"[' China Forbes ', ' Timothy Nishimoto ', ' Gavin Bondy ', ' Antonis Andreou ', ' Nicolas Crosa ', ' Thomas Lauderdale ', ' Dan Faehnle ', ' Phil Baker ', ' Derek Rieth ', ' Anthony Jones ']","['Jazz', 'Blues', 'Soul']"
+28,Z?rich,Hans-S?llner-&-Bayaman-Sissdem,2014-07-26,[' Bayaman Sissdem '],['Pop']
+29,Rorschach,El-bachatazo-Latin-Night,2014-07-26,"[""DJ Da'le ""]","['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+30,Z?rich,Quintron-&-Miss-Pussycat,2014-07-26,[' Miss Pussycat '],"['world', 'music']"

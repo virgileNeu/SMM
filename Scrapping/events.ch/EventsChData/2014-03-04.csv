@@ -1,20 +1,18 @@
-location,event,date,artists,genre
-Zürich,Jazzapero,2014-03-04,"[' Christoph Grab ', "" Alessandro d'Episcopo "", ' Haemi Haemmerli ', ' Elmar Frey ']",
-Luzern,Piano-Entertainment,2014-03-04,['Mark Tenger '],
-Zürich,Scherbe-kontra-Bass,2014-03-04,['Scherbe kontra Bass '],
-Zürich,The-Warlocks,2014-03-04,['The Warlocks '],
-Zürich,Konzert,2014-03-04,[' Sergej Nakariakov '],Classic
-Zürich,Soul-Jazz-Alliance,2014-03-04,"[' Sachal Vasandani ', ' Jeremy Pelt ', ' Vincent Herring ', ' Freddie Bryant ', ' Jared Gold ', ' Joris Dudli ']",
-Zürich,Around-Monk,2014-03-04,"[' Ekkehard Sassenhausen ', ' Peter A. Schmid ']",
-null,Emmanuel-Moire,2014-03-04,['Emmanuel Moire '],Pop
-Burgdorf,Young-Artists,2014-03-04,"[' Franceso Diomaiuta ', ' Clemens Kuratle ', ' Florian Kolb ']",
-Zürich,Steel-Panther,2014-03-04,['Steel Panther '],
-Zürich,Angélique-Kidjo,2014-03-04,['Angélique Kidjo '],
-Zürich,Söhne-Mannheims,2014-03-04,['Söhne Mannheims '],Pop
-Zürich,All-Time-Low,2014-03-04,"['All Time Low ', ' Blitz Kids ']",
-Thun,Colin-Vallon-Trio,2014-03-04,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-Zürich,Pommelhorse,2014-03-04,"[' Lukas Roos ', ' Joel Graf ', ' Olivier Zurkirchen ', ' Jeremias Keller ', ' Gregor Lisser ']",
-Basel,guitars@basel,2014-03-04,"[' Marc Ullrich ', ' Adam Taubitz ', ' Simone Bollini ', ' Dominik Schürmann ', ' Christoph Mohler ']",
-null,Joshua-Redman-Quartet,2014-03-04,['Joshua Redman Quartet '],
-Luzern,Underdogs,2014-03-04,['Underdogs '],
-Basel,Valley-of-the-Sun,2014-03-04,"['Valley of the Sun ', ' White Miles ']",
+,location,event,date,artists,genre
+0,Z?rich,Jazzapero,2014-03-04,"[' Christoph Grab ', "" Alessandro d'Episcopo "", ' Haemi Haemmerli ', ' Elmar Frey ']","['Jazz', 'Blues', 'Soul']"
+1,Z?rich,Konzert,2014-03-04,[' Sergej Nakariakov '],['Classic']
+2,Z?rich,Scherbe-kontra-Bass,2014-03-04,['Scherbe kontra Bass '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,null,Emmanuel-Moire,2014-03-04,['Emmanuel Moire '],['Pop']
+4,Z?rich,Soul-Jazz-Alliance,2014-03-04,"[' Sachal Vasandani ', ' Jeremy Pelt ', ' Vincent Herring ', ' Freddie Bryant ', ' Jared Gold ', ' Joris Dudli ']","['Jazz', 'Blues', 'Soul']"
+5,Z?rich,Steel-Panther,2014-03-04,['Steel Panther '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Around-Monk,2014-03-04,"[' Ekkehard Sassenhausen ', ' Peter A. Schmid ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Ang?lique-Kidjo,2014-03-04,['Ang?lique Kidjo '],"['Hip', 'Hop', ""R'n'B""]"
+8,Z?rich,S?hne-Mannheims,2014-03-04,['S?hne Mannheims '],['Pop']
+9,Burgdorf,Young-Artists,2014-03-04,"[' Franceso Diomaiuta ', ' Clemens Kuratle ', ' Florian Kolb ']","['Jazz', 'Blues', 'Soul']"
+10,Z?rich,All-Time-Low,2014-03-04,"['All Time Low ', ' Blitz Kids ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Thun,Colin-Vallon-Trio,2014-03-04,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+12,Basel,guitars@basel,2014-03-04,"[' Marc Ullrich ', ' Adam Taubitz ', ' Simone Bollini ', ' Dominik Sch?rmann ', ' Christoph Mohler ']","['Jazz', 'Blues', 'Soul']"
+13,null,Joshua-Redman-Quartet,2014-03-04,['Joshua Redman Quartet '],"['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Pommelhorse,2014-03-04,"[' Lukas Roos ', ' Joel Graf ', ' Olivier Zurkirchen ', ' Jeremias Keller ', ' Gregor Lisser ']","['Jazz', 'Blues', 'Soul']"
+15,Luzern,Underdogs,2014-03-04,['Underdogs '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Basel,Valley-of-the-Sun,2014-03-04,"['Valley of the Sun ', ' White Miles ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

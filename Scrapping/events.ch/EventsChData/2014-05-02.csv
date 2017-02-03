@@ -1,53 +1,52 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment,2014-05-02,['Herb Miller '],
-Basel,Orgelspiel-zum-Feierabend,2014-05-02,['Martin Sander '],Classic
-Gelterkinden,Alles-Kaffee-oder-was-,2014-05-02,"[' Béa Droz ', ' Selina Beltrani ', ' Simon Peter ']",
-Zürich,Last-Avenue,2014-05-02,['Last Avenue '],
-Dübendorf,U.K.-Trio,2014-05-02,"[' Ueli Kempter ', ' Andreas Aeberhard ', ' Kevin Chesham ']",
-Luzern,Gladiator-Live-to-Projection,2014-05-02,"[' Lisa Gerrard ', ' Gladiator ']",Classic
-Zürich,Bruno-Schneider-&-I-Tempi,2014-05-02,[' Bruno Schneider '],Classic
-Baden,American-Dream,2014-05-02,"[' Marielle Oggier ', ' Marc Bätscher ', ' Ursula Hächler ', ' Jason Paul Peterson ']",Classic
-Aarau,Despised-Icon,2014-05-02,"['Despised Icon ', ' support: Brutality Will Prevail ', ' Cerebral Bore ']",
-Liebefeld,Zwischen-Himmel-und-Hölle,2014-05-02,[' Viktor Pellegrini '],Classic
-Zürich,Internationales-Jazz-&-Blues-Festival,2014-05-02,"['C.J. Boyd & The Red Hot Louisiana Band ', ' Zydeco Playboys ']",
-Zürich,Klangvoller-Frühling,2014-05-02,"[' Noemi Nadelmann ', ' Maria Solozobova ', ' Juri Bashmet ']",Classic
-Basel,Jazzfestival-Basel,2014-05-02,['Vieux Farka Touré & Trio '],
-Lyss,Gorguts,2014-05-02,"['Gorguts ', ' support: Misery Index ', ' Meathook ', ' Fleshless ']",
-Stans,Stanser-Musiktage,2014-05-02,['Orquestra do Fuba '],
-Zürich,Love-Bravely-eine-Collage-aus-Opernarien,2014-05-02,['Srdjan Vukasinovic '],Classic
-Stans,Stanser-Musiktage,2014-05-02,['Satelliti '],
-Zürich,Acoustic-Friday,2014-05-02,"[' Stefanie Erni ', ' Christian Zemp ', ' Andreas Gut ', ' David Heizmann ']",
-Luzern,Jello-Biafra-and-the-Guantanamo-School-of-Medicine,2014-05-02,['Jello Biafra and the Guantanamo School of Medicine '],
-Baden,Trash-Town-Rockabilly-Weekender,2014-05-02,"[' Blue Rockin ', ' Screamin Victor And The Heartattacks ']",
-Basel,Nuevo-Tango-Nuevo-II,2014-05-02,[' Marcelo Nisinman '],Classic
-Basel,Muttertagskonzert,2014-05-02,['Die Paldauer '],traditional
-Liestal,Stiller-Has,2014-05-02,"[' Endo Anaconda ', ' Schifer Schafer ', ' Markus Fürst ', ' Salome Buser ']",Pop
-Uster,Maryann-Cotton,2014-05-02,"['Maryann Cotton ', ' Manzana ', ' Luxury Toys ', ' Peekaboo Primate ']",
-Zürich,Trio-Hug-Mune-Zeilinger,2014-05-02,"[' Charlotte Hug ', ' Diego Mune ', ' Bernadette Zeilinger ']",
-Baden,Liebman-Eskelin-Quartet,2014-05-02,"[' David Liebman ', ' Ellery Eskelin ', ' Anthony Joseph Marino ', ' Jim Black ']",
-Bern,A-l'ancienne,2014-05-02,[' Janina Müller '],Classic
-Basel,Bachelorkonzert,2014-05-02,[' Judith Schneider '],Classic
-Liebefeld,Hans-Feigenwinter-Zinc,2014-05-02,"[' Domenic Landolf ', ' Andreas Tschopp ', ' Hans Feigenwinter ']",
-Basel,Performativer-Musikabend-mit-Klavier,2014-05-02,"[' Stefanie Grubenmann ', ' Michelangelo Rinaldi ']",Classic
-Zürich,Svavar-Knutur,2014-05-02,['Svavar Knutur '],Pop
-Stäfa,Mark-Geary,2014-05-02,"['Mark Geary ', ' support: Nicole Maguire ']",
-Basel,Bokani-Dyer-Quintet,2014-05-02,"[' Matthias Spillmann ', ' Donat Fisch ', ' Bokani Dyer ', ' Stephan Kurmann ', ' Norbert Pfammatter ']",
-Aarau,Ohrbooten,2014-05-02,"['Ohrbooten ', ' Smith & Smart ']",
-Winterthur,The-Bare-Tunes,2014-05-02,"[' Mace Mitchell ', ' Tsering Purtag ']",
-Lyss,The-Expectation,2014-05-02,['The Expectation '],
-Basel,Freitagsbar,2014-05-02,['Simon MacHale '],
-Frick,Mokoomba,2014-05-02,['Mokoomba '],
-Zürich,Gemüsegartenprojekt,2014-05-02,"[' Daniel Affentranger ', ' Fortunat Haefliger ', ' Lukas Wyss ', ' Claude Stucki ', ' Mischa Frey ', ' Lukas Blattner ']",
-Zürich,Jack-Sus,2014-05-02,"[' Benedict Schönenberger ', ' Daniel Affentranger ', ' Philipp Eden ', ' Jonas Brügger ']",
-Rubigen,Della-Mae,2014-05-02,['Della Mae '],
-Stans,Stanser-Musiktage,2014-05-02,['Julia Biel '],
-Solothurn,Irish-Night,2014-05-02,['Live: LED Farmers '],
-Lenzburg,Hank-Shizzoe,2014-05-02,"[' Hank Shizzoe ', ' Tom Etter ', ' Simon Baumann ']",Pop
-null,Kaaris,2014-05-02,['Kaaris '],
-Aarburg,Savoy-Brown,2014-05-02,['Savoy Brown '],
-Luzern,Chase-the-Ace,2014-05-02,"['Chase the Ace ', ' Saints of Los Angeles ']",
-Zürich,Rapsody-&-9th-Wonder,2014-05-02,['Rapsody & 9th Wonder '],
-Düdingen,James-Ferraro,2014-05-02,['James Ferraro '],
-Zürich,King-Champions-Sounds,2014-05-02,['King Champions Sounds '],
-Kriens,Kassen-Mosse,2014-05-02,"['Kassen Mosse ', ' DJs Spider ', ' Torn Hawk ']",Electronic
-Winterthur,Turnstunde,2014-05-02,['DJs Rampue '],
+,location,event,date,artists,genre
+0,Luzern,Piano-Entertainment,2014-05-02,['Herb Miller '],"['Jazz', 'Blues', 'Soul']"
+1,Basel,Orgelspiel-zum-Feierabend,2014-05-02,['Martin Sander '],['Classic']
+2,D?bendorf,U.K.-Trio,2014-05-02,"[' Ueli Kempter ', ' Andreas Aeberhard ', ' Kevin Chesham ']","['Jazz', 'Blues', 'Soul']"
+3,Gelterkinden,Alles-Kaffee-oder-was-,2014-05-02,"[' B?a Droz ', ' Selina Beltrani ', ' Simon Peter ']","['world', 'music']"
+4,Z?rich,Last-Avenue,2014-05-02,['Last Avenue '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,Klangvoller-Fr?hling,2014-05-02,"[' Noemi Nadelmann ', ' Maria Solozobova ', ' Juri Bashmet ']",['Classic']
+6,Luzern,Gladiator-Live-to-Projection,2014-05-02,"[' Lisa Gerrard ', ' Gladiator ']",['Classic']
+7,Z?rich,Internationales-Jazz-&-Blues-Festival,2014-05-02,"[' The Red Hot Louisiana Band ', ' Zydeco Playboys ']","['Jazz', 'Blues', 'Soul']"
+8,Baden,American-Dream,2014-05-02,"[' Marielle Oggier ', ' Marc B?tscher ', ' Ursula H?chler ', ' Jason Paul Peterson ']",['Classic']
+9,Z?rich,Bruno-Schneider-&-I-Tempi,2014-05-02,[' Bruno Schneider '],['Classic']
+10,Aarau,Despised-Icon,2014-05-02,"['Despised Icon ', ' support: Brutality Will Prevail ', ' Cerebral Bore ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Liebefeld,Zwischen-Himmel-und-H?lle,2014-05-02,[' Viktor Pellegrini '],['Classic']
+12,Basel,Jazzfestival-Basel,2014-05-02,[' Trio '],"['Jazz', 'Blues', 'Soul']"
+13,Uster,Maryann-Cotton,2014-05-02,"['Maryann Cotton ', ' Manzana ', ' Luxury Toys ', ' Peekaboo Primate ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Lyss,Gorguts,2014-05-02,"['Gorguts ', ' support: Misery Index ', ' Meathook ', ' Fleshless ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Luzern,Jello-Biafra-and-the-Guantanamo-School-of-Medicine,2014-05-02,['Jello Biafra and the Guantanamo School of Medicine '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Basel,Nuevo-Tango-Nuevo-II,2014-05-02,[' Marcelo Nisinman '],['Classic']
+17,Z?rich,Love-Bravely-eine-Collage-aus-Opernarien,2014-05-02,['Srdjan Vukasinovic '],['Classic']
+18,Baden,Trash-Town-Rockabilly-Weekender,2014-05-02,"[' Blue Rockin ', ' Screamin Victor And The Heartattacks ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Z?rich,Acoustic-Friday,2014-05-02,"[' Stefanie Erni ', ' Christian Zemp ', ' Andreas Gut ', ' David Heizmann ']","['Jazz', 'Blues', 'Soul']"
+20,Basel,Muttertagskonzert,2014-05-02,['Die Paldauer '],['traditional']
+21,Stans,Stanser-Musiktage,2014-05-02,['Orquestra do Fuba '],"['world', 'music']"
+22,Liestal,Stiller-Has,2014-05-02,"[' Endo Anaconda ', ' Schifer Schafer ', ' Markus F?rst ', ' Salome Buser ']",['Pop']
+23,Stans,Stanser-Musiktage,2014-05-02,['Satelliti '],"['Jazz', 'Blues', 'Soul']"
+24,Bern,A-l'ancienne,2014-05-02,[' Janina M?ller '],['Classic']
+25,Baden,Liebman-Eskelin-Quartet,2014-05-02,"[' David Liebman ', ' Ellery Eskelin ', ' Anthony Joseph Marino ', ' Jim Black ']","['Jazz', 'Blues', 'Soul']"
+26,Basel,Bachelorkonzert,2014-05-02,[' Judith Schneider '],['Classic']
+27,Z?rich,Trio-Hug-Mune-Zeilinger,2014-05-02,"[' Charlotte Hug ', ' Diego Mune ', ' Bernadette Zeilinger ']","['Jazz', 'Blues', 'Soul']"
+28,Z?rich,Svavar-Knutur,2014-05-02,['Svavar Knutur '],['Pop']
+29,St?fa,Mark-Geary,2014-05-02,"['Mark Geary ', ' support: Nicole Maguire ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Basel,Bokani-Dyer-Quintet,2014-05-02,"[' Matthias Spillmann ', ' Donat Fisch ', ' Bokani Dyer ', ' Stephan Kurmann ', ' Norbert Pfammatter ']","['Jazz', 'Blues', 'Soul']"
+31,Winterthur,The-Bare-Tunes,2014-05-02,"[' Mace Mitchell ', ' Tsering Purtag ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Basel,Performativer-Musikabend-mit-Klavier,2014-05-02,"[' Stefanie Grubenmann ', ' Michelangelo Rinaldi ']",['Classic']
+33,Aarau,Ohrbooten,2014-05-02,[' Smart '],"['Hip', 'Hop', ""R'n'B""]"
+34,Liebefeld,Hans-Feigenwinter-Zinc,2014-05-02,"[' Domenic Landolf ', ' Andreas Tschopp ', ' Hans Feigenwinter ']","['Jazz', 'Blues', 'Soul']"
+35,Z?rich,Gem?segartenprojekt,2014-05-02,"[' Daniel Affentranger ', ' Fortunat Haefliger ', ' Lukas Wyss ', ' Claude Stucki ', ' Mischa Frey ', ' Lukas Blattner ']","['Jazz', 'Blues', 'Soul']"
+36,Lenzburg,Hank-Shizzoe,2014-05-02,"[' Hank Shizzoe ', ' Tom Etter ', ' Simon Baumann ']",['Pop']
+37,Z?rich,Jack-Sus,2014-05-02,"[' Benedict Sch?nenberger ', ' Daniel Affentranger ', ' Philipp Eden ', ' Jonas Br?gger ']","['Jazz', 'Blues', 'Soul']"
+38,Aarburg,Savoy-Brown,2014-05-02,['Savoy Brown '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+39,Solothurn,Irish-Night,2014-05-02,['Live: LED Farmers '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+40,Basel,Freitagsbar,2014-05-02,['Simon MacHale '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+41,Rubigen,Della-Mae,2014-05-02,['Della Mae '],"['world', 'music']"
+42,Stans,Stanser-Musiktage,2014-05-02,['Julia Biel '],"['Jazz', 'Blues', 'Soul']"
+43,null,Kaaris,2014-05-02,['Kaaris '],"['Hip', 'Hop', ""R'n'B""]"
+44,Lyss,The-Expectation,2014-05-02,['The Expectation '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+45,Luzern,Chase-the-Ace,2014-05-02,"['Chase the Ace ', ' Saints of Los Angeles ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+46,Z?rich,Rapsody-&-9th-Wonder,2014-05-02,[' 9th Wonder '],"['Hip', 'Hop', ""R'n'B""]"
+47,Frick,Mokoomba,2014-05-02,['Mokoomba '],"['world', 'music']"
+48,D?dingen,James-Ferraro,2014-05-02,['James Ferraro '],"['Jazz', 'Blues', 'Soul']"
+49,Z?rich,King-Champions-Sounds,2014-05-02,['King Champions Sounds '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+50,Kriens,Kassen-Mosse,2014-05-02,"['Kassen Mosse ', ' DJs Spider ', ' Torn Hawk ']",['Electronic']

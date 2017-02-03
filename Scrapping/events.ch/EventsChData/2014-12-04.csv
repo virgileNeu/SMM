@@ -1,41 +1,40 @@
-location,event,date,artists,genre
-Zürich,Monte-Carlo,2014-12-04,['Monte Carlo '],Pop
-Zürich,Surprise,2014-12-04,['Stefan Kägi '],Classic
-Luzern,Sinfoniekonzert,2014-12-04,[' Menahem Pressler '],Classic
-Zürich,Thursday-Night-Jazz,2014-12-04,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Bern,Prokofjews-Violinkonzert,2014-12-04,[' Veronika Eberle '],Classic
-Zürich,Konzert,2014-12-04,"['Catriona Bühler ', ' Nijolé Abaryté ']",Classic
-Zürich,Konzert,2014-12-04,[' Martin Fröst '],Classic
-null,Einar-Stray-Orchsetra,2014-12-04,['Einar Stray Orchsetra '],Pop
-Zürich,Bryan-Ferry-abgesagt,2014-12-04,['Bryan Ferry '],Pop
-Luzern,Guilty-Simpson,2014-12-04,"['Guilty Simpson ', ' Phat Kat ', ' Elzhi ']",
-Zürich,Bryan-Ferry-abgesagt,2014-12-04,['Bryan Ferry '],Pop
-Aarau,Geppetto-&-the-Whales,2014-12-04,['Geppetto & the Whales '],Pop
-null,Jan-Garbarek-&-The-Hilliard-Ensemble,2014-12-04,['Jan Garbarek & The Hilliard Ensemble '],
-Solothurn,Rival-Sons,2014-12-04,"['Rival Sons ', ' Jay Buchanan ', ' Scott Holiday ', ' Dave Beste ', ' Michael Miley ']",
-Solothurn,Rival-Sons,2014-12-04,"['Rival Sons ', ' Jay Buchanan ', ' Scott Holiday ', ' Dave Beste ', ' Michael Miley ']",
-Stans,Anais-Mitchel,2014-12-04,['Anais Mitchel '],Pop
-Zürich,Northcote,2014-12-04,"['Northcote ', ' support: Andrew Paley ']",
-Zürich,Omanut,2014-12-04,"[' Elina Duni ', ' Sascha Schönhaus ', ' Colin Vallon ']",
-Zürich,Mndsgn,2014-12-04,['Mndsgn '],Electronic
-Zürich,Christmas-With-My-Friends,2014-12-04,"['Nils Landgren ', ' Nils Landgren ', ' Jessica Pilnäs ', ' Jeannette Köhn ', ' Sharon Dyall ', ' Ida Sand ', ' Johan Norberg ']",
-null,SWR2-Kulturnacht,2014-12-04,"[' Olivia Trummer ', ' Sebastian Studnitzky ', ' Paul Kleber ']",
-Chur,Bliss,2014-12-04,['Bliss '],Pop
-null,Adventskonzert-Kostbare-Momente,2014-12-04,"['Clemens Bittlinger ', ' Bettina Alms ', ' David Plüss ']",Classic
-Zürich,Zwischenländli,2014-12-04,"[' Yang Jing ', ' Christine Lauterburg ']",
-Winterthur,Swing-is-King,2014-12-04,"[' Enrico Orlandi ', ' Bela Balint ', ' Urs Stucki ', ' Giovanni Siveroni ', ' Roger Hürlimann ', ' Erich Güntensperger ']",
-Aarau,I-Heart-Sharks,2014-12-04,['I Heart Sharks '],Pop
-null,Drawers,2014-12-04,['Drawers '],
-Zürich,Depart,2014-12-04,"[' Harry Sokal ', ' Heiri Känzig ', ' Martin Valihora ']",
-Baden,D'accordeon,2014-12-04,"[' Bernita Bush ', ' Richard Pizzorno ', ' Pius Baumgartner ', ' Beat Ramseier ', ' Chris von Hoffmann ']",
-Basel,David-Helbock's-Random-Control,2014-12-04,"[' David Helbock ', ' Johannes Bär ', ' Andreas Broger ']",
-null,Songs-from-Utopia,2014-12-04,"[' Rebekka Zarkava ', ' Jura Dolezal ']",
-Liebefeld,Evaristo-Perez-Trio,2014-12-04,"[' Evaristo Perez ', ' Philippe Brassoud ', ' Marta Themo ']",
-Zürich,Bukowski-Spezial,2014-12-04,['BBQ '],Pop
-Zürich,Triebherde,2014-12-04,"[' Omri Ziegele ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ']",
-Lausanne,Giedré,2014-12-04,['Giedré '],Pop
-Rubigen,Nazareth,2014-12-04,['Nazareth '],
-Zürich,NGD-&-The-Ginantonics,2014-12-04,"[' Marvin Trummer ', ' Claude Stucki ', ' Marcel Frautschi ']",Pop
-Lausanne,Ryan-Keen,2014-12-04,"['Ryan Keen ', ' Kate Miller-Heidke ']",
-Lausanne,Sharon-Van-Etten,2014-12-04,"['Sharon Van Etten ', ' Marisa Anderson ']",
-Zürich,Parra-For-Cuva-&-Band,2014-12-04,['Parra For Cuva & Band '],Electronic
+,location,event,date,artists,genre
+0,Z?rich,Monte-Carlo,2014-12-04,['Monte Carlo '],['Pop']
+1,Z?rich,Surprise,2014-12-04,['Stefan K?gi '],['Classic']
+2,Luzern,Sinfoniekonzert,2014-12-04,[' Menahem Pressler '],['Classic']
+3,Bern,Prokofjews-Violinkonzert,2014-12-04,[' Veronika Eberle '],['Classic']
+4,Z?rich,Konzert,2014-12-04,"['Catriona B?hler ', ' Nijol? Abaryt? ']",['Classic']
+5,null,Einar-Stray-Orchsetra,2014-12-04,['Einar Stray Orchsetra '],['Pop']
+6,Z?rich,Thursday-Night-Jazz,2014-12-04,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Konzert,2014-12-04,[' Martin Fr?st '],['Classic']
+8,null,Adventskonzert-Kostbare-Momente,2014-12-04,"['Clemens Bittlinger ', ' Bettina Alms ', ' David Pl?ss ']",['Classic']
+9,Z?rich,Omanut,2014-12-04,"[' Elina Duni ', ' Sascha Sch?nhaus ', ' Colin Vallon ']","['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Bryan-Ferry-abgesagt,2014-12-04,['Bryan Ferry '],['Pop']
+11,Z?rich,Christmas-With-My-Friends,2014-12-04,"['Nils Landgren ', ' Nils Landgren ', ' Jessica Piln?s ', ' Jeannette K?hn ', ' Sharon Dyall ', ' Ida Sand ', ' Johan Norberg ']","['Jazz', 'Blues', 'Soul']"
+12,null,SWR2-Kulturnacht,2014-12-04,"[' Olivia Trummer ', ' Sebastian Studnitzky ', ' Paul Kleber ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Mndsgn,2014-12-04,['Mndsgn '],['Electronic']
+14,Aarau,Geppetto-&-the-Whales,2014-12-04,[' the Whales '],['Pop']
+15,Z?rich,Zwischenl?ndli,2014-12-04,"[' Yang Jing ', ' Christine Lauterburg ']","['world', 'music']"
+16,Stans,Anais-Mitchel,2014-12-04,['Anais Mitchel '],['Pop']
+17,Chur,Bliss,2014-12-04,['Bliss '],['Pop']
+18,Solothurn,Rival-Sons,2014-12-04,"['Rival Sons ', ' Jay Buchanan ', ' Scott Holiday ', ' Dave Beste ', ' Michael Miley ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Z?rich,Northcote,2014-12-04,"['Northcote ', ' support: Andrew Paley ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Luzern,Guilty-Simpson,2014-12-04,[' Elzhi '],"['Hip', 'Hop', ""R'n'B""]"
+21,null,Jan-Garbarek-&-The-Hilliard-Ensemble,2014-12-04,[' The Hilliard Ensemble '],"['Jazz', 'Blues', 'Soul']"
+22,Winterthur,Swing-is-King,2014-12-04,"[' Enrico Orlandi ', ' Bela Balint ', ' Urs Stucki ', ' Giovanni Siveroni ', ' Roger H?rlimann ', ' Erich G?ntensperger ']","['Jazz', 'Blues', 'Soul']"
+23,Baden,D'accordeon,2014-12-04,"[' Bernita Bush ', ' Richard Pizzorno ', ' Pius Baumgartner ', ' Beat Ramseier ', ' Chris von Hoffmann ']","['Jazz', 'Blues', 'Soul']"
+24,Basel,David-Helbock's-Random-Control,2014-12-04,"[' David Helbock ', ' Johannes B?r ', ' Andreas Broger ']","['Jazz', 'Blues', 'Soul']"
+25,Aarau,I-Heart-Sharks,2014-12-04,['I Heart Sharks '],['Pop']
+26,Liebefeld,Evaristo-Perez-Trio,2014-12-04,"[' Evaristo Perez ', ' Philippe Brassoud ', ' Marta Themo ']","['Jazz', 'Blues', 'Soul']"
+27,Z?rich,Triebherde,2014-12-04,"[' Omri Ziegele ', ' J?rg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ']","['Jazz', 'Blues', 'Soul']"
+28,null,Drawers,2014-12-04,['Drawers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Z?rich,Bukowski-Spezial,2014-12-04,['BBQ '],['Pop']
+30,null,Songs-from-Utopia,2014-12-04,"[' Rebekka Zarkava ', ' Jura Dolezal ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Z?rich,Depart,2014-12-04,"[' Harry Sokal ', ' Heiri K?nzig ', ' Martin Valihora ']","['Jazz', 'Blues', 'Soul']"
+32,Lausanne,Giedr?,2014-12-04,['Giedr? '],['Pop']
+33,Bern,Gus-Gus,2014-12-04,"['Gus Gus ', ' Creativemaze ']",['Electronic']
+34,Rubigen,Nazareth,2014-12-04,['Nazareth '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Z?rich,NGD-&-The-Ginantonics,2014-12-04,"[' Marvin Trummer ', ' Claude Stucki ', ' Marcel Frautschi ']",['Pop']
+36,Z?rich,Parra-For-Cuva-&-Band,2014-12-04,[' Band '],['Electronic']
+37,Lausanne,Ryan-Keen,2014-12-04,"['Ryan Keen ', ' Kate Miller-Heidke ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+38,Lausanne,Sharon-Van-Etten,2014-12-04,"['Sharon Van Etten ', ' Marisa Anderson ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

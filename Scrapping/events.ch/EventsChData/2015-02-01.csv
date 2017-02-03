@@ -1,36 +1,36 @@
-location,event,date,artists,genre
-Basel,Hell-&-dunkel,2015-02-01,"[' Thomas Zehetmair ', ' Ruth Killius ']",Classic
-Zürich,Klavier-Konzert,2015-02-01,['Kathrine Jey Yuan '],Classic
-Zürich,Glantaler-Power-Men,2015-02-01,['Glantaler Power Men '],traditional
-Luzern,Kammermusik-Matinee,2015-02-01,"[' Denitza Kucera ', ' Julian Fels ', ' Reiko Koi ', ' Keiko Yamaguchi ', ' Bernd Haag ', ' Madeleine Burkhalter ', ' Sebastian Diezig ', ' Anne-Christine Vandewalle ']",Classic
-Zürich,Brunchkonzert-Encores-für-Streichtrio,2015-02-01,"['Juliana Georgieva ', ' Maria Clément ', ' Barbara Oehm ']",Classic
-Zürich,Kammermusik-Matinee,2015-02-01,"['Elisabeth Harringer-Pignat ', ' Peter McGuire ', ' Antonia Siegers-Reid ', ' Johannes Gürth ']",Classic
-null,Leidenschaft-aus-Oper-und-Operette,2015-02-01,"['Marni Schwonberg ', ' Sebastian Goll ', ' Dieter Wagner ']",Classic
-Zürich,Das-magische-Rohr,2015-02-01,"['Isaac Duarte ', ' Martin Frutiger ', ' Kaspar Zimmermann ']",Classic
-Baden,One-of-a-Million,2015-02-01,['Emily Jane White '],
-Aarau,Geheimnisvolle-Zeichen,2015-02-01,"[' Eva Nievergelt ', ' Annette Schmucki ']",Classic
-Solothurn,Mozart-Galakonzert,2015-02-01,[' Claire Huangci '],Classic
-Basel,Schostakowitsch,2015-02-01,"[' Isabel Heusser ', ' Laszlo Fogarassy ', ' Laszlo Polus ', ' Florin Farcas ']",Classic
-Bassersdorf,Licht-&-Schatten,2015-02-01,"['Valeriya Bernikova ', ' Christian Gautschi ']",Classic
-null,Sonntags-um-5,2015-02-01,"['Iryna Gintova ', ' Gwendoline Rouiller ', "" Birgit d'Amelio ""]",Classic
-Basel,Konzert,2015-02-01,['Susanne Doll '],Classic
-Turbenthal,Nelsonmesse-Dixit-Dominus-und-7-biblische-Gesänge,2015-02-01,"[' Dorothea Frey ', ' Liliane Glanzmann ', ' Valentin Johannes Gloor ', ' Marcus Niedermeyr ']",Classic
-La-Chaux-de-Fonds,Cantique,2015-02-01,[' Estelle Revaz '],Classic
-Zürich,Tonhalle-Orchester-Zürich,2015-02-01,['Leila Josefowicz '],Classic
-Zürich,Schubert-Die-Winterreise-neu-gehört,2015-02-01,[' Julian Prégardien '],Classic
-Zollikerberg,Konzert-zu-Maria-Lichtmess,2015-02-01,[' Margrit Brincken-Schuler '],Classic
-null,Die-Winterreise,2015-02-01,"['Sarah Tabitha Stähli ', ' conductor: Ernst Buscagne ']",Classic
-Mühlethurnen,Thomas-Scheytt,2015-02-01,['Thomas Scheytt '],
-null,Anna-Trauffer-&-Nadja-Stoller,2015-02-01,"[' Anna Trauffer ', ' Nadja Stoller ']",
-Zürich,Ein-gLiederabend,2015-02-01,"['Graziella Rossi ', ' Rea Claudia Kost ', ' Daniel Bentz ', ' Helmut Vogel ', ' Daniel Fueter ']",Pop
-Basel,Schweizer-Volksmusik-und-Orgel,2015-02-01,"[' Matthias Gubler ', ' Simon Dettwiler ', ' Hannes Fankhauser ', ' Hannes Fankhauser ']",
-Zürich,Boubacar-Traoré,2015-02-01,"['Boubacar Traoré ', ' Boubacar Traoré ', ' Vincent Bucher ', ' Babah Koné ']",
-Basel,Sareena-Overwater,2015-02-01,['Sareena Overwater '],Pop
-Bern,Rhododendron,2015-02-01,['Rhododendron '],
-null,Dschané,2015-02-01,"[' Andrea Tsoro Panitz ', ' Ilsi Muna Ferrer ', ' Lucy Novotny ', ' Caspar Fries ', ' Marc Bantelli ', ' Igor Bogoev ']",
-Bern,Emily-Loizeau,2015-02-01,['Emily Loizeau '],Pop
-Schaffhausen,Jeff-Beadle,2015-02-01,['Jeff Beadle '],
-Zürich,Morb,2015-02-01,['Morb '],Electronic
-Sankt-Gallen,Dan-Michaelson-&-The-Coastguards,2015-02-01,['Dan Michaelson & The Coastguards '],
-Basel,Bondage-Fairies,2015-02-01,"['Bondage Fairies ', ' The Tlark ']",Pop
-Baden,One-of-a-Million,2015-02-01,['Get Well Soon '],
+,location,event,date,artists,genre
+0,Basel,Hell-&-dunkel,2015-02-01,"[' Thomas Zehetmair ', ' Ruth Killius ']",['Classic']
+1,Luzern,Kammermusik-Matinee,2015-02-01,"[' Denitza Kucera ', ' Julian Fels ', ' Reiko Koi ', ' Keiko Yamaguchi ', ' Bernd Haag ', ' Madeleine Burkhalter ', ' Sebastian Diezig ', ' Anne-Christine Vandewalle ']",['Classic']
+2,Z?rich,Glantaler-Power-Men,2015-02-01,['Glantaler Power Men '],['traditional']
+3,Z?rich,Klavier-Konzert,2015-02-01,['Kathrine Jey Yuan '],['Classic']
+4,Z?rich,Kammermusik-Matinee,2015-02-01,"['Elisabeth Harringer-Pignat ', ' Peter McGuire ', ' Antonia Siegers-Reid ', ' Johannes G?rth ']",['Classic']
+5,Z?rich,Brunchkonzert-Encores-f?r-Streichtrio,2015-02-01,"['Juliana Georgieva ', ' Maria Cl?ment ', ' Barbara Oehm ']",['Classic']
+6,null,Leidenschaft-aus-Oper-und-Operette,2015-02-01,"['Marni Schwonberg ', ' Sebastian Goll ', ' Dieter Wagner ']",['Classic']
+7,Z?rich,Das-magische-Rohr,2015-02-01,"['Isaac Duarte ', ' Martin Frutiger ', ' Kaspar Zimmermann ']",['Classic']
+8,Baden,One-of-a-Million,2015-02-01,['Emily Jane White '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Tonhalle-Orchester-Z?rich,2015-02-01,['Leila Josefowicz '],['Classic']
+10,La-Chaux-de-Fonds,Cantique,2015-02-01,[' Estelle Revaz '],['Classic']
+11,Z?rich,Schubert-Die-Winterreise-neu-geh?rt,2015-02-01,[' Julian Pr?gardien '],['Classic']
+12,Zollikerberg,Konzert-zu-Maria-Lichtmess,2015-02-01,[' Margrit Brincken-Schuler '],['Classic']
+13,Bassersdorf,Licht-&-Schatten,2015-02-01,"['Valeriya Bernikova ', ' Christian Gautschi ']",['Classic']
+14,Basel,Schostakowitsch,2015-02-01,"[' Isabel Heusser ', ' Laszlo Fogarassy ', ' Laszlo Polus ', ' Florin Farcas ']",['Classic']
+15,null,Sonntags-um-5,2015-02-01,"['Iryna Gintova ', ' Gwendoline Rouiller ', "" Birgit d'Amelio ""]",['Classic']
+16,Solothurn,Mozart-Galakonzert,2015-02-01,[' Claire Huangci '],['Classic']
+17,Basel,Konzert,2015-02-01,['Susanne Doll '],['Classic']
+18,Turbenthal,Nelsonmesse-Dixit-Dominus-und-7-biblische-Ges?nge,2015-02-01,"[' Dorothea Frey ', ' Liliane Glanzmann ', ' Valentin Johannes Gloor ', ' Marcus Niedermeyr ']",['Classic']
+19,Aarau,Geheimnisvolle-Zeichen,2015-02-01,"[' Eva Nievergelt ', ' Annette Schmucki ']",['Classic']
+20,null,Die-Winterreise,2015-02-01,"['Sarah Tabitha St?hli ', ' conductor: Ernst Buscagne ']",['Classic']
+21,M?hlethurnen,Thomas-Scheytt,2015-02-01,['Thomas Scheytt '],"['Jazz', 'Blues', 'Soul']"
+22,null,Anna-Trauffer-&-Nadja-Stoller,2015-02-01,"[' Anna Trauffer ', ' Nadja Stoller ']","['Jazz', 'Blues', 'Soul']"
+23,Basel,Schweizer-Volksmusik-und-Orgel,2015-02-01,"[' Matthias Gubler ', ' Simon Dettwiler ', ' Hannes Fankhauser ', ' Hannes Fankhauser ']","['world', 'music']"
+24,Z?rich,Ein-gLiederabend,2015-02-01,"['Graziella Rossi ', ' Rea Claudia Kost ', ' Daniel Bentz ', ' Helmut Vogel ', ' Daniel Fueter ']",['Pop']
+25,Basel,Sareena-Overwater,2015-02-01,['Sareena Overwater '],['Pop']
+26,Z?rich,Boubacar-Traor?,2015-02-01,"['Boubacar Traor? ', ' Boubacar Traor? ', ' Vincent Bucher ', ' Babah Kon? ']","['world', 'music']"
+27,null,Dschan?,2015-02-01,"[' Andrea Tsoro Panitz ', ' Ilsi Muna Ferrer ', ' Lucy Novotny ', ' Caspar Fries ', ' Marc Bantelli ', ' Igor Bogoev ']","['world', 'music']"
+28,Bern,Rhododendron,2015-02-01,['Rhododendron '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Sankt-Gallen,Dan-Michaelson-&-The-Coastguards,2015-02-01,[' The Coastguards '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Schaffhausen,Jeff-Beadle,2015-02-01,['Jeff Beadle '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Z?rich,Morb,2015-02-01,['Morb '],['Electronic']
+32,Bern,Emily-Loizeau,2015-02-01,['Emily Loizeau '],['Pop']
+33,Basel,Bondage-Fairies,2015-02-01,"['Bondage Fairies ', ' The Tlark ']",['Pop']
+34,Baden,One-of-a-Million,2015-02-01,['Get Well Soon '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

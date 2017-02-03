@@ -1,48 +1,47 @@
-location,event,date,artists,genre
-Zürich,Lunchkonzert,2014-10-30,"['Haika Lübcke ', ' Isaac Duarte ', ' Felix-Andreas Genner ', ' Hans Agreda ', ' Mischa Greull ', ' Seung-Yeun Huh ']",Classic
-Zürich,Werner-und-Company,2014-10-30,['Werner und Company '],Pop
-null,Groundation,2014-10-30,"['Groundation ', ' Rebelution ']",
-Zürich,Jazznojazz,2014-10-30,"[' Brad Mehldau ', ' Chris Thile ']",
-Liestal,Pink-Pedrazzi,2014-10-30,['Pink Pedrazzi '],Pop
-Winterthur,Im-Strauss-wird-wieder-getanzt,2014-10-30,"[' Dheni Romea ', ' Tommaso Manzin ', ' Thomas Naef ']",Pop
-Zürich,Jazznojazz,2014-10-30,"[' Meshell Ndegeocello ', ' Jebin Bruni ', ' Chris Bruce ', ' Earl Harvin ']",
-Zürich,Lucius,2014-10-30,"['Lucius ', ' support: Lapland ']",Pop
-Luzern,Maxxwell,2014-10-30,[' The New Roses '],
-null,Konzert,2014-10-30,['Juan Diego Florez '],Classic
-Zürich,Clueso,2014-10-30,['Clueso '],Pop
-Dübendorf,Rivenbell,2014-10-30,"[' Erwin Bucher ', ' Cornelia Baumann ', ' Armin Sieber ', ' Martin Kägi ']",
-Basel,Baloise-Session-Get-Up-and-Dance,2014-10-30,"['Cee-Lo Green ', ' The Asteroids Galaxy Tour ']",
-Aarburg,Aynsley-Lister,2014-10-30,['Aynsley Lister '],
-Luzern,Pan,2014-10-30,[' works by Martin Baumgartner '],Classic
-Baden,Ian-Siegal,2014-10-30,['Ian Siegal '],
-Baden,Ian-Siegal,2014-10-30,['Ian Siegal '],
-Zürich,Hassler-Türköz,2014-10-30,"[' Hans Hassler ', ' Saadet Türköz ']",
-Aarau,Seat-Music-Session,2014-10-30,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",Pop
-Zürich,Crossfaith,2014-10-30,['Crossfaith '],
-Winterthur,The-Raveonettes,2014-10-30,['The Raveonettes '],
-Buchs,Lucien-Dubuis-Trio,2014-10-30,"[' Lucien Dubuis ', ' Louis Schild ', ' Hannes Prisi ']",
-Winterthur,The-Raveonettes,2014-10-30,['The Raveonettes '],
-Kloten,Lilly-Martin-&-Band,2014-10-30,"[' Lilly Martin ', ' Oliver Keller ', ' Michael Dolmetsch ', ' Markus Fritzsche ', ' Tom Beck ']",
-Winterthur,Hellmüller-Risso-Zanoli,2014-10-30,"[' Franz Hellmüller ', ' Stefano Risso ', ' Marco Zanoli ']",
-null,Arcanum,2014-10-30,"[' Andreas Schärer ', ' Lucas Niggli ']",
-Baden,Baumann-Hämmerli-Renold,2014-10-30,"[' Ch. Baumann ', ' Hämmi Hämmerli ', ' Toni Renold ']",
-Baden,Lionel-Sumithram,2014-10-30,"['Lionel Sumithram ', ' Lionel Sumithram ', ' Rafi Kirder ', ' David Lüthi ']",Pop
-Uster,Taiichi-Kamimura-&-Chris-Wiesendanger-Quartet,2014-10-30,"[' Taiichi Kamimura ', ' Chris Wiesendanger ', ' Hiroshi Yoshino ', ' Manabu Hashimoto ']",
-Basel,Aki-&-Kuniko,2014-10-30,"[' Hiroaki Sasaki ', ' Kuniko Obina ']",
-Romanshorn,Walt's-Blues-Box-feat.-Sam-Burckhardt,2014-10-30,"[' Walter Baumgartner ', ' Sam Burckhardt ', ' Joel Allison ', ' Andreas Schmid ', ' Elias Bernet ']",
-Bern,Clickclickdecker,2014-10-30,"['Clickclickdecker ', ' support: Petula ']",
-Zürich,Toumani-&-Sidiki-Diabaté,2014-10-30,"['Toumani & Sidiki Diabaté ', ' Toumani Diabaté ', ' Sidiki Diabaté ']",
-Zug,Fish,2014-10-30,['Fish '],
-Thun,Los-Infierno-abgesagt,2014-10-30,['Los Infierno '],
-Zürich,Juhana-Iivonen,2014-10-30,['Juhana Iivonen '],Pop
-Basel,eMC,2014-10-30,[' Punchline & Wordsworth '],
-Basel,Salsa-y-salsa-cubana,2014-10-30,[' Tanzkurs Bailar Casino '],
-Schaffhausen,Kal,2014-10-30,['Kal '],
-Zürich,Yves-Theiler-Trio,2014-10-30,"[' Yves Theiler ', ' Yuri Goloubev ', ' Lukas Mantel ']",
-Zürich,Jazznojazz,2014-10-30,"['Avishai Cohen Trio ', ' Avishai Cohen ', ' Nitai Hershkovits ', ' Daniel Dor ']",
-Zürich,Ella-Ronen,2014-10-30,['Ella Ronen '],Pop
-Lausanne,Bosco-Delrey,2014-10-30,['Bosco Delrey '],
-Vevey,Shabazz-Palaces,2014-10-30,"['Shabazz Palaces ', ' Infinite Lives ', ' OC Notes ']",
-Zürich,Jazznojazz,2014-10-30,"['Christian McBride Trio ', ' Christian McBride ', ' Christian Sands ', ' Ulyssess Ownes ']",
-Zürich,Jazznojazz,2014-10-30,"[' Robert Glasper ', ' Casey Benjamin ', ' Burniss Travis ', ' Mark Colenburg ']",
-Pontresina,John-Lewis,2014-10-30,['John Lewis '],
+,location,event,date,artists,genre
+0,Z?rich,Lunchkonzert,2014-10-30,"['Haika L?bcke ', ' Isaac Duarte ', ' Felix-Andreas Genner ', ' Hans Agreda ', ' Mischa Greull ', ' Seung-Yeun Huh ']",['Classic']
+1,Z?rich,Werner-und-Company,2014-10-30,['Werner und Company '],['Pop']
+2,Z?rich,Jazznojazz,2014-10-30,"[' Brad Mehldau ', ' Chris Thile ']","['Jazz', 'Blues', 'Soul']"
+3,null,Groundation,2014-10-30,"['Groundation ', ' Rebelution ']","['Hip', 'Hop', ""R'n'B""]"
+4,Liestal,Pink-Pedrazzi,2014-10-30,['Pink Pedrazzi '],['Pop']
+5,Winterthur,Im-Strauss-wird-wieder-getanzt,2014-10-30,"[' Dheni Romea ', ' Tommaso Manzin ', ' Thomas Naef ']",['Pop']
+6,Z?rich,Jazznojazz,2014-10-30,"[' Meshell Ndegeocello ', ' Jebin Bruni ', ' Chris Bruce ', ' Earl Harvin ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Lucius,2014-10-30,"['Lucius ', ' support: Lapland ']",['Pop']
+8,Luzern,Maxxwell,2014-10-30,[' The New Roses '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Baden,Ian-Siegal,2014-10-30,['Ian Siegal '],"['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Clueso,2014-10-30,['Clueso '],['Pop']
+11,Buchs,Lucien-Dubuis-Trio,2014-10-30,"[' Lucien Dubuis ', ' Louis Schild ', ' Hannes Prisi ']","['Jazz', 'Blues', 'Soul']"
+12,Luzern,Pan,2014-10-30,[' works by Martin Baumgartner '],['Classic']
+13,Aarau,Seat-Music-Session,2014-10-30,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",['Pop']
+14,Z?rich,Crossfaith,2014-10-30,['Crossfaith '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,null,Konzert,2014-10-30,['Juan Diego Florez '],['Classic']
+16,Luzern,Sch?rli-Moreira-Feigenwinter,2014-10-30,"[' Hans Feigenwinter ', ' Juarez Moreira ', ' Peter Sch?rli ']","['Jazz', 'Blues', 'Soul']"
+17,Winterthur,The-Raveonettes,2014-10-30,['The Raveonettes '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,D?bendorf,Rivenbell,2014-10-30,"[' Erwin Bucher ', ' Cornelia Baumann ', ' Armin Sieber ', ' Martin K?gi ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Aarburg,Aynsley-Lister,2014-10-30,['Aynsley Lister '],"['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Hassler-T?rk?z,2014-10-30,"[' Hans Hassler ', ' Saadet T?rk?z ']","['world', 'music']"
+21,Basel,Baloise-Session-Get-Up-and-Dance,2014-10-30,"['Cee-Lo Green ', ' The Asteroids Galaxy Tour ']","['Hip', 'Hop', ""R'n'B""]"
+22,Kloten,Lilly-Martin-&-Band,2014-10-30,"[' Lilly Martin ', ' Oliver Keller ', ' Michael Dolmetsch ', ' Markus Fritzsche ', ' Tom Beck ']","['Hip', 'Hop', ""R'n'B""]"
+23,Winterthur,Hellm?ller-Risso-Zanoli,2014-10-30,"[' Franz Hellm?ller ', ' Stefano Risso ', ' Marco Zanoli ']","['Jazz', 'Blues', 'Soul']"
+24,Bern,Clickclickdecker,2014-10-30,"['Clickclickdecker ', ' support: Petula ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,null,Arcanum,2014-10-30,"[' Andreas Sch?rer ', ' Lucas Niggli ']","['Jazz', 'Blues', 'Soul']"
+26,Basel,Aki-&-Kuniko,2014-10-30,"[' Hiroaki Sasaki ', ' Kuniko Obina ']","['Jazz', 'Blues', 'Soul']"
+27,Thun,Los-Infierno-abgesagt,2014-10-30,['Los Infierno '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Romanshorn,Walt's-Blues-Box-feat.-Sam-Burckhardt,2014-10-30,"[' Walter Baumgartner ', ' Sam Burckhardt ', ' Joel Allison ', ' Andreas Schmid ', ' Elias Bernet ']","['Jazz', 'Blues', 'Soul']"
+29,Z?rich,Toumani-&-Sidiki-Diabat?,2014-10-30,"[' Sidiki Diabat? ', ' Toumani Diabat? ', ' Sidiki Diabat? ']","['world', 'music']"
+30,Baden,Lionel-Sumithram,2014-10-30,"['Lionel Sumithram ', ' Lionel Sumithram ', ' Rafi Kirder ', ' David L?thi ']",['Pop']
+31,Baden,Baumann-H?mmerli-Renold,2014-10-30,"[' Ch. Baumann ', ' H?mmi H?mmerli ', ' Toni Renold ']","['Jazz', 'Blues', 'Soul']"
+32,Zug,Fish,2014-10-30,['Fish '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Uster,Taiichi-Kamimura-&-Chris-Wiesendanger-Quartet,2014-10-30,"[' Taiichi Kamimura ', ' Chris Wiesendanger ', ' Hiroshi Yoshino ', ' Manabu Hashimoto ']","['Jazz', 'Blues', 'Soul']"
+34,Basel,eMC,2014-10-30,[' Wordsworth '],"['Hip', 'Hop', ""R'n'B""]"
+35,Schaffhausen,Kal,2014-10-30,['Kal '],"['Hip', 'Hop', ""R'n'B""]"
+36,Basel,Salsa-y-salsa-cubana,2014-10-30,[' Tanzkurs Bailar Casino '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+37,Z?rich,Juhana-Iivonen,2014-10-30,['Juhana Iivonen '],['Pop']
+38,Z?rich,Yves-Theiler-Trio,2014-10-30,"[' Yves Theiler ', ' Yuri Goloubev ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"
+39,Vevey,Shabazz-Palaces,2014-10-30,"['Shabazz Palaces ', ' Infinite Lives ', ' OC Notes ']","['Hip', 'Hop', ""R'n'B""]"
+40,Lausanne,Bosco-Delrey,2014-10-30,['Bosco Delrey '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+41,Z?rich,Ella-Ronen,2014-10-30,['Ella Ronen '],['Pop']
+42,Z?rich,Jazznojazz,2014-10-30,"['Avishai Cohen Trio ', ' Avishai Cohen ', ' Nitai Hershkovits ', ' Daniel Dor ']","['Jazz', 'Blues', 'Soul']"
+43,Z?rich,Jazznojazz,2014-10-30,"['Christian McBride Trio ', ' Christian McBride ', ' Christian Sands ', ' Ulyssess Ownes ']","['Jazz', 'Blues', 'Soul']"
+44,Z?rich,Jazznojazz,2014-10-30,"[' Robert Glasper ', ' Casey Benjamin ', ' Burniss Travis ', ' Mark Colenburg ']","['Jazz', 'Blues', 'Soul']"
+45,Pontresina,John-Lewis,2014-10-30,['John Lewis '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

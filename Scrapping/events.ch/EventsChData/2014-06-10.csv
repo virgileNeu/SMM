@@ -1,17 +1,17 @@
-location,event,date,artists,genre
-Basel,Masterrezital,2014-06-10,[' Cory Knight '],Classic
-Basel,Masterrezital,2014-06-10,[' Daniele Rinaldo '],Classic
-Luzern,Piano-Entertainment,2014-06-10,['Mark Tenger '],
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-10,"['Richard Desjardins ', ' Marie-Jo Thério ']",Pop
-Basel,Masterrezital,2014-06-10,[' Matthew Sadler '],Classic
-null,Mastodon,2014-06-10,['Mastodon '],
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-10,"['Marijosée ', ' Lara Brown ']",Pop
-Zürich,Bucharest,2014-06-10,['Bucharest '],
-Paudex,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-10,"['Ingrid St-Pierre ', ' Les Hay Babies ']",Pop
-null,Weltklassik,2014-06-10,['Grigory Sokolov '],Classic
-Zürich,Andy-Boller,2014-06-10,['Andy Boller '],
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-10,"['Les Trois Accords ', ' Cécile Doo-Kingué ']",Pop
-Basel,Masterrezital,2014-06-10,[' Seul Ki Bae '],Classic
-Luzern,Workshopkonzert,2014-06-10,"[' Karl Kalf ', ' Sandro Pedrazzini ', ' Duncan Allbrook ', ' Andy Sidler ', ' Joseph Kaufmann ']",
-Zürich,Jupiter-&-Okwess-International,2014-06-10,"['Jupiter & Okwess International ', ' Jupiter Bokondji Ilola ', ' Yende Balamba Bongongo ', ' Nelly Eliya Liyenge ', ' Richard Kabambga Kasonga ']",
-Basel,Plastic-People-of-the-Universe,2014-06-10,"['Plastic People of the Universe ', ' WWW ']",
+,location,event,date,artists,genre
+0,Basel,Masterrezital,2014-06-10,[' Cory Knight '],['Classic']
+1,Basel,Masterrezital,2014-06-10,[' Daniele Rinaldo '],['Classic']
+2,Luzern,Piano-Entertainment,2014-06-10,['Mark Tenger '],"['Jazz', 'Blues', 'Soul']"
+3,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-10,"['Richard Desjardins ', ' Marie-Jo Th?rio ']",['Pop']
+4,null,Mastodon,2014-06-10,['Mastodon '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Basel,Masterrezital,2014-06-10,[' Matthew Sadler '],['Classic']
+6,Z?rich,Andy-Boller,2014-06-10,['Andy Boller '],"['Jazz', 'Blues', 'Soul']"
+7,null,Weltklassik,2014-06-10,['Grigory Sokolov '],['Classic']
+8,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-10,"['Les Trois Accords ', ' C?cile Doo-Kingu? ']",['Pop']
+9,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-10,"['Marijos?e ', ' Lara Brown ']",['Pop']
+10,Paudex,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-10,"['Ingrid St-Pierre ', ' Les Hay Babies ']",['Pop']
+11,Z?rich,Bucharest,2014-06-10,['Bucharest '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Basel,Masterrezital,2014-06-10,[' Seul Ki Bae '],['Classic']
+13,Z?rich,Jupiter-&-Okwess-International,2014-06-10,"[' Okwess International ', ' Jupiter Bokondji Ilola ', ' Yende Balamba Bongongo ', ' Nelly Eliya Liyenge ', ' Richard Kabambga Kasonga ']","['world', 'music']"
+14,Luzern,Workshopkonzert,2014-06-10,"[' Karl Kalf ', ' Sandro Pedrazzini ', ' Duncan Allbrook ', ' Andy Sidler ', ' Joseph Kaufmann ']","['Jazz', 'Blues', 'Soul']"
+15,Basel,Plastic-People-of-the-Universe,2014-06-10,"['Plastic People of the Universe ', ' WWW ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

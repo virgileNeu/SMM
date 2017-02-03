@@ -1,46 +1,42 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment,2014-02-21,['Herb Miller '],
-Basel,Zweites-Cocktailkonzert,2014-02-21,[' Soyoung Yoon '],Classic
-Basel,Orgelspiel-zum-Feierabend,2014-02-21,['Albrecht Klär '],Classic
-Dietikon,Feierabendmusik,2014-02-21,['Bernhard Hörler '],Classic
-Basel,AMG-Sinfoniekonzerte,2014-02-21,[' Sol Gabetta '],Classic
-Baden,Akzente,2014-02-21,"[' Marisa Waldburger ', ' Jacoba Mlosch ', ' Marc Bätscher ']",Classic
-Zürich,Konzert,2014-02-21,[' David Bruchez-Lalli '],Classic
-Zürich,Internationales-Country-Music-Festival,2014-02-21,['Jo-El Sonnier & T. Graham Brown & Band '],
-null,7.-Tonhallekonzert,2014-02-21,['Conductor: Howard Shelley '],Classic
-Basel,Begegnung-mit-Hans-Huber,2014-02-21,"['Christoph Homberger ', ' Robert Zimansky ', ' Christoph Keller ']",Classic
-Zürich,Schandmaul,2014-02-21,['Schandmaul '],
-Basel,Violoncello-Duo,2014-02-21,"['Katharina Litschig ', ' Ursina Braun ']",Classic
-null,Pippo-Pollina-&-Palermo-Accoustic-Quartet,2014-02-21,"['Pippo Pollina & Palermo Accoustic Quartet ', ' Pippo Pollina ', ' Roberto Petroli ', ' Max Kemmerling ', ' Luca Lo Bianco ', ' Flavio Livigni ']",
-null,Crystal-Antlers,2014-02-21,"['Crystal Antlers ', ' support: Isbells ']",
-Chur,4.-Abonnementskonzert,2014-02-21,[' Varvara '],Classic
-Zug,Slampoet,2014-02-21,[' Renato Kaiser '],Classic
-Pratteln,Die-Krupps,2014-02-21,['Die Krupps '],Electronic
-Uster,Simeon-Soul-Charger,2014-02-21,['Simeon Soul Charger '],
-Basel,Konzert,2014-02-21,"['Orsoyla Sepsi ', ' Daniela Ott ', ' Luca Fiorini ', ' Cécile Lino ']",Classic
-Zürich,Acoustic-Friday,2014-02-21,"[' Silvan Gerhard ', ' Michael Kühni ', ' Philipp Kost ']",
-Basel,Mondrian-Ensemble-weisse-Aepfel,2014-02-21,"[' Daniela Müller ', ' Petra Ackermann ', ' Karolina Oehman ']",Classic
-Bern,Trio-Arazón,2014-02-21,"[' Annette Rüegg ', ' Jojo Kunz ', ' Franziska Hämmerli ']",
-Zürich,April-Calls,2014-02-21,['April Calls '],Pop
-Zürich,Glanzmann-Käser-Loher,2014-02-21,"[' Vinc Glanzmann ', ' Sara Käser ', ' Raphael Loher ']",
-Bülach,Don-Meza-Organ-Trio-feat.-Renato-Chicco,2014-02-21,"['Don Meza Organ Trio feat. Renato Chicco ', ' Don Menza ', ' Renato Chicco ', ' Bernd Reiter ']",
-Zug,Wishbone-Ash,2014-02-21,"['Wishbone Ash ', ' support: Cliff Stevens Band ']",
-Zürich,Dobet-Gnahoré,2014-02-21,"['Dobet Gnahoré ', ' Dobet Gnahoré ', ' Colin Laroche de Feline ', ' Clive Govinden ', ' Tchango Amontete Kassoung ']",
-Liebefeld,Christoph-Irniger-Trio,2014-02-21,"[' Christoph Irniger ', ' Raffaele Bossard ', ' Ziv Ravitz ']",
-Basel,Lackerschmid-Faller-Morello,2014-02-21,"[' Wolfgang Lackerschmid ', ' Sven Faller ', ' Paulo Morello ']",
-Zürich,Low-Wormwood,2014-02-21,['Low Wormwood '],Pop
-Bern,Julian-Sartorius,2014-02-21,"[' Shahzad Ismaily ', ' Burnt Friedman & Jaki Liebezeit ']",
-Zürich,Liu-Schurer,2014-02-21,"[' Pei-Wen Liu ', ' Bernd Schurer ']",Electronic
-Winterthur,Solander,2014-02-21,['Solander '],Pop
-Rubigen,Danny-Bryant,2014-02-21,['Danny Bryant '],
-Luzern,Mugshots,2014-02-21,['Mugshots '],
-null,Internationales-Gitarrenfestival,2014-02-21,"['Trio Minas Gerais ', ' Alieksey Viana ', ' Rodrigo Botter Maio ', ' Floriano Inácio Jr ']",
-Zürich,Ngoni,2014-02-21,"[' Mike Daniels ', ' Chineyem Okolo ', ' Johannes Madritsch ']",
-Zürich,Nashville-Pussy,2014-02-21,['Nashville Pussy '],
-Zürich,Armen-Donelian-Trio,2014-02-21,"[' Armen Donelian ', ' Rätus Flisch ', ' Pius Baschnagel ']",
-Zürich,Waka-Flocka-Flame,2014-02-21,['Waka Flocka Flame '],
-Kriens,Planningtorock,2014-02-21,"['DJs Planningtorock ', ' Rroxymore ']",
-Lausanne,TV-Ghost,2014-02-21,['TV Ghost '],
-Sankt-Gallen,Young-Fathers,2014-02-21,"['Young Fathers ', ' Uma ']",
-Basel,Kick-It,2014-02-21,['Kick It '],
-Zürich,Tikiman-&-Scion,2014-02-21,['Tikiman & Scion '],Electronic
+,location,event,date,artists,genre
+0,Luzern,Piano-Entertainment,2014-02-21,['Herb Miller '],"['Jazz', 'Blues', 'Soul']"
+1,Basel,Orgelspiel-zum-Feierabend,2014-02-21,['Albrecht Kl?r '],['Classic']
+2,Basel,Zweites-Cocktailkonzert,2014-02-21,[' Soyoung Yoon '],['Classic']
+3,Dietikon,Feierabendmusik,2014-02-21,['Bernhard H?rler '],['Classic']
+4,Basel,AMG-Sinfoniekonzerte,2014-02-21,[' Sol Gabetta '],['Classic']
+5,Baden,Akzente,2014-02-21,"[' Marisa Waldburger ', ' Jacoba Mlosch ', ' Marc B?tscher ']",['Classic']
+6,Z?rich,Konzert,2014-02-21,[' David Bruchez-Lalli '],['Classic']
+7,null,7.-Tonhallekonzert,2014-02-21,['Conductor: Howard Shelley '],['Classic']
+8,Basel,Begegnung-mit-Hans-Huber,2014-02-21,"['Christoph Homberger ', ' Robert Zimansky ', ' Christoph Keller ']",['Classic']
+9,Chur,4.-Abonnementskonzert,2014-02-21,[' Varvara '],['Classic']
+10,Pratteln,Die-Krupps,2014-02-21,['Die Krupps '],['Electronic']
+11,null,Crystal-Antlers,2014-02-21,"['Crystal Antlers ', ' support: Isbells ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Basel,Konzert,2014-02-21,"['Orsoyla Sepsi ', ' Daniela Ott ', ' Luca Fiorini ', ' C?cile Lino ']",['Classic']
+13,Basel,Mondrian-Ensemble-weisse-Aepfel,2014-02-21,"[' Daniela M?ller ', ' Petra Ackermann ', ' Karolina Oehman ']",['Classic']
+14,Bern,Trio-Araz?n,2014-02-21,"[' Annette R?egg ', ' Jojo Kunz ', ' Franziska H?mmerli ']","['world', 'music']"
+15,null,Pippo-Pollina-&-Palermo-Accoustic-Quartet,2014-02-21,"[' Palermo Accoustic Quartet ', ' Pippo Pollina ', ' Roberto Petroli ', ' Max Kemmerling ', ' Luca Lo Bianco ', ' Flavio Livigni ']","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Schandmaul,2014-02-21,['Schandmaul '],"['world', 'music']"
+17,Uster,Simeon-Soul-Charger,2014-02-21,['Simeon Soul Charger '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Basel,Violoncello-Duo,2014-02-21,"['Katharina Litschig ', ' Ursina Braun ']",['Classic']
+19,Z?rich,Acoustic-Friday,2014-02-21,"[' Silvan Gerhard ', ' Michael K?hni ', ' Philipp Kost ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Z?rich,April-Calls,2014-02-21,['April Calls '],['Pop']
+21,Z?rich,Glanzmann-K?ser-Loher,2014-02-21,"[' Vinc Glanzmann ', ' Sara K?ser ', ' Raphael Loher ']","['Jazz', 'Blues', 'Soul']"
+22,B?lach,Don-Meza-Organ-Trio-feat.-Renato-Chicco,2014-02-21,"['Don Meza Organ Trio feat. Renato Chicco ', ' Don Menza ', ' Renato Chicco ', ' Bernd Reiter ']","['Jazz', 'Blues', 'Soul']"
+23,Zug,Wishbone-Ash,2014-02-21,"['Wishbone Ash ', ' support: Cliff Stevens Band ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Z?rich,Dobet-Gnahor?,2014-02-21,"['Dobet Gnahor? ', ' Dobet Gnahor? ', ' Colin Laroche de Feline ', ' Clive Govinden ', ' Tchango Amontete Kassoung ']","['world', 'music']"
+25,Z?rich,Low-Wormwood,2014-02-21,['Low Wormwood '],['Pop']
+26,Liebefeld,Christoph-Irniger-Trio,2014-02-21,"[' Christoph Irniger ', ' Raffaele Bossard ', ' Ziv Ravitz ']","['Jazz', 'Blues', 'Soul']"
+27,Basel,Lackerschmid-Faller-Morello,2014-02-21,"[' Wolfgang Lackerschmid ', ' Sven Faller ', ' Paulo Morello ']","['Jazz', 'Blues', 'Soul']"
+28,null,Internationales-Gitarrenfestival,2014-02-21,"['Trio Minas Gerais ', ' Alieksey Viana ', ' Rodrigo Botter Maio ', ' Floriano In?cio Jr ']","['Jazz', 'Blues', 'Soul']"
+29,Z?rich,Armen-Donelian-Trio,2014-02-21,"[' Armen Donelian ', ' R?tus Flisch ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+30,Winterthur,Solander,2014-02-21,['Solander '],['Pop']
+31,Bern,Julian-Sartorius,2014-02-21,[' Jaki Liebezeit '],"['Jazz', 'Blues', 'Soul']"
+32,Rubigen,Danny-Bryant,2014-02-21,['Danny Bryant '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Luzern,Mugshots,2014-02-21,['Mugshots '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Z?rich,Liu-Schurer,2014-02-21,"[' Pei-Wen Liu ', ' Bernd Schurer ']",['Electronic']
+35,Z?rich,Ngoni,2014-02-21,"[' Mike Daniels ', ' Chineyem Okolo ', ' Johannes Madritsch ']","['Hip', 'Hop', ""R'n'B""]"
+36,Z?rich,Nashville-Pussy,2014-02-21,['Nashville Pussy '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Z?rich,Waka-Flocka-Flame,2014-02-21,['Waka Flocka Flame '],"['Hip', 'Hop', ""R'n'B""]"
+38,Kriens,Planningtorock,2014-02-21,"['DJs Planningtorock ', ' Rroxymore ']","['Pop', 'Oldies']"
+39,Sankt-Gallen,Young-Fathers,2014-02-21,"['Young Fathers ', ' Uma ']","['Hip', 'Hop', ""R'n'B""]"
+40,Basel,Kick-It,2014-02-21,['Kick It '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

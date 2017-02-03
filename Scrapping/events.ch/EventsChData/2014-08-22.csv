@@ -1,26 +1,25 @@
-location,event,date,artists,genre
-null,Royal-Arena-Festival,2014-08-22,"['Ghostface Killah Raekwon & Method Man ', ' Mobb Deep ', ' Pusha T ', ' Action Bronson ', ' Disiz ', ' Dillon Cooper ']",
-null,Royal-Arena-Festival,2014-08-22,[' DJs Sir Jai '],
-Luzern,Piano-Entertainment,2014-08-22,['Fabienne Ambühl '],Pop
-Basel,Orgelspiel-zum-Feierabend,2014-08-22,['Susanne Doll '],Classic
-Zürich,Kulturfestival-Integration,2014-08-22,"['Edo G ', ' Simba Marara Sound ']",
-Pully,For-Noise,2014-08-22,"['Kaiser Chiefs ', ' Other Lives ', ' J-L Murat & Delano Orchestra ', ' Balthazar ']",
-Gränichen,Openair-Gränichen,2014-08-22,"['Tito & Tarantula ', ' Blues Pills ']",
-Liestal,Eric-Kilchner,2014-08-22,['Eric Kilchner '],Pop
-Salavaux,Openair-Salavaux-Plage,2014-08-22,"[' The Sunpilots ', ' Krüüg ']",
-Luzern,Rezital-1-Violine,2014-08-22,['Midori '],Classic
-Gstaad,Menuhin-Festival-Gstaad,2014-08-22,"[' Diana Damrau ', ' Joseph Calleja ', ' Thomas Hampson ']",Classic
-Pully,For-Noise,2014-08-22,"['Quintron and Miss Pussycat ', ' Adult Jazz ']",Electronic
-Luzern,Sinfoniekonzert-5,2014-08-22,[' Maurizio Pollini '],Classic
-Zug,Jenny-Chi,2014-08-22,"[' Jenny Chi ', ' André Siqueira ', ' Thomas Silvestri ', ' Ralph Sonderegger ', ' Florian Reichle ']",
-Winterthur,Winterthurer-Musikfestwochen,2014-08-22,"['Airbourne ', ' Triggerfinger ', ' The Family Rain ']",
-Zürich,Röntgenplatzfest,2014-08-22,[' Rede von Mario Fehr '],Pop
-Murten,Murten-Classics-Sinfoniekonzert,2014-08-22,[' Henri Demarquette '],Classic
-Bern,Rehder-Rivano,2014-08-22,"['Rehder-Rivano ', ' Sandra Rehder ', ' Gabriel Rivano ']",
-Basel,Christoph-Stiefel's-Isorhythm-Orchestra,2014-08-22,"[' Sarah Büchi ', ' Bastian Stein ', ' Domenic Landolf ', ' Adrian Mears ', ' Christoph Stiefel ', ' Arne Huber ', ' Kevin Chesham ']",
-Baden,Tightona,2014-08-22,"[' Fabian Frischknecht ', ' Felix Widmer ', ' Patrick Odermatt ', ' Markus Schelling ', ' Marcus Besomi ']",
-Zürich,Manu-Koch-&-Filtron-M-feat.-Yaite-Ramos,2014-08-22,"[' Yaite Ramos ', ' Manu Koch ', ' Panagiotis Andreou ', ' Mauricio Zottarelli ', ' Sebastian Nickoll ']",Pop
-Bad-Ragaz,The-Red-Hot-Serenaders,2014-08-22,"[' Rainer Wöffler ', ' Tanja Wirz ']",
-Zürich,Zürcher-Theater-Spektakel,2014-08-22,['Filastine & Nova '],Pop
-Winterthur,TreeO,2014-08-22,"[' Ruth Bommer ', ' Martin Beerli ', ' Carsten Peters ', ' Ricci Lunardi ']",
-Bar,Bistro,2014-08-22,"['Midori ', ' Michael Zisman ']",Classic
+,location,event,date,artists,genre
+0,null,Royal-Arena-Festival,2014-08-22,[' DJs Sir Jai '],"['Hip', 'Hop', ""R'n'B""]"
+1,Luzern,Piano-Entertainment,2014-08-22,['Fabienne Amb?hl '],['Pop']
+2,Basel,Orgelspiel-zum-Feierabend,2014-08-22,['Susanne Doll '],['Classic']
+3,Z?rich,Kulturfestival-Integration,2014-08-22,[' Simba Marara Sound '],"['Hip', 'Hop', ""R'n'B""]"
+4,Pully,For-Noise,2014-08-22,"[' Delano Orchestra ', ' Balthazar ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Salavaux,Openair-Salavaux-Plage,2014-08-22,"[' The Sunpilots ', ' Kr??g ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Liestal,Eric-Kilchner,2014-08-22,['Eric Kilchner '],['Pop']
+7,Gr?nichen,Openair-Gr?nichen,2014-08-22,"[' Tarantula ', ' Blues Pills ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Winterthur,Winterthurer-Musikfestwochen,2014-08-22,"['Airbourne ', ' Triggerfinger ', ' The Family Rain ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Luzern,Sinfoniekonzert-5,2014-08-22,[' Maurizio Pollini '],['Classic']
+10,Luzern,Rezital-1-Violine,2014-08-22,['Midori '],['Classic']
+11,Gstaad,Menuhin-Festival-Gstaad,2014-08-22,"[' Diana Damrau ', ' Joseph Calleja ', ' Thomas Hampson ']",['Classic']
+12,Zug,Jenny-Chi,2014-08-22,"[' Jenny Chi ', ' Andr? Siqueira ', ' Thomas Silvestri ', ' Ralph Sonderegger ', ' Florian Reichle ']","['Jazz', 'Blues', 'Soul']"
+13,Pully,For-Noise,2014-08-22,"['Quintron and Miss Pussycat ', ' Adult Jazz ']",['Electronic']
+14,Murten,Murten-Classics-Sinfoniekonzert,2014-08-22,[' Henri Demarquette '],['Classic']
+15,Bern,Rehder-Rivano,2014-08-22,"['Rehder-Rivano ', ' Sandra Rehder ', ' Gabriel Rivano ']","['world', 'music']"
+16,Z?rich,R?ntgenplatzfest,2014-08-22,[' Rede von Mario Fehr '],['Pop']
+17,Basel,Christoph-Stiefel's-Isorhythm-Orchestra,2014-08-22,"[' Sarah B?chi ', ' Bastian Stein ', ' Domenic Landolf ', ' Adrian Mears ', ' Christoph Stiefel ', ' Arne Huber ', ' Kevin Chesham ']","['Jazz', 'Blues', 'Soul']"
+18,Baden,Tightona,2014-08-22,"[' Fabian Frischknecht ', ' Felix Widmer ', ' Patrick Odermatt ', ' Markus Schelling ', ' Marcus Besomi ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Manu-Koch-&-Filtron-M-feat.-Yaite-Ramos,2014-08-22,"[' Yaite Ramos ', ' Manu Koch ', ' Panagiotis Andreou ', ' Mauricio Zottarelli ', ' Sebastian Nickoll ']",['Pop']
+20,Z?rich,Z?rcher-Theater-Spektakel,2014-08-22,[' Nova '],['Pop']
+21,Winterthur,TreeO,2014-08-22,"[' Ruth Bommer ', ' Martin Beerli ', ' Carsten Peters ', ' Ricci Lunardi ']","['Jazz', 'Blues', 'Soul']"
+22,Bad-Ragaz,The-Red-Hot-Serenaders,2014-08-22,"[' Rainer W?ffler ', ' Tanja Wirz ']","['Jazz', 'Blues', 'Soul']"
+23,Bar,Bistro,2014-08-22,"['Midori ', ' Michael Zisman ']",['Classic']

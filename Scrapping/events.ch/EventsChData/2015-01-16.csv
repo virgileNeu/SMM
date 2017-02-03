@@ -1,33 +1,32 @@
-location,event,date,artists,genre
-Brugg,Oveon,2015-01-16,"[' Stephen Fitzpatrick ', ' Alan Fitzpatrick ', ' Enda Waltherson ', ' Martin Fischer ']",
-Zürich,Prélude,2015-01-16,"['Petya Todorova ', ' Raul Calvo ']",Classic
-Basel,Orgelspiel-zum-Feierabend,2015-01-16,['David Blunden '],Classic
-Basel,Swiss-Urban-Ländler-Passion,2015-01-16,"['Swiss Urban Ländler Passion ', ' Matthias Gubler ', ' Simon Dettwiler ', ' Hannes Fankhauser ', ' Hannes Fankhauser ']",
-null,Esperti-Project,2015-01-16,['Esperti Project '],
-Dietikon,Feierabendmusik-in-der-Kirche,2015-01-16,[' Bernhard Hörler '],Classic
-Zürich,Nipsey-Hussle,2015-01-16,['Nipsey Hussle '],
-Zürich,Ich-denke-dein,2015-01-16,"[' Lisa Larsson ', ' Rolf Martinsson ']",Classic
-Luzern,Konzert,2015-01-16,"[' Renato Wiedemann ', ' Jonathan Faulhaber ', ' Marina Vasilyeva ']",Classic
-Stäfa,Tratado-Improvisación,2015-01-16,"['Matthias Ziegler ', ' Rolf Lislevand ', ' Bjørn Kjellemyr ']",
-Arbon,Trio-Hellmüller-Risso-Zanoli,2015-01-16,"[' Franz Hellmüller ', ' Stefano Risso ', ' Marco Zanoli ']",
-Basel,Vestiva-i-colli,2015-01-16,"[' Miriam Feuersinger ', ' Daniel Cabena ', ' Hans Jörg Mammel ']",Classic
-Basel,Ästhetische-Kommunikation,2015-01-16,"[' Christine Simolka ', ' Anja Brezavek ', ' Igor Kombaratov ', ' Markus Stolz ', ' René Wohlhauser ']",Classic
-Zürich,Eine-musikalische-Reise-durch-Griechenland,2015-01-16,"['Ilektra Platiopoulou ', ' Zoi Tsokanou ']",
-Oberengstringen,Moderner-Klassiker,2015-01-16,"[' Christoph Gallio ', ' Silvan Jeger ', ' David Meier ']",
-Altikon,Fett,2015-01-16,['Fett '],
-Winterthur,Wiesendanger-Pittini,2015-01-16,"[' Chris Wiesendanger ', ' Allesandro Pittini ']",
-Zürich,Christian-Niederer's-Plan,2015-01-16,"[' Oliver Keller ', ' Björn Meyer ', ' Christian Niederer ']",
-Luzern,Suisse-Diagonales,2015-01-16,"[' Hans Koch ', ' Christoph Erb ', ' Manuel Troller ', ' Christian Weber ']",
-Baden,Chicago-Swing-Rats,2015-01-16,"[' Hansruedi Gattiker ', ' Hans Meier ', ' Bruce Roberts ', ' Urs Bolle Rellstab ', ' Hans Krauer ', ' August Swerisson ', ' René Grimm ']",
-Frick,Suisse-Diagonales-Jazz,2015-01-16,"[' Florian Favre ', ' Manu Hagmann ', ' Alexandre Maurer ']",
-Basel,Rainer-Böhm-Quartet,2015-01-16,"[' Johannes Enders ', ' Rainer Böhm ', ' Phil Donkin ', ' Peter Gall ']",
-Zürich,Künzi-Newton-Strinning,2015-01-16,"[' Emanuel Künzi ', ' Lauren Newton ', ' Sebastian Strinning ']",
-Thun,The-Fog-Joggers,2015-01-16,['The Fog Joggers '],
-Aarau,Will-and-the-People,2015-01-16,['Will and the People '],Pop
-Bern,Unhold,2015-01-16,"['Unhold ', ' Gonga ']",
-Zürich,Smith-&-Smart,2015-01-16,['Smith & Smart '],
-Basel,Prag,2015-01-16,"['Prag ', ' Suicidas ', ' Trance ']",
-Aarau,Kiasmos,2015-01-16,['Kiasmos '],Electronic
-Zürich,Latin-Touch,2015-01-16,[' dance animation by Orestes Vega '],
-Wetzikon,Kalado-&-Tiana,2015-01-16,['Kalado & Tiana '],
-Winterthur,Mambo-Kurt,2015-01-16,['Mambo Kurt '],
+,location,event,date,artists,genre
+0,Z?rich,Pr?lude,2015-01-16,"['Petya Todorova ', ' Raul Calvo ']",['Classic']
+1,Brugg,Oveon,2015-01-16,"[' Stephen Fitzpatrick ', ' Alan Fitzpatrick ', ' Enda Waltherson ', ' Martin Fischer ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Basel,Orgelspiel-zum-Feierabend,2015-01-16,['David Blunden '],['Classic']
+3,Basel,Swiss-Urban-L?ndler-Passion,2015-01-16,"['Swiss Urban L?ndler Passion ', ' Matthias Gubler ', ' Simon Dettwiler ', ' Hannes Fankhauser ', ' Hannes Fankhauser ']","['world', 'music']"
+4,null,Esperti-Project,2015-01-16,['Esperti Project '],"['Jazz', 'Blues', 'Soul']"
+5,Dietikon,Feierabendmusik-in-der-Kirche,2015-01-16,[' Bernhard H?rler '],['Classic']
+6,Z?rich,Nipsey-Hussle,2015-01-16,['Nipsey Hussle '],"['Hip', 'Hop', ""R'n'B""]"
+7,Z?rich,Ich-denke-dein,2015-01-16,"[' Lisa Larsson ', ' Rolf Martinsson ']",['Classic']
+8,Arbon,Trio-Hellm?ller-Risso-Zanoli,2015-01-16,"[' Franz Hellm?ller ', ' Stefano Risso ', ' Marco Zanoli ']","['Jazz', 'Blues', 'Soul']"
+9,Basel,Vestiva-i-colli,2015-01-16,"[' Miriam Feuersinger ', ' Daniel Cabena ', ' Hans J?rg Mammel ']",['Classic']
+10,St?fa,Tratado-Improvisaci?n,2015-01-16,"['Matthias Ziegler ', ' Rolf Lislevand ', ' Bj?rn Kjellemyr ']","['Jazz', 'Blues', 'Soul']"
+11,Luzern,Konzert,2015-01-16,"[' Renato Wiedemann ', ' Jonathan Faulhaber ', ' Marina Vasilyeva ']",['Classic']
+12,Basel,?sthetische-Kommunikation,2015-01-16,"[' Christine Simolka ', ' Anja Brezavek ', ' Igor Kombaratov ', ' Markus Stolz ', ' Ren? Wohlhauser ']",['Classic']
+13,Z?rich,Eine-musikalische-Reise-durch-Griechenland,2015-01-16,"['Ilektra Platiopoulou ', ' Zoi Tsokanou ']","['world', 'music']"
+14,Altikon,Fett,2015-01-16,['Fett '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Oberengstringen,Moderner-Klassiker,2015-01-16,"[' Christoph Gallio ', ' Silvan Jeger ', ' David Meier ']","['Jazz', 'Blues', 'Soul']"
+16,Winterthur,Wiesendanger-Pittini,2015-01-16,"[' Chris Wiesendanger ', ' Allesandro Pittini ']","['Jazz', 'Blues', 'Soul']"
+17,Frick,Suisse-Diagonales-Jazz,2015-01-16,"[' Florian Favre ', ' Manu Hagmann ', ' Alexandre Maurer ']","['Jazz', 'Blues', 'Soul']"
+18,Basel,Rainer-B?hm-Quartet,2015-01-16,"[' Johannes Enders ', ' Rainer B?hm ', ' Phil Donkin ', ' Peter Gall ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Christian-Niederer's-Plan,2015-01-16,"[' Oliver Keller ', ' Bj?rn Meyer ', ' Christian Niederer ']","['Jazz', 'Blues', 'Soul']"
+20,Baden,Chicago-Swing-Rats,2015-01-16,"[' Hansruedi Gattiker ', ' Hans Meier ', ' Bruce Roberts ', ' Urs Bolle Rellstab ', ' Hans Krauer ', ' August Swerisson ', ' Ren? Grimm ']","['Jazz', 'Blues', 'Soul']"
+21,Luzern,Suisse-Diagonales,2015-01-16,"[' Hans Koch ', ' Christoph Erb ', ' Manuel Troller ', ' Christian Weber ']","['Jazz', 'Blues', 'Soul']"
+22,Z?rich,K?nzi-Newton-Strinning,2015-01-16,"[' Emanuel K?nzi ', ' Lauren Newton ', ' Sebastian Strinning ']","['Jazz', 'Blues', 'Soul']"
+23,Aarau,Will-and-the-People,2015-01-16,['Will and the People '],['Pop']
+24,Bern,Unhold,2015-01-16,"['Unhold ', ' Gonga ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Thun,The-Fog-Joggers,2015-01-16,['The Fog Joggers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Z?rich,Smith-&-Smart,2015-01-16,[' Smart '],"['Hip', 'Hop', ""R'n'B""]"
+27,Z?rich,Latin-Touch,2015-01-16,[' dance animation by Orestes Vega '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+28,Aarau,Kiasmos,2015-01-16,['Kiasmos '],['Electronic']
+29,Winterthur,Mambo-Kurt,2015-01-16,['Mambo Kurt '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Basel,Prag,2015-01-16,"['Prag ', ' Suicidas ', ' Trance ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

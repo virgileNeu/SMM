@@ -1,47 +1,45 @@
-location,event,date,artists,genre
-Basel,Mikkel-Ploug-New-Group,2014-02-28,"[' Loren Stillman ', ' Mikkel Ploug ', ' Jeppe Skovbakke ', ' Tommy Crane ']",
-Zürich,Steirer-Quintett,2014-02-28,['Steirer Quintett '],traditional
-Luzern,Piano-Entertainment,2014-02-28,['Mega Horvath '],
-Basel,Orgelspiel-zum-Feierabend,2014-02-28,['Christer Løvold '],Classic
-Dietikon,Feierabendmusik,2014-02-28,['Bernhard Hörler '],Classic
-Dübendorf,Chachaloca,2014-02-28,"[' Roman Glaser ', ' Alain von Ritter ', ' Richard Pechota ', ' Jost Müller ']",
-Basel,Trois-éventails-musicaux-Endlich-Freitag,2014-02-28,"['Karin Dornbusch ', ' Reinhold Friedrich ', ' Sascha Armbruster ', ' Patrick Demenga ']",Classic
-Zürich,Bachs-Spuren,2014-02-28,"[' Stéphane Réty ', ' Mayumi Hirasaki ', ' Naoki Kitaya ']",Classic
-Dübendorf,In-vino-musica,2014-02-28,"['Franziska Ammer ', ' Antonios Stoitsoglou ']",Classic
-Zürich,Internationales-Country-Music-Festival,2014-02-28,['Shooter Jennings & Band '],
-Bern,Symphoniekonzert,2014-02-28,[' David Fray '],Classic
-Zürich,Konzert,2014-02-28,"[' Sabine Poyé Morel ', ' Simon Fuchs ', ' Michael Reid ', ' Matthias Rácz ', ' Philippe Litzler ']",Classic
-Luzern,Take-Berlin,2014-02-28,['Take Berlin '],
-Zürich,Bendorim-Lieder-auf-Jiddisch,2014-02-28,"['Dela Hüttner ', ' Jürg Luchsinger ', ' Stefanie Kunckler ']",
-Zürich,Broilers,2014-02-28,['Broilers '],
-Zürich,Mirabilis,2014-02-28,"['Mirabilis ', ' Eva Marlin ', ' Matthias Weibel ', ' Daniel Som ', ' Markus Maggiori ']",traditional
-Bern,Ray-Wilson,2014-02-28,['Ray Wilson '],
-Liestal,Sharon-Harris,2014-02-28,['Sharon Harris '],
-Uster,Rhino-Bucket,2014-02-28,"['Rhino Bucket ', ' Voodoo Vegas ', ' Dobermann ']",
-null,Internationales-Gitarrenfestival,2014-02-28,"['Mariano Martín ', ' Quique Sinesi ']",
-Zürich,Frau-Dr.-Susi-Sommers-Liebeskabinett,2014-02-28,[' Eriko Kagawa '],Classic
-Rheinfelden,Old-Rivertown-Jazzband,2014-02-28,"[' Markus Hächler ', ' Werni Nussbaum ', ' Jerry Gabriel ']",
-Zürich,Huber-Vallon-Weber,2014-02-28,"[' Alex Huber ', ' Colin Vallon ', ' Christian Weber ']",
-Winterthur,Kamala,2014-02-28,"[' Bruno Steffen ', ' Ekkehard Sassenhausen ', ' Beat Gisler ', ' Olaf Ryter ']",
-Zürich,Raphael-Jost-&-Lots-of-Horns,2014-02-28,"['Raphael Jost & Lots of Horns ', ' Raphael Jost ', ' Lukas Thöni ', ' Florian Egli ', ' Lukas Brügger ', ' Andreas Tschopp ']",
-Klosters,Rémi-Panossian-Trio-feat.-Nicole-Johänntgen,2014-02-28,"[' Rémi Panossian ', ' Maxime Delporte ', ' Frédéric Petitprez ', ' Nicole Johänntgen ']",
-Köniz,Stefania-Kaye,2014-02-28,['Stefania Kaye '],Pop
-Liestal,Hapax,2014-02-28,"[' Fanny Anderegg ', ' Vincent Membrez ', ' Luigi Galati ', ' Peter Gossweiler ', ' Eleanora Erne ']",
-Romanshorn,Q-tett,2014-02-28,"[' Urs C.Eigenmann ', ' Berti Lampert ', ' Erwin Pfeiffer ', ' Pino Buoro ', ' Nicole Aravena ']",
-Liebefeld,Uptown-Goes-Downtown,2014-02-28,[' Michael Beck '],
-Luzern,Doctor-Cyclops-&-Dustineyes,2014-02-28,['Doctor Cyclops & Dustineyes '],
-null,Attila-The-Stockbroker,2014-02-28,['Attila The Stockbroker '],
-Zürich,Pius-Baschnagels-Latinworld,2014-02-28,"[' Pius Baschnagel ', ' Marianne Racine ', ' Bernhard Bamert ', ' Marcel Thomi ', ' Patrick Sommer ', ' Georgios Mikirozis ']",
-Rubigen,Tangled-Eye,2014-02-28,['Tangled Eye '],
-Frauenfeld,4-some-Blues,2014-02-28,"[' Dani Gugolz ', ' Peter Müller ', ' Walt Baumgartner ', ' Hannes Kasehs ']",
-Basel,Pablo-Valentino,2014-02-28,['Pablo Valentino '],
-Thun,Undiscovered-Soul,2014-02-28,['Undiscovered Soul '],
-Basel,Bscene,2014-02-28,[' Mikkel Ploug Quartett '],
-Basel,Bscene,2014-02-28,[' I Am Oak & The Black Atlantic '],Pop
-Basel,Bscene,2014-02-28,[' Hundreds '],
-Basel,Bscene,2014-02-28,['Kuzco '],
-Aarau,Foreign-Beggars,2014-02-28,['Foreign Beggars '],Electronic
-Basel,Bscene,2014-02-28,"[' Nives Onori ', ' Valentin Hebel ', ' Lukas Huber ', ' Hannes Fankhauser ', ' Florian Haas ', ' Konstantin König ']",Pop
-Basel,Bscene,2014-02-28,[' DJs Reeps One '],
-Basel,Bscene,2014-02-28,[' Amatorski '],
-Schaffhausen,Hip-Hop-out-of-L.A.,2014-02-28,['The Procussions '],
+,location,event,date,artists,genre
+0,Basel,Mikkel-Ploug-New-Group,2014-02-28,"[' Loren Stillman ', ' Mikkel Ploug ', ' Jeppe Skovbakke ', ' Tommy Crane ']","['Jazz', 'Blues', 'Soul']"
+1,Z?rich,Steirer-Quintett,2014-02-28,['Steirer Quintett '],['traditional']
+2,Luzern,Piano-Entertainment,2014-02-28,['Mega Horvath '],"['Jazz', 'Blues', 'Soul']"
+3,Basel,Orgelspiel-zum-Feierabend,2014-02-28,['Christer L?vold '],['Classic']
+4,Dietikon,Feierabendmusik,2014-02-28,['Bernhard H?rler '],['Classic']
+5,Basel,Trois-?ventails-musicaux-Endlich-Freitag,2014-02-28,"['Karin Dornbusch ', ' Reinhold Friedrich ', ' Sascha Armbruster ', ' Patrick Demenga ']",['Classic']
+6,D?bendorf,Chachaloca,2014-02-28,"[' Roman Glaser ', ' Alain von Ritter ', ' Richard Pechota ', ' Jost M?ller ']","['Jazz', 'Blues', 'Soul']"
+7,Bern,Symphoniekonzert,2014-02-28,[' David Fray '],['Classic']
+8,Z?rich,Konzert,2014-02-28,"[' Sabine Poy? Morel ', ' Simon Fuchs ', ' Michael Reid ', ' Matthias R?cz ', ' Philippe Litzler ']",['Classic']
+9,Z?rich,Bachs-Spuren,2014-02-28,"[' St?phane R?ty ', ' Mayumi Hirasaki ', ' Naoki Kitaya ']",['Classic']
+10,D?bendorf,In-vino-musica,2014-02-28,"['Franziska Ammer ', ' Antonios Stoitsoglou ']",['Classic']
+11,Luzern,Take-Berlin,2014-02-28,['Take Berlin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,null,Internationales-Gitarrenfestival,2014-02-28,"['Mariano Mart?n ', ' Quique Sinesi ']","['Jazz', 'Blues', 'Soul']"
+13,Rheinfelden,Old-Rivertown-Jazzband,2014-02-28,"[' Markus H?chler ', ' Werni Nussbaum ', ' Jerry Gabriel ']","['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Mirabilis,2014-02-28,"['Mirabilis ', ' Eva Marlin ', ' Matthias Weibel ', ' Daniel Som ', ' Markus Maggiori ']",['traditional']
+15,Z?rich,Broilers,2014-02-28,['Broilers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Z?rich,Frau-Dr.-Susi-Sommers-Liebeskabinett,2014-02-28,[' Eriko Kagawa '],['Classic']
+17,Bern,Ray-Wilson,2014-02-28,['Ray Wilson '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Z?rich,Bendorim-Lieder-auf-Jiddisch,2014-02-28,"['Dela H?ttner ', ' J?rg Luchsinger ', ' Stefanie Kunckler ']","['world', 'music']"
+19,Liestal,Sharon-Harris,2014-02-28,['Sharon Harris '],"['Hip', 'Hop', ""R'n'B""]"
+20,Uster,Rhino-Bucket,2014-02-28,"['Rhino Bucket ', ' Voodoo Vegas ', ' Dobermann ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Z?rich,Huber-Vallon-Weber,2014-02-28,"[' Alex Huber ', ' Colin Vallon ', ' Christian Weber ']","['Jazz', 'Blues', 'Soul']"
+22,Winterthur,Kamala,2014-02-28,"[' Bruno Steffen ', ' Ekkehard Sassenhausen ', ' Beat Gisler ', ' Olaf Ryter ']","['Jazz', 'Blues', 'Soul']"
+23,Liestal,Hapax,2014-02-28,"[' Fanny Anderegg ', ' Vincent Membrez ', ' Luigi Galati ', ' Peter Gossweiler ', ' Eleanora Erne ']","['Jazz', 'Blues', 'Soul']"
+24,Romanshorn,Q-tett,2014-02-28,"[' Urs C.Eigenmann ', ' Berti Lampert ', ' Erwin Pfeiffer ', ' Pino Buoro ', ' Nicole Aravena ']","['Jazz', 'Blues', 'Soul']"
+25,Liebefeld,Uptown-Goes-Downtown,2014-02-28,[' Michael Beck '],"['Jazz', 'Blues', 'Soul']"
+26,Z?rich,Raphael-Jost-&-Lots-of-Horns,2014-02-28,"[' Lots of Horns ', ' Raphael Jost ', ' Lukas Th?ni ', ' Florian Egli ', ' Lukas Br?gger ', ' Andreas Tschopp ']","['Jazz', 'Blues', 'Soul']"
+27,K?niz,Stefania-Kaye,2014-02-28,['Stefania Kaye '],['Pop']
+28,Klosters,R?mi-Panossian-Trio-feat.-Nicole-Joh?nntgen,2014-02-28,"[' R?mi Panossian ', ' Maxime Delporte ', ' Fr?d?ric Petitprez ', ' Nicole Joh?nntgen ']","['Jazz', 'Blues', 'Soul']"
+29,Frauenfeld,4-some-Blues,2014-02-28,"[' Dani Gugolz ', ' Peter M?ller ', ' Walt Baumgartner ', ' Hannes Kasehs ']","['Jazz', 'Blues', 'Soul']"
+30,Luzern,Doctor-Cyclops-&-Dustineyes,2014-02-28,[' Dustineyes '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,null,Attila-The-Stockbroker,2014-02-28,['Attila The Stockbroker '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Basel,Pablo-Valentino,2014-02-28,['Pablo Valentino '],"['Hip', 'Hop', ""R'n'B""]"
+33,Thun,Undiscovered-Soul,2014-02-28,['Undiscovered Soul '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Z?rich,Pius-Baschnagels-Latinworld,2014-02-28,"[' Pius Baschnagel ', ' Marianne Racine ', ' Bernhard Bamert ', ' Marcel Thomi ', ' Patrick Sommer ', ' Georgios Mikirozis ']","['world', 'music']"
+35,Rubigen,Tangled-Eye,2014-02-28,['Tangled Eye '],"['world', 'music']"
+36,Basel,Bscene,2014-02-28,[' Mikkel Ploug Quartett '],"['Jazz', 'Blues', 'Soul']"
+37,Basel,Bscene,2014-02-28,[' The Black Atlantic '],['Pop']
+38,Basel,Bscene,2014-02-28,[' Hundreds '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+39,Basel,Bscene,2014-02-28,['Kuzco '],"['Hip', 'Hop', ""R'n'B""]"
+40,Basel,Bscene,2014-02-28,"[' Nives Onori ', ' Valentin Hebel ', ' Lukas Huber ', ' Hannes Fankhauser ', ' Florian Haas ', ' Konstantin K?nig ']",['Pop']
+41,Basel,Bscene,2014-02-28,[' DJs Reeps One '],"['Hip', 'Hop', ""R'n'B""]"
+42,Basel,Bscene,2014-02-28,[' Amatorski '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+43,Aarau,Foreign-Beggars,2014-02-28,['Foreign Beggars '],['Electronic']

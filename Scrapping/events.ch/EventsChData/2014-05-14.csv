@@ -1,31 +1,30 @@
-location,event,date,artists,genre
-Basel,Masterrezital,2014-05-14,[' Anna Röser '],Classic
-Basel,Masterrezital,2014-05-14,[' Tzveta Koicheva '],Classic
-Luzern,Piano-Entertainment,2014-05-14,['Mark Tenger '],
-Zürich,Lebanon-Hanover,2014-05-14,['Lebanon Hanover '],
-Basel,Masterrezital,2014-05-14,[' Romain Chaumont '],Classic
-Zürich,Beethoven-Zyklus-I,2014-05-14,[' Radu Lupu '],Classic
-Basel,Happy-Birtday-Heinz-Holliger,2014-05-14,[' Heinz Holliger '],Classic
-Winterthur,Letzte-Worte-klingende-Gebete,2014-05-14,"[' Roberto González Monjas ', ' Pär Näsbom ', ' Jürg Dähler ', ' Cäcilia Chmel ']",Classic
-Lausanne,Katatonia,2014-05-14,['Katatonia '],
-null,The-Datsuns,2014-05-14,['The Datsuns '],
-Zürich,Live-Is-Good,2014-05-14,['Miu '],
-null,La-tromba-veneziana,2014-05-14,"['Gábor Boldoczki ', ' Andrés Gabetta ']",Classic
-Zürich,Foghorn-Stringband,2014-05-14,"['Foghorn Stringband ', ' Caleb Klauder ', ' Stephen Lind ', ' Nadine Landry ', ' Reeb Willms ']",
-Zürich,Johannes-Oerding,2014-05-14,"['Johannes Oerding ', ' Malky ']",Pop
-Basel,Sonare,2014-05-14,"['Michael Leibundgut ', ' Egidius Streiff ', ' Lanet Flores ', ' Yvonne Troxler ', ' Sylwia Zytynska ']",Classic
-Zürich,Yes,2014-05-14,['Yes '],
-Zürich,ZHdK-Masters-of-Jazz,2014-05-14,"[' Lukas Brügger ', ' Michael Spahr ', ' Nelson Brunner ']",
-Zürich,Chick-Corea,2014-05-14,"['Chick Corea ', ' Michael Zisman ']",
-Basel,Blockflöte-des-Todes,2014-05-14,['Blockflöte des Todes '],Pop
-Schaffhausen,Schaffhauser-Jazzfestival,2014-05-14,"[' Elina Duni ', ' Colin Vallon ', ' Patrice Moret ', ' Norbert Pfammatter ']",
-Baden,Alternate-Takes,2014-05-14,"[' Wolfgang Baumgartner ', ' Peter Keller ', ' Hannes Hänggli ', ' Sabine Siegrist ', ' Hanspeter Stamm ']",
-Zürich,Paul-Fogarty,2014-05-14,['Paul Fogarty '],Pop
-Zürich,Ram-Trio,2014-05-14,"[' Ramon Landolt ', ' Mirco Häberli ', ' Mario Hänni ']",
-Zürich,Oscar-&-the-Wolf,2014-05-14,['Oscar & the Wolf '],Electronic
-Zürich,Sworn-In,2014-05-14,"['Sworn In ', ' Here Lies A Warning ', ' In Archives ']",
-Düdingen,Diane-Cluck,2014-05-14,"['Diane Cluck ', ' Stefano de Ponti ']",Pop
-Rubigen,Billy-Cobham,2014-05-14,['Billy Cobham '],
-Sankt-Gallen,Dean-Wareham,2014-05-14,['Dean Wareham '],
-Zürich,Yellow-Ostrich,2014-05-14,['Yellow Ostrich '],Pop
-Schaffhausen,Schaffhauser-Jazzfestival,2014-05-14,"[' Lucien Dubuis ', ' Roman Nowka ', ' Lionel Friedli ', ' Estelle Beiner ', ' Regula Schwab ', ' Isabelle Gottraux ', ' Barbara Gasser ']",
+,location,event,date,artists,genre
+0,Basel,Masterrezital,2014-05-14,[' Anna R?ser '],['Classic']
+1,Basel,Masterrezital,2014-05-14,[' Tzveta Koicheva '],['Classic']
+2,Z?rich,Lebanon-Hanover,2014-05-14,['Lebanon Hanover '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Winterthur,Letzte-Worte-klingende-Gebete,2014-05-14,"[' Roberto Gonz?lez Monjas ', ' P?r N?sbom ', ' J?rg D?hler ', ' C?cilia Chmel ']",['Classic']
+4,Basel,Masterrezital,2014-05-14,[' Romain Chaumont '],['Classic']
+5,Z?rich,Beethoven-Zyklus-I,2014-05-14,[' Radu Lupu '],['Classic']
+6,Basel,Happy-Birtday-Heinz-Holliger,2014-05-14,[' Heinz Holliger '],['Classic']
+7,Basel,Sonare,2014-05-14,"['Michael Leibundgut ', ' Egidius Streiff ', ' Lanet Flores ', ' Yvonne Troxler ', ' Sylwia Zytynska ']",['Classic']
+8,Z?rich,Live-Is-Good,2014-05-14,['Miu '],"['Jazz', 'Blues', 'Soul']"
+9,Z?rich,ZHdK-Masters-of-Jazz,2014-05-14,"[' Lukas Br?gger ', ' Michael Spahr ', ' Nelson Brunner ']","['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Johannes-Oerding,2014-05-14,"['Johannes Oerding ', ' Malky ']",['Pop']
+11,null,The-Datsuns,2014-05-14,['The Datsuns '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Z?rich,Yes,2014-05-14,['Yes '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,null,La-tromba-veneziana,2014-05-14,"['G?bor Boldoczki ', ' Andr?s Gabetta ']",['Classic']
+14,Z?rich,Chick-Corea,2014-05-14,"['Chick Corea ', ' Michael Zisman ']","['Jazz', 'Blues', 'Soul']"
+15,Basel,Blockfl?te-des-Todes,2014-05-14,['Blockfl?te des Todes '],['Pop']
+16,Lausanne,Katatonia,2014-05-14,['Katatonia '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Z?rich,Foghorn-Stringband,2014-05-14,"['Foghorn Stringband ', ' Caleb Klauder ', ' Stephen Lind ', ' Nadine Landry ', ' Reeb Willms ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Schaffhausen,Schaffhauser-Jazzfestival,2014-05-14,"[' Elina Duni ', ' Colin Vallon ', ' Patrice Moret ', ' Norbert Pfammatter ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Sworn-In,2014-05-14,"['Sworn In ', ' Here Lies A Warning ', ' In Archives ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Baden,Alternate-Takes,2014-05-14,"[' Wolfgang Baumgartner ', ' Peter Keller ', ' Hannes H?nggli ', ' Sabine Siegrist ', ' Hanspeter Stamm ']","['Jazz', 'Blues', 'Soul']"
+21,Z?rich,Oscar-&-the-Wolf,2014-05-14,[' the Wolf '],['Electronic']
+22,Z?rich,Paul-Fogarty,2014-05-14,['Paul Fogarty '],['Pop']
+23,Z?rich,Ram-Trio,2014-05-14,"[' Ramon Landolt ', ' Mirco H?berli ', ' Mario H?nni ']","['Jazz', 'Blues', 'Soul']"
+24,Rubigen,Billy-Cobham,2014-05-14,['Billy Cobham '],"['Jazz', 'Blues', 'Soul']"
+25,Z?rich,Yellow-Ostrich,2014-05-14,['Yellow Ostrich '],['Pop']
+26,D?dingen,Diane-Cluck,2014-05-14,"['Diane Cluck ', ' Stefano de Ponti ']",['Pop']
+27,Sankt-Gallen,Dean-Wareham,2014-05-14,['Dean Wareham '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Schaffhausen,Schaffhauser-Jazzfestival,2014-05-14,"[' Lucien Dubuis ', ' Roman Nowka ', ' Lionel Friedli ', ' Estelle Beiner ', ' Regula Schwab ', ' Isabelle Gottraux ', ' Barbara Gasser ']","['Jazz', 'Blues', 'Soul']"

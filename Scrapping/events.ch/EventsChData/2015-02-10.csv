@@ -1,8 +1,8 @@
-location,event,date,artists,genre
-Zürich,Elmar's-Bebop-und-Blues-Boat-feat.-Sarah-Peng,2015-02-10,"[' Elmar Kluth ', ' Fredi Schmid ', ' Thomas Hirt ']",
-Winterthur,Heiri-Känzigs-Swiss-Mongolian-Project,2015-02-10,"[' Karin Streule ', ' Patricia Dräger ', ' Matthieu Michel ', ' Kaspar Rast ', ' Heiri Känzig ']",
-Zürich,Klavierabend,2015-02-10,['Claire Huangci '],Classic
-Zürich,Kiesza,2015-02-10,['Kiesza '],Pop
-Zürich,Milow,2015-02-10,['Milow '],Pop
-Zürich,Suisse-Diagonales-Jazz,2015-02-10,"[' Laurent Méteau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Philipp Schlotter ']",
-Basel,Donat-Fisch-Quartet,2015-02-10,"[' Donat Fisch ', ' Andy Scherrer ', ' Christian Weber ', ' Norbert Pfammatter ']",
+,location,event,date,artists,genre
+0,Z?rich,Elmar's-Bebop-und-Blues-Boat-feat.-Sarah-Peng,2015-02-10,"[' Elmar Kluth ', ' Fredi Schmid ', ' Thomas Hirt ']","['Jazz', 'Blues', 'Soul']"
+1,Z?rich,Klavierabend,2015-02-10,['Claire Huangci '],['Classic']
+2,Winterthur,Heiri-K?nzigs-Swiss-Mongolian-Project,2015-02-10,"[' Karin Streule ', ' Patricia Dr?ger ', ' Matthieu Michel ', ' Kaspar Rast ', ' Heiri K?nzig ']","['Jazz', 'Blues', 'Soul']"
+3,Z?rich,Kiesza,2015-02-10,['Kiesza '],['Pop']
+4,Z?rich,Suisse-Diagonales-Jazz,2015-02-10,"[' Laurent M?teau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Philipp Schlotter ']","['Jazz', 'Blues', 'Soul']"
+5,Z?rich,Milow,2015-02-10,['Milow '],['Pop']
+6,Basel,Donat-Fisch-Quartet,2015-02-10,"[' Donat Fisch ', ' Andy Scherrer ', ' Christian Weber ', ' Norbert Pfammatter ']","['Jazz', 'Blues', 'Soul']"

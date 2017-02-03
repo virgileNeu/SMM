@@ -1,24 +1,24 @@
-location,event,date,artists,genre
-Zürich,Racine-Kunz-Lips,2014-11-18,"[' Marianne Racine ', ' Jojo Kunz ', ' Oleg Lips ']",
-Zürich,Augustines,2014-11-18,"['Augustines ', ' support: Arkells ']",
-Bern,Marteria,2014-11-18,['Marteria '],
-Zürich,Väter-und-Söhne,2014-11-18,[' Sebastian Knauer '],Classic
-Zürich,Musikpreisträger-des-Rahn-Kulturfonds-2014,2014-11-18,"['Miriam Prandi ', ' Beatriz Blanco ']",Classic
-Basel,AMG-World-Orchestras,2014-11-18,[' Arcadi Volodos '],Classic
-Aarau,Feuervogel,2014-11-18,[' Hisako Kawamura '],Classic
-Olten,Klavierrezital,2014-11-18,['Radu Lupu '],Classic
-Pratteln,Lacuna-Coil,2014-11-18,['Lacuna Coil '],
-Basel,Kammermusik-Basel,2014-11-18,['Emerson String Quartet '],Classic
-null,3.-Abo-Sinfoniekonzert,2014-11-18,['Daniel Kotlinski '],Classic
-Bern,Bird-Pen,2014-11-18,['Bird Pen '],
-Zürich,Jethro-Tull's-Ian-Anderson,2014-11-18,"[""Jethro Tull's Ian Anderson "", ' Ian Anderson ', ' John OHara ', ' Florian Opahle ', ' Ryan ODonnell ', ' David Goodier ', ' Scott Hammond ']",
-Lyss,1349,2014-11-18,['1349 '],
-null,Migros-Kulturprozent-Classics,2014-11-18,"[' Johannette Zomer ', ' Bogna Bartosz ', ' Jörg Dürmüller ', ' Klaus Mertens ']",Classic
-Zürich,Eli-Degibri-Quartet,2014-11-18,"['Eli Degibri Quartet ', ' Eli Degibri ', ' Gadi Lehavi ', ' Barak Mori ', ' Ofri Nehemya ']",
-Basel,Quinteros-Descarga,2014-11-18,"[' Yosvany Quintero ', ' Hannes Fankhauser ', ' Benjamin Brodbeck ']",
-Zürich,Nikki-Hill,2014-11-18,"['Nikki Hill ', ' Nikki Hill ', ' Matt Hill ', ' Ed Strohsal ', ' Joe Meyer ']",
-Basel,Tsoaeli-Evans,2014-11-18,"[' William Evans ', ' Herbie Tsoaeli ']",
-null,Breton,2014-11-18,['Breton '],
-Luzern,John-Garcia,2014-11-18,['John Garcia '],
-Zürich,Reviving-Parmegiani,2014-11-18,"[' Colette Broeckaert ', ' Sebastian Berweck ', ' Martin Lorenz ']",Electronic
-Zürich,Cat-Power,2014-11-18,['Cat Power '],Pop
+,location,event,date,artists,genre
+0,Z?rich,Racine-Kunz-Lips,2014-11-18,"[' Marianne Racine ', ' Jojo Kunz ', ' Oleg Lips ']","['Jazz', 'Blues', 'Soul']"
+1,Z?rich,Augustines,2014-11-18,"['Augustines ', ' support: Arkells ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Basel,Kammermusik-Basel,2014-11-18,['Emerson String Quartet '],['Classic']
+3,Z?rich,V?ter-und-S?hne,2014-11-18,[' Sebastian Knauer '],['Classic']
+4,Z?rich,Musikpreistr?ger-des-Rahn-Kulturfonds-2014,2014-11-18,"['Miriam Prandi ', ' Beatriz Blanco ']",['Classic']
+5,Bern,Marteria,2014-11-18,['Marteria '],"['Hip', 'Hop', ""R'n'B""]"
+6,Basel,AMG-World-Orchestras,2014-11-18,[' Arcadi Volodos '],['Classic']
+7,Aarau,Feuervogel,2014-11-18,[' Hisako Kawamura '],['Classic']
+8,Olten,Klavierrezital,2014-11-18,['Radu Lupu '],['Classic']
+9,Pratteln,Lacuna-Coil,2014-11-18,['Lacuna Coil '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Lyss,1349,2014-11-18,['1349 '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,null,Migros-Kulturprozent-Classics,2014-11-18,"[' Johannette Zomer ', ' Bogna Bartosz ', ' J?rg D?rm?ller ', ' Klaus Mertens ']",['Classic']
+12,null,3.-Abo-Sinfoniekonzert,2014-11-18,['Daniel Kotlinski '],['Classic']
+13,Z?rich,Eli-Degibri-Quartet,2014-11-18,"['Eli Degibri Quartet ', ' Eli Degibri ', ' Gadi Lehavi ', ' Barak Mori ', ' Ofri Nehemya ']","['Jazz', 'Blues', 'Soul']"
+14,Bern,Bird-Pen,2014-11-18,['Bird Pen '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Z?rich,Jethro-Tull's-Ian-Anderson,2014-11-18,"[""Jethro Tull's Ian Anderson "", ' Ian Anderson ', ' John OHara ', ' Florian Opahle ', ' Ryan ODonnell ', ' David Goodier ', ' Scott Hammond ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Z?rich,Reviving-Parmegiani,2014-11-18,"[' Colette Broeckaert ', ' Sebastian Berweck ', ' Martin Lorenz ']",['Electronic']
+17,Basel,Quinteros-Descarga,2014-11-18,"[' Yosvany Quintero ', ' Hannes Fankhauser ', ' Benjamin Brodbeck ']","['Jazz', 'Blues', 'Soul']"
+18,Luzern,John-Garcia,2014-11-18,['John Garcia '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Z?rich,Nikki-Hill,2014-11-18,"['Nikki Hill ', ' Nikki Hill ', ' Matt Hill ', ' Ed Strohsal ', ' Joe Meyer ']","['Hip', 'Hop', ""R'n'B""]"
+20,Basel,Tsoaeli-Evans,2014-11-18,"[' William Evans ', ' Herbie Tsoaeli ']","['Jazz', 'Blues', 'Soul']"
+21,Z?rich,Cat-Power,2014-11-18,['Cat Power '],['Pop']
+22,null,Breton,2014-11-18,['Breton '],"['Hip', 'Hop', ""R'n'B""]"

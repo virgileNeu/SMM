@@ -1,35 +1,35 @@
-location,event,date,artists,genre
-Winterthur,Tabla-und-Sitarkonzert,2014-10-11,"['Roger Odermatt ', ' Mendi Singh ']",
-null,Olma-Konzert,2014-10-11,['Maja Bösch '],Classic
--Alte-Kirche,Boswil,2014-10-11,[' Dieter Nanz '],Classic
-Winterthur,Lockenhaus-on-Tour-Artist-in-Resonance,2014-10-11,"['Ilya Gringolts ', ' Benjamin Schmid ', ' Nicolas Altstaedt ', ' Aleksandar Madzar ']",Classic
-Zürich,Die-Sterne,2014-10-11,"['Die Sterne ', ' support: Der Bürgermeister ']",
-Zürich,Beethoven-und-Schumann-Drei-Klavierabende,2014-10-11,['Oleg Maisenberg '],Classic
-Riehen,Brahms'-doppelte-Liebe,2014-10-11,"['Lech Antonio Uszynski ', ' Stojan Krkuleski ', ' Barbara Uszynska ']",Classic
-Zürich,Oliver-Scheidies,2014-10-11,['Oliver Scheidies '],Pop
-Basel,Chorkonzert-Rosex,2014-10-11,['Vokalensemble Rosex '],Classic
-Bern,Headbangersball,2014-10-11,"[' 5 Stabbed 4 Corpses ', ' Tools Of The Trade ']",
-Basel,Icelandic-Sound-Company,2014-10-11,"[' Gunnar Kristinsson ', ' Rikhardur H. Fridriksson ']",
-Obfelden,Harfe-Violine-Visuelles,2014-10-11,"['Corinne Kappeler ', ' Daniel Treyer ']",Classic
-null,Internationales-Gitarrenfestival-Fribourg,2014-10-11,['Celia Romero '],
-Zürich,Tango-nuevo,2014-10-11,"[' Martin Delgado ', ' Pablo Gaitán ', ' Lucas Polichiso ', ' Maxi Natalutti ']",
-Zürich,Helldorado,2014-10-11,['Helldorado '],
-Lausanne,Black-M,2014-10-11,['Black M '],Pop
-Winterthur,Einar-Stray-Orchestra,2014-10-11,['Einar Stray Orchestra '],Pop
-Zürich,Dzambo-Agusevi-Orkestar,2014-10-11,"[' Dzambo Agusev ', ' Cemal Agusev ', ' Koco Agusev ', ' Sunaj Mustafov ', ' Elvijan Demirovski ']",
-null,Jake-Calypso-&-His-Red-Hot,2014-10-11,['Jake Calypso & His Red Hot '],
-Basel,Johannes-Enders-Quartet-feat.-Billy-Hart,2014-10-11,"[' Johannes Enders ', ' Jean Paul Brodbeck ', ' Milan Nicolic ', ' Billy Hart ']",
-Lyss,The-Brew,2014-10-11,['The Brew '],
-Basel,Kafka-Kaya,2014-10-11,[' Pari San '],Electronic
-Vevey,Das-EFX,2014-10-11,"['Das EFX ', ' Six To Six ']",
-null,Gazelle-Twin,2014-10-11,['Gazelle Twin '],Pop
-Zürich,Shitbox,2014-10-11,"[' Fabian Jung ', ' Nathan Bontrager ', ' Christian Wolfarth ']",
-Rubigen,British-Blues-All-Stars,2014-10-11,['British Blues All Stars '],
-Zürich,Atmosphere,2014-10-11,['Atmosphere '],
-Düdingen,Amen-Dunes,2014-10-11,['Amen Dunes '],
-Wil,Dubioza-Kolektiv,2014-10-11,['Dubioza Kolektiv '],
-Kriens,Terrence-Parker,2014-10-11,['Terrence Parker '],
-Sankt-Gallen,Missue,2014-10-11,['Missue '],Electronic
-Zürich,Rag-Dolls,2014-10-11,"[' Elias von Arx ', ' Läli Spring ', ' Simon Moll ']",Pop
-Basel,Blank,2014-10-11,"['Blank ', ' I Not Dance ', ' Sunlun ']",
-Zürich,Be-Greek,2014-10-11,[' Thomas Pandiris '],
+,location,event,date,artists,genre
+0,Winterthur,Tabla-und-Sitarkonzert,2014-10-11,"['Roger Odermatt ', ' Mendi Singh ']","['world', 'music']"
+1,null,Olma-Konzert,2014-10-11,['Maja B?sch '],['Classic']
+2,-Alte-Kirche,Boswil,2014-10-11,[' Dieter Nanz '],['Classic']
+3,Riehen,Brahms'-doppelte-Liebe,2014-10-11,"['Lech Antonio Uszynski ', ' Stojan Krkuleski ', ' Barbara Uszynska ']",['Classic']
+4,Z?rich,Die-Sterne,2014-10-11,"['Die Sterne ', ' support: Der B?rgermeister ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Winterthur,Lockenhaus-on-Tour-Artist-in-Resonance,2014-10-11,"['Ilya Gringolts ', ' Benjamin Schmid ', ' Nicolas Altstaedt ', ' Aleksandar Madzar ']",['Classic']
+6,Z?rich,Beethoven-und-Schumann-Drei-Klavierabende,2014-10-11,['Oleg Maisenberg '],['Classic']
+7,Basel,Icelandic-Sound-Company,2014-10-11,"[' Gunnar Kristinsson ', ' Rikhardur H. Fridriksson ']","['world', 'music']"
+8,Bern,Headbangersball,2014-10-11,"[' 5 Stabbed 4 Corpses ', ' Tools Of The Trade ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Obfelden,Harfe-Violine-Visuelles,2014-10-11,"['Corinne Kappeler ', ' Daniel Treyer ']",['Classic']
+10,Z?rich,Tango-nuevo,2014-10-11,"[' Martin Delgado ', ' Pablo Gait?n ', ' Lucas Polichiso ', ' Maxi Natalutti ']","['world', 'music']"
+11,Z?rich,Oliver-Scheidies,2014-10-11,['Oliver Scheidies '],['Pop']
+12,null,Internationales-Gitarrenfestival-Fribourg,2014-10-11,['Celia Romero '],"['world', 'music']"
+13,Basel,Chorkonzert-Rosex,2014-10-11,['Vokalensemble Rosex '],['Classic']
+14,Z?rich,Helldorado,2014-10-11,['Helldorado '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Lausanne,Black-M,2014-10-11,['Black M '],['Pop']
+16,Z?rich,Dzambo-Agusevi-Orkestar,2014-10-11,"[' Dzambo Agusev ', ' Cemal Agusev ', ' Koco Agusev ', ' Sunaj Mustafov ', ' Elvijan Demirovski ']","['world', 'music']"
+17,Basel,Johannes-Enders-Quartet-feat.-Billy-Hart,2014-10-11,"[' Johannes Enders ', ' Jean Paul Brodbeck ', ' Milan Nicolic ', ' Billy Hart ']","['Jazz', 'Blues', 'Soul']"
+18,Winterthur,Einar-Stray-Orchestra,2014-10-11,['Einar Stray Orchestra '],['Pop']
+19,null,Jake-Calypso-&-His-Red-Hot,2014-10-11,[' His Red Hot '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Lyss,The-Brew,2014-10-11,['The Brew '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Rubigen,British-Blues-All-Stars,2014-10-11,['British Blues All Stars '],"['Jazz', 'Blues', 'Soul']"
+22,Z?rich,Atmosphere,2014-10-11,['Atmosphere '],"['Hip', 'Hop', ""R'n'B""]"
+23,Vevey,Das-EFX,2014-10-11,"['Das EFX ', ' Six To Six ']","['Hip', 'Hop', ""R'n'B""]"
+24,null,Gazelle-Twin,2014-10-11,['Gazelle Twin '],['Pop']
+25,Basel,Kafka-Kaya,2014-10-11,[' Pari San '],['Electronic']
+26,Basel,Tobey-Lucas,2014-10-11,['Tobey Lucas '],['Pop']
+27,Wil,Dubioza-Kolektiv,2014-10-11,['Dubioza Kolektiv '],"['Hip', 'Hop', ""R'n'B""]"
+28,D?dingen,Amen-Dunes,2014-10-11,['Amen Dunes '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Basel,Blank,2014-10-11,"['Blank ', ' I Not Dance ', ' Sunlun ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Kriens,Terrence-Parker,2014-10-11,['Terrence Parker '],"['Hip', 'Hop', ""R'n'B""]"
+31,Z?rich,Rag-Dolls,2014-10-11,"[' Elias von Arx ', ' L?li Spring ', ' Simon Moll ']",['Pop']
+32,Sankt-Gallen,Missue,2014-10-11,['Missue '],['Electronic']
+33,Z?rich,Be-Greek,2014-10-11,[' Thomas Pandiris '],"['Electro', 'Electropop']"

@@ -1,31 +1,31 @@
-location,event,date,artists,genre
-Winterthur,Hellmüller-Risso-Zanoli,2015-02-14,"[' Franz Hellmüller ', ' Stefano Risso ', ' Marco Zanoli ']",
-Liestal,Karel-de-Matteis,2015-02-14,['Karel de Matteis '],Pop
-Birr,Valen-Dine,2015-02-14,"[' Christoph Baumann ', ' Thom Wettstein ', ' Eddie Miles Walker ', ' Tcha Simmons ']",
-Zürich,Valentine's-Musical-Dinner,2015-02-14,['Christian LaCava '],Pop
-Zürich,Internationales-Country-Music-Festival,2015-02-14,['Mary Duff & Band '],
-Zürich,Ästhetische-Kommunikation,2015-02-14,"[' Christine Simolka ', ' Anja Brezavek ', ' Igor Kombaratov ', ' Markus Stolz ']",Classic
-Arbon,Duo-Zismann-Fulgido,2015-02-14,"[' Michael Zismann ', ' Sebastien Fulgido ']",
-Basel,Sulla-ruota-di-fortuna,2015-02-14,['Merit Eichhorn '],Classic
-Zürich,Simple-Minds,2015-02-14,"['Simple Minds ', ' Jim Kerr ', ' Charlie Burchill ', ' Mel Gaynor ', ' Andy Gillespie ', ' Ged Grimes ', ' Sarah Brown ']",Pop
-Zürich,La-Biaba,2015-02-14,"[' Guillermo Copello ', ' Cristián Cortés ', ' Simon Lagier ', ' Claudio Bergese ', ' Mariano Asato ', ' Martín Marino ', ' Lucas Querini ']",
-Zürich,Peter-Gabriel-Tribute,2015-02-14,"[' Daniel Rohr ', ' Bruno Amstad ', ' Anna Kaenzig ', ' Levin Deger ', ' Tobey Lucas ', ' George Vaine ']",Pop
-Lichtensteig,Linard-Bardill-&-Tubschlagbänd,2015-02-14,"[' Michi Gertschen ', ' Gian Lorenz ', ' Tino Lorenz ', ' Peter Finc ']",Pop
-Zürich,Berg-&-Ruosch,2015-02-14,"[' Curdin Janett ', ' Dave Ruosch ', ' Lisa Berg ']",Pop
-Zürich,Divanhana,2015-02-14,"['Divanhana ', ' Leila Catic ', ' Neven Tunjic ', ' Nedzad Musovic ', ' Meho Radoovic ', ' Irfan Tahirovic ', ' Rifet Camdzic ']",
-Winterthur,Sgt.-Monkey,2015-02-14,['Sgt. Monkey '],
-Basel,Seven-Things-Trio,2015-02-14,"[' Dani Schenker ', ' Christoph Merki ', ' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']",
-Thun,Mojo-T,2015-02-14,"['Peter Tièche ', ' Mike Bischof ', ' Daniel Thomann ']",
-Baden,4-You,2015-02-14,"[' Urs Haensler ', ' Christian Mosbeck ', ' Christof Zaugg ', ' Bea Schneider ']",
-Münchenbuchsee,Shirley-Grimes,2015-02-14,['Shirley Grimes '],
-Winterthur,Austin-Lucas-&-Band,2015-02-14,"['Austin Lucas & Band ', ' Aaron Persinger ']",
-Bern,Bluesterrier,2015-02-14,"[' David Barreto ', ' Chräbu Kratzer ', ' Stöffu Oesch ', ' Michael Sulzer ', ' Raoul Müller ']",
-Zürich,Alvvays,2015-02-14,"['Alvvays ', ' Moon King ']",Pop
-Aarau,L'âme-Immortelle,2015-02-14,"[""L'âme Immortelle "", ' Dolls Of Pain ']",Electronic
-Schaffhausen,Fifty-Million-Frenchmen,2015-02-14,"[' Stefan Kiss ', ' Gavin Maitland ', ' Urs Kunz ', ' Gregor Spitzer ']",
-Schaffhausen,Alice-Francis,2015-02-14,['Alice Francis '],
-Basel,Port-Noir,2015-02-14,"['Port Noir ', ' Giant Sleep ', ' Arsonists ', ' Firemen ']",
-Zürich,Dave-Eleanor,2015-02-14,['Dave Eleanor '],Electronic
-Zürich,Angel-Maria-Torres-y-sus-ultimos-Mamboleros,2015-02-14,"[' Angel Maria Torres ', ' Pedro Corazon ', ' Don Cedric Cerealis ', ' El Lobo Corredor ']",
-Basel,Zitral-feat.-DJ-Johny-Holiday,2015-02-14,['Zitral feat. DJ Johny Holiday '],
-null,Robin-Schulz,2015-02-14,"['Robin Schulz ', ' DJ Solvane ']",Electronic
+,location,event,date,artists,genre
+0,Winterthur,Hellm?ller-Risso-Zanoli,2015-02-14,"[' Franz Hellm?ller ', ' Stefano Risso ', ' Marco Zanoli ']","['Jazz', 'Blues', 'Soul']"
+1,Liestal,Karel-de-Matteis,2015-02-14,['Karel de Matteis '],['Pop']
+2,Birr,Valen-Dine,2015-02-14,"[' Christoph Baumann ', ' Thom Wettstein ', ' Eddie Miles Walker ', ' Tcha Simmons ']","['Jazz', 'Blues', 'Soul']"
+3,Z?rich,Internationales-Country-Music-Festival,2015-02-14,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,?sthetische-Kommunikation,2015-02-14,"[' Christine Simolka ', ' Anja Brezavek ', ' Igor Kombaratov ', ' Markus Stolz ']",['Classic']
+5,Arbon,Duo-Zismann-Fulgido,2015-02-14,"[' Michael Zismann ', ' Sebastien Fulgido ']","['world', 'music']"
+6,Z?rich,Valentine's-Musical-Dinner,2015-02-14,['Christian LaCava '],['Pop']
+7,Basel,Sulla-ruota-di-fortuna,2015-02-14,['Merit Eichhorn '],['Classic']
+8,Z?rich,Peter-Gabriel-Tribute,2015-02-14,"[' Daniel Rohr ', ' Bruno Amstad ', ' Anna Kaenzig ', ' Levin Deger ', ' Tobey Lucas ', ' George Vaine ']",['Pop']
+9,Z?rich,La-Biaba,2015-02-14,"[' Guillermo Copello ', ' Cristi?n Cort?s ', ' Simon Lagier ', ' Claudio Bergese ', ' Mariano Asato ', ' Mart?n Marino ', ' Lucas Querini ']","['world', 'music']"
+10,Z?rich,Simple-Minds,2015-02-14,"['Simple Minds ', ' Jim Kerr ', ' Charlie Burchill ', ' Mel Gaynor ', ' Andy Gillespie ', ' Ged Grimes ', ' Sarah Brown ']",['Pop']
+11,Lichtensteig,Linard-Bardill-&-Tubschlagb?nd,2015-02-14,"[' Michi Gertschen ', ' Gian Lorenz ', ' Tino Lorenz ', ' Peter Finc ']",['Pop']
+12,Z?rich,Divanhana,2015-02-14,"['Divanhana ', ' Leila Catic ', ' Neven Tunjic ', ' Nedzad Musovic ', ' Meho Radoovic ', ' Irfan Tahirovic ', ' Rifet Camdzic ']","['world', 'music']"
+13,Baden,4-You,2015-02-14,"[' Urs Haensler ', ' Christian Mosbeck ', ' Christof Zaugg ', ' Bea Schneider ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Winterthur,Sgt.-Monkey,2015-02-14,['Sgt. Monkey '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Thun,Mojo-T,2015-02-14,"['Peter Ti?che ', ' Mike Bischof ', ' Daniel Thomann ']","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Berg-&-Ruosch,2015-02-14,"[' Curdin Janett ', ' Dave Ruosch ', ' Lisa Berg ']",['Pop']
+17,Basel,Seven-Things-Trio,2015-02-14,"[' Dani Schenker ', ' Christoph Merki ', ' Klaus Koenig ', ' Patrick Sommer ', ' Andi Wettstein ']","['Jazz', 'Blues', 'Soul']"
+18,Z?rich,Alvvays,2015-02-14,"['Alvvays ', ' Moon King ']",['Pop']
+19,Aarau,L'?me-Immortelle,2015-02-14,"[""L'?me Immortelle "", ' Dolls Of Pain ']",['Electronic']
+20,Bern,Bluesterrier,2015-02-14,"[' David Barreto ', ' Chr?bu Kratzer ', ' St?ffu Oesch ', ' Michael Sulzer ', ' Raoul M?ller ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Winterthur,Austin-Lucas-&-Band,2015-02-14,"[' Band ', ' Aaron Persinger ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,M?nchenbuchsee,Shirley-Grimes,2015-02-14,['Shirley Grimes '],"['world', 'music']"
+23,Schaffhausen,Alice-Francis,2015-02-14,['Alice Francis '],"['Jazz', 'Blues', 'Soul']"
+24,Schaffhausen,Fifty-Million-Frenchmen,2015-02-14,"[' Stefan Kiss ', ' Gavin Maitland ', ' Urs Kunz ', ' Gregor Spitzer ']","['Jazz', 'Blues', 'Soul']"
+25,Basel,Port-Noir,2015-02-14,"['Port Noir ', ' Giant Sleep ', ' Arsonists ', ' Firemen ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Z?rich,Dave-Eleanor,2015-02-14,['Dave Eleanor '],['Electronic']
+27,Z?rich,Angel-Maria-Torres-y-sus-ultimos-Mamboleros,2015-02-14,"[' Angel Maria Torres ', ' Pedro Corazon ', ' Don Cedric Cerealis ', ' El Lobo Corredor ']","['world', 'music']"
+28,Basel,Zitral-feat.-DJ-Johny-Holiday,2015-02-14,['Zitral feat. DJ Johny Holiday '],"['Hip', 'Hop', ""R'n'B""]"
+29,null,Robin-Schulz,2015-02-14,"['Robin Schulz ', ' DJ Solvane ']",['Electronic']

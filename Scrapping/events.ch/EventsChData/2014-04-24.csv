@@ -1,27 +1,28 @@
-location,event,date,artists,genre
-Zürich,Karin-Streule-Band,2014-04-24,"[' Karin Streule ', ' Niklaus Mäder ', ' Mirco Häberli ', ' Andriu Maissen ']",
-Solothurn,Madball,2014-04-24,"['Madball ', ' Biohazard ', ' H2O ', ' Devil In Me ', ' Wisdom in Chains ']",
-Bern,Symphoniekonzert,2014-04-24,[' Soyoung Yoon '],Classic
-Zürich,Thursday-Night-Jazz,2014-04-24,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Zürich,100-Jahre-Hauptgebäude-der-Universität-Zürich,2014-04-24,[' Wolf Matthias Friedrich '],Classic
-Zürich,Drama-Emperor,2014-04-24,['Drama Emperor '],Pop
-Zürich,Sonar,2014-04-24,['Sonar '],Pop
-Bern,Mellow-Mark,2014-04-24,['Mellow Mark '],
-Zürich,Eric-Burdon-&-The-Animals,2014-04-24,['Eric Burdon & The Animals '],Pop
-Zürich,JJ-Grey-&-Mofro,2014-04-24,['JJ Grey & Mofro '],Pop
-Zürich,Elva-Bai-&-David-Ruosch-Band,2014-04-24,['Elva Bai & David Ruosch Band '],Pop
-Kloten,Pop-Music-With-Groove-Passion-and-Soul,2014-04-24,"[' Luzian Graber ', ' Joel D. Allison ']",Pop
-Basel,Dave-Specter's-Chicago-All-Stars-feat.-Lurrie-Bell,2014-04-24,"[""Dave Specter's Chicago All-Stars feat. Lurrie Bell ""]",
-Winterthur,Kissangwa-Mbouta,2014-04-24,['Kissangwa Mbouta '],
-Köniz,Lova-&-Band,2014-04-24,['Lova & Band '],Pop
-Zürich,Blitz-the-Ambassador,2014-04-24,"['Blitz the Ambassador ', ' Samuel Bazawule ', ' Alexis Hountondji ', ' Florian Fourlin ', ' Josiah Woodson ', ' Nicolas Bongrand ']",
-Basel,Laura-Stevenson,2014-04-24,['Laura Stevenson '],
-Solothurn,The-Sweet-Remains,2014-04-24,['The Sweet Remains '],
-Baden,JRP,2014-04-24,"[' Mirjam Harzenmoser ', ' Mathieu Friz ', ' Alex Merz ', ' Marius Meier ']",
-Lausanne,Augustines,2014-04-24,['Augustines '],
-Bern,Kevin-Seconds,2014-04-24,"['Kevin Seconds ', ' Louise Distras ']",
-Luzern,Nige-Bray,2014-04-24,['Nige Bray '],
-Bern,Kultur-for-Free,2014-04-24,['Junior '],
-Wetzikon,Dÿse,2014-04-24,['Dÿse '],
-Sankt-Gallen,Sleaford-Mods,2014-04-24,['Sleaford Mods '],
-Schaffhausen,Lisa-&-The-Lips,2014-04-24,['Lisa & The Lips '],
+,location,event,date,artists,genre
+0,Solothurn,Madball,2014-04-24,"['Madball ', ' Biohazard ', ' H2O ', ' Devil In Me ', ' Wisdom in Chains ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Z?rich,Karin-Streule-Band,2014-04-24,"[' Karin Streule ', ' Niklaus M?der ', ' Mirco H?berli ', ' Andriu Maissen ']","['Jazz', 'Blues', 'Soul']"
+2,Bern,Symphoniekonzert,2014-04-24,[' Soyoung Yoon '],['Classic']
+3,Z?rich,Thursday-Night-Jazz,2014-04-24,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+4,Z?rich,100-Jahre-Hauptgeb?ude-der-Universit?t-Z?rich,2014-04-24,[' Wolf Matthias Friedrich '],['Classic']
+5,Z?rich,Eric-Burdon-&-The-Animals,2014-04-24,[' The Animals '],['Pop']
+6,Z?rich,Sonar,2014-04-24,['Sonar '],['Pop']
+7,Bern,Mellow-Mark,2014-04-24,['Mellow Mark '],"['Hip', 'Hop', ""R'n'B""]"
+8,null,Survivors-of-Punk,2014-04-24,"['Snfu ', ' Ultra Bide ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,JJ-Grey-&-Mofro,2014-04-24,[' Mofro '],['Pop']
+10,Z?rich,Drama-Emperor,2014-04-24,['Drama Emperor '],['Pop']
+11,Basel,Dave-Specter's-Chicago-All-Stars-feat.-Lurrie-Bell,2014-04-24,"[""Dave Specter's Chicago All-Stars feat. Lurrie Bell ""]","['Jazz', 'Blues', 'Soul']"
+12,Kloten,Pop-Music-With-Groove-Passion-and-Soul,2014-04-24,"[' Luzian Graber ', ' Joel D. Allison ']",['Pop']
+13,Winterthur,Kissangwa-Mbouta,2014-04-24,['Kissangwa Mbouta '],"['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Elva-Bai-&-David-Ruosch-Band,2014-04-24,[' David Ruosch Band '],['Pop']
+15,K?niz,Lova-&-Band,2014-04-24,[' Band '],['Pop']
+16,Z?rich,Blitz-the-Ambassador,2014-04-24,"['Blitz the Ambassador ', ' Samuel Bazawule ', ' Alexis Hountondji ', ' Florian Fourlin ', ' Josiah Woodson ', ' Nicolas Bongrand ']","['Hip', 'Hop', ""R'n'B""]"
+17,Bern,Kevin-Seconds,2014-04-24,"['Kevin Seconds ', ' Louise Distras ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Basel,Laura-Stevenson,2014-04-24,['Laura Stevenson '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Baden,JRP,2014-04-24,"[' Mirjam Harzenmoser ', ' Mathieu Friz ', ' Alex Merz ', ' Marius Meier ']","['Jazz', 'Blues', 'Soul']"
+20,Solothurn,The-Sweet-Remains,2014-04-24,['The Sweet Remains '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Lausanne,Augustines,2014-04-24,['Augustines '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Wetzikon,D?se,2014-04-24,['D?se '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Bern,Kultur-for-Free,2014-04-24,['Junior '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Luzern,Nige-Bray,2014-04-24,['Nige Bray '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Sankt-Gallen,Sleaford-Mods,2014-04-24,['Sleaford Mods '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Schaffhausen,Lisa-&-The-Lips,2014-04-24,[' The Lips '],"['Hip', 'Hop', ""R'n'B""]"

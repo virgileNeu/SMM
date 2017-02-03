@@ -1,54 +1,55 @@
-location,event,date,artists,genre
-Baden,Matinée,2014-11-21,"[' Ilya Gringolts ', ' Anahit Kurtikyan ', ' Silvia Simionescu ', ' Claudius Herrmann ']",Classic
-Basel,Orgelspiel-zum-Feierabend,2014-11-21,['Susanne Doll '],Classic
-Dietikon,Feierabendmusik-in-der-Kirche,2014-11-21,"['Adrian Mülhauser ', ' Bernhard Hörler ']",Classic
-Zug,Fragmente,2014-11-21,"[' K. Szamatulsk ', ' R. Morat ', ' V. Wahl ', ' V. Hasler ', ' J. Pacheco ', ' C. Boner ', ' conductor: Marcos A. G. Gonzales ', ' Steffen Link ']",Classic
-Baden,Feuervogel,2014-11-21,[' Hisako Kawamura '],Classic
-Olten,Kammerorchester-Basel,2014-11-21,"[' Vilde Frang ', ' Nils Mönkemeyer ']",Classic
-Zürich,Öffentliches-Konzert-in-der-Mühlehalde,2014-11-21,['Conny Cornelia Mulawarma '],Classic
-Zürich,Konzert,2014-11-21,[' Renaud Capuçon '],Classic
-Zürich,Emiliana-Torrini,2014-11-21,['Emiliana Torrini '],Pop
-Hägglingen,Fiddler-on-the-Roof,2014-11-21,[' David Schnee '],Classic
-Basel,Annett-Louisan,2014-11-21,['Annett Louisan '],Pop
-null,Future-of-the-Left,2014-11-21,"[' We Are The Incredible Noise ', ' The Disgrazia Legend ']",Electronic
-Zürich,Protokoll-einer-Disko,2014-11-21,['Anna Mateur & The Beuys '],Pop
-Baden,Dennerclan,2014-11-21,[' I Wanna Surf '],
-null,Elvis-The-Show,2014-11-21,['Rio feat. The Tennessee Orchestra & The Vegas Choir '],
-Zürich,La-Paranza-del-Geco,2014-11-21,['La Paranza del Geco '],
-Dübendorf,Belle-Affaire,2014-11-21,"[' Kathrin Künzi ', ' Katrin Wüthrich ', ' David Zopfi ', ' Pirmin Setz ']",
-Zürich,The-Hot-Club-of-Wädenswil,2014-11-21,"[' Erich Nussbaum ', ' Pete Kubryk-Townsend ', ' Stef Veyre ']",
-null,Lasting-Traces,2014-11-21,['Lasting Traces '],
-Rheinfelden,R-&-B-Caravan,2014-11-21,"[' Tom Müller ', ' Dave Ruosch ', ' Dani Gugolz ']",
-Luzern,Unter-dem-Kronleuchter,2014-11-21,"[' Despina Corazza ', ' Brian Boy ']",
-Zürich,Machine-Head,2014-11-21,"['Machine Head ', ' Devil You Know ', ' Darkest Hour ']",
-Bern,Hymns-&-Prayers-Chorkonzert,2014-11-21,[' Irene Myrtle Forrester '],Classic
-Zürich,Carols-&-Lullabies,2014-11-21,"[' Sarah Maeder ', ' Xenia Schindler ']",Classic
-Zürich,Tango-Bar,2014-11-21,"[' Roland Senft ', ' Roberto Francomano ', ' Carla Claros ', ' Ivan Denes ']",
-null,Vitello-Tonnato-&-The-Roaring-Zucchinis,2014-11-21,['Vitello Tonnato & The Roaring Zucchinis '],
-Luzern,Klaxons,2014-11-21,['Klaxons '],
-Mels,The-Pearlbreakers,2014-11-21,['The Pearlbreakers '],Pop
-Zürich,Hug-Wassermann-&-Berther-Graf,2014-11-21,"[' Charlotte Hug ', ' Ute Wassermann ', ' Martina Berther ', ' Béatrice Graf ']",
-Dietikon,Kammermusikkonzert,2014-11-21,"['Andreas Janke ', ' Noémi Rufer Zumstein ', ' Ryszard Groblewski ', ' Yi-Chen Lin ', ' Benjamin Nyffenegger ']",Classic
-Basel,Misa-Tango-a-Buenos-Aires,2014-11-21,[' Debora Büttner '],Classic
-Basel,Herbie-Tsoaeli-Quintet,2014-11-21,"[' Matthias Spillmann ', ' Ganesh Geymeier ', ' Andreas Tschopp ', ' Herbie Tsoaeli ', ' Ayanda Sikade ']",
-Uster,Lucky-Nuts,2014-11-21,"[' Marco Bäumer ', ' Jürgen Petzold ', ' Tobia Roth ', ' Christian Wyss ', ' David Erd ', ' Max Stauber ']",Pop
-Zürich,The-Beauty-Of-Gemina,2014-11-21,"[' Michael Sele ', ' Marco Gassner ', ' Andreas Zuber ', ' Mac Vinzens ']",
-Bern,Saint-Ghetto,2014-11-21,"['Ben Frost ', ' Wildbirds & Peacedrums ', ' Anika ']",Electronic
-Solothurn,Paravent,2014-11-21,"['Barbara Wörsching ', ' Ulrike Fritsch ', ' Johannes Rösch ', ' Beat Schenk ']",
-Liebefeld,Jean-Paul-Brodbeck-Trio,2014-11-21,"[' Jean-Paul Brodbeck ', ' Matthias Pichler ', ' Andreas Pichler ']",
-Zürich,Milonga,2014-11-21,"[' Barbara Varassi Pega ', ' Gerardo Agnese ', ' Virgilio Monti ', ' Vincenzo Albini ', ' Ruben Peloni ']",
-Nidau,Hank-Shizzoe-Trio,2014-11-21,"[' Simon Baumann ', ' Tom Etter ', ' Hank Shizzoe ']",
-Bern,Thomas-Aeschbacher-feat.-7-Weggefährten,2014-11-21,['Thomas Aeschbacher feat. 7 Weggefährten '],traditional
-null,Giovanni-Mirabassi-Trio,2014-11-21,"['Giovanni Mirabassi Trio ', ' Giovanni Mirabassi ', ' Gianluca Renzi ', ' Lukmil Perez ']",
-Solothurn,Marek-Hemmann,2014-11-21,['Marek Hemmann '],Electronic
-Lausanne,Jungle,2014-11-21,['Jungle '],Electronic
-Oberentfelden,Madball,2014-11-21,"['Madball ', ' Last Hope ']",
-Lenzburg,Ueli-und-die-Knechte,2014-11-21,"[' Uele Baumgartner ', ' Selina Baumgartner ', ' Rolf Bucher ']",Pop
-Luzern,Talking-to-Turtles,2014-11-21,['Talking to Turtles '],
-Basel,Freitagsbar,2014-11-21,"[' Andrea Nydegger ', ' Christoph Huber ', ' Sebastian Hirsig ', ' Pau Lligadas ', ' Flurin Mück ']",
-Vevey,Laetitia-Sadier,2014-11-21,['Laetitia Sadier '],
-Basel,Tropical-Night,2014-11-21,['DJ Kad '],
-Uster,Dan-Reed,2014-11-21,['Dan Reed '],
-Basel,Unbrauchbar-Fest,2014-11-21,"['Cellophane Suckers ', ' Max Power ', ' Injured List ']",
-Zürich,Latin-Touch,2014-11-21,[' dance animation by Alexander Martinez '],
-Bern,Afrique-m'bi-fé,2014-11-21,"['Yoro Massa ', ' Djam Rekk Sound DJ-Kollektiv ']",
+,location,event,date,artists,genre
+0,Baden,Matin?e,2014-11-21,"[' Ilya Gringolts ', ' Anahit Kurtikyan ', ' Silvia Simionescu ', ' Claudius Herrmann ']",['Classic']
+1,Basel,Orgelspiel-zum-Feierabend,2014-11-21,['Susanne Doll '],['Classic']
+2,Dietikon,Feierabendmusik-in-der-Kirche,2014-11-21,"['Adrian M?lhauser ', ' Bernhard H?rler ']",['Classic']
+3,Zug,Fragmente,2014-11-21,"[' K. Szamatulsk ', ' R. Morat ', ' V. Wahl ', ' V. Hasler ', ' J. Pacheco ', ' C. Boner ', ' conductor: Marcos A. G. Gonzales ', ' Steffen Link ']",['Classic']
+4,H?gglingen,Fiddler-on-the-Roof,2014-11-21,[' David Schnee '],['Classic']
+5,Baden,Feuervogel,2014-11-21,[' Hisako Kawamura '],['Classic']
+6,Olten,Kammerorchester-Basel,2014-11-21,"[' Vilde Frang ', ' Nils M?nkemeyer ']",['Classic']
+7,Z?rich,?ffentliches-Konzert-in-der-M?hlehalde,2014-11-21,['Conny Cornelia Mulawarma '],['Classic']
+8,Z?rich,Emiliana-Torrini,2014-11-21,['Emiliana Torrini '],['Pop']
+9,Z?rich,Konzert,2014-11-21,[' Renaud Capu?on '],['Classic']
+10,Basel,Annett-Louisan,2014-11-21,['Annett Louisan '],['Pop']
+11,Z?rich,Carols-&-Lullabies,2014-11-21,"[' Sarah Maeder ', ' Xenia Schindler ']",['Classic']
+12,Bern,Hymns-&-Prayers-Chorkonzert,2014-11-21,[' Irene Myrtle Forrester '],['Classic']
+13,Z?rich,Protokoll-einer-Disko,2014-11-21,[' The Beuys '],['Pop']
+14,Luzern,Unter-dem-Kronleuchter,2014-11-21,"[' Despina Corazza ', ' Brian Boy ']","['Hip', 'Hop', ""R'n'B""]"
+15,Luzern,Klaxons,2014-11-21,['Klaxons '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Luzern,Klaxons,2014-11-21,['Klaxons '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,null,Elvis-The-Show,2014-11-21,[' The Vegas Choir '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,null,Vitello-Tonnato-&-The-Roaring-Zucchinis,2014-11-21,[' The Roaring Zucchinis '],"['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Tango-Bar,2014-11-21,"[' Roland Senft ', ' Roberto Francomano ', ' Carla Claros ', ' Ivan Denes ']","['world', 'music']"
+20,null,Lasting-Traces,2014-11-21,['Lasting Traces '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Baden,Dennerclan,2014-11-21,[' I Wanna Surf '],"['Hip', 'Hop', ""R'n'B""]"
+22,null,Future-of-the-Left,2014-11-21,"[' We Are The Incredible Noise ', ' The Disgrazia Legend ']",['Electronic']
+23,Z?rich,La-Paranza-del-Geco,2014-11-21,['La Paranza del Geco '],"['world', 'music']"
+24,D?bendorf,Belle-Affaire,2014-11-21,"[' Kathrin K?nzi ', ' Katrin W?thrich ', ' David Zopfi ', ' Pirmin Setz ']","['world', 'music']"
+25,Z?rich,Machine-Head,2014-11-21,"['Machine Head ', ' Devil You Know ', ' Darkest Hour ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Rheinfelden,R-&-B-Caravan,2014-11-21,"[' Tom M?ller ', ' Dave Ruosch ', ' Dani Gugolz ']","['Jazz', 'Blues', 'Soul']"
+27,Z?rich,The-Hot-Club-of-W?denswil,2014-11-21,"[' Erich Nussbaum ', ' Pete Kubryk-Townsend ', ' Stef Veyre ']","['world', 'music']"
+28,Mels,The-Pearlbreakers,2014-11-21,['The Pearlbreakers '],['Pop']
+29,Basel,Misa-Tango-a-Buenos-Aires,2014-11-21,[' Debora B?ttner '],['Classic']
+30,Dietikon,Kammermusikkonzert,2014-11-21,"['Andreas Janke ', ' No?mi Rufer Zumstein ', ' Ryszard Groblewski ', ' Yi-Chen Lin ', ' Benjamin Nyffenegger ']",['Classic']
+31,Z?rich,Hug-Wassermann-&-Berther-Graf,2014-11-21,"[' Charlotte Hug ', ' Ute Wassermann ', ' Martina Berther ', ' B?atrice Graf ']","['Jazz', 'Blues', 'Soul']"
+32,Bern,Thomas-Aeschbacher-feat.-7-Weggef?hrten,2014-11-21,['Thomas Aeschbacher feat. 7 Weggef?hrten '],['traditional']
+33,Bern,Saint-Ghetto,2014-11-21,"[' Peacedrums ', ' Anika ']",['Electronic']
+34,Solothurn,Paravent,2014-11-21,"['Barbara W?rsching ', ' Ulrike Fritsch ', ' Johannes R?sch ', ' Beat Schenk ']","['world', 'music']"
+35,Uster,Lucky-Nuts,2014-11-21,"[' Marco B?umer ', ' J?rgen Petzold ', ' Tobia Roth ', ' Christian Wyss ', ' David Erd ', ' Max Stauber ']",['Pop']
+36,Liebefeld,Jean-Paul-Brodbeck-Trio,2014-11-21,"[' Jean-Paul Brodbeck ', ' Matthias Pichler ', ' Andreas Pichler ']","['Jazz', 'Blues', 'Soul']"
+37,Z?rich,Milonga,2014-11-21,"[' Barbara Varassi Pega ', ' Gerardo Agnese ', ' Virgilio Monti ', ' Vincenzo Albini ', ' Ruben Peloni ']","['world', 'music']"
+38,Basel,Herbie-Tsoaeli-Quintet,2014-11-21,"[' Matthias Spillmann ', ' Ganesh Geymeier ', ' Andreas Tschopp ', ' Herbie Tsoaeli ', ' Ayanda Sikade ']","['Jazz', 'Blues', 'Soul']"
+39,Nidau,Hank-Shizzoe-Trio,2014-11-21,"[' Simon Baumann ', ' Tom Etter ', ' Hank Shizzoe ']","['world', 'music']"
+40,Z?rich,The-Beauty-Of-Gemina,2014-11-21,"[' Michael Sele ', ' Marco Gassner ', ' Andreas Zuber ', ' Mac Vinzens ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+41,Lenzburg,Ueli-und-die-Knechte,2014-11-21,"[' Uele Baumgartner ', ' Selina Baumgartner ', ' Rolf Bucher ']",['Pop']
+42,Basel,Freitagsbar,2014-11-21,"[' Andrea Nydegger ', ' Christoph Huber ', ' Sebastian Hirsig ', ' Pau Lligadas ', ' Flurin M?ck ']","['Jazz', 'Blues', 'Soul']"
+43,Oberentfelden,Madball,2014-11-21,"['Madball ', ' Last Hope ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+44,null,Giovanni-Mirabassi-Trio,2014-11-21,"['Giovanni Mirabassi Trio ', ' Giovanni Mirabassi ', ' Gianluca Renzi ', ' Lukmil Perez ']","['Jazz', 'Blues', 'Soul']"
+45,Solothurn,Marek-Hemmann,2014-11-21,['Marek Hemmann '],['Electronic']
+46,Lausanne,Jungle,2014-11-21,['Jungle '],['Electronic']
+47,Luzern,Talking-to-Turtles,2014-11-21,['Talking to Turtles '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+48,Vevey,Laetitia-Sadier,2014-11-21,['Laetitia Sadier '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+49,Z?rich,Latin-Touch,2014-11-21,[' dance animation by Alexander Martinez '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+50,Uster,Dan-Reed,2014-11-21,['Dan Reed '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+51,Basel,Unbrauchbar-Fest,2014-11-21,"['Cellophane Suckers ', ' Max Power ', ' Injured List ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+52,Basel,Tropical-Night,2014-11-21,['DJ Kad '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+53,Bern,Afrique-m'bi-f?,2014-11-21,"['Yoro Massa ', ' Djam Rekk Sound DJ-Kollektiv ']","['Hip', 'Hop', ""R'n'B""]"

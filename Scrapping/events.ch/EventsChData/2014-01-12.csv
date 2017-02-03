@@ -1,23 +1,23 @@
-location,event,date,artists,genre
-Winterthur,Dutch-Swing-College-Band-feat.-Margriet-Sjoerdsma,2014-01-12,['Dutch Swing College Band feat. Margriet Sjoerdsma '],
-Aarau,Winterspiele,2014-01-12,[' Robert Pickup '],Classic
-Bern,Matinée:-Histoire-du-soldat-&-Shoulder-Arms,2014-01-12,"['Heidi Maria Glössner ', ' Michaela Paetsch ', ' Junko Otani ', ' Wieslaw Pipczynski ']",Classic
-Zürich,Grenzen,2014-01-12,"['Elisabeth Harringer-Pignat ', ' David Greenlees ', ' Alexander Neustroev ', ' Claudia Dischl ']",Classic
-Basel,Orgel-und-Kammermusik,2014-01-12,"['Isabelle Schnöller ', ' Gail Makar ', ' Susanne Jenne-Linde ']",Classic
-Dürnten,Konzert-zum-neuen-Jahr,2014-01-12,"['Othmar Mächler ', ' Regula Wylenmann ', ' Urs Hofstetter ', ' Marcel Hirsiger ', ' Heiner Wanner ']",Classic
-Winterthur,Sérénade-Romantique,2014-01-12,"['Jun Onaka ', ' Armon Stecher ']",Classic
-null,10-Jahre-Klangzauber,2014-01-12,"['Noëlle Grüebler ', ' Jonas Kreienbühl ', ' Andrea Wiesli ']",Classic
-Zürich,The-5th-Zurich-Choir-Proms,2014-01-12,"[' Christina Daletska ', ' Ivo Gass ', ' Mischa Greull ', ' Karl Fässler ', ' Paulo Muñoz-Toledo ']",Classic
--Alte-Kirche,Boswil,2014-01-12,"['Carolin Widmann ', ' Oliver Darbellay ', ' Konstantin Lifschitz ']",Classic
-Bern,Histoire-du-soldat-&-Mani-Matter,2014-01-12,"['Heidi Maria Glössner ', ' Michaela Paetsch ', ' Junko Otani ', ' Wieslaw Pipczynski ']",Classic
-null,Russisches-Neujahrskonzert,2014-01-12,"['Igor Morosow ', ' Sergey Mushtakoff ', ' Alexey Lavrentyev ']",
-Basel,Literaturkonzert,2014-01-12,"['Leslie Leon ', ' Miriam Terragni ', ' Catherine Sarasin ', ' Balz Trümpy ']",Classic
-Zürich,Opera-Box-L'île-de-Tulipatan-&-Monsieur-Choufleury,2014-01-12,"[' Andrea Suter ', ' Chelsey Schill ', ' Maja Hermann ', ' Raimund Wiederkehr ', ' Erich Bieri ']",Classic
-Zürich,Starch,2014-01-12,"[' Simon Winiger ', ' Christian Käufeler ', ' Pascal Nägeli ', ' Andreas Tschopp ', ' Benjamin Stalder ']",
-Luzern,Alessandro-d'Episcopo-Trio,2014-01-12,"["" Alessandro d'Episcopo "", ' Hämi Hämmerli ', ' Elmar Frey ']",
-Zürich,Maria-Doyle-Kennedy-&-Kieran-Kennedy,2014-01-12,['Maria Doyle Kennedy & Kieran Kennedy '],
-Zürich,Bach-versus-Mozart,2014-01-12,['Bernhard Gfrerer '],Classic
-Winterthur,Peter-Maurer's-Helveticana,2014-01-12,[' Peter Maurer '],
-Baden,Konzert,2014-01-12,['Oliver Schnyder '],Classic
-Luzern,Apache-&-Glitz,2014-01-12,['Apache & Glitz '],
-Bern,Gipsy-Rufina,2014-01-12,['Gipsy Rufina '],
+,location,event,date,artists,genre
+0,Winterthur,Dutch-Swing-College-Band-feat.-Margriet-Sjoerdsma,2014-01-12,['Dutch Swing College Band feat. Margriet Sjoerdsma '],"['Jazz', 'Blues', 'Soul']"
+1,Aarau,Winterspiele,2014-01-12,[' Robert Pickup '],['Classic']
+2,Bern,Matin?e:-Histoire-du-soldat-&-Shoulder-Arms,2014-01-12,"['Heidi Maria Gl?ssner ', ' Michaela Paetsch ', ' Junko Otani ', ' Wieslaw Pipczynski ']",['Classic']
+3,Z?rich,Grenzen,2014-01-12,"['Elisabeth Harringer-Pignat ', ' David Greenlees ', ' Alexander Neustroev ', ' Claudia Dischl ']",['Classic']
+4,Z?rich,The-5th-Zurich-Choir-Proms,2014-01-12,"[' Christina Daletska ', ' Ivo Gass ', ' Mischa Greull ', ' Karl F?ssler ', ' Paulo Mu?oz-Toledo ']",['Classic']
+5,Basel,Orgel-und-Kammermusik,2014-01-12,"['Isabelle Schn?ller ', ' Gail Makar ', ' Susanne Jenne-Linde ']",['Classic']
+6,Basel,Literaturkonzert,2014-01-12,"['Leslie Leon ', ' Miriam Terragni ', ' Catherine Sarasin ', ' Balz Tr?mpy ']",['Classic']
+7,D?rnten,Konzert-zum-neuen-Jahr,2014-01-12,"['Othmar M?chler ', ' Regula Wylenmann ', ' Urs Hofstetter ', ' Marcel Hirsiger ', ' Heiner Wanner ']",['Classic']
+8,Winterthur,S?r?nade-Romantique,2014-01-12,"['Jun Onaka ', ' Armon Stecher ']",['Classic']
+9,Bern,Histoire-du-soldat-&-Mani-Matter,2014-01-12,"['Heidi Maria Gl?ssner ', ' Michaela Paetsch ', ' Junko Otani ', ' Wieslaw Pipczynski ']",['Classic']
+10,null,10-Jahre-Klangzauber,2014-01-12,"['No?lle Gr?ebler ', ' Jonas Kreienb?hl ', ' Andrea Wiesli ']",['Classic']
+11,-Alte-Kirche,Boswil,2014-01-12,"['Carolin Widmann ', ' Oliver Darbellay ', ' Konstantin Lifschitz ']",['Classic']
+12,null,Russisches-Neujahrskonzert,2014-01-12,"['Igor Morosow ', ' Sergey Mushtakoff ', ' Alexey Lavrentyev ']","['world', 'music']"
+13,Z?rich,Opera-Box-L'?le-de-Tulipatan-&-Monsieur-Choufleury,2014-01-12,"[' Andrea Suter ', ' Chelsey Schill ', ' Maja Hermann ', ' Raimund Wiederkehr ', ' Erich Bieri ']",['Classic']
+14,Luzern,Alessandro-d'Episcopo-Trio,2014-01-12,"["" Alessandro d'Episcopo "", ' H?mi H?mmerli ', ' Elmar Frey ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Starch,2014-01-12,"[' Simon Winiger ', ' Christian K?ufeler ', ' Pascal N?geli ', ' Andreas Tschopp ', ' Benjamin Stalder ']","['Hip', 'Hop', ""R'n'B""]"
+16,Z?rich,Maria-Doyle-Kennedy-&-Kieran-Kennedy,2014-01-12,[' Kieran Kennedy '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Baden,Konzert,2014-01-12,['Oliver Schnyder '],['Classic']
+18,Winterthur,Peter-Maurer's-Helveticana,2014-01-12,[' Peter Maurer '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Z?rich,Bach-versus-Mozart,2014-01-12,['Bernhard Gfrerer '],['Classic']
+20,Luzern,Apache-&-Glitz,2014-01-12,[' Glitz '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Bern,Gipsy-Rufina,2014-01-12,['Gipsy Rufina '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

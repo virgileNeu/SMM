@@ -1,17 +1,17 @@
-location,event,date,artists,genre
-Luzern,Firehouse-Six-Plus-One,2013-02-17,"[' Alexander Etter ', ' Werner Gisin ', ' Henry Bodmer ', ' George Dormanowski ', ' Paul Fatzer ', ' Kurt Baer ', ' Rolf Baer ']",
-Zürich,La-lingua-italiana-nell'opera-in-musica,2013-02-17,"['Giancarlo Prossimo ', ' Barbara Fuchs ']",Classic
-null,International-Piano-Series,2013-02-17,['Khatia Buniatishvili '],Classic
-Zollikerberg,Französische-und-deutsche-Musik-aus-der-Zeit-des-Barock,2013-02-17,"['Walter Luginbühl ', ' Chistof Mohr ', ' Margrit Brincken-Schuler ']",Classic
-null,Kyle-Shepherd,2013-02-17,['Kyle Shepherd '],
--Alte-Kirche,Boswil,2013-02-17,['Alexei Volodin '],Classic
-Schneisingen,Ensemble-Panflini,2013-02-17,"[' Prisca ', ' Ruedi Jaisli ', ' Bernhard Hörler ']",
-Komplex-457,Zürich,2013-02-17,['Amy Macdonald '],
-Zürich,Ladylike-Lily,2013-02-17,"['Ladylike Lily ', ' Orianne Marsilli ', ' Loïg Nguyen ', ' Yoann Buffeteau ', ' Pierre Marolleau ']",Pop
-Jona,Quintett-Ikarus,2013-02-17,"[' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Moritz Meyer ', ' Ramón Oliveras ']",
-Mascotte,Zürich,2013-02-17,"['Friska Viljor ', ' support: Soma ']",
-Feuerthalen,Franceporter,2013-02-17,"['Franceporter ', ' Francis Lehmann ', ' Jonas Ruther ', ' Raphael Walser ']",
-Winterthur,Rea-Som,2013-02-17,"[' Rea Hunziker ', ' Nino Wenger ', ' Sebastian Pietrowiak ', ' Gianluca Giger ', ' Freddy Benitez ']",
-Zürich,Glen-Hansard,2013-02-17,['Glen Hansard '],Pop
-null,Lucy-Rose,2013-02-17,['Lucy Rose '],
-Zürich,Steve-Wynn,2013-02-17,['Steve Wynn '],Pop
+,location,event,date,artists,genre
+0,Luzern,Firehouse-Six-Plus-One,2013-02-17,"[' Alexander Etter ', ' Werner Gisin ', ' Henry Bodmer ', ' George Dormanowski ', ' Paul Fatzer ', ' Kurt Baer ', ' Rolf Baer ']","['Jazz', 'Blues', 'Soul']"
+1,Zürich,La-lingua-italiana-nell'opera-in-musica,2013-02-17,"['Giancarlo Prossimo ', ' Barbara Fuchs ']",['Classic']
+2,Schneisingen,Ensemble-Panflini,2013-02-17,"[' Prisca ', ' Ruedi Jaisli ', ' Bernhard Hörler ']","['world', 'music']"
+3,null,International-Piano-Series,2013-02-17,['Khatia Buniatishvili '],['Classic']
+4,null,Kyle-Shepherd,2013-02-17,['Kyle Shepherd '],"['Jazz', 'Blues', 'Soul']"
+5,Zollikerberg,Französische-und-deutsche-Musik-aus-der-Zeit-des-Barock,2013-02-17,"['Walter Luginbühl ', ' Chistof Mohr ', ' Margrit Brincken-Schuler ']",['Classic']
+6,-Alte-Kirche,Boswil,2013-02-17,['Alexei Volodin '],['Classic']
+7,Komplex-457,Zürich,2013-02-17,['Amy Macdonald '],"['Amy', 'Macdonald']"
+8,Jona,Quintett-Ikarus,2013-02-17,"[' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Moritz Meyer ', ' Ramón Oliveras ']","['Jazz', 'Blues', 'Soul']"
+9,Zürich,Ladylike-Lily,2013-02-17,"['Ladylike Lily ', ' Orianne Marsilli ', ' Loïg Nguyen ', ' Yoann Buffeteau ', ' Pierre Marolleau ']",['Pop']
+10,Feuerthalen,Franceporter,2013-02-17,"['Franceporter ', ' Francis Lehmann ', ' Jonas Ruther ', ' Raphael Walser ']","['Jazz', 'Blues', 'Soul']"
+11,Winterthur,Rea-Som,2013-02-17,"[' Rea Hunziker ', ' Nino Wenger ', ' Sebastian Pietrowiak ', ' Gianluca Giger ', ' Freddy Benitez ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Mascotte,Zürich,2013-02-17,"['Friska Viljor ', ' support: Soma ']","['Friska', 'Viljor']"
+13,null,Lucy-Rose,2013-02-17,['Lucy Rose '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Zürich,Glen-Hansard,2013-02-17,['Glen Hansard '],['Pop']
+15,Zürich,Steve-Wynn,2013-02-17,['Steve Wynn '],['Pop']

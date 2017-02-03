@@ -1,22 +1,22 @@
-location,event,date,artists,genre
-Winterthur,PVC-Prag-Vienna-Connection,2014-04-06,['PVC Prag-Vienna Connection '],
-null,5.-Kammerkonzert,2014-04-06,"['Ionut-Daniel Stanciu ', ' Clément Boudrant ', ' Brigitte Fatton ']",Classic
-Heerbrugg,Blues-und-Jazz-Tage,2014-04-06,['Connie Harvey '],
-Luzern,Orgel-&-Trompete,2014-04-06,"['Reinhold Friedrich ', ' Martin Lücker ']",Classic
-Basel,AMG-Sonntagsmatineen,2014-04-06,[' Gabor Boldoczki '],Classic
-Zürich,Wahlverwandtschaften,2014-04-06,"['Stefa Wirth ', ' Elisabeth Harringer-Pignat ', ' David Greenlees ', ' Kamil Losiewicz ', ' Raphael Camenisch ', ' Heinz Saurer ', ' Seth Quistad ', ' Viviane Chassot ', ' Andreas Berger ']",Classic
-Zürich,Kammerkonzert,2014-04-06,"['Robert Pickup ', ' Philip Mahrenholz ', ' Glen Borling ', ' Anne Gerstenberger ', ' Sebastian Wienand ']",Classic
-Luzern,Gedenkkonzert-zu-Ehren-von-Claudio-Abbado,2014-04-06,"[' Isabelle Faust ', ' Bruno Ganz ']",Classic
-Pieterlen,Folk-in-Heaven,2014-04-06,['Loren & Mark '],
-Winterthur,In-Guitar-Winterthur,2014-04-06,"['Julia Malischnig & Ingrid Oberkanins ', ' Julia Malischnig ', ' Ingrid Oberkanins ']",
-Uerikon,3-x-Romantik,2014-04-06,"[' Praxedis Geneviève Hug ', ' Jürg Fehr ', ' Heiner Wanner ']",Classic
-null,Jahreskonzert-Sing'n'Swing,2014-04-06,[' Gregor Kissling '],
-Basel,Begegnung-mit-Musik,2014-04-06,"[' Emilie Haudenschild ', ' Monika Clemann ', ' David Lauri ']",Classic
-Cully,Cully-Jazz,2014-04-06,"['Cody Chesnutt ', ' Alex Massmaedia ', ' Antoinious Thomas ', ' Tim Sandiford ', ' Samuel Odiwe ', ' Dan Bingham ', ' Michael Osbourne ']",
-Zürich,ewz.unplugged,2014-04-06,"['Patti Smith ', ' Patti Smith ', ' Jackson Smith ', ' Tony Shanahan ']",
-Zürich,Susheela-Raman-Quartet,2014-04-06,"[' Susheela Raman ', ' Sam Mills ', ' Kutle Khan ', ' Nathoo Lal Solanki ']",
-Basel,Heinelieder-Carte-blanche-für-Roland-Moser,2014-04-06,"['Anne-May Krüger ', ' Anton Kernjak ', ' Daniel Fueter ']",Classic
-Cully,Cully-Jazz,2014-04-06,"['Ruthie Foster ', ' Samantha Banks ', ' Larry Fulcher ']",
-Thun,Sebastian-Arnold,2014-04-06,['Sebastian Arnold '],Electronic
-Zürich,Paragone-d'archi,2014-04-06,"[' Charlotte Hug ', ' Stefano Pastor ']",
-Bern,Joan-as-Policewoman,2014-04-06,['Joan as Policewoman '],Pop
+,location,event,date,artists,genre
+0,Winterthur,PVC-Prag-Vienna-Connection,2014-04-06,['PVC Prag-Vienna Connection '],"['Jazz', 'Blues', 'Soul']"
+1,Basel,AMG-Sonntagsmatineen,2014-04-06,[' Gabor Boldoczki '],['Classic']
+2,Luzern,Orgel-&-Trompete,2014-04-06,"['Reinhold Friedrich ', ' Martin L?cker ']",['Classic']
+3,Heerbrugg,Blues-und-Jazz-Tage,2014-04-06,['Connie Harvey '],"['world', 'music']"
+4,null,5.-Kammerkonzert,2014-04-06,"['Ionut-Daniel Stanciu ', ' Cl?ment Boudrant ', ' Brigitte Fatton ']",['Classic']
+5,Z?rich,Kammerkonzert,2014-04-06,"['Robert Pickup ', ' Philip Mahrenholz ', ' Glen Borling ', ' Anne Gerstenberger ', ' Sebastian Wienand ']",['Classic']
+6,Z?rich,Wahlverwandtschaften,2014-04-06,"['Stefa Wirth ', ' Elisabeth Harringer-Pignat ', ' David Greenlees ', ' Kamil Losiewicz ', ' Raphael Camenisch ', ' Heinz Saurer ', ' Seth Quistad ', ' Viviane Chassot ', ' Andreas Berger ']",['Classic']
+7,Luzern,Gedenkkonzert-zu-Ehren-von-Claudio-Abbado,2014-04-06,"[' Isabelle Faust ', ' Bruno Ganz ']",['Classic']
+8,Winterthur,In-Guitar-Winterthur,2014-04-06,"[' Ingrid Oberkanins ', ' Julia Malischnig ', ' Ingrid Oberkanins ']","['Hip', 'Hop', ""R'n'B""]"
+9,Uerikon,3-x-Romantik,2014-04-06,"[' Praxedis Genevi?ve Hug ', ' J?rg Fehr ', ' Heiner Wanner ']",['Classic']
+10,Pieterlen,Folk-in-Heaven,2014-04-06,[' Mark '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Basel,Begegnung-mit-Musik,2014-04-06,"[' Emilie Haudenschild ', ' Monika Clemann ', ' David Lauri ']",['Classic']
+12,null,Jahreskonzert-Sing'n'Swing,2014-04-06,[' Gregor Kissling '],"['Jazz', 'Blues', 'Soul']"
+13,Cully,Cully-Jazz,2014-04-06,"['Cody Chesnutt ', ' Alex Massmaedia ', ' Antoinious Thomas ', ' Tim Sandiford ', ' Samuel Odiwe ', ' Dan Bingham ', ' Michael Osbourne ']","['Jazz', 'Blues', 'Soul']"
+14,Z?rich,ewz.unplugged,2014-04-06,"['Patti Smith ', ' Patti Smith ', ' Jackson Smith ', ' Tony Shanahan ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Basel,Heinelieder-Carte-blanche-f?r-Roland-Moser,2014-04-06,"['Anne-May Kr?ger ', ' Anton Kernjak ', ' Daniel Fueter ']",['Classic']
+16,Z?rich,Susheela-Raman-Quartet,2014-04-06,"[' Susheela Raman ', ' Sam Mills ', ' Kutle Khan ', ' Nathoo Lal Solanki ']","['Jazz', 'Blues', 'Soul']"
+17,Cully,Cully-Jazz,2014-04-06,"['Ruthie Foster ', ' Samantha Banks ', ' Larry Fulcher ']","['Jazz', 'Blues', 'Soul']"
+18,Thun,Sebastian-Arnold,2014-04-06,['Sebastian Arnold '],['Electronic']
+19,Bern,Joan-as-Policewoman,2014-04-06,['Joan as Policewoman '],['Pop']
+20,Z?rich,Paragone-d'archi,2014-04-06,"[' Charlotte Hug ', ' Stefano Pastor ']","['Jazz', 'Blues', 'Soul']"

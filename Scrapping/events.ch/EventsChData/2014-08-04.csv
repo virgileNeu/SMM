@@ -1,9 +1,9 @@
-location,event,date,artists,genre
-Bern,Mani-Matter-Festival,2014-08-04,[' Adrian Merz '],Pop
-Basel,3.-Sommerkonzert-Jahrestage-von-Rameau-bis-Florentz,2014-08-04,['Viviane Loriaut '],Classic
-Zweisimmen,Menuhin-Festival-Gstaad,2014-08-04,['Valentina Lisitsa '],Classic
-Zürich,Nik-Bärtsch's-Ronin,2014-08-04,"[' Björn Meyxer ', ' Bernhard Wagner ']",
-Zürich,G.-Rag-y-los-Hermanos-Patchekos,2014-08-04,['G. Rag y los Hermanos Patchekos '],
-Leukerbad,Harfe-Violine-Visuelles,2014-08-04,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-St.-Moritz,Festival-da-Jazz,2014-08-04,"['Paolo Conte ', ' Paolo Conte ', ' Nunzio Barbieri ', ' Lucio Caliendo ', ' Claudio Chiara ', "" Daniele Dall'Omo "", ' Daniele Di Gregorio ', ' Luca Enipeo ', ' Massimo Pitzianti ', ' Piergiorgio Rosso ', ' Jino Touche ', ' Luca Velotti ']",
-Luzern,Old-Firm-Casuals,2014-08-04,['Old Firm Casuals '],
+,location,event,date,artists,genre
+0,Bern,Mani-Matter-Festival,2014-08-04,[' Adrian Merz '],['Pop']
+1,Zweisimmen,Menuhin-Festival-Gstaad,2014-08-04,['Valentina Lisitsa '],['Classic']
+2,Basel,3.-Sommerkonzert-Jahrestage-von-Rameau-bis-Florentz,2014-08-04,['Viviane Loriaut '],['Classic']
+3,Z?rich,Nik-B?rtsch's-Ronin,2014-08-04,"[' Bj?rn Meyxer ', ' Bernhard Wagner ']","['Hip', 'Hop', ""R'n'B""]"
+4,Z?rich,G.-Rag-y-los-Hermanos-Patchekos,2014-08-04,['G. Rag y los Hermanos Patchekos '],"['world', 'music']"
+5,Leukerbad,Harfe-Violine-Visuelles,2014-08-04,"[' Corinne Kappeler ', ' Daniel Treyer ']",['Classic']
+6,St.-Moritz,Festival-da-Jazz,2014-08-04,"['Paolo Conte ', ' Paolo Conte ', ' Nunzio Barbieri ', ' Lucio Caliendo ', ' Claudio Chiara ', "" Daniele Dall'Omo "", ' Daniele Di Gregorio ', ' Luca Enipeo ', ' Massimo Pitzianti ', ' Piergiorgio Rosso ', ' Jino Touche ', ' Luca Velotti ']","['Jazz', 'Blues', 'Soul']"
+7,Luzern,Old-Firm-Casuals,2014-08-04,['Old Firm Casuals '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

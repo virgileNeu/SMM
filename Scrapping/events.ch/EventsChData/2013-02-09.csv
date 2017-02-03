@@ -1,27 +1,28 @@
-location,event,date,artists,genre
-Aarau,Marco-Santilli-&-Paolo-Alderighi,2013-02-09,"[' Marco Santilli ', ' Paolo Alderighi ']",
-Zürich,Classic-Broadway-&-Operette,2013-02-09,"['John Thade ', ' Annkatrin Isaacs ']",Classic
-Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-02-09,['Christian Mettler '],Pop
-Zürich,Verdi-Gala,2013-02-09,"[' Anja Harteros ', ' Francesco Meli ', ' Alexey Markov ', ' Olivia Vote ', ' Tomasz Rudnicki ']",Classic
-Dini-Mueter,Zürich,2013-02-09,[' Ian Late '],
-Bern,Titanic,2013-02-09,['Titanic '],
-Bierhübeli,Bern,2013-02-09,['Annett Louisan '],
-Gare-du-Nord,Basel,2013-02-09,"[' Anna Brunner ', ' Igor Keller ', ' Hannes Bärtschi ', ' Christopher Jepson ']",
-Zürich,Yvonne-Moore-Bluesband,2013-02-09,"[' Yvonne Moore ', ' Mat Callahan ', ' André Pousaz ', ' Richard Spooner ']",
-Bern,Varicose,2013-02-09,"[' J ', ' Tudor ', ' Thömu ', ' Chredu ']",
-Basel,Debrah-Scarlett,2013-02-09,"['Debrah Scarlett ', ' support: Sarah E. Reid ']",Pop
-Basel,Antonio-Faraò-Trio,2013-02-09,"[' Antonio Faraò ', ' Martin Gjakonovski ', ' Vladimir Kostadinovic ']",
-Uster,Trio-Klick,2013-02-09,"[' Fritz Hauser ', ' Peter Conradin Zumthor ', ' Lucas Niggli ']",
-Winterthur,7-Weeks,2013-02-09,['7 Weeks '],
-Bern,Orgazmik,2013-02-09,"[' Ueli Kempter ', ' Claudio von Arx ', ' Dan Schärer ', ' Ben Schärer ', ' Rezia Ladina Peer ']",Pop
-Zürich,8°6-Crew,2013-02-09,"['8°6 Crew ', ' Cartoon Violence ']",
-Vevey,Darkstar,2013-02-09,['Darkstar '],Electronic
-Lausanne,Aqua-Nebula-Oscillator,2013-02-09,['Aqua Nebula Oscillator '],
-Zürich,What-Josephine-Saw,2013-02-09,"[' Tobias Röthlin ', ' Dimitri Käch ', ' Giuliano Sulzberger ', ' Ramon Ziegler ', ' Moritz Meyer ', ' Jannik Till ']",Pop
-Baden,Heute-Abend-lad-ich-mir-die-Liebe-ein,2013-02-09,"['Carlena Rubi ', ' Lina Ré ']",
--Sud-des-Alpes,null,2013-02-09,"[' Fabian m. Mueller ', ' Kaspar von Grünigen ', ' Fabian Bürgi ']",
-Café-Kairo,Bern,2013-02-09,['Float Fall '],
-Kultur-Kreuz-Nidau,Nidau,2013-02-09,['Bauchklang '],Bauchklang
-Bern,Apollo-Brown-&-Guilty-Simpson,2013-02-09,['Apollo Brown & Guilty Simpson '],
-X-tra,Zürich,2013-02-09,['Sido & DJ Desue '],Sido
-Komplex-457,Zürich,2013-02-09,"['Modeselektor ', ' Barker & Baumecker ']",
+,location,event,date,artists,genre
+0,Aarau,Marco-Santilli-&-Paolo-Alderighi,2013-02-09,"[' Marco Santilli ', ' Paolo Alderighi ']","['Jazz', 'Blues', 'Soul']"
+1,Zürich,Classic-Broadway-&-Operette,2013-02-09,"['John Thade ', ' Annkatrin Isaacs ']",['Classic']
+2,Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-02-09,['Christian Mettler '],['Pop']
+3,Zürich,Verdi-Gala,2013-02-09,"[' Anja Harteros ', ' Francesco Meli ', ' Alexey Markov ', ' Olivia Vote ', ' Tomasz Rudnicki ']",['Classic']
+4,Bern,Titanic,2013-02-09,['Titanic '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Gare-du-Nord,Basel,2013-02-09,"[' Anna Brunner ', ' Igor Keller ', ' Hannes Bärtschi ', ' Christopher Jepson ']","['Charles', 'Lewinsky']"
+6,Dini-Mueter,Zürich,2013-02-09,[' Ian Late '],"['Mya', 'Audrey']"
+7,Bierhübeli,Bern,2013-02-09,['Annett Louisan '],"['Annett', 'Louisan']"
+8,Uster,Trio-Klick,2013-02-09,"[' Fritz Hauser ', ' Peter Conradin Zumthor ', ' Lucas Niggli ']","['world', 'music']"
+9,Basel,Antonio-Faraò-Trio,2013-02-09,"[' Antonio Faraò ', ' Martin Gjakonovski ', ' Vladimir Kostadinovic ']","['Jazz', 'Blues', 'Soul']"
+10,Basel,Debrah-Scarlett,2013-02-09,"['Debrah Scarlett ', ' support: Sarah E. Reid ']",['Pop']
+11,Zürich,Yvonne-Moore-Bluesband,2013-02-09,"[' Yvonne Moore ', ' Mat Callahan ', ' André Pousaz ', ' Richard Spooner ']","['Jazz', 'Blues', 'Soul']"
+12,Bern,Varicose,2013-02-09,"[' J ', ' Tudor ', ' Thömu ', ' Chredu ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Basel,Crazy-Arm,2013-02-09,[' I Have None '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Baden,Heute-Abend-lad-ich-mir-die-Liebe-ein,2013-02-09,"['Carlena Rubi ', ' Lina Ré ']","['world', 'music']"
+15,Lausanne,Aqua-Nebula-Oscillator,2013-02-09,['Aqua Nebula Oscillator '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Vevey,Darkstar,2013-02-09,['Darkstar '],['Electronic']
+17,Bern,Orgazmik,2013-02-09,"[' Ueli Kempter ', ' Claudio von Arx ', ' Dan Schärer ', ' Ben Schärer ', ' Rezia Ladina Peer ']",['Pop']
+18,Winterthur,7-Weeks,2013-02-09,['7 Weeks '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Zürich,8°6-Crew,2013-02-09,"['8°6 Crew ', ' Cartoon Violence ']","['Hip', 'Hop', ""R'n'B""]"
+20,Zürich,What-Josephine-Saw,2013-02-09,"[' Tobias Röthlin ', ' Dimitri Käch ', ' Giuliano Sulzberger ', ' Ramon Ziegler ', ' Moritz Meyer ', ' Jannik Till ']",['Pop']
+21,-Sud-des-Alpes,null,2013-02-09,"[' Fabian m. Mueller ', ' Kaspar von Grünigen ', ' Fabian Bürgi ']","['Jazz', 'Blues', 'Soul']"
+22,Café-Kairo,Bern,2013-02-09,['Float Fall '],"['Float', 'Fall']"
+23,Bern,Apollo-Brown-&-Guilty-Simpson,2013-02-09,['Apollo Brown & Guilty Simpson '],"['Hip', 'Hop', ""R'n'B""]"
+24,X-tra,Zürich,2013-02-09,['Sido & DJ Desue '],['Sido']
+25,Kultur-Kreuz-Nidau,Nidau,2013-02-09,['Bauchklang '],['Bauchklang']
+26,Komplex-457,Zürich,2013-02-09,"['Modeselektor ', ' Barker & Baumecker ']","['Bit', 'Tuner']"

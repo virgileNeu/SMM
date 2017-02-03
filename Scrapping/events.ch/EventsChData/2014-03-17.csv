@@ -1,21 +1,19 @@
-location,event,date,artists,genre
-Zürich,Liederabend,2014-03-17,"['Malena Ernman ', ' Matti Hirvonen ']",Classic
-Basel,CIS-Cembalomusik-in-der-Stadt-Basel,2014-03-17,['Katarzyna Drogosz '],Classic
-Zürich,Klavierrezital,2014-03-17,['Rafal Blechacz '],Classic
-Zürich,Old-School-Piano-Blues,2014-03-17,['Andy Boller '],
-Zürich,James-Blunt,2014-03-17,['James Blunt '],Pop
-Zürich,You-Me-At-Six,2014-03-17,"['You Me At Six ', ' Deaf Havana ']",
-null,Deep-Inside,2014-03-17,"[' Mia Luz ', ' Benj Stalder ', ' Urs C. Eigenmann ', ' Pino Buoro ', ' Andy Leumann ']",Pop
-Pratteln,The-Poodles,2014-03-17,['The Poodles '],
-Bern,Spring-Offensive,2014-03-17,['Spring Offensive '],
-Chur,4.-Abonnementskonzert,2014-03-17,"['Nyna Cantieni ', ' André Dubois ']",Classic
-Luzern,Unplugged-Easy-Monday-Tribute-to-Dexter-Gordon,2014-03-17,"['Lukas Gernet ', ' Lukas Traxel ', ' Sämi Büttiker ']",
-Zürich,Skunk-Anansie-(GB),2014-03-17,['Skunk Anansie '],
-null,William-Fitzsimmons,2014-03-17,"['William Fitzsimmons ', ' Denison Witmer ']",
-Baden,Kaleidoscope-String-Quartet,2014-03-17,"[' Simon Heggendorn ', ' David Schnee ', ' Ronny Spiegel ', ' Solme Hong ']",
-Zürich,Les-Hay-Babies,2014-03-17,['Les Hay Babies '],Pop
-Winterthur,Brendan-Adams,2014-03-17,['Brendan Adams '],
-Ascona,Fats-Domino-Tribute,2014-03-17,['Kenny Wayne '],
-Zürich,SOFIA-Festival,2014-03-17,"[' Karin Ospelt ', ' Olga Trofimova ', ' Carla Gaudré ', ' Sophie Baudon ', ' Stevie-Jo Dooley ', ' Katharina Gross ', ' Imogen Gleichauf ']",
-Lugano,Goran-Bregovic-&-his-Wedding-and-Funeral-Band,2014-03-17,['Goran Bregovic & his Wedding and Funeral Band '],
-Basel,Mr.-Vertigo,2014-03-17,"[' Ursus Bachthaler ', ' Thomas Bauser ', ' Andreas Böhlen ', ' Claude Meier ', ' André Bader ']",
+,location,event,date,artists,genre
+0,Z?rich,Liederabend,2014-03-17,"['Malena Ernman ', ' Matti Hirvonen ']",['Classic']
+1,Z?rich,Klavierrezital,2014-03-17,['Rafal Blechacz '],['Classic']
+2,Luzern,Unplugged-Easy-Monday-Tribute-to-Dexter-Gordon,2014-03-17,"['Lukas Gernet ', ' Lukas Traxel ', ' S?mi B?ttiker ']","['Jazz', 'Blues', 'Soul']"
+3,Pratteln,The-Poodles,2014-03-17,['The Poodles '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Bern,Spring-Offensive,2014-03-17,['Spring Offensive '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,James-Blunt,2014-03-17,['James Blunt '],['Pop']
+6,Z?rich,Skunk-Anansie-(GB),2014-03-17,['Skunk Anansie '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,null,William-Fitzsimmons,2014-03-17,"['William Fitzsimmons ', ' Denison Witmer ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,null,Deep-Inside,2014-03-17,"[' Mia Luz ', ' Benj Stalder ', ' Urs C. Eigenmann ', ' Pino Buoro ', ' Andy Leumann ']",['Pop']
+9,Chur,4.-Abonnementskonzert,2014-03-17,"['Nyna Cantieni ', ' Andr? Dubois ']",['Classic']
+10,Z?rich,You-Me-At-Six,2014-03-17,"['You Me At Six ', ' Deaf Havana ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Baden,Kaleidoscope-String-Quartet,2014-03-17,"[' Simon Heggendorn ', ' David Schnee ', ' Ronny Spiegel ', ' Solme Hong ']","['Jazz', 'Blues', 'Soul']"
+12,Z?rich,Les-Hay-Babies,2014-03-17,['Les Hay Babies '],['Pop']
+13,Winterthur,Brendan-Adams,2014-03-17,['Brendan Adams '],"['Hip', 'Hop', ""R'n'B""]"
+14,Basel,Mr.-Vertigo,2014-03-17,"[' Ursus Bachthaler ', ' Thomas Bauser ', ' Andreas B?hlen ', ' Claude Meier ', ' Andr? Bader ']","['Jazz', 'Blues', 'Soul']"
+15,Lugano,Goran-Bregovic-&-his-Wedding-and-Funeral-Band,2014-03-17,[' his Wedding and Funeral Band '],"['world', 'music']"
+16,Ascona,Fats-Domino-Tribute,2014-03-17,['Kenny Wayne '],"['Jazz', 'Blues', 'Soul']"
+17,Z?rich,SOFIA-Festival,2014-03-17,"[' Karin Ospelt ', ' Olga Trofimova ', ' Carla Gaudr? ', ' Sophie Baudon ', ' Stevie-Jo Dooley ', ' Katharina Gross ', ' Imogen Gleichauf ']","['Jazz', 'Blues', 'Soul']"

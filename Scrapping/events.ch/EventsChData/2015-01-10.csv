@@ -1,41 +1,41 @@
-location,event,date,artists,genre
-Aarau,Nojakîn,2015-01-10,"[' Corinne Nora Huber ', ' Christoph Huber ', ' Lukas Kohler ', ' Michael Haudenschild ', ' Benjamin Muralt ', ' Lukas Rutzen ']",
-Zürich,Taufe-des-Herrn,2015-01-10,"['Fabian Gubser ', ' Felix Gubser ']",Classic
-Zürich,Werner-und-Company,2015-01-10,['Werner und Company '],Pop
-Illnau,Dîner-musical-Melodien-Reigen,2015-01-10,"[' Gustavo de Freitas ', ' Solme Hong ']",Classic
-Basel,Striving-for-Light,2015-01-10,['Michael Leibundgut '],Classic
-Basel,Liederabend,2015-01-10,"['Martin Hempel ', ' Katharina Kegler ']",Classic
-Zürich,Maarja-Nuut,2015-01-10,['Maarja Nuut '],Pop
-Baden,Solorezital,2015-01-10,['Oliver Schnyder '],Classic
-Sarnen,Groofy-Power-Band,2015-01-10,"[' Hansruedi Brun ', ' Franco Luccarini ', ' Remo Sommerhalder ', ' Urs Unternährer ']",Pop
-Sissach,Klanglichter,2015-01-10,"['Chouchane Siranossian ', ' David Pia ', ' Paola De Piante Vicin ']",Classic
-Zürich,Orgelfest-Eröffnungskonzert,2015-01-10,"['Rita Meier ', ' Felix Gubser ']",Classic
-Zürich,Klavierrezital,2015-01-10,['Simon Bächinger '],Classic
-Basel,Winterkonzert-Sommertraum,2015-01-10,"[' Rex Lawson ', ' Christina Daletska ', ' Susanne Puchegger ', ' Jakob Pilgram ', ' R. Jud ', ' Florian Arbenz ', ' Matthias Würsch ', ' Reto Reichenbach ']",Classic
-Basel,Weihnachtsoratorium-Kantaten-IV-VI,2015-01-10,"[' ', ' Christina Metz ', ' Hans-Jörg Mammel ']",Classic
-Winterthur,Musica-aperta-Faces,2015-01-10,"['Robert Zimansky ', ' Nebojsa Bugarski ', ' Urs Brügger ', ' Vera Leibacher ', ' Omar Zoboli ', ' Moritz Ernst ', ' works by Max E. Keller ']",Classic
-Basel,Konzert,2015-01-10,"['Ayelet Karni ', ' Rani Orenstein ']",Classic
-Dübendorf,Roy-Lembo,2015-01-10,['Roy Lembo '],Pop
-Aarau,Riversidemosh,2015-01-10,[' I Cut Out Your Name '],
-null,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2015-01-10,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes Bärtschi ']",Classic
-Buchs,Big-Ship,2015-01-10,"[' Christoph Stiefel ', ' Arne Huber ', ' Kevin Chesham ']",
-Zürich,Konzert,2015-01-10,"[' Helmut Oehring ', ' Michael Pelzel ']",Classic
-Oberengstringen,The-Saints-Jazz-Band,2015-01-10,"[' Otto Andrae ', ' Ernst Bigler ', ' Jürg Maurer ', ' Romeo Borbach ', ' Rolf Winiger ', ' Eugen Weber ']",
-Zürich,Hazelnut,2015-01-10,['Hazelnut '],
-Frauenfeld,Yellow-Sun,2015-01-10,"[' Nathanael Schedler ', ' Ernst Schedler ', ' Dominic Hostettler ']",
-Zürich,Konzert,2015-01-10,"[' Ulrike Mayer-Spohn ', ' Javier Hagen ']",Classic
-Baden,Fruitcake,2015-01-10,"[' Tanja de Groot ', ' Bruno Groppa ', ' Rick Boyaci ', ' Bruno Telli ', ' Rene Graf ']",
-null,Local-Stage,2015-01-10,"['Kerstin Arnold ', ' Martin Nef ', ' Pascal Podstransky ', ' Oli Blumer ']",Pop
-Basel,Basler-Jazztradition,2015-01-10,"['Othella Dallas ', ' Alex Hendriksen ', ' Urs Müller ', ' Hannes Bürgi ', ' Michael Chylewski ', ' Lukas Gasser ']",
-Zürich,Suisse-Diagonales-Jazz,2015-01-10,"[' Erika Stucky ', ' Alexander Krenn ', ' Christoph Geza Haider Kroiss ', ' Reinhold Bieber ']",
-Winterthur,Rainer-von-Vielen,2015-01-10,['Rainer von Vielen '],Pop
-Luzern,Philipp-Leon-&-Friends,2015-01-10,['Philipp Leon & Friends '],Pop
-Bern,Apparatschik,2015-01-10,['Apparatschik '],
-Aarau,S.A.R.S.,2015-01-10,['S.A.R.S. '],
-Brugg,The-Faranas-&-Kara-Sylla-Ka,2015-01-10,"[' Kara Sylla Ka ', ' Lisette Wyss ', ' Adrien Oggier ', ' Dominik Alig ', ' Bernhard Häberlin ', ' Toni Schiavano ', ' Manuel Siebs ', ' Fabian Bürgi ']",
-Hirschthal,Misty-Blue,2015-01-10,"[' Arlette Keiser ', ' Sarah Fischer ', ' Hansj Looser: 5-String ', ' Peter Keiser ']",
-null,Salsa-Village,2015-01-10,[' live: Alexander & Eulises Gonzales '],
-null,DJ-Joh-&-Veronika-D,2015-01-10,['DJ Joh & Veronika D '],
-Zürich,Rummelsnuff-feat.-Maat-Asbach,2015-01-10,['Rummelsnuff feat. Maat Asbach '],
-Zürich,Dubclub-P4,2015-01-10,['DJs I-tal Soup '],
-St.-Moritz,Sankanje,2015-01-10,"['DJs Nesh Martin ', ' Sir George ', ' Sky ']",
+,location,event,date,artists,genre
+0,Aarau,Nojak?n,2015-01-10,"[' Corinne Nora Huber ', ' Christoph Huber ', ' Lukas Kohler ', ' Michael Haudenschild ', ' Benjamin Muralt ', ' Lukas Rutzen ']","['Jazz', 'Blues', 'Soul']"
+1,Z?rich,Taufe-des-Herrn,2015-01-10,"['Fabian Gubser ', ' Felix Gubser ']",['Classic']
+2,Z?rich,Werner-und-Company,2015-01-10,['Werner und Company '],['Pop']
+3,Illnau,D?ner-musical-Melodien-Reigen,2015-01-10,"[' Gustavo de Freitas ', ' Solme Hong ']",['Classic']
+4,Z?rich,Maarja-Nuut,2015-01-10,['Maarja Nuut '],['Pop']
+5,Basel,Liederabend,2015-01-10,"['Martin Hempel ', ' Katharina Kegler ']",['Classic']
+6,Basel,Striving-for-Light,2015-01-10,['Michael Leibundgut '],['Classic']
+7,Z?rich,Klavierrezital,2015-01-10,['Simon B?chinger '],['Classic']
+8,Basel,Winterkonzert-Sommertraum,2015-01-10,"[' Rex Lawson ', ' Christina Daletska ', ' Susanne Puchegger ', ' Jakob Pilgram ', ' R. Jud ', ' Florian Arbenz ', ' Matthias W?rsch ', ' Reto Reichenbach ']",['Classic']
+9,Sissach,Klanglichter,2015-01-10,"['Chouchane Siranossian ', ' David Pia ', ' Paola De Piante Vicin ']",['Classic']
+10,Z?rich,Orgelfest-Er?ffnungskonzert,2015-01-10,"['Rita Meier ', ' Felix Gubser ']",['Classic']
+11,Sarnen,Groofy-Power-Band,2015-01-10,"[' Hansruedi Brun ', ' Franco Luccarini ', ' Remo Sommerhalder ', ' Urs Untern?hrer ']",['Pop']
+12,Baden,Solorezital,2015-01-10,['Oliver Schnyder '],['Classic']
+13,Basel,Weihnachtsoratorium-Kantaten-IV-VI,2015-01-10,"[' ', ' Christina Metz ', ' Hans-J?rg Mammel ']",['Classic']
+14,null,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2015-01-10,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes B?rtschi ']",['Classic']
+15,Buchs,Big-Ship,2015-01-10,"[' Christoph Stiefel ', ' Arne Huber ', ' Kevin Chesham ']","['Jazz', 'Blues', 'Soul']"
+16,D?bendorf,Roy-Lembo,2015-01-10,['Roy Lembo '],['Pop']
+17,Oberengstringen,The-Saints-Jazz-Band,2015-01-10,"[' Otto Andrae ', ' Ernst Bigler ', ' J?rg Maurer ', ' Romeo Borbach ', ' Rolf Winiger ', ' Eugen Weber ']","['Jazz', 'Blues', 'Soul']"
+18,Z?rich,Konzert,2015-01-10,"[' Helmut Oehring ', ' Michael Pelzel ']",['Classic']
+19,Aarau,Riversidemosh,2015-01-10,[' I Cut Out Your Name '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Basel,Konzert,2015-01-10,"['Ayelet Karni ', ' Rani Orenstein ']",['Classic']
+21,Z?rich,Hazelnut,2015-01-10,['Hazelnut '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Winterthur,Musica-aperta-Faces,2015-01-10,"['Robert Zimansky ', ' Nebojsa Bugarski ', ' Urs Br?gger ', ' Vera Leibacher ', ' Omar Zoboli ', ' Moritz Ernst ', ' works by Max E. Keller ']",['Classic']
+23,Frauenfeld,Yellow-Sun,2015-01-10,"[' Nathanael Schedler ', ' Ernst Schedler ', ' Dominic Hostettler ']","['Jazz', 'Blues', 'Soul']"
+24,Winterthur,Rainer-von-Vielen,2015-01-10,['Rainer von Vielen '],['Pop']
+25,Basel,Basler-Jazztradition,2015-01-10,"['Othella Dallas ', ' Alex Hendriksen ', ' Urs M?ller ', ' Hannes B?rgi ', ' Michael Chylewski ', ' Lukas Gasser ']","['Jazz', 'Blues', 'Soul']"
+26,Z?rich,Konzert,2015-01-10,"[' Ulrike Mayer-Spohn ', ' Javier Hagen ']",['Classic']
+27,Z?rich,Suisse-Diagonales-Jazz,2015-01-10,"[' Erika Stucky ', ' Alexander Krenn ', ' Christoph Geza Haider Kroiss ', ' Reinhold Bieber ']","['Jazz', 'Blues', 'Soul']"
+28,Baden,Fruitcake,2015-01-10,"[' Tanja de Groot ', ' Bruno Groppa ', ' Rick Boyaci ', ' Bruno Telli ', ' Rene Graf ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Luzern,Philipp-Leon-&-Friends,2015-01-10,[' Friends '],['Pop']
+30,null,Local-Stage,2015-01-10,"['Kerstin Arnold ', ' Martin Nef ', ' Pascal Podstransky ', ' Oli Blumer ']",['Pop']
+31,Aarau,S.A.R.S.,2015-01-10,['S.A.R.S. '],"['world', 'music']"
+32,Bern,Apparatschik,2015-01-10,['Apparatschik '],"['world', 'music']"
+33,Brugg,The-Faranas-&-Kara-Sylla-Ka,2015-01-10,"[' Kara Sylla Ka ', ' Lisette Wyss ', ' Adrien Oggier ', ' Dominik Alig ', ' Bernhard H?berlin ', ' Toni Schiavano ', ' Manuel Siebs ', ' Fabian B?rgi ']","['world', 'music']"
+34,Hirschthal,Misty-Blue,2015-01-10,"[' Arlette Keiser ', ' Sarah Fischer ', ' Hansj Looser: 5-String ', ' Peter Keiser ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Z?rich,Rummelsnuff-feat.-Maat-Asbach,2015-01-10,['Rummelsnuff feat. Maat Asbach '],"['world', 'music']"
+36,null,Salsa-Village,2015-01-10,[' Eulises Gonzales '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+37,null,DJ-Joh-&-Veronika-D,2015-01-10,[' Veronika D '],"['Hip', 'Hop', ""R'n'B""]"
+38,Z?rich,Dubclub-P4,2015-01-10,['DJs I-tal Soup '],"['Hip', 'Hop', ""R'n'B""]"
+39,St.-Moritz,Sankanje,2015-01-10,"['DJs Nesh Martin ', ' Sir George ', ' Sky ']","['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

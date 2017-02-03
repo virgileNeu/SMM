@@ -1,24 +1,23 @@
-location,event,date,artists,genre
-Bern,Septette-aus-Klassik-und-Romantik,2014-01-19,"[' Anouk Theurillat ', ' Julien Mathieu ', ' Julia Malkova ', ' Andreas Graf ', ' Bernhard Röthlisberger ', ' Monika Schneider ', ' Daniel Lienhard ', ' Sebastian Schindler ']",Classic
-Laufen,Jazz-Matinee,2014-01-19,"[' Peter C. Beyeler ', ' Shilo Buck ', ' Werner Gisin ', ' Heinz Glauser ', ' Heinz Lehmann ', ' Walter Daetwyler ']",
-Uster,Matinée-Circulo-mágico,2014-01-19,"['Benjamin Scheck ', ' Ilona Kocsis-Näf ']",Classic
-Luzern,Zauberflötenzauber,2014-01-19,[' Emmanuel Pahud '],Classic
-Basel,Tranquilla-Trampeltreu-eine-beharrliche-Schildkröte-bereits-die-Welt,2014-01-19,"['Claudia Brunner ', ' Nicola Hanck ']",Classic
-Basel,Warten-auf-Heizmann,2014-01-19,"[' Martin Ohm ', ' Peter Erdrich ', ' Philipp Heizmann ', ' Oliver Haux ']",Classic
-Basel,Klavierwerke,2014-01-19,['Bobby Mitchell '],Classic
-Aarau,Romantische-Reisen,2014-01-19,[' Christian Lampert '],Classic
-Lufingen,Clari-Nuts,2014-01-19,"[' Sandra Lützelschwab-Fehr ', ' Denise Waldvogel-Lehmann ', ' Daniel Waldvogel ', ' Jürg Wehrli ']",
-Wettingen,Opus-8-Klarinetten-tanzen-Salsa,2014-01-19,[' Simon Stettler '],Classic
-Luzern,Big-Band-der-Musikschule-Luzern,2014-01-19,[' Christoph Erb '],
-Rapperswil,Musik-im-Schloss-III,2014-01-19,"[' Kathleen Dineen ', ' Robert M. Getchell ', ' Matthias Spoerry ', "" Gerry O'Connor ""]",Classic
-Einsiedeln,Am-Bruch-zur-Moderne,2014-01-19,"['Sybille Diethelm ', ' Valentin Johannes Gloor ', ' Edward Rushton ']",Classic
-Buchberg,Chilbimusik,2014-01-19,['Christian Gautschi '],traditional
-Zürich,Kodaline,2014-01-19,['Kodaline '],
-Zürich,Jean-Paul-Bourelly,2014-01-19,"['Jean-Paul Bourelly ', ' Jean-Paul Bourelly ', ' Darryl Taylor ', ' Kenny Martin ']",
-Brugg,Mario-Schenker-Quartett,2014-01-19,"[' Mario Schenker ', ' Yves Theiler ', ' Silvan Jeger ', ' Maxime Paratte ']",
-Zürich,Schlusskonzert,2014-01-19,"[' Hossein Samieian ', ' Kurt Meier ', ' Felix Gubser ']",Classic
-Winterthur,Fragula,2014-01-19,"[' Muriel Schweizer ', ' Regula Bernays ', ' Franz Winteler ', ' Michel Münch ', ' Hansjürg Fetzer ']",
-Basel,Konzert-3,2014-01-19,"[' Andrey Baranov ', ' Matthias Arter ']",Classic
-Zürich,Hauschka,2014-01-19,['Hauschka '],
-Bern,Metric-Rotations-2,2014-01-19,"['Baze ', ' Rico Baumann ', ' Don Li ']",
-Zürich,Swanky-Mothers-Series-XIII,2014-01-19,"['Dave Gisler ', ' Jonas Labhart ', ' Marius Peyer ']",
+,location,event,date,artists,genre
+0,Bern,Septette-aus-Klassik-und-Romantik,2014-01-19,"[' Anouk Theurillat ', ' Julien Mathieu ', ' Julia Malkova ', ' Andreas Graf ', ' Bernhard R?thlisberger ', ' Monika Schneider ', ' Daniel Lienhard ', ' Sebastian Schindler ']",['Classic']
+1,Laufen,Jazz-Matinee,2014-01-19,"[' Peter C. Beyeler ', ' Shilo Buck ', ' Werner Gisin ', ' Heinz Glauser ', ' Heinz Lehmann ', ' Walter Daetwyler ']","['Jazz', 'Blues', 'Soul']"
+2,Luzern,Zauberfl?tenzauber,2014-01-19,[' Emmanuel Pahud '],['Classic']
+3,Basel,Tranquilla-Trampeltreu-eine-beharrliche-Schildkr?te-bereits-die-Welt,2014-01-19,"['Claudia Brunner ', ' Nicola Hanck ']",['Classic']
+4,Uster,Matin?e-Circulo-m?gico,2014-01-19,"['Benjamin Scheck ', ' Ilona Kocsis-N?f ']",['Classic']
+5,Basel,Warten-auf-Heizmann,2014-01-19,"[' Martin Ohm ', ' Peter Erdrich ', ' Philipp Heizmann ', ' Oliver Haux ']",['Classic']
+6,Basel,Klavierwerke,2014-01-19,['Bobby Mitchell '],['Classic']
+7,Luzern,Big-Band-der-Musikschule-Luzern,2014-01-19,[' Christoph Erb '],"['Jazz', 'Blues', 'Soul']"
+8,Lufingen,Clari-Nuts,2014-01-19,"[' Sandra L?tzelschwab-Fehr ', ' Denise Waldvogel-Lehmann ', ' Daniel Waldvogel ', ' J?rg Wehrli ']","['world', 'music']"
+9,Wettingen,Opus-8-Klarinetten-tanzen-Salsa,2014-01-19,[' Simon Stettler '],['Classic']
+10,Rapperswil,Musik-im-Schloss-III,2014-01-19,"[' Kathleen Dineen ', ' Robert M. Getchell ', ' Matthias Spoerry ', "" Gerry O'Connor ""]",['Classic']
+11,Aarau,Romantische-Reisen,2014-01-19,[' Christian Lampert '],['Classic']
+12,Einsiedeln,Am-Bruch-zur-Moderne,2014-01-19,"['Sybille Diethelm ', ' Valentin Johannes Gloor ', ' Edward Rushton ']",['Classic']
+13,Buchberg,Chilbimusik,2014-01-19,['Christian Gautschi '],['traditional']
+14,Brugg,Mario-Schenker-Quartett,2014-01-19,"[' Mario Schenker ', ' Yves Theiler ', ' Silvan Jeger ', ' Maxime Paratte ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Kodaline,2014-01-19,['Kodaline '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Z?rich,Jean-Paul-Bourelly,2014-01-19,"['Jean-Paul Bourelly ', ' Jean-Paul Bourelly ', ' Darryl Taylor ', ' Kenny Martin ']","['Jazz', 'Blues', 'Soul']"
+17,Basel,Konzert-3,2014-01-19,"[' Andrey Baranov ', ' Matthias Arter ']",['Classic']
+18,Winterthur,Fragula,2014-01-19,"[' Muriel Schweizer ', ' Regula Bernays ', ' Franz Winteler ', ' Michel M?nch ', ' Hansj?rg Fetzer ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Z?rich,Schlusskonzert,2014-01-19,"[' Hossein Samieian ', ' Kurt Meier ', ' Felix Gubser ']",['Classic']
+20,Z?rich,Swanky-Mothers-Series-XIII,2014-01-19,"['Dave Gisler ', ' Jonas Labhart ', ' Marius Peyer ']","['Jazz', 'Blues', 'Soul']"
+21,Bern,Metric-Rotations-2,2014-01-19,"['Baze ', ' Rico Baumann ', ' Don Li ']","['Jazz', 'Blues', 'Soul']"

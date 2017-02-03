@@ -1,45 +1,45 @@
-location,event,date,artists,genre
-Winterthur,Moni-und-die-Luftpost,2014-10-18,"['Simone Baumann ', ' Livio Baldelli ', ' Gitarre ']",Pop
-Basel,Rusconis-Kinder-Arkestra,2014-10-18,"[' Stefan Rusconi ', ' Fabian Gisler ', ' Claudio Strüby ']",
-Bern,Konzert,2014-10-18,['Pervez Mody '],Classic
-Hedingen,Herbstkonzert,2014-10-18,"[' Hanna Morell ', ' Barbara Suter ', ' Heinz Bussmann ', ' Louis Chanson ']",Classic
-Thun,Geistliches-Chorkonzert,2014-10-18,"[' Eun-Ah Cho-Nitschke ', ' Sarah Maeder ']",Classic
-Uster,Orefik,2014-10-18,"[' Sticky Boys ', ' Chase The Ace ', ' Laced In Lust ']",
-Zürich,The-Antlers,2014-10-18,"['The Antlers ', ' Marika Hackman ']",Pop
-Luzern,The-Little-Match-Girl,2014-10-18,"[' Gabriela Bürgler ', ' Caroline Reitzel ', ' Aline Willi ', ' Annina Haug ', ' Alexandra Hebart ', ' Carmen Würsch ']",Classic
-Zürich,Carmina-Burana,2014-10-18,"[' Saara Vainio ', ' Michael Nowak ', ' Robin Adams ']",Classic
-Zürich,Impressionen,2014-10-18,['Eva Maria Hux '],Classic
-Zürich,Death-From-Above-1979,2014-10-18,"['Death From Above 1979 ', ' support: Greys ']",
-Zürich,10-Jahre-Stall-6-Tag-2,2014-10-18,"['Dillon ', ' Esben and the Witch ']",Electronic
-Bern,Die-grosse-Diva-Südindiens-und-ihr-Ensemble,2014-10-18,"['Sudha Ragunathan ', ' Embar Sadagopan Kannan ', ' Skanda Sundararajan Subramanian ', ' Raman Ramakrishnan ']",
-Zürich,Der-Soundtrack-des-Lebens,2014-10-18,['Martin Herzberg '],Pop
-Bern,Andrew-Jackson-Jihad,2014-10-18,['Andrew Jackson Jihad '],
-Pratteln,Pendragon,2014-10-18,['Pendragon '],Electronic
-Thun,The-Tackers,2014-10-18,"[' Patrick Dizerens ', ' Bernadette Rosati ', ' Fabian Umbricht ', ' Emanuel Hammer ', ' Claude Amstutz ', ' Kevin Jost ']",
-Frick,Fricktaler-Blues-Festival,2014-10-18,['The Holmes Brothers '],
-Winterthur,4some-Blues,2014-10-18,"[' Hannes Kasehs ', ' Dani Gugolz ', ' Walter Baumgartner ', ' Peter Müller ']",
-Baden,Tonic-Strings,2014-10-18,"[' Toni Donadio ', ' Nic Niedermann ']",
-Zürich,Melingo,2014-10-18,"['Melingo ', ' Daniel Melingo ', ' Muhhamed Habbibi El Rodra Guerra ', ' Patricio Cotella ', ' Pedro Onetto ', ' Gustavo Paglia ']",Pop
-Basel,Miles-Griffith-&-Tony-Pancella-Trio,2014-10-18,"[' Miles Griffith ', ' Tony Pancella ', ' Aldo Vigorito ', ' Pietro Iodice ']",
-Zürich,Ganxsta-Zolee-és-a-Kartel,2014-10-18,['Ganxsta Zolee és a Kartel '],
-Baden,Rockabilly-Night,2014-10-18,"['The Slapbacks ', ' Dead Beatz ']",
-Baden,Rude-Tins,2014-10-18,[' The Tips '],
-Bern,Rebel-Squad,2014-10-18,['Rebel Squad '],
-Olten,D-Flame,2014-10-18,"['D-Flame ', ' DJ Haitian Star ']",
-Aarau,Oscar-and-the-Wolf,2014-10-18,['Oscar and the Wolf '],Pop
-Thun,Screaming-Headless-Torsos,2014-10-18,['Screaming Headless Torsos '],
-Luzern,Reza-Dinally,2014-10-18,[' Alana Amram and the Rough Gems '],
-Herisau,Eric-Fish-&-Friends,2014-10-18,['Eric Fish '],
-null,Thierry-Lang-Trio,2014-10-18,"[' Thierry Lang ', ' Heiri Känzig ', ' Andy Pupato ']",
-Bern,King-Dean,2014-10-18,"[' Daniel Plancic ', ' Ben Plancic ', ' Dave Weibel ', ' Serge Torriani ']",
-Rothenthurm,Keltikon-ABGESAGT,2014-10-18,"[' Iain Duncan ', ' Olaf Ohl ', ' Ädu Studer ', ' Rino Bollin ', ' Patrick Feuz ']",
-Basel,Lord-Rochester,2014-10-18,['Lord Rochester '],
-Luzern,Melo,2014-10-18,['Melo '],
-Rubigen,Halunke,2014-10-18,['Halunke '],
-null,Dellatorre,2014-10-18,"[' Rene Riebli ', ' Reto Dellatorre ', ' Christoph Siegenthaler ', ' Pascal Kaeser ', ' Schmid ']",
-Luzern,Yoro-Massa,2014-10-18,['Yoro Massa '],
-Zürich,Larry-F,2014-10-18,['Larry F '],Pop
-Zürich,Stella-Cruz,2014-10-18,"[' Stella Cruz ', ' Flurin Lanfranconi ', ' Stephan Rigert ', ' Sandro Schneebeli ']",Pop
-Lyss,Go-Go-Berlin,2014-10-18,['Go Go Berlin '],
-Bern,Prairies-urbaines,2014-10-18,"[' Andrea Manzoni ', ' Marcel Zaes ']",
-Lausanne,Chuckie,2014-10-18,['Chuckie '],Electronic
+,location,event,date,artists,genre
+0,Winterthur,Moni-und-die-Luftpost,2014-10-18,"['Simone Baumann ', ' Livio Baldelli ', ' Gitarre ']",['Pop']
+1,Basel,Rusconis-Kinder-Arkestra,2014-10-18,"[' Stefan Rusconi ', ' Fabian Gisler ', ' Claudio Str?by ']","['Jazz', 'Blues', 'Soul']"
+2,Bern,Konzert,2014-10-18,['Pervez Mody '],['Classic']
+3,Hedingen,Herbstkonzert,2014-10-18,"[' Hanna Morell ', ' Barbara Suter ', ' Heinz Bussmann ', ' Louis Chanson ']",['Classic']
+4,Thun,Geistliches-Chorkonzert,2014-10-18,"[' Eun-Ah Cho-Nitschke ', ' Sarah Maeder ']",['Classic']
+5,Uster,Orefik,2014-10-18,"[' Sticky Boys ', ' Chase The Ace ', ' Laced In Lust ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,The-Antlers,2014-10-18,"['The Antlers ', ' Marika Hackman ']",['Pop']
+7,Luzern,The-Little-Match-Girl,2014-10-18,"[' Gabriela B?rgler ', ' Caroline Reitzel ', ' Aline Willi ', ' Annina Haug ', ' Alexandra Hebart ', ' Carmen W?rsch ']",['Classic']
+8,Z?rich,Death-From-Above-1979,2014-10-18,"['Death From Above 1979 ', ' support: Greys ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Carmina-Burana,2014-10-18,"[' Saara Vainio ', ' Michael Nowak ', ' Robin Adams ']",['Classic']
+10,Z?rich,Impressionen,2014-10-18,[' Daniela Timokhine '],['Classic']
+11,Pratteln,Pendragon,2014-10-18,['Pendragon '],['Electronic']
+12,Bern,Die-grosse-Diva-S?dindiens-und-ihr-Ensemble,2014-10-18,"['Sudha Ragunathan ', ' Embar Sadagopan Kannan ', ' Skanda Sundararajan Subramanian ', ' Raman Ramakrishnan ']","['world', 'music']"
+13,Thun,The-Tackers,2014-10-18,"[' Patrick Dizerens ', ' Bernadette Rosati ', ' Fabian Umbricht ', ' Emanuel Hammer ', ' Claude Amstutz ', ' Kevin Jost ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Bern,Andrew-Jackson-Jihad,2014-10-18,['Andrew Jackson Jihad '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Z?rich,10-Jahre-Stall-6-Tag-2,2014-10-18,"['Dillon ', ' Esben and the Witch ']",['Electronic']
+16,Z?rich,Der-Soundtrack-des-Lebens,2014-10-18,['Martin Herzberg '],['Pop']
+17,Frick,Fricktaler-Blues-Festival,2014-10-18,['The Holmes Brothers '],"['Jazz', 'Blues', 'Soul']"
+18,Winterthur,4some-Blues,2014-10-18,"[' Hannes Kasehs ', ' Dani Gugolz ', ' Walter Baumgartner ', ' Peter M?ller ']","['Jazz', 'Blues', 'Soul']"
+19,Basel,Miles-Griffith-&-Tony-Pancella-Trio,2014-10-18,"[' Miles Griffith ', ' Tony Pancella ', ' Aldo Vigorito ', ' Pietro Iodice ']","['Jazz', 'Blues', 'Soul']"
+20,Baden,Tonic-Strings,2014-10-18,"[' Toni Donadio ', ' Nic Niedermann ']","['world', 'music']"
+21,Z?rich,Melingo,2014-10-18,"['Melingo ', ' Daniel Melingo ', ' Muhhamed Habbibi El Rodra Guerra ', ' Patricio Cotella ', ' Pedro Onetto ', ' Gustavo Paglia ']",['Pop']
+22,Bern,Rebel-Squad,2014-10-18,['Rebel Squad '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Basel,Lord-Rochester,2014-10-18,['Lord Rochester '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Thun,Screaming-Headless-Torsos,2014-10-18,['Screaming Headless Torsos '],"['Hip', 'Hop', ""R'n'B""]"
+25,Rubigen,Halunke,2014-10-18,['Halunke '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Luzern,Reza-Dinally,2014-10-18,[' Alana Amram and the Rough Gems '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Olten,D-Flame,2014-10-18,"['D-Flame ', ' DJ Haitian Star ']","['Hip', 'Hop', ""R'n'B""]"
+28,Luzern,Melo,2014-10-18,['Melo '],"['Hip', 'Hop', ""R'n'B""]"
+29,null,Thierry-Lang-Trio,2014-10-18,"[' Thierry Lang ', ' Heiri K?nzig ', ' Andy Pupato ']","['Jazz', 'Blues', 'Soul']"
+30,Z?rich,Ganxsta-Zolee-?s-a-Kartel,2014-10-18,['Ganxsta Zolee ?s a Kartel '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Aarau,Oscar-and-the-Wolf,2014-10-18,['Oscar and the Wolf '],['Pop']
+32,Herisau,Eric-Fish-&-Friends,2014-10-18,['Eric Fish '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Rothenthurm,Keltikon-ABGESAGT,2014-10-18,"[' Iain Duncan ', ' Olaf Ohl ', ' ?du Studer ', ' Rino Bollin ', ' Patrick Feuz ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Bern,King-Dean,2014-10-18,"[' Daniel Plancic ', ' Ben Plancic ', ' Dave Weibel ', ' Serge Torriani ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Baden,Rude-Tins,2014-10-18,[' The Tips '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Baden,Rockabilly-Night,2014-10-18,"['The Slapbacks ', ' Dead Beatz ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,null,Dellatorre,2014-10-18,"[' Rene Riebli ', ' Reto Dellatorre ', ' Christoph Siegenthaler ', ' Pascal Kaeser ', ' Schmid ']","['Hip', 'Hop', ""R'n'B""]"
+38,Luzern,Yoro-Massa,2014-10-18,['Yoro Massa '],"['world', 'music']"
+39,Z?rich,Stella-Cruz,2014-10-18,"[' Stella Cruz ', ' Flurin Lanfranconi ', ' Stephan Rigert ', ' Sandro Schneebeli ']",['Pop']
+40,Z?rich,Larry-F,2014-10-18,['Larry F '],['Pop']
+41,Lyss,Go-Go-Berlin,2014-10-18,['Go Go Berlin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+42,Bern,Prairies-urbaines,2014-10-18,"[' Andrea Manzoni ', ' Marcel Zaes ']","['Jazz', 'Blues', 'Soul']"
+43,Lausanne,Chuckie,2014-10-18,['Chuckie '],['Electronic']

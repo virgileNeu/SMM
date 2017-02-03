@@ -1,57 +1,56 @@
-location,event,date,artists,genre
-Cully,Cully-Jazz-Festival,2013-04-13,"[' Ganesh Geymeier ', ' Fabien Sevilla ', ' Jérôme Berney ', "" L'Académie Vocale de Suisse romande ""]",
-Zürich,Classic-Broadway-&-Operette,2013-04-13,"['John Thade ', ' Annkatrin Isaacs ']",Classic
-Obere-Matten,Zermatt,2013-04-13,['Pedro Franco '],
-Stans,Stanser-Musiktage,2013-04-13,['Kevin Seddiki '],
-Baden,Black-Stuff-Festival,2013-04-13,['Madison Affair '],
-Stans,Stanser-Musiktage,2013-04-13,['Matthias Loibner & Christof Dienz '],
-Uster,Eldorado,2013-04-13,['Eldorado '],
-Zürich,Aus-der-Tiefe-rufe-ich,2013-04-13,"[' Pascal Marti ', ' Walter Rüeggsegger ']",Classic
-Zürich,Migros-Kulturprozent-Classics,2013-04-13,"[' Marie-Nicole Lemieux ', ' Thomas Grossenbacher ']",Classic
-Bern,Internationales-Jazzfestival-Bern,2013-04-13,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']",
-Schützenhaus-Albisgütli,Zürich,2013-04-13,['Piccadilly Six '],
-Basel,Ein-deutsches-Requiem,2013-04-13,"[' Verena Krause ', ' Andrew Ashwin ']",Classic
-Cully,Cully-Jazz-Festival,2013-04-13,"['Wayne Paul ', ' Christophe Calpini ', ' Laurent Poget ', ' Julien Charlet ', ' Christophe Chambet ']",
-Zürich,Urban-Cone,2013-04-13,['Urban Cone '],
-Zürich,Harfe-Violine-Visuelles,2013-04-13,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-Stans,Stanser-Musiktage,2013-04-13,"[' Alexander Balanescu ', ' James Shenton ', ' Katie Wilkinson ', ' Nick Holland ', ' Steve Argüelles ']",Classic
-Basel,No-Business-as-Usual,2013-04-13,[' Virgil Moorefield '],Classic
-Pratteln,Avantasia,2013-04-13,['Avantasia '],
-Theater-an-der-Mürg,Stans,2013-04-13,"['Gianmaria Testa ', ' Gabriele Mirabassi ']",
-null,Konzert,2013-04-13,"[' Nils Mönkemeyer ', ' Sabine Erdmann ', ' Andreas Arend ', ' Klaus Dieter Brandt ']",Classic
-Schaffhausen,Canto-General,2013-04-13,"[' Anna Schaffner ', ' Rainer Weiss ']",Classic
-Cully,Cully-Jazz-Festival,2013-04-13,"[' Philippe Anhorn ', ' Thomas Winteler ']",
-Moods,Zürich,2013-04-13,"[' Gregor Krtschek ', ' Bernhard Jörg ', ' Jan Müller ', ' Reimar Walthert ', ' Zwyer ', ' Mariann Graber ']",
-Basel,Robert-Lakatos-Quartet-feat.-Greg-Hutchinson,2013-04-13,"[' Gábor Bolla ', ' Robert Lakatos ', ' Christian Lakatos ', ' Greg Hutchinson ']",
-Cully,Cully-Jazz-Festival,2013-04-13,"['Rokia Traoré ', ' Cheick Tidiane Seck 6tet ', ' Cheick Tidiane Seck ', ' Alioune Wade ', ' TBC ', ' Guimba Kouyaté ', ' Madou Koné ', ' Kabiné Kouyaté ']",
-Obere-Matten,Zermatt,2013-04-13,['Skunk Anansie '],
-Zürich,Ethan-Johns,2013-04-13,['Ethan Johns '],Pop
-Montreux-Music-&-Convention-Centre,Montreux,2013-04-13,['Roch Voisine '],
-Zürich,Kapoolas,2013-04-13,"[' Beni Gut ', ' Thomas Luethy ', ' Luka Corman ', ' Philipp Gut ', ' Florian Haas-Schneider ']",
-Bern,500-10-Unlimited,2013-04-13,"[' Tian Bosshard ', ' Rico Baumann ', ' Arno Troxler ']",Electronic
-Cully-Jazz-Festival,Cully,2013-04-13,"[' Fabio Pinto ', ' Jeremias Keller ', ' Alex Maurer ', ' Claire Huguenin ']",Kamikaze
-Luzern,Quintett-Ikarus,2013-04-13,"[' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Moritz Meyer ', ' Ramón Oliveras ']",
-Cully,Cully-Jazz-Festival,2013-04-13,"[' Ganesh Geymeier ', ' Fabien Sevilla ', ' Jérôme Berney ', "" L'Académie Vocale de Suisse romande ""]",
-Cully,Cully-Jazz-Festival,2013-04-13,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-Luzern,Elder,2013-04-13,"['Elder ', ' Pet the Preacher ']",
-Thun,Nidi-D'Arac,2013-04-13,"[""Nidi D'Arac ""]",Electronic
-Cully,Cully-Jazz-Festival,2013-04-13,"[' Alexandre Wyssmann ', ' Christoph Utzinger ', ' Roberto Titocci ']",
-null,Bankrupt,2013-04-13,"['Bankrupt ', ' Frederic Magne ', ' Vladimir Macheret ', ' Adrien Di Cicco ', ' Xavier Macheret ', ' Florian Macheret ', ' Florian Romanens ']",
-Zürich,Indie.ch-Nachtschicht:-Urban-Cone,2013-04-13,['Urban Cone '],
-Zürich,Fiesta-latina-candela,2013-04-13,['DJs Francisco Rojos '],
-Aarau,Oscar-and-the-Wolf,2013-04-13,"['Oscar and the Wolf ', ' Wave Machines ']",
-Bad-Bonn,Düdingen,2013-04-13,['The Deep Dark Woods '],
-Kammgarn,Schaffhausen,2013-04-13,['Balkan Beat Box '],
-Schaffhausen,Dillichant,2013-04-13,['Dillichant '],
-Zürich,Waconzy,2013-04-13,['Waconzy '],
-Le-Romandie,Lausanne,2013-04-13,['Shannon Wright '],
-null,Fun-&-Floor,2013-04-13,"['DJ RKK ', ' The Sweet Life Society ']",Electronic
-Zürich,Tusq,2013-04-13,['Tusq '],
-Restaurant-Hirscheneck,Basel,2013-04-13,['Bonesaw 57 '],
-Basel,Technophonix,2013-04-13,"[' Francesco Tristano ', ' Moritz von Oswald ']",Classic
-Wil,Alkaholiks-&-Cali-Agents,2013-04-13,"['Alkaholiks & Cali Agents ', ' suport: Lord Lhus ']",
-Oberentfelden,Green-Frog-Feet,2013-04-13,"['Green Frog Feet ', ' support: Dustineyes ']",
-Bern,Internationales-Jazzfestival-Bern,2013-04-13,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']",
-Stans,Stanser-Musiktage,2013-04-13,"['Nicolas Repac ', ' Nicolas Repac ']",
-Stans,Stanser-Musiktage,2013-04-13,"['Nicolas Repac ', ' Nicolas Repac ']",
-Vernissage,Zermatt,2013-04-13,['Marlon Roudette '],
+,location,event,date,artists,genre
+0,Obere-Matten,Zermatt,2013-04-13,['Pedro Franco '],"['Pedro', 'Franco']"
+1,Cully,Cully-Jazz-Festival,2013-04-13,"[' Ganesh Geymeier ', ' Fabien Sevilla ', ' Jérôme Berney ', "" L'Académie Vocale de Suisse romande ""]","['Jazz', 'Blues', 'Soul']"
+2,Zürich,Classic-Broadway-&-Operette,2013-04-13,"['John Thade ', ' Annkatrin Isaacs ']",['Classic']
+3,Stans,Stanser-Musiktage,2013-04-13,['Kevin Seddiki '],"['Jazz', 'Blues', 'Soul']"
+4,Baden,Black-Stuff-Festival,2013-04-13,['Madison Affair '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Uster,Eldorado,2013-04-13,['Eldorado '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Stans,Stanser-Musiktage,2013-04-13,['Matthias Loibner & Christof Dienz '],"['Jazz', 'Blues', 'Soul']"
+7,Zürich,Aus-der-Tiefe-rufe-ich,2013-04-13,"[' Pascal Marti ', ' Walter Rüeggsegger ']",['Classic']
+8,Bern,Internationales-Jazzfestival-Bern,2013-04-13,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']","['Jazz', 'Blues', 'Soul']"
+9,Cully,Cully-Jazz-Festival,2013-04-13,"['Wayne Paul ', ' Christophe Calpini ', ' Laurent Poget ', ' Julien Charlet ', ' Christophe Chambet ']","['Hip', 'Hop', ""R'n'B""]"
+10,Schützenhaus-Albisgütli,Zürich,2013-04-13,['Piccadilly Six '],"['Piccadilly', 'Six']"
+11,Zürich,Migros-Kulturprozent-Classics,2013-04-13,"[' Marie-Nicole Lemieux ', ' Thomas Grossenbacher ']",['Classic']
+12,Basel,Ein-deutsches-Requiem,2013-04-13,"[' Verena Krause ', ' Andrew Ashwin ']",['Classic']
+13,Zürich,Harfe-Violine-Visuelles,2013-04-13,"[' Corinne Kappeler ', ' Daniel Treyer ']",['Classic']
+14,Stans,Stanser-Musiktage,2013-04-13,"[' Alexander Balanescu ', ' James Shenton ', ' Katie Wilkinson ', ' Nick Holland ', ' Steve Argüelles ']",['Classic']
+15,Zürich,Urban-Cone,2013-04-13,['Urban Cone '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Theater-an-der-Mürg,Stans,2013-04-13,"['Gianmaria Testa ', ' Gabriele Mirabassi ']","['Gianmaria', 'Testa']"
+17,Basel,No-Business-as-Usual,2013-04-13,[' Virgil Moorefield '],['Classic']
+18,Schaffhausen,Canto-General,2013-04-13,"[' Anna Schaffner ', ' Rainer Weiss ']",['Classic']
+19,null,Konzert,2013-04-13,"[' Nils Mönkemeyer ', ' Sabine Erdmann ', ' Andreas Arend ', ' Klaus Dieter Brandt ']",['Classic']
+20,Pratteln,Avantasia,2013-04-13,['Avantasia '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Obere-Matten,Zermatt,2013-04-13,['Skunk Anansie '],"['Skunk', 'Anansie']"
+22,Basel,Robert-Lakatos-Quartet-feat.-Greg-Hutchinson,2013-04-13,"[' Gábor Bolla ', ' Robert Lakatos ', ' Christian Lakatos ', ' Greg Hutchinson ']","['Jazz', 'Blues', 'Soul']"
+23,Moods,Zürich,2013-04-13,"[' Gregor Krtschek ', ' Bernhard Jörg ', ' Jan Müller ', ' Reimar Walthert ', ' Zwyer ', ' Mariann Graber ']","['Molotow', 'Brass', 'Orkestar']"
+24,Zürich,Ethan-Johns,2013-04-13,['Ethan Johns '],['Pop']
+25,Montreux-Music-&-Convention-Centre,Montreux,2013-04-13,['Roch Voisine '],"['Roch', 'Voisine']"
+26,Cully,Cully-Jazz-Festival,2013-04-13,"['Rokia Traoré ', ' Cheick Tidiane Seck 6tet ', ' Cheick Tidiane Seck ', ' Alioune Wade ', ' TBC ', ' Guimba Kouyaté ', ' Madou Koné ', ' Kabiné Kouyaté ']","['world', 'music']"
+27,Cully,Cully-Jazz-Festival,2013-04-13,"[' Philippe Anhorn ', ' Thomas Winteler ']","['Jazz', 'Blues', 'Soul']"
+28,Cully-Jazz-Festival,Cully,2013-04-13,"[' Fabio Pinto ', ' Jeremias Keller ', ' Alex Maurer ', ' Claire Huguenin ']",['Kamikaze']
+29,Thun,Nidi-D'Arac,2013-04-13,"[""Nidi D'Arac ""]",['Electronic']
+30,Zürich,Indie.ch-Nachtschicht:-Urban-Cone,2013-04-13,['Urban Cone '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Luzern,Quintett-Ikarus,2013-04-13,"[' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Moritz Meyer ', ' Ramón Oliveras ']","['Jazz', 'Blues', 'Soul']"
+32,Cully,Cully-Jazz-Festival,2013-04-13,"[' Ganesh Geymeier ', ' Fabien Sevilla ', ' Jérôme Berney ', "" L'Académie Vocale de Suisse romande ""]","['Jazz', 'Blues', 'Soul']"
+33,Cully,Cully-Jazz-Festival,2013-04-13,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+34,Cully,Cully-Jazz-Festival,2013-04-13,"[' Alexandre Wyssmann ', ' Christoph Utzinger ', ' Roberto Titocci ']","['Jazz', 'Blues', 'Soul']"
+35,Zürich,Kapoolas,2013-04-13,"[' Beni Gut ', ' Thomas Luethy ', ' Luka Corman ', ' Philipp Gut ', ' Florian Haas-Schneider ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Luzern,Elder,2013-04-13,"['Elder ', ' Pet the Preacher ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Bern,500-10-Unlimited,2013-04-13,"[' Tian Bosshard ', ' Rico Baumann ', ' Arno Troxler ']",['Electronic']
+38,null,Bankrupt,2013-04-13,"['Bankrupt ', ' Frederic Magne ', ' Vladimir Macheret ', ' Adrien Di Cicco ', ' Xavier Macheret ', ' Florian Macheret ', ' Florian Romanens ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+39,Zürich,Fiesta-latina-candela,2013-04-13,['DJs Francisco Rojos '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+40,Kammgarn,Schaffhausen,2013-04-13,['Balkan Beat Box '],"['Balkan', 'Beat', 'Box']"
+41,Bad-Bonn,Düdingen,2013-04-13,['The Deep Dark Woods '],"['The', 'Deep', 'Dark', 'Woods']"
+42,Oberentfelden,Green-Frog-Feet,2013-04-13,"['Green Frog Feet ', ' support: Dustineyes ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+43,Zürich,Waconzy,2013-04-13,['Waconzy '],"['world', 'music']"
+44,Schaffhausen,Dillichant,2013-04-13,['Dillichant '],"['Hip', 'Hop', ""R'n'B""]"
+45,Le-Romandie,Lausanne,2013-04-13,['Shannon Wright '],"['Shannon', 'Wright']"
+46,Basel,Technophonix,2013-04-13,"[' Francesco Tristano ', ' Moritz von Oswald ']",['Classic']
+47,Bern,Internationales-Jazzfestival-Bern,2013-04-13,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']","['Jazz', 'Blues', 'Soul']"
+48,Zürich,Tusq,2013-04-13,['Tusq '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+49,Restaurant-Hirscheneck,Basel,2013-04-13,['Bonesaw 57 '],"['Baseball', 'Bat', 'Boogie', 'Bastards']"
+50,null,Fun-&-Floor,2013-04-13,"['DJ RKK ', ' The Sweet Life Society ']",['Electronic']
+51,Wil,Alkaholiks-&-Cali-Agents,2013-04-13,"['Alkaholiks & Cali Agents ', ' suport: Lord Lhus ']","['Hip', 'Hop', ""R'n'B""]"
+52,Stans,Stanser-Musiktage,2013-04-13,"['Nicolas Repac ', ' Nicolas Repac ']","['Jazz', 'Blues', 'Soul']"
+53,Stans,Stanser-Musiktage,2013-04-13,"['Nicolas Repac ', ' Nicolas Repac ']","['Jazz', 'Blues', 'Soul']"
+54,Vernissage,Zermatt,2013-04-13,['Marlon Roudette '],"['Marlon', 'Roudette']"

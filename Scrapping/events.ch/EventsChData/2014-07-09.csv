@@ -1,14 +1,13 @@
-location,event,date,artists,genre
-Marly,Jazz-Parade,2014-07-09,"[' Marc Sturzenegger ', ' Denis Michel ', ' voc) Pierre Ponnaz ', ' bjo) Paul Kapp ', ' voc) Patrick Perrier ', ' Gianni Solinas ']",
-Baden,Kluth-&-Meier,2014-07-09,"[' Elmar Kluth ', ' Lukas Meier ']",
-Zürich,Internationale-Orgelkonzerte-Sommerzyklus,2014-07-09,['Andreas Jost '],Classic
-Montreux,Montreux-Jazz-Festival,2014-07-09,"['Jack de Johnette Trio ', ' Isfar Sarabski ']",
-Marly,Jazz-Parade,2014-07-09,"['Mike Stern & Bill Evans Quartet ', ' Mike Stern ', ' Bill Evans ', ' Tom Kennedy ', ' Dennis Chambers ']",
-Dornach,La-Banda-Ki,2014-07-09,"['Volker Biesenbender ', ' Michelangelo Rinaldi ', ' Clara Gervais ']",Classic
-Zürich,The-Internet,2014-07-09,['The Internet '],
-Zürich,The-Internet,2014-07-09,['The Internet '],
-Montreux,Montreux-Jazz-Festival,2014-07-09,"['Outkast ', ' Jungle ']",
-Basel,La-Box,2014-07-09,"[' Marco Figini ', ' Roland Köppel ', ' Michael Wipf ']",
-Montreux,Montreux-Jazz-Festival,2014-07-09,"['Goldfrapp ', ' London Grammar ']",Pop
-Zürich,Live-at-Sunset,2014-07-09,['Robert Plant & Sensational Space Shifters '],
-Zürich,Renzo-Spotti-Trio,2014-07-09,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
+,location,event,date,artists,genre
+0,Baden,Kluth-&-Meier,2014-07-09,"[' Elmar Kluth ', ' Lukas Meier ']","['Jazz', 'Blues', 'Soul']"
+1,Marly,Jazz-Parade,2014-07-09,"[' Marc Sturzenegger ', ' Denis Michel ', ' voc) Pierre Ponnaz ', ' bjo) Paul Kapp ', ' voc) Patrick Perrier ', ' Gianni Solinas ']","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Internationale-Orgelkonzerte-Sommerzyklus,2014-07-09,['Andreas Jost '],['Classic']
+3,Z?rich,The-Internet,2014-07-09,['The Internet '],"['Hip', 'Hop', ""R'n'B""]"
+4,Montreux,Montreux-Jazz-Festival,2014-07-09,"['Outkast ', ' Jungle ']","['Hip', 'Hop', ""R'n'B""]"
+5,Montreux,Montreux-Jazz-Festival,2014-07-09,"['Jack de Johnette Trio ', ' Isfar Sarabski ']","['Jazz', 'Blues', 'Soul']"
+6,Dornach,La-Banda-Ki,2014-07-09,"['Volker Biesenbender ', ' Michelangelo Rinaldi ', ' Clara Gervais ']",['Classic']
+7,Marly,Jazz-Parade,2014-07-09,"[' Bill Evans Quartet ', ' Mike Stern ', ' Bill Evans ', ' Tom Kennedy ', ' Dennis Chambers ']","['Jazz', 'Blues', 'Soul']"
+8,Montreux,Montreux-Jazz-Festival,2014-07-09,"['Goldfrapp ', ' London Grammar ']",['Pop']
+9,Z?rich,Live-at-Sunset,2014-07-09,[' Sensational Space Shifters '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Basel,La-Box,2014-07-09,"[' Marco Figini ', ' Roland K?ppel ', ' Michael Wipf ']","['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Renzo-Spotti-Trio,2014-07-09,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"

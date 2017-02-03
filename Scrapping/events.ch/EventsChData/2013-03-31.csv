@@ -1,17 +1,17 @@
-location,event,date,artists,genre
-null,Electron-Festival,2013-03-31,"['Stereo Hypnosis ', ' Harrison Chord ']",Electronic
-Zürich,Kala-Ramnath-&-Gurdain-Rayatt,2013-03-31,['Kala Ramnath & Gurdain Rayatt '],
-Zürich,Original-und-Bearbeitung,2013-03-31,"['Elisabeth Harringer-Pignat ', ' Cathrin Kudelka ', ' Antonia Siegers ', ' Johannes Gürth ', ' Mattia Zappa ']",Classic
-Zürich,Helles-Fest-Konzert-zu-Ostern,2013-03-31,"[' Andreas Wildi ', ' Mario Von Holten ']",Classic
-Luzern,Caró,2013-03-31,['Caró '],Pop
-Zürich,Ostersonntag,2013-03-31,"['Hossein Samieian ', ' Felix Gubser ']",Classic
-Zürich,Osterklang,2013-03-31,[' Varvara '],Classic
-Mascotte,Zürich,2013-03-31,['Adam Green & Binki Shapiro '],
-Basel,Retro-Stefson,2013-03-31,['Retro Stefson '],
-Bern,Geoff-Berner-Trio,2013-03-31,['Geoff Berner Trio '],Pop
-Luzern,Festliche-Melodien,2013-03-31,"['Martin Schaefer ', ' Richard Decker ']",Classic
-Wädenswil,Pâqu'son-Musikfestival,2013-03-31,['Raaga Trio '],Pop
-Schaffhausen,Child-Bite,2013-03-31,['Child Bite '],
-Bern,Kolektif-Istanbul,2013-03-31,"['Kolektif Istanbul ', ' Richard Laniepce ', ' Asl Dogan ', ' Tamer Karaoglu ', ' Talat Karaoglu ', ' Ertan Sahin ', ' Ediz Hafizoglu ']",
-Krummenau,Ostertanzfest,2013-03-31,['Benji Boko '],Electronic
-Zug,A.-Spell,2013-03-31,"['A. Spell ', ' Nadja Stoller ', ' Jan Galega Brönnimann ', ' Ronan Skillen ']",Electronic
+,location,event,date,artists,genre
+0,null,Electron-Festival,2013-03-31,"['Stereo Hypnosis ', ' Harrison Chord ']",['Electronic']
+1,Zürich,Kala-Ramnath-&-Gurdain-Rayatt,2013-03-31,['Kala Ramnath & Gurdain Rayatt '],"['world', 'music']"
+2,Zürich,Original-und-Bearbeitung,2013-03-31,"['Elisabeth Harringer-Pignat ', ' Cathrin Kudelka ', ' Antonia Siegers ', ' Johannes Gürth ', ' Mattia Zappa ']",['Classic']
+3,Zürich,Helles-Fest-Konzert-zu-Ostern,2013-03-31,"[' Andreas Wildi ', ' Mario Von Holten ']",['Classic']
+4,Luzern,Caró,2013-03-31,['Caró '],['Pop']
+5,Zürich,Ostersonntag,2013-03-31,"['Hossein Samieian ', ' Felix Gubser ']",['Classic']
+6,Zürich,Osterklang,2013-03-31,[' Varvara '],['Classic']
+7,Mascotte,Zürich,2013-03-31,['Adam Green & Binki Shapiro '],"['Adam', 'Green']"
+8,Bern,Geoff-Berner-Trio,2013-03-31,['Geoff Berner Trio '],['Pop']
+9,Luzern,Festliche-Melodien,2013-03-31,"['Martin Schaefer ', ' Richard Decker ']",['Classic']
+10,Basel,Retro-Stefson,2013-03-31,['Retro Stefson '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Schaffhausen,Child-Bite,2013-03-31,['Child Bite '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Wädenswil,Pâqu'son-Musikfestival,2013-03-31,['Raaga Trio '],['Pop']
+13,Bern,Kolektif-Istanbul,2013-03-31,"['Kolektif Istanbul ', ' Richard Laniepce ', ' Asl Dogan ', ' Tamer Karaoglu ', ' Talat Karaoglu ', ' Ertan Sahin ', ' Ediz Hafizoglu ']","['world', 'music']"
+14,Zug,A.-Spell,2013-03-31,"['A. Spell ', ' Nadja Stoller ', ' Jan Galega Brönnimann ', ' Ronan Skillen ']",['Electronic']
+15,Krummenau,Ostertanzfest,2013-03-31,['Benji Boko '],['Electronic']

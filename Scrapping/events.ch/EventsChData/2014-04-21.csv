@@ -1,6 +1,6 @@
-location,event,date,artists,genre
-Zürich,Festtags-Matinee,2014-04-21,"['Elisabeth Harringer-Pignat ', ' Gilad Karni ', ' Xavier Pignat ', ' Sarah Verrue ']",Classic
-Zürich,Sohn,2014-04-21,['Sohn '],Electronic
-Zürich,Dark-Horses,2014-04-21,['Dark Horses '],
-Zürich,EF,2014-04-21,['EF '],
-Zürich,Milya,2014-04-21,"[' Rahel Studer ', ' Ambrosius Huber ', ' Beat Oezmen ', ' Dave Demuth ', ' Andreas Wettstein ']",Pop
+,location,event,date,artists,genre
+0,Z?rich,Festtags-Matinee,2014-04-21,"['Elisabeth Harringer-Pignat ', ' Gilad Karni ', ' Xavier Pignat ', ' Sarah Verrue ']",['Classic']
+1,Z?rich,Dark-Horses,2014-04-21,['Dark Horses '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Z?rich,EF,2014-04-21,['EF '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,Sohn,2014-04-21,['Sohn '],['Electronic']
+4,Z?rich,Milya,2014-04-21,"[' Rahel Studer ', ' Ambrosius Huber ', ' Beat Oezmen ', ' Dave Demuth ', ' Andreas Wettstein ']",['Pop']

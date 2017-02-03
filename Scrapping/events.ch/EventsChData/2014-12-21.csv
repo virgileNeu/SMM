@@ -1,29 +1,29 @@
-location,event,date,artists,genre
-Zürich,Musik-Gottesdienst,2014-12-21,[' Jakob Pilgram '],Classic
-Zürich,Sing-Gottesdienst-zum-4.-Advent,2014-12-21,['Andreas Jost '],Classic
-Luzern,New-Harlem-Ramblers,2014-12-21,"[' Heinz Bühler ', ' Rolf Treichler ', ' Nic Engler ', ' Richard Decker ', ' Ruedi Morgenthaler ', ' Jurek Stawarz ', ' Rolf Bänninger ']",
-Zürich,Glantaler-Power-Men,2014-12-21,['Glantaler Power Men '],Pop
-Luzern,Konzert,2014-12-21,"[' Regula Mühlemann ', ' Ingrid Alexandre ', ' Jörg Dürrmüller ', ' Lisandro Abadie ']",Classic
-Zürich,Benefizkonzert-MS-Gesellschaft,2014-12-21,"[' Christoph Pfändler ', ' Eliana Burki ']",Classic
-Uster,Adventskonzert,2014-12-21,"[' Letizia Fiorenza ', ' David Sautter ']",
-Zürich,Brunchkonzert,2014-12-21,"['Patricia Kopatchinskaja ', ' Eoin Andersen ', ' Marianne Borling ', ' Janet van Hasselt ', ' Daniel Kagerer ']",Classic
-Zürich,Glantaler-Power-Men,2014-12-21,['Glantaler Power Men '],Pop
-Palais-des-Congrès,null,2014-12-21,"[' Elodie Kimmel ', ' Jordanka Milkova ', ' Christian Baumgärtel ', ' Marc-Olivier Oetterli ']",Classic
-Basel,Von-der-Klassik-zur-Romantik,2014-12-21,"['Stephanie Schacht ', ' Martin Roos ', ' Sally Fortino ']",Classic
-Bern,Konzert,2014-12-21,"[' Anne-Florence Marbot ', ' Michaela Unsinn ', ' Jan Martin Mächler ', ' Dominik Worner ']",Classic
--Alte-Kirche,Boswil,2014-12-21,"[' Andri Calonder ', ' Enrico Orlandi ', ' Valentin Akça ', '\r\nGordon Schultz ']",Classic
-Zürich,Classic-Christmas-Tour,2014-12-21,['The Ten Tenors '],Classic
-Riehen,Weihnachtskonzert,2014-12-21,"[' Caroline Grandhomme ', ' Tonio Passlick ']",Classic
-Zürich,Adventskonzert,2014-12-21,"[' Georgia Milanesi ', ' Daria Zappa ', ' Nora Peterhans ', ' Pascal Suter ']",Classic
-Basel,Stimmen-im-Advent,2014-12-21,"[' Kathleen Dineen ', ' Robert Getchell ', ' Mathias Spöri ']",Classic
-Wädenswil,Primo-piano,2014-12-21,['Marika Gelashvili '],Classic
-null,Fabian-Reyes,2014-12-21,['Fabian Reyes '],
-Basel,Magnificat,2014-12-21,"[' Gudrun Sidonie Otto ', ' Ulrike Andersen ', ' David Munderloh ', ' Samuel Hasselhorn ']",Classic
-Luzern,Weihnachtsoratorium,2014-12-21,"[' Hana Blazíková ', ' Marie-Claude Chappuis ', ' Thomas Hobbs ', ' Peter Harvey ']",Classic
-Zürich,Moriarty,2014-12-21,"[' Rosemary Standley ', ' Arthur Gillette ', ' Stéphane Zimmerli ', ' Thomas Puechavy ']",Pop
-Zürich,Weihnachts-Sinfoniekonzert,2014-12-21,[' Sergej Nakariakov '],Classic
-Bern,Lydia-Lunch-&-Big-Sexy-Noise,2014-12-21,['Lydia Lunch & Big Sexy Noise '],
-Bern,Lelahell,2014-12-21,['Lelahell '],
-Zürich,Swanky-Mothers'-Series-XXI,2014-12-21,"['Jonas Labhart ', ' Marius Peyer ', ' Urs Vögeli ']",
-Bern,Bugge-Wesseltoft-,2014-12-21,"['Bugge Wesseltoft ', ' Vera Kappeler ']",
-Zürich,John-Francis,2014-12-21,['John Francis '],
+,location,event,date,artists,genre
+0,Z?rich,Musik-Gottesdienst,2014-12-21,[' Jakob Pilgram '],['Classic']
+1,Z?rich,Sing-Gottesdienst-zum-4.-Advent,2014-12-21,['Andreas Jost '],['Classic']
+2,Luzern,New-Harlem-Ramblers,2014-12-21,"[' Heinz B?hler ', ' Rolf Treichler ', ' Nic Engler ', ' Richard Decker ', ' Ruedi Morgenthaler ', ' Jurek Stawarz ', ' Rolf B?nninger ']","['Jazz', 'Blues', 'Soul']"
+3,Z?rich,Benefizkonzert-MS-Gesellschaft,2014-12-21,"[' Christoph Pf?ndler ', ' Eliana Burki ']",['Classic']
+4,Z?rich,Glantaler-Power-Men,2014-12-21,['Glantaler Power Men '],['Pop']
+5,Luzern,Konzert,2014-12-21,"[' Regula M?hlemann ', ' Ingrid Alexandre ', ' J?rg D?rrm?ller ', ' Lisandro Abadie ']",['Classic']
+6,Uster,Adventskonzert,2014-12-21,"[' Letizia Fiorenza ', ' David Sautter ']","['world', 'music']"
+7,Z?rich,Brunchkonzert,2014-12-21,"['Patricia Kopatchinskaja ', ' Eoin Andersen ', ' Marianne Borling ', ' Janet van Hasselt ', ' Daniel Kagerer ']",['Classic']
+8,Z?rich,Glantaler-Power-Men,2014-12-21,['Glantaler Power Men '],['Pop']
+9,Basel,Von-der-Klassik-zur-Romantik,2014-12-21,"['Stephanie Schacht ', ' Martin Roos ', ' Sally Fortino ']",['Classic']
+10,Bern,Konzert,2014-12-21,"[' Anne-Florence Marbot ', ' Michaela Unsinn ', ' Jan Martin M?chler ', ' Dominik Worner ']",['Classic']
+11,Palais-des-Congr?s,null,2014-12-21,"[' Elodie Kimmel ', ' Jordanka Milkova ', ' Christian Baumg?rtel ', ' Marc-Olivier Oetterli ']",['Classic']
+12,Riehen,Weihnachtskonzert,2014-12-21,"[' Caroline Grandhomme ', ' Tonio Passlick ']",['Classic']
+13,Z?rich,Classic-Christmas-Tour,2014-12-21,['The Ten Tenors '],['Classic']
+14,-Alte-Kirche,Boswil,2014-12-21,"[' Andri Calonder ', ' Enrico Orlandi ', ' Valentin Ak?a ', '\r\nGordon Schultz ']",['Classic']
+15,Z?rich,Adventskonzert,2014-12-21,"[' Georgia Milanesi ', ' Daria Zappa ', ' Nora Peterhans ', ' Pascal Suter ']",['Classic']
+16,Basel,Stimmen-im-Advent,2014-12-21,"[' Kathleen Dineen ', ' Robert Getchell ', ' Mathias Sp?ri ']",['Classic']
+17,W?denswil,Primo-piano,2014-12-21,['Marika Gelashvili '],['Classic']
+18,Basel,Magnificat,2014-12-21,"[' Gudrun Sidonie Otto ', ' Ulrike Andersen ', ' David Munderloh ', ' Samuel Hasselhorn ']",['Classic']
+19,null,Fabian-Reyes,2014-12-21,['Fabian Reyes '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Luzern,Weihnachtsoratorium,2014-12-21,"[' Hana Blaz?kov? ', ' Marie-Claude Chappuis ', ' Thomas Hobbs ', ' Peter Harvey ']",['Classic']
+21,Z?rich,Moriarty,2014-12-21,"[' Rosemary Standley ', ' Arthur Gillette ', ' St?phane Zimmerli ', ' Thomas Puechavy ']",['Pop']
+22,Z?rich,Weihnachts-Sinfoniekonzert,2014-12-21,[' Sergej Nakariakov '],['Classic']
+23,Bern,Lydia-Lunch-&-Big-Sexy-Noise,2014-12-21,[' Big Sexy Noise '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Bern,Lelahell,2014-12-21,['Lelahell '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Z?rich,Swanky-Mothers'-Series-XXI,2014-12-21,"['Jonas Labhart ', ' Marius Peyer ', ' Urs V?geli ']","['Jazz', 'Blues', 'Soul']"
+26,Bern,Bugge-Wesseltoft-,2014-12-21,"['Bugge Wesseltoft ', ' Vera Kappeler ']","['Jazz', 'Blues', 'Soul']"
+27,Z?rich,John-Francis,2014-12-21,['John Francis '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

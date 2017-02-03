@@ -1,44 +1,43 @@
-location,event,date,artists,genre
-Hüntwangen,Stars-Meet-Amphi,2014-09-05,"[' Dorfrocker ', ' Peter Wackel ', ' DJ Ramazotti ']",
-Schwarzsee,22.-Country-Night-Schwarzsee,2014-09-05,[' Two Rocks '],
-Veyras,Fauve,2014-09-05,"['Fauve ', ' Jethro Tulls Ian Anderson ', ' Birth of Joy ']",
-Luzern,Piano-Entertainment,2014-09-05,['Mega Horvath '],Pop
-Basel,Orgelspiel-zum-Feierabend,2014-09-05,['Max Sonnleitner '],Classic
-Dietikon,Feierabendmusik,2014-09-05,[' Bernhard Hörler '],Classic
-Liestal,Lucky-the-Girl,2014-09-05,[' Michèle Thommen '],Pop
-Dübendorf,Zugluft,2014-09-05,"[' Andrea Kirchhofer ', ' Bruno Strüby ', ' Jonas Guggenheim ']",
-Basel,Fagott-empfindsam,2014-09-05,[' Sergio Azzolini '],Classic
-Bern,Bruckners-Zweite,2014-09-05,[' Conrad Tao '],Classic
-Gstaad,Menuhin-Festival-Gstaad,2014-09-05,"[' Gaston Rivero ', ' Vesselina Kasarova ']",Classic
-Männedorf,Harfe-Violine-Visuelles,2014-09-05,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-Luzern,Sinfoniekonzert-19,2014-09-05,[' Leonidas Kavakos '],Classic
-null,Tänzerische-Serenade,2014-09-05,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-Zürich,Singet-dem-Herrn,2014-09-05,"['Junges Vokalensemble Hannover ', ' Johannes Lenz ']",Classic
-Lyss,Selah-Sue,2014-09-05,['Selah Sue '],Pop
-Liestal,Florian-Ast,2014-09-05,"[' Florian Ast ', ' Maik Ast ', ' Peter Keiser ', ' Martin Chabloz ', ' Art Wicki ', ' Manfred Udry ']",Pop
-Zürich,Seizmo-&-Rouman,2014-09-05,['Seizmo & Rouman '],
-Altikon,Schlosshof-Musikkollektiv,2014-09-05,"[' Chip Huggenberg ', ' Marius Peyer ', ' Beat Gisler ', ' Carles Peris ']",
-Aarau,Liederabend,2014-09-05,"['Valentin Johannes Gloor ', ' Rahel Sohn Achermann ']",Classic
-Zürich,Sentimental-Journey,2014-09-05,"[' Samuel Zünd ', ' Catriona Bühler ', ' Julia Schiwowa ', ' Helen Iten ', ' Fridolin Blumer ']",Pop
-Winterthur,Hans-Feigenwinter-Zinc,2014-09-05,"[' Hans Feigenwinter ', ' Andreas Tschopp ', ' Domenic Landolf ']",
-Zürich,Solothurnmann's-Next,2014-09-05,"[' Silvan Jeger ', ' Jürg Solothurnmann ', ' Dieter Ulrich ', ' Beat Unternährer ']",
-Sins,Morblus-&-Big-Daddy-Wilson-Electric-Project,2014-09-05,['Morblus & Big Daddy Wilson Electric Project '],
-Baden,Handful-of-Blues,2014-09-05,"[' Patrik Schneider ', ' Paul Schneider ', ' Imad Barnieh ']",
-Basel,Vintage-Edition,2014-09-05,"[' Isla Eckinger ', ' Vince Benedetti ', ' Michael Chylewski ', ' Tobias Friedli ']",
-Zürich,Brain-Bucket,2014-09-05,"[' Kevin Massini ', ' Chrigi Fässler ', ' Diegeo Wüest ', ' Severin Wüest ', ' Tabea von Ow ']",
-Uster,Eröffnungskonzert,2014-09-05,"[' Mario Schneeberger ', ' Melch Däniker ', ' Roman Dylag ', ' Fernand Schlumpf ']",
-Zürich,King-Charles-&-Band,2014-09-05,['King Charles & Band '],Pop
-Olten,Ganjaforce-&-Max-Ruba-Dub,2014-09-05,[' DJs Randy Valentine '],
-Solothurn,Insane-Festival,2014-09-05,"['Zomboy ', ' Haezer ']",Electronic
-Bern,Philipp-Bluedög-Gerber-Band,2014-09-05,"[' Philipp Bluedög Gerber ', ' J.C. Wirth ', ' Freddy Steady ', ' Brigitte Geiser ']",
-Aarau,The-Eastern,2014-09-05,['The Eastern '],
-Zürich,Siôn-Russell-Jones,2014-09-05,['Siôn Russel Jones '],
-Schaffhausen,Pentagram,2014-09-05,['Pentagram '],
-Kriens,Pink-Bliss,2014-09-05,['Pink Bliss '],Pop
-Luzern,Kora-Trio,2014-09-05,['Kora Trio '],
-Bar,Bistro,2014-09-05,"[' Simon Heggendorn ', ' Ronny Spiegel ', ' David Schnee ', ' Solme Hong ']",Classic
-Bern,Chronixx-&-The-Zincfence-Redemption,2014-09-05,['Chronixx & The Zincfence Redemption '],
-Solothurn,The-Vibrators,2014-09-05,['The Vibrators '],
-Lausanne,Electrosanne-Festival,2014-09-05,"['Ten Walls ', ' DJs Paco Osuna ']",Electronic
-Lausanne,Electrosanne,2014-09-05,"['DJs El hijo de la cumbia ', ' James Stewart ']",Electronic
-Lyss,Foreign-Beggars,2014-09-05,['Foreign Beggars '],
+,location,event,date,artists,genre
+0,H?ntwangen,Stars-Meet-Amphi,2014-09-05,"[' Dorfrocker ', ' Peter Wackel ', ' DJ Ramazotti ']","['Pop', 'Oldies']"
+1,Veyras,Fauve,2014-09-05,"['Fauve ', ' Jethro Tulls Ian Anderson ', ' Birth of Joy ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Schwarzsee,22.-Country-Night-Schwarzsee,2014-09-05,[' Two Rocks '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Luzern,Piano-Entertainment,2014-09-05,['Mega Horvath '],['Pop']
+4,Basel,Orgelspiel-zum-Feierabend,2014-09-05,['Max Sonnleitner '],['Classic']
+5,Dietikon,Feierabendmusik,2014-09-05,[' Bernhard H?rler '],['Classic']
+6,Liestal,Lucky-the-Girl,2014-09-05,[' Mich?le Thommen '],['Pop']
+7,Luzern,Sinfoniekonzert-19,2014-09-05,[' Leonidas Kavakos '],['Classic']
+8,Gstaad,Menuhin-Festival-Gstaad,2014-09-05,"[' Gaston Rivero ', ' Vesselina Kasarova ']",['Classic']
+9,M?nnedorf,Harfe-Violine-Visuelles,2014-09-05,"[' Corinne Kappeler ', ' Daniel Treyer ']",['Classic']
+10,Bern,Bruckners-Zweite,2014-09-05,[' Conrad Tao '],['Classic']
+11,null,T?nzerische-Serenade,2014-09-05,"[' Praxedis Hug-R?tti ', ' Praxedis Genevi?ve Hug ']",['Classic']
+12,Basel,Fagott-empfindsam,2014-09-05,[' Sergio Azzolini '],['Classic']
+13,Z?rich,Singet-dem-Herrn,2014-09-05,"['Junges Vokalensemble Hannover ', ' Johannes Lenz ']",['Classic']
+14,Lyss,Selah-Sue,2014-09-05,['Selah Sue '],['Pop']
+15,Liestal,Florian-Ast,2014-09-05,"[' Florian Ast ', ' Maik Ast ', ' Peter Keiser ', ' Martin Chabloz ', ' Art Wicki ', ' Manfred Udry ']",['Pop']
+16,Z?rich,Seizmo-&-Rouman,2014-09-05,[' Rouman '],"['Hip', 'Hop', ""R'n'B""]"
+17,Z?rich,Sentimental-Journey,2014-09-05,"[' Samuel Z?nd ', ' Catriona B?hler ', ' Julia Schiwowa ', ' Helen Iten ', ' Fridolin Blumer ']",['Pop']
+18,Aarau,Liederabend,2014-09-05,"['Valentin Johannes Gloor ', ' Rahel Sohn Achermann ']",['Classic']
+19,Altikon,Schlosshof-Musikkollektiv,2014-09-05,"[' Chip Huggenberg ', ' Marius Peyer ', ' Beat Gisler ', ' Carles Peris ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Solothurnmann's-Next,2014-09-05,"[' Silvan Jeger ', ' J?rg Solothurnmann ', ' Dieter Ulrich ', ' Beat Untern?hrer ']","['Jazz', 'Blues', 'Soul']"
+21,Winterthur,Hans-Feigenwinter-Zinc,2014-09-05,"[' Hans Feigenwinter ', ' Andreas Tschopp ', ' Domenic Landolf ']","['Jazz', 'Blues', 'Soul']"
+22,Uster,Er?ffnungskonzert,2014-09-05,"[' Mario Schneeberger ', ' Melch D?niker ', ' Roman Dylag ', ' Fernand Schlumpf ']","['Jazz', 'Blues', 'Soul']"
+23,Sins,Morblus-&-Big-Daddy-Wilson-Electric-Project,2014-09-05,[' Big Daddy Wilson Electric Project '],"['Hip', 'Hop', ""R'n'B""]"
+24,Z?rich,Brain-Bucket,2014-09-05,"[' Kevin Massini ', ' Chrigi F?ssler ', ' Diegeo W?est ', ' Severin W?est ', ' Tabea von Ow ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Baden,Handful-of-Blues,2014-09-05,"[' Patrik Schneider ', ' Paul Schneider ', ' Imad Barnieh ']","['Jazz', 'Blues', 'Soul']"
+26,Basel,Vintage-Edition,2014-09-05,"[' Isla Eckinger ', ' Vince Benedetti ', ' Michael Chylewski ', ' Tobias Friedli ']","['Jazz', 'Blues', 'Soul']"
+27,Z?rich,Si?n-Russell-Jones,2014-09-05,['Si?n Russel Jones '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Kriens,Pink-Bliss,2014-09-05,['Pink Bliss '],['Pop']
+29,Schaffhausen,Pentagram,2014-09-05,['Pentagram '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Solothurn,Insane-Festival,2014-09-05,"['Zomboy ', ' Haezer ']",['Electronic']
+31,Aarau,The-Eastern,2014-09-05,['The Eastern '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Z?rich,King-Charles-&-Band,2014-09-05,[' Band '],['Pop']
+33,Olten,Ganjaforce-&-Max-Ruba-Dub,2014-09-05,[' DJs Randy Valentine '],"['Hip', 'Hop', ""R'n'B""]"
+34,Bern,Philipp-Blued?g-Gerber-Band,2014-09-05,"[' Philipp Blued?g Gerber ', ' J.C. Wirth ', ' Freddy Steady ', ' Brigitte Geiser ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Luzern,Kora-Trio,2014-09-05,['Kora Trio '],"['world', 'music']"
+36,Solothurn,The-Vibrators,2014-09-05,['The Vibrators '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Bern,Chronixx-&-The-Zincfence-Redemption,2014-09-05,[' The Zincfence Redemption '],"['world', 'music']"
+38,Bar,Bistro,2014-09-05,"[' Simon Heggendorn ', ' Ronny Spiegel ', ' David Schnee ', ' Solme Hong ']",['Classic']
+39,Lausanne,Electrosanne-Festival,2014-09-05,"['Ten Walls ', ' DJs Paco Osuna ']",['Electronic']
+40,Lausanne,Electrosanne,2014-09-05,"['DJs El hijo de la cumbia ', ' James Stewart ']",['Electronic']
+41,Lyss,Foreign-Beggars,2014-09-05,['Foreign Beggars '],"['Hip', 'Hop', ""R'n'B""]"

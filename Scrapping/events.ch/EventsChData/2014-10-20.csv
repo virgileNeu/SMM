@@ -1,19 +1,19 @@
-location,event,date,artists,genre
-Zürich,13.-Förderkonzert-junger-Solisten,2014-10-20,"['Victor Julien-Laferrière ', ' Daniel Kharitonov ', ' Seyoung Park ']",Classic
-Zürich,L'amour-French-Arias,2014-10-20,"['Juan Diego Floréz ', ' Vincenzo Scalera ']",Classic
-Luzern,Foreigner,2014-10-20,['Foreigner '],
-Chur,Flug,2014-10-20,"[' Riccarda Caflisch ', ' David Sontòn Caflisch ', ' Genevieve Camenisch ', ' Christian Hieronymi ', ' Asiya Ahmetjanova ']",Classic
-Zürich,Owls-By-Nature,2014-10-20,['Owls By Nature '],
-Pratteln,Mr.-Big,2014-10-20,['Mr. Big '],
-Zürich,Caribou-ausverkauft,2014-10-20,"['Caribou ', ' Jessy Lanza ']",Electronic
-Zürich,Nik-Bärtsch's-Mobile-Extended,2014-10-20,"[' Nik Bärtsch ', ' Sha ', ' Kaspar Rast ', ' Nicolas Stocker ', ' Etienne Abelin ', ' Ola Sendecki ']",
-null,Marianne-Racine,2014-10-20,"[' Marianne Racine ', ' Daniel Baschnagel ', ' Patrick Sommer ', ' Pius Baschnagel ']",
-null,James-Vincent-McMorrow,2014-10-20,"['James Vincent McMorrow ', ' I Have a Tribe ']",Electronic
-Zürich,Skillet,2014-10-20,['Skillet '],
-Baden,Potage-du-jour,2014-10-20,"[' Christoph Baumann ', ' Franziska Baumann ', ' Jürg Solothurnmann ']",
-null,Tesseract-&-Animals-Leaders,2014-10-20,"['Tesseract & Animals Leaders ', ' Animals as Leaders ']",
-Zürich,Allah-Las,2014-10-20,['Allah-Las '],
-Basel,Jazzkollektiv,2014-10-20,"[' George Ricci ', ' Dominik Schürmann ', ' Samuel Dühsler ']",
-Winterthur,Martin-Kohlstedt,2014-10-20,['Martin Kohlstedt '],Electronic
-Zürich,Portrait-mit-Unterbrüchen,2014-10-20,"['Tamriko Kordzaia ', ' Axel Dörner ']",Classic
-Zürich,John-Scofield-Trio-feat.-Steve-Swallow-&-Bill-Stewart,2014-10-20,"['John Scofield Trio feat. Steve Swallow & Bill Stewart ', ' John Scofield ', ' Steve Swallow ', ' Bill Stewart ']",Pop
+,location,event,date,artists,genre
+0,Z?rich,L'amour-French-Arias,2014-10-20,"['Juan Diego Flor?z ', ' Vincenzo Scalera ']",['Classic']
+1,Z?rich,13.-F?rderkonzert-junger-Solisten,2014-10-20,"['Victor Julien-Laferri?re ', ' Daniel Kharitonov ', ' Seyoung Park ']",['Classic']
+2,Luzern,Foreigner,2014-10-20,['Foreigner '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,null,Marianne-Racine,2014-10-20,"[' Marianne Racine ', ' Daniel Baschnagel ', ' Patrick Sommer ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+4,Chur,Flug,2014-10-20,"[' Riccarda Caflisch ', ' David Sont?n Caflisch ', ' Genevieve Camenisch ', ' Christian Hieronymi ', ' Asiya Ahmetjanova ']",['Classic']
+5,Z?rich,Nik-B?rtsch's-Mobile-Extended,2014-10-20,"[' Nik B?rtsch ', ' Sha ', ' Kaspar Rast ', ' Nicolas Stocker ', ' Etienne Abelin ', ' Ola Sendecki ']","['Jazz', 'Blues', 'Soul']"
+6,null,James-Vincent-McMorrow,2014-10-20,"['James Vincent McMorrow ', ' I Have a Tribe ']",['Electronic']
+7,Pratteln,Mr.-Big,2014-10-20,['Mr. Big '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Z?rich,Caribou-ausverkauft,2014-10-20,"['Caribou ', ' Jessy Lanza ']",['Electronic']
+9,Z?rich,Owls-By-Nature,2014-10-20,['Owls By Nature '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Z?rich,Skillet,2014-10-20,['Skillet '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Baden,Potage-du-jour,2014-10-20,"[' Christoph Baumann ', ' Franziska Baumann ', ' J?rg Solothurnmann ']","['Jazz', 'Blues', 'Soul']"
+12,Z?rich,John-Scofield-Trio-feat.-Steve-Swallow-&-Bill-Stewart,2014-10-20,"[' Bill Stewart ', ' John Scofield ', ' Steve Swallow ', ' Bill Stewart ']",['Pop']
+13,null,Tesseract-&-Animals-Leaders,2014-10-20,"[' Animals Leaders ', ' Animals as Leaders ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Z?rich,Allah-Las,2014-10-20,['Allah-Las '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Winterthur,Martin-Kohlstedt,2014-10-20,['Martin Kohlstedt '],['Electronic']
+16,Basel,Jazzkollektiv,2014-10-20,"[' George Ricci ', ' Dominik Sch?rmann ', ' Samuel D?hsler ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Portrait-mit-Unterbr?chen,2014-10-20,"['Tamriko Kordzaia ', ' Axel D?rner ']",['Classic']

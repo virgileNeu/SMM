@@ -1,23 +1,23 @@
-location,event,date,artists,genre
-Winterthur,Die-Kultursuppe,2015-01-21,['Roger Girod '],
-Pratteln,Sick-of-It-All,2015-01-21,['Sick of It All '],
-Zürich,Mozart-plus,2015-01-21,"[' Simon Wiener ', ' Tjasha Gafner ']",Classic
-Thun,Tinu-Heiniger,2015-01-21,['Tinu Heiniger '],Pop
-Basel,Weihnachtsoratorium,2015-01-21,"[' Sabrina Hintermann ', ' Maria Salazar ', ' Olga Machonova ', ' Dieter Wagner ']",Classic
-Bern,Konzert,2015-01-21,[' Khatia Buniatishvili '],Classic
-Zürich,New-4-Art-Plays-Paraphrasen,2015-01-21,"[' Jens Ruland ', ' Julien Megroz ', ' Faristamo Susi ', ' Judith Wegmann ']",Classic
-Palais-des-Congrès,null,2015-01-21,[' Regula Mühlemann '],Classic
-Zürich,Comet-Control,2015-01-21,"['Comet Control ', ' Harsh Toke ']",
-Zürich,Fjørt,2015-01-21,['Fjørt '],
-Zürich,Jazzbaragge-Wednesday-Jam,2015-01-21,"['Marie Krüttli ', ' Lukas Traxel ', ' Dominik Burkhalter ']",
-Luzern,Jam-Session,2015-01-21,"[' Claudio Berger ', ' Flurin Iten ', ' Lukas Derungs ', ' Claudio von Arx ', ' Fabian Hänni ']",
-null,Die-Weber,2015-01-21,['Stummfilm '],Classic
-Winterthur,Jazz-am-Mittwoch,2015-01-21,"[' Nathalie Saudan ', ' Philippe Koller ', ' Philippe Ehinger ', ' Pierre-François Massy ', ' Sylvain Fournier ']",
-Zürich,Ensemble-5,2015-01-21,"[' Fridolin Blumer ', ' Heinz Geisser ', ' Robert Morgenthaler ', ' Reto Staub ', ' Marco von Orelli ']",
-Zürich,Bukowski,2015-01-21,['The Dad Horse Experience '],
-null,Nacht-des-Fado,2015-01-21,"[' Luisa Rocha ', ' Carlos Leitao ', ' Henrique Leitao ', ' Carlos Menezes ']",
-Bern,Ania-Losinger-&-Mats-Eser,2015-01-21,"[' Ania Losinger ', ' Mats Eser ']",
-Zürich,Music-Revelation-Ensemble,2015-01-21,"['Music Revelation Ensemble ', ' James Blood Ulmer ', ' Calvin The Truth Jones ', ' Aubrey Dayle ']",
-Baden,Wiesendanger-&-Pittini,2015-01-21,"[' Chris Wiesendanger ', ' Alessandro Pittini ']",
-Rubigen,Wishbone-Ash,2015-01-21,['Wishbone Ash '],
-Zürich,Motherwell-Johnston-&-C.-Gibbs,2015-01-21,['Motherwell Johnston & C. Gibbs '],
+,location,event,date,artists,genre
+0,Winterthur,Die-Kultursuppe,2015-01-21,['Roger Girod '],"['Jazz', 'Blues', 'Soul']"
+1,Pratteln,Sick-of-It-All,2015-01-21,['Sick of It All '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Z?rich,Mozart-plus,2015-01-21,"[' Simon Wiener ', ' Tjasha Gafner ']",['Classic']
+3,Thun,Tinu-Heiniger,2015-01-21,['Tinu Heiniger '],['Pop']
+4,Z?rich,New-4-Art-Plays-Paraphrasen,2015-01-21,"[' Jens Ruland ', ' Julien Megroz ', ' Faristamo Susi ', ' Judith Wegmann ']",['Classic']
+5,Basel,Weihnachtsoratorium,2015-01-21,"[' Sabrina Hintermann ', ' Maria Salazar ', ' Olga Machonova ', ' Dieter Wagner ']",['Classic']
+6,Palais-des-Congr?s,null,2015-01-21,[' Regula M?hlemann '],['Classic']
+7,Bern,Konzert,2015-01-21,[' Khatia Buniatishvili '],['Classic']
+8,null,Die-Weber,2015-01-21,['Stummfilm '],['Classic']
+9,Z?rich,Comet-Control,2015-01-21,"['Comet Control ', ' Harsh Toke ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Z?rich,Fj?rt,2015-01-21,['Fj?rt '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Luzern,Jam-Session,2015-01-21,"[' Claudio Berger ', ' Flurin Iten ', ' Lukas Derungs ', ' Claudio von Arx ', ' Fabian H?nni ']","['Hip', 'Hop', ""R'n'B""]"
+12,Z?rich,Jazzbaragge-Wednesday-Jam,2015-01-21,"['Marie Kr?ttli ', ' Lukas Traxel ', ' Dominik Burkhalter ']","['Jazz', 'Blues', 'Soul']"
+13,Winterthur,Jazz-am-Mittwoch,2015-01-21,"[' Nathalie Saudan ', ' Philippe Koller ', ' Philippe Ehinger ', ' Pierre-Fran?ois Massy ', ' Sylvain Fournier ']","['world', 'music']"
+14,Z?rich,Ensemble-5,2015-01-21,"[' Fridolin Blumer ', ' Heinz Geisser ', ' Robert Morgenthaler ', ' Reto Staub ', ' Marco von Orelli ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Music-Revelation-Ensemble,2015-01-21,"['Music Revelation Ensemble ', ' James Blood Ulmer ', ' Calvin The Truth Jones ', ' Aubrey Dayle ']","['Jazz', 'Blues', 'Soul']"
+16,Baden,Wiesendanger-&-Pittini,2015-01-21,"[' Chris Wiesendanger ', ' Alessandro Pittini ']","['Jazz', 'Blues', 'Soul']"
+17,Bern,Ania-Losinger-&-Mats-Eser,2015-01-21,"[' Ania Losinger ', ' Mats Eser ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Z?rich,Bukowski,2015-01-21,['The Dad Horse Experience '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,null,Nacht-des-Fado,2015-01-21,"[' Luisa Rocha ', ' Carlos Leitao ', ' Henrique Leitao ', ' Carlos Menezes ']","['world', 'music']"
+20,Rubigen,Wishbone-Ash,2015-01-21,['Wishbone Ash '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Z?rich,Motherwell-Johnston-&-C.-Gibbs,2015-01-21,[' C. Gibbs '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

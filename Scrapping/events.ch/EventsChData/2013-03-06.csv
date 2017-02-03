@@ -1,24 +1,24 @@
-location,event,date,artists,genre
-Basel,Herzlich-tut-mich-Verlangen,2013-03-06,['Marie-Odile Vigreux '],Classic
-Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-03-06,['Mark Tenger '],
-Zürich,Meisterinterpreten-in-Zürich,2013-03-06,[' Hélène Grimaud '],Classic
-Zug,Yield,2013-03-06,"[' Remo Winiger ', ' Patrick Fankhauser ', ' Timon Nielsen ', ' Beno Staub ']",
-Zentrum-Paul-Klee,Bern,2013-03-06,['Rebekka Bakken '],
-Winterthur,Dolce-Far-Niente,2013-03-06,"[' Sandra Veraldi ', ' Ueli Weber ']",Pop
-Volkshaus,Zürich,2013-03-06,['Khaled '],Khaled
-Kafi-für-Dich,Zürich,2013-03-06,"['Nathaniel Robin Mann ', ' The Great Park ']",
-Komplex-457,Zürich,2013-03-06,['Matisyahu '],Matisyahu
-Dübendorf,Redhouse-Gang,2013-03-06,"[' Heli Schnüriger ', ' Urs Heiniger ', ' Dino Leonardo Todisco ']",
-Hallenstadion,Zürich,2013-03-06,"['Kool & The Gang ', ' Earth Wind and Fire Experience feat. Al McKay ', ' Sister Sledge ', ' Chic ', ' Imagination ']",
-Frick,Katrin-Roush,2013-03-06,['Katrin Roush '],Pop
-Winterthur,Spiel-Trieb-East,2013-03-06,"[' Charlotte Weniger ', ' Stefan Wyler ', ' Martin Müller ']",
-Bern,Carmen-Souza,2013-03-06,"['Carmen Souza ', ' Carmen Souza ', "" Theo Pas'cal "", ' Mauricio Zottarelli ', ' Jonathan Idiagbonya ']",
-Zürich,Fidlar,2013-03-06,['Fidlar '],
-Zürich,Jazz-Baragge-Wednesday-Jam,2013-03-06,"['Benjamin Külling ', ' Toni Schiavano ', ' Flo Reichle ']",
-Basel,Daniel-Schläppi-Duo,2013-03-06,"[' Marc Copland ', ' Daniel Schläppi ']",
-null,Bury-Tomorrow,2013-03-06,['Bury Tomorrow '],
-Zürich,Pierre-Favre-Artist-in-Residence,2013-03-06,"[' Christian Weber ', ' Michel Wintsch ', ' Christian Wolfarth ', ' Pierre Favre ', ' Philipp Schaufelberger ', ' Dietmar Fuhr ']",
-Bern,Firehouse-Hot-7,2013-03-06,"['Werner Gisin ', ' Jerry Guanter ', ' Henry Bodmer ', ' Hans Bächtold ', ' Simon Inäbnit ', ' Ivo Maynard ', ' Hans Kilchenmann ']",
-Alte-Taverne,Adelboden,2013-03-06,['The Bony King of Nowhere '],
-Zürich,Rohchoscht,2013-03-06,"[' René Keller ', ' Oli Diethelm ', ' Stefan Liechti ', ' Daniel Gerber ', ' Bosco Blatter ']",
-null,La-colonie-de-vacances,2013-03-06,['La colonie de vacances '],
+,location,event,date,artists,genre
+0,Basel,Herzlich-tut-mich-Verlangen,2013-03-06,['Marie-Odile Vigreux '],['Classic']
+1,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-03-06,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+2,Zürich,Meisterinterpreten-in-Zürich,2013-03-06,[' Hélène Grimaud '],['Classic']
+3,Zug,Yield,2013-03-06,"[' Remo Winiger ', ' Patrick Fankhauser ', ' Timon Nielsen ', ' Beno Staub ']","['Jazz', 'Blues', 'Soul']"
+4,Komplex-457,Zürich,2013-03-06,['Matisyahu '],['Matisyahu']
+5,Hallenstadion,Zürich,2013-03-06,"['Kool & The Gang ', ' Earth Wind and Fire Experience feat. Al McKay ', ' Sister Sledge ', ' Chic ', ' Imagination ']","['Sister', 'Sledge']"
+6,Zentrum-Paul-Klee,Bern,2013-03-06,['Rebekka Bakken '],"['Rebekka', 'Bakken']"
+7,Winterthur,Dolce-Far-Niente,2013-03-06,"[' Sandra Veraldi ', ' Ueli Weber ']",['Pop']
+8,Dübendorf,Redhouse-Gang,2013-03-06,"[' Heli Schnüriger ', ' Urs Heiniger ', ' Dino Leonardo Todisco ']","['Jazz', 'Blues', 'Soul']"
+9,Volkshaus,Zürich,2013-03-06,['Khaled '],['Khaled']
+10,Kafi-für-Dich,Zürich,2013-03-06,"['Nathaniel Robin Mann ', ' The Great Park ']","['The', 'Great', 'Park']"
+11,Winterthur,Spiel-Trieb-East,2013-03-06,"[' Charlotte Weniger ', ' Stefan Wyler ', ' Martin Müller ']","['Jazz', 'Blues', 'Soul']"
+12,Frick,Katrin-Roush,2013-03-06,['Katrin Roush '],['Pop']
+13,Zürich,Jazz-Baragge-Wednesday-Jam,2013-03-06,"['Benjamin Külling ', ' Toni Schiavano ', ' Flo Reichle ']","['Jazz', 'Blues', 'Soul']"
+14,Basel,Daniel-Schläppi-Duo,2013-03-06,"[' Marc Copland ', ' Daniel Schläppi ']","['Jazz', 'Blues', 'Soul']"
+15,Zürich,Pierre-Favre-Artist-in-Residence,2013-03-06,"[' Christian Weber ', ' Michel Wintsch ', ' Christian Wolfarth ', ' Pierre Favre ', ' Philipp Schaufelberger ', ' Dietmar Fuhr ']","['Jazz', 'Blues', 'Soul']"
+16,Bern,Firehouse-Hot-7,2013-03-06,"['Werner Gisin ', ' Jerry Guanter ', ' Henry Bodmer ', ' Hans Bächtold ', ' Simon Inäbnit ', ' Ivo Maynard ', ' Hans Kilchenmann ']","['Jazz', 'Blues', 'Soul']"
+17,Zürich,Fidlar,2013-03-06,['Fidlar '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,null,Bury-Tomorrow,2013-03-06,['Bury Tomorrow '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Alte-Taverne,Adelboden,2013-03-06,['The Bony King of Nowhere '],"['The', 'Bony', 'King', 'of', 'Nowhere']"
+20,Bern,Carmen-Souza,2013-03-06,"['Carmen Souza ', ' Carmen Souza ', "" Theo Pas'cal "", ' Mauricio Zottarelli ', ' Jonathan Idiagbonya ']","['Jazz', 'Blues', 'Soul']"
+21,null,La-colonie-de-vacances,2013-03-06,['La colonie de vacances '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Zürich,Rohchoscht,2013-03-06,"[' René Keller ', ' Oli Diethelm ', ' Stefan Liechti ', ' Daniel Gerber ', ' Bosco Blatter ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

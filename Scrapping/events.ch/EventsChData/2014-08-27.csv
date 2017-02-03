@@ -1,15 +1,15 @@
-location,event,date,artists,genre
-Luzern,Meisterkurs-Gesang-3.-Tag,2014-08-27,[' Barbara Hannigan '],Classic
-Willisau,Jazz-Festival-Willisau,2014-08-27,"[' René Mosele ', ' Dave Feusi ', ' Patrick Sommer ', ' Alfred Vogel ']",
-Baden,After-Work,2014-08-27,"[' Lilly Thornton ', ' Gregor Müller ']",
-Luzern,Piano-Entertainment,2014-08-27,['Mark Tenger '],
-Basel,Altstadt-Serenaden,2014-08-27,[' Annie Dufresne '],Classic
-Luzern,Sinfoniekonzert-10,2014-08-27,[' Midori '],Classic
-null,Menuhin-Festival-Gstaad,2014-08-27,"['Rafal Zolkos ', ' Andriy Dragan ']",Classic
-Murten,Murten-Classics-Serenadenkonzert,2014-08-27,"[' Agata Raatz ', ' Marcin Fleszar ']",Classic
-Zürich,Die-Knopiloten,2014-08-27,"[' Herr Knobel ', ' Sabina Conradin ', ' Marcel Stalder ', ' Jost Müller ']",Pop
-Willisau,Jazz-Festival-Willisau,2014-08-27,"[' Roman Filiu ', ' Curtis Macdonald ', ' Jason Moran ', ' David Virelles ', ' Christopher Hoffman ']",
-Basel,Masterabsolventen-der-Hochschule-für-Musik-Basel,2014-08-27,"[' Julie Fahrer ', ' Neele Pfleiderer ', ' Sebastian Hirsig ']",
-Nyon,Luna-Classics,2014-08-27,['Fazil Say '],Classic
-Zürich,Bukowski,2014-08-27,['Essaie Pas '],Electronic
-Münchenwiler,Murten-Classics-Sommernachtskonzert,2014-08-27,"['Julia Schröder ', '  Mary-Ellen Woodside ', ' Ylvali Silliacus ', ' Rafael Rosenfeld ']",Classic
+,location,event,date,artists,genre
+0,Luzern,Meisterkurs-Gesang-3.-Tag,2014-08-27,[' Barbara Hannigan '],['Classic']
+1,Willisau,Jazz-Festival-Willisau,2014-08-27,"[' Ren? Mosele ', ' Dave Feusi ', ' Patrick Sommer ', ' Alfred Vogel ']","['Jazz', 'Blues', 'Soul']"
+2,Luzern,Piano-Entertainment,2014-08-27,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+3,Baden,After-Work,2014-08-27,"[' Lilly Thornton ', ' Gregor M?ller ']","['Jazz', 'Blues', 'Soul']"
+4,Basel,Altstadt-Serenaden,2014-08-27,[' Annie Dufresne '],['Classic']
+5,null,Menuhin-Festival-Gstaad,2014-08-27,"['Rafal Zolkos ', ' Andriy Dragan ']",['Classic']
+6,Luzern,Sinfoniekonzert-10,2014-08-27,[' Midori '],['Classic']
+7,Murten,Murten-Classics-Serenadenkonzert,2014-08-27,"[' Agata Raatz ', ' Marcin Fleszar ']",['Classic']
+8,Willisau,Jazz-Festival-Willisau,2014-08-27,"[' Roman Filiu ', ' Curtis Macdonald ', ' Jason Moran ', ' David Virelles ', ' Christopher Hoffman ']","['Jazz', 'Blues', 'Soul']"
+9,Z?rich,Die-Knopiloten,2014-08-27,"[' Herr Knobel ', ' Sabina Conradin ', ' Marcel Stalder ', ' Jost M?ller ']",['Pop']
+10,Basel,Masterabsolventen-der-Hochschule-f?r-Musik-Basel,2014-08-27,"[' Julie Fahrer ', ' Neele Pfleiderer ', ' Sebastian Hirsig ']","['Jazz', 'Blues', 'Soul']"
+11,Nyon,Luna-Classics,2014-08-27,['Fazil Say '],['Classic']
+12,Z?rich,Bukowski,2014-08-27,['Essaie Pas '],['Electronic']
+13,M?nchenwiler,Murten-Classics-Sommernachtskonzert,2014-08-27,"['Julia Schr?der ', '  Mary-Ellen Woodside ', ' Ylvali Silliacus ', ' Rafael Rosenfeld ']",['Classic']

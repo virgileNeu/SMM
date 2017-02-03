@@ -1,26 +1,26 @@
-location,event,date,artists,genre
-Basel,Orgelspiel-zum-Feierabend,2015-02-20,['Brigitte Salvisberg '],Classic
-Zürich,Kraftklub,2015-02-20,['Kraftklub '],
-null,7.-Tonhallekonzert,2015-02-20,"[' Sunhae Im ', ' Tareq Nazmi ']",Classic
-Zürich,Internationales-Country-Music-Festival,2015-02-20,"['The Farm ', ' Zydeko Annie & Swamp Cats ']",
-Zürich,Celtic-Woman,2015-02-20,['Celtic Woman '],
-Pratteln,Feuerengel,2015-02-20,['Feuerengel '],
-Zürich,Acoustic-Friday,2015-02-20,"[' Laura Schuler ', ' Luzius Schuler ', ' Elisabeth Hoppe ']",
-Zürich,Skorpionfish,2015-02-20,"[' Vincent Glanzmann ', ' Silvan Jeger ', ' Daniel Mouthon ', ' Yves Reichmuth ']",
-Winterthur,Molton-Festival,2015-02-20,"[' Michael von der Heide ', ' Martin Buess ']",Pop
-Zürich,Armen-Donelian-Trio,2015-02-20,"[' Armen Donelian ', ' Rätus Flisch ', ' Pius Baschnagel ']",
-Basel,Kirk-Lightsey-Trio,2015-02-20,"[' Kirk Lighstey ', ' Darryl Hall ', ' Sangoma Everett ']",
-Zürich,Portrait-mit-Unterbrüchen,2015-02-20,"['Tamriko Kordzaia ', ' Axel Dörner ']",Classic
-Zürich,Candy-Dulfer,2015-02-20,['Candy Dulfer & Band '],
-Baden,Los-Acuña,2015-02-20,"['Los Acuña ', ' Carlos Acuña ', ' Cesar  Acuña ', ' Carlos Caniza ', ' Roberto Gruber ']",
-Zürich,Les-Gars-d'en-Bas,2015-02-20,"[""Les Gars d'en Bas ""]",Pop
-null,Romain-Virgo-&-Unit-Band-feat.-Loyal-Flames,2015-02-20,"['Romain Virgo & Unit Band feat. Loyal Flames ', ' Mardjenal Syndicate ']",
-Zug,The-Clients,2015-02-20,"[' Dave Feusi  ', ' Marco Figini  ', ' Peter Wagner  ', ' Thomy Jordi  ', ' Christian Niederer ']",
-Zürich,Salsafestival-Switzerland,2015-02-20,['Live: Ray Perez & Teo Hernandez '],
-null,Orioxy,2015-02-20,"[' Yael Miller ', ' Julie Campiche ', ' Manu Hagmann ', ' Roland Merlinc ']",
-Luzern,Bernita-Bush,2015-02-20,"['Bernita Bush ', ' Bernita Bush ', "" Alessandro d'Episcopo "", ' Pius Baumgartner ', ' Jimmy Wettach ', ' Chris von Hoffmann ']",
-Zürich,Latin-Touch,2015-02-20,[' dance animation by Alexander Martinez '],
-Basel,His-Electro-Blue-Voice,2015-02-20,"['His Electro Blue Voice ', ' Havah ']",
-Winterthur,Junior,2015-02-20,['Junior '],Pop
-Schaffhausen,Cigani-Disko,2015-02-20,"[""Buffo's Wake ""]",
-Zürich,The-Straight-and-Narrow,2015-02-20,['Nite Fields '],
+,location,event,date,artists,genre
+0,Basel,Orgelspiel-zum-Feierabend,2015-02-20,['Brigitte Salvisberg '],['Classic']
+1,Z?rich,Kraftklub,2015-02-20,['Kraftklub '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,null,7.-Tonhallekonzert,2015-02-20,"[' Sunhae Im ', ' Tareq Nazmi ']",['Classic']
+3,Z?rich,Internationales-Country-Music-Festival,2015-02-20,[' Swamp Cats '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,Celtic-Woman,2015-02-20,['Celtic Woman '],"['world', 'music']"
+5,Pratteln,Feuerengel,2015-02-20,['Feuerengel '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Acoustic-Friday,2015-02-20,"[' Laura Schuler ', ' Luzius Schuler ', ' Elisabeth Hoppe ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Skorpionfish,2015-02-20,"[' Vincent Glanzmann ', ' Silvan Jeger ', ' Daniel Mouthon ', ' Yves Reichmuth ']","['Jazz', 'Blues', 'Soul']"
+8,Winterthur,Molton-Festival,2015-02-20,"[' Michael von der Heide ', ' Martin Buess ']",['Pop']
+9,Z?rich,Les-Gars-d'en-Bas,2015-02-20,"[""Les Gars d'en Bas ""]",['Pop']
+10,Z?rich,Armen-Donelian-Trio,2015-02-20,"[' Armen Donelian ', ' R?tus Flisch ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Candy-Dulfer,2015-02-20,[' Band '],"['Hip', 'Hop', ""R'n'B""]"
+12,Z?rich,Portrait-mit-Unterbr?chen,2015-02-20,"['Tamriko Kordzaia ', ' Axel D?rner ']",['Classic']
+13,Basel,Kirk-Lightsey-Trio,2015-02-20,"[' Kirk Lighstey ', ' Darryl Hall ', ' Sangoma Everett ']","['Jazz', 'Blues', 'Soul']"
+14,Baden,Los-Acu?a,2015-02-20,"['Los Acu?a ', ' Carlos Acu?a ', ' Cesar  Acu?a ', ' Carlos Caniza ', ' Roberto Gruber ']","['world', 'music']"
+15,Z?rich,Salsafestival-Switzerland,2015-02-20,[' Teo Hernandez '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+16,null,Romain-Virgo-&-Unit-Band-feat.-Loyal-Flames,2015-02-20,"[' Unit Band feat. Loyal Flames ', ' Mardjenal Syndicate ']","['Hip', 'Hop', ""R'n'B""]"
+17,Zug,The-Clients,2015-02-20,"[' Dave Feusi  ', ' Marco Figini  ', ' Peter Wagner  ', ' Thomy Jordi  ', ' Christian Niederer ']","['Hip', 'Hop', ""R'n'B""]"
+18,null,Orioxy,2015-02-20,"[' Yael Miller ', ' Julie Campiche ', ' Manu Hagmann ', ' Roland Merlinc ']","['Jazz', 'Blues', 'Soul']"
+19,Luzern,Bernita-Bush,2015-02-20,"['Bernita Bush ', ' Bernita Bush ', "" Alessandro d'Episcopo "", ' Pius Baumgartner ', ' Jimmy Wettach ', ' Chris von Hoffmann ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Latin-Touch,2015-02-20,[' dance animation by Alexander Martinez '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+21,Basel,His-Electro-Blue-Voice,2015-02-20,"['His Electro Blue Voice ', ' Havah ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Schaffhausen,Cigani-Disko,2015-02-20,"[""Buffo's Wake ""]","['world', 'music']"
+23,Winterthur,Junior,2015-02-20,['Junior '],['Pop']
+24,Z?rich,The-Straight-and-Narrow,2015-02-20,['Nite Fields '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

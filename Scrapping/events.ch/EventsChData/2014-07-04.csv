@@ -1,26 +1,26 @@
-location,event,date,artists,genre
-Basel,Metallica,2014-07-04,"['Metallica ', ' Alice in Chains ', ' Airbourne ', ' Kvelertak ']",
-Basel,Metallica,2014-07-04,['Metallica '],
-St.-Stephan,Hangar-Rockin',2014-07-04,"['Nico Duportal & The Rhythm Dudes ', ' Aladino ', ' Miss Chazmatazz & Swingin Kitten ', ' Miss She Devil ']",
-St.-Stephan,Hangar-Rockin',2014-07-04,[' DJ Aloha '],
-Zürich,Klavierkonzert-mit-Tanzperformance,2014-07-04,['Charlotte Torres '],Classic
-Marly,Jazz-Parade,2014-07-04,"[' Marc Sturzenegger ', ' Frédéric Preitner ', ' Adrea Esperti ', ' Pierre Pennaz ', ' Nadir Graa ', ' Théo Missillier ']",
-Bern,One-Direction,2014-07-04,['One Direction '],Pop
-Basel,Orgelspiel-zum-Feierabend,2014-07-04,['Johannes Strobl '],Classic
-Wettingen,Openair-Wettingen,2014-07-04,['Claire '],Electronic
-Dietikon,Feierabendmusik-in-der-Kirche,2014-07-04,"['Adrian Mülhauser ', ' Bernhard Hörler ']",Classic
-Aarau,Openair-Chrutwäje,2014-07-04,['Terribly Overrated Youngsters '],
-Wetzikon,Streichtrio-Tritoni,2014-07-04,"[' Heidi-Maria Makkonen ', ' Doris Dubach ', ' Jannai Balikavlayan ', ' Campbell Banks ']",Classic
-Meiringen,Musikfestwoche-Meiringen-Eröffnungskonzert,2014-07-04,['Kim Kashkashian '],Classic
-Montreux,Montreux-Jazz-Festival,2014-07-04,"['Ayo ', ' Norma Jean Martine ']",
-St.-Stephan,Hangar-Rockin',2014-07-04,[' Miss Chazmatazz & Swingin Kitten '],
-Montreux,Montreux-Jazz-Festival,2014-07-04,"['Amy Macdonald ', ' Jack Savoretti ']",Pop
-Zürich,Musik-in-den-iberischen-Kolonien,2014-07-04,"[' Breno Quinderé ', ' Luiz Alves da Silva ', ' Sebastián Mariño León ']",Classic
--Alte-Kirche,Boswil,2014-07-04,"[' Hyung-Ki ', ' Yu Horiuchi ', ' Erik Schumann ', ' Immanuel Richter ']",Classic
-Basel,Arne-Huber-Quartet,2014-07-04,"[' Domenic Landolf ', ' Rainer Böhm ', ' Arne Huber ', ' Jochen Rückert ']",
-Zürich,Sommerkonzert-mit-Marimba,2014-07-04,[' Miguel Angel Garcia Martin '],Classic
-Montreux,Montreux-Jazz-Festival,2014-07-04,"['Agnes Obel ', ' Ólafur Arnalds ']",Pop
-Mendrisio,Estival-Jazz-Lugano,2014-07-04,"['Troker ', ' Red Hot Chilli Pipers ']",
-Zürich,Hafenfest-Und-ein-Schiff-mit-acht-Segeln,2014-07-04,"['Christine Lather ', ' Sergej Simbirev ']",Pop
-Marly,Jazz-Parade,2014-07-04,['Her & King County '],
-null,Life-in-Schaan,2014-07-04,['Ronan Keating '],Pop
+,location,event,date,artists,genre
+0,Basel,Metallica,2014-07-04,"['Metallica ', ' Alice in Chains ', ' Airbourne ', ' Kvelertak ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Basel,Metallica,2014-07-04,['Metallica '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Bern,One-Direction,2014-07-04,['One Direction '],['Pop']
+3,St.-Stephan,Hangar-Rockin',2014-07-04,"[' Swingin Kitten ', ' Miss She Devil ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,St.-Stephan,Hangar-Rockin',2014-07-04,[' DJ Aloha '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,Klavierkonzert-mit-Tanzperformance,2014-07-04,['Charlotte Torres '],['Classic']
+6,Marly,Jazz-Parade,2014-07-04,"[' Marc Sturzenegger ', ' Fr?d?ric Preitner ', ' Adrea Esperti ', ' Pierre Pennaz ', ' Nadir Graa ', ' Th?o Missillier ']","['Jazz', 'Blues', 'Soul']"
+7,Basel,Orgelspiel-zum-Feierabend,2014-07-04,['Johannes Strobl '],['Classic']
+8,Wettingen,Openair-Wettingen,2014-07-04,['Claire '],['Electronic']
+9,Dietikon,Feierabendmusik-in-der-Kirche,2014-07-04,"['Adrian M?lhauser ', ' Bernhard H?rler ']",['Classic']
+10,Aarau,Openair-Chrutw?je,2014-07-04,['Terribly Overrated Youngsters '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Meiringen,Musikfestwoche-Meiringen-Er?ffnungskonzert,2014-07-04,['Kim Kashkashian '],['Classic']
+12,Wetzikon,Streichtrio-Tritoni,2014-07-04,"[' Heidi-Maria Makkonen ', ' Doris Dubach ', ' Jannai Balikavlayan ', ' Campbell Banks ']",['Classic']
+13,Z?rich,Musik-in-den-iberischen-Kolonien,2014-07-04,"[' Breno Quinder? ', ' Luiz Alves da Silva ', ' Sebasti?n Mari?o Le?n ']",['Classic']
+14,Montreux,Montreux-Jazz-Festival,2014-07-04,"['Amy Macdonald ', ' Jack Savoretti ']",['Pop']
+15,Montreux,Montreux-Jazz-Festival,2014-07-04,"['Ayo ', ' Norma Jean Martine ']","['Hip', 'Hop', ""R'n'B""]"
+16,St.-Stephan,Hangar-Rockin',2014-07-04,[' Swingin Kitten '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,-Alte-Kirche,Boswil,2014-07-04,"[' Hyung-Ki ', ' Yu Horiuchi ', ' Erik Schumann ', ' Immanuel Richter ']",['Classic']
+18,Montreux,Montreux-Jazz-Festival,2014-07-04,"['Agnes Obel ', ' ?lafur Arnalds ']",['Pop']
+19,Basel,Arne-Huber-Quartet,2014-07-04,"[' Domenic Landolf ', ' Rainer B?hm ', ' Arne Huber ', ' Jochen R?ckert ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Sommerkonzert-mit-Marimba,2014-07-04,[' Miguel Angel Garcia Martin '],['Classic']
+21,Mendrisio,Estival-Jazz-Lugano,2014-07-04,"['Troker ', ' Red Hot Chilli Pipers ']","['Jazz', 'Blues', 'Soul']"
+22,Z?rich,Hafenfest-Und-ein-Schiff-mit-acht-Segeln,2014-07-04,"['Christine Lather ', ' Sergej Simbirev ']",['Pop']
+23,Marly,Jazz-Parade,2014-07-04,[' King County '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,null,Life-in-Schaan,2014-07-04,['Ronan Keating '],['Pop']

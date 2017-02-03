@@ -1,7 +1,7 @@
-location,event,date,artists,genre
-Zürich,Osterkonzert,2014-04-20,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-Luzern,Heaven's-Basement,2014-04-20,"[""Heaven's Basement ""]",
-Zürich,Hits-Recycled,2014-04-20,"[' Tobias Preisig ', ' Roman Bruderer ', ' Ephrem Lüchinger ', ' Michael Flury ', ' Keller ', ' Thomy Jordi ', ' Kaspar Rast ']",
-null,Electron-Festival,2014-04-20,"['DJs Hot Chip DJ Set ', ' Ellen Allien ', ' Siriusmo ', ' Blomqvist ', ' Open Reel Ensemble ']",Electronic
-Wädenswil,Pâqu'son-Musikfestival,2014-04-20,"[""Le Sirop d'la Rue ""]",Pop
-Bern,Svenska-Nätter,2014-04-20,['Caviare Days '],
+,location,event,date,artists,genre
+0,Z?rich,Osterkonzert,2014-04-20,"[' Praxedis Hug-R?tti ', ' Praxedis Genevi?ve Hug ']",['Classic']
+1,Z?rich,Hits-Recycled,2014-04-20,"[' Tobias Preisig ', ' Roman Bruderer ', ' Ephrem L?chinger ', ' Michael Flury ', ' Keller ', ' Thomy Jordi ', ' Kaspar Rast ']","['Jazz', 'Blues', 'Soul']"
+2,Luzern,Heaven's-Basement,2014-04-20,"[""Heaven's Basement ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,null,Electron-Festival,2014-04-20,"['DJs Hot Chip DJ Set ', ' Ellen Allien ', ' Siriusmo ', ' Blomqvist ', ' Open Reel Ensemble ']",['Electronic']
+4,W?denswil,P?qu'son-Musikfestival,2014-04-20,"[""Le Sirop d'la Rue ""]",['Pop']
+5,Bern,Svenska-N?tter,2014-04-20,[' Tiger Bell '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

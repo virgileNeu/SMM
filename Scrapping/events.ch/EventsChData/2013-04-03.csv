@@ -1,18 +1,18 @@
-location,event,date,artists,genre
-Basel,Ich-hatte-viel-Bekümmernis,2013-04-03,['Alexandra Stashenko '],Classic
-Bern,Internationales-Jazzfestival-Bern,2013-04-03,"[""Lil' Ed & The Blues Imperials ""]",
-Salle-Métropole,Lausanne,2013-04-03,['One Republic '],
-Zürich,Live-Cover-Night,2013-04-03,"['Edita Abdieski ', ' Faiz Mangat ', ' Pat Fa ', ' Thomas Klein ', ' André Pousaz ', ' Christoph Siegenthaler ']",
-null,Hypocrisy,2013-04-03,"['Hypocrisy ', ' Hate ', ' Essence ']",
-ewz-Unterwerk-Selnau,Zürich,2013-04-03,['Youn Sun Nah '],
-Basel,UmeDuo,2013-04-03,"['Karolina Öhman ', ' Erika Öhman ']",
-Bern,Glen-Porter,2013-04-03,"['Glen Porter ', ' 2econd Class Citizen feat. Kevin Matthews ']",Electronic
-Winterthur,Laurent-Méteau's-Metabolism,2013-04-03,"[' Lauren Méteau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Eliyah Reichen ', ' Samuel Huwyler ', ' Jwan Steiner ']",
-Pratteln,Animals-&-Friends,2013-04-03,['Animals & Friends '],
-Zürich,Mikkel-Ploug-New-Group-feat.-Loren-Stillman,2013-04-03,"['Mikkel Ploug New Group feat. Loren Stillman ', ' Mikkel Ploug ', ' Loren Stillman ', ' Jeppe Skovbakke ', ' Sean Carpio ']",
-Bern,Koch-Schütz-Studer-feat.-Shelley-Hirsch,2013-04-03,"[' Shelley Hirsch ', ' Hans Koch ', ' Martin Schütz ', ' Fredy Studer ']",
-Zürich,Jazz-Baragge-Wednesday-Jam,2013-04-03,"['Claude Meier ', ' Michael Bucher ', ' Andreas Wettstein ']",
-Langenthal,Schuler,2013-04-03,"['Luzius Schuler ', ' Vincent Ruiz del Portal ', ' Jonas Ruther ']",
-Bern,Nive-Nielsen-&-The-Deer-Children,2013-04-03,['Nive Nielsen & The Deer Children '],
-Zürich,Isabel-Sörling-Farvel,2013-04-03,"['Isabel Sörling Farvel ', ' Isabel Sörling ', ' Kim Aksnes ', ' Otis Sandsjö ', ' Henrik Magnusson ', ' Afred Lorinius ', ' Carl-Johan Groth ']",
-Bern,Internationales-Jazzfestival-Bern,2013-04-03,"[""Lil' Ed & The Blues Imperials ""]",
+,location,event,date,artists,genre
+0,Basel,Ich-hatte-viel-Bekümmernis,2013-04-03,['Alexandra Stashenko '],['Classic']
+1,Bern,Internationales-Jazzfestival-Bern,2013-04-03,"[""Lil' Ed & The Blues Imperials ""]","['Jazz', 'Blues', 'Soul']"
+2,ewz-Unterwerk-Selnau,Zürich,2013-04-03,['Youn Sun Nah '],"['Youn', 'Sun', 'Nah']"
+3,Salle-Métropole,Lausanne,2013-04-03,['One Republic '],"['One', 'Republic']"
+4,Bern,Glen-Porter,2013-04-03,"['Glen Porter ', ' 2econd Class Citizen feat. Kevin Matthews ']",['Electronic']
+5,Zürich,Live-Cover-Night,2013-04-03,"['Edita Abdieski ', ' Faiz Mangat ', ' Pat Fa ', ' Thomas Klein ', ' André Pousaz ', ' Christoph Siegenthaler ']","['world', 'music']"
+6,Basel,UmeDuo,2013-04-03,"['Karolina Öhman ', ' Erika Öhman ']","['world', 'music']"
+7,null,Hypocrisy,2013-04-03,"['Hypocrisy ', ' Hate ', ' Essence ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Winterthur,Laurent-Méteau's-Metabolism,2013-04-03,"[' Lauren Méteau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Eliyah Reichen ', ' Samuel Huwyler ', ' Jwan Steiner ']","['Jazz', 'Blues', 'Soul']"
+9,Zürich,Mikkel-Ploug-New-Group-feat.-Loren-Stillman,2013-04-03,"['Mikkel Ploug New Group feat. Loren Stillman ', ' Mikkel Ploug ', ' Loren Stillman ', ' Jeppe Skovbakke ', ' Sean Carpio ']","['Jazz', 'Blues', 'Soul']"
+10,Pratteln,Animals-&-Friends,2013-04-03,['Animals & Friends '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Bern,Koch-Schütz-Studer-feat.-Shelley-Hirsch,2013-04-03,"[' Shelley Hirsch ', ' Hans Koch ', ' Martin Schütz ', ' Fredy Studer ']","['Jazz', 'Blues', 'Soul']"
+12,Langenthal,Schuler,2013-04-03,"['Luzius Schuler ', ' Vincent Ruiz del Portal ', ' Jonas Ruther ']","['Jazz', 'Blues', 'Soul']"
+13,Zürich,Jazz-Baragge-Wednesday-Jam,2013-04-03,"['Claude Meier ', ' Michael Bucher ', ' Andreas Wettstein ']","['Jazz', 'Blues', 'Soul']"
+14,Bern,Nive-Nielsen-&-The-Deer-Children,2013-04-03,['Nive Nielsen & The Deer Children '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Zürich,Isabel-Sörling-Farvel,2013-04-03,"['Isabel Sörling Farvel ', ' Isabel Sörling ', ' Kim Aksnes ', ' Otis Sandsjö ', ' Henrik Magnusson ', ' Afred Lorinius ', ' Carl-Johan Groth ']","['Jazz', 'Blues', 'Soul']"
+16,Bern,Internationales-Jazzfestival-Bern,2013-04-03,"[""Lil' Ed & The Blues Imperials ""]","['Jazz', 'Blues', 'Soul']"

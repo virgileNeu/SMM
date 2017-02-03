@@ -1,24 +1,24 @@
-location,event,date,artists,genre
-Zürich,Jahrestagung-der-Internationalen-Stefan-Zweig-Gesellschaft,2014-09-14,['Alessandro Misciasci '],Classic
-Liestal,Thomas-Achermann,2014-09-14,"['Thomas Achermann ', ' Andi Seidt ']",Pop
-Schmidrüti,Orgelkonzert,2014-09-14,"['Lilo Schmidt ', ' Claudia Beck ']",Classic
-Basel,Begegnung-mit-Musik,2014-09-14,"[' Emilie Haudenschild ', ' Monika Clemann ', ' Emeric Kostyák ']",Classic
-Bern,Bachwochen-Thun-The-Caruso-of-the-Trumpet,2014-09-14,"['Sergei Nakariakov ', ' Krzysztof Urbaniak ']",Classic
-Winterthur,Oktett-Artist-in-Resonance,2014-09-14,"['Armon Stecher ', ' Jennifer Kay Aynilian ', ' Daniele Galaverna ', ' Rahel Cunz ', ' Roman Conrad ', ' anschl. Red Sofa mit Nicolas Altstaedt ']",Classic
-St.-Moritz,Jubiläumskonzert,2014-09-14,"[' Ursina Brun ', ' Katrin Bamert ']",Classic
-Thun,Pastorale,2014-09-14,['Elizabeth Bailey '],Classic
-Bern,Konzertliebe,2014-09-14,"[' Antje Weithaas ', ' Lars Vogt ']",Classic
-Baden,Benefizkonzert-zu-Gunsten-Ukrainischer-Senioren,2014-09-14,"['Duo Maria Bernius ', ' Ljupka Ra ', ' Maria Bernius ', ' Dmitriy Ivanchey', ' Nadja Dalvit-Saminskaja ']",Classic
-Zürich,Fabulous-Fable-Quartet,2014-09-14,"[' Dominik Burger ', ' Thise Gloor ', ' Thomas Hirt ', ' Ekkehard Sassenhausen ']",
-Aarau,Pure-Emotions,2014-09-14,"[' Simon Peter ', ' Eddie Walker ']",Classic
-Luzern,Unter-dem-Kronleuchter,2014-09-14,['Rozenn le Trionnaire '],Classic
-Zürich,Christoph-Stiefel-&-Lisette-Spinnler-Quartet,2014-09-14,"[' Christoph Stiefel ', ' Lisette Spinnler ', ' Henning Sieverts ', ' Tobi Backhaus ']",
-Luzern,Joe-Haider-Quartet,2014-09-14,"['Joe Haider Quartet ', ' Joe Haider ', ' Domenic Landolf ', ' Raffaele Bossard ', ' Dominic Egli ']",
-Winterthur,Steve-Savage-&-Band,2014-09-14,"[' Steve Savage ', ' Paul Buono ', ' Manuel Knigge ']",
-Zürich,Kammermusik-Soiree,2014-09-14,"['Klaidi Sahatci ', ' Thomas Grossenbacher ', ' Yuja Wang ']",Classic
-Basel,Ensemble-ö!-Fluktuation,2014-09-14,"[' Irina Ungureanu ', ' Riccarda Caflisch ', ' Jens Bracher ']",Classic
-Bern,Wake-Island-&-How-Sad,2014-09-14,['Wake Island & How Sad '],
-Basel,Nits,2014-09-14,['Nits '],
-Luzern,Masked-Intruder,2014-09-14,['Masked Intruder '],
-Bern,Baba-Zula,2014-09-14,['Baba Zula '],
-Zürich,Tim-Vantol,2014-09-14,['Tim Vantol '],Pop
+,location,event,date,artists,genre
+0,Z?rich,Jahrestagung-der-Internationalen-Stefan-Zweig-Gesellschaft,2014-09-14,['Alessandro Misciasci '],['Classic']
+1,Liestal,Thomas-Achermann,2014-09-14,"['Thomas Achermann ', ' Andi Seidt ']",['Pop']
+2,Schmidr?ti,Orgelkonzert,2014-09-14,"['Lilo Schmidt ', ' Claudia Beck ']",['Classic']
+3,Basel,Begegnung-mit-Musik,2014-09-14,"[' Emilie Haudenschild ', ' Monika Clemann ', ' Emeric Kosty?k ']",['Classic']
+4,Bern,Bachwochen-Thun-The-Caruso-of-the-Trumpet,2014-09-14,"['Sergei Nakariakov ', ' Krzysztof Urbaniak ']",['Classic']
+5,Winterthur,Oktett-Artist-in-Resonance,2014-09-14,"['Armon Stecher ', ' Jennifer Kay Aynilian ', ' Daniele Galaverna ', ' Rahel Cunz ', ' Roman Conrad ', ' anschl. Red Sofa mit Nicolas Altstaedt ']",['Classic']
+6,St.-Moritz,Jubil?umskonzert,2014-09-14,"[' Ursina Brun ', ' Katrin Bamert ']",['Classic']
+7,Bern,Konzertliebe,2014-09-14,"[' Antje Weithaas ', ' Lars Vogt ']",['Classic']
+8,Thun,Pastorale,2014-09-14,['Elizabeth Bailey '],['Classic']
+9,Baden,Benefizkonzert-zu-Gunsten-Ukrainischer-Senioren,2014-09-14,"['Duo Maria Bernius ', ' Ljupka Ra ', ' Maria Bernius ', ' Dmitriy Ivanchey', ' Nadja Dalvit-Saminskaja ']",['Classic']
+10,Aarau,Pure-Emotions,2014-09-14,"[' Simon Peter ', ' Eddie Walker ']",['Classic']
+11,Z?rich,Fabulous-Fable-Quartet,2014-09-14,"[' Dominik Burger ', ' Thise Gloor ', ' Thomas Hirt ', ' Ekkehard Sassenhausen ']","['Jazz', 'Blues', 'Soul']"
+12,Luzern,Unter-dem-Kronleuchter,2014-09-14,['Rozenn le Trionnaire '],['Classic']
+13,Z?rich,Christoph-Stiefel-&-Lisette-Spinnler-Quartet,2014-09-14,"[' Christoph Stiefel ', ' Lisette Spinnler ', ' Henning Sieverts ', ' Tobi Backhaus ']","['Jazz', 'Blues', 'Soul']"
+14,Luzern,Joe-Haider-Quartet,2014-09-14,"['Joe Haider Quartet ', ' Joe Haider ', ' Domenic Landolf ', ' Raffaele Bossard ', ' Dominic Egli ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Kammermusik-Soiree,2014-09-14,"['Klaidi Sahatci ', ' Thomas Grossenbacher ', ' Yuja Wang ']",['Classic']
+16,Basel,Ensemble-?!-Fluktuation,2014-09-14,"[' Irina Ungureanu ', ' Riccarda Caflisch ', ' Jens Bracher ']",['Classic']
+17,Winterthur,Steve-Savage-&-Band,2014-09-14,"[' Steve Savage ', ' Paul Buono ', ' Manuel Knigge ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Basel,Nits,2014-09-14,['Nits '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Luzern,Masked-Intruder,2014-09-14,['Masked Intruder '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Bern,Wake-Island-&-How-Sad,2014-09-14,[' How Sad '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Z?rich,Tim-Vantol,2014-09-14,['Tim Vantol '],['Pop']
+22,Bern,Baba-Zula,2014-09-14,['Baba Zula '],"['world', 'music']"

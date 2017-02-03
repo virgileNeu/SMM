@@ -1,40 +1,39 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment,2014-09-12,['Maga Horvath '],Pop
-Basel,Orgelspiel-zum-Feierabend,2014-09-12,['Ekaterina Kofanova '],Classic
-Dietikon,Feierabendmusik,2014-09-12,"['Doris Grossenbacher ', ' Bernhard Hörler ']",
-Zürich,Songs-of-the-Plants,2014-09-12,"['Songs of the Plants ', ' Yerpun Solar ', ' Ruth Untoria ', ' Miguel Guldimann ']",
-Liestal,Lucky-the-Girl,2014-09-12,[' Michèle Thommen '],Pop
-Wädenswil,Musikfenster-Luft,2014-09-12,['Andreas Stahel '],Classic
-Wabern,Protestango,2014-09-12,['Protestango '],
-Montreux,Septembre-musical,2014-09-12,"['Corey Cerovsek ', ' Paavali Jumppanen ']",Classic
-Liebefeld,Konzert,2014-09-12,['Justin Clark & Tranzient Ensemble '],Classic
-Chur,Jubiläumskonzert,2014-09-12,"[' Ursina Brun ', ' Katrin Bamert ']",Classic
-Arbon,Note-Noir-Quartet,2014-09-12,"[' Ruben Chaviano ', ' Roberto Beneventi ', ' Tommaso Papini ', ' Mirco Capecchi ']",
-Zürich,R-A-M-S,2014-09-12,['R-A-M-S '],
-Zürich,Acoustic-Friday,2014-09-12,"[' Corinne Huber ', ' Franziska Bruecker ', ' Lander Gyselinck ']",
-Luzern,Sinfoniekonzert-24,2014-09-12,"[' Rainer Küchl ', ' Heinrich Koll ']",Classic
-Basel,Sacrum,2014-09-12,"[' Maria Gessler ', ' Susanne Puchegger ', ' Michael Feyfar ', ' Robert Koller ']",Classic
-Zürich,Wortklang,2014-09-12,"['Sarah Cohen ', ' Iris Muhl ']",Classic
-null,Voice-Meets-Piano,2014-09-12,"[' Kristina Tajsic ', ' Christoph Hegi ']",
-null,Voice-Meets-Piano,2014-09-12,"[' Kristina Tajsic ', ' Christoph Hegi ']",
-Basel,Colette-Greder-singt-Edith-Piaf,2014-09-12,"[' Colette Greder ', ' Andrei Ichtchenko ']",Pop
-Adelboden,Swiss-Chamber-Music-Festival-Eröffnungskonzert,2014-09-12,"[' Arkady Shilkloper ', ' Daniel & Regula Dodds ']",Classic
-Aarau,Liederabend,2014-09-12,"['Niklaus Kost ', ' Satoko Kato ']",Classic
-Zürich,Cadotsch-Dietrich-Jeger-Mantel-Méan,2014-09-12,"[' Silvio Cadotsch ', ' Valentin Dietrich ', ' Silvan Jeger ', ' Lukas Mantel ', ' Marc Méan ']",
-null,Richard-Koechli-Trio,2014-09-12,"[' Richard Koechli ', ' Heini Heitz ', ' Fausto Medici ']",
-Basel,Victor-Wainwright-&-The-Wild-Roots-feat.-Brandon-Santini,2014-09-12,"['Victor Wainwright & The Wild Roots feat. Brandon Santini ', ' Victor Wainwright ', ' Nick Black ', ' Will Hanlon ', ' Billy Dean ', ' Brandon Santini ']",
-Winterthur,Nottys-Jug-Serenaders,2014-09-12,"[' Thomas Banholzer ', ' Andreas Dannenmayer ', ' Notker Homburger ']",
-Bülach,Homage-to-the-King-of-Jazz,2014-09-12,"[' Fabrizio Cattaneo ', ' Alfredo Ferrario ', ' Danilo Moccia ', ' Gianluca Tagliazucchi ', ' Luciano Milanesi ', ' Massimo Caracca ']",
-null,Musique-en-Route,2014-09-12,"[' Ronny Spiegel ', ' Tom Tafel ', ' Ariel Facundo Rossi ', ' voc) und Stefanie Hess ']",
-Basel,Eine-Reise-in-noch-nicht-gehörte-Klanglichkeit,2014-09-12,"['Kamilya Jubran ', ' Werner Hasler ']",
-Romanshorn,Sambuco,2014-09-12,"[' Brigitte Meier ', ' Sergio Pastore ', ' Ralph Hufenus ', ' Markus van Grinsven ']",
-Basel,Joe-Haider-Quartet,2014-09-12,"[' Domenic Landolf ', ' Joe Haider ', ' Raffaele Bossard ', ' Dominic Egli ']",
-Zürich,6-Hände-3-Pianos-1-Trio,2014-09-12,"[' Malcolm Braff ', ' Colin Vallon ', ' Florian Favre ']",
-Basel,Janto's-Holding,2014-09-12,"[' Karin Ospelt ', ' Simon Spiess ', ' Jan-Andrea Bard ', ' Christopher Böhm ', ' Florian Krause ']",
-Lausanne,Kid-Ink,2014-09-12,['Kid Ink '],
-Wetzikon,Chi-Coltrane,2014-09-12,['Chi Coltrane '],
-Solothurn,Irish-Night,2014-09-12,['LED Farmers '],
-Zürich,Supersuckers,2014-09-12,['Supersuckers '],
-Zug,Afrob,2014-09-12,['Afrob '],
-Bar,Bistro,2014-09-12,"[' Brian Archinal ', ' Bastian Pfefferli ', ' Victor Barceló ', ' Miguel Ángel García Martín ', ' Klaus Steffes-Holländer ']",Classic
-Winterthur,Seal-Of-Quality,2014-09-12,['Seal Of Quality '],Electronic
+,location,event,date,artists,genre
+0,Luzern,Piano-Entertainment,2014-09-12,['Maga Horvath '],['Pop']
+1,Basel,Orgelspiel-zum-Feierabend,2014-09-12,['Ekaterina Kofanova '],['Classic']
+2,Dietikon,Feierabendmusik,2014-09-12,"['Doris Grossenbacher ', ' Bernhard H?rler ']","['world', 'music']"
+3,W?denswil,Musikfenster-Luft,2014-09-12,['Andreas Stahel '],['Classic']
+4,Liestal,Lucky-the-Girl,2014-09-12,[' Mich?le Thommen '],['Pop']
+5,Z?rich,Songs-of-the-Plants,2014-09-12,"['Songs of the Plants ', ' Yerpun Solar ', ' Ruth Untoria ', ' Miguel Guldimann ']","['Jazz', 'Blues', 'Soul']"
+6,Wabern,Protestango,2014-09-12,['Protestango '],"['world', 'music']"
+7,Chur,Jubil?umskonzert,2014-09-12,"[' Ursina Brun ', ' Katrin Bamert ']",['Classic']
+8,Liebefeld,Konzert,2014-09-12,[' Tranzient Ensemble '],['Classic']
+9,Z?rich,R-A-M-S,2014-09-12,['R-A-M-S '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Montreux,Septembre-musical,2014-09-12,"['Corey Cerovsek ', ' Paavali Jumppanen ']",['Classic']
+11,Arbon,Note-Noir-Quartet,2014-09-12,"[' Ruben Chaviano ', ' Roberto Beneventi ', ' Tommaso Papini ', ' Mirco Capecchi ']","['world', 'music']"
+12,Z?rich,Wortklang,2014-09-12,"['Sarah Cohen ', ' Iris Muhl ']",['Classic']
+13,Luzern,Sinfoniekonzert-24,2014-09-12,"[' Rainer K?chl ', ' Heinrich Koll ']",['Classic']
+14,Aarau,Liederabend,2014-09-12,"['Niklaus Kost ', ' Satoko Kato ']",['Classic']
+15,Adelboden,Swiss-Chamber-Music-Festival-Er?ffnungskonzert,2014-09-12,[' Regula Dodds '],['Classic']
+16,Basel,Sacrum,2014-09-12,"[' Maria Gessler ', ' Susanne Puchegger ', ' Michael Feyfar ', ' Robert Koller ']",['Classic']
+17,Basel,Colette-Greder-singt-Edith-Piaf,2014-09-12,"[' Colette Greder ', ' Andrei Ichtchenko ']",['Pop']
+18,null,Voice-Meets-Piano,2014-09-12,"[' Kristina Tajsic ', ' Christoph Hegi ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Acoustic-Friday,2014-09-12,"[' Corinne Huber ', ' Franziska Bruecker ', ' Lander Gyselinck ']","['Jazz', 'Blues', 'Soul']"
+20,null,Richard-Koechli-Trio,2014-09-12,"[' Richard Koechli ', ' Heini Heitz ', ' Fausto Medici ']","['Jazz', 'Blues', 'Soul']"
+21,Basel,Victor-Wainwright-&-The-Wild-Roots-feat.-Brandon-Santini,2014-09-12,"[' The Wild Roots feat. Brandon Santini ', ' Victor Wainwright ', ' Nick Black ', ' Will Hanlon ', ' Billy Dean ', ' Brandon Santini ']","['Jazz', 'Blues', 'Soul']"
+22,Z?rich,Cadotsch-Dietrich-Jeger-Mantel-M?an,2014-09-12,"[' Silvio Cadotsch ', ' Valentin Dietrich ', ' Silvan Jeger ', ' Lukas Mantel ', ' Marc M?an ']","['Jazz', 'Blues', 'Soul']"
+23,Winterthur,Nottys-Jug-Serenaders,2014-09-12,"[' Thomas Banholzer ', ' Andreas Dannenmayer ', ' Notker Homburger ']","['Jazz', 'Blues', 'Soul']"
+24,B?lach,Homage-to-the-King-of-Jazz,2014-09-12,"[' Fabrizio Cattaneo ', ' Alfredo Ferrario ', ' Danilo Moccia ', ' Gianluca Tagliazucchi ', ' Luciano Milanesi ', ' Massimo Caracca ']","['Jazz', 'Blues', 'Soul']"
+25,Basel,Joe-Haider-Quartet,2014-09-12,"[' Domenic Landolf ', ' Joe Haider ', ' Raffaele Bossard ', ' Dominic Egli ']","['Jazz', 'Blues', 'Soul']"
+26,Z?rich,6-H?nde-3-Pianos-1-Trio,2014-09-12,"[' Malcolm Braff ', ' Colin Vallon ', ' Florian Favre ']","['Jazz', 'Blues', 'Soul']"
+27,null,Musique-en-Route,2014-09-12,"[' Ronny Spiegel ', ' Tom Tafel ', ' Ariel Facundo Rossi ', ' voc) und Stefanie Hess ']","['world', 'music']"
+28,Basel,Eine-Reise-in-noch-nicht-geh?rte-Klanglichkeit,2014-09-12,"['Kamilya Jubran ', ' Werner Hasler ']","['Jazz', 'Blues', 'Soul']"
+29,Romanshorn,Sambuco,2014-09-12,"[' Brigitte Meier ', ' Sergio Pastore ', ' Ralph Hufenus ', ' Markus van Grinsven ']","['Jazz', 'Blues', 'Soul']"
+30,Zug,Afrob,2014-09-12,['Afrob '],"['Hip', 'Hop', ""R'n'B""]"
+31,Basel,Janto's-Holding,2014-09-12,"[' Karin Ospelt ', ' Simon Spiess ', ' Jan-Andrea Bard ', ' Christopher B?hm ', ' Florian Krause ']","['Jazz', 'Blues', 'Soul']"
+32,Lausanne,Kid-Ink,2014-09-12,['Kid Ink '],"['Hip', 'Hop', ""R'n'B""]"
+33,Wetzikon,Chi-Coltrane,2014-09-12,['Chi Coltrane '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Z?rich,Supersuckers,2014-09-12,['Supersuckers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Solothurn,Irish-Night,2014-09-12,['LED Farmers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Winterthur,Seal-Of-Quality,2014-09-12,['Seal Of Quality '],['Electronic']
+37,Bar,Bistro,2014-09-12,"[' Brian Archinal ', ' Bastian Pfefferli ', ' Victor Barcel? ', ' Miguel ?ngel Garc?a Mart?n ', ' Klaus Steffes-Holl?nder ']",['Classic']

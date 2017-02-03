@@ -1,36 +1,37 @@
-location,event,date,artists,genre
-Zürich,Tschaikowski-Gala,2013-02-15,[' Da Sol '],Classic
-Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-02-15,['Mark Tenger '],
-Basel,Orgelspiel-zum-Feierabend,2013-02-15,['Pascal Reber '],Classic
-Chur,Korpiklaani,2013-02-15,"['Korpiklaani ', ' Metsatöll ']",
-KKL,Luzern,2013-02-15,['Patricia Kaas '],
-Zürich,Internationales-Country-Music-Festival,2013-02-15,[' Dale Watson & His Lone Stars '],
-Zürich,Tschaikowski-Gala,2013-02-15,[' Yury Revich '],Classic
-Frick,Suisse-Diagonales-Jazz,2013-02-15,"[' Mael Godinat ', ' Manu Hagmann ', ' Nelson Schaer ']",
-null,Suisse-Diagonales-Jazz,2013-02-15,"[' Fabian m. Mueller ', ' Kaspar von Grünigen ', ' Fabian Bürgi ']",
-Zürich,Passenger,2013-02-15,"['Passenger ', ' support: Stu Larsen ']",Pop
-Musik-Container,Uster,2013-02-15,"[' Chili Romer ', ' Afiwa Kuzeawu ', ' Christina Jaccard ']",
-Theater-am-Gleis,Winterthur,2013-02-15,"[' Philipp Albrecht ', ' Dave Aro ', ' Boris Aebischer ', ' Marc Zimmermann ', ' René Albrecht ', ' Roger Greipl ', ' Philipp Labhart ']",
-Esse-Musicbar,Winterthur,2013-02-15,"[' Michael Jaeger ', ' Vincent Membrez ', ' Luca Sisera ', ' Norbert Pfammatter ']",Kerouac
-Basel,Mats-Up,2013-02-15,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']",
-Schaffhausen,Urban-Spaces-Quartet,2013-02-15,"[' Francis Petter ', ' Edgar Marc Petter ', ' Peter Hunziker ', ' Bruno Huwyler ']",
-Zürich,Tamikrest,2013-02-15,"['Tamikrest ', ' Ousmane Ag Mossa ', ' Paul Salvagnac ', ' Cheikh Ag Taglia ', ' Aghaly Ag Mohamedine ']",
-Liebefeld,Uptown-Big-Band-feat.-Mike-Maurer,2013-02-15,['Uptown Big Band feat. Mike Maurer '],
-Aarau,Grand-Magus,2013-02-15,"['Grand Magus ', ' Angel Witch ', ' Enforcer ']",
-Winterthur,Burst-&-Bloom,2013-02-15,"['Hierophant ', ' Patsy OHara ', ' Hoax ', ' Hysterese ']",
-Wetzikon,Abrassiv,2013-02-15,['Abrassiv '],
-Luzern,We-Steal-Flyers,2013-02-15,['We Steal Flyers '],
-Lausanne,The-Bewitched-Hands,2013-02-15,"['The Bewitched Hands ', ' support: Concrete Knives ']",Pop
-Usine,null,2013-02-15,['The Raveonettes '],
-Zürich,Bailefunk-Rio-Meets-Zurich,2013-02-15,[' live: Valesca Popozuda '],
-Zürich,Quintett-Ikarus,2013-02-15,"[' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Moritz Meyer ', ' Ramón Oliveras ']",
-Grabenhalle,null,2013-02-15,['Friska Viljor '],
-Aarau,Heartless-Bastards,2013-02-15,['Heartless Bastards '],
-null,Benjamin,2013-02-15,['Benjamin '],
-Wil,Sean-Price,2013-02-15,['Sean Price '],
-Zürich,Zoë,2013-02-15,"[' Zoë ', ' Timo Hendrik ', ' Markus Roth ', ' Olivier Werlen ', ' Patrik Horat ']",Pop
-Zürich,Apollo-Brown-&-Guilty-Simpson,2013-02-15,['Apollo Brown & Guilty Simpson '],
-Lausanne,Camilla-Sparksss,2013-02-15,['Camilla Sparksss '],Electronic
-Baden,Richard-Comte-&-Simon-Berz,2013-02-15,[' Richard Comte '],
-ISC-Club,Bern,2013-02-15,['Mambo Kurt '],
-Basel,Boogie-Nights,2013-02-15,['DJs Kalle Kuts '],
+,location,event,date,artists,genre
+0,Zürich,Tschaikowski-Gala,2013-02-15,[' Da Sol '],['Classic']
+1,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-02-15,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+2,Basel,Orgelspiel-zum-Feierabend,2013-02-15,['Pascal Reber '],['Classic']
+3,Chur,Korpiklaani,2013-02-15,"['Korpiklaani ', ' Metsatöll ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Zürich,Internationales-Country-Music-Festival,2013-02-15,[' Dale Watson & His Lone Stars '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,KKL,Luzern,2013-02-15,['Patricia Kaas '],"['Patricia', 'Kaas']"
+6,Zürich,Tschaikowski-Gala,2013-02-15,[' Yury Revich '],['Classic']
+7,Frick,Suisse-Diagonales-Jazz,2013-02-15,"[' Mael Godinat ', ' Manu Hagmann ', ' Nelson Schaer ']","['Jazz', 'Blues', 'Soul']"
+8,null,Suisse-Diagonales-Jazz,2013-02-15,"[' Fabian m. Mueller ', ' Kaspar von Grünigen ', ' Fabian Bürgi ']","['Jazz', 'Blues', 'Soul']"
+9,Musik-Container,Uster,2013-02-15,"[' Chili Romer ', ' Afiwa Kuzeawu ', ' Christina Jaccard ']","['Christina', 'Jaccard']"
+10,Zürich,Passenger,2013-02-15,"['Passenger ', ' support: Stu Larsen ']",['Pop']
+11,Theater-am-Gleis,Winterthur,2013-02-15,"[' Philipp Albrecht ', ' Dave Aro ', ' Boris Aebischer ', ' Marc Zimmermann ', ' René Albrecht ', ' Roger Greipl ', ' Philipp Labhart ']","['Min', 'King']"
+12,Esse-Musicbar,Winterthur,2013-02-15,"[' Michael Jaeger ', ' Vincent Membrez ', ' Luca Sisera ', ' Norbert Pfammatter ']",['Kerouac']
+13,Liebefeld,Uptown-Big-Band-feat.-Mike-Maurer,2013-02-15,['Uptown Big Band feat. Mike Maurer '],"['Jazz', 'Blues', 'Soul']"
+14,Basel,Mats-Up,2013-02-15,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']","['Jazz', 'Blues', 'Soul']"
+15,Basel,Mats-Up,2013-02-15,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']","['Jazz', 'Blues', 'Soul']"
+16,Zürich,Tamikrest,2013-02-15,"['Tamikrest ', ' Ousmane Ag Mossa ', ' Paul Salvagnac ', ' Cheikh Ag Taglia ', ' Aghaly Ag Mohamedine ']","['world', 'music']"
+17,Schaffhausen,Urban-Spaces-Quartet,2013-02-15,"[' Francis Petter ', ' Edgar Marc Petter ', ' Peter Hunziker ', ' Bruno Huwyler ']","['Jazz', 'Blues', 'Soul']"
+18,Zürich,Bailefunk-Rio-Meets-Zurich,2013-02-15,[' live: Valesca Popozuda '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+19,Luzern,We-Steal-Flyers,2013-02-15,['We Steal Flyers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Usine,null,2013-02-15,['The Raveonettes '],"['The', 'Raveonettes']"
+21,Lausanne,The-Bewitched-Hands,2013-02-15,"['The Bewitched Hands ', ' support: Concrete Knives ']",['Pop']
+22,Aarau,Grand-Magus,2013-02-15,"['Grand Magus ', ' Angel Witch ', ' Enforcer ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Winterthur,Burst-&-Bloom,2013-02-15,"['Hierophant ', ' Patsy OHara ', ' Hoax ', ' Hysterese ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Wetzikon,Abrassiv,2013-02-15,['Abrassiv '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Zürich,Quintett-Ikarus,2013-02-15,"[' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Moritz Meyer ', ' Ramón Oliveras ']","['Jazz', 'Blues', 'Soul']"
+26,Grabenhalle,null,2013-02-15,['Friska Viljor '],"['Friska', 'Viljor']"
+27,Aarau,Heartless-Bastards,2013-02-15,['Heartless Bastards '],"['Hip', 'Hop', ""R'n'B""]"
+28,Zürich,Apollo-Brown-&-Guilty-Simpson,2013-02-15,['Apollo Brown & Guilty Simpson '],"['Hip', 'Hop', ""R'n'B""]"
+29,Zürich,Zoë,2013-02-15,"[' Zoë ', ' Timo Hendrik ', ' Markus Roth ', ' Olivier Werlen ', ' Patrik Horat ']",['Pop']
+30,null,Benjamin,2013-02-15,['Benjamin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Wil,Sean-Price,2013-02-15,['Sean Price '],"['Hip', 'Hop', ""R'n'B""]"
+32,Lausanne,Camilla-Sparksss,2013-02-15,['Camilla Sparksss '],['Electronic']
+33,Baden,Richard-Comte-&-Simon-Berz,2013-02-15,[' Richard Comte '],"['Jazz', 'Blues', 'Soul']"
+34,ISC-Club,Bern,2013-02-15,['Mambo Kurt '],"['Mambo', 'Kurt']"
+35,Basel,Boogie-Nights,2013-02-15,['DJs Kalle Kuts '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

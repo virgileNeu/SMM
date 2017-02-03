@@ -1,18 +1,17 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment,2014-01-15,['Mark Tenger '],
-Basel,AMG-World-Orchestras,2014-01-15,[' Christian Tetzlaff '],Classic
-null,Migros-Kulturprozent-Classics-2,2014-01-15,"[' Sol Gabetta ', ' Matthias Arter ']",Classic
-Luzern,Emilie-und-Don-Juan,2014-01-15,"[' Pia Freund ', ' Martin Fröst ']",Classic
-Luzern,Jam-Night,2014-01-15,"['Raffael Pochanke ', ' Gianluca Giger ', ' Sasha Frischknecht ']",
-Zürich,Jammin-Wednesday,2014-01-15,['Hosted by Eddie Bustaman '],
-null,Oloid,2014-01-15,"[' Christian Zehnder ', ' Gregor Hilbe ']",
-Zürich,Michael-Bublé,2014-01-15,['Michael Bublé '],Pop
-Solothurn,Elena-Gerster,2014-01-15,['Elena Gerster '],Pop
-null,Konzert,2014-01-15,[' Momo Kodama '],Classic
-Schaffhausen,Battlefield-Band,2014-01-15,['Battlefield Band '],
-Wädenswil,Primo-piano,2014-01-15,['Michal Nowak '],Classic
-Zürich,Easy-October,2014-01-15,['Easy October '],
-Feuerthalen,Andy-Egert-Blues-Band-feat.-Dallas-Hodge,2014-01-15,['Andy Egert Blues Band feat. Dallas Hodge '],
-Luzern,Workshopkonzert,2014-01-15,"['Veronika Schnattinger ', ' Christian Zatta ', ' Simon Boss ', ' Simon Bächinger ', ' Benjamin Leuenberger ']",
-Zürich,Lisbeth-Quartett,2014-01-15,"['Lisbeth Quartett ', ' Charlotte Greve ', ' Manuel Schmiedel ', ' Marc Muellbauer ', ' Moritz Baumgärtner ']",
-Basel,guitars@basel-Tomas-Sauter-Daniel-Schläppi,2014-01-15,"[' Tomas Sauter ', ' Daniel Schläppi ']",
+,location,event,date,artists,genre
+0,null,Migros-Kulturprozent-Classics-2,2014-01-15,"[' Sol Gabetta ', ' Matthias Arter ']",['Classic']
+1,Basel,AMG-World-Orchestras,2014-01-15,[' Christian Tetzlaff '],['Classic']
+2,Luzern,Emilie-und-Don-Juan,2014-01-15,"[' Pia Freund ', ' Martin Fr?st ']",['Classic']
+3,Z?rich,Jammin-Wednesday,2014-01-15,['Hosted by Eddie Bustaman '],"['Jazz', 'Blues', 'Soul']"
+4,Z?rich,Michael-Bubl?,2014-01-15,['Michael Bubl? '],['Pop']
+5,null,Oloid,2014-01-15,"[' Christian Zehnder ', ' Gregor Hilbe ']","['Jazz', 'Blues', 'Soul']"
+6,Solothurn,Elena-Gerster,2014-01-15,['Elena Gerster '],['Pop']
+7,null,Konzert,2014-01-15,[' Momo Kodama '],['Classic']
+8,Luzern,Jam-Night,2014-01-15,"['Raffael Pochanke ', ' Gianluca Giger ', ' Sasha Frischknecht ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Schaffhausen,Battlefield-Band,2014-01-15,['Battlefield Band '],"['world', 'music']"
+10,Z?rich,Lisbeth-Quartett,2014-01-15,"['Lisbeth Quartett ', ' Charlotte Greve ', ' Manuel Schmiedel ', ' Marc Muellbauer ', ' Moritz Baumg?rtner ']","['Jazz', 'Blues', 'Soul']"
+11,Luzern,Workshopkonzert,2014-01-15,"['Veronika Schnattinger ', ' Christian Zatta ', ' Simon Boss ', ' Simon B?chinger ', ' Benjamin Leuenberger ']","['Jazz', 'Blues', 'Soul']"
+12,Basel,guitars@basel-Tomas-Sauter-Daniel-Schl?ppi,2014-01-15,"[' Tomas Sauter ', ' Daniel Schl?ppi ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Easy-October,2014-01-15,['Easy October '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,W?denswil,Primo-piano,2014-01-15,['Michal Nowak '],['Classic']
+15,Feuerthalen,Andy-Egert-Blues-Band-feat.-Dallas-Hodge,2014-01-15,['Andy Egert Blues Band feat. Dallas Hodge '],"['Jazz', 'Blues', 'Soul']"

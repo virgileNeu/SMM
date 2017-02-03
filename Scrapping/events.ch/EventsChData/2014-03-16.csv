@@ -1,39 +1,39 @@
-location,event,date,artists,genre
-Zürich,Wenn-Pepita-loslegt,2014-03-16,"['Nadja S. ', ' Benedict Schönenberger ', ' Pierre Tissonnier ', ' Ronja Oppelt und Philipp Boos ']",Classic
-Zürich,Frühschoppen,2014-03-16,['Steirersound '],traditional
-Uster,Springtime-Jazz,2014-03-16,[' Dominik Burger '],
-null,4.-Kammerkonzert,2014-03-16,"['Gérard Schlotz ', ' Anne Fatout ', ' Dominique Hongler-Schlotz ', ' Clément Boudrant ', ' Martin Reetz ']",Classic
-Zürich,Konzert,2014-03-16,[' Hanna Weinmeister '],Classic
-Zürich,Morgenmusik,2014-03-16,"[' Andreas Jost ', ' Daniel Bentz ', ' Ernst Buscagne ']",Classic
-Schaffhausen,Klassik-im-Rüden-Matinée,2014-03-16,"['Claudia Kovacs ', ' Miranda de Miguel ']",Classic
-Wabern,Natur-Ton-Berg,2014-03-16,"[' John Wolf Brennan ', ' Gérard Widmer ', ' Willi Grimm ']",
-Zürich,Steirersound,2014-03-16,['Steirersound '],traditional
-Bern,Das-Jahr-1914,2014-03-16,"[' Eva Aroutunian ', ' Kamilla Schatz ', ' Matthias Schranz ', ' Ivan Nestic ', ' Kaspar Zehnder ', ' Fabio di Càsola ']",Classic
-Meilen,Romantische-Chormusik-a-capella,2014-03-16,[' Hansueli Bamert '],Classic
-null,Sonntags-um-5,2014-03-16,"['Dmitry Mishelovich ', ' Bakyt Bizhanov ', ' Stefanie Sampaio de Medeiros ']",Classic
-Rapperswil,Eros-&-Thanatos-Matutin-der-letzten-Dinge,2014-03-16,[' Ken Zuckerman '],Classic
-Winterthur,Musica-aperta-Lichtungen,2014-03-16,"['Sara Maurer ', ' Claudia Ulla Binder ']",Classic
-Olten,Les-deux,2014-03-16,"[' Violinist Beat Escher ', ' Noby Lehmann ']",
-Luzern,Die-schönsten-Opernchöre,2014-03-16,"[' Anica Defuns ', ' Rosa Elvira Sierra ', ' Angelo Ferrari ']",Classic
-Zug,Soirée,2014-03-16,"[' Tobias Steymans ', ' Luzius Gartmann ', ' Madeleine Nussbaumer ']",Classic
-Zollikerberg,Konzert,2014-03-16,"['Ryszard Klockiewicz ', ' Margrit Brincken-Schuler ']",Classic
-Pieterlen,Folk-in-Heaven,2014-03-16,['Hugh Moffatt '],
-Zürich,Ein-bunter-Orgelstrauss,2014-03-16,['Kathrin Augustiny '],Classic
-Zürich,Frühlingsanfang-in-Schräglage-Lieder-Chansons-Songs,2014-03-16,"[' Annette Labusch ', ' Stefi Spinas ']",Pop
-Brütten,Junge-Talente,2014-03-16,"['Elisso Gigibedaschwili ', ' Isa-Sophie Zünd ']",Classic
-Zürich,The-Whammies,2014-03-16,['The Whammies '],
-Zürich,Robert-Glasper-Experiment,2014-03-16,"['Robert Glasper Experiment ', ' Robert Glasper ', ' Casey Benjamin ', ' Burniss Travis ', ' Mark Colenburg ']",
-Bern,Goran-Bregovic-&-his-Wedding-and-Funeral-Band,2014-03-16,['Goran Bregovic & his Wedding and Funeral Band '],
-Zürich,William-Fitzsimmons,2014-03-16,"['William Fitzsimmons ', ' Denison Witmer ']",Pop
-Zürich,Kammermusik-Soiree,2014-03-16,"[' Thomas Zehetmair ', ' Matthias Metzger ', ' Ruth Killius ', ' Christian Elliott ']",Classic
-Zürich,Within-Temptation,2014-03-16,['Within Temptation '],
-Zürich,Birth-Of-Joy,2014-03-16,['Birth Of Joy '],
-Bern,The-Ministry-of-Wolves,2014-03-16,['The Ministry of Wolves '],
-Rubigen,The-James-Connolly-Songs-of-Freedom-Band,2014-03-16,['The James Connolly Songs of Freedom Band '],
-Luzern,Mike-Watt-&-The-Missingmen,2014-03-16,"['Mike Watt & The Missingmen ', ' Guess What ', "" L'Oeillère ""]",
-Zürich,Tessiner-Abend,2014-03-16,['Giorgio '],traditional
-Pratteln,Blaze,2014-03-16,['Blaze '],
-Zürich,Thalia-Zedek-Band,2014-03-16,['Thalia Zedek Band '],
-Zürich,Babak-Nemati-Quartet,2014-03-16,"[' Babak Nemati ', ' Carles Peris ', ' Beat Gisler ', ' Olaf Ryter ']",
-null,Voix-de-fête,2014-03-16,"['Joelle St-Pierre ', ' Les Hay Babies ']",Pop
-Wädenswil,Klô-Pelgag,2014-03-16,"['Klô Pelgag ', ' Klô Pelgag ', ' Charles Duquette ', ' Fany Fresard ', ' Ana Tomlin ', ' Elyzabeth Burrowes ', ' Philippe Leduc ']",Pop
+,location,event,date,artists,genre
+0,Uster,Springtime-Jazz,2014-03-16,[' Dominik Burger '],"['Jazz', 'Blues', 'Soul']"
+1,null,4.-Kammerkonzert,2014-03-16,"['G?rard Schlotz ', ' Anne Fatout ', ' Dominique Hongler-Schlotz ', ' Cl?ment Boudrant ', ' Martin Reetz ']",['Classic']
+2,Z?rich,Fr?hschoppen,2014-03-16,['Steirersound '],['traditional']
+3,Z?rich,Wenn-Pepita-loslegt,2014-03-16,"['Nadja S. ', ' Benedict Sch?nenberger ', ' Pierre Tissonnier ', ' Ronja Oppelt und Philipp Boos ']",['Classic']
+4,Z?rich,Konzert,2014-03-16,[' Hanna Weinmeister '],['Classic']
+5,Schaffhausen,Klassik-im-R?den-Matin?e,2014-03-16,"['Claudia Kovacs ', ' Miranda de Miguel ']",['Classic']
+6,Z?rich,Morgenmusik,2014-03-16,"[' Andreas Jost ', ' Daniel Bentz ', ' Ernst Buscagne ']",['Classic']
+7,Wabern,Natur-Ton-Berg,2014-03-16,"[' John Wolf Brennan ', ' G?rard Widmer ', ' Willi Grimm ']","['world', 'music']"
+8,Z?rich,Steirersound,2014-03-16,['Steirersound '],['traditional']
+9,Luzern,Die-sch?nsten-Opernch?re,2014-03-16,"[' Anica Defuns ', ' Rosa Elvira Sierra ', ' Angelo Ferrari ']",['Classic']
+10,Zollikerberg,Konzert,2014-03-16,"['Ryszard Klockiewicz ', ' Margrit Brincken-Schuler ']",['Classic']
+11,Z?rich,Ein-bunter-Orgelstrauss,2014-03-16,['Kathrin Augustiny '],['Classic']
+12,Bern,Das-Jahr-1914,2014-03-16,"[' Eva Aroutunian ', ' Kamilla Schatz ', ' Matthias Schranz ', ' Ivan Nestic ', ' Kaspar Zehnder ', ' Fabio di C?sola ']",['Classic']
+13,Meilen,Romantische-Chormusik-a-capella,2014-03-16,[' Hansueli Bamert '],['Classic']
+14,Zug,Soir?e,2014-03-16,"[' Tobias Steymans ', ' Luzius Gartmann ', ' Madeleine Nussbaumer ']",['Classic']
+15,Rapperswil,Eros-&-Thanatos-Matutin-der-letzten-Dinge,2014-03-16,[' Ken Zuckerman '],['Classic']
+16,Olten,Les-deux,2014-03-16,"[' Violinist Beat Escher ', ' Noby Lehmann ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Z?rich,Fr?hlingsanfang-in-Schr?glage-Lieder-Chansons-Songs,2014-03-16,"[' Annette Labusch ', ' Stefi Spinas ']",['Pop']
+18,Winterthur,Musica-aperta-Lichtungen,2014-03-16,"['Sara Maurer ', ' Claudia Ulla Binder ']",['Classic']
+19,Pieterlen,Folk-in-Heaven,2014-03-16,['Hugh Moffatt '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,null,Sonntags-um-5,2014-03-16,"['Dmitry Mishelovich ', ' Bakyt Bizhanov ', ' Stefanie Sampaio de Medeiros ']",['Classic']
+21,Br?tten,Junge-Talente,2014-03-16,"['Elisso Gigibedaschwili ', ' Isa-Sophie Z?nd ']",['Classic']
+22,Z?rich,Robert-Glasper-Experiment,2014-03-16,"['Robert Glasper Experiment ', ' Robert Glasper ', ' Casey Benjamin ', ' Burniss Travis ', ' Mark Colenburg ']","['Jazz', 'Blues', 'Soul']"
+23,Z?rich,The-Whammies,2014-03-16,['The Whammies '],"['Jazz', 'Blues', 'Soul']"
+24,Bern,Goran-Bregovic-&-his-Wedding-and-Funeral-Band,2014-03-16,[' his Wedding and Funeral Band '],"['world', 'music']"
+25,Z?rich,William-Fitzsimmons,2014-03-16,"['William Fitzsimmons ', ' Denison Witmer ']",['Pop']
+26,Z?rich,Kammermusik-Soiree,2014-03-16,"[' Thomas Zehetmair ', ' Matthias Metzger ', ' Ruth Killius ', ' Christian Elliott ']",['Classic']
+27,Bern,The-Ministry-of-Wolves,2014-03-16,['The Ministry of Wolves '],"['Jazz', 'Blues', 'Soul']"
+28,Z?rich,Tessiner-Abend,2014-03-16,['Giorgio '],['traditional']
+29,Z?rich,Within-Temptation,2014-03-16,['Within Temptation '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Luzern,Mike-Watt-&-The-Missingmen,2014-03-16,"[' The Missingmen ', ' Guess What ', "" L'Oeill?re ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Z?rich,Birth-Of-Joy,2014-03-16,['Birth Of Joy '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Rubigen,The-James-Connolly-Songs-of-Freedom-Band,2014-03-16,['The James Connolly Songs of Freedom Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Pratteln,Blaze,2014-03-16,['Blaze '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Z?rich,Thalia-Zedek-Band,2014-03-16,['Thalia Zedek Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Z?rich,Babak-Nemati-Quartet,2014-03-16,"[' Babak Nemati ', ' Carles Peris ', ' Beat Gisler ', ' Olaf Ryter ']","['Jazz', 'Blues', 'Soul']"
+36,null,Voix-de-f?te,2014-03-16,"['Joelle St-Pierre ', ' Les Hay Babies ']",['Pop']
+37,W?denswil,Kl?-Pelgag,2014-03-16,"['Kl? Pelgag ', ' Kl? Pelgag ', ' Charles Duquette ', ' Fany Fresard ', ' Ana Tomlin ', ' Elyzabeth Burrowes ', ' Philippe Leduc ']",['Pop']

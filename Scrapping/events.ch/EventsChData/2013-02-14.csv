@@ -1,34 +1,34 @@
-location,event,date,artists,genre
-Zürich,Jazz-Apéro,2013-02-14,['Mike Ryrie '],
-Zürich,Internationales-Country-Music-Festival,2013-02-14,"['Nadine Somers & The Backing-Band ', ' Jeff Turner & Band ']",
-Zürich,Thursday-Night-Jazz,2013-02-14,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Zürich,Thy-Art-Is-Murder,2013-02-14,"['Thy Art Is Murder ', ' Here Comes The Kraken ', ' Martyr Defiled ']",
-Zürich,Konzert-zum-Valentinstag,2013-02-14,[' Da Sol '],Classic
-null,Les-son-des-inconnus,2013-02-14,"[' Patrick Stadler ', ' Wiktor Kociuban ']",
-Luzern,Salonmusik,2013-02-14,"['Martin Schaefer ', ' Richard Decker ']",Classic
-Zürich,Unhappybirthday,2013-02-14,['Unhappybirthday '],Pop
-Altikon,Cholet-Känzig-Papaux-Trio,2013-02-14,"[' Jean-Christophe Cholet ', ' Heiri Känzig ', ' Marcel Papaux ']",
-Haberhaus-Kulturklub,Schaffhausen,2013-02-14,"[' ', ' Ganesh Geymeier ', ' Fred Bürki ', ' Claudia Greber ', ' Fabienne Ambühl ', ' Simon Iten ']",
-Frick,Suisse-Diagonales-Jazz,2013-02-14,"[' Josquin Rosset ', ' Gabriel Meyer ', ' Jan Geiger ']",
-Solothurn,Korpiklaani,2013-02-14,"['Korpiklaani ', ' Mestasöll ']",
-Zürich,Concrete-Knives,2013-02-14,['Concrete Knives '],
-Aarau,Verschollenes-Träumen,2013-02-14,"['Sylvia Nopper ', ' Till Alexander Körber ']",Classic
-Plaza-Zürich,Zürich,2013-02-14,['Dinosaur Jr. '],
-Winterthur,Troja,2013-02-14,"[' Peter Zihlmann ', ' Patrick Sommer ', ' Tobias Friedli ']",
-Basel,Straymonk-spielt-Mingus,2013-02-14,"[' Nat Su ', ' Gabriel Davit ', ' Andreas Zitz ', ' Michi Stulz ']",
-Liebefeld,Daniel-Erdmann-&-Samuel-Rohrer-Quartett,2013-02-14,"[' Daniel Erdmann ', ' Frank Möbus ', ' Vincent Courtois ', ' Samuel Rohrer ']",
-Chollerhalle,Zug,2013-02-14,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']",
-null,Quintett-Ikarus,2013-02-14,"[' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Moritz Meyer ', ' Ramón Oliveras ']",
-Zürich,Nadéah,2013-02-14,"[' Nadya Miranda ', ' David Chalmin ', ' Antoine Simoni ', ' Olivier Ferrarin ']",
-Zürich,Salsamania,2013-02-14,['DJs Andrea Vannelli '],
-Basel,Richard-Comte-&-Simon-Berz,2013-02-14,[' Richard Comte '],
-Lausanne,Dallas-Frasca,2013-02-14,"['Dallas Frasca ', ' Manu Lanvin ']",
-Le-Romandie,Lausanne,2013-02-14,['Tamaryn '],
-Albani-Music-Club,Winterthur,2013-02-14,['Tom Liwa '],
-Albani-Music-Club,Winterthur,2013-02-14,['Tom Liwa '],
-ISC-Club,Bern,2013-02-14,"['The Meteors ', ' The Griswalds ']",
-Luzern,Jam-Session,2013-02-14,['Richard Decker '],
-Zürich,Benjamin,2013-02-14,['Benjamin '],
-Café-Kairo,Bern,2013-02-14,['Old Seed '],
-Bar-Rossi,Zürich,2013-02-14,"['Jukebox ', ' Igor ', ' Franz ']",Jukebox
-Pontresina,Skaworkers,2013-02-14,['Skaworkers '],
+,location,event,date,artists,genre
+0,Zürich,Jazz-Apéro,2013-02-14,['Mike Ryrie '],"['Jazz', 'Blues', 'Soul']"
+1,Zürich,Thursday-Night-Jazz,2013-02-14,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+2,Zürich,Internationales-Country-Music-Festival,2013-02-14,"['Nadine Somers & The Backing-Band ', ' Jeff Turner & Band ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Zürich,Thy-Art-Is-Murder,2013-02-14,"['Thy Art Is Murder ', ' Here Comes The Kraken ', ' Martyr Defiled ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Zürich,Konzert-zum-Valentinstag,2013-02-14,[' Da Sol '],['Classic']
+5,Solothurn,Korpiklaani,2013-02-14,"['Korpiklaani ', ' Mestasöll ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Altikon,Cholet-Känzig-Papaux-Trio,2013-02-14,"[' Jean-Christophe Cholet ', ' Heiri Känzig ', ' Marcel Papaux ']","['Jazz', 'Blues', 'Soul']"
+7,Haberhaus-Kulturklub,Schaffhausen,2013-02-14,"[' ', ' Ganesh Geymeier ', ' Fred Bürki ', ' Claudia Greber ', ' Fabienne Ambühl ', ' Simon Iten ']","['Harmonie', 'Greber']"
+8,Zürich,Concrete-Knives,2013-02-14,['Concrete Knives '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Zürich,Unhappybirthday,2013-02-14,['Unhappybirthday '],['Pop']
+10,Luzern,Salonmusik,2013-02-14,"['Martin Schaefer ', ' Richard Decker ']",['Classic']
+11,Frick,Suisse-Diagonales-Jazz,2013-02-14,"[' Josquin Rosset ', ' Gabriel Meyer ', ' Jan Geiger ']","['Jazz', 'Blues', 'Soul']"
+12,Plaza-Zürich,Zürich,2013-02-14,['Dinosaur Jr. '],"['Dinosaur', 'Jr.']"
+13,Aarau,Verschollenes-Träumen,2013-02-14,"['Sylvia Nopper ', ' Till Alexander Körber ']",['Classic']
+14,null,Les-son-des-inconnus,2013-02-14,"[' Patrick Stadler ', ' Wiktor Kociuban ']","['Jazz', 'Blues', 'Soul']"
+15,Winterthur,Troja,2013-02-14,"[' Peter Zihlmann ', ' Patrick Sommer ', ' Tobias Friedli ']","['Jazz', 'Blues', 'Soul']"
+16,Liebefeld,Daniel-Erdmann-&-Samuel-Rohrer-Quartett,2013-02-14,"[' Daniel Erdmann ', ' Frank Möbus ', ' Vincent Courtois ', ' Samuel Rohrer ']","['Jazz', 'Blues', 'Soul']"
+17,Zürich,Nadéah,2013-02-14,"[' Nadya Miranda ', ' David Chalmin ', ' Antoine Simoni ', ' Olivier Ferrarin ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Chollerhalle,Zug,2013-02-14,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']","['Mats', 'Up']"
+19,null,Quintett-Ikarus,2013-02-14,"[' Stefanie Suhner ', ' Andreas Lareida ', ' Lucca Fries ', ' Moritz Meyer ', ' Ramón Oliveras ']","['Jazz', 'Blues', 'Soul']"
+20,Basel,Straymonk-spielt-Mingus,2013-02-14,"[' Nat Su ', ' Gabriel Davit ', ' Andreas Zitz ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+21,Basel,Richard-Comte-&-Simon-Berz,2013-02-14,[' Richard Comte '],"['Jazz', 'Blues', 'Soul']"
+22,Le-Romandie,Lausanne,2013-02-14,['Tamaryn '],"['Labrador', 'City']"
+23,null,Savage-Republic,2013-02-14,['Savage Republic '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Zürich,Salsamania,2013-02-14,['DJs Andrea Vannelli '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+25,Lausanne,Dallas-Frasca,2013-02-14,"['Dallas Frasca ', ' Manu Lanvin ']","['Jazz', 'Blues', 'Soul']"
+26,Albani-Music-Club,Winterthur,2013-02-14,['Tom Liwa '],"['Tom', 'Liwa']"
+27,ISC-Club,Bern,2013-02-14,"['The Meteors ', ' The Griswalds ']","['The', 'Meteors']"
+28,Café-Kairo,Bern,2013-02-14,['Old Seed '],"['Old', 'Seed']"
+29,Bar-Rossi,Zürich,2013-02-14,"['Jukebox ', ' Igor ', ' Franz ']",['Jukebox']
+30,Luzern,Jam-Session,2013-02-14,['Richard Decker '],"['Jazz', 'Blues', 'Soul']"
+31,Zürich,Benjamin,2013-02-14,['Benjamin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Pontresina,Skaworkers,2013-02-14,['Skaworkers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

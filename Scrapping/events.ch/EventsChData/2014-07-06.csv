@@ -1,19 +1,19 @@
-location,event,date,artists,genre
-Meiringen,Musikfestwoche-Meiringen,2014-07-06,"['Patrick Demenga ', ' Thomas Demenga ', ' Bernd Glemser ', ' Pilippe Litzler ']",Classic
-Zürich,Festspiele-Zürich,2014-07-06,"[' Lise de la Salle ', ' Sen Guo ', ' Anna Stéphany ', ' Mauro Peter ', ' Erik Anstine ']",Classic
-Winterthur,Ein-deutsches-Requiem,2014-07-06,"[' Stephanie Jagsch-Pfeffer ', ' Jens Hamann ', ' Carl Wolf ']",Classic
-Schmidrüti,Orgelkonzert,2014-07-06,['Renate Steiner '],Classic
-Winterthur,Streichtrio-Tritoni,2014-07-06,"[' Doris Dubach ', ' Jannai Balikavlayan ', ' Campbell Banks ']",Classic
-Zürich,Benefizkonzert-für-HEKS-und-Fukushima-in-Japan,2014-07-06,"[' Yuka Tsuboi ', ' Sachiko Uchida ', ' Takayuki Kiryu ', ' Keita Kitade ', ' Kiyomi Higaki ']",Classic
-Zürich,Festspiele-Zürich-Benefizkonzert,2014-07-06,"[' Soyoung Yoon ', ' Romaine Bolinger ', ' Elvin Ganiyev ', ' Alexander Boldachev ']",Classic
--Alte-Kirche,Boswil,2014-07-06,"[' Mona Asuka Ott ', ' Ursula Bernhard-Füri ', ' Thomas E. Bauer ']",Classic
-Zürich,Festspiele-Zürich,2014-07-06,"[' Nik Bärtsch ', ' Sha ']",
-Marly,Jazz-Parade,2014-07-06,"['S-Crew ', ' Alice Francis ']",
-Montreux,Montreux-Jazz-Festival,2014-07-06,"['Buddy Guy ', ' Tedeschi Trucks Band ']",
-Montreux,Montreux-Jazz-Festival,2014-07-06,"['Buika ', ' Iván Lewis & Ayer y Hoy Quartet ']",
-null,Liechtensteiner-Gitarrentage,2014-07-06,['Alvaro Pierri '],Classic
-Elgg,Von-Engeln-und-Gottfernen,2014-07-06,"['Meret Burkhard ', ' Rudolf Meyer ']",Classic
-Montreux,Montreux-Jazz-Festival,2014-07-06,"['Eels ', ' Temples ']",
-null,Movie-Star-Junkies,2014-07-06,['Movie Star Junkies '],Pop
-Vevey,Montreux-Jazz-Festival,2014-07-06,['Alim Qasimov Ensemble '],
-Montreux,Montreux-Jazz-Festival,2014-07-06,[' Drenge '],
+,location,event,date,artists,genre
+0,Meiringen,Musikfestwoche-Meiringen,2014-07-06,"['Patrick Demenga ', ' Thomas Demenga ', ' Bernd Glemser ', ' Pilippe Litzler ']",['Classic']
+1,Z?rich,Festspiele-Z?rich,2014-07-06,"[' Lise de la Salle ', ' Sen Guo ', ' Anna St?phany ', ' Mauro Peter ', ' Erik Anstine ']",['Classic']
+2,Winterthur,Ein-deutsches-Requiem,2014-07-06,"[' Stephanie Jagsch-Pfeffer ', ' Jens Hamann ', ' Carl Wolf ']",['Classic']
+3,Schmidr?ti,Orgelkonzert,2014-07-06,['Renate Steiner '],['Classic']
+4,Z?rich,Benefizkonzert-f?r-HEKS-und-Fukushima-in-Japan,2014-07-06,"[' Yuka Tsuboi ', ' Sachiko Uchida ', ' Takayuki Kiryu ', ' Keita Kitade ', ' Kiyomi Higaki ']",['Classic']
+5,Z?rich,Festspiele-Z?rich-Benefizkonzert,2014-07-06,"[' Soyoung Yoon ', ' Romaine Bolinger ', ' Elvin Ganiyev ', ' Alexander Boldachev ']",['Classic']
+6,Winterthur,Streichtrio-Tritoni,2014-07-06,"[' Doris Dubach ', ' Jannai Balikavlayan ', ' Campbell Banks ']",['Classic']
+7,-Alte-Kirche,Boswil,2014-07-06,"[' Mona Asuka Ott ', ' Ursula Bernhard-F?ri ', ' Thomas E. Bauer ']",['Classic']
+8,Z?rich,Festspiele-Z?rich,2014-07-06,"[' Nik B?rtsch ', ' Sha ']","['Jazz', 'Blues', 'Soul']"
+9,Montreux,Montreux-Jazz-Festival,2014-07-06,"['Buddy Guy ', ' Tedeschi Trucks Band ']","['Jazz', 'Blues', 'Soul']"
+10,Montreux,Montreux-Jazz-Festival,2014-07-06,[' Ayer y Hoy Quartet '],"['Jazz', 'Blues', 'Soul']"
+11,Marly,Jazz-Parade,2014-07-06,"['S-Crew ', ' Alice Francis ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Elgg,Von-Engeln-und-Gottfernen,2014-07-06,"['Meret Burkhard ', ' Rudolf Meyer ']",['Classic']
+13,null,Liechtensteiner-Gitarrentage,2014-07-06,['Alvaro Pierri '],['Classic']
+14,Montreux,Montreux-Jazz-Festival,2014-07-06,"['Eels ', ' Temples ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Vevey,Montreux-Jazz-Festival,2014-07-06,['Alim Qasimov Ensemble '],"['world', 'music']"
+16,null,Movie-Star-Junkies,2014-07-06,['Movie Star Junkies '],['Pop']
+17,Montreux,Montreux-Jazz-Festival,2014-07-06,[' Drenge '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

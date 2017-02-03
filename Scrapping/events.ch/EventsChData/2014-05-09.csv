@@ -1,60 +1,58 @@
-location,event,date,artists,genre
-Winterthur,Midi-musical-Musse-&-Melodien-über-Mittag,2014-05-09,"['Mija Läuchli ', ' Pär Näsbom ', ' Mathis Keller ', ' Florian Läuchli ']",Classic
-Basel,Masterrezital,2014-05-09,[' Joel Bardolet Vilaró '],Classic
-Luzern,Piano-Entertainment,2014-05-09,['Mega Horvath '],
-Zürich,Prélude,2014-05-09,"['Catarina Isabel Santos Jesus Castro ', ' Polina Skryabina ']",Classic
-Basel,Orgelspiel-zum-Feierabend,2014-05-09,['Susanne Doll '],Classic
-Dietikon,Feierabendmusik,2014-05-09,"['Inge Rott ', ' Bernhard Hörler ']",Classic
-Lausanne,Festival-Balélec,2014-05-09,"['Dirty Honkers ', ' Au Comptoir des Histoires ']",Electronic
-Lausanne,Festival-Balélec,2014-05-09,"['Black Uhuru ', ' Goayandi ', ' Parabellum ']",
-Lausanne,Festival-Balélec,2014-05-09,"[""N'TO "", ' The Geek X Vrv ', ' Enzo Siffredi ', ' Martin Jamar ']",Electronic
-Lausanne,Festival-Balélec,2014-05-09,"['Feed Me ', ' Savant ', ' Vandal ']",Electronic
-Lausanne,Festival-Balélec,2014-05-09,"['The Bloody Beetroots ', ' Puppetmastaz ', ' Sidilarsen ']",Electronic
-Baden,Symphoniekonzert-Seidenstrasse,2014-05-09,[' Stella Doufexis '],Classic
-Basel,Masterrezital,2014-05-09,[' Ivan Pochekin '],Classic
-Zürich,Chet-Faker,2014-05-09,['Chet Faker '],Electronic
-Zürich,Internationales-Jazz-&-Blues-Festival,2014-05-09,"['Stacie Collins & Band ', "" Fast Eddy's Blue Band ""]",
-Zürich,Artist-in-Residence,2014-05-09,[' Frank Peter Zimmermann '],Classic
-Zürich,Schubert-&-Schostakowitsch,2014-05-09,"['Konstantin Vardeli ', ' David Pia ', ' Irina Vardeli ']",Classic
-Stäfa,Konzert,2014-05-09,"[' Julia Schröder ', ' Anastasia Voltchok ']",Classic
-Zürich,Lea-Lu,2014-05-09,['Lea Lu '],Electronic
-Basel,Benefiz-Konzert-Klavierrezital,2014-05-09,['Josiane Kneuss '],Classic
-Luzern,MC-Fitti,2014-05-09,['MC Fitti '],
-Basel,Absorta-est-mors,2014-05-09,[' Jan Börner '],Classic
-Bern,Full-Lemon,2014-05-09,"['Alex Brügger ', ' Claudia Asti ', ' Marco Steinacher ', ' Dimitri Vanhecke ', ' Roman Strub ']",
-Münchenstein,Jazzfestival-Basel,2014-05-09,['Stefano Bollani '],
-Zürich,Schoolboy-Q,2014-05-09,"['Schoolboy Q ', ' support: Isaiah Rashad ']",
-Winterthur,Weightless,2014-05-09,"[' Noam Szyfer ', ' Thierry Kuster ', ' Raphael Walser ', ' Jonas Ruther ']",
-null,Elina-Duni-Quartet,2014-05-09,"[' Elina Duni ', ' Colin Vallon ', ' Patrice Moret ', ' Norbert Pfammater ']",
-Dietikon,Ming,2014-05-09,['Ming '],
-Bülach,Benny-Goodman-Tribute,2014-05-09,"['Ken Peplowski Trio & Ehud Asherie ', ' Ken Peplowski ', ' Ehud Asherie ', ' Gregor Beck ']",
-null,Les-Malcommodes,2014-05-09,"['Les Malcommodes ', ' Félix Stüssi ', ' Pierre Tanguay ', ' Daniel Lessard ']",
-Zürich,Trio-Jeger-Keller-Suter,2014-05-09,"[' Silvan Jeger ', ' Manuela Keller ', ' Sheldon Suter ']",
-Basel,Liz-Green,2014-05-09,['Liz Green '],
-Basel,Antwork-Chamber-Jazz,2014-05-09,"['Guillaume Terrail ', ' Leila Kramis ', ' Angelo Acocello ', ' Oliver Magistra ']",
-null,Roman-Nowka,2014-05-09,"['Roman Nowka ', ' Roman Nowka ', ' Samuel Kühni ', ' Tobias Schramm ']",
-Liestal,Rezital,2014-05-09,"['Christoph Croisé ', ' Alexander Panfilov ']",Classic
-Basel,Anna-Lauvergnac-International-Group,2014-05-09,"[' Anna Lauvergnac ', ' Claus Raible ', ' Giorgos Antoniou ', ' Steve Brown ']",
-Liebefeld,Bucher-Sommer-Friedli-Aeby,2014-05-09,"[' Michael Bucher ', ' Patrick Sommer ', ' Tobias Friedli ', ' Stefan Aeby ']",
-Winterthur,Pestilence,2014-05-09,"['Pestilence ', ' Seth ', ' Ancient Ascendant ']",
-Zürich,Quinteto-Dona-Zaíra,2014-05-09,['Quinteto Dona Zaíra '],
-Frauenfeld,Le-Grand-Bateau,2014-05-09,['Le Grand Bateau '],Pop
-Bern,Bondaa-&-Rootfire,2014-05-09,['Bondaa & Rootfire '],
-Zürich,Shearwater,2014-05-09,"['Shearwater ', ' support: Jesca Hoop ']",Pop
-Bern,Carolynn,2014-05-09,['Carolynn '],Pop
-Luzern,Toini,2014-05-09,['Toini '],Pop
-Lenzburg,Grand-Cannon,2014-05-09,"[' Pfuri Baldenweg ', ' Zach Prather ', ' Kniri Knaus ']",Pop
-Lyss,Six60,2014-05-09,['Six60 '],
-Thun,Heisskalt,2014-05-09,['Heisskalt '],
-Luzern,Tank-86,2014-05-09,"['Tank 86 ', ' Pendejo ']",
-Zürich,The-Guilt,2014-05-09,['The Guilt '],
-Baden,Verdena,2014-05-09,['Verdena '],
-Zürich,I-Heart-Sharks,2014-05-09,"['I Heart Sharks ', ' Kat Vinter ']",
-Düdingen,Sudden-Infant-Voodoo-Rhythm,2014-05-09,['Sudden Infant Voodoo Rhythm '],
-Luzern,Slick-Steve-&-The-Gangsters,2014-05-09,['Slick Steve & The Gangsters '],Electronic
-Basel,Kalles-Kaviar,2014-05-09,['Kalles Kaviar '],
-Zürich,Atonal-präsentiert,2014-05-09,['Chris Galarreta '],
-Bern,Georgia-Ann-Muldrow,2014-05-09,"['Georgia Ann Muldrow ', ' Dudley Perkins ', ' Oh No ']",Electronic
-null,Nachtzug-Saitenwind,2014-05-09,"['Ilaria Sieber-Pedrotti ', ' Marc Fournel ', ' Rosemary Yiameos ', ' Karl Baur ', ' Aline Spaltenstein ']",Classic
-Zürich,Exco-Levi,2014-05-09,['Exco Levi '],
-Zürich,The-Madcaps,2014-05-09,['The Madcaps '],Pop
+,location,event,date,artists,genre
+0,Winterthur,Midi-musical-Musse-&-Melodien-?ber-Mittag,2014-05-09,"['Mija L?uchli ', ' P?r N?sbom ', ' Mathis Keller ', ' Florian L?uchli ']",['Classic']
+1,Basel,Masterrezital,2014-05-09,[' Joel Bardolet Vilar? '],['Classic']
+2,Z?rich,Pr?lude,2014-05-09,"['Catarina Isabel Santos Jesus Castro ', ' Polina Skryabina ']",['Classic']
+3,Luzern,Piano-Entertainment,2014-05-09,['Mega Horvath '],"['Jazz', 'Blues', 'Soul']"
+4,Basel,Orgelspiel-zum-Feierabend,2014-05-09,['Susanne Doll '],['Classic']
+5,Dietikon,Feierabendmusik,2014-05-09,"['Inge Rott ', ' Bernhard H?rler ']",['Classic']
+6,Lausanne,Festival-Bal?lec,2014-05-09,"['The Bloody Beetroots ', ' Puppetmastaz ', ' Sidilarsen ']",['Electronic']
+7,Lausanne,Festival-Bal?lec,2014-05-09,"['Dirty Honkers ', ' Au Comptoir des Histoires ']",['Electronic']
+8,Lausanne,Festival-Bal?lec,2014-05-09,"[""N'TO "", ' The Geek X Vrv ', ' Enzo Siffredi ', ' Martin Jamar ']",['Electronic']
+9,Lausanne,Festival-Bal?lec,2014-05-09,"['Black Uhuru ', ' Goayandi ', ' Parabellum ']","['Hip', 'Hop', ""R'n'B""]"
+10,Lausanne,Festival-Bal?lec,2014-05-09,"['Feed Me ', ' Savant ', ' Vandal ']",['Electronic']
+11,Z?rich,Artist-in-Residence,2014-05-09,[' Frank Peter Zimmermann '],['Classic']
+12,St?fa,Konzert,2014-05-09,"[' Julia Schr?der ', ' Anastasia Voltchok ']",['Classic']
+13,Baden,Symphoniekonzert-Seidenstrasse,2014-05-09,[' Stella Doufexis '],['Classic']
+14,Z?rich,Chet-Faker,2014-05-09,['Chet Faker '],['Electronic']
+15,Z?rich,Internationales-Jazz-&-Blues-Festival,2014-05-09,"[' Band ', "" Fast Eddy's Blue Band ""]","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Schubert-&-Schostakowitsch,2014-05-09,"['Konstantin Vardeli ', ' David Pia ', ' Irina Vardeli ']",['Classic']
+17,Z?rich,Lea-Lu,2014-05-09,['Lea Lu '],['Electronic']
+18,Basel,Masterrezital,2014-05-09,[' Ivan Pochekin '],['Classic']
+19,Basel,Absorta-est-mors,2014-05-09,[' Jan B?rner '],['Classic']
+20,Z?rich,Schoolboy-Q,2014-05-09,"['Schoolboy Q ', ' support: Isaiah Rashad ']","['Hip', 'Hop', ""R'n'B""]"
+21,M?nchenstein,Jazzfestival-Basel,2014-05-09,['Stefano Bollani '],"['Jazz', 'Blues', 'Soul']"
+22,Bern,Full-Lemon,2014-05-09,"['Alex Br?gger ', ' Claudia Asti ', ' Marco Steinacher ', ' Dimitri Vanhecke ', ' Roman Strub ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Luzern,MC-Fitti,2014-05-09,['MC Fitti '],"['Hip', 'Hop', ""R'n'B""]"
+24,Basel,Benefiz-Konzert-Klavierrezital,2014-05-09,['Josiane Kneuss '],['Classic']
+25,null,Les-Malcommodes,2014-05-09,"['Les Malcommodes ', ' F?lix St?ssi ', ' Pierre Tanguay ', ' Daniel Lessard ']","['Jazz', 'Blues', 'Soul']"
+26,null,Elina-Duni-Quartet,2014-05-09,"[' Elina Duni ', ' Colin Vallon ', ' Patrice Moret ', ' Norbert Pfammater ']","['Jazz', 'Blues', 'Soul']"
+27,Dietikon,Ming,2014-05-09,['Ming '],"['Jazz', 'Blues', 'Soul']"
+28,Winterthur,Weightless,2014-05-09,"[' Noam Szyfer ', ' Thierry Kuster ', ' Raphael Walser ', ' Jonas Ruther ']","['Jazz', 'Blues', 'Soul']"
+29,Z?rich,Trio-Jeger-Keller-Suter,2014-05-09,"[' Silvan Jeger ', ' Manuela Keller ', ' Sheldon Suter ']","['Jazz', 'Blues', 'Soul']"
+30,B?lach,Benny-Goodman-Tribute,2014-05-09,"[' Ehud Asherie ', ' Ken Peplowski ', ' Ehud Asherie ', ' Gregor Beck ']","['Jazz', 'Blues', 'Soul']"
+31,Basel,Antwork-Chamber-Jazz,2014-05-09,"['Guillaume Terrail ', ' Leila Kramis ', ' Angelo Acocello ', ' Oliver Magistra ']","['Jazz', 'Blues', 'Soul']"
+32,Liebefeld,Bucher-Sommer-Friedli-Aeby,2014-05-09,"[' Michael Bucher ', ' Patrick Sommer ', ' Tobias Friedli ', ' Stefan Aeby ']","['Jazz', 'Blues', 'Soul']"
+33,Basel,Liz-Green,2014-05-09,['Liz Green '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Winterthur,Pestilence,2014-05-09,"['Pestilence ', ' Seth ', ' Ancient Ascendant ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Basel,Anna-Lauvergnac-International-Group,2014-05-09,"[' Anna Lauvergnac ', ' Claus Raible ', ' Giorgos Antoniou ', ' Steve Brown ']","['Jazz', 'Blues', 'Soul']"
+36,null,Roman-Nowka,2014-05-09,"['Roman Nowka ', ' Roman Nowka ', ' Samuel K?hni ', ' Tobias Schramm ']","['Jazz', 'Blues', 'Soul']"
+37,Liestal,Rezital,2014-05-09,"['Christoph Crois? ', ' Alexander Panfilov ']",['Classic']
+38,Thun,Heisskalt,2014-05-09,['Heisskalt '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+39,Luzern,Toini,2014-05-09,['Toini '],['Pop']
+40,Bern,Bondaa-&-Rootfire,2014-05-09,[' Rootfire '],"['Hip', 'Hop', ""R'n'B""]"
+41,Z?rich,The-Guilt,2014-05-09,['The Guilt '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+42,Luzern,Tank-86,2014-05-09,"['Tank 86 ', ' Pendejo ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+43,Z?rich,Quinteto-Dona-Za?ra,2014-05-09,['Quinteto Dona Za?ra '],"['world', 'music']"
+44,Z?rich,Shearwater,2014-05-09,"['Shearwater ', ' support: Jesca Hoop ']",['Pop']
+45,Lenzburg,Grand-Cannon,2014-05-09,"[' Pfuri Baldenweg ', ' Zach Prather ', ' Kniri Knaus ']",['Pop']
+46,Bern,Carolynn,2014-05-09,['Carolynn '],['Pop']
+47,Baden,Verdena,2014-05-09,['Verdena '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+48,Frauenfeld,Le-Grand-Bateau,2014-05-09,['Le Grand Bateau '],['Pop']
+49,Lyss,Six60,2014-05-09,['Six60 '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+50,Basel,Kalles-Kaviar,2014-05-09,['Kalles Kaviar '],"['Hip', 'Hop', ""R'n'B""]"
+51,D?dingen,Sudden-Infant-Voodoo-Rhythm,2014-05-09,['Sudden Infant Voodoo Rhythm '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+52,Luzern,Slick-Steve-&-The-Gangsters,2014-05-09,[' The Gangsters '],['Electronic']
+53,Bern,Georgia-Ann-Muldrow,2014-05-09,"['Georgia Ann Muldrow ', ' Dudley Perkins ', ' Oh No ']",['Electronic']
+54,null,Nachtzug-Saitenwind,2014-05-09,"['Ilaria Sieber-Pedrotti ', ' Marc Fournel ', ' Rosemary Yiameos ', ' Karl Baur ', ' Aline Spaltenstein ']",['Classic']
+55,Z?rich,Exco-Levi,2014-05-09,['Exco Levi '],"['Hip', 'Hop', ""R'n'B""]"
+56,Z?rich,The-Madcaps,2014-05-09,['The Madcaps '],['Pop']

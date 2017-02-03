@@ -1,26 +1,26 @@
-location,event,date,artists,genre
-Zermatt,Zermatt-Unplugged,2014-04-11,"[""Ronnie Scott's All Stars ""]",
-Zermatt,Zermatt-Unplugged,2014-04-11,['Malky '],Pop
-Basel,Orgelspiel-zum-Feierabend,2014-04-11,['Susanne Doll '],Classic
-Zürich,King-Khan-&-The-Shrines,2014-04-11,"['King Khan & The Shrines ', ' support: The Marinellis ']",
-Zermatt,Zermatt-Unplugged,2014-04-11,['Ron Pope '],Pop
-Zürich,Konzert,2014-04-11,['Fazil Say '],Classic
-Basel,Blues-Festival-Basel,2014-04-11,"['Allen Toussaint ', ' Jessy Martens und Band ', ' Alain Toussaint ', ' Jessy Martens ', ' Jan Fischer ', ' Kai Stuffel ', ' Christian Hon Adameit ', ' Christian Kolf ']",
-Zürich,Mediterranean-Music-Festival,2014-04-11,['En Chordais '],
-null,Konzert,2014-04-11,"[' Filippo Mineccia ', ' Robin Peter Müller ']",Classic
-Interlaken,Nicole-Bernegger,2014-04-11,[' MarieMarie '],Pop
-Uster,Swingin'-Birds,2014-04-11,"[' Hansjörg Herzog ', ' Hans von Aesch ', ' Peter Niederer ', ' Philipp Rellstab ', ' Dani Solimine ', ' Fernand Schlumpf ']",
-Zermatt,Zermatt-Unplugged,2014-04-11,['Mick Hucknall '],
-Basel,Danny-Grissett-Trio,2014-04-11,"[' Darryl Hall ', ' Danny Grissett ', ' Vladimir Kostadinovic ']",
-Aarau,Ton-Steine-Scherben,2014-04-11,['Ton Steine Scherben '],
-Zürich,Rusconi,2014-04-11,"[' Stefan Rusconi ', ' Fabian Gisler ', ' Claudio Strüby ']",
-Luzern,Haïrdrÿer,2014-04-11,['Haïrdrÿer '],
-Cully,Cully-Jazz,2014-04-11,"['Weston-Harper ', ' Randy Weston ', ' Billy Harper ']",
-Baden,The-Goodnight-Circus,2014-04-11,['The Goodnight Circus '],
-Basel,Money-Boy,2014-04-11,['Money Boy '],
-Rubigen,Ross-Bon-&-The-Mighty-Blue-Kings-feat.-Sam-Burckhardt,2014-04-11,['Ross Bon & The Mighty Blue Kings feat. Sam Burckhardt '],
-Schaffhausen,Skerryvore,2014-04-11,['Skerryvore '],
-Zürich,Jeffrey-Foucault-&-Ry-Cavanaugh,2014-04-11,['Jeffrey Foucault & Ry Cavanaugh '],Pop
-Bern,Die-Goldenen-Zitronen,2014-04-11,['Die Goldenen Zitronen '],
-Zermatt,Zermatt-Unplugged,2014-04-11,['Jamie Scott '],Pop
-Zermatt,Zermatt-Unplugged,2014-04-11,['Milow '],Pop
+,location,event,date,artists,genre
+0,Zermatt,Zermatt-Unplugged,2014-04-11,"[""Ronnie Scott's All Stars ""]","['Jazz', 'Blues', 'Soul']"
+1,Zermatt,Zermatt-Unplugged,2014-04-11,['Malky '],['Pop']
+2,Basel,Orgelspiel-zum-Feierabend,2014-04-11,['Susanne Doll '],['Classic']
+3,Zermatt,Zermatt-Unplugged,2014-04-11,['Ron Pope '],['Pop']
+4,Z?rich,King-Khan-&-The-Shrines,2014-04-11,"[' The Shrines ', ' support: The Marinellis ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,Konzert,2014-04-11,['Fazil Say '],['Classic']
+6,Interlaken,Nicole-Bernegger,2014-04-11,[' MarieMarie '],['Pop']
+7,Basel,Blues-Festival-Basel,2014-04-11,"['Allen Toussaint ', ' Jessy Martens und Band ', ' Alain Toussaint ', ' Jessy Martens ', ' Jan Fischer ', ' Kai Stuffel ', ' Christian Hon Adameit ', ' Christian Kolf ']","['Jazz', 'Blues', 'Soul']"
+8,null,Konzert,2014-04-11,"[' Filippo Mineccia ', ' Robin Peter M?ller ']",['Classic']
+9,Z?rich,Mediterranean-Music-Festival,2014-04-11,['En Chordais '],"['world', 'music']"
+10,Uster,Swingin'-Birds,2014-04-11,"[' Hansj?rg Herzog ', ' Hans von Aesch ', ' Peter Niederer ', ' Philipp Rellstab ', ' Dani Solimine ', ' Fernand Schlumpf ']","['Jazz', 'Blues', 'Soul']"
+11,Aarau,Ton-Steine-Scherben,2014-04-11,['Ton Steine Scherben '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Zermatt,Zermatt-Unplugged,2014-04-11,['Mick Hucknall '],"['Hip', 'Hop', ""R'n'B""]"
+13,Basel,Danny-Grissett-Trio,2014-04-11,"[' Darryl Hall ', ' Danny Grissett ', ' Vladimir Kostadinovic ']","['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Rusconi,2014-04-11,"[' Stefan Rusconi ', ' Fabian Gisler ', ' Claudio Str?by ']","['Jazz', 'Blues', 'Soul']"
+15,Luzern,Ha?rdr?er,2014-04-11,['Ha?rdr?er '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Cully,Cully-Jazz,2014-04-11,"['Weston-Harper ', ' Randy Weston ', ' Billy Harper ']","['Jazz', 'Blues', 'Soul']"
+17,Rubigen,Ross-Bon-&-The-Mighty-Blue-Kings-feat.-Sam-Burckhardt,2014-04-11,[' The Mighty Blue Kings feat. Sam Burckhardt '],"['Jazz', 'Blues', 'Soul']"
+18,Basel,Money-Boy,2014-04-11,['Money Boy '],"['Hip', 'Hop', ""R'n'B""]"
+19,Baden,The-Goodnight-Circus,2014-04-11,['The Goodnight Circus '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Schaffhausen,Skerryvore,2014-04-11,['Skerryvore '],"['world', 'music']"
+21,Z?rich,Jeffrey-Foucault-&-Ry-Cavanaugh,2014-04-11,[' Ry Cavanaugh '],['Pop']
+22,Bern,Die-Goldenen-Zitronen,2014-04-11,['Die Goldenen Zitronen '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Zermatt,Zermatt-Unplugged,2014-04-11,['Jamie Scott '],['Pop']
+24,Zermatt,Zermatt-Unplugged,2014-04-11,['Milow '],['Pop']

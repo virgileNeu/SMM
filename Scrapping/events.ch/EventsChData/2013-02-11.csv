@@ -1,9 +1,9 @@
-location,event,date,artists,genre
-Winterthur,Oldseed,2013-02-11,['Oldseed '],
-Flawil,Gumbo,2013-02-11,"[' Marina Lachauer ', ' Sandra Wild ', ' Pat MC ', ' Sigy Säck ', ' Gee-K ', ' Stefan Rheintaler ', ' Christian Gschwend ']",Pop
-Zürich,Ernst-Who-Robi-What-,2013-02-11,"[' Gee-K ', ' Ernst Wirz ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ']",
-Bern,Thomas-Lüthi's-Biwak,2013-02-11,"[' Thomas Lüthi ', ' Arne Huber ', ' Claudio Strüby ']",
-Baden,Alexia-Gardner-Trio,2013-02-11,"[' Alexia Gardner ', ' Beat Baumli ', ' Lorenz Beyeler ']",
-Zürich,Elliot-Brood,2013-02-11,['Elliot Brood '],Pop
-Zürich,Christian-Lillingers-Grund,2013-02-11,"['Christian Lillingers Grund ', ' Chistian Lillinger ', ' Tobias Delius ', ' Pierre Borel ', ' Christopher Dell ', ' Achim Kaufmann ']",
-Basel,Lock-Up,2013-02-11,"['Lock Up ', ' Pessimist ']",
+,location,event,date,artists,genre
+0,Zürich,Ernst-Who-Robi-What-,2013-02-11,"[' Gee-K ', ' Ernst Wirz ', ' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ']","['Jazz', 'Blues', 'Soul']"
+1,Flawil,Gumbo,2013-02-11,"[' Marina Lachauer ', ' Sandra Wild ', ' Pat MC ', ' Sigy Säck ', ' Gee-K ', ' Stefan Rheintaler ', ' Christian Gschwend ']",['Pop']
+2,Bern,Thomas-Lüthi's-Biwak,2013-02-11,"[' Thomas Lüthi ', ' Arne Huber ', ' Claudio Strüby ']","['Jazz', 'Blues', 'Soul']"
+3,Winterthur,Oldseed,2013-02-11,['Oldseed '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Baden,Alexia-Gardner-Trio,2013-02-11,"[' Alexia Gardner ', ' Beat Baumli ', ' Lorenz Beyeler ']","['Jazz', 'Blues', 'Soul']"
+5,Zürich,Elliot-Brood,2013-02-11,['Elliot Brood '],['Pop']
+6,Zürich,Christian-Lillingers-Grund,2013-02-11,"['Christian Lillingers Grund ', ' Chistian Lillinger ', ' Tobias Delius ', ' Pierre Borel ', ' Christopher Dell ', ' Achim Kaufmann ']","['Jazz', 'Blues', 'Soul']"
+7,Basel,Lock-Up,2013-02-11,"['Lock Up ', ' Pessimist ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

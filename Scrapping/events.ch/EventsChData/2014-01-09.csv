@@ -1,21 +1,21 @@
-location,event,date,artists,genre
-Basel,To-the-Master,2014-01-09,"['Amit Sharma ', ' Rohan de Saram ', ' Marianne Schroeder ', ' Felix Renggli ']",Classic
-Bern,Mozart-Paris,2014-01-09,[' Vardan Mamikonian '],Classic
-null,5.-Tonhallekonzert,2014-01-09,"['Igor Keller ', ' Fernando Gomes ', ' Rosemary Yiameos ', ' John Dieckmann ']",Classic
-Zürich,Thursday-Night-Jazz,2014-01-09,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Zürich,Winterreise,2014-01-09,"[' Michael von der Heide ', ' Martin Buess ']",Pop
-Bern,Manu-Delago-Handmade,2014-01-09,"[' Isa Kurz ', ' Philipp Moll ', ' Chris Norz ', ' Manu Delago ']",
-Luzern,Salonmusik,2014-01-09,"['Martin Schaefer ', ' Richard Decker ']",Classic
-Aarau,Renata-Friederich,2014-01-09,['Renata Friederich '],
-Winterthur,Pedra-Preta,2014-01-09,"[' Munir Hossn ', ' Toni Schiavano ', ' Flo Reichle ']",
-Luzern,Workshopkonzert,2014-01-09,"['Despina Corazza ', ' Yaëlle Dällenbach ', ' Antoine Humberset ', ' Valentin Baumgartner ', ' Benjamin Kieser ']",
-Liebefeld,Frank-Salis-H3O-feat.-Francis-Coletta,2014-01-09,"[' Marco Nevano ', ' Frank Salis ', ' Rocco Lombardi ', ' Francis Coletta ']",
-Bern,Sid,2014-01-09,"[' Rea Dubach ', ' Luzius Schuler ', ' Daniel ""D-Flat Weber ']",
-Basel,Ricci-Schürmann-Quartett,2014-01-09,"[' George Ricci ', ' Niggi Schürmann ', ' Dominik Schürmann ', ' Johannes Gutfleisch ']",
-Baden,Jazz-Rice-Performance,2014-01-09,"[' Christoph Baumann ', ' Hämi Hämmerli ', ' Vincent Glanzmann ']",
-Basel,Pink-Pedrazzi,2014-01-09,['Pink Pedrazzi '],
-Zürich,Herbie's-Explo-3000,2014-01-09,"[""Herbie's Explo 3000 "", ' Hans Feigenwinter ', ' Adi Pflugshaupt ', ' Herbie Kopf ', ' Pius Baschnagel ']",
-Zürich,Off-We-Go,2014-01-09,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ']",
-Basel,Maria-Doyle-Kennedy,2014-01-09,['Maria Doyle Kennedy '],Pop
-Zürich,Christine-Owman,2014-01-09,['Christine Owman '],Pop
-Luzern,Jam-Session,2014-01-09,['Richard Decker '],
+,location,event,date,artists,genre
+0,Basel,To-the-Master,2014-01-09,"['Amit Sharma ', ' Rohan de Saram ', ' Marianne Schroeder ', ' Felix Renggli ']",['Classic']
+1,Z?rich,Winterreise,2014-01-09,"[' Michael von der Heide ', ' Martin Buess ']",['Pop']
+2,Z?rich,Thursday-Night-Jazz,2014-01-09,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+3,Bern,Mozart-Paris,2014-01-09,[' Vardan Mamikonian '],['Classic']
+4,null,5.-Tonhallekonzert,2014-01-09,"['Igor Keller ', ' Fernando Gomes ', ' Rosemary Yiameos ', ' John Dieckmann ']",['Classic']
+5,Bern,Manu-Delago-Handmade,2014-01-09,"[' Isa Kurz ', ' Philipp Moll ', ' Chris Norz ', ' Manu Delago ']","['Jazz', 'Blues', 'Soul']"
+6,Luzern,Salonmusik,2014-01-09,"['Martin Schaefer ', ' Richard Decker ']",['Classic']
+7,Aarau,Renata-Friederich,2014-01-09,['Renata Friederich '],"['Jazz', 'Blues', 'Soul']"
+8,Winterthur,Pedra-Preta,2014-01-09,"[' Munir Hossn ', ' Toni Schiavano ', ' Flo Reichle ']","['Jazz', 'Blues', 'Soul']"
+9,Bern,Sid,2014-01-09,"[' Rea Dubach ', ' Luzius Schuler ', ' Daniel ""D-Flat Weber ']","['Jazz', 'Blues', 'Soul']"
+10,Basel,Pink-Pedrazzi,2014-01-09,['Pink Pedrazzi '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Baden,Jazz-Rice-Performance,2014-01-09,"[' Christoph Baumann ', ' H?mi H?mmerli ', ' Vincent Glanzmann ']","['Jazz', 'Blues', 'Soul']"
+12,Z?rich,Herbie's-Explo-3000,2014-01-09,"[""Herbie's Explo 3000 "", ' Hans Feigenwinter ', ' Adi Pflugshaupt ', ' Herbie Kopf ', ' Pius Baschnagel ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Off-We-Go,2014-01-09,"[' Omri Ziegele ', ' Isa Wiss ', ' J?rg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ']","['Jazz', 'Blues', 'Soul']"
+14,Liebefeld,Frank-Salis-H3O-feat.-Francis-Coletta,2014-01-09,"[' Marco Nevano ', ' Frank Salis ', ' Rocco Lombardi ', ' Francis Coletta ']","['Jazz', 'Blues', 'Soul']"
+15,Luzern,Workshopkonzert,2014-01-09,"['Despina Corazza ', ' Ya?lle D?llenbach ', ' Antoine Humberset ', ' Valentin Baumgartner ', ' Benjamin Kieser ']","['Jazz', 'Blues', 'Soul']"
+16,Basel,Ricci-Sch?rmann-Quartett,2014-01-09,"[' George Ricci ', ' Niggi Sch?rmann ', ' Dominik Sch?rmann ', ' Johannes Gutfleisch ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Christine-Owman,2014-01-09,['Christine Owman '],['Pop']
+18,Basel,Maria-Doyle-Kennedy,2014-01-09,['Maria Doyle Kennedy '],['Pop']
+19,Luzern,Jam-Session,2014-01-09,['Richard Decker '],"['Jazz', 'Blues', 'Soul']"

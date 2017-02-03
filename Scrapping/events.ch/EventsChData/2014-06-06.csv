@@ -1,33 +1,32 @@
-location,event,date,artists,genre
-Basel,Masterrezital,2014-06-06,[' Bénédicte Wodey '],Classic
-Basel,Masterrezital,2014-06-06,"['Dana Barak ', ' Anja Brezavscek ', ' Szu-yu Chen ', ' Franziska Fleischanderl ', ' Olivia Steimel ', ' Jonas Tschanz ', ' Céline Wasmer ']",Classic
-Luzern,Saisoneröffnung-Lake-View,2014-06-06,['Karin Steffen '],Pop
-Basel,Orgelspiel-zum-Feierabend,2014-06-06,['Susanne Kern '],Classic
-Dietikon,Feierabendmusik,2014-06-06,"['Heidi Fries ', ' Beat Fries ', ' Bernhard Hörler ']",Classic
-null,Caruso,2014-06-06,['Caruso '],
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-06,"['Diane Tell ', ' Sonia Johnson ']",Pop
-Luzern,Masterabschluss-Konzert,2014-06-06,"[' Dalia Donadio ', ' Urs Müller ', ' Raphael Walser ']",
-Arbon,Roberto-Bossard-New-Group,2014-06-06,"[' Roberto Bossard ', ' Toni Bechtold ', ' Lukas Gernet ', ' Raffaele Bossard ', ' Jonas Ruther ']",
-Luzern,Northern-Lights,2014-06-06,[' Jesper Gasseling '],Classic
-Winterthur,Afro-Pfingsten-Reggae-Night,2014-06-06,"[' Dub Inc. ', ' Patrice ', ' Busy Signal ']",Pop
-Zürich,Blue-Balls-Night,2014-06-06,['Kyla La Grange '],Pop
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-06,"['Les Cowboys Fringants ', ' Pascal Lejeune ']",
-Zürich,Retour-an-dich,2014-06-06,"[' Daniela Müller ', ' Petra Ackermann ', ' Tamriko Kordzaia ', ' Karolina Öhmann ']",Classic
-Basel,Masterrezital,2014-06-06,"['Dana Barak ', ' Anja Brezavscek ', ' Szu-yu Chen ', ' Franziska Fleischanderl ', ' Olivia Steimel ', ' Jonas Tschanz ', ' Céline Wasmer ']",Classic
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-06,"['Claire Pelletier ', ' Eli et Papillon ']",Pop
-Winterthur,Der-Wawawa,2014-06-06,"[' Benedikt Reising ', ' Marco Müller ', ' Rico Baumann ']",
-Zürich,Hegi-Senn-Ulrich,2014-06-06,"[' Fritz Hegi ', ' Reto Senn ', ' Dieter Ulrich ']",
-Zürich,Omar-Sosa-Trio,2014-06-06,"['Omar Sosa Trio ', ' Omar Sosa ', ' Childo Tomas ', ' Ernesto Simpson ']",
-Zürich,Cloud-Nothings,2014-06-06,['Cloud Nothings '],
-null,Figures,2014-06-06,"[' Kathrin Bünzli ', ' Jwan Steiner ', ' Marco Helfenberger ', ' Maja Nydegger ', ' Laurent Méteau ', ' Dalia Donadio ']",
-Basel,Emile-Parisien,2014-06-06,"[' Emile Parisien ', ' Vincent Peirani ']",
-Feuerthalen,Katharina-Busch,2014-06-06,"[' Katharina Busch ', ' Levin Deger ', ' Thomas Hauser ', ' Andre Bader ']",Pop
-Schaffhausen,Motorama,2014-06-06,['Motorama '],
-Wädenswil,Les-Soeurs-Boulay,2014-06-06,['Les Soeurs Boulay '],
-null,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-06,['Karim Ouellet '],Pop
-Luzern,Riders-Connection,2014-06-06,['Riders Connection '],Pop
-Sankt-Gallen,The-Paradise-Bangkok-Molam-International-Band,2014-06-06,"['The Paradise Bangkok Molam International Band ', ' DJs Maft Sai & Menist ']",Pop
-Basel,Prurient,2014-06-06,"['Prurient ', ' Konk Pack ']",Electronic
-Zürich,Talib-Kweli,2014-06-06,['Talib Kweli '],
-Wädenswil,Les-chercheurs-d'or,2014-06-06,"[""Les chercheurs d'or ""]",
-Basel,Kollektiv-Turmstrasse,2014-06-06,[' live: Kollektiv Turmstrasse '],
+,location,event,date,artists,genre
+0,Basel,Masterrezital,2014-06-06,"['Dana Barak ', ' Anja Brezavscek ', ' Szu-yu Chen ', ' Franziska Fleischanderl ', ' Olivia Steimel ', ' Jonas Tschanz ', ' C?line Wasmer ']",['Classic']
+1,Basel,Masterrezital,2014-06-06,[' B?n?dicte Wodey '],['Classic']
+2,Luzern,Saisoner?ffnung-Lake-View,2014-06-06,['Karin Steffen '],['Pop']
+3,Basel,Orgelspiel-zum-Feierabend,2014-06-06,['Susanne Kern '],['Classic']
+4,Dietikon,Feierabendmusik,2014-06-06,"['Heidi Fries ', ' Beat Fries ', ' Bernhard H?rler ']",['Classic']
+5,Luzern,Masterabschluss-Konzert,2014-06-06,"[' Dalia Donadio ', ' Urs M?ller ', ' Raphael Walser ']","['Jazz', 'Blues', 'Soul']"
+6,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-06,"['Diane Tell ', ' Sonia Johnson ']",['Pop']
+7,null,Caruso,2014-06-06,['Caruso '],"['world', 'music']"
+8,Luzern,Northern-Lights,2014-06-06,[' Jesper Gasseling '],['Classic']
+9,Winterthur,Afro-Pfingsten-Reggae-Night,2014-06-06,"[' Dub Inc. ', ' Patrice ', ' Busy Signal ']",['Pop']
+10,Arbon,Roberto-Bossard-New-Group,2014-06-06,"[' Roberto Bossard ', ' Toni Bechtold ', ' Lukas Gernet ', ' Raffaele Bossard ', ' Jonas Ruther ']","['Jazz', 'Blues', 'Soul']"
+11,Basel,Masterrezital,2014-06-06,"['Dana Barak ', ' Anja Brezavscek ', ' Szu-yu Chen ', ' Franziska Fleischanderl ', ' Olivia Steimel ', ' Jonas Tschanz ', ' C?line Wasmer ']",['Classic']
+12,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-06,"['Les Cowboys Fringants ', ' Pascal Lejeune ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-06,"['Claire Pelletier ', ' Eli et Papillon ']",['Pop']
+14,Z?rich,Blue-Balls-Night,2014-06-06,['Kyla La Grange '],['Pop']
+15,Z?rich,Retour-an-dich,2014-06-06,"[' Daniela M?ller ', ' Petra Ackermann ', ' Tamriko Kordzaia ', ' Karolina ?hmann ']",['Classic']
+16,Z?rich,Hegi-Senn-Ulrich,2014-06-06,"[' Fritz Hegi ', ' Reto Senn ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+17,Winterthur,Der-Wawawa,2014-06-06,"[' Benedikt Reising ', ' Marco M?ller ', ' Rico Baumann ']","['Jazz', 'Blues', 'Soul']"
+18,Basel,Emile-Parisien,2014-06-06,"[' Emile Parisien ', ' Vincent Peirani ']","['Jazz', 'Blues', 'Soul']"
+19,null,Figures,2014-06-06,"[' Kathrin B?nzli ', ' Jwan Steiner ', ' Marco Helfenberger ', ' Maja Nydegger ', ' Laurent M?teau ', ' Dalia Donadio ']","['Jazz', 'Blues', 'Soul']"
+20,Feuerthalen,Katharina-Busch,2014-06-06,"[' Katharina Busch ', ' Levin Deger ', ' Thomas Hauser ', ' Andre Bader ']",['Pop']
+21,Z?rich,Cloud-Nothings,2014-06-06,['Cloud Nothings '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Z?rich,Omar-Sosa-Trio,2014-06-06,"['Omar Sosa Trio ', ' Omar Sosa ', ' Childo Tomas ', ' Ernesto Simpson ']","['Jazz', 'Blues', 'Soul']"
+23,W?denswil,Les-Soeurs-Boulay,2014-06-06,['Les Soeurs Boulay '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Schaffhausen,Motorama,2014-06-06,['Motorama '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Luzern,Riders-Connection,2014-06-06,['Riders Connection '],['Pop']
+26,null,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-06,['Karim Ouellet '],['Pop']
+27,Basel,Prurient,2014-06-06,"['Prurient ', ' Konk Pack ']",['Electronic']
+28,Sankt-Gallen,The-Paradise-Bangkok-Molam-International-Band,2014-06-06,[' Menist '],['Pop']
+29,W?denswil,Les-chercheurs-d'or,2014-06-06,"[""Les chercheurs d'or ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Basel,Kollektiv-Turmstrasse,2014-06-06,[' live: Kollektiv Turmstrasse '],"['Electro', 'Electropop']"

@@ -1,8 +1,8 @@
-location,event,date,artists,genre
-Basel,Basler-Orgelfestival,2014-08-25,"['Matthias Wamser ', ' Dieter Lämmlin ']",Classic
-Luzern,Sinfoniekonzert-8,2014-08-25,[' Midori '],Classic
-Wetzikon,Dangle-Manatee,2014-08-25,['Dangle Manatee '],
-Zürich,Howe-Gelb,2014-08-25,['Howe Gelb '],Pop
-Nyon,Luna-Classics,2014-08-25,"['Yuja Wang ', ' Martin Grubinger ']",Classic
-Zürich,Nik-Bärtsch's-Ronin,2014-08-25,[' Bernhard Wagner '],
-Zürich,Zürcher-Theater-Spektakel,2014-08-25,['Vinicio Capossela & La Banda della Posta '],
+,location,event,date,artists,genre
+0,Luzern,Sinfoniekonzert-8,2014-08-25,[' Midori '],['Classic']
+1,Basel,Basler-Orgelfestival,2014-08-25,"['Matthias Wamser ', ' Dieter L?mmlin ']",['Classic']
+2,Wetzikon,Dangle-Manatee,2014-08-25,['Dangle Manatee '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,Howe-Gelb,2014-08-25,['Howe Gelb '],['Pop']
+4,Nyon,Luna-Classics,2014-08-25,"['Yuja Wang ', ' Martin Grubinger ']",['Classic']
+5,Z?rich,Z?rcher-Theater-Spektakel,2014-08-25,[' La Banda della Posta '],"['world', 'music']"
+6,Z?rich,Nik-B?rtsch's-Ronin,2014-08-25,[' Bernhard Wagner '],"['Hip', 'Hop', ""R'n'B""]"

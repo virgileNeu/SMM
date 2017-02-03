@@ -1,13 +1,13 @@
-location,event,date,artists,genre
-Schaffhausen,Stars-in-Town,2014-08-06,"[' Uriah Heep ', ' DeWolff ']",
-Baden,After-Work,2014-08-06,"[' Dalia Donadio ', ' Moreno Donadio ']",
-Luzern,Piano-Entertainment,2014-08-06,['Christian Mettler '],Pop
-Zofingen,Magic-Night,2014-08-06,"['Bryan Ferry ', ' Mike & The Mechanics ', ' Jimmy Cliff ']",Pop
-Zürich,Internationale-Orgelkonzerte-Sommerzyklus,2014-08-06,"['Ludger Lohmann ', ' Axel Ruoff ']",Classic
-Saanen,Menuhin-Festival-Gstaad,2014-08-06,['Khatia Buniatishvili '],Classic
-Zug,Keynote-Jazz,2014-08-06,"[' Marco Neri ', ' Thomas Dürst ', ' Martin Abbühl ', ' Florent Kirchmeyer ']",
-Pratteln,Gojira,2014-08-06,['Gojira '],
-Zürich,Michael-Wespi,2014-08-06,"[' Michael Wespi ', ' Joel D. Allison ', ' Luzian Graber ']",
-Bern,Opern-und-Operetten,2014-08-06,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-St.-Moritz,Festival-da-Jazz,2014-08-06,"['Mario Biondi ', ' Mario Biondi ', ' Claudio Filippini ', ' Tommaso Scannapieco ', ' Lorenzo Tucci ']",
-Maggia,Magic-Blues-Festival,2014-08-06,"['Lakeetra Knowles & Chemako ', ' Mandolin Brothers ']",
+,location,event,date,artists,genre
+0,Schaffhausen,Stars-in-Town,2014-08-06,"[' Uriah Heep ', ' DeWolff ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Luzern,Piano-Entertainment,2014-08-06,['Christian Mettler '],['Pop']
+2,Baden,After-Work,2014-08-06,"[' Dalia Donadio ', ' Moreno Donadio ']","['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+3,Zofingen,Magic-Night,2014-08-06,"[' The Mechanics ', ' Jimmy Cliff ']",['Pop']
+4,Z?rich,Internationale-Orgelkonzerte-Sommerzyklus,2014-08-06,"['Ludger Lohmann ', ' Axel Ruoff ']",['Classic']
+5,Saanen,Menuhin-Festival-Gstaad,2014-08-06,['Khatia Buniatishvili '],['Classic']
+6,Zug,Keynote-Jazz,2014-08-06,"[' Marco Neri ', ' Thomas D?rst ', ' Martin Abb?hl ', ' Florent Kirchmeyer ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Michael-Wespi,2014-08-06,"[' Michael Wespi ', ' Joel D. Allison ', ' Luzian Graber ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Bern,Opern-und-Operetten,2014-08-06,"[' Praxedis Hug-R?tti ', ' Praxedis Genevi?ve Hug ']",['Classic']
+9,Pratteln,Gojira,2014-08-06,['Gojira '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Maggia,Magic-Blues-Festival,2014-08-06,"[' Chemako ', ' Mandolin Brothers ']","['Jazz', 'Blues', 'Soul']"
+11,St.-Moritz,Festival-da-Jazz,2014-08-06,"['Mario Biondi ', ' Mario Biondi ', ' Claudio Filippini ', ' Tommaso Scannapieco ', ' Lorenzo Tucci ']","['Jazz', 'Blues', 'Soul']"

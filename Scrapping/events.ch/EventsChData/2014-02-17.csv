@@ -1,14 +1,14 @@
-location,event,date,artists,genre
-Zürich,Tschechischer-Abend,2014-02-17,[' Nikolai Lugansky '],Classic
-Zürich,Spektrum-Petite-messe-solennelle,2014-02-17,"[' Anna Gschwend ', ' Sofia Pollak ', ' Sunnyboy Vincent Dladla ', ' Pierre Héritier ', ' Mathias Clausen ']",Classic
-Basel,AMG-Solistenabende,2014-02-17,"['Sergey Khachatryan ', ' Lusine Khachatryan ']",Classic
-Zürich,Breton,2014-02-17,"['Breton ', ' Did ']",
-Zürich,Old-School-Piano-Blues,2014-02-17,['Andy Boller '],
-Zürich,Anna-Calvi,2014-02-17,['Anna Calvi '],
-Solothurn,Blue-Monday,2014-02-17,['Rob Tognoni '],
-Baden,Marcel-Lüscher-&-Kristinn-Smári-Kristinsson,2014-02-17,"[' Marcel Lüscher ', ' Kristinn Smári Kristinsson ', ' Roman Nowka ']",
-Zürich,Dan-&-Rachel,2014-02-17,['Dan & Rachel '],Pop
-Zürich,Nicole-Durrer-Trio,2014-02-17,"[' Adrian Egli ', ' Mirco Häberli ', ' Nicole Durrer ']",
-Winterthur,Me-and-Oceans,2014-02-17,[' Arpen '],Pop
-Sankt-Gallen,Bill-Callahan-ausverkauft,2014-02-17,"['Bill Callahan ', ' Circuit des Yeux ']",Pop
-Basel,Jazz-im-Parterre:-Orion,2014-02-17,"[' Plume ', ' Marco Nenniger ', ' Samuel Dühsler ']",
+,location,event,date,artists,genre
+0,Basel,AMG-Solistenabende,2014-02-17,"['Sergey Khachatryan ', ' Lusine Khachatryan ']",['Classic']
+1,Z?rich,Tschechischer-Abend,2014-02-17,[' Nikolai Lugansky '],['Classic']
+2,Z?rich,Spektrum-Petite-messe-solennelle,2014-02-17,"[' Anna Gschwend ', ' Sofia Pollak ', ' Sunnyboy Vincent Dladla ', ' Pierre H?ritier ', ' Mathias Clausen ']",['Classic']
+3,Z?rich,Breton,2014-02-17,"['Breton ', ' Did ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Z?rich,Old-School-Piano-Blues,2014-02-17,['Andy Boller '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,Anna-Calvi,2014-02-17,['Anna Calvi '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Solothurn,Blue-Monday,2014-02-17,['Rob Tognoni '],"['Jazz', 'Blues', 'Soul']"
+7,Baden,Marcel-L?scher-&-Kristinn-Sm?ri-Kristinsson,2014-02-17,"[' Marcel L?scher ', ' Kristinn Sm?ri Kristinsson ', ' Roman Nowka ']","['Jazz', 'Blues', 'Soul']"
+8,Z?rich,Dan-&-Rachel,2014-02-17,[' Rachel '],['Pop']
+9,Winterthur,Me-and-Oceans,2014-02-17,[' Arpen '],['Pop']
+10,Z?rich,Nicole-Durrer-Trio,2014-02-17,"[' Adrian Egli ', ' Mirco H?berli ', ' Nicole Durrer ']","['Jazz', 'Blues', 'Soul']"
+11,Sankt-Gallen,Bill-Callahan-ausverkauft,2014-02-17,"['Bill Callahan ', ' Circuit des Yeux ']",['Pop']
+12,Basel,Jazz-im-Parterre:-Orion,2014-02-17,"[' Plume ', ' Marco Nenniger ', ' Samuel D?hsler ']","['Jazz', 'Blues', 'Soul']"

@@ -1,5 +1,5 @@
-location,event,date,artists,genre
-Zürich,Asking-Alexandria,2013-02-04,['Asking Alexandria '],Pop
-Zürich,Sidsel-Endresen,2013-02-04,['Sidsel Endresen '],
-Hafenkneipe,Zürich,2013-02-04,['The Joy Formidable '],
-Reussbühl,Piri-Piri,2013-02-04,"[' Christian Wallner ', ' Pete Borel ', ' David Zopfi ', ' Pit Furrer ']",
+,location,event,date,artists,genre
+0,Zürich,Asking-Alexandria,2013-02-04,['Asking Alexandria '],['Pop']
+1,Hafenkneipe,Zürich,2013-02-04,['The Joy Formidable '],"['The', 'Joy', 'Formidable']"
+2,Zürich,Sidsel-Endresen,2013-02-04,['Sidsel Endresen '],"['Jazz', 'Blues', 'Soul']"
+3,Reussbühl,Piri-Piri,2013-02-04,"[' Christian Wallner ', ' Pete Borel ', ' David Zopfi ', ' Pit Furrer ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

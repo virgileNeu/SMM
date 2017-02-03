@@ -1,15 +1,12 @@
-location,event,date,artists,genre
-Zürich,Monte-Carlo,2014-09-22,['Monte Carlo '],Pop
-Zürich,Liederabend,2014-09-22,['Bryn Terfel '],Classic
-Zürich,Konzert,2014-09-22,['Alexander Krichel '],Classic
-Zürich,Preisträgerkonzert,2014-09-22,"['Kristina Zelenina ', ' Panagiotis Megarchiotis ', ' Alexander Kuznetsov ', ' Rafal Zolkos ', ' Paulina Maslanka ']",Classic
-Zürich,Bullet,2014-09-22,"['Bullet ', ' support: Striker ', ' Stallion ']",
-Luzern,Billy-Idol,2014-09-22,['Billy Idol '],
-Zürich,The-John-Steel-Singers,2014-09-22,['The John Steel Singers '],
-Zürich,Classic-Meets-Jazz,2014-09-22,"['Maurice Imhof ', ' Maurice Imhof ', ' Buddha Scheidegger ', ' Dave Ruosch ']",
-Zürich,John-Herzig,2014-09-22,['John Herzig '],traditional
-Zürich,C.-Gibbs,2014-09-22,['C. Gibbs '],Pop
-Winterthur,Tall-Tall-Trees-&-Heidemann,2014-09-22,['Tall Tall Trees & Heidemann '],Pop
-Zürich,Black-Earth-Band,2014-09-22,"[' Robert Chonia ', ' Ringo ', ' Danny Quao ', ' Officer Torro ', ' Othello Pacheco ', ' McSandy Abankwa ']",Pop
-Zürich,Stacey-Kent,2014-09-22,"['Stacey Kent ', ' Stacey Kent ', ' Jim Tomlinson ', ' Graham Harvey ', ' Joshua Morrison ', ' Jeremy Brown ']",Pop
-Luzern,Juggling-Jugulars,2014-09-22,['Juggling Jugulars '],
+,location,event,date,artists,genre
+0,Z?rich,Monte-Carlo,2014-09-22,['Monte Carlo '],['Pop']
+1,Z?rich,Liederabend,2014-09-22,['Bryn Terfel '],['Classic']
+2,Z?rich,Konzert,2014-09-22,['Alexander Krichel '],['Classic']
+3,Z?rich,Preistr?gerkonzert,2014-09-22,"['Kristina Zelenina ', ' Panagiotis Megarchiotis ', ' Alexander Kuznetsov ', ' Rafal Zolkos ', ' Paulina Maslanka ']",['Classic']
+4,Z?rich,Bullet,2014-09-22,"['Bullet ', ' support: Striker ', ' Stallion ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,The-John-Steel-Singers,2014-09-22,['The John Steel Singers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Luzern,Billy-Idol,2014-09-22,['Billy Idol '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,C.-Gibbs,2014-09-22,['C. Gibbs '],['Pop']
+8,Z?rich,Stacey-Kent,2014-09-22,"['Stacey Kent ', ' Stacey Kent ', ' Jim Tomlinson ', ' Graham Harvey ', ' Joshua Morrison ', ' Jeremy Brown ']",['Pop']
+9,Winterthur,Tall-Tall-Trees-&-Heidemann,2014-09-22,[' Heidemann '],['Pop']
+10,Luzern,Juggling-Jugulars,2014-09-22,['Juggling Jugulars '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

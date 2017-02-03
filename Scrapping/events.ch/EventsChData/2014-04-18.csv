@@ -1,18 +1,17 @@
-location,event,date,artists,genre
-Zürich,Passionskonzert-Requiem,2014-04-18,"[' Trudy Walter ', ' Ingrid Alexandre ', ' Raimund Wiederkehr ', ' Fabrice Raviola ']",Classic
-Luzern,Konzert,2014-04-18,"[' Sophie Junker ', ' Hilary Summers ', ' John Mark Ainsley ', ' David Wilson-Johnson ']",Classic
-Pratteln,9mm-Assi-Rock'n'Roll,2014-04-18,"[""9mm Assi Rock'n'Roll ""]",
-null,Electron-Festival,2014-04-18,"['DJs James Holden & The Inheritors ', ' Mount Kimbie ', ' Noisia ', ' Daniel Avery ', ' Front 242 ', ' Robag Wruhme ']",Electronic
-Zürich,Ziggy-Marley,2014-04-18,['Ziggy Marley '],
-Zürich,Balthazar,2014-04-18,['Balthazar '],
-Zürich,Welle-Erdball,2014-04-18,['Welle Erdball '],Pop
-Zürich,Grimsvötn,2014-04-18,"[' Claire Huguenin ', ' Luzius Schuler ', ' Christian Spahni ', ' Domi Chansorn ']",
-Wädenswil,Pâqu'son-Musikfestival,2014-04-18,['Violons Barbares '],Pop
-Oberentfelden,ASG,2014-04-18,"['ASG ', ' Anciients ']",
-Basel,End,2014-04-18,['End '],
-Zürich,Der-schwarze-Ball,2014-04-18,"['Anne Clark ', '  Welle Erdball ']",Pop
-Aarburg,Canned-Heat,2014-04-18,['Canned Heat '],
-Schaffhausen,Junior-Kelly,2014-04-18,['Junior Kelly '],
-Zürich,Klangkarussell,2014-04-18,['Klangkarussell '],Electronic
-Bern,Reptile-Youth,2014-04-18,['Reptile Youth '],Pop
-Lyss,The-Qemists,2014-04-18,['The Qemists '],Electronic
+,location,event,date,artists,genre
+0,Z?rich,Passionskonzert-Requiem,2014-04-18,"[' Trudy Walter ', ' Ingrid Alexandre ', ' Raimund Wiederkehr ', ' Fabrice Raviola ']",['Classic']
+1,Luzern,Konzert,2014-04-18,"[' Sophie Junker ', ' Hilary Summers ', ' John Mark Ainsley ', ' David Wilson-Johnson ']",['Classic']
+2,Pratteln,9mm-Assi-Rock'n'Roll,2014-04-18,"[""9mm Assi Rock'n'Roll ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,Ziggy-Marley,2014-04-18,['Ziggy Marley '],"['Hip', 'Hop', ""R'n'B""]"
+4,Z?rich,Balthazar,2014-04-18,['Balthazar '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,null,Electron-Festival,2014-04-18,"[' The Inheritors ', ' Mount Kimbie ', ' Noisia ', ' Daniel Avery ', ' Front 242 ', ' Robag Wruhme ']",['Electronic']
+6,Z?rich,Grimsv?tn,2014-04-18,"[' Claire Huguenin ', ' Luzius Schuler ', ' Christian Spahni ', ' Domi Chansorn ']","['Jazz', 'Blues', 'Soul']"
+7,Oberentfelden,ASG,2014-04-18,"['ASG ', ' Anciients ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Z?rich,Welle-Erdball,2014-04-18,['Welle Erdball '],['Pop']
+9,W?denswil,P?qu'son-Musikfestival,2014-04-18,['Violons Barbares '],['Pop']
+10,Aarburg,Canned-Heat,2014-04-18,['Canned Heat '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Basel,End,2014-04-18,['End '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Schaffhausen,Junior-Kelly,2014-04-18,['Junior Kelly '],"['world', 'music']"
+13,Z?rich,Klangkarussell,2014-04-18,['Klangkarussell '],['Electronic']
+14,Bern,Reptile-Youth,2014-04-18,['Reptile Youth '],['Pop']
+15,Lyss,The-Qemists,2014-04-18,['The Qemists '],['Electronic']

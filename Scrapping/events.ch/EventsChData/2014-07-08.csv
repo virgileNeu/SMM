@@ -1,11 +1,11 @@
-location,event,date,artists,genre
-Marly,Jazz-Parade,2014-07-08,"[' Marc Sturzenegger ', ' Denis Michel ', ' voc) Pierre Ponnaz ', ' bjo) Paul Kapp ', ' voc) Patrick Perrier ', ' Gianni Solinas ']",
-Marly,Jazz-Parade,2014-07-08,"[' Randy Brecker ', ' Danilo Moccia ', ' Yvan Ischer', ' Jean-Yves Petiot ', ' Alain Petitmermet ']",
-Montreux,Montreux-Jazz-Festival,2014-07-08,"['Tigran Hamasyan Quintet ', ' Neil Cowley Trio ']",
-Montreux,Montreux-Jazz-Festival,2014-07-08,"['Robert Plant & The Sensational Space Shifters ', ' Rodrigo y Gabriela ']",
-null,Liechtensteiner-Gitarrentage,2014-07-08,['Manolo Franco '],Classic
-Zürich,Los-Jaiygüey,2014-07-08,['Los Jaiygüey '],
-Montreux,Montreux-Jazz-Festival,2014-07-08,"['Metronomy ', ' MGMT ', ' Kuroma ']",Electronic
-Montreux,Montreux-Jazz-Festival,2014-07-08,['Benoît Delbecq '],
-Montreux,Montreux-Jazz-Festival,2014-07-08,"['Angry Cats ', ' DJ Lady Black Sally ']",
-Marly,Jazz-Parade,2014-07-08,"[' John Diboy ', ' Jaco Mc Phearson ', ' Jay New ', ' Pedro Jezzerbaum ', ' Rassi van Kaufi ']",
+,location,event,date,artists,genre
+0,Marly,Jazz-Parade,2014-07-08,"[' Marc Sturzenegger ', ' Denis Michel ', ' voc) Pierre Ponnaz ', ' bjo) Paul Kapp ', ' voc) Patrick Perrier ', ' Gianni Solinas ']","['Jazz', 'Blues', 'Soul']"
+1,Montreux,Montreux-Jazz-Festival,2014-07-08,"[' The Sensational Space Shifters ', ' Rodrigo y Gabriela ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Montreux,Montreux-Jazz-Festival,2014-07-08,"['Tigran Hamasyan Quintet ', ' Neil Cowley Trio ']","['Jazz', 'Blues', 'Soul']"
+3,Marly,Jazz-Parade,2014-07-08,"[' Randy Brecker ', ' Danilo Moccia ', ' Yvan Ischer', ' Jean-Yves Petiot ', ' Alain Petitmermet ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,null,Liechtensteiner-Gitarrentage,2014-07-08,['Manolo Franco '],['Classic']
+5,Montreux,Montreux-Jazz-Festival,2014-07-08,"['Metronomy ', ' MGMT ', ' Kuroma ']",['Electronic']
+6,Z?rich,Los-Jaiyg?ey,2014-07-08,['Los Jaiyg?ey '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Montreux,Montreux-Jazz-Festival,2014-07-08,['Beno?t Delbecq '],"['Jazz', 'Blues', 'Soul']"
+8,Montreux,Montreux-Jazz-Festival,2014-07-08,"['Angry Cats ', ' DJ Lady Black Sally ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Marly,Jazz-Parade,2014-07-08,"[' John Diboy ', ' Jaco Mc Phearson ', ' Jay New ', ' Pedro Jezzerbaum ', ' Rassi van Kaufi ']","['Jazz', 'Blues', 'Soul']"

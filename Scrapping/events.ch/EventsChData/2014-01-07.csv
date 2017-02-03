@@ -1,10 +1,9 @@
-location,event,date,artists,genre
-Basel,Masterrezital,2014-01-07,[' Vittoria Pagani '],Classic
-Zürich,Jazzapero,2014-01-07,"[' Silvan Jeger ', ' Valentin Dietrich ', ' Maxime Paratte ']",
-Luzern,Piano-Entertainment,2014-01-07,['Mark Tenger '],
-Zürich,Vier-Sonaten,2014-01-07,['Werner Bärtschi '],Classic
-Zürich,Soirée-classique,2014-01-07,"['Elena Mosuc ', ' Kelly Thomas ', ' anschl. Künstlergespräch mit Susanne Kübler ']",Classic
-Thalwil,Maria-Doyle-Kennedy,2014-01-07,['Maria Doyle Kennedy '],
-Luzern,Workshopkonzert,2014-01-07,"['Issaaf Harling ', ' Lea Mathis ', ' Alessandra Murer ', ' Barbara Frey ', ' Nina Reiter ', ' César Gonin ', ' Lukas Blattner ']",
-Zürich,Manuel-Delago,2014-01-07,"['Manuel Delago ', ' Manuel Delago ', ' Isa Kurz ', ' Philipp Moll ', ' Chris Norz ']",
-Basel,George-Fleury-Groove-Factory,2014-01-07,"[' George Fleury ', ' Marco Schudel ']",
+,location,event,date,artists,genre
+0,Basel,Masterrezital,2014-01-07,[' Vittoria Pagani '],['Classic']
+1,Z?rich,Jazzapero,2014-01-07,"[' Silvan Jeger ', ' Valentin Dietrich ', ' Maxime Paratte ']","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Vier-Sonaten,2014-01-07,['Werner B?rtschi '],['Classic']
+3,Z?rich,Soir?e-classique,2014-01-07,"['Elena Mosuc ', ' Kelly Thomas ', ' anschl. K?nstlergespr?ch mit Susanne K?bler ']",['Classic']
+4,Thalwil,Maria-Doyle-Kennedy,2014-01-07,['Maria Doyle Kennedy '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Luzern,Workshopkonzert,2014-01-07,"['Issaaf Harling ', ' Lea Mathis ', ' Alessandra Murer ', ' Barbara Frey ', ' Nina Reiter ', ' C?sar Gonin ', ' Lukas Blattner ']","['Jazz', 'Blues', 'Soul']"
+6,Basel,George-Fleury-Groove-Factory,2014-01-07,"[' George Fleury ', ' Marco Schudel ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Manuel-Delago,2014-01-07,"['Manuel Delago ', ' Manuel Delago ', ' Isa Kurz ', ' Philipp Moll ', ' Chris Norz ']","['world', 'music']"

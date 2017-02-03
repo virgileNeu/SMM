@@ -1,12 +1,11 @@
-location,event,date,artists,genre
-Bern,Mittags-Intermezzo-Chopin-Klavierkonzert,2014-01-14,['Igor Andreev '],Classic
-Zürich,Jazzapero,2014-01-14,"[' Niculin Janett ', ' Noam Szyfer ']",Pop
-Luzern,Piano-Entertainment,2014-01-14,['Mark Tenger '],
-Zürich,Migros-Kulturprozent-Classics,2014-01-14,"[' Sol Gabetta ', ' Matthias Arter ']",Classic
-Zürich,Kammermusikabend,2014-01-14,"['Alexandr Kutuzov ', ' Veriko Tchumburidze ', ' Ilya Bakhtin ']",Classic
-Zürich,Bach-im-Spiegel-von-alter-und-neuer-Welt,2014-01-14,['Felix Gubser '],Classic
-Luzern,Swing-de-Paris,2014-01-14,"[' Sophie Lüssi ', ' Felix Brühwiler ', ' Claudio Strebel ', ' David Beglinger ']",
-Luzern,Workshopkonzert,2014-01-14,"['Romano DAgostino ', ' Martial In-Albon ', ' Flavio Viazzoli ', ' Roberto Bossard ']",
-Zürich,Billiger-Bauer,2014-01-14,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Yves Reichmuth ', ' Gabriela Friedli ']",
-Basel,guitars@basel-Tomas-Sauter-Daniel-Schläppi,2014-01-14,"[' Tomas Sauter ', ' Daniel Schläppi ']",
-Bern,Tuesday-Jam,2014-01-14,"['Matthias Kohner ', ' Lukas Thöni ', ' André Pousaz ', ' Tobias Friedli ']",
+,location,event,date,artists,genre
+0,Bern,Mittags-Intermezzo-Chopin-Klavierkonzert,2014-01-14,['Igor Andreev '],['Classic']
+1,Z?rich,Jazzapero,2014-01-14,"[' Niculin Janett ', ' Noam Szyfer ']",['Pop']
+2,Z?rich,Bach-im-Spiegel-von-alter-und-neuer-Welt,2014-01-14,['Felix Gubser '],['Classic']
+3,Z?rich,Migros-Kulturprozent-Classics,2014-01-14,"[' Sol Gabetta ', ' Matthias Arter ']",['Classic']
+4,Z?rich,Kammermusikabend,2014-01-14,"['Alexandr Kutuzov ', ' Veriko Tchumburidze ', ' Ilya Bakhtin ']",['Classic']
+5,Luzern,Swing-de-Paris,2014-01-14,"[' Sophie L?ssi ', ' Felix Br?hwiler ', ' Claudio Strebel ', ' David Beglinger ']","['Jazz', 'Blues', 'Soul']"
+6,Basel,guitars@basel-Tomas-Sauter-Daniel-Schl?ppi,2014-01-14,"[' Tomas Sauter ', ' Daniel Schl?ppi ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Billiger-Bauer,2014-01-14,"[' Omri Ziegele ', ' Isa Wiss ', ' J?rg Wickihalder ', ' Nick Gutersohn ', ' Yves Reichmuth ', ' Gabriela Friedli ']","['Jazz', 'Blues', 'Soul']"
+8,Luzern,Workshopkonzert,2014-01-14,"['Romano DAgostino ', ' Martial In-Albon ', ' Flavio Viazzoli ', ' Roberto Bossard ']","['Jazz', 'Blues', 'Soul']"
+9,Bern,Tuesday-Jam,2014-01-14,"['Matthias Kohner ', ' Lukas Th?ni ', ' Andr? Pousaz ', ' Tobias Friedli ']","['Jazz', 'Blues', 'Soul']"

@@ -1,15 +1,15 @@
-location,event,date,artists,genre
-Basel,Orgelspiel-zum-Feierabend,2013-02-01,['Derek Clark '],Classic
-null,Klavierissimo,2013-02-01,['Yeol Eum Son '],Classic
-Bern,Hommage-à-Lutoslawski,2013-02-01,[' Ivan Monighetti '],Classic
-Uster,Un-palco-all'opera,2013-02-01,"['Alessia Grimaldi ', ' Gabriella Colecchia ', ' Michele Maddaloni ', ' Filippo Morace ', ' Simonetta Tancredi ']",Classic
-Zürich,Ana-Moura,2013-02-01,['Ana Moura '],
-Zürich,Hearings-2.1,2013-02-01,"['Helena Winkelman ', ' Silvan Schmid ', ' Jonas Labhart ', ' Dave Gisler ', ' Christian Weber ', ' Lucas Niggli ']",
-Lugano,Concerti-Dell'auditorio-2013,2013-02-01,['Raphael Wallfisch '],Classic
-Winterthur,Zweimannbandfestival,2013-02-01,"['The Culture in Memoriam ', ' The Black Magic Six ', ' Canja Rave ']",Pop
-Chollerhalle,Zug,2013-02-01,['Wishbone Ash '],
-Les-Docks,Lausanne,2013-02-01,['Vader '],Aborted
-Uster,Suisse-Diagonales-Jazz,2013-02-01,"[' Noémie Cotton  ', ' Ganesh Geymeier ', ' Fred Bürki ']",
-Luzern,Talco,2013-02-01,['Talco '],
-null,Klavierissimo,2013-02-01,"['Evgeni Koroliov ', ' Ljupka Hadzigeorgieva ']",Classic
-Lyss,Marsimoto-Soundsystem,2013-02-01,['Marsimoto Soundsystem '],
+,location,event,date,artists,genre
+0,Basel,Orgelspiel-zum-Feierabend,2013-02-01,['Derek Clark '],['Classic']
+1,null,Klavierissimo,2013-02-01,['Yeol Eum Son '],['Classic']
+2,Bern,Hommage-à-Lutoslawski,2013-02-01,[' Ivan Monighetti '],['Classic']
+3,Uster,Un-palco-all'opera,2013-02-01,"['Alessia Grimaldi ', ' Gabriella Colecchia ', ' Michele Maddaloni ', ' Filippo Morace ', ' Simonetta Tancredi ']",['Classic']
+4,Zürich,Ana-Moura,2013-02-01,['Ana Moura '],"['world', 'music']"
+5,Zürich,Hearings-2.1,2013-02-01,"['Helena Winkelman ', ' Silvan Schmid ', ' Jonas Labhart ', ' Dave Gisler ', ' Christian Weber ', ' Lucas Niggli ']","['Jazz', 'Blues', 'Soul']"
+6,Chollerhalle,Zug,2013-02-01,['Wishbone Ash '],"['Wishbone', 'Ash']"
+7,Uster,Suisse-Diagonales-Jazz,2013-02-01,"[' Noémie Cotton  ', ' Ganesh Geymeier ', ' Fred Bürki ']","['Jazz', 'Blues', 'Soul']"
+8,Winterthur,Zweimannbandfestival,2013-02-01,"['The Culture in Memoriam ', ' The Black Magic Six ', ' Canja Rave ']",['Pop']
+9,Lugano,Concerti-Dell'auditorio-2013,2013-02-01,['Raphael Wallfisch '],['Classic']
+10,Les-Docks,Lausanne,2013-02-01,['Vader '],['Aborted']
+11,Luzern,Talco,2013-02-01,['Talco '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,null,Klavierissimo,2013-02-01,"['Evgeni Koroliov ', ' Ljupka Hadzigeorgieva ']",['Classic']
+13,Lyss,Marsimoto-Soundsystem,2013-02-01,['Marsimoto Soundsystem '],"['Hip', 'Hop', ""R'n'B""]"

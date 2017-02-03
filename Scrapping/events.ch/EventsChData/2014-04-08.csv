@@ -1,17 +1,17 @@
-location,event,date,artists,genre
-Zermatt,Zermatt-Unplugged,2014-04-08,['Mark Kelly '],Pop
-Zermatt,Zermatt-Unplugged,2014-04-08,"[""Ronnie Scott's All Stars ""]",
-Zürich,Jazzapero,2014-04-08,"[' Christina Jaccard ', ' John Lyons ', ' Dave Ruosch ']",
-Zürich,Duo-Abend,2014-04-08,"['David Pia ', ' Da Sol Kim ']",Classic
-Zürich,José-Cura,2014-04-08,['José Cura '],
-Zürich,Estrella-Morente,2014-04-08,['Estrella Morente '],traditional
-Aarau,Crowbar,2014-04-08,"['Crowbar ', ' Undertow ']",
-Zürich,Foxes,2014-04-08,['Foxes '],Pop
-Zürich,Lily-Dahab,2014-04-08,"['Lily Dahab ', ' Lily Dahab ', ' Bene Aperdannier ', ' Jo Gehlmann ', ' Andreas Henze ', ' Daniel Gioia ']",
-Basel,Hi5,2014-04-08,"[' Matthias Legner ', ' Philipp Ossanna ', ' Clemens Rofner ', ' Chris Norz ']",
-Cully,Cully-Jazz,2014-04-08,"['David Murray Infinity Quartet feat. Saul Williams ', ' David Murray ', ' Saul Williams ', ' Rod Williams ', ' Jaribu Shahid ', ' Nasheet Waits ']",
-Basel,Full-Attention,2014-04-08,"['Chronixx & Zinc Fence Redemption  ', ' Dre Island ', ' Kelissa ']",
-Zürich,Ruthie-Foster,2014-04-08,"['Ruthie Foster ', ' Ruthie Foster ', ' Larry Fulcher ', ' Samantha Banks ']",
-Zermatt,Zermatt-Unplugged,2014-04-08,['Aloe Blacc '],
-Zürich,Pontiak,2014-04-08,['Pontiak '],
-Zermatt,Zermatt-Unplugged,2014-04-08,['Tom Odell '],Pop
+,location,event,date,artists,genre
+0,Zermatt,Zermatt-Unplugged,2014-04-08,['Mark Kelly '],['Pop']
+1,Zermatt,Zermatt-Unplugged,2014-04-08,"[""Ronnie Scott's All Stars ""]","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Jazzapero,2014-04-08,"[' Christina Jaccard ', ' John Lyons ', ' Dave Ruosch ']","['Jazz', 'Blues', 'Soul']"
+3,Z?rich,Duo-Abend,2014-04-08,"['David Pia ', ' Da Sol Kim ']",['Classic']
+4,Z?rich,Foxes,2014-04-08,['Foxes '],['Pop']
+5,Z?rich,Estrella-Morente,2014-04-08,['Estrella Morente '],['traditional']
+6,Z?rich,Jos?-Cura,2014-04-08,['Jos? Cura '],"['world', 'music']"
+7,Z?rich,Lily-Dahab,2014-04-08,"['Lily Dahab ', ' Lily Dahab ', ' Bene Aperdannier ', ' Jo Gehlmann ', ' Andreas Henze ', ' Daniel Gioia ']","['Jazz', 'Blues', 'Soul']"
+8,Aarau,Crowbar,2014-04-08,"['Crowbar ', ' Undertow ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Basel,Full-Attention,2014-04-08,"[' Zinc Fence Redemption  ', ' Dre Island ', ' Kelissa ']","['Hip', 'Hop', ""R'n'B""]"
+10,Zermatt,Zermatt-Unplugged,2014-04-08,['Aloe Blacc '],"['Hip', 'Hop', ""R'n'B""]"
+11,Basel,Hi5,2014-04-08,"[' Matthias Legner ', ' Philipp Ossanna ', ' Clemens Rofner ', ' Chris Norz ']","['Jazz', 'Blues', 'Soul']"
+12,Z?rich,Ruthie-Foster,2014-04-08,"['Ruthie Foster ', ' Ruthie Foster ', ' Larry Fulcher ', ' Samantha Banks ']","['Jazz', 'Blues', 'Soul']"
+13,Cully,Cully-Jazz,2014-04-08,"['David Murray Infinity Quartet feat. Saul Williams ', ' David Murray ', ' Saul Williams ', ' Rod Williams ', ' Jaribu Shahid ', ' Nasheet Waits ']","['Jazz', 'Blues', 'Soul']"
+14,Z?rich,Pontiak,2014-04-08,['Pontiak '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Zermatt,Zermatt-Unplugged,2014-04-08,['Tom Odell '],['Pop']

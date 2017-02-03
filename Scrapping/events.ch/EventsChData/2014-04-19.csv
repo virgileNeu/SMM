@@ -1,10 +1,10 @@
-location,event,date,artists,genre
-Zürich,Blues-Pills,2014-04-19,['Blues Pills '],
-Zofingen,Passionskonzert-Requiem,2014-04-19,"[' Trudy Walter ', ' Ingrid Alexandre ', ' Raimund Wiederkehr ', ' Fabrice Raviola ']",Classic
-null,Electron-Festival,2014-04-19,"['DJs Vitalic ', ' Deltron 3030 & Orchestra ', ' Pierre ', ' Kode9 ']",Electronic
-Solothurn,The-Sweet,2014-04-19,['The Sweet '],
-Citykirche-Offener-St.-Jakob,Zürich,2014-04-19,['John Francis '],
-Zürich,Hits-Recycled,2014-04-19,"[' Andi Schnellmann ', ' Urs Müller ', ' Christian Rösli ', ' Arno Troxler ', ' Pascal P Kaeser ', ' Sam Siegenthaler ', ' Andreas Renggli ']",
-Klosters,Baldych-Herman,2014-04-19,"[' Yaron Herman ', ' Adam Baldych ']",
-Jona,Schön-wie-es-begann,2014-04-19,"['Curdin Janett ', ' David Ruosch ', ' Lisa Berg ']",Pop
-Zürich,Osternacht,2014-04-19,"['Benjamin Gubser ', ' Felix Gubser ']",Classic
+,location,event,date,artists,genre
+0,Z?rich,Blues-Pills,2014-04-19,['Blues Pills '],"['Jazz', 'Blues', 'Soul']"
+1,Zofingen,Passionskonzert-Requiem,2014-04-19,"[' Trudy Walter ', ' Ingrid Alexandre ', ' Raimund Wiederkehr ', ' Fabrice Raviola ']",['Classic']
+2,Solothurn,The-Sweet,2014-04-19,['The Sweet '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,null,Electron-Festival,2014-04-19,"[' Orchestra ', ' Pierre ', ' Kode9 ']",['Electronic']
+4,Citykirche-Offener-St.-Jakob,Z?rich,2014-04-19,['John Francis '],"['John', 'Francis']"
+5,Jona,Sch?n-wie-es-begann,2014-04-19,"['Curdin Janett ', ' David Ruosch ', ' Lisa Berg ']",['Pop']
+6,Z?rich,Hits-Recycled,2014-04-19,"[' Andi Schnellmann ', ' Urs M?ller ', ' Christian R?sli ', ' Arno Troxler ', ' Pascal P Kaeser ', ' Sam Siegenthaler ', ' Andreas Renggli ']","['Jazz', 'Blues', 'Soul']"
+7,Klosters,Baldych-Herman,2014-04-19,"[' Yaron Herman ', ' Adam Baldych ']","['Jazz', 'Blues', 'Soul']"
+8,Z?rich,Osternacht,2014-04-19,"['Benjamin Gubser ', ' Felix Gubser ']",['Classic']

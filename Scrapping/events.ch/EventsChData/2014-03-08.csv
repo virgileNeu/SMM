@@ -1,35 +1,33 @@
-location,event,date,artists,genre
-Winterthur,Deux-fois-C,2014-03-08,"[' Christin Maho ', ' Christian Hadorn ']",
-Aarau,Anne-Czichowsky-Quintett,2014-03-08,"[' ', ' Thilo Wagner ', ' Lorenz Petrocca ', ' Axel Kühn ', ' Matthias Daneck ']",
--Alte-Kirche,Boswil,2014-03-08,[' Christoph Prégardien '],Classic
-Luzern,Piano-Entertainment,2014-03-08,['Herb Miller '],
-Zürich,Piano-Dinner,2014-03-08,['Oliver Weinberg '],
-Zürich,John-Newman,2014-03-08,['John Newman '],Pop
-Zürich,Internationales-Country-Music-Festival,2014-03-08,['Texas Renegade & Southern Stars '],
-Basel,Delirio-amoroso,2014-03-08,"[' Katrin Szamatulski ', ' Christoph Boner ', ' Raoul Morat ', ' Vera Wahl ', ' Viviane Hasler ', ' Trude Meszar ', ' Johann-Baptist Stocker ']",Classic
-Zürich,Konzert,2014-03-08,[' Krystian Zimerman '],Classic
-Baden,Blackstuff-Vol.-12,2014-03-08,['Enter the Primates '],
-Zürich,Klassik-in-der-Autowerkstatt,2014-03-08,"['Christophe Dufaux ', ' Gregor Müller ', ' conductor: Deborah Marchetti ']",Classic
-Basel,Schlagzeugkonzert,2014-03-08,['Lineupon Line Percussionensemble '],Classic
-Zürich,Noche-flamenca,2014-03-08,"[' Juan Granados ', ' Vicente Cortes ', ' German Papu Gigena ']",
-Auditorium-Stravinski,Montreux,2014-03-08,['Carla Bruni '],
-Bülach,Tribute-to-Astor-Piazzolla,2014-03-08,"['Anna Dzialak Savytska ', ' Jakub Dzialak ', ' Richard Secrist ']",Classic
-Zürich,Eros-&-Thanatos-Matutin-der-letzten-Dinge,2014-03-08,[' Ken Zuckerman '],Classic
-Bern,Tom-Odell,2014-03-08,['Tom Odell '],
-Zürich,Quentin-Crisp's-Space-Garden,2014-03-08,"[' Silvio Cadotsch ', ' Valentin Dietrich ', ' Dave Meier ', ' Marco von Orelli ', ' Yves Theiler ', ' Matthias Tschopp ']",
-Bülach,Butch-Miles-Jubilee-All-Stars,2014-03-08,"['Butch Miles Jubilee All Stars ', ' Duke Heitger ', ' Antti Sarpilla ', ' Ian Bateman ', ' Mark Shane ', ' Henning Gailing ', ' Butch Miles ']",
-Zürich,Bubliczki,2014-03-08,"['Bubliczki ', ' Mateusz Czarnowski ', ' Micha Czarnowski ', ' Krzysztof Kowalczyk ', ' Marek Kubiszyn ']",
-Baden,Wynavalley-Oldtime-Jazzband,2014-03-08,"[' ', ' Shilo Buck ', ' Werner Gisin ', ' Heinz Glauser ', ' Heinz Lehmann ', ' Walter Daetwyler ', ' Daniel Breitenstein ']",
-Basel,Jerry-Bergonzi,2014-03-08,"[' Jerry Bergonzi ', ' Dick Oatts ', ' Dave Santoro ', ' Andrea Michelutti ']",
-Zürich,Konzert-auf-dem-Spielplatz,2014-03-08,['Beth Wimmer '],
-Thun,Angélique-Kidjo,2014-03-08,['Angélique Kidjo '],
-Zürich,Kamala,2014-03-08,"[' Ekkehard Sassenhausen ', ' Bruno Steffen ', ' Beat Gisler ', ' Olaf Ryter ']",
-Zürich,Ben-Schadow-Band,2014-03-08,['Ben Schadow Band '],
-Wil,Eko-Fresh-&-Motrip,2014-03-08,['Eko Fresh & Motrip '],
-Bern,Klischée,2014-03-08,['Klischée '],Electronic
-Zürich,Miraculous-Mule,2014-03-08,['Miraculous Mule '],
-Sankt-Gallen,The-Field,2014-03-08,['The Field '],Electronic
-Lausanne,Demdike-Stare,2014-03-08,['Demdike Stare '],Electronic
-Zürich,Dub-Spencer-&-Trance-Hill,2014-03-08,['Dub Spencer & Trance Hill '],
-Schaffhausen,Stigmata,2014-03-08,"['Stigmata ', ' Daniel Trüb Schallrauch ']",Electronic
-Winterthur,Der-Dritte-Raum,2014-03-08,['Der Dritte Raum '],Electronic
+,location,event,date,artists,genre
+0,Winterthur,Deux-fois-C,2014-03-08,"[' Christin Maho ', ' Christian Hadorn ']","['world', 'music']"
+1,Aarau,Anne-Czichowsky-Quintett,2014-03-08,"[' ', ' Thilo Wagner ', ' Lorenz Petrocca ', ' Axel K?hn ', ' Matthias Daneck ']","['Jazz', 'Blues', 'Soul']"
+2,-Alte-Kirche,Boswil,2014-03-08,[' Christoph Pr?gardien '],['Classic']
+3,Z?rich,Piano-Dinner,2014-03-08,['Oliver Weinberg '],"['Jazz', 'Blues', 'Soul']"
+4,Basel,Delirio-amoroso,2014-03-08,"[' Katrin Szamatulski ', ' Christoph Boner ', ' Raoul Morat ', ' Vera Wahl ', ' Viviane Hasler ', ' Trude Meszar ', ' Johann-Baptist Stocker ']",['Classic']
+5,Z?rich,John-Newman,2014-03-08,['John Newman '],['Pop']
+6,Z?rich,Internationales-Country-Music-Festival,2014-03-08,[' Southern Stars '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Konzert,2014-03-08,[' Krystian Zimerman '],['Classic']
+8,Basel,Schlagzeugkonzert,2014-03-08,['Lineupon Line Percussionensemble '],['Classic']
+9,Z?rich,Noche-flamenca,2014-03-08,"[' Juan Granados ', ' Vicente Cortes ', ' German Papu Gigena ']","['world', 'music']"
+10,B?lach,Tribute-to-Astor-Piazzolla,2014-03-08,"['Anna Dzialak Savytska ', ' Jakub Dzialak ', ' Richard Secrist ']",['Classic']
+11,Z?rich,Eros-&-Thanatos-Matutin-der-letzten-Dinge,2014-03-08,[' Ken Zuckerman '],['Classic']
+12,Baden,Blackstuff-Vol.-12,2014-03-08,['Enter the Primates '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Auditorium-Stravinski,Montreux,2014-03-08,['Carla Bruni '],"['Carla', 'Bruni']"
+14,Bern,Tom-Odell,2014-03-08,['Tom Odell '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Z?rich,Klassik-in-der-Autowerkstatt,2014-03-08,"['Christophe Dufaux ', ' Gregor M?ller ', ' conductor: Deborah Marchetti ']",['Classic']
+16,Z?rich,Quentin-Crisp's-Space-Garden,2014-03-08,"[' Silvio Cadotsch ', ' Valentin Dietrich ', ' Dave Meier ', ' Marco von Orelli ', ' Yves Theiler ', ' Matthias Tschopp ']","['Jazz', 'Blues', 'Soul']"
+17,B?lach,Butch-Miles-Jubilee-All-Stars,2014-03-08,"['Butch Miles Jubilee All Stars ', ' Duke Heitger ', ' Antti Sarpilla ', ' Ian Bateman ', ' Mark Shane ', ' Henning Gailing ', ' Butch Miles ']","['Jazz', 'Blues', 'Soul']"
+18,Baden,Wynavalley-Oldtime-Jazzband,2014-03-08,"[' ', ' Shilo Buck ', ' Werner Gisin ', ' Heinz Glauser ', ' Heinz Lehmann ', ' Walter Daetwyler ', ' Daniel Breitenstein ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Bubliczki,2014-03-08,"['Bubliczki ', ' Mateusz Czarnowski ', ' Micha Czarnowski ', ' Krzysztof Kowalczyk ', ' Marek Kubiszyn ']","['world', 'music']"
+20,Basel,Jerry-Bergonzi,2014-03-08,"[' Jerry Bergonzi ', ' Dick Oatts ', ' Dave Santoro ', ' Andrea Michelutti ']","['Jazz', 'Blues', 'Soul']"
+21,Z?rich,Konzert-auf-dem-Spielplatz,2014-03-08,['Beth Wimmer '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Bern,Klisch?e,2014-03-08,['Klisch?e '],['Electronic']
+23,Z?rich,Kamala,2014-03-08,"[' Ekkehard Sassenhausen ', ' Bruno Steffen ', ' Beat Gisler ', ' Olaf Ryter ']","['Jazz', 'Blues', 'Soul']"
+24,Z?rich,Ben-Schadow-Band,2014-03-08,['Ben Schadow Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Wil,Eko-Fresh-&-Motrip,2014-03-08,[' Motrip '],"['Hip', 'Hop', ""R'n'B""]"
+26,Thun,Ang?lique-Kidjo,2014-03-08,['Ang?lique Kidjo '],"['Hip', 'Hop', ""R'n'B""]"
+27,Z?rich,Miraculous-Mule,2014-03-08,['Miraculous Mule '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Z?rich,Dub-Spencer-&-Trance-Hill,2014-03-08,[' Trance Hill '],"['Hip', 'Hop', ""R'n'B""]"
+29,Lausanne,Demdike-Stare,2014-03-08,['Demdike Stare '],['Electronic']
+30,Schaffhausen,Stigmata,2014-03-08,"['Stigmata ', ' Daniel Tr?b Schallrauch ']",['Electronic']
+31,Winterthur,Der-Dritte-Raum,2014-03-08,['Der Dritte Raum '],['Electronic']

@@ -1,10 +1,9 @@
-location,event,date,artists,genre
-Zürich,The-Kiss-of-Areté,2015-03-03,"[' Theo Kapilidis ', ' Uli Heinzler ', ' Tony Renold ']",
-null,Blonde-Redhead,2015-03-03,['Blonde Redhead '],Pop
-Zürich,Kelley-McRae-Duo,2015-03-03,['Kelley McRae Duo '],
-Zug,Kinzelman-Pianca-Senni-Huber,2015-03-03,"[' Dan Kinzelman ', ' Roberto Pianca ', ' Stefano Senni ', ' Alex Huber ']",
-Zürich,Lyambiko,2015-03-03,"['Lyambiko ', ' Lyambiko ', ' Marque Lowenthals ', ' Robin Draganic ', ' Heinrich Koebberling ']",
-Basel,Guitarorama,2015-03-03,"[' Tomas Sauter ', ' Daniel Schläppi ']",
-Luzern,Christoph-Stiefel's-Isorhythm-Orchestra,2015-03-03,"[' Sarah Buechi ', ' Matthieu Michel ', ' Adrian Mears ', ' Domenic Landolf ', ' Christoph Stiefel ']",
-Schaffhausen,Upstairs-&-Loud,2015-03-03,['Dead Neck '],
-Lausanne,BRNS,2015-03-03,['BRNS '],Pop
+,location,event,date,artists,genre
+0,Z?rich,The-Kiss-of-Aret?,2015-03-03,"[' Theo Kapilidis ', ' Uli Heinzler ', ' Tony Renold ']","['world', 'music']"
+1,null,Blonde-Redhead,2015-03-03,['Blonde Redhead '],['Pop']
+2,Zug,Kinzelman-Pianca-Senni-Huber,2015-03-03,"[' Dan Kinzelman ', ' Roberto Pianca ', ' Stefano Senni ', ' Alex Huber ']","['Jazz', 'Blues', 'Soul']"
+3,Z?rich,Kelley-McRae-Duo,2015-03-03,['Kelley McRae Duo '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Schaffhausen,Upstairs-&-Loud,2015-03-03,['Dead Neck '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Luzern,Christoph-Stiefel's-Isorhythm-Orchestra,2015-03-03,"[' Sarah Buechi ', ' Matthieu Michel ', ' Adrian Mears ', ' Domenic Landolf ', ' Christoph Stiefel ']","['Jazz', 'Blues', 'Soul']"
+6,Basel,Guitarorama,2015-03-03,"[' Tomas Sauter ', ' Daniel Schl?ppi ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Lyambiko,2015-03-03,"['Lyambiko ', ' Lyambiko ', ' Marque Lowenthals ', ' Robin Draganic ', ' Heinrich Koebberling ']","['Jazz', 'Blues', 'Soul']"

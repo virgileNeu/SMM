@@ -1,40 +1,39 @@
-location,event,date,artists,genre
-Winterthur,Die-Samstagsmatinée,2014-02-01,"[' Sophie Lüssi ', ' Felix Brühwiler ', ' Claudio Strebel ', ' David Beglinger ']",
-Zürich,Winter-Festival,2014-02-01,"['Janis Is Alive ', ' Riders On The Storm ', ' Stoned Immaculate ', ' The Rose ']",
-Zürich,Vorabend-Lichtmess,2014-02-01,"['Hossein Samieian ', ' Felix Gubser ']",Classic
-Baden,One-of-a-Million,2014-02-01,['Kalle Mattson '],
-Baden,One-of-a-Million,2014-02-01,['Dad Rocks '],Pop
-Worblaufen,Chris-Zahn,2014-02-01,['Chris Zahn '],
-Hinwil,Oratorium-Samson,2014-02-01,"[' Dorothea Frey ', ' Liliane Glanzmann ', ' Valentin Johannes Gloor ', ' Marcus Niedermeyr ']",Classic
-Basel,Barockmusik-auf-Norddeutschland,2014-02-01,"[' Muriel Rochat Rienth ', ' Yves Bertin ', ' Éva Borhi ']",Classic
-Zürich,Internationales-Country-Music-Festival,2014-02-01,"['Lo-Cash Cowboys ', ' Music Road Pilots ']",
-Basel,Barockensemble-Voces-Suaves,2014-02-01,[' conductor: Francesco Saverio Pedrini '],Classic
-Zürich,Gavriel-Lipkind-Bachs-letzte-drei-Cellosuiten,2014-02-01,['Gavriel Lipkind '],Classic
-Zürich,Belcanto-Rezital,2014-02-01,"['Sebastien Dupuis ', ' Ronja Bosshard ']",Classic
-Aarau,Suicidal-Angels,2014-02-01,"['Suicidal Angels ', ' Fueled By Fire ', ' Lost Society ', ' Exarsis ']",
-Zug,Monthly-Assault,2014-02-01,"['Engorgement ', ' Chordotomy ']",
-Lenk-im-Simmental,Ein-musikalischer-Segeltörn,2014-02-01,['Santiano mit Peter Reber '],traditional
-Zürich,Maria-Mena,2014-02-01,['Maria Mena '],Pop
-Luzern,7-Dollar-Taxi,2014-02-01,['7 Dollar Taxi '],
-Aarau,Stephan-Athanas'-Contemparabic-Jazz-Ensemble,2014-02-01,"[""Stephan Athanas' Contemparabic Jazz Ensemble "", ' Samiha Ben Said ', ' Samir Ferjani ', ' Benji Fellous ', ' Bernard Vidal ', ' Dave Feusi ', ' Tony Renold ', ' Stephan Athanas ']",
-Zürich,Happy-End,2014-02-01,"[' Achim Escher ', ' Manuel Troller ', ' Marc Unternährer ', ' Alex Huber ']",
-Basel,Don-Menza-Quartet,2014-02-01,"[' Don Menza ', ' Renato Chicco ', ' Stephan Kurmann ', ' Bernd Reiter ']",
-Feuerthalen,Surfer-Joe-&-Band,2014-02-01,['Surfer Joe & Band '],
-Victoria-Hall,null,2014-02-01,['Ahmad Jamal '],
-null,Musique-des-lumières-Visions-de-Mahler,2014-02-01,[' Anna Manske '],Classic
-Zürich,Zoë,2014-02-01,"[' Zoë ', ' Mario Schläppi ', "" Romano D'Agostino "", ' Robin Tadic ', ' Patrik Horat ']",Pop
-Luzern,The-Last-Fight,2014-02-01,['The Last Fight '],
-Wetzikon,Ashes-to-Beauty,2014-02-01,['Ashes to Beauty '],Pop
-Zürich,Claudio-Taddei,2014-02-01,"[' Claudio Taddei ', ' Flavio Braga ', ' Italo Pesce ']",Pop
-null,Michel-Zisman,2014-02-01,"[' Matthieu Michel ', ' Michael Zisman ']",
-Zürich,To-Kill-A-King,2014-02-01,"['To Kill A King ', ' support: Spring Offensive ']",
-null,30-Jahre-Grabenhalle,2014-02-01,"['Mouse on Mars ', ' Metamkine ']",Electronic
-Basel,Kevin-Devine,2014-02-01,['Kevin Devine '],
-Lausanne,Polica,2014-02-01,['Polica '],
-Baden,One-of-a-Million,2014-02-01,['Caged Animals '],Pop
-Buchs,Baby-Lou,2014-02-01,"['Baby Lou ', ' Taped ']",
-Zürich,Tha-Alkaholiks,2014-02-01,"['Tha Alkaholiks ', ' Cali Agents ', ' Lords of the Underground ']",
-null,Dorian-Wood,2014-02-01,['Dorian Wood '],
-Baden,One-of-a-Million,2014-02-01,['Steaming Satellites '],Pop
-Zürich,Dapayk-&-Padberg,2014-02-01,['Dapayk & Padberg '],
-Bern,You-Love-Her-Coz-Shes-Dead,2014-02-01,['You Love Her Coz Shes Dead '],Electronic
+,location,event,date,artists,genre
+0,Winterthur,Die-Samstagsmatin?e,2014-02-01,"[' Sophie L?ssi ', ' Felix Br?hwiler ', ' Claudio Strebel ', ' David Beglinger ']","['Jazz', 'Blues', 'Soul']"
+1,Z?rich,Winter-Festival,2014-02-01,"['Janis Is Alive ', ' Riders On The Storm ', ' Stoned Immaculate ', ' The Rose ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Z?rich,Vorabend-Lichtmess,2014-02-01,"['Hossein Samieian ', ' Felix Gubser ']",['Classic']
+3,Baden,One-of-a-Million,2014-02-01,['Kalle Mattson '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Baden,One-of-a-Million,2014-02-01,['Dad Rocks '],['Pop']
+5,Worblaufen,Chris-Zahn,2014-02-01,['Chris Zahn '],"['Jazz', 'Blues', 'Soul']"
+6,Basel,Barockensemble-Voces-Suaves,2014-02-01,[' conductor: Francesco Saverio Pedrini '],['Classic']
+7,Z?rich,Gavriel-Lipkind-Bachs-letzte-drei-Cellosuiten,2014-02-01,['Gavriel Lipkind '],['Classic']
+8,Z?rich,Belcanto-Rezital,2014-02-01,"['Sebastien Dupuis ', ' Ronja Bosshard ']",['Classic']
+9,Z?rich,Internationales-Country-Music-Festival,2014-02-01,"['Lo-Cash Cowboys ', ' Music Road Pilots ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Hinwil,Oratorium-Samson,2014-02-01,"[' Dorothea Frey ', ' Liliane Glanzmann ', ' Valentin Johannes Gloor ', ' Marcus Niedermeyr ']",['Classic']
+11,Basel,Barockmusik-auf-Norddeutschland,2014-02-01,"[' Muriel Rochat Rienth ', ' Yves Bertin ', ' ?va Borhi ']",['Classic']
+12,Aarau,Suicidal-Angels,2014-02-01,"['Suicidal Angels ', ' Fueled By Fire ', ' Lost Society ', ' Exarsis ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Lenk-im-Simmental,Ein-musikalischer-Segelt?rn,2014-02-01,['Santiano mit Peter Reber '],['traditional']
+14,Zug,Monthly-Assault,2014-02-01,"['Engorgement ', ' Chordotomy ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Z?rich,Maria-Mena,2014-02-01,['Maria Mena '],['Pop']
+16,Luzern,7-Dollar-Taxi,2014-02-01,['7 Dollar Taxi '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Aarau,Stephan-Athanas'-Contemparabic-Jazz-Ensemble,2014-02-01,"[""Stephan Athanas' Contemparabic Jazz Ensemble "", ' Samiha Ben Said ', ' Samir Ferjani ', ' Benji Fellous ', ' Bernard Vidal ', ' Dave Feusi ', ' Tony Renold ', ' Stephan Athanas ']","['Jazz', 'Blues', 'Soul']"
+18,Z?rich,Happy-End,2014-02-01,"[' Achim Escher ', ' Manuel Troller ', ' Marc Untern?hrer ', ' Alex Huber ']","['Jazz', 'Blues', 'Soul']"
+19,null,Musique-des-lumi?res-Visions-de-Mahler,2014-02-01,[' Anna Manske '],['Classic']
+20,Feuerthalen,Surfer-Joe-&-Band,2014-02-01,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Basel,Don-Menza-Quartet,2014-02-01,"[' Don Menza ', ' Renato Chicco ', ' Stephan Kurmann ', ' Bernd Reiter ']","['Jazz', 'Blues', 'Soul']"
+22,Victoria-Hall,null,2014-02-01,['Ahmad Jamal '],"['Ahmad', 'Jamal']"
+23,null,30-Jahre-Grabenhalle,2014-02-01,"['Mouse on Mars ', ' Metamkine ']",['Electronic']
+24,Z?rich,Zo?,2014-02-01,"[' Zo? ', ' Mario Schl?ppi ', "" Romano D'Agostino "", ' Robin Tadic ', ' Patrik Horat ']",['Pop']
+25,Luzern,The-Last-Fight,2014-02-01,['The Last Fight '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Wetzikon,Ashes-to-Beauty,2014-02-01,['Ashes to Beauty '],['Pop']
+27,Z?rich,Claudio-Taddei,2014-02-01,"[' Claudio Taddei ', ' Flavio Braga ', ' Italo Pesce ']",['Pop']
+28,Z?rich,To-Kill-A-King,2014-02-01,"['To Kill A King ', ' support: Spring Offensive ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,null,Michel-Zisman,2014-02-01,"[' Matthieu Michel ', ' Michael Zisman ']","['Jazz', 'Blues', 'Soul']"
+30,Basel,Kevin-Devine,2014-02-01,['Kevin Devine '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Lausanne,Polica,2014-02-01,['Polica '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Baden,One-of-a-Million,2014-02-01,['Caged Animals '],['Pop']
+33,Buchs,Baby-Lou,2014-02-01,"['Baby Lou ', ' Taped ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Z?rich,Tha-Alkaholiks,2014-02-01,"['Tha Alkaholiks ', ' Cali Agents ', ' Lords of the Underground ']","['Hip', 'Hop', ""R'n'B""]"
+35,null,Dorian-Wood,2014-02-01,['Dorian Wood '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,Baden,One-of-a-Million,2014-02-01,['Steaming Satellites '],['Pop']
+37,Bern,You-Love-Her-Coz-Shes-Dead,2014-02-01,['You Love Her Coz Shes Dead '],['Electronic']

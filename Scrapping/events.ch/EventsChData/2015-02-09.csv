@@ -1,10 +1,9 @@
-location,event,date,artists,genre
-Zürich,Lunchkonzert,2015-02-09,"[' Malin Hartelius ', ' Daniel Kagerer ']",Classic
-Solothurn,Raised-First,2015-02-09,['Raised Fist '],
-Basel,AMG-Solistenabende,2015-02-09,"['Sol Gabetta ', ' Bertrand Chamayou ']",Classic
-Zürich,Orlando-Julius-&-The-Helicopters,2015-02-09,['Orlando Julius & The Helicopters '],
-Baden,Bounce,2015-02-09,"[' Jonathan Maag ', ' Julian Hesse ', ' Andrey Tatarinets ', ' Domi Chansorn ']",
-Zürich,Walter-Salas-Humara,2015-02-09,['Walter Salas-Humara '],
-Zürich,Suisse-Diagonales-Jazz,2015-02-09,"[' Markus Ischer ', ' Andi Schnellmann ', ' Maja Nydegger ', ' Manuel Pasquinelli ']",
-Winterthur,Lloyd-Williams,2015-02-09,['Lloyd Williams '],
-Zürich,Ryan-Bingham,2015-02-09,['Ryan Bingham '],Pop
+,location,event,date,artists,genre
+0,Z?rich,Lunchkonzert,2015-02-09,"[' Malin Hartelius ', ' Daniel Kagerer ']",['Classic']
+1,Basel,AMG-Solistenabende,2015-02-09,"['Sol Gabetta ', ' Bertrand Chamayou ']",['Classic']
+2,Z?rich,Orlando-Julius-&-The-Helicopters,2015-02-09,[' The Helicopters '],"['world', 'music']"
+3,Baden,Bounce,2015-02-09,"[' Jonathan Maag ', ' Julian Hesse ', ' Andrey Tatarinets ', ' Domi Chansorn ']","['Jazz', 'Blues', 'Soul']"
+4,Z?rich,Walter-Salas-Humara,2015-02-09,['Walter Salas-Humara '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Z?rich,Suisse-Diagonales-Jazz,2015-02-09,"[' Markus Ischer ', ' Andi Schnellmann ', ' Maja Nydegger ', ' Manuel Pasquinelli ']","['Jazz', 'Blues', 'Soul']"
+6,Winterthur,Lloyd-Williams,2015-02-09,['Lloyd Williams '],"['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Ryan-Bingham,2015-02-09,['Ryan Bingham '],['Pop']

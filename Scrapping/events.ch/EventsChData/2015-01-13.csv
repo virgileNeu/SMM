@@ -1,12 +1,12 @@
-location,event,date,artists,genre
-Zürich,Spoerri-Ramseyer,2015-01-13,"[' Bruno Spoerri ', ' Urs Ramseyer ']",
-Zürich,Orgelfest,2015-01-13,"['Herbert Christ ', ' Frazer Gartshore ']",Classic
-Winterthur,Ein-exquisiter-Sonatenabend,2015-01-13,"['Roberto González Monjas ', ' Kit Armstrong ']",Classic
-Zürich,Konzert,2015-01-13,[' Nicholas Angelich '],Classic
-Basel,AMG-Rising-Stars,2015-01-13,['Ksenija Sidorova '],Classic
-Zürich,Komm-mach-mal-Licht,2015-01-13,"['Barbara Baer ', ' Hanspeter Seipp ']",Classic
-Aarau,Faces,2015-01-13,"[' ', ' Nebojsa Bugarski ', ' Urs Brügger ', ' Vera Leibacher ', ' Omar Zoboli ']",Classic
-Zürich,Addys-Mercedes,2015-01-13,"['Addys Mercedes ', ' Addys Mercedes ', ' Cae Davis ', ' Pomez di Lorenzo ', ' Lia ']",
-Basel,Soul-Tango-Invasion,2015-01-13,"[' Matthieu Michel ', ' Michael Zisman ', ' Sebastien Fulgido ']",
-Zürich,Ihr-ergebener-Paul-Burkhard,2015-01-13,"[' Daniel Fueter ', ' Risch Birt ', ' Rea Claudia Kost ', ' Sämi Zünd ']",Pop
-Luzern,Workshopkonzerte,2015-01-13,"[' David Rufer ', ' Nicolas Gurtner ', ' Manuel Büchel ', ' Benjamin Kieser ', ' Freddy Benitez ', ' Jonas Albrecht ']",
+,location,event,date,artists,genre
+0,Z?rich,Spoerri-Ramseyer,2015-01-13,"[' Bruno Spoerri ', ' Urs Ramseyer ']","['Jazz', 'Blues', 'Soul']"
+1,Basel,AMG-Rising-Stars,2015-01-13,['Ksenija Sidorova '],['Classic']
+2,Winterthur,Ein-exquisiter-Sonatenabend,2015-01-13,"['Roberto Gonz?lez Monjas ', ' Kit Armstrong ']",['Classic']
+3,Z?rich,Konzert,2015-01-13,[' Nicholas Angelich '],['Classic']
+4,Z?rich,Orgelfest,2015-01-13,"['Herbert Christ ', ' Frazer Gartshore ']",['Classic']
+5,Z?rich,Komm-mach-mal-Licht,2015-01-13,"['Barbara Baer ', ' Hanspeter Seipp ']",['Classic']
+6,Aarau,Faces,2015-01-13,"[' ', ' Nebojsa Bugarski ', ' Urs Br?gger ', ' Vera Leibacher ', ' Omar Zoboli ']",['Classic']
+7,Z?rich,Ihr-ergebener-Paul-Burkhard,2015-01-13,"[' Daniel Fueter ', ' Risch Birt ', ' Rea Claudia Kost ', ' S?mi Z?nd ']",['Pop']
+8,Z?rich,Addys-Mercedes,2015-01-13,"['Addys Mercedes ', ' Addys Mercedes ', ' Cae Davis ', ' Pomez di Lorenzo ', ' Lia ']","['world', 'music']"
+9,Luzern,Workshopkonzerte,2015-01-13,"[' David Rufer ', ' Nicolas Gurtner ', ' Manuel B?chel ', ' Benjamin Kieser ', ' Freddy Benitez ', ' Jonas Albrecht ']","['Jazz', 'Blues', 'Soul']"
+10,Basel,Soul-Tango-Invasion,2015-01-13,"[' Matthieu Michel ', ' Michael Zisman ', ' Sebastien Fulgido ']","['Jazz', 'Blues', 'Soul']"

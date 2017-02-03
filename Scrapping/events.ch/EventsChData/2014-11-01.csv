@@ -1,57 +1,55 @@
-location,event,date,artists,genre
-Winterthur,In-Memoriam-Haig-Manoukian,2014-11-01,"[' Souren Baronian ', ' Cornelia Kraft ', ' Roger Girod ']",
-Zürich,Allerheiligen,2014-11-01,"['Fabian Gubser ', ' Felix Gubser ']",Classic
-Zürich,Jazznojazz,2014-11-01,"[' Irène Schweizer ', ' Jürg Wickihalder ']",
-null,2.-Kammerkonzert,2014-11-01,"['Matthias Walpen ', ' Witold Moniewski ', ' Polina Peskina ', ' Markus Niederhauser ', ' Michael Mansson ', ' Andreas Gerber ']",Classic
-Zürich,Werner-und-Company,2014-11-01,['Werner und Company '],Pop
-Basel,Orgel-Fantasien,2014-11-01,['Andreas Jost '],Classic
-Basel,Der-Kastrat-als-Spion,2014-11-01,"[' Simone Haering ', ' Dan Wiener ', ' Sara Bino ', ' Flavio Ferri-Benedetti ']",Classic
-Kriens,B-Sides-Indoor-Festival,2014-11-01,['Jonathan Toubin '],
-Luzern,B-Sides-Indoor-Festival,2014-11-01,"['Peaking Lights ', ' Son Lux ', ' Toumani & Sidiki ', ' Peter Broderick ']",Pop
-Zürich,Lift-Up-My-Soul,2014-11-01,[' Peter Freitag '],Classic
-Basel,Bury-Tomorrow,2014-11-01,"['Bury Tomorrow ', ' Hands Like Houses ']",
-Zürich,Jazznojazz,2014-11-01,[' Jojo Mayer '],
-Arlesheim,Musique-de-la-Chambre-du-Roi-mit-Nuria-Rial,2014-11-01,"[' Nuria Rial ', ' Sergio Alvares ', ' Eduardo Egüez ']",Classic
-Basel,Spicy,2014-11-01,[' conductor: Meret Lüthi '],Classic
-Zürich,Rhythm-&-Romance,2014-11-01,[' Thomas Grossenbacher '],Classic
-Kriens,B-Sides-Indoor-Festival,2014-11-01,"['Sun Club ', ' Andra Kouyaté & Le Magic Foli ', ' Peaking Lights ']",
-Basel,Faszination-Arkadien,2014-11-01,"[' Anne Schmid ', ' Giancarlo Pontiggia ']",Classic
-Zürich,Viva-Caribe-Latin-Festival,2014-11-01,[' live: Pupy Y Los Que Son Son '],
-Bern,Starbugs,2014-11-01,['Starbugs '],
-Zürich,Opeth,2014-11-01,['Opeth '],
-Aarau,Truckfighters,2014-11-01,"['Truckfighters ', ' White Miles ', ' Witchrider ']",
-Pratteln,Bigelf,2014-11-01,['Bigelf '],
-Zürich,Jazznojazz,2014-11-01,"[' Jay Beckenstein ', ' Tom Schuman ', ' Julio Fernandez ', ' Scott Ambush ', ' Lee Pearson ']",
-Basel,Seat-Music-Session,2014-11-01,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",Pop
-Zürich,Schmaz-and-The-Fabulous-Jukebox,2014-11-01,"[' Gallus Hächler ', ' Marcel Benedikt ', ' Rainer Fröhlich ']",Pop
-Winterthur,Patchwork-Classics,2014-11-01,"[' Giovanni Reber ', ' Michael Giertz ']",Classic
-Aarau,Vierfältig-Schweizer-Klänge-damals-und-heute,2014-11-01,"[' works by Caroline Charrière ', ' Helena Winkelman ']",Classic
-Münchenbuchsee,Guten-Abend-Gut'-Nacht,2014-11-01,[' Marc Golta '],Classic
-Zürich,Pan,2014-11-01,[' works by Martin Baumgartner '],Classic
-Luzern,Irish-Folk-Festival,2014-11-01,"['Goitse ', ' Niamh Dunne & Sean Óg Graham ', ' Réalta ', ' Dónal Clancy ']",
-Winterthur,Mugshot,2014-11-01,"[' Dave Meier ', ' Oliver Gywat ', ' Fredi Meier ']",
-Zürich,Pierre-Omer's-Swing-Revue,2014-11-01,[' Mirel Wagner '],
-Baden,Wynavalley-Oldtime-Jazzband,2014-11-01,"[' Peter C. Beyeler ', ' Shilo Buck ', ' Werner Gisin ', ' Heinz Glauser ', ' Max Keller ', ' Walter Daetwyler ', ' Special Guest Jo Bachmann ']",
-Baden,Hommage-an-Edith-Piaf,2014-11-01,"[' Stella Palino ', ' Charlotte Torres ']",Pop
-Zug,Cara,2014-11-01,['Cara '],
-Zürich,Aziz-Sahmaoui-&-the-University-of-Gnawa,2014-11-01,"['Aziz Sahmaoui & the University of Gnawa ', ' Aziz Sahmaoui ', ' Hervé Sambe ', ' Alioune Wade ', ' Cheikh Dialoo ', ' Adhil Mirghani ']",
-Basel,Taiichi-Kamimura-&-Chris-Wiesendanger-Quartet,2014-11-01,"[' Taiichi Kamimura ', ' Chris Wiesendanger ', ' Hiroshi Yoshino ', ' Manabu Hashimoto ']",
-Uster,Brodbeck-Su,2014-11-01,"[' Jean-Paul Brodbeck ', ' Nat Su ']",
-Aarau,Kishi-Bashi,2014-11-01,['Kishi Bashi '],Pop
-Lyss,Popa-Chubby,2014-11-01,['Popa Chubby '],
-Zürich,Ryan-Leslie-&-Band,2014-11-01,['Ryan Leslie & Band '],
-Lausanne,The-Notwist,2014-11-01,"['The Notwist ', ' Joasihno ']",
-null,Okinawa,2014-11-01,"[' Alex Rapin ', ' Morgan Leuthold ', ' Mathieu Zollinger ', ' Cyril Prélaz ', ' Loïc Rossier ']",
-Basel,Dena,2014-11-01,['Dena '],
-Schaffhausen,Aynsley-Lister,2014-11-01,['Aynsley Lister '],
-Zürich,Stereo-MCs,2014-11-01,['Stereo MCs '],
-Weissbad,Blues-Tage,2014-11-01,"[' Walter Baumgartner ', ' Sam Burckhardt ', ' Joel Allison ', ' Andreas Schmid ', ' Elias Bernet ']",
-Dietikon,Goran-Bregovic,2014-11-01,['Goran Bregovic '],
-Zürich,Bee-Johnson,2014-11-01,"[' Bee Johnson ', ' Andrina Bollinger ', ' Hannah Bissegger ', ' Michel Spahr ']",Pop
-Zürich,Jazznojazz,2014-11-01,['Ayo '],
-Zürich,Jazznojazz,2014-11-01,"['Ed Motta ', ' Ed Motta ', ' Paulinho Guitarra ', ' Hannes Huefken ', ' Miguel Casais ']",
-Bern,John-Lewis,2014-11-01,['John Lewis '],
-Basel,Björn-Peng,2014-11-01,"['Björn Peng ', ' 100 Blumen ', ' Alfatec ']",
-Sankt-Gallen,Lee-Fields-&-The-Expressions,2014-11-01,['Lee Fields & The Expressions '],
-Zürich,Jazznojazz,2014-11-01,"[' Paulo Mendonça ', ' Joerg Dudys ', ' Sevan Gökoglu ', ' Robbee Mariano ', ' Ralf Gustke ']",
-Schaffhausen,Cigani-Disko,2014-11-01,"['Karikatura ', ' Erik & The Worldly Savages ']",
+,location,event,date,artists,genre
+0,Winterthur,In-Memoriam-Haig-Manoukian,2014-11-01,"[' Souren Baronian ', ' Cornelia Kraft ', ' Roger Girod ']","['Jazz', 'Blues', 'Soul']"
+1,Z?rich,Allerheiligen,2014-11-01,"['Fabian Gubser ', ' Felix Gubser ']",['Classic']
+2,Z?rich,Jazznojazz,2014-11-01,"[' Ir?ne Schweizer ', ' J?rg Wickihalder ']","['Jazz', 'Blues', 'Soul']"
+3,null,2.-Kammerkonzert,2014-11-01,"['Matthias Walpen ', ' Witold Moniewski ', ' Polina Peskina ', ' Markus Niederhauser ', ' Michael Mansson ', ' Andreas Gerber ']",['Classic']
+4,Z?rich,Werner-und-Company,2014-11-01,['Werner und Company '],['Pop']
+5,Basel,Der-Kastrat-als-Spion,2014-11-01,"[' Simone Haering ', ' Dan Wiener ', ' Sara Bino ', ' Flavio Ferri-Benedetti ']",['Classic']
+6,Basel,Orgel-Fantasien,2014-11-01,['Andreas Jost '],['Classic']
+7,Luzern,B-Sides-Indoor-Festival,2014-11-01,"[' Sidiki ', ' Peter Broderick ']",['Pop']
+8,Kriens,B-Sides-Indoor-Festival,2014-11-01,['Jonathan Toubin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Lift-Up-My-Soul,2014-11-01,[' Peter Freitag '],['Classic']
+10,Basel,Bury-Tomorrow,2014-11-01,"['Bury Tomorrow ', ' Hands Like Houses ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,Jazznojazz,2014-11-01,[' Jojo Mayer '],"['Jazz', 'Blues', 'Soul']"
+12,Z?rich,Rhythm-&-Romance,2014-11-01,[' Thomas Grossenbacher '],['Classic']
+13,Basel,Faszination-Arkadien,2014-11-01,"[' Anne Schmid ', ' Giancarlo Pontiggia ']",['Classic']
+14,Z?rich,Viva-Caribe-Latin-Festival,2014-11-01,[' live: Pupy Y Los Que Son Son '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+15,Arlesheim,Musique-de-la-Chambre-du-Roi-mit-Nuria-Rial,2014-11-01,"[' Nuria Rial ', ' Sergio Alvares ', ' Eduardo Eg?ez ']",['Classic']
+16,Basel,Spicy,2014-11-01,[' conductor: Meret L?thi '],['Classic']
+17,Bern,Starbugs,2014-11-01,['Starbugs '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Aarau,Truckfighters,2014-11-01,"['Truckfighters ', ' White Miles ', ' Witchrider ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Basel,Seat-Music-Session,2014-11-01,"['Saint Lu ', ' Marc Broussard ', ' Cleo Higgins ']",['Pop']
+20,Z?rich,Schmaz-and-The-Fabulous-Jukebox,2014-11-01,"[' Gallus H?chler ', ' Marcel Benedikt ', ' Rainer Fr?hlich ']",['Pop']
+21,M?nchenbuchsee,Guten-Abend-Gut'-Nacht,2014-11-01,[' Marc Golta '],['Classic']
+22,Winterthur,Patchwork-Classics,2014-11-01,"[' Giovanni Reber ', ' Michael Giertz ']",['Classic']
+23,Z?rich,Pan,2014-11-01,[' works by Martin Baumgartner '],['Classic']
+24,Z?rich,Opeth,2014-11-01,['Opeth '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Z?rich,Jazznojazz,2014-11-01,"[' Jay Beckenstein ', ' Tom Schuman ', ' Julio Fernandez ', ' Scott Ambush ', ' Lee Pearson ']","['Jazz', 'Blues', 'Soul']"
+26,Luzern,Irish-Folk-Festival,2014-11-01,"[' Sean ?g Graham ', ' R?alta ', ' D?nal Clancy ']","['world', 'music']"
+27,Pratteln,Bigelf,2014-11-01,['Bigelf '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Aarau,Vierf?ltig-Schweizer-Kl?nge-damals-und-heute,2014-11-01,"[' works by Caroline Charri?re ', ' Helena Winkelman ']",['Classic']
+29,Winterthur,Mugshot,2014-11-01,"[' Dave Meier ', ' Oliver Gywat ', ' Fredi Meier ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Z?rich,Pierre-Omer's-Swing-Revue,2014-11-01,[' Mirel Wagner '],"['Jazz', 'Blues', 'Soul']"
+31,Zug,Cara,2014-11-01,['Cara '],"['world', 'music']"
+32,Aarau,Kishi-Bashi,2014-11-01,['Kishi Bashi '],['Pop']
+33,Basel,Taiichi-Kamimura-&-Chris-Wiesendanger-Quartet,2014-11-01,"[' Taiichi Kamimura ', ' Chris Wiesendanger ', ' Hiroshi Yoshino ', ' Manabu Hashimoto ']","['Jazz', 'Blues', 'Soul']"
+34,Uster,Brodbeck-Su,2014-11-01,"[' Jean-Paul Brodbeck ', ' Nat Su ']","['Jazz', 'Blues', 'Soul']"
+35,Baden,Wynavalley-Oldtime-Jazzband,2014-11-01,"[' Peter C. Beyeler ', ' Shilo Buck ', ' Werner Gisin ', ' Heinz Glauser ', ' Max Keller ', ' Walter Daetwyler ', ' Special Guest Jo Bachmann ']","['Jazz', 'Blues', 'Soul']"
+36,Baden,Hommage-an-Edith-Piaf,2014-11-01,"[' Stella Palino ', ' Charlotte Torres ']",['Pop']
+37,Z?rich,Aziz-Sahmaoui-&-the-University-of-Gnawa,2014-11-01,"[' the University of Gnawa ', ' Aziz Sahmaoui ', ' Herv? Sambe ', ' Alioune Wade ', ' Cheikh Dialoo ', ' Adhil Mirghani ']","['world', 'music']"
+38,Lyss,Popa-Chubby,2014-11-01,['Popa Chubby '],"['Jazz', 'Blues', 'Soul']"
+39,Z?rich,Stereo-MCs,2014-11-01,['Stereo MCs '],"['Hip', 'Hop', ""R'n'B""]"
+40,null,Okinawa,2014-11-01,"[' Alex Rapin ', ' Morgan Leuthold ', ' Mathieu Zollinger ', ' Cyril Pr?laz ', ' Lo?c Rossier ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+41,Weissbad,Blues-Tage,2014-11-01,"[' Walter Baumgartner ', ' Sam Burckhardt ', ' Joel Allison ', ' Andreas Schmid ', ' Elias Bernet ']","['Jazz', 'Blues', 'Soul']"
+42,Schaffhausen,Aynsley-Lister,2014-11-01,['Aynsley Lister '],"['Jazz', 'Blues', 'Soul']"
+43,Basel,Dena,2014-11-01,['Dena '],"['Hip', 'Hop', ""R'n'B""]"
+44,Lausanne,The-Notwist,2014-11-01,"['The Notwist ', ' Joasihno ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+45,Dietikon,Goran-Bregovic,2014-11-01,['Goran Bregovic '],"['world', 'music']"
+46,Bern,John-Lewis,2014-11-01,['John Lewis '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+47,Basel,Bj?rn-Peng,2014-11-01,"['Bj?rn Peng ', ' 100 Blumen ', ' Alfatec ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+48,Z?rich,Jazznojazz,2014-11-01,['Ayo '],"['Jazz', 'Blues', 'Soul']"
+49,Z?rich,Jazznojazz,2014-11-01,"['Ed Motta ', ' Ed Motta ', ' Paulinho Guitarra ', ' Hannes Huefken ', ' Miguel Casais ']","['Jazz', 'Blues', 'Soul']"
+50,Sankt-Gallen,Lee-Fields-&-The-Expressions,2014-11-01,[' The Expressions '],"['Hip', 'Hop', ""R'n'B""]"
+51,Z?rich,Bee-Johnson,2014-11-01,"[' Bee Johnson ', ' Andrina Bollinger ', ' Hannah Bissegger ', ' Michel Spahr ']",['Pop']
+52,Z?rich,Jazznojazz,2014-11-01,"[' Paulo Mendon?a ', ' Joerg Dudys ', ' Sevan G?koglu ', ' Robbee Mariano ', ' Ralf Gustke ']","['Jazz', 'Blues', 'Soul']"
+53,Schaffhausen,Cigani-Disko,2014-11-01,[' The Worldly Savages '],"['world', 'music']"

@@ -1,21 +1,21 @@
-location,event,date,artists,genre
-Zürich,Mittagsmusik,2015-02-04,"['Barbara Böhi ', ' Tobias Cramm ']",Classic
-Basel,Fas(ten)nachtsimpressionen,2015-02-04,['Urs Höchle '],Classic
-Basel,Divers-divertissements-d'hiver,2015-02-04,"[' Susanne Mathé ', ' Isabelle Ladewig ', ' Stella Mahrenholz ', ' Stéphanie Meyer ', ' Jan Schultsz ']",Classic
-Zürich,Tonhalle-Orchester-Zürich,2015-02-04,"[' Hana Blazíková ', ' Tilman Lichdi ', ' Andreas Weller ', ' Klaus Mertens ']",Classic
-Zürich,Stephan-Schmidt-und-I-Tempi,2015-02-04,[' Stephan Schmidt '],Classic
-Baden,One-of-a-Million,2015-02-04,['Neøv '],
-Basel,Atmosphères,2015-02-04,[' Francesco Piemontesi '],Classic
-Luzern,Sinfoniekonzert,2015-02-04,[' Rafa Blechacz '],Classic
-Zürich,Pools,2015-02-04,"[' Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']",Pop
-Zürich,Steamboat-Switzerland,2015-02-04,"[' Dominik Blum ', ' Marino Pliakas ', ' Lucas Niggli ']",
-null,Duach-feat.-Grainne-Hunt,2015-02-04,['Duach feat. Grainne Hunt '],
-Zürich,Jazzbaragge-Wednesday-Jam,2015-02-04,"['Jörg Enz ', ' Reinhold Hettich ', ' Jörg Bach ']",
-Luzern,Jam-Night-,2015-02-04,"['Claudio Berger ', ' Flurin Iten ', ' Lukas Derungs ', ' Albon ']",
-Zürich,Bombino,2015-02-04,"['Bombino ', ' Goumour Almoctar ', ' Dia Djakrave ', ' Avi Salloway ', ' Corey Wilhelm ']",
-Bern,Necro,2015-02-04,['Necro '],
-Basel,Lisette-Spinnler-Quartet,2015-02-04,"[' Lisette Spinnler ', ' Stefan Aeby ', ' Patrice Moret ', ' Michi Stulz ']",
-Wädenswil,Suisse-Diagonales-Jazz,2015-02-04,"[' Florian Favre ', ' Manu Hagmann ', ' Alexandre Maurer ', ' Nicole Johänntgen ', ' Marc Mean ', ' Thomas Lähns ', ' Bodek Janke ']",
-Basel,Extrafish,2015-02-04,"[' DJs Valentin Baumgartner ', ' Andi Bissig ', ' Jonas Künzli ', ' Adrian Böckli ']",
-Baden,One-of-a-Million,2015-02-04,['Kins '],
-Baden,One-of-a-Million,2015-02-04,['Erotic Market '],
+,location,event,date,artists,genre
+0,Z?rich,Mittagsmusik,2015-02-04,"['Barbara B?hi ', ' Tobias Cramm ']",['Classic']
+1,Basel,Fas(ten)nachtsimpressionen,2015-02-04,['Urs H?chle '],['Classic']
+2,Basel,Divers-divertissements-d'hiver,2015-02-04,"[' Susanne Math? ', ' Isabelle Ladewig ', ' Stella Mahrenholz ', ' St?phanie Meyer ', ' Jan Schultsz ']",['Classic']
+3,Basel,Atmosph?res,2015-02-04,[' Francesco Piemontesi '],['Classic']
+4,Luzern,Sinfoniekonzert,2015-02-04,[' Rafa Blechacz '],['Classic']
+5,Baden,One-of-a-Million,2015-02-04,['Ne?v '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Tonhalle-Orchester-Z?rich,2015-02-04,"[' Hana Blaz?kov? ', ' Tilman Lichdi ', ' Andreas Weller ', ' Klaus Mertens ']",['Classic']
+7,Z?rich,Stephan-Schmidt-und-I-Tempi,2015-02-04,[' Stephan Schmidt '],['Classic']
+8,Z?rich,Pools,2015-02-04,"[' Yves Martinek ', ' Willy Ramos ', ' Thomas Sonderegger ']",['Pop']
+9,null,Duach-feat.-Grainne-Hunt,2015-02-04,['Duach feat. Grainne Hunt '],"['world', 'music']"
+10,Luzern,Jam-Night-,2015-02-04,"['Claudio Berger ', ' Flurin Iten ', ' Lukas Derungs ', ' Albon ']","['Hip', 'Hop', ""R'n'B""]"
+11,Z?rich,Steamboat-Switzerland,2015-02-04,"[' Dominik Blum ', ' Marino Pliakas ', ' Lucas Niggli ']","['Jazz', 'Blues', 'Soul']"
+12,Z?rich,Jazzbaragge-Wednesday-Jam,2015-02-04,"['J?rg Enz ', ' Reinhold Hettich ', ' J?rg Bach ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Bombino,2015-02-04,"['Bombino ', ' Goumour Almoctar ', ' Dia Djakrave ', ' Avi Salloway ', ' Corey Wilhelm ']","['Jazz', 'Blues', 'Soul']"
+14,Basel,Lisette-Spinnler-Quartet,2015-02-04,"[' Lisette Spinnler ', ' Stefan Aeby ', ' Patrice Moret ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+15,Bern,Necro,2015-02-04,['Necro '],"['Hip', 'Hop', ""R'n'B""]"
+16,W?denswil,Suisse-Diagonales-Jazz,2015-02-04,"[' Florian Favre ', ' Manu Hagmann ', ' Alexandre Maurer ', ' Nicole Joh?nntgen ', ' Marc Mean ', ' Thomas L?hns ', ' Bodek Janke ']","['Jazz', 'Blues', 'Soul']"
+17,Basel,Extrafish,2015-02-04,"[' DJs Valentin Baumgartner ', ' Andi Bissig ', ' Jonas K?nzli ', ' Adrian B?ckli ']","['world', 'music']"
+18,Baden,One-of-a-Million,2015-02-04,['Erotic Market '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Baden,One-of-a-Million,2015-02-04,['Kins '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

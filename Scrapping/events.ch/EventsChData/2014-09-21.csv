@@ -1,43 +1,43 @@
-location,event,date,artists,genre
-Zürich,Musikgottesdienst,2014-09-21,[' Jürg Brunner '],Classic
-Vitznau,Bürgenstock-Momente-Brahms-&-Ungarn,2014-09-21,"['Andreas Ottensamer ', ' Leonidas Kavakos ', ' Christoph Koncz ', ' Antoine Tamestit ']",Classic
-Zürich,Hottinger-Konzert-Matinée,2014-09-21,"['Bettina Boller ', ' Walter Prossnitz ']",Classic
-Zürich,Kammermusik,2014-09-21,"['Josias Just ', ' Kio Seiler ', ' Frauke Tometten Molino ', ' Benjamin Nyffenegger ']",Classic
-Reinach,Mozart-&-More,2014-09-21,"[' Helmut Hödl ', ' Rupert Fankhauser ', ' Hubert Salmhofer ']",Classic
-Basel,Klang-Basel-Musikbiennale,2014-09-21,"[' Hans Feigenwinter ', ' Rudolf Lutz ']",
-Zürich,Nuggi-Konzert,2014-09-21,"['Josias Just ', ' Kio Seiler ', ' Frauke Tometten Molino ', ' Benjamin Nyffenegger ']",Classic
-Lyss,Rockabilly-Festival,2014-09-21,['Dead Beatz '],
-Zürich,Monte-Carlo,2014-09-21,['Monte Carlo '],traditional
-Zürich,Chansons-en-Stok,2014-09-21,['Ignatus et les frères Makouaya '],
-Zürich,Tag-der-Banane,2014-09-21,"['Jamaram ', "" Rider's Connection "", ' Rob Longstaff ']",
-Fischingen,Für-einmal-im-Quartett,2014-09-21,"[' Martin Lucas Staub ', ' Angela Golubeva ', ' Sébastien Singer ', ' Michel Camille ']",Classic
-null,Chorkonzert,2014-09-21,"[' Jürgen Waidele ', ' Peter Erdrich ']",
-Zürich,Bettags-Konzert,2014-09-21,[' Manuela Fuchs '],Classic
--Alte-Kirche,Boswil,2014-09-21,['Claire Huangci '],Classic
-Zug,Scala-Nobile-feat.-Paul-McCandless-&-Antonello-Messina,2014-09-21,"[' Sandro Schneebeli ', ' Paul McCandless ', ' Antonello Messina ', ' Mohamed Medhat ', ' Stephan Rigert ', ' Eduardo ""Dudu"" Penz ', ' Samuel Baur ']",
-Aarau,Symphoniekonzert-Pathétique,2014-09-21,[' Nicolas Altstaedt '],Classic
-Schindellegi,Jubiläumskonzert,2014-09-21,[' Patricia Ulrich '],Classic
-Zürich,Konzert-am-Bettag,2014-09-21,"[' Amanda Schweri ', ' Yeon-Jeong Jeong ', ' Christine Guggenbühl ']",Classic
-Basel,Händel-Mendelssohn-Beethoven,2014-09-21,"[' Heidi Wölnerhanssen ', ' Roswitha Müller ', ' Christian Zenker ', ' Robert Koller ']",Classic
-Volketswil,Volketswiler-Abendmusik,2014-09-21,['Emanuele Jannibelli '],Classic
-Basel,Madrigale-und-Motetten,2014-09-21,"[' Soma Salat-Zakarias ', ' Mirko Arnone ']",Classic
-Brig,Spektrum-Akztente-Carpe-diem,2014-09-21,"[' Marisa Waldburger ', ' Marielle Oggier ', ' Dominique Gisler ', ' Ursula Hächler ', ' Kiyomi Higaki ']",Classic
-Zürich,Klavierrezital,2014-09-21,['Theo Wegmann '],Classic
-Zürich,Bettagskonzert,2014-09-21,"[' Seraina Perrenoud ', ' Fabienne Skarpetowski ', ' Richard Resch ', ' Ernst Buscagne ']",Classic
-Meilen,Händel-und-die-kleine-Königin-Barocke-Musik-zum-Bettag,2014-09-21,"[' Christine Esser ', ' Johanna Pfister ', ' Yves Bilger ', ' Thomas Meraner ']",Classic
-null,Bendorim,2014-09-21,"[' Dela Hüttner ', ' Karin Meier ', ' Jürg Luchsinger ', ' Stefanie Kunckler ']",Classic
-Zürich,Venezia-Musik-aus-San-Marco,2014-09-21,[' Adrien Pièce '],Classic
-Zürich,Konzert,2014-09-21,"[' Maria C. Schmid ', ' Davide Fior ', ' René Koch ']",Classic
-Wädenswil,Fürstliche-Unterhaltung,2014-09-21,"[' Katharina Suske ', ' Anais Chen ', ' Martina Bischof ', ' Bernhard Maurer ', ' Jan Krigovsky ']",Classic
-Zürich,Klavierabend,2014-09-21,['Matthias Roth '],Classic
-Luzern,World-Band-Festival-Popular-Symponic-Winds,2014-09-21,[' Christian Wirth '],traditional
-Zürich,Hits-Recycled-Round-6,2014-09-21,"[' Fabienne Hörni ', ' Rahel Thierstein ', ' Jean-Pierre Schaller ', ' Raphael Pedroli ', ' Florian Favre ', ' Christoph Utzinger ', ' Domi Chansorn ']",
-Horgen,Bettagskonzert,2014-09-21,"['Carmela Konrad ', ' Frits Damrow ', ' Philipp Mestrinel ']",Classic
-Brugg,Julie-Fahrer,2014-09-21,"[' Julie Fahrer ', ' Octave Moritz ', ' Sebastian Hirsig ', ' Hagen Neye ', ' Christian Norz ']",
-Zürich,Pharrell-Williams,2014-09-21,['Pharrell Williams '],Pop
-Winterthur,Betinko-Social-Muzík-Orkestar,2014-09-21,"[' Betinko ', ' David Koch ', ' Claude Meier ', ' Emanuel Küenzi ']",
-Pratteln,Spock's-Beard,2014-09-21,"[""Spock's Beard ""]",
-Hombrechtikon,Bettagskonzert,2014-09-21,[' works by Carl Rütti '],Classic
-null,This-Will-Destroy-You,2014-09-21,"['This Will Destroy You ', ' Lymbyc Systym ']",
-Thun,Konzert,2014-09-21,[' Alexandre Dubach '],Classic
-Lausanne,Xzibit,2014-09-21,"['Xzibit ', ' Demrick ', ' B-Real ']",
+,location,event,date,artists,genre
+0,Z?rich,Musikgottesdienst,2014-09-21,[' J?rg Brunner '],['Classic']
+1,Z?rich,Hottinger-Konzert-Matin?e,2014-09-21,"['Bettina Boller ', ' Walter Prossnitz ']",['Classic']
+2,Vitznau,B?rgenstock-Momente-Brahms-&-Ungarn,2014-09-21,"['Andreas Ottensamer ', ' Leonidas Kavakos ', ' Christoph Koncz ', ' Antoine Tamestit ']",['Classic']
+3,Z?rich,Kammermusik,2014-09-21,"['Josias Just ', ' Kio Seiler ', ' Frauke Tometten Molino ', ' Benjamin Nyffenegger ']",['Classic']
+4,Reinach,Mozart-&-More,2014-09-21,"[' Helmut H?dl ', ' Rupert Fankhauser ', ' Hubert Salmhofer ']",['Classic']
+5,Basel,Klang-Basel-Musikbiennale,2014-09-21,"[' Hans Feigenwinter ', ' Rudolf Lutz ']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Nuggi-Konzert,2014-09-21,"['Josias Just ', ' Kio Seiler ', ' Frauke Tometten Molino ', ' Benjamin Nyffenegger ']",['Classic']
+7,Lyss,Rockabilly-Festival,2014-09-21,['Dead Beatz '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Z?rich,Monte-Carlo,2014-09-21,['Monte Carlo '],['traditional']
+9,Z?rich,Chansons-en-Stok,2014-09-21,['Ignatus et les fr?res Makouaya '],"['world', 'music']"
+10,Fischingen,F?r-einmal-im-Quartett,2014-09-21,"[' Martin Lucas Staub ', ' Angela Golubeva ', ' S?bastien Singer ', ' Michel Camille ']",['Classic']
+11,Z?rich,Tag-der-Banane,2014-09-21,"['Jamaram ', "" Rider's Connection "", ' Rob Longstaff ']","['Hip', 'Hop', ""R'n'B""]"
+12,Z?rich,Bettagskonzert,2014-09-21,"[' Seraina Perrenoud ', ' Fabienne Skarpetowski ', ' Richard Resch ', ' Ernst Buscagne ']",['Classic']
+13,Z?rich,Bettags-Konzert,2014-09-21,[' Manuela Fuchs '],['Classic']
+14,Brig,Spektrum-Akztente-Carpe-diem,2014-09-21,"[' Marisa Waldburger ', ' Marielle Oggier ', ' Dominique Gisler ', ' Ursula H?chler ', ' Kiyomi Higaki ']",['Classic']
+15,-Alte-Kirche,Boswil,2014-09-21,['Claire Huangci '],['Classic']
+16,null,Chorkonzert,2014-09-21,"[' J?rgen Waidele ', ' Peter Erdrich ']","['Jazz', 'Blues', 'Soul']"
+17,Basel,H?ndel-Mendelssohn-Beethoven,2014-09-21,"[' Heidi W?lnerhanssen ', ' Roswitha M?ller ', ' Christian Zenker ', ' Robert Koller ']",['Classic']
+18,Z?rich,Konzert-am-Bettag,2014-09-21,"[' Amanda Schweri ', ' Yeon-Jeong Jeong ', ' Christine Guggenb?hl ']",['Classic']
+19,Z?rich,Klavierrezital,2014-09-21,['Theo Wegmann '],['Classic']
+20,Meilen,H?ndel-und-die-kleine-K?nigin-Barocke-Musik-zum-Bettag,2014-09-21,"[' Christine Esser ', ' Johanna Pfister ', ' Yves Bilger ', ' Thomas Meraner ']",['Classic']
+21,Volketswil,Volketswiler-Abendmusik,2014-09-21,['Emanuele Jannibelli '],['Classic']
+22,Aarau,Symphoniekonzert-Path?tique,2014-09-21,[' Nicolas Altstaedt '],['Classic']
+23,Basel,Madrigale-und-Motetten,2014-09-21,"[' Soma Salat-Zakarias ', ' Mirko Arnone ']",['Classic']
+24,Zug,Scala-Nobile-feat.-Paul-McCandless-&-Antonello-Messina,2014-09-21,"[' Sandro Schneebeli ', ' Paul McCandless ', ' Antonello Messina ', ' Mohamed Medhat ', ' Stephan Rigert ', ' Eduardo ""Dudu"" Penz ', ' Samuel Baur ']","['world', 'music']"
+25,Schindellegi,Jubil?umskonzert,2014-09-21,[' Patricia Ulrich '],['Classic']
+26,null,Bendorim,2014-09-21,"[' Dela H?ttner ', ' Karin Meier ', ' J?rg Luchsinger ', ' Stefanie Kunckler ']",['Classic']
+27,Z?rich,Konzert,2014-09-21,"[' Maria C. Schmid ', ' Davide Fior ', ' Ren? Koch ']",['Classic']
+28,Z?rich,Venezia-Musik-aus-San-Marco,2014-09-21,[' Adrien Pi?ce '],['Classic']
+29,W?denswil,F?rstliche-Unterhaltung,2014-09-21,"[' Katharina Suske ', ' Anais Chen ', ' Martina Bischof ', ' Bernhard Maurer ', ' Jan Krigovsky ']",['Classic']
+30,Z?rich,Klavierabend,2014-09-21,['Matthias Roth '],['Classic']
+31,Luzern,World-Band-Festival-Popular-Symponic-Winds,2014-09-21,[' Christian Wirth '],['traditional']
+32,Z?rich,Pharrell-Williams,2014-09-21,['Pharrell Williams '],['Pop']
+33,Horgen,Bettagskonzert,2014-09-21,"['Carmela Konrad ', ' Frits Damrow ', ' Philipp Mestrinel ']",['Classic']
+34,Z?rich,Hits-Recycled-Round-6,2014-09-21,"[' Fabienne H?rni ', ' Rahel Thierstein ', ' Jean-Pierre Schaller ', ' Raphael Pedroli ', ' Florian Favre ', ' Christoph Utzinger ', ' Domi Chansorn ']","['Jazz', 'Blues', 'Soul']"
+35,Brugg,Julie-Fahrer,2014-09-21,"[' Julie Fahrer ', ' Octave Moritz ', ' Sebastian Hirsig ', ' Hagen Neye ', ' Christian Norz ']","['Jazz', 'Blues', 'Soul']"
+36,Winterthur,Betinko-Social-Muz?k-Orkestar,2014-09-21,"[' Betinko ', ' David Koch ', ' Claude Meier ', ' Emanuel K?enzi ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,null,This-Will-Destroy-You,2014-09-21,"['This Will Destroy You ', ' Lymbyc Systym ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+38,Pratteln,Spock's-Beard,2014-09-21,"[""Spock's Beard ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+39,Hombrechtikon,Bettagskonzert,2014-09-21,[' works by Carl R?tti '],['Classic']
+40,Thun,Konzert,2014-09-21,[' Alexandre Dubach '],['Classic']
+41,Lausanne,Xzibit,2014-09-21,"['Xzibit ', ' Demrick ', ' B-Real ']","['Hip', 'Hop', ""R'n'B""]"

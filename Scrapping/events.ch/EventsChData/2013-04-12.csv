@@ -1,61 +1,58 @@
-location,event,date,artists,genre
-Basel,Mittagskonzert,2013-04-12,"['Katia Viel ', ' Teodoro Bau ', ' Keiko Kinoshita ', ' Eloy Orzaiz ']",Classic
-Obere-Matten,Zermatt,2013-04-12,['Pedro Franco '],
-Zürich,Prélude-Alban-Berg,2013-04-12,"['Domen Marn ', ' Anne Battegay ', ' Yulia Miloslavskaya ']",Classic
-Basel,Orgelspiel-zum-Feierabend,2013-04-12,['Dieter Lämmlin '],Classic
-Stans,Stanser-Musiktage,2013-04-12,['Reut Regev '],
-Herzogenbuchsee,From-This-Day-On,2013-04-12,"['From This Day On ', ' Every Reason To ']",
-Cully-Jazz-Festival,Cully,2013-04-12,['Gianmaria Testa & Gabriele Mirabassi Duo '],
-Bern,Internationales-Jazzfestival-Bern,2013-04-12,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']",
-Zürich,Konzert,2013-04-12,[' Christian Tetzlaff '],Classic
-Obere-Matten,Zermatt,2013-04-12,['Marianne Faithfull '],
-Bern,Migros-Kulturprozent-Classics,2013-04-12,"[' Marie-Nicole Lemieux ', ' Thomas Grossenbacher ']",Classic
-Stans,Stanser-Musiktage,2013-04-12,"[' Ursina Giger ', ' Laura Decurtins ', ' Freddy Manser ', ' Guido Decurtins ', ' Michel Estermann ', ' Augustin Maissen ', ' Andriu Maissen ']",
-Schützenhaus-Albisgütli,Zürich,2013-04-12,['Earl Thomas & Band '],
-Pratteln,Blutengel,2013-04-12,['Blutengel '],
-Zürich,Canto-General,2013-04-12,"[' Anna Schaffner ', ' Rainer Weiss ']",Classic
-Hallenstadion,Zürich,2013-04-12,['Chris de Burgh & Band '],
-Hotel-Krone,Aarberg,2013-04-12,['The Big Chris Barber Band '],
-Kaufleuten,Zürich,2013-04-12,['Woodkid '],Woodkid
-Stans,Stanser-Musiktage,2013-04-12,"['Kottarashky & The Rain Dogs ', ' Aleksandar Dobrev ', ' Hristo Hadzhiganchev ', ' Yordan Geshakov ', ' Atanas Popov ']",
-Stans,Stanser-Musiktage,2013-04-12,"['Arianna Savall & Petter Udland Johansen ', ' Arianna Savall ', ' Petter Udland Johansen ', ' Seinung Lilleheier ', ' Miquel Angel Cordero ', ' David Mayoral ']",
-Gams,The-Johnny-Trouble-Trio,2013-04-12,['The Johnny Trouble Trio '],
-Mundwerk,Zürich,2013-04-12,['The Toasters '],
-Theater-im-Burgbachkeller,Zug,2013-04-12,"[' Bernhard Bamert ', ' Lukas Mantel ', ' Thomas Lüthi ', ' Andreas Schaerer ', ' Martin Eberle ', ' Peter Rom ']",Tré
-Winterthur,The-Outer-String-Quartet-,2013-04-12,"[' Werner Hasler ', ' Katryn Hasler ', ' Carlo Niederhauser ', ' Julian Sartorius ']",
-Zürich,AnamTara,2013-04-12,"['Anamtara ', ' Sarah Weibel ', ' Sven Kohler ', ' Sarah Niederer ']",
-Winterthur,White-Coffee,2013-04-12,"[' Daniela Regnani ', ' David Fehr ', ' Roland Kiefer ', ' Engin ']",
-Zürich,Hearings-3.2,2013-04-12,"['Sandra Weiss ', ' Jürg Gasser ', ' Silvio Cadotsch ', ' Jan Schlegel ', ' David Meier ', ' Marius Peyer ']",
-Mühlethurnen,Mitch-Kashmar-Bluesband,2013-04-12,['Mitch Kashmar Bluesband '],
-Cully-Jazz-Festival,Cully,2013-04-12,"['Steve Coleman & Five Elements ', ' Emile Parisien 4tet ', ' Jonathan Finlayson ', ' Anthony Tidd ', ' Sean Rickman ', ' Olivier Zurkirchen ', ' Lukas Roos ', ' Jeremias Keller ', ' Joel Graf ', ' Gregor Lisser ']",
-Zermatt,Zermatt-Unplugged,2013-04-12,['Morcheeba with Skye '],Electronic
-Cully,Cully-Jazz-Festival,2013-04-12,"[' Jacques Covo ', ' Daniel Falletti ', ' Tox Drohar ']",
-BeJazz-Club-(Vidmarhallen),Liebefeld,2013-04-12,"[' Yael Miller ', ' Julie Campiche ', ' Manu Hagmann ', ' Roland Merlinc ']",Orioxy
-Dübendorf,Sonja-Huber-Quartett,2013-04-12,"[' Sonja Huber ', ' Mathias Siegrist ', ' Luca Sisera ', ' Valeria Zangger ']",
-Jona,Berg-Ruosch-Janett,2013-04-12,"[' Curdin Janett ', ' David Ruosch ', ' Lisa Berg ']",Pop
-Basel,Robert-Lakatos-Quartet-feat.-Greg-Hutchinson,2013-04-12,"[' Gábor Bolla ', ' Robert Lakatos ', ' Christian Lakatos ', ' Greg Hutchinson ']",
-Zürich,Portico-Quartet,2013-04-12,['Portico Quartet '],
-Pratteln,Pat-Mcmanus,2013-04-12,['Pat Mcmanus '],
-Théâtre-du-Léman,null,2013-04-12,['Roch Voisine '],
-Luzern,Guns-Love-Stories,2013-04-12,['Guns Love Stories '],
-Cully,Cully-Jazz-Festival,2013-04-12,['Kouyaté & Neerman '],
-Cully,Cully-Jazz-Festival,2013-04-12,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-Reitschule-Dachstock,Bern,2013-04-12,['Balkan Beat Box '],
-Zürich,Pat-Kelly-Rude-Rich-&-The-High-Notes,2013-04-12,"['Pat Kelly ', ' Rude Rich & The High Notes ']",
-Zürich,Pat-Kelly-Rude-Rich-&-The-High-Notes,2013-04-12,"['Pat Kelly ', ' Rude Rich & The High Notes ']",
-Cully,Cully-Jazz-Festival,2013-04-12,"[' Marcel Lüscher ', ' Yves Theiler ', ' Beni Bürgin ', ' Kristinn Smári Kristinsson ']",
-Stans,Stanser-Musiktage,2013-04-12,"[' Ernie Odoom ', ' Amaury Bach ', ' Diegon Fana ', ' Laurent Desbiolles ', ' Guillaume Lavallard ', ' Loic Burdin ', ' Daniel Verdesca ', ' Vincent Camer ', ' Jérémie Creix ', ' Stéphane Monnet ', ' Thierry Girault ']",
-Bern,Smallkings,2013-04-12,['Smallkings '],
-Rubigen,Lurrie-Bell-&-Sam-Burckhardt-with-the-Living-History-Band,2013-04-12,"[' Lurrie Bell ', ' Sam Burckhardt ', ' Matthew Skoller ', ' Johnny Iguana ', ' Felton Crews ', ' Kenny Smith ']",
-Thun,Tom-Freund-Trio,2013-04-12,['Tom Freund Trio '],
-Cully,Cully-Jazz-Festival,2013-04-12,"[' Simon Spiess ', ' Marco Nenniger ', ' Daniel Mudrack ']",
-Aarburg,Erja-Lyytinen,2013-04-12,['Erja Lyytinen '],
-Zürich,Guano-Spacejam,2013-04-12,"[' Philippe Mall ', ' Bruno Amatruda ', ' Tamas Szöllösy ', ' Dani Pauli ', ' tbn ', ' Dr. Kataplasma ']",
-Bern,Callmekat,2013-04-12,['Callmekat '],
-Buchs,Urban-Cone,2013-04-12,['Urban Cone '],
-Winterthur,Touch-People,2013-04-12,['Touch People '],
-Bern,Internationales-Jazzfestival-Bern,2013-04-12,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']",
-Schaffhausen,Europa-Neue-Leichtigkeit,2013-04-12,[' Dada Baba '],Pop
-Stans,Stanser-Musiktage,2013-04-12,"['Anthony Joseph & The Spasm Band ', ' Anthony Joseph ', ' Colin Webster ', ' Christian Arcucci ', ' Andrew John ', ' Marijus Aleksa ', ' Richard Baker ']",
-Vernissage,Zermatt,2013-04-12,['Birgit Bidder '],
-Vernissage,Zermatt,2013-04-12,['Birgit Bidder '],
+,location,event,date,artists,genre
+0,Basel,Mittagskonzert,2013-04-12,"['Katia Viel ', ' Teodoro Bau ', ' Keiko Kinoshita ', ' Eloy Orzaiz ']",['Classic']
+1,Obere-Matten,Zermatt,2013-04-12,['Pedro Franco '],"['Pedro', 'Franco']"
+2,Zürich,Prélude-Alban-Berg,2013-04-12,"['Domen Marn ', ' Anne Battegay ', ' Yulia Miloslavskaya ']",['Classic']
+3,Basel,Orgelspiel-zum-Feierabend,2013-04-12,['Dieter Lämmlin '],['Classic']
+4,Herzogenbuchsee,From-This-Day-On,2013-04-12,"['From This Day On ', ' Every Reason To ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Stans,Stanser-Musiktage,2013-04-12,['Reut Regev '],"['Jazz', 'Blues', 'Soul']"
+6,Cully-Jazz-Festival,Cully,2013-04-12,['Gianmaria Testa & Gabriele Mirabassi Duo '],"['Gianmaria', 'Testa']"
+7,Bern,Internationales-Jazzfestival-Bern,2013-04-12,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']","['Jazz', 'Blues', 'Soul']"
+8,Zürich,Konzert,2013-04-12,[' Christian Tetzlaff '],['Classic']
+9,Obere-Matten,Zermatt,2013-04-12,['Marianne Faithfull '],"['Marianne', 'Faithfull']"
+10,Stans,Stanser-Musiktage,2013-04-12,"[' Ursina Giger ', ' Laura Decurtins ', ' Freddy Manser ', ' Guido Decurtins ', ' Michel Estermann ', ' Augustin Maissen ', ' Andriu Maissen ']","['Jazz', 'Blues', 'Soul']"
+11,Schützenhaus-Albisgütli,Zürich,2013-04-12,['Earl Thomas & Band '],"['Philipp', 'Fankhauser']"
+12,Bern,Migros-Kulturprozent-Classics,2013-04-12,"[' Marie-Nicole Lemieux ', ' Thomas Grossenbacher ']",['Classic']
+13,Mundwerk,Zürich,2013-04-12,['The Toasters '],"['The', 'Toasters']"
+14,Gams,The-Johnny-Trouble-Trio,2013-04-12,['The Johnny Trouble Trio '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Zürich,Canto-General,2013-04-12,"[' Anna Schaffner ', ' Rainer Weiss ']",['Classic']
+16,Hotel-Krone,Aarberg,2013-04-12,['The Big Chris Barber Band '],"['The', 'Big', 'Chris', 'Barber', 'Band']"
+17,Hallenstadion,Zürich,2013-04-12,['Chris de Burgh & Band '],"['Chris', 'de', 'Burgh']"
+18,Pratteln,Blutengel,2013-04-12,['Blutengel '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Theater-im-Burgbachkeller,Zug,2013-04-12,"[' Bernhard Bamert ', ' Lukas Mantel ', ' Thomas Lüthi ', ' Andreas Schaerer ', ' Martin Eberle ', ' Peter Rom ']",['Tré']
+20,Kaufleuten,Zürich,2013-04-12,['Woodkid '],['Woodkid']
+21,Stans,Stanser-Musiktage,2013-04-12,"['Kottarashky & The Rain Dogs ', ' Aleksandar Dobrev ', ' Hristo Hadzhiganchev ', ' Yordan Geshakov ', ' Atanas Popov ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Stans,Stanser-Musiktage,2013-04-12,"['Arianna Savall & Petter Udland Johansen ', ' Arianna Savall ', ' Petter Udland Johansen ', ' Seinung Lilleheier ', ' Miquel Angel Cordero ', ' David Mayoral ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Zürich,Hearings-3.2,2013-04-12,"['Sandra Weiss ', ' Jürg Gasser ', ' Silvio Cadotsch ', ' Jan Schlegel ', ' David Meier ', ' Marius Peyer ']","['Jazz', 'Blues', 'Soul']"
+24,Zürich,AnamTara,2013-04-12,"['Anamtara ', ' Sarah Weibel ', ' Sven Kohler ', ' Sarah Niederer ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Winterthur,White-Coffee,2013-04-12,"[' Daniela Regnani ', ' David Fehr ', ' Roland Kiefer ', ' Engin ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Winterthur,The-Outer-String-Quartet-,2013-04-12,"[' Werner Hasler ', ' Katryn Hasler ', ' Carlo Niederhauser ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+27,Cully-Jazz-Festival,Cully,2013-04-12,"['Steve Coleman & Five Elements ', ' Emile Parisien 4tet ', ' Jonathan Finlayson ', ' Anthony Tidd ', ' Sean Rickman ', ' Olivier Zurkirchen ', ' Lukas Roos ', ' Jeremias Keller ', ' Joel Graf ', ' Gregor Lisser ']","['Steve', 'Coleman']"
+28,Zürich,Portico-Quartet,2013-04-12,['Portico Quartet '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Zermatt,Zermatt-Unplugged,2013-04-12,['Morcheeba with Skye '],['Electronic']
+30,Pratteln,Pat-Mcmanus,2013-04-12,['Pat Mcmanus '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Cully,Cully-Jazz-Festival,2013-04-12,"[' Jacques Covo ', ' Daniel Falletti ', ' Tox Drohar ']","['Jazz', 'Blues', 'Soul']"
+32,Dübendorf,Sonja-Huber-Quartett,2013-04-12,"[' Sonja Huber ', ' Mathias Siegrist ', ' Luca Sisera ', ' Valeria Zangger ']","['Jazz', 'Blues', 'Soul']"
+33,Basel,Robert-Lakatos-Quartet-feat.-Greg-Hutchinson,2013-04-12,"[' Gábor Bolla ', ' Robert Lakatos ', ' Christian Lakatos ', ' Greg Hutchinson ']","['Jazz', 'Blues', 'Soul']"
+34,Jona,Berg-Ruosch-Janett,2013-04-12,"[' Curdin Janett ', ' David Ruosch ', ' Lisa Berg ']",['Pop']
+35,BeJazz-Club-(Vidmarhallen),Liebefeld,2013-04-12,"[' Yael Miller ', ' Julie Campiche ', ' Manu Hagmann ', ' Roland Merlinc ']",['Orioxy']
+36,Mühlethurnen,Mitch-Kashmar-Bluesband,2013-04-12,['Mitch Kashmar Bluesband '],"['Jazz', 'Blues', 'Soul']"
+37,Théâtre-du-Léman,null,2013-04-12,['Roch Voisine '],"['Roch', 'Voisine']"
+38,Cully,Cully-Jazz-Festival,2013-04-12,['Kouyaté & Neerman '],"['Jazz', 'Blues', 'Soul']"
+39,Cully,Cully-Jazz-Festival,2013-04-12,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+40,Bern,Smallkings,2013-04-12,['Smallkings '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+41,Cully,Cully-Jazz-Festival,2013-04-12,"[' Marcel Lüscher ', ' Yves Theiler ', ' Beni Bürgin ', ' Kristinn Smári Kristinsson ']","['Jazz', 'Blues', 'Soul']"
+42,Thun,Tom-Freund-Trio,2013-04-12,['Tom Freund Trio '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+43,Stans,Stanser-Musiktage,2013-04-12,"[' Ernie Odoom ', ' Amaury Bach ', ' Diegon Fana ', ' Laurent Desbiolles ', ' Guillaume Lavallard ', ' Loic Burdin ', ' Daniel Verdesca ', ' Vincent Camer ', ' Jérémie Creix ', ' Stéphane Monnet ', ' Thierry Girault ']","['Jazz', 'Blues', 'Soul']"
+44,Luzern,Guns-Love-Stories,2013-04-12,['Guns Love Stories '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+45,Rubigen,Lurrie-Bell-&-Sam-Burckhardt-with-the-Living-History-Band,2013-04-12,"[' Lurrie Bell ', ' Sam Burckhardt ', ' Matthew Skoller ', ' Johnny Iguana ', ' Felton Crews ', ' Kenny Smith ']","['Jazz', 'Blues', 'Soul']"
+46,Reitschule-Dachstock,Bern,2013-04-12,['Balkan Beat Box '],"['Balkan', 'Beat', 'Box']"
+47,Zürich,Pat-Kelly-Rude-Rich-&-The-High-Notes,2013-04-12,"['Pat Kelly ', ' Rude Rich & The High Notes ']","['Hip', 'Hop', ""R'n'B""]"
+48,Zürich,Guano-Spacejam,2013-04-12,"[' Philippe Mall ', ' Bruno Amatruda ', ' Tamas Szöllösy ', ' Dani Pauli ', ' tbn ', ' Dr. Kataplasma ']","['Jazz', 'Blues', 'Soul']"
+49,Bern,Callmekat,2013-04-12,['Callmekat '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+50,Winterthur,Touch-People,2013-04-12,['Touch People '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+51,Bern,Internationales-Jazzfestival-Bern,2013-04-12,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']","['Jazz', 'Blues', 'Soul']"
+52,Buchs,Urban-Cone,2013-04-12,['Urban Cone '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+53,Schaffhausen,Europa-Neue-Leichtigkeit,2013-04-12,[' Dada Baba '],['Pop']
+54,Stans,Stanser-Musiktage,2013-04-12,"['Anthony Joseph & The Spasm Band ', ' Anthony Joseph ', ' Colin Webster ', ' Christian Arcucci ', ' Andrew John ', ' Marijus Aleksa ', ' Richard Baker ']","['Jazz', 'Blues', 'Soul']"
+55,Vernissage,Zermatt,2013-04-12,['Birgit Bidder '],"['Birgit', 'Bidder']"
+56,Vernissage,Zermatt,2013-04-12,['Birgit Bidder '],"['Birgit', 'Bidder']"

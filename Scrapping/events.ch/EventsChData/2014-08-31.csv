@@ -1,26 +1,25 @@
-location,event,date,artists,genre
-Murten,Murten-Classics-Kammermusik,2014-08-31,"['Petra Brabcová ', ' Vladimír Kroupa ', ' Simona Heová ', ' David Pavelka ', ' Jií Skuhra ', ' Vladislav Borovka ', ' Ale Hustoles ', ' Pavel Langpaul ', ' Jií paek ']",Classic
-Glattbrugg,Zürich-Openair,2014-08-31,"['Warpaint ', ' Morcheeba ', ' Parov Stelar Band ']",Pop
-Luzern,Sinfoniekonzert-14,2014-08-31,[' Klaus Florian Vogt '],Classic
-Willisau,Jazz-Festival-Willisau,2014-08-31,"[' Raphaël Ortis ', ' Louis Schild ']",
-Gstaad,Menuhin-Festival-Gstaad,2014-08-31,"['Volker Biesenbender ', ' Julio Azcano ']",Classic
-Willisau,Jazz-Festival-Willisau,2014-08-31,"[' Anet Zemp ', ' Marc Scheidegger ', ' Ralph Sonderegger ']",
-Luzern,Les-digitales,2014-08-31,"['Bass Clef ', ' Isambard Khroustaliov ']",Electronic
-Gstaad,Menuhin-Festival-Gstaad,2014-08-31,"[' Alex Wäber ', ' Olivier Membrez ', ' Norbert Steinwarz ']",Classic
-Münchenwiler,Murten-Classics-Vokalkonzert,2014-08-31,"['Christoph Prégardien ', ' Daniel Heide ']",Classic
-Naters,Harfe-Violine-Visuelles,2014-08-31,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-Zürich,Janser-Mosimann,2014-08-31,"[' Jazzduo Andrea Janser ', ' Philipp Mosimann ']",
-Hilterfingen,Bachwochen-Thun-Die-kleine-Kantorei,2014-08-31,['Matteo Pastorello '],Classic
-Basel,Sommer-Konzert,2014-08-31,"['Michael Haslebacher ', ' Sylvia Wilhelm ']",Classic
-Kappel-am-Albis,Musik-und-Wort,2014-08-31,"['Rebekka Ott ', ' Christoph Zimmerli ']",Classic
-null,Menuhin-Festival-Gstaad,2014-08-31,"['Esther Hoppe ', ' Jürg Dähler ', ' Thomas Grossenbacher ']",Classic
-Luzern,Sinfoniekonzert-15,2014-08-31,[' Daniil Trifonov '],Classic
-Maisprach,Alphorn-trifft-Kammerorchester,2014-08-31,[' works by Balthasar Streiff '],Classic
-Horgen,Orgelkonzert,2014-08-31,['Philipp Mestrinel '],Classic
-Winterthur,Peter-Maurer,2014-08-31,"['Peter Maurer ', ' Hanspeter Bibi Honegger ', ' Matthias Lincke ']",traditional
-Obfelden,Bellamy-Brothers,2014-08-31,['Bellamy Brothers '],
-Murten,Murten-Classics-Abschlussgala,2014-08-31,"[' Viviane Chassot ', ' works by Strauss ']",Classic
-Bern,Lonely-The-Brave,2014-08-31,['Lonely The Brave '],
-Willisau,Jazz-Festival-Willisau,2014-08-31,"['Steve Coleman & Five Elements ', ' Steve Coleman ', ' Jonathan Finlayson ', ' Anthony Tidd ', ' Sean Rickman ']",
-Nyon,Luna-Classics,2014-08-31,"['Nigel Kennedy ', ' Jean-Luc Ponty ']",Classic
-Luzern,Ryan-McGarvey,2014-08-31,['Ryan McGarvey '],
+,location,event,date,artists,genre
+0,Luzern,Sinfoniekonzert-14,2014-08-31,[' Klaus Florian Vogt '],['Classic']
+1,Glattbrugg,Z?rich-Openair,2014-08-31,"['Warpaint ', ' Morcheeba ', ' Parov Stelar Band ']",['Pop']
+2,Murten,Murten-Classics-Kammermusik,2014-08-31,"['Petra Brabcov? ', ' Vladim?r Kroupa ', ' Simona Heov? ', ' David Pavelka ', ' Ji? Skuhra ', ' Vladislav Borovka ', ' Ale Hustoles ', ' Pavel Langpaul ', ' Ji? paek ']",['Classic']
+3,Willisau,Jazz-Festival-Willisau,2014-08-31,"[' Rapha?l Ortis ', ' Louis Schild ']","['Jazz', 'Blues', 'Soul']"
+4,Gstaad,Menuhin-Festival-Gstaad,2014-08-31,"['Volker Biesenbender ', ' Julio Azcano ']",['Classic']
+5,Willisau,Jazz-Festival-Willisau,2014-08-31,"[' Anet Zemp ', ' Marc Scheidegger ', ' Ralph Sonderegger ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Luzern,Les-digitales,2014-08-31,"['Bass Clef ', ' Isambard Khroustaliov ']",['Electronic']
+7,Basel,Sommer-Konzert,2014-08-31,"['Michael Haslebacher ', ' Sylvia Wilhelm ']",['Classic']
+8,Hilterfingen,Bachwochen-Thun-Die-kleine-Kantorei,2014-08-31,['Matteo Pastorello '],['Classic']
+9,M?nchenwiler,Murten-Classics-Vokalkonzert,2014-08-31,"['Christoph Pr?gardien ', ' Daniel Heide ']",['Classic']
+10,Naters,Harfe-Violine-Visuelles,2014-08-31,"[' Corinne Kappeler ', ' Daniel Treyer ']",['Classic']
+11,Z?rich,Janser-Mosimann,2014-08-31,"[' Jazzduo Andrea Janser ', ' Philipp Mosimann ']","['Jazz', 'Blues', 'Soul']"
+12,Kappel-am-Albis,Musik-und-Wort,2014-08-31,"['Rebekka Ott ', ' Christoph Zimmerli ']",['Classic']
+13,null,Menuhin-Festival-Gstaad,2014-08-31,"['Esther Hoppe ', ' J?rg D?hler ', ' Thomas Grossenbacher ']",['Classic']
+14,Luzern,Sinfoniekonzert-15,2014-08-31,[' Daniil Trifonov '],['Classic']
+15,Maisprach,Alphorn-trifft-Kammerorchester,2014-08-31,[' works by Balthasar Streiff '],['Classic']
+16,Horgen,Orgelkonzert,2014-08-31,['Philipp Mestrinel '],['Classic']
+17,Winterthur,Peter-Maurer,2014-08-31,"['Peter Maurer ', ' Hanspeter Bibi Honegger ', ' Matthias Lincke ']",['traditional']
+18,Bern,Lonely-The-Brave,2014-08-31,['Lonely The Brave '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Murten,Murten-Classics-Abschlussgala,2014-08-31,"[' Viviane Chassot ', ' works by Strauss ']",['Classic']
+20,Willisau,Jazz-Festival-Willisau,2014-08-31,"[' Five Elements ', ' Steve Coleman ', ' Jonathan Finlayson ', ' Anthony Tidd ', ' Sean Rickman ']","['Jazz', 'Blues', 'Soul']"
+21,Obfelden,Bellamy-Brothers,2014-08-31,['Bellamy Brothers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Nyon,Luna-Classics,2014-08-31,"['Nigel Kennedy ', ' Jean-Luc Ponty ']",['Classic']
+23,Luzern,Ryan-McGarvey,2014-08-31,['Ryan McGarvey '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

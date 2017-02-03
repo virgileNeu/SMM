@@ -1,42 +1,42 @@
-location,event,date,artists,genre
-Winterthur,In-Guitar-Winterthur,2013-04-06,['João Carlos Victor '],
-Winterthur,In-Guitar-Winterthur,2013-04-06,['Mariam Boccali '],
-Casinotheater,Winterthur,2013-04-06,['Carlos Dorado '],
-Cully,Cully-Jazz-Festival,2013-04-06,['Baptiste Trotignon & Minino Garay '],
-Bern,Classic-Meets-Jazz,2013-04-06,"['Marcin Grochowina ', ' Felix Borel ']",Classic
-Zürich,Kollegah-&-Farid-Bang,2013-04-06,['Kollegah & Farid Bang '],
-Bern,Internationales-Jazzfestival-Bern,2013-04-06,"[""Lil' Ed & The Blues Imperials ""]",
-null,Romantische-Musik,2013-04-06,[' Orlando Theuler '],Classic
-Zürich,Pasticcio-Kammermusikkonzert,2013-04-06,"[' Ch.Fringeli ', ' B.Marugg ', ' R.Kobe ', ' V.Flückiger ', ' M.Kopelent ']",Classic
-Cully,Cully-Jazz-Festival,2013-04-06,"['Luisa Sobral ', ' Carlos Miguel ', ' João Hasselberg ', ' João Salcedo ']",
-Arbon,Reckless-Roses,2013-04-06,['Reckless Roses '],
-Giswil,JT-Lauritsen-&-the-Buckshot-Hunters,2013-04-06,['JT Lauritsen & the Buckshot Hunters '],
-Tonhalle,Zürich,2013-04-06,"['Nigel Kennedy ', ' Jarek Smietana ', ' Yaron Stavi ', ' Krzysztof Dziedzic ']",
-Basel,Uaso-Nuar,2013-04-06,['Uaso Nuar '],Pop
-null,Militia,2013-04-06,['Militia '],
-Zürich,Sottosole,2013-04-06,"[' Lino Mandato ', ' Claudio Stefanizzi ', ' Tommy M. Tedesco ', ' Marcello Staldini ', ' Joe Molino ']",Pop
-Bülach,Piano-Duell-auf-zwei-Flügeln,2013-04-06,"['Oliver Schnyder ', ' Karl-Andreas Kolly ']",Classic
-Cully,Cully-Jazz-Festival,2013-04-06,"['Oxmo Puccino ', ' Gaël Faye ', ' Come Aguiar ', ' Jean Baptiste Cortot ', ' Edouard Ardan ', ' Pierre Luc Jamain ']",
-Zürich,Virgil-Moorefield-Bicontinental-Pocket-Orchestra,2013-04-06,['Virgil Moorefield Bicontinental Pocket Orchestra '],Electronic
-Zürich,The-Campbell-Brothers,2013-04-06,"[' Chuck Campbell ', ' Darick Campbell ', ' Phil Campbell ', ' Malcom Kirby ', ' Cinnamon Jones ', ' Carlton Campbell ']",
-Zug,Akkordeonale,2013-04-06,"['Katerina Lekka ', ' Aziz Ali Elyagutu ', ' Ge Zhang ', ' Krzysztof Dobrek ', ' Servais Haanen ', ' Nora Thiele ']",
-Sursee,Charing-Cross,2013-04-06,['Charing Cross '],
-Zürich,Spektrum-extra-Telematisches-Konzert,2013-04-06,"['Matthias Ziegler ', ' Mark Dresser ', ' Myra Melford ', ' Nicole Mitchell ', ' conductor: Gerry Hemingway ', ' Michael Dessen ']",Classic
-Bern,Banana-Hunters,2013-04-06,"[' Renate Scheurer ', ' Daminic Montandon ', ' Thomas Gasser ', ' Micha Held ', ' Marcel Jeker ', ' Lukas Wiese ', ' Christian Dilier ', ' Simon Vögeli ']",
-Merkker,Baden,2013-04-06,['The Moon Invaders '],
-Cully,Cully-Jazz-Festival,2013-04-06,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-Zürich,Europa,2013-04-06,"[' Jonas Bischof ', ' Andrin Uetz ', ' Samuel Weniger ', ' Ruedi Tobler ']",Pop
-Cully,Cully-Jazz-Festival,2013-04-06,"['Ernst Reijseger ', ' Harmen Fraanje ', ' Mola Sylla ', ' Trio Reijseger Fraanje Sylla ']",
-Zürich,Busy-Signal-&-High-Voltage-Band,2013-04-06,['Busy Signal & High Voltage Band '],
-Luzern,Zirrus,2013-04-06,['Zirrus '],
-Cully,Cully-Jazz-Festival,2013-04-06,"[' Michael Tobler ', ' Rees Coray ', ' Christoph Müller ']",
-Basel,Hammerhead,2013-04-06,"['Hammerhead ', ' Empowerment ']",
-Cully,Cully-Jazz-Festival,2013-04-06,"[' Roland Favre ', ' Benoît Converset ', ' Luc Berney ', ' Julien Aubert ', ' Damien Converset ']",
-null,Les-4-éléments,2013-04-06,"[' Denis Beuret ', ' Béatrice Laplante ']",Electronic
-Basel,Dubscribe-Vol-8,2013-04-06,"['Kid Simius ', ' Funkstep Brothers ']",
-Grabenhalle,null,2013-04-06,['Maserati '],Maserati
-Bern,Hipbone-Slim-&-The-Kneetremblers,2013-04-06,['Hipbone Slim & The Kneetremblers '],
-Zürich,Sabura,2013-04-06,['Sabura '],
-Bern,Internationales-Jazzfestival-Bern,2013-04-06,"[""Lil' Ed & The Blues Imperials ""]",
-Basel,Einzelgänger-&-Kaotic-Concrete,2013-04-06,['Einzelgänger & Kaotic Concrete '],
-Uster,Party,2013-04-06,[' live: Arnette '],
+,location,event,date,artists,genre
+0,Winterthur,In-Guitar-Winterthur,2013-04-06,['João Carlos Victor '],"['world', 'music']"
+1,Winterthur,In-Guitar-Winterthur,2013-04-06,['Mariam Boccali '],"['world', 'music']"
+2,Casinotheater,Winterthur,2013-04-06,['Carlos Dorado '],"['Carlos', 'Dorado']"
+3,Cully,Cully-Jazz-Festival,2013-04-06,['Baptiste Trotignon & Minino Garay '],"['Jazz', 'Blues', 'Soul']"
+4,Bern,Classic-Meets-Jazz,2013-04-06,"['Marcin Grochowina ', ' Felix Borel ']",['Classic']
+5,Zürich,Kollegah-&-Farid-Bang,2013-04-06,['Kollegah & Farid Bang '],"['Hip', 'Hop', ""R'n'B""]"
+6,Bern,Internationales-Jazzfestival-Bern,2013-04-06,"[""Lil' Ed & The Blues Imperials ""]","['Jazz', 'Blues', 'Soul']"
+7,Cully,Cully-Jazz-Festival,2013-04-06,"['Luisa Sobral ', ' Carlos Miguel ', ' João Hasselberg ', ' João Salcedo ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Arbon,Reckless-Roses,2013-04-06,['Reckless Roses '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,null,Romantische-Musik,2013-04-06,[' Orlando Theuler '],['Classic']
+10,Zürich,Pasticcio-Kammermusikkonzert,2013-04-06,"[' Ch.Fringeli ', ' B.Marugg ', ' R.Kobe ', ' V.Flückiger ', ' M.Kopelent ']",['Classic']
+11,Giswil,JT-Lauritsen-&-the-Buckshot-Hunters,2013-04-06,['JT Lauritsen & the Buckshot Hunters '],"['Jazz', 'Blues', 'Soul']"
+12,Tonhalle,Zürich,2013-04-06,"['Nigel Kennedy ', ' Jarek Smietana ', ' Yaron Stavi ', ' Krzysztof Dziedzic ']","['Nigel', 'Kennedy']"
+13,Basel,Uaso-Nuar,2013-04-06,['Uaso Nuar '],['Pop']
+14,Zürich,Sottosole,2013-04-06,"[' Lino Mandato ', ' Claudio Stefanizzi ', ' Tommy M. Tedesco ', ' Marcello Staldini ', ' Joe Molino ']",['Pop']
+15,Bülach,Piano-Duell-auf-zwei-Flügeln,2013-04-06,"['Oliver Schnyder ', ' Karl-Andreas Kolly ']",['Classic']
+16,null,Militia,2013-04-06,['Militia '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Zürich,The-Campbell-Brothers,2013-04-06,"[' Chuck Campbell ', ' Darick Campbell ', ' Phil Campbell ', ' Malcom Kirby ', ' Cinnamon Jones ', ' Carlton Campbell ']","['Jazz', 'Blues', 'Soul']"
+18,Zug,Akkordeonale,2013-04-06,"['Katerina Lekka ', ' Aziz Ali Elyagutu ', ' Ge Zhang ', ' Krzysztof Dobrek ', ' Servais Haanen ', ' Nora Thiele ']","['world', 'music']"
+19,Sursee,Charing-Cross,2013-04-06,['Charing Cross '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Cully,Cully-Jazz-Festival,2013-04-06,"['Oxmo Puccino ', ' Gaël Faye ', ' Come Aguiar ', ' Jean Baptiste Cortot ', ' Edouard Ardan ', ' Pierre Luc Jamain ']","['Jazz', 'Blues', 'Soul']"
+21,Zürich,Virgil-Moorefield-Bicontinental-Pocket-Orchestra,2013-04-06,['Virgil Moorefield Bicontinental Pocket Orchestra '],['Electronic']
+22,Basel,Hammerhead,2013-04-06,"['Hammerhead ', ' Empowerment ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Zürich,Spektrum-extra-Telematisches-Konzert,2013-04-06,"['Matthias Ziegler ', ' Mark Dresser ', ' Myra Melford ', ' Nicole Mitchell ', ' conductor: Gerry Hemingway ', ' Michael Dessen ']",['Classic']
+24,Cully,Cully-Jazz-Festival,2013-04-06,"[' Tobias Preisig ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+25,Cully,Cully-Jazz-Festival,2013-04-06,"['Ernst Reijseger ', ' Harmen Fraanje ', ' Mola Sylla ', ' Trio Reijseger Fraanje Sylla ']","['Jazz', 'Blues', 'Soul']"
+26,Zürich,Europa,2013-04-06,"[' Jonas Bischof ', ' Andrin Uetz ', ' Samuel Weniger ', ' Ruedi Tobler ']",['Pop']
+27,Cully,Cully-Jazz-Festival,2013-04-06,"[' Michael Tobler ', ' Rees Coray ', ' Christoph Müller ']","['Jazz', 'Blues', 'Soul']"
+28,null,Les-4-éléments,2013-04-06,"[' Denis Beuret ', ' Béatrice Laplante ']",['Electronic']
+29,Bern,Banana-Hunters,2013-04-06,"[' Renate Scheurer ', ' Daminic Montandon ', ' Thomas Gasser ', ' Micha Held ', ' Marcel Jeker ', ' Lukas Wiese ', ' Christian Dilier ', ' Simon Vögeli ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Cully,Cully-Jazz-Festival,2013-04-06,"[' Roland Favre ', ' Benoît Converset ', ' Luc Berney ', ' Julien Aubert ', ' Damien Converset ']","['Jazz', 'Blues', 'Soul']"
+31,Merkker,Baden,2013-04-06,['The Moon Invaders '],"['The', 'Moon', 'Invaders']"
+32,Zürich,Busy-Signal-&-High-Voltage-Band,2013-04-06,['Busy Signal & High Voltage Band '],"['Hip', 'Hop', ""R'n'B""]"
+33,Luzern,Zirrus,2013-04-06,['Zirrus '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Zürich,Sabura,2013-04-06,['Sabura '],"['world', 'music']"
+35,Grabenhalle,null,2013-04-06,['Maserati '],['Maserati']
+36,Bern,Hipbone-Slim-&-The-Kneetremblers,2013-04-06,['Hipbone Slim & The Kneetremblers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Basel,Dubscribe-Vol-8,2013-04-06,"['Kid Simius ', ' Funkstep Brothers ']","['Hip', 'Hop', ""R'n'B""]"
+38,Basel,Einzelgänger-&-Kaotic-Concrete,2013-04-06,['Einzelgänger & Kaotic Concrete '],"['Hip', 'Hop', ""R'n'B""]"
+39,Bern,Internationales-Jazzfestival-Bern,2013-04-06,"[""Lil' Ed & The Blues Imperials ""]","['Jazz', 'Blues', 'Soul']"
+40,Uster,Party,2013-04-06,[' live: Arnette '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"

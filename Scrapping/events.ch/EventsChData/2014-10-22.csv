@@ -1,35 +1,34 @@
-location,event,date,artists,genre
-Winterthur,Die-Kultursuppe,2014-10-22,"['Valentin Gloor ', ' Edward Rushton ']",Classic
-Basel,Mimiko-Le-Phenix,2014-10-22,['Sven Schwannberger '],Classic
-Zürich,Konzert,2014-10-22,[' Thomas Demenga '],Classic
-Basel,Duo-Huber-Fabro,2014-10-22,"[' Celine Huber ', ' Oliver Fabro ']",
-Winterthur,Ein-Dvorak-Fest,2014-10-22,[' Julian Steckel '],Classic
-Zürich,Off,2014-10-22,"['Off ', ' Cerebral Ballzy ']",
-Zürich,Tripiti-Project,2014-10-22,"[' Steffen Arpagaus ', ' Kriz Flew ', ' Michael Felder ', ' Patrick Oriet ']",
-Pratteln,Circle-II-Circle,2014-10-22,['Circle II Circle '],
-Zürich,Tomatito,2014-10-22,"['Tomatito ', ' Tomatito ', ' José Israel Fernandez ', ' El Cristi ', ' Mari Angeles Fernandez ', ' Kiki Cortiñas ', ' El Moy ']",
-Zug,Hiromi-Trio,2014-10-22,"['Hiromi Trio ', ' Hiromi ', ' Anthony Jackson ', ' Steve Smith ']",
-null,Progressive-Metal-Night,2014-10-22,"['No consequence ', ' Carcer City ']",
-Wädenswil,Primo-piano,2014-10-22,['Raviv Leibzirer '],Classic
-Solothurn,Maximo-Park,2014-10-22,['Maximo Park '],
-Zürich,Helene-Fischer,2014-10-22,['Helene Fischer '],traditional
-Zürich,Jazzbaragge-Wednesday-Jam,2014-10-22,"['Florian Favre ', ' Manu Hagmann ', ' Alexander Maurer ']",
-Zürich,John-Herzig,2014-10-22,['John Herzig '],traditional
-null,Dede-Korkut,2014-10-22,"[' Jun Kawasaki ', ' Marc Sinan ', ' Sascha Friedl ', ' Erzählerin: Jelena Kuljic ']",Classic
-Luzern,Wallis-Bird,2014-10-22,['Wallis Bird '],
-Winterthur,Ghosts-&-Guests,2014-10-22,"[' Bettina Klöti ', ' Vera Kappeler ', ' Urs Vögeli ']",
-Winterthur,Jazz-am-Mittwoch,2014-10-22,"[' Christoph Stiefel ', ' Arne Huber ', ' Kevin Chesham ']",
-Bern,Christian-Wallumrod-Ensemble,2014-10-22,['Christian Wallumrod Ensemble '],
-Zürich,Fuck-Buttons,2014-10-22,['Fuck Buttons '],Electronic
-Zürich,Sorry-Gilberto,2014-10-22,['Sorry Gilberto '],Pop
-Zürich,Harleighblu,2014-10-22,"['Harleighblu ', ' Harleighblu Low ', ' Anthony Robinson ', ' Benjamin James ']",
-Basel,Waynes-World,2014-10-22,"[' Matthias Spillman ', ' Domenic Landolf ', ' Pablo Held ', ' Stephan Kurmann ', ' Jorge Rossy ']",
-Luzern,Hunter-Gatherer,2014-10-22,"[' Manuel Troller ', ' Marc Méan ', ' Silvan Jeger ', ' Tobias Meier ', ' David Meier ']",
-null,Will-Calhoun-Quartett,2014-10-22,"[' Will Calhoun ', ' Orrin Evans ', ' Jowee Curtis Omicil ', ' Luques Curtis ']",
-null,Maerten-Arens-Söldi-Heule,2014-10-22,"[' Nathalie Sika Maerten ', ' Götz Arens ', ' Mario Söldi ', ' Sandro Heule ']",
-Sankt-Gallen,To-Rococo-Rot,2014-10-22,['To Rococo Rot '],Electronic
-Zürich,Renzo-Spotti-Trio,2014-10-22,"[' Renzo Spotti ', ' Christian Weber ', ' Dieter Ulrich ']",
-Zürich,Bukowski,2014-10-22,['The Ghost Wolves '],
-Lausanne,Birdpen,2014-10-22,['Birdpen '],Pop
-Bern,Bonaparte,2014-10-22,[' support: Tim Fite '],
-Bern,Chloe-Charles-&-Band,2014-10-22,['Chloe Charles & Band '],
+,location,event,date,artists,genre
+0,Winterthur,Die-Kultursuppe,2014-10-22,"['Valentin Gloor ', ' Edward Rushton ']",['Classic']
+1,Basel,Mimiko-Le-Phenix,2014-10-22,['Sven Schwannberger '],['Classic']
+2,Winterthur,Ein-Dvorak-Fest,2014-10-22,[' Julian Steckel '],['Classic']
+3,Basel,Duo-Huber-Fabro,2014-10-22,"[' Celine Huber ', ' Oliver Fabro ']","['Jazz', 'Blues', 'Soul']"
+4,Z?rich,Konzert,2014-10-22,[' Thomas Demenga '],['Classic']
+5,null,Dede-Korkut,2014-10-22,"[' Jun Kawasaki ', ' Marc Sinan ', ' Sascha Friedl ', ' Erz?hlerin: Jelena Kuljic ']",['Classic']
+6,W?denswil,Primo-piano,2014-10-22,['Raviv Leibzirer '],['Classic']
+7,Zug,Hiromi-Trio,2014-10-22,"['Hiromi Trio ', ' Hiromi ', ' Anthony Jackson ', ' Steve Smith ']","['Jazz', 'Blues', 'Soul']"
+8,Z?rich,Jazzbaragge-Wednesday-Jam,2014-10-22,"['Florian Favre ', ' Manu Hagmann ', ' Alexander Maurer ']","['Jazz', 'Blues', 'Soul']"
+9,Z?rich,John-Herzig,2014-10-22,['John Herzig '],['traditional']
+10,Z?rich,Helene-Fischer,2014-10-22,['Helene Fischer '],['traditional']
+11,Z?rich,Off,2014-10-22,"['Off ', ' Cerebral Ballzy ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Z?rich,Tripiti-Project,2014-10-22,"[' Steffen Arpagaus ', ' Kriz Flew ', ' Michael Felder ', ' Patrick Oriet ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Tomatito,2014-10-22,"['Tomatito ', ' Tomatito ', ' Jos? Israel Fernandez ', ' El Cristi ', ' Mari Angeles Fernandez ', ' Kiki Corti?as ', ' El Moy ']","['world', 'music']"
+14,null,Progressive-Metal-Night,2014-10-22,"['No consequence ', ' Carcer City ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Solothurn,Maximo-Park,2014-10-22,['Maximo Park '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Luzern,Wallis-Bird,2014-10-22,['Wallis Bird '],"['world', 'music']"
+17,Pratteln,Circle-II-Circle,2014-10-22,['Circle II Circle '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Winterthur,Jazz-am-Mittwoch,2014-10-22,"[' Christoph Stiefel ', ' Arne Huber ', ' Kevin Chesham ']","['Jazz', 'Blues', 'Soul']"
+19,Winterthur,Ghosts-&-Guests,2014-10-22,"[' Bettina Kl?ti ', ' Vera Kappeler ', ' Urs V?geli ']","['Jazz', 'Blues', 'Soul']"
+20,Basel,Waynes-World,2014-10-22,"[' Matthias Spillman ', ' Domenic Landolf ', ' Pablo Held ', ' Stephan Kurmann ', ' Jorge Rossy ']","['Jazz', 'Blues', 'Soul']"
+21,Bern,Christian-Wallumrod-Ensemble,2014-10-22,['Christian Wallumrod Ensemble '],"['Jazz', 'Blues', 'Soul']"
+22,Z?rich,Harleighblu,2014-10-22,"['Harleighblu ', ' Harleighblu Low ', ' Anthony Robinson ', ' Benjamin James ']","['Hip', 'Hop', ""R'n'B""]"
+23,Luzern,Hunter-Gatherer,2014-10-22,"[' Manuel Troller ', ' Marc M?an ', ' Silvan Jeger ', ' Tobias Meier ', ' David Meier ']","['Jazz', 'Blues', 'Soul']"
+24,Z?rich,Sorry-Gilberto,2014-10-22,['Sorry Gilberto '],['Pop']
+25,null,Maerten-Arens-S?ldi-Heule,2014-10-22,"[' Nathalie Sika Maerten ', ' G?tz Arens ', ' Mario S?ldi ', ' Sandro Heule ']","['Jazz', 'Blues', 'Soul']"
+26,null,Will-Calhoun-Quartett,2014-10-22,"[' Will Calhoun ', ' Orrin Evans ', ' Jowee Curtis Omicil ', ' Luques Curtis ']","['Jazz', 'Blues', 'Soul']"
+27,Z?rich,Fuck-Buttons,2014-10-22,['Fuck Buttons '],['Electronic']
+28,Sankt-Gallen,To-Rococo-Rot,2014-10-22,['To Rococo Rot '],['Electronic']
+29,Z?rich,Renzo-Spotti-Trio,2014-10-22,"[' Renzo Spotti ', ' Christian Weber ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+30,Bern,Bonaparte,2014-10-22,[' support: Tim Fite '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Lausanne,Birdpen,2014-10-22,['Birdpen '],['Pop']
+32,Bern,Chloe-Charles-&-Band,2014-10-22,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

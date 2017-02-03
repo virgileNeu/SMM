@@ -1,30 +1,29 @@
-location,event,date,artists,genre
-Winterthur,Film-&-Musik-Festival-Children's-Corner,2014-06-14,"[' 2 stumme Animationsfilme: The Pet ', ' A Trip to Mars ']",Classic
-Luzern,Orgelklänge,2014-06-14,['Naji Hakim '],Classic
-Kriens,B-Sides-Festival,2014-06-14,"['Suuns ', ' Skip & Die ', ' Damien Jurado ']",
-Kriens,B-Sides-Festival,2014-06-14,"[' Fenster ', ' Zentralheizung of Death ', ' Plastic People of the Universe ']",
-Kriens,B-Sides-Festival,2014-06-14,[' Group Rhoda '],Electronic
-Interlaken,Greenfield-Festival,2014-06-14,['Soundgarden '],
-null,Festi'neuch,2014-06-14,"['Snoop Dogg ', ' Woodkid ', ' Kery James ', ' Thomas Azier ', ' Carbon Airways ', ' Mark Berube ', ' After-Party mit Greem ', ' Feadz ']",
-Effretikon,Konzert,2014-06-14,[' Yoshiko Iwai '],Classic
-Lupfig,Radio-Argovia-Fäscht,2014-06-14,"['Fettes Brot ', ' Rea Garvey ', ' Stefanie Heinzmann ']",
-Basel,Masterrezital,2014-06-14,[' Davide Perniceni '],Classic
-Rapperswil,All'-Italia,2014-06-14,[' Harry White '],Classic
-Aarberg,Stars-of-Sounds-Murten,2014-06-14,"['Bryan Adams ', ' Christoph Maé ']",
-Oberrieden,Openair-Oberrieden,2014-06-14,['Torch '],Pop
-Aarau,3.-Sonderkonzert-James-Bond-007,2014-06-14,[' Mary Carewe '],Classic
-Zürich,Deva-Premal-&-Miten-feat.-Manose-Singh,2014-06-14,['Deva Premal & Miten feat. Manose Singh '],
-Luzern,Wiener-Zaubernacht,2014-06-14,"[' Simone Stock ', ' Rebekka Maeder ', ' Tobias Hächler ', ' Strauss ']",Classic
-Oberrieden,Songs-of-Power-and-Spirit,2014-06-14,"['Carmen Bürgisser ', ' Marcello Mosca ']",Pop
-Basel,Zooroz,2014-06-14,['Zooroz '],
-Solothurn,O-Town,2014-06-14,['O-Town '],Pop
-Pully,Festival-Pully-Lavaux-à-l'heure-du-Québec,2014-06-14,"['Lynda Lemay ', ' Stéphane Côté ']",Pop
-Dornach,Erweiterte-Tonalität,2014-06-14,"[' Heinz Bähler ', ' Aminta Dupuis ', ' Paul Giger ', ' Wim Viersen ', ' Christian Ginat ', ' Christian Hickel ', ' Oskar Peter ', ' Verena Zacher ', ' Stefan Müller ', ' Johann Sonnleitner ']",Classic
-Pratteln,Saisonfinale,2014-06-14,[' Benjamin Engeli '],Classic
-Baden,Girasole,2014-06-14,"[' Toni Donadio ', ' Nic Niedermann ']",Pop
-Zürich,Musique-en-Route,2014-06-14,"[' Ronny Spiegel ', ' Stefanie Hess ', ' Tom Tafel ', ' Ariel Facundo Rossi ', ' Marc Hemantha Hufschmid ']",
-Bad-Ragaz,Die-Tamina-Nacht,2014-06-14,"['Nadja Räss ', ' Claudia Herr ']",Pop
-null,Long-Joha-&-45-Exp.,2014-06-14,['Long Joha & 45 Exp. '],
-Zürich,Urban-Entropy,2014-06-14,"[' Damaris Reist ', ' Fabrizio Campanale ', ' Michael Arzt ', ' Pedro Cano Diaz ', ' Helge Johannssen ']",
-Basel,Kollegah,2014-06-14,['Kollegah '],
-Bern,FAU-Soli,2014-06-14,['Renagades of Punk '],
+,location,event,date,artists,genre
+0,Luzern,Orgelkl?nge,2014-06-14,['Naji Hakim '],['Classic']
+1,Winterthur,Film-&-Musik-Festival-Children's-Corner,2014-06-14,"[' 2 stumme Animationsfilme: The Pet ', ' A Trip to Mars ']",['Classic']
+2,Kriens,B-Sides-Festival,2014-06-14,"[' Fenster ', ' Zentralheizung of Death ', ' Plastic People of the Universe ']","['Hip', 'Hop', ""R'n'B""]"
+3,Kriens,B-Sides-Festival,2014-06-14,[' Group Rhoda '],['Electronic']
+4,Interlaken,Greenfield-Festival,2014-06-14,['Soundgarden '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,null,Festi'neuch,2014-06-14,"['Snoop Dogg ', ' Woodkid ', ' Kery James ', ' Thomas Azier ', ' Carbon Airways ', ' Mark Berube ', ' After-Party mit Greem ', ' Feadz ']","['Hip', 'Hop', ""R'n'B""]"
+6,Effretikon,Konzert,2014-06-14,[' Yoshiko Iwai '],['Classic']
+7,Lupfig,Radio-Argovia-F?scht,2014-06-14,"['Fettes Brot ', ' Rea Garvey ', ' Stefanie Heinzmann ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Basel,Masterrezital,2014-06-14,[' Davide Perniceni '],['Classic']
+9,Rapperswil,All'-Italia,2014-06-14,[' Harry White '],['Classic']
+10,Aarberg,Stars-of-Sounds-Murten,2014-06-14,"['Bryan Adams ', ' Christoph Ma? ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Oberrieden,Openair-Oberrieden,2014-06-14,['Torch '],['Pop']
+12,Aarau,3.-Sonderkonzert-James-Bond-007,2014-06-14,[' Mary Carewe '],['Classic']
+13,Luzern,Wiener-Zaubernacht,2014-06-14,"[' Simone Stock ', ' Rebekka Maeder ', ' Tobias H?chler ', ' Strauss ']",['Classic']
+14,Z?rich,Deva-Premal-&-Miten-feat.-Manose-Singh,2014-06-14,[' Miten feat. Manose Singh '],"['world', 'music']"
+15,Dornach,Erweiterte-Tonalit?t,2014-06-14,"[' Heinz B?hler ', ' Aminta Dupuis ', ' Paul Giger ', ' Wim Viersen ', ' Christian Ginat ', ' Christian Hickel ', ' Oskar Peter ', ' Verena Zacher ', ' Stefan M?ller ', ' Johann Sonnleitner ']",['Classic']
+16,Pully,Festival-Pully-Lavaux-?-l'heure-du-Qu?bec,2014-06-14,"['Lynda Lemay ', ' St?phane C?t? ']",['Pop']
+17,Basel,Zooroz,2014-06-14,['Zooroz '],"['world', 'music']"
+18,Oberrieden,Songs-of-Power-and-Spirit,2014-06-14,"['Carmen B?rgisser ', ' Marcello Mosca ']",['Pop']
+19,Pratteln,Saisonfinale,2014-06-14,[' Benjamin Engeli '],['Classic']
+20,Solothurn,O-Town,2014-06-14,['O-Town '],['Pop']
+21,Z?rich,Musique-en-Route,2014-06-14,"[' Ronny Spiegel ', ' Stefanie Hess ', ' Tom Tafel ', ' Ariel Facundo Rossi ', ' Marc Hemantha Hufschmid ']","['world', 'music']"
+22,Baden,Girasole,2014-06-14,"[' Toni Donadio ', ' Nic Niedermann ']",['Pop']
+23,Bad-Ragaz,Die-Tamina-Nacht,2014-06-14,"['Nadja R?ss ', ' Claudia Herr ']",['Pop']
+24,null,Long-Joha-&-45-Exp.,2014-06-14,[' 45 Exp. '],"['Hip', 'Hop', ""R'n'B""]"
+25,Z?rich,Urban-Entropy,2014-06-14,"[' Damaris Reist ', ' Fabrizio Campanale ', ' Michael Arzt ', ' Pedro Cano Diaz ', ' Helge Johannssen ']","['Jazz', 'Blues', 'Soul']"
+26,Bern,FAU-Soli,2014-06-14,['Renagades of Punk '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Basel,Kollegah,2014-06-14,['Kollegah '],"['Hip', 'Hop', ""R'n'B""]"

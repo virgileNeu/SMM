@@ -1,11 +1,11 @@
-location,event,date,artists,genre
-Zürich,Passionsandacht,2014-04-14,[' Andreas Jost '],Classic
-Basel,AMG-Solistenabende,2014-04-14,['Radu Lupu '],Classic
-Zürich,Spektrum-Harpmania,2014-04-14,"[' Christoph Schiller ', ' Matthias Ziegler ']",Classic
-Zürich,Bury-Tomorrow,2014-04-14,"['Bury Tomorrow ', ' Chunk No Captain Chunk ']",
-Zürich,Walk-Off-The-Earth,2014-04-14,"['Walk Off The Earth ', ' Camera 2 ']",Pop
-Zürich,Abdullah-Ibrahim-New-Trio,2014-04-14,"['Abdullah Ibrahim New Trio ', ' Abdullah Ibrahim ', ' Eugen Bazijan ', ' Cleave Guyton ']",
-Zürich,Justin-Timberlake,2014-04-14,['Justin Timberlake '],Pop
-Zürich,Metronomy,2014-04-14,['Metronomy '],Electronic
-Baden,That-Pork,2014-04-14,"[' Ganesh Geymeier ', ' Marc Méan ', ' Maxence Sibille ']",
-Zürich,A.-Spell,2014-04-14,"[' Jan Galega Brönnimann ', ' Nadja Stoller ', ' Ronan Skillen ']",Electronic
+,location,event,date,artists,genre
+0,Z?rich,Passionsandacht,2014-04-14,[' Andreas Jost '],['Classic']
+1,Basel,AMG-Solistenabende,2014-04-14,['Radu Lupu '],['Classic']
+2,Z?rich,Spektrum-Harpmania,2014-04-14,"[' Christoph Schiller ', ' Matthias Ziegler ']",['Classic']
+3,Z?rich,Abdullah-Ibrahim-New-Trio,2014-04-14,"['Abdullah Ibrahim New Trio ', ' Abdullah Ibrahim ', ' Eugen Bazijan ', ' Cleave Guyton ']","['Jazz', 'Blues', 'Soul']"
+4,Z?rich,Justin-Timberlake,2014-04-14,['Justin Timberlake '],['Pop']
+5,Z?rich,Metronomy,2014-04-14,['Metronomy '],['Electronic']
+6,Z?rich,Walk-Off-The-Earth,2014-04-14,"['Walk Off The Earth ', ' Camera 2 ']",['Pop']
+7,Z?rich,Bury-Tomorrow,2014-04-14,"['Bury Tomorrow ', ' Chunk No Captain Chunk ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Baden,That-Pork,2014-04-14,"[' Ganesh Geymeier ', ' Marc M?an ', ' Maxence Sibille ']","['Jazz', 'Blues', 'Soul']"
+9,Z?rich,A.-Spell,2014-04-14,"[' Jan Galega Br?nnimann ', ' Nadja Stoller ', ' Ronan Skillen ']",['Electronic']

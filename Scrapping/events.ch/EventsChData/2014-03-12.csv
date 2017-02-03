@@ -1,34 +1,33 @@
-location,event,date,artists,genre
-Zürich,Konzert,2014-03-12,"['Nadja S. ', ' Benedict Schönenberger ', ' Pierre Tissonnier ', ' Ronja Oppelt ', ' Philipp Boos ']",Classic
-Zürich,Steirersound,2014-03-12,['Steirersound '],traditional
-Luzern,Piano-Entertainment,2014-03-12,['Mark Tenger '],
-Zürich,Y-Titty,2014-03-12,['Y-Titty '],Pop
-Luzern,Konzert,2014-03-12,[' Viktoria Mullova '],Classic
-Zürich,Internationales-Country-Music-Festival,2014-03-12,[' Joni & Thomi Pettit '],
-Zürich,Konzert-für-Mitglieder-und-Gönner,2014-03-12,[' Gidon Kremer '],Classic
-Bern,Klavierkonzert,2014-03-12,['Marc-André Hamelin '],Classic
-Palais-des-Congrès,null,2014-03-12,['Bruno Schneider '],Classic
-Solothurn,2Raumwohnung,2014-03-12,['2Raumwohnung '],Pop
-null,VUM,2014-03-12,['VUM '],Pop
--KuZeB,null,2014-03-12,['Acidez '],
-null,Dan-Le-Sac-vs-Scroobius-Pip,2014-03-12,['Dan Le Sac vs Scroobius Pip '],
-Näfels,Sinfoniekonzert,2014-03-12,"[' Flurin Cuonz ', ' Ricardo Gatzmann ']",Classic
-Bern,Ire,2014-03-12,['Ire '],
-Zürich,Jazzbaragge-Wednesday-Jam,2014-03-12,"['Floriano Ignacio Jr. ', ' Dudu Penz ', ' Florain Reichle ']",
-Luzern,Jam-Night,2014-03-12,"[' Christian Winiker ', ' Andi Schnellmann ', ' Simon Britschgi ']",
-Zürich,John-Mayall,2014-03-12,['John Mayall '],
-Winterthur,Well-Brüder,2014-03-12,['Well Brüder '],Pop
-Zürich,Marteria,2014-03-12,['Marteria '],
-Olten,Konzert,2014-03-12,"[' Mischa Cheung ', ' André Desponds ', ' Benjamin Engeli ', ' Stefan Wirth ']",Classic
-Luzern,Will-and-the-People,2014-03-12,['Will and the People '],Pop
-Baden,Heather-Nova,2014-03-12,['Heather Nova '],Pop
-Zürich,Reto-Suhner-Nonet,2014-03-12,"[' Reto Suhner ', ' Adrian Pflugshaupt ', ' Matthias Tschopp ', ' Lukas Thöni ']",
-Zürich,Bukowski-&-The-Straight-and-Narrow,2014-03-12,['The Blue Angel Lounge '],
-Bern,Dobet-Gnahoré,2014-03-12,['Dobet Gnahoré '],
-Wädenswil,Chamber-Soul,2014-03-12,"[' Brandy Butler ', ' Roman Hosek ', ' René Mosele ']",
-Zürich,Les-Gars-d'en-Bas,2014-03-12,"[""Les Gars d'en Bas ""]",traditional
-Luzern,Mad-Girl,2014-03-12,"[' Franziska Bruecker ', ' Corinne Huber ', ' Lander Gyselinck ']",Pop
-Zürich,Beyond-Insane,2014-03-12,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']",
-Aarburg,King-King,2014-03-12,['King King '],
-null,Voix-de-fête,2014-03-12,['Les Innocents '],Pop
-Luzern,Geoff-Berner-und-Corb-Lund,2014-03-12,['Geoff Berner und Corb Lund '],
+,location,event,date,artists,genre
+0,Z?rich,Konzert,2014-03-12,"['Nadja S. ', ' Benedict Sch?nenberger ', ' Pierre Tissonnier ', ' Ronja Oppelt ', ' Philipp Boos ']",['Classic']
+1,Z?rich,Steirersound,2014-03-12,['Steirersound '],['traditional']
+2,Z?rich,Y-Titty,2014-03-12,['Y-Titty '],['Pop']
+3,Z?rich,Konzert-f?r-Mitglieder-und-G?nner,2014-03-12,[' Gidon Kremer '],['Classic']
+4,Palais-des-Congr?s,null,2014-03-12,['Bruno Schneider '],['Classic']
+5,Z?rich,Internationales-Country-Music-Festival,2014-03-12,[' Thomi Pettit '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Bern,Klavierkonzert,2014-03-12,['Marc-Andr? Hamelin '],['Classic']
+7,Luzern,Konzert,2014-03-12,[' Viktoria Mullova '],['Classic']
+8,Z?rich,Marteria,2014-03-12,['Marteria '],"['Hip', 'Hop', ""R'n'B""]"
+9,null,Dan-Le-Sac-vs-Scroobius-Pip,2014-03-12,['Dan Le Sac vs Scroobius Pip '],"['Hip', 'Hop', ""R'n'B""]"
+10,Solothurn,2Raumwohnung,2014-03-12,['2Raumwohnung '],['Pop']
+11,Luzern,Will-and-the-People,2014-03-12,['Will and the People '],['Pop']
+12,N?fels,Sinfoniekonzert,2014-03-12,"[' Flurin Cuonz ', ' Ricardo Gatzmann ']",['Classic']
+13,Winterthur,Well-Br?der,2014-03-12,['Well Br?der '],['Pop']
+14,-KuZeB,null,2014-03-12,['Acidez '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Olten,Konzert,2014-03-12,"[' Mischa Cheung ', ' Andr? Desponds ', ' Benjamin Engeli ', ' Stefan Wirth ']",['Classic']
+16,null,VUM,2014-03-12,['VUM '],['Pop']
+17,Z?rich,John-Mayall,2014-03-12,['John Mayall '],"['Jazz', 'Blues', 'Soul']"
+18,Z?rich,Jazzbaragge-Wednesday-Jam,2014-03-12,"['Floriano Ignacio Jr. ', ' Dudu Penz ', ' Florain Reichle ']","['Jazz', 'Blues', 'Soul']"
+19,Luzern,Jam-Night,2014-03-12,"[' Christian Winiker ', ' Andi Schnellmann ', ' Simon Britschgi ']","['Jazz', 'Blues', 'Soul']"
+20,Bern,Ire,2014-03-12,['Ire '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Baden,Heather-Nova,2014-03-12,['Heather Nova '],['Pop']
+22,Z?rich,Les-Gars-d'en-Bas,2014-03-12,"[""Les Gars d'en Bas ""]",['traditional']
+23,Z?rich,Reto-Suhner-Nonet,2014-03-12,"[' Reto Suhner ', ' Adrian Pflugshaupt ', ' Matthias Tschopp ', ' Lukas Th?ni ']","['Jazz', 'Blues', 'Soul']"
+24,W?denswil,Chamber-Soul,2014-03-12,"[' Brandy Butler ', ' Roman Hosek ', ' Ren? Mosele ']","['Hip', 'Hop', ""R'n'B""]"
+25,Bern,Dobet-Gnahor?,2014-03-12,['Dobet Gnahor? '],"['world', 'music']"
+26,Z?rich,Bukowski-&-The-Straight-and-Narrow,2014-03-12,['The Blue Angel Lounge '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Luzern,Mad-Girl,2014-03-12,"[' Franziska Bruecker ', ' Corinne Huber ', ' Lander Gyselinck ']",['Pop']
+28,null,Voix-de-f?te,2014-03-12,['Les Innocents '],['Pop']
+29,Z?rich,Beyond-Insane,2014-03-12,"[' Renzo Spotti ', ' Tomi Hirt ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+30,Aarburg,King-King,2014-03-12,['King King '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Luzern,Geoff-Berner-und-Corb-Lund,2014-03-12,['Geoff Berner und Corb Lund '],"['world', 'music']"

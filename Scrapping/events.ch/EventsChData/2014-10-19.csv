@@ -1,29 +1,29 @@
-location,event,date,artists,genre
-null,Matinéekonzert-der-Kulturkommission,2014-10-19,"[' Katharina Kobelt ', ' Adrian Bodmer ', ' Johannes Kobelt ']",Classic
-Walkringen,Matinee-4-Komödien-und-Dramen,2014-10-19,['Arta Arnicane '],Classic
-Schaffhausen,Violinsonaten,2014-10-19,"['Sebastian Bohren ', ' Eleonora Em-Schoch ']",Classic
-Zürich,Rusconis-Kinder-Arkestra,2014-10-19,"[' Stefan Rusconi ', ' Fabian Gisler ', ' Claudio Strüby ']",
-Basel,Sudha-Ragunathan,2014-10-19,['Sudha Ragunathan '],
-Fischingen,Kammermusik,2014-10-19,"['Eva Maria Hux ', ' Daniela Timokhine ']",Classic
-Dornach,Konzert,2014-10-19,['Jörg Demus '],Classic
-Luzern,The-Little-Match-Girl,2014-10-19,"[' Gabriela Bürgler ', ' Caroline Reitzel ', ' Aline Willi ', ' Annina Haug ', ' Alexandra Hebart ', ' Carmen Würsch ']",Classic
-Unterägeri,Zuger-Jazz,2014-10-19,"['Hansueli Krähenbühl ', ' Hugo Helfenstein ', ' Rolf Treichler ', ' Roland von Flüe ', ' Fredi Krähenbühl ', ' Roberto Bossard ', "" Alessandro d'Episcopo "", ' Raffaele Bossard ', ' Elmar Frey ']",
-null,Herbstkonzert,2014-10-19,"[' Hanna Morell ', ' Barbara Suter ', ' Heinz Bussmann ', ' Louis Chanson ']",Classic
-Aarau,Der-Liebeszauber-el-amor-brujo,2014-10-19,"[' Christina Daletska ', ' Luciano Jungman ']",Classic
-Zürich,Geistliches-Chorkonzert,2014-10-19,"[' Eun-Ah Cho-Nitschke ', ' Sarah Maeder ']",Classic
-Brugg,Ivy-Trio,2014-10-19,"[' Jeanpierre Schaller ', ' Fabienne Hoerni ', ' ss) Félix Bergeron ']",
-Bern,Prairies-urbaines,2014-10-19,"[' Anna-Katharina Graf ', ' Simone Keller ', ' Ernesto Molinari ', ' Marcel Zaes ']",
-Luzern,Klub-Konzerte-Luzern,2014-10-19,"[' Matthias Leupold ', ' Robert Schmidt ']",
-Luzern,George-Robert-All-Stars-Quartet,2014-10-19,"[' George Robert ', ' Dado Moroni ', ' Peter Washington ', ' Jeff Hamilton ']",
-Wetzikon,Lateinamerikanische-Harfenmusik,2014-10-19,['Daniela Lorenz '],Classic
-Zürich,Sylvie-Courvoisier-Mark-Feldman-4tet,2014-10-19,"[' Sylvie Courvoisier ', ' Mark Feldman ', ' Scott Colley ', ' Billy Mintz ']",
-Winterthur,Inea,2014-10-19,"[' Andrina Bollinger ', ' Marena Whitcher ']",
-Zürich,James-Vincent-McMorrow,2014-10-19,"['James Vincent McMorrow ', ' support: I Have A Tribe ']",
-Basel,Dillon,2014-10-19,['Dillon '],Pop
-Pratteln,Schandmaul,2014-10-19,['Schandmaul '],
-null,The-Antlers,2014-10-19,"['The Antlers ', ' Maria Hackmann ']",
-Zürich,Kaiser-Chiefs,2014-10-19,['Kaiser Chiefs '],
-Murten,Bliss,2014-10-19,['Bliss '],Pop
-Zürich,The-Barr-Brothers,2014-10-19,['The Barr Brothers '],
-Baden,Go-Go-Berlin,2014-10-19,['Go Go Berlin '],
-Bern,Prairies-urbaines,2014-10-19,"[' Katryn Hasler ', ' Florine Juvet ', ' Marcel Zaes ']",
+,location,event,date,artists,genre
+0,null,Matin?ekonzert-der-Kulturkommission,2014-10-19,"[' Katharina Kobelt ', ' Adrian Bodmer ', ' Johannes Kobelt ']",['Classic']
+1,Walkringen,Matinee-4-Kom?dien-und-Dramen,2014-10-19,['Arta Arnicane '],['Classic']
+2,Schaffhausen,Violinsonaten,2014-10-19,"['Sebastian Bohren ', ' Eleonora Em-Schoch ']",['Classic']
+3,Z?rich,Rusconis-Kinder-Arkestra,2014-10-19,"[' Stefan Rusconi ', ' Fabian Gisler ', ' Claudio Str?by ']","['Jazz', 'Blues', 'Soul']"
+4,Basel,Sudha-Ragunathan,2014-10-19,['Sudha Ragunathan '],"['world', 'music']"
+5,Fischingen,Kammermusik,2014-10-19,"['Eva Maria Hux ', ' Daniela Timokhine ']",['Classic']
+6,Dornach,Konzert,2014-10-19,['J?rg Demus '],['Classic']
+7,Z?rich,Geistliches-Chorkonzert,2014-10-19,"[' Eun-Ah Cho-Nitschke ', ' Sarah Maeder ']",['Classic']
+8,Luzern,The-Little-Match-Girl,2014-10-19,"[' Gabriela B?rgler ', ' Caroline Reitzel ', ' Aline Willi ', ' Annina Haug ', ' Alexandra Hebart ', ' Carmen W?rsch ']",['Classic']
+9,Unter?geri,Zuger-Jazz,2014-10-19,"['Hansueli Kr?henb?hl ', ' Hugo Helfenstein ', ' Rolf Treichler ', ' Roland von Fl?e ', ' Fredi Kr?henb?hl ', ' Roberto Bossard ', "" Alessandro d'Episcopo "", ' Raffaele Bossard ', ' Elmar Frey ']","['Jazz', 'Blues', 'Soul']"
+10,Aarau,Der-Liebeszauber-el-amor-brujo,2014-10-19,"[' Christina Daletska ', ' Luciano Jungman ']",['Classic']
+11,null,Herbstkonzert,2014-10-19,"[' Hanna Morell ', ' Barbara Suter ', ' Heinz Bussmann ', ' Louis Chanson ']",['Classic']
+12,Bern,Prairies-urbaines,2014-10-19,"[' Anna-Katharina Graf ', ' Simone Keller ', ' Ernesto Molinari ', ' Marcel Zaes ']","['Jazz', 'Blues', 'Soul']"
+13,Brugg,Ivy-Trio,2014-10-19,"[' Jeanpierre Schaller ', ' Fabienne Hoerni ', ' ss) F?lix Bergeron ']","['Jazz', 'Blues', 'Soul']"
+14,Wetzikon,Lateinamerikanische-Harfenmusik,2014-10-19,['Daniela Lorenz '],['Classic']
+15,Z?rich,Sylvie-Courvoisier-Mark-Feldman-4tet,2014-10-19,"[' Sylvie Courvoisier ', ' Mark Feldman ', ' Scott Colley ', ' Billy Mintz ']","['Jazz', 'Blues', 'Soul']"
+16,Luzern,George-Robert-All-Stars-Quartet,2014-10-19,"[' George Robert ', ' Dado Moroni ', ' Peter Washington ', ' Jeff Hamilton ']","['Jazz', 'Blues', 'Soul']"
+17,Luzern,Klub-Konzerte-Luzern,2014-10-19,"[' Matthias Leupold ', ' Robert Schmidt ']","['world', 'music']"
+18,Winterthur,Inea,2014-10-19,"[' Andrina Bollinger ', ' Marena Whitcher ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Z?rich,James-Vincent-McMorrow,2014-10-19,"['James Vincent McMorrow ', ' support: I Have A Tribe ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,null,The-Antlers,2014-10-19,"['The Antlers ', ' Maria Hackmann ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Basel,Dillon,2014-10-19,['Dillon '],['Pop']
+22,Z?rich,Kaiser-Chiefs,2014-10-19,['Kaiser Chiefs '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Pratteln,Schandmaul,2014-10-19,['Schandmaul '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Murten,Bliss,2014-10-19,['Bliss '],['Pop']
+25,Z?rich,The-Barr-Brothers,2014-10-19,['The Barr Brothers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Baden,Go-Go-Berlin,2014-10-19,['Go Go Berlin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Bern,Prairies-urbaines,2014-10-19,"[' Katryn Hasler ', ' Florine Juvet ', ' Marcel Zaes ']","['Jazz', 'Blues', 'Soul']"

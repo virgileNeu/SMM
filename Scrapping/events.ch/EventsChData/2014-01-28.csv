@@ -1,15 +1,15 @@
-location,event,date,artists,genre
-Zürich,Jazzapero,2014-01-28,"[' Trio Silvan Jeger ', ' Thierry Kuster ', ' Claude Meier ']",
-Basel,Wahlverwandtschaften,2014-01-28,['Klavierklasse Franz Frautschi '],
-Basel,Konzert,2014-01-28,[' Franziska Hirzel '],Classic
-Zürich,Konzert,2014-01-28,[' conductor: András Schiff '],Classic
-Winterthur,Liederabend-Winterreise,2014-01-28,"['Christoph Prégardien ', ' Ulrich Koella ']",Classic
-Bern,Klavierkonzert,2014-01-28,"[' Alexander Ruef ', ' Stefan Meier ', ' conductor: Matthias Kuhn ']",Classic
-Zürich,ZKO-Meets-Annakin,2014-01-28,"[' Annakin ', ' Manu Delago ']",Pop
-null,Abokonzert,2014-01-28,"[' Ramon Ortega Quero ', ' Noa Wildschut ']",Classic
-Basel,Lisette-Spinnler-Quintet,2014-01-28,"[' Lisette Spinnler ', ' Alex Hendriksen ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-Pratteln,Beasto-Blanko,2014-01-28,['Beasto Blanko '],
-Pratteln,Beasto-Blaco,2014-01-28,['Beasto Blaco '],
-Basel,Salsaloca,2014-01-28,"[' dance animation by Yermany Laurenty Sotelo ', ' Tahyra Montalvo ']",
-Bern,Tuesday-Jam,2014-01-28,"['Niklaus Hürni ', ' Fabian Mueller ', ' Kaspar von Grünigen ', ' Alex Maurer ']",
-Zürich,TV-Ghost,2014-01-28,['TV Ghost '],
+,location,event,date,artists,genre
+0,Z?rich,Jazzapero,2014-01-28,"[' Trio Silvan Jeger ', ' Thierry Kuster ', ' Claude Meier ']","['Jazz', 'Blues', 'Soul']"
+1,Basel,Wahlverwandtschaften,2014-01-28,['Klavierklasse Franz Frautschi '],"['Jazz', 'Blues', 'Soul']"
+2,Basel,Konzert,2014-01-28,[' Franziska Hirzel '],['Classic']
+3,Z?rich,Konzert,2014-01-28,[' conductor: Andr?s Schiff '],['Classic']
+4,Winterthur,Liederabend-Winterreise,2014-01-28,"['Christoph Pr?gardien ', ' Ulrich Koella ']",['Classic']
+5,null,Abokonzert,2014-01-28,"[' Ramon Ortega Quero ', ' Noa Wildschut ']",['Classic']
+6,Z?rich,ZKO-Meets-Annakin,2014-01-28,"[' Annakin ', ' Manu Delago ']",['Pop']
+7,Bern,Klavierkonzert,2014-01-28,"[' Alexander Ruef ', ' Stefan Meier ', ' conductor: Matthias Kuhn ']",['Classic']
+8,Pratteln,Beasto-Blanko,2014-01-28,['Beasto Blanko '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Basel,Lisette-Spinnler-Quintet,2014-01-28,"[' Lisette Spinnler ', ' Alex Hendriksen ', ' Stefan Aeby ', ' Andr? Pousaz ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+10,Pratteln,Beasto-Blaco,2014-01-28,['Beasto Blaco '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Basel,Salsaloca,2014-01-28,"[' dance animation by Yermany Laurenty Sotelo ', ' Tahyra Montalvo ']","['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+12,Bern,Tuesday-Jam,2014-01-28,"['Niklaus H?rni ', ' Fabian Mueller ', ' Kaspar von Gr?nigen ', ' Alex Maurer ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,TV-Ghost,2014-01-28,['TV Ghost '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

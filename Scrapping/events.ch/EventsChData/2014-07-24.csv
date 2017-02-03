@@ -1,24 +1,23 @@
-location,event,date,artists,genre
-Verbier,Verbier-Festival,2014-07-24,"['Ray Chen ', ' Julien Quentin ']",Classic
-Verbier,Verbier-Festival,2014-07-24,[' Jonathan Papp '],Classic
-Nyon,Paléo-Festival,2014-07-24,"['St. Lô ', ' Klô Pelgag ', ' Lisa LeBlanc ']",
-Nyon,Paléo-Festival,2014-07-24,"['La Rue Ketanou ', ' The Parov Stelar Band ', ' Grand Corps Malade ', ' The Excitements ']",Pop
-Nyon,Paléo-Festival,2014-07-24,"['Matanza ', ' Cumbia All Stars ', ' Cimarron ', ' Bigote DJ Set ']",Electronic
-Luzern,Blue-Balls-Festival,2014-07-24,[' Blues Pills '],
-Luzern,Blue-Balls-Festival,2014-07-24,['Milhouse Palacios '],
-Luzern,Blue-Balls-Festival,2014-07-24,['Hellabama Honky Tonks '],
-Nyon,Paléo-Festival,2014-07-24,"['Elton John ', ' Zaz ', ' Trombone Shorty & Orleans Avenue ']",Pop
-Verbier,Verbier-Festival,2014-07-24,"[' Ekaterina Semenchuk ', ' Daniil Trifonov ']",Classic
-Saanen,Menuhin-Festival-Gstaad,2014-07-24,[' conductor: Christian Zacharias '],Classic
-Verbier,Verbier-Festival,2014-07-24,"[' Lawrence Power ', ' Frans Helmerson ']",Classic
-Luzern,Blue-Balls-Festival,2014-07-24,['Goldfrapp '],Pop
-null,Stimmen,2014-07-24,['The Boss Hoss '],
-Thun,Am-Schluss,2014-07-24,['Habib Koitè & Bamada '],
-Zürich,Radio-Moscow,2014-07-24,['Radio Moscow '],
-Luzern,Blue-Balls-Festival,2014-07-24,"[""Fat Freddy's Drop "", ' Jamie Woon ']",
-Basel,Montreux-Jazz-Quartet-feat.-Olivier-Ker-Ourio,2014-07-24,"[' Olivier Ker Ourio ', ' Thomas Dobler ', ' Thierry Lang ', ' Stephan Kurmann ', ' Peter Schmidlin ']",
-St.-Moritz,Festival-da-Jazz,2014-07-24,"['Joshua Redman Quartet ', ' Joshua Redman ', ' Aaron Goldberg ', ' Reuben Rogers ', ' Gregory Hutchinson ']",
-Zürich,Stadtsommer,2014-07-24,"[' Joileah Concepcion ', ' Raphael Peter ', ' Martin Luzio ']",
-St.-Moritz,Festival-da-Jazz,2014-07-24,"['Joshua Redman Quartet ', ' Joshua Redman ', ' Aaron Goldberg ', ' Reuben Rogers ', ' Gregory Hutchinson ']",
-Maggia,Magic-Blues-Festival,2014-07-24,"['Lucky Peterson ', ' Mike Seeber Trio ']",
-St.-Moritz,Festival-da-Jazz,2014-07-24,"[' Michael Bucher ', ' Thomas Bauser ', ' Lukas Mantel ']",
+,location,event,date,artists,genre
+0,Verbier,Verbier-Festival,2014-07-24,"['Ray Chen ', ' Julien Quentin ']",['Classic']
+1,Verbier,Verbier-Festival,2014-07-24,[' Jonathan Papp '],['Classic']
+2,Nyon,Pal?o-Festival,2014-07-24,"['St. L? ', ' Kl? Pelgag ', ' Lisa LeBlanc ']","['Hip', 'Hop', ""R'n'B""]"
+3,Nyon,Pal?o-Festival,2014-07-24,"['La Rue Ketanou ', ' The Parov Stelar Band ', ' Grand Corps Malade ', ' The Excitements ']",['Pop']
+4,Nyon,Pal?o-Festival,2014-07-24,"['Matanza ', ' Cumbia All Stars ', ' Cimarron ', ' Bigote DJ Set ']",['Electronic']
+5,Luzern,Blue-Balls-Festival,2014-07-24,['Milhouse Palacios '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Luzern,Blue-Balls-Festival,2014-07-24,[' Blues Pills '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Luzern,Blue-Balls-Festival,2014-07-24,['Hellabama Honky Tonks '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Nyon,Pal?o-Festival,2014-07-24,[' Orleans Avenue '],['Pop']
+9,Verbier,Verbier-Festival,2014-07-24,"[' Ekaterina Semenchuk ', ' Daniil Trifonov ']",['Classic']
+10,Saanen,Menuhin-Festival-Gstaad,2014-07-24,[' conductor: Christian Zacharias '],['Classic']
+11,Luzern,Blue-Balls-Festival,2014-07-24,['Goldfrapp '],['Pop']
+12,null,Stimmen,2014-07-24,['The Boss Hoss '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Thun,Am-Schluss,2014-07-24,[' Bamada '],"['world', 'music']"
+14,Verbier,Verbier-Festival,2014-07-24,"[' Lawrence Power ', ' Frans Helmerson ']",['Classic']
+15,Luzern,Blue-Balls-Festival,2014-07-24,"[""Fat Freddy's Drop "", ' Jamie Woon ']","['Hip', 'Hop', ""R'n'B""]"
+16,Basel,Montreux-Jazz-Quartet-feat.-Olivier-Ker-Ourio,2014-07-24,"[' Olivier Ker Ourio ', ' Thomas Dobler ', ' Thierry Lang ', ' Stephan Kurmann ', ' Peter Schmidlin ']","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,Radio-Moscow,2014-07-24,['Radio Moscow '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Z?rich,Stadtsommer,2014-07-24,"[' Joileah Concepcion ', ' Raphael Peter ', ' Martin Luzio ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Maggia,Magic-Blues-Festival,2014-07-24,"['Lucky Peterson ', ' Mike Seeber Trio ']","['Jazz', 'Blues', 'Soul']"
+20,St.-Moritz,Festival-da-Jazz,2014-07-24,"['Joshua Redman Quartet ', ' Joshua Redman ', ' Aaron Goldberg ', ' Reuben Rogers ', ' Gregory Hutchinson ']","['Jazz', 'Blues', 'Soul']"
+21,St.-Moritz,Festival-da-Jazz,2014-07-24,"[' Michael Bucher ', ' Thomas Bauser ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"

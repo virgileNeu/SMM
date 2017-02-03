@@ -1,25 +1,24 @@
-location,event,date,artists,genre
-Basel,Mimiko-Melancholia,2014-02-26,"['Ola Sendecki ', ' Lukas Raaflaub ', ' Oliwia Grabowska ']",Classic
-Winterthur,Die-Kultursuppe,2014-02-26,['Daniel Ziegler '],Pop
-Zürich,Steirer-Quintett,2014-02-26,['Steirer Quintett '],traditional
-Baden,After-Work-Music,2014-02-26,"[' Marco Santilli ', ' Sandro Schneebeli ']",
-Luzern,Piano-Entertainment,2014-02-26,['Mark Tenger '],
-Windisch,Musik-verkörpern,2014-02-26,['Jürg Lüthy '],Classic
-Zürich,Konzert,2014-02-26,"[' Sabine Poyé Morel ', ' Simon Fuchs ', ' Michael Reid ', ' Matthias Rácz ', ' Philippe Litzler ']",Classic
-Zürich,Jazz-im-Seefeld,2014-02-26,"[' Tobias Preisig ', ' Michael Flury ', ' Simone Vollenweider ', ' Roberto Domeniconi ', ' Dominique Girod ', ' Claudio Strüby ']",
-Basel,COOP-Sinfoniekonzert,2014-02-26,[' Benedikt Schobel '],Classic
-null,Of-Montreal,2014-02-26,['Of Montreal '],Pop
-Zürich,Wandelnde-Sehnsucht,2014-02-26,"['Anna Steiner ', ' Chasper Mani ', ' Jens Fuhr ']",Classic
-Luzern,Jam-Night,2014-02-26,"['Mischa Maurer ', ' Martial In-Albon ', ' Flurin Iten ', ' Claudio Berger ', ' Simon Gautsch ']",
-Bern,Milky-Chance,2014-02-26,['Milky Chance '],Pop
-Zürich,Dee-Day-Dub,2014-02-26,['Dee Day Dub '],
-Bern,Simple-Minds,2014-02-26,['Simple Minds '],Pop
-Zürich,Jazzbaragge-Wednesday-Jam,2014-02-26,"['Oliver Keller ', ' Luca Leombruni ', ' Dominik Burkhalter ']",
-Basel,Brad-Mehldau-Trio-feat.-Larry-Grenadier,2014-02-26,['Brad Mehldau Trio feat. Larry Grenadier & Jeff Ballard '],
-Frauenfeld,Yves-Theiler,2014-02-26,"[' Yves Theiler ', ' Omri Ziegele ']",
-Zürich,Artist-in-Residence-Andreas-Tschopp,2014-02-26,"[' Tobias Meier ', ' Matthias Spillmann ', ' Frantz Loriot ', ' Nicola Romanò ', ' Raffaele Bossard ']",
-Basel,Gropper-Troller-Pfamatter-Sartorius,2014-02-26,"[' Philipp Gropper ', ' Hans-Peter Pfammatter ', ' Manuel Troller ', ' Julian Sartorius ']",
-Bern,Lucien-Dubuis-Trio-&-The-Spacetet,2014-02-26,"[' Lucien Dubuis ', ' Roman Nowka ', ' Lionel Friedli ', ' Estelle Beiner ', ' Regula Schwab ', ' Isabelle Gottraux ', ' Barbara Gasser ']",
-Zürich,Bukowski,2014-02-26,['Aestrid '],
-Lausanne,Lindi-Ortega,2014-02-26,['Lindi Ortega '],
-Lausanne,One-Lick-Less,2014-02-26,['One Lick Less '],
+,location,event,date,artists,genre
+0,Basel,Mimiko-Melancholia,2014-02-26,"['Ola Sendecki ', ' Lukas Raaflaub ', ' Oliwia Grabowska ']",['Classic']
+1,Winterthur,Die-Kultursuppe,2014-02-26,['Daniel Ziegler '],['Pop']
+2,Z?rich,Steirer-Quintett,2014-02-26,['Steirer Quintett '],['traditional']
+3,Baden,After-Work-Music,2014-02-26,"[' Marco Santilli ', ' Sandro Schneebeli ']","['world', 'music']"
+4,Windisch,Musik-verk?rpern,2014-02-26,['J?rg L?thy '],['Classic']
+5,Z?rich,Jazz-im-Seefeld,2014-02-26,"[' Tobias Preisig ', ' Michael Flury ', ' Simone Vollenweider ', ' Roberto Domeniconi ', ' Dominique Girod ', ' Claudio Str?by ']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Konzert,2014-02-26,"[' Sabine Poy? Morel ', ' Simon Fuchs ', ' Michael Reid ', ' Matthias R?cz ', ' Philippe Litzler ']",['Classic']
+7,Basel,COOP-Sinfoniekonzert,2014-02-26,[' Benedikt Schobel '],['Classic']
+8,null,Of-Montreal,2014-02-26,['Of Montreal '],['Pop']
+9,Z?rich,Jazzbaragge-Wednesday-Jam,2014-02-26,"['Oliver Keller ', ' Luca Leombruni ', ' Dominik Burkhalter ']","['Jazz', 'Blues', 'Soul']"
+10,Luzern,Jam-Night,2014-02-26,"['Mischa Maurer ', ' Martial In-Albon ', ' Flurin Iten ', ' Claudio Berger ', ' Simon Gautsch ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Bern,Milky-Chance,2014-02-26,['Milky Chance '],['Pop']
+12,Z?rich,Wandelnde-Sehnsucht,2014-02-26,"['Anna Steiner ', ' Chasper Mani ', ' Jens Fuhr ']",['Classic']
+13,Bern,Simple-Minds,2014-02-26,['Simple Minds '],['Pop']
+14,Z?rich,Dee-Day-Dub,2014-02-26,['Dee Day Dub '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Basel,Brad-Mehldau-Trio-feat.-Larry-Grenadier,2014-02-26,[' Jeff Ballard '],"['Jazz', 'Blues', 'Soul']"
+16,Frauenfeld,Yves-Theiler,2014-02-26,"[' Yves Theiler ', ' Omri Ziegele ']","['Jazz', 'Blues', 'Soul']"
+17,Basel,Gropper-Troller-Pfamatter-Sartorius,2014-02-26,"[' Philipp Gropper ', ' Hans-Peter Pfammatter ', ' Manuel Troller ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+18,Bern,Lucien-Dubuis-Trio-&-The-Spacetet,2014-02-26,"[' Lucien Dubuis ', ' Roman Nowka ', ' Lionel Friedli ', ' Estelle Beiner ', ' Regula Schwab ', ' Isabelle Gottraux ', ' Barbara Gasser ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,Artist-in-Residence-Andreas-Tschopp,2014-02-26,"[' Tobias Meier ', ' Matthias Spillmann ', ' Frantz Loriot ', ' Nicola Roman? ', ' Raffaele Bossard ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Bukowski,2014-02-26,['Aestrid '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Lausanne,Lindi-Ortega,2014-02-26,['Lindi Ortega '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Lausanne,One-Lick-Less,2014-02-26,['One Lick Less '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

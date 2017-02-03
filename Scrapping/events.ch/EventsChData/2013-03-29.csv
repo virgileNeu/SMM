@@ -1,35 +1,35 @@
-location,event,date,artists,genre
-null,Electron-Festival,2013-03-29,['Egyptology '],Electronic
-Zürich,Passionskonzert,2013-03-29,"[' Dela Hüttner ', ' Mirjam Blessing ', ' Felix Rienth ', ' Peter Mächler ']",Classic
-Zürich,Missa-solemnis,2013-03-29,"[' Susanne Bernhard ', ' Katharina Kammerloher ', ' Florian Stern ', ' Alfred Reiter ']",Classic
-null,Der-erste-Ton,2013-03-29,"[' Hanspeter Müller-Drossaart ', ' Franziska Hirzel ', ' Jeannine Hirzel ', ' Rolf Romei ']",Classic
-Heiden,Passionskonzert,2013-03-29,"['Muriel Schwarz ', ' Aurea Marston ', ' Erlend Tvinnereim ', ' Michael Raschle ']",Classic
-Dietikon,Wort-&-Musik-zur-Passion,2013-03-29,"['Christine Esser ', ' Elisabeth Berner ', ' Pfrn. Willemien Lammers ']",Classic
-Zürich,Orgelkonzert-zum-Karfreitag,2013-03-29,"['Anna Buczek Merz ', ' Rahel Keiser ']",Classic
-Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-03-29,['Christian Mettler '],Pop
-Basel,Johannes-Passion,2013-03-29,"[' Maria Bernius ', ' Roswitha Müller ', ' Max Ciolek ', ' Yeunku Chu ', ' Olaf Schöder ']",Classic
-Luzern,Konzert,2013-03-29,"['Ada Pesch ', ' Elisabeth Scholl ', ' Andreas Scholl ', ' Philipp Mahrenholz ']",Classic
-Wallisellen,Konzert,2013-03-29,['Ivo Jeschofnik '],Classic
-Bern,Internationales-Jazzfestival-Bern,2013-03-29,['Shemekia Copeland '],
-null,Pipes-&-Pints,2013-03-29,['Pipes & Pints '],
-Uster,Antimatter,2013-03-29,"['Antimatter ', ' Vic Anselmo ', ' Kevin K ']",
-Kongresshaus,Zürich,2013-03-29,['The Ten Tenors '],
-Luzern,Festliche-Melodien,2013-03-29,"['Martin Schaefer ', ' Christian Mettler ']",Classic
-Zürich,Anton-&-The-Headcleaners,2013-03-29,"[' Anton Brüschweiler ', ' Oli Illi ', ' Tom Gasser ', ' Chrigel Bosshard ']",
-Zürich,Schlummert-ein-ihr-matten-Augen,2013-03-29,[' Christian Hilz '],Classic
-Kafi-für-Dich,Zürich,2013-03-29,['Digger Barnes '],
-Winterthur,Ras-Manuel,2013-03-29,"['Ras Manuel ', ' Gappy Ranks ']",
-Schaffhausen,Inner-Circle,2013-03-29,['Inner Circle '],Pop
-Aarburg,Vdelli,2013-03-29,['Vdelli '],
-null,Atari-Teenage-Riot,2013-03-29,['Atari Teenage Riot '],Electronic
-null,The-Experimentale-Tropic-Blues-Band,2013-03-29,['The Experimentale Tropic Blues Band '],
-null,Jam-Session,2013-03-29,"['Claire Huguenin ', ' Luzius Schuler ', ' Christian Spahni ', ' Domi Chansorn ']",
-Zürich,Sichtbeton,2013-03-29,"[' Niculin Janett ', ' Lukas Wyss ', ' Nils Fischer ', ' Yves Theiler ', ' Moritz Meyer ', ' Valentin Dietrich ', ' Ramón Oliveras ']",
-Sommercasino,Basel,2013-03-29,"['Naked Lunch ', ' Sea & Air ']",Air
-Basel,Party,2013-03-29,['DJs Amely '],
-Zürich,Lucien-Dubuis-Trio,2013-03-29,"[' Lucien Dubuis ', ' Roman Nowka ', ' Lionel Friedli ']",
-Bern,Internationales-Jazzfestival-Bern,2013-03-29,['Shemekia Copeland '],
-Bar-Rossi,Zürich,2013-03-29,"[' Michael Wespi ', ' Joel D Allison ', ' Luzian Graber ']",
-Zürich,Retro-Stefson,2013-03-29,['Retro Stefson '],Pop
-Bern,Otto-Von-Schirach,2013-03-29,['Otto Von Schirach '],
-Lausanne,Professor-Genius,2013-03-29,['Professor Genius '],Electronic
+,location,event,date,artists,genre
+0,null,Electron-Festival,2013-03-29,['Egyptology '],['Electronic']
+1,Zürich,Passionskonzert,2013-03-29,"[' Dela Hüttner ', ' Mirjam Blessing ', ' Felix Rienth ', ' Peter Mächler ']",['Classic']
+2,Zürich,Missa-solemnis,2013-03-29,"[' Susanne Bernhard ', ' Katharina Kammerloher ', ' Florian Stern ', ' Alfred Reiter ']",['Classic']
+3,null,Der-erste-Ton,2013-03-29,"[' Hanspeter Müller-Drossaart ', ' Franziska Hirzel ', ' Jeannine Hirzel ', ' Rolf Romei ']",['Classic']
+4,Heiden,Passionskonzert,2013-03-29,"['Muriel Schwarz ', ' Aurea Marston ', ' Erlend Tvinnereim ', ' Michael Raschle ']",['Classic']
+5,Dietikon,Wort-&-Musik-zur-Passion,2013-03-29,"['Christine Esser ', ' Elisabeth Berner ', ' Pfrn. Willemien Lammers ']",['Classic']
+6,Zürich,Orgelkonzert-zum-Karfreitag,2013-03-29,"['Anna Buczek Merz ', ' Rahel Keiser ']",['Classic']
+7,Luzern,Piano-Entertainment-Easy-Pop-Melodies,2013-03-29,['Christian Mettler '],['Pop']
+8,Basel,Johannes-Passion,2013-03-29,"[' Maria Bernius ', ' Roswitha Müller ', ' Max Ciolek ', ' Yeunku Chu ', ' Olaf Schöder ']",['Classic']
+9,Luzern,Konzert,2013-03-29,"['Ada Pesch ', ' Elisabeth Scholl ', ' Andreas Scholl ', ' Philipp Mahrenholz ']",['Classic']
+10,Wallisellen,Konzert,2013-03-29,['Ivo Jeschofnik '],['Classic']
+11,Bern,Internationales-Jazzfestival-Bern,2013-03-29,['Shemekia Copeland '],"['Jazz', 'Blues', 'Soul']"
+12,null,Pipes-&-Pints,2013-03-29,['Pipes & Pints '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Uster,Antimatter,2013-03-29,"['Antimatter ', ' Vic Anselmo ', ' Kevin K ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Kongresshaus,Zürich,2013-03-29,['The Ten Tenors '],"['The', 'Ten', 'Tenors']"
+15,Luzern,Festliche-Melodien,2013-03-29,"['Martin Schaefer ', ' Christian Mettler ']",['Classic']
+16,Kafi-für-Dich,Zürich,2013-03-29,['Digger Barnes '],"['Digger', 'Barnes']"
+17,Zürich,Schlummert-ein-ihr-matten-Augen,2013-03-29,[' Christian Hilz '],['Classic']
+18,Zürich,Anton-&-The-Headcleaners,2013-03-29,"[' Anton Brüschweiler ', ' Oli Illi ', ' Tom Gasser ', ' Chrigel Bosshard ']","['Jazz', 'Blues', 'Soul']"
+19,null,The-Experimentale-Tropic-Blues-Band,2013-03-29,['The Experimentale Tropic Blues Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,null,Atari-Teenage-Riot,2013-03-29,['Atari Teenage Riot '],['Electronic']
+21,Aarburg,Vdelli,2013-03-29,['Vdelli '],"['Jazz', 'Blues', 'Soul']"
+22,Schaffhausen,Inner-Circle,2013-03-29,['Inner Circle '],['Pop']
+23,Winterthur,Ras-Manuel,2013-03-29,"['Ras Manuel ', ' Gappy Ranks ']","['world', 'music']"
+24,null,Jam-Session,2013-03-29,"['Claire Huguenin ', ' Luzius Schuler ', ' Christian Spahni ', ' Domi Chansorn ']","['Jazz', 'Blues', 'Soul']"
+25,Zürich,Sichtbeton,2013-03-29,"[' Niculin Janett ', ' Lukas Wyss ', ' Nils Fischer ', ' Yves Theiler ', ' Moritz Meyer ', ' Valentin Dietrich ', ' Ramón Oliveras ']","['Jazz', 'Blues', 'Soul']"
+26,Sommercasino,Basel,2013-03-29,"['Naked Lunch ', ' Sea & Air ']",['Air']
+27,Bern,Internationales-Jazzfestival-Bern,2013-03-29,['Shemekia Copeland '],"['Jazz', 'Blues', 'Soul']"
+28,Basel,Party,2013-03-29,['DJs Amely '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+29,Bar-Rossi,Zürich,2013-03-29,"[' Michael Wespi ', ' Joel D Allison ', ' Luzian Graber ']","['Michael', 'Wespi']"
+30,Zürich,Retro-Stefson,2013-03-29,['Retro Stefson '],['Pop']
+31,Zürich,Lucien-Dubuis-Trio,2013-03-29,"[' Lucien Dubuis ', ' Roman Nowka ', ' Lionel Friedli ']","['Jazz', 'Blues', 'Soul']"
+32,Bern,Otto-Von-Schirach,2013-03-29,['Otto Von Schirach '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Lausanne,Professor-Genius,2013-03-29,['Professor Genius '],['Electronic']

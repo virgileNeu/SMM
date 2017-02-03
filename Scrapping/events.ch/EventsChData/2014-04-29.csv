@@ -1,17 +1,16 @@
-location,event,date,artists,genre
-Zürich,Jazzapero,2014-04-29,"[' Christina Jaccard ', ' Christian Rösli ', ' Thomas Reinecke ', ' Andreas Schmid ']",
-Luzern,Piano-Entertainment,2014-04-29,['Daniel Ross '],Pop
-Zürich,Klavier-Rezital,2014-04-29,['Yulia Miloslavskaya '],Classic
-Zürich,Messe-Nr.-3-in-F-Moll,2014-04-29,"[' Irena Bespalovaite ', ' Wiebke Lehmkuhl ', ' Julian Prégardien ', ' Klaus Mertens ']",Classic
-Bern,Drei-Musikerfreunde,2014-04-29,"['Le-Thanh ', ' Flemming Borby ']",Pop
-null,Mozes-and-the-Firstborn,2014-04-29,['Mozes and the Firstborn '],
-Bern,The-Baseballs,2014-04-29,['The Baseballs '],
-Zürich,Renee-Rosnes,2014-04-29,"['Renee Rosnes ', ' Renee Rosnes ', ' Steve Nelson ', ' Peter Washington ', ' Lewis Nash ']",
-Zürich,Halestorm,2014-04-29,"['Halestorm ', ' Dayshell ', ' The Smoking Hearts ']",
-Basel,Jazzfestival-Basel,2014-04-29,"[' Wolfgang Dauner ', ' Dieter Ilg ', ' Flo Dauner ']",
-Thun,Colin-Vallon-Trio,2014-04-29,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']",
-Zürich,Babylon-Suite,2014-04-29,"['Kappeler-Zumthor ', ' Vera Kappeler ', ' Peter Conradin Zumthor ']",Classic
-Zürich,Jazzpreis-der-Zürcher-Kantonalbank,2014-04-29,"[' Matthias Tschopp ', ' Yves Theiler ', ' Raffaele Bossard ', ' Alex Huber ', ' Stefanie Suhner ', ' Andreas Lareida ']",
-Basel,Jorge-Rossy-Sextet,2014-04-29,"[' Julian Sanchez ', ' Nat Su ', ' Domenic Landolf ', ' Jorge Rossy ', ' Dominique Girod ', ' Carlos Falanga ']",
-Stans,Stanser-Musiktage,2014-04-29,['Yasmine Hamdan '],Pop
-Zürich,San-Fermin,2014-04-29,['San Fermin '],Pop
+,location,event,date,artists,genre
+0,Z?rich,Jazzapero,2014-04-29,"[' Christina Jaccard ', ' Christian R?sli ', ' Thomas Reinecke ', ' Andreas Schmid ']","['Jazz', 'Blues', 'Soul']"
+1,Z?rich,Messe-Nr.-3-in-F-Moll,2014-04-29,"[' Irena Bespalovaite ', ' Wiebke Lehmkuhl ', ' Julian Pr?gardien ', ' Klaus Mertens ']",['Classic']
+2,Z?rich,Klavier-Rezital,2014-04-29,['Yulia Miloslavskaya '],['Classic']
+3,null,Mozes-and-the-Firstborn,2014-04-29,['Mozes and the Firstborn '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Bern,Drei-Musikerfreunde,2014-04-29,"['Le-Thanh ', ' Flemming Borby ']",['Pop']
+5,Bern,The-Baseballs,2014-04-29,['The Baseballs '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Z?rich,Halestorm,2014-04-29,"['Halestorm ', ' Dayshell ', ' The Smoking Hearts ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,Renee-Rosnes,2014-04-29,"['Renee Rosnes ', ' Renee Rosnes ', ' Steve Nelson ', ' Peter Washington ', ' Lewis Nash ']","['Jazz', 'Blues', 'Soul']"
+8,Basel,Jazzfestival-Basel,2014-04-29,"[' Wolfgang Dauner ', ' Dieter Ilg ', ' Flo Dauner ']","['Jazz', 'Blues', 'Soul']"
+9,Thun,Colin-Vallon-Trio,2014-04-29,"[' Colin Vallon ', ' Patrice Moret ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+10,Basel,Jorge-Rossy-Sextet,2014-04-29,"[' Julian Sanchez ', ' Nat Su ', ' Domenic Landolf ', ' Jorge Rossy ', ' Dominique Girod ', ' Carlos Falanga ']","['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Jazzpreis-der-Z?rcher-Kantonalbank,2014-04-29,"[' Matthias Tschopp ', ' Yves Theiler ', ' Raffaele Bossard ', ' Alex Huber ', ' Stefanie Suhner ', ' Andreas Lareida ']","['Jazz', 'Blues', 'Soul']"
+12,Z?rich,Babylon-Suite,2014-04-29,"['Kappeler-Zumthor ', ' Vera Kappeler ', ' Peter Conradin Zumthor ']",['Classic']
+13,Stans,Stanser-Musiktage,2014-04-29,['Yasmine Hamdan '],['Pop']
+14,Z?rich,San-Fermin,2014-04-29,['San Fermin '],['Pop']

@@ -1,29 +1,29 @@
-location,event,date,artists,genre
-Verbier,Verbier-Festival,2014-07-25,"['Atalla Ayan ', ' James Vaughan ']",Classic
-Degen,Openair-Lumnezia,2014-07-25,"['Kaiser Chiefs ', ' Tyler the Creator ', ' Vitalic ', ' Frittenbude ']",
-Nyon,Paléo-Festival,2014-07-25,['Bombay Show Pig '],Pop
-Nyon,Paléo-Festival,2014-07-25,"[""Salut c'est cool "", ' Fills Monkey ', ' Florent Marchet ']",Electronic
-Nyon,Paléo-Festival,2014-07-25,"['Bernard Lavilliers ', ' Carbon Airways ', ' Maxime Le Forestier ', "" Les Ogres de Barback et la Fanfare Eyo'nlé ""]",Pop
-Nyon,Paléo-Festival,2014-07-25,"['Crew Peligrosos ', ' Palenke Soultribe ', ' Family Atlantica ', ' Dorotop DJ Set ']",
-Luzern,Blue-Balls-Festival,2014-07-25,"['Oy ', ' Djemdi ']",Pop
-Stein-am-Rhein,Klingen-Openair,2014-07-25,"[' Auxes ', ' Kurt ']",
-Luzern,Blue-Balls-Festival,2014-07-25,['Chris Cubeta '],
-Luzern,Piano-Entertainment,2014-07-25,['Daniel Roos '],Pop
-Luzern,Blue-Balls-Festival,2014-07-25,"['Hellabama Honky Tonks ', ' The Young Punx ']",
-Hermatswil,Reeds-Festival,2014-07-25,"['Babylon Circus ', ' Mellow Mood ']",
-Basel,Orgelspiel-zum-Feierabend,2014-07-25,['Louis van Niekerk '],Classic
-Nyon,Paléo-Festival,2014-07-25,"['The Prodigy ', ' Shaka Ponk ', ' Skip the Use ']",Pop
-Verbier,Verbier-Festival,2014-07-25,"['Ray Chen ', ' Kirill Troussov ', ' Lawrence Power ', ' Adrian Brendel ', ' Marie-Elisabeth Hecker ', ' István Várdai ', ' Thomas Hampson ', ' Martin Helmchen ']",Classic
-Münchenbuchsee,Monolog-Sticks-&-Strings,2014-07-25,"['Veronika Lemishenko ', ' Anton Magrichev ']",
-Meisterschwanden,Blues-on-the-Beach-Hallwilersee,2014-07-25,"[' Gino Todesco ', ' Andy Bopp ', ' Tcha Simmons ']",
-null,Menuhin-Festival-Gstaad,2014-07-25,"[' Wolfgang Holzmair ', ' Nils Mönkemeyer ']",Classic
-Fahrwangen,Openair-Fahrwangen,2014-07-25,[' Die Chefs '],
-Verbier,Verbier-Festival,2014-07-25,"[""Choir of St John's College ""]",Classic
-Fahrwangen,Open-Air,2014-07-25,[' Die Chefs '],Pop
-Luzern,Blue-Balls-Festival,2014-07-25,['Paloma Faith '],Pop
-null,Stimmen,2014-07-25,['Babyshambles '],
-Luzern,Blue-Balls-Festival,2014-07-25,"['Joss Stone ', ' Chlöe Howl ']",
-Basel,Montreux-Jazz-Quartet-feat.-Olivier-Ker-Ourio,2014-07-25,"[' Olivier Ker Ourio ', ' Thomas Dobler ', ' Thierry Lang ', ' Stephan Kurmann ', ' Peter Schmidlin ']",
-Zürich,Stadtsommer,2014-07-25,"[' Katerina Stoykova ', ' Angelo Repetto ', ' Hans-Jakob Mühlethaler ', ' Markus Brütsch ', ' Alessandro Gianelli ']",Electronic
-St.-Moritz,Festival-da-Jazz,2014-07-25,"['Cassandra Wilson ', ' Cassandra Wilson ', ' John Cowherd ', ' Brandon Ross ', ' Lonnie Plaxico ', ' John Davis ']",
-St.-Moritz,Festival-da-Jazz,2014-07-25,"[' Michael Bucher ', ' Thomas Bauser ', ' Lukas Mantel ']",
+,location,event,date,artists,genre
+0,Verbier,Verbier-Festival,2014-07-25,"['Atalla Ayan ', ' James Vaughan ']",['Classic']
+1,Degen,Openair-Lumnezia,2014-07-25,"['Kaiser Chiefs ', ' Tyler the Creator ', ' Vitalic ', ' Frittenbude ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Nyon,Pal?o-Festival,2014-07-25,"[""Salut c'est cool "", ' Fills Monkey ', ' Florent Marchet ']",['Electronic']
+3,Nyon,Pal?o-Festival,2014-07-25,['Bombay Show Pig '],['Pop']
+4,Nyon,Pal?o-Festival,2014-07-25,"['Bernard Lavilliers ', ' Carbon Airways ', ' Maxime Le Forestier ', "" Les Ogres de Barback et la Fanfare Eyo'nl? ""]",['Pop']
+5,Nyon,Pal?o-Festival,2014-07-25,"['Crew Peligrosos ', ' Palenke Soultribe ', ' Family Atlantica ', ' Dorotop DJ Set ']","['Hip', 'Hop', ""R'n'B""]"
+6,Stein-am-Rhein,Klingen-Openair,2014-07-25,"[' Auxes ', ' Kurt ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Luzern,Piano-Entertainment,2014-07-25,['Daniel Roos '],['Pop']
+8,Luzern,Blue-Balls-Festival,2014-07-25,['Chris Cubeta '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Luzern,Blue-Balls-Festival,2014-07-25,"['Oy ', ' Djemdi ']",['Pop']
+10,Luzern,Blue-Balls-Festival,2014-07-25,"['Hellabama Honky Tonks ', ' The Young Punx ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Basel,Orgelspiel-zum-Feierabend,2014-07-25,['Louis van Niekerk '],['Classic']
+12,Hermatswil,Reeds-Festival,2014-07-25,"['Babylon Circus ', ' Mellow Mood ']","['Hip', 'Hop', ""R'n'B""]"
+13,Nyon,Pal?o-Festival,2014-07-25,"['The Prodigy ', ' Shaka Ponk ', ' Skip the Use ']",['Pop']
+14,Verbier,Verbier-Festival,2014-07-25,"['Ray Chen ', ' Kirill Troussov ', ' Lawrence Power ', ' Adrian Brendel ', ' Marie-Elisabeth Hecker ', ' Istv?n V?rdai ', ' Thomas Hampson ', ' Martin Helmchen ']",['Classic']
+15,Meisterschwanden,Blues-on-the-Beach-Hallwilersee,2014-07-25,"[' Gino Todesco ', ' Andy Bopp ', ' Tcha Simmons ']","['Jazz', 'Blues', 'Soul']"
+16,M?nchenbuchsee,Monolog-Sticks-&-Strings,2014-07-25,"['Veronika Lemishenko ', ' Anton Magrichev ']","['Jazz', 'Blues', 'Soul']"
+17,Fahrwangen,Openair-Fahrwangen,2014-07-25,[' Die Chefs '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,null,Menuhin-Festival-Gstaad,2014-07-25,"[' Wolfgang Holzmair ', ' Nils M?nkemeyer ']",['Classic']
+19,Fahrwangen,Open-Air,2014-07-25,[' Die Chefs '],['Pop']
+20,null,Stimmen,2014-07-25,['Babyshambles '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Luzern,Blue-Balls-Festival,2014-07-25,['Paloma Faith '],['Pop']
+22,Verbier,Verbier-Festival,2014-07-25,"[""Choir of St John's College ""]",['Classic']
+23,Luzern,Blue-Balls-Festival,2014-07-25,"['Joss Stone ', ' Chl?e Howl ']","['Hip', 'Hop', ""R'n'B""]"
+24,Basel,Montreux-Jazz-Quartet-feat.-Olivier-Ker-Ourio,2014-07-25,"[' Olivier Ker Ourio ', ' Thomas Dobler ', ' Thierry Lang ', ' Stephan Kurmann ', ' Peter Schmidlin ']","['Jazz', 'Blues', 'Soul']"
+25,Z?rich,Stadtsommer,2014-07-25,"[' Katerina Stoykova ', ' Angelo Repetto ', ' Hans-Jakob M?hlethaler ', ' Markus Br?tsch ', ' Alessandro Gianelli ']",['Electronic']
+26,St.-Moritz,Festival-da-Jazz,2014-07-25,"['Cassandra Wilson ', ' Cassandra Wilson ', ' John Cowherd ', ' Brandon Ross ', ' Lonnie Plaxico ', ' John Davis ']","['Jazz', 'Blues', 'Soul']"
+27,St.-Moritz,Festival-da-Jazz,2014-07-25,"[' Michael Bucher ', ' Thomas Bauser ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"

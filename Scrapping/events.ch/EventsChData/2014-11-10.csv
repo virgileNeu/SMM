@@ -1,16 +1,16 @@
-location,event,date,artists,genre
-Zürich,Glantaler-Power-Men,2014-11-10,['Glantaler Power Men '],Pop
-Zürich,Die-klassische-Band,2014-11-10,"[' Andrea Ritter ', ' Daniel Koschitzki ', ' Stefan Glaus ', ' Victor Plumettaz ', ' Mischa Cheung ']",Classic
-Bern,Sous-les-étoiles,2014-11-10,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
-Solothurn,Reggie-Johnson-Quartett,2014-11-10,"['Reggie Johnson Quartett ', ' Reggie Johnson ', ' Shelley Martin Kühlwein ', ' Günter Kühlwein ', ' Matthias Kuert ']",
-Zürich,Bläserserenaden-Zürich-Cantar-et-sonar,2014-11-10,"['David Bruchez-Lalli ', ' Adam Woolf ', ' Ulrich Eichenberger ', ' Daniel Hofer ', ' Ingomar Rainer ']",Classic
-Basel,AMG-Solistenabende,2014-11-10,[' Magdalena Kozena '],Classic
-Basel,Spuren,2014-11-10,"[' Martin Wistinghausen ', ' Anja Brezavek ', ' Ellen Fallowfield ']",Classic
-Zürich,Poke-Bowl,2014-11-10,['Poke Bowl '],
-Chur,Abonnementskonzert,2014-11-10,[' Alexei Chernov '],Classic
-Pratteln,Airbourne,2014-11-10,['Airbourne '],
-Basel,Baloise-Session-Face-to-Face,2014-11-10,"['Fatoumata Diawara & Roberto Fonseca ', ' Omara Portuondo & Mayra Andrade ']",
-Bern,Ikonen-der-neuen-Musik,2014-11-10,['Iris Gerber '],Classic
-Baden,Schärli-Moreira-Feigenwinter,2014-11-10,"[' Hans Feigenwinter ', ' Juarez Moreira ', ' Peter Schärli ']",
-Zürich,The-Bad-Plus,2014-11-10,"['The Bad Plus ', ' Ethan Iverson ', ' Reid Anderson ', ' David King ']",Pop
-Basel,Bettina-Schelker,2014-11-10,[' Carl Verheyen '],
+,location,event,date,artists,genre
+0,Z?rich,Glantaler-Power-Men,2014-11-10,['Glantaler Power Men '],['Pop']
+1,Z?rich,Bl?serserenaden-Z?rich-Cantar-et-sonar,2014-11-10,"['David Bruchez-Lalli ', ' Adam Woolf ', ' Ulrich Eichenberger ', ' Daniel Hofer ', ' Ingomar Rainer ']",['Classic']
+2,Solothurn,Reggie-Johnson-Quartett,2014-11-10,"['Reggie Johnson Quartett ', ' Reggie Johnson ', ' Shelley Martin K?hlwein ', ' G?nter K?hlwein ', ' Matthias Kuert ']","['Jazz', 'Blues', 'Soul']"
+3,Z?rich,Die-klassische-Band,2014-11-10,"[' Andrea Ritter ', ' Daniel Koschitzki ', ' Stefan Glaus ', ' Victor Plumettaz ', ' Mischa Cheung ']",['Classic']
+4,Bern,Sous-les-?toiles,2014-11-10,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']","['Jazz', 'Blues', 'Soul']"
+5,Basel,AMG-Solistenabende,2014-11-10,[' Magdalena Kozena '],['Classic']
+6,Pratteln,Airbourne,2014-11-10,['Airbourne '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Chur,Abonnementskonzert,2014-11-10,[' Alexei Chernov '],['Classic']
+8,Bern,Ikonen-der-neuen-Musik,2014-11-10,['Iris Gerber '],['Classic']
+9,Basel,Baloise-Session-Face-to-Face,2014-11-10,[' Mayra Andrade '],"['world', 'music']"
+10,Z?rich,Poke-Bowl,2014-11-10,['Poke Bowl '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Basel,Spuren,2014-11-10,"[' Martin Wistinghausen ', ' Anja Brezavek ', ' Ellen Fallowfield ']",['Classic']
+12,Baden,Sch?rli-Moreira-Feigenwinter,2014-11-10,"[' Hans Feigenwinter ', ' Juarez Moreira ', ' Peter Sch?rli ']","['Jazz', 'Blues', 'Soul']"
+13,Basel,Bettina-Schelker,2014-11-10,[' Carl Verheyen '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Z?rich,The-Bad-Plus,2014-11-10,"['The Bad Plus ', ' Ethan Iverson ', ' Reid Anderson ', ' David King ']",['Pop']

@@ -1,30 +1,29 @@
-location,event,date,artists,genre
-Zürich,Internationales-Jazz-&-Blues-Festival,2014-05-08,['The Pasadena Roof Orchestra '],
-Luzern,Lunchkonzert-5,2014-05-08,"['Oliver Schnyder ', ' Lisa Schatzman ', ' Alexander Besa ', ' Heiner Reich ']",Classic
-Basel,Masterrezital,2014-05-08,[' Sarah Heinz '],Classic
-Baden,After-Work,2014-05-08,"[' Elio Amberg ', ' Claude Stucki ', ' Mathieu Friz ', ' Pascal Eugster ', ' Lukas Blattner ']",
-Zürich,Piri-Piri,2014-05-08,"[' Christian Wallner ', ' Pete Borell ', ' David Zopfi ', ' Pit Furrer ']",
-Zürich,Artist-in-Residence,2014-05-08,[' Frank Peter Zimmermann '],Classic
-Basel,Volkssinfoniekonzert,2014-05-08,[' Nobuyuki Tsujii '],Classic
-Zürich,Thursday-Night-Jazz,2014-05-08,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']",
-Zürich,Bucher-Sommer-Friedli-Aeby,2014-05-08,"['Bucher-Sommer-Friedli-Aeby ', ' Michael Bucher ', ' Patrick Sommer ', ' Tobias Friedli ', ' Stefan Aeby ']",
-Riehen,Jazzfestival-Basel,2014-05-08,['Richard Galliano '],
-Zürich,Minor-Alps,2014-05-08,['Minor Alps '],Pop
-Zürich,John-Herzig,2014-05-08,['John Herzig '],traditional
-Weggis,Klänge-aus-Frankreich,2014-05-08,"[' Praxedis Hug-Rütti ', ' Praxedis Geneviève Hug ']",Classic
-Zürich,Lisa-Stansfield,2014-05-08,['Lisa Stansfield '],
-Prilly,Patrick-Bruel,2014-05-08,['Patrick Bruel '],Pop
-Winterthur,Gregor-Loepfe-Trio,2014-05-08,"['Gregor Loepfe Trio ', ' Gregor Loepfe ', ' Richard Pechota ', ' Tobias Hunziker ']",
-Zürich,Best-of-Gil-Evans,2014-05-08,"[' Thomas Gansch ', ' Reto Suhner ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas Lüthi ']",
-Bern,The-Legendary-Tigerman,2014-05-08,"['The Legendary Tigerman ', ' Becky Lee & Drunkfoot ']",
-Baden,JRP,2014-05-08,"[' Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-Basel,Cédric-Gschwind-Quartet,2014-05-08,"[' Cédric Gschwind ', ' Markus Brodtbeck ', ' Fabian Gisler ', ' Samuel Dühsler ']",
-Köniz,Tony-McManus,2014-05-08,['Tony McManus '],
-Thun,Verdena,2014-05-08,['Verdena '],Electronic
-Liebefeld,Jazzator-Extended,2014-05-08,"[' Vincent Pongracz ', ' Oleg Mariakhin ', ' Marina Sobyanina ', ' Maximilian Grossenbacher ', ' Sergey Balashov ']",
-Zürich,Schallberg-4+,2014-05-08,"[' Aron Salzmann ', ' Niculin Jannett ', ' Tobias Pfister ', ' Michael Süess ']",
-null,Thanks,2014-05-08,"['Thanks ', ' Worth ']",
-Zürich,Flo-Anito,2014-05-08,['Flo Anito '],Pop
-Bern,Delaney-Davidson,2014-05-08,['Delaney Davidson '],
-Basel,Os-Replikantes,2014-05-08,['Os Replikantes '],
-Zürich,Quiet-City,2014-05-08,"[' Lars Carl ', ' Aron Salzmann ', ' Jonas Brügger ', ' Philipp Saner ', ' Tobias Pfister ']",
+,location,event,date,artists,genre
+0,Z?rich,Internationales-Jazz-&-Blues-Festival,2014-05-08,['The Pasadena Roof Orchestra '],"['Jazz', 'Blues', 'Soul']"
+1,Luzern,Lunchkonzert-5,2014-05-08,"['Oliver Schnyder ', ' Lisa Schatzman ', ' Alexander Besa ', ' Heiner Reich ']",['Classic']
+2,Baden,After-Work,2014-05-08,"[' Elio Amberg ', ' Claude Stucki ', ' Mathieu Friz ', ' Pascal Eugster ', ' Lukas Blattner ']","['Jazz', 'Blues', 'Soul']"
+3,Basel,Masterrezital,2014-05-08,[' Sarah Heinz '],['Classic']
+4,Z?rich,Piri-Piri,2014-05-08,"[' Christian Wallner ', ' Pete Borell ', ' David Zopfi ', ' Pit Furrer ']","['Jazz', 'Blues', 'Soul']"
+5,Basel,Volkssinfoniekonzert,2014-05-08,[' Nobuyuki Tsujii '],['Classic']
+6,Z?rich,Thursday-Night-Jazz,2014-05-08,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,Artist-in-Residence,2014-05-08,[' Frank Peter Zimmermann '],['Classic']
+8,Z?rich,Bucher-Sommer-Friedli-Aeby,2014-05-08,"['Bucher-Sommer-Friedli-Aeby ', ' Michael Bucher ', ' Patrick Sommer ', ' Tobias Friedli ', ' Stefan Aeby ']","['Jazz', 'Blues', 'Soul']"
+9,Weggis,Kl?nge-aus-Frankreich,2014-05-08,"[' Praxedis Hug-R?tti ', ' Praxedis Genevi?ve Hug ']",['Classic']
+10,Z?rich,Lisa-Stansfield,2014-05-08,['Lisa Stansfield '],"['Hip', 'Hop', ""R'n'B""]"
+11,Prilly,Patrick-Bruel,2014-05-08,['Patrick Bruel '],['Pop']
+12,Z?rich,Minor-Alps,2014-05-08,['Minor Alps '],['Pop']
+13,Z?rich,John-Herzig,2014-05-08,['John Herzig '],['traditional']
+14,Winterthur,Gregor-Loepfe-Trio,2014-05-08,"['Gregor Loepfe Trio ', ' Gregor Loepfe ', ' Richard Pechota ', ' Tobias Hunziker ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Best-of-Gil-Evans,2014-05-08,"[' Thomas Gansch ', ' Reto Suhner ', ' Lukas Heuss ', ' Christoph Grab ', ' Thomas L?thi ']","['Jazz', 'Blues', 'Soul']"
+16,Liebefeld,Jazzator-Extended,2014-05-08,"[' Vincent Pongracz ', ' Oleg Mariakhin ', ' Marina Sobyanina ', ' Maximilian Grossenbacher ', ' Sergey Balashov ']","['Jazz', 'Blues', 'Soul']"
+17,K?niz,Tony-McManus,2014-05-08,['Tony McManus '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Basel,C?dric-Gschwind-Quartet,2014-05-08,"[' C?dric Gschwind ', ' Markus Brodtbeck ', ' Fabian Gisler ', ' Samuel D?hsler ']","['Jazz', 'Blues', 'Soul']"
+19,Thun,Verdena,2014-05-08,['Verdena '],['Electronic']
+20,Baden,JRP,2014-05-08,"[' Christoph Baumann ', ' H?mi H?mmerli ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+21,Bern,The-Legendary-Tigerman,2014-05-08,[' Drunkfoot '],"['Jazz', 'Blues', 'Soul']"
+22,null,Thanks,2014-05-08,"['Thanks ', ' Worth ']","['Jazz', 'Blues', 'Soul']"
+23,Z?rich,Schallberg-4+,2014-05-08,"[' Aron Salzmann ', ' Niculin Jannett ', ' Tobias Pfister ', ' Michael S?ess ']","['Jazz', 'Blues', 'Soul']"
+24,Z?rich,Flo-Anito,2014-05-08,['Flo Anito '],['Pop']
+25,Basel,Os-Replikantes,2014-05-08,['Os Replikantes '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Bern,Delaney-Davidson,2014-05-08,['Delaney Davidson '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Z?rich,Quiet-City,2014-05-08,"[' Lars Carl ', ' Aron Salzmann ', ' Jonas Br?gger ', ' Philipp Saner ', ' Tobias Pfister ']","['Jazz', 'Blues', 'Soul']"

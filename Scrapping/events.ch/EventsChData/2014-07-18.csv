@@ -1,27 +1,26 @@
-location,event,date,artists,genre
-Luzern,Blue-Balls-Festival,2014-07-18,[' Julia Holter '],Pop
-Zürich,Oh-See,2014-07-18,['Little Barrie '],Pop
-Luzern,Piano-Entertainment,2014-07-18,['Mega Horvath '],
-Luzern,Blue-Balls-Festival,2014-07-18,"['Tschebberwooky ', ' Leo & The Lineup ', ' The Goon Mat & Lord Benardo ']",Pop
-Luzern,Blue-Balls-Festival,2014-07-18,['Paul Josephs '],Pop
-Basel,Orgelspiel-zum-Feierabend,2014-07-18,"['Giuliana Maccaroni ', ' Martino Pesaro ']",Classic
-Verbier,Verbier-Festival,2014-07-18,[' Martha Argerich '],Classic
-Münchenbuchsee,Harpa-viva,2014-07-18,[' Carolina Coimbra '],Classic
-Saanen,Menuhin-Festival-Gstaad,2014-07-18,"[' Simone Kermes ', ' Vesselina Kasarova ', ' Andrés Gabetta ']",Classic
-Luzern,Blue-Balls-Festival,2014-07-18,['Valerie June '],
-null,Zéphyr-Combo,2014-07-18,['Zéphyr Combo '],Pop
-null,Kulturfestival-St.-Gallen,2014-07-18,['Kreidler '],Electronic
-Montreux,Montreux-Jazz-Festival,2014-07-18,"['Herbie Hancock ', ' Wayne Shorter ', ' Richard Galliano ', ' Biréli Lagrène ', ' Didier Lockwood ']",
-Zürich,Acoustic-Friday,2014-07-18,"[' Max Petersen ', ' Frederik Mademann ', ' Johannes Höcketstaller ', ' Timo Hartmann ']",Pop
-Lavin,Minimalereien,2014-07-18,"['Magda Vogel ', ' Sara Maurer ', ' Susanne Petersen ']",Classic
-Laufenburg,The-Wisler-Gang,2014-07-18,"[' Dänu Wisler ', ' Glenn Wisler ', ' Lou Wisler ', ' Mätthu Wisler ']",Pop
-Montreux,Montreux-Jazz-Festival,2014-07-18,['Fink '],
-Bern,Gartenfestival,2014-07-18,"[' Gisbert zu Knyphausen & Band ', ' I Am In Love ']",
-Feuerthalen,Leroy-Emmanuel-Trio,2014-07-18,['Leroy Emmanuel Trio '],
-Montreux,Montreux-Jazz-Festival,2014-07-18,"['Morcheeba ', ' Rocky ']",Electronic
-Luzern,Blue-Balls-Festival,2014-07-18,"['Nina Nesbitt ', ' Ed Sheeran ']",Pop
-Locarno,Moon-and-Stars,2014-07-18,['Backstreet Boys '],Pop
-Basel,Moroni-Bonisolo-Quartet,2014-07-18,"[' Robert Bonisolo ', ' Dado Moroni ', ' Stephan Kurmann ', ' Jorge Rossy ']",
-St.-Moritz,Festival-da-Jazz,2014-07-18,"['Dave Holland ', ' Dave Holland ', ' Kevin Eubanks ', ' Craig Taborn ', ' Eric Harland ']",
-Düdingen,Le1f-Abgesagt,2014-07-18,['Le1f '],
-Zürich,Pillow-Talk,2014-07-18,['Pillow Talk '],Pop
+,location,event,date,artists,genre
+0,Luzern,Piano-Entertainment,2014-07-18,['Mega Horvath '],"['Hip', 'Hop', ""R'n'B""]"
+1,Luzern,Blue-Balls-Festival,2014-07-18,['Paul Josephs '],['Pop']
+2,Luzern,Blue-Balls-Festival,2014-07-18,[' Julia Holter '],['Pop']
+3,Luzern,Blue-Balls-Festival,2014-07-18,[' Lord Benardo '],['Pop']
+4,Basel,Orgelspiel-zum-Feierabend,2014-07-18,"['Giuliana Maccaroni ', ' Martino Pesaro ']",['Classic']
+5,Verbier,Verbier-Festival,2014-07-18,[' Martha Argerich '],['Classic']
+6,M?nchenbuchsee,Harpa-viva,2014-07-18,[' Carolina Coimbra '],['Classic']
+7,Saanen,Menuhin-Festival-Gstaad,2014-07-18,"[' Simone Kermes ', ' Vesselina Kasarova ', ' Andr?s Gabetta ']",['Classic']
+8,Luzern,Blue-Balls-Festival,2014-07-18,['Valerie June '],"['Jazz', 'Blues', 'Soul']"
+9,Montreux,Montreux-Jazz-Festival,2014-07-18,"['Herbie Hancock ', ' Wayne Shorter ', ' Richard Galliano ', ' Bir?li Lagr?ne ', ' Didier Lockwood ']","['Jazz', 'Blues', 'Soul']"
+10,Montreux,Montreux-Jazz-Festival,2014-07-18,['Fink '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,null,Kulturfestival-St.-Gallen,2014-07-18,['Kreidler '],['Electronic']
+12,Z?rich,Acoustic-Friday,2014-07-18,"[' Max Petersen ', ' Frederik Mademann ', ' Johannes H?cketstaller ', ' Timo Hartmann ']",['Pop']
+13,Lavin,Minimalereien,2014-07-18,"['Magda Vogel ', ' Sara Maurer ', ' Susanne Petersen ']",['Classic']
+14,Laufenburg,The-Wisler-Gang,2014-07-18,"[' D?nu Wisler ', ' Glenn Wisler ', ' Lou Wisler ', ' M?tthu Wisler ']",['Pop']
+15,null,Z?phyr-Combo,2014-07-18,['Z?phyr Combo '],['Pop']
+16,Bern,Gartenfestival,2014-07-18,"[' Band ', ' I Am In Love ']","['Jazz', 'Blues', 'Soul']"
+17,Feuerthalen,Leroy-Emmanuel-Trio,2014-07-18,['Leroy Emmanuel Trio '],"['Jazz', 'Blues', 'Soul']"
+18,Luzern,Blue-Balls-Festival,2014-07-18,"['Nina Nesbitt ', ' Ed Sheeran ']",['Pop']
+19,Locarno,Moon-and-Stars,2014-07-18,['Backstreet Boys '],['Pop']
+20,Montreux,Montreux-Jazz-Festival,2014-07-18,"['Morcheeba ', ' Rocky ']",['Electronic']
+21,Basel,Moroni-Bonisolo-Quartet,2014-07-18,"[' Robert Bonisolo ', ' Dado Moroni ', ' Stephan Kurmann ', ' Jorge Rossy ']","['Jazz', 'Blues', 'Soul']"
+22,St.-Moritz,Festival-da-Jazz,2014-07-18,"['Dave Holland ', ' Dave Holland ', ' Kevin Eubanks ', ' Craig Taborn ', ' Eric Harland ']","['Jazz', 'Blues', 'Soul']"
+23,D?dingen,Le1f-Abgesagt,2014-07-18,['Le1f '],"['Hip', 'Hop', ""R'n'B""]"
+24,Z?rich,Pillow-Talk,2014-07-18,['Pillow Talk '],['Pop']

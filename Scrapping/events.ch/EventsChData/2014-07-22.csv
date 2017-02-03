@@ -1,17 +1,17 @@
-location,event,date,artists,genre
-Verbier,Verbier-Festival,2014-07-22,"['Marie-Elisabeth Hecker ', ' Martin Helmchen ']",Classic
-Nyon,Paléo-Festival,2014-07-22,"['Talisco ', ' Catfish ']",Pop
-Nyon,Paléo-Festival,2014-07-22,"['A Tribe Called Red ', ' Jungle ', ' Jagwar Ma ']",Electronic
-Nyon,Paléo-Festival,2014-07-22,"['M.I.A. ', ' Gesaffelstein ', ' Jake Bugg ', ' Girls in Hawaii ']",Electronic
-Nyon,Paléo-Festival,2014-07-22,"['Karamelo Santo ', ' Meridian Brothers ', ' La Chiva Gantiva ']",
-Luzern,Piano-Entertainment,2014-07-22,['Mark Tenger '],
-Luzern,Blue-Balls-Festival,2014-07-22,"['Hat Fitz & Cara ', ' Chotokoeu ']",
-Luzern,Blue-Balls-Festival,2014-07-22,['Lisa Mills '],Pop
-Luzern,Blue-Balls-Festival,2014-07-22,"['Shannon Saunders ', ' The Night VI ']",Pop
-Nyon,Paléo-Festival,2014-07-22,"['The Black Keys ', ' Thirty Seconds to Mars ', ' Gaëtan Roussel ']",Pop
-Verbier,Verbier-Festival,2014-07-22,[' Thomas Hampson '],Classic
-Luzern,Blue-Balls-Festival,2014-07-22,"[' Julie Fahrer ', ' Sebastian Hirsig ']",
-Verbier,Verbier-Festival,2014-07-22,"['Daniel Hope ', ' Jonathan Cohen ', ' Emanuele Forni ', ' Michael Metzler ', ' Naoki Kitaya ']",Classic
-Luzern,Blue-Balls-Festival,2014-07-22,['Agnes Obel '],Pop
-Luzern,Blue-Balls-Festival,2014-07-22,['Gentleman '],
-St.-Moritz,Festival-da-Jazz,2014-07-22,"['Tom Harrell ', ' Tom Harrell ', ' Wayne Escoffery ', ' Jaleel Shaw ', ' Esperanza Spalding ', ' Ugonna Okegwo ', ' Johnathan Blake ']",
+,location,event,date,artists,genre
+0,Verbier,Verbier-Festival,2014-07-22,"['Marie-Elisabeth Hecker ', ' Martin Helmchen ']",['Classic']
+1,Nyon,Pal?o-Festival,2014-07-22,"['A Tribe Called Red ', ' Jungle ', ' Jagwar Ma ']",['Electronic']
+2,Nyon,Pal?o-Festival,2014-07-22,"['Talisco ', ' Catfish ']",['Pop']
+3,Nyon,Pal?o-Festival,2014-07-22,"['M.I.A. ', ' Gesaffelstein ', ' Jake Bugg ', ' Girls in Hawaii ']",['Electronic']
+4,Nyon,Pal?o-Festival,2014-07-22,"['Karamelo Santo ', ' Meridian Brothers ', ' La Chiva Gantiva ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Luzern,Piano-Entertainment,2014-07-22,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+6,Luzern,Blue-Balls-Festival,2014-07-22,['Lisa Mills '],['Pop']
+7,Luzern,Blue-Balls-Festival,2014-07-22,"['Shannon Saunders ', ' The Night VI ']",['Pop']
+8,Luzern,Blue-Balls-Festival,2014-07-22,"[' Cara ', ' Chotokoeu ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Nyon,Pal?o-Festival,2014-07-22,"['The Black Keys ', ' Thirty Seconds to Mars ', ' Ga?tan Roussel ']",['Pop']
+10,Verbier,Verbier-Festival,2014-07-22,[' Thomas Hampson '],['Classic']
+11,Luzern,Blue-Balls-Festival,2014-07-22,"[' Julie Fahrer ', ' Sebastian Hirsig ']","['Jazz', 'Blues', 'Soul']"
+12,Luzern,Blue-Balls-Festival,2014-07-22,['Agnes Obel '],['Pop']
+13,Verbier,Verbier-Festival,2014-07-22,"['Daniel Hope ', ' Jonathan Cohen ', ' Emanuele Forni ', ' Michael Metzler ', ' Naoki Kitaya ']",['Classic']
+14,Luzern,Blue-Balls-Festival,2014-07-22,['Gentleman '],"['Hip', 'Hop', ""R'n'B""]"
+15,St.-Moritz,Festival-da-Jazz,2014-07-22,"['Tom Harrell ', ' Tom Harrell ', ' Wayne Escoffery ', ' Jaleel Shaw ', ' Esperanza Spalding ', ' Ugonna Okegwo ', ' Johnathan Blake ']","['Jazz', 'Blues', 'Soul']"

@@ -1,15 +1,15 @@
-location,event,date,artists,genre
-Zürich,Oh-See,2014-07-17,[' Cass McCombs '],
-Saanen,Menuhin-Festival-Gstaad,2014-07-17,['Christian Zacharias '],Classic
-Montreux,Montreux-Jazz-Festival,2014-07-17,"[""Keb' Mo' "", ' Benjamin Clementine ']",
-Montreux,Montreux-Jazz-Festival,2014-07-17,"['Damon Albarn ', ' Michael Kiwanuka ']",
-null,Stimmen,2014-07-17,"['John Grant ', ' Joe Bel ']",Pop
-null,Kulturfestival-St.-Gallen,2014-07-17,['Amsterdam Klezmer Band '],
-Zürich,Live-at-Sunset,2014-07-17,['Backstreet Boys '],Pop
-Locarno,Moon-and-Stars,2014-07-17,"['Negramaro ', ' Jessie J ']",
-Montreux,Montreux-Jazz-Festival,2014-07-17,"['Babyshambles ', ' Von Pariahs ']",
-Basel,Schönhaus-Express-feat.-Lisette-Spinnler,2014-07-17,"[' Lisette Spinnler ', ' Sascha Schönhaus ', ' Hans-Peter Pfammatter ', ' Bänz Oester ', ' Norbert Pfammatter ']",
-Maggia,Magic-Blues-Festival,2014-07-17,['The Stepwater Band '],
-St.-Moritz,Festival-da-Jazz,2014-07-17,"['Roberta Gambarini ', ' Roberta Gambarini ', ' Sullivan Fortner ', ' Ameen Saleem ', ' Quincy Philipps ']",
-Zürich,Milonga,2014-07-17,['Quinteto Beltango '],
-St.-Moritz,Festival-da-Jazz,2014-07-17,"['Nicole Jo ', ' Nicole Johänntgen ', ' David Beer ', ' Rodrigo Aravena ', ' Jonas Ruther ']",
+,location,event,date,artists,genre
+0,Z?rich,Oh-See,2014-07-17,[' Cass McCombs '],"['Pop', 'Oldies']"
+1,Saanen,Menuhin-Festival-Gstaad,2014-07-17,['Christian Zacharias '],['Classic']
+2,null,Stimmen,2014-07-17,"['John Grant ', ' Joe Bel ']",['Pop']
+3,Montreux,Montreux-Jazz-Festival,2014-07-17,"['Damon Albarn ', ' Michael Kiwanuka ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Montreux,Montreux-Jazz-Festival,2014-07-17,"[""Keb' Mo' "", ' Benjamin Clementine ']","['Jazz', 'Blues', 'Soul']"
+5,null,Kulturfestival-St.-Gallen,2014-07-17,['Amsterdam Klezmer Band '],"['world', 'music']"
+6,Basel,Sch?nhaus-Express-feat.-Lisette-Spinnler,2014-07-17,"[' Lisette Spinnler ', ' Sascha Sch?nhaus ', ' Hans-Peter Pfammatter ', ' B?nz Oester ', ' Norbert Pfammatter ']","['Jazz', 'Blues', 'Soul']"
+7,Locarno,Moon-and-Stars,2014-07-17,"['Negramaro ', ' Jessie J ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Montreux,Montreux-Jazz-Festival,2014-07-17,"['Babyshambles ', ' Von Pariahs ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,Live-at-Sunset,2014-07-17,['Backstreet Boys '],['Pop']
+10,Maggia,Magic-Blues-Festival,2014-07-17,['The Stepwater Band '],"['Jazz', 'Blues', 'Soul']"
+11,St.-Moritz,Festival-da-Jazz,2014-07-17,"['Roberta Gambarini ', ' Roberta Gambarini ', ' Sullivan Fortner ', ' Ameen Saleem ', ' Quincy Philipps ']","['Jazz', 'Blues', 'Soul']"
+12,Z?rich,Milonga,2014-07-17,['Quinteto Beltango '],"['world', 'music']"
+13,St.-Moritz,Festival-da-Jazz,2014-07-17,"['Nicole Jo ', ' Nicole Joh?nntgen ', ' David Beer ', ' Rodrigo Aravena ', ' Jonas Ruther ']","['Jazz', 'Blues', 'Soul']"

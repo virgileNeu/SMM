@@ -1,18 +1,18 @@
-location,event,date,artists,genre
-Zürich,Apéro-Jazz,2013-02-26,['Buddha Scheidegger '],
-Luzern,Piano-Entertainment-Pure-Melodies,2013-02-26,['Oliver Töngi '],
-Zürich,Spoerri-Mangen,2013-02-26,"[' Bruno Spoerri ', ' Marc Mangen ']",
-Zürich,War-Requiem,2013-02-26,"[' Johanna Winkel ', ' Hansjörg Mammel ', ' Manfred Bittner ']",Classic
-Basel,Gesellschaft-für-Kammermusik,2013-02-26,[' Quatuor Modigliani '],Classic
-Zürich,Steve-Harris-British-Lion,2013-02-26,['Steve Harris - British Lion '],
-Zürich,The-Robert-Cray-Band,2013-02-26,"['The Robert Cray Band ', ' Robert Cray ', ' Jim Pugh ', ' Richard Cousins ', ' Tony Braunagel ']",
-Zürich,Häävi,2013-02-26,"[' Iida Bernhardt ', ' Vuokko Korva ', ' Sini Mattila ', ' Annu Varila ', ' Tiia Varila ', ' Juho Isokangas ', ' Sampo Korva ']",
-Zürich,Eröffnungsabend,2013-02-26,"[' Daniel Bentz ', ' Edward Rushton ']",Classic
-Kaserne,Basel,2013-02-26,['Lianne La Havas '],
-Luzern,Federlos-Band,2013-02-26,"[' Co Streiff ', ' Peter Schärli ', ' Thomy Meier ', ' Christian Kuntner ', ' Fredi Flükiger ', ' Ben Jeger ']",
-Zürich,S3nning,2013-02-26,"[' Sebastian Strinning ', ' Andreas Henningsson ', ' Oscar Nilsson ', ' Guy Bettini ', ' Louis Schild ', ' Paul Lovens ']",
-Reussbühl,Pepe-Stirnimann-Schulz,2013-02-26,"[' Mischa Stirnimann ', ' Arno Schulz ', ' Pistolero Pepe ']",
-Basel,Benedikt-Jahnel-Trio,2013-02-26,"[' Benedikt Jahnel ', ' Antonio Miguel ', ' Owen Howard ']",
-Zürich,Endangered-Blood,2013-02-26,"['Endangered Blood ', ' Chris Speed ', ' Oscar Noriega ', ' Michael Formanek ', ' Jim Black ']",
-Zürich,Melody's-Echo-Chamber,2013-02-26,"[""Melody's Echo Chamber ""]",Pop
-Zürich,Blood-Bound,2013-02-26,['Blood Bound '],
+,location,event,date,artists,genre
+0,Zürich,Apéro-Jazz,2013-02-26,['Buddha Scheidegger '],"['Jazz', 'Blues', 'Soul']"
+1,Luzern,Piano-Entertainment-Pure-Melodies,2013-02-26,['Oliver Töngi '],"['Jazz', 'Blues', 'Soul']"
+2,Zürich,Spoerri-Mangen,2013-02-26,"[' Bruno Spoerri ', ' Marc Mangen ']","['Jazz', 'Blues', 'Soul']"
+3,Zürich,War-Requiem,2013-02-26,"[' Johanna Winkel ', ' Hansjörg Mammel ', ' Manfred Bittner ']",['Classic']
+4,Basel,Gesellschaft-für-Kammermusik,2013-02-26,[' Quatuor Modigliani '],['Classic']
+5,Zürich,Steve-Harris-British-Lion,2013-02-26,['Steve Harris - British Lion '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Zürich,Eröffnungsabend,2013-02-26,"[' Daniel Bentz ', ' Edward Rushton ']",['Classic']
+7,Zürich,Häävi,2013-02-26,"[' Iida Bernhardt ', ' Vuokko Korva ', ' Sini Mattila ', ' Annu Varila ', ' Tiia Varila ', ' Juho Isokangas ', ' Sampo Korva ']","['world', 'music']"
+8,Luzern,Federlos-Band,2013-02-26,"[' Co Streiff ', ' Peter Schärli ', ' Thomy Meier ', ' Christian Kuntner ', ' Fredi Flükiger ', ' Ben Jeger ']","['Jazz', 'Blues', 'Soul']"
+9,Zürich,The-Robert-Cray-Band,2013-02-26,"['The Robert Cray Band ', ' Robert Cray ', ' Jim Pugh ', ' Richard Cousins ', ' Tony Braunagel ']","['Jazz', 'Blues', 'Soul']"
+10,Kaserne,Basel,2013-02-26,['Lianne La Havas '],"['Lianne', 'La', 'Havas']"
+11,Zürich,S3nning,2013-02-26,"[' Sebastian Strinning ', ' Andreas Henningsson ', ' Oscar Nilsson ', ' Guy Bettini ', ' Louis Schild ', ' Paul Lovens ']","['Jazz', 'Blues', 'Soul']"
+12,Reussbühl,Pepe-Stirnimann-Schulz,2013-02-26,"[' Mischa Stirnimann ', ' Arno Schulz ', ' Pistolero Pepe ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Basel,Benedikt-Jahnel-Trio,2013-02-26,"[' Benedikt Jahnel ', ' Antonio Miguel ', ' Owen Howard ']","['Jazz', 'Blues', 'Soul']"
+14,Zürich,Endangered-Blood,2013-02-26,"['Endangered Blood ', ' Chris Speed ', ' Oscar Noriega ', ' Michael Formanek ', ' Jim Black ']","['Jazz', 'Blues', 'Soul']"
+15,Zürich,Blood-Bound,2013-02-26,['Blood Bound '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Zürich,Melody's-Echo-Chamber,2013-02-26,"[""Melody's Echo Chamber ""]",['Pop']

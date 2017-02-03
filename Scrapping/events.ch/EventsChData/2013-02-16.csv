@@ -1,30 +1,30 @@
-location,event,date,artists,genre
-Komplex-457,Zürich,2013-02-16,['Amy Macdonald '],
-Kongresshaus,Zürich,2013-02-16,['Patricia Kaas '],
-Villnachern,Sonny-Tucker-&-The-Tornados,2013-02-16,[' The Starshooters '],
-null,Suisse-Diagonales-Jazz,2013-02-16,"[' Ramon Landolt ', ' Martina Berther ', ' Johan Wermeille ']",
-Salzhaus,Winterthur,2013-02-16,['The Raveonettes '],
-Exil,Zürich,2013-02-16,['Sebastian Sturm & Exile Airline '],
-null,Hellas,2013-02-16,['DJs Koc '],
-Theater-am-Gleis,Winterthur,2013-02-16,"[' Shirley Grimes ', ' Veronika Stalder ', ' Stefanie Aeschlimann ', ' Wolfgang Zwiauer ', ' Samuel Baur ']",
-Basel,Mats-Up,2013-02-16,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']",
-Uster,Duo-Freddy-Lukas,2013-02-16,"[' JoJo Kunz ', ' Herbert Kramis ']",
-Prima-Vista,Baden,2013-02-16,['Peter Pezzo Tantchev '],
-null,999,2013-02-16,"['999 ', ' support: Diego Pallavas ']",
-Bern,Gentlemen-&-Gangsters,2013-02-16,['Gentlemen & Gangsters '],
-null,Suisse-Diagonales-Jazz,2013-02-16,"[' Simon Spiess ', ' Marco Nenniger ', ' Daniel Mudrack ']",
-Zürich,Dave-Ruosch-Trio,2013-02-16,"[' Dave Ruosch ', ' Kalli Gerhards ', ' Martin Meyer ']",
-Basel,Sean-Price,2013-02-16,['Sean Price '],
-Moods,Zürich,2013-02-16,"['The Beauty Of Gemina ', ' Michael Sele ', ' David Vetsch ', ' Marco Gassner ', ' Mac Vinzens ', ' Philip Hirsiger ', ' Rachel M. Wieser ', ' Andrea Sutter ']",
-null,Becca-Stevens,2013-02-16,"[' Becca Stevens ', ' Liam Robinson ', ' Chris Tordini ', ' Jordan Perlson ']",
-Orbital-Garden,Bern,2013-02-16,['Mik Keusen '],
-Luzern,We-Steal-Flyers,2013-02-16,['We Steal Flyers '],
-Baden,Will-And-The-People,2013-02-16,['Will And The People '],
-Sursee,Gothwerk,2013-02-16,['Freakangel '],
-Reussbühl,Anict,2013-02-16,"[' Seline Lustenberger ', ' Silvan Reber ', ' Daniel Zumbühl ', ' Stefan Troxler ']",
-Helsinki,Zürich,2013-02-16,['Evelinn Trouble '],
-Lausanne,David-Bazan,2013-02-16,"['David Bazan ', ' support: Marco Z ']",
-null,Salsa-Village,2013-02-16,[' Alexander Febles '],
-Aarau,The-Pharcyde,2013-02-16,['The Pharcyde '],
-Sankt-Gallen,Apollo-Brown-&-Guilty-Simpson,2013-02-16,['Apollo Brown & Guilty Simpson '],
-Basel,Blank,2013-02-16,"['Blank ', ' Whoresnation ', ' Unrast ']",
+,location,event,date,artists,genre
+0,Komplex-457,Zürich,2013-02-16,['Amy Macdonald '],"['Amy', 'Macdonald']"
+1,null,Suisse-Diagonales-Jazz,2013-02-16,"[' Ramon Landolt ', ' Martina Berther ', ' Johan Wermeille ']","['Jazz', 'Blues', 'Soul']"
+2,Kongresshaus,Zürich,2013-02-16,['Patricia Kaas '],"['Patricia', 'Kaas']"
+3,Villnachern,Sonny-Tucker-&-The-Tornados,2013-02-16,[' The Starshooters '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Salzhaus,Winterthur,2013-02-16,['The Raveonettes '],"['The', 'Raveonettes']"
+5,Exil,Zürich,2013-02-16,['Sebastian Sturm & Exile Airline '],"['Sebastian', 'Sturm']"
+6,Exil,Zürich,2013-02-16,['Sebastian Sturm & Exile Airline '],"['Sebastian', 'Sturm']"
+7,Theater-am-Gleis,Winterthur,2013-02-16,"[' Shirley Grimes ', ' Veronika Stalder ', ' Stefanie Aeschlimann ', ' Wolfgang Zwiauer ', ' Samuel Baur ']","['Shirley', 'Grimes']"
+8,Prima-Vista,Baden,2013-02-16,['Peter Pezzo Tantchev '],"['Peter', 'Pezzo', 'Tantchev']"
+9,Uster,Duo-Freddy-Lukas,2013-02-16,"[' JoJo Kunz ', ' Herbert Kramis ']","['world', 'music']"
+10,Basel,Mats-Up,2013-02-16,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']","['Jazz', 'Blues', 'Soul']"
+11,Basel,Sean-Price,2013-02-16,['Sean Price '],"['Hip', 'Hop', ""R'n'B""]"
+12,Moods,Zürich,2013-02-16,"['The Beauty Of Gemina ', ' Michael Sele ', ' David Vetsch ', ' Marco Gassner ', ' Mac Vinzens ', ' Philip Hirsiger ', ' Rachel M. Wieser ', ' Andrea Sutter ']","['The', 'Beauty', 'of', 'Gemina']"
+13,Bern,Gentlemen-&-Gangsters,2013-02-16,['Gentlemen & Gangsters '],"['Jazz', 'Blues', 'Soul']"
+14,null,Becca-Stevens,2013-02-16,"[' Becca Stevens ', ' Liam Robinson ', ' Chris Tordini ', ' Jordan Perlson ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,null,Suisse-Diagonales-Jazz,2013-02-16,"[' Simon Spiess ', ' Marco Nenniger ', ' Daniel Mudrack ']","['Jazz', 'Blues', 'Soul']"
+16,Luzern,We-Steal-Flyers,2013-02-16,['We Steal Flyers '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Baden,Will-And-The-People,2013-02-16,['Will And The People '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Sursee,Gothwerk,2013-02-16,['Freakangel '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Zürich,Dave-Ruosch-Trio,2013-02-16,"[' Dave Ruosch ', ' Kalli Gerhards ', ' Martin Meyer ']","['Jazz', 'Blues', 'Soul']"
+20,Orbital-Garden,Bern,2013-02-16,['Mik Keusen '],"['Mik', 'Keusen']"
+21,null,999,2013-02-16,"['999 ', ' support: Diego Pallavas ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+22,Helsinki,Zürich,2013-02-16,['Evelinn Trouble '],"['Evelinn', 'Trouble']"
+23,Reussbühl,Anict,2013-02-16,"[' Seline Lustenberger ', ' Silvan Reber ', ' Daniel Zumbühl ', ' Stefan Troxler ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Aarau,The-Pharcyde,2013-02-16,['The Pharcyde '],"['Hip', 'Hop', ""R'n'B""]"
+25,Sankt-Gallen,Apollo-Brown-&-Guilty-Simpson,2013-02-16,['Apollo Brown & Guilty Simpson '],"['Hip', 'Hop', ""R'n'B""]"
+26,null,Salsa-Village,2013-02-16,[' Alexander Febles '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+27,Lausanne,David-Bazan,2013-02-16,"['David Bazan ', ' support: Marco Z ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Basel,Blank,2013-02-16,"['Blank ', ' Whoresnation ', ' Unrast ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

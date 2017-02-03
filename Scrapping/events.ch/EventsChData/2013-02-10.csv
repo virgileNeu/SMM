@@ -1,14 +1,14 @@
-location,event,date,artists,genre
-Basel,Gerron-Theresienstadt,2013-02-10,"[' Anna Brunner ', ' Igor Keller ', ' Hannes Bärtschi ', ' Christopher Jepson ']",Classic
-null,7-Weeks,2013-02-10,['7 Weeks '],
-Winterthur,Zéphyr-Combo,2013-02-10,"[' Geert Dedapper ', ' Esther Nydegger ', ' Ali Salvioni ', ' Michel Münch ']",
-Zürich,Kammermusik-Soiree,2013-02-10,"[' Matthias Enderle ', ' Susanne Frank ', ' Wendy Champney ', ' Stephan Goerner ', ' Lawrence Power ']",Classic
-Zürich,Der-grosse-Bär,2013-02-10,"[' Hans Koch ', ' Achim Escher ', ' Donat Fisch ', ' Peter Landis ', ' Adrien Guerne ']",
-Zürich,Tremonti,2013-02-10,['Tremonti '],
-null,Shawn-Pittman-&-The-Bluestars,2013-02-10,"['Shawn Pittman & The Bluestars ', ' Shawn Pittman ', ' Sugaray Rayford ', ' Erkan Özdemir ', ' Boyd Small ']",
-Zürich,Petite-Noir,2013-02-10,['Petite Noir '],Electronic
-Kulturfabrik-Kofmehl,Solothurn,2013-02-10,['Annett Louisan '],
-Zürich,The-Ghost-Inside,2013-02-10,"['The Ghost Inside ', ' Deez Nuts ', ' Stray from the Path ', ' Devil in Me ']",
-null,Diminished-Men,2013-02-10,"['Diminished Men ', ' Vincent Miquel ']",Electronic
-Bern,Stian-Westerhus-&-Sidsel-Endresen,2013-02-10,['Stian Westerhus & Sidsel Endresen '],
-ISC-Club,Bern,2013-02-10,['The Datsuns '],
+,location,event,date,artists,genre
+0,Basel,Gerron-Theresienstadt,2013-02-10,"[' Anna Brunner ', ' Igor Keller ', ' Hannes Bärtschi ', ' Christopher Jepson ']",['Classic']
+1,null,7-Weeks,2013-02-10,['7 Weeks '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+2,Zürich,Kammermusik-Soiree,2013-02-10,"[' Matthias Enderle ', ' Susanne Frank ', ' Wendy Champney ', ' Stephan Goerner ', ' Lawrence Power ']",['Classic']
+3,Winterthur,Zéphyr-Combo,2013-02-10,"[' Geert Dedapper ', ' Esther Nydegger ', ' Ali Salvioni ', ' Michel Münch ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Kulturfabrik-Kofmehl,Solothurn,2013-02-10,['Annett Louisan '],"['Annett', 'Louisan']"
+5,Zürich,The-Ghost-Inside,2013-02-10,"['The Ghost Inside ', ' Deez Nuts ', ' Stray from the Path ', ' Devil in Me ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Zürich,Tremonti,2013-02-10,['Tremonti '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,null,Shawn-Pittman-&-The-Bluestars,2013-02-10,"['Shawn Pittman & The Bluestars ', ' Shawn Pittman ', ' Sugaray Rayford ', ' Erkan Özdemir ', ' Boyd Small ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Zürich,Der-grosse-Bär,2013-02-10,"[' Hans Koch ', ' Achim Escher ', ' Donat Fisch ', ' Peter Landis ', ' Adrien Guerne ']","['Jazz', 'Blues', 'Soul']"
+9,Zürich,Petite-Noir,2013-02-10,['Petite Noir '],['Electronic']
+10,Bern,Stian-Westerhus-&-Sidsel-Endresen,2013-02-10,['Stian Westerhus & Sidsel Endresen '],"['Jazz', 'Blues', 'Soul']"
+11,null,Diminished-Men,2013-02-10,"['Diminished Men ', ' Vincent Miquel ']",['Electronic']
+12,ISC-Club,Bern,2013-02-10,['The Datsuns '],"['The', 'Datsuns']"

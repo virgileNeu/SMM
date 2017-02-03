@@ -1,19 +1,19 @@
-location,event,date,artists,genre
-Meggen,Lucerne-Festival-am-Piano,2014-11-25,[' conductor: Robert Levin '],Classic
-Zürich,Werner-und-Company,2014-11-25,['Werner und Company '],Pop
-Zürich,Racine's-Chansonnerie,2014-11-25,"[' Marianne Racine ', ' Hans Adolfsen ', ' Markus Schönholzer ']",Pop
-Zürich,Horacio-Vaggione,2014-11-25,['Horacio Vaggione '],Electronic
-Zürich,Unerhört,2014-11-25,"[' Vijay Iyer ', ' Rudresh Mahanthappa ']",
-Zürich,Konzert,2014-11-25,[' Albrecht Mayer '],Classic
-Aarau,The-Amity-Affliction,2014-11-25,"['The Amity Affliction ', ' Buried In Verona ', ' Heart In Hand ', ' Napoleon ']",
-Zug,Plot-Pourri,2014-11-25,"[' Marian Arbenz Butti ', ' Christoph Zurbuchen ', ' Christian Bucher ', ' Pelayo F. Arrizabalaga ', ' Werner Iten ']",
-null,Lenny-Kravitz,2014-11-25,['Lenny Kravitz '],
-Zürich,David-Gray,2014-11-25,['David Gray '],Pop
-Winterthur,Musica-aperta-Klaus-Huber-zum-90.,2014-11-25,"[' Egidius Streiff ', ' Daphné Schneider ', ' Mariana Doughty ', ' Walter Grimmer ']",Classic
-Zürich,La-Brass-Banda,2014-11-25,['La Brass Banda '],
-Zürich,Mando-Diao,2014-11-25,"['Mando Diao ', ' Kristal And Jonny Boy ']",
-Luzern,Dienstagsjazz,2014-11-25,"[' Donat Fisch ', ' Andy Scherrer ', ' Bänz Oester ', ' Norbert Pfammatter ']",
-Basel,Chaotic-moebius-Frontton,2014-11-25,"['Yosvany Quintero ', ' Pelayo F. Arrizabalaga ', ' Dominik Dolega ']",Classic
-Basel,Sam-Amidon,2014-11-25,['Sam Amidon '],
-Thônex,Tiken-Jah-Fakoly,2014-11-25,['Tiken Jah Fakoly '],
-Zürich,Portico,2014-11-25,"['Portico ', ' Duncan Bellamy ', ' Jack Wyllie ', ' Milo Fitzpatrick ', ' Keir Vine ']",Electronic
+,location,event,date,artists,genre
+0,Meggen,Lucerne-Festival-am-Piano,2014-11-25,[' conductor: Robert Levin '],['Classic']
+1,Z?rich,Werner-und-Company,2014-11-25,['Werner und Company '],['Pop']
+2,Z?rich,Racine's-Chansonnerie,2014-11-25,"[' Marianne Racine ', ' Hans Adolfsen ', ' Markus Sch?nholzer ']",['Pop']
+3,Z?rich,Horacio-Vaggione,2014-11-25,['Horacio Vaggione '],['Electronic']
+4,Z?rich,Unerh?rt,2014-11-25,"[' Vijay Iyer ', ' Rudresh Mahanthappa ']","['Jazz', 'Blues', 'Soul']"
+5,Z?rich,Konzert,2014-11-25,[' Albrecht Mayer '],['Classic']
+6,Aarau,The-Amity-Affliction,2014-11-25,"['The Amity Affliction ', ' Buried In Verona ', ' Heart In Hand ', ' Napoleon ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,Z?rich,La-Brass-Banda,2014-11-25,['La Brass Banda '],"['Jazz', 'Blues', 'Soul']"
+8,Z?rich,David-Gray,2014-11-25,['David Gray '],['Pop']
+9,Luzern,Dienstagsjazz,2014-11-25,"[' Donat Fisch ', ' Andy Scherrer ', ' B?nz Oester ', ' Norbert Pfammatter ']","['Jazz', 'Blues', 'Soul']"
+10,null,Lenny-Kravitz,2014-11-25,['Lenny Kravitz '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Winterthur,Musica-aperta-Klaus-Huber-zum-90.,2014-11-25,"[' Egidius Streiff ', ' Daphn? Schneider ', ' Mariana Doughty ', ' Walter Grimmer ']",['Classic']
+12,Zug,Plot-Pourri,2014-11-25,"[' Marian Arbenz Butti ', ' Christoph Zurbuchen ', ' Christian Bucher ', ' Pelayo F. Arrizabalaga ', ' Werner Iten ']","['world', 'music']"
+13,Z?rich,Mando-Diao,2014-11-25,"['Mando Diao ', ' Kristal And Jonny Boy ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Basel,Chaotic-moebius-Frontton,2014-11-25,"['Yosvany Quintero ', ' Pelayo F. Arrizabalaga ', ' Dominik Dolega ']",['Classic']
+15,Basel,Sam-Amidon,2014-11-25,['Sam Amidon '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Th?nex,Tiken-Jah-Fakoly,2014-11-25,['Tiken Jah Fakoly '],"['Hip', 'Hop', ""R'n'B""]"
+17,Z?rich,Portico,2014-11-25,"['Portico ', ' Duncan Bellamy ', ' Jack Wyllie ', ' Milo Fitzpatrick ', ' Keir Vine ']",['Electronic']

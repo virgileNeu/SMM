@@ -1,46 +1,36 @@
-location,event,date,artists,genre
-Basel,Tango-Crash,2014-01-31,"[' Martin Klingeberg ', ' Christian Gerber ', ' Martin Iannaccone ', ' Daniel Almada ', ' Gregor Hilbe ']",
-Luzern,Piano-Entertainment,2014-01-31,['Christian Mettler '],Pop
-Zürich,Feierabendwerkschau,2014-01-31,"[' Christoph Gallio ', ' Andrea Neumann ', ' Ernst Thoma ', ' Dominique Girod ', ' Dieter Ulrich ']",
-Basel,Orgelspiel-zum-Feierabend,2014-01-31,['Hans Zumstein '],Classic
-Zürich,Vesper-Singet-dem-Herrn-ein-neues-Lied,2014-01-31,[' Margrit Fluor '],Classic
-Zürich,Internationales-Country-Music-Festival,2014-01-31,['Lo-Cash Cowboys '],
-KKL,Luzern,2014-01-31,"['Ahmad Jamal ', ' Ahmad Jamal ', ' Reginald Veal ', ' Herlin Riley ', ' Manolo Badrena ']",
-Winterthur,Altstadt-Swing,2014-01-31,"[' Sophie Lüssi ', ' Felix Brühwilwer ', ' Claudio Strebel ', ' David Beglinger ']",
-Bern,Symphoniekonzert,2014-01-31,[' Lise de la Salle '],Classic
-Zürich,Couch-Konzert-Nr.-2-Das-Konzert,2014-01-31,[' Cassandra Wyss '],Classic
-Zürich,Konzert,2014-01-31,"[' Bianca Luigia Manoleanu ', ' Elisabeth Ganter ', ' Remus Manoleanu ']",Classic
-Rheinfelden,The-Benny's-Goodies,2014-01-31,"[' Raymond Graisier ', ' Christian Gavillet ', ' Jean-Pierre Burkhard ', ' Julien Cotting ']",
-null,Oh-my-F*cking-God,2014-01-31,[' Black Code '],
-Chur,Steaming-Satellites,2014-01-31,['Steaming Satellites '],
-Zug,Konzert,2014-01-31,[' Thomas Hampson '],Classic
-Baden,One-of-a-Million,2014-01-31,['Sophie Jamieson '],
-Männedorf,Just-Jazz,2014-01-31,"[' Bruno Spoerri ', ' Thomas Moeckel ', ' Roman Dylag ']",
-null,The-Real-Group,2014-01-31,['The Real Group '],
-null,Vaduzer-Konzerte,2014-01-31,[' Vilde Frang '],Classic
-Zürich,Olivieri-Jazz-Quintet,2014-01-31,"[' Rudolf Olivieri ', ' Felix Straumann ', ' Thomas Schaller ', ' Rainer Stadler ', ' Felix Zindel ']",
-Zürich,Winter-Festival,2014-01-31,"['Janis Is Alive ', ' The Indian Summer ']",
-Uster,Billion-Dollar-Babies,2014-01-31,"['Billion Dollar Babies ', ' Scavanger ']",
-Zürich,Dühsler-Labhart-Zimmerlin,2014-01-31,"[' Samuel Dühsler ', ' Jonas Labhart ', ' Alfred Zimmerlin ']",
-Winterthur,Wyrsch-Diallo,2014-01-31,"[' Linus Wyrsch ', ' Claude Diallo ']",
-Baden,Blues-Blend,2014-01-31,['Blues Blend '],
-Zürich,Lariba,2014-01-31,"['Lariba ', ' Alcides Toirac ', ' Simone Santos ', ' Roberto Haçaturyaqn ', ' Alex Wilson ']",
-Wil,November-and-Me,2014-01-31,['November and Me '],Pop
-Liebefeld,Marc-Perenoud-Trio,2014-01-31,"[' Marc Perrenoud ', ' Marco Müller ', ' Cyril Regamey ']",
-Basel,Don-Menza-Quartet,2014-01-31,"[' Don Menza ', ' Renato Chicco ', ' Stephan Kurmann ', ' Bernd Reiter ']",
-Basel,Kevin-Devine,2014-01-31,['Kevin Devine '],Pop
-null,Faada-Freddy,2014-01-31,['Faada Freddy '],
-Lausanne,Mayra-Andrade,2014-01-31,['Mayra Andrade '],
-Bern,Dorian-Wood,2014-01-31,['Dorian Wood '],Pop
-Baden,One-of-a-Million,2014-01-31,['The Slow Show '],
-Zürich,Kevin-Devine,2014-01-31,['Kevin Devine '],Pop
-Bern,Kalle-Mattson,2014-01-31,['Kalle Mattson '],
-Luzern,David-Hope,2014-01-31,['David Hope '],
-null,Nachtzug-Quartetto-dei-personaggi,2014-01-31,"['Zaida Ballesteros Parejo ', ' Ivan Galluzzi ', ' Davide Jäger ', ' Enrico Cerpelloni ']",Classic
-Bern,The-Wild-Boogie-Combo,2014-01-31,['The Wild Boogie Combo '],
-Zürich,Latin-Touch,2014-01-31,[' live: Eulises y son III '],
-Zürich,Manolo-Panic,2014-01-31,['Manolo Panic '],
-Bern,Mouse-On-Mars,2014-01-31,['Mouse On Mars '],
-Zürich,Suomi-Disco-Vol.-9,2014-01-31,['DJs Kersantti Kankkunen & Pikku E '],
-Baden,One-of-a-Million,2014-01-31,['Temples '],
-Solothurn,The-Rock'n'Roll-Kamikazes,2014-01-31,"[""The Rockn'Roll Kamikazes ""]",
+,location,event,date,artists,genre
+0,Basel,Tango-Crash,2014-01-31,"[' Martin Klingeberg ', ' Christian Gerber ', ' Martin Iannaccone ', ' Daniel Almada ', ' Gregor Hilbe ']","['Jazz', 'Blues', 'Soul']"
+1,Z?rich,Feierabendwerkschau,2014-01-31,"[' Christoph Gallio ', ' Andrea Neumann ', ' Ernst Thoma ', ' Dominique Girod ', ' Dieter Ulrich ']","['Jazz', 'Blues', 'Soul']"
+2,Luzern,Piano-Entertainment,2014-01-31,['Christian Mettler '],['Pop']
+3,Basel,Orgelspiel-zum-Feierabend,2014-01-31,['Hans Zumstein '],['Classic']
+4,Z?rich,Vesper-Singet-dem-Herrn-ein-neues-Lied,2014-01-31,[' Margrit Fluor '],['Classic']
+5,Z?rich,Internationales-Country-Music-Festival,2014-01-31,['Lo-Cash Cowboys '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Bern,Symphoniekonzert,2014-01-31,[' Lise de la Salle '],['Classic']
+7,Z?rich,Couch-Konzert-Nr.-2-Das-Konzert,2014-01-31,[' Cassandra Wyss '],['Classic']
+8,Z?rich,Konzert,2014-01-31,"[' Bianca Luigia Manoleanu ', ' Elisabeth Ganter ', ' Remus Manoleanu ']",['Classic']
+9,KKL,Luzern,2014-01-31,"['Ahmad Jamal ', ' Ahmad Jamal ', ' Reginald Veal ', ' Herlin Riley ', ' Manolo Badrena ']","['Ahmad', 'Jamal']"
+10,Winterthur,Altstadt-Swing,2014-01-31,"[' Sophie L?ssi ', ' Felix Br?hwilwer ', ' Claudio Strebel ', ' David Beglinger ']","['Jazz', 'Blues', 'Soul']"
+11,M?nnedorf,Just-Jazz,2014-01-31,"[' Bruno Spoerri ', ' Thomas Moeckel ', ' Roman Dylag ']","['Jazz', 'Blues', 'Soul']"
+12,null,The-Real-Group,2014-01-31,['The Real Group '],"['Jazz', 'Blues', 'Soul']"
+13,null,Oh-my-F*cking-God,2014-01-31,[' Black Code '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Z?rich,Olivieri-Jazz-Quintet,2014-01-31,"[' Rudolf Olivieri ', ' Felix Straumann ', ' Thomas Schaller ', ' Rainer Stadler ', ' Felix Zindel ']","['Jazz', 'Blues', 'Soul']"
+15,Chur,Steaming-Satellites,2014-01-31,['Steaming Satellites '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,null,Vaduzer-Konzerte,2014-01-31,[' Vilde Frang '],['Classic']
+17,Baden,One-of-a-Million,2014-01-31,['Sophie Jamieson '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Rheinfelden,The-Benny's-Goodies,2014-01-31,"[' Raymond Graisier ', ' Christian Gavillet ', ' Jean-Pierre Burkhard ', ' Julien Cotting ']","['Jazz', 'Blues', 'Soul']"
+19,Basel,Kevin-Devine,2014-01-31,['Kevin Devine '],['Pop']
+20,Bern,Dorian-Wood,2014-01-31,['Dorian Wood '],['Pop']
+21,null,Faada-Freddy,2014-01-31,['Faada Freddy '],"['world', 'music']"
+22,Lausanne,Mayra-Andrade,2014-01-31,['Mayra Andrade '],"['world', 'music']"
+23,Baden,One-of-a-Million,2014-01-31,['The Slow Show '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Z?rich,Kevin-Devine,2014-01-31,['Kevin Devine '],['Pop']
+25,Bern,Kalle-Mattson,2014-01-31,['Kalle Mattson '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Luzern,David-Hope,2014-01-31,['David Hope '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Bern,The-Wild-Boogie-Combo,2014-01-31,['The Wild Boogie Combo '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Z?rich,Latin-Touch,2014-01-31,[' live: Eulises y son III '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+29,Z?rich,Manolo-Panic,2014-01-31,['Manolo Panic '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Bern,Mouse-On-Mars,2014-01-31,['Mouse On Mars '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Z?rich,Suomi-Disco-Vol.-9,2014-01-31,[' Pikku E '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+32,null,Nachtzug-Quartetto-dei-personaggi,2014-01-31,"['Zaida Ballesteros Parejo ', ' Ivan Galluzzi ', ' Davide J?ger ', ' Enrico Cerpelloni ']",['Classic']
+33,Baden,One-of-a-Million,2014-01-31,['Temples '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Solothurn,The-Rock'n'Roll-Kamikazes,2014-01-31,"[""The Rockn'Roll Kamikazes ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

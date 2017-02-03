@@ -1,12 +1,12 @@
-location,event,date,artists,genre
-Marly,Jazz-Parade,2014-07-07,"[' Marc Sturzenegger ', ' Denis Michel ', ' voc) Pierre Ponnaz ', ' bjo) Paul Kapp ', ' voc) Patrick Perrier ', ' Gianni Solinas ']",
-Basel,2.-Sommerkonzert,2014-07-07,['Guy Bovet '],Classic
-Montreux,Montreux-Jazz-Festival,2014-07-07,['Pharrell Williams '],
-Marly,Jazz-Parade,2014-07-07,"[' Randy Brecker ', ' Danilo Moccia ', ' Yvan Ischer', ' Jean-Yves Petiot ', ' Alain Petitmermet ']",
-Zürich,Eels,2014-07-07,['Eels '],Pop
-Bern,Les-petit-Monday,2014-07-07,['Deadbeatz '],
-Montreux,Montreux-Jazz-Festival,2014-07-07,"['Dave Grusin ', ' Lee Ritenour ', ' Leandro Pellegrino ']",
-null,Liechtensteiner-Gitarrentage,2014-07-07,['Pablo Marquez '],Classic
-Montreux,Montreux-Jazz-Festival,2014-07-07,"['Angus & Julia Stone ', ' Passenger ']",
-Montreux,Montreux-Jazz-Festival,2014-07-07,"['Timber Timbre ', ' Archie Bronson Outfit ']",
-Marly,Jazz-Parade,2014-07-07,"[' John Diboy ', ' Jaco Mc Phearson ', ' Jay New ', ' Pedro Jezzerbaum ', ' Rassi van Kaufi ']",
+,location,event,date,artists,genre
+0,Marly,Jazz-Parade,2014-07-07,"[' Marc Sturzenegger ', ' Denis Michel ', ' voc) Pierre Ponnaz ', ' bjo) Paul Kapp ', ' voc) Patrick Perrier ', ' Gianni Solinas ']","['Jazz', 'Blues', 'Soul']"
+1,Basel,2.-Sommerkonzert,2014-07-07,['Guy Bovet '],['Classic']
+2,Z?rich,Eels,2014-07-07,['Eels '],['Pop']
+3,Montreux,Montreux-Jazz-Festival,2014-07-07,['Pharrell Williams '],"['Hip', 'Hop', ""R'n'B""]"
+4,Montreux,Montreux-Jazz-Festival,2014-07-07,"['Dave Grusin ', ' Lee Ritenour ', ' Leandro Pellegrino ']","['Jazz', 'Blues', 'Soul']"
+5,Marly,Jazz-Parade,2014-07-07,"[' Randy Brecker ', ' Danilo Moccia ', ' Yvan Ischer', ' Jean-Yves Petiot ', ' Alain Petitmermet ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Bern,Les-petit-Monday,2014-07-07,['Deadbeatz '],"['Jazz', 'Blues', 'Soul']"
+7,null,Liechtensteiner-Gitarrentage,2014-07-07,['Pablo Marquez '],['Classic']
+8,Montreux,Montreux-Jazz-Festival,2014-07-07,"[' Julia Stone ', ' Passenger ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Montreux,Montreux-Jazz-Festival,2014-07-07,"['Timber Timbre ', ' Archie Bronson Outfit ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+10,Marly,Jazz-Parade,2014-07-07,"[' John Diboy ', ' Jaco Mc Phearson ', ' Jay New ', ' Pedro Jezzerbaum ', ' Rassi van Kaufi ']","['Jazz', 'Blues', 'Soul']"

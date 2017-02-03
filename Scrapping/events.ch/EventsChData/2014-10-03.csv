@@ -1,47 +1,47 @@
-location,event,date,artists,genre
-Bern,Freiburger-Domsingknaben,2014-10-03,[' Prof. Norbert Düchtel '],Classic
-Basel,Orgelspiel-zum-Feierabend,2014-10-03,['Birgit Tittel '],Classic
-Dietikon,Feierabendmusik-in-der-Kirche,2014-10-03,"['Inge Rott ', ' Bernhard Hörler ']",Classic
-Pratteln,Up-in-Smoke-Festival-Vol.-2,2014-10-03,"['Blues Pills ', ' Budzillus ', ' Fu Manchu ']",
-Luzern,Radio-Pilatus-Music-Night,2014-10-03,['Sunrise Avenue '],Pop
-Basel,AMG-World-Orchestras,2014-10-03,[' Martha Argerich '],Classic
-null,Geschichten-aus-dem-Wiener-Wald,2014-10-03,[' Strauss '],Classic
-null,1.-Meisterzyklus-Konzert,2014-10-03,['Hélène Grimaud '],Classic
-Zürich,First-Aid-Kit,2014-10-03,"['First Aid Kit ', ' Jo Rose ']",
-Bern,L'art-pour-l'aar,2014-10-03,"[' Fedor Stroganov ', ' Sabine Kaipainen ']",Classic
-Liestal,NBA-Band,2014-10-03,"[' Andi Müller ', ' Steffen Arpagaus ', ' Urs Nüssli ', ' Mario Caspar ']",Pop
-Dübendorf,Jazztage-Germany,2014-10-03,"[' Rudi Mahall ', ' Sebastian Gramss ', ' Etienne Nillesen ']",
-Zürich,In-Flames,2014-10-03,['In Flames '],
-Altikon,Schlosshof-Musikkollektiv,2014-10-03,"[' Angel Ontalva ', ' Vasco Trilla ', ' Beat Gisler ', ' Carles Peris ']",
-Zürich,Bitter-Ruin-abgesagt,2014-10-03,"['Bitter Ruin ', ' Georgia Train ', ' Ben Richards ']",Pop
-Zürich,Acoustic-Friday,2014-10-03,"[' Attila Vural ', ' Remo Weidmann ']",Pop
-Zürich,New-Tango-Songbook,2014-10-03,"[' Marcela Arroyo ', ' Julio Azcano ', ' Daniel Pezzotti ', ' Claudio Spieler ']",
-Zürich,A-Jazz-Duo-Night,2014-10-03,"['Rodrigo Botter Maio ', ' Gregor Müller ']",
-Rorbas-Freienstein,Kouyaté-Brönnimann,2014-10-03,"[' Issa Kouyaté ', ' Jan Galega Brönnimann ']",
-Zürich,Morning-Parade,2014-10-03,['Morning Parade '],Pop
-null,Internationales-Gitarrenfestival-Fribourg,2014-10-03,"['Duo Zsapka ', ' Jozef Zsapka ', ' Dagmar Zapka ']",
-Seuzach,Harfe-Violine-Visuelles,2014-10-03,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-Winterthur,Five-On-Fire,2014-10-03,"[' David Gubelmann ', ' Marvin Trummer ', ' Mirco Häberli ', ' Peter Preibisch ']",
-Zürich,Andreae-Birchall-Cheetham,2014-10-03,"['Andreae-Birchall-Cheetham ', ' Samuel Andreae ', ' David Birchall ', ' Andrew Cheetham ']",
-Zürich,Yves-Theiler-Trio,2014-10-03,"[' Yves Theiler ', ' Valentin Dietrich ', ' Lukas Mantel ']",
-Basel,Eduardo-Machado-Quinteto,2014-10-03,"[' Beto Sapio ', ' Vinicius Melo ', ' Gil Reis ', ' Eduardo Machado ', ' Alexandre Cunha ']",
-Zürich,Mashrou-Leila,2014-10-03,"['Mashrou Leila ', ' Hamed Sinno ', ' Haig Papazian ', ' Ibrahim Badr ', ' Firas Abu-Fakher ', ' Carl Gerges ']",
-Zug,Albert-Hammond,2014-10-03,['Albert Hammond '],Pop
-Winterthur,Burst-&-Bloom,2014-10-03,"['Øjne ', ' Tiger Magic ']",
-Basel,Acoustic-Soul,2014-10-03,"[' Josephine Pee ', ' Chris Parrat ', ' Dirk Wochner ', ' Peter Streich ']",Pop
-Basel,Planningtorock,2014-10-03,['Planningtorock '],Pop
-Aarau,We-Were-Promised-Jetpacks,2014-10-03,"['We Were Promised Jetpacks ', ' Fatherson ']",
-Basel,Peter-Broderick,2014-10-03,['Peter Broderick '],Pop
-Zürich,Reza-Dinally,2014-10-03,"['Reza Dinally ', ' support: Romy ']",Pop
-Düdingen,Eaux,2014-10-03,['Eaux '],Pop
-Thun,Illbilly-Hitec,2014-10-03,['Illbilly Hitec '],
-Lausanne,Holy-Groove-Festival,2014-10-03,"['The Slingshots ', ' Calibro 35 ']",
-Dübendorf,Jazztage-Germany,2014-10-03,"['Äl Jawala ', ' Steffi Schimmer ', ' Krischan Lukanow ', ' Daniel Verdier ', ' Markus Schumacher ', ' Daniel Pellegrini ']",
-Zürich,Freevolution,2014-10-03,"[' Amadeus Huber ', ' Giuliano Nodari ', ' Roberto Granja ', ' Arsène Scheller ', ' Michel Hofer ', ' Linus Skarlatos ']",
-Sankt-Gallen,Fatima-Al-Qadiri,2014-10-03,"['Fatima Al Qadiri ', ' James Ferraro ']",Electronic
-Zug,Eko-Fresh,2014-10-03,"['Eko Fresh ', ' Massiv ']",
-Zürich,Riders-Connection,2014-10-03,['Riders Connection '],
-Luzern,Wicked-Vibes,2014-10-03,['Escape Route Music '],
-Zürich,The-Graveltones,2014-10-03,['The Graveltones '],
-Lausanne,Joseph-Capriati,2014-10-03,['Joseph Capriati '],Electronic
-Carouge,Jorge-Celedon,2014-10-03,['Jorge Celedon '],
+,location,event,date,artists,genre
+0,Bern,Freiburger-Domsingknaben,2014-10-03,[' Prof. Norbert D?chtel '],['Classic']
+1,Basel,Orgelspiel-zum-Feierabend,2014-10-03,['Birgit Tittel '],['Classic']
+2,Dietikon,Feierabendmusik-in-der-Kirche,2014-10-03,"['Inge Rott ', ' Bernhard H?rler ']",['Classic']
+3,Pratteln,Up-in-Smoke-Festival-Vol.-2,2014-10-03,"['Blues Pills ', ' Budzillus ', ' Fu Manchu ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,null,1.-Meisterzyklus-Konzert,2014-10-03,['H?l?ne Grimaud '],['Classic']
+5,null,Geschichten-aus-dem-Wiener-Wald,2014-10-03,[' Strauss '],['Classic']
+6,Luzern,Radio-Pilatus-Music-Night,2014-10-03,['Sunrise Avenue '],['Pop']
+7,Basel,AMG-World-Orchestras,2014-10-03,[' Martha Argerich '],['Classic']
+8,Z?rich,First-Aid-Kit,2014-10-03,"['First Aid Kit ', ' Jo Rose ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+9,Z?rich,New-Tango-Songbook,2014-10-03,"[' Marcela Arroyo ', ' Julio Azcano ', ' Daniel Pezzotti ', ' Claudio Spieler ']","['Jazz', 'Blues', 'Soul']"
+10,Altikon,Schlosshof-Musikkollektiv,2014-10-03,"[' Angel Ontalva ', ' Vasco Trilla ', ' Beat Gisler ', ' Carles Peris ']","['Jazz', 'Blues', 'Soul']"
+11,null,Internationales-Gitarrenfestival-Fribourg,2014-10-03,"['Duo Zsapka ', ' Jozef Zsapka ', ' Dagmar Zapka ']","['world', 'music']"
+12,Z?rich,In-Flames,2014-10-03,['In Flames '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Rorbas-Freienstein,Kouyat?-Br?nnimann,2014-10-03,"[' Issa Kouyat? ', ' Jan Galega Br?nnimann ']","['world', 'music']"
+14,Liestal,NBA-Band,2014-10-03,"[' Andi M?ller ', ' Steffen Arpagaus ', ' Urs N?ssli ', ' Mario Caspar ']",['Pop']
+15,Bern,L'art-pour-l'aar,2014-10-03,"[' Fedor Stroganov ', ' Sabine Kaipainen ']",['Classic']
+16,Z?rich,Bitter-Ruin-abgesagt,2014-10-03,"['Bitter Ruin ', ' Georgia Train ', ' Ben Richards ']",['Pop']
+17,Z?rich,Morning-Parade,2014-10-03,['Morning Parade '],['Pop']
+18,D?bendorf,Jazztage-Germany,2014-10-03,"[' Rudi Mahall ', ' Sebastian Gramss ', ' Etienne Nillesen ']","['Jazz', 'Blues', 'Soul']"
+19,Z?rich,A-Jazz-Duo-Night,2014-10-03,"['Rodrigo Botter Maio ', ' Gregor M?ller ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Acoustic-Friday,2014-10-03,"[' Attila Vural ', ' Remo Weidmann ']",['Pop']
+21,Seuzach,Harfe-Violine-Visuelles,2014-10-03,"[' Corinne Kappeler ', ' Daniel Treyer ']",['Classic']
+22,Z?rich,Andreae-Birchall-Cheetham,2014-10-03,"['Andreae-Birchall-Cheetham ', ' Samuel Andreae ', ' David Birchall ', ' Andrew Cheetham ']","['Jazz', 'Blues', 'Soul']"
+23,Winterthur,Five-On-Fire,2014-10-03,"[' David Gubelmann ', ' Marvin Trummer ', ' Mirco H?berli ', ' Peter Preibisch ']","['Jazz', 'Blues', 'Soul']"
+24,Zug,Albert-Hammond,2014-10-03,['Albert Hammond '],['Pop']
+25,Z?rich,Yves-Theiler-Trio,2014-10-03,"[' Yves Theiler ', ' Valentin Dietrich ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"
+26,Basel,Eduardo-Machado-Quinteto,2014-10-03,"[' Beto Sapio ', ' Vinicius Melo ', ' Gil Reis ', ' Eduardo Machado ', ' Alexandre Cunha ']","['Jazz', 'Blues', 'Soul']"
+27,Basel,Acoustic-Soul,2014-10-03,"[' Josephine Pee ', ' Chris Parrat ', ' Dirk Wochner ', ' Peter Streich ']",['Pop']
+28,Winterthur,Burst-&-Bloom,2014-10-03,"['?jne ', ' Tiger Magic ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Z?rich,Mashrou-Leila,2014-10-03,"['Mashrou Leila ', ' Hamed Sinno ', ' Haig Papazian ', ' Ibrahim Badr ', ' Firas Abu-Fakher ', ' Carl Gerges ']","['world', 'music']"
+30,D?dingen,Eaux,2014-10-03,['Eaux '],['Pop']
+31,Thun,Illbilly-Hitec,2014-10-03,['Illbilly Hitec '],"['Hip', 'Hop', ""R'n'B""]"
+32,Z?rich,Reza-Dinally,2014-10-03,"['Reza Dinally ', ' support: Romy ']",['Pop']
+33,Basel,Planningtorock,2014-10-03,['Planningtorock '],['Pop']
+34,Aarau,We-Were-Promised-Jetpacks,2014-10-03,"['We Were Promised Jetpacks ', ' Fatherson ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Basel,Peter-Broderick,2014-10-03,['Peter Broderick '],['Pop']
+36,D?bendorf,Jazztage-Germany,2014-10-03,"['?l Jawala ', ' Steffi Schimmer ', ' Krischan Lukanow ', ' Daniel Verdier ', ' Markus Schumacher ', ' Daniel Pellegrini ']","['Jazz', 'Blues', 'Soul']"
+37,Lausanne,Holy-Groove-Festival,2014-10-03,"['The Slingshots ', ' Calibro 35 ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+38,Z?rich,Freevolution,2014-10-03,"[' Amadeus Huber ', ' Giuliano Nodari ', ' Roberto Granja ', ' Ars?ne Scheller ', ' Michel Hofer ', ' Linus Skarlatos ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+39,Z?rich,Riders-Connection,2014-10-03,['Riders Connection '],"['Hip', 'Hop', ""R'n'B""]"
+40,Luzern,Wicked-Vibes,2014-10-03,['Escape Route Music '],"['Hip', 'Hop', ""R'n'B""]"
+41,Zug,Eko-Fresh,2014-10-03,"['Eko Fresh ', ' Massiv ']","['Hip', 'Hop', ""R'n'B""]"
+42,Sankt-Gallen,Fatima-Al-Qadiri,2014-10-03,"['Fatima Al Qadiri ', ' James Ferraro ']",['Electronic']
+43,Lausanne,Joseph-Capriati,2014-10-03,['Joseph Capriati '],['Electronic']
+44,Z?rich,The-Graveltones,2014-10-03,['The Graveltones '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+45,Carouge,Jorge-Celedon,2014-10-03,['Jorge Celedon '],"['world', 'music']"

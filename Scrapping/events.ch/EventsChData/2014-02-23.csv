@@ -1,35 +1,35 @@
-location,event,date,artists,genre
-Zürich,Internationales-Country-Music-Festival,2014-02-23,['Country Sisters '],
-Winterthur,Seasons,2014-02-23,"['Julia Pfenninger ', ' Johannes Herrmann ']",Classic
-Zürich,Jephte-Carissimi-und-Händel,2014-02-23,"[' Mirjam Berli ', ' Achim Glatz ', ' Armin Bereuter ', ' Nathaniel Cox ']",Classic
-Bern,Co(eu)r-anglais,2014-02-23,"[' Catherine Kämper ', ' Stefan Meier ', ' Guillaume Leroy ', ' Eva Lüthi ']",Classic
-Winterthur,Duo-Konzert,2014-02-23,['Sdrjan Vukasinovic '],Classic
-Basel,Jazzmatinée,2014-02-23,"['Thomas Moeckel ', ' Walter Jauslin ', ' Dominik Schürmann ', ' David Klein ']",
-Zürich,Wahlverwandtschaften-Pirouetten-der-Freundschaft,2014-02-23,"['Seung-Yeun Huh ', ' Haika Lübcke ', ' Martin Frutiger ', ' Felix-Andreas Genner ', ' Urs Dengler ']",Classic
-Zürich,Kammerkonzert,2014-02-23,"[' Laurent Weibel ', ' Sebastian Eyb ', ' Barbara Oehm ', ' Sarah Tysman ']",Classic
-Zollikerberg,Konzert,2014-02-23,"[' Sandro Müller ', ' Barbara Müller-Hämmerli ']",Classic
-Fischingen,Kammermusik,2014-02-23,"[' Susanne Mathé ', ' Isabelle Ladewig ', ' Stella Mahrenholz ', ' Stéphanie Meyer ']",Classic
-Basel,Con-todo-corazón,2014-02-23,"[' Jan Ratschko ', ' Sefi Löhle ']",Classic
-Zürich,Romantisches-Konzert,2014-02-23,"[' Noëlle Grüebler ', ' Andrea Wiesli ', ' Jonas Kreienbühl ']",Classic
-Basel,Musica-viva-Basel-Estaciones-Porteñas,2014-02-23,"[' Claudia Weissbarth ', ' Renato Bizzotto ', ' Thomas Hunziker ', ' Patrik Lüsch ']",Classic
-null,Internationales-Gitarrenfestival,2014-02-23,"['Cristobal Pazmiño Trio ', ' Ramiro Marínez ']",
-Bern,Klanglandschaft,2014-02-23,"[' Guy-Claude Sthioul ', ' Sunahla Nicola Sthioul ', ' Willi Grimm ']",
-Basel,Nana-Mouskouri,2014-02-23,['Nana Mouskouri '],traditional
-Baden,Konzert,2014-02-23,"[' Irina Pak ', ' Dmitri Demiashkin ']",Classic
-Basel,Winterkonzert,2014-02-23,[' Mi Zhou '],Classic
-Basel,Rezital,2014-02-23,"['Sarah Satz ', ' Aline Koenig ']",Classic
-Allschwil,Jahreskonzert-Kammerorchester-Allschwil,2014-02-23,[' Christina Zheng '],Classic
-null,Armida-e-Rinaldo,2014-02-23,"[' Kate Lindsey ', ' Steve Davislim ']",Classic
-Luzern,Soul-Jazz-Alliance,2014-02-23,"[' Jeremy Pelt ', ' Vincent Herring ', ' Freddie Bryant ', ' Jared Gold ', ' Joris Dudli ', ' Sachal Vasandani ']",
-Zürich,Weisse-Aepfel,2014-02-23,"[' Daniela Müller ', ' Petra Ackermann ', ' Karolina Oehman ']",Classic
-Zürich,A-Trip-Not-a-Tour-Swiss-Hardcore-in-Marocco,2014-02-23,[' Premiere des Dokumentarfilms im Saal '],
-Uster,Vdelli,2014-02-23,['Vdelli '],
-Zürich,BB-&-C-feat.-Tim-Berne-Jim-Black-&-Nels-Cline,2014-02-23,"[' Jim Black & Nels Cline ', ' Tim Berne ', ' Jim Black ', ' Nels Cline ']",
-Luzern,The-Treatment,2014-02-23,['The Treatment '],
-Zürich,Fabrizio-Consoli,2014-02-23,['Fabrizio Consoli '],Pop
-null,Gary-Numan,2014-02-23,['Gary Numan '],Pop
-Zürich,Zauberhafter-Winter,2014-02-23,[' Maria Solozobova '],Classic
-Zürich,Mister-&-Mississippi,2014-02-23,['Mister & Mississippi '],Pop
-Pratteln,Majesty,2014-02-23,"['Majesty ', ' Wisdom ', ' Stormwarrior ']",
-Zürich,Swanky-Mothers-Series-XIV,2014-02-23,"['Silvio Cadotsch ', ' Dave Gisler ', ' Jonas Labhart ', ' Marius Peyer ']",
-Aarau,Jazzessenz,2014-02-23,"[' Avishai Cohen ', ' Omer Avital ', ' Nasheet Waits ']",
+,location,event,date,artists,genre
+0,Z?rich,Internationales-Country-Music-Festival,2014-02-23,['Country Sisters '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Z?rich,Jephte-Carissimi-und-H?ndel,2014-02-23,"[' Mirjam Berli ', ' Achim Glatz ', ' Armin Bereuter ', ' Nathaniel Cox ']",['Classic']
+2,Winterthur,Seasons,2014-02-23,"['Julia Pfenninger ', ' Johannes Herrmann ']",['Classic']
+3,Bern,Co(eu)r-anglais,2014-02-23,"[' Catherine K?mper ', ' Stefan Meier ', ' Guillaume Leroy ', ' Eva L?thi ']",['Classic']
+4,Winterthur,Duo-Konzert,2014-02-23,[' Noelle Gr?ebler '],['Classic']
+5,Basel,Jazzmatin?e,2014-02-23,"['Thomas Moeckel ', ' Walter Jauslin ', ' Dominik Sch?rmann ', ' David Klein ']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Wahlverwandtschaften-Pirouetten-der-Freundschaft,2014-02-23,"['Seung-Yeun Huh ', ' Haika L?bcke ', ' Martin Frutiger ', ' Felix-Andreas Genner ', ' Urs Dengler ']",['Classic']
+7,Z?rich,Kammerkonzert,2014-02-23,"[' Laurent Weibel ', ' Sebastian Eyb ', ' Barbara Oehm ', ' Sarah Tysman ']",['Classic']
+8,Zollikerberg,Konzert,2014-02-23,"[' Sandro M?ller ', ' Barbara M?ller-H?mmerli ']",['Classic']
+9,Basel,Con-todo-coraz?n,2014-02-23,"[' Jan Ratschko ', ' Sefi L?hle ']",['Classic']
+10,Fischingen,Kammermusik,2014-02-23,"[' Susanne Math? ', ' Isabelle Ladewig ', ' Stella Mahrenholz ', ' St?phanie Meyer ']",['Classic']
+11,Baden,Konzert,2014-02-23,"[' Irina Pak ', ' Dmitri Demiashkin ']",['Classic']
+12,Basel,Nana-Mouskouri,2014-02-23,['Nana Mouskouri '],['traditional']
+13,Basel,Winterkonzert,2014-02-23,[' Mi Zhou '],['Classic']
+14,Basel,Rezital,2014-02-23,"['Sarah Satz ', ' Aline Koenig ']",['Classic']
+15,null,Internationales-Gitarrenfestival,2014-02-23,"['Cristobal Pazmi?o Trio ', ' Ramiro Mar?nez ']","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Romantisches-Konzert,2014-02-23,"[' No?lle Gr?ebler ', ' Andrea Wiesli ', ' Jonas Kreienb?hl ']",['Classic']
+17,Basel,Musica-viva-Basel-Estaciones-Porte?as,2014-02-23,"[' Claudia Weissbarth ', ' Renato Bizzotto ', ' Thomas Hunziker ', ' Patrik L?sch ']",['Classic']
+18,Bern,Klanglandschaft,2014-02-23,"[' Guy-Claude Sthioul ', ' Sunahla Nicola Sthioul ', ' Willi Grimm ']","['world', 'music']"
+19,Allschwil,Jahreskonzert-Kammerorchester-Allschwil,2014-02-23,[' Christina Zheng '],['Classic']
+20,null,Armida-e-Rinaldo,2014-02-23,"[' Kate Lindsey ', ' Steve Davislim ']",['Classic']
+21,Z?rich,BB-&-C-feat.-Tim-Berne-Jim-Black-&-Nels-Cline,2014-02-23,"[' Nels Cline ', ' Tim Berne ', ' Jim Black ', ' Nels Cline ']","['Jazz', 'Blues', 'Soul']"
+22,Luzern,Soul-Jazz-Alliance,2014-02-23,"[' Jeremy Pelt ', ' Vincent Herring ', ' Freddie Bryant ', ' Jared Gold ', ' Joris Dudli ', ' Sachal Vasandani ']","['Jazz', 'Blues', 'Soul']"
+23,Z?rich,A-Trip-Not-a-Tour-Swiss-Hardcore-in-Marocco,2014-02-23,[' Premiere des Dokumentarfilms im Saal '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Z?rich,Weisse-Aepfel,2014-02-23,"[' Daniela M?ller ', ' Petra Ackermann ', ' Karolina Oehman ']",['Classic']
+25,Uster,Vdelli,2014-02-23,['Vdelli '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+26,Luzern,The-Treatment,2014-02-23,['The Treatment '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Z?rich,Fabrizio-Consoli,2014-02-23,['Fabrizio Consoli '],['Pop']
+28,Z?rich,Zauberhafter-Winter,2014-02-23,[' Maria Solozobova '],['Classic']
+29,null,Gary-Numan,2014-02-23,['Gary Numan '],['Pop']
+30,Z?rich,Mister-&-Mississippi,2014-02-23,[' Mississippi '],['Pop']
+31,Pratteln,Majesty,2014-02-23,"['Majesty ', ' Wisdom ', ' Stormwarrior ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Z?rich,Swanky-Mothers-Series-XIV,2014-02-23,"['Silvio Cadotsch ', ' Dave Gisler ', ' Jonas Labhart ', ' Marius Peyer ']","['Jazz', 'Blues', 'Soul']"
+33,Aarau,Jazzessenz,2014-02-23,"[' Avishai Cohen ', ' Omer Avital ', ' Nasheet Waits ']","['Jazz', 'Blues', 'Soul']"

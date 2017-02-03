@@ -1,23 +1,20 @@
-location,event,date,artists,genre
-Hornussen,Sicht-Feld-Openair,2014-08-09,['Afrob '],Pop
-Gstaad,Menuhin-Festival-Gstaad,2014-08-09,"['Christoph Croisé ', ' Alexander Panfilov ']",Classic
-Wil,Gut-gebrüllt-Löwe,2014-08-09,"['Wallis Bird ', ' We Have Band ', ' The Lanskies ', ' Jeff Beadle ']",Pop
-Basel,Orgelmusik-über-Mittag,2014-08-09,['Prof. Enrico Viccardi '],Classic
-Zofingen,Heitere-Openair,2014-08-09,"['Stromae ', ' Dendemann ', ' Brody Dalle ']",Pop
-Zofingen,Heitere-Openair,2014-08-09,"['Queens Of The Stone Age ', ' Jan Delay ']",Pop
-Zürich,Werdinsel-Openair,2014-08-09,[' Moop Mama '],Pop
-Schaffhausen,Stars-in-Town,2014-08-09,"['Amy Macdonald ', ' Alex Hepburn ']",Pop
-Wetzikon,Schlauer-Bauer-Openair,2014-08-09,"[' Long Distance Calling ', ' Dirty Bastards ']",Pop
-Luzern,Piano-Entertainment,2014-08-09,['Fabienne Ambühl '],Pop
-Saanen,Menuhin-Festival-Gstaad,2014-08-09,[' Patricia Kopatchinskaja '],Classic
-Küssnacht-am-Rigi,Konzert,2014-08-09,[' Marc Jaussi '],Classic
-Winterthur,Machine-Head,2014-08-09,['Machine Head '],
-Baden,Pezzo,2014-08-09,[' Peter Tantchev '],
-Uster,Treibsand,2014-08-09,"[' Reto Senn ', ' Nick Gutersohn ', ' Herbert Kramis ']",
-Lichtensteig,Jazztage-Lichtensteig,2014-08-09,['Mike & The Mechanics '],
-Glarus,Four-Owls,2014-08-09,['Four Owls '],
-St.-Moritz,Festival-da-Jazz,2014-08-09,"['Grusin & Grusin ', ' Dave Grusin ', ' Don Grusin ']",
-Basel,Im-Fluss,2014-08-09,['William White '],Pop
-Saanen,Menuhin-Festival-Gstaad,2014-08-09,"['Anu Komsi ', ' Patricia Kopatchinskaja ']",Classic
-Lausanne,Acting-Bad,2014-08-09,[' live: Borgore '],
-St.-Moritz,Festival-da-Jazz,2014-08-09,"[' Magda Giannikou ', ' Ignacio Hernandez ', '\r\nAndres Rotmistrovsky ', ' Marcelo Woloski ', ' \r\nJames Shipp ']",
+,location,event,date,artists,genre
+0,Hornussen,Sicht-Feld-Openair,2014-08-09,['Afrob '],['Pop']
+1,Gstaad,Menuhin-Festival-Gstaad,2014-08-09,"['Christoph Crois? ', ' Alexander Panfilov ']",['Classic']
+2,Wil,Gut-gebr?llt-L?we,2014-08-09,"['Wallis Bird ', ' We Have Band ', ' The Lanskies ', ' Jeff Beadle ']",['Pop']
+3,Basel,Orgelmusik-?ber-Mittag,2014-08-09,['Prof. Enrico Viccardi '],['Classic']
+4,Zofingen,Heitere-Openair,2014-08-09,"['Stromae ', ' Dendemann ', ' Brody Dalle ']",['Pop']
+5,Zofingen,Heitere-Openair,2014-08-09,"['Queens Of The Stone Age ', ' Jan Delay ']",['Pop']
+6,Z?rich,Werdinsel-Openair,2014-08-09,[' Moop Mama '],['Pop']
+7,Schaffhausen,Stars-in-Town,2014-08-09,"['Amy Macdonald ', ' Alex Hepburn ']",['Pop']
+8,Luzern,Piano-Entertainment,2014-08-09,['Fabienne Amb?hl '],['Pop']
+9,Saanen,Menuhin-Festival-Gstaad,2014-08-09,[' Patricia Kopatchinskaja '],['Classic']
+10,Winterthur,Machine-Head,2014-08-09,['Machine Head '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,K?ssnacht-am-Rigi,Konzert,2014-08-09,[' Marc Jaussi '],['Classic']
+12,Uster,Treibsand,2014-08-09,"[' Reto Senn ', ' Nick Gutersohn ', ' Herbert Kramis ']","['Jazz', 'Blues', 'Soul']"
+13,Baden,Pezzo,2014-08-09,[' Peter Tantchev '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,St.-Moritz,Festival-da-Jazz,2014-08-09,"[' Grusin ', ' Dave Grusin ', ' Don Grusin ']","['Funk', 'Jazz', 'Blues', 'Soul']"
+15,Basel,Im-Fluss,2014-08-09,['William White '],['Pop']
+16,Saanen,Menuhin-Festival-Gstaad,2014-08-09,"['Anu Komsi ', ' Patricia Kopatchinskaja ']",['Classic']
+17,Lausanne,Acting-Bad,2014-08-09,[' live: Borgore '],"['Electro', 'Electropop']"
+18,St.-Moritz,Festival-da-Jazz,2014-08-09,"[' Magda Giannikou ', ' Ignacio Hernandez ', '\r\nAndres Rotmistrovsky ', ' Marcelo Woloski ', ' \r\nJames Shipp ']","['Jazz', 'Blues', 'Soul']"

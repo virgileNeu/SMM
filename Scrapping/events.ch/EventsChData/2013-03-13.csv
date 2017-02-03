@@ -1,32 +1,32 @@
-location,event,date,artists,genre
-Zürich,Mittagsmusik,2013-03-13,"['Miriam Wettstein ', ' Yvo Wettstein ', ' Jean-Jacques Dünki ']",Classic
-Basel,Monteferrina,2013-03-13,"['Lea Hosch ', ' Aline Koenig ']",Classic
-Zürich,Finja-wasch-den-Fisch,2013-03-13,"['Sidonia Caviezel ', ' Tome Iliev ']",Pop
-Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-03-13,['Mark Tenger '],
-Winterthur,Abonnementskonzert,2013-03-13,[' Martin Helmchen '],Classic
-Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-13,"['The Killers ', ' The Spinto Band ']",
-Luzern,Konzert,2013-03-13,[' Dmitri Maslennikov '],Classic
-Bern,Migros-Kulturprozent-Classics,2013-03-13,[' Katia und Marielle Labèque '],Classic
-Basel,AMG-Rising-Stars,2013-03-13,"['Anastasia Larina ', ' Daniil Haritonov ']",Classic
-Kulturfabrik-KUFA,Lyss,2013-03-13,['Deicide '],Deicide
-null,Matmos,2013-03-13,['Matmos '],Electronic
-Baden,Konzert,2013-03-13,"[' Daniel Meller ', ' Flurin Cuonz ', ' Maki Wiederkehr ']",Classic
-null,Konzert,2013-03-13,"['Adrian Brendel ', ' Armstrong ', ' Adrian Brendel ', ' Kit Armstrong ']",Classic
-Tonhalle,Zürich,2013-03-13,['Bobby McFerrin '],
-Theater-Casino-Zug,Zug,2013-03-13,['Gonzalo Rubalcaba '],
-null,Long-Distance-Calling,2013-03-13,"['Long Distance Calling ', ' Solstafir ', ' Sahg ']",
-Chur,Peter-Ratzenbeck,2013-03-13,['Peter Ratzenbeck '],
-Zürich,Harmful,2013-03-13,['Harmful '],
-Aarau,Enemies,2013-03-13,['Enemies '],
-Exil,Zürich,2013-03-13,['Walk The Moon '],
-Baden,Dreist-CD-Release-Tour,2013-03-13,"[' Mindaugas Vadoklis ', ' Reto Suhner ', ' Dimitrij Golovanov ', ' Herbie Kopf ', ' Marijus Aleksa ']",
-Basel,Lisette-&-The-Swing-Thing,2013-03-13,"[' Lisette Spinnler ', ' Christian Gutfleisch ', ' Michael Chylewski ', ' Peter Schmidlin ']",
-Zürich,Jazz-Baragge-Wednesday-Jam,2013-03-13,"['Benjamin Külling ', ' Toni Schiavano ', ' Flo Reichle ']",
-Komplex-457,Zürich,2013-03-13,['Walk The Moon '],
-Zürich,Phronesis-Walking-Dark,2013-03-13,"['Phronesis - Walking Dark ', ' Jasper Hoiby ', ' Ivo Neame ', ' Anton Eger ']",
-Zürich,Steamboat-Switzerland-XII,2013-03-13,"[' Dominik Blum ', ' Marino Pliakas ', ' Lucas Niggli ']",Electronic
-Wädenswil,Vein-feat.-Dave-Liebman,2013-03-13,"[' Dave Liebman ', ' Michael Arbenz ', ' Thomas Lähn ', ' Florian Arbenz ']",
-Luzern,Bachelorprojekt-Konzerte,2013-03-13,"[' Bruno Hochstrasser ', ' Heather Brewer ', ' Marcel Frautschi ', ' Dominik Eschmann ', ' Andreas Spring ', '\r\nNicolas Gurtner ', ' Benjamin Kieser ', ' Jonas Lüscher ', ' Martin Stebler ', ' Dominik Beck ', ' Tobias Pfister ']",
-Bern,Iiro-Rantala,2013-03-13,['Iiro Rantala '],
-Zukunft,Zürich,2013-03-13,[' DJ Mildred Guy '],
-Bar-Rossi,Zürich,2013-03-13,['Ian Fisher '],
+,location,event,date,artists,genre
+0,Zürich,Mittagsmusik,2013-03-13,"['Miriam Wettstein ', ' Yvo Wettstein ', ' Jean-Jacques Dünki ']",['Classic']
+1,Basel,Monteferrina,2013-03-13,"['Lea Hosch ', ' Aline Koenig ']",['Classic']
+2,Zürich,Finja-wasch-den-Fisch,2013-03-13,"['Sidonia Caviezel ', ' Tome Iliev ']",['Pop']
+3,Luzern,Piano-Entertainment-Blue-Soul-&-Me,2013-03-13,['Mark Tenger '],"['Hip', 'Hop', ""R'n'B""]"
+4,Winterthur,Abonnementskonzert,2013-03-13,[' Martin Helmchen '],['Classic']
+5,Kulturfabrik-KUFA,Lyss,2013-03-13,['Deicide '],['Deicide']
+6,Luzern,Konzert,2013-03-13,[' Dmitri Maslennikov '],['Classic']
+7,Bern,Migros-Kulturprozent-Classics,2013-03-13,[' Katia und Marielle Labèque '],['Classic']
+8,Basel,AMG-Rising-Stars,2013-03-13,"['Anastasia Larina ', ' Daniil Haritonov ']",['Classic']
+9,Centre-de-Congrès-le-Régent,Crans-Montana,2013-03-13,"['The Killers ', ' The Spinto Band ']","['The', 'Killers']"
+10,null,Long-Distance-Calling,2013-03-13,"['Long Distance Calling ', ' Solstafir ', ' Sahg ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Baden,Konzert,2013-03-13,"[' Daniel Meller ', ' Flurin Cuonz ', ' Maki Wiederkehr ']",['Classic']
+12,Chur,Peter-Ratzenbeck,2013-03-13,['Peter Ratzenbeck '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Tonhalle,Zürich,2013-03-13,['Bobby McFerrin '],"['Bobby', 'McFerrin']"
+14,null,Konzert,2013-03-13,"['Adrian Brendel ', ' Armstrong ', ' Adrian Brendel ', ' Kit Armstrong ']",['Classic']
+15,null,Matmos,2013-03-13,['Matmos '],['Electronic']
+16,Theater-Casino-Zug,Zug,2013-03-13,['Gonzalo Rubalcaba '],"['Gonzalo', 'Rubalcaba']"
+17,Aarau,Enemies,2013-03-13,['Enemies '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Zürich,Harmful,2013-03-13,['Harmful '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+19,Exil,Zürich,2013-03-13,['Walk The Moon '],"['Walk', 'The', 'Moon']"
+20,Baden,Dreist-CD-Release-Tour,2013-03-13,"[' Mindaugas Vadoklis ', ' Reto Suhner ', ' Dimitrij Golovanov ', ' Herbie Kopf ', ' Marijus Aleksa ']","['Jazz', 'Blues', 'Soul']"
+21,Basel,Lisette-&-The-Swing-Thing,2013-03-13,"[' Lisette Spinnler ', ' Christian Gutfleisch ', ' Michael Chylewski ', ' Peter Schmidlin ']","['Jazz', 'Blues', 'Soul']"
+22,Zürich,Jazz-Baragge-Wednesday-Jam,2013-03-13,"['Benjamin Külling ', ' Toni Schiavano ', ' Flo Reichle ']","['Jazz', 'Blues', 'Soul']"
+23,Zürich,Steamboat-Switzerland-XII,2013-03-13,"[' Dominik Blum ', ' Marino Pliakas ', ' Lucas Niggli ']",['Electronic']
+24,Zürich,Phronesis-Walking-Dark,2013-03-13,"['Phronesis - Walking Dark ', ' Jasper Hoiby ', ' Ivo Neame ', ' Anton Eger ']","['Jazz', 'Blues', 'Soul']"
+25,Komplex-457,Zürich,2013-03-13,['Walk The Moon '],"['Walk', 'The', 'Moon']"
+26,Wädenswil,Vein-feat.-Dave-Liebman,2013-03-13,"[' Dave Liebman ', ' Michael Arbenz ', ' Thomas Lähn ', ' Florian Arbenz ']","['Jazz', 'Blues', 'Soul']"
+27,Luzern,Bachelorprojekt-Konzerte,2013-03-13,"[' Bruno Hochstrasser ', ' Heather Brewer ', ' Marcel Frautschi ', ' Dominik Eschmann ', ' Andreas Spring ', '\r\nNicolas Gurtner ', ' Benjamin Kieser ', ' Jonas Lüscher ', ' Martin Stebler ', ' Dominik Beck ', ' Tobias Pfister ']","['Jazz', 'Blues', 'Soul']"
+28,Bern,Iiro-Rantala,2013-03-13,['Iiro Rantala '],"['Jazz', 'Blues', 'Soul']"
+29,Bar-Rossi,Zürich,2013-03-13,['Ian Fisher '],"['Ian', 'Fisher']"
+30,Zukunft,Zürich,2013-03-13,[' DJ Mildred Guy '],"['Fai', 'Baba']"

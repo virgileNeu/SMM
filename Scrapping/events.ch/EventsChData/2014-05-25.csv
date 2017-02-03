@@ -1,37 +1,37 @@
-location,event,date,artists,genre
-Olten,Konzertmatinee,2014-05-25,"['Nils Kohler ', ' Simon Bucher ']",Classic
-Basel,Drehscheibe-Leipzig,2014-05-25,"[' Susanne Mathé ', ' Isabelle Ladewig ', ' Stella Mahrenholz ', ' Stéphanie Meyer ']",Classic
-Zürich,Mnemosyne,2014-05-25,"['Rotraut Jäger ', ' Rebekka Zweifel ']",Classic
-null,Mis-Dach-isch-der-Himmel-vo-Züri,2014-05-25,"[' Samuel Zünd ', ' Rea Claudia Kost ', ' Daniel Fueter ']",Pop
-Zug,Konzert,2014-05-25,[' Jonathan Gilad '],Classic
-Zürich,Beethoven-Zyklus-Il,2014-05-25,[' András Schiff '],Classic
-Winterthur,Prova-in-concert,2014-05-25,"[' Dani Schmid ', ' Andreas Schmid ', ' Olaf Ryter ', ' Nik Kunz ', ' Roman Bruderer ', ' Chris Jaeger ']",
-Frauenfeld,Dixit-Dominus,2014-05-25,"[' Kelly Landerkin ', ' Ulrike Andersen ', ' David Munderloh ', ' Samuel Zünd ']",Classic
-Bern,Meisterkonzert,2014-05-25,"['Emmanuel Pahud ', ' Eric Le Sage ']",Classic
-Herrliberg,Sinfoniekonzert,2014-05-25,[' Andreas Cincera '],Classic
-Luzern,Junge-Solisten,2014-05-25,[' Maria Roesti '],Classic
-Zürich,Welcome-All-Wonders,2014-05-25,"[' Carmela Konrad ', ' Liliane Glanzmann ', ' Jakob Pilgram ', ' Florian Engelhardt ', ' Tobias Willi ']",Classic
-null,P.L.F.,2014-05-25,"['P.L.F. ', ' Dead Instrument ']",
-Zürich,Moment,2014-05-25,"[' Musik: Susann Wehrli ', ' Karin Ernst ']",
-Thun,4.-Sinfoniekonzert,2014-05-25,['Joseph-Maurice Weder '],Classic
-Basel,Concerts-Aurore,2014-05-25,"['Heinrich Mätzener ', ' Christophe Coin ', ' Jean-Jacques Dünki ']",Classic
-Rapperswil,Musik-im-Schloss,2014-05-25,"[' David Orlowsky ', ' Jens-Uwe Popp ', ' Florian Dohrmann ']",
-Basel,Orgel-und-Kammermusik,2014-05-25,"['Sally Fortino ', ' Susanne Jenne-Linde ']",Classic
-Winterthur,Orgelkonzert,2014-05-25,['Johanna Torikka '],Classic
-Zürich,Singing-Gospel,2014-05-25,"['Tore Aas ', ' Cynthia Nunn ']",
-Zürich,Tadah,2014-05-25,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc Méan ', ' Raffaele Bossard ', ' Dominic Egli ']",
-Basel,Pop-Up-Konzert-#2,2014-05-25,[' Bastian Pfefferli '],Classic
-Basel,Konzert,2014-05-25,"['Kurt Widmer ', ' Stephan Schmidt ']",Classic
-Luzern,Star-Trek-Live-to-Projection,2014-05-25,['Star Trek '],Classic
-Zürich,Pat-Metheny-Unity-Group,2014-05-25,"['Pat Metheny Unity Group ', ' Pat Metheny ', ' Chris Potter ', ' Ben Williams ', ' Antonio Sanchez ', ' Giulio Carmassi ']",
-Winterthur,Konzert,2014-05-25,[' Michaela Paetsch '],Classic
-Feuerthalen,Amy-Gallatin-&-Stillwaters,2014-05-25,['Amy Gallatin & Stillwaters '],
-Zürich,Konzert,2014-05-25,"['Lars Vogt ', ' Christian Tetzlaff ', ' Tanja Tetzlaff ']",Classic
-Winterthur,Katharina-Busch,2014-05-25,"[' Katharina Busch ', ' Levin Deger ', ' Thomas Hauser ', ' Andre Bader ']",
-Zürich,Taktlos,2014-05-25,"['Ragini Trio ', ' Kazanchis + 1 ', ' Nathan Daems ', ' Marco Bardoscia ', ' Lander Gyselinck ']",
-Basel,Bernhoft,2014-05-25,['Bernhoft '],
-Zürich,Bob-Log-III,2014-05-25,['Bob Log III '],Pop
-Zürich,Gary-Clark-Jr.,2014-05-25,"['Gary Clark Jr. ', ' Gary Clark Jr. ', ' King Zapata ', ' Johnny Bradley ', ' Johnny Radelat ']",
-Zürich,Bernhoft,2014-05-25,['Bernhoft '],
-Wetzikon,1000-Degrees,2014-05-25,['1000 Degrees '],
-Bern,Chrome,2014-05-25,['Chrome '],
+,location,event,date,artists,genre
+0,Olten,Konzertmatinee,2014-05-25,"['Nils Kohler ', ' Simon Bucher ']",['Classic']
+1,Basel,Drehscheibe-Leipzig,2014-05-25,"[' Susanne Math? ', ' Isabelle Ladewig ', ' Stella Mahrenholz ', ' St?phanie Meyer ']",['Classic']
+2,Z?rich,Mnemosyne,2014-05-25,"['Rotraut J?ger ', ' Rebekka Zweifel ']",['Classic']
+3,Zug,Konzert,2014-05-25,[' Jonathan Gilad '],['Classic']
+4,null,Mis-Dach-isch-der-Himmel-vo-Z?ri,2014-05-25,"[' Samuel Z?nd ', ' Rea Claudia Kost ', ' Daniel Fueter ']",['Pop']
+5,Z?rich,Beethoven-Zyklus-Il,2014-05-25,[' Andr?s Schiff '],['Classic']
+6,Winterthur,Prova-in-concert,2014-05-25,"[' Dani Schmid ', ' Andreas Schmid ', ' Olaf Ryter ', ' Nik Kunz ', ' Roman Bruderer ', ' Chris Jaeger ']","['world', 'music']"
+7,Basel,Orgel-und-Kammermusik,2014-05-25,"['Sally Fortino ', ' Susanne Jenne-Linde ']",['Classic']
+8,Frauenfeld,Dixit-Dominus,2014-05-25,"[' Kelly Landerkin ', ' Ulrike Andersen ', ' David Munderloh ', ' Samuel Z?nd ']",['Classic']
+9,Thun,4.-Sinfoniekonzert,2014-05-25,['Joseph-Maurice Weder '],['Classic']
+10,Z?rich,Welcome-All-Wonders,2014-05-25,"[' Carmela Konrad ', ' Liliane Glanzmann ', ' Jakob Pilgram ', ' Florian Engelhardt ', ' Tobias Willi ']",['Classic']
+11,Bern,Meisterkonzert,2014-05-25,"['Emmanuel Pahud ', ' Eric Le Sage ']",['Classic']
+12,null,P.L.F.,2014-05-25,"['P.L.F. ', ' Dead Instrument ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Z?rich,Moment,2014-05-25,"[' Musik: Susann Wehrli ', ' Karin Ernst ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Basel,Concerts-Aurore,2014-05-25,"['Heinrich M?tzener ', ' Christophe Coin ', ' Jean-Jacques D?nki ']",['Classic']
+15,Winterthur,Orgelkonzert,2014-05-25,['Johanna Torikka '],['Classic']
+16,Herrliberg,Sinfoniekonzert,2014-05-25,[' Andreas Cincera '],['Classic']
+17,Rapperswil,Musik-im-Schloss,2014-05-25,"[' David Orlowsky ', ' Jens-Uwe Popp ', ' Florian Dohrmann ']","['world', 'music']"
+18,Luzern,Junge-Solisten,2014-05-25,[' Maria Roesti '],['Classic']
+19,Z?rich,Singing-Gospel,2014-05-25,"['Tore Aas ', ' Cynthia Nunn ']","['world', 'music']"
+20,Z?rich,Tadah,2014-05-25,"[' Matthias Spillmann ', ' Reto Suhner ', ' Marc M?an ', ' Raffaele Bossard ', ' Dominic Egli ']","['Jazz', 'Blues', 'Soul']"
+21,Basel,Pop-Up-Konzert-#2,2014-05-25,[' Bastian Pfefferli '],['Classic']
+22,Basel,Konzert,2014-05-25,"['Kurt Widmer ', ' Stephan Schmidt ']",['Classic']
+23,Luzern,Star-Trek-Live-to-Projection,2014-05-25,['Star Trek '],['Classic']
+24,Winterthur,Konzert,2014-05-25,[' Michaela Paetsch '],['Classic']
+25,Z?rich,Pat-Metheny-Unity-Group,2014-05-25,"['Pat Metheny Unity Group ', ' Pat Metheny ', ' Chris Potter ', ' Ben Williams ', ' Antonio Sanchez ', ' Giulio Carmassi ']","['Jazz', 'Blues', 'Soul']"
+26,Winterthur,Katharina-Busch,2014-05-25,"[' Katharina Busch ', ' Levin Deger ', ' Thomas Hauser ', ' Andre Bader ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Feuerthalen,Amy-Gallatin-&-Stillwaters,2014-05-25,[' Stillwaters '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Z?rich,Konzert,2014-05-25,"['Lars Vogt ', ' Christian Tetzlaff ', ' Tanja Tetzlaff ']",['Classic']
+29,Z?rich,Bernhoft,2014-05-25,['Bernhoft '],"['Hip', 'Hop', ""R'n'B""]"
+30,Z?rich,Gary-Clark-Jr.,2014-05-25,"['Gary Clark Jr. ', ' Gary Clark Jr. ', ' King Zapata ', ' Johnny Bradley ', ' Johnny Radelat ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Z?rich,Taktlos,2014-05-25,"['Ragini Trio ', ' Kazanchis + 1 ', ' Nathan Daems ', ' Marco Bardoscia ', ' Lander Gyselinck ']","['Jazz', 'Blues', 'Soul']"
+32,Basel,Bernhoft,2014-05-25,['Bernhoft '],"['Hip', 'Hop', ""R'n'B""]"
+33,Z?rich,Bob-Log-III,2014-05-25,['Bob Log III '],['Pop']
+34,Wetzikon,1000-Degrees,2014-05-25,['1000 Degrees '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Bern,Chrome,2014-05-25,['Chrome '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

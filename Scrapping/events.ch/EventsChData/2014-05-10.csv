@@ -1,44 +1,44 @@
-location,event,date,artists,genre
-Zürich,Musik-um-Mechthild-von-Magdeburg,2014-05-10,"['Susannah Haberfeld ', ' Nicolas Corti ', ' Stefan Müller ']",Classic
-Basel,Masterrezital,2014-05-10,[' Adrien Pièce '],Classic
-Luzern,Piano-Entertainment,2014-05-10,['Christian Mettler '],Pop
-Zürich,Franz-Liszt-auf-Klavier-und-Orgel,2014-05-10,['Els Biesemans '],Classic
-Zürich,Einfach-elegant,2014-05-10,[' Brigitte Grether '],Classic
-Bern,Konzert,2014-05-10,[' Lionel Cottet '],Classic
-Zürich,Meh-Suff,2014-05-10,"['Dornenreich ', ' Heretoir ', ' Wassermanns Fiebertraum ']",
-Allschwil,Musica-Mare,2014-05-10,"[' Lutz Gerlach ', ' Ulrike Mai ']",
-Bern,Eli-Paperboy-Reed,2014-05-10,['Eli Paperboy Reed '],
-Zürich,Omer-Klein-Trio,2014-05-10,['Omer Klein Trio '],
-Oberengstringen,Fischermanns-Orchestra,2014-05-10,"[' Samuel Blatter ', ' Bodo Maier ', ' Samuel Blättler ', ' Lino Blöchlinger ', ' Daniela Künzli ', "" Philipp Z'Rotz "", ' Simon Petermann ', ' Dominic Landolt ']",
-Bern,Zoë,2014-05-10,"[' Zoë ', ' Robin Tadic ', "" Romano D'Agostino "", ' Mario Schläppi ', ' Patrik Horat ']",
-Zürich,Konzert,2014-05-10,"[' Robert Koller ', ' Elmar Schmid ']",Classic
-null,Patrick-Bruel,2014-05-10,['Patrick Bruel '],Pop
-Horw,Killer-Queens,2014-05-10,"['Katharina Albisser ', ' Esther Bucher ', ' Mirjam Breu ', ' Edith Knüsel ']",Pop
-Zürich,Alex-Huber,2014-05-10,['Alex Huber '],
-Winterthur,Musica-aperta-Mythos-und-Moderne,2014-05-10,"[' Dante Montoya ', ' Jörg-Peter Mittmann ', ' Merve Kazokoglu ', ' Lydie Römisch ', ' works by Jean-Luc Darbellay ']",Classic
-Huttwil,The-Toasters,2014-05-10,['The Toasters '],
-Basel,Jazzfestival-Basel,2014-05-10,['Ana Moura & Grupo '],
-Winterthur,The-Ultra-Electric-Mega-Galactic,2014-05-10,"['The Ultra Electric Mega Galactic ', ' Sasquatch ']",
-Ascona,Klavierkonzert,2014-05-10,['Daniel Levy '],Classic
-Zürich,Yves-Reichmuth-Quartet,2014-05-10,"[' Yves Reichmuth ', ' Lucien Dubuis ', ' Valentin Dietrich ', ' Lukas Mantel ']",
-null,Tuliaisia-Duo,2014-05-10,"[' Marianne Racine ', ' Vera Kappeler ']",
-Basel,MC-Fitti,2014-05-10,['MC Fitti '],
-Aarau,Six-60,2014-05-10,['Six 60 '],Pop
-Basel,Anna-Lauvergnac-International-Group,2014-05-10,"[' Anna Lauvergnac ', ' Claus Raible ', ' Giorgos Antoniou ', ' Steve Brown ']",
-Zürich,Pentatonix,2014-05-10,['Pentatonix '],Pop
-Lausanne,Schoolboy-Q,2014-05-10,['Schoolboy Q '],
-Schaffhausen,The-Sweet,2014-05-10,['The Sweet '],
-Bern,1-A-Grind,2014-05-10,[' Mulk '],
-Basel,Samoon,2014-05-10,['Samoon '],
-Zürich,Klang,2014-05-10,[' The Handlebars '],
-Zürich,Philipp-Hillebrand-Quartet,2014-05-10,"[' Philipp Hillebrand ', ' Claude Stucki ', ' Raphael Walser ', ' Paul Amereller ']",
-Bern,Neighborship-feat.-Nilsa,2014-05-10,['Neighborship feat. Nilsa '],
-Winterthur,Big-Daddy-Kane,2014-05-10,['Big Daddy Kane '],
-null,The-Rugged-Man,2014-05-10,['The Rugged Man '],
-Zürich,Onyx-feat.-Sticky-Fingaz-&-Fredro-Starr,2014-05-10,"['Onyx feat. Sticky Fingaz & Fredro Starr ', ' Marco Polo ', ' Bassi Maestro ', ' Hannibal Stax ']",
-Luzern,Doop-vs.-Subp-Yao,2014-05-10,['Doop vs. Subp Yao '],Electronic
-Schaffhausen,Tony-Dynamite-and-the-Shootin'-Beavers,2014-05-10,"[""Tony Dynamite and the Shootin' Beavers ""]",
-Basel,Salsa-Latino-Party-con-DJ-Esteban,2014-05-10,['DJ Esteban '],
-Zürich,Cilia-Hunch,2014-05-10,"[' Fernanda Ramos ', ' Stefanie Suhner ', ' Mariel Zambellis ', ' Oliver Jordan Tewelde ', ' Marvin Trummer ', ' Michel Spahr ', ' Moritz Meyer ', ' Paul Amereller ']",
-Lausanne,Bauchamp,2014-05-10,['Bauchamp '],
-Bern,Hercules-and-Love-Affair,2014-05-10,['Hercules and Love Affair '],Electronic
+,location,event,date,artists,genre
+0,Basel,Masterrezital,2014-05-10,[' Adrien Pi?ce '],['Classic']
+1,Z?rich,Musik-um-Mechthild-von-Magdeburg,2014-05-10,"['Susannah Haberfeld ', ' Nicolas Corti ', ' Stefan M?ller ']",['Classic']
+2,Luzern,Piano-Entertainment,2014-05-10,['Christian Mettler '],['Pop']
+3,Z?rich,Franz-Liszt-auf-Klavier-und-Orgel,2014-05-10,['Els Biesemans '],['Classic']
+4,Bern,Konzert,2014-05-10,[' Lionel Cottet '],['Classic']
+5,Z?rich,Einfach-elegant,2014-05-10,[' Brigitte Grether '],['Classic']
+6,Allschwil,Musica-Mare,2014-05-10,"[' Lutz Gerlach ', ' Ulrike Mai ']","['Jazz', 'Blues', 'Soul']"
+7,Bern,Zo?,2014-05-10,"[' Zo? ', ' Robin Tadic ', "" Romano D'Agostino "", ' Mario Schl?ppi ', ' Patrik Horat ']","['Hip', 'Hop', ""R'n'B""]"
+8,Oberengstringen,Fischermanns-Orchestra,2014-05-10,"[' Samuel Blatter ', ' Bodo Maier ', ' Samuel Bl?ttler ', ' Lino Bl?chlinger ', ' Daniela K?nzli ', "" Philipp Z'Rotz "", ' Simon Petermann ', ' Dominic Landolt ']","['Jazz', 'Blues', 'Soul']"
+9,Z?rich,Konzert,2014-05-10,"[' Robert Koller ', ' Elmar Schmid ']",['Classic']
+10,Z?rich,Omer-Klein-Trio,2014-05-10,['Omer Klein Trio '],"['Jazz', 'Blues', 'Soul']"
+11,Bern,Eli-Paperboy-Reed,2014-05-10,['Eli Paperboy Reed '],"['Hip', 'Hop', ""R'n'B""]"
+12,null,Patrick-Bruel,2014-05-10,['Patrick Bruel '],['Pop']
+13,Z?rich,Meh-Suff,2014-05-10,"['Dornenreich ', ' Heretoir ', ' Wassermanns Fiebertraum ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Horw,Killer-Queens,2014-05-10,"['Katharina Albisser ', ' Esther Bucher ', ' Mirjam Breu ', ' Edith Kn?sel ']",['Pop']
+15,Winterthur,Musica-aperta-Mythos-und-Moderne,2014-05-10,"[' Dante Montoya ', ' J?rg-Peter Mittmann ', ' Merve Kazokoglu ', ' Lydie R?misch ', ' works by Jean-Luc Darbellay ']",['Classic']
+16,Z?rich,Alex-Huber,2014-05-10,['Alex Huber '],"['Jazz', 'Blues', 'Soul']"
+17,Basel,Anna-Lauvergnac-International-Group,2014-05-10,"[' Anna Lauvergnac ', ' Claus Raible ', ' Giorgos Antoniou ', ' Steve Brown ']","['Jazz', 'Blues', 'Soul']"
+18,null,Tuliaisia-Duo,2014-05-10,"[' Marianne Racine ', ' Vera Kappeler ']","['Jazz', 'Blues', 'Soul']"
+19,Ascona,Klavierkonzert,2014-05-10,['Daniel Levy '],['Classic']
+20,Z?rich,Yves-Reichmuth-Quartet,2014-05-10,"[' Yves Reichmuth ', ' Lucien Dubuis ', ' Valentin Dietrich ', ' Lukas Mantel ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Aarau,Six-60,2014-05-10,['Six 60 '],['Pop']
+22,Huttwil,The-Toasters,2014-05-10,['The Toasters '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Winterthur,The-Ultra-Electric-Mega-Galactic,2014-05-10,"['The Ultra Electric Mega Galactic ', ' Sasquatch ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Z?rich,Pentatonix,2014-05-10,['Pentatonix '],['Pop']
+25,Basel,MC-Fitti,2014-05-10,['MC Fitti '],"['Hip', 'Hop', ""R'n'B""]"
+26,Basel,Jazzfestival-Basel,2014-05-10,[' Grupo '],"['Jazz', 'Blues', 'Soul']"
+27,Z?rich,Klang,2014-05-10,[' The Handlebars '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Lausanne,Schoolboy-Q,2014-05-10,['Schoolboy Q '],"['Hip', 'Hop', ""R'n'B""]"
+29,Wetzikon,Jack-Holmes,2014-05-10,"['Jack Holmes ', ' Xenofon Rafis ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Basel,Samoon,2014-05-10,['Samoon '],"['Hip', 'Hop', ""R'n'B""]"
+31,Bern,Neighborship-feat.-Nilsa,2014-05-10,['Neighborship feat. Nilsa '],"['Hip', 'Hop', ""R'n'B""]"
+32,Winterthur,Big-Daddy-Kane,2014-05-10,['Big Daddy Kane '],"['Hip', 'Hop', ""R'n'B""]"
+33,Schaffhausen,The-Sweet,2014-05-10,['The Sweet '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Z?rich,Philipp-Hillebrand-Quartet,2014-05-10,"[' Philipp Hillebrand ', ' Claude Stucki ', ' Raphael Walser ', ' Paul Amereller ']","['Jazz', 'Blues', 'Soul']"
+35,Bern,1-A-Grind,2014-05-10,[' Mulk '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,null,The-Rugged-Man,2014-05-10,['The Rugged Man '],"['Hip', 'Hop', ""R'n'B""]"
+37,Z?rich,Onyx-feat.-Sticky-Fingaz-&-Fredro-Starr,2014-05-10,"[' Fredro Starr ', ' Marco Polo ', ' Bassi Maestro ', ' Hannibal Stax ']","['Hip', 'Hop', ""R'n'B""]"
+38,Basel,Salsa-Latino-Party-con-DJ-Esteban,2014-05-10,['DJ Esteban '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+39,Schaffhausen,Tony-Dynamite-and-the-Shootin'-Beavers,2014-05-10,"[""Tony Dynamite and the Shootin' Beavers ""]","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+40,Luzern,Doop-vs.-Subp-Yao,2014-05-10,['Doop vs. Subp Yao '],['Electronic']
+41,Z?rich,Cilia-Hunch,2014-05-10,"[' Fernanda Ramos ', ' Stefanie Suhner ', ' Mariel Zambellis ', ' Oliver Jordan Tewelde ', ' Marvin Trummer ', ' Michel Spahr ', ' Moritz Meyer ', ' Paul Amereller ']","['Jazz', 'Blues', 'Soul']"
+42,Bern,Hercules-and-Love-Affair,2014-05-10,['Hercules and Love Affair '],['Electronic']

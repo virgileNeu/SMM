@@ -1,37 +1,38 @@
-location,event,date,artists,genre
-Worblaufen,Chris-Conz-Trio,2014-11-20,"[' Chris Conz ', ' Mario Von Holten ', ' Arno Schulz ']",
-Pratteln,Impericon-Never-Say-Die-Tour,2014-11-20,"['Terror ', ' Stick To Your Guns ', ' Comeback Kid ', ' Obey The Brave ', ' More Than A Thousand ', ' No Bragging Rights ', ' Capsize ']",
-Basel,AMG-Rising-Stars,2014-11-20,['Zhang Zuo '],Classic
-Zürich,Galakonzert-des-Gönnervereins,2014-11-20,[' Renaud Capuçon '],Classic
-Zürich,The-Ting-Tings,2014-11-20,['The Ting Tings '],Pop
-Zürich,Thursday-Night-Jazz,2014-11-20,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Zürich,Straymonk,2014-11-20,"[' Nat Su ', ' Gabriel Dalvit ', ' Andreas Zitz ', ' Jonas Ruter ']",
-Zürich,Annett-Louisan,2014-11-20,['Annett Louisan '],Pop
-Zürich,Andreas-Gabalier,2014-11-20,['Andreas Gabalier '],traditional
-Dübendorf,Tony-Carey,2014-11-20,['Tony Carey '],Pop
-Lausanne,Machine-Head,2014-11-20,['Machine Head '],
-null,Miossec,2014-11-20,"['Miossec ', ' Mellanoisescape ']",Electronic
-Luzern,Lamb,2014-11-20,['Lamb '],Electronic
-Luzern,Elvis-The-Show,2014-11-20,['Rio feat. The Tennessee Orchestra & The Vegas Choir '],
-Zürich,Jungle,2014-11-20,"['Jungle ', ' Beaty Heart ']",Pop
-Zürich,Larry-Woodley,2014-11-20,['Larry Woodley '],Pop
-Basel,The-New-Samuel-Mösching-Trio,2014-11-20,"[' Samuel Mösching ', ' Mike Harmon ', ' Peter Manheim ']",
-Zürich,Jojo-Mayer's-Nerve,2014-11-20,"[""Jojo Mayer's Nerve ""]",Electronic
-Zürich,Gregor-Meyle,2014-11-20,['Gregor Meyle '],Pop
-null,Gregory-Porter,2014-11-20,['Gregory Porter '],
-Frick,Bucher's-Organ-Book,2014-11-20,"[' Michael Bucher ', ' Thomas Bauser ', ' Lukas Mantel ']",
-Bern,Saint-Ghetto,2014-11-20,"['Atom ', ' Laetitia Sadier ']",Electronic
-Zürich,Bibb-Foster-Kennedy,2014-11-20,"[' Eric Bibb ', ' Ruthie Foster ', ' Harrison Kennedy ', ' Michael Jerome Brown ']",
-Bern,George-Steinmann-Bluesband-feat.-Mike-Henderson,2014-11-20,['George Steinmann Bluesband feat. Mike Henderson '],
-null,Tango-reunión,2014-11-20,[' Michael Zisman '],
-null,Vincent-Niclo,2014-11-20,['Vincent Niclo '],Pop
-Bern,Eskorzo,2014-11-20,['Eskorzo '],
-Liebefeld,This-Is-Pan,2014-11-20,"[' Matthias Kohler ', ' Lukas Thöni ', ' Toni Schiavano ', ' Gregor Hilbe ']",
-Basel,Augur-Ensemble,2014-11-20,"[' Eirik Dørsdal ', ' Anni Elif Egecioglu ', ' Fabian M. Mueller ', ' Kaspar von Grünigen ', ' Øyvind Hegg-Lunde ']",
-Zürich,Wanda,2014-11-20,['Wanda '],Pop
-Rubigen,Martin-Barre-&-Band,2014-11-20,['Martin Barre & Band '],
-Kriens,Wildbirds-&-Peacedrums,2014-11-20,['Wildbirds & Peacedrums '],Pop
-Basel,Dorian-Concept,2014-11-20,['Dorian Concept '],Electronic
-Zürich,Falcone-Jam,2014-11-20,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp Häfliger ', ' Mike Ryrie ']",Pop
-Lyss,The-Adicts,2014-11-20,['The Adicts '],
-Bern,1A-Grind,2014-11-20,"['The Afternoon Gentlemen ', ' Chiens ', ' Whoresnation ', ' Faime ']",
+,location,event,date,artists,genre
+0,Pratteln,Impericon-Never-Say-Die-Tour,2014-11-20,"['Terror ', ' Stick To Your Guns ', ' Comeback Kid ', ' Obey The Brave ', ' More Than A Thousand ', ' No Bragging Rights ', ' Capsize ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+1,Worblaufen,Chris-Conz-Trio,2014-11-20,"[' Chris Conz ', ' Mario Von Holten ', ' Arno Schulz ']","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Thursday-Night-Jazz,2014-11-20,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+3,Basel,AMG-Rising-Stars,2014-11-20,['Zhang Zuo '],['Classic']
+4,Z?rich,The-Ting-Tings,2014-11-20,['The Ting Tings '],['Pop']
+5,Z?rich,Galakonzert-des-G?nnervereins,2014-11-20,[' Renaud Capu?on '],['Classic']
+6,Z?rich,Annett-Louisan,2014-11-20,['Annett Louisan '],['Pop']
+7,null,Miossec,2014-11-20,"['Miossec ', ' Mellanoisescape ']",['Electronic']
+8,Z?rich,Andreas-Gabalier,2014-11-20,['Andreas Gabalier '],['traditional']
+9,Luzern,Lamb,2014-11-20,['Lamb '],['Electronic']
+10,Luzern,Lamb,2014-11-20,['Lamb '],['Electronic']
+11,D?bendorf,Tony-Carey,2014-11-20,['Tony Carey '],['Pop']
+12,Basel,The-New-Samuel-M?sching-Trio,2014-11-20,"[' Samuel M?sching ', ' Mike Harmon ', ' Peter Manheim ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Jojo-Mayer's-Nerve,2014-11-20,"[""Jojo Mayer's Nerve ""]",['Electronic']
+14,Z?rich,Jungle,2014-11-20,"['Jungle ', ' Beaty Heart ']",['Pop']
+15,Z?rich,Straymonk,2014-11-20,"[' Nat Su ', ' Gabriel Dalvit ', ' Andreas Zitz ', ' Jonas Ruter ']","['Jazz', 'Blues', 'Soul']"
+16,Lausanne,Machine-Head,2014-11-20,['Machine Head '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Z?rich,Larry-Woodley,2014-11-20,['Larry Woodley '],['Pop']
+18,Z?rich,Gregor-Meyle,2014-11-20,['Gregor Meyle '],['Pop']
+19,Luzern,Elvis-The-Show,2014-11-20,[' The Vegas Choir '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Bern,George-Steinmann-Bluesband-feat.-Mike-Henderson,2014-11-20,['George Steinmann Bluesband feat. Mike Henderson '],"['Jazz', 'Blues', 'Soul']"
+21,null,Tango-reuni?n,2014-11-20,[' Michael Zisman '],"['Jazz', 'Blues', 'Soul']"
+22,Liebefeld,This-Is-Pan,2014-11-20,"[' Matthias Kohler ', ' Lukas Th?ni ', ' Toni Schiavano ', ' Gregor Hilbe ']","['Jazz', 'Blues', 'Soul']"
+23,Basel,Augur-Ensemble,2014-11-20,"[' Eirik D?rsdal ', ' Anni Elif Egecioglu ', ' Fabian M. Mueller ', ' Kaspar von Gr?nigen ', ' ?yvind Hegg-Lunde ']","['Jazz', 'Blues', 'Soul']"
+24,null,Vincent-Niclo,2014-11-20,['Vincent Niclo '],['Pop']
+25,null,Gregory-Porter,2014-11-20,['Gregory Porter '],"['Jazz', 'Blues', 'Soul']"
+26,Frick,Bucher's-Organ-Book,2014-11-20,"[' Michael Bucher ', ' Thomas Bauser ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"
+27,Bern,Saint-Ghetto,2014-11-20,"['Atom ', ' Laetitia Sadier ']",['Electronic']
+28,Z?rich,Bibb-Foster-Kennedy,2014-11-20,"[' Eric Bibb ', ' Ruthie Foster ', ' Harrison Kennedy ', ' Michael Jerome Brown ']","['Jazz', 'Blues', 'Soul']"
+29,Bern,Eskorzo,2014-11-20,['Eskorzo '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Z?rich,Wanda,2014-11-20,['Wanda '],['Pop']
+31,Basel,Dorian-Concept,2014-11-20,['Dorian Concept '],['Electronic']
+32,Lyss,The-Adicts,2014-11-20,['The Adicts '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Kriens,Wildbirds-&-Peacedrums,2014-11-20,[' Peacedrums '],['Pop']
+34,Rubigen,Martin-Barre-&-Band,2014-11-20,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Z?rich,Falcone-Jam,2014-11-20,"[' Silvan Petite ', ' Leon Duncan ', ' Dani Zihlmann ', ' Philipp H?fliger ', ' Mike Ryrie ']",['Pop']
+36,Bern,1A-Grind,2014-11-20,"['The Afternoon Gentlemen ', ' Chiens ', ' Whoresnation ', ' Faime ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

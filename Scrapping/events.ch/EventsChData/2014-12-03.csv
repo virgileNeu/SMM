@@ -1,32 +1,31 @@
-location,event,date,artists,genre
-Bern,Prokofjews-Violinkonzert,2014-12-03,['Veronika Eberle '],Classic
-Zürich,Mittagsmusik,2014-12-03,"['Valérie Arias ', ' Vitaliy Shestakov ', ' Yelizaveta Kozlova ', ' Elisabeth Kappus ', ' Christoph Mohr ', ' conductor: Giancarlo Prossimo ']",Classic
-Basel,Mimiko-Es-Exented-Sounds,2014-12-03,"['Martin Walter ', ' Steve Buchanan ']",Classic
-Basel,Mittagskonzert-Romantische-Gitarren,2014-12-03,"['Giuseppe Feola ', ' Krishnasol Jiménez ']",Classic
-Zürich,Monte-Carlo,2014-12-03,['Monte Carlo '],Pop
-Baden,After-Work-Music-Konzert-im-Dunkeln,2014-12-03,"['Works by Sandro Schneebeli ', ' Bruno Bieri ']",Classic
-Luzern,Sinfoniekonzert,2014-12-03,[' Menahem Pressler '],Classic
-Basel,Hoch-auf-dem-Berg,2014-12-03,[' Miklós Perényi '],Classic
-Uster,Stille-Pracht,2014-12-03,"['Mio Yamamoto ', ' Aoi Locher ']",
-Bern,Konzert-für-den-Frieden,2014-12-03,[' Jürgen Franz '],Classic
-Zürich,Konzert,2014-12-03,[' Martin Fröst '],Classic
-Zürich,Jan-Garbarek-&-The-Hilliard-Ensemble,2014-12-03,"['Jan Garbarek & The Hilliard Ensemble ', ' Jan Garbarek ', ' David James ', ' Steven Harrold ', ' Rogers Covey-Crump ', ' Gordon Jones ']",
-Zürich,Y'akoto,2014-12-03,"[""Y'akoto ""]",
-Zürich,Elton-John,2014-12-03,['Elton John '],Pop
-Zürich,Amatorski,2014-12-03,['Amatorski '],
-Zürich,One-Ok-Rock,2014-12-03,['One Ok Rock '],
-Zürich,Reflections,2014-12-03,"[' Andreas Kunz ', ' Katya Polin ', ' Ellen Fallowfield ', ' Micaela Grau Durán ', ' Francesco Negrini ']",Classic
-Luzern,Jam-Session,2014-12-03,"[' Claudio Berger ', ' Flurin Iten ', ' Lukas Derungs ']",
-Basel,Anaïs-Mitchell,2014-12-03,['Anaïs Mitchell '],Pop
-Zürich,Ensemble-5-Wednesday-4+1-Series,2014-12-03,"['Fridolin Blumer ', ' Heinz Geisser ', ' Robert Morgenthaler ', ' Reto Staub ', ' Ronny Graupe ']",
-Winterthur,Jazz-am-Mittwoch,2014-12-03,"[' Tommy Meier ', ' Marco von Orelli ', ' Manuel Mengis ', ' Co Streiff ', ' Peter Landis ', ' Hans Anliker ', ' Michael Flury ', ' Hans-Peter Pfammatter ', ' Luca Sisera ', ' Valentin Dietrich ']",
-null,Songhoy-Blues,2014-12-03,['Songhoy Blues '],
-Bern,Eivind-Aarset-&-Michele-Rabbia,2014-12-03,['Eivind Aarset & Michele Rabbia '],
-Zürich,Sting-Operation,2014-12-03,"[' Matthias Siegrist ', ' Peter Leuzinger ', ' Peter Preibisch ', ' Felix Straumann ']",
-Zürich,Artist-in-Residence-Simon-Berz,2014-12-03,"[' Mara Miccichè ', ' Moose Jackson ', ' Rob Cambre ', ' Simon Berz ']",Electronic
-Schaffhausen,Boy-&-Bear,2014-12-03,"['Boy & Bear ', ' Dancing Years ']",
-Solothurn,Nine-Below-Zero,2014-12-03,['Nine Below Zero '],
-Basel,Pascal-Schumacher-Quartet,2014-12-03,"[' Franz von Chossy ', ' Jens Düppe ', ' Pol Belardi ', ' Pascal Schumacher ']",
-Kriens,Tops,2014-12-03,"['Tops ', ' Juan Wauters ']",Pop
-Zürich,Bukowski,2014-12-03,['Yosai '],Pop
-Bern,Sham-69,2014-12-03,['Sham 69 '],
+,location,event,date,artists,genre
+0,Bern,Prokofjews-Violinkonzert,2014-12-03,['Veronika Eberle '],['Classic']
+1,Basel,Mimiko-Es-Exented-Sounds,2014-12-03,"['Martin Walter ', ' Steve Buchanan ']",['Classic']
+2,Z?rich,Mittagsmusik,2014-12-03,"['Val?rie Arias ', ' Vitaliy Shestakov ', ' Yelizaveta Kozlova ', ' Elisabeth Kappus ', ' Christoph Mohr ', ' conductor: Giancarlo Prossimo ']",['Classic']
+3,Basel,Mittagskonzert-Romantische-Gitarren,2014-12-03,"['Giuseppe Feola ', ' Krishnasol Jim?nez ']",['Classic']
+4,Z?rich,Monte-Carlo,2014-12-03,['Monte Carlo '],['Pop']
+5,Baden,After-Work-Music-Konzert-im-Dunkeln,2014-12-03,"['Works by Sandro Schneebeli ', ' Bruno Bieri ']",['Classic']
+6,Luzern,Sinfoniekonzert,2014-12-03,[' Menahem Pressler '],['Classic']
+7,Basel,Hoch-auf-dem-Berg,2014-12-03,[' Mikl?s Per?nyi '],['Classic']
+8,Bern,Konzert-f?r-den-Frieden,2014-12-03,[' J?rgen Franz '],['Classic']
+9,Z?rich,Konzert,2014-12-03,[' Martin Fr?st '],['Classic']
+10,Uster,Stille-Pracht,2014-12-03,"['Mio Yamamoto ', ' Aoi Locher ']","['world', 'music']"
+11,Z?rich,Reflections,2014-12-03,"[' Andreas Kunz ', ' Katya Polin ', ' Ellen Fallowfield ', ' Micaela Grau Dur?n ', ' Francesco Negrini ']",['Classic']
+12,Z?rich,Elton-John,2014-12-03,['Elton John '],['Pop']
+13,Luzern,Jam-Session,2014-12-03,"[' Claudio Berger ', ' Flurin Iten ', ' Lukas Derungs ']","['Hip', 'Hop', ""R'n'B""]"
+14,Z?rich,Jan-Garbarek-&-The-Hilliard-Ensemble,2014-12-03,"[' The Hilliard Ensemble ', ' Jan Garbarek ', ' David James ', ' Steven Harrold ', ' Rogers Covey-Crump ', ' Gordon Jones ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Amatorski,2014-12-03,['Amatorski '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Z?rich,Y'akoto,2014-12-03,"[""Y'akoto ""]","['Jazz', 'Blues', 'Soul']"
+17,Z?rich,One-Ok-Rock,2014-12-03,['One Ok Rock '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Z?rich,Ensemble-5-Wednesday-4+1-Series,2014-12-03,"['Fridolin Blumer ', ' Heinz Geisser ', ' Robert Morgenthaler ', ' Reto Staub ', ' Ronny Graupe ']","['Jazz', 'Blues', 'Soul']"
+19,Winterthur,Jazz-am-Mittwoch,2014-12-03,"[' Tommy Meier ', ' Marco von Orelli ', ' Manuel Mengis ', ' Co Streiff ', ' Peter Landis ', ' Hans Anliker ', ' Michael Flury ', ' Hans-Peter Pfammatter ', ' Luca Sisera ', ' Valentin Dietrich ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Artist-in-Residence-Simon-Berz,2014-12-03,"[' Mara Miccich? ', ' Moose Jackson ', ' Rob Cambre ', ' Simon Berz ']",['Electronic']
+21,Solothurn,Nine-Below-Zero,2014-12-03,['Nine Below Zero '],"['Jazz', 'Blues', 'Soul']"
+22,Basel,Pascal-Schumacher-Quartet,2014-12-03,"[' Franz von Chossy ', ' Jens D?ppe ', ' Pol Belardi ', ' Pascal Schumacher ']","['Jazz', 'Blues', 'Soul']"
+23,Schaffhausen,Boy-&-Bear,2014-12-03,"[' Bear ', ' Dancing Years ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,null,Songhoy-Blues,2014-12-03,['Songhoy Blues '],"['Hip', 'Hop', ""R'n'B""]"
+25,Bern,Eivind-Aarset-&-Michele-Rabbia,2014-12-03,[' Michele Rabbia '],"['Jazz', 'Blues', 'Soul']"
+26,Z?rich,Sting-Operation,2014-12-03,"[' Matthias Siegrist ', ' Peter Leuzinger ', ' Peter Preibisch ', ' Felix Straumann ']","['Jazz', 'Blues', 'Soul']"
+27,Kriens,Tops,2014-12-03,"['Tops ', ' Juan Wauters ']",['Pop']
+28,Z?rich,Bukowski,2014-12-03,['Yosai '],['Pop']
+29,Bern,Sham-69,2014-12-03,['Sham 69 '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

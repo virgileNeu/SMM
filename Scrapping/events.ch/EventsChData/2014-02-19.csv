@@ -1,27 +1,26 @@
-location,event,date,artists,genre
-Basel,Mimiko-Melodia,2014-02-19,['Andreas Kunz '],Classic
-Luzern,Piano-Entertainment,2014-02-19,['Mark Tenger '],
-Zürich,Bombay-Bicycle-Club,2014-02-19,['Bombay Bicycle Club '],Pop
-Winterthur,Königin-der-Trompete,2014-02-19,[' Tine Thing Helseth '],Classic
-Zürich,Konzert,2014-02-19,[' Janine Jansen '],Classic
-Baden,Schuberts-Winterreise,2014-02-19,"['Valentin Johannes Gloor ', ' Rahel Sohn Achermann ']",Classic
-Zürich,Che-Sudaka,2014-02-19,['Che Sudaka '],
-Bern,One-Republic,2014-02-19,['One Republic '],Pop
-Zürich,Birdy,2014-02-19,['Birdy '],Pop
-Pratteln,Civil-War,2014-02-19,['Civil War '],
-null,Wishbone-Ash,2014-02-19,"['Wishbone Ash ', ' Cliff Stevens Band ']",
-Zürich,Jazzbaragge-Wednesday-Jam,2014-02-19,"['Oliver Keller ', ' Luca Leombruni ', ' Dominik Burkhalter ']",
-Luzern,Jam-Night,2014-02-19,"['Sasha Frischknecht ', ' Gregory Schärrer ', ' Raffael Ponchanke ', ' Elio Amberg ']",
-Solothurn,Miss-May-I,2014-02-19,['Miss May I '],
-null,Moderat,2014-02-19,['Moderat '],Electronic
-Winterthur,Jazz-am-Mittwoch,2014-02-19,"[' Olaf Ryter ', ' Babak Nemati ', ' Beat Gisler ', ' Carles Peris ']",
-Zürich,Achter-Himmel,2014-02-19,"['Andrei Ichtchenko ', ' Christine Lather ', ' Roger Girod ']",Pop
-Basel,Eneias-Xavier-Quinteto,2014-02-19,"[' Chico Amaral ', ' Matheus Barbosa ', ' Ricardo Fiuza ', ' Eneias Xavier ', ' Mauro Martins ']",
-Winterthur,Isbells,2014-02-19,['Isbells '],
-Lausanne,Beady-Eye,2014-02-19,['Beady Eye '],
-Bern,Monkey-Cup-Dress,2014-02-19,['Monkey Cup Dress '],Pop
-Zürich,Artist-in-Residence-Andreas-Tschopp,2014-02-19,"[' Joana Aderi ', ' Andreas Tschopp ', ' Vincent Membrez ', ' Fred Bürki ', ' Daniela Sarda ', ' Rico Baumann ']",
-Zürich,Lambs-&-Wolves,2014-02-19,['Lambs & Wolves '],Pop
-Baden,Rumpel-&-Racine,2014-02-19,"[' Marianne Racine ', ' Jojo Kunz ']",
-Rubigen,Vdelli,2014-02-19,['Vdelli '],
-Luzern,Minimalarge-Ensemble,2014-02-19,"[' Dominic Stahl ', ' Andi Bissig ', ' Angelika Büeler ', ' Anna Bernhard ', ' Simon Iten ', ' Patrik Horat ']",
+,location,event,date,artists,genre
+0,Basel,Mimiko-Melodia,2014-02-19,['Andreas Kunz '],['Classic']
+1,Z?rich,Bombay-Bicycle-Club,2014-02-19,['Bombay Bicycle Club '],['Pop']
+2,Winterthur,K?nigin-der-Trompete,2014-02-19,[' Tine Thing Helseth '],['Classic']
+3,Z?rich,Konzert,2014-02-19,[' Janine Jansen '],['Classic']
+4,Bern,One-Republic,2014-02-19,['One Republic '],['Pop']
+5,Z?rich,Birdy,2014-02-19,['Birdy '],['Pop']
+6,Pratteln,Civil-War,2014-02-19,['Civil War '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+7,null,Wishbone-Ash,2014-02-19,"['Wishbone Ash ', ' Cliff Stevens Band ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,null,Moderat,2014-02-19,['Moderat '],['Electronic']
+9,Baden,Schuberts-Winterreise,2014-02-19,"['Valentin Johannes Gloor ', ' Rahel Sohn Achermann ']",['Classic']
+10,Z?rich,Jazzbaragge-Wednesday-Jam,2014-02-19,"['Oliver Keller ', ' Luca Leombruni ', ' Dominik Burkhalter ']","['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Che-Sudaka,2014-02-19,['Che Sudaka '],"['world', 'music']"
+12,Luzern,Jam-Night,2014-02-19,"['Sasha Frischknecht ', ' Gregory Sch?rrer ', ' Raffael Ponchanke ', ' Elio Amberg ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Solothurn,Miss-May-I,2014-02-19,['Miss May I '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Winterthur,Jazz-am-Mittwoch,2014-02-19,"[' Olaf Ryter ', ' Babak Nemati ', ' Beat Gisler ', ' Carles Peris ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Artist-in-Residence-Andreas-Tschopp,2014-02-19,"[' Joana Aderi ', ' Andreas Tschopp ', ' Vincent Membrez ', ' Fred B?rki ', ' Daniela Sarda ', ' Rico Baumann ']","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Achter-Himmel,2014-02-19,"['Andrei Ichtchenko ', ' Christine Lather ', ' Roger Girod ']",['Pop']
+17,Winterthur,Isbells,2014-02-19,['Isbells '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+18,Basel,Eneias-Xavier-Quinteto,2014-02-19,"[' Chico Amaral ', ' Matheus Barbosa ', ' Ricardo Fiuza ', ' Eneias Xavier ', ' Mauro Martins ']","['Jazz', 'Blues', 'Soul']"
+19,Lausanne,Beady-Eye,2014-02-19,['Beady Eye '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+20,Bern,Monkey-Cup-Dress,2014-02-19,['Monkey Cup Dress '],['Pop']
+21,Z?rich,Lambs-&-Wolves,2014-02-19,[' Wolves '],['Pop']
+22,Luzern,Minimalarge-Ensemble,2014-02-19,"[' Dominic Stahl ', ' Andi Bissig ', ' Angelika B?eler ', ' Anna Bernhard ', ' Simon Iten ', ' Patrik Horat ']","['Jazz', 'Blues', 'Soul']"
+23,Rubigen,Vdelli,2014-02-19,['Vdelli '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Baden,Rumpel-&-Racine,2014-02-19,"[' Marianne Racine ', ' Jojo Kunz ']","['Jazz', 'Blues', 'Soul']"

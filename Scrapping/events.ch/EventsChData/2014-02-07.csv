@@ -1,45 +1,43 @@
-location,event,date,artists,genre
-Baden,One-of-a-Million,2014-02-07,['Wandl '],
-Zürich,Dirigierkurs-David-Zinman,2014-02-07,[' Sabine Poyé Morel '],Classic
-Luzern,Piano-Entertainment,2014-02-07,['Christian Mettler '],Pop
-Basel,Orgelspiel-zum-Feierabend,2014-02-07,['Derek Clark '],Classic
-Dietikon,Feierabendmusik-in-der-Kirche,2014-02-07,"['Inge Rott ', ' Angela Brändli ', ' Magnus Bischof ', ' Eugen Studer ']",Classic
-Basel,Canapé,2014-02-07,"[' Simone Bollini ', ' Hagen Neye ']",
-Dübendorf,Die-Lange-Nacht-der-Pianos,2014-02-07,"['Marianne Racine ', ' Chris Witschi ', ' Yves Martinek ', ' Thomas Grüninger ', ' Andres Käch ', ' Moritz Meyer ']",
-Zürich,Internationales-Country-Music-Festival,2014-02-07,['Her & Kings County '],
-Luzern,The-Artist-Live-in-Concert,2014-02-07,"[' Ludovic Bource ', ' The Artist ']",Classic
-Aarau,Enforcer,2014-02-07,"['Enforcer ', ' Skull Fist ', ' Vanderbuyst ']",
-Basel,Konzert,2014-02-07,"['Leonardo Ferreyra ', ' Rahel Zellweger ', ' Sophie Lüssi ', ' Andreas Ochsner ']",Classic
-Bern,Piano-Fusion,2014-02-07,['Antonio Davi '],Classic
-Zürich,Wahn-Witz-Ahnung,2014-02-07,"[' Susanne Huber ', ' André Thomet ', ' Mihaela Despa ', ' Peter Fleischlin ']",Classic
-Baden,One-of-a-Million,2014-02-07,['Pale Grey '],Electronic
-Uster,Victory,2014-02-07,['Victory '],
-Zürich,7-Dollar-Taxi,2014-02-07,['7 Dollar Taxi '],
-Zürich,50-Jahre-Minimal,2014-02-07,"[' David Schnee ', ' Nicola Romano ', ' Tobias von Glenck ', ' Simone Keller ', ' Martin Lorenz ']",
-Zürich,Incroyable,2014-02-07,"[' Julia Schiwowa ', ' Marcos Buser ', ' Andrei Ichtchenko ', ' Fridolin Blumer ']",Pop
-Zürich,Acoustic-Friday,2014-02-07,"[' Simon Wyrsch ', ' Dario Bianchin ', ' Thomas Hauser ', ' Robert Mark ']",
-null,Stephan-Athanas'-Contemparabic-Jazz-Ensemble,2014-02-07,"[""Stephan Athanas' Contemparabic Jazz Ensemble "", ' Samiha Ben Said ', ' Samir Ferjani ', ' Benji Fellous ', ' Bernard Vidal ', ' Dave Feusi ', ' Tony Renold ', ' Stephan Athanas ']",
-Zürich,Doneda-Myhr-Sandbakken,2014-02-07,"[' Michel Doneda ', ' Adrian Myhr ', ' Tore Sandbakken ']",
-Bülach,Paolo-Alderighi-Trio-feat.-Alfredo-Ferrario,2014-02-07,"['Paolo Alderighi Trio feat. Alfredo Ferrario ', ' Alfredo Ferrario ', ' Paolo Alderighi ', ' Roberto Piccolo ', ' Nicola Stranieri ']",
-Winterthur,Galeone-Quartet,2014-02-07,"[' Pascal Galeone ', ' Franz Hellmüller ', ' Stefano Risso ', ' Marcel Papaux ']",
-Liebefeld,Lisette-Spinnler-Quartett,2014-02-07,"[' Lisette Spinnler ', ' Stefan Aeby ', ' André Pousaz ', ' Michi Stulz ']",
-Zürich,Thomas-Lüthi's-Biwak,2014-02-07,"[' Thomas Lüthi ', ' Arne Huber', ' Claudio Strüby']",
-Winterthur,Stoner-Doom-Night,2014-02-07,['Black Shape Of Nexus '],
-Basel,Tango-Crash,2014-02-07,"[' Martin Klingeberg ', ' Christian Gerber ', ' Martin Iannaccone ', ' Daniel Almada ', ' Gregor Hilbe ']",
-Zürich,Lucien-Dubuis-Trio-&-Spacetet,2014-02-07,"['Lucien Dubuis Trio & Spacetet ', ' Lucien Dubuis ', ' Roman Nowka ', ' Lionel Friedli ', ' Estelle Beiner ', ' Regula Schwab ', ' Isabelle Gottraux ', ' Barbara Gasser ']",
-Bern,City-And-Colour,2014-02-07,"['City And Colour ', ' support: Hannah Georgas ']",Pop
-null,Rocio-Marquez,2014-02-07,"[' Rocio Marquez ', ' Alfredo Lagos ']",
-Zürich,Oliveras'-3-Plays-Monk,2014-02-07,"[' Yves Theiler ', ' Lukas Traxel ', ' Ramón Oliveras ']",
-Lenzburg,Piledriver,2014-02-07,"[' Beat Schaub ', ' Hanns Hanneken ', ' Andi Wunderlin ', ' Martin Eyer ']",
-Luzern,Striving-Vines,2014-02-07,['Striving Vines '],Pop
-Zürich,Disco-Doom,2014-02-07,['Disco Doom '],
-Schaffhausen,Little-Mammoths-feat.-David-Hope,2014-02-07,['Little Mammoths feat. David Hope '],Pop
-Baden,One-of-a-Million,2014-02-07,['David Lemaitre '],Pop
-Düdingen,Naked-Lunch,2014-02-07,['Naked Lunch '],
-null,Fetsum,2014-02-07,['Fetsum '],Pop
-Lausanne,Church-Of-Misery,2014-02-07,['Church Of Misery '],
-null,Kara,2014-02-07,['Kara '],
-Zürich,Plek-Wek,2014-02-07,['Plek Wek '],Pop
-Zürich,Phase-4,2014-02-07,"[' Tobias Pfister ', ' Dominik Beck ', ' Pascal Rüegger ', ' Paul Amereller ']",
-Baden,One-of-a-Million,2014-02-07,['Funeral Suits '],
-Lausanne,Shantel,2014-02-07,['DJ Shantel '],
+,location,event,date,artists,genre
+0,Baden,One-of-a-Million,2014-02-07,['Wandl '],"['Hip', 'Hop', ""R'n'B""]"
+1,Z?rich,Dirigierkurs-David-Zinman,2014-02-07,[' Sabine Poy? Morel '],['Classic']
+2,Luzern,Piano-Entertainment,2014-02-07,['Christian Mettler '],['Pop']
+3,Basel,Orgelspiel-zum-Feierabend,2014-02-07,['Derek Clark '],['Classic']
+4,Dietikon,Feierabendmusik-in-der-Kirche,2014-02-07,"['Inge Rott ', ' Angela Br?ndli ', ' Magnus Bischof ', ' Eugen Studer ']",['Classic']
+5,D?bendorf,Die-Lange-Nacht-der-Pianos,2014-02-07,"['Marianne Racine ', ' Chris Witschi ', ' Yves Martinek ', ' Thomas Gr?ninger ', ' Andres K?ch ', ' Moritz Meyer ']","['Jazz', 'Blues', 'Soul']"
+6,Basel,Canap?,2014-02-07,"[' Simone Bollini ', ' Hagen Neye ']","['Jazz', 'Blues', 'Soul']"
+7,Aarau,Enforcer,2014-02-07,"['Enforcer ', ' Skull Fist ', ' Vanderbuyst ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Basel,Konzert,2014-02-07,"['Leonardo Ferreyra ', ' Rahel Zellweger ', ' Sophie L?ssi ', ' Andreas Ochsner ']",['Classic']
+9,Luzern,The-Artist-Live-in-Concert,2014-02-07,"[' Ludovic Bource ', ' The Artist ']",['Classic']
+10,Z?rich,50-Jahre-Minimal,2014-02-07,"[' David Schnee ', ' Nicola Romano ', ' Tobias von Glenck ', ' Simone Keller ', ' Martin Lorenz ']","['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Acoustic-Friday,2014-02-07,"[' Simon Wyrsch ', ' Dario Bianchin ', ' Thomas Hauser ', ' Robert Mark ']","['Jazz', 'Blues', 'Soul']"
+12,Uster,Victory,2014-02-07,['Victory '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+13,Z?rich,7-Dollar-Taxi,2014-02-07,['7 Dollar Taxi '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Bern,Piano-Fusion,2014-02-07,['Antonio Davi '],['Classic']
+15,Z?rich,Wahn-Witz-Ahnung,2014-02-07,"[' Susanne Huber ', ' Andr? Thomet ', ' Mihaela Despa ', ' Peter Fleischlin ']",['Classic']
+16,Baden,One-of-a-Million,2014-02-07,['Pale Grey '],['Electronic']
+17,Z?rich,Incroyable,2014-02-07,"[' Julia Schiwowa ', ' Marcos Buser ', ' Andrei Ichtchenko ', ' Fridolin Blumer ']",['Pop']
+18,Winterthur,Galeone-Quartet,2014-02-07,"[' Pascal Galeone ', ' Franz Hellm?ller ', ' Stefano Risso ', ' Marcel Papaux ']","['Jazz', 'Blues', 'Soul']"
+19,null,Stephan-Athanas'-Contemparabic-Jazz-Ensemble,2014-02-07,"[""Stephan Athanas' Contemparabic Jazz Ensemble "", ' Samiha Ben Said ', ' Samir Ferjani ', ' Benji Fellous ', ' Bernard Vidal ', ' Dave Feusi ', ' Tony Renold ', ' Stephan Athanas ']","['Jazz', 'Blues', 'Soul']"
+20,Z?rich,Doneda-Myhr-Sandbakken,2014-02-07,"[' Michel Doneda ', ' Adrian Myhr ', ' Tore Sandbakken ']","['Jazz', 'Blues', 'Soul']"
+21,B?lach,Paolo-Alderighi-Trio-feat.-Alfredo-Ferrario,2014-02-07,"['Paolo Alderighi Trio feat. Alfredo Ferrario ', ' Alfredo Ferrario ', ' Paolo Alderighi ', ' Roberto Piccolo ', ' Nicola Stranieri ']","['Jazz', 'Blues', 'Soul']"
+22,Z?rich,Lucien-Dubuis-Trio-&-Spacetet,2014-02-07,"[' Spacetet ', ' Lucien Dubuis ', ' Roman Nowka ', ' Lionel Friedli ', ' Estelle Beiner ', ' Regula Schwab ', ' Isabelle Gottraux ', ' Barbara Gasser ']","['Jazz', 'Blues', 'Soul']"
+23,Winterthur,Stoner-Doom-Night,2014-02-07,['Black Shape Of Nexus '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+24,Liebefeld,Lisette-Spinnler-Quartett,2014-02-07,"[' Lisette Spinnler ', ' Stefan Aeby ', ' Andr? Pousaz ', ' Michi Stulz ']","['Jazz', 'Blues', 'Soul']"
+25,Z?rich,Thomas-L?thi's-Biwak,2014-02-07,"[' Thomas L?thi ', ' Arne Huber', ' Claudio Str?by']","['Jazz', 'Blues', 'Soul']"
+26,Basel,Tango-Crash,2014-02-07,"[' Martin Klingeberg ', ' Christian Gerber ', ' Martin Iannaccone ', ' Daniel Almada ', ' Gregor Hilbe ']","['Jazz', 'Blues', 'Soul']"
+27,Bern,City-And-Colour,2014-02-07,"['City And Colour ', ' support: Hannah Georgas ']",['Pop']
+28,Lenzburg,Piledriver,2014-02-07,"[' Beat Schaub ', ' Hanns Hanneken ', ' Andi Wunderlin ', ' Martin Eyer ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Z?rich,Oliveras'-3-Plays-Monk,2014-02-07,"[' Yves Theiler ', ' Lukas Traxel ', ' Ram?n Oliveras ']","['Jazz', 'Blues', 'Soul']"
+30,null,Rocio-Marquez,2014-02-07,"[' Rocio Marquez ', ' Alfredo Lagos ']","['world', 'music']"
+31,Luzern,Striving-Vines,2014-02-07,['Striving Vines '],['Pop']
+32,Schaffhausen,Little-Mammoths-feat.-David-Hope,2014-02-07,['Little Mammoths feat. David Hope '],['Pop']
+33,Baden,One-of-a-Million,2014-02-07,['David Lemaitre '],['Pop']
+34,D?dingen,Naked-Lunch,2014-02-07,['Naked Lunch '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,null,Fetsum,2014-02-07,['Fetsum '],['Pop']
+36,null,Kara,2014-02-07,['Kara '],"['world', 'music']"
+37,Lausanne,Church-Of-Misery,2014-02-07,['Church Of Misery '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+38,Z?rich,Plek-Wek,2014-02-07,['Plek Wek '],['Pop']
+39,Z?rich,Phase-4,2014-02-07,"[' Tobias Pfister ', ' Dominik Beck ', ' Pascal R?egger ', ' Paul Amereller ']","['Jazz', 'Blues', 'Soul']"
+40,Baden,One-of-a-Million,2014-02-07,['Funeral Suits '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+41,Lausanne,Shantel,2014-02-07,['DJ Shantel '],"['world', 'music']"

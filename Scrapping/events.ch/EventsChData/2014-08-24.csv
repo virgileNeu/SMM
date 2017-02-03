@@ -1,18 +1,18 @@
-location,event,date,artists,genre
-Murten,Murten-Classics-Kammermusik,2014-08-24,"['Lisa Schatzman ', ' Benjamin Engeli ']",Classic
-Liestal,Karin-Ospelt,2014-08-24,['Karin Ospelt '],Pop
-Zürich,Les-digitales,2014-08-24,"['Biosphere ', ' Ghosting Season ', ' Comfort Fit ']",
-Basel,20-Jahre-Bird's-Eye-Club,2014-08-24,[' Christoph Ràcz '],
-Luzern,Rezital-3-Klavier,2014-08-24,['Lang Lang '],Classic
-Sarnen,Harfe-Violine-Visuelles,2014-08-24,"[' Corinne Kappeler ', ' Daniel Treyer ']",Classic
-Fischingen,Orgelkonzert-mit-zwei-Trompeten,2014-08-24,"['Andreas Jud ', ' Helena Hautle ', ' Markus Graf ']",Classic
-Hilterfingen,Bachwochen-Thun-Die-Brandenburgischen,2014-08-24,"[' Katharina Heutjer ', ' Sebastian Wienand ']",Classic
-null,Murten-Classics-Kammermusik,2014-08-24,"['Viviane Chassot ', ' Marcus Weiss ', ' Rafael Rosenfeld ']",Classic
-Zürich,Sukarma,2014-08-24,['Sukarma '],
-Saanen,Menuhin-Festival-Gstaad,2014-08-24,"['Jeremy Menuhin ', ' Henning Kraggerud ', ' Gary Hoffman ']",Classic
-Basel,Basler-Orgelfestival-Bach-am-Rhy,2014-08-24,"[' Armin Bereuter ', ' John Walthausen ', ' Andreas Liebig ']",Classic
-Winterthur,Jubiläumskonzert,2014-08-24,[' Benjamin Engeli '],Classic
-Luzern,Sinfoniekonzert-7,2014-08-24,[' Maurizio Pollini '],Classic
-Winterthur,Winterthurer-Musikfestwochen,2014-08-24,"['Elbow ', ' Nada Surf ', ' James Walsh ']",
-Bern,Cheryl-B.-Engelhardt,2014-08-24,['Cheryl B. Engelhardt '],Pop
-Zürich,Zürcher-Theater-Spektakel,2014-08-24,['Sormeh '],
+,location,event,date,artists,genre
+0,Murten,Murten-Classics-Kammermusik,2014-08-24,"['Lisa Schatzman ', ' Benjamin Engeli ']",['Classic']
+1,Liestal,Karin-Ospelt,2014-08-24,['Karin Ospelt '],['Pop']
+2,Z?rich,Les-digitales,2014-08-24,"['Biosphere ', ' Ghosting Season ', ' Comfort Fit ']","['Electro', 'Electropop']"
+3,Basel,20-Jahre-Bird's-Eye-Club,2014-08-24,[' Christoph R?cz '],"['Jazz', 'Blues', 'Soul']"
+4,Luzern,Rezital-3-Klavier,2014-08-24,['Lang Lang '],['Classic']
+5,Sarnen,Harfe-Violine-Visuelles,2014-08-24,"[' Corinne Kappeler ', ' Daniel Treyer ']",['Classic']
+6,Fischingen,Orgelkonzert-mit-zwei-Trompeten,2014-08-24,"['Andreas Jud ', ' Helena Hautle ', ' Markus Graf ']",['Classic']
+7,Hilterfingen,Bachwochen-Thun-Die-Brandenburgischen,2014-08-24,"[' Katharina Heutjer ', ' Sebastian Wienand ']",['Classic']
+8,null,Murten-Classics-Kammermusik,2014-08-24,"['Viviane Chassot ', ' Marcus Weiss ', ' Rafael Rosenfeld ']",['Classic']
+9,Saanen,Menuhin-Festival-Gstaad,2014-08-24,"['Jeremy Menuhin ', ' Henning Kraggerud ', ' Gary Hoffman ']",['Classic']
+10,Z?rich,Sukarma,2014-08-24,['Sukarma '],"['world', 'music']"
+11,Basel,Basler-Orgelfestival-Bach-am-Rhy,2014-08-24,"[' Armin Bereuter ', ' John Walthausen ', ' Andreas Liebig ']",['Classic']
+12,Winterthur,Jubil?umskonzert,2014-08-24,[' Benjamin Engeli '],['Classic']
+13,Luzern,Sinfoniekonzert-7,2014-08-24,[' Maurizio Pollini '],['Classic']
+14,Winterthur,Winterthurer-Musikfestwochen,2014-08-24,"['Elbow ', ' Nada Surf ', ' James Walsh ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Bern,Cheryl-B.-Engelhardt,2014-08-24,['Cheryl B. Engelhardt '],['Pop']
+16,Z?rich,Z?rcher-Theater-Spektakel,2014-08-24,['Sormeh '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

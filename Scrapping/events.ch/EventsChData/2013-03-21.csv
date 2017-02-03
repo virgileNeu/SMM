@@ -1,44 +1,45 @@
-location,event,date,artists,genre
-Zürich,Verbannt-im-eigenen-Land,2013-03-21,"[' Andrzej Kilian ', ' Seiko Morishita ', ' Dominik Ostertag ', ' Anita Federli-Rutz ', ' Bernhard Parz ']",Classic
-Basel,Mittagskonzert,2013-03-21,['Julia Marion '],Classic
-Basel,Historisch-informierte-Aufführungspraxis-&-Oper,2013-03-21,['Johannes Keller '],Classic
-Zürich,A-Bix-Beiderbecke-Connestion,2013-03-21,"[' Alan Rogers ', ' John Service ', ' Miro Steiner ']",
-Zürich,A-Bix-Beiderbecke-Connestion,2013-03-21,"[' Alan Rogers ', ' John Service ', ' Miro Steiner ']",
-Zürich,A-Bix-Beiderbecke-Connestion,2013-03-21,"[' Alan Rogers ', ' John Service ', ' Miro Steiner ']",
-Bern,Voilà,2013-03-21,[' Conrad Tao '],Classic
-Zürich,Konzert,2013-03-21,"[' Rex Lawson ', ' Evgeniya Sotnikova ', ' Anna Goryachova ', ' Goran Juric ']",Classic
-Zürich,Totentanz,2013-03-21,[' Heike Landbeck '],Classic
-Zürich,Internationales-Country-Music-Festival,2013-03-21,[' Tom Astor & Band '],
-Zürich,Dechen-Shak-Dagsay,2013-03-21,"['Dechen Shak-Dagsay ', ' Helge van Dyk ', '  Jürg Zurmühle ', ' Daniel Pezzotti ', ' Dieter Dyk ']",
-Zürich,Trio-Utzinger-Renold-Sprenger,2013-03-21,"[' Felix Utzinger ', ' Tony Renold ', ' Christoph Sprenger ']",
-Basel,Volkssinfoniekonzert,2013-03-21,"[' Ingolf Wunder ', ' Katrin Wundsam ', ' Kurt Azesberger ', ' Robert Holzer ']",Classic
-Bern,Internationales-Jazzfestival-Bern,2013-03-21,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']",
-Zürich,Thursday-Night-Jazz,2013-03-21,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Stadtcasino,Basel,2013-03-21,['Dianne Reeves '],
-Luzern,Salonmusik,2013-03-21,"['Martin Schaefer ', ' Richard Decker ']",Classic
-Zürich,Shitface,2013-03-21,"['Shitface ', ' Dan Webb and the Spiders ']",
-Solothurn,I-am-Hersey,2013-03-21,"['I am Hersey ', ' support: Hierophant ']",
-Zürich,Bendorim,2013-03-21,"[' Dela Hüttner ', ' Karin Meier ', ' Jürg Luchsinger ', ' Stefanie Kunckler ']",
-Salzhaus,Winterthur,2013-03-21,"['Saint Vitus ', ' Mos Generator ']",
-Zürich,Robi-Weber-Quartet-feat.-Lilly-Martin,2013-03-21,['Robi Weber Quartet feat. Lilly Martin '],
-Zürich,Liederabend,2013-03-21,"['Christian Gerhaher ', ' Gerold Huber ', ' works by Heinz Holliger ']",Classic
-Zürich,Tobias-Thomhave,2013-03-21,['Tobias Thomhave '],
-Zürich,Of-Monsters-And-Men,2013-03-21,"['Of Monsters And Men ', ' support: Mugison ']",
-Les-Docks,Lausanne,2013-03-21,"['Totally Enormous Extinct Dinosaurs ', ' Who Made Who ']",
-Winterthur,Tagebuch-einer-Verlorenen,2013-03-21,"[' Nicole Johänntgen ', ' Claudia Kühne ', ' Yves Theiler ']",
-Basel,Pot-pourri-pour-clavicorde,2013-03-21,['Sally Fortino '],Classic
-Baden,Sam-Burckhardt-&-Walt's-Blues-Box,2013-03-21,"[' Sam Burckhardt ', ' Walter Baumgartner ', ' Elias Bernet ', ' Joel Allison ', ' Andi Schmid ']",
-Wallisellen,Orgelkonzert-zum-Frühlingsbeginn,2013-03-21,['Bruno Reich '],Classic
-Kloten,Musig-i-de-Schüür,2013-03-21,"[' Balboo Bojko ', ' Alex Hackl ', ' Karl Handlos ']",
-Liebefeld,Rom-Schaerer-Eberle,2013-03-21,"[' Peter Rom ', ' Andreas Schaerer ', ' Martin Eberle ']",
-Jazzkantine,Luzern,2013-03-21,"[' Adina Friis ', ' Matthias Abächerli ', ' Andreas Schelker ', ' Amin Mokdad ', ' Simon Althaus ', ' Pascal Fernandes ', ' Romano DAgostino ', ' Sascha Frischknecht ', ' Mischa Maurer ', ' Martial In-Albon ', ' Nino Wenger ', ' Valerio Lepori ', ' Sebastian Pietrowiak ', ' Gianluca Giger ', ' Clemens Kuratle ']",Luumu
-Basel,Samo-Salamon-Trio-feat.-Paul-McCandless-&-Roberto-Dani,2013-03-21,"[' Samo Salamon ', ' Paul McCandless ', ' Roberto Dani ']",
-Zürich,Baba-Zula,2013-03-21,"['Baba Zula ', ' Murat Ertel ', ' Levent Akman ', ' Cosar Kamci ']",
-Lausanne,Frank-Alpine,2013-03-21,"['Frank Alpine ', ' Peepholes ']",
-Aarau,Enno-Bunger,2013-03-21,['Enno Bungers '],Pop
-Bern,Soirée-tropicale,2013-03-21,['DJ M-Afro '],
-Basel,Attack-of-the-Mad-Axeman,2013-03-21,"['Attack of the Mad Axeman ', ' Low Culture ', ' Wojczech ']",
-Lausanne,M.-Lamar,2013-03-21,['M. Lamar '],
-Luzern,Jam-Session,2013-03-21,['Richard Decker '],
-Bern,Internationales-Jazzfestival-Bern,2013-03-21,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']",
-Pontresina,Ball-and-Chain,2013-03-21,['Ball and Chain '],Pop
+,location,event,date,artists,genre
+0,Zürich,Verbannt-im-eigenen-Land,2013-03-21,"[' Andrzej Kilian ', ' Seiko Morishita ', ' Dominik Ostertag ', ' Anita Federli-Rutz ', ' Bernhard Parz ']",['Classic']
+1,Basel,Mittagskonzert,2013-03-21,['Julia Marion '],['Classic']
+2,Zürich,A-Bix-Beiderbecke-Connestion,2013-03-21,"[' Alan Rogers ', ' John Service ', ' Miro Steiner ']","['Jazz', 'Blues', 'Soul']"
+3,Basel,Historisch-informierte-Aufführungspraxis-&-Oper,2013-03-21,['Johannes Keller '],['Classic']
+4,Zürich,A-Bix-Beiderbecke-Connestion,2013-03-21,"[' Alan Rogers ', ' John Service ', ' Miro Steiner ']","['Jazz', 'Blues', 'Soul']"
+5,Zürich,A-Bix-Beiderbecke-Connestion,2013-03-21,"[' Alan Rogers ', ' John Service ', ' Miro Steiner ']","['Jazz', 'Blues', 'Soul']"
+6,Bern,Voilà,2013-03-21,[' Conrad Tao '],['Classic']
+7,Zürich,Konzert,2013-03-21,"[' Rex Lawson ', ' Evgeniya Sotnikova ', ' Anna Goryachova ', ' Goran Juric ']",['Classic']
+8,Zürich,Totentanz,2013-03-21,[' Heike Landbeck '],['Classic']
+9,Zürich,Trio-Utzinger-Renold-Sprenger,2013-03-21,"[' Felix Utzinger ', ' Tony Renold ', ' Christoph Sprenger ']","['Jazz', 'Blues', 'Soul']"
+10,Bern,Internationales-Jazzfestival-Bern,2013-03-21,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']","['Jazz', 'Blues', 'Soul']"
+11,Basel,Volkssinfoniekonzert,2013-03-21,"[' Ingolf Wunder ', ' Katrin Wundsam ', ' Kurt Azesberger ', ' Robert Holzer ']",['Classic']
+12,Zürich,Thursday-Night-Jazz,2013-03-21,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+13,Zürich,Internationales-Country-Music-Festival,2013-03-21,[' Tom Astor & Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Zürich,Dechen-Shak-Dagsay,2013-03-21,"['Dechen Shak-Dagsay ', ' Helge van Dyk ', '  Jürg Zurmühle ', ' Daniel Pezzotti ', ' Dieter Dyk ']","['world', 'music']"
+15,Zürich,Of-Monsters-And-Men,2013-03-21,"['Of Monsters And Men ', ' support: Mugison ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Luzern,Salonmusik,2013-03-21,"['Martin Schaefer ', ' Richard Decker ']",['Classic']
+17,Zürich,Robi-Weber-Quartet-feat.-Lilly-Martin,2013-03-21,['Robi Weber Quartet feat. Lilly Martin '],"['Jazz', 'Blues', 'Soul']"
+18,Les-Docks,Lausanne,2013-03-21,"['Totally Enormous Extinct Dinosaurs ', ' Who Made Who ']","['Domi', 'Chansorn']"
+19,Zürich,Liederabend,2013-03-21,"['Christian Gerhaher ', ' Gerold Huber ', ' works by Heinz Holliger ']",['Classic']
+20,Zürich,Shitface,2013-03-21,"['Shitface ', ' Dan Webb and the Spiders ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Zürich,Bendorim,2013-03-21,"[' Dela Hüttner ', ' Karin Meier ', ' Jürg Luchsinger ', ' Stefanie Kunckler ']","['world', 'music']"
+22,Solothurn,I-am-Hersey,2013-03-21,"['I am Hersey ', ' support: Hierophant ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+23,Winterthur,Tagebuch-einer-Verlorenen,2013-03-21,"[' Nicole Johänntgen ', ' Claudia Kühne ', ' Yves Theiler ']","['Jazz', 'Blues', 'Soul']"
+24,Salzhaus,Winterthur,2013-03-21,"['Saint Vitus ', ' Mos Generator ']","['Saint', 'Vitus']"
+25,Baden,Sam-Burckhardt-&-Walt's-Blues-Box,2013-03-21,"[' Sam Burckhardt ', ' Walter Baumgartner ', ' Elias Bernet ', ' Joel Allison ', ' Andi Schmid ']","['Jazz', 'Blues', 'Soul']"
+26,Zürich,Tobias-Thomhave,2013-03-21,['Tobias Thomhave '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Basel,Pot-pourri-pour-clavicorde,2013-03-21,['Sally Fortino '],['Classic']
+28,Wallisellen,Orgelkonzert-zum-Frühlingsbeginn,2013-03-21,['Bruno Reich '],['Classic']
+29,Stadtcasino,Basel,2013-03-21,['Dianne Reeves '],"['Dianne', 'Reeves']"
+30,Kloten,Musig-i-de-Schüür,2013-03-21,"[' Balboo Bojko ', ' Alex Hackl ', ' Karl Handlos ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Basel,Samo-Salamon-Trio-feat.-Paul-McCandless-&-Roberto-Dani,2013-03-21,"[' Samo Salamon ', ' Paul McCandless ', ' Roberto Dani ']","['Jazz', 'Blues', 'Soul']"
+32,Zürich,Baba-Zula,2013-03-21,"['Baba Zula ', ' Murat Ertel ', ' Levent Akman ', ' Cosar Kamci ']","['world', 'music']"
+33,Liebefeld,Rom-Schaerer-Eberle,2013-03-21,"[' Peter Rom ', ' Andreas Schaerer ', ' Martin Eberle ']","['Jazz', 'Blues', 'Soul']"
+34,Jazzkantine,Luzern,2013-03-21,"[' Adina Friis ', ' Matthias Abächerli ', ' Andreas Schelker ', ' Amin Mokdad ', ' Simon Althaus ', ' Pascal Fernandes ', ' Romano DAgostino ', ' Sascha Frischknecht ', ' Mischa Maurer ', ' Martial In-Albon ', ' Nino Wenger ', ' Valerio Lepori ', ' Sebastian Pietrowiak ', ' Gianluca Giger ', ' Clemens Kuratle ']",['Luumu']
+35,Aarau,Enno-Bunger,2013-03-21,['Enno Bungers '],['Pop']
+36,Basel,Attack-of-the-Mad-Axeman,2013-03-21,"['Attack of the Mad Axeman ', ' Low Culture ', ' Wojczech ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,Basel,Attack-of-the-Mad-Axeman,2013-03-21,"['Attack of the Mad Axeman ', ' Low Culture ', ' Wojczech ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+38,Lausanne,Frank-Alpine,2013-03-21,"['Frank Alpine ', ' Peepholes ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+39,Bern,Soirée-tropicale,2013-03-21,['DJ M-Afro '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+40,Lausanne,M.-Lamar,2013-03-21,['M. Lamar '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+41,Luzern,Jam-Session,2013-03-21,['Richard Decker '],"['Jazz', 'Blues', 'Soul']"
+42,Pontresina,Ball-and-Chain,2013-03-21,['Ball and Chain '],['Pop']
+43,Bern,Internationales-Jazzfestival-Bern,2013-03-21,"['The Lucky & Tamara Peterson Band ', ' Lucky Peterson ', ' Tamara Peterson ', ' Shawn Kellerman ', ' Tim Waites ', ' Raul Valdes ']","['Jazz', 'Blues', 'Soul']"

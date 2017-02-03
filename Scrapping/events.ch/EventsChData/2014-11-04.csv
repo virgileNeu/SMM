@@ -1,27 +1,27 @@
-location,event,date,artists,genre
-Zürich,Gletscherfezzzer,2014-11-04,['Gletscherfezzzer '],traditional
-Zürich,Racine-Dudu-&-Rodrigo,2014-11-04,"[' Marianne Racine ', ' Dudu Penz ', ' Rodrigo Botter Maio ']",
-Zürich,Hammer-Klavierfestival-Dialog-von-Wort-und-Ton,2014-11-04,['Els Biesemans '],Classic
-null,Day-&-Taxi,2014-11-04,"['Christoph Gallio ', ' Silvan Jeger ', ' David Meier ']",Electronic
-Luzern,Mozartgala,2014-11-04,"['Sabine Meyer ', ' Regula Mühlemann ', ' conductor: Daniel Dodds ']",Classic
-Zürich,Meisterinterpreten-in-Zürich,2014-11-04,['Fazil Say '],Classic
-Basel,AMG-Sinfoniekonzerte-Klassik,2014-11-04,[' Nicolas Altstaedt '],Classic
-Basel,Baloise-Session-Urban-Hymns,2014-11-04,"['Wyclef Jean ', ' Charles Bradley and his Extraordinaires ']",
-Zürich,How-to-Dress-Well,2014-11-04,['How to Dress Well '],Electronic
-Zürich,Earthless,2014-11-04,['Earthless '],
-Zürich,Kasabian,2014-11-04,['Kasabian '],
-Bern,And-You-Will-Know-Us-by-the-Trail-of-Dead,2014-11-04,"['And You Will Know Us by the Trail of Dead ', ' support: Your Favorite Enemies ', ' Midnight Masses ']",
-Zürich,Town-Of-Saints,2014-11-04,"['Town Of Saints ', ' support: The T. S. Eliot Appreciation Society ']",
-Zürich,Thurston-Moore,2014-11-04,['Thurston Moore '],
-Zürich,Cyrille-Aimée,2014-11-04,"['Cyrille Aimée ', ' Cyrille Aimée ', ' Adrien Moignard ', ' Michael Valeanu ', ' Sam Anning ', ' Rajiv Jayaweera ']",
-null,Al-Di-Meola,2014-11-04,['Al Di Meola '],
-Basel,Meshell-Ndegeocello,2014-11-04,['Meshell Ndegeocello '],Pop
-Basel,Schweizer-Komponisten,2014-11-04,"[' Anja Brezavscek ', ' Pedro Pablo Cámara Toldos ']",Classic
-Basel,Chaotic-moebius-Imprint,2014-11-04,['Alejandro T. Acierto '],Classic
-Zürich,James-Carter-Organ-Trio,2014-11-04,"['James Carter Organ Trio ', ' James Carter ', ' Gerard Gibbs ', ' Leonard Clyde King Jr. ']",Pop
-Luzern,Kuu,2014-11-04,"['Kuu ', ' Frank Möbus ', ' Jelena Kuljic ', ' Kalle Kalima ', ' Frank Möbus ', ' Christian Lillinger ']",
-Basel,Tobias-Meinhart-Quintet,2014-11-04,"[' Tobias Meinhart ', ' Lou Lecaudey ', ' Jorn Swart ', ' Tom Berkmann ', ' Valentin Schuster ']",
-Basel,Who-Made-Who,2014-11-04,['Who Made Who '],Electronic
-Zürich,Ought,2014-11-04,['Ought '],Pop
-Zürich,Jeff-The-Brotherhood,2014-11-04,['Jeff The Brotherhood '],
-Bern,C.-Gibbs,2014-11-04,['C. Gibbs '],
+,location,event,date,artists,genre
+0,Z?rich,Gletscherfezzzer,2014-11-04,['Gletscherfezzzer '],['traditional']
+1,Z?rich,Racine-Dudu-&-Rodrigo,2014-11-04,"[' Marianne Racine ', ' Dudu Penz ', ' Rodrigo Botter Maio ']","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Hammer-Klavierfestival-Dialog-von-Wort-und-Ton,2014-11-04,['Els Biesemans '],['Classic']
+3,null,Day-&-Taxi,2014-11-04,"['Christoph Gallio ', ' Silvan Jeger ', ' David Meier ']",['Electronic']
+4,Basel,AMG-Sinfoniekonzerte-Klassik,2014-11-04,[' Nicolas Altstaedt '],['Classic']
+5,Luzern,Mozartgala,2014-11-04,"['Sabine Meyer ', ' Regula M?hlemann ', ' conductor: Daniel Dodds ']",['Classic']
+6,Z?rich,Meisterinterpreten-in-Z?rich,2014-11-04,['Fazil Say '],['Classic']
+7,Z?rich,How-to-Dress-Well,2014-11-04,['How to Dress Well '],['Electronic']
+8,Z?rich,Cyrille-Aim?e,2014-11-04,"['Cyrille Aim?e ', ' Cyrille Aim?e ', ' Adrien Moignard ', ' Michael Valeanu ', ' Sam Anning ', ' Rajiv Jayaweera ']","['Jazz', 'Blues', 'Soul']"
+9,null,Al-Di-Meola,2014-11-04,['Al Di Meola '],"['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Earthless,2014-11-04,['Earthless '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,Kasabian,2014-11-04,['Kasabian '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Basel,Baloise-Session-Urban-Hymns,2014-11-04,"['Wyclef Jean ', ' Charles Bradley and his Extraordinaires ']","['Hip', 'Hop', ""R'n'B""]"
+13,Bern,And-You-Will-Know-Us-by-the-Trail-of-Dead,2014-11-04,"['And You Will Know Us by the Trail of Dead ', ' support: Your Favorite Enemies ', ' Midnight Masses ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Basel,Meshell-Ndegeocello,2014-11-04,['Meshell Ndegeocello '],['Pop']
+15,Z?rich,Town-Of-Saints,2014-11-04,"['Town Of Saints ', ' support: The T. S. Eliot Appreciation Society ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Z?rich,Thurston-Moore,2014-11-04,['Thurston Moore '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+17,Basel,Schweizer-Komponisten,2014-11-04,"[' Anja Brezavscek ', ' Pedro Pablo C?mara Toldos ']",['Classic']
+18,Basel,Chaotic-moebius-Imprint,2014-11-04,['Alejandro T. Acierto '],['Classic']
+19,Z?rich,James-Carter-Organ-Trio,2014-11-04,"['James Carter Organ Trio ', ' James Carter ', ' Gerard Gibbs ', ' Leonard Clyde King Jr. ']",['Pop']
+20,Basel,Tobias-Meinhart-Quintet,2014-11-04,"[' Tobias Meinhart ', ' Lou Lecaudey ', ' Jorn Swart ', ' Tom Berkmann ', ' Valentin Schuster ']","['Jazz', 'Blues', 'Soul']"
+21,Luzern,Kuu,2014-11-04,"['Kuu ', ' Frank M?bus ', ' Jelena Kuljic ', ' Kalle Kalima ', ' Frank M?bus ', ' Christian Lillinger ']","['Jazz', 'Blues', 'Soul']"
+22,Basel,Who-Made-Who,2014-11-04,['Who Made Who '],['Electronic']
+23,Z?rich,Ought,2014-11-04,['Ought '],['Pop']
+24,Z?rich,Jeff-The-Brotherhood,2014-11-04,['Jeff The Brotherhood '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Bern,C.-Gibbs,2014-11-04,['C. Gibbs '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

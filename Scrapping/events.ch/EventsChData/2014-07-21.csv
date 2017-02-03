@@ -1,13 +1,13 @@
-location,event,date,artists,genre
-Verbier,Verbier-Festival,2014-07-21,['Jan Lisiecki '],Classic
-Luzern,Blue-Balls-Festival,2014-07-21,"['Voodoo Swing ', ' Hat Fitz & Cara ']",
-Luzern,Blue-Balls-Festival,2014-07-21,[' Howlin Rain '],
-Luzern,Blue-Balls-Festival,2014-07-21,['Jason Serious '],Electronic
-Verbier,Verbier-Festival,2014-07-21,"[' Ruxandra Donose ', ' Ramón Vargas ', ' Willard White ', ' Charles Dekeyser ']",Classic
-Luzern,Blue-Balls-Festival,2014-07-21,['Sarah Lancman '],
-Saanen,Menuhin-Festival-Gstaad,2014-07-21,"['Baiba Skride ', ' Sol Gabetta ', ' Christian Zacharias ']",Classic
-Luzern,Blue-Balls-Festival,2014-07-21,['Sophie Zelmani '],Pop
-Verbier,Verbier-Festival,2014-07-21,['Grigory Sokolov '],Classic
-null,Stimmen,2014-07-21,"['Anna Calvi ', ' Lasse Matthiessen ']",
-Rheinau,Youth-Classics,2014-07-21,"['Tim Kliphuis ', ' Nigel Clark ', ' Roy Percy ']",
-Luzern,Blue-Balls-Festival,2014-07-21,"['The Hives ', ' The Subways ']",
+,location,event,date,artists,genre
+0,Verbier,Verbier-Festival,2014-07-21,['Jan Lisiecki '],['Classic']
+1,Luzern,Blue-Balls-Festival,2014-07-21,['Jason Serious '],['Electronic']
+2,Luzern,Blue-Balls-Festival,2014-07-21,[' Howlin Rain '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Luzern,Blue-Balls-Festival,2014-07-21,[' Cara '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Verbier,Verbier-Festival,2014-07-21,"[' Ruxandra Donose ', ' Ram?n Vargas ', ' Willard White ', ' Charles Dekeyser ']",['Classic']
+5,Saanen,Menuhin-Festival-Gstaad,2014-07-21,"['Baiba Skride ', ' Sol Gabetta ', ' Christian Zacharias ']",['Classic']
+6,Luzern,Blue-Balls-Festival,2014-07-21,['Sarah Lancman '],"['Jazz', 'Blues', 'Soul']"
+7,null,Stimmen,2014-07-21,"['Anna Calvi ', ' Lasse Matthiessen ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Luzern,Blue-Balls-Festival,2014-07-21,['Sophie Zelmani '],['Pop']
+9,Verbier,Verbier-Festival,2014-07-21,['Grigory Sokolov '],['Classic']
+10,Rheinau,Youth-Classics,2014-07-21,"['Tim Kliphuis ', ' Nigel Clark ', ' Roy Percy ']","['Jazz', 'Blues', 'Soul']"
+11,Luzern,Blue-Balls-Festival,2014-07-21,"['The Hives ', ' The Subways ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

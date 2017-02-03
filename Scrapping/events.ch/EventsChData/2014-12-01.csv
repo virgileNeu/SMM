@@ -1,16 +1,16 @@
-location,event,date,artists,genre
-Zürich,Monte-Carlo,2014-12-01,['Monte Carlo '],Pop
-Bern,Sous-les-étoiles,2014-12-01,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']",
-Zürich,Konzert,2014-12-01,"['Vilde Frang ', ' Michail Lifits ']",Classic
-Basel,AMG-Solistenabende,2014-12-01,[' Fazil Say '],Classic
-Luzern,Herbie-Hancock,2014-12-01,"['Herbie Hancock ', ' Herbie Hancock ', ' Lionel Loueke ', ' James Genus ', ' Vinnie Colaiuta ']",
-null,Blue-Exercise,2014-12-01,"[' Klaus Knöpfle ', ' Reto Giacopuzzi ', ' Roland Christen ']",
-Basel,Oracles-Blast,2014-12-01,"['Wiktor Kociuban ', ' Demetre Gamsachurdia ']",Classic
-Zürich,John-K.-Samson,2014-12-01,['John K. Samson '],Pop
-Pratteln,Hong-Faux,2014-12-01,['Hong Faux '],
-Baden,Weird-Beard,2014-12-01,"[' Florian Egli ', ' Dave Gisler ', ' Martina Berther ', ' Rico Baumann ']",
-Zürich,Wreckless-Eric,2014-12-01,['Wreckless Eric '],
-Zürich,Zofka,2014-12-01,['Zofka '],Electronic
-Zürich,Mac-DeMarco,2014-12-01,['Mac DeMarco '],
-Basel,Philippe-Schaeppi-Trio,2014-12-01,"[' Philippe Schaeppi ', ' Pio Schürmann ', ' Martin Wyss ']",
-Ascona,James-Morrison-Quartet,2014-12-01,"[' James Morrison ', ' David Blenkhorn ', ' Laurent Vanhee ', ' Didier Ottaviani ']",
+,location,event,date,artists,genre
+0,Z?rich,Monte-Carlo,2014-12-01,['Monte Carlo '],['Pop']
+1,Bern,Sous-les-?toiles,2014-12-01,"[' Martin Dahanukar ', ' Slawek Plizga ', ' Philipp Moll ']","['Jazz', 'Blues', 'Soul']"
+2,Z?rich,Konzert,2014-12-01,"['Vilde Frang ', ' Michail Lifits ']",['Classic']
+3,Luzern,Herbie-Hancock,2014-12-01,"['Herbie Hancock ', ' Herbie Hancock ', ' Lionel Loueke ', ' James Genus ', ' Vinnie Colaiuta ']","['Jazz', 'Blues', 'Soul']"
+4,Basel,AMG-Solistenabende,2014-12-01,[' Fazil Say '],['Classic']
+5,Pratteln,Hong-Faux,2014-12-01,['Hong Faux '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,null,Blue-Exercise,2014-12-01,"[' Klaus Kn?pfle ', ' Reto Giacopuzzi ', ' Roland Christen ']","['Jazz', 'Blues', 'Soul']"
+7,Z?rich,John-K.-Samson,2014-12-01,['John K. Samson '],['Pop']
+8,Basel,Oracles-Blast,2014-12-01,"['Wiktor Kociuban ', ' Demetre Gamsachurdia ']",['Classic']
+9,Baden,Weird-Beard,2014-12-01,"[' Florian Egli ', ' Dave Gisler ', ' Martina Berther ', ' Rico Baumann ']","['Jazz', 'Blues', 'Soul']"
+10,Z?rich,Wreckless-Eric,2014-12-01,['Wreckless Eric '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Basel,Philippe-Schaeppi-Trio,2014-12-01,"[' Philippe Schaeppi ', ' Pio Sch?rmann ', ' Martin Wyss ']","['Jazz', 'Blues', 'Soul']"
+12,Ascona,James-Morrison-Quartet,2014-12-01,"[' James Morrison ', ' David Blenkhorn ', ' Laurent Vanhee ', ' Didier Ottaviani ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,Zofka,2014-12-01,['Zofka '],['Electronic']
+14,Z?rich,Mac-DeMarco,2014-12-01,['Mac DeMarco '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

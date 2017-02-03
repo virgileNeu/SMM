@@ -1,21 +1,20 @@
-location,event,date,artists,genre
-Verbier,Verbier-Festival,2014-07-31,"['Leonidas Kavakos ', ' Clemens Hagen | ', ' Rudolf Buchbinder ']",Classic
-Luzern,Orgelgewitter,2014-07-31,['Wolfgang Sieber '],Classic
-Estavayer-le-Lac,Estivale-Openair,2014-07-31,"['Method Man & Redman ', ' Youssoupha ', ' Coely ']",
-Zürich,Europe-Meets-Cuba,2014-07-31,"[' Maylin Sevila ', ' Braulio A. Labanino ', ' Ulrich Nyffeler ']",Classic
-Verbier,Verbier-Festival,2014-07-31,[' Renaud Capuçon '],Classic
--Alte-Kirche,Boswil,2014-07-31,"['Susanne Wessel ', ' Regina Steck ', ' Manuela Maria Hager ', ' Jonas Frey ']",Classic
-Saanen,Menuhin-Festival-Gstaad,2014-07-31,"['Camerata Vocale Daejeon ', ' Isabelle Faust ']",Classic
-Zürich,Under-Bad-Eyes,2014-07-31,['Under Bad Eyes '],
-Luzern,Orgelsommer,2014-07-31,"[' Arlette Wismer ', ' Wolfgang Sieber ', ' Stefan Fischer ', ' Dani Häusler ']",traditional
-Zürich,Lethargy,2014-07-31,['The Notwist '],
-null,Kulturfestival-St.-Gallen,2014-07-31,['Gabby Young '],
-Zürich,Taylor-Rankin-&-Haim-Abergel,2014-07-31,"[' Taylor Rankin ', ' Haim Abergel ', ' Marcel Aubert ']",
-Solothurn,Otis-Gibbs,2014-07-31,['Otis Gibbs '],
-Zürich,Stadtsommer,2014-07-31,"[' Bruno Spoerri ', ' Christina Jaccard ', ' Big Zis ', ' David Ruosch ', ' Julian Sartorius ', ' Andy Votel ']",Pop
-Maggia,Magic-Blues-Festival,2014-07-31,['Spin Doctors '],
-St.-Moritz,Festival-da-Jazz,2014-07-31,"['Pippo Pollina ', ' Pippo Pollina ', ' Roberto Petroli ', ' Max Kämmerling ', ' Luca Lo Bianco ', ' Fabrizio Giambanco ', ' Tino Horat ']",
-Zürich,XXYYXX,2014-07-31,"['DJs XXYYXX ', ' Daniel Klauser ']",
-Zürich,Chico-Trujillo,2014-07-31,['Chico Trujillo '],
-Luzern,Art-Department,2014-07-31,"['DJs Art Department ', ' Guti live ', ' Laura Jones ']",Electronic
-Basel,Koze-&-Lawrence,2014-07-31,"['DJs Koze ', ' Lawrence ', ' Miajica ']",
+,location,event,date,artists,genre
+0,Verbier,Verbier-Festival,2014-07-31,"['Leonidas Kavakos ', ' Clemens Hagen | ', ' Rudolf Buchbinder ']",['Classic']
+1,Luzern,Orgelgewitter,2014-07-31,['Wolfgang Sieber '],['Classic']
+2,Estavayer-le-Lac,Estivale-Openair,2014-07-31,"[' Redman ', ' Youssoupha ', ' Coely ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Z?rich,Europe-Meets-Cuba,2014-07-31,"[' Maylin Sevila ', ' Braulio A. Labanino ', ' Ulrich Nyffeler ']",['Classic']
+4,Verbier,Verbier-Festival,2014-07-31,[' Renaud Capu?on '],['Classic']
+5,Saanen,Menuhin-Festival-Gstaad,2014-07-31,"['Camerata Vocale Daejeon ', ' Isabelle Faust ']",['Classic']
+6,-Alte-Kirche,Boswil,2014-07-31,"['Susanne Wessel ', ' Regina Steck ', ' Manuela Maria Hager ', ' Jonas Frey ']",['Classic']
+7,Z?rich,Under-Bad-Eyes,2014-07-31,['Under Bad Eyes '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Luzern,Orgelsommer,2014-07-31,"[' Arlette Wismer ', ' Wolfgang Sieber ', ' Stefan Fischer ', ' Dani H?usler ']",['traditional']
+9,null,Kulturfestival-St.-Gallen,2014-07-31,['Gabby Young '],"['Jazz', 'Blues', 'Soul']"
+10,Solothurn,Otis-Gibbs,2014-07-31,['Otis Gibbs '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Z?rich,Taylor-Rankin-&-Haim-Abergel,2014-07-31,"[' Taylor Rankin ', ' Haim Abergel ', ' Marcel Aubert ']","['world', 'music']"
+12,Z?rich,Stadtsommer,2014-07-31,"[' Bruno Spoerri ', ' Christina Jaccard ', ' Big Zis ', ' David Ruosch ', ' Julian Sartorius ', ' Andy Votel ']",['Pop']
+13,Maggia,Magic-Blues-Festival,2014-07-31,['Spin Doctors '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,St.-Moritz,Festival-da-Jazz,2014-07-31,"['Pippo Pollina ', ' Pippo Pollina ', ' Roberto Petroli ', ' Max K?mmerling ', ' Luca Lo Bianco ', ' Fabrizio Giambanco ', ' Tino Horat ']","['Jazz', 'Blues', 'Soul']"
+15,Z?rich,XXYYXX,2014-07-31,"['DJs XXYYXX ', ' Daniel Klauser ']","['Electro', 'Electropop']"
+16,Z?rich,Chico-Trujillo,2014-07-31,['Chico Trujillo '],"['world', 'music']"
+17,Luzern,Art-Department,2014-07-31,"['DJs Art Department ', ' Guti live ', ' Laura Jones ']",['Electronic']
+18,Basel,Koze-&-Lawrence,2014-07-31,"['DJs Koze ', ' Lawrence ', ' Miajica ']","['Electro', 'Electropop']"

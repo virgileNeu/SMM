@@ -1,16 +1,16 @@
-location,event,date,artists,genre
-Bern,M'adam(e),2014-04-02,"[""M'adam"", ' Sophie Adam ', ' Florian Weiss ', ' Anatole Buccella ']",
-Winterthur,Saint-Saëns-Klavier-Marathon-1,2014-04-02,"[' Alexei Volodin ', ' Elmar Gasanov ']",Classic
-Zürich,Chorkonzert-Zyklus-II,2014-04-02,"[' Hana Blaíková ', ' Maarten Engeltjes ', ' Tilman Lichdi ', ' Klaus Mertens ', ' Emanuele Forni ', ' Hille Perl ']",Classic
-Basel,Pauline-Viardot-Sie-ist-auch-keine-Rose,2014-04-02,"['Denise Seyhan ', ' Heike Bleckmann ']",Classic
-Emmenbrücke,Konzert,2014-04-02,['Rondo Veneziano '],Classic
-Zürich,Roachford,2014-04-02,['Roachford '],
-Zürich,Sido,2014-04-02,['Sido '],
-Luzern,Mnozil-Brass,2014-04-02,['Mnozil Brass '],
-Winterthur,Ghost-Town-Trio-feat.-Bettina-Klöti,2014-04-02,"[' Bettina Klöti ', ' Urs Vögeli ', ' Claude Meier ', ' Lukas Mantel ']",
-Winterthur,Jazz-am-Mittwoch,2014-04-02,"[' Marco von Orelli ', ' Sheldon Suter ', ' Max E. Keller ']",
-Zürich,Gueorgui-Kornazov-Quintet,2014-04-02,"[' Gueorgui Kornazov ', ' Emile Parisien ', ' Manu Codjia ', ' Marc Buronfosse ', ' Karl Jannuska ']",
-Basel,guitars@basel,2014-04-02,"[' Laurent Méteau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Eliyah Reichen ', ' Samuel Huwyler ', ' Jwan Steiner ']",
-null,Konstantin-Wecker,2014-04-02,['Konstantin Wecker '],Pop
-Winterthur,Endstille,2014-04-02,"['Endstille ', ' Ondskapt ', ' Koldbrann ']",
-Zürich,The-Temperance-Movement,2014-04-02,['The Temperance Movement '],
+,location,event,date,artists,genre
+0,Bern,M'adam(e),2014-04-02,"[""M'adam"", ' Sophie Adam ', ' Florian Weiss ', ' Anatole Buccella ']","['Jazz', 'Blues', 'Soul']"
+1,Basel,Pauline-Viardot-Sie-ist-auch-keine-Rose,2014-04-02,"['Denise Seyhan ', ' Heike Bleckmann ']",['Classic']
+2,Winterthur,Saint-Sa?ns-Klavier-Marathon-1,2014-04-02,"[' Alexei Volodin ', ' Elmar Gasanov ']",['Classic']
+3,Z?rich,Chorkonzert-Zyklus-II,2014-04-02,"[' Hana Bla?kov? ', ' Maarten Engeltjes ', ' Tilman Lichdi ', ' Klaus Mertens ', ' Emanuele Forni ', ' Hille Perl ']",['Classic']
+4,Luzern,Mnozil-Brass,2014-04-02,['Mnozil Brass '],"['Jazz', 'Blues', 'Soul']"
+5,Z?rich,Sido,2014-04-02,['Sido '],"['Hip', 'Hop', ""R'n'B""]"
+6,Z?rich,Roachford,2014-04-02,['Roachford '],"['Hip', 'Hop', ""R'n'B""]"
+7,Emmenbr?cke,Konzert,2014-04-02,['Rondo Veneziano '],['Classic']
+8,Winterthur,Ghost-Town-Trio-feat.-Bettina-Kl?ti,2014-04-02,"[' Bettina Kl?ti ', ' Urs V?geli ', ' Claude Meier ', ' Lukas Mantel ']","['Jazz', 'Blues', 'Soul']"
+9,Winterthur,Jazz-am-Mittwoch,2014-04-02,"[' Marco von Orelli ', ' Sheldon Suter ', ' Max E. Keller ']","['Jazz', 'Blues', 'Soul']"
+10,null,Konstantin-Wecker,2014-04-02,['Konstantin Wecker '],['Pop']
+11,Basel,guitars@basel,2014-04-02,"[' Laurent M?teau ', ' Adrien Guerne ', ' Nils Fischer ', ' Ingo Hipp ', ' Eliyah Reichen ', ' Samuel Huwyler ', ' Jwan Steiner ']","['Jazz', 'Blues', 'Soul']"
+12,Z?rich,Gueorgui-Kornazov-Quintet,2014-04-02,"[' Gueorgui Kornazov ', ' Emile Parisien ', ' Manu Codjia ', ' Marc Buronfosse ', ' Karl Jannuska ']","['Jazz', 'Blues', 'Soul']"
+13,Z?rich,The-Temperance-Movement,2014-04-02,['The Temperance Movement '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+14,Winterthur,Endstille,2014-04-02,"['Endstille ', ' Ondskapt ', ' Koldbrann ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"

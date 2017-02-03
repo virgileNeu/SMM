@@ -1,32 +1,31 @@
-location,event,date,artists,genre
-Zürich,Orgelmusik-zur-Mittagszeit,2013-02-07,['Tobias Willi '],Classic
-Zürich,Jazz-Apéro,2013-02-07,['Mike Ryrie '],
--Alte-Kirche,Boswil,2013-02-07,['Gerhard Quartet '],Classic
-Zürich,Genesis-das-Musik.Tanz.Theater,2013-02-07,['Genesis: 17 Musiker/innen '],Pop
-Zürich,Jamzz,2013-02-07,"[' Thomas Lüthi ', ' Matthias Siegrist ', ' Christoph Sprenger ']",
-null,6.-Tonhallekonzert,2013-02-07,['Alexej Ljubimov '],Classic
-Zürich,Konzert,2013-02-07,[' conductor: Riccardo Minasi '],Classic
-Hinwil,Orchesterkonzert,2013-02-07,[' Josias Just '],Classic
-Zürich,Thursday-Night-Jazz,2013-02-07,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']",
-Zürich,Konzert,2013-02-07,[' Krystian Zimerman '],Classic
-Zürich,Momentaufnahme,2013-02-07,"['Gabriela Tanner ', ' Susanne Petersen ', ' Verena Barbara Gohl ', ' Christina Jaccard ']",Pop
-Treibhaus,Luzern,2013-02-07,['The Ruby Suns '],
-Zürich,We-The-Kings,2013-02-07,['We The Kings '],
-Zürich,Sophie-Raïs-Quartet,2013-02-07,"[' Thomas Brühwiler ', ' Carola Reetz ', ' Erwin Boos ']",
-Chur,Für-einen-Engel,2013-02-07,"[' Irina Ungureanu ', ' Kathrin Lüthi ', ' Christian Weinberger ', ' Riccarda Caflisch ', ' Pilar Fontalba ', ' Manfred Spitaler ', ' Lukas Rössner ', ' Raphael Camenisch ', ' Keita Kitade ', ' Cäcilia Schüeli ', ' Guy Frisch ', ' David Sontòn Caflisch  ', ' Genevieve Camenisch ', ' Christian Hieronymi  ', ' John Eckhardt ']",Classic
-Zürich,Marco-Marchi-&-the-Mojo-Workers,2013-02-07,[' Support: Brian Smith '],
-Luzern,Salonmusik,2013-02-07,"['Martin Schaefer ', ' Richard Decker ']",Classic
-Basel,Chansons,2013-02-07,[' Filipa Nunes '],Classic
-Winterthur,Enrico-Orlandi,2013-02-07,"[' Enrico Orlandi ', ' Bela Balint ', ' Michel Peter ']",
--Alte-Kirche,Boswil,2013-02-07,"['Gerhard Quartet ', ' Gémeaux Quartet ']",Classic
-Zürich,Mykki-Blanco,2013-02-07,['Mykki Blanco '],Electronic
-Liebefeld,Mujeres-Argentinas,2013-02-07,"[' Aída Albert ', ' Daniel Zisman ', ' Franziska Grütter ', ' Barbara Zisman ', ' Eva Wyss-Simmen ', ' Fernando Tavolaro ', ' Wini Holzenkamp ']",
-KiFF,Aarau,2013-02-07,['Motorama '],
-Zürich,Steamboat-Switzerland-XI,2013-02-07,"[' Dominik Blum ', ' Marino Pliakas ', ' Lucas Niggli ']",Pop
-Zürich,Urban-Kicks-&-Inner-Landscapes,2013-02-07,"[' Omri Ziegele ', ' Isa Wiss ', ' Jürg Wickihalder ', ' Nick Gutersohn ', ' Gabriela Friedli ', ' Yves Reichmuth ', ' Jan Schlegel ', ' Herbert Kramis ', ' Marco Käppeli ', ' Dieter Ulrich ']",
-Basel,The-New-Haensche-Weiss-Ensemble,2013-02-07,"["" Haens'che Weiss "", ' Holzmanno Winterstein ', ' Micky Bamberger ', ' Vali Mayer ']",
-Palace,Sankt-Gallen,2013-02-07,['Efterklang '],Efterklang
-Luzern,Jam-Session,2013-02-07,['Richard Decker '],
-Basel,Zosch,2013-02-07,['Zosch '],
-Pontresina,Wacky-Flash,2013-02-07,['Wacky Flash '],
-Zürich,The-Rossi-Jam,2013-02-07,"['Gabriel Spahni ', ' Simon Britschgi ', ' Matthew Savnik ']",
+,location,event,date,artists,genre
+0,Zürich,Orgelmusik-zur-Mittagszeit,2013-02-07,['Tobias Willi '],['Classic']
+1,Zürich,Jazz-Apéro,2013-02-07,['Mike Ryrie '],"['Jazz', 'Blues', 'Soul']"
+2,-Alte-Kirche,Boswil,2013-02-07,['Gerhard Quartet '],['Classic']
+3,Zürich,Genesis-das-Musik.Tanz.Theater,2013-02-07,['Genesis: 17 Musiker/innen '],['Pop']
+4,Hinwil,Orchesterkonzert,2013-02-07,[' Josias Just '],['Classic']
+5,Zürich,Jamzz,2013-02-07,"[' Thomas Lüthi ', ' Matthias Siegrist ', ' Christoph Sprenger ']","['Jazz', 'Blues', 'Soul']"
+6,null,6.-Tonhallekonzert,2013-02-07,['Alexej Ljubimov '],['Classic']
+7,Zürich,Momentaufnahme,2013-02-07,"['Gabriela Tanner ', ' Susanne Petersen ', ' Verena Barbara Gohl ', ' Christina Jaccard ']",['Pop']
+8,Zürich,Thursday-Night-Jazz,2013-02-07,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Joel Reiff ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+9,Zürich,Konzert,2013-02-07,[' Krystian Zimerman '],['Classic']
+10,Zürich,Konzert,2013-02-07,[' conductor: Riccardo Minasi '],['Classic']
+11,Zürich,We-The-Kings,2013-02-07,['We The Kings '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Basel,Chansons,2013-02-07,[' Filipa Nunes '],['Classic']
+13,Treibhaus,Luzern,2013-02-07,['The Ruby Suns '],"['Float', 'Fall']"
+14,Luzern,Salonmusik,2013-02-07,"['Martin Schaefer ', ' Richard Decker ']",['Classic']
+15,Zürich,Sophie-Raïs-Quartet,2013-02-07,"[' Thomas Brühwiler ', ' Carola Reetz ', ' Erwin Boos ']","['Jazz', 'Blues', 'Soul']"
+16,Chur,Für-einen-Engel,2013-02-07,"[' Irina Ungureanu ', ' Kathrin Lüthi ', ' Christian Weinberger ', ' Riccarda Caflisch ', ' Pilar Fontalba ', ' Manfred Spitaler ', ' Lukas Rössner ', ' Raphael Camenisch ', ' Keita Kitade ', ' Cäcilia Schüeli ', ' Guy Frisch ', ' David Sontòn Caflisch  ', ' Genevieve Camenisch ', ' Christian Hieronymi  ', ' John Eckhardt ']",['Classic']
+17,Zürich,Marco-Marchi-&-the-Mojo-Workers,2013-02-07,[' Support: Brian Smith '],"['world', 'music']"
+18,-Alte-Kirche,Boswil,2013-02-07,"['Gerhard Quartet ', ' Gémeaux Quartet ']",['Classic']
+19,Winterthur,Enrico-Orlandi,2013-02-07,"[' Enrico Orlandi ', ' Bela Balint ', ' Michel Peter ']","['Jazz', 'Blues', 'Soul']"
+20,Zürich,Steamboat-Switzerland-XI,2013-02-07,"[' Dominik Blum ', ' Marino Pliakas ', ' Lucas Niggli ']",['Pop']
+21,Zürich,Steamboat-Switzerland-XI,2013-02-07,"[' Dominik Blum ', ' Marino Pliakas ', ' Lucas Niggli ']",['Pop']
+22,Zürich,Mykki-Blanco,2013-02-07,['Mykki Blanco '],['Electronic']
+23,Basel,The-New-Haensche-Weiss-Ensemble,2013-02-07,"["" Haens'che Weiss "", ' Holzmanno Winterstein ', ' Micky Bamberger ', ' Vali Mayer ']","['Jazz', 'Blues', 'Soul']"
+24,Liebefeld,Mujeres-Argentinas,2013-02-07,"[' Aída Albert ', ' Daniel Zisman ', ' Franziska Grütter ', ' Barbara Zisman ', ' Eva Wyss-Simmen ', ' Fernando Tavolaro ', ' Wini Holzenkamp ']","['world', 'music']"
+25,Palace,Sankt-Gallen,2013-02-07,['Efterklang '],['Efterklang']
+26,Luzern,Jam-Session,2013-02-07,['Richard Decker '],"['Jazz', 'Blues', 'Soul']"
+27,Basel,Zosch,2013-02-07,['Zosch '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Pontresina,Wacky-Flash,2013-02-07,['Wacky Flash '],"['Hip', 'Hop', ""R'n'B""]"
+29,Zürich,The-Rossi-Jam,2013-02-07,"['Gabriel Spahni ', ' Simon Britschgi ', ' Matthew Savnik ']","['Jazz', 'Blues', 'Soul']"

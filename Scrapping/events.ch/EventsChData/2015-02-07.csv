@@ -1,45 +1,44 @@
-location,event,date,artists,genre
-Winterthur,Clear-or-Cloudy,2015-02-07,"[' Stephanie Boller ', ' Petra Schneider ']",Classic
-Basel,MidiMusique,2015-02-07,[' Yuriko Sekiguchi '],Classic
-Baden,One-of-a-Million,2015-02-07,['Karo '],
-Aarau,Compulsion,2015-02-07,"['Adam Taubitz ', ' Marc Ulrich ', ' Walter Jauslin ', ' Dominik Schürmann ', ' Christoph Mohler ']",
-Zürich,Sir-András-Schiff-präsentiert-Building-Bridges,2015-02-07,['Adam Golka '],Classic
-Ennetbürgen,Bürgenstock-Momente-Winterfestival,2015-02-07,"['Milos Karadaglic ', ' Maximilian Hornung ']",Classic
-Liestal,Karel-de-Matteis,2015-02-07,['Karel de Matteis '],Pop
-Zürich,Internationales-Country-Music-Festival,2015-02-07,['Ray Scott & Band '],
-Basel,Wasser-&-Luft,2015-02-07,[' David Sontòn Caflisch '],Classic
-Zürich,Konzert,2015-02-07,"['Sol Gabetta ', ' Bertrand Chamayou ']",Classic
-Binningen,...und-weil-die-Music-lieblich-ist...,2015-02-07,[' Ulrike Hofbauer '],Classic
-Langnau-am-Albis,Art-Concert,2015-02-07,['Ruth Juon '],Classic
-Bern,Headbangers-Ball,2015-02-07,"['Spasm ', ' Placenta Powerfist ', ' Gutfuck ']",
-Aarburg,Kärbholz,2015-02-07,[' suppport: The Headlines '],
-Basel,Crippled-Symmetry,2015-02-07,"[' Christoph Bösch ', ' Daniel Buess ', ' Jürg Henneberger ']",Classic
-null,Nordklang-Festival,2015-02-07,"['Hulda ', ' The New World Vulture ', ' Chorus Grant ']",Electronic
-null,Nordklang-Festival,2015-02-07,"['Lydmor ', ' Asynje ', ' Ida Wenoe ']",
-Basel,Es-brennt-was-tun,2015-02-07,['Es brennt was tun '],Pop
-Zürich,Massimo-Ranieri,2015-02-07,['Massimo Ranieri '],
-Burgdorf,The-Weyers,2015-02-07,"[' Adrian Weyermann ', ' Luke Weyermann ']",Pop
-Winterthur,Sommer-im-Weltall,2015-02-07,"[' Rolf Sommer ', ' Ken Mallor ']",Pop
-Biglen,Michelle-Nathalie,2015-02-07,['Michelle-Nathalie '],traditional
-Bern,Ästhetische-Kommunikation,2015-02-07,[' Christine Simolka '],Classic
-null,Nordklang-Festival,2015-02-07,"['Adna ', ' Haaga Folk Machine ', ' Mike Sheridan ']",Pop
-Basel,Guitarorama,2015-02-07,"[' Brian Charette ', ' Ronny Graupe ', ' Dejan Terzic ']",
-Pratteln,Chris-Thompson,2015-02-07,['Chris Thompson '],
-Winterthur,The-Omission,2015-02-07,['The Omission '],
-Zürich,Mikkel-Ploug-Group-feat.-Mark-Turner-&-Tommy-Crane,2015-02-07,"['Mikkel Ploug Group feat. Mark Turner & Tommy Crane ', ' Mikkel Ploug ', ' Mark Turner ', ' Jeppe Skovbakke ', ' Tommy Crane ']",
-null,Nordklang-Festival,2015-02-07,"['Get your Gun ', ' Hermigervill ', ' Maskinvad ']",
-Bad-Ragaz,Jazzafinado,2015-02-07,"[' Pascal Wyss  ', ' Jürg Kalberer  ', ' Philipp Kohler  ', ' Fabian Eberle  ', ' Karin Ospelt  ']",
-Bern,Pere-Ubu,2015-02-07,['Pere Ubu '],
-Basel,Red-Nights,2015-02-07,[' live: Apparatschik '],
-Zürich,U-Roy-&-Big-Youth,2015-02-07,['U-Roy & Big Youth '],
-Lyss,Monster-Magnet,2015-02-07,"['Monster Magnet ', ' Bombus ']",
-Luzern,Dead-Bouquet,2015-02-07,['Dead Bouquet '],
-Baden,One-of-a-Million,2015-02-07,"['Alice Boman ', ' Bottled in England ']",
-null,David-Hope,2015-02-07,['David Hope '],
-Zürich,Great-Black-Waters,2015-02-07,['Great Black Waters '],
-Zürich,Dee-Day-Dub,2015-02-07,"[' Brandy Butler ', ' Maze Koon ', ' Manu Baker ', ' Singha Dee ']",
-null,Lynda-Phoenix,2015-02-07,"['Lynda Phoenix ', ' T-Roy ']",Pop
-Basel,Porok-Karpo,2015-02-07,"['Porok Karpo ', ' Loten Namling ', ' Patrick Lerjen ', ' Mik Keusen ', ' Philipp Moll ', ' Muso Stamm ', ' Franz Treicher ', ' Malcolm Braff ']",
-Baden,One-of-a-Million,2015-02-07,['Roosevelt '],
-Zürich,Coffee-or-Not,2015-02-07,['Coffee or Not '],
-null,Nordklang-Festival,2015-02-07,['Hermigervill '],Electronic
+,location,event,date,artists,genre
+0,Basel,MidiMusique,2015-02-07,[' Yuriko Sekiguchi '],['Classic']
+1,Winterthur,Clear-or-Cloudy,2015-02-07,"[' Stephanie Boller ', ' Petra Schneider ']",['Classic']
+2,Baden,One-of-a-Million,2015-02-07,['Karo '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+3,Aarau,Compulsion,2015-02-07,"['Adam Taubitz ', ' Marc Ulrich ', ' Walter Jauslin ', ' Dominik Sch?rmann ', ' Christoph Mohler ']","['Jazz', 'Blues', 'Soul']"
+4,Z?rich,Sir-Andr?s-Schiff-pr?sentiert-Building-Bridges,2015-02-07,['Adam Golka '],['Classic']
+5,Ennetb?rgen,B?rgenstock-Momente-Winterfestival,2015-02-07,"['Milos Karadaglic ', ' Maximilian Hornung ']",['Classic']
+6,Liestal,Karel-de-Matteis,2015-02-07,['Karel de Matteis '],['Pop']
+7,Z?rich,Konzert,2015-02-07,"['Sol Gabetta ', ' Bertrand Chamayou ']",['Classic']
+8,Binningen,...und-weil-die-Music-lieblich-ist...,2015-02-07,[' Ulrike Hofbauer '],['Classic']
+9,Langnau-am-Albis,Art-Concert,2015-02-07,['Ruth Juon '],['Classic']
+10,Z?rich,Internationales-Country-Music-Festival,2015-02-07,[' Band '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Basel,Wasser-&-Luft,2015-02-07,[' David Sont?n Caflisch '],['Classic']
+12,null,Nordklang-Festival,2015-02-07,"['Hulda ', ' The New World Vulture ', ' Chorus Grant ']",['Electronic']
+13,Z?rich,Massimo-Ranieri,2015-02-07,['Massimo Ranieri '],"['world', 'music']"
+14,null,Nordklang-Festival,2015-02-07,"['Lydmor ', ' Asynje ', ' Ida Wenoe ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+15,Bern,Headbangers-Ball,2015-02-07,"['Spasm ', ' Placenta Powerfist ', ' Gutfuck ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+16,Burgdorf,The-Weyers,2015-02-07,"[' Adrian Weyermann ', ' Luke Weyermann ']",['Pop']
+17,Winterthur,Sommer-im-Weltall,2015-02-07,"[' Rolf Sommer ', ' Ken Mallor ']",['Pop']
+18,Basel,Crippled-Symmetry,2015-02-07,"[' Christoph B?sch ', ' Daniel Buess ', ' J?rg Henneberger ']",['Classic']
+19,Biglen,Michelle-Nathalie,2015-02-07,['Michelle-Nathalie '],['traditional']
+20,Aarburg,K?rbholz,2015-02-07,[' suppport: The Headlines '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+21,Bern,?sthetische-Kommunikation,2015-02-07,[' Christine Simolka '],['Classic']
+22,Basel,Es-brennt-was-tun,2015-02-07,['Es brennt was tun '],['Pop']
+23,null,Nordklang-Festival,2015-02-07,"['Adna ', ' Haaga Folk Machine ', ' Mike Sheridan ']",['Pop']
+24,Basel,Guitarorama,2015-02-07,"[' Brian Charette ', ' Ronny Graupe ', ' Dejan Terzic ']","['Jazz', 'Blues', 'Soul']"
+25,Z?rich,Mikkel-Ploug-Group-feat.-Mark-Turner-&-Tommy-Crane,2015-02-07,"[' Tommy Crane ', ' Mikkel Ploug ', ' Mark Turner ', ' Jeppe Skovbakke ', ' Tommy Crane ']","['Jazz', 'Blues', 'Soul']"
+26,null,Nordklang-Festival,2015-02-07,"['Get your Gun ', ' Hermigervill ', ' Maskinvad ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+27,Winterthur,The-Omission,2015-02-07,['The Omission '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,Pratteln,Chris-Thompson,2015-02-07,['Chris Thompson '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+29,Basel,Red-Nights,2015-02-07,[' live: Apparatschik '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+30,Lyss,Monster-Magnet,2015-02-07,"['Monster Magnet ', ' Bombus ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+31,Z?rich,U-Roy-&-Big-Youth,2015-02-07,[' Big Youth '],"['world', 'music']"
+32,Bad-Ragaz,Jazzafinado,2015-02-07,"[' Pascal Wyss  ', ' J?rg Kalberer  ', ' Philipp Kohler  ', ' Fabian Eberle  ', ' Karin Ospelt  ']","['Jazz', 'Blues', 'Soul']"
+33,Bern,Pere-Ubu,2015-02-07,['Pere Ubu '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+34,Luzern,Dead-Bouquet,2015-02-07,['Dead Bouquet '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+35,Baden,One-of-a-Million,2015-02-07,"['Alice Boman ', ' Bottled in England ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+36,null,David-Hope,2015-02-07,['David Hope '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+37,null,Lynda-Phoenix,2015-02-07,"['Lynda Phoenix ', ' T-Roy ']",['Pop']
+38,Basel,Porok-Karpo,2015-02-07,"['Porok Karpo ', ' Loten Namling ', ' Patrick Lerjen ', ' Mik Keusen ', ' Philipp Moll ', ' Muso Stamm ', ' Franz Treicher ', ' Malcolm Braff ']","['world', 'music']"
+39,Z?rich,Dee-Day-Dub,2015-02-07,"[' Brandy Butler ', ' Maze Koon ', ' Manu Baker ', ' Singha Dee ']","['Hip', 'Hop', ""R'n'B""]"
+40,Baden,One-of-a-Million,2015-02-07,['Roosevelt '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+41,Z?rich,Coffee-or-Not,2015-02-07,['Coffee or Not '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+42,null,Nordklang-Festival,2015-02-07,['Hermigervill '],['Electronic']

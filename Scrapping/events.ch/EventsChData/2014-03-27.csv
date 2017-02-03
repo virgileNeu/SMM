@@ -1,37 +1,36 @@
-location,event,date,artists,genre
-Basel,Mittagskonzert,2014-03-27,['Céline Pasche '],Classic
-Luzern,Les-nuits-d'été,2014-03-27,[' Véronique Gens '],Classic
-Basel,Schubertiade,2014-03-27,"['Julian Prégardien ', ' Marc Hantaï ', ' Philippe Pierlot ', ' Xavier Díaz-Latorre ']",Classic
-Zürich,Chorkonzert-Zyklus-I,2014-03-27,"[' Ricarda Merbeth ', ' Bernarda Fink ', ' Werner Güra ', ' Christof Fischesser ']",Classic
-Winterthur,Fiesta-cubana-zum-75.-Geburtstag-von-Leo-Brouwer,2014-03-27,[' Xuefei Yang '],Classic
-Aarau,Chelsea-Grin,2014-03-27,"['Chelsea Grin ', ' The Browning ', ' support: More Than A Thousand ', ' Silent Screams ']",
-Zürich,Thursday-Night-Jazz,2014-03-27,"[' Rebecca Spiteri ', ' Jürg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']",
-Lausanne,Couleur-3-Live-Showcases,2014-03-27,['Blood Red Shoes '],Pop
-Zürich,Hauzi-&-Friends,2014-03-27,"[' Martin Hauzenberger ', ' Roger Heinz ', ' Chrigu Rechsteiner ', ' Nik Rechsteiner ']",Pop
-Basel,Hiromi,2014-03-27,['Hiromi '],
-Luzern,Salonmusik,2014-03-27,"['Martin Schaefer ', ' Richard Decker ']",Classic
-Bern,Polar,2014-03-27,"[' Adrian Schäublin ', ' Felix Handschin ']",
-Baden,Guitar-Shorty,2014-03-27,['Guitar Shorty '],
-Luzern,Alex-Hepburn,2014-03-27,['Alex Hepburn '],
-Zürich,Doppelkonzert,2014-03-27,"[' Tobias Stuber ', ' Maja Nydegger ', ' Nils Fischer ']",
-Zürich,Robi-Weber-Quartet,2014-03-27,"[' Robi Weber ', ' Kalli Gerhards ', ' Curt Treier ', ' Oliver Keller ']",
-Zürich,Joel-Havea,2014-03-27,['Joel Havea '],Pop
-null,Funk-Factory-feat.-Magnum-Coltrane-Price-&-Jonas-Wall,2014-03-27,['Funk Factory feat. Magnum Coltrane Price & Jonas Wall '],
-null,Klavierduo-Abend,2014-03-27,"[' Sandra Hanselmann ', ' Jürg Hanselmann ']",Classic
-Zürich,Mogwai,2014-03-27,['Mogwai '],
-Basel,Konstantin-Wecker,2014-03-27,['Konstantin Wecker '],Pop
-Kloten,Studio-Five,2014-03-27,"[' Felicitas Storck ', ' Daniel Schlatter ', ' Rolf Lüthi ', ' Beat Lüthi ', ' Roland Vögele ']",Pop
-Baden,John-O'Gallagher-Group,2014-03-27,"[""John O'Gallagher Group "", ' OGallagher ', ' Sam Lasserson ', ' Francois Teberge ', ' Jeff Williams ']",
-Aarau,Hermelin,2014-03-27,['Hermelin '],
-Winterthur,Thelonious-4,2014-03-27,"[' Iman Spaargaren ', ' Guillermo Celano ', ' Andreas Metzler ', ' Jurjen Bakker ']",
-Basel,guitars@basel,2014-03-27,"[' Stefan Aeby ', ' Michael Bucher ', ' Patrick Sommer ', ' Tobias Friedli ']",
-Pratteln,Tragedy,2014-03-27,['Tragedy '],
-Zürich,Henrik-Freischlader,2014-03-27,"['Henrik Freischlader ', ' Henrik Freischlader ', ' Moritz Fuhrhop ', ' Theofilos Fotiadis ', ' Björn Krüger ']",
-Baden,Jazz-am-Donnerstag,2014-03-27,"['Christoph Baumann ', ' Hämi Hämmerli ', ' Tony Renold ']",
-Bern,Me-Valentin-&-You,2014-03-27,['Me Valentin & You '],
-Schaffhausen,Hollywood-Meets-Hollywood-Horror,2014-03-27,"['Live-Filmvertonung um 20.30 Uhr: The Magician ', ' 22.30 Uhr: This Is the End ']",Classic
-Wädenswil,Jokerwoman-Revisited,2014-03-27,"[' Dodo Hug ', ' Evisio Contini ', ' Andreas Kühnrich ']",Pop
-Düdingen,Toy,2014-03-27,['Toy '],
-Basel,Brett-Newski,2014-03-27,['Brett Newski '],Pop
-Luzern,Jam-Session,2014-03-27,['Richard Decker '],
-Basel,Talul,2014-03-27,['Talul '],Electronic
+,location,event,date,artists,genre
+0,Basel,Mittagskonzert,2014-03-27,['C?line Pasche '],['Classic']
+1,Luzern,Les-nuits-d'?t?,2014-03-27,[' V?ronique Gens '],['Classic']
+2,Basel,Schubertiade,2014-03-27,"['Julian Pr?gardien ', ' Marc Hanta? ', ' Philippe Pierlot ', ' Xavier D?az-Latorre ']",['Classic']
+3,Z?rich,Chorkonzert-Zyklus-I,2014-03-27,"[' Ricarda Merbeth ', ' Bernarda Fink ', ' Werner G?ra ', ' Christof Fischesser ']",['Classic']
+4,Winterthur,Fiesta-cubana-zum-75.-Geburtstag-von-Leo-Brouwer,2014-03-27,[' Xuefei Yang '],['Classic']
+5,Lausanne,Couleur-3-Live-Showcases,2014-03-27,['Blood Red Shoes '],['Pop']
+6,Z?rich,Thursday-Night-Jazz,2014-03-27,"[' Rebecca Spiteri ', ' J?rg Ramspeck ', ' Fridolin Blumer ', ' Rolf Lyssy ']","['Jazz', 'Blues', 'Soul']"
+7,Aarau,Chelsea-Grin,2014-03-27,"['Chelsea Grin ', ' The Browning ', ' support: More Than A Thousand ', ' Silent Screams ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Z?rich,Hauzi-&-Friends,2014-03-27,"[' Martin Hauzenberger ', ' Roger Heinz ', ' Chrigu Rechsteiner ', ' Nik Rechsteiner ']",['Pop']
+9,Luzern,Salonmusik,2014-03-27,"['Martin Schaefer ', ' Richard Decker ']",['Classic']
+10,Basel,Hiromi,2014-03-27,['Hiromi '],"['Jazz', 'Blues', 'Soul']"
+11,Z?rich,Mogwai,2014-03-27,['Mogwai '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+12,Bern,Polar,2014-03-27,"[' Adrian Sch?ublin ', ' Felix Handschin ']","['Jazz', 'Blues', 'Soul']"
+13,Baden,Guitar-Shorty,2014-03-27,['Guitar Shorty '],"['Jazz', 'Blues', 'Soul']"
+14,Luzern,Alex-Hepburn,2014-03-27,['Alex Hepburn '],"['Jazz', 'Blues', 'Soul']"
+15,Z?rich,Doppelkonzert,2014-03-27,"[' Tobias Stuber ', ' Maja Nydegger ', ' Nils Fischer ']","['Jazz', 'Blues', 'Soul']"
+16,Z?rich,Joel-Havea,2014-03-27,['Joel Havea '],['Pop']
+17,null,Klavierduo-Abend,2014-03-27,"[' Sandra Hanselmann ', ' J?rg Hanselmann ']",['Classic']
+18,null,Funk-Factory-feat.-Magnum-Coltrane-Price-&-Jonas-Wall,2014-03-27,[' Jonas Wall '],"['Jazz', 'Blues', 'Soul']"
+19,Basel,Konstantin-Wecker,2014-03-27,['Konstantin Wecker '],['Pop']
+20,Winterthur,Thelonious-4,2014-03-27,"[' Iman Spaargaren ', ' Guillermo Celano ', ' Andreas Metzler ', ' Jurjen Bakker ']","['Jazz', 'Blues', 'Soul']"
+21,Kloten,Studio-Five,2014-03-27,"[' Felicitas Storck ', ' Daniel Schlatter ', ' Rolf L?thi ', ' Beat L?thi ', ' Roland V?gele ']",['Pop']
+22,Aarau,Hermelin,2014-03-27,['Hermelin '],"['world', 'music']"
+23,Baden,John-O'Gallagher-Group,2014-03-27,"[""John O'Gallagher Group "", ' OGallagher ', ' Sam Lasserson ', ' Francois Teberge ', ' Jeff Williams ']","['Jazz', 'Blues', 'Soul']"
+24,Bern,Me-Valentin-&-You,2014-03-27,[' You '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+25,Basel,guitars@basel,2014-03-27,"[' Stefan Aeby ', ' Michael Bucher ', ' Patrick Sommer ', ' Tobias Friedli ']","['Jazz', 'Blues', 'Soul']"
+26,Baden,Jazz-am-Donnerstag,2014-03-27,"['Christoph Baumann ', ' H?mi H?mmerli ', ' Tony Renold ']","['Jazz', 'Blues', 'Soul']"
+27,Pratteln,Tragedy,2014-03-27,['Tragedy '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+28,W?denswil,Jokerwoman-Revisited,2014-03-27,"[' Dodo Hug ', ' Evisio Contini ', ' Andreas K?hnrich ']",['Pop']
+29,Z?rich,Henrik-Freischlader,2014-03-27,"['Henrik Freischlader ', ' Henrik Freischlader ', ' Moritz Fuhrhop ', ' Theofilos Fotiadis ', ' Bj?rn Kr?ger ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Schaffhausen,Hollywood-Meets-Hollywood-Horror,2014-03-27,[' 22.30 Uhr: This Is the End '],['Classic']
+31,D?dingen,Toy,2014-03-27,['Toy '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+32,Basel,Brett-Newski,2014-03-27,['Brett Newski '],['Pop']
+33,Luzern,Jam-Session,2014-03-27,['Richard Decker '],"['Jazz', 'Blues', 'Soul']"
+34,Basel,Talul,2014-03-27,['Talul '],['Electronic']

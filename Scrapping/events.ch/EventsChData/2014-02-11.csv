@@ -1,12 +1,11 @@
-location,event,date,artists,genre
-Luzern,Piano-Entertainment,2014-02-11,['Mark Tenger '],
-Zürich,Jazzapero,2014-02-11,"[' Lorenzo Petrocca ', ' Elmar Kluth ', ' Alberto Canonico ']",Pop
-Zürich,Konzert,2014-02-11,['Edita Gruberova '],Classic
-Bern,WIM-Zentral,2014-02-11,"['Rea Dubach ', ' Nico Van Wersch ', ' Lukas Rutzen ', ' Wojtek Bajda ', ' Utku Tavil ', ' Tomasso Detesta ']",Classic
-Zürich,James-Arthur,2014-02-11,['James Arthur '],Pop
-Lugano,La-notte-italiana,2014-02-11,[' Cristian Lanza '],Classic
-Zürich,Artist-in-Residence-Andreas-Tschopp,2014-02-11,"[' Christian Wolfarth ', ' Matthias Spillmann ', ' Bernhard Bamert ', ' Andreas Tschopp ', ' Ronny Graupe ', ' Julian Sartorius ']",
-Basel,Connan-Mockasin,2014-02-11,['Connan Mockasin '],
-Basel,guitars@basel,2014-02-11,"[' Cedric Gschwind ', ' Jonas Windscheid ', ' Fabian Gisler ', ' Daniel Mudrack ']",
-Zürich,Ines-&-Ralph,2014-02-11,"[' Ines Florin ', ' Ralph Schön ']",Pop
-Zürich,Kelley-Stoltz,2014-02-11,['Kelley Stoltz '],Pop
+,location,event,date,artists,genre
+0,Z?rich,Jazzapero,2014-02-11,"[' Lorenzo Petrocca ', ' Elmar Kluth ', ' Alberto Canonico ']",['Pop']
+1,Z?rich,Konzert,2014-02-11,['Edita Gruberova '],['Classic']
+2,Z?rich,James-Arthur,2014-02-11,['James Arthur '],['Pop']
+3,Bern,WIM-Zentral,2014-02-11,"['Rea Dubach ', ' Nico Van Wersch ', ' Lukas Rutzen ', ' Wojtek Bajda ', ' Utku Tavil ', ' Tomasso Detesta ']",['Classic']
+4,Lugano,La-notte-italiana,2014-02-11,[' Cristian Lanza '],['Classic']
+5,Basel,guitars@basel,2014-02-11,"[' Cedric Gschwind ', ' Jonas Windscheid ', ' Fabian Gisler ', ' Daniel Mudrack ']","['Jazz', 'Blues', 'Soul']"
+6,Z?rich,Artist-in-Residence-Andreas-Tschopp,2014-02-11,"[' Christian Wolfarth ', ' Matthias Spillmann ', ' Bernhard Bamert ', ' Andreas Tschopp ', ' Ronny Graupe ', ' Julian Sartorius ']","['Jazz', 'Blues', 'Soul']"
+7,Basel,Connan-Mockasin,2014-02-11,['Connan Mockasin '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+8,Z?rich,Ines-&-Ralph,2014-02-11,"[' Ines Florin ', ' Ralph Sch?n ']",['Pop']
+9,Z?rich,Kelley-Stoltz,2014-02-11,['Kelley Stoltz '],['Pop']

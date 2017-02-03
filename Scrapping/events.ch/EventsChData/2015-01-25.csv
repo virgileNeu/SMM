@@ -1,47 +1,47 @@
-location,event,date,artists,genre
-Zürich,Hottinger-Konzert-Matinée,2015-01-25,['Sidney Fuchs '],Classic
-Bern,Camerata-Bern,2015-01-25,['Conductor: Pekka Kuusisto '],Classic
-Zürich,Alleine-zu-zweit,2015-01-25,"[' Sebastian Bohren ', ' Dmitri Demiashkin ']",Classic
-null,4.-Kammerkonzert,2015-01-25,"['Erzsébet Barnácz ', ' Frédéric Carrière ', ' Alice Bourgouin ']",Classic
-Basel,AMG-Sonntagsmatineen,2015-01-25,"[' Alexander Mayer ', ' Felix Froschhammer ']",Classic
-Zürich,Brunchkonzert,2015-01-25,"['Wang Xiao Ming ', ' Laurent Weibel ', ' Rumjana Naydenova ', ' Xavier Pignat ', ' Petar Naydenov ', ' Caspar Dechmann ']",Classic
-Zürich,Grosses-Orgelkonzert,2015-01-25,"['Luc Seydoux ', ' Thomas Jäggi ', ' Bruno Reich ']",Classic
-null,Konzert,2015-01-25,"[' Hans-Peter Frehner ', ' Manfred Spitaler ', ' Viktor Müller ', ' Lorenz Haas ', ' Urs Bumbacher ', ' Nicola Romano ']",Classic
-Bern,Amparo-Sanchez,2015-01-25,['Amparo Sanchez '],
-Bern,Amparo-Sánchez,2015-01-25,"['Amparo Sánchez ', ' Amparo Sánchez ', ' Willy Fuego ', ' Jose Alberto Varona ', ' Jorge Mestres ', ' Ricard Parera ']",
-null,Kammermusikkonzert-Geheimnisvolle-Zeichen,2015-01-25,[' Eva Nievergelt '],Classic
-null,From-Russia-with-Love,2015-01-25,"[' Felix Froschhammer ', ' Rachel R. Späth ', ' Markus Fleck ', ' Andreas Fleck ']",Classic
-Zürich,SULP,2015-01-25,"[' Lisette Stoffel ', ' Matthias Gubler ', ' Simon Dettwiler ', ' Hannes Frankhauser ']",traditional
-null,Jubiläumskonzert,2015-01-25,"[' Sarah Nathalie Maeder ', ' Ingrid Alexandre ', ' Christoph Gabathuler ', ' Marcus Niedermeyr ']",Classic
-Zürich,Helferei-Ensemble-Zürich,2015-01-25,['Walter Lämmler '],Classic
-Elgg,Délice-&-Magie,2015-01-25,"['Rebekka Ott ', ' Elisabeth Harringer ']",Classic
-Wädenswil,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2015-01-25,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes Bärtschi ']",Classic
-Luzern,Konzert,2015-01-25,"[' Ola Sendecki ', ' Ruth Gierten ', ' Liese Mészár ', ' Trude Mészár ']",Classic
-Bern,English-Style,2015-01-25,[' Ursula Heim '],Classic
-Basel,Orgel-und-Kammermusik,2015-01-25,"['Martin Frey ', ' Susanne Böke-Kern ']",Classic
-Bern,Orgelkonzert,2015-01-25,"['Benjamin Righetti ', ' Anoine Auberson ']",Classic
-Dietikon,A-Whole-New-World,2015-01-25,"[' Jean-Jacques Goumaz ', ' Réka Jaksics ', ' Damian Meier ', ' Sabine Lehmann ', ' Niggi Wüthrich ', ' Iris Eggler ']",Classic
-Bern,Camerata-Bern,2015-01-25,"['Nicolas Altstaedt ', ' Milla Viljamaa ', ' conductor: Pekka Kuusisto ']",Classic
-null,A-bailar,2015-01-25,[' live: Alexander Febles '],
-Zürich,Who-is-it-Antrittsorgelkonzert,2015-01-25,['Christian Gautschi '],Pop
-Winterthur,Winterthurer-Symphoniker,2015-01-25,['Sarah Rumer '],Classic
-Zürich,Klangwelt-IV,2015-01-25,"[' Moema Rodrigues ', ' Janos Ecseghy ', ' Beate Springorum ', ' Florian Barak ']",Classic
-Kappel-am-Albis,Musik-und-Wort-abgesagt,2015-01-25,"[' Daniela Hunziker ', ' Ina Hofmann ']",Classic
-Bern,Angelus-Novus-II,2015-01-25,[' works by Helmut Oehring '],Classic
-Pratteln,Hammerfall,2015-01-25,['Hammerfall '],
-Basel,Curse,2015-01-25,['Curse '],
-Luzern,About-Time,2015-01-25,"[' Naijma Gürth ', ' Benjamin Knecht ', ' Nicolas Gurtner ', ' Andri Schärli ', ' Thierry Looser ', ' Felix Meyer ', ' Daniel Rapold ', ' u. a. ']",
-Luzern,Obituary,2015-01-25,['Obituary '],
-Luzern,Theodoros-Kapilidis-Quartett,2015-01-25,"[' Theo Kapilidis ', ' Florian Egli ', ' Lukas Traxel ', ' Maxime Paratte ']",
-Brugg,Jantos-Holding,2015-01-25,"[' Karin Ospelt ', ' Simon Spiess ', ' Lukas Wyss ', ' Jan-Andrea Bard ', ' Jean-Pierre Dix ', ' Florian Krause ']",
-Zürich,Moni-und-die-Luftpost,2015-01-25,"['Moni und die Luftpost ', ' Simone Baumann ', ' Livio Bardelli ', ' Flurin Lanfranconi ', ' Patrik Horat ']",Pop
-Richterswil,Wiener-Klassiker,2015-01-25,"['Patricia Tschudi ', ' Cati Klemm ', ' Barbara Gürth ', ' Sabine Bärtschi ']",Classic
-Zürich,Mozart-Abend,2015-01-25,"[' Regula Mühlemann ', ' Hisako Kawamura ']",Classic
-Basel,AMG-World-Orchestras,2015-01-25,"[' Joshua Bell ', ' Lawrence Power ']",Classic
-Winterthur,Luciana-y-Amadeo,2015-01-25,"['Luciana y Amadeo ', ' Luciana Miguel ', ' Amadeo Zunino ']",
-Lausanne,Inquisition,2015-01-25,"['Inquisition ', ' Archgoat ', ' Ondskapt ', ' Blackdeath ']",
-Bern,Earth,2015-01-25,"['Earth ', ' support: Black Spirituals ', ' Rogier Smal Duo ']",
-Solothurn,Aaron-Carter,2015-01-25,['Aaron Carter '],Pop
-null,Fink,2015-01-25,['Fink '],
-Bern,Amparo-Sánchez,2015-01-25,"['Amparo Sánchez ', ' Amparo Sánchez ', ' Willy Fuego ', ' Jose Alberto Varona ', ' Jorge Mestres ', ' Ricard Parera ']",
-Winterthur,Slimkid3-&-Numark,2015-01-25,['Slimkid3 & Numark '],
+,location,event,date,artists,genre
+0,Basel,AMG-Sonntagsmatineen,2015-01-25,"[' Alexander Mayer ', ' Felix Froschhammer ']",['Classic']
+1,null,4.-Kammerkonzert,2015-01-25,"['Erzs?bet Barn?cz ', ' Fr?d?ric Carri?re ', ' Alice Bourgouin ']",['Classic']
+2,Bern,Camerata-Bern,2015-01-25,['Conductor: Pekka Kuusisto '],['Classic']
+3,Z?rich,Alleine-zu-zweit,2015-01-25,"[' Sebastian Bohren ', ' Dmitri Demiashkin ']",['Classic']
+4,Z?rich,Hottinger-Konzert-Matin?e,2015-01-25,['Sidney Fuchs '],['Classic']
+5,Z?rich,Brunchkonzert,2015-01-25,"['Wang Xiao Ming ', ' Laurent Weibel ', ' Rumjana Naydenova ', ' Xavier Pignat ', ' Petar Naydenov ', ' Caspar Dechmann ']",['Classic']
+6,Z?rich,Grosses-Orgelkonzert,2015-01-25,"['Luc Seydoux ', ' Thomas J?ggi ', ' Bruno Reich ']",['Classic']
+7,null,Konzert,2015-01-25,"[' Hans-Peter Frehner ', ' Manfred Spitaler ', ' Viktor M?ller ', ' Lorenz Haas ', ' Urs Bumbacher ', ' Nicola Romano ']",['Classic']
+8,Bern,Amparo-S?nchez,2015-01-25,"['Amparo S?nchez ', ' Amparo S?nchez ', ' Willy Fuego ', ' Jose Alberto Varona ', ' Jorge Mestres ', ' Ricard Parera ']","['world', 'music']"
+9,Bern,Amparo-Sanchez,2015-01-25,['Amparo Sanchez '],"['Jazz', 'Blues', 'Soul']"
+10,null,From-Russia-with-Love,2015-01-25,"[' Felix Froschhammer ', ' Rachel R. Sp?th ', ' Markus Fleck ', ' Andreas Fleck ']",['Classic']
+11,Z?rich,Who-is-it-Antrittsorgelkonzert,2015-01-25,['Christian Gautschi '],['Pop']
+12,Z?rich,SULP,2015-01-25,"[' Lisette Stoffel ', ' Matthias Gubler ', ' Simon Dettwiler ', ' Hannes Frankhauser ']",['traditional']
+13,Bern,Camerata-Bern,2015-01-25,"['Nicolas Altstaedt ', ' Milla Viljamaa ', ' conductor: Pekka Kuusisto ']",['Classic']
+14,W?denswil,Undine-oder-die-Geschichte-eines-hoffnungslosen-Wassergeistes,2015-01-25,"[' Mona Petri ', ' Barbara Bossert ', ' Kathrin Bertschi ', ' Hannes B?rtschi ']",['Classic']
+15,Z?rich,Klangwelt-IV,2015-01-25,"[' Moema Rodrigues ', ' Janos Ecseghy ', ' Beate Springorum ', ' Florian Barak ']",['Classic']
+16,null,Jubil?umskonzert,2015-01-25,"[' Sarah Nathalie Maeder ', ' Ingrid Alexandre ', ' Christoph Gabathuler ', ' Marcus Niedermeyr ']",['Classic']
+17,Winterthur,Winterthurer-Symphoniker,2015-01-25,['Sarah Rumer '],['Classic']
+18,Bern,Orgelkonzert,2015-01-25,"['Benjamin Righetti ', ' Anoine Auberson ']",['Classic']
+19,Z?rich,Helferei-Ensemble-Z?rich,2015-01-25,['Walter L?mmler '],['Classic']
+20,Luzern,Konzert,2015-01-25,"[' Ola Sendecki ', ' Ruth Gierten ', ' Liese M?sz?r ', ' Trude M?sz?r ']",['Classic']
+21,null,Kammermusikkonzert-Geheimnisvolle-Zeichen,2015-01-25,[' Eva Nievergelt '],['Classic']
+22,Elgg,D?lice-&-Magie,2015-01-25,"['Rebekka Ott ', ' Elisabeth Harringer ']",['Classic']
+23,Basel,Orgel-und-Kammermusik,2015-01-25,"['Martin Frey ', ' Susanne B?ke-Kern ']",['Classic']
+24,Bern,English-Style,2015-01-25,[' Ursula Heim '],['Classic']
+25,Dietikon,A-Whole-New-World,2015-01-25,"[' Jean-Jacques Goumaz ', ' R?ka Jaksics ', ' Damian Meier ', ' Sabine Lehmann ', ' Niggi W?thrich ', ' Iris Eggler ']",['Classic']
+26,null,A-bailar,2015-01-25,[' live: Alexander Febles '],"['Ragga', 'Reggae', 'African', 'Music', 'Dancehall']"
+27,Kappel-am-Albis,Musik-und-Wort-abgesagt,2015-01-25,"[' Daniela Hunziker ', ' Ina Hofmann ']",['Classic']
+28,Bern,Angelus-Novus-II,2015-01-25,[' works by Helmut Oehring '],['Classic']
+29,Pratteln,Hammerfall,2015-01-25,['Hammerfall '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+30,Z?rich,Moni-und-die-Luftpost,2015-01-25,"['Moni und die Luftpost ', ' Simone Baumann ', ' Livio Bardelli ', ' Flurin Lanfranconi ', ' Patrik Horat ']",['Pop']
+31,Luzern,About-Time,2015-01-25,"[' Naijma G?rth ', ' Benjamin Knecht ', ' Nicolas Gurtner ', ' Andri Sch?rli ', ' Thierry Looser ', ' Felix Meyer ', ' Daniel Rapold ', ' u. a. ']","['Jazz', 'Blues', 'Soul']"
+32,Luzern,Obituary,2015-01-25,['Obituary '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+33,Luzern,Theodoros-Kapilidis-Quartett,2015-01-25,"[' Theo Kapilidis ', ' Florian Egli ', ' Lukas Traxel ', ' Maxime Paratte ']","['Jazz', 'Blues', 'Soul']"
+34,Brugg,Jantos-Holding,2015-01-25,"[' Karin Ospelt ', ' Simon Spiess ', ' Lukas Wyss ', ' Jan-Andrea Bard ', ' Jean-Pierre Dix ', ' Florian Krause ']","['Jazz', 'Blues', 'Soul']"
+35,Richterswil,Wiener-Klassiker,2015-01-25,"['Patricia Tschudi ', ' Cati Klemm ', ' Barbara G?rth ', ' Sabine B?rtschi ']",['Classic']
+36,Basel,Curse,2015-01-25,['Curse '],"['Hip', 'Hop', ""R'n'B""]"
+37,Basel,AMG-World-Orchestras,2015-01-25,"[' Joshua Bell ', ' Lawrence Power ']",['Classic']
+38,Z?rich,Mozart-Abend,2015-01-25,"[' Regula M?hlemann ', ' Hisako Kawamura ']",['Classic']
+39,Winterthur,Luciana-y-Amadeo,2015-01-25,"['Luciana y Amadeo ', ' Luciana Miguel ', ' Amadeo Zunino ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+40,Solothurn,Aaron-Carter,2015-01-25,['Aaron Carter '],['Pop']
+41,Bern,Earth,2015-01-25,"['Earth ', ' support: Black Spirituals ', ' Rogier Smal Duo ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+42,Lausanne,Inquisition,2015-01-25,"['Inquisition ', ' Archgoat ', ' Ondskapt ', ' Blackdeath ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+43,Bern,Amparo-S?nchez,2015-01-25,"['Amparo S?nchez ', ' Amparo S?nchez ', ' Willy Fuego ', ' Jose Alberto Varona ', ' Jorge Mestres ', ' Ricard Parera ']","['world', 'music']"
+44,null,Fink,2015-01-25,['Fink '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+45,Winterthur,Slimkid3-&-Numark,2015-01-25,[' Numark '],"['Hip', 'Hop', ""R'n'B""]"

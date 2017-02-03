@@ -1,29 +1,29 @@
-location,event,date,artists,genre
-Cully,Cully-Jazz-Festival,2013-04-09,"[' Philippe Devin ', "" Thomas D'Arbigny "", ' Damien Cornélis ', ' Julien Audigier ', ' Sylvain Fétis ', ' Vincent Payen ']",
-Obere-Matten,Zermatt,2013-04-09,['Faela '],Faela
-Zürich,Leopold,2013-04-09,"[' Thise Gloor ', ' Thomas Hirt ', ' Fredi Schmid ']",
-Basel,For-the-Fallen-Dreams,2013-04-09,['For the Fallen Dreams '],
-Pratteln,Stratovarius,2013-04-09,"['Stratovarius ', ' Amaranthe ']",
-Pratteln,Stratovarius,2013-04-09,"['Stratovarius ', ' Amaranthe ']",
-Basel,AMG-Solistenabend,2013-04-09,['Lang Lang '],Classic
-Stans,Stanser-Musiktage,2013-04-09,"[' Matthias Landtwing ', ' Markus Bircher ', ' Andreas Bircher ', ' Severin Barmettler ']",traditional
-Cully,Cully-Jazz-Festival,2013-04-09,"['Nina Attal ', ' Philippe Devin ', "" Thomas D'Arbigny "", ' Damien Cornélis ', ' Julien Audigier ', ' Sylvain Fétis ', ' Vincent Payen ']",
-Basel,For-The-Fallen-Dreams,2013-04-09,"['For The Fallen Dreams ', ' Dream On Dreamer ', ' House vs. Hurricane ', ' No Bragging Rights ']",
-Bern,Internationales-Jazzfestival-Bern,2013-04-09,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']",
-Obere-Matten,Zermatt,2013-04-09,"['Umberto Tozzi ', ' Stadio ']",
-Aarau,Callmekat,2013-04-09,['Callmekat '],Pop
-Stans,Stanser-Musiktage,2013-04-09,"['Luisa Sobral ', ' Luisa Sobral ', ' João Salcedo ', ' João Hasselberg ', ' Carlos Miguel ']",
-Komplex-457,Zürich,2013-04-09,['Bushido '],Bushido
-Zürich,Mark-Helias'-Open-Loose,2013-04-09,"[""Mark Helias' Open Loose "", ' Mark Helias ', ' Tony Malaby ', ' Tom Rainey ']",
-Basel,Sonic-Calligraphy-feat.-Felix-Utzinger,2013-04-09,"[' Peggy Chew ', ' Felix Utzinger ', ' Adrian Frey ', ' Willy Kotoun ']",
-Zürich,Music-for-Bass-&-Shade,2013-04-09,"[' Pascal Niggenkemper ', ' Yves Theiler ', ' Valeria Zangger ']",
-Zürich,Gabrielle-Aplin,2013-04-09,['Gabrielle Aplin '],Pop
-Cully,Cully-Jazz-Festival,2013-04-09,[' Fred Wesley & Socalled '],
-Stans,Stanser-Musiktage,2013-04-09,"['Yaron Herman ', ' Yaron Herman ', ' Emile Parisien ', ' Stéphane Kerecki ', ' Ziv Ravitz ']",
-Cully,Cully-Jazz-Festival,2013-04-09,"['Taksim Trio ', ' Aytaç Dogan ', ' Hüsnü Senlendirici ', ' Ismail Tunçbilek ']",
-Cully,Cully-Jazz-Festival,2013-04-09,"[' Joe Grin ', ' Florian Möbes ', ' Lukas Koenig ']",
-Zürich,A.-Spell,2013-04-09,"['A. Spell ', ' Nadja Stoller ', ' Jan Galega Brönnimann ', ' Ronan Skillen ']",Electronic
-Rote-Fabrik,Zürich,2013-04-09,['Matthew E. White '],
-Bern,Internationales-Jazzfestival-Bern,2013-04-09,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']",
-Vernissage,Zermatt,2013-04-09,['Rea Garvey '],
-Vernissage,Zermatt,2013-04-09,['Rea Garvey '],
+,location,event,date,artists,genre
+0,Cully,Cully-Jazz-Festival,2013-04-09,"[' Philippe Devin ', "" Thomas D'Arbigny "", ' Damien Cornélis ', ' Julien Audigier ', ' Sylvain Fétis ', ' Vincent Payen ']","['Hip', 'Hop', ""R'n'B""]"
+1,Obere-Matten,Zermatt,2013-04-09,['Faela '],['Faela']
+2,Zürich,Leopold,2013-04-09,"[' Thise Gloor ', ' Thomas Hirt ', ' Fredi Schmid ']","['Jazz', 'Blues', 'Soul']"
+3,Basel,For-the-Fallen-Dreams,2013-04-09,['For the Fallen Dreams '],"['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+4,Pratteln,Stratovarius,2013-04-09,"['Stratovarius ', ' Amaranthe ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+5,Pratteln,Stratovarius,2013-04-09,"['Stratovarius ', ' Amaranthe ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+6,Basel,AMG-Solistenabend,2013-04-09,['Lang Lang '],['Classic']
+7,Stans,Stanser-Musiktage,2013-04-09,"[' Matthias Landtwing ', ' Markus Bircher ', ' Andreas Bircher ', ' Severin Barmettler ']",['traditional']
+8,Bern,Internationales-Jazzfestival-Bern,2013-04-09,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']","['Jazz', 'Blues', 'Soul']"
+9,Cully,Cully-Jazz-Festival,2013-04-09,"['Nina Attal ', ' Philippe Devin ', "" Thomas D'Arbigny "", ' Damien Cornélis ', ' Julien Audigier ', ' Sylvain Fétis ', ' Vincent Payen ']","['Hip', 'Hop', ""R'n'B""]"
+10,Basel,For-The-Fallen-Dreams,2013-04-09,"['For The Fallen Dreams ', ' Dream On Dreamer ', ' House vs. Hurricane ', ' No Bragging Rights ']","['Rock', 'Indie', 'Punk', 'Heavy', 'Metal', 'Gothic']"
+11,Obere-Matten,Zermatt,2013-04-09,"['Umberto Tozzi ', ' Stadio ']","['Umberto', 'Tozzi']"
+12,Aarau,Callmekat,2013-04-09,['Callmekat '],['Pop']
+13,Komplex-457,Zürich,2013-04-09,['Bushido '],['Bushido']
+14,Stans,Stanser-Musiktage,2013-04-09,"['Luisa Sobral ', ' Luisa Sobral ', ' João Salcedo ', ' João Hasselberg ', ' Carlos Miguel ']","['Jazz', 'Blues', 'Soul']"
+15,Zürich,Music-for-Bass-&-Shade,2013-04-09,"[' Pascal Niggenkemper ', ' Yves Theiler ', ' Valeria Zangger ']","['Jazz', 'Blues', 'Soul']"
+16,Cully,Cully-Jazz-Festival,2013-04-09,[' Fred Wesley & Socalled '],"['Jazz', 'Blues', 'Soul']"
+17,Zürich,Gabrielle-Aplin,2013-04-09,['Gabrielle Aplin '],['Pop']
+18,Zürich,Mark-Helias'-Open-Loose,2013-04-09,"[""Mark Helias' Open Loose "", ' Mark Helias ', ' Tony Malaby ', ' Tom Rainey ']","['Jazz', 'Blues', 'Soul']"
+19,Basel,Sonic-Calligraphy-feat.-Felix-Utzinger,2013-04-09,"[' Peggy Chew ', ' Felix Utzinger ', ' Adrian Frey ', ' Willy Kotoun ']","['Jazz', 'Blues', 'Soul']"
+20,Stans,Stanser-Musiktage,2013-04-09,"['Yaron Herman ', ' Yaron Herman ', ' Emile Parisien ', ' Stéphane Kerecki ', ' Ziv Ravitz ']","['Jazz', 'Blues', 'Soul']"
+21,Cully,Cully-Jazz-Festival,2013-04-09,"['Taksim Trio ', ' Aytaç Dogan ', ' Hüsnü Senlendirici ', ' Ismail Tunçbilek ']","['Jazz', 'Blues', 'Soul']"
+22,Cully,Cully-Jazz-Festival,2013-04-09,"[' Joe Grin ', ' Florian Möbes ', ' Lukas Koenig ']","['Jazz', 'Blues', 'Soul']"
+23,Zürich,A.-Spell,2013-04-09,"['A. Spell ', ' Nadja Stoller ', ' Jan Galega Brönnimann ', ' Ronan Skillen ']",['Electronic']
+24,Rote-Fabrik,Zürich,2013-04-09,['Matthew E. White '],"['Domi', 'Chansorn']"
+25,Bern,Internationales-Jazzfestival-Bern,2013-04-09,"['The Yellojackets ', ' Bob Mintzer ', ' Russell Ferrante ', ' Felix Pastorius ', ' William Kennedy ']","['Jazz', 'Blues', 'Soul']"
+26,Vernissage,Zermatt,2013-04-09,['Rea Garvey '],"['Rea', 'Garvey']"
+27,Vernissage,Zermatt,2013-04-09,['Rea Garvey '],"['Rea', 'Garvey']"
