@@ -152,8 +152,6 @@ def completeGeographicData(dataframe,AddressDic=None,LocalityDic=None,Coordinate
         else:
             geocoordinates = None
 
-        print geocoordinates
-
         dataframe.loc[id,"location"] = locality
         dataframe.loc[id,"canton"] = region
         dataframe.loc[id,"coordinates"] = geocoordinates
