@@ -1,0 +1,3 @@
+,place,src,address,location,canton,event,date,artists,genre,coordinates
+0,test,club,address,location_test,NE,simsalabim,2002-22-02,"['Joachim Garraud', '**David Guetta**', 'Panteros666 ? ?', 'Rihanna (Live)']",Classique,"(1.0,1.0)"
+1,test2,club,address,location_test,VD,simsalabim,2002-22-02,"['02:20 - Rihanna', "" Drum'n'bass"", 'David Guetta']",Pop,"(1.0,1.0)"
