@@ -1,0 +1,779 @@
+2 tone	caribbean and caribbean-influenced
+2-step garage	electronic
+4-beat	electronic
+acid breaks	electronic
+acid house	electronic
+acid jazz	jazz
+acid rock	rock
+acid techno	electronic
+acid trance	electronic
+acousmatic music	electronic
+adult contemporary	pop
+african	african
+african blues	blues
+african heavy metal	african
+african hip hop	african
+afro / cosmic disco	electronic
+afro-cuban jazz	latin
+afrobeat	african
+aggrotech	electronic
+alternative country	country
+alternative dance	electronic
+alternative hip hop	hip hop
+alternative metal	rock
+alternative rock	rock
+ambient	electronic
+ambient dub	electronic
+ambient house	electronic
+american folk revival	folk
+americana	country
+anarcho punk	rock
+anison	asian
+anti-folk	folk
+apala	african
+arab pop	pop
+art punk	rock
+art rock	rock
+asian	asian
+asian american jazz	jazz
+asian underground	electronic
+atlanta hip hop	hip hop
+australian country music	country
+australian hip hop	hip hop
+austropop	pop
+avant-garde	avant-garde
+avant-garde jazz	jazz
+avant-garde metal	rock
+axé	latin
+bachata	latin
+background music	easy listening
+baila	asian
+baithak gana	caribbean and caribbean-influenced
+bakersfield sound	country
+balearic beat	electronic
+balearic trance	electronic
+baltimore club	hip hop
+banda	latin
+baroque pop	pop
+bassline/4x4 garage	electronic
+baul	asian
+beat music	rock
+beautiful music	easy listening
+bebop	jazz
+benga	african
+berlin school	electronic
+bhangra	asian
+big beat	electronic
+big room	electronic
+bikutsi	african
+bitpop	electronic
+black metal	rock
+blue-eyed soul	r&b and soul
+bluegrass	country
+blues	blues
+blues country	country
+blues rock	blues
+blues shouter	blues
+bolero	latin
+bongo flava	hip hop
+boogie	r&b and soul
+boogie-woogie	jazz
+bossa nova	latin
+bounce music	hip hop
+bouncy house	electronic
+bouncy techno	electronic
+bouyon	caribbean and caribbean-influenced
+brazilian	latin
+brazilian rock	latin
+breakbeat	electronic
+breakbeat hardcore	electronic
+breakcore	electronic
+breakstep	electronic
+brega	latin
+brick city club	hip hop
+brill building	pop
+british blues	blues
+british dance band	jazz
+british folk revival	folk
+british hip hop	hip hop
+britpop	pop
+broken beat	electronic
+brostep	electronic
+bubblegum dance	electronic
+bubblegum pop	pop
+bullerengue	latin
+c-pop	pop
+cadence-lypso	caribbean and caribbean-influenced
+cajun	country
+cajun fiddle tunes	country
+calypso	caribbean and caribbean-influenced
+canadian blues	blues
+canción	pop
+canterbury scene	rock
+cantopop	asian
+canzone	pop
+cape jazz	jazz
+caribbean and caribbean-influenced	caribbean and caribbean-influenced
+celtic metal	rock
+celtic music	folk
+celtic punk	rock
+cha cha cha	caribbean and caribbean-influenced
+chalga	pop
+chamber jazz	jazz
+chanson	pop
+chap hop	hip hop
+chicago blues	blues
+chicago hip hop	hip hop
+chicago house	electronic
+chicano rap	hip hop
+chicha	latin
+chill-out	electronic
+chillstep	electronic
+chillwave	electronic
+chimurenga	african
+chinese rock	rock
+chiptune	electronic
+chopped and screwed	hip hop
+choro	latin
+christian country music	country
+christian hip hop	hip hop
+christian metal	rock
+christian pop	pop
+christian punk	rock
+christian rock	rock
+chutney	caribbean and caribbean-influenced
+chutney soca	caribbean and caribbean-influenced
+classic	orchestral
+classic country	country
+classic female blues	blues
+classical	orchestral
+classical crossover	pop
+close harmony	country
+coldwave	electronic
+comedy	comedy
+comedy music	comedy
+comedy rock	comedy
+compas	caribbean and caribbean-influenced
+complextro	electronic
+congolese rumba	african
+conscious hip hop	hip hop
+contemporary folk	folk
+contemporary r&b	r&b and soul
+continental jazz	jazz
+cool jazz	jazz
+country	country
+country blues	blues
+country pop	pop
+country rap	country
+country rock	country
+country-rap	hip hop
+coupé-décalé	african
+cowboy/western music	folk
+cowpunk	rock
+criolla	latin
+crossover jazz	jazz
+crossover thrash	rock
+crunk	hip hop
+crunkcore	hip hop
+crust punk	rock
+crustgrind	rock
+cumbia	latin
+cumbia rap	hip hop
+cybergrind	electronic
+d-beat	rock
+dance pop	pop
+dance-pop	pop
+dance-punk	electronic
+dance-rock	electronic
+dancehall	caribbean and caribbean-influenced
+dancehall music	caribbean and caribbean-influenced
+dangdut	asian
+dansband music	country
+dark ambient	electronic
+dark cabaret	rock
+dark electro	electronic
+dark wave	electronic
+darkcore	electronic
+darkcore jungle	electronic
+darkstep	electronic
+death 'n' roll	rock
+death industrial	electronic
+death metal	rock
+death-doom	rock
+deathcore	rock
+deathrock	rock
+deep funk	r&b and soul
+deep house	electronic
+delta blues	blues
+desert rock	rock
+destroy techno	electronic
+detroit blues	blues
+detroit hip hop	hip hop
+detroit techno	electronic
+digital hardcore	rock
+disco	r&b and soul
+disco polo	pop
+diva house/handbag house	electronic
+dixieland	jazz
+djent	rock
+doom metal	rock
+doomcore	electronic
+downtempo	electronic
+dream pop	rock
+dream trance	electronic
+drill	hip hop
+drill and bass	electronic
+drone metal	rock
+drone music	electronic
+drum and bass	electronic
+drumstep	electronic
+dub	electronic
+dub techno	electronic
+dubstep	electronic
+dubstyle	electronic
+dubtronica	electronic
+dunedin sound	rock
+dutch house	electronic
+east coast hip hop	hip hop
+easy listening	easy listening
+electric blues	blues
+electro house	electronic
+electro music	hip hop
+electro swing	electronic
+electro-industrial	electronic
+electroacoustic	avant-garde
+electroacoustic music	electronic
+electroclash	electronic
+electronic	electronic
+electronic body music	electronic
+electronic rock	rock
+electronica	electronic
+electronicore	rock
+electropop	pop
+electropunk	electronic
+elevator music	easy listening
+emo	rock
+enka	asian
+ethereal wave	electronic
+ethnic electronica	electronic
+ethno jazz	jazz
+euro disco	electronic
+eurobeat	pop
+eurodance	electronic
+european free jazz	jazz
+europop	pop
+experimental hip hop	hip hop
+experimental music	avant-garde
+experimental rock	rock
+fado	pop
+fann at-tanbura	asian
+fidget house	electronic
+fijiri	asian
+filk music	folk
+filmi	asian
+flamenco	latin
+florida breaks	electronic
+folk	folk
+folk metal	rock
+folk pop	pop
+folk punk	rock
+folk rock	rock
+folktronica	folk
+forró	latin
+franco-country	country
+freak folk	folk
+freakbeat	rock
+free funk	jazz
+free improvisation	jazz
+free jazz	jazz
+free tekno	electronic
+freestyle music	r&b and soul
+freestyle rap	hip hop
+french house	electronic
+french pop	pop
+frevo	latin
+fuji music	african
+full on	electronic
+funk	r&b and soul
+funk carioca	latin
+funk metal	rock
+funkstep	electronic
+funktronica	electronic
+funky house	electronic
+furniture music	easy listening
+future garage	electronic
+future house	electronic
+futurepop	electronic
+g-funk	hip hop
+gabba	electronic
+game boy music	electronic
+gamelan	asian
+gangsta rap	hip hop
+garage house	electronic
+garage punk	rock
+garage rock	rock
+genge	african
+ghetto house	hip hop
+ghettotech	hip hop
+glam metal	rock
+glam rock	rock
+glitch	electronic
+glitch hop	electronic
+go-go	r&b and soul
+goa trance	electronic
+golden age hip hop	hip hop
+goregrind	rock
+gospel blues	blues
+gothic metal	rock
+gothic rock	rock
+grime	hip hop
+grindcore	rock
+grindie	electronic
+groove metal	rock
+grunge	rock
+grupera	latin
+guajira	latin
+gypsy jazz	jazz
+gypsy punk	rock
+happy hardcore	electronic
+hard bop	jazz
+hard house	electronic
+hard nrg	electronic
+hard rock	rock
+hard trance	electronic
+hardbag	electronic
+hardcore	electronic
+hardcore hip hop	hip hop
+hardcore punk	rock
+hardstep	electronic
+hardstyle	electronic
+heavy metal	rock
+hellbilly music	country
+hi-nrg	electronic
+highlife	african
+hill country blues	blues
+hip hop	hip hop
+hip hop soul	r&b and soul
+hip house	hip hop
+hip pop	hip hop
+hiplife	hip hop
+hokum	country
+hokum blues	blues
+hong kong english pop	asian
+honky tonk	country
+horror punk	rock
+horrorcore	hip hop
+house music	electronic
+houston hip hop	hip hop
+huayno	latin
+hyphy	hip hop
+idm	electronic
+igbo highlife	african
+igbo rap	hip hop
+illbient	electronic
+indian pop	asian
+indie folk	folk
+indie pop	pop
+indie rock	rock
+indietronica	electronic
+industrial folk	folk
+industrial hip hop	hip hop
+industrial metal	rock
+industrial music	electronic
+industrial rock	rock
+instrumental country	country
+instrumental hip hop	hip hop
+iranian pop	pop
+isicathamiya	african
+isolationism	electronic
+italo dance	pop
+italo disco	pop
+italo house	electronic
+j-pop	pop
+j-rock	asian
+jangle pop	pop
+japanoise	electronic
+jazz	jazz
+jazz blues	jazz
+jazz fusion	jazz
+jazz house	electronic
+jazz rap	jazz
+jazz rock	rock
+jazz-funk	jazz
+jerkin'	hip hop
+jersey club	electronic
+jit	african
+jump blues	blues
+jump-up	electronic
+jumpstyle	electronic
+jungle	electronic
+jùjú	african
+k-pop	pop
+kadongo kamu	african
+kansas city blues	jazz
+kansas city jazz	jazz
+kapuka aka boomba	african
+kayōkyoku	asian
+keroncong	asian
+khaliji	asian
+kizomba	african
+krautrock	rock
+kuduro	african
+kwaito	hip hop
+kwassa kwassa	african
+kwela	african
+lambada	latin
+laptronica	electronic
+latin	latin
+latin alternative	latin
+latin ballad	pop
+latin christian	latin
+latin house	electronic
+latin jazz	latin
+latin metal	rock
+latin pop	pop
+latin rock	latin
+latin swing	latin
+lavani	asian
+laïkó	pop
+lento violento	electronic
+liquid dubstep	electronic
+liquid funk	electronic
+livetronica	jazz
+liwa	asian
+lo-fi	avant-garde
+louisiana blues	blues
+louisiana swamp pop	pop
+lounge music	easy listening
+lovers rock	caribbean and caribbean-influenced
+low bap	hip hop
+lowercase	electronic
+luk krung	asian
+luk thung	asian
+lyrical hip hop	hip hop
+m-base	jazz
+mafioso rap	hip hop
+mainstream jazz	jazz
+makossa	african
+maloya	african
+mambo	latin
+mandopop	pop
+manila sound	asian
+maracatu	latin
+mariachi	latin
+marrabenta	african
+math rock	rock
+mathcore	rock
+mbalax	african
+mbaqanga	african
+mbube	african
+medieval metal	rock
+melbourne bounce	electronic
+melodic death metal	rock
+melodic metalcore	rock
+memphis blues	blues
+merengue	latin
+merenrap	hip hop
+metalcore	rock
+mexican pop	pop
+mexican son	latin
+miami bass	hip hop
+microhouse/minimal house	electronic
+middle of the road	easy listening
+midwest hip hop	hip hop
+minimal techno	electronic
+minimal wave	electronic
+modal jazz	jazz
+moombahcore	electronic
+moombahton	electronic
+morlam	asian
+morna	african
+mosambique	caribbean and caribbean-influenced
+motswako	hip hop
+musique concrète	electronic
+mákina	electronic
+méringue	caribbean and caribbean-influenced
+música criolla	latin
+música popular brasileira	latin
+música sertaneja	latin
+nagoya kei	rock
+nashville sound	country
+ndombolo	african
+nederpop	pop
+neo soul	r&b and soul
+neo-bop jazz	jazz
+neo-psychedelia	rock
+neo-swing	jazz
+neoclassical metal	rock
+neofolk	folk
+neotraditional country	country
+nerdcore	hip hop
+neue deutsche härte	rock
+neurofunk	electronic
+neurohop	electronic
+new beat	electronic
+new jack swing	r&b and soul
+new jersey hip hop	hip hop
+new prog	rock
+new rave	electronic
+new romanticism	pop
+new school hip hop	hip hop
+new wave	rock
+new-age music	electronic
+nintendocore	electronic
+nitzhonot	electronic
+no wave	rock
+noise	avant-garde
+noise rock	rock
+noisegrind	rock
+nortec	electronic
+norteño	latin
+northern soul	r&b and soul
+novelty music	comedy
+novelty ragtime	jazz
+nu jazz	jazz
+nu metal	rock
+nu skool breaks	electronic
+nu-disco	electronic
+nu-funk	electronic
+nu-gaze	electronic
+nu-nrg	electronic
+nueva canción	latin
+old school hip hop	hip hop
+onkyokei	asian
+operatic pop	pop
+orchestral	orchestral
+orchestral jazz	jazz
+original pilipino music	asian
+outlaw country	country
+outsider house	electronic
+p-funk	r&b and soul
+p-pop	asian
+pagan metal	rock
+pagode	latin
+paisley underground	rock
+palm-wine	african
+parody music	comedy
+piedmont blues	blues
+pinoy pop	asian
+political hip hop	hip hop
+pop	pop
+pop christmas	pop
+pop punk	rock
+pop rap	pop
+pop rock	rock
+pop soul	pop
+pop sunda	asian
+porro	latin
+post-bop	jazz
+post-disco	r&b and soul
+post-grunge	rock
+post-hardcore	rock
+post-metal	rock
+post-punk	rock
+post-punk revival	rock
+post-rock	rock
+power electronics	electronic
+power metal	rock
+power noise	electronic
+power pop	pop
+powerviolence	rock
+progressive bluegrass	country
+progressive country	country
+progressive folk	folk
+progressive house	electronic
+progressive metal	rock
+progressive pop	pop
+progressive rock	rock
+progressive trance	electronic
+protest song	folk
+psybient	electronic
+psychedelic folk	folk
+psychedelic pop	pop
+psychedelic rock	rock
+psychedelic trance	electronic
+psychobilly	rock
+psychobilly/punkabilly	country
+punk blues	blues
+punk jazz	jazz
+punk rock	rock
+punta	caribbean and caribbean-influenced
+punta rock	caribbean and caribbean-influenced
+r&b	r&b and soul
+r&b and soul	r&b and soul
+raga rock	rock
+ragga	hip hop
+ragga jungle	caribbean and caribbean-influenced
+raggacore	electronic
+ragini	asian
+ragtime	jazz
+ranchera	latin
+rap	hip hop
+rap metal	rock
+rap music	hip hop
+rap opera	hip hop
+rap rock	rock
+rapcore	rock
+rara tech	electronic
+rasin	caribbean and caribbean-influenced
+raï	african
+reactionary bluegrass	country
+rebetiko	pop
+red dirt	country
+reggae	caribbean and caribbean-influenced
+reggae español/spanish reggae	hip hop
+reggae fusion	caribbean and caribbean-influenced
+reggaestep	electronic
+reggaeton	latin
+regional mexican	latin
+rhythm and blues	r&b and soul
+riot grrrl	rock
+rock	rock
+rock and roll	rock
+rock en español	latin
+rock in opposition	rock
+rockabilly	country
+rocksteady	caribbean and caribbean-influenced
+rumba	latin
+russian pop	pop
+sadcore	rock
+sakara	african
+salsa	latin
+salsa romántica	latin
+samba	latin
+samba rock	latin
+sambass	electronic
+sawt	asian
+schlager	pop
+screamo	rock
+sega	african
+seggae	african
+semba	african
+sertanejo	country
+shangaan electro	african
+shibuya-kei	jazz
+shoegaze	rock
+singer-songwriter movement	folk
+ska	caribbean and caribbean-influenced
+ska jazz	jazz
+ska punk	rock
+skate punk	rock
+skiffle	folk
+skweee	electronic
+slowcore	rock
+sludge metal	rock
+smooth jazz	jazz
+snap music	hip hop
+soca	caribbean and caribbean-influenced
+soft rock	rock
+son	latin
+son cubano	caribbean and caribbean-influenced
+songo	caribbean and caribbean-influenced
+songo-salsa	hip hop
+sophisti-pop	pop
+soukous	african
+soul	r&b and soul
+soul blues	blues
+soul christmas	r&b and soul
+soul jazz	jazz
+southern hip hop	hip hop
+southern rock	rock
+southern soul	r&b and soul
+space age pop	pop
+space disco	electronic
+space music	electronic
+space rock	rock
+speed garage	electronic
+speed metal	rock
+speedcore	electronic
+st. louis blues	blues
+st. louis hip hop	hip hop
+step	electronic
+stoner rock	rock
+straight-ahead jazz	jazz
+street punk	rock
+stride jazz	jazz
+sufi rock	rock
+sung poetry	folk
+sunshine pop	pop
+suomisaundi	electronic
+surf pop	pop
+surf rock	rock
+swamp blues	blues
+swing	jazz
+symphonic black metal	rock
+symphonic metal	rock
+synthpop	pop
+synthwave	electronic
+taarab	african
+taiwanese pop	asian
+tango	latin
+tech house	electronic
+tech trance	electronic
+techdombe	electronic
+technical death metal	rock
+techno	electronic
+techstep	electronic
+tecno brega	electronic
+tecnobrega	latin
+teen pop	pop
+tejano	latin
+texas blues	blues
+texas country	country
+thai pop	asian
+third stream	jazz
+thrash metal	rock
+thrashcore	rock
+timba	latin
+trad jazz	jazz
+traditional country music	country
+traditional pop music	pop
+traditional:	latin
+trance music	electronic
+trap	hip hop
+trapstep	electronic
+tribal house	electronic
+trip hop	electronic
+trip hop (or bristol sound)	hip hop
+trival	electronic
+tropical	latin
+tropical house	electronic
+tropicalia	latin
+tropipop	latin
+truck-driving country	country
+turkish pop	pop
+turntablism	hip hop
+twin cities hip hop	hip hop
+twoubadou	caribbean and caribbean-influenced
+uk funky	electronic
+uk garage	electronic
+uk hardcore	electronic
+unblack metal	rock
+underground hip hop	hip hop
+unknown	unknown
+uplifting trance	electronic
+urban contemporary	pop
+urban pasifika	hip hop
+v-pop	asian
+vallenato	latin
+vaporwave	electronic
+video game music	electronic
+viking metal	rock
+vispop	pop
+visual kei	rock
+vocal jazz	jazz
+vocal trance	electronic
+war metal	rock
+west coast blues	blues
+west coast hip hop	hip hop
+west coast jazz	jazz
+western swing	country
+witch house	electronic
+wonky	electronic
+wonky pop	pop
+world fusion	rock
+worldbeat	rock
+zouglou cote d'ivoire	african
+zouk	caribbean and caribbean-influenced
+zouk-lambada	latin
+zydeco	country

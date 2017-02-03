@@ -14,24 +14,39 @@ def getArtistsList(df):
     for index,row in df.iterrows():
         lineup = row["artists"] #get line-up
         artists = literal_eval(lineup)
+        
+        new_lineup=[]
         for a in artists:
             a = a.split("(")[0]#Remove parenthesis at end of artist (record label, live act..)
-
+            
+            #Use list for convenient format in clean_artists method
             artist_list = []
             artist_list.append(a)
             cleaned_artist = moreFunction.clean_artists(artist_list)
             if(len(cleaned_artist)>0):
                 a = cleaned_artist[0]
+                
+            #Append artist in lineup
+            new_lineup.append(a.strip())
+            
+            #Add artist to artists dataframe
             a = pd.Series(a.strip())
             ArtistsDataFrame = ArtistsDataFrame.append(a,ignore_index=True)
+        
+        
+        #Replace artist in dataframe
+        df.loc[index,"artists"] = str(new_lineup)
+        
+        #count iteration
         i+=1
         if(i%5000==0):
             print(i)
-
+    
     ArtistsDataFrame.columns=["artist"]
     #ArtistsDataFrame.to_csv("ClubDataTest/ArtistsList.csv",encoding="utf-8")
     #ArtistsDataFrame.head(10)
-    return ArtistsDataFrame.drop_duplicates()
+    ArtistsDataFrame.drop_duplicates()
+    return ArtistsDataFrame,df
 
 def downloadGenresSpotify(artistsDF,dictionarySpotify=None,begin=0,end=100000):
 
@@ -237,7 +252,7 @@ def artistsPipeline(Dataframe, dictionaryOfGenres=None,dictionarySpotify=None,di
     if(dictionaryWiki ==None):
         dictionaryWiki = {}
     
-    Artists = getArtistsList(Dataframe)
+    Artists,Dataframe = getArtistsList(Dataframe)
     Artists = downloadGenresSpotify(Artists,dictionarySpotify) #Assign first styles
     
     #Creating the dictionary from artists
@@ -275,37 +290,39 @@ if __name__ == '__main__':
 	WikiDic = None
 	GenresDic = None
 	
+	encoding="utf-8"
+	
 	#Getting the dataframe
 	try:
-		Dataframe = pd.read_csv(PATH_DF,ignore_index=True)
+		Dataframe = pd.read_csv(PATH_DF,index_col=0)
 	except:
 		print("Error occured during read of "+PATH_DF+". Maybe can't find the file.")
 		sys.exit(0)
 	
 	#Getting the Spotify dictionary
 	try:
-		SpotifyDic = LU.loadDictionary(filename_spotify_dic,PATH_DIC)
+		SpotifyDic = LU.loadDictionary(filename_spotify_dic,PATH_DIC,encoding)
 	except:
 		print("Can't find the dictionary of Spotify genres.")
 		SpotifyDic = None
 		
 	#Getting the RA dictionary
 	try:
-		RADic = LU.loadDictionary(filename_ra_dic,PATH_DIC)
+		RADic = LU.loadDictionary(filename_ra_dic,PATH_DIC,encoding)
 	except:
 		print("Can't find the dictionary of RA genres.")
 		RADic = None
 		
 	#Getting the Wikipedia dictionary
 	try:
-		WikiDic = LU.loadDictionary(filename_wiki_dic,PATH_DIC)
+		WikiDic = LU.loadDictionary(filename_wiki_dic,PATH_DIC,encoding)
 	except:
 		print("Can't find the dictionary of Wikipedia genres.")
 		WikiDic = None
 	
 	#Getting the dictionary of genres
 	try:
-		GenresDic = LU.loadDictionary(filename_genres,PATH_DIC)
+		GenresDic = LU.loadDictionary(filename_genres,PATH_DIC,encoding)
 	except:
 		print("Can't find the dictionary of genres.")
 		GenresDic = None
@@ -316,11 +333,15 @@ if __name__ == '__main__':
 	print("Saving artists dataframe to : "+PATH_ARTISTS)
 	#Saving the Dataframe of artists
 	artists.to_csv(PATH_ARTISTS)
+	
+	print("Saving cleaned dataframe to :"+PATH_DF)
+	Dataframe.to_csv(PATH_DF)
+	
 	print("Saving dictionaries to : "+PATH_DIC)
 	#Saving dictionaries
-	LU.saveDictionary(GenresDic,filename_genres,PATH_DIC)
-	LU.saveDictionary(SpotifyDic,filename_spotify_dic,PATH_DIC)
-	LU.saveDictionary(RADic,filename_ra_dic,PATH_DIC)
-	LU.saveDictionary(WikiDic,filename_wiki_dic,PATH_DIC)
+	LU.saveDictionary(GenresDic,filename_genres,PATH_DIC,encoding)
+	LU.saveDictionary(SpotifyDic,filename_spotify_dic,PATH_DIC,encoding)
+	LU.saveDictionary(RADic,filename_ra_dic,PATH_DIC,encoding)
+	LU.saveDictionary(WikiDic,filename_wiki_dic,PATH_DIC,encoding)
 	
 	

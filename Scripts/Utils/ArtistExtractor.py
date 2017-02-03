@@ -475,7 +475,7 @@ def createDictionnary(level=2,debug=False,returnMains = False):
 	subgenres.update({"step":"electronic"})
 	subgenres.update({"unknown":"unknown"})
 	
-	LU.saveDictionary(subgenres,dictionary,dictionaryPath,enc="UTF-8")
+	#LU.saveDictionary(subgenres,dictionary,dictionaryPath,enc="UTF-8")
 		
 	if(returnMains):
 		return mainGenres,subgenres
