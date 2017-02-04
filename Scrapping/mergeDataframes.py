@@ -31,5 +31,6 @@ sample_df = full_df#[full_df.index % 100 == 0]
 #######################################
 
 import Pipeline
+#sample_df.to_csv('FullDF_without_GPS.csv', encoding='utf-8')
 sample_df_with_coordinates, addressDico, localityDico, coordinatesDico = Pipeline.completeGeographicData(sample_df)
 sample_df_with_coordinates.to_csv('FullDF.csv', encoding='utf-8')

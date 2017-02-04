@@ -8,7 +8,7 @@ from ast import literal_eval
 import moreFunction
 
 
-PATH_DF = "sampleDF.csv"
+PATH_DF = "FullDF_without_GPS.csv"
 PATH_ARTISTS = "Artists.csv"	
 PATH_DIC = "Dictionaries/"	
 filename_spotify_dic = "SpotifyDictionary"
@@ -35,7 +35,7 @@ def getArtistsList(df):
 		new_lineup=[]
 		if(artists!=None):
 			for a in artists:
-				a = a.split("(")[0]#Remove parenthesis at end of artist (record label, live act..)
+				a = str(a).split("(")[0]#Remove parenthesis at end of artist (record label, live act..)
 
 				#Use list for convenient format in clean_artists method
 				artist_list = []
@@ -154,7 +154,7 @@ def downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki=None,
 		if(dictionaryRA!= None and artist in dictionaryRA):
 			genres_ra = dictionaryRA.get(artist)
 		else:
-			#genres_ra = AE.getGenresFromRA(artist,dictionaryOfGenres)
+			genres_ra = AE.getGenresFromRA(artist,dictionaryOfGenres)
 			dictionaryRA.update({artist : genres_ra})
 		
 		if(genres_wiki== None or len(genres_wiki)<1):
@@ -419,24 +419,12 @@ def artistsPipeline(Events,dictionaryOfGenres=None,dictionarySpotify=None,dictio
 	
 	
 if __name__ == '__main__':
-
-	PATH_DF = "sampleDF.csv"
-	PATH_ARTISTS = "Artists.csv"
-	
-	PATH_DIC = "Dictionaries/"
-	
-	filename_spotify_dic = "SpotifyDictionary"
-	filename_ra_dic = "ResidentAdvisorDictionary"
-	filename_wiki_dic = "WikipediaDictionary"
-	filename_genres = "DictionaryOfGenres"
 	
 	DataFrame = None
 	SpotifyDic = None
 	RADic = None
 	WikiDic = None
 	GenresDic = None
-	
-	encoding="utf-8"
 	
 	#Getting the dataframe
 	try:
