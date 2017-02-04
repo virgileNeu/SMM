@@ -115,8 +115,11 @@ Eishalle-Wetzikon	None
 El-Lokal	None
 Elgg	None
 Embrach	None
+Emmenbrücke	None
 Englers-am-See	None
 Ennenda	None
+Ennetbaden	None
+Erlen	None
 Espace-Malley	None
 Esse-Musicbar	None
 Estrich	None
@@ -147,6 +150,7 @@ Gams	None
 Gare-de-Lion	None
 Gare-du-Nord	None
 Gaswerk	None
+Gessnerallee-Zürich	None
 Giswil	None
 Giumaglio	None
 Glarus	None
@@ -192,6 +196,7 @@ Huttwil	None
 Härterei-Club	None
 ISC-Club	None
 Il-Caffè	None
+Illnau	None
 Interlaken	None
 Jazzclub-Allmend	None
 Jazzkantine	None
@@ -322,6 +327,7 @@ Openair-St.-Gallen	None
 Opfikon	None
 Orangerie-im-Sarasinpark	None
 Orbital-Garden	None
+Ostermundigen	None
 Otelfingen	None
 Palace	None
 Palais-des-Congrès	None
@@ -392,6 +398,7 @@ Schupfart	None
 Schwarzsee	None
 Schwyz	None
 Schönenbuch	None
+Schönenwerd	None
 Schützenhaus-Albisgütli	None
 Schützenwiese-Oberrieden	None
 Schüür	None
@@ -410,6 +417,7 @@ Sonnenberg	None
 Sportplatz-Kellen	None
 Spreitenbach	None
 St.-Jakobshalle	None
+St.-Margrethen	None
 St.-Moritz	None
 St.-Stephan	None
 Stade-de-Genève	None
@@ -482,17 +490,21 @@ Villmergen	None
 Villnachern	None
 Volkshaus	None
 Volkshaus-Basel	None
+Wabern	None
 Wallisellen	None
 Watt	None
 Weinfelden	None
+Weissbad	None
 Wengen	None
 Wettingen	None
 Wetzikon	None
 Wil	None
 Willisau	None
 Winterthur	None
+Wollerau	None
 Worblaufen	None
 Wädenswil	None
+Würenlingen	None
 X-tra	None
 Z7	None
 Zentrum-Paul-Klee	None
