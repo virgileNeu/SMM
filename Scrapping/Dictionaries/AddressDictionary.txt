@@ -36,6 +36,7 @@ Arosa	None
 Ascona	None
 Avegno	None
 Avenches	None
+B?lach	None
 Bad-Bonn	None
 Baden	None
 Bar	None
@@ -56,6 +57,7 @@ Bernexpo	None
 Bierhübeli	None
 Biglen	None
 Binningen	None
+Birmensdorf	None
 Birmenstorf	None
 Birrhard	None
 Birsfelden	None
@@ -99,6 +101,8 @@ Cry-d'Er	None
 Cully	None
 Cully-Jazz-Festival	None
 D!-Club	None
+D?bendorf	None
+D?rnten	None
 Dampfzentrale	None
 Degen	None
 Degersheim	None
@@ -219,6 +223,7 @@ Jona	None
 Jugendkulturhaus-Flösserplatz	None
 KKL	None
 Kafi-für-Dich	None
+Kaltbrunn	None
 Kammgarn	None
 Kappel-am-Albis	None
 Kaserne	None
@@ -289,6 +294,7 @@ Lugano	None
 Luzern	None
 Lyss	None
 Längenbühl	None
+M?hlethurnen	None
 MAAG-Halle	None
 Maggia	None
 Mahogany-Hall	None
@@ -348,6 +354,7 @@ Orbital-Garden	None
 Ostermundigen	None
 Otelfingen	None
 Palace	None
+Palais-des-Congr?s	None
 Palais-des-Congrès	None
 Palexpo	None
 Paléo	None
@@ -369,6 +376,7 @@ Pully	None
 Quai-Anlagen	None
 Querfeld-Halle	None
 Rafz	None
+Rain	None
 Rapperswil	None
 Rathausplatz	None
 Rebstein	None
@@ -442,6 +450,7 @@ St.-Jakobshalle	None
 St.-Margrethen	None
 St.-Moritz	None
 St.-Stephan	None
+St?fa	None
 Stade-de-Genève	None
 Stade-de-Suisse	None
 Stadion-Letzigrund	None
@@ -512,6 +521,7 @@ Villmergen	None
 Villnachern	None
 Volkshaus	None
 Volkshaus-Basel	None
+W?denswil	None
 Wabern	None
 Wallisellen	None
 Watt	None
@@ -531,6 +541,7 @@ Wädenswil	None
 Würenlingen	None
 X-tra	None
 Z7	None
+Z?rich	None
 Zentrum-Paul-Klee	None
 Zermatt	None
 Zofingen	None
