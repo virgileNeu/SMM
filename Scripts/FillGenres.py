@@ -10,28 +10,7 @@ import logging
 import desaggregate
 import moreFunction
 
-
-def printToLog(str,filename="Log/ArtistAndEventGenre_merging.txt"):
-    f = open(filename)
-    lines = f.readlines()
-    
-    print(lines)
-
-def cleanArtistDF(artists):
-    i=0
-    for id,row in artists.iterrows():
-        i+=1
-        if(i>10):
-            break
-        artist_list = []
-        artist = row["artist"]
-        artist_list.append(artist)
-        
-        cleaned_artist = moreFunction.clean_artists(artist_list)
-        if(len(cleaned_artist)>0):
-            artists.loc[id,"artist"] = cleaned_artist[0]
-
-def mergeEventsWithGenres(events,artists,dictionnaryOfGenres,encoding = "utf-8"):
+def fillGenres(events,artists,dictionnaryOfGenres,encoding = "utf-8"):
     print("---BEGIN MERGE----")
     print("This script takes approximately one hour to perform")
     
@@ -61,8 +40,8 @@ def mergeEventsWithGenres(events,artists,dictionnaryOfGenres,encoding = "utf-8")
             #Saving actual state
             artists = artists[columnsArtists]
             events = events[columnsEvents]
-            artists.to_csv(artists_filename.replace(".csv","_merged.csv"),encoding=encoding)
-            events.to_csv(eventsdf_filename.replace(".csv","_merged.csv"),encoding=encoding)
+            #artists.to_csv(artists_filename.replace(".csv","_merged.csv"),encoding=encoding)
+            #events.to_csv(eventsdf_filename.replace(".csv","_merged.csv"),encoding=encoding)
         
         #getting genre
         genre = str(row["genre"])
@@ -125,52 +104,7 @@ def mergeEventsWithGenres(events,artists,dictionnaryOfGenres,encoding = "utf-8")
     
     artists = artists[columnsArtists]
     events = events[columnsEvents]
-    artists.to_csv(artists_filename.replace(".csv","_merged.csv"),encoding=encoding)
-    events.to_csv(eventsdf_filename.replace(".csv","_merged.csv"),encoding=encoding)
+    #artists.to_csv(artists_filename.replace(".csv","_merged.csv"),encoding=encoding)
+    #events.to_csv(eventsdf_filename.replace(".csv","_merged.csv"),encoding=encoding)
     
     return events,artists
-
-def extendingGenres(artists_df,dictionnaryOfGenres,debug=False):
-    genres = list(set(dictionnaryOfGenres.values()))
-    
-    #Extending
-    #Getting columns
-    columnsArtists = []
-    for c in artists_df.columns:
-        if("Unnamed" not in c):
-            columnsArtists.append(c)
-    columnsArtists = columnsArtists+genres+["total_genres"]
-
-    print("Extending columns to these genres :")
-    print(columnsArtists)
-    
-    i=0
-    for id,row in artists_df.iterrows():
-        i+=1
-        if(debug and i%3000==0):
-            print(i)
-        main_genres = row["main_genres"]
-        
-        
-        total = 0.0
-        
-        if(main_genres!=None and main_genres!="None"):
-            total = len(literal_eval(main_genres))
-            
-            #Check if artist has a genre (from other dataframes)
-            if(total==0):
-                if(raw["genre"]!=None and raw["genre"]!="None"):
-                    main_genres = list(literal_eval(raw["genre"]))
-                    artists_df.loc[id,"main_genres"] = main_genres
-                    total = 1.0
-                
-        artists_df.loc[id,"total_genres"]=total
-        
-        #percententage of this genre
-        for c in genres:
-            if(total==0):
-                 artists_df.loc[id,c] = 0.0
-            else:
-                artists_df.loc[id,c] = main_genres.count(c)/total
-
-    return artists_df
