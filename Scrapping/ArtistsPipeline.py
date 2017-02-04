@@ -165,9 +165,9 @@ def downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki=None,
 		genres_wiki = None
 		if(dictionaryWiki!=None and artist in dictionaryWiki):
 			genres_wiki = dictionaryWiki.get(artist)
-		#else:
-		#	genres_wiki = AE.getGenresFromWikipedia(artist,dictionaryOfGenres)
-		#	dictionaryWiki.update({artist : genres_wiki})	
+		else:
+			genres_wiki = AE.getGenresFromWikipedia(artist,dictionaryOfGenres)
+			dictionaryWiki.update({artist : genres_wiki})	
 			
 		#Get genres from Resident Advisor
 		genres_ra = None
@@ -406,38 +406,39 @@ def fillGenresEvents(events,artists,dictionnaryOfGenres):
 	return events,artists
 
 def artistsPipeline(Events,dictionaryOfGenres=None,dictionarySpotify=None,dictionaryRA=None,dictionaryWiki=None):
-    if(dictionarySpotify==None):
-        dictionarySpotify={}
-    if(dictionaryRA ==None):
-        dictionaryRA = {}
-    if(dictionaryWiki ==None):
-        dictionaryWiki = {}
+	if(dictionarySpotify==None):
+		dictionarySpotify={}
+	if(dictionaryRA ==None):
+		dictionaryRA = {}
+	if(dictionaryWiki ==None):
+		dictionaryWiki = {}
 	
-    Events = correctMalformedLineups(Events)
-    Artists,Events = getArtistsList(Events)
-    
-	#Artists = downloadGenresSpotify(Artists,dictionarySpotify) #Assign first styles
-    
-    #Creating the dictionary from artists
-    #dicGenresArtists = createDictionnaryFromArtists(Artists)
-    if(dictionaryOfGenres==None):
-        dictionaryOfGenres = dicGenresArtists
-    else:
-		#dictionaryOfGenres.update(dicGenresArtists)
-		print("Updated dictionary "+filename_genres)
-    
-    #Getting genres from Wiki And RA
-    Artists = downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki,dictionaryRA)
-    #Getting genres from Events
-    Artists = fillGenresFromEvents(Artists,Events)
-    
-    #Compute extended fields
-    Artists = computeMainGenres(Artists,dictionaryOfGenres)
-    Artists = computeGenresRatio(Artists,dictionaryOfGenres)
-    Events,Artists = fillGenresEvents(Events,Artists,dictionaryOfGenres)
-    print("Computation of genres finished.")
-    
-    return Artists,Events,dictionaryOfGenres,dictionarySpotify,dictionaryRA,dictionaryWiki
+	Events = correctMalformedLineups(Events)
+	Artists,Events = getArtistsList(Events)
+	
+	Artists = downloadGenresSpotify(Artists,dictionarySpotify) #Assign first styles
+	
+	#Creating the dictionary from artists
+	dicGenresArtists = createDictionnaryFromArtists(Artists)
+	if(dictionaryOfGenres==None):
+		dictionaryOfGenres = dicGenresArtists
+	else:
+		print("Updated dictionary "+ filename_genres)
+		dictionaryOfGenres.update(dicGenresArtists)
+		
+	
+	#Getting genres from Wiki And RA
+	Artists = downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki,dictionaryRA)
+	#Getting genres from Events
+	Artists = fillGenresFromEvents(Artists,Events)
+	
+	#Compute extended fields
+	Artists = computeMainGenres(Artists,dictionaryOfGenres)
+	Artists = computeGenresRatio(Artists,dictionaryOfGenres)
+	Events,Artists = fillGenresEvents(Events,Artists,dictionaryOfGenres)
+	print("Computation of genres finished.")
+	
+	return Artists,Events,dictionaryOfGenres,dictionarySpotify,dictionaryRA,dictionaryWiki
 	
 	
 	
