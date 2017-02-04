@@ -7,6 +7,7 @@ Aarau	None
 Aarberg	None
 Aarburg	None
 Aaredelta-Grien	None
+Aarwangen	None
 Adelboden	None
 Aeugstertal	None
 Affoltern-am-Albis	None
@@ -14,6 +15,7 @@ Albani-Music-Club	None
 Alberswil	None
 Allmend	None
 Allschwil	None
+Alt-St.-Johann	None
 Alte-Kaserne	None
 Alte-Taverne	None
 Altes-Spital	None
@@ -49,6 +51,7 @@ BeJazz-Club-(Vidmarhallen)	None
 Beckenried	None
 Bellinzona	None
 Bern	None
+Berneck	None
 Bernexpo	None
 Bierhübeli	None
 Biglen	None
@@ -60,14 +63,17 @@ Bischofszell	None
 Blatterwiese	None
 Bleu-Lezard	None
 Bogen-F	None
+Bolligen	None
 Bondo	None
 Bossard-Arena	None
+Bottmingen	None
 Brig	None
 Brugg	None
 Brunnadern	None
 Brunnen	None
 Brütten	None
 Bubendorf	None
+Bubikon	None
 Buchberg	None
 Buchs	None
 Buochs	None
@@ -109,6 +115,9 @@ Dynamo	None
 Dübendorf	None
 Düdingen	None
 Dürnten	None
+Edlibach	None
+Effretikon	None
+Eglisau	None
 Einsiedeln	None
 Eisenwerk	None
 Eishalle-Wetzikon	None
@@ -120,6 +129,7 @@ Englers-am-See	None
 Ennenda	None
 Ennetbaden	None
 Erlen	None
+Eschlikon	None
 Espace-Malley	None
 Esse-Musicbar	None
 Estrich	None
@@ -139,6 +149,7 @@ Flugplatzareal	None
 Flurlingen	None
 Frauenfeld	None
 Freienbach	None
+Freienstein	None
 Frenkendorf	None
 Fri-Son	None
 Friby-Hof	None
@@ -150,6 +161,8 @@ Gams	None
 Gare-de-Lion	None
 Gare-du-Nord	None
 Gaswerk	None
+Gebenstorf	None
+Gerlafingen	None
 Gessnerallee-Zürich	None
 Giswil	None
 Giumaglio	None
@@ -193,6 +206,7 @@ Horw	None
 Hotel-Krone	None
 Hotel-Wetterhorn	None
 Huttwil	None
+Häggenschwil	None
 Härterei-Club	None
 ISC-Club	None
 Il-Caffè	None
@@ -243,14 +257,17 @@ Kunstraum-Walcheturm	None
 Kuppel	None
 Kyburg	None
 Köniz	None
+Künten	None
 LUZ-Seebistro	None
 La-Catrina	None
 La-Punt-Chamues-ch	None
 La-Spirale	None
 La-Tour-de-Peilz	None
+Landquart	None
 Langenthal	None
 Langnau-am-Albis	None
 Laufen	None
+Laufenburg	None
 Lausanne	None
 Lausen	None
 Le-Bourg	None
@@ -267,6 +284,7 @@ Lichtensteig	None
 Liebefeld	None
 Liestal	None
 Longstreet-Bar	None
+Lufingen	None
 Lugano	None
 Luzern	None
 Lyss	None
@@ -335,6 +353,7 @@ Palexpo	None
 Paléo	None
 Papiersaal	None
 Parterre-One	None
+Patinoires-du-Littoral	None
 Pferderennbahn	None
 Piano-di-primo-al-primo-piano	None
 Piazza	None
@@ -375,6 +394,7 @@ Rubigen	None
 Römerareal	None
 Rümlang	None
 Rüschlikon	None
+Rüthi	None
 S-Event-Hall	None
 SAS	None
 Saanen	None
@@ -383,6 +403,7 @@ Salle-des-fêtes-de-Thônex	None
 Salzhaus	None
 Salzhaus-Brugg	None
 Sankt-Gallen	None
+Sargans	None
 Sarnen	None
 Schaffhausen	None
 Schauspielhaus-Schiffbau	None
@@ -410,6 +431,7 @@ Seuzach	None
 Shine-Bar	None
 Sils	None
 Silvaplana	None
+Sins	None
 Sissach	None
 Solothurn	None
 Sommercasino	None
@@ -498,8 +520,10 @@ Weissbad	None
 Wengen	None
 Wettingen	None
 Wetzikon	None
+Widen	None
 Wil	None
 Willisau	None
+Windisch	None
 Winterthur	None
 Wollerau	None
 Worblaufen	None
