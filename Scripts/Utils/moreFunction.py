@@ -11,7 +11,6 @@ def clean_artists(artists):
 			word_list = split_string(s)
 			word_list = remove_parenthesis(word_list)
 			word_list = remove_words(word_list)
-			
 			if(len(word_list) == 1):
 				result.append(word_list[0])
 			if(len(word_list) > 1):
@@ -71,7 +70,7 @@ def remove_hours(string):
 	return res
 
 def remove_words(word_list):
-	forbidden_words = ["live", "live:", "CH", "UK", "DE", "TBA", "Chf", "Euro", "support:", " ", "conductor:", "A.K.A"]
+	forbidden_words = ["live", "live:", "CH", "UK", "DE", "TBA", "Chf", "Euro", "support:", "conductor:", "A.K.A"]
 	res = []
 	for s in word_list:
 		r = remove_hours(s)

@@ -1,0 +1,5 @@
+DavidGuetta	None
+Drum'n'bass	['breakbeat', 'livetronica', 'synthpop', 'grime', 'dub', 'drumstep', 'techno', 'electronica', 'dubstep', 'soul', 'darkcore', 'chiptune', 'breakcore', 'jungle', 'reggae', 'doomcore', 'ambient', 'raggacore', 'funk', 'ragga', 'dancehall', 'hardcore', 'neurofunk', 'step', 'sambass', 'glitch', 'eurodance', 'hardstep', 'electronicore', 'funktronica', 'hardstyle', 'drill', 'techstep', 'darkstep', 'trap']
+JoachimGarraud	None
+Panteros666	None
+Rihanna	['pop', 'eurodance', 'dubstep', 'soul', 'son', 'dancehall', 'reggae', 'drill', 'country', 'rock', 'chanson', 'soca', 'rap']

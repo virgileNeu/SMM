@@ -1,0 +1,5 @@
+DavidGuetta	['techno', 'rock', 'electropop', 'coldwave', 'pop', 'rap', 'classic']
+Drum'n'bass	None
+JoachimGarraud	None
+Panteros666	['eurodance', 'jumpstyle', 'techno']
+Rihanna	None

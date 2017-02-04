@@ -1,0 +1,5 @@
+DavidGuetta	[]
+Drum'n'bass	[]
+JoachimGarraud	[]
+Panteros666	['destroy techno']
+Rihanna	['dance pop', 'pop', 'pop christmas', 'r&b', 'soul christmas', 'urban contemporary']

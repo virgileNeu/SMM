@@ -8,6 +8,7 @@ from ast import literal_eval
 import moreFunction
 
 def getArtistsList(df):
+    df= df.fillna("None")
     print("Getting artists list from "+str(df.shape[0])+" events...")
     ArtistsDataFrame = pd.DataFrame()
     i=0
@@ -16,23 +17,24 @@ def getArtistsList(df):
         artists = literal_eval(lineup)
         
         new_lineup=[]
-        for a in artists:
-            a = a.split("(")[0]#Remove parenthesis at end of artist (record label, live act..)
-            
-            #Use list for convenient format in clean_artists method
-            artist_list = []
-            artist_list.append(a)
-            cleaned_artist = moreFunction.clean_artists(artist_list)
-            if(len(cleaned_artist)>0):
-                a = cleaned_artist[0]
-                
-            #Append artist in lineup
-            new_lineup.append(a.strip())
-            
-            #Add artist to artists dataframe
-            a = pd.Series(a.strip())
-            ArtistsDataFrame = ArtistsDataFrame.append(a,ignore_index=True)
-        
+        if(artists!=None):
+            for a in artists:
+                a = a.split("(")[0]#Remove parenthesis at end of artist (record label, live act..)
+
+                #Use list for convenient format in clean_artists method
+                artist_list = []
+                artist_list.append(a)
+                cleaned_artist = moreFunction.clean_artists(artist_list)
+                if(len(cleaned_artist)>0):
+                    a = cleaned_artist[0]
+
+                #Append artist in lineup
+                new_lineup.append(a.strip())
+
+                #Add artist to artists dataframe
+                a = pd.Series(a.strip())
+                ArtistsDataFrame = ArtistsDataFrame.append(a,ignore_index=True)
+
         
         #Replace artist in dataframe
         df.loc[index,"artists"] = str(new_lineup)
@@ -43,8 +45,7 @@ def getArtistsList(df):
             print(i)
     
     ArtistsDataFrame.columns=["artist"]
-    #ArtistsDataFrame.to_csv("ClubDataTest/ArtistsList.csv",encoding="utf-8")
-    #ArtistsDataFrame.head(10)
+
     ArtistsDataFrame.drop_duplicates()
     return ArtistsDataFrame,df
 
@@ -56,6 +57,7 @@ def downloadGenresSpotify(artistsDF,dictionarySpotify=None,begin=0,end=100000):
     Artists["genres_spotify"]=None
     Artists["genres_ra"]=None
     Artists["genres_wiki"]=None
+    Artists["genres_events"]=None
     Artists["main_genres"]=None
     Artists["top3_genres"]=None
     Artists["genre"]=None    
@@ -96,7 +98,7 @@ def createDictionnaryFromArtists(artists):
         
     #print(genres_list)
     dic = AE.updateDictionnary(genres_list,dic)
-    return dic                
+    return dic                   
 
 def downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki=None, dictionaryRA=None, begin=0,end=100000):
 
@@ -192,14 +194,11 @@ def computeGenresRatio(artists_df,dictionnaryOfGenres,debug=False):
 
 def computeMainGenres(artists,dictionnary):
     
-    
     artists["all_genres"] = None
-    #dictionnaryOfGenres = LU.loadDictionary("FullData/AllGenresDic",enc="utf-8")
+    
     i=0
     for id,row in artists.iterrows():
         i+=1
-        #if(i>20):
-         #   break
         if(i%1000==0):
             print(i)
 
@@ -207,6 +206,9 @@ def computeMainGenres(artists,dictionnary):
         genres_ra = literal_eval(row.genres_ra)
         genres_s = literal_eval(row.genres_spotify)
         genres_w = literal_eval(row.genres_wiki)
+        #events
+        genres_e = str(row.genres_events)
+        genres_e = literal_eval(genres_e)
        
         if(genres_ra==None):
             genres_ra =[]
@@ -214,10 +216,14 @@ def computeMainGenres(artists,dictionnary):
             genres_s = []
         if(genres_w == None):
             genres_w = []
+        if(genres_e == None):
+            genres_e = []
+            
+        #Set genres_events to None if there already exist some genres
+        if(len(genres_ra)>0 or len(genres_s)>0 or len(genres_w)>0):
+            genres_e = []
         
-        genres = genres_ra+genres_s+genres_w
-        
-        genres = genres_s+genres_ra+genres_w
+        genres = genres_s+genres_ra+genres_w+genres_e
         
         main_genres = AE.mainGenres(genres,dictionnary)
         top3 = AE.getMaxGenre(main_genres,3)
@@ -233,6 +239,8 @@ def computeMainGenres(artists,dictionnary):
             genres_ra = None
         if(len(genres)<1):
             genres = None
+        if(len(genres_e)<1):
+            genres_e = None
             
         artists.loc[id,"genres_ra"] = str(genres_ra)
         artists.loc[id,"main_genres"] = str(main_genres)
@@ -240,11 +248,106 @@ def computeMainGenres(artists,dictionnary):
         artists.loc[id,"all_genres"] = str(genres)
         artists.loc[id,"genre"] = main_genre
 
-
-    #df3.to_csv("FullData/ArtistDF_withGenres.csv",encoding="utf-8")
     return artists
+	
+def fillGenresFromEvents(artists,events):
+    print("Filling missing genres artists <- events")
+  
+    i =0
+    for id, row in events.iterrows():
+        i+=1
+        if(i%1000==0):
+            print(i)
+        
+        #getting genre
+        str_genres = str(row["genre"])
+        genres = []
+        
+        #case list
+        if("[" in str_genres): 
+            genres = literal_eval(str_genres)
+        #case alone
+        else:
+            if(str_genres!="None" and str_genres!="nan"):
+                genres.append(str_genres)
+        
+        #reformating
+        genres_refo = []
+        if(len(genres)>0):
+            for g in genres:
+                genres_refo.append(g.lower())
+            genres = genres_refo
+        else:
+            genres=None
+        #getting artist
+        artists_lineup= str(row["artists"])
+        
+        lineup=[]
+        if(artists_lineup!="nan" and artists_lineup!="None" and artists_lineup!=None):
+            lineup = (literal_eval(artists_lineup))
+        
+        for a in lineup:
+            artist = artists[artists.artist==a]
+            genres_events = artist.genres_events.values
+            if(len(genres_events)>0):
+                genres_events = genres_events[0]
+            else:
+                genres_events = None
+                
+            genres_list = []
+            if(genres_events!=None and "None" not in genres_events):
+                genres_list+=literal_eval(str(genres_events))
+            
+            if(genres!=None):
+                genres_list+=genres
+            if(len(genres_list)<1):
+                genres_list=None
+                
+            artists.loc[artists.artist==a,"genres_events"] = str(genres_list)
+            
+    return artists
+	
+def fillGenresEvents(events,artists,dictionnaryOfGenres):
+    print("Filling missing genres events <- artists")
+  
+    i =0
+    for id, row in events.iterrows():
+        i+=1
+        if(i%1000==0):
+            print(i)
+        
+        lineup = str(row.artists)
+        if(lineup!="nan" and lineup!="None" and lineup!=None):
+            lineup = literal_eval(lineup)
+        else:
+            lineup = []
+            
+        genres_in_lineup = []
+        
+        #Adding each genre of artist to list genres_in_lineup
+        for a in lineup:
+            #Getting value
+            artist = artists[artists.artist == a]
+            genre_artist = None
+            if(len(artist.genre.values)>0):
+                genre_artist = artist.genre.values[0]
+            
+            #Add to list of genres   
+            if(genre_artist!="nan" and genre_artist!="None" and genre_artist!=None):
+                genres_in_lineup.append(genre_artist)
+            
+            
+        #getting most representative genre among all artists
+        maxGenre = AE.getMaxGenre(genres_in_lineup)
+        #If an artist has a genre, then we set the genre of event to this artist genre
+        if(maxGenre!=None):
+            events.loc[id,"genre"] = maxGenre[0].lower()
+        else:
+            events.loc[id,"genre"] = None
+    
+    return events,artists
 
-def artistsPipeline(Dataframe, dictionaryOfGenres=None,dictionarySpotify=None,dictionaryRA=None,dictionaryWiki=None):
+def artistsPipeline(Events,dictionaryOfGenres=None,dictionarySpotify=None,dictionaryRA=None,dictionaryWiki=None):
     if(dictionarySpotify==None):
         dictionarySpotify={}
     if(dictionaryRA ==None):
@@ -252,7 +355,7 @@ def artistsPipeline(Dataframe, dictionaryOfGenres=None,dictionarySpotify=None,di
     if(dictionaryWiki ==None):
         dictionaryWiki = {}
     
-    Artists,Dataframe = getArtistsList(Dataframe)
+    Artists,Events = getArtistsList(Events)
     Artists = downloadGenresSpotify(Artists,dictionarySpotify) #Assign first styles
     
     #Creating the dictionary from artists
@@ -264,13 +367,18 @@ def artistsPipeline(Dataframe, dictionaryOfGenres=None,dictionarySpotify=None,di
     
     #Getting genres from Wiki And RA
     Artists = downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki,dictionaryRA)
+    #Getting genres from Events
+    Artists = fillGenresFromEvents(Artists,Events)
     
     #Compute extended fields
     Artists = computeMainGenres(Artists,dictionaryOfGenres)
     Artists = computeGenresRatio(Artists,dictionaryOfGenres)
-    print("Pipeline of artists completed.")
+    Events,Artists = fillGenresEvents(Events,Artists,dictionaryOfGenres)
+    print("Computation of genres finished.")
     
-    return Artists,Dataframe,dictionaryOfGenres,dictionarySpotify,dictionaryRA,dictionaryWiki
+    return Artists,Events,dictionaryOfGenres,dictionarySpotify,dictionaryRA,dictionaryWiki
+	
+	
 	
 if __name__ == '__main__':
 
