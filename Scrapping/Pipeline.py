@@ -153,7 +153,7 @@ def completeGeographicData(dataframe,RegionDic=None,LocalityDic=None,Coordinates
 	for id,row in dataframe.iterrows():
 
 		i+=1
-		if(i%100==0):
+		if(i%1000==0):
 			print(str(i)+"/"+size)
 			saveDictionary(RegionDic,filename_region_dic,PATH_DIC,encoding)
 			saveDictionary(LocalityDic,filename_locality_dic,PATH_DIC,encoding)

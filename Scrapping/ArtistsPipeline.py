@@ -8,7 +8,7 @@ from ast import literal_eval
 import moreFunction
 
 
-PATH_DF = "sampleDF.csv"
+PATH_DF = "FullDF.csv"
 PATH_ARTISTS = "Artists.csv"	
 PATH_DIC = "Dictionaries/"	
 filename_spotify_dic = "SpotifyDictionary"
@@ -16,6 +16,27 @@ filename_ra_dic = "ResidentAdvisorDictionary"
 filename_wiki_dic = "WikipediaDictionary"
 filename_genres = "DictionaryOfGenres"
 encoding = "utf-8"
+
+def correctMalformedLineups(DF):
+	i = 0
+	for id, row in DF.iterrows():
+		lineup = []
+		try:
+			lineup = literal_eval(row["artists"])
+		except:
+			#print("Malformed artists :"+str(row["artists"]))
+			artists = str(row["artists"])
+			artists = artists.replace("[","").replace("]","")
+			artists_list = artists.split(",")
+			i+=1
+			new_lineup = []
+			for a in artists_list:
+				a = a.title()
+				new_lineup.append(a.strip())
+			DF.loc[id,"artists"] = str(new_lineup)
+
+	print("Corrected : "+str(i)+" lineups")
+	return DF
 
 def getArtistsList(df):
 	df= df.fillna("None")
@@ -35,7 +56,7 @@ def getArtistsList(df):
 		new_lineup=[]
 		if(artists!=None):
 			for a in artists:
-				a = a.split("(")[0]#Remove parenthesis at end of artist (record label, live act..)
+				a = str(a).split("(")[0]#Remove parenthesis at end of artist (record label, live act..)
 
 				#Use list for convenient format in clean_artists method
 				artist_list = []
@@ -146,15 +167,14 @@ def downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki=None,
 			genres_wiki = dictionaryWiki.get(artist)
 		else:
 			genres_wiki = AE.getGenresFromWikipedia(artist,dictionaryOfGenres)
-			dictionaryWiki.update({artist : genres_wiki})
-			
+			dictionaryWiki.update({artist : genres_wiki})	
 			
 		#Get genres from Resident Advisor
 		genres_ra = None
 		if(dictionaryRA!= None and artist in dictionaryRA):
 			genres_ra = dictionaryRA.get(artist)
 		else:
-			#genres_ra = AE.getGenresFromRA(artist,dictionaryOfGenres)
+			genres_ra = AE.getGenresFromRA(artist,dictionaryOfGenres)
 			dictionaryRA.update({artist : genres_ra})
 		
 		if(genres_wiki== None or len(genres_wiki)<1):
@@ -386,57 +406,49 @@ def fillGenresEvents(events,artists,dictionnaryOfGenres):
 	return events,artists
 
 def artistsPipeline(Events,dictionaryOfGenres=None,dictionarySpotify=None,dictionaryRA=None,dictionaryWiki=None):
-    if(dictionarySpotify==None):
-        dictionarySpotify={}
-    if(dictionaryRA ==None):
-        dictionaryRA = {}
-    if(dictionaryWiki ==None):
-        dictionaryWiki = {}
-    
-    Artists,Events = getArtistsList(Events)
-    Artists = downloadGenresSpotify(Artists,dictionarySpotify) #Assign first styles
-    
-    #Creating the dictionary from artists
-    dicGenresArtists = createDictionnaryFromArtists(Artists)
-    if(dictionaryOfGenres==None):
-        dictionaryOfGenres = dicGenresArtists
-    else:
-        dictionaryOfGenres.update(dicGenresArtists)
-    
-    #Getting genres from Wiki And RA
-    Artists = downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki,dictionaryRA)
-    #Getting genres from Events
-    Artists = fillGenresFromEvents(Artists,Events)
-    
-    #Compute extended fields
-    Artists = computeMainGenres(Artists,dictionaryOfGenres)
-    Artists = computeGenresRatio(Artists,dictionaryOfGenres)
-    Events,Artists = fillGenresEvents(Events,Artists,dictionaryOfGenres)
-    print("Computation of genres finished.")
-    
-    return Artists,Events,dictionaryOfGenres,dictionarySpotify,dictionaryRA,dictionaryWiki
+	if(dictionarySpotify==None):
+		dictionarySpotify={}
+	if(dictionaryRA ==None):
+		dictionaryRA = {}
+	if(dictionaryWiki ==None):
+		dictionaryWiki = {}
+	
+	Events = correctMalformedLineups(Events)
+	Artists,Events = getArtistsList(Events)
+	
+	Artists = downloadGenresSpotify(Artists,dictionarySpotify) #Assign first styles
+	
+	#Creating the dictionary from artists
+	dicGenresArtists = createDictionnaryFromArtists(Artists)
+	if(dictionaryOfGenres==None):
+		dictionaryOfGenres = dicGenresArtists
+	else:
+		print("Updated dictionary "+ filename_genres)
+		dictionaryOfGenres.update(dicGenresArtists)
+		
+	
+	#Getting genres from Wiki And RA
+	Artists = downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki,dictionaryRA)
+	#Getting genres from Events
+	Artists = fillGenresFromEvents(Artists,Events)
+	
+	#Compute extended fields
+	Artists = computeMainGenres(Artists,dictionaryOfGenres)
+	Artists = computeGenresRatio(Artists,dictionaryOfGenres)
+	Events,Artists = fillGenresEvents(Events,Artists,dictionaryOfGenres)
+	print("Computation of genres finished.")
+	
+	return Artists,Events,dictionaryOfGenres,dictionarySpotify,dictionaryRA,dictionaryWiki
 	
 	
 	
 if __name__ == '__main__':
-
-	PATH_DF = "sampleDF.csv"
-	PATH_ARTISTS = "Artists.csv"
-	
-	PATH_DIC = "Dictionaries/"
-	
-	filename_spotify_dic = "SpotifyDictionary"
-	filename_ra_dic = "ResidentAdvisorDictionary"
-	filename_wiki_dic = "WikipediaDictionary"
-	filename_genres = "DictionaryOfGenres"
 	
 	DataFrame = None
 	SpotifyDic = None
 	RADic = None
 	WikiDic = None
 	GenresDic = None
-	
-	encoding="utf-8"
 	
 	#Getting the dataframe
 	try:
