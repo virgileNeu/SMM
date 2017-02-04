@@ -105,56 +105,53 @@ def getFromAPI(clubName,baseURL):
 
 
 def completeGeographicData(dataframe,AddressDic=None,LocalityDic=None,CoordinatesDic=None):
-    dataframe['canton'] = None
-    dataframe = dataframe[["place" ,"src","address","location","canton","event" ,
-                           "date","artists","genre","coordinates"]]
+	dataframe['canton'] = None
+	dataframe = dataframe[["place" ,"src","address","location","canton","event" ,
+							"date","artists","genre","coordinates"]]
 
-    if(AddressDic==None or LocalityDic==None or CoordinatesDic==None):
-        AddressDic = {}
-        LocalityDic = {}
-        CoordinatesDic = {}
+	if(AddressDic==None or LocalityDic==None or CoordinatesDic==None):
+		AddressDic = {}
+		LocalityDic = {}
+		CoordinatesDic = {}
 
-    i = 0
-    #print(dataframe.shape)
+	i = 0
+	size = str(dataframe.shape[0])
+	print("Retrieving geographic data for "+size+" events..")
+	
+	for id,row in dataframe.iterrows():
 
-    for id,row in dataframe.iterrows():
+		i+=1
+		if(i%100==0):
+			print(str(i)+"/"+size)
 
-        i+=1
-        if(i%100==0):
-            print(i)
+		place = row.place
+		address = row.address
+		location = row.location
+		region = None
+		locality = None
+		coordinates = None	
+		
+		#Replace invalid location
+		if(":" in str(location) or "{" in str(location) or "nan" in str(location).lower()):
+			location = None
 
-        place = row.place
-        address = row.address
-        location = row.location
+		noneLocation = (location == None or str(location)=="nan")
 
-        region = None
-        locality = None
-        coordinates = None
+		if(noneLocation and address!=None):
+			region,locality,coordinates = getCanton(address,AddressDic,LocalityDic,CoordinatesDic)
 
-        #Replace invalid location
-        if(":" in str(location) or "{" in str(location) or "nan" in str(location).lower()):
-            location = None
+		elif(noneLocation == None and place!=None):
+			region,locality,coordinates = getCanton(place,AddressDic,LocalityDic,CoordinatesDic)	
+		elif(location != None):
+			region,locality,coordinates = getCanton(location,AddressDic,LocalityDic,CoordinatesDic)	
 
-        noneLocation = (location == None or str(location)=="nan")
+		if coordinates != None:
+			geocoordinates = (coordinates['lat'], coordinates['lng'])
+		else:
+			geocoordinates = None
 
-        if(noneLocation and address!=None):
-            region,locality,coordinates = getCanton(address,AddressDic,LocalityDic,CoordinatesDic)
+		dataframe.loc[id,"location"] = locality
+		dataframe.loc[id,"canton"] = region
+		dataframe.loc[id,"coordinates"] = geocoordinates
 
-        elif(noneLocation == None and place!=None):
-            region,locality,coordinates = getCanton(place,AddressDic,LocalityDic,CoordinatesDic)
-
-        elif(location != None):
-            region,locality,coordinates = getCanton(location,AddressDic,LocalityDic,CoordinatesDic)
-
-
-        if coordinates != None:
-            geocoordinates = (coordinates['lat'], coordinates['lng'])
-        else:
-            geocoordinates = None
-
-        dataframe.loc[id,"location"] = locality
-        dataframe.loc[id,"canton"] = region
-        dataframe.loc[id,"coordinates"] = geocoordinates
-
-
-    return dataframe,AddressDic,LocalityDic,CoordinatesDic
+	return dataframe,AddressDic,LocalityDic,CoordinatesDic
