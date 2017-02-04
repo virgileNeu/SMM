@@ -19,7 +19,7 @@ encoding="utf-8"
 def getCanton(address_info,dictionnaryRegion=None,dictionnaryLocality=None,dictionnaryCoordinates=None,SwissSafety=True):
     '''Returns the location of the club with a tuple (lat,lng)'''
 
-    address_info = address_info.replace(";",",")
+    address_info = str(address_info).replace(";",",")
     region=None
     locality = None
     lat = None
@@ -185,5 +185,9 @@ def completeGeographicData(dataframe,AddressDic=None,LocalityDic=None,Coordinate
 		dataframe.loc[id,"location"] = locality
 		dataframe.loc[id,"canton"] = region
 		dataframe.loc[id,"coordinates"] = geocoordinates
+		
+	LU.saveDictionary(AddressDic,filename_address_dic,PATH_DIC,encoding)
+	LU.saveDictionary(LocalityDic,filename_locality_dic,PATH_DIC,encoding)
+	LU.saveDictionary(CoordinatesDic,filename_coordinates_dic,PATH_DIC,encoding)			
 
 	return dataframe,AddressDic,LocalityDic,CoordinatesDic
