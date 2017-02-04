@@ -8,7 +8,13 @@ Contains all the data in a single csv file before the merge with the other data.
 Contains all function used in run.py
 
 ## run.py:
-Script that scrap and aggregate the data. Needs to be given the start date in the YYYY-MM-DD form, the file name of the aggregated data file. Can also receive optionally a end date to scrap between two dates, and a max web page to limit the number of page explored per day.
+Script that scrap and aggregate the data. Usage described with -h option :
+
+* a <filename>: aggregate all the extracted data to the file <filename>
+* -e <date>: extract data on the website for the given date date.
+* -s <start_date> <end_date>: scrap data on the website between start_date and end_date.
+* -m <max_pages> : define the maximum amount of subpages scrap per date
+* -h: display this help.
 
 # Folders
 ### EventsChData:
