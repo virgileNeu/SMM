@@ -1,2 +1,2 @@
-	place	address	event	date	artists
-0	 Acapella Bar	Place de la Gare, 1957 Ardon, Valais, Suisse	The Future Color Of Sound	2017-02-02	['Dj Never Die', 'Vitronic ', 'Jack Demon']
+	ClubID	ClubName	Address	EventID	EventName	Date	LineUp
+0	102059	 Acapella Bar	Place de la Gare, 1957 Ardon, Valais, Suisse	693409	The Future Color Of Sound	 17 April 2015 	['Dj Never Die', 'Jack Demon', 'Vitronic ']

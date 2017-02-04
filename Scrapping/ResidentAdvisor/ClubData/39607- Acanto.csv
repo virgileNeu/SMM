@@ -1,8 +1,8 @@
-	place	address	event	date	artists
-0	 Acanto	Pfingstweidstrasse 6, 8005 Zürich	Sunday Breakfast	2017-02-02	[' Mannheim)', 'Robert Dietz (Cadenza', 'RINO', 'Sandro Kuhne', ' Germany)', ' Bogota)', 'Reto Ardour', 'David Delgado (Highgrade', 'Alex Flatner (Circle Music']
-1	 Acanto	Pfingstweidstrasse 6, 8005 Zürich	Sunday Breakfast	2017-02-02	[' Italy)', 'Pasci', 'Sandro Kuhne', ' Germany)', 'Ajele', 'Re-UP (Upon You', 'Marco Trinkler', 'Vera (Perlon']
-2	 Acanto	Pfingstweidstrasse 6, 8005 Zürich	Sunday Breakfast	2017-02-02	['Sandro Kühne', 'Bardo', 'Don Ramon', 'Neverdogs (MUSIC ON', 'Dejan', 'Flavio', ' England)']
-3	 Acanto	Pfingstweidstrasse 6, 8005 Zürich	Show Your Style vs Deep Inside Night	2017-02-02	['', 'Tommy J Gren', 'Vocalist: Lele Margot', 'Chicco Green', 'Josè Parra']
-4	 Acanto	Pfingstweidstrasse 6, 8005 Zürich	We Love Tech House	2017-02-02	[' Maalva Cruz', 'Andy Dee', ' Sergio Mesa', ' Tony Nocera', ' Romeo']
-5	 Acanto	Pfingstweidstrasse 6, 8005 Zürich	We Love Tech House	2017-02-02	['T0DO', 'Angy Dee']
-6	 Acanto	Pfingstweidstrasse 6, 8005 Zürich	We <3 Tech-House	2017-02-02	[' Ich & Du', 'Angy Dee']
+	ClubID	ClubName	Address	EventID	EventName	Date	LineUp
+0	39607	 Acanto	Pfingstweidstrasse 6, 8005 Zürich	471251	Sunday Breakfast	 28 April 2013 	['Sandro Kuhne', ' Mannheim)', ' Germany)', 'Reto Ardour', 'RINO', 'Robert Dietz (Cadenza', 'Alex Flatner (Circle Music', ' Bogota)', 'David Delgado (Highgrade']
+1	39607	 Acanto	Pfingstweidstrasse 6, 8005 Zürich	461021	Sunday Breakfast	 31 March 2013 	['Ajele', 'Sandro Kuhne', 'Pasci', 'Re-UP (Upon You', ' Germany)', 'Marco Trinkler', 'Vera (Perlon', ' Italy)']
+2	39607	 Acanto	Pfingstweidstrasse 6, 8005 Zürich	453520	Sunday Breakfast	 24 February 2013 	['Sandro Kühne', 'Neverdogs (MUSIC ON', 'Flavio', 'Bardo', 'Dejan', 'Don Ramon', ' England)']
+3	39607	 Acanto	Pfingstweidstrasse 6, 8005 Zürich	293149	Show Your Style vs Deep Inside Night	 22 October 2011 	['Josè Parra', '', 'Vocalist: Lele Margot', 'Chicco Green', 'Tommy J Gren']
+4	39607	 Acanto	Pfingstweidstrasse 6, 8005 Zürich	237937	We Love Tech House	 11 March 2011 	[' Romeo', ' Maalva Cruz', 'Andy Dee', ' Sergio Mesa', ' Tony Nocera']
+5	39607	 Acanto	Pfingstweidstrasse 6, 8005 Zürich	234146	We Love Tech House	 24 February 2011 	['Angy Dee', 'T0DO']
+6	39607	 Acanto	Pfingstweidstrasse 6, 8005 Zürich	216190	We <3 Tech-House	 30 December 2010 	[' Ich & Du', 'Angy Dee']

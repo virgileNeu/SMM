@@ -170,7 +170,7 @@ def mergeClubData(encoding = "utf-8"):
 	ClubDataFrame = pd.read_csv(files[0],sep="\t",encoding=encoding)
 
 	for file in files:
-		df= pd.read_csv(file,sep ="\t",encoding=encoding)
+		df= pd.read_csv(file,sep ="\t",encoding=encoding,index_col=0)
 		ClubDataFrame = ClubDataFrame.append(df,ignore_index = True)
 	
 	print("Done.")

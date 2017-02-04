@@ -1,2 +1,2 @@
-	place	address	event	date	artists
-0	 4. Akt	Heinrichstrasse 262, 8005 Zürich	Electronic Garden	2017-02-02	['Beda']
+	ClubID	ClubName	Address	EventID	EventName	Date	LineUp
+0	82433	 4. Akt	Heinrichstrasse 262, 8005 Zürich	512367	Electronic Garden	 12 September 2013 	['Beda']

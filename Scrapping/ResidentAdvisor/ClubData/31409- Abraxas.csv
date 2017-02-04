@@ -1,4 +1,4 @@
-	place	address	event	date	artists
-0	 Abraxas	Chemin du Stand 5; Pully, 1009	The Cruzaders	2017-02-02	['The Cruzaders']
-1	 Abraxas	Chemin du Stand 5; Pully, 1009	The Cruzaders - Release Party The Cruzaders	2017-02-02	['The Cruzaders']
-2	 Abraxas	Chemin du Stand 5; Pully, 1009	The Cruzaders	2017-02-02	['The Cruzaders']
+	ClubID	ClubName	Address	EventID	EventName	Date	LineUp
+0	31409	 Abraxas	Chemin du Stand 5; Pully, 1009	292693	The Cruzaders	 12 November 2011 	['The Cruzaders']
+1	31409	 Abraxas	Chemin du Stand 5; Pully, 1009	224466	The Cruzaders - Release Party The Cruzaders	 04 February 2011 	['The Cruzaders']
+2	31409	 Abraxas	Chemin du Stand 5; Pully, 1009	172824	The Cruzaders	 03 September 2010 	['The Cruzaders']

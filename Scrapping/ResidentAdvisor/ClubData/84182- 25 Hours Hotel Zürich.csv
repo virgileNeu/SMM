@@ -1,3 +1,3 @@
-	place	address	event	date	artists
-0	 25 Hours Hotel Zürich	Pfingstweidstrasse 102, 8005 Zürich	De Mes Amis Welcomes Guti	2017-02-02	[' Nicolaj (Miteinander Musik)', ' raa', 'Guti (Desolat)']
-1	 25 Hours Hotel Zürich	Pfingstweidstrasse 102, 8005 Zürich	Lange Nacht der Hotelbars + der Sonntag Dazu.	2017-02-02	['Urbanbassic', 'Benja & Reto Ardour', 'Spruzzi', 'Marvel Lane', 'Criss', 'Timoteo', 'Pazkal', 'Juen & Bach', 'Renato Broccini', 'Miky Merz']
+	ClubID	ClubName	Address	EventID	EventName	Date	LineUp
+0	84182	 25 Hours Hotel Zürich	Pfingstweidstrasse 102, 8005 Zürich	729169	De Mes Amis Welcomes Guti	 26 June 2015 	[' raa', 'Guti (Desolat)', ' Nicolaj (Miteinander Musik)']
+1	84182	 25 Hours Hotel Zürich	Pfingstweidstrasse 102, 8005 Zürich	527088	Lange Nacht der Hotelbars + der Sonntag Dazu.	 03 November 2013 	['Urbanbassic', 'Renato Broccini', 'Miky Merz', 'Criss', 'Marvel Lane', 'Pazkal', 'Juen & Bach', 'Spruzzi', 'Timoteo', 'Benja & Reto Ardour']

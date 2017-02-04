@@ -1,1 +1,1 @@
-python ResidentAdvisor_scrapping.py
+python ResidentAdvisor_scrapping.py "ClubData\RA.csv" 0 1

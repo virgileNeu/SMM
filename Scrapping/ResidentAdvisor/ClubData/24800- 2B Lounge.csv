@@ -1,4 +1,4 @@
-	place	address	event	date	artists
-0	 2B Lounge	Nüschelerstrasse 31, 8001 Zürich	Tat	2017-02-02	['tat1', 'tat2']
-1	 2B Lounge	Nüschelerstrasse 31, 8001 Zürich	Tanzfrühstück Die 2.	2017-02-02	['Florian Schmid', '', ' Micky Monzza', ' Die Dummen Nutten', ' Rino', ' Wandler', ' Andri (live)', ' Beda', ' Findling']
-2	 2B Lounge	Nüschelerstrasse 31, 8001 Zürich	Tanzfrühstück	2017-02-02	['', 'stil vor talent', 'Findling', 'andri live', 'great stuff münchen', 'sco', 'BVoice', 'cityfox zürich', 'mickey monza', 'gun club münchen']
+	ClubID	ClubName	Address	EventID	EventName	Date	LineUp
+0	24800	 2B Lounge	Nüschelerstrasse 31, 8001 Zürich	233128	Tat	 14 May 2010 	['tat1', 'tat2']
+1	24800	 2B Lounge	Nüschelerstrasse 31, 8001 Zürich	141721	Tanzfrühstück Die 2.	 31 January 2010 	['', ' Micky Monzza', ' Andri (live)', ' Die Dummen Nutten', ' Beda', ' Rino', ' Findling', ' Wandler', 'Florian Schmid']
+2	24800	 2B Lounge	Nüschelerstrasse 31, 8001 Zürich	136458	Tanzfrühstück	 10 January 2010 	['', 'great stuff münchen', 'mickey monza', 'andri live', 'Findling', 'stil vor talent', 'sco', 'cityfox zürich', 'gun club münchen', 'BVoice']

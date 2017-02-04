@@ -1,6 +1,837 @@
-,artist,genres_spotify,genres_ra,genres_wiki,genres_events,main_genres,top3_genres,genre,all_genres,total_genres,pop,unknown,blues,comedy,orchestral,hip hop,easy listening,electronic,avant-garde,caribbean and caribbean-influenced,latin,african,asian,country,rock,folk,r&b and soul,jazz
-0,JoachimGarraud,None,None,None,['classique'],None,None,,['classique'],0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-1,DavidGuetta,None,"['techno', 'rock', 'electropop', 'coldwave', 'pop', 'rap', 'classic']",None,"['classique', 'pop']","['electronic', 'rock', 'pop', 'electronic', 'pop', 'hip hop', 'orchestral']","['electronic', 'pop', 'orchestral']",electronic,"['techno', 'rock', 'electropop', 'coldwave', 'pop', 'rap', 'classic']",7.0,0.2857142857142857,0.0,0.0,0.0,0.14285714285714285,0.14285714285714285,0.0,0.2857142857142857,0.0,0.0,0.0,0.0,0.0,0.0,0.14285714285714285,0.0,0.0,0.0
-2,Panteros666,['destroy techno'],"['eurodance', 'jumpstyle', 'techno']",None,['classique'],"['electronic', 'electronic', 'electronic', 'electronic']",['electronic'],electronic,"['destroy techno', 'eurodance', 'jumpstyle', 'techno']",4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-3,Rihanna,"['dance pop', 'pop', 'pop christmas', 'r&b', 'soul christmas', 'urban contemporary']",None,"['pop', 'eurodance', 'dubstep', 'soul', 'son', 'dancehall', 'reggae', 'drill', 'country', 'rock', 'chanson', 'soca', 'rap']","['classique', 'pop']","['pop', 'pop', 'pop', 'r&b and soul', 'r&b and soul', 'r&b and soul', 'pop', 'electronic', 'electronic', 'r&b and soul', 'latin', 'caribbean and caribbean-influenced', 'caribbean and caribbean-influenced', 'hip hop', 'country', 'rock', 'pop', 'caribbean and caribbean-influenced', 'hip hop']","['pop', 'r&b and soul', 'caribbean and caribbean-influenced']",pop,"['dance pop', 'pop', 'pop christmas', 'r&b', 'soul christmas', 'urban contemporary', 'pop', 'eurodance', 'dubstep', 'soul', 'son', 'dancehall', 'reggae', 'drill', 'country', 'rock', 'chanson', 'soca', 'rap']",19.0,0.2631578947368421,0.0,0.0,0.0,0.0,0.10526315789473684,0.0,0.10526315789473684,0.0,0.15789473684210525,0.05263157894736842,0.0,0.0,0.05263157894736842,0.05263157894736842,0.0,0.21052631578947367,0.0
-4,Drum'n'bass,None,None,"['breakbeat', 'livetronica', 'synthpop', 'grime', 'dub', 'drumstep', 'techno', 'electronica', 'dubstep', 'soul', 'darkcore', 'chiptune', 'breakcore', 'jungle', 'reggae', 'doomcore', 'ambient', 'raggacore', 'funk', 'ragga', 'dancehall', 'hardcore', 'neurofunk', 'step', 'sambass', 'glitch', 'eurodance', 'hardstep', 'electronicore', 'funktronica', 'hardstyle', 'drill', 'techstep', 'darkstep', 'trap']",['pop'],"['electronic', 'jazz', 'pop', 'hip hop', 'electronic', 'electronic', 'electronic', 'electronic', 'electronic', 'r&b and soul', 'electronic', 'electronic', 'electronic', 'electronic', 'caribbean and caribbean-influenced', 'electronic', 'electronic', 'electronic', 'r&b and soul', 'hip hop', 'caribbean and caribbean-influenced', 'electronic', 'electronic', 'electronic', 'electronic', 'electronic', 'electronic', 'electronic', 'rock', 'electronic', 'electronic', 'hip hop', 'electronic', 'electronic', 'hip hop']","['electronic', 'hip hop', 'r&b and soul']",electronic,"['breakbeat', 'livetronica', 'synthpop', 'grime', 'dub', 'drumstep', 'techno', 'electronica', 'dubstep', 'soul', 'darkcore', 'chiptune', 'breakcore', 'jungle', 'reggae', 'doomcore', 'ambient', 'raggacore', 'funk', 'ragga', 'dancehall', 'hardcore', 'neurofunk', 'step', 'sambass', 'glitch', 'eurodance', 'hardstep', 'electronicore', 'funktronica', 'hardstyle', 'drill', 'techstep', 'darkstep', 'trap']",35.0,0.02857142857142857,0.0,0.0,0.0,0.0,0.11428571428571428,0.0,0.6857142857142857,0.0,0.05714285714285714,0.0,0.0,0.0,0.0,0.02857142857142857,0.0,0.05714285714285714,0.02857142857142857
+,artist,genres_spotify,genres_ra,genres_wiki,genres_events,main_genres,top3_genres,genre,all_genres,total_genres,folk,blues,orchestral,rock,country,r&b and soul,avant-garde,jazz,easy listening,hip hop,asian,african,electronic,latin,pop,comedy,unknown,caribbean and caribbean-influenced
+0,Vlad Weverbergh,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,Helga Varadi,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,Aurora Nealand,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,Moose Jackson,"['jazz blues', 'jazz christmas', 'jump blues']",None,None,['classic'],"['jazz', 'jazz', 'blues']","['jazz', 'blues']",jazz,"['jazz blues', 'jazz christmas', 'jump blues']",3.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,Rob Cambre,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,Justin Peake,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,Christian Weber,['pop house'],None,None,['classic'],['electronic'],['electronic'],electronic,['pop house'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+7,Simon Berz,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,Alexey Lavrentyev,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,Sergey Mushtakoff,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,Igor Morosow,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,Edmauro de Oira,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+12,Raphael Wallfisch,['cello'],None,['classical'],['classic'],['orchestral'],['orchestral'],orchestral,"['cello', 'classical']",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,Zosch,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+14,Marianne Racine-Granvik,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+15,Vera Kappeler,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+16,The Pharcyde,"['alternative hip hop', 'dirty south rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'turntablism', 'west coast rap']",None,"['house', 'soul', 'rap']",None,"['hip hop', 'hip hop', 'hip hop', 'hip hop', 'pop', 'hip hop', 'hip hop', 'hip hop', 'hip hop', 'electronic', 'r&b and soul', 'hip hop']","['hip hop', 'electronic', 'r&b and soul']",hip hop,"['alternative hip hop', 'dirty south rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'turntablism', 'west coast rap', 'house', 'soul', 'rap']",12.0,0.0,0.0,0.0,0.0,0.0,0.08333333333333333,0.0,0.0,0.0,0.75,0.0,0.0,0.08333333333333333,0.0,0.08333333333333333,0.0,0.0,0.0
+17,Saturnalia Temple,['black sludge'],None,None,None,['rock'],['rock'],rock,['black sludge'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,Attic,"['electronicore', 'post-post-hardcore', 'post-screamo']",None,['house'],None,"['rock', 'electronic', 'rock', 'electronic']","['rock', 'electronic']",rock,"['electronicore', 'post-post-hardcore', 'post-screamo', 'house']",4.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
+19,Lianne La Havas,"['deep indie r&b', 'indie r&b', 'neo mellow', 'neo soul', 'soul']",None,"['folk', 'soul']",None,"['r&b and soul', 'r&b and soul', 'rock', 'r&b and soul', 'r&b and soul', 'folk', 'r&b and soul']","['r&b and soul', 'rock', 'folk']",r&b and soul,"['deep indie r&b', 'indie r&b', 'neo mellow', 'neo soul', 'soul', 'folk', 'soul']",7.0,0.14285714285714285,0.0,0.0,0.14285714285714285,0.0,0.7142857142857143,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,DJs Gilles Peterson,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+21,Eveleen Olsen,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,Annette Kappeler,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+23,Verena Zauner,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,Emanuel Schmelzer,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,Rudy Rotta,"['power blues-rock', 'texas blues']",None,"['rock', 'blues']",None,"['rock', 'blues', 'rock', 'blues']","['rock', 'blues']",rock,"['power blues-rock', 'texas blues', 'rock', 'blues']",4.0,0.0,0.5,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,Stevie Cochran,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+27,Aurore Baal,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,DJ Super Sam,[],None,None,['electronic'],['electronic'],['electronic'],electronic,['electronic'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+29,Maximilian Hecker,"['folk christmas', 'melancholia']",None,['folk'],['pop'],"['folk', 'folk']",['folk'],folk,"['folk christmas', 'melancholia', 'folk']",2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,Mark Tenger,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+31,Egyptian Hip Hop,['deep gothic post-punk'],None,"['ghettotech', 'hyphy', 'cumbia', 'trap', 'country', 'swing', 'sawt', 'wonky', 'nerdcore', 'crunk', 'asian', 'classical', 'latin', 'rap', 'khaliji', 'pop', 'hiplife', 'hardcore', 'comedy', 'crunkcore', 'electro', 'turntablism', 'glitch', 'rock', 'folk', 'metal', 'drill', 'grime', 'house', 'horrorcore', 'soul', 'merenrap', 'african']",['pop'],"['rock', 'hip hop', 'hip hop', 'latin', 'hip hop', 'country', 'jazz', 'asian', 'electronic', 'hip hop', 'hip hop', 'asian', 'orchestral', 'latin', 'hip hop', 'asian', 'pop', 'hip hop', 'electronic', 'comedy', 'hip hop', 'pop', 'hip hop', 'electronic', 'rock', 'folk', 'rock', 'hip hop', 'hip hop', 'electronic', 'hip hop', 'r&b and soul', 'hip hop', 'african']","['hip hop', 'electronic', 'asian']",hip hop,"['deep gothic post-punk', 'ghettotech', 'hyphy', 'cumbia', 'trap', 'country', 'swing', 'sawt', 'wonky', 'nerdcore', 'crunk', 'asian', 'classical', 'latin', 'rap', 'khaliji', 'pop', 'hiplife', 'hardcore', 'comedy', 'crunkcore', 'electro', 'turntablism', 'glitch', 'rock', 'folk', 'metal', 'drill', 'grime', 'house', 'horrorcore', 'soul', 'merenrap', 'african']",34.0,0.029411764705882353,0.0,0.029411764705882353,0.08823529411764706,0.029411764705882353,0.029411764705882353,0.0,0.029411764705882353,0.0,0.38235294117647056,0.08823529411764706,0.029411764705882353,0.11764705882352941,0.058823529411764705,0.058823529411764705,0.029411764705882353,0.0,0.0
+32,Lucien Dubuis,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+33,Roman Nowka,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+34,Lionel Friedli,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+35,Luzius Schuler,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+36,Vincent Ruiz del Portal,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+37,Jonas Ruther,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+38,Renate Scheurer,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+39,Daminic Montandon,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+40,Thomas Gasser,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+41,Micha Held,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+42,Marcel Jeker,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+43,Lukas Wiese,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+44,Christian Dilier,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+45,Simon Vögeli,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+46,Roger Glaus,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+47,Sandro Heule,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+48,Mario Söldi,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+49,Werner Hasler,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+50,Katryn Hasler,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+51,Carlo Niederhauser,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+52,Julian Sartorius,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+53,Helena Rüegg,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+54,Michel Godard,[],None,['classical'],None,['orchestral'],['orchestral'],orchestral,['classical'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+55,Quique Sinesi,['folklore argentino'],None,None,None,['folk'],['folk'],folk,['folklore argentino'],1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+56,Donat Fisch,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+57,Andy Scherrer,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+58,Bänz Oester,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+59,Norbert Pfammatter,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+60,Monty Alexander's Triple Treat,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+61,Monty Alexander,"['cool jazz', 'soul jazz', 'stride']",None,"['swing', 'jungle', 'reggae']",None,"['jazz', 'jazz', 'jazz', 'jazz', 'electronic', 'caribbean and caribbean-influenced']","['jazz', 'caribbean and caribbean-influenced', 'electronic']",jazz,"['cool jazz', 'soul jazz', 'stride', 'swing', 'jungle', 'reggae']",6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.0,0.0,0.0,0.16666666666666666,0.0,0.0,0.0,0.0,0.16666666666666666
+62,Russell Malone,"['deep jazz guitar', 'jazz christmas']",None,"['swing', 'bebop']",None,"['jazz', 'jazz', 'jazz', 'jazz']",['jazz'],jazz,"['deep jazz guitar', 'jazz christmas', 'swing', 'bebop']",4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+63,Hassan Shakur,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+64,Frits Landesbergen,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+65,Chuck Prophet,"['alternative country', 'alternative roots rock', 'new americana', 'outlaw country', 'pub rock', 'roots rock', 'texas country']",None,"['rock', 'noise', 'world', 'jungle']",None,"['country', 'rock', 'country', 'country', 'rock', 'rock', 'country', 'rock', 'avant-garde', 'rock', 'electronic']","['rock', 'country', 'electronic']",rock,"['alternative country', 'alternative roots rock', 'new americana', 'outlaw country', 'pub rock', 'roots rock', 'texas country', 'rock', 'noise', 'world', 'jungle']",11.0,0.0,0.0,0.0,0.45454545454545453,0.36363636363636365,0.0,0.09090909090909091,0.0,0.0,0.0,0.0,0.0,0.09090909090909091,0.0,0.0,0.0,0.0,0.0
+66,Alfatec,['italian punk'],None,None,None,['rock'],['rock'],rock,['italian punk'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+67,DJs Dot,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+68,D-Fyne,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+69,Chris Ayer,[],None,"['pop', 'rock', 'folk', 'unknown', 'blues']",None,"['pop', 'rock', 'folk', 'unknown', 'blues']","['unknown', 'rock', 'pop']",unknown,"['pop', 'rock', 'folk', 'unknown', 'blues']",5.0,0.2,0.2,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.2,0.0
+70,Matt Simons,"['deep tropical house', 'neo mellow', 'singer-songwriter', 'tropical house']",None,['pop'],None,"['electronic', 'rock', 'folk', 'electronic', 'pop']","['electronic', 'rock', 'pop']",electronic,"['deep tropical house', 'neo mellow', 'singer-songwriter', 'tropical house', 'pop']",5.0,0.2,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.2,0.0,0.0,0.0
+71,Heartical Sound,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+72,Asher Selector,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+73,Little Lion Sound & Agent N,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+74,Prince Keman,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+75,Supanova Sound,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+76,DJs Burak Yeter,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+77,Jay Messerli,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+78,Michi Finger,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+79,Luk Kipfer,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+80,Rease Nydegger,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+81,Raly Scheuing,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+82,Dominik Grossenbacher,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+83,Rebecca Spiteri,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+84,Jürg Ramspeck,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+85,Joel Reiff,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+86,Rolf Lyssy,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+87,Aaron Wegmann,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+88,Seraphim von Werra,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+89,Dave Samuels' Caribbean Jazz Project,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+90,Dave Samuels,[],None,['latin'],None,['latin'],['latin'],latin,['latin'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+91,Oscar Feldman,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+92,Ruben Rodriguez,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+93,Vince Cherico,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+94,Arturo Stable,['deep latin jazz'],None,"['latin', 'guajira', 'son']",None,"['jazz', 'latin', 'latin', 'latin']","['latin', 'jazz']",latin,"['deep latin jazz', 'latin', 'guajira', 'son']",4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.75,0.0,0.0,0.0,0.0
+95,Weak Fishes,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+96,Orchestre Miniature In The Park,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+97,Daniela Müller,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+98,Petra Ackermann,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+99,Martin Jaggi,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+100,Tamriko Kordzaia,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+101,Goran Kovacevic,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+102,Arend Grosfeld,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+103,Thomas Koran,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+104,Natascha Albash,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+105,Sharon Prushansky,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+106,Kate Macoboy,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+107,Jasmina Matijevic,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+108,Emanuel Heitz,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+109,Jedediah Allen,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+110,Fabian Heynen,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+111,Stefan Pavelka,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+112,Mathias Harter,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+113,Felix Kübler,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+114,Daniel Disler,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+115,Katharina Kühne,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,Rudolf Bamert,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+117,Eiko Furusawa,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+118,Michel Rouilly,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+119,Manuel Blanco Gómez-Limón,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+120,Michael Erni,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+121,Get Well Soon,"['german indie', 'german pop']",None,None,None,"['pop', 'pop']",['pop'],pop,"['german indie', 'german pop']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+122,Nena,"['dance rock', 'europop', 'german pop', 'new romantic', 'new wave', 'new wave pop']",None,"['rock', 'synthpop', 'pop']",['nena'],"['rock', 'pop', 'pop', 'pop', 'rock', 'pop', 'rock', 'pop', 'pop']","['pop', 'rock']",pop,"['dance rock', 'europop', 'german pop', 'new romantic', 'new wave', 'new wave pop', 'rock', 'synthpop', 'pop']",9.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.0,0.0
+123,Gianna Nannini,"['italian arena pop', 'italian pop']",None,"['chanson', 'rock', 'latin']",None,"['pop', 'pop', 'pop', 'rock', 'latin']","['pop', 'latin', 'rock']",pop,"['italian arena pop', 'italian pop', 'chanson', 'rock', 'latin']",5.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.6,0.0,0.0,0.0
+124,Patrick Bruel,"['chanson', 'francoton', 'french pop']",None,"['chanson', 'world', 'son', 'blues']",None,"['pop', 'pop', 'pop', 'rock', 'latin', 'blues']","['pop', 'latin', 'rock']",pop,"['chanson', 'francoton', 'french pop', 'chanson', 'world', 'son', 'blues']",6.0,0.0,0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.16666666666666666,0.5,0.0,0.0,0.0
+125,Raphael,"['funk', 'indie r&b', 'memphis soul', 'neo soul', 'r&b', 'soul', 'soul blues', 'urban contemporary']",None,['soul'],None,"['r&b and soul', 'r&b and soul', 'r&b and soul', 'r&b and soul', 'r&b and soul', 'r&b and soul', 'blues', 'r&b and soul', 'r&b and soul']","['r&b and soul', 'blues']",r&b and soul,"['funk', 'indie r&b', 'memphis soul', 'neo soul', 'r&b', 'soul', 'soul blues', 'urban contemporary', 'soul']",9.0,0.0,0.1111111111111111,0.0,0.0,0.0,0.8888888888888888,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+126,Rokia Traoré,"['afrobeat', 'mande pop', 'new tribe', 'world']",None,"['rock', 'world']",None,"['african', 'pop', 'hip hop', 'rock', 'rock', 'rock']","['rock', 'african', 'pop']",rock,"['afrobeat', 'mande pop', 'new tribe', 'world', 'rock', 'world']",6.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.16666666666666666,0.0,0.16666666666666666,0.0,0.0,0.16666666666666666,0.0,0.0,0.0
+127,Michael Gregorio,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+128,Shantel & Bucovina Club Orkestar,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+129,Boulevard Des Airs,"['french pop', 'french reggae', 'french rock']",None,None,None,"['pop', 'caribbean and caribbean-influenced', 'rock']","['caribbean and caribbean-influenced', 'rock', 'pop']",caribbean and caribbean-influenced,"['french pop', 'french reggae', 'french rock']",3.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333
+130,Barcella,"['french folk pop', 'french rock']",None,['world'],None,"['pop', 'rock', 'rock']","['rock', 'pop']",rock,"['french folk pop', 'french rock', 'world']",3.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0
+131,Mai Lan,[],None,"['rock', 'soul', 'pop']",None,"['rock', 'r&b and soul', 'pop']","['r&b and soul', 'rock', 'pop']",r&b and soul,"['rock', 'soul', 'pop']",3.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0
+132,Deba,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+133,Mounawar,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+134,Menwar,['sega'],None,"['sega', 'seggae']",None,"['african', 'african', 'african']",['african'],african,"['sega', 'sega', 'seggae']",3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+135,Slayer,"['alternative metal', 'death metal', 'groove metal', 'hard rock', 'metal', 'nu metal', 'rap metal', 'rap rock', 'rock', 'speed metal', 'thrash metal']",None,"['rock', 'metal', 'hardcore', 'world', 'rap']",['slayer'],"['rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'electronic', 'rock', 'hip hop']","['rock', 'hip hop', 'electronic']",rock,"['alternative metal', 'death metal', 'groove metal', 'hard rock', 'metal', 'nu metal', 'rap metal', 'rap rock', 'rock', 'speed metal', 'thrash metal', 'rock', 'metal', 'hardcore', 'world', 'rap']",16.0,0.0,0.0,0.0,0.875,0.0,0.0,0.0,0.0,0.0,0.0625,0.0,0.0,0.0625,0.0,0.0,0.0,0.0,0.0
+136,Maren Böll,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+137,Peter Dahm,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+138,Jan Grüter,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+139,Beatrice Voellmy,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+140,Alexander Seidel,[],None,None,"['classic', 'classic', 'classic']","['orchestral', 'orchestral', 'orchestral']",['orchestral'],orchestral,"['classic', 'classic', 'classic']",3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+141,Gemelli Diversi,"['italian arena pop', 'italian hip hop', 'italian pop']",None,None,['pop'],"['pop', 'electronic', 'pop']","['pop', 'electronic']",pop,"['italian arena pop', 'italian hip hop', 'italian pop']",3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.6666666666666666,0.0,0.0,0.0
+142,Carolin Widmann,['violin'],None,['classical'],['classic'],['orchestral'],['orchestral'],orchestral,"['violin', 'classical']",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+143,Yeree Suh,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+144,Attila Fekete,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+145,Orphan Fairytale,['drone psych'],None,None,None,['country'],['country'],country,['drone psych'],1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+146,Indias Indois,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+147,Schoolly D,"['east coast hip hop', 'electro', 'gangster rap', 'hardcore hip hop', 'hip hop', 'old school hip hop', 'rap']",None,"['hardcore', 'funk', 'rap']",None,"['hip hop', 'pop', 'hip hop', 'hip hop', 'hip hop', 'hip hop', 'hip hop', 'electronic', 'r&b and soul', 'hip hop']","['hip hop', 'electronic', 'r&b and soul']",hip hop,"['east coast hip hop', 'electro', 'gangster rap', 'hardcore hip hop', 'hip hop', 'old school hip hop', 'rap', 'hardcore', 'funk', 'rap']",10.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.7,0.0,0.0,0.1,0.0,0.1,0.0,0.0,0.0
+148,Doodlebug,['bass trip'],None,None,None,['electronic'],['electronic'],electronic,['bass trip'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+149,DJs Haitian Star,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+150,DJ Deivi,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+151,Fabio Di Càsola,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+152,Giorgio Mandolesi,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+153,Asaf Avidan,['israeli rock'],None,"['rock', 'folk', 'son', 'blues']",None,"['rock', 'rock', 'folk', 'latin', 'blues']","['rock', 'latin', 'blues']",rock,"['israeli rock', 'rock', 'folk', 'son', 'blues']",5.0,0.2,0.2,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0
+154,Rainald Grebe,"['kabarett', 'liedermacher']",None,None,['pop'],None,None,,"['kabarett', 'liedermacher']",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+155,Simone Keller,[],None,['classical'],['classic'],['orchestral'],['orchestral'],orchestral,['classical'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+156,Rea Claudia Kost,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+157,Niklaus Kost,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+158,Necros Christos,"['black death', 'black thrash', 'voidgaze']",None,None,None,"['rock', 'rock']",['rock'],rock,"['black death', 'black thrash', 'voidgaze']",2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+159,Grave Miasma,"['black death', 'voidgaze']",None,None,None,['rock'],['rock'],rock,"['black death', 'voidgaze']",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+160,Kvelertak,"['black thrash', 'norwegian indie', 'norwegian metal', 'norwegian rock', 'sludge metal', 'stoner metal', 'stoner rock']",None,"['metal', 'hardcore', 'rock']",None,"['rock', 'pop', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'electronic', 'rock']","['rock', 'pop', 'electronic']",rock,"['black thrash', 'norwegian indie', 'norwegian metal', 'norwegian rock', 'sludge metal', 'stoner metal', 'stoner rock', 'metal', 'hardcore', 'rock']",10.0,0.0,0.0,0.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.1,0.0,0.0,0.0
+161,Arabrot,"['norwegian metal', 'norwegian rock']",None,"['rock', 'metal', 'electronic', 'noise']",None,"['rock', 'rock', 'rock', 'rock', 'electronic', 'avant-garde']","['rock', 'avant-garde', 'electronic']",rock,"['norwegian metal', 'norwegian rock', 'rock', 'metal', 'electronic', 'noise']",6.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.0,0.16666666666666666,0.0,0.0,0.0,0.0,0.0,0.16666666666666666,0.0,0.0,0.0,0.0,0.0
+162,Gerilja,['vegan straight edge'],None,"['disco', 'rock', 'step']",None,"['jazz', 'r&b and soul', 'rock', 'electronic']","['jazz', 'r&b and soul', 'rock']",jazz,"['vegan straight edge', 'disco', 'rock', 'step']",4.0,0.0,0.0,0.0,0.25,0.0,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0
+163,Andrea Kollé,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+164,Samuel Castro Bastos,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+165,Heinrich Mätzener,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+166,Tomas Gallart,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+167,Elisabeth Göring,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+168,Alexander Boeschoten,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+169,Irie Révoltés,"['deep german pop rock', 'french reggae', 'german hip hop', 'reggae fusion']",None,"['ragga', 'ska', 'dancehall', 'reggae']",None,"['rock', 'caribbean and caribbean-influenced', 'electronic', 'caribbean and caribbean-influenced', 'hip hop', 'caribbean and caribbean-influenced', 'caribbean and caribbean-influenced', 'caribbean and caribbean-influenced']","['caribbean and caribbean-influenced', 'rock', 'hip hop']",caribbean and caribbean-influenced,"['deep german pop rock', 'french reggae', 'german hip hop', 'reggae fusion', 'ragga', 'ska', 'dancehall', 'reggae']",8.0,0.0,0.0,0.0,0.125,0.0,0.0,0.0,0.0,0.0,0.125,0.0,0.0,0.125,0.0,0.0,0.0,0.0,0.625
+170,Yza Ya,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+171,Peter Gottstein,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+172,Erich Möschler,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+173,Kurt Schlup,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+174,Werner Siegenthaler,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+175,Urs Brunner,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+176,Erwin Bieri,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+177,Sebadoh,"['alternative pop', 'alternative rock', 'anti-folk', 'dance-punk', 'dream pop', 'experimental rock', 'freak folk', 'gbvfi', 'grunge', 'indie rock', 'jangle pop', 'lo-fi', 'math rock', 'neo-psychedelic', 'noise pop', 'noise rock', 'post-hardcore', 'post-punk', 'power pop', 'shoegaze', 'slow core', 'space rock', 'twee pop', 'uk post-punk']",None,"['pop', 'rock', 'noise', 'grunge']",None,"['pop', 'rock', 'folk', 'electronic', 'rock', 'rock', 'folk', 'rock', 'rock', 'pop', 'avant-garde', 'rock', 'pop', 'pop', 'rock', 'rock', 'rock', 'pop', 'rock', 'rock', 'rock', 'pop', 'rock', 'pop', 'rock', 'avant-garde', 'rock']","['rock', 'pop', 'avant-garde']",rock,"['alternative pop', 'alternative rock', 'anti-folk', 'dance-punk', 'dream pop', 'experimental rock', 'freak folk', 'gbvfi', 'grunge', 'indie rock', 'jangle pop', 'lo-fi', 'math rock', 'neo-psychedelic', 'noise pop', 'noise rock', 'post-hardcore', 'post-punk', 'power pop', 'shoegaze', 'slow core', 'space rock', 'twee pop', 'uk post-punk', 'pop', 'rock', 'noise', 'grunge']",27.0,0.07407407407407407,0.0,0.0,0.5555555555555556,0.0,0.0,0.07407407407407407,0.0,0.0,0.0,0.0,0.0,0.037037037037037035,0.0,0.25925925925925924,0.0,0.0,0.0
+178,Erich Fischer,[],None,['world'],['traditional'],['rock'],['rock'],rock,['world'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+179,Hannes Giger,[],None,None,['traditional'],None,None,,['traditional'],0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+180,Belisa Mang,[],None,None,['traditional'],None,None,,['traditional'],0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+181,Mich Gerber,['new tribe'],None,None,None,['hip hop'],['hip hop'],hip hop,['new tribe'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+182,Al Comet,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+183,Andi Pupato,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+184,Wolfgang Zwiauer,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+185,David Sanborn & Bob James Group feat. Steve Gadd,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+186,Werner Ammann,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+187,Warwick Richard,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+188,Matt Graf,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+189,Damir Imamovic Sevdah Takht,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+190,Damir Imamovic,[],None,['house'],None,['electronic'],['electronic'],electronic,['house'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+191,Nenad Kovacic,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+192,Ivan Mihajlovic,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+193,Elyas Khan,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+194,Breakdown Of Sanity,"['death core', 'melodic metalcore', 'metalcore', 'post-screamo', 'rap metal', 'screamo']",None,None,None,"['rock', 'rock', 'rock', 'rock', 'rock', 'rock']",['rock'],rock,"['death core', 'melodic metalcore', 'metalcore', 'post-screamo', 'rap metal', 'screamo']",6.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+195,Deez Nuts,"['hardcore', 'metalcore']",None,['world'],None,"['electronic', 'rock', 'rock']","['rock', 'electronic']",rock,"['hardcore', 'metalcore', 'world']",3.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0
+196,Stray From The Path,"['christian hardcore', 'death core', 'mathcore', 'melodic metalcore', 'metalcore', 'rap metal', 'screamo']",None,"['metal', 'hardcore', 'metalcore', 'rock']",None,"['electronic', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'electronic', 'rock', 'rock']","['rock', 'electronic']",rock,"['christian hardcore', 'death core', 'mathcore', 'melodic metalcore', 'metalcore', 'rap metal', 'screamo', 'metal', 'hardcore', 'metalcore', 'rock']",11.0,0.0,0.0,0.0,0.8181818181818182,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.18181818181818182,0.0,0.0,0.0,0.0,0.0
+197,Heart In Hand,['deep melodic metalcore'],None,None,None,['rock'],['rock'],rock,['deep melodic metalcore'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+198,Relentless,[],None,['metal'],None,['rock'],['rock'],rock,['metal'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+199,Nico Schulthess,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+200,Astrid Fuellemann,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+201,Luk Schulthess,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+202,Lukas Schlumpf,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+203,Nicolas Struchen,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+204,Zéphyr Combo,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+205,Geert Dedapper,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+206,Esther Nydegger,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+207,Ali Salvioni,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+208,Fridolin Blumer,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+209,Bolschoi Don Kosakenchor,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+210,Dubioza Kolektiv,['yugoslav rock'],None,"['rock', 'dub', 'ska', 'reggae']",None,"['rock', 'rock', 'electronic', 'caribbean and caribbean-influenced', 'caribbean and caribbean-influenced']","['caribbean and caribbean-influenced', 'rock', 'electronic']",caribbean and caribbean-influenced,"['yugoslav rock', 'rock', 'dub', 'ska', 'reggae']",5.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.4
+211,Luke Winslow King,"['alternative country', 'country blues', 'deep new americana', 'michigan indie', 'modern blues', 'new americana', 'piedmont blues']",None,None,None,"['country', 'blues', 'country', 'pop', 'blues', 'country', 'blues']","['country', 'blues', 'pop']",country,"['alternative country', 'country blues', 'deep new americana', 'michigan indie', 'modern blues', 'new americana', 'piedmont blues']",7.0,0.0,0.42857142857142855,0.0,0.0,0.42857142857142855,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14285714285714285,0.0,0.0,0.0
+212,Marc Stucki,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+213,Benedikt Wieland,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+214,Flo Reichle,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+215,Penguins By Choice,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+216,Urs Höchle,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+217,Tar Queen,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+218,Elisabeth Waldmeier,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+219,Dieter Hubov,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+220,Seraina Perrenoud,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+221,Jeanne Roth,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+222,Ernst Buscagne,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+223,Stahlmann,"['medieval rock', 'neue deutsche harte']",None,"['rock', 'metal']",None,"['rock', 'rock', 'rock', 'rock']",['rock'],rock,"['medieval rock', 'neue deutsche harte', 'rock', 'metal']",4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+224,Daniel Woodtli,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+225,Oli Kuster,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+226,Philipp Moll,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+227,Fred Bürki,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+228,Lukas Fässler,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+229,Ralf Norgel,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+230,Marco Andrey,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+231,Marcel Riesen,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+232,Dominic Hauser,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+233,Andrea Suter,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+234,Chelsey Schill,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+235,Maja Hermann,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+236,Raimund Wiederkehr,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+237,Erich Bieri,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+238,Manuel Delago,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+239,Isa Kurz,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+240,Chris Norz,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+241,Christina Martin,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+242,Richard Decker,[],None,['world'],None,['rock'],['rock'],rock,['world'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+243,Ben Zahler,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+244,Annika Francke,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+245,Markus Schmied,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+246,Pau Lligadas,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+247,Florian Krause,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+248,Antonello Messina,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+249,Wege Wüthrich,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+250,Lorenz Beyeler,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+251,Omri Hason,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+252,Dream Theater,"['album rock', 'alternative metal', 'hard rock', 'metal', 'neo classical metal', 'power metal', 'progressive metal', 'progressive rock', 'rock']",None,"['pop', 'house', 'son', 'rock', 'country', 'soul', 'metal']",None,"['rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'pop', 'electronic', 'latin', 'rock', 'country', 'r&b and soul', 'rock']","['rock', 'latin', 'r&b and soul']",rock,"['album rock', 'alternative metal', 'hard rock', 'metal', 'neo classical metal', 'power metal', 'progressive metal', 'progressive rock', 'rock', 'pop', 'house', 'son', 'rock', 'country', 'soul', 'metal']",16.0,0.0,0.0,0.0,0.6875,0.0625,0.0625,0.0,0.0,0.0,0.0,0.0,0.0,0.0625,0.0625,0.0625,0.0,0.0,0.0
+253,Vilde Frang,"['classical performance', 'violin']",None,['classical'],"['classic', 'classic']","['orchestral', 'orchestral']",['orchestral'],orchestral,"['classical performance', 'violin', 'classical']",2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+254,Defeater,"['alternative emo', 'anthem emo', 'chaotic hardcore', 'melodic hardcore', 'metalcore', 'pop punk', 'progressive post-hardcore', 'screamo']",None,"['rock', 'hardcore']",None,"['rock', 'rock', 'electronic', 'electronic', 'rock', 'rock', 'electronic', 'rock', 'rock', 'electronic']","['rock', 'electronic']",rock,"['alternative emo', 'anthem emo', 'chaotic hardcore', 'melodic hardcore', 'metalcore', 'pop punk', 'progressive post-hardcore', 'screamo', 'rock', 'hardcore']",10.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0
+255,Church Of Misery,"['doom metal', 'drone metal', 'j-metal', 'post-doom metal', 'psychedelic doom', 'retro metal', 'sludge metal', 'stoner metal', 'stoner rock']",None,"['rock', 'metal']",None,"['rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock']",['rock'],rock,"['doom metal', 'drone metal', 'j-metal', 'post-doom metal', 'psychedelic doom', 'retro metal', 'sludge metal', 'stoner metal', 'stoner rock', 'rock', 'metal']",11.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+256,Kalle Kalima,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+257,Andreas Schaerer,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+258,Or Potratz,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+259,Or Steidle,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+260,Andrea Manzoni Trio,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+261,Andrea Manzoni,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+262,Luca Curcio,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+263,Andrea Beccaro,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+264,Jo-El Sonnier & T. Graham Brown & Band,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+265,DJs Nando,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+266,Da'le,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+267,Sabine Poyé Morel,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+268,Simon Fuchs,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+269,Michael Reid,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+270,Matthias Rácz,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+271,Philippe Litzler,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+272,Darkside,['downtempo'],None,"['house', 'electronica', 'soul', 'noise', 'techno', 'electronic']",['electronic'],"['electronic', 'electronic', 'electronic', 'r&b and soul', 'avant-garde', 'electronic', 'electronic']","['electronic', 'avant-garde', 'r&b and soul']",electronic,"['downtempo', 'house', 'electronica', 'soul', 'noise', 'techno', 'electronic']",7.0,0.0,0.0,0.0,0.0,0.0,0.14285714285714285,0.14285714285714285,0.0,0.0,0.0,0.0,0.0,0.7142857142857143,0.0,0.0,0.0,0.0,0.0
+273,Nicolas Jaar,"['alternative dance', 'downtempo', 'electronic', 'indie r&b', 'indietronica', 'microhouse', 'minimal techno', 'new rave', 'trip hop']",None,"['house', 'electronica', 'soul', 'noise', 'techno', 'electronic']",['electronic'],"['electronic', 'electronic', 'electronic', 'r&b and soul', 'electronic', 'electronic', 'electronic', 'electronic', 'electronic', 'electronic', 'electronic', 'r&b and soul', 'avant-garde', 'electronic', 'electronic']","['electronic', 'r&b and soul', 'avant-garde']",electronic,"['alternative dance', 'downtempo', 'electronic', 'indie r&b', 'indietronica', 'microhouse', 'minimal techno', 'new rave', 'trip hop', 'house', 'electronica', 'soul', 'noise', 'techno', 'electronic']",15.0,0.0,0.0,0.0,0.0,0.0,0.13333333333333333,0.06666666666666667,0.0,0.0,0.0,0.0,0.0,0.8,0.0,0.0,0.0,0.0,0.0
+274,Dave Harrington,[],None,None,['electronic'],['electronic'],['electronic'],electronic,['electronic'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+275,Cäcilia Chmel,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+276,Angélique Kidjo,"['world', 'world christmas']",None,"['classic', 'world', 'african', 'soul', 'rumba', 'chanson']",None,"['rock', 'rock', 'orchestral', 'rock', 'african', 'r&b and soul', 'latin', 'pop']","['rock', 'african', 'pop']",rock,"['world', 'world christmas', 'classic', 'world', 'african', 'soul', 'rumba', 'chanson']",8.0,0.0,0.0,0.125,0.375,0.0,0.125,0.0,0.0,0.0,0.0,0.0,0.125,0.0,0.125,0.125,0.0,0.0,0.0
+277,The Exploding Boy,['deep gothic post-punk'],None,None,None,['rock'],['rock'],rock,['deep gothic post-punk'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+278,Ronny Spiegel,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+279,Tom Tafel,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+280,Kanna,[],None,['reggae'],['pop'],['caribbean and caribbean-influenced'],['caribbean and caribbean-influenced'],caribbean and caribbean-influenced,['reggae'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+281,Stefanie Hess,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+282,Ariel Rossi,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+283,Ildikó Sajgó,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+284,Amélie Chemin,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+285,Cécile Mansuy,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+286,The Gate,"['christian alternative rock', 'christian hardcore', 'christian metal', 'christian rock', 'melodic metalcore', 'metalcore', 'post-screamo', 'screamo']",None,None,None,"['rock', 'electronic', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock']","['rock', 'electronic']",rock,"['christian alternative rock', 'christian hardcore', 'christian metal', 'christian rock', 'melodic metalcore', 'metalcore', 'post-screamo', 'screamo']",8.0,0.0,0.0,0.0,0.875,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.125,0.0,0.0,0.0,0.0,0.0
+287,Yung Lean & The Sad Boys,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+288,Lilly Martin,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+289,Irene Schindele,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+290,Inka Kuchler,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+291,Los Banditos,['surf music'],None,None,None,['hip hop'],['hip hop'],hip hop,['surf music'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+292,David Murray Infinity Quartet feat. Saul Williams,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+293,David Murray,"['avant-garde jazz', 'contemporary post-bop', 'free improvisation', 'free jazz', 'jazz']",None,['world'],None,"['jazz', 'jazz', 'jazz', 'jazz', 'jazz', 'rock']","['jazz', 'rock']",jazz,"['avant-garde jazz', 'contemporary post-bop', 'free improvisation', 'free jazz', 'jazz', 'world']",6.0,0.0,0.0,0.0,0.16666666666666666,0.0,0.0,0.0,0.8333333333333334,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+294,Saul Williams,"['abstract hip hop', 'alternative hip hop']",None,"['rap', 'soul']",None,"['electronic', 'hip hop', 'hip hop', 'r&b and soul']","['hip hop', 'r&b and soul', 'electronic']",hip hop,"['abstract hip hop', 'alternative hip hop', 'rap', 'soul']",4.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.5,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0
+295,Rod Williams,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+296,Jaribu Shahid,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+297,Nasheet Waits,[],None,"['metal', 'unknown']",None,"['rock', 'unknown']","['unknown', 'rock']",unknown,"['metal', 'unknown']",2.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+298,Band of Horses,"['chamber pop', 'folk-pop', 'indie folk', 'indie pop', 'indie rock', 'indietronica', 'neo mellow', 'stomp and holler']",None,"['pop', 'americana', 'rock']",None,"['pop', 'pop', 'folk', 'pop', 'rock', 'electronic', 'rock', 'r&b and soul', 'pop', 'country', 'rock']","['pop', 'rock', 'country']",pop,"['chamber pop', 'folk-pop', 'indie folk', 'indie pop', 'indie rock', 'indietronica', 'neo mellow', 'stomp and holler', 'pop', 'americana', 'rock']",11.0,0.09090909090909091,0.0,0.0,0.2727272727272727,0.09090909090909091,0.09090909090909091,0.0,0.0,0.0,0.0,0.0,0.0,0.09090909090909091,0.0,0.36363636363636365,0.0,0.0,0.0
+299,Lander Gyselinck,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+300,Corinne Huber,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+301,Franziska Bruecker,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+302,Loco Escrito,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+303,Wolfgang Dauner,['kraut rock'],None,['rock'],None,"['rock', 'rock']",['rock'],rock,"['kraut rock', 'rock']",2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+304,Dieter Ilg,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+305,Flo Dauner,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+306,Mace Mitchell,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+307,Tsering Purtag,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+308,Maki Wiederkehr,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+309,Daniel Meller,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+310,Flurin Cuonz,[],None,None,"['classic', 'classic']","['orchestral', 'orchestral']",['orchestral'],orchestral,"['classic', 'classic']",2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+311,Josiane Kneuss,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+312,Alcides Toirac,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+313,Amik Guerra,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+314,Ohlê Gagneux,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+315,Jorge-Luís Gonzalez,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+316,Leonardo Salazar,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+317,Sebastien Gagneux,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+318,Lizandro Paredes,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+319,Jorge Leysan Demestre,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+320,Dan Wilde,[],None,['folk'],None,['folk'],['folk'],folk,['folk'],1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+321,Tom Copson,[],None,"['pop', 'rock', 'folk']",None,"['pop', 'rock', 'folk']","['rock', 'pop', 'folk']",rock,"['pop', 'rock', 'folk']",3.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0
+322,Katharina Busch,[],None,None,"['pop', 'pop']","['pop', 'pop']",['pop'],pop,"['pop', 'pop']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+323,Levin Deger,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+324,Thomas Hauser,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+325,Andre Bader,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+326,The Creepshow,"['horror punk', 'psychobilly']",None,"['psychobilly', 'rock', 'ska', 'rockabilly', 'soul']",None,"['rock', 'rock', 'rock', 'rock', 'caribbean and caribbean-influenced', 'country', 'r&b and soul']","['rock', 'caribbean and caribbean-influenced', 'country']",rock,"['horror punk', 'psychobilly', 'psychobilly', 'rock', 'ska', 'rockabilly', 'soul']",7.0,0.0,0.0,0.0,0.5714285714285714,0.14285714285714285,0.14285714285714285,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14285714285714285
+327,Peter K Frey,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+328,Jürg Gasser,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+329,Alex Huber,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+330,Jonas Labhart,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+331,Bernhoft,"['norwegian indie', 'norwegian pop', 'norwegian rock']",None,"['rock', 'soul']",None,"['pop', 'pop', 'rock', 'rock', 'r&b and soul']","['rock', 'pop', 'r&b and soul']",rock,"['norwegian indie', 'norwegian pop', 'norwegian rock', 'rock', 'soul']",5.0,0.0,0.0,0.0,0.4,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0
+332,Jugendchor Hamrahilö,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+333,The Natural Dub Cluster,[],None,['dub'],['electronic'],['electronic'],['electronic'],electronic,['dub'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+334,Les Soeurs Boulay,['quebecois'],None,['folk'],None,['folk'],['folk'],folk,"['quebecois', 'folk']",1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+335,Csongor Szanto,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+336,Snoop Dogg,"['g funk', 'gangster rap', 'hip hop', 'pop christmas', 'pop rap', 'rap', 'southern hip hop', 'west coast rap']",None,"['pop', 'rap', 'son', 'soul', 'funk', 'reggae']",None,"['r&b and soul', 'hip hop', 'hip hop', 'pop', 'pop', 'hip hop', 'hip hop', 'hip hop', 'pop', 'hip hop', 'latin', 'r&b and soul', 'r&b and soul', 'caribbean and caribbean-influenced']","['hip hop', 'r&b and soul', 'pop']",hip hop,"['g funk', 'gangster rap', 'hip hop', 'pop christmas', 'pop rap', 'rap', 'southern hip hop', 'west coast rap', 'pop', 'rap', 'son', 'soul', 'funk', 'reggae']",14.0,0.0,0.0,0.0,0.0,0.0,0.21428571428571427,0.0,0.0,0.0,0.42857142857142855,0.0,0.0,0.0,0.07142857142857142,0.21428571428571427,0.0,0.0,0.07142857142857142
+337,Woodkid,['chamber pop'],None,"['pop', 'rock', 'son']",None,"['pop', 'pop', 'rock', 'latin']","['pop', 'latin', 'rock']",pop,"['chamber pop', 'pop', 'rock', 'son']",4.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.5,0.0,0.0,0.0
+338,Kery James,"['francoton', 'french hip hop', 'french pop', 'french reggae', 'trap francais']",None,"['rap', 'trap', 'chanson']",None,"['electronic', 'pop', 'caribbean and caribbean-influenced', 'hip hop', 'hip hop', 'hip hop', 'pop']","['hip hop', 'pop', 'caribbean and caribbean-influenced']",hip hop,"['francoton', 'french hip hop', 'french pop', 'french reggae', 'trap francais', 'rap', 'trap', 'chanson']",7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.42857142857142855,0.0,0.0,0.14285714285714285,0.0,0.2857142857142857,0.0,0.0,0.14285714285714285
+339,Thomas Azier,[],None,"['electropop', 'pop']",None,"['pop', 'pop']",['pop'],pop,"['electropop', 'pop']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+340,Carbon Airways,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+341,Mark Berube,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+342,After-Party mit Greem,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+343,Feadz,"['destroy techno', 'filter house']",None,"['techno', 'electro', 'rock', 'house']",None,"['electronic', 'electronic', 'electronic', 'pop', 'rock', 'electronic']","['electronic', 'rock', 'pop']",electronic,"['destroy techno', 'filter house', 'techno', 'electro', 'rock', 'house']",6.0,0.0,0.0,0.0,0.16666666666666666,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.16666666666666666,0.0,0.0,0.0
+344,Y'urs,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+345,Andreas Janke,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+346,Peter McGuire,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+347,Katja Fuchs,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+348,Ewa Grzywna-Groblewska,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+349,Marc Reinhard,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+350,Sigi Nikitscher,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+351,Beat Schneider,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+352,Fran Lorkovic,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+353,Goldfrapp,"['alternative dance', 'big beat', 'dance pop', 'electroclash', 'electronic', 'indie christmas', 'indietronica', 'new rave', 'new wave pop', 'pop christmas', 'pop rock', 'synthpop', 'trip hop']",None,"['rock', 'electronic', 'ambient', 'synthpop']",['pop'],"['electronic', 'electronic', 'pop', 'electronic', 'electronic', 'pop', 'electronic', 'electronic', 'pop', 'pop', 'rock', 'pop', 'electronic', 'rock', 'electronic', 'electronic', 'pop']","['electronic', 'pop', 'rock']",electronic,"['alternative dance', 'big beat', 'dance pop', 'electroclash', 'electronic', 'indie christmas', 'indietronica', 'new rave', 'new wave pop', 'pop christmas', 'pop rock', 'synthpop', 'trip hop', 'rock', 'electronic', 'ambient', 'synthpop']",17.0,0.0,0.0,0.0,0.11764705882352941,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5294117647058824,0.0,0.35294117647058826,0.0,0.0,0.0
+354,London Grammar,"['indie r&b', 'indietronica', 'metropopolis', 'neo mellow', 'pop', 'shimmer pop', 'tropical house']",None,"['electronica', 'pop', 'metal', 'soul']",['pop'],"['r&b and soul', 'electronic', 'pop', 'rock', 'pop', 'pop', 'electronic', 'electronic', 'pop', 'rock', 'r&b and soul']","['pop', 'electronic', 'r&b and soul']",pop,"['indie r&b', 'indietronica', 'metropopolis', 'neo mellow', 'pop', 'shimmer pop', 'tropical house', 'electronica', 'pop', 'metal', 'soul']",11.0,0.0,0.0,0.0,0.18181818181818182,0.0,0.18181818181818182,0.0,0.0,0.0,0.0,0.0,0.0,0.2727272727272727,0.0,0.36363636363636365,0.0,0.0,0.0
+355,Mavis Staples,"['country blues', 'funk', 'jazz blues', 'memphis soul', 'modern blues', 'new orleans blues', 'roots rock', 'soul', 'soul blues', 'soul christmas', 'southern soul']",None,"['blues', 'country', 'soul']",None,"['blues', 'r&b and soul', 'jazz', 'r&b and soul', 'blues', 'blues', 'rock', 'r&b and soul', 'blues', 'r&b and soul', 'r&b and soul', 'blues', 'country', 'r&b and soul']","['r&b and soul', 'blues', 'country']",r&b and soul,"['country blues', 'funk', 'jazz blues', 'memphis soul', 'modern blues', 'new orleans blues', 'roots rock', 'soul', 'soul blues', 'soul christmas', 'southern soul', 'blues', 'country', 'soul']",14.0,0.0,0.35714285714285715,0.0,0.07142857142857142,0.07142857142857142,0.42857142857142855,0.0,0.07142857142857142,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+356,Van Morrison,"['album rock', 'blues-rock', 'classic rock', 'folk', 'folk rock', 'folk-pop', 'mellow gold', 'neo mellow', 'rock', 'roots rock', 'singer-songwriter', 'soft rock', 'soul']",None,"['house', 'rock', 'country', 'folk', 'soul', 'blues', 'skiffle']",None,"['rock', 'rock', 'rock', 'folk', 'rock', 'pop', 'hip hop', 'rock', 'rock', 'rock', 'folk', 'rock', 'r&b and soul', 'electronic', 'rock', 'country', 'folk', 'r&b and soul', 'blues', 'folk']","['rock', 'folk', 'r&b and soul']",rock,"['album rock', 'blues-rock', 'classic rock', 'folk', 'folk rock', 'folk-pop', 'mellow gold', 'neo mellow', 'rock', 'roots rock', 'singer-songwriter', 'soft rock', 'soul', 'house', 'rock', 'country', 'folk', 'soul', 'blues', 'skiffle']",20.0,0.2,0.05,0.0,0.45,0.05,0.1,0.0,0.0,0.0,0.05,0.0,0.0,0.05,0.0,0.05,0.0,0.0,0.0
+357,Alex Hendriksen Quartet,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+358,Christoph Ràcz,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+359,Crew Peligrosos,['colombian rock'],None,None,None,['rock'],['rock'],rock,['colombian rock'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+360,Palenke Soultribe,"['colombian rock', 'nu-cumbia']",None,"['latin', 'world', 'electronic', 'samba', 'soul']",None,"['rock', 'latin', 'latin', 'rock', 'electronic', 'latin', 'r&b and soul']","['latin', 'rock', 'r&b and soul']",latin,"['colombian rock', 'nu-cumbia', 'latin', 'world', 'electronic', 'samba', 'soul']",7.0,0.0,0.0,0.0,0.2857142857142857,0.0,0.14285714285714285,0.0,0.0,0.0,0.0,0.0,0.0,0.14285714285714285,0.42857142857142855,0.0,0.0,0.0,0.0
+361,Family Atlantica,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+362,Dorotop DJ Set,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+363,Hooverphonic,"['downtempo', 'electronic', 'nu jazz', 'trip hop']",None,"['electronica', 'pop', 'rock', 'electropop', 'world']",['electronic'],"['electronic', 'electronic', 'jazz', 'electronic', 'electronic', 'pop', 'rock', 'pop', 'rock']","['electronic', 'rock', 'pop']",electronic,"['downtempo', 'electronic', 'nu jazz', 'trip hop', 'electronica', 'pop', 'rock', 'electropop', 'world']",9.0,0.0,0.0,0.0,0.2222222222222222,0.0,0.0,0.0,0.1111111111111111,0.0,0.0,0.0,0.0,0.4444444444444444,0.0,0.2222222222222222,0.0,0.0,0.0
+364,Mario Biondi,"['italian arena pop', 'italian jazz', 'italian pop']",None,"['blues', 'disco', 'soul']",None,"['pop', 'jazz', 'pop', 'blues', 'r&b and soul', 'r&b and soul']","['r&b and soul', 'pop', 'jazz']",r&b and soul,"['italian arena pop', 'italian jazz', 'italian pop', 'blues', 'disco', 'soul']",6.0,0.0,0.16666666666666666,0.0,0.0,0.0,0.3333333333333333,0.0,0.16666666666666666,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0
+365,Claudio Filippini,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+366,Tommaso Scannapieco,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+367,Lorenzo Tucci,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+368,Jenny Chi,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+369,André Siqueira,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+370,Thomas Silvestri,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+371,Ralph Sonderegger,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+372,Mauro Martins,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+373,5 In Love,['traditional swing'],None,None,None,['jazz'],['jazz'],jazz,['traditional swing'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+374,Sukarma,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+375,Valer Sabadus,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+376,Axel Wolf,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+377,Max Sonnleitner,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+378,Unearth,"['alternative metal', 'christian hardcore', 'christian metal', 'death core', 'groove metal', 'melodic death metal', 'melodic metalcore', 'metalcore', 'nu metal']",None,"['hardcore', 'rock', 'metal', 'metalcore']",None,"['rock', 'electronic', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'electronic', 'rock', 'rock', 'rock']","['rock', 'electronic']",rock,"['alternative metal', 'christian hardcore', 'christian metal', 'death core', 'groove metal', 'melodic death metal', 'melodic metalcore', 'metalcore', 'nu metal', 'hardcore', 'rock', 'metal', 'metalcore']",13.0,0.0,0.0,0.0,0.8461538461538461,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15384615384615385,0.0,0.0,0.0,0.0,0.0
+379,Shadows Fall,"['alternative metal', 'christian metal', 'groove metal', 'industrial metal', 'melodic death metal', 'melodic metalcore', 'metal', 'metalcore', 'nu metal', 'rap metal', 'rap rock']",None,"['metal', 'metalcore']",None,"['rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock']",['rock'],rock,"['alternative metal', 'christian metal', 'groove metal', 'industrial metal', 'melodic death metal', 'melodic metalcore', 'metal', 'metalcore', 'nu metal', 'rap metal', 'rap rock', 'metal', 'metalcore']",13.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+380,The Acacia Strain,"['christian hardcore', 'death core', 'djent', 'mathcore', 'melodic metalcore', 'metalcore', 'rap metal', 'screamo']",None,"['hardcore', 'unknown', 'deathcore', 'metal', 'metalcore']",None,"['electronic', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'electronic', 'unknown', 'rock', 'rock', 'rock']","['rock', 'electronic', 'unknown']",rock,"['christian hardcore', 'death core', 'djent', 'mathcore', 'melodic metalcore', 'metalcore', 'rap metal', 'screamo', 'hardcore', 'unknown', 'deathcore', 'metal', 'metalcore']",13.0,0.0,0.0,0.0,0.7692307692307693,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15384615384615385,0.0,0.0,0.0,0.07692307692307693,0.0
+381,War of Ages,"['christian hardcore', 'christian metal', 'melodic metalcore', 'metalcore', 'screamo']",None,"['hardcore', 'metal', 'metalcore']",None,"['electronic', 'rock', 'rock', 'rock', 'rock', 'electronic', 'rock', 'rock']","['rock', 'electronic']",rock,"['christian hardcore', 'christian metal', 'melodic metalcore', 'metalcore', 'screamo', 'hardcore', 'metal', 'metalcore']",8.0,0.0,0.0,0.0,0.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0
+382,Chamito,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+383,"Esteban ""Chamito"" Reyes",[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+384,Arnaud Surrel,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+385,Luis Cruz,[],None,['rock'],None,['rock'],['rock'],rock,['rock'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+386,Diadji Seydi,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+387,Stella Doufexis,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+388,Nicolas Altstaedt,['deep cello'],None,['classical'],['classic'],"['r&b and soul', 'orchestral']","['r&b and soul', 'orchestral']",r&b and soul,"['deep cello', 'classical']",2.0,0.0,0.0,0.5,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+389,Markus Eichenberger,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+390,Jacques Widmer,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+391,Alfred Zimmerlin,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+392,Regula Konrad,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+393,Pamina Blum,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+394,Eriko Wakita,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+395,20-21 Uhr Tanzkurs Bailar Casino,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+396,Eduardo Machado,[],None,['unknown'],None,['unknown'],['unknown'],unknown,['unknown'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+397,Beto Sápio,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+398,Gil Reis,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+399,Vinícius Melo,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+400,Alexandre Cunha,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+401,Einar Stray Orchestra,"['norwegian indie', 'norwegian pop']",None,"['pop', 'rock']",['pop'],"['pop', 'pop', 'pop', 'rock']","['pop', 'rock']",pop,"['norwegian indie', 'norwegian pop', 'pop', 'rock']",4.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.75,0.0,0.0,0.0
+402,Tobias Preisig,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+403,Alessandro Giannelli,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+404,Dillon,"['bass trap', 'big room', 'brostep', 'deep big room', 'edm', 'electro house', 'electronic trap', 'house', 'moombahton', 'tropical house']",None,None,['electronic'],"['hip hop', 'electronic', 'electronic', 'electronic', 'blues', 'electronic', 'hip hop', 'electronic', 'electronic', 'electronic']","['electronic', 'hip hop', 'blues']",electronic,"['bass trap', 'big room', 'brostep', 'deep big room', 'edm', 'electro house', 'electronic trap', 'house', 'moombahton', 'tropical house']",10.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0
+405,Gilberto Gil,"['bossa nova', 'forro', 'mpb', 'pagode', 'samba', 'world christmas']",None,"['rock', 'samba', 'reggae']",None,"['latin', 'latin', 'latin', 'rock', 'rock', 'latin', 'caribbean and caribbean-influenced']","['latin', 'rock', 'caribbean and caribbean-influenced']",latin,"['bossa nova', 'forro', 'mpb', 'pagode', 'samba', 'world christmas', 'rock', 'samba', 'reggae']",7.0,0.0,0.0,0.0,0.2857142857142857,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5714285714285714,0.0,0.0,0.0,0.14285714285714285
+406,Rahel Binetti,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+407,Fabian Kristmann,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+408,Bernhard Affolter,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+409,Katharina Weissenbacher,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+410,Dimitri Ashkenazy,[],None,"['classical', 'house']",['classic'],"['orchestral', 'electronic']","['electronic', 'orchestral']",electronic,"['classical', 'house']",2.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
+411,Katia Braunschweiler,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+412,Haika Lübcke,[],None,None,"['classic', 'classic']","['orchestral', 'orchestral']",['orchestral'],orchestral,"['classic', 'classic']",2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+413,Isaac Duarte,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+414,Felix-Andreas Genner,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+415,Hans Agreda,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+416,Mischa Greull,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+417,Seung-Yeun Huh,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+418,Worldly Savages,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+419,Barbez,"['dark cabaret', 'laboratorio', 'steampunk']",None,None,None,['rock'],['rock'],rock,"['dark cabaret', 'laboratorio', 'steampunk']",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+420,Stephanie Pfeffer,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+421,Rupert Charlesworth,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+422,Jonathan Sells,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+423,Edward Rushton,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+424,Dieter Thomas Kuhn & Band,[],None,None,['traditional'],None,None,,['traditional'],0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+425,Michael Schenker,"['album rock', 'blues-rock', 'glam metal', 'hard rock', 'metal', 'nwobhm', 'rock']",None,"['jungle', 'world', 'rock', 'metal']",None,"['rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'electronic', 'rock', 'rock', 'rock']","['rock', 'electronic']",rock,"['album rock', 'blues-rock', 'glam metal', 'hard rock', 'metal', 'nwobhm', 'rock', 'jungle', 'world', 'rock', 'metal']",10.0,0.0,0.0,0.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0
+426,Letzte Instanz,"['medieval rock', 'neue deutsche harte']",None,"['rock', 'folk']",None,"['rock', 'rock', 'rock', 'folk']","['rock', 'folk']",rock,"['medieval rock', 'neue deutsche harte', 'rock', 'folk']",4.0,0.25,0.0,0.0,0.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+427,Darkhaus,['neue deutsche harte'],None,None,None,['rock'],['rock'],rock,['neue deutsche harte'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+428,Boglárka Pecze,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+429,Eva Boesch,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+430,Sun-Young Nam,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+431,John Scofield & Medesky-Martin-Wood,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+432,John Scofield,"['bebop', 'blues-rock', 'contemporary jazz', 'contemporary post-bop', 'cool jazz', 'gypsy jazz', 'jazz', 'jazz blues', 'jazz christmas', 'jazz funk', 'jazz fusion', 'modern blues', 'soul jazz']",None,"['world', 'bebop', 'boogie', 'house', 'rock', 'country', 'soul', 'funk', 'blues']",None,"['jazz', 'rock', 'jazz', 'jazz', 'jazz', 'jazz', 'jazz', 'jazz', 'jazz', 'r&b and soul', 'jazz', 'blues', 'jazz', 'rock', 'jazz', 'r&b and soul', 'electronic', 'rock', 'country', 'r&b and soul', 'r&b and soul', 'blues']","['jazz', 'r&b and soul', 'rock']",jazz,"['bebop', 'blues-rock', 'contemporary jazz', 'contemporary post-bop', 'cool jazz', 'gypsy jazz', 'jazz', 'jazz blues', 'jazz christmas', 'jazz funk', 'jazz fusion', 'modern blues', 'soul jazz', 'world', 'bebop', 'boogie', 'house', 'rock', 'country', 'soul', 'funk', 'blues']",22.0,0.0,0.09090909090909091,0.0,0.13636363636363635,0.045454545454545456,0.18181818181818182,0.0,0.5,0.0,0.0,0.0,0.0,0.045454545454545456,0.0,0.0,0.0,0.0,0.0
+433,John Medeski,[],None,"['pop', 'funk', 'jungle', 'world']",None,"['pop', 'r&b and soul', 'electronic', 'rock']","['r&b and soul', 'rock', 'pop']",r&b and soul,"['pop', 'funk', 'jungle', 'world']",4.0,0.0,0.0,0.0,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.0,0.0,0.0
+434,Chris Wood,[],None,"['rock', 'folk']",None,"['rock', 'folk']","['rock', 'folk']",rock,"['rock', 'folk']",2.0,0.5,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+435,Billy Martin,[],None,"['world', 'unknown']",None,"['rock', 'unknown']","['unknown', 'rock']",unknown,"['world', 'unknown']",2.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+436,Yoro Massa,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+437,Djam Rekk Sound DJ-Kollektiv,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+438,Sarah Buechi,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+439,Vincent Membrez,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+440,Christy Doran,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+441,Deafkid,['vapor pop'],None,None,['electronic'],['pop'],['pop'],pop,['vapor pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+442,Peter Meier,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+443,Gen Wüst,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+444,Roland Sauter,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+445,Jürg Käser,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+446,Walter Hotz,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+447,René Tanner,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+448,R,"['dance pop', 'dwn trap', 'hip hop', 'hip pop', 'pop', 'pop christmas', 'pop rap', 'r&b', 'rap', 'soul christmas', 'southern hip hop', 'urban contemporary']",None,['latin'],['classic'],"['pop', 'hip hop', 'hip hop', 'hip hop', 'pop', 'pop', 'pop', 'r&b and soul', 'hip hop', 'r&b and soul', 'hip hop', 'r&b and soul', 'latin']","['hip hop', 'pop', 'r&b and soul']",hip hop,"['dance pop', 'dwn trap', 'hip hop', 'hip pop', 'pop', 'pop christmas', 'pop rap', 'r&b', 'rap', 'soul christmas', 'southern hip hop', 'urban contemporary', 'latin']",13.0,0.0,0.0,0.0,0.0,0.0,0.23076923076923078,0.0,0.0,0.0,0.38461538461538464,0.0,0.0,0.0,0.07692307692307693,0.3076923076923077,0.0,0.0,0.0
+449,Julia Bauer,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+450,Alek Fester,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+451,Julia Marion,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+452,Junko Takayama,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+453,Alexandra Ivanova,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+454,Annette Labusch,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+455,Daniel Bentz,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+456,Sascha Litschi,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+457,Andreas Liebig,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+458,Michiko Hirayama,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+459,,[],None,"['world', 'african']",['classic'],"['rock', 'african']","['african', 'rock']",african,"['world', 'african']",2.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+460,Kornelia Bruggman,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+461,Endo Anaconda,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+462,Schifer Schafer,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+463,Salome Buser,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+464,Markus Fürst,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+465,Nils Mönkemeyer,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+466,Sabine Erdmann,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+467,Klaus-Dieter Brandt,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+468,Andi Czech,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+469,Stephan Thelen,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+470,Christian Kuntner,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+471,Benno Kaiser,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+472,Or Pellet,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+473,Roberto Koch,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+474,Johannes Gutfleisch,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+475,Sergej Nakariakov,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+476,Madeleine Lienhard,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+477,Werner und Company,[],None,None,"['pop', 'pop']","['pop', 'pop']",['pop'],pop,"['pop', 'pop']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+478,Edicson Ruiz,[],None,['classical'],['classic'],['orchestral'],['orchestral'],orchestral,['classical'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+479,Silla,['underground rap'],None,"['world', 'country', 'unknown']",None,"['hip hop', 'rock', 'country', 'unknown']","['unknown', 'country', 'rock']",unknown,"['underground rap', 'world', 'country', 'unknown']",4.0,0.0,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0
+480,Tinu Heiniger,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+481,Anton Sword & The We Ours,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+482,Nat Su,['vocaloid'],None,None,None,None,None,,['vocaloid'],0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+483,Adrian Mears,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+484,Patrice Moret,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+485,Dejan Terzic,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+486,Thomas Zehetmair,['violin'],None,['classical'],['classic'],['orchestral'],['orchestral'],orchestral,"['violin', 'classical']",1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+487,Ruth Killius,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+488,Berthold Seliger,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+489,Great Black Waters,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+490,Sandy Patton,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+491,Thomas Dürst,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+492,Ganesh Geymeier,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+493,Afrika Mkhize,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+494,Ayanda Sikade,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+495,Eric Alexander,"['contemporary post-bop', 'hard bop']",None,None,None,"['jazz', 'jazz']",['jazz'],jazz,"['contemporary post-bop', 'hard bop']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+496,Helmut Kagerer,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+497,Olivier Hutman,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+498,Viktor Nyberg,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+499,Bernd Reiter,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+500,Mirel Wagner,['finnish pop'],None,"['pop', 'world', 'blues', 'folk']",None,"['pop', 'pop', 'rock', 'blues', 'folk']","['pop', 'rock', 'blues']",pop,"['finnish pop', 'pop', 'world', 'blues', 'folk']",5.0,0.2,0.2,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0
+501,Matthieu Michel,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+502,Domenic Landolf,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+503,Christoph Stiefel,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+504,Asian Dub Foundation Soundsystem,[],None,"['dub', 'asian']",None,"['electronic', 'asian']","['asian', 'electronic']",asian,"['dub', 'asian']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0,0.0,0.0,0.0,0.0
+505,Saint Motel,"['folk-pop', 'indie pop', 'indie poptimism', 'indietronica', 'la indie', 'shimmer pop']",None,"['pop', 'britpop', 'rock', 'comedy']",['pop'],"['pop', 'pop', 'pop', 'electronic', 'pop', 'pop', 'pop', 'pop', 'rock', 'comedy']","['pop', 'comedy', 'rock']",pop,"['folk-pop', 'indie pop', 'indie poptimism', 'indietronica', 'la indie', 'shimmer pop', 'pop', 'britpop', 'rock', 'comedy']",10.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.7,0.1,0.0,0.0
+506,Ann Malcolm,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+507,Stephan Kurmann,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+508,Jorge Rossy,[],None,"['world', 'blues', 'house']",None,"['rock', 'blues', 'electronic']","['electronic', 'rock', 'blues']",electronic,"['world', 'blues', 'house']",3.0,0.0,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0
+509,Christoph Bösch,[],None,None,"['classic', 'classic']","['orchestral', 'orchestral']",['orchestral'],orchestral,"['classic', 'classic']",2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+510,Toshiko Sakakibara,[],None,None,"['classic', 'classic']","['orchestral', 'orchestral']",['orchestral'],orchestral,"['classic', 'classic']",2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+511,Max Asselborn,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+512,Michael Büttler,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+513,Giora Feidman,['klezmer'],None,['soul'],['classic'],['r&b and soul'],['r&b and soul'],r&b and soul,"['klezmer', 'soul']",1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+514,Jonas Tschanz,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+515,Felix Renggli,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+516,Heinz Holliger,"['choral', 'classical', 'classical flute', 'classical performance', 'harpsichord', 'orchestral']",None,['classical'],"['classic', 'classic']","['orchestral', 'orchestral', 'orchestral', 'orchestral', 'orchestral']",['orchestral'],orchestral,"['choral', 'classical', 'classical flute', 'classical performance', 'harpsichord', 'orchestral', 'classical']",5.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+517,Esther Hoppe,[],None,None,"['classic', 'classic']","['orchestral', 'orchestral']",['orchestral'],orchestral,"['classic', 'classic']",2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+518,Jürg Dähler,[],None,None,"['classic', 'classic']","['orchestral', 'orchestral']",['orchestral'],orchestral,"['classic', 'classic']",2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+519,Daniel Haefliger,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+520,Peter Vögeli,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+521,Souls Revival,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+522,Gianni Pontillo,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+523,Stefan Schroff,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+524,Luca Leombruni,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+525,Flavio Mezzodi,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+526,Irina Georgieva,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+527,Beatriz Blanco,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+528,Alexander Boldachev,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+529,Tamar Halperin,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+530,Arkady Shilkloper,[],None,['world'],None,['rock'],['rock'],rock,['world'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+531,Sergey Starostin,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+532,Misha Alperin,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+533,Sonia Borisova,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+534,Fabian Gubser,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+535,Felix Gubser,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+536,Benni Kammerer,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+537,Cato Nordby,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+538,Stepe Diener,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+539,Chrigu Müller,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+540,Black Milk & The Nat Turner,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+541,Aaron Abernathy,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+542,Mathieu Friz,[],None,None,['electronic'],['electronic'],['electronic'],electronic,['electronic'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+543,Simon Boss,[],None,None,['electronic'],['electronic'],['electronic'],electronic,['electronic'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+544,Rafael Scheiwiller,[],None,None,['electronic'],['electronic'],['electronic'],electronic,['electronic'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+545,Nici Struchen,[],None,None,['electronic'],['electronic'],['electronic'],electronic,['electronic'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+546,Benedikt Reising,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+547,Andreas Tschopp,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+548,Marc Unternährer,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+549,Rico Baumann,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+550,Pepe,"['banda', 'grupera', 'latin', 'latin pop', 'mariachi', 'norteno', 'ranchera', 'regional mexican']",None,None,None,"['latin', 'latin', 'latin', 'pop', 'latin', 'latin', 'latin']","['latin', 'pop']",latin,"['banda', 'grupera', 'latin', 'latin pop', 'mariachi', 'norteno', 'ranchera', 'regional mexican']",7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8571428571428571,0.14285714285714285,0.0,0.0,0.0
+551,Rangleklods,"['danish indie', 'danish pop']",None,None,['pop'],"['pop', 'pop']",['pop'],pop,"['danish indie', 'danish pop']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+552,Gérard Wyss,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+553,Françoise Matile,[],None,None,"['classic', 'classic']","['orchestral', 'orchestral']",['orchestral'],orchestral,"['classic', 'classic']",2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+554,Jenny Högström,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+555,Stefan Kahle,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+556,Akinobu Ono,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+557,Valerio Zanolli,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+558,Grégoire Maret,[],None,['blues'],None,['blues'],['blues'],blues,['blues'],1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+559,Jon Cowherd,[],None,"['pop', 'rock']",None,"['pop', 'rock']","['rock', 'pop']",rock,"['pop', 'rock']",2.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+560,Robert Kubiszyn,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+561,Kendrick Scott,['contemporary jazz'],None,['world'],None,"['jazz', 'rock']","['jazz', 'rock']",jazz,"['contemporary jazz', 'world']",2.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+562,Heidrun Wirth-Metzler,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+563,Mike & the Mechanics,"['album rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'soft rock']",None,"['pop', 'rock']",['pop'],"['rock', 'rock', 'hip hop', 'pop', 'rock', 'pop', 'rock', 'pop', 'rock']","['rock', 'pop', 'hip hop']",rock,"['album rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'pop', 'rock']",9.0,0.0,0.0,0.0,0.5555555555555556,0.0,0.0,0.0,0.0,0.0,0.1111111111111111,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0
+564,Withered Hand,['scottish rock'],None,"['pop', 'world', 'rock', 'folk']",None,"['rock', 'pop', 'rock', 'rock', 'folk']","['rock', 'pop', 'folk']",rock,"['scottish rock', 'pop', 'world', 'rock', 'folk']",5.0,0.2,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0
+565,Woodpigeon,[],None,"['latin', 'rock']",None,"['latin', 'rock']","['rock', 'latin']",rock,"['latin', 'rock']",2.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+566,C.A.R,"['alternative rock', 'chamber pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'lo-fi', 'neo-psychedelic', 'noise pop', 'preverb', 'stomp and holler']",None,None,None,"['rock', 'pop', 'folk', 'folk', 'pop', 'rock', 'avant-garde', 'pop', 'pop', 'r&b and soul']","['pop', 'rock', 'folk']",pop,"['alternative rock', 'chamber pop', 'freak folk', 'indie folk', 'indie pop', 'indie rock', 'lo-fi', 'neo-psychedelic', 'noise pop', 'preverb', 'stomp and holler']",10.0,0.2,0.0,0.0,0.2,0.0,0.1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0
+567,Martina Anselmo,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+568,Saskia Hein,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+569,Mihai Cocea,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+570,Sara Franchini,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+571,David Kilowsky,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+572,Bernhard Hörler,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+573,Sven Angelo Mindeci,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+574,Jojo Kunz,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+575,Urs Stirnimann,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+576,Céline Pasche,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+577,Hendrix Ackle,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+578,Urs Vögeli,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+579,Claude Meier,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+580,Emanuel Künzi,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+581,Benjamin Schmid,['violin'],None,None,['classic'],None,None,,['violin'],0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+582,Ariane Haering,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+583,Franziska Brücker,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+584,Simon Borer,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+585,Anna Trauffer,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+586,Emanuel Küenzi,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+587,Christoph Utzinger,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+588,Cloud Rat,['power violence'],None,['world'],None,"['rock', 'rock']",['rock'],rock,"['power violence', 'world']",2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+589,Zaz,['french pop'],None,None,['pop'],['pop'],['pop'],pop,['french pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+590,Paul & Gabriel,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+591,Sabaton,"['metal', 'power metal', 'swedish metal']",None,"['world', 'metal']",None,"['rock', 'rock', 'rock', 'rock', 'rock']",['rock'],rock,"['metal', 'power metal', 'swedish metal', 'world', 'metal']",5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+592,Serenity,[],None,['metal'],None,['rock'],['rock'],rock,['metal'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+593,Brainstorm,['p funk'],None,None,None,['r&b and soul'],['r&b and soul'],r&b and soul,['p funk'],1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+594,Serious Black,"['neo classical metal', 'neo-trad metal']",None,"['world', 'rock', 'house']",None,"['rock', 'rock', 'rock', 'rock', 'electronic']","['rock', 'electronic']",rock,"['neo classical metal', 'neo-trad metal', 'world', 'rock', 'house']",5.0,0.0,0.0,0.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0
+595,Alex Hendriksen,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+596,Fabian Gisler,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+597,Klaus Dickbauer,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+598,Benny Omerszell,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+599,Arnulf Ballhorn,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+600,works by Johannes Dickbauer,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+601,Andreas Jost,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+602,René Oswald,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+603,Martin Rabensteiner,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+604,Dirk Börner,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+605,Matthieu Camilleri,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+606,Andreas Böhlen,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+607,Dean Blunt,"['escape room', 'fluxwork', 'freak folk', 'indie r&b', 'outsider house', 'vaporwave']",None,"['pop', 'rap', 'rock', 'metal']",['electronic'],"['electronic', 'folk', 'r&b and soul', 'electronic', 'electronic', 'pop', 'hip hop', 'rock', 'rock']","['electronic', 'rock', 'hip hop']",electronic,"['escape room', 'fluxwork', 'freak folk', 'indie r&b', 'outsider house', 'vaporwave', 'pop', 'rap', 'rock', 'metal']",9.0,0.1111111111111111,0.0,0.0,0.2222222222222222,0.0,0.1111111111111111,0.0,0.0,0.0,0.1111111111111111,0.0,0.0,0.3333333333333333,0.0,0.1111111111111111,0.0,0.0,0.0
+608,DJs Lee Gamble,[],None,None,['electronic'],['electronic'],['electronic'],electronic,['electronic'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+609,Nicole Johänntgen,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+610,Indira Koch,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+611,Pezzo,[],None,"['pop', 'ragtime', 'african', 'latin', 'rock', 'country', 'folk', 'soul', 'metal', 'classical', 'asian', 'downtempo', 'electronic', 'blues']",None,"['pop', 'jazz', 'african', 'latin', 'rock', 'country', 'folk', 'r&b and soul', 'rock', 'orchestral', 'asian', 'electronic', 'electronic', 'blues']","['electronic', 'rock', 'r&b and soul']",electronic,"['pop', 'ragtime', 'african', 'latin', 'rock', 'country', 'folk', 'soul', 'metal', 'classical', 'asian', 'downtempo', 'electronic', 'blues']",14.0,0.07142857142857142,0.07142857142857142,0.07142857142857142,0.14285714285714285,0.07142857142857142,0.07142857142857142,0.0,0.07142857142857142,0.0,0.0,0.07142857142857142,0.07142857142857142,0.14285714285714285,0.07142857142857142,0.07142857142857142,0.0,0.0,0.0
+612,Clemens Schepperle,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+613,Christoph Schepperle,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+614,Marc Almond,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'synthpop']",None,"['pop', 'electropop', 'rock', 'son', 'synthpop']",['pop'],"['rock', 'pop', 'rock', 'pop', 'pop', 'pop', 'pop', 'rock', 'latin', 'pop']","['pop', 'rock', 'latin']",pop,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'synthpop', 'pop', 'electropop', 'rock', 'son', 'synthpop']",10.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.6,0.0,0.0,0.0
+615,The Delta Saints,"['alternative roots rock', 'electric blues', 'modern blues']",None,"['rock', 'americana', 'blues', 'funk']",None,"['rock', 'blues', 'blues', 'rock', 'country', 'blues', 'r&b and soul']","['blues', 'rock', 'r&b and soul']",blues,"['alternative roots rock', 'electric blues', 'modern blues', 'rock', 'americana', 'blues', 'funk']",7.0,0.0,0.42857142857142855,0.0,0.2857142857142857,0.14285714285714285,0.14285714285714285,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+616,Monte Carlo,[],None,['latin'],None,['latin'],['latin'],latin,['latin'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+617,Kensington,"['dutch pop', 'dutch rock']",None,"['country', 'house']",['pop'],"['pop', 'rock', 'country', 'electronic']","['country', 'rock', 'pop']",country,"['dutch pop', 'dutch rock', 'country', 'house']",4.0,0.0,0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.0,0.0,0.0
+618,Family of the Year,"['folk christmas', 'folk-pop', 'indie christmas', 'indie folk', 'indie pop', 'shimmer pop', 'stomp and holler']",None,"['pop', 'world', 'rock', 'folk', 'classic']",['pop'],"['folk', 'pop', 'pop', 'folk', 'pop', 'pop', 'r&b and soul', 'pop', 'rock', 'rock', 'folk', 'orchestral']","['pop', 'folk', 'rock']",pop,"['folk christmas', 'folk-pop', 'indie christmas', 'indie folk', 'indie pop', 'shimmer pop', 'stomp and holler', 'pop', 'world', 'rock', 'folk', 'classic']",12.0,0.25,0.0,0.08333333333333333,0.16666666666666666,0.0,0.08333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4166666666666667,0.0,0.0,0.0
+619,Jane Achtman,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+620,Irene Klein,[],None,['unknown'],['classic'],['unknown'],['unknown'],unknown,['unknown'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+621,Nelson Freiere,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+622,The Outside Track,"['celtic', 'irish folk', 'jig and reel']",None,"['celtic', 'folk']",None,"['folk', 'folk', 'r&b and soul', 'folk', 'folk']","['folk', 'r&b and soul']",folk,"['celtic', 'irish folk', 'jig and reel', 'celtic', 'folk']",5.0,0.8,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+623,Lukas Mantel,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+624,Weird Omen,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+625,Messer Chups & Zombirella,[],None,None,['electronic'],['electronic'],['electronic'],electronic,['electronic'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+626,Melissa Aldana,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+627,Pablo Menares,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+628,Jochen Rueckert,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+629,Oli Kehrli,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+630,Petter U. Johansen,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+631,Adam Taubitz,[],None,['pop'],None,['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+632,Costi Topalidis,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+633,Felix Klaus,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+634,Lluis Ribalta,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+635,Gletscher Fezzer,[],None,None,['traditional'],None,None,,['traditional'],0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+636,Walter Baumgartner,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+637,Elias Bernet,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+638,Bernhard Egger,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+639,Joel Allison,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+640,Sam Burckhardt,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+641,Cecile Mc Lorin Salvant Quintet,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+642,Cécile McLorin Salvant,['vocal jazz'],None,['classical'],None,"['jazz', 'orchestral']","['jazz', 'orchestral']",jazz,"['vocal jazz', 'classical']",2.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+643,Aaron Diehl,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+644,Paul Sikivie,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+645,Lawrence Leathers,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+646,Idan Raichel,"['israeli rock', 'mizrahi']",None,"['electro', 'world', 'folk']",None,"['rock', 'pop', 'rock', 'folk']","['rock', 'pop', 'folk']",rock,"['israeli rock', 'mizrahi', 'electro', 'world', 'folk']",4.0,0.25,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0
+647,Maya Avraham,"['israeli rock', 'mizrahi']",None,None,None,['rock'],['rock'],rock,"['israeli rock', 'mizrahi']",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+648,Avi Wogderess Vasa,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+649,Yogev Glusman,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+650,Marc Kakon,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+651,Alexander Neustroev,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+652,Adhd,[],None,"['world', 'house']",None,"['rock', 'electronic']","['rock', 'electronic']",rock,"['world', 'house']",2.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
+653,Laia Masramon,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+654,Pablo Kornfeld,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+655,Bane,"['chaotic hardcore', 'christian hardcore', 'emo', 'hardcore', 'mathcore', 'melodic hardcore', 'metalcore', 'straight edge']",None,['hardcore'],None,"['electronic', 'electronic', 'rock', 'electronic', 'rock', 'electronic', 'rock', 'jazz', 'electronic']","['electronic', 'rock', 'jazz']",electronic,"['chaotic hardcore', 'christian hardcore', 'emo', 'hardcore', 'mathcore', 'melodic hardcore', 'metalcore', 'straight edge', 'hardcore']",9.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.1111111111111111,0.0,0.0,0.0,0.0,0.5555555555555556,0.0,0.0,0.0,0.0,0.0
+656,Backtrack,"['alternative emo', 'chaotic hardcore', 'hardcore', 'melodic hardcore', 'straight edge']",None,None,None,"['rock', 'electronic', 'electronic', 'electronic', 'jazz']","['electronic', 'jazz', 'rock']",electronic,"['alternative emo', 'chaotic hardcore', 'hardcore', 'melodic hardcore', 'straight edge']",5.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0
+657,Tausend Löwen unter Feinden,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+658,dance animation by Alexander Martinez,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+659,John Garcia,"['psychedelic doom', 'retro metal', 'stoner metal', 'stoner rock']",None,None,None,"['rock', 'rock', 'rock', 'rock']",['rock'],rock,"['psychedelic doom', 'retro metal', 'stoner metal', 'stoner rock']",4.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+660,Bellhound Choir,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+661,Marc Storace,[],None,"['world', 'rock', 'metal', 'grunge', 'classic']",['classic'],"['rock', 'rock', 'rock', 'rock', 'orchestral']","['rock', 'orchestral']",rock,"['world', 'rock', 'metal', 'grunge', 'classic']",5.0,0.0,0.0,0.2,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+662,Jonas Gross,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+663,Florian Favre,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+664,Manu Hagmann,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+665,David Meier,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+666,Maurice Steger,[],None,['classical'],['classic'],['orchestral'],['orchestral'],orchestral,['classical'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+667,Leticia Kahraman,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+668,Marysol Schalit,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+669,Mikheil Sheshaberidze,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+670,Pilar Fontalba,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+671,Pierre Favre,[],None,"['latin', 'house']",None,"['latin', 'electronic']","['latin', 'electronic']",latin,"['latin', 'house']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0,0.0,0.0,0.0
+672,Chris Jaeger,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+673,Markus Lauterburg,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+674,Valeria Zangger,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+675,Yosvany Quintero,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+676,Gabriel Walter,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+677,Hannes Fankhauser,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+678,Benjamin Brodbeck,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+679,Martin Frutiger,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+680,Florian Walser,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+681,Diego Baroni,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+682,Michael von Schönermark,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+683,Silvan Schmid,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+684,Xaver Rüegg,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+685,Vincent Glanzmann,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+686,Selina Cuonz,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+687,Marija Wüthrich-Savicevic,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+688,Master-Abschlussrezital Florin Grüter,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+689,Bacchus,[],None,['latin'],['pop'],['latin'],['latin'],latin,['latin'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+690,Daniel Zisman,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+691,Sebastien Fulgido,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+692,Joe Jackson,"['album rock', 'art rock', 'classic rock', 'dance rock', 'folk', 'folk rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'power pop', 'pub rock', 'rock', 'roots rock', 'singer-songwriter', 'soft rock', 'synthpop']",None,"['pop', 'world', 'rock', 'ska', 'soul']",['pop'],"['rock', 'rock', 'rock', 'rock', 'folk', 'rock', 'hip hop', 'pop', 'rock', 'pop', 'rock', 'pop', 'rock', 'rock', 'rock', 'folk', 'rock', 'pop', 'pop', 'rock', 'rock', 'caribbean and caribbean-influenced', 'r&b and soul']","['rock', 'pop', 'folk']",rock,"['album rock', 'art rock', 'classic rock', 'dance rock', 'folk', 'folk rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'power pop', 'pub rock', 'rock', 'roots rock', 'singer-songwriter', 'soft rock', 'synthpop', 'pop', 'world', 'rock', 'ska', 'soul']",23.0,0.08695652173913043,0.0,0.0,0.5652173913043478,0.0,0.043478260869565216,0.0,0.0,0.0,0.043478260869565216,0.0,0.0,0.0,0.0,0.21739130434782608,0.0,0.0,0.043478260869565216
+693,Neck Deep,"['alternative emo', 'anthem emo', 'emo', 'pixie', 'pop punk', 'screamo']",None,"['pop', 'rock']",None,"['rock', 'rock', 'rock', 'rock', 'rock', 'pop', 'rock']","['rock', 'pop']",rock,"['alternative emo', 'anthem emo', 'emo', 'pixie', 'pop punk', 'screamo', 'pop', 'rock']",7.0,0.0,0.0,0.0,0.8571428571428571,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14285714285714285,0.0,0.0,0.0
+694,Creeper,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+695,WSTR,"['alternative emo', 'anthem emo', 'pixie', 'pop punk']",None,None,None,"['rock', 'rock', 'rock']",['rock'],rock,"['alternative emo', 'anthem emo', 'pixie', 'pop punk']",3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+696,Christoph Grab,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+697,Alessandro d'Episcopo,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+698,Haemi Haemmerli,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+699,Elmar Frey,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+700,King Gizzard & The Lizard Wizard,"['alt-indie rock', 'australian alternative rock', 'deep australian indie', 'freak folk', 'garage rock', 'neo-psychedelic']",None,['rock'],None,"['rock', 'rock', 'pop', 'folk', 'rock', 'pop', 'rock']","['rock', 'pop', 'folk']",rock,"['alt-indie rock', 'australian alternative rock', 'deep australian indie', 'freak folk', 'garage rock', 'neo-psychedelic', 'rock']",7.0,0.14285714285714285,0.0,0.0,0.5714285714285714,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2857142857142857,0.0,0.0,0.0
+701,Tracer,['deep melodic hard rock'],None,None,None,['rock'],['rock'],rock,['deep melodic hard rock'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+702,Toni Bechtold,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+703,David Heizmann,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+704,Louis Laury,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+705,Valentin von Fischer,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+706,Florian Hoesl,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+707,Andrea Wiesli,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+708,Scott Matthews,"['chamber pop', 'indie folk']",None,"['rock', 'folk', 'blues']",None,"['pop', 'folk', 'rock', 'folk', 'blues']","['folk', 'rock', 'pop']",folk,"['chamber pop', 'indie folk', 'rock', 'folk', 'blues']",5.0,0.4,0.2,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0
+709,Go Go Berlin,['danish pop'],None,['rock'],None,"['pop', 'rock']","['rock', 'pop']",rock,"['danish pop', 'rock']",2.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+710,Bê Betina Ignacio,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+711,Agata Wilewska,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+712,Charlotte Quadt,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+713,Thomas Michael Allen,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+714,Martin Hässler,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+715,Werner Van Mechelen,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+716,Elena González,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+717,Ai Yamamura,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+718,Årabrot,"['norwegian metal', 'norwegian rock']",None,"['electronic', 'rock', 'metal', 'noise']",None,"['rock', 'rock', 'electronic', 'rock', 'rock', 'avant-garde']","['rock', 'avant-garde', 'electronic']",rock,"['norwegian metal', 'norwegian rock', 'electronic', 'rock', 'metal', 'noise']",6.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.0,0.16666666666666666,0.0,0.0,0.0,0.0,0.0,0.16666666666666666,0.0,0.0,0.0,0.0,0.0
+719,Dominik Schürmann,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+720,Samuel Dühsler,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+721,Andrea Nydegger,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+722,Michael Baumann,[],None,['world'],['pop'],['rock'],['rock'],rock,['world'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+723,Jonas Brügger,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+724,Thilo Muster,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+725,Truls Mork,"['classical performance', 'orchestral', 'violin']",None,['classical'],['classic'],"['orchestral', 'orchestral', 'orchestral']",['orchestral'],orchestral,"['classical performance', 'orchestral', 'violin', 'classical']",3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+726,Severin Jenny,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+727,Stefan Gabele,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+728,Emanuele Jannibelli,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+729,Stéphane Fromageot,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+730,Christoph Kaufmann,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+731,Bruno Jundt,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+732,Andrea Grimm,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+733,Dominic Landolt,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+734,Ramon Landolt,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+735,Mario Hänni,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+736,Giorgia Milanesi,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+737,John Michael Bradford,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+738,Isaiah Thompson,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+739,Daniel Winshall,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+740,Jared Silverstein,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+741,Marco Bartoli,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+742,N.I.K.O,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+743,Paticia Samaniego,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+744,Cinzia Catania,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+745,Dylan Perron et Élixir de Gumbo,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+746,Alice Phoebe Lou,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+747,Mélanie Adami,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+748,Åsa Dornbusch,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+749,Rahel Sohn,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+750,Ingvo Clauder,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+751,Sabine Ercklentz,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+752,Keith Sterling Brewer Band,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+753,Alexandre Beuchat,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+754,Cunninlynguists,"['abstract hip hop', 'alternative hip hop', 'hardcore hip hop', 'hip hop', 'pop rap', 'underground rap']",None,"['rap', 'funk']",None,"['electronic', 'hip hop', 'hip hop', 'hip hop', 'pop', 'hip hop', 'hip hop', 'r&b and soul']","['hip hop', 'r&b and soul', 'pop']",hip hop,"['abstract hip hop', 'alternative hip hop', 'hardcore hip hop', 'hip hop', 'pop rap', 'underground rap', 'rap', 'funk']",8.0,0.0,0.0,0.0,0.0,0.0,0.125,0.0,0.0,0.0,0.625,0.0,0.0,0.125,0.0,0.125,0.0,0.0,0.0
+755,Coely,['belgian rock'],None,None,None,['rock'],['rock'],rock,['belgian rock'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+756,Frauenarzt,"['deep german hip hop', 'german hip hop']",None,['unknown'],None,"['electronic', 'electronic', 'unknown']","['electronic', 'unknown']",electronic,"['deep german hip hop', 'german hip hop', 'unknown']",3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.0,0.0,0.3333333333333333,0.0
+757,Audio 88 & Yassin,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+758,Katia Labèque,[],None,"['pop', 'house', 'son', 'ragtime', 'flamenco', 'rock']",['classic'],"['pop', 'electronic', 'latin', 'jazz', 'latin', 'rock']","['latin', 'jazz', 'rock']",latin,"['pop', 'house', 'son', 'ragtime', 'flamenco', 'rock']",6.0,0.0,0.0,0.0,0.16666666666666666,0.0,0.0,0.0,0.16666666666666666,0.0,0.0,0.0,0.0,0.16666666666666666,0.3333333333333333,0.16666666666666666,0.0,0.0,0.0
+759,Marielle Labèque,[],None,"['pop', 'house', 'son', 'ragtime', 'flamenco', 'rock']",['classic'],"['pop', 'electronic', 'latin', 'jazz', 'latin', 'rock']","['latin', 'jazz', 'rock']",latin,"['pop', 'house', 'son', 'ragtime', 'flamenco', 'rock']",6.0,0.0,0.0,0.0,0.16666666666666666,0.0,0.0,0.0,0.16666666666666666,0.0,0.0,0.0,0.0,0.16666666666666666,0.3333333333333333,0.16666666666666666,0.0,0.0,0.0
+760,Frances,"['indie anthem-folk', 'pop']",None,None,['pop'],"['folk', 'pop']","['pop', 'folk']",pop,"['indie anthem-folk', 'pop']",2.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+761,Bê Ignacio,[],None,None,"['pop', 'pop']","['pop', 'pop']",['pop'],pop,"['pop', 'pop']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+762,Or Pellet Santos,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+763,Edmundo Carneiro,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+764,Markus Schmidt,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+765,Selah Sue,['soul'],None,"['chanson', 'reggae', 'soul']",None,"['r&b and soul', 'pop', 'caribbean and caribbean-influenced', 'r&b and soul']","['r&b and soul', 'caribbean and caribbean-influenced', 'pop']",r&b and soul,"['soul', 'chanson', 'reggae', 'soul']",4.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.25
+766,Marlon Roudette,['german pop rock'],None,"['pop', 'reggae']",None,"['rock', 'pop', 'caribbean and caribbean-influenced']","['caribbean and caribbean-influenced', 'rock', 'pop']",caribbean and caribbean-influenced,"['german pop rock', 'pop', 'reggae']",3.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333
+767,Candy Dulfer,"['jazz christmas', 'smooth jazz']",None,"['pop', 'funk', 'soul']",None,"['jazz', 'jazz', 'pop', 'r&b and soul', 'r&b and soul']","['jazz', 'r&b and soul', 'pop']",jazz,"['jazz christmas', 'smooth jazz', 'pop', 'funk', 'soul']",5.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0
+768,Silvia Jost,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+769,Kathrin Hartmann,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+770,Yulianna Avdeeva,[],None,['classical'],['classic'],['orchestral'],['orchestral'],orchestral,['classical'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+771,Taras Berchtold,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+772,Roby Lakatos,[],None,['classical'],['classic'],['orchestral'],['orchestral'],orchestral,['classical'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+773,Gilles Apap,['violin'],None,"['blues', 'folk']",['classic'],"['blues', 'folk']","['blues', 'folk']",blues,"['violin', 'blues', 'folk']",2.0,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+774,Valery Sokolov,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+775,Volker Biesenbender,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+776,Luigi Archetti,[],None,None,['electronic'],['electronic'],['electronic'],electronic,['electronic'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+777,Bo Wiget,[],None,None,['electronic'],['electronic'],['electronic'],electronic,['electronic'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+778,Puerta Sur,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+779,Gabriel Dalvit,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+780,Dominique Girod,[],None,"['classical', 'electronic', 'folk']",None,"['orchestral', 'electronic', 'folk']","['electronic', 'orchestral', 'folk']",electronic,"['classical', 'electronic', 'folk']",3.0,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0
+781,Blackout Problems,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+782,Yak,[],None,['world'],None,['rock'],['rock'],rock,['world'],1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+783,Wintersleep,['canadian indie'],None,['rock'],None,"['pop', 'rock']","['rock', 'pop']",rock,"['canadian indie', 'rock']",2.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+784,Andrei Ionita,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+785,Yury Revich,[],None,['classical'],['classic'],['orchestral'],['orchestral'],orchestral,['classical'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+786,Petrit Ceku,['classical guitar'],None,['classical'],['classic'],"['orchestral', 'orchestral']",['orchestral'],orchestral,"['classical guitar', 'classical']",2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+787,Gauthier Toux,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+788,Kenneth Dahl Knudsen,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+789,Maxence Sibille,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+790,Norbert Brasser,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+791,Jürg Maag,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+792,Nicolas Stocker,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+793,Raphael Loher,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+794,Urs Müller,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+795,Ursula Hauser,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+796,Jamie Lidell,"['funk', 'soul']",None,"['techno', 'soul']",['pop'],"['r&b and soul', 'r&b and soul', 'electronic', 'r&b and soul']","['r&b and soul', 'electronic']",r&b and soul,"['funk', 'soul', 'techno', 'soul']",4.0,0.0,0.0,0.0,0.0,0.0,0.75,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0
+797,Negura Bunget,"['atmospheric black metal', 'avantgarde metal', 'black metal', 'blackgaze', 'doom metal', 'folk metal', 'neofolk', 'pagan black metal', 'post-metal', 'slavic metal', 'symphonic black metal', 'viking metal', 'voidgaze']",None,"['metal', 'folk']",None,"['rock', 'rock', 'rock', 'rock', 'rock', 'folk', 'rock', 'rock', 'rock', 'rock', 'rock', 'rock', 'folk']","['rock', 'folk']",rock,"['atmospheric black metal', 'avantgarde metal', 'black metal', 'blackgaze', 'doom metal', 'folk metal', 'neofolk', 'pagan black metal', 'post-metal', 'slavic metal', 'symphonic black metal', 'viking metal', 'voidgaze', 'metal', 'folk']",13.0,0.15384615384615385,0.0,0.0,0.8461538461538461,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+798,Ossific,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+799,Civil Civic,[],None,"['rock', 'electronic', 'noise']",None,"['rock', 'electronic', 'avant-garde']","['avant-garde', 'rock', 'electronic']",avant-garde,"['rock', 'electronic', 'noise']",3.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0
+800,Peter Schärli,[],None,['blues'],None,['blues'],['blues'],blues,['blues'],1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+801,Glenn Ferris,['jazz brass'],None,['son'],None,"['jazz', 'latin']","['jazz', 'latin']",jazz,"['jazz brass', 'son']",2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+802,Hans-Peter Pfammatter,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+803,Kristian Bezuidenhout,['classical performance'],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classical performance'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+804,Mija Läuchli,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+805,Pär Näsbom,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+806,Serafina Rufer,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+807,Florian Läuchli,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+808,Asa Konishi Jankowska,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+809,Silviya Savova-Hartkamp,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+810,Frauke Tometten Molino,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+811,Albert Hartkamp,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+812,Suguru Ito,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+813,Christoph Merki,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+814,Daniel Schenker,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+815,Ramon Ziegler,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+816,Lars Carl Schmid,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+817,Mario von Holten,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+818,Stephan Athanas,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+819,Tony Renold,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+820,Ziggy Tschigi Moser,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+821,Roman Groner,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+822,Martin Günthardt,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+823,Chris Linder,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+824,Arturo Arglos,[],None,None,['pop'],['pop'],['pop'],pop,['pop'],1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+825,Filip Micha Saffray,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+826,Ménilmontant,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+827,Brumes d'automne,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+828,Eduardo Machado Trio,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+829,Fernando Rast,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+830,Magatte N'diaye,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+831,Alessio Pianelli,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+832,Emanuel Rütsche,[],None,None,['classic'],['orchestral'],['orchestral'],orchestral,['classic'],1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+833,Silcan Jeger,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+834,Gabriela Friedli,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+835,Sandra Weiss,[],None,None,None,None,None,,None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
