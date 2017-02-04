@@ -27,6 +27,13 @@ We also want to have a desaggregated artists, that is every line of the datafram
 
 We now have the two dataframe we want and need for the visualisation in Tableau.
 
+###Visualization
+We first wrote a app using matplotlib, it was ugly and a lot of code but worked (see testVisualisation.py in Scrapping/events.ch/.old_visualisation/testVisualisation.py). Then we heard about the Tableau software for data visualiztion. We tested and adopted it because it was much faster, cleaner and easier to adapt than the matplotlib + basemap script we wrote before.
+
+The Tableau projet files are in Visualization.
+
+<img src="./Visualization/1.png" width="400">
+
 ##Abstract
 > Music is an art form and cultural activity whose medium is sound and silence, which exist in time. - Wikipedia  
 
