@@ -8,7 +8,7 @@ from ast import literal_eval
 import moreFunction
 
 
-PATH_DF = "FullDF_without_GPS.csv"
+PATH_DF = "FullDF.csv"
 PATH_ARTISTS = "Artists.csv"	
 PATH_DIC = "Dictionaries/"	
 filename_spotify_dic = "SpotifyDictionary"
@@ -16,6 +16,27 @@ filename_ra_dic = "ResidentAdvisorDictionary"
 filename_wiki_dic = "WikipediaDictionary"
 filename_genres = "DictionaryOfGenres"
 encoding = "utf-8"
+
+def correctMalformedLineups(DF):
+	i = 0
+	for id, row in DF.iterrows():
+		lineup = []
+		try:
+			lineup = literal_eval(row["artists"])
+		except:
+			#print("Malformed artists :"+str(row["artists"]))
+			artists = str(row["artists"])
+			artists = artists.replace("[","").replace("]","")
+			artists_list = artists.split(",")
+			i+=1
+			new_lineup = []
+			for a in artists_list:
+				a = a.title()
+				new_lineup.append(a.strip())
+			DF.loc[id,"artists"] = str(new_lineup)
+
+	print("Corrected : "+str(i)+" lineups")
+	return DF
 
 def getArtistsList(df):
 	df= df.fillna("None")
@@ -146,8 +167,7 @@ def downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki=None,
 			genres_wiki = dictionaryWiki.get(artist)
 		else:
 			genres_wiki = AE.getGenresFromWikipedia(artist,dictionaryOfGenres)
-			dictionaryWiki.update({artist : genres_wiki})
-			
+			dictionaryWiki.update({artist : genres_wiki})	
 			
 		#Get genres from Resident Advisor
 		genres_ra = None
@@ -392,16 +412,19 @@ def artistsPipeline(Events,dictionaryOfGenres=None,dictionarySpotify=None,dictio
         dictionaryRA = {}
     if(dictionaryWiki ==None):
         dictionaryWiki = {}
-    
+	
+    Events = correctMalformedLineups(Events)
     Artists,Events = getArtistsList(Events)
-    Artists = downloadGenresSpotify(Artists,dictionarySpotify) #Assign first styles
+    
+	#Artists = downloadGenresSpotify(Artists,dictionarySpotify) #Assign first styles
     
     #Creating the dictionary from artists
-    dicGenresArtists = createDictionnaryFromArtists(Artists)
+    #dicGenresArtists = createDictionnaryFromArtists(Artists)
     if(dictionaryOfGenres==None):
         dictionaryOfGenres = dicGenresArtists
     else:
-        dictionaryOfGenres.update(dicGenresArtists)
+		#dictionaryOfGenres.update(dicGenresArtists)
+		print("Updated dictionary "+filename_genres)
     
     #Getting genres from Wiki And RA
     Artists = downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki,dictionaryRA)
