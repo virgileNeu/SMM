@@ -165,9 +165,9 @@ def downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki=None,
 		genres_wiki = None
 		if(dictionaryWiki!=None and artist in dictionaryWiki):
 			genres_wiki = dictionaryWiki.get(artist)
-		else:
-			genres_wiki = AE.getGenresFromWikipedia(artist,dictionaryOfGenres)
-			dictionaryWiki.update({artist : genres_wiki})	
+		#else:
+		#	genres_wiki = AE.getGenresFromWikipedia(artist,dictionaryOfGenres)
+		#	dictionaryWiki.update({artist : genres_wiki})	
 			
 		#Get genres from Resident Advisor
 		genres_ra = None
