@@ -1,34 +1,1202 @@
+-Alte-Kirche	Boswil
+-Club	Dattakaya
+-Eglise-du-Pasquart	Biel
+-Festplatz-am-See	Losheim am See
+-Halle-1019	Raddestorf
+-Happy-Inn-Lodge	None
+-KuZeB	Gifu-shi
+-Maison-du-Peuple	Cotonou
+-Sud-des-Alpes	Grenoble
+-Temple-allemand	Biell/Bienne
+1 Rue de Chantepoulet, 1201 Geneva	Genève
+1007, Allée du Bornan 8, 1007 Lausanne	Lausanne
+1470 Estavayer-le-Lac	Estavayer-le-Lac
+1530 Payerne	Payerne
+17 via Stazione 17, 6532, Castione	Arbedo-Castione
+18 Chemin Adrien-Stoessel, Meyrin Geneva	Meyrin
+2 Rue De La Faucille Geneva	Genève
+2000, Neuchatel	Neuchâtel
+22 rue Cendrier, Geneva	Genève
+3011, Aarbergergasse 26, 3011 Bern	Bern
+4 Place des Volontaires, Geneva	Genève
+52, rue de Carouge - Genève	Genève
+53 Rue Jacques Dalphin	Carouge
+6 BD des Philosophes, 1205, Genève	Genève
+7270 Davos-Platz, Davos	Davos Platz
+73 Rue des Vollandes, 1207 Geneva	Genève
+8038 Zürich	Zürich
+9 Rue du Tunnel, Geneva, 1227	Carouge
+AFG-Arena	St. Gallen
 Aarau	Aarau
-Baden	None
+Aarberg	Aarberg
+Aarbergergasse 33/35, 3011, Bern	Bern
+Aarbergergasse 35, 3011, Bern	Bern
+Aarbergstrasse 72, Biel	Biel
+Aarburg	Aarburg
+Aaredelta-Grien	Richmond
+Aarwangen	Aarwangen
+Adelboden	Adelboden
+Adliswil	Adliswil
+Aeugstertal	Aeugstertal
+Affoltern-am-Albis	Affoltern am Albis
+Albani-Music-Club	Winterthur
+Alberswil	Alberswil
+Albulastrasse 40, 8048, Zurich	Zürich
+Allmend	None
+Allmendstreet 14, 3600, Thun	Thun
+Allschwil	Allschwil
+Allée du Bornan 8, 1007 Lausanne	Lausanne
+Alpnachstad	Alpnach
+Alt-St.-Johann	Alt St Johann
+Alte-Kaserne	Zürich
+Alte-Taverne	Adelboden
+Alterswil	Alterswil
+Altes-Spital	Solothurn
+Altes-Stadthaus	Berlin
+Alti-Moschti	Mühlethurnen
+Altikon	Altikon
+Altnau	Altnau
+Altstadt	Zürich
+Amboss-Rampe	Zürich
+Amphitheater	Hüntwangen
+Amriswil	Amriswil
+Amsoldingen	Amsoldingen
+Andelfingen	None
+Andermatt	Andermatt
+Annecy	Annecy
+Annemasse	Annemasse
+Appenzell	Appenzell District
+Arbon	Arbon
+Archstr. 8, 8401 Winterthur	Winterthur
+Areal-Kapelle-St.-Peter	None
+Arena-Genève	Le Grand-Saconnex
+Aristau	Aristau
+Arlesheim	Arlesheim
+Arosa	Arosa
+Arosio	None
+Arsenalstrasse 28, 6010, Kriens	Kriens
+Arth	Arth
+Ascona	Ascona
+Association GUS, Rue des Vieux-Grenadiers 10, 1205 Genève	Genève
+Auditorium-Stravinski	Montreux
+Auf dem Wolf 4, 4053 Basel	Basel
+Auf dem Wolf 4, 4057, Basel	Basel
+Augustinerhof, 8001 Zürich	Zürich
+Av. de Sévelin 34, 1004, Lausanne	Lausanne
+Av. de Tivoli 3, 1700, Fribourg	Fribourg
+Avegno	Avegno
+Avenches	Avenches
+Avenue Bergières 10, 1004 Lausanne	Lausanne
+Avenue Claude-Nobs 2 Montreux	Montreux
+Avenue de Gilamont 60, 1800, Vevey	Vevey
+Avenue de la Gare 28, 1950, Sion	Sion
+Avenue de la Gare 28, Sion	Sion
+Avenue de la Jonction 5, 1205 Genève	Genève
+Avenue du Général-Guisan 30, 1800, Vevey	Vevey
+Avully	Avully
+B?lach	Zürich
+Baar	Baar
+Bad Ragaz	Bad Ragaz
+Bad-Bonn	Düdingen
+Bad-Ragaz	Bad Ragaz
+Baden	Baden
+Bagnes	Bagnes
+Bahnhof Enge / Gutenbergstrasse 1, 8002 Zürich	Zürich
+Bahnhofplatz 1, 3900, Brig	Brig
+Bahnhofstrasse 1, 8712 Stäfa	Stäfa
+Bale (Basel)	Basel
+Balgach	Balgach
+Ballwil	Ballwil
+Balsthal	Balsthal
+Bar	Luzern
+Bar-3000	Zürich
 Bar-Rossi	Zürich
+Bar-Tantpis	Zürich
+Barfussbar	Zürich
+Baronessa	Lenzburg
 Basel	Basel
+Baselstrasse 24, 6003 Luzern	Luzern
+Baselstrasse 46, 6003 Luzern	Luzern
+Baslerstrasse 50, 8048, Zürich	Zürich
+Bassersdorf	Bassersdorf
+Bauen	Bauen
+Baumgartenstrasse 19, 8200 Schaffhausen	Schaffhausen
+Baumgartenstrasse 19, 8200, Schaffhausen	Schaffhausen
+Bazenheid	Kirchberg
+Bazillus	Allschwil
+BeJazz-Club-(Vidmarhallen)	Liebefeld
+Beckenried	Beckenried
+Belforterstrasse 135, 4055 Basel	Basel
+Bellerivestrasse, 8008 Zürich	Zürich
+Bellevuepl. 5, 8001 Zürich	Zürich
+Bellinzona	Bellinzona
+Belpstrasse 24, 3122, Kehrsatz	Kehrsatz
+Bendicht-Rechberger-Strasse 1, 2502 Biel	Biel
+Bergstation Corviglia, 7500 St. Moritz	St. Moritz
+Berikon	Berikon
 Bern	Bern
+Berneck	Berneck
+Bernexpo	Bern
+Besancon	Besançon
+Biel	Biel/Bienne
+Bienne	Biel/Bienne
+Bierhübeli	Grossaffoltern
+Biglen	Biglen
+Bignasco	Bignasco
 Binningen	Binningen
+Binningerstr. 14 Basel	Basel
+Binningerstrasse 14	Basel
+Binningerstrasse 14, 4051, Basel	Basel
+Binningerstrasse 7, 4051 Basel	Basel
+Birmensdorf	Birmensdorf
+Birmenstorf	Birmenstorf
+Birr	Birr
+Birrhard	Birrhard
+Birsfelden	Birsfelden
+Bischofszell	None
+Blatterwiese	Zürich
+Bleu-Lezard	Lausanne
+Blumenbergplatz, 9004, St.Gallen	St. Gallen
+Bogen-F	Zürich
+Bolligen	Bolligen
+Bolligenstrasse 79a, Bern	Bern
+Boncourt	Boncourt
+Bondo	Bondo
+Bonn 2, 3186, Düdingen	Düdingen
+Bonstetten	Bonstetten
+Bossard-Arena	Zug
+Boswil	Boswil
+Bottmingen	Bottmingen
+Boulevard Helvétique 10, 1206, Genève	Genève
+Boulevard de Pérolles 91, Fribourg	Fribourg
+Boulogne Sur Mer	Boulogne-sur-Mer
+Bourg En Bresse	Bourg-en-Bresse
+Br?tten	Britten
+Brienz	Brienz
+Brig	Brig
+Brislach	Brislach
+Brontallo	Lavizzara
+Brugg	Brugg
+Brunnadern	Brunnadern
+Brunnen	None
+Brütten	Brütten
+Bubendorf	Bubendorf
+Bubikon	Bubikon
+Buchberg	Buchberg
 Buchs	Buchs
+Bulle	Bulle
+Buochs	Buochs
+Burgdorf	Burgdorf
+Burghof-Lörrach	Lörrach
+Bäretswil	Bäretswil
+Bönigstrasse 17, 3800 Matten bei Interlaken	Interlaken
+Bülach	Bülach
+Büren-an-der-Aare	Büren an der Aare
+CC de Meyrin, Avenue de Feuillasse 24, 1217 Meyrin	Meyrin
+Café-Kairo	Bern
+Cargo-Bar	Basel
+Carouge	Carouge
+Carrefour de l’Etoile 1, 1227, Carouge	Carouge
+Casino-Herisau	Herisau
+Casinotheater	Winterthur
+Centre-de-Congrès-le-Régent	Lens
+Cevio	Cevio
+Ch.-du-Stand-5	Pully
+Ch?teau-d'Oex	Château-d'Oex
+Cham	Cham
+Chambery	Chambéry
+Chamonix Mont Blanc	Chamonix
+Chatelaine Le Lignon Geneve	Genève
+Chemin de la Gravière 9, 1227 Genève	Genève
+Chemin des Batailles 22, 1214 Vernier	Vernier
+Chemin du Stand 5, Pully, 1009	Pully
+Chemin du Viaduc, 1008 Prilly	Prilly
+Chene Bougeries	Chêne-Bougeries
+Chiasso	Chiasso
+Chollerhalle	Zug
+Christoffelunterführung 2 CH- 3011 Bern	Bern
+Chur	Chur
+Château-d'Oex	Château-d'Oex
+Châtelaine, Chemin de l'Etang 55, 1219 Châtelaine	Châtelaine
+Chêne-Bourg	Chêne-Bourg
+Citykirche-Offener-St.-Jakob	Zürich
+Collonge Bellerive	Collonge-Bellerive
+Confignon	Confignon
+Crans-Montana	Crans-Montana
+Crissier	Crissier
+Cry-d'Er	Lens
+Cully	Bourg-en-Lavaux
+Cully-Jazz-Festival	Bourg-en-Lavaux
+D!-Club	Lausanne
+D?bendorf	Bendorf
+D?dingen	Dingen
+D?rnten	Dronten
+Dampfzentrale	Bern
+Davos	Davos
+Degen	Lumnezia
+Degersheim	Degersheim
+Delemont	Delémont
+Delle	Delle
+Dielsdorf	Dielsdorf
+Dienerstrasse 33, 8004 Zürich	Zürich
+Dietikon	Dietikon
+Dietlikon	Dietlikon
+Dini-Mueter	Zürich
+District-4	Tehran
+Divonne Les Bains	Divonne-les-Bains
+Dolder-Sports	Zürich
+Dornach	Dornach
+Dornacherstrasse 192, 4053 Basel	Basel
+Dottikon	Dottikon
+Dracula-Club	St Moritz
+Dreispitz-Sport-&-Kulturzentrum	Kreuzlingen
+Duedingen	Düdingen
+Dynamo	Zürich
+Dübendorf	Dübendorf
+Düdingen	Düdingen
+Dürnten	Dürnten
+Ebikon	Ebikon
+Ecole de Médecine 7, 1205 Geneva	Genève
+Edlibach	None
+Effretikon	Effretikon
+Eglisau	Eglisau
+Einsiedeln	Einsiedeln
+Eisenwerk	Frauenfeld
+Eishalle-Wetzikon	Wetzikon
 El-Lokal	Zürich
 Elgg	Elgg
+Embrach	Embrach
+Emmenbr?cke	Emmen
+Emmenbrücke	Emmen
+Englers-am-See	Rorschach
+Ennenda	Ennenda
+Ennetb?rgen	Ennetbürgen
+Ennetbaden	Ennetbaden
+Ennetbürgen	Ennetbürgen
+Epalinges	Épalinges
+Erlach	Erlach
+Erlen	Erlen
+Erlenstrasse 21-32, 4058, Basel	Basel
+Erlenstrasse 34, 4058 Basel	Basel
+Erlenstrasse 59, 4057, Basel	Basel
+Ermatingen	Ermatingen
+Ernen	Ernen
+Erschwil	Erschwil
+Eschlikon	Eschlikon
+Espace-Malley	Prilly
+Esplanade de l'ancienne gare, 1700 Fribourg	Fribourg
 Esse-Musicbar	Winterthur
+Estavayer le Lac	Estavayer-le-Lac
+Estavayer-le-Lac	Estavayer-le-Lac
+Estrich	Bodnegg
+Etagnieres	Étagnières
+Ettingen	Ettingen
+Ettiswil	Ettiswil
+Etziken	Etziken
+Eulachhallen	Winterthur
+Europaplatz 1, 6005 Luzern	Luzern
+Evian Les Bains	Évian-les-Bains
+Exil	Zürich
+Ey 5A, 3063, Ittigen	Ittigen
+Fabrikstrasse 1, 4500, Solothurn	Solothurn
+Fabriktheater-(Rote-Fabrik)	Zürich
+Fahrwangen	Fahrwangen
+Fakt-Kunst-und-Musik	Basel
+Falera	Falera
+Fallengässli, 9470, Buchs	Buchs
+Fbg de l'Hôpital 16, 2000 Neuchâtel	Neuchâtel
+Feldbrunnen	Feldbrunnen-St. Niklaus
+Festivalgelände	Wetzikon
+Festivalgelände-am-Rotten	None
+Feuerthalen	Feuerthalen
+Fischenthal	Fischenthal
+Fischingen	Fischingen
+Fischmarktplatz	Rapperswil-Jona
+Fislisbach	Fislisbach
 Flawil	Flawil
+Flims-Dorf	Flims
+Flugplatzareal	Mollis
+Flurlingen	Flurlingen
+Flösserstrasse 7, 5000, Aarau	Aarau
+Flüelen	Flüelen
+Fontaine	Lu'shi
+Frankfurt Strasse 36, 4023, Basel	Basel
+Frankfurt-Strasse 36 4142 Münchenstein	Basel
+Frauenfeld	Frauenfeld
+Freienbach	Freienbach
+Freienstein	Freienstein-Teufen
+Frenkendorf	Frenkendorf
+Fri-Son	Fribourg
+Fribourg	Fribourg
+Friby-Hof	Gams
 Frick	Frick
+Friedaustrasse 23, 8003, Zürich	Zürich
+Froburgstrasse 7, 4600 Olten	Olten
+Frutigen	Frutigen
+Förlibuckstrasse 180, 8005 Zürich	Zürich
+Förrlibuckstrasse 109, 8005 Zürich	Zürich
+Förrlibuckstrasse 109, 8005, Zurich	Zürich
+Förrlibuckstrasse 151, 8005, Zürich	Zürich
+Füllinsdorf	Füllinsdorf
+Galvanik	Zug
+Gampel	Gampel-Bratsch
+Gams	Gams
+Gare-de-Lion	Wil
+Gare-du-Nord	Paris
+Gaswerk	Winterthur
+Gebenstorf	Gebenstorf
+Geissensteinring 14, 6005, Luzern	Luzern
+Gelfingen	Gelfingen
+Gelterkinden	Gelterkinden
+Geneve	Geneva
+Genthod	Genthod
+Gerlafingen	Gerlafingen
+Geroldstrasse 17, 8005, Zürich	Zürich
+Geroldstrasse 5, 8005, Zurich	Zürich
+Geroldswil	Geroldswil
+Gessnerallee-Zürich	Zürich
+Giebenacherstrasse 40 4302 Augst	Augst
+Giswil	Giswil
+Giumaglio	Giumaglio
+Glarus	Glarus
+Glattbrugg	Opfikon
+Glattfelden	Glattfelden
+Glutzenhofstrasse 3, 4500 Solothurn	Solothurn
+Goldau	Goldau
+Gr?nichen	Gränichen
+Gr?ningen	Groningen
+Grabenhalle	St. Gallen
+Grand Lancy	None
+Grand Saconnex	Grand-Saconnex
+Grand-Casino-Basel	Basel
+Grand-Places 14, 1701, Fribourg	Fribourg
+Grand-Rue 36, 1700 Fribourg	Fribourg
+Grand-Rue 68, 1700 Fribourg	Fribourg
+Grand-Rue 95, 1820, Montreux	Montreux
+Greifensee	Greifensee
+Grenchen	Grenchen
+Gretzenbach	Gretzenbach
 Grindelwald	Grindelwald
+Grosshöchstetten	Grosshöchstetten
+Grubenstrasse 15, Zürich	Zürich
+Gränichen	Gränichen
+Grüningen	Grüningen
+Gstaad	Saanen
+Gurtenfestival	Köniz
+Gutenbergstrasse 1, 8002 Zürich	Zürich
+H?ggenschwil	Häggenschwil
+H?gglingen	None
+H?ntwangen	Hüntwangen
+Habere Poche	Habère-Poche
+Haberhaus-Kulturklub	Schaffhausen
+Hacienda-Sonic	Sierre
+Hafen Murten, Murten / FR /	Murten
+Hafenkneipe	Zürich
+Hagenaustrasse 29, 4056, Basel	Basel
+Halden Strasse 6, 6006, Lucerne	Luzern
+Hallau	Hallau
+Hallenstadion	Zürich
+Hardstrasse 219, 8005 Zürich	Zürich
+Hardstrasse 245, 8005, Zürich	Zürich
+Hardturmstrasse 169, 8005, Zürich	Zürich
+Hasliberg-Hohfluh	Hasliberg
+Hauptstrasse 35, 8280 Kreuzlingen	Kreuzlingen
+Hauptwil	Hauptwil-Gottshaus
+Haus-zum-Himmel	Pieterlen
+Hauser’s-Hotel	None
+Hedingen	Hedingen
+Heerbrugg	Heerbrugg
+Heiden	Heiden
+Heimberg	Heimberg
+Heimiswil	Heimiswil
+Heiternplatz	Zofingen
+Helsinki	HKI
+Helvetiaplatz-&-Molkenstrasse	Zürich
+Hergiswil	Hergiswil
+Herisau	Herisau
+Hermatswil	Hermatswil
+Hermetschloostrasse 70, 8048 Zürich	Zürich
+Herrenacker	Schaffhausen
+Herrliberg	Herrliberg
+Herzogenbuchsee	Herzogenbuchsee
+Hey-City-of-Music	Zürich
+Hilterfingen	Hilterfingen
+Hinterhof	Basel
+Hinwil	Hinwil
+Hirschthal	Hirschthal
+Hive-Club	Zürich
+Hochdorf	Hochdorf
+Hochwald	Hochwald
+Hohlstrasse 18, 8004, Zürich	Zürich
+Hohlstrasse 452, 8048 Zürich	Zürich
+Hohlstrasse 457, 8048, Zürich	Zürich
+Holenstein Ost 8750 Glarus	Glarus
+Hombrechtikon	Hombrechtikon
+Horgen	Horgen
+Horn	Horn
+Horn, 8714 Richterswil	Richterswil
+Hornussen	Hornussen
+Horw	Horw
+Hotel-Krone	Zürich
+Hotel-Wetterhorn	None
+Hubstrasse 27, 9500 Wil	Wil
+Hunzenschwil	Hunzenschwil
+Huttwil	Huttwil
+Häggenschwil	Häggenschwil
+Härterei-Club	Zürich
 ISC-Club	Bern
+Il-Caffè	None
+Ile Rousseau, 1200 Geneva	Genève
+Illnau	Effretikon
+Im Alten Riet 22, 9494 Schaan, Liechtenstein	Schaan
+Industriestrasse 36, 4600, Olten	Olten
+Industriestrasse 5, 6005 Luzern	Luzern
+Industriestrasse Gebäude C, 8575, Bürglen	Bürglen
+Industriestrasse, Gebäude C Bürglen	Bürglen
+Ins	Ins
+Inseliquai 12, 6005 Luzern	Luzern
+Interlaken	Interlaken
+Jazzclub-Allmend	Oberengstringen
+Jazzkantine	Luzern
+Jenseits-im-Viadukt	Zürich
+Jona	Jona
+Jonschwil	Jonschwil
+Jugendkulturhaus-Flösserplatz	Aarau
+K?niz	Niz
+K?ssnacht-am-Rigi	Küssnacht
+KKL	Luzern
+Kafi-für-Dich	Zürich
+Kaiserstuhl	Endingen am Kaiserstuhl
+Kalanderplatz 1, 8045, Zürich	Zürich
+Kaltbrunn	Kaltbrunn
+Kammgarn	Schaffhausen
+Kanonengasse 16, 8004, Zürich	Zürich
+Kanonengasse 20, 8004, Zürich	Zürich
+Kappel-am-Albis	Kappel am Albis
+Kaserne	Basel
+Kaufdorf	Kaufdorf
+Kaufleuten	Zürich
+Kestenholz	Kestenholz
+KiFF	Aarau
+Kinski	None
+Kirchberg	Kirchberg
+Kirche-Neumünster	Zürich
+Kirchplatz	Sirnach
+Klingental 18, 4058 Basel	Basel
+Kloster Fahr-Weg, 8006 Zürich	Zürich
+Klosterberg 13, 4051, Basel	Basel
 Klosters	Klosters-Serneus
 Kloten	Kloten
+Klybeckstrasse 1b, 4057, Basel	Basel
+Klybeckstrasse 95, 4057 Basel	Basel
+Komplex-457	Zürich
+Komplex-Klub	Zürich
+Kongresshaus	Zürich
+Kontrollstrasse 26, 2502, Biel	Biel
+Konzepthalle-6	Thun
+Kornhausplatz 18, 3000, Bern	Bern
+Kraftfeld	Winterthur
+Krempel	Krempel
+KreuzKultur	Solothurn
+Kreuzlingen	Kreuzlingen
+Kriens	Kriens
+Kriessernstrasse, 9462, Montlingen	Oberriet
+Krummenau	Nesslau-Krummenau
+Kugl-Kultur-am-Gleis	St. Gallen
+Kultur-Cinema	Arbon
+Kultur-Kreuz-Nidau	Nidau
+Kulturclub-Maison-Pierre	Burgdorf
+Kulturfabrik Wetzikon, Zürcherstrasse 40/42	Wetzikon
+Kulturfabrik-KUFA	Lyss
 Kulturfabrik-Kofmehl	Solothurn
+Kulturfabrik-Wetzikon	Wetzikon
+Kulturhof-Schloss-Köniz	Köniz
+Kulturlokal-Mariaberg	Rorschach
+Kulturwerk-118	Sursee
+Kultwerk	Freiburg im Breisgau
+Kunstraum-Walcheturm	Zürich
+Kuppel	Selb
+Kurzgasse, 8004 Zürich	Zürich
+Kyburg	Kyburg
+Köniz	Köniz
+Köniz, 3098, 9 Schulhausgässli, CH	Köniz
+Künten	Künten
+LUZ-Seebistro	Luzern
+La Chaux de Fond	La Chaux-de-Fonds
+La Chaux du Milieu	La Chaux-du-Milieu
+La Tour de Peilz	La Tour-de-Peilz
+La Voie-de-Moëns 26, 1218, Grand-Saconnex	Le Grand-Saconnex
+La-Catrina	Zürich
+La-Chaux-de-Fonds	La Chaux-de-Fonds
+La-Punt-Chamues-ch	La Punt-Chamues-ch
+La-Sagne	La Sagne
+La-Spirale	Fribourg
+La-Tour-de-Peilz	La Tour-de-Peilz
+La-Tour-de-Tr?me	La Tour-de-Trême
+Lac Léman	None
+Lagerplatz 18, 8400, Winterthur	Winterthur
+Landquart	Landquart
+Langenthal	Langenthal
+Langnau-am-Albis	Langnau am Albis
+Langstrasse 112, 8004 Zürich	Zürich
+Langstrasse 117, Zürich	Zürich
+Langstrasse 92, 8004 Zürich	Zürich
+Langstrasse 93, 8004, Zürich	Zürich
+Langstrasse Zürich, ZH	Zürich
+Laufen	Laufen
+Laufenburg	Laufenburg
+Lausanne	Lausanne
+Lausen	Lausen
+Lavin	Zernez
+Le Château, 1400 Yverdon-les-Bains	Yverdon-les-Bains
+Le Lignon	Le Lignon
+Le Locle	Le Locle
+Le Noirmont	Le Noirmont
+Le Paquier	Le Pâquier
+Le-Bourg	Lausanne
+Le-Lignon	Le Lignon
+Le-Locle	Le Locle
+Le-Noirmont	Le Noirmont
+Le-Romandie	Lausanne
 Lebewohlfabrik	Zürich
+Lehenmattstrasse 353, 4052 Basel	Basel
+Lenk-im-Simmental	Lenk im Simmental
+Lenzburg	Lenzburg
+Lenzerheide	Vaz/Obervaz
+Les Acacias	Genève
+Les Caves du Manoir Place du Manoir 1 CP 240 CH-1920 Martigny	Martigny
+Les Houches	Les Houches
+Les-Agettes	Les Agettes
+Les-Diablerets	Les Diablerets
+Les-Docks	Lausanne
+Les-Jeunes-Rives	Neuchâtel
+Leukerbad	Leukerbad
+Leysin	Leysin
+Lichtensteig	Lichtensteig
 Liebefeld	Liebefeld
+Liestal	Liestal
+Ligerz	Ligerz
+Limmatstrasse 118, 8031, Zürich	Zürich
+Limmatstrasse 195, 8005, Zürich	Zürich
+Limmatstrasse 275, 8005 Zürich	Zürich
+Lindau	Lindau
+Linsebühlstrasse 77, 9000 St. Gallen	St. Gallen
+Locarno	Locarno
+Longstreet-Bar	Zürich
+Lucerne	Lucerne
+Lufingen	Lufingen
+Lugano	Lugano
+Lungolago Giuseppe Motta 7, 6600 Locarno	Locarno
+Lupfig	Lupfig
+Lutry	Lutry
 Luzern	Lucerne
+Luzernstrasse 9, 4500, Solothurn	Solothurn
+Lyon	Lyon
+Lyss	Lyss
+Längenbühl	Längenbühl
+Löwengraben 18, 6004, Luzern	Luzern
+Löwenstrasse 2, 8001, Zürich	Zürich
+M?hlethurnen	None
+M?nchenbuchsee	Münchenbuchsee
+M?nchenstein	Münchenstein
+M?nchenwiler	None
+M?nnedorf	Männedorf
+M?riken	None
+M?tiers	Tiers
+MAAG-Halle	Zürich
+Maggia	Maggia
+Mahogany-Hall	Bern
+Maienfeld	Maienfeld
+Maisprach	Maisprach
+Malters	Malters
+Marcellaz	Marcellaz
+Mariastein	None
+Markplatz 34, Basel 4001	Basel
+Marktgasse 14, 8001, Zürich	Zürich
+Marktpl. 34, 4001 Basel	Basel
+Marktplatz	St. Gallen
+Marktplatz 34, 4051, Basel	Basel
+Marly	Marly
+Martigny	Martigny
+Maschwanden	Maschwanden
+Mascotte	Zürich
+Maulbeerstrasse 3, Bern	Bern
+Maur	Maur
+Meggen	Meggen
+Meilen	None
+Meinier	Meinier
+Meiringen	Meiringen
+Meisterschwanden	Meisterschwanden
+Mels	Mels
+Mendrisio	Mendrisio
+Menziken	Menziken
+Merenschwand	Merenschwand
+Merkker	Baden
+Messen	Messen
+Metronom	Felben-Wellhausen
+Metzgerstrasse 1, 8500 Frauenfeld	Frauenfeld
+Meyrin	Meyrin
+Meythet	Meythet
+Mezieres	Mézières
+Militärstrasse 84, 8004 Zürich	Zürich
+Moa Club, 22 Chemin des Batailles, CP 575, 1214 Vernier	Vernier
 Mokka	Mocha
+Monthey	Monthey
+Montreux	Montreux
+Montreux Jazz Festival, 1820 Montreux	Montreux
+Montreux-Music-&-Convention-Centre	Montreux
+Moods	Zürich
+Moonwalker-Music-Club	Aarburg
+Moortal	Gränichen
+Morges	Morges
+Morgins	Morgins
+Mozart	Rorschach
+Munchenstein	Münchenstein
+Mundwerk	Zürich
+Muntelier	Muntelier
+Murg	Murg
+Murten	Murten
+Museum-Tinguely	Basel
+Music-Bar-Galery	Pratteln
+Musigbistrot	Bern
+Musik-Container	Uster
+Musikzentrum-Sedel	Emmen
+Muttenz	Muttenz
+Muttenzerweg, 4052 Basel	Basel
+Mythenquai 61, 8002 Zürich	Zürich
+Mythenquai 95, 8002 Zürich	Zürich
+Männedorf	Männedorf
+Môtiers	Val-de-Travers
+Mönchaltorf	Mönchaltorf
+Möriken	Möriken-Wildegg
+Mühle-Hunziken	Rubigen
+Mühlenplatz 11, Bern	Bern
+Mühlethurnen	Mühlethurnen
+Münchenbuchsee	Münchenbuchsee
+Münchenstein	Münchenstein
+Münchensteinerstrasse 1, 4052 Basel	Basel
+Münchensteinerstrasse 81, 4052, Basel	Basel
+Münchenwiler	Murten
+N?fels	Larochette
+Naters	Naters
+Nationales-Sportzentrum	Huttwil
+Neu-St.-Johann	Nesslau-Krummenau
+Neubrückstrasse 8, 3011, Bern	Bern
+Neubrückstrasse 8, 3012 Bern	Bern
+Neuchatel	Neuchâtel
+Neuheim	Neuheim
+Neumarktstrasse 35, 2503, Biel	Biel/Bienne
+Neuweilerstrasse 139, 4123 Allschwil	Allschwil
+Nidau	Nidau
+Niederbüren	Niederbüren
+Niederrohrdorf	Niederrohrdorf
+Niederweningen	Niederweningen
+Nordhaus 3, 5400 Baden	Baden
+Nordportal	Baden
+Nouveau-Monde	Freiburg
+Nyon	Nyon
+Näfels	Näfels
+Nüschelerstrasse 31, 8001 Zürich	Zürich
+Obbürgen	Stansstad
+Oberbipp	Oberbipp
+Oberdiessbach	Oberdiessbach
+Obere Bahnhofstrasse 1, Wil	Wil
+Obere-Matten	Bennwil
+Obere-Mühle	Dübendorf
+Oberengstringen	Oberengstringen
+Oberentfelden	Oberentfelden
+Oberrieden	Oberrieden
+Oberrohrdorf	Oberrohrdorf
+Oberwil-Lieli	Oberwil-Lieli
+Obfelden	Obfelden
+Oetwil-an-der-Limmat	Oetwil an der Limmat
+Oftringen	Oftringen
+Ohmweg 10, 2504, Biel/Bienne	Biel
+Olsberg	Olsberg
+Olten	Olten
+Onex	Onex
+Ono-Das-Kulturlokal	Bern
+Openair-St.-Gallen	St. Gallen
+Opfikon	Opfikon
+Orangerie-im-Sarasinpark	Riehen
+Orbital-Garden	None
+Ostermundigen	Ostermundigen
+Otelfingen	Otelfingen
+Palace	Luzern
+Palais-des-Congr?s	Paris
 Palais-des-Congrès	Paris
+Palexpo	Le Grand-Saconnex
+Paléo	Paleo
+Papiersaal	Zürich
+Paris	Paris
+Parkterrasse 16, 3012, Bern	Bern
 Parterre-One	Almelo
+Patinoires-du-Littoral	Neuchâtel
+Paudex	Paudex
+Payerne	Payerne
+Pelikanstrasse 18, 8001, Zürich	Zürich
+Penthalaz	Penthalaz
+Perly-Certoux	Perly
+Petit Lancy	None
+Pfaffhausen	None
+Pfeffingen	Pfeffingen
+Pferderennbahn	Aarau
+Pfingstweidstrasse 6, 8005 Zürich	Zürich
+Pfingstweidstrasse 70, 8005, Zürich	Zürich
+Piano-di-primo-al-primo-piano	Biassono
+Piazza	Zürich
+Piazza Alighieri Dante 8, 6900 Lugano	Lugano
+Piazza Dante 8, 6900, Lugano	Lugano
+Piazza-Grande	Locarno
+Pieterlen	Pieterlen
+Pl. St-François 12, 1005 Lausanne	Lausanne
+Pl. de la Gare, 1800, Vevey	Vevey
+Place Centrale, 1870 Monthey, Valais, Suisse	Monthey
+Place Centrale, 1936 Verbier	Bagnes
+Place de Montbrillant, Geneva	Genève
+Place de l'Europe 1a, 1003, Lausanne	Lausanne
+Place de l'Europe, 1003 Lausanne	Lausanne
+Place de l'Ile 1, 1200, Genève	Genève
+Place de l'Ile 1, 1204 Genève	Genève
+Place de la Gare 2, 1003, Lausanne	Lausanne
+Place de la Gare, 1800 Vevey	Vevey
+Place de la Gare, 1957 Ardon, Valais, Suisse	Ardon
+Place des Volontaires 2, 1204 Genève	Genève
+Place des Volontaires 4, 5281, Geneva	Genève
+Place du Tunnel 9, 1005, Lausanne	Lausanne
+Place-Nova-Friburgo	Fribourg
+Plaffeien	Plaffeien
+Plan les Ouates	Plan-les-Ouates
+Planche-Inférieure 5, 1700 Fribourg	Fribourg
+Plaza-Zürich	Zürich
+Ponte Capriasca, Ticino	Ponte Capriasca
 Pontresina	Pontresina
+Porrentruy	Porrentruy
+Porza	Porza
+Pratteln	Pratteln
+Pregny	Pregny-Chambésy
+Prilly	Prilly
+Prima-Vista	Baden
+Prom. du Lac, 1204 Genève	Genève
+Pully	Pully
+Puplinge	Puplinge
+Quai Gustave-Ador 1, 1207 Genève	Genève
+Quai Philippe Godet 20, 2000, Neuchâtel	Neuchâtel
+Quai du Général-Guisan, 1204 Genève	Genève
+Quai du Port 7, 2000, Neuchâtel	Neuchâtel
+Quai du Seujet 20, 1201 Genève	Genève
+Quai-Anlagen	Zürich
+Querfeld-Halle	Basel
+R?eggisberg	Riggisberg
+Rafz	Rafz
+Rain	Rain
+Rapperswil	Rapperswil-Jona
+Rathausgasse 59, 3011, Bern	Bern
+Rathausgasse 63, 3011, Bern	Bern
+Rathausgasse 9, 3280, Murten	Murten
+Rathausplatz	Innere Stadt
+Rebgasse 12, 4058 Basel	Basel
+Rebstein	Rebstein
+Regensdorf	Regensdorf
+Reignier	Reignier-Esery
+Reinach	Reinach
+Reinacherstrasse 117, 4053 Basel	Basel
+Reitschule	Bern
+Reitschule-Dachstock	Bern
+Renens	Renens
+Restaurant	Engelberg
+Restaurant-Hirscheneck	Basel
+Restaurant-Isebähnli	Zürich
+Restaurant-Kreuz	Emmen
+Restaurant-Schwarzer-Engel	St. Gallen
 Reussbühl	None
+Rheinau	Rheinau
+Rheineck	Rheineck
+Rheinfelden	Rheinfelden
+Rheingasse 17, 4058 Basel	Basel
+Rheingasse 8, 4058 Basel	Basel
+Richterswil	Richterswil
+Riders-Palace	Laax
+Rieden	Rieden
+Riedweg 35, Wiestistrasse 2, 3920 Zermatt	Zermatt
+Riehen	Riehen
+Riehenring, 4057, Basel	Basel
+Riniken	Riniken
+Ritterquai 10, 4500 Solothurn	Solothurn
+Romanshorn	Romanshorn
+Rorbas-Freienstein	Freienstein-Teufen
+Rorschach	Rorschach
+Rorschacherberg	Rorschacherberg
+Rote-Fabrik	Zürich
+Rothenthurm	Rothenthurm
+Rothrist	Rothrist
+Rotkreuz	Risch-Rotkreuz
+Rougemont	Rougemont
+Route de Suisse 16, 1299 Crans-près-Céligny	Crans-près-Céligny
+Route de la Fonderie 13, 700, Fribourg	Fribourg
+Route de la Monderèche, 3960, Sierre	Sierre
+Route des Jeunes 13, 1227, Acacias	Carouge
+Route des Jeunes 6, Geneva, 1227	Lancy
+Route des Mélèzes 24, 3963 Crans-Montana	Lens
+Route des échutes 14, 1950, Sion	Sion
+Rubigen	Rubigen
+Rudolfstetten	Rudolfstetten-Friedlisberg
+Rue Alexandre Schöni - 2503 Biel/Bienne -   Bern -	Bienne
+Rue Bovy-Lysberg 1, 1204, Genève	Genève
+Rue Centrale 2, 1580, Avenches	Avenches
+Rue Centrale 42, 3963 Crans-Montana	Chermignon
+Rue Centrale 54, 2502, Biel	Biel
+Rue Emile-Boéchat 71, 2800 Delémont	Delémont
+Rue Enning 10 - 1003 Lausanne	Lausanne
+Rue Jacques Dalphin 53, 1227 Carouge	Carouge
+Rue Jean-Gutenberg 16, 1201 Genève	Genève
+Rue Louis-Antille 7, 3963 Crans-Montana	Montana
+Rue Maunoir 14, 1207 Genève	Genève
+Rue Saint-Maurice 3, 2800 Delémont	Delémont
+Rue Saint-Pierre 6, 1701 Fribourg	Fribourg
+Rue St-Honoré 1, 2000 Neuchâtel	Neuchâtel
+Rue Vautier 13, 1227, Carouge	Carouge
+Rue de Berne 47, 1201 Genève	Genève
+Rue de Bourg 51, 1003, Lausanne	Lausanne
+Rue de Bévignoux 12, 1920 Martigny	Martigny
+Rue de Genève 10, 1003 Lausanne	Lausanne
+Rue de Genève 23, 1003, Lausanne	Lausanne
+Rue de Médran 70, 1936 Bagnes	Bagnes
+Rue de Richemont 10, Geneva	Genève
+Rue de Romont 29, 1007, Fribourg	Fribourg
+Rue de Vevey 34, 1630 Bulle, SWITZERLAND	Bulle
+Rue de chantepoulet 1/3, 1202, Geneva	Genève
+Rue de la Coulouvrenière 26, 1204 Genève	Genève
+Rue de la Gare, 2882, St. Ursanne	Saint-Ursanne
+Rue de la Grotte 3, 1003, Lausanne	Lausanne
+Rue de la Pélisserie 19, 1204 Genève	Genève
+Rue de la Revolution 1, 8004, Zürich	Zürich
+Rue de la Rôtisserie 10, 1204, Genève	Genève
+Rue de la Servette 2, 1201, Geneva	Genève
+Rue de la Sionge 29, 1630 Bulle	Bulle
+Rue de la Vigie 5, 1003 Lausanne	Lausanne
+Rue des Moulins 14, 2800 Delémont	Delémont
+Rue des Vieux Grenadiers 8, 1205 Geneva	Genève
+Rue des vieux Grenadiers 8-10, 1205, Genève	Genève
+Rue du 23-juin 23, 2800, Delémont	Delémont
+Rue du Commerce 122, 2300 La Chaux-de-Fonds, Suisse	La Chaux-de-Fonds
+Rue du Levant 3, 1201 Genève	Genève
+Rue du Pas-de-l'Ours, 3963 Chermignon	Chermignon
+Rue du Prado 2, 3963 Crans-Montana	Lens
+Rue du Stand 3, 1204, Genève	Genève
+Rue du Torrent 9, 1800 Vevey	Vevey
+Russikon	Russikon
+Römerareal	Orpund
+Röschenz	Röschenz
+Rümlang	Rümlang
+Rüschlikon	Rüschlikon
+Rüthi	Rüthi
+S-Event-Hall	Gams
+SAS	None
+SCHANZENGRABEN 1, 8001 ZÜRICH	Zürich
+Saanen	Saanen
+Saanenmöser	Saanen
+Safrangasse 2, 8200 Schaffhausen	Schaffhausen
+Saignelegier	Saignelégier
+Saint Claude	Saint-Claude
+Saint Gallen	St Gallen
+Saint Genis Pouilly	Saint-Genis-Pouilly
+Saint Maurice	Saint-Maurice
+Saint Prex	Saint-Prex
+Saland	Saland
+Salavaux	None
+Sallanches	Sallanches
+Salle-Métropole	Lausanne
+Salle-des-fêtes-de-Thônex	Thônex
+Salzhaus	Winterthur
+Salzhaus-Brugg	Brugg
+Samedan	Samedan
+Samoens	Samoëns
+Sandrainstrasse 10, Bern	Bern
+Sandrainstrasse 25, 3007, Bern	Bern
+Sankt-Gallen	St Gallen
+Sargans	Sargans
+Sarnen	Sarnen
+Satigny	Satigny
+Sch?ftland	Schöftland
+Sch?nb?hl	None
+Sch?nenbuch	Schönenbuch
+Schaffhausen	Schaffhausen
+Schaffhauserstrasse 148, 8400, Winterthur	Winterthur
+Schangnau	Schangnau
+Schauspielhaus-Schiffbau	Zürich
+Schiffbau-10	Zürich
+Schiffbaustrasse 6, 8005 Zürich	Zürich
+Schindellegi	Feusisberg
+Schlachthaus-Theater	Bern
+Schlieren	Schlieren
+Schlosshof	Schloßhof
+Schlossmühlestrasse 1, 8500 Frauenfeld	Frauenfeld
+Schmidr?ti	Providence
+Schmidrüti	Schmidrüti
+Schmiedestrasse 12, 5400 Baden	Baden
+Schmittner-Openair	None
+Schneisingen	Schneisingen
+Schulhaus-Weid	Freienbach
+Schupfart	Schupfart
+Schwarzsee	None
+Schweizerhof-Passage, 3011 Bern	Bern
+Schwyz	Schwyz
+Schönenbuch	Schönenbuch
+Schönenwerd	Schönenwerd
+Schützengasse 15, 8001 Zürich	Zürich
+Schützenhaus-Albisgütli	Zürich
+Schützenwiese-Oberrieden	Oberrieden
+Schüür	Luzern
+Sciez sur Leman	Sciez
+Sedelhof 2, 6020, Emmenbrücke	Emmen
+Seegr?ben	Seegräben
+Seegräben	Seegräben
+Seematte-Twann	None
+Seerestaurant	Seedorf
+Seestrasse 395, 8038, Zürich	Zürich
+Seidenhofstrasse 5, 6003, Luzern	Luzern
+Seilerbahnweg 9, 7000 Chur	Chur
+Selnaustrasse 2	Zürich
+Sempach-Stadt	Sempach
+Sentier Sentier des Saules 3, 1205, Genève	Genève
+Seonerstrasse 23, 5600 Lenzburg	Lenzburg
 Seuzach	Seuzach
+Seynod	Seynod
+Shine-Bar	Luzern
+Siebnen	Siebnen
+Siegershausen	None
+Sierre	Sierre
+Silostrasse 10, 9500 Wil	Wil
+Sils	Sils im Engadin/Segl
+Silvaplana	Silvaplana
+Sins	Sins
+Sion	Sion
+Sirnach	Sirnach
+Sissach	Sissach
+Soleure	Solothurn
 Solothurn	Solothurn
+Solothurnerstrasse 22, 4600 Olten	Olten
+Sommercasino	Basel
+Sonnenberg	None
+Sous-Géronde	None
+Speicher	Speicher
+Spelteriniweg 4, 6005, Luzern	Luzern
+Spiez	Spiez
+Sportplatz-Kellen	Tübach
+Spreitenbach	Spreitenbach
+St. Alban-Graben 16, 4051 Basel	Basel
+St. Annagasse 16	Zürich
+St. Jakobs-Strasse 400, 4052 Basel	Basel
+St.-Jakobshalle	Basel
+St.-Margrethen	St Margrethen
+St.-Moritz	St Moritz
+St.-Stephan	St Stephan
+St.-Urban	None
+St.Gallerstrasse 74, Wil	Wil
+St?fa	Casazza
+Stade-de-Genève	Genève
+Stade-de-Suisse	Bern
+Stadion-Letzigrund	Zürich
+Stadtcasino	Basel
+Stadthof	Hof
+Stadttheater-Bern-(Vidmarhallen)	Liebefeld
+Stadtturmstrasse 17, 5400 Baden	Baden
+Stall-6	Zürich
+Stans	Stans
+Stansstad	Stansstad
+Stanzerei	Baden
+Star-Club	Uster
+Station-21	Nantucket
+Stauffacherstrasse 60, 8004, Zürich	Zürich
+Steckborn	Steckborn
+Steffisburg	Steffisburg
+Stein-am-Rhein	Stein am Rhein
+Steinberggasse	Winterthur
+Steinberggasse 16	Winterthur
+Steinentorstrasse 26, 4051 Basel	Basel
+Steinentorstrasse 30, 4051, Basel	Basel
+Steinentorstrasse 35, 4051 Basel	Basel
+Steinentorstrasse 35, 4051, Basel	Basel
+Steinmaur	Steinmaur
+Stettlen	Stettlen
+Stockhorn-Arena	Thun
+Stolzewiese	Zürich
+Stäfa	Stäfa
+Sud	None
+Suhr	Suhr
+Sursee	Sursee
+Südpol	Kriens
+TaK-Theater-Liechtenstein	Schaan
+Talacker 34, 8001 Zürich	Zürich
+Talstation-Weglosen	Unteriberg
+Talstrasse 31, 8808 Pfäffikon	Freienbach
+Talstrasse 58, 8001, Zurich	Zürich
+Tannwaldstrasse 48, 4600 Olten	Olten
+Tap-Tab-Musikraum	Schaffhausen
+Teatro-Sociale	Bellinzona
+Tellistrasse 118, 5001, Aarau	Aarau
+Tellistrassse 118 A  5000 Aarau	Aarau
+Tellsgasse 8, 6460 Altdorf	Altdorf
+Temple-du-Bas	Neuchâtel
+Terraux 7, 2000, Neuchâtel	Neuchâtel
+Th??tre-du-L?man	Genève
+Th?nex	Virginia Beach
+Thalwil	Thalwil
+The-Bird's-Eye-Jazz-Club	Basel
+Theater-Casino-Zug	Zug
+Theater-Rigiblick	Zürich
+Theater-Stok	Zürich
+Theater-Ticino	Wädenswil
+Theater-Tuchlaube	Aarau
+Theater-Winterthur	Winterthur
 Theater-am-Gleis	Winterthur
+Theater-an-der-Mürg	Stans
+Theater-im-Burgbachkeller	Zug
+Theaterstrasse 10, 8001, Zürich	Zürich
+Theaterstrasse 4, 4051, Basel	Basel
+Therwil	Therwil
+Thonex	Thônex
+Thonon Les Bains	Thonon-les-Bains
+Thun	Thun
+Théâtre-2.21	Lausanne
+Théâtre-La-Fourmi	Luzern
+Théâtre-du-Léman	Genève
+Thônex	Thônex
+Tonhalle	Zürich
+Treibhaus	None
+Trimbach	Trimbach
+Troinex	Troinex
+Tuggen	Tuggen
+Turbenthal	Turbenthal
+Turgi	Turgi
+Turnhalle-im-Progr	Bern
+Twann	Twann-Tüscherz
+Ueberstorf	Ueberstorf
+Uerikon	None
+Uetikon-am-See	Uetikon
+Uferstrasse 40, 4057 Basel	Basel
+Uferstrasse 80, 4059, Basel	Basel
+Uitikon-Waldegg	None
+Unter?geri	Unterägeri
+Untere Schöntalstrasse 19, 2023, Winterthur	Winterthur
+Untere Vogelsangstrasse 6, 8400, Winterthur	Winterthur
+Unterengstringen	Unterengstringen
+Unterentfelden	Unterentfelden
+Untersiggenthal	Untersiggenthal
+Unterstammheim	Unterstammheim
+Unterägeri	Unterägeri
+Urdorf	Urdorf
+Usine	Genève
+Uster	Uster
+Utengasse 15, 4058, Basel	Basel
+Uznach	Uznach
+Uzwil	Uzwil
+Vallorcine	Vallorcine
+Vals	Vals
+Vandoeuvres sur GenÃ¨ve	Vandœuvres
+Vario-Bar	Olten
+Verbier	Bagnes
+Vernier	Vernier
+Vernissage	Zermatt
+Vers-l'Eglise	Ormont-Dessus
+Vevey	Vevey
+Veyras	Veyras
+Veyras en Valais	Veyras
+Veyrier	Veyrier
+Veytaux	Veytaux
+Via Campagnole 1, 6802 Rivera-Bironica	Rivera
+Via Cantonale, 6595, Riazzino	Riazzino
+Via Industria 4, 6814, Lamone Ticino	Lamone
+Via Lido 81, 6612 Ascona	Ascona
+Via Lido 82, 6612 Ascona	Ascona
+Via Murschetg 1, 7032 Laax	Laax
+Via Stauffacher 1, 6900 Lugano	Lugano
+Via Trevano 89a, 6900, Lugano	Lugano
+Via dei Grotti 3, 6834 Morbio Inferiore	Morbio Inferiore
+Viale Cassarate 8, 6900 Lugano	Lugano
+Victoria-Hall	Genève
+Villa-Sträuli	Winterthur
+Villa-Wahnsinn	St. Gallen
+Villars	Villars-sur-Ollon
+Villars-sur-Ollon	Villars-sur-Ollon
+Villeurbanne	Villeurbanne
+Villigen	Villigen
+Villmergen	Villmergen
+Villnachern	Villnachern
+Vinelz	Vinelz
+Vis-a-Vis Rothis	Friedrichshafen
+Visp	Visp
+Vitznau	Vitznau
+Volketswil	Volketswil
+Volkshaus	Zürich
+Volkshaus-Basel	Basel
+W?denswil	Wädenswil
+Wabern	Köniz
+Wald	Wald
+Waldenburg	Waldenburg
+Waldstatt	Waldstatt
+Walkringen	Walkringen
+Wallisellen	Wallisellen
+Wallisellenstrasse 45, 8050, Zürich	Zürich
+Wangs	Vilters-Wangs
+Wasserwerkgasse 5, 3011, Berne	Bern
+Wasserwerkstrasse 21, 8006, Zürich	Zürich
+Watt	None
+Weggis	Weggis
+Weinfelden	Weinfelden
+Weingasse, 8001 Zürich	Zürich
+Weissbad	Weissbad
 Wengen	Lauterbrunnen
+Wermatswil	None
+Westquaistrasse 75, 4057 Basel	Basel
+Wettingen	Wettingen
+Wetzikon	Wetzikon
+Widen	Widen
+Widnau	Widnau
+Wiesendangen	Wiesendangen
+Wil	Wil
+Wildparkstrasse, 3012 Bern	Bern
+Willisau	Willisau
+Windisch	Windisch
+Winistorf	None
+Winkel	Winkel
 Winterthur	Winterthur
+Wohlen	Wohlen
+Wollerau	Wollerau
+Worblaufen	None
+Wädenswil	Wädenswil
+Würenlingen	Würenlingen
 X-tra	Zürich
+Yverdon Les Bains	Yverdon-les-Bains
+Yvoire	Yvoire
+Z7	Pratteln
+Z?rich	Er-Rich
+Zentrum-Paul-Klee	Bern
+Zermatt	Zermatt
+Zeughausgasse 16, 3011 Bern	Bern
+Ziegelackerstrasse 11, 3027, Bern	Bern
+Zillis	Zillis-Reischen
+Zofingen	Zofingen
+Zollikerberg	Zollikerberg
+Zollikon	Zollikon
+Zollstrasse 80, 8005 Zürich	Zürich
 Zug	Zug
+Zukunft	Zürich
+Zumikon	Zumikon
+Zurich	Zürich
+Zweisimmen	Zweisimmen
+Zwinglipl., 8001 Zürich	Zürich
+Zwinglistrasse 12, 8004 Zürich	Zürich
+Zähringerstrasse  39, 8001, Zürich	Zürich
+Zürcherstrasse 1, 5400, Baden	Baden
 Zürich	Zürich
+e-194618	None
+e-195155	None
+e-198056	None
+e-198057	None
+e-198060	None
+e-198144	None
+ewz-Unterwerk-Selnau	Zürich
+monthey	Monthey
 null	None
