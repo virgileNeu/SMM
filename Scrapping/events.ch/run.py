@@ -55,8 +55,8 @@ if __name__ == "__main__":
             sys.exit()
     
     if(start_date != None):
-        print("startDate: " + startDate)
-        getEventsBetweenDate(startDate, endDate, maxPage)
+        print("start date: " + start_date)
+        getEventsBetweenDate(start_date, end_date, max_pages)
 
     if(filename != None):
         aggregate("EventsChData/", filename)
