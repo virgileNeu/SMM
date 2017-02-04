@@ -195,7 +195,7 @@ plot, = my_map.plot(x, y, 'ro', markersize=size_0, alpha=0.5)
 
 
 # Annotations on click
-import anotg
+import anot
 af = anot.AnnoteFinder(x, y, df["artists"].tolist(), ax=ax)  #Artists
 cid = fig.canvas.mpl_connect('button_press_event', af)
 
