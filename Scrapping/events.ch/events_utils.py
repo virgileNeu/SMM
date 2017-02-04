@@ -1,4 +1,5 @@
 import os
+import sys
 import pandas as pd
 import numpy as np
 from html.parser import HTMLParser
@@ -20,12 +21,12 @@ def aggregate(path,outputfile,encoding="utf-8"):
                 df = df.append(tmp, ignore_index=True)
     if("Unnamed: 0" in df.columns):
         df.drop("Unnamed: 0", axis=1, inplace=True)
-    #res = pd.DataFrame(columns=df.columns)
     for i, r in df.iterrows():
         genre = r.genre
         if(genre != None and type(genre)==str and genre[0] != '['):
             r.genre = '[\'' + genre + '\']'
-        #res.append(r)
+        elif(type(genre)==float):
+            r.genre=""
     df.to_csv(outputfile,encoding=encoding, index=False)
     print("Aggregation saved to : "+outputfile)
 
@@ -90,8 +91,7 @@ def getEventsForDate(date, maxPage=None):
                 split = href.split('/')
                 (artists, date) = subparser.getData()
                 try:
-                    print(date)
-                    currentDate = datetime.strptime(date.split('(')[0], "%a %b %d %Y %H:%M:%S GMT%z")
+                    currentDate = datetime.strptime(date.split('(')[0], "%a %b %d %Y %H:%M:%S GMT%z ")
                     genres = split[2].split('-')
                     location = split[4]
                     festival = split[5]

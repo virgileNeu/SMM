@@ -5,7 +5,17 @@ echo "[DONE] Scrapping Resident Advisor"
 read -rsp $'Press any key to continue...\n' -n 1 key
 
 echo "Scrapping Events.Ch..."
-python ./Scrapping/events.ch/run.py
+YEAR=$(date +%Y)
+MONTH=$(date +%m)
+DAY=$(date +%d)
+if [ $MONTH -eq 1 ]
+then
+    MONTH=12
+    YEAR=$((YEAR-1))
+fi
+STARTDATE=$YEAR-$MONTH-DAY
+ENDDATE=$(date +%Y-%m-%d)
+python3 Scrapping/events.ch/run.py -a EventsCh.csv -s $STARTDATE $ENDDATE
 echo "[DONE] Scrapping Events.Ch..."
 
 read -rsp $'Press any key to continue...\n' -n 1 key
