@@ -32,7 +32,7 @@ We first wrote a app using matplotlib, it was ugly and a lot of code but worked 
 
 The Tableau projet files are in Visualization.
 
-<img src="./Visualization/1.png" width="400">
+<img src="./Visualization/Screenshots/1.png" width="400">
 
 ##Abstract
 > Music is an art form and cultural activity whose medium is sound and silence, which exist in time. - Wikipedia  
