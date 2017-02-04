@@ -19,6 +19,7 @@ Alek Fester	None
 Alessandro Giannelli	None
 Alessandro d'Episcopo	None
 Alessio Pianelli	None
+Alex Cebanica	None
 Alex Hendriksen	None
 Alex Hendriksen Quartet	None
 Alex Huber	None
@@ -36,6 +37,7 @@ Ali Salvioni	None
 Alice Phoebe Lou	None
 Amik Guerra	None
 Amélie Chemin	None
+Ana de la Vega	None
 Andi Czech	None
 Andi Pupato	None
 Andre Bader	None
@@ -54,6 +56,7 @@ Andreas Liebig	None
 Andreas Schaerer	None
 Andreas Tschopp	None
 Andrei Ionita	None
+André Desponds	None
 André Siqueira	None
 Andy Scherrer	None
 Angélique Kidjo	['classic', 'world', 'african', 'soul', 'rumba', 'chanson']
@@ -80,19 +83,24 @@ Asian Dub Foundation Soundsystem	['dub', 'asian']
 Astrid Fuellemann	None
 Attic	['house']
 Attila Fekete	None
+Aude Priya	None
 Audio 88 & Yassin	None
 Aurora Nealand	None
 Aurore Baal	None
 Avi Wogderess Vasa	None
 Axel Wolf	None
 Ayanda Sikade	None
+Baba The Fayahstudend	None
 Bacchus	['latin']
 Backtrack	None
 Band of Horses	['pop', 'americana', 'rock']
 Bane	['hardcore']
+Barbara Wildberger	None
 Barbez	None
 Barcella	['world']
+Basil Anliker	None
 Beat Schneider	None
+Beatrice Rogger	None
 Beatrice Voellmy	None
 Beatriz Blanco	None
 Belisa Mang	None
@@ -100,6 +108,7 @@ Bellhound Choir	None
 Ben Zahler	None
 Benedikt Reising	None
 Benedikt Wieland	None
+Beni Külling	None
 Benjamin Brodbeck	None
 Benjamin Schmid	None
 Benni Kammerer	None
@@ -121,15 +130,20 @@ Bolschoi Don Kosakenchor	None
 Boulevard Des Airs	None
 Brainstorm	None
 Breakdown Of Sanity	None
+Brendan Wade	None
 Brumes d'automne	None
 Bruno Jundt	None
 Bänz Oester	None
 Bê Betina Ignacio	None
 Bê Ignacio	None
 C.A.R	None
+C.Daletska	None
+C.Glaser	None
+Caesar Perrig	None
 Candy Dulfer	['pop', 'funk', 'soul']
 Carbon Airways	None
 Carlo Niederhauser	None
+Carola Glaser	None
 Carolin Widmann	['classical']
 Cato Nordby	None
 Cecile Mc Lorin Salvant Quintet	None
@@ -143,8 +157,11 @@ Chris Linder	None
 Chris Norz	None
 Chris Wood	['rock', 'folk']
 Christian Dilier	None
+Christian Fotsch	None
+Christian Gutfleisch	None
 Christian Kuntner	None
 Christian Weber	None
+Christina Daletska	None
 Christina Martin	None
 Christoph Bösch	None
 Christoph Grab	None
@@ -154,6 +171,7 @@ Christoph Ràcz	None
 Christoph Schepperle	None
 Christoph Stiefel	None
 Christoph Utzinger	None
+Christopher Jepson	None
 Christy Doran	None
 Chuck Prophet	['rock', 'noise', 'world', 'jungle']
 Church Of Misery	['rock', 'metal']
@@ -161,9 +179,11 @@ Cinzia Catania	None
 Civil Civic	['rock', 'electronic', 'noise']
 Claude Meier	None
 Claudio Filippini	None
+Claudio Strebel	None
 Clemens Schepperle	None
 Cloud Rat	['world']
 Coely	None
+Cookie The Herbalist	None
 Corinne Huber	None
 Costi Topalidis	None
 Creeper	None
@@ -192,6 +212,7 @@ Daniel Bentz	None
 Daniel Disler	None
 Daniel Haefliger	None
 Daniel Meller	None
+Daniel Röhn	None
 Daniel Schenker	None
 Daniel Winshall	None
 Daniel Woodtli	None
@@ -199,9 +220,11 @@ Daniel Zisman	None
 Daniela Müller	None
 Darkhaus	None
 Darkside	['house', 'electronica', 'soul', 'noise', 'techno', 'electronic']
+Dave Feusi	None
 Dave Harrington	None
 Dave Samuels	['latin']
 Dave Samuels' Caribbean Jazz Project	None
+David Beglinger	None
 David Heizmann	None
 David Kilowsky	None
 David Meier	None
@@ -215,9 +238,12 @@ Deba	None
 Deez Nuts	['world']
 Defeater	['rock', 'hardcore']
 Dejan Terzic	None
+Delinquent Habits	['rap', 'hardcore']
 Diadji Seydi	None
+Diana Petrova	None
 Diego Baroni	None
 Dieter Hubov	None
+Dieter Häner	None
 Dieter Ilg	None
 Dieter Thomas Kuhn & Band	None
 Dillon	None
@@ -225,6 +251,7 @@ Dimitri Ashkenazy	['classical', 'house']
 Dirk Börner	None
 Djam Rekk Sound DJ-Kollektiv	None
 Domenic Landolf	None
+Domenico Tagliente	None
 Dominic Hauser	None
 Dominic Landolt	None
 Dominik Grossenbacher	None
@@ -232,6 +259,7 @@ Dominik Schürmann	None
 Dominique Girod	['classical', 'electronic', 'folk']
 Donat Fisch	None
 Doodlebug	None
+Doran-Kaenzig-Hemingway	None
 Dorotop DJ Set	None
 Dream Theater	['pop', 'house', 'son', 'rock', 'country', 'soul', 'metal']
 Drum'n'bass	['breakbeat', 'livetronica', 'synthpop', 'grime', 'dub', 'drumstep', 'techno', 'electronica', 'dubstep', 'soul', 'darkcore', 'chiptune', 'breakcore', 'jungle', 'reggae', 'doomcore', 'ambient', 'raggacore', 'funk', 'ragga', 'dancehall', 'hardcore', 'neurofunk', 'step', 'sambass', 'glitch', 'eurodance', 'hardstep', 'electronicore', 'funktronica', 'hardstyle', 'drill', 'techstep', 'darkstep', 'trap']
@@ -247,6 +275,7 @@ Egyptian Hip Hop	['ghettotech', 'hyphy', 'cumbia', 'trap', 'country', 'swing', '
 Eiko Furusawa	None
 Einar Stray Orchestra	['pop', 'rock']
 Elena González	None
+Elena Tomilova	None
 Elias Bernet	None
 Elisabeth Göring	None
 Elisabeth Waldmeier	None
@@ -269,23 +298,28 @@ Erwin Bieri	None
 Esteban "Chamito" Reyes	None
 Esther Hoppe	None
 Esther Nydegger	None
+Etienne Marti	None
 Eva Boesch	None
 Eveleen Olsen	None
 Ewa Grzywna-Groblewska	None
+Fabian Bürgi	None
 Fabian Gisler	None
 Fabian Gubser	None
 Fabian Heynen	None
 Fabian Kristmann	None
+Fabienne Hoerni	None
 Fabio Di Càsola	None
 Family Atlantica	None
 Family of the Year	['pop', 'world', 'rock', 'folk', 'classic']
 Feadz	['techno', 'electro', 'rock', 'house']
+Felix Brühwiler	None
 Felix Gubser	None
 Felix Klaus	None
 Felix Kübler	None
 Felix Renggli	None
 Felix-Andreas Genner	None
 Fernando Rast	None
+Fides Auf der Maur	None
 Filip Micha Saffray	None
 Flavio Mezzodi	None
 Flo Dauner	None
@@ -300,12 +334,14 @@ Fran Lorkovic	None
 Frances	None
 Franziska Bruecker	None
 Franziska Brücker	None
+Franziska Hatz	None
 Françoise Matile	None
 Frauenarzt	['unknown']
 Frauke Tometten Molino	None
 Fred Bürki	None
 Fridolin Blumer	None
 Frits Landesbergen	None
+Gabriel Adorjan	None
 Gabriel Dalvit	None
 Gabriel Walter	None
 Gabriela Friedli	None
@@ -315,6 +351,7 @@ Geert Dedapper	None
 Gemelli Diversi	None
 Gen Wüst	None
 Gerilja	['disco', 'rock', 'step']
+Gerry Hemingway	None
 Get Well Soon	None
 Gianna Nannini	['chanson', 'rock', 'latin']
 Gianni Pontillo	None
@@ -335,6 +372,7 @@ Grégoire Maret	['blues']
 Gérard Wyss	None
 Haemi Haemmerli	None
 Haika Lübcke	None
+Hannes Bürgi	None
 Hannes Fankhauser	None
 Hannes Giger	None
 Hans Agreda	None
@@ -343,12 +381,15 @@ Hassan Shakur	None
 Heart In Hand	None
 Heartical Sound	None
 Heidrun Wirth-Metzler	None
+Heiner Grieder	None
 Heinrich Mätzener	None
 Heinz Holliger	['classical']
+Heiri Kaenzig	None
 Helena Rüegg	None
 Helga Varadi	None
 Helmut Kagerer	None
 Hendrix Ackle	None
+Hermann Oswald	['opera']
 Hooverphonic	['electronica', 'pop', 'rock', 'electropop', 'world']
 Idan Raichel	['electro', 'world', 'folk']
 Igor Morosow	None
@@ -364,6 +405,8 @@ Irina Georgieva	None
 Isa Kurz	None
 Isaac Duarte	None
 Isaiah Thompson	None
+Ivan Hrdina	None
+Ivan Kubias	None
 Ivan Mihajlovic	None
 Jacques Widmer	None
 Jamie Lidell	['techno', 'soul']
@@ -378,6 +421,7 @@ Jedediah Allen	None
 Jenny Chi	None
 Jenny Högström	None
 Jo-El Sonnier & T. Graham Brown & Band	None
+Joachim Enders	None
 JoachimGarraud	None
 Jochen Rueckert	None
 Joe Jackson	['pop', 'world', 'rock', 'ska', 'soul']
@@ -397,6 +441,7 @@ Jonas Labhart	None
 Jonas Ruther	None
 Jonas Tschanz	None
 Jonathan Sells	None
+Jooce Garret	None
 Jorge Leysan Demestre	None
 Jorge Rossy	['world', 'blues', 'house']
 Jorge-Luís Gonzalez	None
@@ -404,9 +449,11 @@ Josiane Kneuss	None
 Jugendchor Hamrahilö	None
 Julia Bauer	None
 Julia Marion	None
+Julian Pieber	None
 Julian Sartorius	None
 Junko Takayama	None
 Justin Peake	None
+Justin Vali Trio	None
 Jürg Dähler	None
 Jürg Gasser	None
 Jürg Käser	None
@@ -414,6 +461,7 @@ Jürg Maag	None
 Jürg Ramspeck	None
 Kalle Kalima	None
 Kanna	['reggae']
+Karl Raas	None
 Kate Macoboy	None
 Katharina Busch	None
 Katharina Kühne	None
@@ -428,7 +476,9 @@ Kendrick Scott	['world']
 Kenneth Dahl Knudsen	None
 Kensington	['country', 'house']
 Kery James	['rap', 'trap', 'chanson']
+Kim Roloff	None
 King Gizzard & The Lizard Wizard	['rock']
+Klara Lundén	None
 Klaus Dickbauer	None
 Klaus-Dieter Brandt	None
 Kornelia Bruggman	None
@@ -439,6 +489,7 @@ Laia Masramon	None
 Lander Gyselinck	None
 Lars Carl Schmid	None
 Lawrence Leathers	None
+Leon Duncan	None
 Leonardo Salazar	None
 Les Soeurs Boulay	['folk']
 Leticia Kahraman	None
@@ -464,11 +515,13 @@ Luis Cruz	['rock']
 Luk Kipfer	None
 Luk Schulthess	None
 Lukas Fässler	None
+Lukas Gasser	None
 Lukas Mantel	None
 Lukas Schlumpf	None
 Lukas Wiese	None
 Luke Winslow King	None
 Luzius Schuler	None
+M.Krejcik	None
 Mace Mitchell	None
 Madeleine Lienhard	None
 Magatte N'diaye	None
@@ -478,6 +531,7 @@ Maki Wiederkehr	None
 Manu Hagmann	None
 Manuel Blanco Gómez-Limón	None
 Manuel Delago	None
+Manuel Walser	None
 Marc Almond	['pop', 'electropop', 'rock', 'son', 'synthpop']
 Marc Kakon	None
 Marc Reinhard	None
@@ -485,11 +539,16 @@ Marc Storace	['world', 'rock', 'metal', 'grunge', 'classic']
 Marc Stucki	None
 Marc Unternährer	None
 Marcel Jeker	None
+Marcel Ricklin	None
 Marcel Riesen	None
 Marco Andrey	None
 Marco Bartoli	None
 Maren Böll	None
+Maria Doyle Kennedy	['folk']
+Maria Goldschmidt	None
+Marian Krejcik	None
 Marianne Racine-Granvik	None
+Marie-Odile Vigreux	None
 Marielle Labèque	['pop', 'house', 'son', 'ragtime', 'flamenco', 'rock']
 Marija Wüthrich-Savicevic	None
 Mario Biondi	['blues', 'disco', 'soul']
@@ -500,6 +559,7 @@ Mark Berube	None
 Mark Tenger	None
 Markus Eichenberger	None
 Markus Fürst	None
+Markus Hürsch	None
 Markus Lauterburg	None
 Markus Schmidt	None
 Markus Schmied	None
@@ -510,16 +570,20 @@ Martin Hässler	None
 Martin Jaggi	None
 Martin Rabensteiner	None
 Martina Anselmo	None
+Martina Gmeinder	None
 Marysol Schalit	None
 Master-Abschlussrezital Florin Grüter	None
 Mathias Harter	None
 Mathieu Friz	None
 Matt Graf	None
 Matt Simons	['pop']
+Matthew Savnik	None
+Matthias Lincke	None
 Matthias Rácz	None
 Matthieu Camilleri	None
 Matthieu Michel	None
 Maurice Steger	['classical']
+Mauro Bodio	None
 Mauro Martins	None
 Mavis Staples	['blues', 'country', 'soul']
 Max Asselborn	None
@@ -534,6 +598,7 @@ Mich Gerber	None
 Micha Held	None
 Michael Baumann	['world']
 Michael Büttler	None
+Michael Chylewski	None
 Michael Erni	None
 Michael Gregorio	None
 Michael Reid	None
@@ -548,8 +613,11 @@ Mija Läuchli	None
 Mike & the Mechanics	['pop', 'rock']
 Mikheil Sheshaberidze	None
 Mirel Wagner	['pop', 'world', 'blues', 'folk']
+Miriam Klein	None
+Miro Steiner	None
 Mischa Greull	None
 Misha Alperin	None
+Monika Mauch	None
 Monte Carlo	['latin']
 Monty Alexander	['swing', 'jungle', 'reggae']
 Monty Alexander's Triple Treat	None
@@ -583,6 +651,7 @@ Oli Kehrli	None
 Oli Kuster	None
 Olivier Hutman	None
 Omri Hason	None
+On-Off	['rock']
 Or Pellet	None
 Or Pellet Santos	None
 Or Potratz	None
@@ -591,13 +660,17 @@ Orchestre Miniature In The Park	None
 Orphan Fairytale	None
 Oscar Feldman	None
 Ossific	None
+Othella Dallas	None
 Pablo Kornfeld	None
 Pablo Menares	None
 Palenke Soultribe	['latin', 'world', 'electronic', 'samba', 'soul']
 Pamina Blum	None
 Panteros666	None
+Pat Hargreaves	None
 Paticia Samaniego	None
 Patrice Moret	None
+Patricia Draeger	None
+Patricia Kunz	None
 Patrick Bruel	['chanson', 'world', 'son', 'blues']
 Pau Lligadas	None
 Paul & Gabriel	None
@@ -624,6 +697,7 @@ Puerta Sur	None
 Pär Näsbom	None
 Quique Sinesi	None
 R	['latin']
+R.Romei	None
 Rafael Scheiwiller	None
 Rahel Binetti	None
 Rahel Sohn	None
@@ -636,28 +710,37 @@ Ramon Landolt	None
 Ramon Ziegler	None
 Rangleklods	None
 Raphael	['soul']
+Raphael Jakob	None
 Raphael Loher	None
 Raphael Wallfisch	['classical']
 Rea Claudia Kost	None
 Rease Nydegger	None
 Rebecca Spiteri	None
+Redwan Fayahwan	None
 Regula Konrad	None
 Relentless	['metal']
 Renate Scheurer	None
+René Mosele	None
 René Oswald	None
 René Tanner	None
+Reto Burrell	None
+Rich Fonje	None
 Richard Decker	['world']
+Richie Winkler	None
 Rico Baumann	None
 Rihanna	['pop', 'eurodance', 'dubstep', 'soul', 'son', 'dancehall', 'reggae', 'drill', 'country', 'rock', 'chanson', 'soca', 'rap']
 Rob Cambre	None
+Robert Crowe	None
 Robert Kubiszyn	None
 Roberto Koch	None
 Roby Lakatos	['classical']
 Rod Williams	None
 Roger Glaus	None
 Rokia Traoré	['rock', 'world']
+Roland Raphael	None
 Roland Sauter	None
 Rolf Lyssy	None
+Rolf Romei	None
 Roman Groner	None
 Roman Nowka	None
 Ronny Spiegel	None
@@ -674,6 +757,7 @@ Sabine Poyé Morel	None
 Saint Motel	['pop', 'britpop', 'rock', 'comedy']
 Salome Buser	None
 Sam Burckhardt	None
+Sam Siegenthaler	None
 Samuel Castro Bastos	None
 Samuel Dühsler	None
 Sandra Weiss	None
@@ -698,6 +782,7 @@ Seraina Perrenoud	None
 Seraphim von Werra	None
 Serenity	['metal']
 Sergej Nakariakov	None
+Sergej Simbirev	None
 Sergey Mushtakoff	None
 Sergey Starostin	None
 Serious Black	['world', 'rock', 'house']
@@ -709,6 +794,7 @@ Sharon Prushansky	None
 Sigi Nikitscher	None
 Silcan Jeger	None
 Silla	['world', 'country', 'unknown']
+Silvan Jeger	None
 Silvan Schmid	None
 Silvia Jost	None
 Silviya Savova-Hartkamp	None
@@ -716,11 +802,15 @@ Simon Berz	None
 Simon Borer	None
 Simon Boss	None
 Simon Fuchs	None
+Simon Schellnegger	None
 Simon Vögeli	None
 Simone Keller	['classical']
+Sin-City	None
 Slayer	['rock', 'metal', 'hardcore', 'world', 'rap']
+Smalltown Casanovas	None
 Snoop Dogg	['pop', 'rap', 'son', 'soul', 'funk', 'reggae']
 Sonia Borisova	None
+Sophie Lüssi	None
 Souls Revival	None
 Stahlmann	['rock', 'metal']
 Stefan Gabele	None
@@ -747,28 +837,36 @@ Tamriko Kordzaia	None
 Tar Queen	None
 Taras Berchtold	None
 Tausend Löwen unter Feinden	None
+Tevfik Kuyas	None
 The Acacia Strain	['hardcore', 'unknown', 'deathcore', 'metal', 'metalcore']
 The Creepshow	['psychobilly', 'rock', 'ska', 'rockabilly', 'soul']
 The Delta Saints	['rock', 'americana', 'blues', 'funk']
 The Exploding Boy	None
 The Gate	None
+The Jancee Pornick Casino	None
 The Natural Dub Cluster	['dub']
 The Outside Track	['celtic', 'folk']
 The Pharcyde	['house', 'soul', 'rap']
 Thilo Muster	None
 Thomas Azier	['electropop', 'pop']
+Thomas Castaneda	None
 Thomas Dürst	None
 Thomas Gasser	None
 Thomas Hauser	None
 Thomas Koran	None
+Thomas Kull	None
+Thomas Lähns	None
 Thomas Michael Allen	None
+Thomas Moeckel	None
 Thomas Silvestri	None
 Thomas Zehetmair	['classical']
 Tinu Heiniger	None
 Tobias Preisig	None
 Tom Copson	['pop', 'rock', 'folk']
+Tom Mäder	None
 Tom Tafel	None
 Tomas Gallart	None
+Tomi Schwarzenbach	None
 Tommaso Scannapieco	None
 Toni Bechtold	None
 Tony Renold	None
@@ -783,6 +881,7 @@ Urs Müller	None
 Urs Stirnimann	None
 Urs Vögeli	None
 Ursula Hauser	None
+Valentin Dietrich	None
 Valentin von Fischer	None
 Valer Sabadus	None
 Valeria Zangger	None

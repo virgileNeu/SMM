@@ -1,6 +1,7 @@
+2 tone	caribbean and caribbean-influenced
 2-step garage	electronic
 4-beat	electronic
-a cappella	hip hop
+a cappella	easy listening
 abstract hip hop	hip hop
 abstract idm	electronic
 acid breaks	electronic
@@ -60,10 +61,11 @@ anthem emo	rock
 anti-folk	folk
 antiviral pop	pop
 apala	african
+appalachian folk	folk
 arab folk	folk
 arab pop	pop
 argentine indie	rock
-argentine reggae	hip hop
+argentine reggae	caribbean and caribbean-influenced
 argentine rock	rock
 armenian folk	folk
 art punk	rock
@@ -92,6 +94,7 @@ axé	latin
 bachata	latin
 background music	easy listening
 baila	asian
+baile funk	r&b and soul
 baithak gana	caribbean and caribbean-influenced
 bakersfield sound	country
 balearic	electronic
@@ -103,9 +106,9 @@ baroque	pop
 baroque ensemble	pop
 baroque pop	pop
 basque rock	rock
-bass music	avant-garde
+bass music	easy listening
 bass trap	hip hop
-bass trip	electronic
+bass trip	hip hop
 bassline	electronic
 bassline/4x4 garage	electronic
 baul	asian
@@ -119,7 +122,7 @@ belly dance	electronic
 benga	african
 berlin school	electronic
 bhangra	asian
-big band	jazz
+big band	latin
 big beat	electronic
 big room	electronic
 bikutsi	african
@@ -149,9 +152,10 @@ bouncy house	electronic
 bouncy techno	electronic
 bouyon	caribbean and caribbean-influenced
 bow pop	pop
-boy band	jazz
-brass band	jazz
+boy band	latin
+brass band	latin
 brazilian	latin
+brazilian ccm	latin
 brazilian composition	latin
 brazilian gospel	blues
 brazilian hip hop	hip hop
@@ -170,13 +174,13 @@ brill building	pop
 brill building pop	pop
 british alternative rock	rock
 british blues	blues
-british brass band	jazz
+british brass band	latin
 british dance band	jazz
 british folk	folk
 british folk revival	folk
 british hip hop	hip hop
 british indie rock	rock
-british invasion	folk
+british invasion	jazz
 britpop	pop
 broken beat	electronic
 brooklyn indie	rock
@@ -210,18 +214,19 @@ canzone napoletana	pop
 cape jazz	jazz
 caribbean and caribbean-influenced	caribbean and caribbean-influenced
 catstep	electronic
-celtic	folk
-celtic christmas	folk
+celtic	rock
+celtic christmas	rock
 celtic metal	rock
 celtic music	folk
 celtic punk	rock
 celtic rock	rock
+central asian folk	folk
 cha cha cha	caribbean and caribbean-influenced
 chalga	pop
 chamber choir	jazz
 chamber jazz	jazz
 chamber pop	pop
-chamber psych	folk
+chamber psych	electronic
 channel pop	pop
 chanson	pop
 chanson quebecois	pop
@@ -236,7 +241,7 @@ chicago indie	rock
 chicago soul	r&b and soul
 chicano rap	hip hop
 chicha	latin
-children's music	avant-garde
+children's music	easy listening
 chilean rock	rock
 chill groove	rock
 chill lounge	easy listening
@@ -246,32 +251,31 @@ chillwave	electronic
 chimurenga	african
 chinese indie rock	rock
 chinese rock	rock
-chinese traditional	folklore
+chinese traditional	latin
 chip hop	hip hop
 chiptune	electronic
 chopped and screwed	hip hop
 choro	latin
 christian alternative rock	rock
-christian christmas	rock
+christian christmas	pop
 christian country music	country
 christian hardcore	electronic
 christian hip hop	hip hop
 christian metal	rock
-christian music	avant-garde
+christian music	easy listening
 christian pop	pop
 christian punk	rock
-christian relaxative	rock
+christian relaxative	pop
 christian rock	rock
 christian uplift	electronic
 chutney	caribbean and caribbean-influenced
 chutney soca	caribbean and caribbean-influenced
 cinematic dubstep	electronic
-classic	classic
+classic	orchestral
 classic afrobeat	african
 classic colombian pop	pop
 classic country	country
 classic czech pop	pop
-classic danish pop	pop
 classic eurovision	orchestral
 classic female blues	blues
 classic finnish rock	rock
@@ -289,18 +293,18 @@ classic schlager	pop
 classic soundtrack	orchestral
 classic swedish pop	pop
 classic turkish pop	pop
-classical	classic
+classical	orchestral
 classical christmas	orchestral
 classical crossover	pop
-classical flute	classic
-classical guitar	classic
-classical organ	classic
-classical performance	classic
-classical period	classic
-classical piano	classic
+classical flute	orchestral
+classical guitar	orchestral
+classical organ	orchestral
+classical performance	orchestral
+classical period	orchestral
+classical piano	orchestral
 close harmony	country
 coldwave	electronic
-college a cappella	hip hop
+college a cappella	easy listening
 colombian rock	rock
 columbus ohio indie	rock
 comedy	comedy
@@ -308,11 +312,11 @@ comedy music	comedy
 comedy rock	comedy
 compas	caribbean and caribbean-influenced
 complextro	electronic
-composition d	country
+composition d	rock
 compositional ambient	electronic
 congolese rumba	african
 conscious hip hop	hip hop
-contemporary classical	classic
+contemporary classical	orchestral
 contemporary country	country
 contemporary folk	folk
 contemporary jazz	jazz
@@ -338,7 +342,7 @@ cowpunk	rock
 criolla	latin
 croatian pop	pop
 crossover jazz	jazz
-crossover prog	rock
+crossover prog	pop
 crossover thrash	rock
 crunk	hip hop
 crunkcore	hip hop
@@ -347,6 +351,7 @@ crustgrind	rock
 cryptic black metal	rock
 cuban rumba	latin
 cumbia	latin
+cumbia funk	r&b and soul
 cumbia pop	pop
 cumbia rap	hip hop
 cumbia sonidera	latin
@@ -364,6 +369,7 @@ dance-rock	electronic
 dancehall	caribbean and caribbean-influenced
 dancehall music	caribbean and caribbean-influenced
 dangdut	asian
+danish hip hop	hip hop
 danish indie	rock
 danish jazz	jazz
 danish pop	pop
@@ -374,18 +380,18 @@ dark ambient	electronic
 dark black metal	rock
 dark cabaret	rock
 dark electro	electronic
-dark electro-industrial	hip hop
+dark electro-industrial	electronic
 dark hardcore	electronic
 dark jazz	jazz
 dark minimal techno	electronic
 dark progressive house	electronic
-dark psytrance	rock
+dark psytrance	electronic
 dark wave	electronic
 darkcore	electronic
 darkcore jungle	electronic
 darkstep	electronic
 death 'n' roll	rock
-death core	hip hop
+death core	rock
 death industrial	electronic
 death metal	rock
 death-doom	rock
@@ -396,31 +402,33 @@ deep adult standards	pop
 deep australian indie	rock
 deep big room	electronic
 deep brazilian pop	pop
+deep breakcore	electronic
 deep canadian indie	rock
-deep ccm	r&b and soul
-deep cello	r&b and soul
+deep ccm	electronic
+deep cello	electronic
 deep chill	electronic
-deep chill-out	hip hop
+deep chill-out	blues
 deep chiptune	electronic
 deep christian rock	rock
-deep classical piano	classic
+deep classical piano	orchestral
 deep comedy	comedy
 deep contemporary country	country
 deep cumbia sonidera	latin
 deep danish pop	pop
-deep darkpsy	r&b and soul
+deep darkpsy	electronic
 deep deep house	electronic
 deep delta blues	blues
 deep disco house	electronic
 deep discofox	r&b and soul
 deep downtempo fusion	jazz
 deep dub techno	electronic
+deep dutch hip hop	hip hop
 deep euro house	electronic
 deep eurodance	electronic
 deep folk metal	rock
 deep free jazz	jazz
 deep freestyle	hip hop
-deep full on	hip hop
+deep full on	caribbean and caribbean-influenced
 deep funk	r&b and soul
 deep funk carioca	latin
 deep funk house	electronic
@@ -439,12 +447,12 @@ deep house	electronic
 deep indian pop	pop
 deep indie pop	pop
 deep indie r&b	r&b and soul
-deep indie singer-songwriter	folk
+deep indie singer-songwriter	latin
 deep italo disco	r&b and soul
 deep jazz fusion	jazz
 deep jazz guitar	jazz
 deep jazz piano	jazz
-deep latin christian	rock
+deep latin christian	pop
 deep latin hip hop	hip hop
 deep latin jazz	jazz
 deep liquid	electronic
@@ -456,9 +464,9 @@ deep melodic metalcore	rock
 deep minimal techno	electronic
 deep neo-synthpop	pop
 deep new americana	country
-deep new wave	electronic
-deep norteno	r&b and soul
-deep opera	hip hop
+deep new wave	rock
+deep norteno	electronic
+deep opera	pop
 deep orchestral	orchestral
 deep pop edm	blues
 deep pop punk	rock
@@ -466,18 +474,18 @@ deep pop r&b	r&b and soul
 deep power-pop punk	rock
 deep progressive trance	electronic
 deep psychobilly	rock
-deep psytrance	r&b and soul
+deep psytrance	electronic
 deep rai	jazz
 deep regional mexican	pop
 deep smooth jazz	jazz
 deep soft rock	rock
 deep soul house	electronic
-deep soundtrack	r&b and soul
+deep soundtrack	electronic
 deep southern trap	hip hop
 deep space rock	rock
-deep string quartet	r&b and soul
+deep string quartet	electronic
 deep sunset lounge	easy listening
-deep surf music	avant-garde
+deep surf music	easy listening
 deep swedish hip hop	hip hop
 deep swedish indie pop	pop
 deep swedish rock	rock
@@ -512,7 +520,7 @@ diva house/handbag house	electronic
 dixieland	jazz
 djent	rock
 dominican pop	pop
-doo-wop	electronic
+doo-wop	rock
 doom metal	rock
 doomcore	electronic
 downtempo	electronic
@@ -525,7 +533,7 @@ drone	rock
 drone folk	folk
 drone metal	rock
 drone music	electronic
-drone psych	folk
+drone psych	electronic
 drum and bass	electronic
 drumfunk	r&b and soul
 drumstep	electronic
@@ -541,14 +549,14 @@ dutch house	electronic
 dutch pop	pop
 dutch rock	rock
 dwn trap	hip hop
-early music	avant-garde
-early music ensemble	avant-garde
+early music	easy listening
+early music ensemble	easy listening
 east coast hip hop	hip hop
 easy listening	easy listening
 ectofolk	folk
 edm	blues
 electric blues	blues
-electro	electronic
+electro	avant-garde
 electro bailando	asian
 electro dub	electronic
 electro house	electronic
@@ -556,7 +564,7 @@ electro jazz	jazz
 electro latino	latin
 electro music	hip hop
 electro swing	electronic
-electro trash	electronic
+electro trash	avant-garde
 electro-industrial	electronic
 electroacoustic	avant-garde
 electroacoustic improvisation	jazz
@@ -587,11 +595,12 @@ eurobeat	pop
 eurodance	electronic
 european free jazz	jazz
 europop	pop
-experimental	avant-garde
+euroska	caribbean and caribbean-influenced
+experimental	hip hop
 experimental dubstep	electronic
 experimental hip hop	hip hop
 experimental music	avant-garde
-experimental psych	folk
+experimental psych	electronic
 experimental rock	rock
 fado	pop
 fann at-tanbura	asian
@@ -604,6 +613,7 @@ filmi	asian
 filter house	electronic
 filthstep	electronic
 finnish hardcore	electronic
+finnish hip hop	hip hop
 finnish indie	rock
 finnish jazz	jazz
 finnish metal	rock
@@ -643,12 +653,12 @@ french indietronica	electronic
 french movie tunes	country
 french pop	pop
 french punk	rock
-french reggae	hip hop
+french reggae	caribbean and caribbean-influenced
 french rock	rock
 frevo	latin
 fuji music	african
 full on	electronic
-funeral doom	electronic
+funeral doom	rock
 funk	r&b and soul
 funk carioca	latin
 funk metal	rock
@@ -659,6 +669,7 @@ funky breaks	electronic
 funky house	electronic
 funky tech house	electronic
 furniture music	easy listening
+future ambient	electronic
 future garage	electronic
 future house	electronic
 futurepop	electronic
@@ -671,7 +682,7 @@ gangsta rap	hip hop
 gangster rap	hip hop
 garage house	electronic
 garage pop	pop
-garage psych	folk
+garage psych	electronic
 garage punk	rock
 garage punk blues	blues
 garage rock	rock
@@ -681,7 +692,7 @@ genge	african
 german hip hop	hip hop
 german indie	rock
 german metal	rock
-german oi	electronic
+german oi	avant-garde
 german pop	pop
 german pop rock	rock
 german punk	rock
@@ -706,7 +717,7 @@ gothic metal	rock
 gothic post-punk	rock
 gothic rock	rock
 gothic symphonic metal	rock
-grave wave	electronic
+grave wave	rock
 greek hip hop	hip hop
 greek house	electronic
 greek indie	rock
@@ -725,7 +736,7 @@ gypsy jazz	jazz
 gypsy punk	rock
 hands up	latin
 happy hardcore	electronic
-hard alternative	rock
+hard alternative	electronic
 hard bop	jazz
 hard glam	rock
 hard house	electronic
@@ -796,12 +807,12 @@ indie r&b	r&b and soul
 indie rock	rock
 indie rockism	rock
 indie shoegaze	rock
-indie singer-songwriter	folk
+indie singer-songwriter	latin
 indietronica	electronic
 indonesian indie	rock
 indonesian pop	pop
 indorock	rock
-industrial	hip hop
+industrial	electronic
 industrial folk	folk
 industrial hip hop	hip hop
 industrial metal	rock
@@ -809,7 +820,8 @@ industrial music	electronic
 industrial rock	rock
 instrumental country	country
 instrumental hip hop	hip hop
-intelligent dance music	avant-garde
+instrumental post rock	rock
+intelligent dance music	easy listening
 iranian pop	pop
 irish country	country
 irish folk	folk
@@ -833,18 +845,19 @@ italo dance	pop
 italo disco	pop
 italo house	electronic
 j-ambient	electronic
-j-core	hip hop
+j-core	rock
 j-dance	electronic
+j-indie	rock
 j-metal	rock
 j-pop	pop
 j-punk	rock
-j-reggae	hip hop
+j-reggae	caribbean and caribbean-influenced
 j-rock	asian
-jam band	jazz
+jam band	latin
 jangle pop	pop
 japanese city pop	pop
-japanese jazztronica	jazz
-japanese psychedelic	folk
+japanese psychedelic	electronic
+japanese traditional	latin
 japanoise	electronic
 jazz	jazz
 jazz bass	electronic
@@ -856,14 +869,14 @@ jazz funk	r&b and soul
 jazz fusion	jazz
 jazz house	electronic
 jazz metal	rock
-jazz orchestra	jazz
+jazz orchestra	orchestral
 jazz rap	jazz
 jazz rock	rock
 jazz trio	jazz
 jazz-funk	jazz
 jerkin'	hip hop
 jersey club	electronic
-jig and reel	jazz
+jig and reel	latin
 jit	african
 jump blues	blues
 jump up	latin
@@ -874,6 +887,7 @@ jùjú	african
 k-hop	hip hop
 k-indie	rock
 k-pop	pop
+k-rock	rock
 kadongo kamu	african
 kansas city blues	jazz
 kansas city jazz	jazz
@@ -888,6 +902,7 @@ korean pop	pop
 kraut rock	rock
 krautrock	rock
 kuduro	african
+kurdish folk	folk
 kwaito	hip hop
 kwaito house	electronic
 kwassa kwassa	african
@@ -913,14 +928,14 @@ lavani	asian
 laïkó	pop
 leeds indie	rock
 lento violento	electronic
-library music	avant-garde
+library music	easy listening
 lift kit	electronic
-light music	avant-garde
+light music	easy listening
 liquid dubstep	electronic
 liquid funk	electronic
 livetronica	jazz
 liwa	asian
-lo star	hip hop
+lo star	african
 lo-fi	avant-garde
 louisiana blues	blues
 louisiana swamp pop	pop
@@ -928,7 +943,7 @@ louisville indie	rock
 lounge	easy listening
 lounge house	electronic
 lounge music	easy listening
-lovers rock	rock
+lovers rock	caribbean and caribbean-influenced
 low bap	hip hop
 lowercase	electronic
 luk krung	asian
@@ -942,14 +957,14 @@ malagasy folk	folk
 malaysian pop	pop
 maloya	african
 mambo	latin
-mambo (music)	caribbean and caribbean-influenced
 mande pop	pop
 mandopop	pop
 manila sound	asian
 maracatu	latin
+marching band	latin
 mariachi	latin
 marrabenta	african
-martial industrial	hip hop
+martial industrial	electronic
 math pop	pop
 math rock	rock
 mathcore	rock
@@ -981,14 +996,14 @@ mexican indie	rock
 mexican pop	pop
 mexican rock-and-roll	rock
 mexican son	latin
-mexican traditional	folklore
+mexican traditional	latin
 miami bass	hip hop
 michigan indie	rock
 microhouse	electronic
 microhouse/minimal house	electronic
 middle of the road	easy listening
 midwest hip hop	hip hop
-military band	jazz
+military band	latin
 minimal	electronic
 minimal dub	electronic
 minimal dubstep	electronic
@@ -999,7 +1014,7 @@ minimal wave	electronic
 mod revival	folk
 modal jazz	jazz
 modern blues	blues
-modern classical	classic
+modern classical	orchestral
 modern country rock	rock
 modern free jazz	jazz
 modern southern rock	rock
@@ -1007,17 +1022,19 @@ moombahcore	electronic
 moombahton	electronic
 morlam	asian
 morna	african
+mosambique	caribbean and caribbean-influenced
 motswako	hip hop
 movie tunes	country
 musique concrete	electronic
 musique concrète	electronic
 mákina	electronic
+méringue	caribbean and caribbean-influenced
 música criolla	latin
 música popular brasileira	latin
 música sertaneja	latin
 nagoya kei	rock
 nashville sound	country
-native american	folk
+native american	jazz
 ndombolo	african
 nederpop	pop
 neo classical metal	rock
@@ -1028,15 +1045,15 @@ neo soul	r&b and soul
 neo soul-jazz	jazz
 neo-bop jazz	jazz
 neo-industrial rock	rock
-neo-progressive	electronic
+neo-progressive	pop
 neo-psychedelia	rock
-neo-psychedelic	folk
+neo-psychedelic	electronic
 neo-rockabilly	country
-neo-singer-songwriter	folk
+neo-singer-songwriter	latin
 neo-swing	jazz
 neo-synthpop	pop
 neo-trad metal	rock
-neoclassical	rock
+neoclassical	orchestral
 neoclassical metal	rock
 neofolk	folk
 neotraditional country	country
@@ -1060,10 +1077,10 @@ new rave	electronic
 new romantic	pop
 new romanticism	pop
 new school hip hop	hip hop
-new tribe	rock
+new tribe	electronic
 new wave	rock
 new wave pop	pop
-new weird america	folk
+new weird america	jazz
 new-age music	electronic
 nintendocore	electronic
 nitzhonot	electronic
@@ -1091,7 +1108,7 @@ novelty music	comedy
 novelty ragtime	jazz
 nu age	pop
 nu disco	r&b and soul
-nu electro	electronic
+nu electro	avant-garde
 nu gaze	rock
 nu jazz	jazz
 nu metal	rock
@@ -1104,12 +1121,12 @@ nu-nrg	electronic
 nueva cancion	latin
 nueva canción	latin
 nz indie	rock
-oi	electronic
+oi	avant-garde
 ok indie	rock
 old school hip hop	hip hop
 old-time	jazz
 onkyokei	asian
-opera	hip hop
+opera	pop
 operatic pop	pop
 orchestral	orchestral
 orchestral jazz	jazz
@@ -1128,19 +1145,20 @@ pagan black metal	rock
 pagan metal	rock
 pagode	latin
 paisley underground	rock
+pakistani pop	pop
 palm-wine	african
 parody music	comedy
-permanent wave	electronic
+permanent wave	rock
 persian pop	pop
-persian traditional	folklore
+persian traditional	latin
 perth indie	rock
 peruvian rock	rock
 piano blues	blues
 piano rock	rock
 piedmont blues	blues
-pinoy alternative	rock
+pinoy alternative	electronic
 pinoy pop	asian
-pipe band	jazz
+pipe band	latin
 poetry	folk
 polish hip hop	hip hop
 polish indie	rock
@@ -1193,7 +1211,7 @@ progressive house	electronic
 progressive metal	rock
 progressive pop	pop
 progressive post-hardcore	electronic
-progressive psytrance	electronic
+progressive psytrance	pop
 progressive rock	rock
 progressive trance	electronic
 progressive trance house	electronic
@@ -1202,7 +1220,7 @@ protest song	folk
 psybient	electronic
 psych gaze	rock
 psychedelic blues-rock	rock
-psychedelic doom	electronic
+psychedelic doom	rock
 psychedelic folk	folk
 psychedelic pop	pop
 psychedelic rock	rock
@@ -1216,12 +1234,14 @@ punk blues	blues
 punk christmas	rock
 punk jazz	jazz
 punk rock	rock
-punk ska	rock
+punk ska	caribbean and caribbean-influenced
+punta	caribbean and caribbean-influenced
+punta rock	caribbean and caribbean-influenced
 r&b	r&b and soul
 r&b and soul	r&b and soul
 raga rock	rock
 ragga	hip hop
-ragga jungle	electronic
+ragga jungle	caribbean and caribbean-influenced
 raggacore	electronic
 ragini	asian
 ragtime	jazz
@@ -1235,21 +1255,22 @@ rap opera	hip hop
 rap rock	rock
 rapcore	rock
 rara tech	electronic
+rasin	caribbean and caribbean-influenced
 raï	african
 re:techno	electronic
 reactionary bluegrass	country
 rebetiko	pop
 red dirt	country
-reggae	hip hop
+reggae	caribbean and caribbean-influenced
 reggae español/spanish reggae	hip hop
-reggae fusion	jazz
+reggae fusion	caribbean and caribbean-influenced
 reggae rock	rock
 reggaestep	electronic
 reggaeton	latin
 reggaeton flow	latin
 regional mexican	latin
 regional mexican pop	pop
-retro electro	electronic
+retro electro	avant-garde
 retro metal	rock
 rhythm and blues	r&b and soul
 rio de la plata	pop
@@ -1257,17 +1278,18 @@ riot grrrl	rock
 rock	rock
 rock and roll	rock
 rock catala	rock
-rock en espanol	country
+rock en espanol	african
 rock en español	latin
 rock gaucho	rock
 rock in opposition	rock
 rock noise	avant-garde
-rock steady	rock
+rock steady	caribbean and caribbean-influenced
 rock-and-roll	rock
 rockabilly	country
+rocksteady	caribbean and caribbean-influenced
 romanian pop	pop
 romantic	pop
-roots reggae	hip hop
+roots reggae	caribbean and caribbean-influenced
 roots rock	rock
 rumba	latin
 russian hip hop	hip hop
@@ -1301,29 +1323,31 @@ shangaan electro	african
 sheffield indie	rock
 shibuya-kei	jazz
 shimmer pop	pop
-shimmer psych	folk
+shimmer psych	electronic
 shiver pop	pop
 shoegaze	rock
 show tunes	country
-singer-songwriter	folk
+singer-songwriter	latin
 singer-songwriter movement	folk
-ska	rock
+ska	caribbean and caribbean-influenced
 ska jazz	jazz
 ska punk	rock
 ska revival	folk
 skate punk	rock
 skiffle	folk
-skinhead oi	electronic
+skinhead oi	avant-garde
 skweee	electronic
+sky room	electronic
 slam death metal	rock
+slash punk	rock
 slavic metal	rock
 slc indie	rock
 sleaze rock	rock
 slovak hip hop	hip hop
 slovak pop	pop
 slovenian rock	rock
-slow core	hip hop
-slow game	electronic
+slow core	rock
+slow game	asian
 slowcore	rock
 sludge metal	rock
 smooth jazz	jazz
@@ -1331,7 +1355,9 @@ snap music	hip hop
 soca	caribbean and caribbean-influenced
 soft rock	rock
 son	latin
-song poem	hip hop
+son cubano	caribbean and caribbean-influenced
+song poem	caribbean and caribbean-influenced
+songo	caribbean and caribbean-influenced
 songo-salsa	hip hop
 sophisti-pop	pop
 soukous	african
@@ -1351,11 +1377,12 @@ spanish folk	folk
 spanish hip hop	hip hop
 spanish indie pop	pop
 spanish indie rock	rock
-spanish new wave	electronic
+spanish new wave	rock
 spanish noise pop	pop
 spanish pop	pop
 spanish pop rock	rock
 spanish punk	rock
+spanish reggae	caribbean and caribbean-influenced
 spanish rock	rock
 speed garage	electronic
 speed metal	rock
@@ -1363,9 +1390,9 @@ speedcore	electronic
 st. louis blues	blues
 st. louis hip hop	hip hop
 step	electronic
-stomp and flutter	jazz
-stomp and holler	jazz
-stomp and whittle	jazz
+stomp and flutter	latin
+stomp and holler	latin
+stomp and whittle	latin
 stomp pop	pop
 stoner metal	rock
 stoner rock	rock
@@ -1374,7 +1401,7 @@ straight-ahead jazz	jazz
 street punk	rock
 stride	jazz
 stride jazz	jazz
-string band	jazz
+string band	latin
 substep	electronic
 sufi rock	rock
 sung poetry	folk
@@ -1382,7 +1409,7 @@ sunset lounge	easy listening
 sunshine pop	pop
 suomi rock	rock
 suomisaundi	electronic
-surf music	avant-garde
+surf music	easy listening
 surf pop	pop
 surf rock	rock
 swamp blues	blues
@@ -1399,9 +1426,9 @@ swedish jazz	jazz
 swedish metal	rock
 swedish pop	pop
 swedish pop punk	rock
-swedish prog	rock
+swedish prog	pop
 swedish punk	rock
-swedish reggae	hip hop
+swedish reggae	caribbean and caribbean-influenced
 swedish synthpop	pop
 swing	jazz
 swiss hip hop	hip hop
@@ -1431,7 +1458,7 @@ texas country	country
 thai indie	rock
 thai pop	asian
 third stream	jazz
-thrash core	hip hop
+thrash core	rock
 thrash metal	rock
 thrash-groove metal	rock
 thrashcore	rock
@@ -1447,16 +1474,17 @@ traditional country music	country
 traditional folk	folk
 traditional funk	r&b and soul
 traditional pop music	pop
+traditional reggae	caribbean and caribbean-influenced
 traditional rock 'n roll	rock
 traditional scottish folk	folk
-traditional ska	rock
+traditional ska	caribbean and caribbean-influenced
 traditional swing	jazz
-traditional	folklore
+traditional:	latin
 trance	electronic
 trance music	electronic
 trap	hip hop
 trap francais	hip hop
-trap music	avant-garde
+trap music	easy listening
 trapstep	electronic
 trash rock	rock
 triangle indie	rock
@@ -1470,7 +1498,6 @@ tropicalia	latin
 tropipop	latin
 truck-driving country	country
 turbo folk	folk
-turkish alternative	rock
 turkish classical	orchestral
 turkish folk	folk
 turkish hip hop	hip hop
@@ -1480,6 +1507,8 @@ turkish rock	rock
 turntablism	hip hop
 twee pop	pop
 twin cities hip hop	hip hop
+twin cities indie	rock
+twoubadou	caribbean and caribbean-influenced
 uk dub	electronic
 uk funky	electronic
 uk garage	electronic
@@ -1492,8 +1521,9 @@ underground hip hop	hip hop
 underground pop rap	hip hop
 underground power pop	pop
 underground rap	hip hop
+unknown	unknown
 uplifting trance	electronic
-urban contemporary	pop
+urban contemporary	r&b and soul
 urban pasifika	hip hop
 v-pop	asian
 vallenato	latin
@@ -1543,8 +1573,7 @@ yugoslav rock	rock
 zapstep	electronic
 zouglou	african
 zouglou cote d'ivoire	african
-zouk	latin
-zouk riddim	latin
+zouk	caribbean and caribbean-influenced
+zouk riddim	caribbean and caribbean-influenced
 zouk-lambada	latin
 zydeco	country
-unknown	unknown
