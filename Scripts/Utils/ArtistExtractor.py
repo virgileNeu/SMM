@@ -507,33 +507,39 @@ def getGenresFromRA(Artist,dic=None):
 	#print("Extract from RA"	)
 	artist = Artist.lower().replace(" ","")
 	URL = "https://www.residentadvisor.net/dj/"+artist+"/biography"
-	content = requests.get(URL).text
-	
-	soup = bs4.BeautifulSoup(content, "html5lib")   
-	#print(content)
-	listGenre = []
-	for art in soup.findAll("article"):
-		text = art.text
-		if(dic==None):
-			dic=createDictionnary()
+	content = None
+	try:
+		content = requests.get(URL,timeout=5).text
+	except:
+		print("Request timeout on "+str(Artist))
+		return None
 		
-		#replace unwanted words
-		text = text.replace("biography","")
-		text = text.replace("discography","")
-		text = text.replace("Biography","")
-		text = text.replace("Discography","")
-		
-		whitelist = set('abcdefghijklmnopqrstuvwxy ABCDEFGHIJKLMNOPQRSTUVWXYZ')
-		text = ''.join(filter(whitelist.__contains__, text))
-		words = text.split(" ")
-		for word in words :
-			for genre in dic:
-				if(genre.lower() == word.lower() and genre!= "oi"):
-					listGenre.append(genre)
-	if(len(listGenre)<1):
-			return None
-					
-	return listGenre
+	if(content!=None):
+		soup = bs4.BeautifulSoup(content, "html5lib")   
+		#print(content)
+		listGenre = []
+		for art in soup.findAll("article"):
+			text = art.text
+			if(dic==None):
+				dic=createDictionnary()
+			
+			#replace unwanted words
+			text = text.replace("biography","")
+			text = text.replace("discography","")
+			text = text.replace("Biography","")
+			text = text.replace("Discography","")
+			
+			whitelist = set('abcdefghijklmnopqrstuvwxy ABCDEFGHIJKLMNOPQRSTUVWXYZ')
+			text = ''.join(filter(whitelist.__contains__, text))
+			words = text.split(" ")
+			for word in words :
+				for genre in dic:
+					if(genre.lower() == word.lower() and genre!= "oi"):
+						listGenre.append(genre)
+		if(len(listGenre)<1):
+				return None
+						
+		return listGenre
 		
 def getGenresFromWikipedia(Artist,dic=None):
 	#print("Extract from RA")
