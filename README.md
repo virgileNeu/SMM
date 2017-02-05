@@ -1,12 +1,13 @@
-<img src="./Poster + Presentation/LogoSMM2.png" width="400">
+<img src="./Resources/LogoSMM.png" width="400">
 # Swiss Music Map Project
 > Project for the course Applied Data Analysis, taught by Michele Catasta
 EPFL, November 2016
 
-**SMM:** <br>
-_*What?*_ Study upon the evolution of musical genres in Switzerland throughout the years.
+**What?**<br>
+• Study upon the evolution of musical genres in Switzerland throughout the years.
 <br>
-_*How?*_ Represent the main musical genres of the Switzerland scene, in a very graphical way, on a map, with a possibility to browse musical events per genre, per artist, and select the timeframe.
+**How?**<br>
+• Represent the main musical genres of the Switzerland scene, in a very graphical and interactive way, on a map, with a possibility to browse musical events by genre, by artist, and select the timeframe.
 
 ##Team
 Virgile Neu (@virgileNeu), IN  
@@ -15,7 +16,7 @@ Simon Narduzzi (@Narduzzi), IN
 
 ##Final Deliverable
 ###Pipeline
-<img src="./pipeline.png" width="400">
+<img src="./Resources/pipeline.png" width="400">
 ####Scrapping
 First we scrap data from three different websites : <a href="http://events.ch">events.ch</a>, <a href="http://residentadvisor.net">residentadvisor.net</a> and <a href="http://routesdesfestivals.com">routedesfestivals.com</a>.
 We gather like this over 40k musical events in Switzerland. The format of each website is different so we have to do specific scrapping scripts for each of these websites. They also have different way of representing information, and no consistency. This have created some problems we had to resolve before the merge, for instance the format of the date, we agree to use the YYYY-MM-DD format (with dashes and not spaces or colons). Some also have more information than others, events.ch sometimes contains the genre of the event, and resident advisor displays club names.
@@ -35,13 +36,13 @@ We now have the two dataframe we want and need for the visualisation in Tableau.
 ###Visualization
 We first wrote a app using matplotlib, it was ugly and a lot of code but worked (see `testVisualisation.py` in `Scrapping/events.ch/.old_visualisation/testVisualisation.py`). We also tried to draw the music map in Folium, and display it in a Web Browser, but it wasn't "smooth" enough, and kind of slow. Then we heard about the Tableau software for data visualiztion. We tested and adopted it because it was much faster, cleaner and easier to adapt than the matplotlib + basemap script we wrote before.
 
-The Tableau projet files are in Visualization.
+The Tableau projet files are in the `Visualization` folder.
 
 <img src="./Visualization/Screenshots/1.png" width="400">
 
 
 ___
-Below is the description/README we made before starting the project : <br>
+Below is the old description/README we made before starting the project : <br>
 (to see what were our expectations)
 ___
 
