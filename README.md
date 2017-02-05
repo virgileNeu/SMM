@@ -1,9 +1,12 @@
-<img src="./Logo.png" width="400">
+<img src="./Poster + Presentation/LogoSMM2.png" width="400">
 # Swiss Music Map Project
-> Project of the course Applied Data Analysis, taught by Michele Catasta
+> Project for the course Applied Data Analysis, taught by Michele Catasta
 EPFL, November 2016
 
-(Visual evolution of musical genres in Switzerland) <-- Description ???
+**SMM:** <br>
+_*What?*_ Study upon the evolution of musical genres in Switzerland throughout the years.
+<br>
+_*How?*_ Represent the main musical genres of the Switzerland scene, in a very graphical way, on a map, with a possibility to browse musical events per genre, per artist, and select the timeframe.
 
 ##Team
 Virgile Neu (@virgileNeu), IN  
@@ -14,7 +17,7 @@ Simon Narduzzi (@Narduzzi), IN
 ###Pipeline
 <img src="./pipeline.png" width="400">
 ####Scrapping
-First we scrap data from three different websites : <a href=http://events.ch>events.ch</a>, <a href://residentadvisor.net>residentadvisor.net</a> and <a href=http://routesdesfestivals.com>routedesfestivals.com</a>.
+First we scrap data from three different websites : <a href="http://events.ch">events.ch</a>, <a href="http://residentadvisor.net">residentadvisor.net</a> and <a href="http://routesdesfestivals.com">routedesfestivals.com</a>.
 We gather like this over 40k musical events in Switzerland. The format of each website is different so we have to do specific scrapping scripts for each of these websites. They also have different way of representing information, and no consistency. This have created some problems we had to resolve before the merge, for instance the format of the date, we agree to use the YYYY-MM-DD format (with dashes and not spaces or colons). Some also have more information than others, events.ch sometimes contains the genre of the event, and resident advisor displays club names.
 
 Then we merge this three dataframes into one big datagrame, making sure they all have the right columns and columns names.
@@ -38,9 +41,11 @@ The Tableau projet files are in Visualization.
 
 
 ___
-Below is the description we made before starting the project :
+Below is the description/README we made before starting the project : <br>
+(to see what were our expectations)
 ___
 
+<img src="./LogoADA.png" width="300">
 
 
 ##Abstract
@@ -118,7 +123,7 @@ This project is consequent and a planning is difficult to predict, as we are not
 - Week 1 (7.11.2016) : Data Search / Data Scrapping for RA  
 - Week 2 (14.11.2016) : Data Search / Data Scrapping for other plateform  
 - Week 3 (21.11.2016) : Data Search / Data Scrapping for other plateform  
-- Week 4 (28.11.2016) : Data Search / Data Scrapping for other plateform (Tweeter, Facebook)  
+- Week 4 (28.11.2016) : Data Search / Data Scrapping for other plateform (Twitter, Facebook)  
 - Week 5 (5.11.2016) : Wikipedia artist extractor development / Data Analysis  
 - Week 6 (12.11.2016) : Wikipedia artist extractor development / Data Analysis  
 - Week 7 (19.11.2016) : Wikipedia artist extractor development  
