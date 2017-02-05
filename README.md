@@ -40,6 +40,7 @@ The Tableau projet files are in the `Visualization` folder.
 
 <img src="./Visualization/Screenshots/1.png" width="400">
 
+The public Tableau is accessible on this link : https://public.tableau.com/profile/publish/ADA_Project/Histoire1
 
 ___
 Below is the old description/README we made before starting the project : <br>
