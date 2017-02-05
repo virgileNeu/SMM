@@ -1,7 +1,13 @@
-<img src="./Logo.png" width="400">
+<img src="./Resources/LogoSMM.png" width="400">
 # Swiss Music Map Project
-> Project of the course Applied Data Analysis, taught by Michele Catasta
+> Project for the course Applied Data Analysis, taught by Michele Catasta
 EPFL, November 2016
+
+**What?**<br>
+• Study upon the evolution of musical genres in Switzerland throughout the years.
+<br>
+**How?**<br>
+• Represent the main musical genres of the Switzerland scene, in a very graphical and interactive way, on a map, with a possibility to browse musical events by genre, by artist, and select the timeframe.
 
 ##Team
 Virgile Neu (@virgileNeu), IN  
@@ -10,29 +16,38 @@ Simon Narduzzi (@Narduzzi), IN
 
 ##Final Deliverable
 ###Pipeline
-<img src="./pipeline.png" width="400">
+<img src="./Resources/pipeline.png" width="400">
 ####Scrapping
-First we scrap data from three different websites : events.ch, residentadvisor.net and routesdesfestivals.com.
-We gather like this over 40k events in Switzerland. The format of each site is different so we have to do specific scripts for each of these websites. They also have different way of represent information, and no consistency. This have created some problems we had to resolve before the merge, for instance the format of the date, we agree to use the YYYY-MM-DD format (with dashes and not spaces or colons). Some also have more information than others, events.ch have sometimes the genre, and resident advisor have the club address.
+First we scrap data from three different websites : <a href="http://events.ch">events.ch</a>, <a href="http://residentadvisor.net">residentadvisor.net</a> and <a href="http://routesdesfestivals.com">routedesfestivals.com</a>.
+We gather like this over 40k musical events in Switzerland. The format of each website is different so we have to do specific scrapping scripts for each of these websites. They also have different way of representing information, and no consistency. This have created some problems we had to resolve before the merge, for instance the format of the date, we agree to use the YYYY-MM-DD format (with dashes and not spaces or colons). Some also have more information than others, events.ch sometimes contains the genre of the event, and resident advisor displays club names.
 
 Then we merge this three dataframes into one big datagrame, making sure they all have the right columns and columns names.
 
-Then we extracted the geolocalisation information, the (latitude, longitude) tuple to be able to plot it on the map. For events.ch and routesdesfestivals.com we only had the city name (location), for resident advisor we had the address, more or less complete and well written.
+Then we extracted the geolocalisation information, the (latitude, longitude) tuple to be able to plot it on the map. For events.ch and routesdesfestivals.com we only had the city name (location), for resident advisor we had the address of the event, more or less complete and well written.
 
-After this, we want to have the genre of the events. For this have use Spotify and Wikipedia, but we need to have the correct name of the artists. For that, we clean the artists column to make sure nothing weird is in it (some data from RA had the hours and other things in it). Then we can finally extract the genre per artists, then we compute the main genre per events.
+After this, we want to get the musical genre of the events. For this purpose, we made use of Spotify and Wikipedia, but we needed the correct name of the artists. For that, we clean the artists column to make sure nothing phony is in it (some data from RA had the hours and other special characters in it). Then we can finally extract the genre per artists, then we compute the main genre per events.
 
-Now we have the Events Dataframe ready.
+Now the Events Dataframe is ready.
 
 We also want to have a desaggregated artists, that is every line of the dataframe is a unique artists/events/date tuple, with also the genre of the artist. For this we use the desaggregate script.
 
 We now have the two dataframe we want and need for the visualisation in Tableau.
 
 ###Visualization
-We first wrote a app using matplotlib, it was ugly and a lot of code but worked (see testVisualisation.py in Scrapping/events.ch/.old_visualisation/testVisualisation.py). Then we heard about the Tableau software for data visualiztion. We tested and adopted it because it was much faster, cleaner and easier to adapt than the matplotlib + basemap script we wrote before.
+We first wrote a app using matplotlib, it was ugly and a lot of code but worked (see `testVisualisation.py` in `Scrapping/events.ch/.old_visualisation/testVisualisation.py`). We also tried to draw the music map in Folium, and display it in a Web Browser, but it wasn't "smooth" enough, and kind of slow. Then we heard about the Tableau software for data visualiztion. We tested and adopted it because it was much faster, cleaner and easier to adapt than the matplotlib + basemap script we wrote before.
 
-The Tableau projet files are in Visualization.
+The Tableau projet files are in the `Visualization` folder.
 
 <img src="./Visualization/Screenshots/1.png" width="400">
+
+
+___
+Below is the old description/README we made before starting the project : <br>
+(to see what were our expectations)
+___
+
+<img src="./LogoADA.png" width="300">
+
 
 ##Abstract
 > Music is an art form and cultural activity whose medium is sound and silence, which exist in time. - Wikipedia  
@@ -109,7 +124,7 @@ This project is consequent and a planning is difficult to predict, as we are not
 - Week 1 (7.11.2016) : Data Search / Data Scrapping for RA  
 - Week 2 (14.11.2016) : Data Search / Data Scrapping for other plateform  
 - Week 3 (21.11.2016) : Data Search / Data Scrapping for other plateform  
-- Week 4 (28.11.2016) : Data Search / Data Scrapping for other plateform (Tweeter, Facebook)  
+- Week 4 (28.11.2016) : Data Search / Data Scrapping for other plateform (Twitter, Facebook)  
 - Week 5 (5.11.2016) : Wikipedia artist extractor development / Data Analysis  
 - Week 6 (12.11.2016) : Wikipedia artist extractor development / Data Analysis  
 - Week 7 (19.11.2016) : Wikipedia artist extractor development  
