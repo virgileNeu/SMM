@@ -527,10 +527,10 @@ if __name__ == '__main__':
 	
 	print("Saving artists dataframe to : "+PATH_ARTISTS)
 	#Saving the Dataframe of artists
-	artists.to_csv(PATH_ARTISTS)
+	artists.to_csv(PATH_ARTISTS,encoding)
 	
 	print("Saving cleaned dataframe to :"+PATH_DF)
-	Dataframe.to_csv(PATH_DF)
+	Dataframe.to_csv(PATH_DF,encoding)
 	
 	print("Saving dictionaries to : "+PATH_DIC)
 	#Saving dictionaries

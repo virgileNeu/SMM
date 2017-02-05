@@ -12,7 +12,7 @@ def desaggregate(df, verbose):
     for (i,r) in df.iterrows():
         for a in literal_eval(r.artists):
             artist = a.strip() #remove ' '
-            lst = [artist, r.place, r.club, r.address, r.location, r.event, r.date, r.genre, r.coordinates]
+            lst = [artist, r.place, r.src, r.address, r.location, r.canton, r.event, r.date, r.genre, r.coordinates]
             if(verbose):
                 print(lst)
             res.loc[res.shape[0]] = lst
