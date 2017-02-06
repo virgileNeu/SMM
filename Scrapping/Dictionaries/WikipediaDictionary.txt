@@ -1,940 +1,1201 @@
-	['world', 'african']
-20-21 Uhr Tanzkurs Bailar Casino	None
-5 In Love	None
-Aaron Abernathy	None
-Aaron Diehl	None
-Aaron Wegmann	None
-Adam Taubitz	['pop']
-Adhd	['world', 'house']
+	['son']
+1349	['asian']
+2ManyDJs	['rock', 'country', 'electronica', 'electronic', 'jungle', 'punk', 'house', 'pop']
+: Roy de Roy	None
+ADHD	['son']
+Aaron James	None
+Abbruch	None
+Aborted	['metal', 'grindcore']
+Accion Mutante	['comedy']
+Achim Kaufmann	None
+Adam Holzmann	None
+Adi Pflugshaupt	None
+Adrian Balmer	None
 Adrian Mears	None
-Afrika Mkhize	None
-After-Party mit Greem	None
-Agata Wilewska	None
-Ai Yamamura	None
-Akinobu Ono	None
-Al Comet	None
-Albert Hartkamp	None
-Alcides Toirac	None
-Alek Fester	None
-Alessandro Giannelli	None
-Alessandro d'Episcopo	None
-Alessio Pianelli	None
+Adrian Pflugshaupt	None
+Adrien Guerne	None
+Alain Altinoglu	['opera']
+Alain Veltin	None
+Alberto Guareschi	None
+Aleksander Gabry	None
+Alessandro Rosi	['baroque']
+Alessia Grimaldi	None
 Alex Cebanica	None
-Alex Hendriksen	None
-Alex Hendriksen Quartet	None
-Alex Huber	None
-Alexander Boeschoten	None
-Alexander Boldachev	None
-Alexander Neustroev	None
-Alexander Seidel	None
-Alexandra Ivanova	None
-Alexandre Beuchat	None
-Alexandre Cunha	None
+Alex Friedrich	None
+Alex Maurer	None
+Alexander "Sandi" Kuhn	None
+Alexander Brincken	['classical', 'unknown']
+Alexander Kuhn	None
+Alexandra Huber	None
 Alexey Lavrentyev	None
-Alfatec	None
-Alfred Zimmerlin	None
-Ali Salvioni	None
-Alice Phoebe Lou	None
-Amik Guerra	None
-Amélie Chemin	None
+Alice Borciani	None
+Aline Burla	None
+Alison Burnside Express	None
+All Eyes West	None
+Alp Bora	None
+Alp Bora Quartett	None
+Alwin Büchler	None
+Amelia Curran	None
+Amin Mokdad	None
+Amusement Parks on Fire	['rock', 'experimental']
+Amélie Mandeville	None
+Ana Moura	['fado']
 Ana de la Vega	None
-Andi Czech	None
-Andi Pupato	None
-Andre Bader	None
-Andrea Beccaro	None
-Andrea Grimm	None
-Andrea Kollé	None
-Andrea Manzoni	None
-Andrea Manzoni Trio	None
-Andrea Nydegger	None
+Andrea Gygax	None
+Andrea Pozza	None
 Andrea Suter	None
-Andrea Wiesli	None
-Andreas Böhlen	None
+Andreas Graf	['world']
+Andreas Hourdakis	None
 Andreas Janke	None
-Andreas Jost	None
-Andreas Liebig	None
+Andreas Lang	['world']
+Andreas Sami	None
 Andreas Schaerer	None
+Andreas Schärer	None
+Andreas Stahel	None
 Andreas Tschopp	None
-Andrei Ionita	None
+Andreas Zingre	None
+Andrej Ichtchenko	None
+Andres Velez	None
+Andrey Murphy	None
+András Schiff	['house', 'classical']
 André Desponds	None
-André Siqueira	None
-Andy Scherrer	None
-Angélique Kidjo	['classic', 'world', 'african', 'soul', 'rumba', 'chanson']
-Ann Malcolm	None
-Anna Trauffer	None
-Annette Kappeler	None
-Annette Labusch	None
-Annika Francke	None
-Anton Sword & The We Ours	None
-Antonello Messina	None
-Arabrot	['rock', 'metal', 'electronic', 'noise']
-Arend Grosfeld	None
-Ariane Haering	None
-Ariel Rossi	None
-Arkady Shilkloper	['world']
-Arnaud Surrel	None
-Arnulf Ballhorn	None
-Arturo Arglos	None
-Arturo Stable	['latin', 'guajira', 'son']
-Asa Konishi Jankowska	None
-Asaf Avidan	['rock', 'folk', 'son', 'blues']
-Asher Selector	None
-Asian Dub Foundation Soundsystem	['dub', 'asian']
-Astrid Fuellemann	None
-Attic	['house']
-Attila Fekete	None
+André Pousaz	None
+Andy Kurz	None
+Angela Beffa	None
+Angelika Express	['punk', 'rock', 'pop']
+Angelika Kirchschlager	['opera', 'house']
+Angelo Christidis & Jens Krieg	None
+Angry Buddha	None
+Ania Losinger	None
+Anna Netrebko	['opera']
+Anna Vasilyeva	None
+Annalise Bereiter	None
+Anne Sofie von Otter	['baroque', 'opera', 'house']
+Anne-May Krüger	None
+Annetta Debrunner	None
+Antje Thierbach	None
+Antonia	None
+Antonios Stoitsoglou	None
+Apologies I Have None	None
+Arlette Meier	None
+Armando Bucher	None
+Arne Huber	None
+Arno Haas	None
+Arno Schulz	None
+Ashley Prewett	None
+Asking Alexandria	['metal', 'dubstep', 'rock', 'hardcore', 'electronicore', 'metalcore', 'punk', 'classic', 'pop']
+Asphyx	['metal', 'celtic']
 Aude Priya	None
-Audio 88 & Yassin	None
+Aurel Hassler	None
+Aurel Nowak	None
 Aurora Nealand	None
-Aurore Baal	None
-Avi Wogderess Vasa	None
-Axel Wolf	None
-Ayanda Sikade	None
+Axel Andrae	None
+Axel Pape	None
 Baba The Fayahstudend	None
-Bacchus	['latin']
-Backtrack	None
-Band of Horses	['pop', 'americana', 'rock']
-Bane	['hardcore']
+Barbara Ciannamea	None
+Barbara Erni	None
 Barbara Wildberger	None
-Barbez	None
-Barcella	['world']
+Bare Noize	None
+Bartek Niziol	['opera']
 Basil Anliker	None
-Beat Schneider	None
+Beat Anderwert	None
+Beat Baumli	None
+Beat Müller	None
 Beatrice Rogger	None
-Beatrice Voellmy	None
-Beatriz Blanco	None
-Belisa Mang	None
-Bellhound Choir	None
-Ben Zahler	None
+Benedetto Lupo	None
 Benedikt Reising	None
 Benedikt Wieland	None
 Beni Külling	None
-Benjamin Brodbeck	None
+Beni Leumann	None
+Benjamin Engeli	None
+Benjamin Noti	None
+Benjamin Nyffenegger	None
+Benjamin Reinhart	None
 Benjamin Schmid	None
-Benni Kammerer	None
-Benno Kaiser	None
-Benny Omerszell	None
-Bernd Reiter	None
-Bernhard Affolter	None
-Bernhard Egger	None
-Bernhard Hörler	None
-Bernhoft	['rock', 'soul']
-Berthold Seliger	None
-Beto Sápio	None
+Benno Ernst	None
+Bernhard Bamert	None
+Betontod	['punk', 'rock']
+Bettina Weder	None
+Big Freedia	['rap', 'electro', 'african', 'disco', 'funk', 'bounce', 'world', 'edm']
+Big Freedia & The Divas	None
+Bill Payne	['rock', 'trap', 'step', 'blues', 'funk', 'mambo', 'world', 'unknown']
 Billy Martin	['world', 'unknown']
-Black Milk & The Nat Turner	None
-Blackout Problems	None
-Bo Wiget	None
-Boglárka Pecze	None
-Bolschoi Don Kosakenchor	None
-Boulevard Des Airs	None
-Brainstorm	None
-Breakdown Of Sanity	None
+Billy Martin's Wicked Knee	None
+Björn Again	['europop', 'pop', 'disco']
+Black Light Burns feat. Wes Borland	None
+Bobby Wissmann	None
+Bonded By Blood	['metal']
+Boogie Connection	['boogie']
+Boomrush Backup	None
+Boris Previic	None
+Born Gold	['electronic', 'experimental', 'indietronica', 'futurepop']
+Bouganville	None
+Boys Noize	['electronica', 'electro', 'disco', 'techno', 'minimal', 'punk', 'house', 'pop']
 Brendan Wade	None
-Brumes d'automne	None
-Bruno Jundt	None
+Brian Franklin	None
+Bruce Roberts	None
+Bruno Duvall	None
+Bruno Haag	None
+Bruno Huwyler	None
+Bruno Spoerri	['electronica']
+Bryan Grob	None
 Bänz Oester	None
-Bê Betina Ignacio	None
-Bê Ignacio	None
-C.A.R	None
 C.Daletska	None
 C.Glaser	None
 Caesar Perrig	None
-Candy Dulfer	['pop', 'funk', 'soul']
-Carbon Airways	None
+Cancer Bats	['punk', 'rock', 'metal', 'metalcore', 'hardcore']
+Canja Rave	None
+Cara	None
+Caravan Palace	['swing', 'electro', 'house']
+Carla Blackwood	None
+Carlo Menger	None
+Carlo Moreni	None
 Carlo Niederhauser	None
+Carmen Bürgisser	None
 Carola Glaser	None
-Carolin Widmann	['classical']
-Cato Nordby	None
-Cecile Mc Lorin Salvant Quintet	None
-Chamito	None
-Charlotte Quadt	None
-Chelsey Schill	None
-Chrigu Müller	None
-Chris Ayer	['pop', 'rock', 'folk', 'unknown', 'blues']
-Chris Jaeger	None
-Chris Linder	None
-Chris Norz	None
-Chris Wood	['rock', 'folk']
-Christian Dilier	None
+Carola Wirth	None
+Caroline Fahrni	None
+Catriona Bühler	None
+Chang-Drouin	None
+Charlie Schumacher	None
+Charlotte Dentan	None
+Charly Antolini	['world']
+Che Sudaka	['rock', 'rumba', 'punk', 'ska']
+Chen Yan	None
+Chica Torpedo	None
+Chin-Ting Huang	None
+Chip Crawfort	None
+Chris Liebing	['techno']
+Christa Kohli	None
+Christian Buck	None
+Christian Buehrle	None
+Christian Dierstein	None
 Christian Fotsch	None
 Christian Gutfleisch	None
-Christian Kuntner	None
+Christian Hieronymi	None
+Christian Meyers	None
+Christian Müller	None
+Christian Niederer	None
+Christian Rösli	None
+Christian Schütz	None
+Christian Spahni	None
+Christian Sutter	None
+Christian Wallner	None
 Christian Weber	None
+Christian Winiker	None
+Christian Wolfarth	None
 Christina Daletska	None
-Christina Martin	None
-Christoph Bösch	None
+Christina Fassbender	None
+Christina Jaccard	None
+Christina Wyss	None
+Christine Esser	None
+Christine Hu	None
+Christine Meier	['world']
+Christof Jaussi	None
+Christoph Baumann	None
+Christoph Dangel	None
 Christoph Grab	None
-Christoph Kaufmann	None
-Christoph Merki	None
-Christoph Ràcz	None
-Christoph Schepperle	None
+Christoph Irniger	None
+Christoph Neuhaus	None
+Christoph Pfaff	None
+Christoph Prégardien	['baroque']
+Christoph Steiner	None
 Christoph Stiefel	None
-Christoph Utzinger	None
+Christophe Huguenin	None
 Christopher Jepson	None
 Christy Doran	None
-Chuck Prophet	['rock', 'noise', 'world', 'jungle']
-Church Of Misery	['rock', 'metal']
-Cinzia Catania	None
-Civil Civic	['rock', 'electronic', 'noise']
-Claude Meier	None
-Claudio Filippini	None
+Claire Huangci	['classical']
+Claire Huguenin	None
+Claire Pigagnol	None
+Clannad	['rock', 'electronica', 'celtic', 'folk', 'world', 'pop']
+Claude Bucher	None
+Claude Diallo	None
+Claude Hauri	None
+Claudia Greber	None
+Claudia Vollenweider	None
+Claudio Burri	None
+Claudio Moser	None
 Claudio Strebel	None
-Clemens Schepperle	None
-Cloud Rat	['world']
-Coely	None
+Claudio Strüby	None
+Clemens Hagen	None
+Colin Vallon	None
+Conductor: Marcus Weiss	None
+Conor Oberst	['rock', 'folk', 'country']
+Conrad Zwicky	None
+Container 6	None
 Cookie The Herbalist	None
-Corinne Huber	None
-Costi Topalidis	None
-Creeper	None
-Crew Peligrosos	None
-Csongor Szanto	None
-Cunninlynguists	['rap', 'funk']
-Cäcilia Chmel	None
-Cécile Mansuy	None
-Cécile McLorin Salvant	['classical']
-Céline Pasche	None
-D-Fyne	None
-DJ Deivi	None
-DJ Super Sam	None
-DJs Burak Yeter	None
-DJs Dot	None
-DJs Gilles Peterson	None
-DJs Haitian Star	None
-DJs Lee Gamble	None
-DJs Nando	None
-Da'le	None
-Daminic Montandon	None
-Damir Imamovic	['house']
-Damir Imamovic Sevdah Takht	None
-Dan Wilde	['folk']
-Daniel Bentz	None
-Daniel Disler	None
+Corinne A. Sutter	None
+Corinne Chapelle	None
+Cornelia Arn	None
+Cornelius Buser	None
+Corrosive	None
+Covenant	['world']
+Crazy Lixx	['rock', 'metal', 'hardcore']
+Cristina Janet	None
+Curtis Fowlkes	['lounge']
+Cäsar Zurbriggen	None
+Céline Akça	None
+Céline-Giulia Voser	None
+DJ Count Crophead	None
+DJs Daddy K	None
+DJs Karpalo	None
+DJs Mango Alemania	None
+DJs Mauri	None
+Dada Life	['punk', 'electro', 'edm', 'house']
+Dalia Donadio	None
+Dan Agent	None
+Dani Eberhard	None
+Dani Solimine	None
+Daniel Buess	['experimental', 'classical', 'noise']
+Daniel Fueter	None
 Daniel Haefliger	None
-Daniel Meller	None
+Daniel Hope	None
+Daniel Kahn & The Painted Bird meet the Brothers Nazaroff	None
+Daniel Moos	None
 Daniel Röhn	None
-Daniel Schenker	None
-Daniel Winshall	None
-Daniel Woodtli	None
+Daniel Studer	None
+Daniel Weber	None
 Daniel Zisman	None
-Daniela Müller	None
-Darkhaus	None
-Darkside	['house', 'electronica', 'soul', 'noise', 'techno', 'electronic']
+Daniil Trifonov	['classical']
+Danilo Boggini	None
+Danilo Moccia	None
+Danja Schwegler	None
+Danny Reichlin	None
+Daria Zappa	None
+Dark Cloud	['electronic', 'metal', 'world', 'son']
+Dave Blaser	None
+Dave Doran	None
+Dave Eichenberger	None
 Dave Feusi	None
-Dave Harrington	None
-Dave Samuels	['latin']
-Dave Samuels' Caribbean Jazz Project	None
+Dave Gisler	None
+Dave Ruosch	None
 David Beglinger	None
-David Heizmann	None
-David Kilowsky	None
-David Meier	None
-David Murray	['world']
-David Murray Infinity Quartet feat. Saul Williams	None
-David Sanborn & Bob James Group feat. Steve Gadd	None
-DavidGuetta	None
-Deafkid	None
-Dean Blunt	['pop', 'rap', 'rock', 'metal']
-Deba	None
-Deez Nuts	['world']
-Defeater	['rock', 'hardcore']
+David Bokel	None
+David Frühwirth	None
+David Helbock	None
+David Reitz	None
+David Schwarz	None
+David Zopfi	None
+Davie Gisler	None
+Debauchery	['metal', 'rock']
 Dejan Terzic	None
 Delinquent Habits	['rap', 'hardcore']
-Diadji Seydi	None
+Delirio	None
+Denis Beuret	None
+Denison Witmer	['rock', 'lounge', 'folk', 'americana', 'house']
+Derek Clark	['house']
+Deu Choro	['choro']
 Diana Petrova	None
-Diego Baroni	None
-Dieter Hubov	None
+Die Blockflöte des Todes	None
 Dieter Häner	None
-Dieter Ilg	None
-Dieter Thomas Kuhn & Band	None
-Dillon	None
-Dimitri Ashkenazy	['classical', 'house']
-Dirk Börner	None
-Djam Rekk Sound DJ-Kollektiv	None
+Dieter Ulrich	None
+Diskomurder	None
+Django Bates	['house', 'classical']
 Domenic Landolf	None
 Domenico Tagliente	None
-Dominic Hauser	None
-Dominic Landolt	None
-Dominik Grossenbacher	None
-Dominik Schürmann	None
-Dominique Girod	['classical', 'electronic', 'folk']
+Dominic Egli	None
+Dominik Blum	None
+Dominik Eberle	None
+Dominik Rüegg	None
+Dominik Wörner	['baroque', 'opera']
+Dominique Dieth	None
 Donat Fisch	None
-Doodlebug	None
+Donny McCaslin	['house']
+Donny McCaslin Group	None
+Donzela guerreira	None
 Doran-Kaenzig-Hemingway	None
-Dorotop DJ Set	None
-Dream Theater	['pop', 'house', 'son', 'rock', 'country', 'soul', 'metal']
-Drum'n'bass	['breakbeat', 'livetronica', 'synthpop', 'grime', 'dub', 'drumstep', 'techno', 'electronica', 'dubstep', 'soul', 'darkcore', 'chiptune', 'breakcore', 'jungle', 'reggae', 'doomcore', 'ambient', 'raggacore', 'funk', 'ragga', 'dancehall', 'hardcore', 'neurofunk', 'step', 'sambass', 'glitch', 'eurodance', 'hardstep', 'electronicore', 'funktronica', 'hardstyle', 'drill', 'techstep', 'darkstep', 'trap']
-Dubioza Kolektiv	['rock', 'dub', 'ska', 'reggae']
-Dylan Perron et Élixir de Gumbo	None
-Edicson Ruiz	['classical']
+Doran-Känzig-Hemingway	None
+Dorit Chrysler	['electronic', 'electro']
+Dota	['electronic', 'world', 'asian']
+Doug Hammond	['funk']
+Drizella	None
+Dropkick Murphys	['rock', 'hardcore', 'chanson', 'celtic', 'folk', 'blues', 'punk', 'classic', 'house', 'son']
+Duan Aiai	None
+E. Rütsche	None
+E. Streiff	None
+Eastern Standard Time	None
+Eckart Heiligers	None
+Eckhard Stromer	None
+Edgar Marc Petter	None
 Edmauro de Oira	None
-Edmundo Carneiro	None
-Eduardo Machado	['unknown']
-Eduardo Machado Trio	None
-Edward Rushton	None
-Egyptian Hip Hop	['ghettotech', 'hyphy', 'cumbia', 'trap', 'country', 'swing', 'sawt', 'wonky', 'nerdcore', 'crunk', 'asian', 'classical', 'latin', 'rap', 'khaliji', 'pop', 'hiplife', 'hardcore', 'comedy', 'crunkcore', 'electro', 'turntablism', 'glitch', 'rock', 'folk', 'metal', 'drill', 'grime', 'house', 'horrorcore', 'soul', 'merenrap', 'african']
-Eiko Furusawa	None
-Einar Stray Orchestra	['pop', 'rock']
-Elena González	None
+Edmund Worsfold Vida	None
+Eduardo Egüez	['tango', 'latin']
+Efterklang	['rock']
+Egidius Streiff	None
+Einat & Hakim	None
+Einat Betzalel	None
+Electric Hellessence	None
 Elena Tomilova	None
-Elias Bernet	None
-Elisabeth Göring	None
-Elisabeth Waldmeier	None
-Elmar Frey	None
-Elyas Khan	None
-Emanuel Heitz	None
-Emanuel Küenzi	None
-Emanuel Künzi	None
+Eleni Mandell & Sylvie Lewis	None
+Eliane Cueni	None
+Elina Duni	['synthpop']
+Elisabeth Berner	None
+Elisabeth Flechl	None
+Elisabeth Meyer	None
+Elliott Levin	None
+Elysa Kay	None
+Emanuel Ax	['jungle', 'classical']
 Emanuel Rütsche	None
-Emanuel Schmelzer	None
-Emanuele Jannibelli	None
-Endo Anaconda	None
-Eric Alexander	None
-Erich Bieri	None
-Erich Fischer	['world']
-Erich Möschler	None
-Eriko Wakita	None
-Ernst Buscagne	None
-Erwin Bieri	None
-Esteban "Chamito" Reyes	None
-Esther Hoppe	None
-Esther Nydegger	None
+Emanuel Schnyder	None
+Emanuele Forni	None
+Emiliano Arboleda	None
+Emily Wells	['rock']
+Emmanuel Harold	None
+Emmanuel Pahud	['world', 'baroque', 'experimental', 'orchestral', 'classical']
+End of Silence	['rock', 'metal']
+Ensemble Sortisatio	['classical']
+Enter Shikari	['metal', 'rock', 'dubstep', 'hardcore', 'electronicore', 'industrial', 'electro', 'screamo', 'noise', 'punk', 'house', 'son']
+Erich Tiefenthaler	None
+Erika Achermann	None
+Erikson Cabrera	None
+Ernst Grädel	None
+Ernst Waespe	None
+Erwin Pfeifer	None
+Erwin Schrott	['opera', 'house']
+Estelle Costanzo	None
+Esther Pitschen	None
+Eszter Major	None
+Eths	['metal', 'deathcore', 'metalcore']
+Etienne Abelin	None
 Etienne Marti	None
 Eva Boesch	None
-Eveleen Olsen	None
-Ewa Grzywna-Groblewska	None
+Eva Kesselring	None
+Evgeni Koroliov	['classical']
+Evgeniya Kossmann	None
+Ewa Kupiec	['classical']
+Fabian Anderhub	None
+Fabian Baur	None
 Fabian Bürgi	None
-Fabian Gisler	None
-Fabian Gubser	None
-Fabian Heynen	None
-Fabian Kristmann	None
+Fabian Eberle	None
+Fabian Gutscher	None
+Fabian Keist	None
+Fabian M. Mueller	None
+Fabienne Ambühl	None
 Fabienne Hoerni	None
-Fabio Di Càsola	None
-Family Atlantica	None
-Family of the Year	['pop', 'world', 'rock', 'folk', 'classic']
-Feadz	['techno', 'electro', 'rock', 'house']
+Fabio Pinto	['world']
 Felix Brühwiler	None
 Felix Gubser	None
-Felix Klaus	None
-Felix Kübler	None
-Felix Renggli	None
+Felix Haller	None
 Felix-Andreas Genner	None
-Fernando Rast	None
+Ferdinand Povel	None
+Fere Scheidegger	None
+Feres Hot Strings	None
+Fetish Solo	None
 Fides Auf der Maur	None
-Filip Micha Saffray	None
-Flavio Mezzodi	None
-Flo Dauner	None
-Flo Reichle	None
+Filippo Morace	None
+Flamencos de Morón	None
+Flavio Rohner	None
+Flavio Spirgi	None
+Fler	['rap']
+Florian Arbenz	None
+Florian Egli	None
 Florian Favre	None
-Florian Hoesl	None
-Florian Krause	None
-Florian Läuchli	None
-Florian Walser	None
-Flurin Cuonz	None
-Fran Lorkovic	None
-Frances	None
-Franziska Bruecker	None
-Franziska Brücker	None
+Florian Favre Trio	None
+Florian Grupp	None
+Florian Keller	None
+Florian Möbes	None
+Florian Truebsbach	None
+Florian Widmer	None
+Floriano Inacio Junior	None
+Foreign Beggars	['dubstep', 'grime', 'rai', 'brostep']
+Francis Petter	None
+Franco Casagrande	None
+Frank Sanderell	None
+Frank Turner And The Sleeping Souls	None
+Franz Hellmüller	None
 Franziska Hatz	None
-Françoise Matile	None
-Frauenarzt	['unknown']
-Frauke Tometten Molino	None
+Françoise Rivalland	None
 Fred Bürki	None
+Fred Tackett	['rock', 'americana', 'blues', 'mambo']
+Freddy Benitez	None
+Frederik Köster	None
+Frequency Jones	None
 Fridolin Blumer	None
-Frits Landesbergen	None
+Friedemann A. Treiber	None
+Friedemann Treiber	None
+Fritz Hauser	['classical']
+Frédéric Petitprez	None
+Fulvia Mancini	None
+Furio Zanasi	None
+Félix Rossy	None
+G. Calvin Weston	None
+Gabe Ford	['rock']
 Gabriel Adorjan	None
-Gabriel Dalvit	None
-Gabriel Walter	None
+Gabriel Meyer	None
 Gabriela Friedli	None
+Gabriela Tanner	None
+Gabriella Colecchia	None
 Ganesh Geymeier	None
-Gauthier Toux	None
-Geert Dedapper	None
-Gemelli Diversi	None
-Gen Wüst	None
-Gerilja	['disco', 'rock', 'step']
+Gavlyn	None
+Gaël Zwahlen	None
+Gaëtan Lagrange	None
+Geneviève Strosser	None
+Georg Hofmann	None
 Gerry Hemingway	None
+Gert Schimak	None
 Get Well Soon	None
-Gianna Nannini	['chanson', 'rock', 'latin']
-Gianni Pontillo	None
-Gil Reis	None
-Gilberto Gil	['rock', 'samba', 'reggae']
-Gilles Apap	['blues', 'folk']
-Giora Feidman	['soul']
-Giorgia Milanesi	None
-Giorgio Mandolesi	None
-Glenn Ferris	['son']
-Gletscher Fezzer	None
-Go Go Berlin	['rock']
-Goldfrapp	['rock', 'electronic', 'ambient', 'synthpop']
-Goran Kovacevic	None
-Grave Miasma	None
-Great Black Waters	None
-Grégoire Maret	['blues']
-Gérard Wyss	None
-Haemi Haemmerli	None
+Giancarlo Prossimo	None
+Gianluca Giger	None
+Gianmaria Testa	['rock', 'chanson']
+Giantree	None
+Gina Günthard	None
+Gitte Deubelbeiss	None
+Giulia del Re	None
+Gregor Loepfe	None
+Gregory Porter	['soul', 'gospel', 'blues', 'funk', 'classic', 'house']
+Greis	None
+Grégoire Vuilleumier alias Greis	None
+Gudrun Petruschka	None
+Gwilym Simcock	['classical']
 Haika Lübcke	None
+Hakim Boukhit	None
+Hannes Bärtschi	None
 Hannes Bürgi	None
-Hannes Fankhauser	None
-Hannes Giger	None
-Hans Agreda	None
-Hans-Peter Pfammatter	None
-Hassan Shakur	None
-Heart In Hand	None
-Heartical Sound	None
-Heidrun Wirth-Metzler	None
+Hans Adolfsen	None
+Hans Christoph Begemann	None
+Hans Feigenwinter	None
+Hans Hassler	['baroque', 'classical']
+Hans Joerg Fink	None
+Hans Krauer	None
+Hans-Jürgen Studer	None
+Hanspeter Krüsi	None
+Hansruedi Gattiker	None
+Hansueli Oesch	None
+Harald Haerter	None
+Hardy Appich	None
+Harry Lenherr	None
+Haut & Courte	None
+Hayden Chisholm	['experimental', 'classical']
+Heather Roche	None
+Heidi-Maria Makkonen	None
 Heiner Grieder	None
-Heinrich Mätzener	None
-Heinz Holliger	['classical']
+Heinz Gasser	None
+Heinz Geisser	None
+Heinz Holliger	['opera', 'classical']
+Heinz Sauer	None
 Heiri Kaenzig	None
-Helena Rüegg	None
+Heiri Känzig	None
+Helen Iten	None
+Helena Winkelman	None
 Helga Varadi	None
-Helmut Kagerer	None
-Hendrix Ackle	None
+Hells Belles	None
+Helmut Deutsch	['world', 'opera', 'classical']
+Herb Bucher	None
+Herbert Kramis	None
+Herbert Pirker	None
+Herbie Kopf	None
+Herman Peter	None
+Herman Van Veen	['cabaret']
+Herman van Veen	['cabaret']
+Hermann Bühler	None
 Hermann Oswald	['opera']
-Hooverphonic	['electronica', 'pop', 'rock', 'electropop', 'world']
-Idan Raichel	['electro', 'world', 'folk']
+Hidden Orchestra	['world', 'reggae', 'idm', 'dub', 'electronica']
+Hieronymus Schädler	None
+Hille Perl	['baroque']
+Hiram Mutschler	None
+His Clancyness	['rock', 'krautrock', 'pop', 'noise']
+Honig	None
+Hp Brack	None
+Hurricane Dean	['tropical', 'world', 'minimal', 'latin']
+Huss & Hodn	None
+Hämi Hämmerli	None
+Hütte	None
+I Got You On Tape	['rock']
+Ignacio de Amparo	None
 Igor Morosow	None
-Ildikó Sajgó	None
-Indias Indois	None
-Indira Koch	None
-Ingvo Clauder	None
-Inka Kuchler	None
-Irene Klein	['unknown']
-Irene Schindele	None
-Irie Révoltés	['ragga', 'ska', 'dancehall', 'reggae']
-Irina Georgieva	None
-Isa Kurz	None
-Isaac Duarte	None
-Isaiah Thompson	None
+Iiro Rantala	['world', 'classical', 'tango']
+In Strict Confidence	['electro']
+Ingrid Lukas	None
+Isa Wiss	None
+Isabel Heusser	None
+Iva Denes	None
 Ivan Hrdina	None
 Ivan Kubias	None
-Ivan Mihajlovic	None
-Jacques Widmer	None
-Jamie Lidell	['techno', 'soul']
-Jan Grüter	None
-Jane Achtman	None
-Jared Silverstein	None
-Jaribu Shahid	None
-Jasmina Matijevic	None
-Jay Messerli	None
-Jeanne Roth	None
-Jedediah Allen	None
-Jenny Chi	None
-Jenny Högström	None
-Jo-El Sonnier & T. Graham Brown & Band	None
+Ivan Monighetti	None
+Ivo Pogorelich	['folk', 'classical', 'romantic']
+JJ & Palin	None
+JJ Flück	None
+Jakob Hug	None
+Jakob Pilgram	None
+James Bailey	['classical']
+James Blood Ulmer	['rock', 'blues', 'house', 'world']
+James Gilchrist	None
+Jan Eschke	None
+Jan Geiger	None
+Jan Schlegel	None
+Jan Schreiner	None
+Janek Rosset	None
+Janine Cathrein	None
+Jasmin Scheidegger	None
+Javier Heredia	None
+Jayce Lewis	['rock', 'asian', 'son', 'world', 'pop', 'unknown']
+Jean Pierre Magnet y Serenata de los Andes	None
+Jean-Daniel Girod	None
+Jean-François Lessard	None
+Jean-Sélim Abdelmoula	None
+Jeannine Hirzel	None
+Jeff Hirshfield	None
+Jeff Zima	None
+Jennifer Kay Aynilian	None
+Jens Loh	None
+Jens Peter Maintz	None
+Jens-Peter Maintz	None
+Jeremias Keller	None
+Jersey Julie	None
+Jersie Julie & Band	None
+Jessica Rona	None
+Jim Boyd	None
 Joachim Enders	None
-JoachimGarraud	None
-Jochen Rueckert	None
-Joe Jackson	['pop', 'world', 'rock', 'ska', 'soul']
-Joel Allison	None
+Joe Schwach	None
+Joel Marosi	None
 Joel Reiff	None
-Johannes Gutfleisch	None
-John Garcia	None
-John Medeski	['pop', 'funk', 'jungle', 'world']
-John Michael Bradford	None
-John Scofield	['world', 'bebop', 'boogie', 'house', 'rock', 'country', 'soul', 'funk', 'blues']
-John Scofield & Medesky-Martin-Wood	None
-Jojo Kunz	None
-Jon Cowherd	['pop', 'rock']
-Jonas Brügger	None
-Jonas Gross	None
+Johann Novell	None
+Johannes Schleiermacher	None
+Johannes Zahlten	None
+John Marshall	['metal']
+John Voirol	None
+Jonas Iten	None
 Jonas Labhart	None
 Jonas Ruther	None
-Jonas Tschanz	None
-Jonathan Sells	None
+Jonas Winterhalter	None
+Jonas Zürcher	None
+Jonathan Peek	None
 Jooce Garret	None
-Jorge Leysan Demestre	None
-Jorge Rossy	['world', 'blues', 'house']
-Jorge-Luís Gonzalez	None
-Josiane Kneuss	None
-Jugendchor Hamrahilö	None
-Julia Bauer	None
-Julia Marion	None
+Joseph Bowie	['punk', 'bounce', 'rock', 'funk', 'blues']
+Josquin Rosset	None
+José Carreras	['opera']
+Joy Denalane	['folk', 'reggae', 'soul', 'pop', 'african']
+Juan Pablo Herrera	None
+Judith Goldbach	None
+Juilliard String Quartet	['classical']
+Julia Keller	None
+Julia Pichler	None
+Julian Joseph	None
 Julian Pieber	None
 Julian Sartorius	None
-Junko Takayama	None
 Justin Peake	None
 Justin Vali Trio	None
+Jérémie Bochet	None
+Jürg Bucher	None
 Jürg Dähler	None
-Jürg Gasser	None
-Jürg Käser	None
-Jürg Maag	None
+Jürg Lietha	None
+Jürg Luchsinger	None
+Jürg Metzger	None
 Jürg Ramspeck	None
-Kalle Kalima	None
-Kanna	['reggae']
+Jürg Wickihalder	None
+Jürg Zurmühle	None
+Jürgen Bothner	None
+Jürgen Waidele & Friends feat. Elysa Kay	None
+KJ Christy Doran	None
+Kaisa	None
+Kalli Gerhards	None
+Kammerorchester der Philharmonie Novosibirsk	None
+Kara Sylla Ka	None
+Karel Boeschoten	None
+Karin Dornbusch	None
+Karin Meier	None
 Karl Raas	None
-Kate Macoboy	None
-Katharina Busch	None
-Katharina Kühne	None
-Katharina Weissenbacher	None
-Kathrin Hartmann	None
-Katia Braunschweiler	None
-Katia Labèque	['pop', 'house', 'son', 'ragtime', 'flamenco', 'rock']
-Katja Fuchs	None
-Katryn Hasler	None
-Keith Sterling Brewer Band	None
-Kendrick Scott	['world']
-Kenneth Dahl Knudsen	None
-Kensington	['country', 'house']
-Kery James	['rap', 'trap', 'chanson']
+Karma to Burn	['rock', 'metal']
+Kaspar von Grünigen	None
+Kendrick Lamar	['rock', 'hardcore', 'freestyle', 'electronica', 'rap', 'house', 'funk', 'world', 'soul']
+Kenneth Henderson	['rock', 'house']
+Kenny Gradney	['rock', 'folk', 'blues', 'funk', 'mambo']
+Kersantti Kankkunen	None
+Kevin Buri	None
+Kevin Chesham	None
+Khatia Buniatishvili	['country', 'classical']
+Khin Hong Yip	None
 Kim Roloff	None
-King Gizzard & The Lizard Wizard	['rock']
+Kirill Zwegintsow	None
 Klara Lundén	None
-Klaus Dickbauer	None
-Klaus-Dieter Brandt	None
-Kornelia Bruggman	None
-Kristian Bezuidenhout	None
-Kurt Schlup	None
-Kvelertak	['metal', 'hardcore', 'rock']
-Laia Masramon	None
-Lander Gyselinck	None
-Lars Carl Schmid	None
-Lawrence Leathers	None
+Klaus-Peter Riemer	None
+Kofelgschroa	None
+Koller	None
+Kristina Koropecki	None
+Kristóf Zámbó	None
+Krystian Zimerman	['opera', 'classical', 'romantic']
+L. Pfister	None
+Lars Lindvall	None
+Laszlo Polus	None
+Laura Schuler	['world', 'blues']
+Laura Wiesmann	None
+Leila Josefowicz	['classical', 'romantic', 'unknown']
+Lena Stöhrfaktor	None
 Leon Duncan	None
-Leonardo Salazar	None
-Les Soeurs Boulay	['folk']
-Leticia Kahraman	None
-Letzte Instanz	['rock', 'folk']
-Levin Deger	None
-Lianne La Havas	['folk', 'soul']
-Lilly Martin	None
+Leonardo Bortolotto	None
+Lev Pupis	None
+Liane Ehlich	None
+Lilabungalow	None
+Lilia Tripodi	None
+Lilly Thornten Quintett	None
+Lilly Thornton	None
+Linah Rocio	None
+Linda Campanella	None
+Lino Blöchlinger	None
+Linus Hunkeler	None
 Lionel Friedli	None
-Little Lion Sound & Agent N	None
-Lizandro Paredes	None
-Lluis Ribalta	None
-Loco Escrito	None
-London Grammar	['electronica', 'pop', 'metal', 'soul']
-Lorenz Beyeler	None
-Lorenzo Tucci	None
-Los Banditos	None
-Louis Laury	None
-Luca Curcio	None
+Lionel Gafner	None
+Liquid Land	None
+Lisa Hasler	None
+Lisa Hoppe	None
+Lisa de la Salle	None
+Lisette Spinnler	None
+Little Feat	['rock', 'blues', 'mambo', 'country']
+Ljupka Hadzigeorgieva	None
+Loco Slickers	None
+Lorenzo Petrocca	None
+Louis Schwizgebel	['classical']
+Love & Girls	['world', 'electropop']
 Luca Leombruni	None
-Lucien Dubuis	None
-Luigi Archetti	None
-Luis Cruz	['rock']
-Luk Kipfer	None
-Luk Schulthess	None
-Lukas Fässler	None
+Luca Sisera	None
+Lucas Niggli	None
+Lucas Rössner	None
+Luis Esnaola	None
+Lukas Briggen	None
 Lukas Gasser	None
-Lukas Mantel	None
-Lukas Schlumpf	None
-Lukas Wiese	None
-Luke Winslow King	None
-Luzius Schuler	None
+Lukas Graham	['funk', 'soul']
+Lukas Hagen	None
+Lukas Heuss	None
+Lukas König	None
+Lukas Roos	None
+Lukas Wyss	None
+Luo Xiaoci	None
+Luzia von Wyl	None
 M.Krejcik	None
-Mace Mitchell	None
-Madeleine Lienhard	None
-Magatte N'diaye	None
-Mai Lan	['rock', 'soul', 'pop']
-Maja Hermann	None
-Maki Wiederkehr	None
+Maciré Sylla	['world', 'funk']
+Madlen Donadio	None
+Maersung	None
+Maestro David Cowan	None
+Maja Barroso Lisac	None
+Malcolm Braff	None
+Mani Zweili	None
 Manu Hagmann	None
-Manuel Blanco Gómez-Limón	None
-Manuel Delago	None
+Manuel Buser	None
 Manuel Walser	None
-Marc Almond	['pop', 'electropop', 'rock', 'son', 'synthpop']
-Marc Kakon	None
-Marc Reinhard	None
-Marc Storace	['world', 'rock', 'metal', 'grunge', 'classic']
+Marc Ducret Tower Zero	None
+Marc Edwards	None
 Marc Stucki	None
 Marc Unternährer	None
-Marcel Jeker	None
+Marcel Papaux	None
 Marcel Ricklin	None
-Marcel Riesen	None
-Marco Andrey	None
-Marco Bartoli	None
-Maren Böll	None
+Marcel Rüegg	None
+Marcello Mosca	None
+Marco Käppeli	None
+Marco Leali	None
+Marco Müller	None
+Marco Schubiger	None
+Marco von Orelli	None
+Marcus Rojas	['metal', 'world']
+Marcus Weiss	['orchestral']
+Mareike Wiening	None
+Maren Kessler	None
+Margaret Leng Tan	['classical']
+Margit Beukman	None
+Margrit Rieben	None
 Maria Doyle Kennedy	['folk']
+Maria Doyle Kennedy & Kieran Kennedy	None
 Maria Goldschmidt	None
+Maria Shabashova	None
 Marian Krejcik	None
-Marianne Racine-Granvik	None
+Marianne Racine	None
 Marie-Odile Vigreux	None
-Marielle Labèque	['pop', 'house', 'son', 'ragtime', 'flamenco', 'rock']
-Marija Wüthrich-Savicevic	None
-Mario Biondi	['blues', 'disco', 'soul']
-Mario Hänni	None
-Mario Söldi	None
-Mario von Holten	None
+Marilia Vargas	None
+Marino Pliakas	None
+Mario Giovannelli	None
+Marius Peyer	None
 Mark Berube	None
+Mark Berube & The Patriotic Few	None
+Mark Eitzel	['rock', 'trap', 'punk', 'son']
+Mark Peterson	None
 Mark Tenger	None
 Markus Eichenberger	None
-Markus Fürst	None
+Markus Forrer	None
+Markus Hochuli	None
 Markus Hürsch	None
-Markus Lauterburg	None
-Markus Schmidt	None
+Markus Kienzl	None
+Markus Nikänen	None
+Markus Nykänen	None
 Markus Schmied	None
-Marlon Roudette	['pop', 'reggae']
-Martin Frutiger	None
-Martin Günthardt	None
-Martin Hässler	None
+Markus Schramhauser	None
+Markus Wursch	None
+Marsimoto Soundsystem	None
+Martijn Vanbuel	None
+Martin Bliggenstorfer	None
+Martin Carl	None
+Martin Dahanukar	None
+Martin Gaisser	None
+Martin Heini	None
 Martin Jaggi	None
-Martin Rabensteiner	None
-Martina Anselmo	None
+Martin Meyer	None
 Martina Gmeinder	None
-Marysol Schalit	None
-Master-Abschlussrezital Florin Grüter	None
-Mathias Harter	None
-Mathieu Friz	None
-Matt Graf	None
-Matt Simons	['pop']
+Martina Schucan	None
+María Cecilia Muñoz	None
+Mat Callahan	['rock', 'folk', 'world', 'worldbeat']
+Mathew Barley	None
+Mathias Bucher	None
+Mathias Demmer	None
+Mathias Hausmann	None
+Mathias Weibel	None
+Mats Eser	None
+Matt MItchell	None
+Matthew Lonson	None
 Matthew Savnik	None
+Matthias Arter	None
+Matthias Grupp	None
+Matthias Kohler	None
 Matthias Lincke	None
 Matthias Rácz	None
-Matthieu Camilleri	None
+Matthias Sannemüller	None
+Matthias Spillmann	None
+Matthias Tschopp	None
+Matthias Wenger	None
 Matthieu Michel	None
-Maurice Steger	['classical']
+Maurice Steger	['baroque', 'classical']
 Mauro Bodio	None
-Mauro Martins	None
-Mavis Staples	['blues', 'country', 'soul']
-Max Asselborn	None
-Max Sonnleitner	None
-Maxence Sibille	None
-Maximilian Hecker	['folk']
-Maya Avraham	None
-Melissa Aldana	None
-Menwar	['sega', 'seggae']
-Messer Chups & Zombirella	None
-Mich Gerber	None
-Micha Held	None
-Michael Baumann	['world']
-Michael Büttler	None
+Mauro Pesenti	None
+Maurus Conte	None
+Max Andrzejewski	None
+Max Haft	None
+Maxime Delporte	None
+Mazrice Heugen	None
+Meret Roth	None
+Micha Krähenbühl	None
+Michael Anklin	None
+Michael Arbenz	None
+Michael Beck	None
+Michael Büschelmann	None
 Michael Chylewski	None
-Michael Erni	None
-Michael Gregorio	None
-Michael Reid	None
-Michael Schenker	['jungle', 'world', 'rock', 'metal']
-Michael von Schönermark	None
-Michel Godard	['classical']
+Michael Feyfar	None
+Michael Leherbauer	None
+Michael Wollny	None
+Michael Zisman	None
+Michel Gsell	None
 Michel Rouilly	None
-Michi Finger	None
-Michiko Hirayama	None
-Mihai Cocea	None
-Mija Läuchli	None
-Mike & the Mechanics	['pop', 'rock']
-Mikheil Sheshaberidze	None
-Mirel Wagner	['pop', 'world', 'blues', 'folk']
+Michel Wintsch	['punk', 'latin', 'ska', 'rap', 'soul', 'stride', 'swing', 'poetry', 'folk', 'blues', 'bebop', 'dixieland', 'orchestral']
+Michele Maddaloni	None
+Michele Siciliano	None
+Michi Stulz	None
+Michiko Tsuda	None
+Mickie Krause	['schlager']
+Micro Jackson	None
+Miguel Müller	None
+Mike Bischof	None
+Mike Malloth	None
+Mike Maloth	None
+Mike Maurer	None
+Miklos Perenyi	['banda', 'classical']
+Minas Morgul	None
+Mindflaire	None
 Miriam Klein	None
+Mirjana Reinhard	None
+Miro Rutscho	None
 Miro Steiner	None
 Mischa Greull	None
-Misha Alperin	None
+Mischa Stirnimann	None
+Missstand	None
+Modestep	['rock', 'dubstep']
+Monika Baer	None
+Monika Hächler	None
 Monika Mauch	None
-Monte Carlo	['latin']
-Monty Alexander	['swing', 'jungle', 'reggae']
-Monty Alexander's Triple Treat	None
 Moose Jackson	None
-Mounawar	None
-Mélanie Adami	None
-Ménilmontant	None
-N.I.K.O	None
-Nasheet Waits	['metal', 'unknown']
-Nat Su	None
-Natascha Albash	None
-Neck Deep	['pop', 'rock']
-Necros Christos	None
-Negura Bunget	['metal', 'folk']
-Nelson Freiere	None
-Nena	['rock', 'synthpop', 'pop']
-Nenad Kovacic	None
-Nici Struchen	None
-Nico Schulthess	None
-Nicolas Altstaedt	['classical']
-Nicolas Jaar	['house', 'electronica', 'soul', 'noise', 'techno', 'electronic']
-Nicolas Stocker	None
-Nicolas Struchen	None
+Moreno Donadio	None
+Moritz Müllenbach	None
+Motorama	['rock', 'coldwave']
+Muneer B. Fennell	None
+Muriel Zemp	None
+Mutiny on the Bounty	['romantic']
+Mélodie Zhao	['classical', 'unknown']
+Nada Anderwert	None
+Naoki Kitaya	None
+Napalm Death	['metal', 'hardcore', 'techno', 'grindcore', 'dub', 'punk', 'world', 'soul']
+Natalie Chee	None
+Nate Wood	None
+Nathalie Maerten	None
+Navel	['jungle', 'latin']
+Nelson Goerner	None
+Nic Niedermann	None
+Nicholas Angelich	['classical']
+Nick Gutersohn	None
+Nick Nobody	None
+Nicola Katz	None
 Nicole Johänntgen	None
-Niklaus Kost	None
-Nils Mönkemeyer	None
-Norbert Brasser	None
-Norbert Pfammatter	None
-Ohlê Gagneux	None
-Oli Kehrli	None
-Oli Kuster	None
-Olivier Hutman	None
-Omri Hason	None
+Nik Bärtsch	['funk']
+Niko Seibold	None
+Nina Baredi	None
+Nina Rechsteiner	None
+Nino Lentini	None
+Nino Wenger	None
+Norbert Ackermann	None
+Norbert Pfammater	None
+Noémie Cotton	None
+Noëmi Nadelmann	['baroque', 'opera', 'house']
+Olivia Schenkel	None
+Olivier Darbellay	None
+Olivier Mas	None
+Omar Gudjonsson	None
+Omar Kramis	None
+Omri Ziegele	None
 On-Off	['rock']
-Or Pellet	None
-Or Pellet Santos	None
-Or Potratz	None
-Or Steidle	None
-Orchestre Miniature In The Park	None
-Orphan Fairytale	None
-Oscar Feldman	None
-Ossific	None
+Or Illi	None
+Or Schnyder	None
+Or Töngi	None
+Oscar García	None
+Oskar Gudjonsson	None
+Oswal Canales	None
 Othella Dallas	None
-Pablo Kornfeld	None
-Pablo Menares	None
-Palenke Soultribe	['latin', 'world', 'electronic', 'samba', 'soul']
-Pamina Blum	None
-Panteros666	None
+Oy Division	None
+Paco de Amparo	None
+Paolo Vignaroli	None
+Pascal Viglino	None
 Pat Hargreaves	None
-Paticia Samaniego	None
 Patrice Moret	None
 Patricia Draeger	None
 Patricia Kunz	None
-Patrick Bruel	['chanson', 'world', 'son', 'blues']
-Pau Lligadas	None
-Paul & Gabriel	None
-Paul Sikivie	None
-Penguins By Choice	None
-Pepe	None
-Peter Dahm	None
-Peter Gottstein	None
-Peter K Frey	None
-Peter McGuire	None
-Peter Meier	None
-Peter Schärli	['blues']
-Peter Vögeli	None
-Petra Ackermann	None
+Patrik Fitzgerald	['punk', 'folk', 'rock', 'house', 'unknown']
+Patrik Zosso	None
+Paul Barrere	['rock', 'cajun', 'blues', 'funk', 'mambo']
+Paul Clarvis	['tone', 'son']
+Paul Kleber	None
+Paul Märki	None
+Paulo Ferreira-Lopes	None
+Pete Borel	None
+Peter Conradin Zumthor	None
+Peter Horisberger	None
+Peter Hunziker	None
+Peter Keller	None
+Peter Livers	None
+Peter Preibisch	None
+Peter Scheidegger	None
+Peter Schmidlin	None
+Peter Schneider	None
+Peter Tico Keller	None
+Peter Trachsel	None
+Petra Vogel	None
 Petrit Ceku	['classical']
-Petter U. Johansen	None
-Pezzo	['pop', 'ragtime', 'african', 'latin', 'rock', 'country', 'folk', 'soul', 'metal', 'classical', 'asian', 'downtempo', 'electronic', 'blues']
-Philipp Moll	None
-Philippe Litzler	None
-Pierre Favre	['latin', 'house']
-Pilar Fontalba	None
-Prince Keman	None
-Puerta Sur	None
-Pär Näsbom	None
-Quique Sinesi	None
-R	['latin']
+Philippe Emanuel Haas	None
+Pierre Bernhard	None
+Pierre Favre	['house', 'latin']
+Pieter Wispelwey	['baroque', 'opera', 'classical', 'house']
+Pikku E	None
+Pink Pedrazzi	None
+Pino Buoro	None
+Pistolero Pepe	None
+Pit Furrer	None
+Pius Baschnagel	None
+Priska Zaugg	None
+Pyro	['world', 'house']
+Pädu Ziswiler	None
+Queen Esther	None
+R. Rütti	None
 R.Romei	None
-Rafael Scheiwiller	None
-Rahel Binetti	None
-Rahel Sohn	None
-Raimund Wiederkehr	None
-Rainald Grebe	None
-Ralf Norgel	None
-Ralph Sonderegger	None
-Raly Scheuing	None
-Ramon Landolt	None
-Ramon Ziegler	None
-Rangleklods	None
-Raphael	['soul']
+Rafael Schilt	None
+Raffaele Bossard	None
+Ragnarok	['metal', 'world', 'soul']
+Rahel Kohler	None
+Raimund Seidl	None
+Rainer Apel	None
+Rainer Hagmann	None
+Rainer Schmidt	['world']
+Raphael Christen	None
+Raphael Felber	None
 Raphael Jakob	None
-Raphael Loher	None
+Raphael Preuschl	None
 Raphael Wallfisch	['classical']
+Raphael Walser	None
 Rea Claudia Kost	None
-Rease Nydegger	None
+Rea Dubach	None
+Rea Garvey	['rock', 'pop']
+Rea Hunziker	None
 Rebecca Spiteri	None
+Redska	None
 Redwan Fayahwan	None
-Regula Konrad	None
-Relentless	['metal']
-Renate Scheurer	None
+Reggie Washington	None
+Regula Gutierrez	None
+Reinhold Friedrich	None
+Reiny Schnyder	None
+Renate Steinmann	None
+Renaud Garcia-Fons	['flamenco']
+René Grimm	None
+René Marzolf	None
 René Mosele	None
-René Oswald	None
-René Tanner	None
+Res Hafner	None
 Reto Burrell	None
+Reto Giacopuzzi	None
+Reto Langenegger	None
+Reto Staub	None
+Reto Suhner	None
+RhythmTalk	None
+Ricardo Mirabelli	None
+Riccardo Minasi	['baroque']
 Rich Fonje	None
-Richard Decker	['world']
+Richard Pechota	None
+Richard Pizzorno	None
+Richard Walters	None
 Richie Winkler	None
 Rico Baumann	None
-Rihanna	['pop', 'eurodance', 'dubstep', 'soul', 'son', 'dancehall', 'reggae', 'drill', 'country', 'rock', 'chanson', 'soca', 'rap']
+Rita Ékes	None
+Ritzy Bryan	None
 Rob Cambre	None
+Rob Solomon	None
+Robert Buri	None
 Robert Crowe	None
-Robert Kubiszyn	None
-Roberto Koch	None
-Roby Lakatos	['classical']
-Rod Williams	None
-Roger Glaus	None
-Rokia Traoré	['rock', 'world']
+Robert Koller	None
+Robert Morgenthaler	None
+Roberth Horvath	None
+Roberto Plano	None
+Robin Peter Müller	None
+Roger Girod	None
+Roger Nickl	None
+Roger Zeller	None
+Roland Heinz	None
+Roland Meder	None
 Roland Raphael	None
-Roland Sauter	None
+Rolando Garza	None
+Rolf Breyer	None
+Rolf Caflisch	None
 Rolf Lyssy	None
 Rolf Romei	None
-Roman Groner	None
-Roman Nowka	None
-Ronny Spiegel	None
-Ruben Rodriguez	None
-Rudolf Bamert	None
-Rudy Rotta	['rock', 'blues']
-Rupert Charlesworth	None
-Russell Malone	['swing', 'bebop']
-Ruth Killius	None
-Sabaton	['world', 'metal']
-Sabine Ercklentz	None
-Sabine Erdmann	None
+Roli Kneubühler	None
+Rolph Dreier	None
+Roman Schmid	None
+Ron Carter	['son']
+Ron Marsman	None
+Ron Pope	['rock', 'pop']
+Ronnie Graupe	None
+Ronny Graupe	None
+Rossana Rossignoli	None
+Rubio de Pruna	None
+Ruedi Vögeli	None
+Ruth Wäger	None
+Ryszard Groblewski	None
+Rémi Panossian	None
 Sabine Poyé Morel	None
-Saint Motel	['pop', 'britpop', 'rock', 'comedy']
-Salome Buser	None
-Sam Burckhardt	None
+Sally Fortino	None
+Sam Chapman	['world']
+Sam Clayton	['rock', 'country', 'gospel', 'folk', 'blues', 'mambo']
 Sam Siegenthaler	None
-Samuel Castro Bastos	None
+Sam Walton	['rock']
 Samuel Dühsler	None
+Samuel Fried	None
+Samuel Joss	None
+Samuel Jäggi	None
+Samuel Mösching	None
+Samuel Zünd	None
+Samuele Sciancalepore	None
+Sandra Merk	None
+Sandra Rayne	None
 Sandra Weiss	None
-Sandro Heule	None
-Sandy Patton	None
-Sara Franchini	None
-Sarah Buechi	None
-Sascha Litschi	None
-Saskia Hein	None
-Saturnalia Temple	None
-Saul Williams	['rap', 'soul']
-Schifer Schafer	None
-Schoolly D	['hardcore', 'funk', 'rap']
-Scott Matthews	['rock', 'folk', 'blues']
-Sebadoh	['pop', 'rock', 'noise', 'grunge']
-Sebastien Fulgido	None
-Sebastien Gagneux	None
-Selah Sue	['chanson', 'reggae', 'soul']
-Selina Cuonz	None
-Serafina Rufer	None
-Seraina Perrenoud	None
-Seraphim von Werra	None
-Serenity	['metal']
-Sergej Nakariakov	None
+Sandro di Pisa	None
+Sara Jovanovic	['rock', 'classical', 'pop']
+Sarah Büchi	None
+Sarah Wegener	None
+Sarah Weilenmann	None
+Sareena Overwater	None
+Schmand	None
+Scream Your Name	None
+Scumbucket	None
+Sebastian Ott	None
+Sebastian Pietrowiak	None
+Sebastian Studnitzky	None
 Sergej Simbirev	None
 Sergey Mushtakoff	None
-Sergey Starostin	None
-Serious Black	['world', 'rock', 'house']
-Seung-Yeun Huh	None
-Severin Jenny	None
-Shadows Fall	['metal', 'metalcore']
-Shantel & Bucovina Club Orkestar	None
-Sharon Prushansky	None
-Sigi Nikitscher	None
-Silcan Jeger	None
-Silla	['world', 'country', 'unknown']
+Sergio Azzolini	['classical']
+Severin Graf	None
+Sezen Aksu	['pop']
+Sha	['world']
+Shady & The Vamp	None
+Sidsel Endresen	['rock']
+Silvan Hürlimann	None
 Silvan Jeger	None
+Silvan Loher	None
 Silvan Schmid	None
-Silvia Jost	None
-Silviya Savova-Hartkamp	None
+Silvia Harnisch	None
+Silvio Cadotsch	None
 Simon Berz	None
 Simon Borer	None
-Simon Boss	None
+Simon Cathrein	None
+Simon Crawford-Phillips	None
 Simon Fuchs	None
+Simon Heggendorn	None
+Simon Iten	None
+Simon Petermann	None
 Simon Schellnegger	None
-Simon Vögeli	None
+Simon Wirsch	None
+Simone Hager	None
 Simone Keller	['classical']
+Simone Lustenberger	None
+Simonetta Tancredi	None
 Sin-City	None
-Slayer	['rock', 'metal', 'hardcore', 'world', 'rap']
+Siro Müller	None
+Skinny Lister	['punk', 'folk', 'rock', 'pop', 'noise']
 Smalltown Casanovas	None
-Snoop Dogg	['pop', 'rap', 'son', 'soul', 'funk', 'reggae']
-Sonia Borisova	None
+Sofa Surfers	['rock', 'dub']
+Sofus Gleditsch	None
+Solme Hong	None
+Soner Tezcan	None
+Sonoko Ogowa	None
+Soo-Hyun Park	None
+Sophie Chaillot	None
 Sophie Lüssi	None
-Souls Revival	None
-Stahlmann	['rock', 'metal']
-Stefan Gabele	None
-Stefan Kahle	None
-Stefan Pavelka	None
-Stefan Schroff	None
-Stefanie Hess	None
-Stella Doufexis	None
-Stepe Diener	None
-Stephan Athanas	None
+Spleen United	['rock', 'synthpop']
+Stefan Aeby	None
+Stefan Aegerter	None
+Stefan Eberhard	None
+Stefan Jaun	None
+Stefan Keller	['classical']
+Stefan Schramm	None
+Stefan Zwicky	None
+Stefanie Kunckler	None
+Stefano Risso	None
+Stephan Keller	None
 Stephan Kurmann	None
-Stephan Thelen	None
-Stephanie Pfeffer	None
-Stevie Cochran	None
-Stray From The Path	['metal', 'hardcore', 'metalcore', 'rock']
-Stéphane Fromageot	None
-Suguru Ito	None
-Sukarma	None
-Sun-Young Nam	None
-Supanova Sound	None
-Sven Angelo Mindeci	None
-Tamar Halperin	None
-Tamriko Kordzaia	None
-Tar Queen	None
-Taras Berchtold	None
-Tausend Löwen unter Feinden	None
+Stephan Reinthaler	None
+Stephan Wyss	None
+Stephane Blanc	None
+Stephane Payen	None
+Steven Bernstein	None
+Stranger Cole	['reggae', 'rocksteady', 'ska']
+Strauss	['unknown', 'world', 'son']
+Studnitzky	None
+Sumina Studer	None
+Sunghoon Simon Hwang	None
+Susanna Hefti	None
+Susanna Moncayo	None
+Susanne Bretscher	None
+Susanne Doll	None
+Susanne Kern	None
+Susanne Petersen	None
+Svend Capol	None
+Syberen van Munster	None
+Système D	['rock', 'pop', 'baila']
+Talco	['punk', 'banda', 'ska']
+Tamar Halperin	['baroque']
+Tang Xiaofeng	None
+Tanja von Arx	None
+Tatjana Nikic	None
+Tellavision	None
+Teodoro Anzellotti	None
+Teresa Ríos	None
+Terrible Feelings	None
 Tevfik Kuyas	None
-The Acacia Strain	['hardcore', 'unknown', 'deathcore', 'metal', 'metalcore']
-The Creepshow	['psychobilly', 'rock', 'ska', 'rockabilly', 'soul']
-The Delta Saints	['rock', 'americana', 'blues', 'funk']
-The Exploding Boy	None
-The Gate	None
+The Black Atlantic	['african']
+The Black Magic Six	None
+The Blackberry Brandies	None
+The Busters	['reggae', 'pop', 'ska']
+The Culture in Memoriam	None
+The Great Hans Unstern Swindle	None
 The Jancee Pornick Casino	None
-The Natural Dub Cluster	['dub']
-The Outside Track	['celtic', 'folk']
-The Pharcyde	['house', 'soul', 'rap']
-Thilo Muster	None
-Thomas Azier	['electropop', 'pop']
+The Joy Formidable	['rock', 'grunge', 'pop', 'noise']
+The Luck	None
+The Pearlbreakers	None
+The Sawyer Family	['classic', 'house']
+The Script	['rock', 'world', 'rap', 'pop']
+The Setadytones	None
+The Vibrators	['rock', 'punk', 'pop']
+Theodoros Kapilidis	None
+Thomas Bauser	None
+Thomas Blumenthal	None
+Thomas Bosshard	None
 Thomas Castaneda	None
 Thomas Dürst	None
-Thomas Gasser	None
-Thomas Hauser	None
-Thomas Koran	None
+Thomas García	None
+Thomas Grüninger	None
+Thomas Hampson	['poetry', 'world', 'opera', 'classical', 'house']
+Thomas Hirt	None
 Thomas Kull	None
 Thomas Lähns	None
-Thomas Michael Allen	None
+Thomas Lüthi	['world']
 Thomas Moeckel	None
-Thomas Silvestri	None
-Thomas Zehetmair	['classical']
-Tinu Heiniger	None
-Tobias Preisig	None
-Tom Copson	['pop', 'rock', 'folk']
+Thomas Scheytt	None
+Thomas Winkler	['metal', 'neoclassical', 'rock']
+Till Grünewald	None
+Tillmann Reinbeck	None
+Tilmann Zahn	None
+Tim Lefebvre	['rock', 'funk', 'electronica', 'electronic']
+Tobias Frankenreiter	None
+Tobias Hoffmann	None
+Tobias Hunziker	None
+Tobias Meier	None
+Tobias Schmid	None
+Tom Bodenmann	None
+Tom Linder	None
 Tom Mäder	None
-Tom Tafel	None
-Tomas Gallart	None
+Tomi Kuusisto	None
 Tomi Schwarzenbach	None
-Tommaso Scannapieco	None
-Toni Bechtold	None
+Tommy Baldu	None
+Tomoko Iwasa	None
+Toni Donadio	None
+Tonico da Silva	None
+Tonio Morin-Vargas	None
 Tony Renold	None
-Toshiko Sakakibara	None
-Tracer	None
-Truls Mork	['classical']
-Tsering Purtag	None
-Unearth	['hardcore', 'rock', 'metal', 'metalcore']
-Urs Brunner	None
-Urs Höchle	None
-Urs Müller	None
-Urs Stirnimann	None
-Urs Vögeli	None
-Ursula Hauser	None
+Torsten Laux	None
+Touchy Mob	None
+Trey Songz	['rap']
+Tweak Bird	None
+U Brown	['reggae']
+Ueli Heiniger	None
+Ull Möck	None
+Ulrich S. Eggimann	None
+Uristier	None
+Urs Bolle Rellstab	None
+Urs Bollhalder	None
+Urs C. Eigenmann	None
+Urs Leimgruber	['classical']
+Urs Rellstab	None
+Urs Wäckerli	None
+Ursula Füri-Bernhard	None
+Ursula Sarnthein	None
+Ursula Toscheff	None
+Uwe Schönbeck	None
+Vader	['metal']
 Valentin Dietrich	None
-Valentin von Fischer	None
-Valer Sabadus	None
-Valeria Zangger	None
-Valerio Zanolli	None
-Valery Sokolov	None
-Van Morrison	['house', 'rock', 'country', 'folk', 'soul', 'blues', 'skiffle']
+Vera Cathrein	None
+Vera Fischer	None
 Vera Kappeler	None
-Verena Zauner	None
-Viktor Nyberg	None
-Vilde Frang	['classical']
-Vince Cherico	None
-Vincent Glanzmann	None
-Vincent Membrez	None
-Vincent Ruiz del Portal	None
-Vinícius Melo	None
+Verena Barbara Gohl	None
+Verena Pavoni	None
+Veronika Hagen	['classical']
+Viktoria Mullova	['classical']
+Vinz Vonlanthen	None
+Vital Julian Frey	['son']
+Vital-Julian Frey	None
+Vito Cadonau	None
+Vitti Müller	None
+Vivid Curls	None
 Vlad Weverbergh	None
-Volker Biesenbender	None
-WSTR	None
-Walter Baumgartner	None
-Walter Hotz	None
-War of Ages	['hardcore', 'metal', 'metalcore']
-Warwick Richard	None
-Weak Fishes	None
+Volker Engelberth	None
+Wallis Bird	['folk', 'rockabilly']
+Walter Kaiser	None
+Walter Klingner	None
+Wankelmut	['jungle', 'house', 'electronica']
+We Set the Sun	None
 Wege Wüthrich	None
-Weird Omen	None
-Werner Ammann	None
-Werner Hasler	None
-Werner Siegenthaler	None
-Werner Van Mechelen	None
-Werner und Company	None
-Wintersleep	['rock']
-Withered Hand	['pop', 'world', 'rock', 'folk']
-Wolfgang Dauner	['rock']
-Wolfgang Zwiauer	None
-Woodkid	['pop', 'rock', 'son']
-Woodpigeon	['latin', 'rock']
-Worldly Savages	None
-Xaver Rüegg	None
-Y'urs	None
-Yak	['world']
-Yeree Suh	None
-Yogev Glusman	None
-Yoro Massa	None
+Wei-Zhong Lu	None
+Wen Hui Tsai	None
+Wen Lu-Hu	None
+Wiktor Kociuban	None
+Willi Zimmermann	None
+Willy Surbeck	None
+Wini Holzenkamp	None
+Wishbone Ash	['rock', 'blues']
+Wolfgang Zumpe	None
+Wolfram Rieger	None
+Xavier Alig	None
+Yann Rouiller	None
+Yannick Schmutz	None
+Yeol Eum Son	['asian', 'classical', 'son']
+Yesterday Shop	None
+Yevgeny Sudbin	['classical']
+Yi-Chen Lin	None
+Yosuke Sate	None
 Yosvany Quintero	None
-Yulianna Avdeeva	['classical']
-Yung Lean & The Sad Boys	None
-Yury Revich	['classical']
-Yza Ya	None
-Zaz	None
-Ziggy Tschigi Moser	None
-Zosch	None
-Zéphyr Combo	None
-dance animation by Alexander Martinez	None
-works by Johannes Dickbauer	None
-Årabrot	['electronic', 'rock', 'metal', 'noise']
-Åsa Dornbusch	None
+Youssouf Diabate	None
+Yukiko Ishibashi	None
+Yuta Takase	None
+Yves Marguet	None
+Yves Reichmuth	None
+Yvonne Moore	None
+Yvonne Ritter	None
+Zhou Tao	None
+works by Herbert Willi	None
+Àgnes Vass	None

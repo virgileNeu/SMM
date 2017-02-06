@@ -134,9 +134,12 @@ def createDictionnaryFromArtists(artists):
 	dic = AE.createDictionnary()
 	genres_list = []
 	for id,row in artists.iterrows():
-		genres = literal_eval(row.genres_spotify)
-		if(genres!=None):
-			genres_list+=(genres)
+		try:
+			genres = literal_eval(row.genres_spotify)
+			if(genres!=None):
+				genres_list+=(genres)
+		except:
+			print("Error reading "+row.genres_spotify)
 		
 	#print(genres_list)
 	dic = AE.updateDictionnary(genres_list,dic)
@@ -158,39 +161,42 @@ def downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki=None,
 		dictionaryRA = {}
 	
 	for i in range(begin,end):
-		S = Artists[Artists.index==i]
-		artist = S["artist"].values[0]
-		
-		#Get genres from wikipedia
-		genres_wiki = None
-		if(dictionaryWiki!=None and artist in dictionaryWiki):
-			genres_wiki = dictionaryWiki.get(artist)
-		else:
-			genres_wiki = AE.getGenresFromWikipedia(artist,dictionaryOfGenres)
-			dictionaryWiki.update({artist : genres_wiki})	
+		if(i<39700 or i>39900): #Bugs
+			S = Artists[Artists.index==i]
+			artist = S["artist"].values[0]
 			
-		#Get genres from Resident Advisor
-		genres_ra = None
-		if(dictionaryRA!= None and artist in dictionaryRA):
-			genres_ra = dictionaryRA.get(artist)
-		else:
-			genres_ra = AE.getGenresFromRA(artist,dictionaryOfGenres)
-			dictionaryRA.update({artist : genres_ra})
-		
-		if(genres_wiki== None or len(genres_wiki)<1):
+			#Get genres from wikipedia
 			genres_wiki = None
-		if(genres_ra == None or len(genres_ra)<1):
+			if(dictionaryWiki!=None and artist in dictionaryWiki):
+				genres_wiki = dictionaryWiki.get(artist)
+			else:
+				genres_wiki = AE.getGenresFromWikipedia(artist,dictionaryOfGenres)
+				dictionaryWiki.update({artist : genres_wiki})	
+				
+			#Get genres from Resident Advisor
 			genres_ra = None
+			if(dictionaryRA!= None and artist in dictionaryRA):
+				genres_ra = dictionaryRA.get(artist)
+			else:
+				genres_ra = AE.getGenresFromRA(artist,dictionaryOfGenres)
+				dictionaryRA.update({artist : genres_ra})
 			
-		Artists.loc[Artists.index==i,"genres_wiki"] = str(genres_wiki)
-		Artists.loc[Artists.index==i,"genres_ra"] = str(genres_ra)
+			if(genres_wiki== None or len(genres_wiki)<1):
+				genres_wiki = None
+			if(genres_ra == None or len(genres_ra)<1):
+				genres_ra = None
+				
+			Artists.loc[Artists.index==i,"genres_wiki"] = str(genres_wiki)
+			Artists.loc[Artists.index==i,"genres_ra"] = str(genres_ra)
 
-		if(i%100==0):
-			print(str(i+1))
-			LU.saveDictionary(dictionaryWiki,filename_wiki_dic,PATH_DIC,encoding)
-			LU.saveDictionary(dictionaryRA,filename_ra_dic,PATH_DIC,encoding)
-			
+			if(i%100==0):
+				print(str(i))
+				LU.saveDictionary(dictionaryWiki,filename_wiki_dic,PATH_DIC,encoding)
+				LU.saveDictionary(dictionaryRA,filename_ra_dic,PATH_DIC,encoding)
+				Artists.to_csv(PATH_ARTISTS)
+				
 	#Saving dictionaries
+	Artists.to_csv(PATH_ARTISTS)
 	LU.saveDictionary(dictionaryWiki,filename_wiki_dic,PATH_DIC,encoding)
 	LU.saveDictionary(dictionaryRA,filename_ra_dic,PATH_DIC,encoding)	
 	return Artists
@@ -225,9 +231,15 @@ def computeGenresRatio(artists_df,dictionnaryOfGenres,debug=False):
             
 			#Check if artist has a genre (from other dataframes)
 			if(total==0):
-				if(raw["genre"]!=None and raw["genre"]!="None"):
-					main_genres = list(literal_eval(raw["genre"]))
-					artists_df.loc[id,"main_genres"] = main_genres
+				if(row["genre"]!=None and row["genre"]!="None"):
+					main_genres = None
+					try:
+						main_genres = list(literal_eval(row["genre"]))
+					except:
+						main_genres = None
+						print("RATIO ERROR : "+str(row["genre"]))
+						
+					artists_df.loc[id,"main_genres"] = str(main_genres)
 					total = 1.0
 				
 		artists_df.loc[id,"total_genres"]=total
@@ -244,61 +256,82 @@ def computeGenresRatio(artists_df,dictionnaryOfGenres,debug=False):
 
 def computeMainGenres(artists,dictionnary):
     
-    artists["all_genres"] = None
-    
-    i=0
-    for id,row in artists.iterrows():
-        i+=1
-        if(i%1000==0):
-            print(i)
+	artists["all_genres"] = None
+	
+	i=0
+	for id,row in artists.iterrows():
+		i+=1
+		if(i%1000==0):
+			print(i)
 
-        artist = row["artist"]
-        genres_ra = literal_eval(row.genres_ra)
-        genres_s = literal_eval(row.genres_spotify)
-        genres_w = literal_eval(row.genres_wiki)
-        #events
-        genres_e = str(row.genres_events)
-        genres_e = literal_eval(genres_e)
-       
-        if(genres_ra==None):
-            genres_ra =[]
-        if(genres_s == None):
-            genres_s = []
-        if(genres_w == None):
-            genres_w = []
-        if(genres_e == None):
-            genres_e = []
-            
-        #Set genres_events to None if there already exist some genres
-        if(len(genres_ra)>0 or len(genres_s)>0 or len(genres_w)>0):
-            genres_e = []
+		artist = row["artist"]
+		genres_ra = None
+		try:
+			genres_ra = literal_eval(row.genres_ra)
+		except:
+			genres_ra = None
+			print("RA : Error reading "+str(row.genres_ra))
+		
+		genres_s = None
+		try:
+			genres_s = literal_eval(row.genres_spotify)
+		except:
+			genres_s = None
+			print("SPOTIFY : Error reading "+str(row.genres_spotify))
+			
+		genres_w = None
+		try:	
+			genres_w = literal_eval(row.genres_wiki)
+		except:
+			genres_w = None
+			print("WIKIPEDIA : Error reading "+str(row.genres_wiki))
+		
+		#events
+		genres_e = str(row.genres_events)
+		try:
+			genres_e = literal_eval(genres_e)
+		except:
+			print("EVENTS : Error reading "+str(row.genres_e))
+	
+		if(genres_ra==None):
+			genres_ra =[]
+		if(genres_s == None):
+			genres_s = []
+		if(genres_w == None):
+			genres_w = []
+		if(genres_e == None):
+			genres_e = []
+			
+		#Set genres_events to None if there already exist some genres
+		if(len(genres_ra)>0 or len(genres_s)>0 or len(genres_w)>0):
+			genres_e = []
         
-        genres = genres_s+genres_ra+genres_w+genres_e
-        
-        main_genres = AE.mainGenres(genres,dictionnary)
-        top3 = AE.getMaxGenre(main_genres,3)
-        main_genre = None
+		genres = genres_s+genres_ra+genres_w+genres_e
+		
+		main_genres = AE.mainGenres(genres,dictionnary)
+		top3 = AE.getMaxGenre(main_genres,3)
+		main_genre = None
 
-        if(top3!=None and len(top3)>=1):
-            main_genre = top3[0]
-            
-        #Assigning None values for empty lists
-        if(len(main_genres)<1):
-            main_genres = None
-        if(len(genres_ra)<1):
-            genres_ra = None
-        if(len(genres)<1):
-            genres = None
-        if(len(genres_e)<1):
-            genres_e = None
-            
-        artists.loc[id,"genres_ra"] = str(genres_ra)
-        artists.loc[id,"main_genres"] = str(main_genres)
-        artists.loc[id,"top3_genres"] = str(top3)
-        artists.loc[id,"all_genres"] = str(genres)
-        artists.loc[id,"genre"] = main_genre
-
-    return artists
+		if(top3!=None and len(top3)>=1):
+			main_genre = top3[0]
+			
+		#Assigning None values for empty lists
+		if(len(main_genres)<1):
+			main_genres = None
+		if(len(genres_ra)<1):
+			genres_ra = None
+		if(len(genres)<1):
+			genres = None
+		if(len(genres_e)<1):
+			genres_e = None
+			
+		artists.loc[id,"genres_ra"] = str(genres_ra)
+		artists.loc[id,"main_genres"] = str(main_genres)
+		artists.loc[id,"top3_genres"] = str(top3)
+		artists.loc[id,"all_genres"] = str(genres)
+		artists.loc[id,"genre"] = main_genre
+	
+	return artists
 	
 def fillGenresFromEvents(artists,events):
 	print("Filling missing genres artists <- events")
@@ -315,7 +348,11 @@ def fillGenresFromEvents(artists,events):
 		
 		#case list
 		if("[" in str_genres): 
-			genres = literal_eval(str_genres)
+			genres = None
+			try:
+				genres = literal_eval(str_genres)
+			except:
+				print("FILLGENRES : Error reading genres "+str_genres)
 		#case alone
 		else:
 			if(str_genres!="None" and str_genres!="nan"):
@@ -428,7 +465,7 @@ def artistsPipeline(Events,dictionaryOfGenres=None,dictionarySpotify=None,dictio
 		
 	
 	#Getting genres from Wiki And RA
-	Artists = downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki,dictionaryRA)
+	#Artists = downloadGenresWikipediaAndRA(Artists,dictionaryOfGenres,dictionaryWiki,dictionaryRA)
 	#Getting genres from Events
 	Artists = fillGenresFromEvents(Artists,Events)
 	
@@ -490,10 +527,10 @@ if __name__ == '__main__':
 	
 	print("Saving artists dataframe to : "+PATH_ARTISTS)
 	#Saving the Dataframe of artists
-	artists.to_csv(PATH_ARTISTS)
+	artists.to_csv(PATH_ARTISTS,encoding)
 	
 	print("Saving cleaned dataframe to :"+PATH_DF)
-	Dataframe.to_csv(PATH_DF)
+	Dataframe.to_csv(PATH_DF,encoding)
 	
 	print("Saving dictionaries to : "+PATH_DIC)
 	#Saving dictionaries
